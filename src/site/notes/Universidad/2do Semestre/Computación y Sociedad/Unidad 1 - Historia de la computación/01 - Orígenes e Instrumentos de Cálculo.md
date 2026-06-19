@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Cómo empezó todo?
+> [!info] 💡 ¿Cómo empezó todo?
 >
 > Mucho antes de las computadoras electrónicas, los humanos ya necesitaban calcular: medir el tiempo, contar cosechas, registrar datos. Cada instrumento creado fue un paso hacia lo que hoy conocemos como computación.
 >
@@ -29,7 +29,7 @@
 
 ## 🗿 Stonehenge — El primer "computador"
 
-> [!note]- 🗿 Cálculo astronómico en piedra
+> [!note] 🗿 Cálculo astronómico en piedra
 >
 > Construido entre **2600 y 1600 a.C.**, Stonehenge es considerado uno de los primeros instrumentos de cómputo de la humanidad. Su disposición de piedras permite rastrear el movimiento del sol y predecir solsticios y equinoccios.
 >
@@ -43,7 +43,7 @@
 
 ## 🧮 Ábaco — La primera herramienta de cálculo
 
-> [!note]- 🧮 Cálculo manual con cuentas
+> [!note] 🧮 Cálculo manual con cuentas
 >
 > El **ábaco** es el instrumento de cálculo manual más antiguo que se conoce. Permite realizar operaciones aritméticas básicas mediante el desplazamiento de cuentas sobre varillas.
 >
@@ -59,7 +59,7 @@
 
 ## ⚙️ Calculadoras Mecánicas
 
-> [!note]- ⚙️ De los engranajes al cálculo automático
+> [!note] ⚙️ De los engranajes al cálculo automático
 >
 > En el siglo XVII surgieron las primeras máquinas capaces de realizar operaciones aritméticas de forma mecánica, sin intervención manual en cada paso.
 >
@@ -87,7 +87,7 @@
 
 ## 🧵 Joseph Jacquard — El telar programable (s. XVIII)
 
-> [!tip]- 🧵 La primera "programación" de la historia
+> [!tip] 🧵 La primera "programación" de la historia
 >
 > En el siglo XVIII, **Joseph Jacquard** inventó un telar controlado por **tarjetas perforadas**. Cada tarjeta definía el patrón que el telar debía tejer, cambiando el comportamiento de la máquina sin modificarla físicamente.
 >
@@ -105,7 +105,7 @@
 
 ## 🔧 Charles Babbage — El padre de la computación (s. XIX)
 
-> [!important]- 🔧 La primera computadora mecánica de propósito general
+> [!important] 🔧 La primera computadora mecánica de propósito general
 >
 > **Charles Babbage** diseñó el **Motor Analítico** en el siglo XIX, una máquina mecánica capaz de realizar cualquier cálculo mediante instrucciones, e incorporaba por primera vez el concepto de **memoria**.
 >
@@ -122,7 +122,7 @@
 
 ## 👩‍💻 Ada Lovelace — La primera programadora (s. XIX)
 
-> [!important]- 👩‍💻 El primer algoritmo de la historia
+> [!important] 👩‍💻 El primer algoritmo de la historia
 >
 > **Ada Augusta Lovelace** colaboró con Babbage y fue la primera persona en escribir lo que hoy llamaríamos un **programa**: una secuencia de instrucciones para que el Motor Analítico calculara los números de Bernoulli.
 >
@@ -139,7 +139,7 @@
 
 ## 📊 Línea de Tiempo
 
-> [!summary]- 📅 Del ábaco a Babbage
+> [!summary] 📅 Del ábaco a Babbage
 >
 > ```mermaid
 > timeline

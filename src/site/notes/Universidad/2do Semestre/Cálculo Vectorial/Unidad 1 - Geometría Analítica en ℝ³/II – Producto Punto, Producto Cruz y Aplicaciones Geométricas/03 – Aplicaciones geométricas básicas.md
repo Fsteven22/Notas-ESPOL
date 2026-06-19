@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción a las Aplicaciones Geométricas
 
-> [!info]- 💡 Puente entre Álgebra y Geometría Las **aplicaciones geométricas** de vectores nos permiten resolver problemas del espacio tridimensional usando herramientas algebraicas. Combinando las operaciones vectoriales básicas con el producto punto y producto cruz, podemos:
+> [!info] 💡 Puente entre Álgebra y Geometría Las **aplicaciones geométricas** de vectores nos permiten resolver problemas del espacio tridimensional usando herramientas algebraicas. Combinando las operaciones vectoriales básicas con el producto punto y producto cruz, podemos:
 > 
 > **Problemas que podemos resolver:**
 > 
@@ -36,7 +36,7 @@
 
 ### 📍 Fórmula de Distancia
 
-> [!warning]- 🎯 Teorema Fundamental de Distancia **Dados dos puntos A = (x₁, y₁, z₁) y B = (x₂, y₂, z₂):**
+> [!warning] 🎯 Teorema Fundamental de Distancia **Dados dos puntos A = (x₁, y₁, z₁) y B = (x₂, y₂, z₂):**
 > 
 > La **distancia** entre A y B es:
 > 
@@ -63,7 +63,7 @@
 
 ### 📊 Ejemplos de Distancia
 
-> [!example]- 🎯 Casos Resueltos **Ejemplo 1: Distancia básica**
+> [!example] 🎯 Casos Resueltos **Ejemplo 1: Distancia básica**
 > 
 > Calcular la distancia entre A = (1, 2, 3) y B = (4, 6, 8)
 > 
@@ -123,7 +123,7 @@
 
 ### 🔺 Fórmula del Ángulo
 
-> [!success]- 🎯 Cálculo de Ángulos usando Producto Punto **Dados dos vectores u y v no nulos:**
+> [!success] 🎯 Cálculo de Ángulos usando Producto Punto **Dados dos vectores u y v no nulos:**
 > 
 > El **ángulo θ** entre ellos (0° ≤ θ ≤ 180°) se calcula mediante:
 > 
@@ -156,7 +156,7 @@
 
 ### 📊 Ejemplos de Ángulos
 
-> [!example]- 🎯 Cálculos Detallados **Ejemplo 1: Ángulo entre vectores básicos**
+> [!example] 🎯 Cálculos Detallados **Ejemplo 1: Ángulo entre vectores básicos**
 > 
 > Calcular el ángulo entre **u** = (1, 2, 2) y **v** = (2, 1, -2)
 > 
@@ -239,7 +239,7 @@
 
 ### 📍 Proyección Escalar
 
-> [!note]- 📏 Componente de un Vector sobre Otro **Definición:**
+> [!note] 📏 Componente de un Vector sobre Otro **Definición:**
 > 
 > La **proyección escalar** de **v** sobre **u** es la "longitud" de **v** en la dirección de **u** (puede ser negativa):
 > 
@@ -267,7 +267,7 @@
 
 ### 🎯 Proyección Vectorial
 
-> [!warning]- ➡️ Vector Proyectado **Definición:**
+> [!warning] ➡️ Vector Proyectado **Definición:**
 > 
 > La **proyección vectorial** de **v** sobre **u** es un vector en la dirección de **u**:
 > 
@@ -296,7 +296,7 @@
 
 ### 📊 Ejemplos de Proyecciones
 
-> [!example]- 🎯 Casos Prácticos **Ejemplo 1: Proyección básica**
+> [!example] 🎯 Casos Prácticos **Ejemplo 1: Proyección básica**
 > 
 > Proyectar **v** = (3, 4, 0) sobre **u** = (1, 0, 0)
 > 
@@ -399,7 +399,7 @@
 
 ### 🔷 Área mediante Producto Cruz
 
-> [!success]- 📐 Cálculo de Áreas con Vectores **Para un paralelogramo formado por vectores u y v:**
+> [!success] 📐 Cálculo de Áreas con Vectores **Para un paralelogramo formado por vectores u y v:**
 > 
 > **A_paralelogramo = ||u × v||**
 > 
@@ -433,7 +433,7 @@
 
 ### 📊 Ejemplos de Áreas
 
-> [!example]- 🎯 Cálculo de Áreas **Ejemplo 1: Área de paralelogramo**
+> [!example] 🎯 Cálculo de Áreas **Ejemplo 1: Área de paralelogramo**
 > 
 > Calcular el área del paralelogramo formado por **u** = (2, 0, 0) y **v** = (1, 3, 0)
 > 
@@ -530,7 +530,7 @@
 
 ### 🎲 Triple Producto Escalar
 
-> [!warning]- 📦 Volumen mediante Producto Triple **Definición:**
+> [!warning] 📦 Volumen mediante Producto Triple **Definición:**
 > 
 > El **producto triple escalar** de tres vectores **u**, **v**, **w** es:
 > 
@@ -566,7 +566,7 @@
 
 ### 📊 Ejemplos de Volúmenes
 
-> [!example]- 🎯 Cálculos de Volumen **Ejemplo 1: Volumen básico de paralelepípedo**
+> [!example] 🎯 Cálculos de Volumen **Ejemplo 1: Volumen básico de paralelepípedo**
 > 
 > Calcular el volumen del paralelepípedo formado por: **u** = (2, 0, 0), **v** = (0, 3, 0), **w** = (0, 0, 4)
 > 
@@ -662,7 +662,7 @@
 
 ### 🎯 Distancia de Punto a Recta
 
-> [!tip]- 📏 Distancia Punto-Recta en ℝ³ **Problema:** Encontrar la distancia de un punto P₀ a una recta L que pasa por P₁ con dirección **v**.
+> [!tip] 📏 Distancia Punto-Recta en ℝ³ **Problema:** Encontrar la distancia de un punto P₀ a una recta L que pasa por P₁ con dirección **v**.
 > 
 > **Fórmula:**
 > 
@@ -701,7 +701,7 @@
 
 ### 🎯 Distancia de Punto a Plano
 
-> [!note]- 📏 Distancia Punto-Plano **Problema:** Encontrar la distancia de un punto P₀ a un plano.
+> [!note] 📏 Distancia Punto-Plano **Problema:** Encontrar la distancia de un punto P₀ a un plano.
 > 
 > **Si el plano tiene ecuación:** ax + by + cz = d
 > 
@@ -740,7 +740,7 @@
 
 ### 🎯 Ángulo entre Rectas
 
-> [!success]- 📐 Ángulo entre Dos Rectas **Problema:** Encontrar el ángulo entre dos rectas con vectores directores **u** y **v**.
+> [!success] 📐 Ángulo entre Dos Rectas **Problema:** Encontrar el ángulo entre dos rectas con vectores directores **u** y **v**.
 > 
 > **Fórmula:**
 > 
@@ -766,7 +766,7 @@
 
 ### 🎯 Ángulo entre Planos
 
-> [!info]- 📐 Ángulo entre Dos Planos **Problema:** Encontrar el ángulo entre dos planos con vectores normales **n₁** y **n₂**.
+> [!info] 📐 Ángulo entre Dos Planos **Problema:** Encontrar el ángulo entre dos planos con vectores normales **n₁** y **n₂**.
 > 
 > **Fórmula:**
 > 
@@ -829,7 +829,7 @@ graph TD
 
 ## 📋 Tabla Resumen de Fórmulas
 
-> [!example]- 📊 Compendio de Fórmulas Principales
+> [!example] 📊 Compendio de Fórmulas Principales
 > 
 > |Aplicación|Fórmula|Nota|
 > |---|---|---|
@@ -848,7 +848,7 @@ graph TD
 
 ## 🧪 Ejercicios Integrales
 
-> [!example]- 💪 Práctica Completa
+> [!example] 💪 Práctica Completa
 > 
 > **Nivel 1 - Básico:** 🟢
 > 
@@ -998,7 +998,7 @@ graph TD
 
 ## 💡 Consejos de Estudio
 
-> [!tip]- 🧠 Estrategias de Aprendizaje
+> [!tip] 🧠 Estrategias de Aprendizaje
 > 
 > **Para dominar aplicaciones geométricas:**
 > 
@@ -1059,7 +1059,7 @@ graph TD
 
 ## 🔗 Conexiones con el Sistema de Notas
 
-> [!quote]- 🌟 Enlaces Conceptuales
+> [!quote] 🌟 Enlaces Conceptuales
 > 
 > **Prerequisites (Prerrequisitos):**
 > 
@@ -1079,7 +1079,7 @@ graph TD
 > 
 > - [[Geometría Analítica 3D\|Geometría Analítica 3D]] - Estudio completo
 > - [[Cinemática Vectorial\|Cinemática Vectorial]] - Movimiento en el espacio
-> - [[Cálculo Vectorial\|Cálculo Vectorial]] - Derivadas e integrales
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Cálculo Vectorial\|Cálculo Vectorial]] - Derivadas e integrales
 > - [[Análisis Tensorial\|Análisis Tensorial]] - Generalización
 > 
 > **Temas siguientes:**

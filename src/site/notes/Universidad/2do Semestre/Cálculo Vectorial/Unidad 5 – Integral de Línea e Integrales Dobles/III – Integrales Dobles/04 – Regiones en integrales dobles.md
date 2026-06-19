@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es una Región de Integración? La **región de integración** es el dominio bidimensional sobre el cual calculamos la integral doble. Entender y describir correctamente estas regiones es fundamental para establecer los límites de integración correctos.
+> [!info] 💡 ¿Qué es una Región de Integración? La **región de integración** es el dominio bidimensional sobre el cual calculamos la integral doble. Entender y describir correctamente estas regiones es fundamental para establecer los límites de integración correctos.
 > 
 > **Analogía práctica:** Imagina que eres un topógrafo midiendo el volumen de tierra en un terreno. La región de integración es el **límite del terreno en el mapa** (vista desde arriba), mientras que la función integrada representa la elevación en cada punto.
 > 
@@ -51,7 +51,7 @@ graph TB
 
 ### 🔷 Regiones Rectangulares
 
-> [!example]- 📦 Regiones Tipo Rectangular
+> [!example] 📦 Regiones Tipo Rectangular
 > 
 > **Definición:**
 > 
@@ -142,7 +142,7 @@ graph TB
 
 ### 🔺 Regiones Tipo I (Verticalmente Simples)
 
-> [!note]- ⬆️ Regiones Delimitadas por Funciones de $x$
+> [!note] ⬆️ Regiones Delimitadas por Funciones de $x$
 > 
 > **Definición:**
 > 
@@ -242,7 +242,7 @@ graph TB
 
 ### 🔻 Regiones Tipo II (Horizontalmente Simples)
 
-> [!note]- ↔️ Regiones Delimitadas por Funciones de $y$
+> [!note] ↔️ Regiones Delimitadas por Funciones de $y$
 > 
 > **Definición:**
 > 
@@ -356,7 +356,7 @@ graph TB
 
 ### 🔀 Estrategia de Conversión
 
-> [!tip]- ↔️ De Tipo I a Tipo II y Viceversa
+> [!tip] ↔️ De Tipo I a Tipo II y Viceversa
 > 
 > **¿Por qué cambiar el orden?**
 > 
@@ -426,7 +426,7 @@ graph TB
 
 ### 🎯 Casos Especiales
 
-> [!warning]- ⚠️ Regiones que Requieren División
+> [!warning] ⚠️ Regiones que Requieren División
 > 
 > **Regiones No Simples:**
 > 
@@ -490,7 +490,7 @@ graph TB
 
 ### 📊 Herramientas Visuales
 
-> [!success]- 🎯 Estrategias para Dibujar Regiones
+> [!success] 🎯 Estrategias para Dibujar Regiones
 > 
 > **Proceso de graficación en 6 pasos:**
 > 
@@ -581,7 +581,7 @@ graph TB
 
 ### 🔍 Casos Prácticos Detallados
 
-> [!example]- 📝 Ejemplos Completos de Graficación
+> [!example] 📝 Ejemplos Completos de Graficación
 > 
 > **Ejemplo 1: Entre parábola y recta**
 > 
@@ -635,7 +635,7 @@ graph TB
 
 ### 🎯 Descripción Polar de Regiones
 
-> [!info]- 🔄 Regiones Naturales en Polares
+> [!info] 🔄 Regiones Naturales en Polares
 > 
 > **Forma general:** $$R = {(r,\theta) : \alpha \leq \theta \leq \beta, , r_1(\theta) \leq r \leq r_2(\theta)}$$
 > 
@@ -672,7 +672,7 @@ graph TB
 
 ### 📐 Ejemplos de Regiones Polares
 
-> [!example]- 🌟 Casos Típicos en Polares
+> [!example] 🌟 Casos Típicos en Polares
 > 
 > **Ejemplo 1: Semicírculo**
 > 
@@ -767,7 +767,7 @@ graph TB
 
 ### 🗺️ Algoritmo General
 
-> [!tip]- 🧭 Guía Paso a Paso para Cualquier Región
+> [!tip] 🧭 Guía Paso a Paso para Cualquier Región
 > 
 > **Proceso completo:**
 > 
@@ -826,7 +826,7 @@ graph TB
 
 ### ⚡ Optimización de Cálculos
 
-> [!success]- 🚀 Trucos para Resolver Más Rápido
+> [!success] 🚀 Trucos para Resolver Más Rápido
 > 
 > **1. Aprovechamejor simetría**
 > 
@@ -923,7 +923,7 @@ mindmap
 
 ### 📋 Tabla Comparativa Final
 
-> [!note]- 📊 Resumen de Características
+> [!note] 📊 Resumen de Características
 > 
 > |Tipo de Región|Descripción Matemática|Orden Integral|Cuándo Usar|Dificultad|
 > |---|---|---|---|---|
@@ -967,7 +967,7 @@ flowchart TD
 
 ## 💪 Ejercicios Progresivos
 
-> [!example]- 🎯 Práctica Graduada
+> [!example] 🎯 Práctica Graduada
 > 
 > **Nivel 1: Identificación**
 > 
@@ -1049,7 +1049,7 @@ flowchart TD
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Hacia Adelante en el Aprendizaje
+> [!quote] 🌟 Hacia Adelante en el Aprendizaje
 > 
 > **Dominaste:**
 > 

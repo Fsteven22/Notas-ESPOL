@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Por qué importa este tema?
+> [!info] 💡 ¿Por qué importa este tema?
 > 
 > La inteligencia artificial ya toma decisiones que afectan la vida real: selecciona candidatos de trabajo, aprueba créditos, asiste en diagnósticos médicos y hasta genera contenido informativo. Cuando estos sistemas fallan de forma sistemática o inventan información, las consecuencias pueden ser serias.
 > 
@@ -26,7 +26,7 @@
 
 ### ¿Qué es un Sesgo?
 
-> [!note]- 📖 Definición
+> [!note] 📖 Definición
 > 
 > Según el estándar **ISO/IEC 22989**, un sesgo es la _"diferencia sistemática de trato de determinados objetos, personas o grupos en comparación con otros"_. A diferencia de un error aleatorio, el sesgo sigue un **patrón repetible y predecible**.
 > 
@@ -38,7 +38,7 @@
 
 ### ¿Cómo se originan los sesgos?
 
-> [!example]- 🧠 Orígenes del Sesgo
+> [!example] 🧠 Orígenes del Sesgo
 > 
 > ```mermaid
 > graph TD
@@ -65,7 +65,7 @@
 
 ### Tipos de Sesgo
 
-> [!tip]- 🗂️ Clasificación de los Sesgos
+> [!tip] 🗂️ Clasificación de los Sesgos
 > 
 > |Tipo|Descripción|Ejemplo|
 > |---|---|---|
@@ -78,7 +78,7 @@
 
 ### Ejemplos Reales
 
-> [!example]- 📌 Casos Documentados
+> [!example] 📌 Casos Documentados
 > 
 > **1. Amazon — Algoritmo de Selección de Personal (2018)**
 > 
@@ -125,7 +125,7 @@
 
 ### ¿Qué es una Alucinación?
 
-> [!note]- 📖 Definición
+> [!note] 📖 Definición
 > 
 > Una **alucinación en IA** es un fenómeno en el que un modelo genera una respuesta que parece completamente coherente y segura, pero que es **falsa, inexacta o inventada**, sin base en la realidad verificable.
 > 
@@ -145,7 +145,7 @@
 
 ### ¿Por qué ocurren?
 
-> [!warning]- ⚙️ Causas Técnicas
+> [!warning] ⚙️ Causas Técnicas
 > 
 > ```mermaid
 > graph LR
@@ -169,7 +169,7 @@
 
 ### Tipos de Alucinaciones
 
-> [!tip]- 🗂️ Clasificación
+> [!tip] 🗂️ Clasificación
 > 
 > |Tipo|Descripción|Ejemplo|
 > |---|---|---|
@@ -180,7 +180,7 @@
 
 ### Ejemplos Reales
 
-> [!example]- 📌 Casos Documentados
+> [!example] 📌 Casos Documentados
 > 
 > **1. El Caso de los Abogados (EE.UU., 2023)**
 > 
@@ -228,7 +228,7 @@
 
 ## ⚖️ Parte 3 — Sesgos vs. Alucinaciones
 
-> [!info]- 🔍 Diferencias Clave
+> [!info] 🔍 Diferencias Clave
 > 
 > |Aspecto|Sesgo|Alucinación|
 > |---|---|---|
@@ -256,7 +256,7 @@
 
 ## 🛡️ Parte 4 — ¿Cómo se pueden reducir?
 
-> [!success]- ✅ Estrategias de Mitigación
+> [!success] ✅ Estrategias de Mitigación
 > 
 > **Para los Sesgos:**
 > 
@@ -336,7 +336,7 @@ mindmap
 ---
 ## 📚 Referencias (Formato IEEE)
 
-> [!quote]- 📖 Fuentes Consultadas
+> [!quote] 📖 Fuentes Consultadas
 > 
 > [1] Instituto Nacional de Estándares y Tecnología (NIST), _Towards a Standard for Identifying and Managing Bias in Artificial Intelligence_, Gaithersburg, MD: NIST, 2022.
 > 

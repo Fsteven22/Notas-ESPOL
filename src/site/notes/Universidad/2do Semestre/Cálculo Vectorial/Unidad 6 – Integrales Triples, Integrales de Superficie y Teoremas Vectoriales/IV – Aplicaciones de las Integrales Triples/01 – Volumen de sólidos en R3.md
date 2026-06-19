@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es el Volumen de Sólidos en ℝ³?
+> [!info] 💡 ¿Qué es el Volumen de Sólidos en ℝ³?
 > 
 > El **volumen de sólidos en ℝ³** es la medida del espacio tridimensional que ocupa un objeto geométrico. En cálculo vectorial, utilizamos integrales múltiples para calcular estos volúmenes, extendiendo los conceptos de área a tres dimensiones.
 > 
@@ -50,7 +50,7 @@ graph LR
 
 ### 🔷 1. Integrales Triples
 
-> [!example]- 📐 Concepto y Aplicación
+> [!example] 📐 Concepto y Aplicación
 > 
 > La **integral triple** calcula el volumen dividiendo el sólido en elementos infinitesimales de volumen **dV**.
 > 
@@ -107,7 +107,7 @@ graph LR
 
 ### 🔄 2. Sólidos de Revolución
 
-> [!success]- 🌀 Método del Disco y la Arandela
+> [!success] 🌀 Método del Disco y la Arandela
 > 
 > **Concepto:** Rotar una región plana alrededor de un eje genera un sólido tridimensional.
 > 
@@ -165,7 +165,7 @@ graph LR
 
 ### 📏 3. Método de Secciones Transversales
 
-> [!tip]- ✂️ Integración por Capas
+> [!tip] ✂️ Integración por Capas
 > 
 > **Concepto:** El volumen se calcula integrando el área de secciones transversales perpendiculares a un eje.
 > 
@@ -232,7 +232,7 @@ graph LR
 
 ### 🔵 Coordenadas Cilíndricas
 
-> [!note]- 🎯 Sistema Cilíndrico (r, θ, z)
+> [!note] 🎯 Sistema Cilíndrico (r, θ, z)
 > 
 > **Transformación desde cartesianas:**
 > 
@@ -294,7 +294,7 @@ graph LR
 
 ### 🌐 Coordenadas Esféricas
 
-> [!success]- 🔮 Sistema Esférico (ρ, θ, φ)
+> [!success] 🔮 Sistema Esférico (ρ, θ, φ)
 > 
 > **Transformación desde cartesianas:**
 > 
@@ -370,7 +370,7 @@ graph LR
 
 ### 📝 Clasificación de Problemas
 
-> [!example]- 🔍 Identificar el Método Apropiado
+> [!example] 🔍 Identificar el Método Apropiado
 > 
 > **Árbol de decisión:**
 > 
@@ -413,7 +413,7 @@ graph LR
 
 ### 🏆 Problemas Resueltos Paso a Paso
 
-> [!tip]- 💪 Ejercicios Completos
+> [!tip] 💪 Ejercicios Completos
 > 
 > **Problema 1: Volumen entre dos superficies**
 > 
@@ -521,7 +521,7 @@ graph LR
 
 ### 🏗️ Ingeniería y Física
 
-> [!note]- 🔧 Casos Reales> **1. Tanque de almacenamiento**
+> [!note] 🔧 Casos Reales> **1. Tanque de almacenamiento**
 > 
 > Tanque cilíndrico con tapa semiesférica de radio $R = 2$ m y altura cilíndrica $h = 5$ m.
 > 
@@ -626,7 +626,7 @@ mindmap
 
 ## ✅ Checklist de Resolución
 
-> [!success]- 📋 Guía Paso a Paso
+> [!success] 📋 Guía Paso a Paso
 > 
 > **Antes de empezar:**
 > 
@@ -660,7 +660,7 @@ mindmap
 
 ## 🎓 Ejercicios Propuestos
 
-> [!example]- 💪 Práctica Progresiva
+> [!example] 💪 Práctica Progresiva
 > 
 > **Nivel Básico:**
 > 
@@ -696,7 +696,7 @@ mindmap
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Continuando el Aprendizaje
+> [!quote] 🌟 Continuando el Aprendizaje
 > 
 > **Has dominado:**
 > 

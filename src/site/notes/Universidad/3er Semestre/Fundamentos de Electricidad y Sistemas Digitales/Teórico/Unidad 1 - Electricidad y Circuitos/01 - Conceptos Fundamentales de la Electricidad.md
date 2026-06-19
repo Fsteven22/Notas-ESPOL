@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es la electricidad?
+> [!info] 💡 ¿Qué es la electricidad?
 > 
 > La **electricidad** es un fenómeno físico originado por el movimiento de cargas eléctricas (electrones) a través de un conductor. Es la base de todos los circuitos y sistemas electrónicos modernos.
 > 
@@ -39,7 +39,7 @@
 
 ## ⚛️ Carga Eléctrica
 
-> [!note]- 🔬 Fundamentos de la Carga
+> [!note] 🔬 Fundamentos de la Carga
 > 
 > La **carga eléctrica** es la propiedad fundamental de la materia que da origen a los fenómenos eléctricos. Existe en dos tipos: positiva (+) y negativa (−).
 > 
@@ -70,13 +70,13 @@
 > 
 > Donde $n$ es el número de electrones y $e = 1.6 \times 10^{-19}$ C.
 
-![Pasted image 20260519222355.png](/img/user/Contenido%20Extra/Figuras/Pasted%20image%2020260519222355.png)
+![Pasted image 20260519222355.png](/img/user/Universidad/Figuras/Pasted%20image%2020260519222355.png)
 
 ---
 
 ## 🔬 Partículas Subatómicas — Experimento de Millikan
 
-> [!note]- ⚗️ Masas y cargas de las partículas básicas
+> [!note] ⚗️ Masas y cargas de las partículas básicas
 > 
 > En 1909, **Robert Millikan** midió la carga del electrón mediante el experimento de la gota de aceite, estableciendo el valor de la carga elemental que usamos hoy.
 > 
@@ -97,7 +97,7 @@
 
 ## ⚡ Fuerza Eléctrica — Ley de Coulomb
 
-> [!note]- 🔬 Fuerza entre cargas puntuales
+> [!note] 🔬 Fuerza entre cargas puntuales
 > 
 > La **Ley de Coulomb** describe la fuerza de atracción o repulsión entre dos cargas eléctricas en reposo. La fuerza es directamente proporcional al producto de las cargas e inversamente proporcional al cuadrado de la distancia que las separa.
 > 
@@ -140,7 +140,7 @@
 
 ## 🧭 Campo Eléctrico
 
-> [!tip]- 🧭 Región donde actúan las fuerzas eléctricas
+> [!tip] 🧭 Región donde actúan las fuerzas eléctricas
 > 
 > El **campo eléctrico** $E$ es una región del espacio donde interactúan fuerzas eléctricas. Se define como la fuerza por unidad de carga que experimenta una carga de prueba positiva colocada en ese punto.
 > 
@@ -165,13 +165,13 @@
 > 
 > Cuando se tienen dos placas paralelas cargadas, el campo eléctrico entre ellas es constante (uniforme): el vector $E$ no cambia de dirección ni de magnitud entre las placas.
 
-![Pasted image 20260519222513.png](/img/user/Contenido%20Extra/Figuras/Pasted%20image%2020260519222513.png)
+![Pasted image 20260519222513.png](/img/user/Universidad/Figuras/Pasted%20image%2020260519222513.png)
 
 ---
 
 ## 🔋 Energía Potencial y Potencial Eléctrico
 
-> [!note]- 🔋 Del trabajo al voltaje
+> [!note] 🔋 Del trabajo al voltaje
 > 
 > **Energía potencial eléctrica** es el trabajo realizado contra las fuerzas eléctricas para mover una carga entre dos puntos. Se mide en Joules y es positiva cuando la fuerza es repulsiva.
 > 
@@ -200,7 +200,7 @@
 
 ## 🌊 Corriente Eléctrica
 
-> [!tip]- 🔁 Tipos de Corriente
+> [!tip] 🔁 Tipos de Corriente
 > 
 > La **corriente eléctrica** es el flujo ordenado de cargas eléctricas (electrones) a través de un conductor por unidad de tiempo.
 > 
@@ -239,7 +239,7 @@
 
 ## ⚖️ Electrónica vs Electricidad
 
-> [!info]- 🔍 Dos campos relacionados pero distintos
+> [!info] 🔍 Dos campos relacionados pero distintos
 > 
 > El curso se llama **Fundamentos de Electricidad y Sistemas Digitales** porque abarca ambos campos. Aunque están íntimamente relacionados, tienen enfoques y objetivos distintos.
 > 
@@ -288,7 +288,7 @@ mindmap
 
 ## 📚 Referencias
 
-> [!quote]- 📖 Fuentes consultadas
+> [!quote] 📖 Fuentes consultadas
 > 
 > [1] A. Hermosa Donante, _Electrónica Aplicada_, 1.ª ed. Mexico: Alfaomega Grupo Editor, 2013, pp. 1–25. ISBN-13: 9786077074045.
 > 

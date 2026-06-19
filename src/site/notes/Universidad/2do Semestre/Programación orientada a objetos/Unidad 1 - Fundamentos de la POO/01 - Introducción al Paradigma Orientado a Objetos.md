@@ -7,7 +7,7 @@
 
 ## 🌟 ¿Qué es la Programación Orientada a Objetos?
 
-> [!info]- 💡 Del Mundo Real al Código
+> [!info] 💡 Del Mundo Real al Código
 > 
 > La **Programación Orientada a Objetos (POO)** es un paradigma que organiza el código imitando cómo pensamos sobre el mundo real: en términos de **objetos** que tienen características y pueden realizar acciones.
 > 
@@ -47,7 +47,7 @@ graph LR
 
 ### 🎨 Clase vs Objeto
 
-> [!tip]- 📐 El Molde y las Galletas
+> [!tip] 📐 El Molde y las Galletas
 > 
 > **Clase:** El plano o molde que define cómo será algo **Objeto:** Una instancia concreta creada a partir de ese molde
 > 
@@ -112,7 +112,7 @@ graph LR
 
 ### 🔑 Atributos y Métodos
 
-> [!success]- 🎯 Los Componentes de una Clase
+> [!success] 🎯 Los Componentes de una Clase
 > 
 > **Atributos (Variables de instancia):**
 > 
@@ -169,7 +169,7 @@ graph LR
 
 ### 🏗️ Constructores
 
-> [!example]- ⚙️ Inicialización Automática
+> [!example] ⚙️ Inicialización Automática
 > 
 > Los **constructores** son métodos especiales que se ejecutan automáticamente al crear un objeto, permitiendo inicializarlo con valores específicos.
 > 
@@ -259,7 +259,7 @@ graph LR
 
 ### 1️⃣ Encapsulamiento
 
-> [!note]- 🔒 Ocultar la Complejidad Interna
+> [!note] 🔒 Ocultar la Complejidad Interna
 > 
 > El **encapsulamiento** consiste en ocultar los detalles internos de implementación y exponer solo lo necesario mediante una interfaz pública.
 > 
@@ -326,7 +326,7 @@ graph LR
 
 ### 2️⃣ Herencia
 
-> [!tip]- 🌳 Reutilizar y Especializar
+> [!tip] 🌳 Reutilizar y Especializar
 > 
 > La **herencia** permite crear nuevas clases basadas en clases existentes, heredando sus atributos y métodos.
 > 
@@ -406,7 +406,7 @@ graph LR
 
 ### 3️⃣ Polimorfismo
 
-> [!success]- 🎭 Múltiples Formas
+> [!success] 🎭 Múltiples Formas
 > 
 > El **polimorfismo** permite que objetos de diferentes clases respondan al mismo mensaje de manera diferente.
 > 
@@ -469,7 +469,7 @@ graph LR
 
 ### 4️⃣ Abstracción
 
-> [!example]- 🎨 Conceptos Generales
+> [!example] 🎨 Conceptos Generales
 > 
 > La **abstracción** permite definir conceptos generales sin especificar todos los detalles de implementación.
 > 
@@ -582,7 +582,7 @@ mindmap
 
 ## 💪 Ejercicios Prácticos
 
-> [!example]- 🎯 Práctica 1: Sistema de Biblioteca
+> [!example] 🎯 Práctica 1: Sistema de Biblioteca
 > 
 > ```java
 > public class Libro {
@@ -618,7 +618,7 @@ mindmap
 > }
 > ```
 
-> [!example]- 🎯 Práctica 2: Jerarquía de Empleados
+> [!example] 🎯 Práctica 2: Jerarquía de Empleados
 > 
 > ```java
 > public class Empleado {
@@ -659,7 +659,7 @@ mindmap
 
 ## 🚀 Próximos Pasos
 
-> [!quote]- 🌟 Has Aprendido
+> [!quote] 🌟 Has Aprendido
 > 
 > ✅ Qué es la POO y por qué es importante  
 > ✅ Diferencia entre clase y objeto  

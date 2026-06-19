@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Cómo se construye el software de forma organizada?
+> [!info] 💡 ¿Cómo se construye el software de forma organizada?
 >
 > Desarrollar software no es simplemente escribir código. Requiere planificación, análisis, diseño, pruebas y mantenimiento. Los **modelos de construcción de software** son marcos de trabajo que definen cómo organizar estas etapas para producir software de calidad de forma predecible.
 >
@@ -29,7 +29,7 @@
 
 ## 🌊 Modelo Cascada
 
-> [!note]- 🌊 El modelo clásico secuencial
+> [!note] 🌊 El modelo clásico secuencial
 >
 > El **Modelo Cascada** es el más antiguo y tradicional. Las fases se ejecutan de forma **secuencial y lineal**: cada etapa debe completarse antes de pasar a la siguiente, como el agua cayendo en cascada.
 >
@@ -73,7 +73,7 @@
 
 ## 🌀 Modelo Espiral
 
-> [!note]- 🌀 Iterativo con análisis de riesgos
+> [!note] 🌀 Iterativo con análisis de riesgos
 >
 > El **Modelo Espiral** combina elementos del modelo cascada con la naturaleza iterativa del prototipado. Cada vuelta de la espiral representa una fase del proyecto, con especial énfasis en el **análisis de riesgos** en cada iteración.
 >
@@ -112,7 +112,7 @@
 
 ## 📈 Modelo Incremental
 
-> [!note]- 📈 Entrega por partes funcionales
+> [!note] 📈 Entrega por partes funcionales
 >
 > El **Modelo Incremental** divide el desarrollo en **incrementos**, cada uno de los cuales añade funcionalidad al sistema. El cliente recibe versiones parciales del producto que ya son funcionales y usables.
 >
@@ -153,7 +153,7 @@
 
 ## 🔄 Desarrollo Ágil — SCRUM
 
-> [!important]- 🔄 Iterativo, colaborativo y adaptable
+> [!important] 🔄 Iterativo, colaborativo y adaptable
 >
 > **SCRUM** es el marco de trabajo ágil más popular. Organiza el desarrollo en ciclos cortos llamados **sprints** (generalmente de 2 a 4 semanas), al final de los cuales se entrega un incremento funcional del producto.
 >
@@ -205,7 +205,7 @@
 
 ## 📐 ¿Qué es el Software según IEEE?
 
-> [!note]- 📐 Definición formal de Software
+> [!note] 📐 Definición formal de Software
 >
 > Según el **IEEE** (*Institute of Electrical and Electronics Engineers*),
 > el software se denomina como:
@@ -230,7 +230,7 @@
 
 ## 📊 Comparación General
 
-> [!summary]- 📊 ¿Cuándo usar cada modelo?
+> [!summary] 📊 ¿Cuándo usar cada modelo?
 >
 > | Modelo | Requisitos | Riesgo | Participación del cliente | Ideal para |
 > |---|---|---|---|---|

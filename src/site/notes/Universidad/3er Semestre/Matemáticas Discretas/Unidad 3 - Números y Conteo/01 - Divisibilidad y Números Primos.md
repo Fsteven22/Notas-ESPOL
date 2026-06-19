@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Por qué estudiar divisibilidad y números primos?
+> [!info] 💡 ¿Por qué estudiar divisibilidad y números primos?
 > 
 > La **teoría de números** es la rama de las matemáticas que estudia las propiedades del conjunto $\mathbb{Z}$ de los enteros. Sus conceptos fundamentales — divisibilidad, primos y factorización — son la base de la aritmética y tienen aplicaciones directas en criptografía, seguridad informática y computación.
 > 
@@ -47,7 +47,7 @@
 
 ## 🔵 Divisibilidad
 
-> [!note]- 🔵 Definición, notación y ejemplos
+> [!note] 🔵 Definición, notación y ejemplos
 > 
 > **Definición.**
 > Sean $n, d$ números enteros con $d \neq 0$. Diremos que $d$ **divide** a $n$, o que $n$ es **divisible** para $d$, si existe un entero $q$ tal que:
@@ -92,7 +92,7 @@
 
 ## 🟢 Propiedades de la Divisibilidad
 
-> [!tip]- 🟢 Teorema — Propiedades básicas
+> [!tip] 🟢 Teorema — Propiedades básicas
 > 
 > **Teorema.** Sean $m, n$ y $d$ enteros:
 > 
@@ -126,7 +126,7 @@
 
 ## 🟡 Números Primos y Compuestos
 
-> [!tip]- 🟡 Definición de primo y compuesto
+> [!tip] 🟡 Definición de primo y compuesto
 > 
 > Dado cualquier entero $m \neq 0$, es claro que $m = m \cdot 1$, así $1 \mid m$ y $m \mid m$. Esto es, $1$ y $m$ siempre dividen a $m$.
 > 
@@ -150,7 +150,7 @@
 
 ## 🔍 Test de Primalidad
 
-> [!note]- 🔍 Teorema — Cota $\sqrt{n}$ para divisores
+> [!note] 🔍 Teorema — Cota $\sqrt{n}$ para divisores
 > 
 > Si $n, d$ son enteros positivos y $d \mid n$, entonces $1 \leq d \leq n$. Por lo tanto $2, 3, \ldots, n-1$ son candidatos a divisores propios de $n$.
 > 
@@ -209,7 +209,7 @@
 
 ## 🏛️ Teorema Fundamental de la Aritmética
 
-> [!important]- 🏛️ TFA — Existencia y unicidad de la factorización prima
+> [!important] 🏛️ TFA — Existencia y unicidad de la factorización prima
 > 
 > **Teorema (TFA).** Cualquier entero mayor que $1$ se puede factorizar como producto de primos. Más aún, si los primos se escriben en orden no decreciente, la factorización es **única**.
 > 
@@ -239,7 +239,7 @@
 
 ## ♾️ Infinitud de los Primos
 
-> [!abstract]- ♾️ Teorema — Hay infinitos números primos
+> [!abstract] ♾️ Teorema — Hay infinitos números primos
 > 
 > **Teorema.** El conjunto de números primos es infinito.
 > 
@@ -285,7 +285,7 @@
 
 ## 🔗 MCD mediante Factorización Prima
 
-> [!note]- 🔗 Máximo Común Divisor via TFA
+> [!note] 🔗 Máximo Común Divisor via TFA
 > 
 > **Definición.** Un **divisor común** de $m$ y $n$ es un entero que divide tanto a $m$ como a $n$. El **máximo común divisor** $\text{mcd}(m, n)$ es el divisor común más grande.
 > 
@@ -354,7 +354,7 @@ mindmap
 
 ## 📚 Referencias
 
-> [!quote]- 📖 Fuentes consultadas
+> [!quote] 📖 Fuentes consultadas
 > 
 > [1] E. Pineda, *Elementos de teoría de números*, clase MATG1051, ESPOL, 2025.
 > 

@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Son los algoritmos neutrales?
+> [!info] 💡 ¿Son los algoritmos neutrales?
 > 
 > Existe una creencia generalizada de que las matemáticas y los algoritmos son objetivos por naturaleza — que una máquina no puede ser racista, sexista o injusta. Esta idea es un **mito**.
 > 
@@ -36,7 +36,7 @@
 
 ## ⚠️ Sesgo Algorítmico
 
-> [!note]- 🔍 ¿Qué es el sesgo algorítmico?
+> [!note] 🔍 ¿Qué es el sesgo algorítmico?
 > 
 > El **sesgo algorítmico** es un error sistemático en un sistema computacional que produce resultados injustos, inequitativos o discriminatorios hacia ciertos grupos de personas.
 > 
@@ -53,7 +53,7 @@
 
 ## 🧪 Casos de Estudio Históricos
 
-> [!example]- 🤖 Tay — El chatbot racista de Microsoft (2016)
+> [!example] 🤖 Tay — El chatbot racista de Microsoft (2016)
 > 
 > **Microsoft** lanzó **Tay**, un chatbot de IA en Twitter diseñado para aprender de las conversaciones con usuarios y simular el lenguaje de una joven de 19 años.
 > 
@@ -69,7 +69,7 @@
 > 
 > > ⚠️ **Lección**: Un sistema de IA sin control sobre la calidad de sus datos de entrada puede ser manipulado activamente. El sesgo no siempre es accidental — puede ser inducido.
 
-> [!example]- 🏥 St. George's Hospital — Sesgo en admisiones médicas (1970s–1988)
+> [!example] 🏥 St. George's Hospital — Sesgo en admisiones médicas (1970s–1988)
 > 
 > El **Hospital St. George's** en Londres usó un algoritmo computarizado para preseleccionar candidatos a su escuela de medicina desde los años 70 hasta **1988**, cuando fue descubierto y auditado.
 > 
@@ -88,7 +88,7 @@
 > 
 > > 💡 Este es uno de los primeros casos documentados de **discriminación algorítmica institucionalizada** — el sistema automatizó y escondió el sesgo humano, dándole apariencia de objetividad.
 
-> [!example]- 📷 Reconocimiento facial — Google y Facebook (2015–2019)
+> [!example] 📷 Reconocimiento facial — Google y Facebook (2015–2019)
 > 
 > Múltiples sistemas de reconocimiento facial desplegados por empresas tecnológicas mostraron tasas de error significativamente más altas en personas de piel oscura, especialmente mujeres negras.
 > 
@@ -103,7 +103,7 @@
 > 
 > **Causa común**: Conjuntos de entrenamiento compuestos mayoritariamente por rostros de personas blancas de género masculino.
 
-> [!example]- 💬 Sesgos de género en Procesamiento de Lenguaje Natural
+> [!example] 💬 Sesgos de género en Procesamiento de Lenguaje Natural
 > 
 > Los modelos de lenguaje entrenados con texto humano absorben y amplifican los estereotipos de género presentes en ese texto.
 > 
@@ -121,7 +121,7 @@
 
 ## 🏛️ Gobernanza Algorítmica
 
-> [!important]- ⚖️ ¿Qué es la Gobernanza Algorítmica?
+> [!important] ⚖️ ¿Qué es la Gobernanza Algorítmica?
 > 
 > La **gobernanza algorítmica** es el conjunto de mecanismos — legales, técnicos, institucionales y éticos — para asegurar que los algoritmos que afectan a personas sean **transparentes, auditables, justos y responsables**.
 > 
@@ -154,7 +154,7 @@
 >     style L fill:#ffe1e1
 > ```
 
-> [!note]- 🔧 Principios de la Gobernanza Algorítmica
+> [!note] 🔧 Principios de la Gobernanza Algorítmica
 > 
 > |Principio|Descripción|Ejemplo de aplicación|
 > |---|---|---|
@@ -165,7 +165,7 @@
 > |**Factor humano**|En decisiones de alto impacto (salud, justicia, empleo), debe haber revisión humana obligatoria|Un juez, no solo un algoritmo, debe sentenciar a una persona|
 > |**No discriminación**|Los sistemas no deben producir resultados sistemáticamente peores para grupos protegidos|Revisión estadística de tasas de error por género, etnia, edad|
 
-> [!warning]- ⚖️ Marco legal y regulación emergente
+> [!warning] ⚖️ Marco legal y regulación emergente
 > 
 > |Regulación|Ámbito|Qué establece|
 > |---|---|---|
@@ -180,7 +180,7 @@
 
 ## 🔁 Sesgo y Gobernanza — La conexión
 
-> [!summary]- 🔗 ¿Por qué la gobernanza es la respuesta al sesgo?
+> [!summary] 🔗 ¿Por qué la gobernanza es la respuesta al sesgo?
 > 
 > |Sin gobernanza|Con gobernanza|
 > |---|---|

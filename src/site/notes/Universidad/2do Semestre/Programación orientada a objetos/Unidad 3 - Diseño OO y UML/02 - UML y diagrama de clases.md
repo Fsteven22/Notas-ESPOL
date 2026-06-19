@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es UML?
+> [!info] 💡 ¿Qué es UML?
 > 
 > **UML** (Unified Modeling Language - Lenguaje Unificado de Modelado) es un **lenguaje visual estandarizado** para representar, diseñar y documentar sistemas orientados a objetos.
 > 
@@ -39,7 +39,7 @@ graph LR
     style A fill:#e1f5ff
 ```
 
-> [!note]- 🎯 Enfoque de este Tema
+> [!note] 🎯 Enfoque de este Tema
 > 
 > Nos centraremos en el **Diagrama de Clases**, el más importante para POO y el que usarás en tus proyectos de Java.
 
@@ -49,7 +49,7 @@ graph LR
 
 ### 🔲 Representación de una Clase
 
-> [!tip]- 📋 Estructura de una Clase en UML
+> [!tip] 📋 Estructura de una Clase en UML
 > 
 > Una clase se representa como un **rectángulo dividido en 3 secciones**:
 > 
@@ -76,7 +76,7 @@ graph LR
 
 ### 🔐 Modificadores de Visibilidad
 
-> [!info]- 🎨 Símbolos de Acceso
+> [!info] 🎨 Símbolos de Acceso
 > 
 > |Símbolo|Modificador|Significado|Uso|
 > |---|---|---|---|
@@ -93,7 +93,7 @@ graph LR
 
 ### 📝 Sintaxis de Atributos y Métodos
 
-> [!example]- ✍️ Formato Completo
+> [!example] ✍️ Formato Completo
 > 
 > **Atributos:**
 > 
@@ -146,7 +146,7 @@ graph LR
 
 ### 📊 Tipos de Relaciones
 
-> [!tip]- 🌐 Relaciones Fundamentales
+> [!tip] 🌐 Relaciones Fundamentales
 > 
 > |Relación|Símbolo|Significado|Ejemplo|
 > |---|---|---|---|
@@ -159,7 +159,7 @@ graph LR
 
 ### 🏛️ Herencia
 
-> [!example]- 👨‍👩‍👧 Jerarquía de Clases
+> [!example] 👨‍👩‍👧 Jerarquía de Clases
 > 
 > **Símbolo:** Flecha con triángulo vacío `<|--`
 > 
@@ -200,7 +200,7 @@ graph LR
 
 ### 🔌 Implementación de Interfaces
 
-> [!example]- 📜 Interfaces
+> [!example] 📜 Interfaces
 > 
 > **Símbolo:** Flecha punteada con triángulo `<|..`
 > 
@@ -244,7 +244,7 @@ graph LR
 
 ### 🔗 Asociación
 
-> [!example]- 🤝 Relación Básica
+> [!example] 🤝 Relación Básica
 > 
 > **Símbolo:** Línea simple `--`
 > 
@@ -287,7 +287,7 @@ graph LR
 
 ### 🔷 Agregación
 
-> [!example]- 📦 "Tiene-Un" (Débil)
+> [!example] 📦 "Tiene-Un" (Débil)
 > 
 > **Símbolo:** Rombo vacío `o--`
 > 
@@ -324,7 +324,7 @@ graph LR
 
 ### 🔶 Composición
 
-> [!example]- 🏗️ "Tiene-Un" (Fuerte)
+> [!example] 🏗️ "Tiene-Un" (Fuerte)
 > 
 > **Símbolo:** Rombo lleno `*--`
 > 
@@ -367,7 +367,7 @@ graph LR
 
 ### ⚡ Dependencia
 
-> [!example]- 🔄 Uso Temporal
+> [!example] 🔄 Uso Temporal
 > 
 > **Símbolo:** Flecha punteada `..>`
 > 
@@ -403,7 +403,7 @@ graph LR
 
 ### 🔸 Clases Abstractas
 
-> [!example]- 🏗️ Clases No Instanciables
+> [!example] 🏗️ Clases No Instanciables
 > 
 > Se representan con el nombre en **cursiva** o con `<<abstract>>`.
 > 
@@ -448,7 +448,7 @@ graph LR
 
 ### 🔹 Atributos y Métodos Estáticos
 
-> [!example]- ⚡ Miembros de Clase
+> [!example] ⚡ Miembros de Clase
 > 
 > Se **subrayan** para indicar que son `static`.
 > 
@@ -475,7 +475,7 @@ graph LR
 
 ### 📦 Enumeraciones
 
-> [!example]- 🎯 Tipos Enumerados
+> [!example] 🎯 Tipos Enumerados
 > 
 > ```mermaid
 > classDiagram
@@ -513,7 +513,7 @@ graph LR
 
 ### 🏦 Sistema Bancario
 
-> [!example]- 💳 Diagrama Completo
+> [!example] 💳 Diagrama Completo
 > 
 > ```mermaid
 > classDiagram
@@ -581,7 +581,7 @@ graph LR
 
 ### 🎓 Sistema Universitario
 
-> [!example]- 📖 Gestión Académica
+> [!example] 📖 Gestión Académica
 > 
 > ```mermaid
 > classDiagram
@@ -646,7 +646,7 @@ graph LR
 
 ### 🛒 Sistema de Comercio
 
-> [!example]- 🏪 E-commerce
+> [!example] 🏪 E-commerce
 > 
 > ```mermaid
 > classDiagram
@@ -720,7 +720,7 @@ graph LR
 
 ## 🎯 Buenas Prácticas
 
-> [!success]- ✅ Recomendaciones para Diagramas UML
+> [!success] ✅ Recomendaciones para Diagramas UML
 > 
 > **1. Claridad sobre completitud:**
 > 
@@ -752,7 +752,7 @@ graph LR
 > - Amarillo: Interfaces
 > - Rojo: Clases abstractas
 
-> [!warning]- ⚠️ Errores Comunes
+> [!warning] ⚠️ Errores Comunes
 > 
 > **❌ Evitar:**
 > 
@@ -774,7 +774,7 @@ graph LR
 
 ## 📊 Comparativa de Relaciones
 
-> [!info]- 🔍 Guía Rápida de Decisión
+> [!info] 🔍 Guía Rápida de Decisión
 > 
 > |Pregunta|Sí →|No →|
 > |---|---|---|
@@ -809,7 +809,7 @@ graph TD
 
 ## 🛠️ Herramientas para UML
 
-> [!tip]- 🔧 Software Recomendado
+> [!tip] 🔧 Software Recomendado
 > 
 > |Herramienta|Tipo|Características|Recomendado Para|
 > |---|---|---|---|
@@ -851,7 +851,7 @@ mindmap
       Miembros static
 ```
 
-> [!quote]- 💡 Recuerda
+> [!quote] 💡 Recuerda
 > 
 > **"Un buen diagrama UML vale más que mil líneas de documentación"**
 > 
@@ -864,7 +864,7 @@ mindmap
 
 ## 🎯 Checklist de Diseño
 
-> [!success]- ✅ Antes de Implementar
+> [!success] ✅ Antes de Implementar
 > 
 > **Diseño de clases:**
 > 

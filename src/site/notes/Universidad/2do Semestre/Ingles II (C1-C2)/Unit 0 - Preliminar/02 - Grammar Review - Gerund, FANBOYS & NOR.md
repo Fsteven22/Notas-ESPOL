@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué se repasa en esta nota?
+> [!info] 💡 ¿Qué se repasa en esta nota?
 >
 > Esta nota cubre tres elementos gramaticales que complementan el estudio de oraciones en inglés: el gerundio, las conjunciones coordinantes y el uso especial de NOR.
 >
@@ -36,7 +36,7 @@
 
 ## 🔄 The Gerund
 
-> [!note]- 🔤 ¿Qué es un Gerund?
+> [!note] 🔤 ¿Qué es un Gerund?
 >
 > A **gerund** is a verb that ends in **-ing** and functions as a **noun** in a sentence. Even though it looks like a verb, it acts like a thing or idea.
 >
@@ -89,7 +89,7 @@
 
 ## 🤝 FANBOYS — Coordinating Conjunctions
 
-> [!note]- 🤝 Las 7 conjunciones coordinantes
+> [!note] 🤝 Las 7 conjunciones coordinantes
 >
 > **FANBOYS** es un acrónimo para recordar las 7 conjunciones coordinantes del inglés. Se usan para unir dos cláusulas independientes formando una **oración compuesta (Compound Sentence)**.
 >
@@ -136,7 +136,7 @@
 
 ## 🚫 The Use of NOR
 
-> [!note]- 🚫 NOR — más allá de FANBOYS
+> [!note] 🚫 NOR — más allá de FANBOYS
 >
 > **NOR** es la conjunción negativa de *or*. Se usa para añadir una idea negativa adicional. Tiene dos patrones principales:
 >
@@ -197,7 +197,7 @@
 
 ## 📝 Ejercicios de práctica
 
-> [!example]- ✏️ Ejercicio 1 — Gerund o Present Participle?
+> [!example] ✏️ Ejercicio 1 — Gerund o Present Participle?
 >
 > Indica si el verbo en *-ing* subrayado es un **Gerund (G)** o un **Present Participle (PP)**:
 >
@@ -210,7 +210,7 @@
 > 7. She suggested ***leaving*** early.
 > 8. The kids are ***playing*** in the park.
 
-> [!success]- ✅ Respuestas — Ejercicio 1
+> [!success] ✅ Respuestas — Ejercicio 1
 >
 > | # | Respuesta | Por qué |
 > |---|---|---|
@@ -223,7 +223,7 @@
 > | 7 | **G** | Objeto del verbo *suggested* — actúa como sustantivo |
 > | 8 | **PP** | *are playing* forma el Present Continuous — parte del verbo |
 
-> [!example]- ✏️ Ejercicio 2 — Completa con la conjunción FANBOYS correcta
+> [!example] ✏️ Ejercicio 2 — Completa con la conjunción FANBOYS correcta
 >
 > Elige la conjunción más apropiada para cada oración (*for, and, nor, but, or, yet, so*):
 >
@@ -235,7 +235,7 @@
 > 6. She was nervous, ________ she had practiced many times.
 > 7. He left early, ________ he had an appointment.
 
-> [!success]- ✅ Respuestas — Ejercicio 2
+> [!success] ✅ Respuestas — Ejercicio 2
 >
 > | # | Conjunción | Por qué |
 > |---|---|---|
@@ -247,7 +247,7 @@
 > | 6 | **yet** | Contraste — estaba nerviosa a pesar de haber practicado |
 > | 7 | **for** | Explica la razón de salir temprano |
 
-> [!example]- ✏️ Ejercicio 3 — Neither … nor o NOR con inversión?
+> [!example] ✏️ Ejercicio 3 — Neither … nor o NOR con inversión?
 >
 > Completa cada oración usando el patrón correcto de NOR:
 >
@@ -256,7 +256,7 @@
 > 10. ________ the manager ________ the employees were informed.
 > 11. I am not tired, ________ ________ I hungry.
 
-> [!success]- ✅ Respuestas — Ejercicio 3
+> [!success] ✅ Respuestas — Ejercicio 3
 >
 > | # | Respuesta | Patrón usado |
 > |---|---|---|
@@ -269,7 +269,7 @@
 
 ## 📚 Glosario de términos difíciles
 
-> [!quote]- 📖 Palabras y conceptos que pueden causar confusión
+> [!quote] 📖 Palabras y conceptos que pueden causar confusión
 >
 > | Término | Explicación sencilla |
 > |---|---|

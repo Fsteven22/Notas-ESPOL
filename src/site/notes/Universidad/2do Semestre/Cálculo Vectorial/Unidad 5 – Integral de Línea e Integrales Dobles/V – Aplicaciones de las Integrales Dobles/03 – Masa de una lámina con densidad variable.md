@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es una Lámina con Densidad Variable?
+> [!info] 💡 ¿Qué es una Lámina con Densidad Variable?
 > 
 > Una **lámina** es una región plana bidimensional en el espacio, y cuando hablamos de **densidad variable**, nos referimos a que la masa no se distribuye uniformemente en toda la superficie. La densidad puede variar dependiendo de la posición $(x, y)$ en la lámina.
 > 
@@ -51,7 +51,7 @@ graph TB
 
 ### 📊 Concepto de Densidad Superficial
 
-> [!example]- 🌡️ ¿Qué es la Densidad Superficial?
+> [!example] 🌡️ ¿Qué es la Densidad Superficial?
 > 
 > La **densidad superficial** $\rho(x, y)$ representa la masa por unidad de área en cada punto $(x, y)$ de la lámina. Se mide típicamente en kg/m² o g/cm².
 > 
@@ -103,7 +103,7 @@ graph TB
 
 ### 🧮 Fórmula de la Masa Total
 
-> [!note]- 📐 Integral Doble para la Masa
+> [!note] 📐 Integral Doble para la Masa
 > 
 > La **masa total** $M$ de una lámina con densidad variable $\rho(x, y)$ sobre una región $R$ se calcula mediante:
 > 
@@ -177,7 +177,7 @@ graph TB
 
 ### 🎨 Visualización Gráfica
 
-> [!success]- 📊 Representación de la Densidad
+> [!success] 📊 Representación de la Densidad
 > 
 > **Mapa de calor de densidad:**
 > 
@@ -229,7 +229,7 @@ graph TB
 
 ### ⚡ Integración Analítica
 
-> [!tip]- ✍️ Método Exacto
+> [!tip] ✍️ Método Exacto
 > 
 > **Pasos para resolver analíticamente:**
 > 
@@ -282,7 +282,7 @@ graph TB
 
 ### 🖥️ Integración Numérica
 
-> [!example]- 🔢 Método de Riemann
+> [!example] 🔢 Método de Riemann
 > 
 > Cuando la integral es difícil de resolver analíticamente, usamos aproximaciones numéricas.
 > 
@@ -373,7 +373,7 @@ graph TB
 
 ### 🎯 Método de Simpson 2D
 
-> [!success]- 🎓 Mayor Precisión
+> [!success] 🎓 Mayor Precisión
 > 
 > El método de Simpson proporciona mejor aproximación con menos puntos.
 > 
@@ -439,7 +439,7 @@ graph TB
 
 ### 🎓 Ejemplo 1: Densidad Constante
 
-> [!example]- 📐 Problema Básico
+> [!example] 📐 Problema Básico
 > 
 > **Enunciado:** Una lámina rectangular de dimensiones 4 m × 3 m tiene densidad uniforme de 5 kg/m². Calcular su masa total.
 > 
@@ -470,7 +470,7 @@ graph TB
 
 ### 🎯 Ejemplo 2: Densidad Lineal
 
-> [!success]- 📈 Variación Lineal
+> [!success] 📈 Variación Lineal
 > 
 > **Enunciado:** Calcular la masa de una lámina rectangular $R = [0, 2] \times [0, 3]$ con densidad $\rho(x, y) = 2 + 3x + y$ kg/m².
 > 
@@ -515,7 +515,7 @@ graph TB
 
 ### 🌀 Ejemplo 3: Densidad Radial
 
-> [!tip]- ⭕ Simetría Circular
+> [!tip] ⭕ Simetría Circular
 > 
 > **Enunciado:** Una lámina cuadrada $[-1, 1] \times [-1, 1]$ tiene densidad que aumenta con la distancia al origen: $\rho(x, y) = 1 + \sqrt{x^2 + y^2}$ kg/m².
 > 
@@ -554,7 +554,7 @@ graph TB
 ---
 ## 🎓 Ejercicios Propuestos
 
-> [!example]- 💪 Práctica Guiada
+> [!example] 💪 Práctica Guiada
 > 
 > ### Nivel Básico
 > 
@@ -596,7 +596,7 @@ graph TB
 
 ## 📚 Recursos Adicionales
 
-> [!quote]- 🌟 Profundización
+> [!quote] 🌟 Profundización
 > 
 > ### Conceptos Relacionados
 > 
@@ -647,7 +647,7 @@ graph TB
 
 ## ✅ Resumen Ejecutivo
 
-> [!success]- 🎯 Puntos Clave
+> [!success] 🎯 Puntos Clave
 > 
 > **Has aprendido:**
 > 

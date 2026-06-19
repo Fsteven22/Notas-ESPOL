@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es la Serialización?
+> [!info] 💡 ¿Qué es la Serialización?
 > 
 > La **serialización** es el proceso de convertir un objeto Java en una secuencia de bytes para poder:
 > 
@@ -43,7 +43,7 @@
 
 ### ✅ Implementar Serializable
 
-> [!tip]- 🔖 La Interfaz Serializable
+> [!tip] 🔖 La Interfaz Serializable
 > 
 > Para que un objeto sea serializable, su clase debe implementar `java.io.Serializable`.
 > 
@@ -70,7 +70,7 @@
 
 ### 🔢 serialVersionUID
 
-> [!warning]- 🆔 Control de Versiones
+> [!warning] 🆔 Control de Versiones
 > 
 > El `serialVersionUID` es un identificador único que garantiza compatibilidad entre versiones.
 > 
@@ -90,7 +90,7 @@
 
 ### 🚫 Campos No Serializables
 
-> [!example]- 🔒 Atributos transient y static
+> [!example] 🔒 Atributos transient y static
 > 
 > **1. Modificador `transient`:**
 > 
@@ -134,7 +134,7 @@
 
 ### 🔧 Uso de ObjectOutputStream
 
-> [!example]- 💾 Guardar Objetos en Archivo
+> [!example] 💾 Guardar Objetos en Archivo
 > 
 > **Proceso:**
 > 
@@ -175,7 +175,7 @@
 
 ### 📚 Serializar Colecciones
 
-> [!success]- 🗂️ Guardar Múltiples Objetos
+> [!success] 🗂️ Guardar Múltiples Objetos
 > 
 > **Opción 1: Serializar colección completa**
 > 
@@ -226,7 +226,7 @@
 
 ### 🔧 Uso de ObjectInputStream
 
-> [!example]- 📖 Leer Objetos desde Archivo
+> [!example] 📖 Leer Objetos desde Archivo
 > 
 > **Proceso:**
 > 
@@ -265,7 +265,7 @@
 
 ### 📚 Deserializar Colecciones
 
-> [!success]- 🗂️ Cargar Múltiples Objetos
+> [!success] 🗂️ Cargar Múltiples Objetos
 > 
 > **Opción 1: Cargar colección completa**
 > 
@@ -318,7 +318,7 @@
 
 ## ⚠️ Excepciones Comunes
 
-> [!warning]- 🚨 Manejo de Errores
+> [!warning] 🚨 Manejo de Errores
 > 
 > |Excepción|Causa|Solución|
 > |---|---|---|
@@ -366,7 +366,7 @@
 
 ## 🎯 Ejemplo Completo
 
-> [!example]- 💼 Sistema de Gestión de Estudiantes
+> [!example] 💼 Sistema de Gestión de Estudiantes
 > 
 > **Clase Estudiante:**
 > 
@@ -472,7 +472,7 @@
 
 ## 🆚 Serialización vs Otros Formatos
 
-> [!note]- 📊 Comparación con Alternativas
+> [!note] 📊 Comparación con Alternativas
 > 
 > |Aspecto|Serialización Java|JSON|XML|Base de Datos|
 > |---|---|---|---|---|
@@ -507,7 +507,7 @@
 
 ## ✅ Mejores Prácticas
 
-> [!tip]- 🏆 Recomendaciones
+> [!tip] 🏆 Recomendaciones
 > 
 > **1. SIEMPRE incluir serialVersionUID**
 > 

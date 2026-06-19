@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 Dos visiones opuestas
+> [!info] 💡 Dos visiones opuestas
 > 
 > Los medios sociales pueden verse desde dos perspectivas contrapuestas sobre su efecto en la sociedad:
 > 
@@ -30,7 +30,7 @@
 
 ## 🧍 Individualismo
 
-> [!note]- 🔍 ¿Los medios sociales nos hacen más individualistas?
+> [!note] 🔍 ¿Los medios sociales nos hacen más individualistas?
 > 
 > Estudios de la Universidad de Londres (UCL) sugieren que **los medios sociales no necesariamente nos hacen más individualistas**.
 > 
@@ -46,7 +46,7 @@
 
 ## 🤝 Colectivismo
 
-> [!note]- 🌐 Modelo de Hofstede — Las 6 Dimensiones
+> [!note] 🌐 Modelo de Hofstede — Las 6 Dimensiones
 > 
 > **Geert Hofstede** fue un psicólogo social neerlandés que desarrolló un modelo para medir cómo los valores culturales de un país influyen en el comportamiento de sus ciudadanos — incluyendo cómo usan la tecnología y los medios sociales.
 > 
@@ -81,7 +81,7 @@
 > 
 > > 💡 **Aplicación a medios sociales**: Una cultura con alto **individualismo** tiende a usar redes para construir marca personal (LinkedIn, Instagram). Una cultura **colectivista** las usa para coordinar grupos y movimientos (WhatsApp familiar, protestas organizadas). Una sociedad con alta **evasión de incertidumbre** puede resistir más las redes sociales por miedo a la exposición de datos personales.
 
-> [!note]- 🌐 Colectivismo en acción — Medios sociales como herramienta colectiva
+> [!note] 🌐 Colectivismo en acción — Medios sociales como herramienta colectiva
 > 
 > Los medios sociales también pueden fomentar el **colectivismo**:
 > 
@@ -96,7 +96,7 @@
 
 ## 🌍 Acceso a Internet según el País
 
-> [!warning]- 🚫 Restricciones políticas al acceso
+> [!warning] 🚫 Restricciones políticas al acceso
 > 
 > El acceso a internet y medios sociales varía enormemente según el contexto político:
 > 
@@ -114,7 +114,7 @@
 
 ## ⚖️ Reflexión
 
-> [!question]- 🤔 ¿Conectan o desconectan los medios sociales?
+> [!question] 🤔 ¿Conectan o desconectan los medios sociales?
 > 
 > - ¿Estamos más conectados globalmente pero más desconectados localmente?
 > - ¿Las redes sociales fomentan comunidad o aislamiento?

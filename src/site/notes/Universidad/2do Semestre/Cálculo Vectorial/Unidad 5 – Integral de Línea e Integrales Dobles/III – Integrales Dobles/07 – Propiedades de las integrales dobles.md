@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué son las Propiedades de las Integrales Dobles? Las **propiedades de las integrales dobles** son reglas algebraicas y geométricas que nos permiten simplificar cálculos, descomponer problemas complejos y relacionar integrales con las características de las funciones y regiones involucradas.
+> [!info] 💡 ¿Qué son las Propiedades de las Integrales Dobles? Las **propiedades de las integrales dobles** son reglas algebraicas y geométricas que nos permiten simplificar cálculos, descomponer problemas complejos y relacionar integrales con las características de las funciones y regiones involucradas.
 > 
 > **Analogía práctica:** Imagina que necesitas calcular el peso total de objetos en un almacén:
 > 
@@ -53,7 +53,7 @@ graph TB
 
 ### ➕ Linealidad
 
-> [!success]- ✨ Propiedad de Linealidad
+> [!success] ✨ Propiedad de Linealidad
 > 
 > La integral doble es un **operador lineal**, lo que significa que satisface dos propiedades fundamentales:
 > 
@@ -95,7 +95,7 @@ flowchart LR
 
 ### 🎯 Ejemplos de Linealidad
 
-> [!example]- 📝 Aplicaciones Prácticas
+> [!example] 📝 Aplicaciones Prácticas
 > 
 > **Ejemplo 1: Constante multiplicativa**
 > 
@@ -145,7 +145,7 @@ flowchart LR
 
 ### 📦 Descomposición de Regiones
 
-> [!note]- 🔄 Propiedad de Aditividad de Dominio
+> [!note] 🔄 Propiedad de Aditividad de Dominio
 > 
 > Si una región $R$ se puede descomponer en subregiones **disjuntas** $R_1, R_2, \ldots, R_n$ (que no se solapan excepto posiblemente en sus fronteras), entonces:
 > 
@@ -193,7 +193,7 @@ flowchart TD
 
 ### 🎨 Ejemplos de Aditividad
 
-> [!example]- 🔧 Descomposición en Práctica
+> [!example] 🔧 Descomposición en Práctica
 > 
 > **Ejemplo 1: Región en forma de L**
 > 
@@ -267,7 +267,7 @@ flowchart TD
 
 ### 📊 Monotonía
 
-> [!important]- 📈 Propiedad de Monotonía
+> [!important] 📈 Propiedad de Monotonía
 > 
 > Si $f(x,y) \leq g(x,y)$ para todo $(x,y) \in R$, entonces:
 > 
@@ -303,7 +303,7 @@ graph TB
 
 ### 🎯 Desigualdades y Acotación
 
-> [!success]- 📏 Teorema de Acotación
+> [!success] 📏 Teorema de Acotación
 > 
 > Si $m \leq f(x,y) \leq M$ para todo $(x,y) \in R$, entonces:
 > 
@@ -325,7 +325,7 @@ graph TB
 
 ### 📝 Ejemplos de Comparación
 
-> [!example]- 🔍 Estimaciones y Desigualdades
+> [!example] 🔍 Estimaciones y Desigualdades
 > 
 > **Ejemplo 1: Acotar sin calcular**
 > 
@@ -385,7 +385,7 @@ graph TB
 
 ### 🪞 Simetría Respecto a Ejes
 
-> [!tip]- ✨ Aprovechando la Simetría
+> [!tip] ✨ Aprovechando la Simetría
 > 
 > **Simetría respecto al eje $y$ (simetría par/impar en $x$):**
 > 
@@ -432,7 +432,7 @@ flowchart TD
 
 ### 📐 Ejemplos de Simetría
 
-> [!example]- 🎨 Aplicaciones de Simetría
+> [!example] 🎨 Aplicaciones de Simetría
 > 
 > **Ejemplo 1: Función impar, resultado cero**
 > 
@@ -495,7 +495,7 @@ flowchart TD
 
 ### 🎯 Valor Absoluto
 
-> [!note]- 📊 Desigualdad del Valor Absoluto
+> [!note] 📊 Desigualdad del Valor Absoluto
 > 
 > Para cualquier función integrable $f$:
 > 
@@ -513,7 +513,7 @@ flowchart TD
 
 ### ⚡ Funciones Separables
 
-> [!success]- ✨ Caso Especial: Separabilidad
+> [!success] ✨ Caso Especial: Separabilidad
 > 
 > Si $f(x,y) = g(x) \cdot h(y)$ y $R = [a,b] \times [c,d]$ es rectangular:
 > 
@@ -531,7 +531,7 @@ flowchart TD
 
 ## 📊 Tabla Resumen de Propiedades
 
-> [!quote]- 📋 Guía Rápida de Propiedades
+> [!quote] 📋 Guía Rápida de Propiedades
 > 
 > |Propiedad|Fórmula|Condiciones|
 > |---|---|---|
@@ -547,7 +547,7 @@ flowchart TD
 ---
 ## 🎓 Estrategias de Aplicación
 
-> [!tip]- 🧩 Guía para Usar Propiedades Eficientemente
+> [!tip] 🧩 Guía para Usar Propiedades Eficientemente
 > 
 > **Checklist de optimización:**
 > 
@@ -584,7 +584,7 @@ flowchart TD
 
 ## 🎓 Ejercicios Guiados
 
-> [!example]- 💪 Práctica Progresiva
+> [!example] 💪 Práctica Progresiva
 > 
 > **Nivel Básico:**
 > 
@@ -684,7 +684,7 @@ flowchart TD
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Continuando el Aprendizaje
+> [!quote] 🌟 Continuando el Aprendizaje
 > 
 > **Has dominado:**
 > 

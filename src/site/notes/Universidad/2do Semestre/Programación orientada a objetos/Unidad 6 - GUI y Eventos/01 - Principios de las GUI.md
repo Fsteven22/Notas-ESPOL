@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es una GUI?
+> [!info] 💡 ¿Qué es una GUI?
 > 
 > Una **GUI** (Graphical User Interface - Interfaz Gráfica de Usuario) es un sistema visual que permite a los usuarios interactuar con una aplicación mediante elementos gráficos como ventanas, botones, menús y campos de texto.
 > 
@@ -42,7 +42,7 @@
 
 ## 🏛️ Historia de las GUI en Java
 
-> [!note]- 📚 Evolución de las Bibliotecas
+> [!note] 📚 Evolución de las Bibliotecas
 > 
 > ```mermaid
 > timeline
@@ -74,7 +74,7 @@
 
 ### 🪟 Contenedores
 
-> [!tip]- 📦 Contenedores Principales
+> [!tip] 📦 Contenedores Principales
 > 
 > Los **contenedores** son componentes que pueden contener otros componentes.
 > 
@@ -137,7 +137,7 @@
 
 ### 🎨 Componentes Básicos
 
-> [!example]- 🧰 Componentes Más Comunes
+> [!example] 🧰 Componentes Más Comunes
 > 
 > **Componentes de visualización:**
 > 
@@ -218,7 +218,7 @@
 
 ## 📐 Gestores de Diseño (Layout Managers)
 
-> [!success]- 🎯 Organizar Componentes Automáticamente
+> [!success] 🎯 Organizar Componentes Automáticamente
 > 
 > Los **Layout Managers** controlan cómo se posicionan y dimensionan los componentes dentro de un contenedor.
 > 
@@ -246,7 +246,7 @@
 
 ### 🌊 FlowLayout
 
-> [!example]- 📍 Diseño de Flujo
+> [!example] 📍 Diseño de Flujo
 > 
 > **Comportamiento:** Coloca componentes de izquierda a derecha, como texto en un párrafo.
 > 
@@ -275,7 +275,7 @@
 
 ### 🧭 BorderLayout
 
-> [!example]- 🗺️ Diseño de Bordes
+> [!example] 🗺️ Diseño de Bordes
 > 
 > **Comportamiento:** Divide el contenedor en 5 regiones: NORTH, SOUTH, EAST, WEST, CENTER.
 > 
@@ -309,7 +309,7 @@
 
 ### 📊 GridLayout
 
-> [!example]- 🔲 Diseño de Cuadrícula
+> [!example] 🔲 Diseño de Cuadrícula
 > 
 > **Comportamiento:** Organiza componentes en una cuadrícula de filas y columnas iguales.
 > 
@@ -345,7 +345,7 @@
 
 ### 📏 BoxLayout
 
-> [!example]- ➡️ Diseño en Línea
+> [!example] ➡️ Diseño en Línea
 > 
 > **Comportamiento:** Organiza componentes en una sola línea (horizontal o vertical).
 > 
@@ -381,7 +381,7 @@
 
 ### 🎛️ GridBagLayout
 
-> [!tip]- 🔧 Diseño Flexible (Avanzado)
+> [!tip] 🔧 Diseño Flexible (Avanzado)
 > 
 > **Comportamiento:** El más flexible y complejo. Permite control total sobre posición y tamaño.
 > 
@@ -409,7 +409,7 @@
 
 ### 🚫 Null Layout (Absoluto)
 
-> [!warning]- ⚠️ Posicionamiento Manual
+> [!warning] ⚠️ Posicionamiento Manual
 > 
 > **Comportamiento:** Tú controlas la posición exacta (x, y) y tamaño de cada componente.
 > 
@@ -439,7 +439,7 @@
 
 ## 🎨 Principios de Diseño GUI
 
-> [!tip]- 🏆 Mejores Prácticas
+> [!tip] 🏆 Mejores Prácticas
 > 
 > **1. Consistencia**
 > 
@@ -511,7 +511,7 @@
 
 ## 🔄 Modelo de Eventos
 
-> [!info]- ⚡ Programación Basada en Eventos
+> [!info] ⚡ Programación Basada en Eventos
 > 
 > Las GUI funcionan con **eventos**: acciones del usuario que disparan código.
 > 
@@ -569,7 +569,7 @@
 
 ## 🎯 Ejemplo Completo
 
-> [!example]- 💼 Formulario de Registro
+> [!example] 💼 Formulario de Registro
 > 
 > ```java
 > import javax.swing.*;

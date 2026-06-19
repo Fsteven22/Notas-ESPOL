@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Cómo se genera la electricidad?
+> [!info] 💡 ¿Cómo se genera la electricidad?
 >
 > La **generación de energía eléctrica** es el proceso de convertir otras formas de energía (mecánica, química, solar, térmica) en energía eléctrica utilizable. Este proceso es la base del suministro eléctrico en hogares, industrias y dispositivos electrónicos.
 >
@@ -34,7 +34,7 @@
 
 ## 🧲 Campo Magnético e Inducción — Orsted y Faraday
 
-> [!note]- 📐 La Base de la Generación Mecánica
+> [!note] 📐 La Base de la Generación Mecánica
 >
 > **Hans Orsted (1820):** descubrió que una corriente eléctrica circulando por un conductor produce un campo magnético a su alrededor.
 > 
@@ -63,12 +63,12 @@
 > **Regla de la mano derecha:**
 > Apunta los dedos en la dirección del movimiento del conductor → el pulgar indica la dirección de la corriente inducida.
 
-![ChatGPT Image 19 may 2026, 22_34_16.png](/img/user/Contenido%20Extra/Figuras/ChatGPT%20Image%2019%20may%202026,%2022_34_16.png)
+![ChatGPT Image 19 may 2026, 22_34_16.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2019%20may%202026,%2022_34_16.png)
 
 ---
 ## 🔄 Ley de Lenz
 
-> [!warning]- 🔄 Ley de Lenz — El Signo Negativo de Faraday
+> [!warning] 🔄 Ley de Lenz — El Signo Negativo de Faraday
 >
 > La **Ley de Lenz** establece que la corriente inducida siempre tiene una dirección tal que su campo magnético **se opone al cambio de flujo** que la originó. Es el significado físico del signo negativo en la ecuación de Faraday.
 >
@@ -113,12 +113,12 @@
 > > El flujo $\Phi$ **aumenta**. Por Lenz, la bobina genera un campo que **se opone** al imán → la cara de la bobina más cercana se comporta como polo **Norte** (repele al imán). La corriente inducida circula en sentido antihorario vista desde el imán.
 > > 
 
-![ChatGPT Image 19 may 2026, 22_41_47.png](/img/user/Contenido%20Extra/Figuras/ChatGPT%20Image%2019%20may%202026,%2022_41_47.png)
+![ChatGPT Image 19 may 2026, 22_41_47.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2019%20may%202026,%2022_41_47.png)
 
 ---
 ## ⚡ DC vs AC — Edison vs Tesla
 
-> [!note]- 🏭 La Guerra de las Corrientes
+> [!note] 🏭 La Guerra de las Corrientes
 >
 > A finales del siglo XIX, dos sistemas compitieron por convertirse en el estándar mundial:
 >
@@ -135,7 +135,7 @@
 ---
 ## 🏭 Tipos de Generadores Eléctricos
 
-> [!tip]- ⚙️ Generador AC vs Generador DC
+> [!tip] ⚙️ Generador AC vs Generador DC
 >
 > **Generador de Corriente Alterna (Alternador):**
 >
@@ -170,12 +170,12 @@
 > | **Eficiencia** | ✅ Alta | Media |
 > | **Uso típico** | Plantas eléctricas, automóviles | Tracción eléctrica, carga de baterías |
 
-![ChatGPT Image 19 may 2026, 22_46_01.png](/img/user/Contenido%20Extra/Figuras/ChatGPT%20Image%2019%20may%202026,%2022_46_01.png)
+![ChatGPT Image 19 may 2026, 22_46_01.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2019%20may%202026,%2022_46_01.png)
 
 ---
 ## 🔁 Proceso General de Generación
 
-> [!info]- 🏭 De la Fuente a tu Enchufe
+> [!info] 🏭 De la Fuente a tu Enchufe
 >
 > ```mermaid
 > graph LR
@@ -200,7 +200,7 @@
 
 ### 💧 Hidroeléctrica
 
-> [!example]- 🏔️ Energía del Agua
+> [!example] 🏔️ Energía del Agua
 >
 > Convierte la energía **potencial del agua** en energía eléctrica mediante turbinas.
 >
@@ -225,11 +225,11 @@
 > | **Desventaja** | Impacto ambiental, dependiente de lluvia |
 > | **Ejemplo Ecuador** | Coca Codo Sinclair (~1 500 MW) |
 > 
-> ![Pasted image 20260519224024.png](/img/user/Contenido%20Extra/Figuras/Pasted%20image%2020260519224024.png)
+> ![Pasted image 20260519224024.png](/img/user/Universidad/Figuras/Pasted%20image%2020260519224024.png)
 
 ### 🔥 Termoeléctrica
 
-> [!example]- 🌡️ Energía del Calor
+> [!example] 🌡️ Energía del Calor
 >
 > Quema combustibles fósiles (gas, petróleo, carbón) para producir vapor que mueve turbinas.
 >
@@ -254,11 +254,11 @@
 > | **Desventaja** | Emisiones CO₂, uso de recursos no renovables |
 > | **Eficiencia típica** | 33–45 % |
 > 
-> ![Pasted image 20260519224111.png](/img/user/Contenido%20Extra/Figuras/Pasted%20image%2020260519224111.png)
+> ![Pasted image 20260519224111.png](/img/user/Universidad/Figuras/Pasted%20image%2020260519224111.png)
 
 ### ☀️ Solar Fotovoltaica
 
-> [!example]- 🌞 Energía del Sol
+> [!example] 🌞 Energía del Sol
 >
 > Convierte directamente la luz solar en electricidad mediante el **efecto fotoeléctrico** en celdas semiconductoras de silicio.
 >
@@ -283,11 +283,11 @@
 > | **Desventaja** | Intermitente (depende del sol), costo inicial alto |
 > | **Eficiencia típica** | 15–22 % (paneles comerciales) |
 > 
-> ![Pasted image 20260519224443.png](/img/user/Contenido%20Extra/Figuras/Pasted%20image%2020260519224443.png)
+> ![Pasted image 20260519224443.png](/img/user/Universidad/Figuras/Pasted%20image%2020260519224443.png)
 
 ### 💨 Eólica
 
-> [!example]- 🌬️ Energía del Viento
+> [!example] 🌬️ Energía del Viento
 >
 > Convierte la energía **cinética del viento** en electricidad mediante aerogeneradores.
 >
@@ -298,11 +298,11 @@
 > | **Desventaja** | Intermitente, impacto visual y acústico |
 > | **Potencia** | $P = \frac{1}{2} \rho A v^3$ (depende del cubo de la velocidad del viento) |
 > 
-> ![Pasted image 20260519224744.png](/img/user/Contenido%20Extra/Figuras/Pasted%20image%2020260519224744.png)
+> ![Pasted image 20260519224744.png](/img/user/Universidad/Figuras/Pasted%20image%2020260519224744.png)
 
 ### ☢️ Nuclear
 
-> [!example]- ⚛️ Fisión Nuclear
+> [!example] ⚛️ Fisión Nuclear
 >
 > Utiliza el calor generado por la **fisión de átomos de uranio** para producir vapor y mover turbinas.
 >
@@ -313,13 +313,13 @@
 > | **Desventaja** | Residuos radiactivos, alto costo, riesgos de seguridad |
 > | **Eficiencia típica** | ~33 % |
 > 
-> ![Pasted image 20260519224818.png](/img/user/Contenido%20Extra/Figuras/Pasted%20image%2020260519224818.png)
+> ![Pasted image 20260519224818.png](/img/user/Universidad/Figuras/Pasted%20image%2020260519224818.png)
 
 ---
 
 ## ⚖️ Comparación General de Fuentes
 
-> [!warning]- 📊 Cuadro Comparativo
+> [!warning] 📊 Cuadro Comparativo
 >
 > | Fuente | Renovable | Emisiones CO₂ | Costo operativo | Disponibilidad | Uso en Ecuador |
 > |---|---|---|---|---|---|
@@ -332,7 +332,7 @@
 ---
 ## 🏗️ Sistema Eléctrico de Potencia
 
-> [!tip]- 🔌 Etapas y Voltajes Típicos
+> [!tip] 🔌 Etapas y Voltajes Típicos
 >
 > ```mermaid
 > graph LR
@@ -384,7 +384,7 @@ mindmap
 
 ## 📚 Referencias
 
-> [!quote]- 📖 Fuentes consultadas
+> [!quote] 📖 Fuentes consultadas
 >
 > [1] A. Hermosa Donante, *Electrónica Aplicada*, 1.ª ed. Mexico: Alfaomega Grupo Editor, 2013, pp. 1–30. ISBN-13: 9786077074045.
 >

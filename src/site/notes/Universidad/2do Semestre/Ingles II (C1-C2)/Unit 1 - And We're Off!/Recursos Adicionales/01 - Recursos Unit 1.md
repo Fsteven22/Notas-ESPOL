@@ -7,7 +7,7 @@
 
 ## 🎯 Sobre esta nota
 
-> [!info]- 💡 ¿Qué contiene esta carpeta?
+> [!info] 💡 ¿Qué contiene esta carpeta?
 >
 > Aquí se concentran todos los recursos complementarios de la Unidad 1 proporcionados por el Aula Virtual de ESPOL. Se organizan en cuatro categorías:
 >
@@ -22,7 +22,7 @@
 
 ## 📘 Gramática
 
-> [!note]- 📘 Recursos sobre Present Tenses y verbos
+> [!note] 📘 Recursos sobre Present Tenses y verbos
 >
 > Estos recursos complementan directamente la **nota 02 — Grammar & Examples**.
 >
@@ -40,7 +40,7 @@
 
 ## 🎧 Listening
 
-> [!note]- 🎧 Links de práctica de listening
+> [!note] 🎧 Links de práctica de listening
 >
 > Recursos externos para practicar comprensión auditiva. Útiles como preparación para exámenes o práctica libre.
 >
@@ -55,7 +55,7 @@
 
 ## 📖 Reading
 
-> [!note]- 📖 Links de práctica de reading
+> [!note] 📖 Links de práctica de reading
 >
 > Recursos externos para practicar comprensión lectora. Complementan la sección de Reading de la nota 04.
 >
@@ -69,7 +69,7 @@
 
 ## ✍️ Academic Post
 
-> [!tip]- ✍️ Archivos de la tarea evaluada
+> [!tip] ✍️ Archivos de la tarea evaluada
 >
 > Estos archivos corresponden a la tarea de escritura formal de la unidad. Ver también la nota **05 - Academic Post** para la estructura completa y criterios de evaluación.
 >

@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué vocabulario se trabaja en esta unidad?
+> [!info] 💡 ¿Qué vocabulario se trabaja en esta unidad?
 >
 > En esta nota se trabajan dos bloques de vocabulario esenciales para comunicarse en contextos personales y profesionales en inglés:
 >
@@ -35,7 +35,7 @@
 
 ## 🏆 Describing Accomplishments
 
-> [!note]- 🏆 Expresiones para hablar de logros personales
+> [!note] 🏆 Expresiones para hablar de logros personales
 >
 > Las siguientes expresiones aparecen en la sección **1.1 This Is Me!** y se usan para describir logros, metas y experiencias de superación.
 >
@@ -64,7 +64,7 @@
 
 ## 👔 Key Qualities
 
-> [!note]- 👔 Adjetivos y sustantivos para describir cualidades profesionales
+> [!note] 👔 Adjetivos y sustantivos para describir cualidades profesionales
 >
 > Las siguientes palabras aparecen en la sección **1.2 The Right Candidate** y son clave para entrevistas de trabajo y descripciones de candidatos.
 >
@@ -95,7 +95,7 @@
 
 ## 📝 Ejercicios de práctica
 
-> [!example]- ✏️ Ejercicio 1 — Completa las oraciones
+> [!example] ✏️ Ejercicio 1 — Completa las oraciones
 >
 > Usa las expresiones de *Describing Accomplishments* para completar cada oración:
 >
@@ -105,7 +105,7 @@
 > 4. It's important to __________________ so you always know where you're headed.
 > 5. He __________________ the project even when things got difficult.
 
-> [!success]- ✅ Respuestas — Ejercicio 1
+> [!success] ✅ Respuestas — Ejercicio 1
 >
 > 1. face your fear
 > 2. took pride (in what she accomplished)
@@ -113,7 +113,7 @@
 > 4. set a goal for yourself
 > 5. followed through on
 
-> [!example]- ✏️ Ejercicio 2 — Adjetivo o sustantivo
+> [!example] ✏️ Ejercicio 2 — Adjetivo o sustantivo
 >
 > Elige la forma correcta según el contexto:
 >
@@ -123,7 +123,7 @@
 > 9. Being __________________ (creative / creativity) is essential in design roles.
 > 10. The manager appreciated her __________________ (determined / determination) to succeed.
 
-> [!success]- ✅ Respuestas — Ejercicio 2
+> [!success] ✅ Respuestas — Ejercicio 2
 >
 > 1. ambition *(sustantivo)*
 > 2. reliable *(adjetivo)*
@@ -134,7 +134,7 @@
 
 ## 📚 Glosario de términos difíciles
 
-> [!quote]- 📖 Palabras y expresiones que pueden causar confusión
+> [!quote] 📖 Palabras y expresiones que pueden causar confusión
 >
 > | Término | Explicación sencilla |
 > |---|---|
@@ -151,7 +151,7 @@
 
 ## 📚 Referencias
 
-> [!quote]- 📖 Fuentes consultadas
+> [!quote] 📖 Fuentes consultadas
 >
 > [1] *Keynote Upper-Intermediate*, National Geographic Learning / Cengage, Student's Book, Unit 1: And We're Off!, pp. 1–15.
 

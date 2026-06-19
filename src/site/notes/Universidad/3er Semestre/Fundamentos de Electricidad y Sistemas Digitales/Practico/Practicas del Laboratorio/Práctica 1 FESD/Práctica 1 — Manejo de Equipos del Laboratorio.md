@@ -5,7 +5,7 @@
 
 # 🧪 Práctica 1 — Manejo de Equipos del Laboratorio
 
-> [!danger]- ⚠️ Riesgo Eléctrico Se trabaja con **5 VDC**. El riesgo está en la fuente DC y el generador de funciones.
+> [!danger] ⚠️ Riesgo Eléctrico Se trabaja con **5 VDC**. El riesgo está en la fuente DC y el generador de funciones.
 > 
 > - ❌ No manipular conexiones sin supervisión del profesor.
 > - 🧤 Usar **guantes dieléctricos de baja tensión**.
@@ -14,7 +14,7 @@
 
 ## 🎯 Objetivos
 
-> [!info]- 📌 ¿Qué vamos a lograr?
+> [!info] 📌 ¿Qué vamos a lograr?
 > 
 > - Identificar los equipos y materiales básicos del Laboratorio de Electrónica mediante la implementación y medición en circuitos sencillos.
 > - Reconocer las funcionalidades de los equipos más comunes mediante explicación técnica e implementación.
@@ -23,7 +23,7 @@
 
 ## 🧰 Materiales
 
-> [!note]- 📦 ¿Qué necesitamos?
+> [!note] 📦 ¿Qué necesitamos?
 > 
 > |Material|Especificación|
 > |---|---|
@@ -39,7 +39,7 @@
 
 ## ⚙️ Procedimiento 1 — Fuente DC y Multímetro
 
-> [!tip]- 🔧 Pasos
+> [!tip] 🔧 Pasos
 > 
 > **Antes de empezar:** revisar cómo encender la fuente en modo dual y cómo conectar el multímetro según la variable a medir.
 > 
@@ -64,7 +64,7 @@
 > 
 > ---
 > 
-> ![Pasted image 20260525223659.png](/img/user/Contenido%20Extra/Figuras/Pasted%20image%2020260525223659.png)
+> ![Pasted image 20260525223659.png](/img/user/Universidad/Figuras/Pasted%20image%2020260525223659.png)
 > 
 > **Paso 3 — Medir voltaje DC con el multímetro**
 > 
@@ -83,7 +83,7 @@
 > 
 > ---
 > 
-> ![Pasted image 20260525223728.png](/img/user/Contenido%20Extra/Figuras/Pasted%20image%2020260525223728.png)
+> ![Pasted image 20260525223728.png](/img/user/Universidad/Figuras/Pasted%20image%2020260525223728.png)
 > 
 > **Paso 4 — Medir corriente DC**
 > 
@@ -95,13 +95,13 @@
 
 ## ⚙️ Procedimiento 2 — Generador de Funciones y Osciloscopio
 
-> [!tip]- 🔧 Pasos
+> [!tip] 🔧 Pasos
 > 
 > **Antes de empezar:** revisar cómo configurar el generador y cómo verificar las puntas del osciloscopio.
 > 
 > ---
 > 
-> ![Pasted image 20260525223751.png](/img/user/Contenido%20Extra/Figuras/Pasted%20image%2020260525223751.png)
+> ![Pasted image 20260525223751.png](/img/user/Universidad/Figuras/Pasted%20image%2020260525223751.png)
 > 
 > **Paso 1 — Conectar el generador a la resistencia**
 > 
@@ -143,7 +143,7 @@
 
 ## 📝 Notas personales
 
-> [!question]- 🤔 Mis observaciones de la práctica _(Espacio para agregar reflexiones, errores encontrados, diferencias entre valor teórico y medido, etc.)_
+> [!question] 🤔 Mis observaciones de la práctica _(Espacio para agregar reflexiones, errores encontrados, diferencias entre valor teórico y medido, etc.)_
 
 ---
 

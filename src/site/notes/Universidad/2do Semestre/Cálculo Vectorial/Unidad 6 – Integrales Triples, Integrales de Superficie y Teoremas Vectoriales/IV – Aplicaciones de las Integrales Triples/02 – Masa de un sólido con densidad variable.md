@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es la Masa con Densidad Variable?
+> [!info] 💡 ¿Qué es la Masa con Densidad Variable?
 > 
 > La **masa de un sólido con densidad variable** es la cantidad total de materia contenida en un objeto cuya densidad cambia de punto a punto en el espacio. A diferencia de objetos homogéneos, aquí la densidad es una función de la posición: $\delta(x,y,z)$.
 > 
@@ -53,7 +53,7 @@ graph TB
 
 ### 🔢 Concepto de Densidad
 
-> [!note]- 📊 Densidad como Función
+> [!note] 📊 Densidad como Función
 > 
 > **Definición:**
 > 
@@ -99,7 +99,7 @@ graph TB
 
 ### 📏 Fórmula de Masa Total
 
-> [!success]- ⚡ Integral Triple para Masa
+> [!success] ⚡ Integral Triple para Masa
 > 
 > **Fórmula fundamental:**
 > 
@@ -147,7 +147,7 @@ graph TB
 
 ### 📦 Coordenadas Cartesianas
 
-> [!example]- 🎲 Problemas en Cartesianas
+> [!example] 🎲 Problemas en Cartesianas
 > 
 > **Ejemplo 1: Densidad lineal en x**
 > 
@@ -215,7 +215,7 @@ graph TB
 
 ### 🔵 Coordenadas Cilíndricas
 
-> [!tip]- 🎯 Densidad con Simetría Circular
+> [!tip] 🎯 Densidad con Simetría Circular
 > 
 > **Cuándo usar cilíndricas:**
 > 
@@ -291,7 +291,7 @@ graph TB
 
 ### 🌐 Coordenadas Esféricas
 
-> [!success]- 🔮 Densidad con Simetría Radial
+> [!success] 🔮 Densidad con Simetría Radial
 > 
 > **Cuándo usar esféricas:**
 > 
@@ -383,7 +383,7 @@ graph TB
 
 ### 🎯 Centro de Masa
 
-> [!note]- 📍 Punto de Balance del Sólido
+> [!note] 📍 Punto de Balance del Sólido
 > 
 > **Definición:**
 > 
@@ -494,7 +494,7 @@ graph TB
 
 ### ⚙️ Momentos de Inercia
 
-> [!tip]- 🌀 Resistencia a la Rotación
+> [!tip] 🌀 Resistencia a la Rotación
 > 
 > **Definición:**
 > 
@@ -549,7 +549,7 @@ graph TB
 
 ### 📋 Guía de Resolución
 
-> [!success]- ✅ Metodología Paso a Paso
+> [!success] ✅ Metodología Paso a Paso
 > 
 > **Pasos generales:**
 > 
@@ -594,7 +594,7 @@ graph TB
 
 ### 🏆 Problemas Completos Resueltos
 
-> [!example]- 💪 Ejercicios Detallados
+> [!example] 💪 Ejercicios Detallados
 > 
 > **Problema 1: Cono con densidad altura**
 > 
@@ -716,7 +716,7 @@ graph TB
 
 ### 🔬 Física e Ingeniería
 
-> [!note]- 🌟 Casos Prácticos
+> [!note] 🌟 Casos Prácticos
 > 
 > **1. Planeta con densidad radial**
 > 
@@ -830,7 +830,7 @@ mindmap
 
 ## 🎓 Ejercicios Propuestos
 
-> [!example]- 💪 Práctica Progresiva
+> [!example] 💪 Práctica Progresiva
 > 
 > **Nivel Básico:**
 > 
@@ -863,7 +863,7 @@ mindmap
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Continuando el Aprendizaje
+> [!quote] 🌟 Continuando el Aprendizaje
 > 
 > **Has dominado:**
 > 

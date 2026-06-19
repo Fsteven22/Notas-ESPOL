@@ -307,7 +307,7 @@ graph TD
 > - [[Collections Module\|Collections Module]] - defaultdict, Counter, OrderedDict
 > - [[JSON y APIs\|JSON y APIs]] - Trabajo con datos web estructurados
 > - [[Manejo de Errores\|Manejo de Errores]] - Try/except con KeyError
-> - [[Programación Orientada a Objetos\|Programación Orientada a Objetos]] - Modelado con diccionarios
+> - [[Universidad/2do Semestre/Programación orientada a objetos/Programación Orientada a Objetos\|Programación Orientada a Objetos]] - Modelado con diccionarios
 
 ---
 

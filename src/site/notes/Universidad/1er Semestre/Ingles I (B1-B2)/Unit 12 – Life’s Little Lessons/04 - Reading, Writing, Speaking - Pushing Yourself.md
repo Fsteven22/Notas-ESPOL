@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué aprenderás en esta sección?
+> [!info] 💡 ¿Qué aprenderás en esta sección?
 > 
 > En esta nota **aplicarás todo lo aprendido** en las secciones anteriores a través de actividades reales de lectura, escritura y conversación.
 > 
@@ -54,7 +54,7 @@
 
 ## 📖 A. Reading: Success Stories & Motivation
 
-> [!example]- 📚 Reading Text 1: "The Power of Not Giving Up"
+> [!example] 📚 Reading Text 1: "The Power of Not Giving Up"
 > 
 > **Pre-reading questions:**
 > 
@@ -111,7 +111,7 @@
 > ✅ pay off = produce good results
 > ```
 
-> [!tip]- 📚 Reading Text 2: "The Risk That Changed My Life"
+> [!tip] 📚 Reading Text 2: "The Risk That Changed My Life"
 > 
 > **Pre-reading task:**
 > 
@@ -181,7 +181,7 @@
 > > 
 > > - take that risk, pursue, disadvantages, guarantee,Options, rewards, chance
 
-> [!example]- 📰 Reading Text 3: "Small Steps, Big Results"
+> [!example] 📰 Reading Text 3: "Small Steps, Big Results"
 > 
 > ### Small Steps, Big Results
 > 
@@ -236,7 +236,7 @@
 
 ## ✍️ B. Writing Tasks
 
-> [!note]- 📝 Writing Task 1: Personal Experience Essay
+> [!note] 📝 Writing Task 1: Personal Experience Essay
 > 
 > **Topic:** Write about a time you pushed yourself to succeed
 > 
@@ -301,7 +301,7 @@
 > ✅ Did I check for grammar and spelling errors?
 > ```
 
-> [!success]- ✅ Sample Essay (Model Answer)
+> [!success] ✅ Sample Essay (Model Answer)
 > 
 > ### Learning to Speak in Public
 > 
@@ -319,7 +319,7 @@
 > 
 > ✅ Clear structure (intro, challenge, result) ✅ Phrasal verbs: set up, give up, kept going, worked on, found out ✅ Second conditional: "if I gave up, I would never improve" ✅ Unit 11 vocabulary: goal, challenging, overcome, obstacles, confidence, achieve ✅ Personal and authentic ✅ Good conclusion with advice
 
-> [!tip]- 📝 Writing Task 2: Goal-Setting Paragraph
+> [!tip] 📝 Writing Task 2: Goal-Setting Paragraph
 > 
 > **Topic:** Describe a goal you're currently working on
 > 
@@ -382,7 +382,7 @@
 > 
 > ```
 
-> [!example]- 📝 Writing Task 3: Advice Letter
+> [!example] 📝 Writing Task 3: Advice Letter
 > 
 > **Situation:** Your friend sent you this message:
 > 
@@ -457,7 +457,7 @@
 
 ## 🗣️ C. Speaking Activities
 
-> [!note]- 🎤 Speaking Activity 1: Personal Goals Presentation
+> [!note] 🎤 Speaking Activity 1: Personal Goals Presentation
 > 
 > **Task:** Prepare a 2-3 minute presentation about your personal goals
 > 
@@ -530,7 +530,7 @@
 > ✅ Did I speak confidently?
 > ```
 
-> [!success]- 🎤 Speaking Activity 2: Paired Discussion
+> [!success] 🎤 Speaking Activity 2: Paired Discussion
 > 
 > **Task:** Discuss these questions with a partner (15-20 minutes total)
 > 
@@ -593,7 +593,7 @@
 > ✅ That's interesting! Why do you think that?
 > ```
 
-> [!tip]- 🎤 Speaking Activity 3: Role-Play Scenarios
+> [!tip] 🎤 Speaking Activity 3: Role-Play Scenarios
 > 
 > **Scenario 1: The Motivational Coach**
 > 
@@ -673,7 +673,7 @@
 > • Give practical advice
 > ```
 
-> [!example]- 🎤 Speaking Activity 4: Debate
+> [!example] 🎤 Speaking Activity 4: Debate
 > 
 > **Motion:** "Taking big risks is necessary for success"
 > 
@@ -749,7 +749,7 @@
 
 ## 🎯 D. Integrated Skills Practice
 
-> [!note]- 🌟 Real-World Task 1: Create a Motivational Video Script
+> [!note] 🌟 Real-World Task 1: Create a Motivational Video Script
 > 
 > **Task:** Write a script for a 1-minute motivational video about not giving up
 > 
@@ -806,7 +806,7 @@
 > 
 > **Extra challenge:** Record yourself reading the script and share with classmates!
 
-> [!success]- 🌟 Real-World Task 2: Goal-Setting Workshop
+> [!success] 🌟 Real-World Task 2: Goal-Setting Workshop
 > 
 > **Task:** Design a mini workshop to help someone set and achieve a goal
 > 
@@ -881,7 +881,7 @@
 > ✅ "Let's work on making this specific"
 > ```
 
-> [!tip]- 🌟 Real-World Task 3: Success Story Podcast
+> [!tip] 🌟 Real-World Task 3: Success Story Podcast
 > 
 > **Task:** Create a podcast-style interview about pushing yourself
 > 
@@ -969,7 +969,7 @@
 
 ## 📊 E. Self-Assessment & Reflection
 
-> [!note]- 🎯 Skills Checklist
+> [!note] 🎯 Skills Checklist
 > 
 > **Rate yourself (1-5) on these skills:**
 > 
@@ -1003,7 +1003,7 @@
 > ✅ _________________________________
 > ```
 
-> [!success]- 💭 Reflection Questions
+> [!success] 💭 Reflection Questions
 > 
 > **Answer these questions to reflect on your learning:**
 > 
@@ -1040,7 +1040,7 @@
 
 ## 🎯 F. Additional Practice Resources
 
-> [!tip]- 📚 Further Reading Suggestions
+> [!tip] 📚 Further Reading Suggestions
 > 
 > **Books to explore:**
 > 
@@ -1080,7 +1080,7 @@
 > ✅ Write weekly reflections on your goals
 > ```
 
-> [!example]- 🎬 Video & Media Recommendations
+> [!example] 🎬 Video & Media Recommendations
 > 
 > **TED Talks to watch:**
 > 
@@ -1150,7 +1150,7 @@ mindmap
 
 ## 🏆 Final Challenge
 
-> [!quote]- 🎯 Your Unit 11 Portfolio
+> [!quote] 🎯 Your Unit 11 Portfolio
 > 
 > **Create a personal portfolio showcasing everything you've learned:**
 > 
@@ -1195,7 +1195,7 @@ mindmap
 
 ## 🎊 Conclusion
 
-> [!success]- 🌟 You Did It!
+> [!success] 🌟 You Did It!
 > 
 > **Congratulations on completing Unit 11!**
 > 

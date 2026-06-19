@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué significa "static" en Java?
+> [!info] 💡 ¿Qué significa "static" en Java?
 > 
 > La palabra clave **`static`** indica que un miembro (variable o método) pertenece a la **clase en sí misma**, no a instancias individuales de la clase.
 > 
@@ -51,7 +51,7 @@
 
 ### 🔢 Conceptos Fundamentales
 
-> [!tip]- 🎲 ¿Cuándo usar variables static?
+> [!tip] 🎲 ¿Cuándo usar variables static?
 > 
 > **Casos de uso comunes:**
 > 
@@ -113,7 +113,7 @@
 
 ### 🆔 Patrón: IDs Autoincrementales
 
-> [!example]- 🔑 Generación Automática de Identificadores
+> [!example] 🔑 Generación Automática de Identificadores
 > 
 > **Implementación completa:**
 > 
@@ -190,7 +190,7 @@
 
 ### 🛠️ Características y Limitaciones
 
-> [!warning]- ⚠️ Reglas Importantes de Métodos Static
+> [!warning] ⚠️ Reglas Importantes de Métodos Static
 > 
 > **Restricciones fundamentales:**
 > 
@@ -250,7 +250,7 @@
 
 ### 🧮 Métodos Utilitarios
 
-> [!success]- 🎯 Patrón: Clases Utility
+> [!success] 🎯 Patrón: Clases Utility
 > 
 > **Ejemplo: Calculadora matemática**
 > 
@@ -332,7 +332,7 @@
 
 ### 📌 Buenas Prácticas
 
-> [!tip]- 🔒 Definición de Constantes
+> [!tip] 🔒 Definición de Constantes
 > 
 > **Convención de nombres:**
 > 
@@ -401,7 +401,7 @@
 
 ### ⚡ Static Initializer Block
 
-> [!info]- 🎬 Ejecución al Cargar la Clase
+> [!info] 🎬 Ejecución al Cargar la Clase
 > 
 > **Sintaxis y uso:**
 > 
@@ -493,7 +493,7 @@
 
 ### 🔀 Tabla Comparativa Completa
 
-> [!note]- 📋 Diferencias Clave
+> [!note] 📋 Diferencias Clave
 > 
 > |Característica|Miembros de Instancia|Miembros Static|
 > |---|---|---|
@@ -541,7 +541,7 @@
 
 ### 🎯 Guía de Uso Correcto
 
-> [!success]- 🏆 Recomendaciones Profesionales
+> [!success] 🏆 Recomendaciones Profesionales
 > 
 > **1. Cuándo usar static:**
 > 
@@ -650,7 +650,7 @@ mindmap
       Una sola vez
 ```
 
-> [!quote]- 🎓 Puntos Clave para Recordar
+> [!quote] 🎓 Puntos Clave para Recordar
 > 
 > ✅ **Static = pertenece a la CLASE**, no a objetos  
 > ✅ **Una sola copia en memoria**, compartida por todos  

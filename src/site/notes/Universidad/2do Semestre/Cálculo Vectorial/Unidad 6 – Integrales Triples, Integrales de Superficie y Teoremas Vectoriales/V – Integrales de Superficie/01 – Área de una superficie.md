@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es el Área de una Superficie?
+> [!info] 💡 ¿Qué es el Área de una Superficie?
 > 
 > El **área de una superficie** en el espacio tridimensional es una extensión del concepto de área en el plano. Mientras que en 2D medimos áreas de regiones planas, en 3D necesitamos calcular el área de superficies curvas o planas que existen en el espacio.
 > 
@@ -45,7 +45,7 @@ graph TB
 
 ### 📈 Superficie como Gráfica: z = f(x,y)
 
-> [!example]- 🎨 Forma Explícita
+> [!example] 🎨 Forma Explícita
 > 
 > Una superficie se expresa como **z = f(x,y)**, donde z es función de x e y.
 > 
@@ -134,7 +134,7 @@ graph TB
 
 ### 🔄 Superficie Paramétrica: r(u,v)
 
-> [!success]- 🎯 Representación Vectorial
+> [!success] 🎯 Representación Vectorial
 > 
 > Una superficie se describe mediante un vector posición que depende de dos parámetros:
 > 
@@ -239,7 +239,7 @@ graph TB
 
 ### 🎭 Superficie Implícita: F(x,y,z) = 0
 
-> [!note]- 📐 Forma Implícita
+> [!note] 📐 Forma Implícita
 > 
 > Una superficie definida por una ecuación F(x,y,z) = 0, proyectada sobre el plano xy.
 > 
@@ -309,7 +309,7 @@ graph TB
 
 ### 📊 Elección de Coordenadas
 
-> [!tip]- 🎯 Estrategias para Elegir el Sistema
+> [!tip] 🎯 Estrategias para Elegir el Sistema
 > 
 > **Tabla de decisión:**
 > 
@@ -362,7 +362,7 @@ graph TB
 
 ### 🧮 Técnicas de Integración
 
-> [!example]- 🔨 Métodos Útiles
+> [!example] 🔨 Métodos Útiles
 > 
 > **1. Sustitución trigonométrica**
 > 
@@ -422,7 +422,7 @@ graph TB
 
 ### 🎪 Superficies de Revolución
 
-> [!success]- 🔄 Rotación alrededor de un Eje
+> [!success] 🔄 Rotación alrededor de un Eje
 > 
 > **Superficie generada al rotar y = f(x) alrededor del eje x:**
 > 
@@ -457,7 +457,7 @@ graph TB
 
 ### 🌐 Superficies Comunes
 
-> [!note]- 📚 Fórmulas de Referencia
+> [!note] 📚 Fórmulas de Referencia
 > 
 > |Superficie|Ecuación|Área|Notas|
 > |---|---|---|---|
@@ -489,7 +489,7 @@ graph TB
 
 ## 🎯 Estrategia General de Resolución
 
-> [!tip]- 🗺️ Guía Paso a Paso
+> [!tip] 🗺️ Guía Paso a Paso
 > 	 
 > ```mermaid
 > flowchart TD
@@ -543,7 +543,7 @@ graph TB
 
 ## 💡 Ejemplos Resueltos Completos
 
-> [!example]- 🎓 Problema 1: Plano Inclinado
+> [!example] 🎓 Problema 1: Plano Inclinado
 > 
 > **Enunciado:** Calcular el área de la porción del plano z = 4 - 2x - y que se encuentra sobre el rectángulo D = [0,1] × [0,2] en el plano xy.
 > 
@@ -573,7 +573,7 @@ graph TB
 > Respuesta: A = 2√6 ≈ 4.899 unidades cuadradas
 > ```
 
-> [!example]- 🎓 Problema 2: Cono
+> [!example] 🎓 Problema 2: Cono
 > 
 > **Enunciado:** Hallar el área de la superficie lateral del cono z = √(x² + y²) que está entre z = 0 y z = 3.
 > 
@@ -613,7 +613,7 @@ graph TB
 
 ## 📊 Resumen de Fórmulas
 
-> [!success]- 📐 Tabla Resumen
+> [!success] 📐 Tabla Resumen
 > 
 > |Tipo|Fórmula|Cuándo usar|
 > |---|---|---|

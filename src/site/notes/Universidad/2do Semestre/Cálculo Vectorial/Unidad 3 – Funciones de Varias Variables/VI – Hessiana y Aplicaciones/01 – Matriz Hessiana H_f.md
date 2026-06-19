@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Por qué es importante la Matriz Hessiana?
+> [!info] 💡 ¿Por qué es importante la Matriz Hessiana?
 > 
 > La **matriz hessiana** es una herramienta fundamental que generaliza la segunda derivada a funciones de varias variables, permitiéndonos analizar la **curvatura** de superficies y determinar la naturaleza de puntos críticos.
 > 
@@ -33,7 +33,7 @@
 
 ### 📐 Definición Formal
 
-> [!example]- 🟢 Definición: Matriz Hessiana
+> [!example] 🟢 Definición: Matriz Hessiana
 > 
 > **Definición formal:** Sea $f: D \subseteq \mathbb{R}^n \to \mathbb{R}$ una función con segundas derivadas parciales continuas. La **matriz hessiana** de $f$ en un punto $(x_0, y_0, \ldots)$ es la matriz cuadrada de orden $n$ definida por:
 > 
@@ -66,7 +66,7 @@
 
 ### 🎯 Propiedades Fundamentales
 
-> [!note]- 📊 Propiedades de la Matriz Hessiana
+> [!note] 📊 Propiedades de la Matriz Hessiana
 > 
 > ### 1. Simetría (Teorema de Schwarz)
 > 
@@ -145,7 +145,7 @@
 
 ### Caso 1: Funciones de Dos Variables
 
-> [!example]- 📊 Hessiana en $\mathbb{R}^2$
+> [!example] 📊 Hessiana en $\mathbb{R}^2$
 > 
 > **Función:** $f(x,y)$
 > 
@@ -194,7 +194,7 @@
 
 ### Caso 2: Funciones de Tres Variables
 
-> [!example]- 📊 Hessiana en $\mathbb{R}^3$
+> [!example] 📊 Hessiana en $\mathbb{R}^3$
 > 
 > **Función:** $f(x,y,z)$
 > 
@@ -245,7 +245,7 @@
 
 ### Ejemplo 1: Función Cuadrática Simple
 
-> [!example]- 📝 Ejemplo 1: Paraboloide Elíptico
+> [!example] 📝 Ejemplo 1: Paraboloide Elíptico
 > 
 > **Función:** $$f(x,y) = x^2 + 2y^2$$
 > 
@@ -299,7 +299,7 @@
 
 ### Ejemplo 2: Punto de Silla
 
-> [!example]- 📝 Ejemplo 2: Silla de Montar
+> [!example] 📝 Ejemplo 2: Silla de Montar
 > 
 > **Función:** $$f(x,y) = x^2 - y^2$$
 > 
@@ -347,7 +347,7 @@
 
 ### Ejemplo 3: Función con Derivadas Mixtas
 
-> [!example]- 📝 Ejemplo 3: Función con Acoplamiento
+> [!example] 📝 Ejemplo 3: Función con Acoplamiento
 > 
 > **Función:** $$f(x,y) = x^2 + xy + y^2$$
 > 
@@ -404,7 +404,7 @@
 
 ### Ejemplo 4: Función en Tres Variables
 
-> [!example]- 📝 Ejemplo 4: Caso 3D
+> [!example] 📝 Ejemplo 4: Caso 3D
 > 
 > **Función:** $$f(x,y,z) = x^2 + y^2 + z^2 - xy - xz$$
 > 
@@ -456,7 +456,7 @@
 
 ### Ejemplo 5: Caso No Concluyente
 
-> [!example]- 📝 Ejemplo 5: Discriminante Nulo
+> [!example] 📝 Ejemplo 5: Discriminante Nulo
 > 
 > **Función:** $$f(x,y) = x^4 + y^4$$
 > 
@@ -502,7 +502,7 @@
 
 ### Ejemplo 6: Función Racional
 
-> [!example]- 📝 Ejemplo 6: Optimización con Hessiana
+> [!example] 📝 Ejemplo 6: Optimización con Hessiana
 > 
 > **Función:** $$f(x,y) = x^2 + y^2 + \frac{4}{xy}$$
 > 
@@ -554,7 +554,7 @@
 
 ## 🎯 Criterio de Sylvester (Generalización)
 
-> [!note]- 📐 Criterio para $n$ Variables
+> [!note] 📐 Criterio para $n$ Variables
 > 
 > Para una función $f: \mathbb{R}^n \to \mathbb{R}$ con matriz hessiana $H_f$, definimos los **menores principales líderes**:
 > 
@@ -621,7 +621,7 @@ n = \det(H_f)$$
 
 ## 🔬 Relación con la Aproximación Cuadrática
 
-> [!note]- 📊 Desarrollo de Taylor de Segundo Orden
+> [!note] 📊 Desarrollo de Taylor de Segundo Orden
 > 
 > ### Aproximación Cuadrática
 > 
@@ -678,7 +678,7 @@ n = \det(H_f)$$
 
 ## 🌟 Aplicaciones Prácticas
 
-> [!tip]- 💼 Aplicaciones de la Matriz Hessiana
+> [!tip] 💼 Aplicaciones de la Matriz Hessiana
 > 
 > ### 1. Optimización en Machine Learning
 > 
@@ -791,7 +791,7 @@ n = \det(H_f)$$
 
 ## 📊 Métodos Computacionales
 
-> [!tip]- 💻 Cálculo Numérico de la Hessiana
+> [!tip] 💻 Cálculo Numérico de la Hessiana
 > 
 > ### 1. Diferencias Finitas
 > 
@@ -874,7 +874,7 @@ n = \det(H_f)$$
 
 ## 🔍 Casos Especiales y Degenerados
 
-> [!warning]- ⚠️ Situaciones Problemáticas
+> [!warning] ⚠️ Situaciones Problemáticas
 > 
 > ### 1. Hessiana Singular
 > 
@@ -987,7 +987,7 @@ n = \det(H_f)$$
 
 ## 📝 Ejercicios Propuestos
 
-> [!example]- 💪 Práctica Nivel Básico
+> [!example] 💪 Práctica Nivel Básico
 > 
 > **1. Calcular la matriz hessiana de las siguientes funciones:**
 > 
@@ -1025,7 +1025,7 @@ n = \det(H_f)$$
 > 
 > d) $H_f = \begin{pmatrix} 0 & 1 \ 1 & 0 \end{pmatrix}$
 
-> [!example]- 💪 Práctica Nivel Intermedio
+> [!example] 💪 Práctica Nivel Intermedio
 > 
 > **4. Funciones en tres variables:**
 > 
@@ -1077,7 +1077,7 @@ n = \det(H_f)$$
 > 
 > d) Analizar directamente la función para clasificar el punto
 
-> [!example]- 💪 Práctica Nivel Avanzado
+> [!example] 💪 Práctica Nivel Avanzado
 > 
 > **8. Optimización con restricciones:**
 > 
@@ -1141,7 +1141,7 @@ n = \det(H_f)$$
 
 ## ✅ Soluciones Selectas
 
-> [!success]- 🔑 Respuestas Ejercicios Básicos
+> [!success] 🔑 Respuestas Ejercicios Básicos
 > 
 > **1a)** $f(x,y) = 3x^2 + 4y^2 + 2xy$
 > 
@@ -1217,7 +1217,7 @@ n = \det(H_f)$$
 > 
 > **Conclusión:** **Punto de silla** ✓
 
-> [!success]- 🔑 Respuestas Ejercicios Intermedios
+> [!success] 🔑 Respuestas Ejercicios Intermedios
 > 
 > **4a)** $f(x,y,z) = x^2 + 2y^2 + 3z^2 + xy - xz$
 > 
@@ -1378,7 +1378,7 @@ n = \det(H_f)$$
 > 
 > **Conclusión:** $(0,0)$ es un **punto de silla** ✓
 
-> [!success]- 🔑 Respuestas Ejercicios Avanzados
+> [!success] 🔑 Respuestas Ejercicios Avanzados
 > 
 > **8a)** Multiplicadores de Lagrange:
 > 
@@ -1491,7 +1491,7 @@ n = \det(H_f)$$
 
 ## 🌐 Extensiones y Temas Avanzados
 
-> [!note]- 🚀 Conceptos Avanzados
+> [!note] 🚀 Conceptos Avanzados
 > 
 > ### 1. Hessiana en Variedades
 > 
@@ -1589,7 +1589,7 @@ n = \det(H_f)$$
 
 ## 📖 Resumen de Conceptos Clave
 
-> [!tip]- 💡 Puntos Esenciales para Recordar
+> [!tip] 💡 Puntos Esenciales para Recordar
 > 
 > ### Definición y Estructura
 > 
@@ -1660,7 +1660,7 @@ n = \det(H_f)$$
 
 ## 🔗 Conexiones con Otros Temas
 
-> [!quote]- 🌐 Relaciones Importantes
+> [!quote] 🌐 Relaciones Importantes
 > 
 > **Este tema se conecta con:**
 > 
@@ -1691,7 +1691,7 @@ n = \det(H_f)$$
 
 ## 📚 Referencias y Lecturas Adicionales
 
-> [!note]- 📖 Para Profundizar
+> [!note] 📖 Para Profundizar
 > 
 > ### Textos Clásicos
 > 

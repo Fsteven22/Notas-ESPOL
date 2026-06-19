@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 La tecnología como mano invisible
+> [!info] 💡 La tecnología como mano invisible
 > 
 > La tecnología genera **beneficios sociales no intencionales resultantes de las acciones individuales** — similar al concepto de "mano invisible" de Adam Smith aplicado al mundo digital.
 > 
@@ -34,7 +34,7 @@
 
 ## 📱 Áreas de Impacto
 
-> [!note]- 🏠 En la familia — Adicción a tecnología
+> [!note] 🏠 En la familia — Adicción a tecnología
 > 
 > La tecnología puede generar **adicción** especialmente en jóvenes:
 > 
@@ -45,7 +45,7 @@
 > - Entre adolescentes, estas cifras suben al **50%** y **72%** respectivamente
 > - El **75%** de padres afirma que discute con sus hijos por el uso de móviles
 
-> [!note]- 🧍 Efectos físicos — Ergonomía y uso del móvil
+> [!note] 🧍 Efectos físicos — Ergonomía y uso del móvil
 > 
 > El uso prolongado e inadecuado de dispositivos móviles tiene consecuencias físicas documentadas:
 > 
@@ -58,7 +58,7 @@
 > 
 > > ⚠️ La OMS reconoce la postura derivada del uso de móviles como un problema de salud pública emergente, especialmente en adolescentes con esqueletos en desarrollo.
 
-> [!note]- 🎓 En la educación
+> [!note] 🎓 En la educación
 > 
 > La tecnología ha transformado el acceso al conocimiento:
 > 
@@ -69,14 +69,14 @@
 > 
 > Sin embargo, sin acceso o sin alfabetismo digital, estas herramientas **aumentan la brecha** en lugar de reducirla.
 
-> [!note]- 💳 En transacciones y comercio
+> [!note] 💳 En transacciones y comercio
 > 
 > - Banca en línea
 > - Compras digitales
 > - Comercio electrónico y marketing digital
 > - Plataformas como Uber/Cabify, Yelp, TripAdvisor, Netflix, LinkedIn, Pinterest, Tinder, Waze
 
-> [!note]- 🗳️ En la política
+> [!note] 🗳️ En la política
 > 
 > - El **67%** de los estadounidenses obtiene sus noticias a través de redes sociales
 > - Demostrada **injerencia extranjera** a través de Facebook y Twitter en procesos electorales
@@ -86,7 +86,7 @@
 
 ## ⚖️ Acción Individual vs. Impacto Colectivo
 
-> [!example]- 📝 Ejemplos — Beneficios y desventajas de acciones individuales
+> [!example] 📝 Ejemplos — Beneficios y desventajas de acciones individuales
 > 
 > |Acción Individual|Beneficio a la Comunidad|Desventaja para la Comunidad|
 > |---|---|---|
@@ -103,7 +103,7 @@
 
 ## 📊 El "Yo Cuantificado"
 
-> [!info]- ⌚ Wearables y la cuantificación del cuerpo
+> [!info] ⌚ Wearables y la cuantificación del cuerpo
 > 
 > El concepto del **"Yo cuantificado"** (_Quantified Self_) describe la tendencia de usar tecnología para medir, registrar y analizar datos sobre la propia vida — desde la salud física hasta los hábitos diarios.
 > 
@@ -136,7 +136,7 @@
 > |**Apps de nutrición**|Ingesta calórica, macronutrientes, hábitos alimenticios|
 > |**GPS y mapas**|Rutinas de movimiento, lugares frecuentados, tiempos de traslado|
 
-> [!warning]- 🔒 Implicaciones de privacidad
+> [!warning] 🔒 Implicaciones de privacidad
 > 
 > La acumulación de datos personales del cuerpo y comportamiento plantea preguntas importantes:
 > 
@@ -155,7 +155,7 @@
 
 ## ⚡ Efectos Negativos Documentados
 
-> [!warning]- 📉 Datos preocupantes
+> [!warning] 📉 Datos preocupantes
 > 
 > - El uso permanente de dispositivos conlleva una **pérdida gradual de habilidades** como la planificación, organización y toma de decisiones
 > - Aumenta la impulsividad y el nerviosismo
@@ -165,7 +165,7 @@
 
 ## 💡 Propuestas de Solución
 
-> [!tip]- 🏛️ ¿Qué se puede hacer?
+> [!tip] 🏛️ ¿Qué se puede hacer?
 > 
 > El senador demócrata Mark Warner propuso:
 > 

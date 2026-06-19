@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es la Accesibilidad?
+> [!info] 💡 ¿Qué es la Accesibilidad?
 > 
 > La **accesibilidad** es la posibilidad que tengan todas las personas _sin_ que medien **exclusiones de ningún tipo**, como ser culturales, físicas o técnicas, para acceder a un servicio o llegar a visitar un lugar o utilizar un objeto.
 > 
@@ -34,7 +34,7 @@
 
 ## 📖 Tecnologías de Apoyo
 
-> [!note]- 🖥️ Herramientas para personas con necesidades especiales
+> [!note] 🖥️ Herramientas para personas con necesidades especiales
 > 
 > Aplicadas a tecnologías de la información:
 > 
@@ -51,7 +51,7 @@
 
 ## 📜 WCAG — Web Content Accessibility Guidelines
 
-> [!note]- 📋 ¿Qué es WCAG?
+> [!note] 📋 ¿Qué es WCAG?
 > 
 > Las **WCAG** (Web Content Accessibility Guidelines) son las directrices de accesibilidad para el contenido web del **W3C** (World Wide Web Consortium).
 > 
@@ -59,7 +59,7 @@
 > 
 > 🔗 https://www.w3.org/TR/WCAG20/
 
-> [!note]- 🏆 Niveles de conformidad WCAG
+> [!note] 🏆 Niveles de conformidad WCAG
 > 
 > WCAG define tres niveles de conformidad que indican qué tan accesible es un sitio web:
 > 
@@ -71,7 +71,7 @@
 > 
 > > 💡 Un sitio que cumple nivel **AA** también cumple automáticamente el nivel **A**. Cada nivel es acumulativo.
 
-> [!important]- 🧱 Los 4 Principios WCAG
+> [!important] 🧱 Los 4 Principios WCAG
 > 
 > Toda la estructura de WCAG se organiza bajo **4 principios fundamentales**. El contenido web debe ser:
 > 
@@ -105,7 +105,7 @@
 >     style P4 fill:#f5e1ff
 > ```
 
-> [!note]- 👁️ Principio 1 — Perceptible
+> [!note] 👁️ Principio 1 — Perceptible
 > 
 > La información y los componentes de la interfaz deben presentarse de forma que los usuarios puedan **percibirlos** — ningún contenido debe ser invisible para todos sus sentidos.
 > 
@@ -116,7 +116,7 @@
 > |**1.3 Adaptable**|El contenido debe poder presentarse de distintas formas (por ejemplo, con un lector de pantalla) sin perder información ni estructura|
 > |**1.4 Distinguible**|Debe ser fácil ver y escuchar el contenido — contraste suficiente, texto redimensionable hasta el 200%, audio controlable|
 
-> [!note]- ⌨️ Principio 2 — Operable
+> [!note] ⌨️ Principio 2 — Operable
 > 
 > Los componentes de la interfaz y la navegación deben ser **operables** — los usuarios deben poder interactuar con la página.
 > 
@@ -127,7 +127,7 @@
 > |**2.3 Sin convulsiones**|El contenido no debe destellar más de 3 veces por segundo, para evitar ataques en personas con epilepsia fotosensible|
 > |**2.4 Navegable**|El sitio debe proporcionar formas de ayudar a los usuarios a navegar, encontrar contenido y saber dónde se encuentran (títulos de página, encabezados, foco visible)|
 
-> [!note]- 💡 Principio 3 — Comprensible
+> [!note] 💡 Principio 3 — Comprensible
 > 
 > La información y la operación de la interfaz deben ser **comprensibles** — los usuarios deben poder entender tanto el contenido como cómo funciona la página.
 > 
@@ -137,7 +137,7 @@
 > |**3.2 Predecible**|Las páginas deben aparecer y funcionar de manera predecible — sin cambios inesperados de contexto al recibir foco o al ingresar datos|
 > |**3.3 Asistencia en la entrada**|Los formularios deben ayudar a los usuarios a evitar y corregir errores — con etiquetas claras, instrucciones y mensajes de error descriptivos|
 
-> [!note]- 🔧 Principio 4 — Robusto
+> [!note] 🔧 Principio 4 — Robusto
 > 
 > El contenido debe ser lo suficientemente **robusto** para ser interpretado de forma fiable por una amplia variedad de agentes de usuario, incluyendo tecnologías de apoyo.
 > 
@@ -145,7 +145,7 @@
 > |---|---|
 > |**4.1 Compatible**|El contenido debe maximizar la compatibilidad con navegadores y tecnologías de apoyo actuales y futuras — el código HTML debe ser válido y bien estructurado para que los lectores de pantalla puedan interpretarlo correctamente|
 
-> [!note]- 📋 Criterios específicos del PDF (WCAG 2.0)
+> [!note] 📋 Criterios específicos del PDF (WCAG 2.0)
 > 
 > Estos son los criterios concretos mencionados en el material del curso — todos pertenecen al **Principio 1 (Perceptible)**:
 > 
@@ -161,7 +161,7 @@
 
 ## 🇪🇨 Marco Legal en Ecuador
 
-> [!warning]- ⚖️ Reglamento ecuatoriano de accesibilidad web
+> [!warning] ⚖️ Reglamento ecuatoriano de accesibilidad web
 > 
 > Ecuador adoptó las **Directrices de accesibilidad para el contenido web del W3C**.
 > 
@@ -176,7 +176,7 @@
 
 ## ❓ Reflexión
 
-> [!question]- 🤔 ¿Qué pasa con personas con necesidades especiales?
+> [!question] 🤔 ¿Qué pasa con personas con necesidades especiales?
 > 
 > En el contexto digital, muchas personas quedan excluidas si los sistemas no están diseñados de forma accesible:
 > 

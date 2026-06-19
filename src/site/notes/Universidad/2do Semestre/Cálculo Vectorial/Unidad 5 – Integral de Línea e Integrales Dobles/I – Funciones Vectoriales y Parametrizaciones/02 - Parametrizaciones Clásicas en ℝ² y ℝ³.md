@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es una Parametrización?
+> [!info] 💡 ¿Qué es una Parametrización?
 > 
 > Una **parametrización** es una forma de describir una curva o superficie usando uno o más parámetros. En lugar de usar ecuaciones implícitas o explícitas, expresamos cada coordenada como una función de parámetros independientes.
 > 
@@ -55,7 +55,7 @@ graph TB
 
 ### 🔤 Definiciones Básicas
 
-> [!note]- 📝 Conceptos Fundamentales
+> [!note] 📝 Conceptos Fundamentales
 > 
 > **Curva Paramétrica en ℝ²:**
 > 
@@ -112,7 +112,7 @@ graph TB
 
 ### 🔄 Reparametrización
 
-> [!example]- 🔁 Cambio de Parámetro
+> [!example] 🔁 Cambio de Parámetro
 > 
 > **Concepto:** La misma curva puede tener múltiples parametrizaciones.
 > 
@@ -170,7 +170,7 @@ graph TB
 
 ### ⭕ Curvas Cerradas
 
-> [!success]- 🔵 1. Círculo
+> [!success] 🔵 1. Círculo
 > 
 > **Ecuación implícita:** x² + y² = r²
 > 
@@ -214,7 +214,7 @@ graph TB
 > - Ruedas y engranajes en ingeniería
 > - Órbitas aproximadas en astronomía
 
-> [!success]- 🔶 2. Elipse
+> [!success] 🔶 2. Elipse
 > 
 > **Ecuación implícita:** x²/a² + y²/b² = 1
 > 
@@ -276,7 +276,7 @@ graph TB
 
 ### 📈 Curvas Abiertas
 
-> [!example]- 📏 3. Segmento de Recta
+> [!example] 📏 3. Segmento de Recta
 > 
 > **Entre dos puntos P₀ = (x₀, y₀) y P₁ = (x₁, y₁):**
 > 
@@ -326,7 +326,7 @@ graph TB
 > Longitud = √(3² + 4²) = 5
 > ```
 
-> [!example]- 📊 4. Parábola
+> [!example] 📊 4. Parábola
 > 
 > **Ecuación explícita:** y = ax² + bx + c
 > 
@@ -389,7 +389,7 @@ graph TB
 
 ### 🌀 Curvas Especiales
 
-> [!tip]- 🌟 5. Cicloide
+> [!tip] 🌟 5. Cicloide
 > 
 > **Definición:** Curva trazada por un punto en el borde de un círculo que rueda sobre una línea recta.
 > 
@@ -442,7 +442,7 @@ graph TB
 >     style D fill:#fff4e1
 > ```
 
-> [!tip]- 🎯 6. Espiral de Arquímedes
+> [!tip] 🎯 6. Espiral de Arquímedes
 > 
 > **Ecuación polar:** r = aθ
 > 
@@ -477,7 +477,7 @@ graph TB
 >   r(t) = (a·cos(t)/t, a·sin(t)/t)
 > ```
 
-> [!tip]- 🌸 7. Rosa (Rhodonea)
+> [!tip] 🌸 7. Rosa (Rhodonea)
 > 
 > **Ecuación polar:** r = a·cos(nθ) o r = a·sin(nθ)
 > 
@@ -511,7 +511,7 @@ graph TB
 > Pétalos en ángulos: 0°, 90°, 180°, 270°
 > ```
 
-> [!tip]- ∞ 8. Lemniscata de Bernoulli
+> [!tip] ∞ 8. Lemniscata de Bernoulli
 > 
 > **Ecuación implícita:** (x² + y²)² = a²(x² - y²)
 > 
@@ -549,7 +549,7 @@ graph TB
 
 ### 🔵 Curvas Espaciales Fundamentales
 
-> [!success]- 🌀 1. Hélice Circular
+> [!success] 🌀 1. Hélice Circular
 > 
 > **Parametrización:**
 > 
@@ -622,7 +622,7 @@ graph TB
 >     style G fill:#fff4e1
 > ```
 
-> [!success]- 🎢 2. Curva de Viviani
+> [!success] 🎢 2. Curva de Viviani
 > 
 > **Definición:** Intersección de una esfera con un cilindro tangente.
 > 
@@ -658,7 +658,7 @@ graph TB
 > |**Proyección xy**|Círculo de radio a/2|
 > |**Proyección xz**|Cardioide|
 
-> [!success]- 🔗 3. Nudo Trébol
+> [!success] 🔗 3. Nudo Trébol
 > 
 > **Parametrización:**
 > 
@@ -685,7 +685,7 @@ graph TB
 
 ### 🎨 Superficies Paramétricas Clásicas
 
-> [!note]- 🌍 4. Esfera
+> [!note] 🌍 4. Esfera
 > 
 > **Ecuación implícita:** x² + y² + z² = R²
 > 
@@ -749,7 +749,7 @@ graph TB
 > style B fill:#e1ffe1
 > ```
 
-> [!note]- 🥐 5. Toro (Dona)
+> [!note] 🥐 5. Toro (Dona)
 > 
 > **Parametrización:**
 > 
@@ -801,7 +801,7 @@ graph TB
 > - Topología: superficie de género 1
 > - Juego del "snake" que envuelve
 
-> [!note]- 🎪 6. Cilindro
+> [!note] 🎪 6. Cilindro
 > 
 > **Ecuación implícita:** x² + y² = R²
 > 
@@ -834,7 +834,7 @@ graph TB
 >   x = u, y = v, z = u²
 > ```
 
-> [!note]- 📐 7. Cono
+> [!note] 📐 7. Cono
 > 
 > **Ecuación implícita:** z² = a²(x² + y²)
 > 
@@ -867,7 +867,7 @@ graph TB
 > 
 > donde R = radio de la base, h = altura
 
-> [!note]- 🏔️ 8. Paraboloide
+> [!note] 🏔️ 8. Paraboloide
 > 
 > **Paraboloide Elíptico:** z = x²/a² + y²/b²
 > 
@@ -905,7 +905,7 @@ graph TB
 
 ### 📋 Estrategias Generales
 
-> [!tip]- 🎯 Método 1: De Ecuación Implícita a Paramétrica
+> [!tip] 🎯 Método 1: De Ecuación Implícita a Paramétrica
 > 
 > **Proceso:**
 > 
@@ -965,7 +965,7 @@ graph TB
 > |x²/a² - y²/b² = 1|cosh² - sinh² = 1|(a cosh t, b sinh t)|
 > |xy = c|—|(t, c/t)|
 
-> [!tip]- 🔄 Método 2: Parametrización por Proyección
+> [!tip] 🔄 Método 2: Parametrización por Proyección
 > 
 > **Para superficies z = f(x, y):**
 > 
@@ -997,7 +997,7 @@ graph TB
 > r(u, v) = (u, v, au + bv + c)
 > ```
 
-> [!tip]- 🌐 Método 3: Coordenadas Curvilíneas
+> [!tip] 🌐 Método 3: Coordenadas Curvilíneas
 > 
 > **Sistemas comunes:**
 > 
@@ -1042,7 +1042,7 @@ graph TB
 
 ### 🎨 Construcción de Parametrizaciones
 
-> [!example]- 🔨 Técnica: Superficies de Revolución
+> [!example] 🔨 Técnica: Superficies de Revolución
 > 
 > **Concepto:** Rotar una curva plana alrededor de un eje.
 > 
@@ -1095,7 +1095,7 @@ graph TB
 >            r·sin(v))
 > ```
 
-> [!example]- 📐 Técnica: Superficies Regladas
+> [!example] 📐 Técnica: Superficies Regladas
 > 
 > **Definición:** Superficie generada por líneas rectas.
 > 
@@ -1146,7 +1146,7 @@ graph TB
 
 ### 📝 Problema 1: Curva Plana
 
-> [!example]- ✏️ Parametrizar la Astroide
+> [!example] ✏️ Parametrizar la Astroide
 > 
 > **Enunciado:** Encuentre una parametrización de la astroide:
 > 
@@ -1200,7 +1200,7 @@ graph TB
 
 ### 📝 Problema 2: Curva Espacial
 
-> [!example]- ✏️ Analizar Hélice Cónica
+> [!example] ✏️ Analizar Hélice Cónica
 > 
 > **Enunciado:** Una partícula se mueve según:
 > 
@@ -1246,7 +1246,7 @@ graph TB
 
 ### 📝 Problema 3: Superficie
 
-> [!example]- ✏️ Parametrizar Superficie de Revolución
+> [!example] ✏️ Parametrizar Superficie de Revolución
 > 
 > **Enunciado:** Encuentre una parametrización de la superficie generada al rotar la curva y = e^x (x ≥ 0) alrededor del eje x.
 > 
@@ -1293,7 +1293,7 @@ graph TB
 ---
 ## 📚 Ejercicios Propuestos
 
-> [!note]- 💪 Problemas para Practicar
+> [!note] 💪 Problemas para Practicar
 > 
 > ### Nivel Básico
 > 
@@ -1398,7 +1398,7 @@ graph TB
 
 ## 🔗 Conexión con Otros Temas
 
-> [!quote]- 🌟 Mapa Conceptual
+> [!quote] 🌟 Mapa Conceptual
 > 
 > ```mermaid
 > mindmap
@@ -1460,7 +1460,7 @@ graph TB
 
 ## ✅ Resumen y Puntos Clave
 
-> [!success]- 📌 Conceptos Esenciales
+> [!success] 📌 Conceptos Esenciales
 > 
 > ### Ideas Centrales
 > 

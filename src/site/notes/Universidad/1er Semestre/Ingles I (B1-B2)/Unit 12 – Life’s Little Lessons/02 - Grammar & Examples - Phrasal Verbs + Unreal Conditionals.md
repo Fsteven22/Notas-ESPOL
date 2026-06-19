@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué aprenderás en esta sección?
+> [!info] 💡 ¿Qué aprenderás en esta sección?
 > 
 > En esta nota dominarás dos estructuras gramaticales esenciales para contar lo que pasó:
 > 
@@ -43,7 +43,7 @@
 
 ## 👥 A. Indefinite Pronouns - Introduction
 
-> [!note]- 📘 ¿Qué son los Indefinite Pronouns?
+> [!note] 📘 ¿Qué son los Indefinite Pronouns?
 > 
 > **Definición:** Los **indefinite pronouns** se usan para referirse a personas o cosas de forma **no específica** (sin decir exactamente quién o qué).
 > 
@@ -107,7 +107,7 @@
 
 ## ✅ B. SOME- Pronouns (Afirmativo)
 
-> [!success]- 👤 SOMEONE / SOMEBODY (alguien)
+> [!success] 👤 SOMEONE / SOMEBODY (alguien)
 > 
 > **Cuándo usar:**
 > 
@@ -154,7 +154,7 @@
 > ✅ Somebody told me you were looking for me
 > ```
 
-> [!example]- 📦 SOMETHING (algo)
+> [!example] 📦 SOMETHING (algo)
 > 
 > **Uso:**
 > 
@@ -185,7 +185,7 @@
 > ✅ There's something I feel bad about
 > ```
 
-> [!tip]- 📍 SOMEWHERE (en algún lugar)
+> [!tip] 📍 SOMEWHERE (en algún lugar)
 > 
 > **Uso:**
 > 
@@ -215,7 +215,7 @@
 
 ## ❓ C. ANY- Pronouns (Preguntas y Negativos)
 
-> [!note]- 👤 ANYONE / ANYBODY (alguien - en preguntas/negativos)
+> [!note] 👤 ANYONE / ANYBODY (alguien - en preguntas/negativos)
 > 
 > **Cuándo usar:**
 > 
@@ -287,7 +287,7 @@
 >    (Cualquiera se sentiría mal por esto)
 > ```
 
-> [!example]- 📦 ANYTHING (algo/nada - en preguntas/negativos)
+> [!example] 📦 ANYTHING (algo/nada - en preguntas/negativos)
 > 
 > **En preguntas:**
 > 
@@ -346,7 +346,7 @@
 >    (Cualquier cosa es posible)
 > ```
 
-> [!tip]- 📍 ANYWHERE (en algún/ningún lugar)
+> [!tip] 📍 ANYWHERE (en algún/ningún lugar)
 > 
 > **En preguntas:**
 > 
@@ -396,7 +396,7 @@
 
 ## 🚫 D. NO- Pronouns (Nadie/Nada)
 
-> [!note]- 👤 NO ONE / NOBODY (nadie)
+> [!note] 👤 NO ONE / NOBODY (nadie)
 > 
 > **Características importantes:**
 > 
@@ -461,7 +461,7 @@
 > El tag question es POSITIVO porque nobody ya es negativo
 > ```
 
-> [!example]- 📦 NOTHING (nada)
+> [!example] 📦 NOTHING (nada)
 > 
 > **Uso básico:**
 > 
@@ -510,7 +510,7 @@
 > There wasn't anything = There was nothing (mismo significado)
 > ```
 
-> [!tip]- 📍 NOWHERE (en ningún lugar)
+> [!tip] 📍 NOWHERE (en ningún lugar)
 > 
 > **Uso:**
 > 
@@ -540,7 +540,7 @@
 
 ## 🌍 E. EVERY- Pronouns (Todos/Todo)
 
-> [!success]- 👥 EVERYONE / EVERYBODY (todos)
+> [!success] 👥 EVERYONE / EVERYBODY (todos)
 > 
 > **Uso básico:**
 > 
@@ -575,7 +575,7 @@
 > ✅ Everybody did their best
 > ```
 
-> [!example]- 📦 EVERYTHING (todo)
+> [!example] 📦 EVERYTHING (todo)
 > 
 > **Uso:**
 > 
@@ -605,7 +605,7 @@
 > ✅ Everything looks good (NOT: Everything look good)
 > ```
 
-> [!tip]- 📍 EVERYWHERE (en todas partes)
+> [!tip] 📍 EVERYWHERE (en todas partes)
 > 
 > **Uso:**
 > 
@@ -633,7 +633,7 @@
 
 ## 📊 F. Tabla Comparativa Completa
 
-> [!quote]- 📋 Quick Reference Chart
+> [!quote] 📋 Quick Reference Chart
 > 
 > **Cuándo usar cada tipo:**
 > 
@@ -672,7 +672,7 @@
 
 ## 🗣️ G. Reported Speech - Introduction
 
-> [!note]- 📢 ¿Qué es Reported Speech?
+> [!note] 📢 ¿Qué es Reported Speech?
 > 
 > **Definición:** **Reported Speech** (o Indirect Speech) es cuando reportas o cuentas lo que alguien dijo, pero **sin usar sus palabras exactas**.
 > 
@@ -729,7 +729,7 @@
 
 ## 🔄 H. Reported Speech - Cambios Básicos
 
-> [!example]- ⏰ Cambio de Tiempos Verbales (Backshifting)
+> [!example] ⏰ Cambio de Tiempos Verbales (Backshifting)
 > 
 > **Regla general:** Cuando el reporting verb está en pasado (said, told), los tiempos verbales cambian **un paso atrás** en el tiempo.
 > 
@@ -814,7 +814,7 @@
 > (No cambies porque "says" es presente)
 > ```
 
-> [!success]- 👤 Cambios de Pronombres y Posesivos
+> [!success] 👤 Cambios de Pronombres y Posesivos
 > 
 > **Regla:** Los pronombres cambian según la perspectiva.
 > 
@@ -849,7 +849,7 @@
 > Direct: "You should pick up the broken glass" Reported: She told me I should pick up the broken glass ↑ ↑ She I not you
 > ```
 
-> [!tip]- 📅 Cambios de Expresiones de Tiempo y Lugar
+> [!tip] 📅 Cambios de Expresiones de Tiempo y Lugar
 > 
 > **Cuando reportas algo que se dijo en el pasado, las expresiones de tiempo y lugar también cambian:**
 > 
@@ -895,7 +895,7 @@
 
 ## 💬 I. Reported Speech - SAID vs TOLD
 
-> [!note]- 🗨️ Diferencia entre SAID y TOLD
+> [!note] 🗨️ Diferencia entre SAID y TOLD
 > 
 > **Estructura:**
 > 
@@ -963,7 +963,7 @@
 
 ## 📝 J. Complete Examples - Putting It All Together
 
-> [!example]- 🎭 Scenarios Using Both Structures
+> [!example] 🎭 Scenarios Using Both Structures
 > 
 > **Scenario 1: Reporting an accident**
 > 
@@ -1046,7 +1046,7 @@
 
 ## 🎯 K. Practice Exercises
 
-> [!tip]- ✏️ Exercise 1: Indefinite Pronouns
+> [!tip] ✏️ Exercise 1: Indefinite Pronouns
 > 
 > **Choose the correct pronoun:**
 > 
@@ -1078,7 +1078,7 @@
 > > 9. **Everyone / Everybody** (all people)
 > > 10. **anywhere** (negative)
 
-> [!example]- ✏️ Exercise 2: Reported Speech - Transform
+> [!example] ✏️ Exercise 2: Reported Speech - Transform
 > 
 > **Change from Direct to Reported Speech:**
 > 
@@ -1119,7 +1119,7 @@
 > > 7. He told me **(that) everyone made / makes mistakes**
 > > 8. She said **(that) she had left the lights on the previous night / the night before**
 
-> [!note]- ✏️ Exercise 3: SAID vs TOLD
+> [!note] ✏️ Exercise 3: SAID vs TOLD
 > 
 > **Choose SAID or TOLD and complete the sentence:**
 > 
@@ -1197,7 +1197,7 @@ mindmap
 
 ## 🔗 Connection to Next Topics
 
-> [!note]- 🌟 Ready for Functional Language
+> [!note] 🌟 Ready for Functional Language
 > 
 > **You've mastered the grammar. Now you're ready for:**
 > 

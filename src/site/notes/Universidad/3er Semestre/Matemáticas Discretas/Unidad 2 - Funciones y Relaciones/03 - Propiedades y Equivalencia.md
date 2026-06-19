@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué son las relaciones de equivalencia y de orden?
+> [!info] 💡 ¿Qué son las relaciones de equivalencia y de orden?
 > 
 > Dos tipos especiales de relaciones sobre X surgen de combinar las cuatro propiedades básicas de maneras distintas. La **relación de equivalencia** generaliza la idea de igualdad; la **relación de orden** generaliza la idea de "menor o igual que".
 > 
@@ -28,7 +28,7 @@
 
 ## 📋 Relaciones de Orden y de Equivalencia
 
-> [!note]- 📋 Definición 13 — Relación de Orden y de Equivalencia
+> [!note] 📋 Definición 13 — Relación de Orden y de Equivalencia
 > 
 > Sea R una relación sobre X. Diremos que:
 > 
@@ -44,7 +44,7 @@
 > > | Antisimétrica | ❌ | ✅ |
 > > | Transitiva | ✅ | ✅ |
 
-> [!example]- 📝 Ejemplo 15 — Clasificación de relaciones
+> [!example] 📝 Ejemplo 15 — Clasificación de relaciones
 > 
 > Retomando las relaciones del Ejemplo 14 (X = {1,3,4}):
 > 
@@ -56,7 +56,7 @@
 
 ## 📐 Demostrando Orden Parcial
 
-> [!note]- 📐 Técnica — Cómo demostrar que R es orden parcial
+> [!note] 📐 Técnica — Cómo demostrar que R es orden parcial
 > 
 > Para demostrar que R es un **orden parcial** sobre X hay que verificar las tres propiedades **una por una**, en este orden:
 > 
@@ -66,7 +66,7 @@
 > 
 > Si alguna falla, R **no** es orden parcial — basta un contraejemplo.
 
-> [!example]- 📝 Ejemplo — $a \mid b$ es orden parcial en $\mathbb{N}$
+> [!example] 📝 Ejemplo — $a \mid b$ es orden parcial en $\mathbb{N}$
 > 
 > Sea $X = \mathbb{N}$ y la relación $R$ definida por:
 > 
@@ -88,7 +88,7 @@
 > 
 > Por tanto $R$ es un orden parcial sobre $\mathbb{N}$. $\blacksquare$
 
-> [!example]- 📝 Ejemplo — $A \cap B = A$ es orden parcial en subconjuntos
+> [!example] 📝 Ejemplo — $A \cap B = A$ es orden parcial en subconjuntos
 > 
 > Sea $U$ un conjunto finito y $X$ el conjunto de todos los subconjuntos no vacíos de $U$. Se define:
 > 
@@ -104,7 +104,7 @@
 > 
 > Por tanto $R$ es un orden parcial sobre $X$. $\blacksquare$
 
-> [!tip]- 💡 Orden parcial vs. orden total
+> [!tip] 💡 Orden parcial vs. orden total
 > 
 > Un orden parcial permite que existan elementos **incomparables** — es decir, pares $a, b \in X$ donde ni $aRb$ ni $bRa$. Por ejemplo, en la divisibilidad sobre $\mathbb{N}$, los números 2 y 3 son incomparables (2 no divide a 3 y 3 no divide a 2).
 > 
@@ -118,11 +118,11 @@
 ---
 ## 🧩 Particiones
 
-> [!note]- 🧩 Definición 14 — Partición
+> [!note] 🧩 Definición 14 — Partición
 > 
 > Sea X un conjunto no vacío. Una **partición** de X es cualquier familia 𝒮 de subconjuntos de X, **no vacíos**, **disjuntos dos a dos** y cuya **unión es X**.
 
-> [!example]- 📝 Ejemplo 16 — Particiones de un conjunto
+> [!example] 📝 Ejemplo 16 — Particiones de un conjunto
 > 
 > Si X = {1, 2, 3}, entonces las familias:
 > 
@@ -133,7 +133,7 @@
 > 
 > Sin embargo, {{1,2},{2,3}} **no** es partición porque los conjuntos no son disjuntos (el 2 aparece en ambos).
 
-> [!abstract]- 📐 Teorema 2 — Partición ⟹ Equivalencia
+> [!abstract] 📐 Teorema 2 — Partición ⟹ Equivalencia
 > 
 > Sea 𝒮 una partición de X. Definamos una relación R sobre X por:
 > 
@@ -145,7 +145,7 @@
 
 ## 🔍 Clases de Equivalencia y Conjunto Cociente
 
-> [!note]- 🔍 Definición 15 — Clase de Equivalencia
+> [!note] 🔍 Definición 15 — Clase de Equivalencia
 > 
 > Sea R una relación de equivalencia sobre X. Dado a ∈ X, llamaremos **clase de equivalencia** de a, denotada [a], al conjunto:
 > 
@@ -158,7 +158,7 @@
 > - Si [a] ≠ [b], entonces [a] ∩ [b] = ∅ (son disjuntas).
 > - ⋃ₐ [a] = X (cubren todo X).
 
-> [!abstract]- 📐 Teorema 3 — Equivalencia ⟹ Partición (Conjunto Cociente)
+> [!abstract] 📐 Teorema 3 — Equivalencia ⟹ Partición (Conjunto Cociente)
 > 
 > Si R es una relación de equivalencia sobre X, entonces la familia:
 > 
@@ -166,7 +166,7 @@
 > 
 > es una **partición** de X. La llamaremos el **conjunto cociente** de R.
 
-> [!example]- 📝 Ejemplo 17 — Clases de equivalencia y conjunto cociente
+> [!example] 📝 Ejemplo 17 — Clases de equivalencia y conjunto cociente
 > 
 > Sea X = {1,3,4} y R₁ = {(1,1),(1,3),(3,1),(3,3),(4,4)}, que sabemos es relación de equivalencia.
 > 
@@ -207,7 +207,7 @@ graph TD
 
 ## 📝 Ejercicios Propuestos
 
-> [!question]- 📋 Ejercicios
+> [!question] 📋 Ejercicios
 > 
 > **1.** Sea R la relación en ℤ definida por x R y ⟺ 2 ∣ (x − y). Demuestra que es relación de equivalencia y describe sus clases de equivalencia.
 > 
@@ -215,7 +215,7 @@ graph TD
 > 
 > **3.** En el conjunto de cadenas sobre {a,b}, define xRy si |x| = |y| (misma longitud). ¿Es relación de equivalencia? ¿Cuáles son sus clases?
 
-> [!success]- ✅ Respuestas
+> [!success] ✅ Respuestas
 > 
 > **1.**
 > - Reflexiva: 2 ∣ (x−x) = 0 ✅

@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué son los Multiplicadores de Lagrange?
+> [!info] 💡 ¿Qué son los Multiplicadores de Lagrange?
 > 
 > Los **multiplicadores de Lagrange** son un método poderoso para encontrar extremos de funciones **sujetas a restricciones**. Resuelven problemas de optimización donde no podemos movernos libremente, sino que debemos permanecer sobre una curva o superficie.
 > 
@@ -54,7 +54,7 @@ graph TB
     style H fill:#e1ffe1
 ```
 
-> [!tip]- 🎯 ¿Cuándo Usar Multiplicadores de Lagrange?
+> [!tip] 🎯 ¿Cuándo Usar Multiplicadores de Lagrange?
 > 
 > **✅ Usa este método cuando:**
 > 
@@ -83,7 +83,7 @@ graph TB
 
 ### 📐 Interpretación Geométrica
 
-> [!info]- 🌊 Curvas de Nivel y Restricciones
+> [!info] 🌊 Curvas de Nivel y Restricciones
 > 
 > **Idea visual en 2D:**
 > 
@@ -119,7 +119,7 @@ graph TB
 
 ### 🎯 Teorema de Lagrange
 
-> [!success]- ✅ Teorema Fundamental
+> [!success] ✅ Teorema Fundamental
 > 
 > **Enunciado:**
 > 
@@ -141,7 +141,7 @@ graph TB
 
 ### 📝 Procedimiento Estándar (Dos Variables)
 
-> [!example]- 🔨 Pasos del Método
+> [!example] 🔨 Pasos del Método
 > 
 > **PROBLEMA GENERAL:**
 > 
@@ -197,7 +197,7 @@ graph TB
 
 ### 🌟 Ejemplo Completo Básico
 
-> [!example]- 📐 Problema Clásico: Rectángulo de Perímetro Fijo
+> [!example] 📐 Problema Clásico: Rectángulo de Perímetro Fijo
 > 
 > **Problema:**
 > 
@@ -241,7 +241,7 @@ graph TB
 > 
 > (Nota: λ = 5/2 = 2.5, aunque su valor específico no siempre es importante)
 
-> [!example]- 🎨 Ejemplo Detallado: Optimización Geométrica
+> [!example] 🎨 Ejemplo Detallado: Optimización Geométrica
 > 
 > **Problema:**
 > 
@@ -326,7 +326,7 @@ graph TB
 
 ### 🌐 Tres Variables
 
-> [!info]- 🔵 Extensión a f(x,y,z) con restricción g(x,y,z) = c
+> [!info] 🔵 Extensión a f(x,y,z) con restricción g(x,y,z) = c
 > 
 > **Sistema de Lagrange:**
 > 
@@ -334,7 +334,7 @@ graph TB
 > 
 > Son **4 ecuaciones con 4 incógnitas** (x, y, z, λ)
 
-> [!example]- 📦 Ejemplo: Caja con Restricción de Área
+> [!example] 📦 Ejemplo: Caja con Restricción de Área
 > 
 > **Problema:**
 > 
@@ -396,7 +396,7 @@ graph TB
 
 ### 🔗 Múltiples Restricciones
 
-> [!info]- 🎯 Dos o Más Restricciones
+> [!info] 🎯 Dos o Más Restricciones
 > 
 > **Problema general:**
 > 
@@ -416,7 +416,7 @@ graph TB
 > 
 > Son **5 ecuaciones con 5 incógnitas** (x, y, z, λ₁, λ₂)
 
-> [!example]- 🌟 Ejemplo: Dos Restricciones
+> [!example] 🌟 Ejemplo: Dos Restricciones
 > 
 > **Problema:**
 > 
@@ -474,7 +474,7 @@ graph TB
 
 ### 💰 Optimización Económica
 
-> [!example]- 📈 Maximización de Producción con Presupuesto Limitado
+> [!example] 📈 Maximización de Producción con Presupuesto Limitado
 > 
 > **Problema:**
 > 
@@ -538,7 +538,7 @@ graph TB
 
 ### 🏗️ Diseño y Geometría
 
-> [!example]- 📐 Problema de la Lata Óptima
+> [!example] 📐 Problema de la Lata Óptima
 > 
 > **Problema:**
 > 
@@ -598,7 +598,7 @@ graph TB
 
 ### 📊 Significado de Lambda
 
-> [!tip]- 💡 ¿Qué Representa λ?
+> [!tip] 💡 ¿Qué Representa λ?
 > 
 > El multiplicador λ tiene una **interpretación económica/física** importante:
 > 
@@ -619,7 +619,7 @@ graph TB
 > 
 > - λ indica cuánto material adicional necesitas por unidad adicional de volumen
 
-> [!example]- 📊 Ejemplo de Interpretación
+> [!example] 📊 Ejemplo de Interpretación
 > 
 > En el problema de producción anterior:
 > 
@@ -638,7 +638,7 @@ graph TB
 
 ## ⚠️ Limitaciones y Consideraciones
 
-> [!warning]- 🚫 Advertencias Importantes
+> [!warning] 🚫 Advertencias Importantes
 > 
 > **1. El método encuentra candidatos, no garantiza extremos**
 > 
@@ -677,7 +677,7 @@ graph TB
 
 ## ✅ Resumen de Fórmulas
 
-> [!summary]- 📋 Referencia Rápida
+> [!summary] 📋 Referencia Rápida
 > 
 > **Condición de Lagrange (2 variables):** $$\nabla f = \lambda \nabla g$$
 > 
@@ -700,7 +700,7 @@ graph TB
 
 ## 🎓 Ejercicios Propuestos
 
-> [!question]- 💪 Práctica
+> [!question] 💪 Práctica
 > 
 > **Ejercicio 1:** Maximiza f(x,y) = xy sujeto a x + y = 10
 > 
@@ -746,7 +746,7 @@ mindmap
       Varios λᵢ
 ```
 
-> [!quote]- 💡 Puntos Clave
+> [!quote] 💡 Puntos Clave
 > 
 > - **Optimización restringida** = Extremos sobre curvas/superficies
 > - **Condición clave** = ∇f = λ∇g (gradientes paralelos)

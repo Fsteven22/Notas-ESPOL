@@ -8,7 +8,7 @@
 [!quote]- Cita Inspiradora
 > *"El aprendizaje automático no es magia; es tecnología. Pero aplicada correctamente, puede parecer mágica."* - Andrew Ng
 
-> [!info]- ## ¿Qué es Machine Learning? 🧠
+> [!info] ## ¿Qué es Machine Learning? 🧠
 El Machine Learning (ML) o Aprendizaje Automático es una rama de la inteligencia artificial que permite a las computadoras aprender y tomar decisiones basadas en datos, sin ser programadas explícitamente para cada tarea específica.
 
 ### 🎯 Objetivos del Machine Learning
@@ -23,7 +23,7 @@ El Machine Learning (ML) o Aprendizaje Automático es una rama de la inteligenci
 - **Adaptativo**: Mejora con más datos
 - **Escalable**: Maneja grandes volúmenes de información
 
-> [!tip]- ## Tipos de Machine Learning 🔄
+> [!tip] ## Tipos de Machine Learning 🔄
 ```mermaid
 graph TD
     A[🤖 Machine Learning] --> B[👨‍🏫 Supervisado]
@@ -54,7 +54,7 @@ graph TD
 | **No Supervisado** 🔍 | Encuentra patrones sin etiquetas | K-means, PCA, DBSCAN | Segmentación de clientes, Detección de fraudes, Análisis de mercado |
 | **Por Refuerzo** 🎮 | Aprende mediante recompensas/castigos | Q-Learning, AlphaGo, Deep Q-Networks | Juegos, Robótica, Trading automático, Coches autónomos |
 
-> [!warning]- ## Proceso Completo de Machine Learning 🔄
+> [!warning] ## Proceso Completo de Machine Learning 🔄
 ```mermaid
 flowchart TB
     A[📥 Recopilación de Datos] --> B[🧹 Preprocesamiento]
@@ -103,7 +103,7 @@ flowchart TB
 - **Complejidad**: Lineal vs no lineal
 - **Interpretabilidad**: Trade-off con precisión
 
-> [!example]- ## Algoritmos Fundamentales por Categoría 🧮
+> [!example] ## Algoritmos Fundamentales por Categoría 🧮
 
 ### 🔄 Algoritmos de Clasificación
 | Algoritmo | Ventajas | Desventajas | Mejor para |
@@ -153,7 +153,7 @@ graph LR
 - **🤝 Ensemble Methods**: Combinar múltiples modelos
 - **📈 Learning Curves**: Monitorear progreso del entrenamiento
 
-> [!success]- ## Métricas de Evaluación 📊
+> [!success] ## Métricas de Evaluación 📊
 
 ### 🎯 Métricas para Clasificación
 ```mermaid
@@ -233,7 +233,42 @@ Ejemplo:
 [!quote]- ## Referencias y Conexiones 🔗
 
 ### 📖 Enlaces a Otras Notas
-- ![[Fundamentos de Programación\|Fundamentos de Programación]] - Base para implementar algoritmos de ML
+- 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/universidad/1er-semestre/fundamentos-de-programacion/fundamentos-de-programacion/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Fundamentos de Programación
+
+**Semestre:** 1ro
+
+---
+
+## Fundamentos de FP
+
+## Módulo 1 — Introducción y Ambientes de Programación
+
+## Módulo 2 — Tipos de datos, operadores, cadenas, listas y aleatoriedad
+
+## Módulo 3 — Funciones
+
+## Módulo 4 — Estructuras de control
+
+## Módulo 5 — Diccionarios
+
+## Módulo 6 — Pandas
+
+## Módulo General — Funciones especiales
+
+---
+
+**Tags:** #programacion #python #ESPOL #semester1
+
+
+</div></div>
+ - Base para implementar algoritmos de ML
 - ![[Métodos de Estudio\|Métodos de Estudio]] - Para estructurar el aprendizaje de conceptos complejos
 - 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -1156,7 +1191,7 @@ graph TD
 > - [[Contenido Extra/02 - Productividad/Aplicacion Práctica/Toma de Decisiones\|Toma de Decisiones]] - Procesos decisionales en contextos de proyecto
 > - [[Contenido Extra/04 - Liderazgo y Equipos/Liderazgo Personal/Liderazgo Situacional\|Liderazgo Situacional]] - Adaptación del estilo de liderazgo según la fase
 > - [[Contenido Extra/04 - Liderazgo y Equipos/Gestión de Relaciones/Gestión de Conflictos\|Gestión de Conflictos]] - Resolución de conflictos entre stakeholders
-> - [[Contenido Extra/02 - Productividad/Aplicacion Práctica/Comunicación Efectiva\|Comunicación Efectiva]] - Habilidades comunicacionales para PM
+> - [[Contenido Extra/02 - Productividad/Aplicacion Práctica/La Comunicación Efectiva\|La Comunicación Efectiva]] - Habilidades comunicacionales para PM
 > - [[Contenido Extra/02 - Productividad/Aplicacion Práctica/Análisis Costo-Beneficio\|Análisis Costo-Beneficio]] - Evaluación económica de proyectos
 > - [[Contenido Extra/04 - Liderazgo y Equipos/Liderazgo Personal/Team Building\|Team Building]] - Construcción y desarrollo de equipos de proyecto
 > - [[Contenido Extra/02 - Productividad/Metodologías y Sistemas/Objetivos SMART\|Objetivos SMART]] - Definición clara de objetivos de proyecto
@@ -1174,7 +1209,7 @@ graph TD
 > - [[Contenido Extra/02 - Productividad/Gestión de Tiempo/Planificación Estratégica Personal\|Planificación Estratégica Personal]] - Base conceptual de planificación
 > - [[Contenido Extra/02 - Productividad/Aplicacion Práctica/Análisis Costo-Beneficio\|Análisis Costo-Beneficio]] - Evaluación económica de alternativas
 > - [[Contenido Extra/02 - Productividad/Aplicacion Práctica/Toma de Decisiones\|Toma de Decisiones]] - Procesos decisionales estructurados
-> - [[Contenido Extra/02 - Productividad/Aplicacion Práctica/Comunicación Efectiva\|Comunicación Efectiva]] - Habilidades comunicacionales esenciales
+> - [[Contenido Extra/02 - Productividad/Aplicacion Práctica/La Comunicación Efectiva\|La Comunicación Efectiva]] - Habilidades comunicacionales esenciales
 > 
 > ### **Habilidades Complementarias:**
 > 
@@ -1212,9 +1247,120 @@ graph TD
 [!note]- ## Prerrequisitos y Notas Recomendadas 📋
 
 ### 🧮 **Fundamentos Matemáticos (Esenciales)**
-- ![[Cálculo de una Variable\|Cálculo de una Variable]] - Para entender optimización y gradientes
+- 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/universidad/1er-semestre/calculo-de-una-variable/calculo-de-una-variable/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# Cálculo de una Variable
+
+**Código:** MATG1045 · **Semestre:** 1ro
+
+---
+
+## Unidad 0 — Preliminares
+
+## Unidad 1 — Límites
+
+## Unidad 2 — Aplicaciones de Límites
+
+## Unidad 3 — Derivadas
+
+## Unidad 4 — Aplicaciones de la Derivada
+
+## Unidad 5 — Integrales
+
+## Unidad 6 — Aplicaciones de la Integral
+
+---
+
+**Tags:** #calculo #ESPOL #MATG1045 #semester1
+
+
+</div></div>
+ - Para entender optimización y gradientes
 - ![[Estadística y Probabilidad\|Estadística y Probabilidad]] - Base fundamental para ML
-- ![[Álgebra Lineal\|Álgebra Lineal]] - Operaciones matriciales y vectoriales
+- 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/universidad/2do-semestre/algebra-lineal/algebra-lineal/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+
+# 🟦 Álgebra Lineal
+
+**Código:** MATG1049 · **Semestre:** 2do · [[Universidad/2do Semestre/Algebra Lineal/Bienvenida y Syllabus Algebra Lineal\|Ver Syllabus completo]]
+
+---
+
+## Unidad 1 — Sistemas Lineales y Matrices *(4h)*
+
+- [[Universidad/2do Semestre/Algebra Lineal/Unidad 1 – Sistemas Lineales y Matrices/I – Sistemas de ecuaciones y representación/01 - Sistema de ecuaciones lineales en R2 y R3\|01 - Sistema de ecuaciones lineales en R2 y R3]]
+- [[Universidad/2do Semestre/Algebra Lineal/Unidad 1 – Sistemas Lineales y Matrices/II – Métodos de resolución/01 - Algoritmo de Gauss\|01 - Algoritmo de Gauss]]
+- [[Universidad/2do Semestre/Algebra Lineal/Unidad 1 – Sistemas Lineales y Matrices/II – Métodos de resolución/02 - Formas Escalonadas y Matriz Escalonada\|02 - Formas Escalonadas y Matriz Escalonada]]
+- [[Universidad/2do Semestre/Algebra Lineal/Unidad 1 – Sistemas Lineales y Matrices/III – Rango y teoremas fundamentales/01 - Rango de una Matriz\|01 - Rango de una Matriz]]
+- [[Universidad/2do Semestre/Algebra Lineal/Unidad 1 – Sistemas Lineales y Matrices/III – Rango y teoremas fundamentales/02 - Teorema de Rouché-Frobenius\|02 - Teorema de Rouché-Frobenius]]
+- [[Universidad/2do Semestre/Algebra Lineal/Unidad 1 – Sistemas Lineales y Matrices/III – Rango y teoremas fundamentales/03 - Matriz asociada a un S.E.L. y sistema aumentado\|03 - Matriz asociada a un S.E.L. y sistema aumentado]]
+- [[Universidad/2do Semestre/Algebra Lineal/Unidad 1 – Sistemas Lineales y Matrices/IV – Estructura de soluciones/01 - Dimensión y descripción del conjunto solución\|01 - Dimensión y descripción del conjunto solución]]
+
+## Unidad 2 — Espacios Vectoriales y Transformaciones Lineales *(14h)*
+
+- [[01 - Vectores en espacios vectoriales (definición y ejemplos)\|01 - Vectores en espacios vectoriales (definición y ejemplos)]]
+- [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 – Espacios Vectoriales y Transformaciones Lineales/I – Fundamentos de Espacios Vectoriales/02 - Espacio Vectorial\|02 - Espacio Vectorial]]
+- [[03 - Operaciones en un espacio vectorial (conmutatividad, etc.)\|03 - Operaciones en un espacio vectorial (conmutatividad, etc.)]]
+- [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 – Espacios Vectoriales y Transformaciones Lineales/I – Fundamentos de Espacios Vectoriales/04 - Lema de Cancelación\|04 - Lema de Cancelación]]
+- [[05 - Teoremas fundamentales del espacio vectorial\|05 - Teoremas fundamentales del espacio vectorial]]
+- [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 – Espacios Vectoriales y Transformaciones Lineales/I – Fundamentos de Espacios Vectoriales/06 - Operaciones No Convencionales\|06 - Operaciones No Convencionales]]
+- [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 – Espacios Vectoriales y Transformaciones Lineales/II – Subespacios y Generación/01 - Subespacios Vectoriales\|01 - Subespacios Vectoriales]]
+- [[02 - Combinación lineal\|02 - Combinación lineal]]
+- [[03 - Espacio generado por un conjunto de vectores\|03 - Espacio generado por un conjunto de vectores]]
+- [[04 - Suma de subespacios\|04 - Suma de subespacios]]
+- [[05 - Espacio columna\|05 - Espacio columna]]
+- [[06 - Espacio fila\|06 - Espacio fila]]
+- [[01 - Dependencia e independencia lineal\|01 - Dependencia e independencia lineal]]
+- [[02 - Base y dimensión\|02 - Base y dimensión]]
+- [[03 - Coordenadas en un espacio vectorial\|03 - Coordenadas en un espacio vectorial]]
+- [[04 - Matriz de cambio de base\|04 - Matriz de cambio de base]]
+- [[01 - Transformaciones lineales\|01 - Transformaciones lineales]]
+- [[02 - Núcleo e imagen de una transformación lineal\|02 - Núcleo e imagen de una transformación lineal]]
+- [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 – Espacios Vectoriales y Transformaciones Lineales/IV – Transformaciones Lineales/03 - Inyectividad y Sobreyectividad\|03 - Inyectividad y Sobreyectividad]]
+- [[04 - Biyectividad e isomorfismo\|04 - Biyectividad e isomorfismo]]
+- [[05 - Espacios isomorfos\|05 - Espacios isomorfos]]
+- [[06 - Inversa de una transformación lineal\|06 - Inversa de una transformación lineal]]
+- [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 – Espacios Vectoriales y Transformaciones Lineales/IV – Transformaciones Lineales/07 - Matriz de una Transformación Lineal\|07 - Matriz de una Transformación Lineal]]
+- [[08 - Teorema de la dimensión (Rango-Nulidad)\|08 - Teorema de la dimensión (Rango-Nulidad)]]
+
+## Unidad 3 — Espacios con Producto Interno *(6h)*
+
+- [[01 - Producto interno\|01 - Producto interno]]
+- [[02 - Norma inducida y distancia\|02 - Norma inducida y distancia]]
+- [[03 - Ortogonalidad y conjuntos ortonormales\|03 - Ortogonalidad y conjuntos ortonormales]]
+- [[04 - Proyección ortogonal\|04 - Proyección ortogonal]]
+- [[05 - Proceso de Gram-Schmidt\|05 - Proceso de Gram-Schmidt]]
+- [[06 - Complemento ortogonal\|06 - Complemento ortogonal]]
+- [[07 - Teorema de la Descomposición Ortogonal\|07 - Teorema de la Descomposición Ortogonal]]
+- [[08 - Desigualdad de Cauchy-Schwarz\|08 - Desigualdad de Cauchy-Schwarz]]
+- [[09 - Proyección ortogonal sobre un subespacio\|09 - Proyección ortogonal sobre un subespacio]]
+
+## Unidad 4 — Valores y Vectores Propios *(9h)*
+
+- [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 – Espacios Vectoriales y Transformaciones Lineales/VI - Valores y Vectores propios/01 - Valores y Vectores propios\|01 - Valores y Vectores propios]]
+- [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 – Espacios Vectoriales y Transformaciones Lineales/VI - Valores y Vectores propios/02 - Polinomio Característico\|02 - Polinomio Característico]]
+- [[03 - Espacio propio y multiplicidades (MA y MG)\|03 - Espacio propio y multiplicidades (MA y MG)]]
+- [[05 - Matriz semejante\|05 - Matriz semejante]]
+- [[06 - Matriz diagonalizable\|06 - Matriz diagonalizable]]
+- [[07 - Matriz ortogonal\|07 - Matriz ortogonal]]
+- [[08 - Teorema espectral\|08 - Teorema espectral]]
+
+---
+
+**Tags:** #algebra #lineal #ESPOL #MATG1049
+
+
+</div></div>
+ - Operaciones matriciales y vectoriales
 - ![[Estadística Descriptiva\|Estadística Descriptiva]] - Análisis exploratorio de datos
 
 ### 💻 **Programación (Requeridos)**
@@ -1441,7 +1587,7 @@ graph TD
 > - [[Contenido Extra/03 - Aprendizaje/Colaboración Y Redes/Facilitación de Grupos\|Facilitación de Grupos]] - Conducción de talleres y sesiones creativas
 > - [[Contenido Extra/02 - Productividad/Gestión de Tiempo/Gestión de Proyectos\|Gestión de Proyectos]] - Organización de iniciativas de innovación
 > - [[Contenido Extra/02 - Productividad/Aplicacion Práctica/Toma de Decisiones\|Toma de Decisiones]] - Evaluación y selección de alternativas
-> - [[Contenido Extra/02 - Productividad/Aplicacion Práctica/Comunicación Efectiva\|Comunicación Efectiva]] - Presentación de propuestas y resultados
+> - [[Contenido Extra/02 - Productividad/Aplicacion Práctica/La Comunicación Efectiva\|La Comunicación Efectiva]] - Presentación de propuestas y resultados
 > 
 > **Profundización:**
 > 
@@ -1900,7 +2046,7 @@ graph TD
 > - [[Contenido Extra/02 - Productividad/Gestión de Tiempo/Gestión de Proyectos\|Gestión de Proyectos]] - Procesos para ejecución de iniciativas
 > - [[Contenido Extra/07 - Tecnología Digital/Automatizaciones/Automatizaciones Digitales\|Automatizaciones Digitales]] - Optimización de procesos rutinarios
 > - [[Contenido Extra/02 - Productividad/Gestión de Tiempo/Sistemas de Revisión\|Sistemas de Revisión]] - Mantenimiento de información actualizada
-> - [[Contenido Extra/02 - Productividad/Aplicacion Práctica/Comunicación Efectiva\|Comunicación Efectiva]] - Transmisión clara de procedimientos
+> - [[Contenido Extra/02 - Productividad/Aplicacion Práctica/La Comunicación Efectiva\|La Comunicación Efectiva]] - Transmisión clara de procedimientos
 > - [[Contenido Extra/01 - Dashboard/Operativo Diario/Planificación Estratégica\|Planificación Estratégica]] - Procesos de alto nivel organizacional
 > - [[Contenido Extra/02 - Productividad/Gestión de Tiempo/Time Blocking\|Time Blocking]] - Asignación temporal de procesos
 > - [[Contenido Extra/01 - Dashboard/Operativo Diario/Dashboard Semanal\|Dashboard Semanal]] - Seguimiento de procesos clave
@@ -1914,7 +2060,7 @@ graph TD
 > ### Prerrequisitos Esenciales
 > 
 > - [[Contenido Extra/03 - Aprendizaje/Habilidades Sociales y Emocionales/Pensamiento Crítico\|Pensamiento Crítico]] - Análisis lógico de procesos
-> - [[Contenido Extra/02 - Productividad/Aplicacion Práctica/Comunicación Efectiva\|Comunicación Efectiva]] - Claridad en instrucciones
+> - [[Contenido Extra/02 - Productividad/Aplicacion Práctica/La Comunicación Efectiva\|La Comunicación Efectiva]] - Claridad en instrucciones
 > - [[Contenido Extra/02 - Productividad/Gestión de Tiempo/Gestión del Tiempo\|Gestión del Tiempo]] - Estimación y planificación temporal
 > - [[Contenido Extra/01 - Dashboard/Fundamentos/Autoconocimiento\|Autoconocimiento]] - Comprensión de estilos de trabajo personal
 > 

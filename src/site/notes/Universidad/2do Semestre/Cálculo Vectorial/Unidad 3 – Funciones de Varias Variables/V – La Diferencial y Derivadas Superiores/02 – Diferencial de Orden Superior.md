@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Por qué son importantes las Derivadas de Orden Superior?
+> [!info] 💡 ¿Por qué son importantes las Derivadas de Orden Superior?
 > 
 > Las derivadas de orden superior nos permiten analizar cómo cambia la **tasa de cambio** de una función, proporcionando información sobre:
 > 
@@ -32,7 +32,7 @@
 
 ### 📝 Notación para Derivadas Parciales
 
-> [!example]- 🟢 Sistemas de Notación
+> [!example] 🟢 Sistemas de Notación
 > 
 > Para una función $f(x,y)$, existen varias notaciones equivalentes:
 > 
@@ -82,7 +82,7 @@
 
 ### 📊 Las Cuatro Derivadas Segundas
 
-> [!example]- 🟡 Clasificación Completa
+> [!example] 🟡 Clasificación Completa
 > 
 > Para $f(x,y)$, existen **cuatro** derivadas de segundo orden:
 > 
@@ -142,7 +142,7 @@
 
 ### 🎯 Teorema Fundamental
 
-> [!note]- 🟢 Teorema de Igualdad de Derivadas Mixtas
+> [!note] 🟢 Teorema de Igualdad de Derivadas Mixtas
 > 
 > **Enunciado:** Sea $f: D \subseteq \mathbb{R}^2 \to \mathbb{R}$ una función. Si las derivadas parciales mixtas $f_{xy}$ y $f_{yx}$ son **continuas** en un punto $(a,b)$, entonces:
 > 
@@ -197,7 +197,7 @@
 
 ### Ejemplo 1: Polinomio Simple
 
-> [!example]- 📝 Ejemplo 1: Función Polinomial
+> [!example] 📝 Ejemplo 1: Función Polinomial
 > 
 > **Función:** $$f(x,y) = x^3 + 2x^2y + 3xy^2 + y^3$$
 > 
@@ -241,7 +241,7 @@
 
 ### Ejemplo 2: Función Exponencial
 
-> [!example]- 📝 Ejemplo 2: Exponencial Compuesta
+> [!example] 📝 Ejemplo 2: Exponencial Compuesta
 > 
 > **Función:** $$f(x,y) = e^{x^2+y^2}$$
 > 
@@ -281,7 +281,7 @@
 
 ### Ejemplo 3: Función Trigonométrica
 
-> [!example]- 📝 Ejemplo 3: Función Seno-Coseno
+> [!example] 📝 Ejemplo 3: Función Seno-Coseno
 > 
 > **Función:** $$f(x,y) = \sin(x)\cos(y)$$
 > 
@@ -317,7 +317,7 @@
 
 ### Ejemplo 4: Función Racional
 
-> [!example]- 📝 Ejemplo 4: Cociente de Polinomios
+> [!example] 📝 Ejemplo 4: Cociente de Polinomios
 > 
 > **Función:** $$f(x,y) = \frac{xy}{x^2 + y^2}$$
 > 
@@ -361,7 +361,7 @@
 
 ### Ejemplo 5: Logaritmo
 
-> [!example]- 📝 Ejemplo 5: Función Logarítmica
+> [!example] 📝 Ejemplo 5: Función Logarítmica
 > 
 > **Función:** $$f(x,y) = \ln(x^2 + y^2)$$
 > 
@@ -403,7 +403,7 @@
 
 ### ⚠️ Cuando Falla el Teorema de Schwarz
 
-> [!warning]- 🔴 Ejemplo Patológico
+> [!warning] 🔴 Ejemplo Patológico
 > 
 > **Función:** $$f(x,y) = \begin{cases} \frac{xy(x^2-y^2)}{x^2+y^2} & \text{si } (x,y) \neq (0,0) \ 0 & \text{si } (x,y) = (0,0) \end{cases}$$
 > 
@@ -449,7 +449,7 @@
 
 ### 🗺️ Significado de las Derivadas Segundas
 
-> [!note]- 🎯 Visualización Geométrica
+> [!note] 🎯 Visualización Geométrica
 > 
 > ### Derivada Segunda Pura: Curvatura
 > 
@@ -552,7 +552,7 @@
 
 ### 📊 Derivadas Terceras
 
-> [!example]- 🟡 Terceras Derivadas
+> [!example] 🟡 Terceras Derivadas
 > 
 > Para $f(x,y)$, existen **8 derivadas terceras** posibles:
 > 
@@ -619,7 +619,7 @@
 
 ### 🎯 Definición y Propiedades
 
-> [!note]- 🟢 La Matriz Hessiana
+> [!note] 🟢 La Matriz Hessiana
 > 
 > **Definición:** Para una función $f: \mathbb{R}^2 \to \mathbb{R}$, la **matriz Hessiana** (o Hessiano) en un punto $(a,b)$ es la matriz de derivadas segundas:
 > 
@@ -672,7 +672,7 @@
 
 ### Ejemplo 6: Calcular Hessiana de un Polinomio
 
-> [!example]- 📝 Ejemplo 6: Hessiana Explícita
+> [!example] 📝 Ejemplo 6: Hessiana Explícita
 > 
 > **Función:** $$f(x,y) = x^3 + y^3 - 3xy$$
 > 
@@ -710,7 +710,7 @@
 
 ### Ejemplo 7: Hessiana de Función Exponencial
 
-> [!example]- 📝 Ejemplo 7: Función con Exponencial
+> [!example] 📝 Ejemplo 7: Función con Exponencial
 > 
 > **Función:** $$f(x,y) = e^{-(x^2+y^2)}$$
 > 
@@ -746,7 +746,7 @@
 
 ### Ejemplo 8: Hessiana de una Silla de Montar
 
-> [!example]- 📝 Ejemplo 8: Punto de Silla
+> [!example] 📝 Ejemplo 8: Punto de Silla
 > 
 > **Función:** $$f(x,y) = x^2 - y^2$$
 > 
@@ -782,7 +782,7 @@
 
 ### 🔍 Clasificación de Puntos Críticos
 
-> [!tip]- ⭐ Criterio de la Segunda Derivada para Extremos
+> [!tip] ⭐ Criterio de la Segunda Derivada para Extremos
 > 
 > Sea $f(x,y)$ una función con derivadas segundas continuas, y sea $(a,b)$ un **punto crítico** (donde $f_x = f_y = 0$).
 > 
@@ -843,7 +843,7 @@
 
 ### Ejemplo 9: Optimización de Polinomio
 
-> [!example]- 📝 Ejemplo 9: Clasificación Completa
+> [!example] 📝 Ejemplo 9: Clasificación Completa
 > 
 > **Función:** $$f(x,y) = x^3 + y^3 - 3xy$$
 > 
@@ -890,7 +890,7 @@
 
 ### Ejemplo 10: Función con Tres Puntos Críticos
 
-> [!example]- 📝 Ejemplo 10: Análisis Completo
+> [!example] 📝 Ejemplo 10: Análisis Completo
 > 
 > **Función:** $$f(x,y) = x^4 + y^4 - 4xy$$
 > 
@@ -954,7 +954,7 @@
 
 ### Ejemplo 11: Caso Indeterminado
 
-> [!example]- 📝 Ejemplo 11: Cuando $D = 0$
+> [!example] 📝 Ejemplo 11: Cuando $D = 0$
 > 
 > **Función:** $$f(x,y) = x^4 + y^4$$
 > 
@@ -994,7 +994,7 @@
 
 ### 📐 Definición del Diferencial de Segundo Orden
 
-> [!note]- 🟢 Diferencial de Segundo Orden
+> [!note] 🟢 Diferencial de Segundo Orden
 > 
 > **Para funciones de una variable:**
 > 
@@ -1035,7 +1035,7 @@
 
 ### Ejemplo 12: Calcular Segundo Diferencial
 
-> [!example]- 📝 Ejemplo 12: Diferencial Explícito
+> [!example] 📝 Ejemplo 12: Diferencial Explícito
 > 
 > **Función:** $$f(x,y) = x^2y + xy^2$$
 > 
@@ -1077,7 +1077,7 @@
 
 ### 🔍 Conexión con Álgebra Lineal
 
-> [!note]- 🎯 Formas Cuadráticas
+> [!note] 🎯 Formas Cuadráticas
 > 
 > **Definición:** Una **forma cuadrática** en $\mathbb{R}^2$ es una expresión de la forma:
 > 
@@ -1144,7 +1144,7 @@
 
 ### 🎯 Aproximación Cuadrática
 
-> [!note]- 🟢 Polinomio de Taylor de Segundo Orden
+> [!note] 🟢 Polinomio de Taylor de Segundo Orden
 > 
 > **Para funciones de una variable:** $$f(x) \approx f(a) + f'(a)(x-a) + \frac{f''(a)}{2}(x-a)^2$$
 > 
@@ -1193,7 +1193,7 @@
 
 ### Ejemplo 13: Aproximación de Taylor
 
-> [!example]- 📝 Ejemplo 13: Aproximación Cuadrática
+> [!example] 📝 Ejemplo 13: Aproximación Cuadrática
 > 
 > **Función:** $$f(x,y) = e^x \cos(y)$$
 > 
@@ -1245,7 +1245,7 @@
 
 ### Ejemplo 14: Aproximación en Punto No Trivial
 
-> [!example]- 📝 Ejemplo 14: Taylor alrededor de $(1,2)$
+> [!example] 📝 Ejemplo 14: Taylor alrededor de $(1,2)$
 > 
 > **Función:** $$f(x,y) = x^2y + y^2$$
 > 
@@ -1287,7 +1287,7 @@
 
 ### 📐 Extensión a $\mathbb{R}^3$
 
-> [!note]- 🟡 Derivadas Segundas en Tres Variables
+> [!note] 🟡 Derivadas Segundas en Tres Variables
 > 
 > Para $f(x,y,z)$, existen **6 derivadas segundas** (si son continuas):
 > 
@@ -1341,7 +1341,7 @@
 
 ### Ejemplo 15: Función en Tres Variables
 
-> [!example]- 📝 Ejemplo 15: Cálculo en $\mathbb{R}^3$
+> [!example] 📝 Ejemplo 15: Cálculo en $\mathbb{R}^3$
 > 
 > **Función:** $$f(x,y,z) = x^2y + y^2z + z^2x$$
 > 
@@ -1393,7 +1393,7 @@
 
 ### 🔬 Física: Ecuación de Onda
 
-> [!note]- 🌊 Aplicación: Propagación de Ondas
+> [!note] 🌊 Aplicación: Propagación de Ondas
 > 
 > La **ecuación de onda** en una dimensión espacial:
 > 
@@ -1426,7 +1426,7 @@
 
 ### 🏗️ Ingeniería: Flexión de Vigas
 
-> [!note]- 🔧 Aplicación: Ecuación de la Viga
+> [!note] 🔧 Aplicación: Ecuación de la Viga
 > 
 > La **deflexión** de una viga está gobernada por:
 > 
@@ -1461,7 +1461,7 @@
 
 ### 📊 Economía: Utilidad y Elasticidad
 
-> [!note]- 💰 Aplicación: Función de Utilidad
+> [!note] 💰 Aplicación: Función de Utilidad
 > 
 > **Función de utilidad:** $U(x,y)$ representa la satisfacción del consumidor al consumir $x$ unidades del bien 1 e $y$ unidades del bien 2.
 > 
@@ -1515,7 +1515,7 @@
 
 ### Nivel Básico
 
-> [!example]- 💪 Práctica Básica
+> [!example] 💪 Práctica Básica
 > 
 > **1. Calcular todas las derivadas segundas:**
 > 
@@ -1553,7 +1553,7 @@
 
 ### Nivel Intermedio
 
-> [!example]- 💪 Práctica Intermedia
+> [!example] 💪 Práctica Intermedia
 > 
 > **5. Encontrar y clasificar puntos críticos:**
 > 
@@ -1597,7 +1597,7 @@
 
 ### Nivel Avanzado
 
-> [!example]- 💪 Práctica Avanzada
+> [!example] 💪 Práctica Avanzada
 > 
 > **9. Teoría:**
 > 
@@ -1645,7 +1645,7 @@
 
 ### Soluciones Básicas
 
-> [!success]- 🔑 Respuestas Ejercicios Básicos
+> [!success] 🔑 Respuestas Ejercicios Básicos
 > 
 > **1a)** $f(x,y) = x^3y^2 + x^2y^3$
 > 
@@ -1675,7 +1675,7 @@
 
 ### Soluciones Intermedias
 
-> [!success]- 🔑 Respuestas Ejercicios Intermedios
+> [!success] 🔑 Respuestas Ejercicios Intermedios
 > 
 > **5a)** $f(x,y) = x^2 + y^2 - 2x - 4y + 5$
 > 
@@ -1719,7 +1719,7 @@
 
 ### Curvatura y Hessiana
 
-> [!note]- 🖼️ Interpretación Visual
+> [!note] 🖼️ Interpretación Visual
 > 
 > ### Matriz Hessiana Definida Positiva
 > 
@@ -1788,7 +1788,7 @@
 
 ## 💡 Consejos y Errores Comunes
 
-> [!tip]- ⚠️ Errores Comunes al Trabajar con Derivadas Superiores
+> [!tip] ⚠️ Errores Comunes al Trabajar con Derivadas Superiores
 > 
 > ### Error 1: Confundir el Orden de Derivación
 > 
@@ -1897,7 +1897,7 @@
 
 ### 📊 Técnicas Eficientes
 
-> [!tip]- 🎯 Métodos para Calcular Derivadas Superiores
+> [!tip] 🎯 Métodos para Calcular Derivadas Superiores
 > 
 > ### Técnica 1: Usar Simetría
 > 
@@ -1986,7 +1986,7 @@
 
 ### 🔍 Teoremas Importantes
 
-> [!note]- 🟢 Propiedades de las Derivadas Superiores
+> [!note] 🟢 Propiedades de las Derivadas Superiores
 > 
 > ### Propiedad 1: Linealidad
 > 
@@ -2044,7 +2044,7 @@
 
 ### 📊 Generalización a $\mathbb{R}^n$
 
-> [!note]- 🔵 Derivadas en Dimensiones Arbitrarias
+> [!note] 🔵 Derivadas en Dimensiones Arbitrarias
 > 
 > Para $f: \mathbb{R}^n \to \mathbb{R}$, la **matriz Hessiana** es $n \times n$:
 > 
@@ -2093,7 +2093,7 @@
 
 ### 🔬 Tensor de Derivadas
 
-> [!note]- 🟣 Formulación Tensorial
+> [!note] 🟣 Formulación Tensorial
 > 
 > ### Derivadas como Tensores
 > 
@@ -2129,7 +2129,7 @@
 
 ### 🤖 Machine Learning y Optimización
 
-> [!note]- 💻 Aplicaciones Computacionales
+> [!note] 💻 Aplicaciones Computacionales
 > 
 > ### Método de Newton en Optimización
 > 
@@ -2174,7 +2174,7 @@
 
 ## 🎯 Resumen de Conceptos Clave
 
-> [!tip]- 💡 Puntos Esenciales
+> [!tip] 💡 Puntos Esenciales
 > 
 > ### Derivadas de Segundo Orden
 > 
@@ -2230,7 +2230,7 @@
 
 ## 🔗 Conexiones con Otros Temas
 
-> [!quote]- 🌐 Relaciones Importantes
+> [!quote] 🌐 Relaciones Importantes
 > 
 > **Este tema es fundamental para:**
 > 
@@ -2253,7 +2253,7 @@
 
 ## 📝 Notas Finales
 
-> [!note]- 🎯 Reflexiones sobre Derivadas Superiores
+> [!note] 🎯 Reflexiones sobre Derivadas Superiores
 > 
 > ### Importancia Conceptual
 > 

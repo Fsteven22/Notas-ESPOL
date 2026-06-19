@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué son las Colecciones?
+> [!info] 💡 ¿Qué son las Colecciones?
 > 
 > Las **colecciones** son estructuras de datos que almacenan y organizan grupos de objetos de forma dinámica. A diferencia de los arreglos, pueden **crecer y reducirse** automáticamente según sea necesario.
 > 
@@ -55,7 +55,7 @@
 
 ### 🔨 Declaración y Creación
 
-> [!tip]- 🎨 Sintaxis Básica
+> [!tip] 🎨 Sintaxis Básica
 > 
 > **Importar la clase:**
 > 
@@ -125,7 +125,7 @@
 
 ### ➕ Operaciones Básicas
 
-> [!success]- 🔧 Métodos Fundamentales
+> [!success] 🔧 Métodos Fundamentales
 > 
 > **1. Agregar elementos:**
 > 
@@ -245,7 +245,7 @@
 
 ### 🔄 Recorrer ArrayList
 
-> [!example]- 🚶 Formas de Iterar
+> [!example] 🚶 Formas de Iterar
 > 
 > **1. For tradicional:**
 > 
@@ -352,7 +352,7 @@
 
 ### 📌 Características
 
-> [!info]- 🔗 Diferencia con ArrayList
+> [!info] 🔗 Diferencia con ArrayList
 > 
 > **Estructura interna:**
 > 
@@ -437,7 +437,7 @@
 
 ### 🔑 Características Únicas
 
-> [!success]- 🎯 Colección sin Repetidos
+> [!success] 🎯 Colección sin Repetidos
 > 
 > **Propiedades del HashSet:**
 > 
@@ -523,7 +523,7 @@
 
 ### 📚 Diccionarios en Java
 
-> [!tip]- 🔐 Estructura Clave-Valor
+> [!tip] 🔐 Estructura Clave-Valor
 > 
 > **Concepto:**
 > 
@@ -646,7 +646,7 @@
 
 ### 🔍 Tabla Resumen
 
-> [!note]- 📋 Cuándo Usar Cada Una
+> [!note] 📋 Cuándo Usar Cada Una
 > 
 > |Colección|Permite Duplicados|Ordenada|Acceso|Uso Principal|
 > |---|---|---|---|---|
@@ -682,7 +682,7 @@
 
 ### 🔄 Conversiones entre Colecciones
 
-> [!example]- 🔀 Transformaciones Comunes
+> [!example] 🔀 Transformaciones Comunes
 > 
 > **1. ArrayList ↔ Array:**
 > 
@@ -729,7 +729,7 @@
 
 ### 🎯 Ordenamiento
 
-> [!success]- ↕️ Ordenar Colecciones
+> [!success] ↕️ Ordenar Colecciones
 > 
 > **Ordenar ArrayList:**
 > 
@@ -764,7 +764,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!danger]- 🐛 Problemas Frecuentes
+> [!danger] 🐛 Problemas Frecuentes
 > 
 > **1. ConcurrentModificationException:**
 > 
@@ -853,7 +853,7 @@ mindmap
       Frecuencias
 ```
 
-> [!quote]- 🎓 Puntos Clave para Recordar
+> [!quote] 🎓 Puntos Clave para Recordar
 > 
 > ✅ **ArrayList** - uso general, tamaño dinámico, acceso rápido por índice  
 > ✅ **LinkedList** - solo si insertas/eliminas al inicio frecuentemente  

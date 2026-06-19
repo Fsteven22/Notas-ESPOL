@@ -7,7 +7,7 @@
 
 ## 🌟 Fundamentos Conceptuales
 
-> [!info]- 💡 Introducción al Plano Tangente La **interpretación geométrica del plano tangente** es fundamental para entender cómo las funciones de varias variables se comportan localmente. Mientras que en cálculo de una variable la derivada nos da la **pendiente de la recta tangente**, en ℝ³ las derivadas parciales nos permiten construir un **plano tangente** que aproxima la superficie cerca de un punto.
+> [!info] 💡 Introducción al Plano Tangente La **interpretación geométrica del plano tangente** es fundamental para entender cómo las funciones de varias variables se comportan localmente. Mientras que en cálculo de una variable la derivada nos da la **pendiente de la recta tangente**, en ℝ³ las derivadas parciales nos permiten construir un **plano tangente** que aproxima la superficie cerca de un punto.
 > 
 > **Analogías útiles:**
 > 
@@ -32,7 +32,7 @@
 
 ### 🎨 Visualización Geométrica
 
-> [!note]- 🌄 La Superficie y su Plano Tangente **Contexto:**
+> [!note] 🌄 La Superficie y su Plano Tangente **Contexto:**
 > 
 > Consideremos una superficie definida por una función z = f(x, y) en ℝ³.
 > 
@@ -64,7 +64,7 @@
 
 ### 📏 Ecuación del Plano Tangente
 
-> [!warning]- 📐 Fórmula Fundamental **Dada una función z = f(x, y) diferenciable en el punto (x₀, y₀):**
+> [!warning] 📐 Fórmula Fundamental **Dada una función z = f(x, y) diferenciable en el punto (x₀, y₀):**
 > 
 > **El plano tangente a la superficie en P₀ = (x₀, y₀, f(x₀, y₀)) tiene ecuación:**
 > 
@@ -99,7 +99,7 @@
 
 ### 🔍 Derivación de la Ecuación
 
-> [!tip]- 🧮 ¿De dónde viene la fórmula? **Método 1: Usando las rectas tangentes**
+> [!tip] 🧮 ¿De dónde viene la fórmula? **Método 1: Usando las rectas tangentes**
 > 
 > **Paso 1 - Curva en dirección x:**
 > 
@@ -160,7 +160,7 @@
 
 ### 📊 Ejemplos Detallados
 
-> [!example]- 🎯 Casos Resueltos Paso a Paso **Ejemplo 1: Paraboloide simple**
+> [!example] 🎯 Casos Resueltos Paso a Paso **Ejemplo 1: Paraboloide simple**
 > 
 > Encontrar el plano tangente a z = f(x, y) = x² + y² en el punto (1, 2, 5).
 > 
@@ -278,7 +278,7 @@
 
 ### 📈 Concepto de Aproximación Lineal
 
-> [!success]- 🔍 La Mejor Aproximación Local **Definición:**
+> [!success] 🔍 La Mejor Aproximación Local **Definición:**
 > 
 > La **aproximación lineal** o **linealización** de f(x, y) cerca del punto (x₀, y₀) es la función lineal L(x, y) dada por:
 > 
@@ -318,7 +318,7 @@
 
 ### 🎲 Diferencial Total
 
-> [!warning]- 📐 La Diferencial de una Función **Definición:**
+> [!warning] 📐 La Diferencial de una Función **Definición:**
 > 
 > La **diferencial total** de z = f(x, y) es:
 > 
@@ -354,7 +354,7 @@
 
 ### 🔢 Ejemplos de Aproximación
 
-> [!example]- 💡 Aplicaciones Prácticas **Ejemplo 1: Estimación simple**
+> [!example] 💡 Aplicaciones Prácticas **Ejemplo 1: Estimación simple**
 > 
 > Usar aproximación lineal para estimar f(2.1, 3.05) si f(x, y) = x²y y conocemos f y sus derivadas en (2, 3).
 > 
@@ -487,7 +487,7 @@
 
 ### 📊 Comparación Visual
 
-> [!tip]- 👁️ Diferencias y Similitudes **Cerca del punto de tangencia:**
+> [!tip] 👁️ Diferencias y Similitudes **Cerca del punto de tangencia:**
 > 
 > |Distancia desde P₀|Superficie S|Plano Tangente T|Diferencia|
 > |---|---|---|---|
@@ -524,7 +524,7 @@
 
 ### 🎯 Error de Aproximación
 
-> [!warning]- ⚠️ Cuantificando el Error **Teorema del error:**
+> [!warning] ⚠️ Cuantificando el Error **Teorema del error:**
 > 
 > Si f tiene derivadas parciales segundas continuas en una región alrededor de (x₀, y₀), entonces:
 > 
@@ -575,7 +575,7 @@
 
 ### 🔄 Segundas Derivadas Parciales
 
-> [!note]- 🔢 Derivando Dos Veces **Definición:**
+> [!note] 🔢 Derivando Dos Veces **Definición:**
 > 
 > Para una función z = f(x, y), las **derivadas parciales de segundo orden** son:
 > 
@@ -612,7 +612,7 @@
 
 ### 📐 Cálculo de Segundas Derivadas
 
-> [!example]- 🎯 Ejemplos Paso a Paso **Ejemplo 1: Función polinomial**
+> [!example] 🎯 Ejemplos Paso a Paso **Ejemplo 1: Función polinomial**
 > 
 > Calcular todas las segundas derivadas de f(x, y) = x³y² + 2xy³
 > 
@@ -708,7 +708,7 @@
 
 ### 🌀 Matriz Hessiana
 
-> [!success]- 🎨 Organizando las Segundas Derivadas **Definición:**
+> [!success] 🎨 Organizando las Segundas Derivadas **Definición:**
 > 
 > La **matriz Hessiana** de f(x, y) es la matriz de segundas derivadas:
 > 
@@ -789,7 +789,7 @@ graph TB
 
 ### 🌍 Aplicaciones en Ciencias
 
-> [!tip]- 🔬 Usos Prácticos **1. Física - Análisis de superficies:**
+> [!tip] 🔬 Usos Prácticos **1. Física - Análisis de superficies:**
 > 
 > - **Óptica:** Superficies reflectantes, el plano tangente determina el ángulo de reflexión
 > - **Mecánica:** Fuerzas normales a superficies
@@ -829,7 +829,7 @@ graph TB
 
 ### 💼 Problemas Aplicados
 
-> [!example]- 🎯 Casos Reales **Problema 1: Producción industrial**
+> [!example] 🎯 Casos Reales **Problema 1: Producción industrial**
 > 
 > Una fábrica produce Q(x, y) = 100x⁰·⁶y⁰·⁴ unidades, donde x = trabajadores, y = horas-máquina. Actualmente x = 50, y = 80.
 > 
@@ -928,7 +928,7 @@ graph TB
 
 ## 🎓 Ejercicios Integrales
 
-> [!example]- 💪 Práctica Completa **Nivel 1 - Básico:** 🟢
+> [!example] 💪 Práctica Completa **Nivel 1 - Básico:** 🟢
 > 
 > 1. Encontrar el plano tangente a z = x² + y² en (1, 2, 5).
 > 
@@ -1053,7 +1053,7 @@ graph TB
 
 ### 🌊 Superficies de Nivel y Gradiente
 
-> [!success]- 🎯 Conexión Profunda **Superficies de nivel:**
+> [!success] 🎯 Conexión Profunda **Superficies de nivel:**
 > 
 > Para una función F(x, y, z), una **superficie de nivel** es:
 > 
@@ -1089,7 +1089,7 @@ graph TB
 
 ### 🎨 Diferenciabilidad
 
-> [!warning]- ⚠️ Condiciones para que Exista el Plano Tangente **Definición formal:**
+> [!warning] ⚠️ Condiciones para que Exista el Plano Tangente **Definición formal:**
 > 
 > f(x, y) es **diferenciable** en (x₀, y₀) si existe un plano tangente tal que:
 > 
@@ -1126,7 +1126,7 @@ graph TB
 
 ## 💡 Consejos y Errores Comunes
 
-> [!tip]- 🧠 Guía de Estudio **Estrategias de aprendizaje:**
+> [!tip] 🧠 Guía de Estudio **Estrategias de aprendizaje:**
 > 
 > 1. **Visualización 3D:**
 >     - Usar software: GeoGebra 3D, Wolfram Alpha, Desmos 3D
@@ -1180,7 +1180,7 @@ graph TB
 
 ## 📊 Tabla Resumen
 
-> [!example]- 📋 Compendio Visual
+> [!example] 📋 Compendio Visual
 > 
 > |Concepto|Fórmula/Definición|Ejemplo|Aplicación|
 > |---|---|---|---|
@@ -1197,10 +1197,10 @@ graph TB
 
 ## 🔗 Conexiones Conceptuales
 
-> [!quote]- 🌟 Red de Conocimientos **Prerequisites (Prerrequisitos):**
+> [!quote] 🌟 Red de Conocimientos **Prerequisites (Prerrequisitos):**
 > 
 > - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/I – Fundamentos del Espacio Tridimensional/02 - Vectores en R3\|02 - Vectores en R3]] - Base vectorial
-> - [[Universidad/1er Semestre/Física Mecanica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Herramientas Matemáticas/Derivadas Parciales\|Derivadas Parciales]] - Herramienta fundamental
+> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Herramientas Matemáticas/Derivadas Parciales\|Derivadas Parciales]] - Herramienta fundamental
 > - [[Límites en varias variables\|Límites en varias variables]] - Concepto de aproximación
 > - [[Continuidad en R²\|Continuidad en R²]] - Condición necesaria
 > 

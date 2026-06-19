@@ -740,7 +740,7 @@ graph TD
 > [!quote] 🌟 Enlaces con Otros Temas
 > 
 > **Prerequisites:**
-> - [[Universidad/1er Semestre/Física Mecanica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Herramientas Matemáticas/Derivadas Parciales\|Derivadas Parciales]] - Base del cálculo multivariable
+> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Herramientas Matemáticas/Derivadas Parciales\|Derivadas Parciales]] - Base del cálculo multivariable
 > - [[Continuidad y Diferenciabilidad\|Continuidad y Diferenciabilidad]] - Condiciones de regularidad
 > - [[Funciones de Varias Variables\|Funciones de Varias Variables]] - Dominio del teorema
 > 

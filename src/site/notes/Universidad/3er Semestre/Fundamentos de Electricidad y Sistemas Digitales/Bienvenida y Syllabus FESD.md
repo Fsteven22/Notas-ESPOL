@@ -7,7 +7,7 @@
 
 ## 🎉 ¡Bienvenido/a a Fundamentos de Electricidad y Sistemas Digitales!
 
-> [!info]- 👋 Sobre esta materia
+> [!info] 👋 Sobre esta materia
 >
 > ¡Hola y bienvenido/a! Esta materia te introduce a los conceptos fundamentales de electricidad y sistemas digitales. Aprenderás a analizar circuitos eléctricos y electrónicos, a trabajar con elementos semiconductores y circuitos integrados, y a diseñar sistemas digitales usando álgebra de Bool y técnicas de diseño lógico.
 >
@@ -26,7 +26,7 @@
 
 ## 🎯 Objetivo General
 
-> [!note]- 📌 ¿Qué vamos a lograr?
+> [!note] 📌 ¿Qué vamos a lograr?
 >
 > Orientar a los estudiantes en el estudio de los conceptos de física eléctrica y electrónica digital para el ahorro de energía y minimización de ruido en dispositivos electrónicos de pequeña y mediana potencia, utilizando componentes electrónicos de bajo consumo y herramientas de simulación de circuitos para análisis y diseño.
 >
@@ -43,7 +43,7 @@
 
 ## 📋 Evaluación
 
-> [!warning]- 📊 Métodos de evaluación
+> [!warning] 📊 Métodos de evaluación
 >
 > | Actividad | Aplica |
 > |---|---|
@@ -60,7 +60,7 @@
 
 ## 🗂️ Contenido del Curso
 
-> [!tip]- 📚 Temas a cubrir
+> [!tip] 📚 Temas a cubrir
 >
 > ```mermaid
 > graph LR
@@ -88,7 +88,7 @@
 
 ## 📖 Detalle de Unidades
 
-> [!abstract]- Unidad 1 — Fundamentos de la electricidad y leyes de los circuitos eléctricos (8 h)
+> [!abstract] Unidad 1 — Fundamentos de la electricidad y leyes de los circuitos eléctricos (8 h)
 >
 > 1. Conceptos fundamentales de la electricidad
 > 2. Principios de generación de energía eléctrica
@@ -97,21 +97,21 @@
 > 5. Leyes fundamentales para análisis de circuitos (Ohm, Kirchhoff)
 > 6. Teoremas para análisis de circuitos (Divisores de voltaje y corriente, Superposición)
 
-> [!abstract]- Unidad 2 — Introducción a la electrónica (6 h)
+> [!abstract] Unidad 2 — Introducción a la electrónica (6 h)
 >
 > 1. Introducción a la electrónica y semiconductores (Diodos, Transistores)
 > 2. Circuitos básicos de filtrado y aplicaciones con fuentes lineales
 > 3. Aplicaciones de semiconductores para minimización de ruido electrónico
 > 4. Uso de reguladores en fuentes lineales
 
-> [!abstract]- Unidad 3 — Introducción a los circuitos integrados (6 h)
+> [!abstract] Unidad 3 — Introducción a los circuitos integrados (6 h)
 >
 > 1. Introducción a los circuitos integrados no programables
 > 2. Aplicaciones de los OPAMs (Minimización de ruido)
 > 3. Aplicaciones de integrados 555 / ADC / PWM (Acondicionamiento de señales)
 > 4. Circuitos integrados de lógica fija y tablas de verdad
 
-> [!abstract]- Unidad 4 — Fundamentos de sistemas digitales (8 h)
+> [!abstract] Unidad 4 — Fundamentos de sistemas digitales (8 h)
 >
 > 1. Introducción a la electrónica digital (Codificación y álgebra de Bool)
 > 2. Solución de problemas con circuitos electrónicos digitales
@@ -122,7 +122,7 @@
 
 ## 📚 Bibliografía (Formato IEEE)
 
-> [!quote]- 📖 Fuentes oficiales de la materia
+> [!quote] 📖 Fuentes oficiales de la materia
 >
 > **Texto guía:**
 >
@@ -138,7 +138,7 @@
 
 ## 👥 Equipo Docente
 
-> [!info]- 🧑‍🏫 Responsables de la asignatura
+> [!info] 🧑‍🏫 Responsables de la asignatura
 >
 > | Profesor | Correo | Rol |
 > |---|---|---|
@@ -150,7 +150,7 @@
 
 ## 🗺️ Índice de Notas
 
-> [!tip]- 📂 Estructura del repositorio
+> [!tip] 📂 Estructura del repositorio
 >
 > ```
 > 📁 Fundamentos de Electricidad y Sistemas Digitales/

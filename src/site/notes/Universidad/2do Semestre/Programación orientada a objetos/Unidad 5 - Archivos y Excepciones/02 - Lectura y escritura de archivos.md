@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es la E/S (Entrada/Salida) de Archivos?
+> [!info] 💡 ¿Qué es la E/S (Entrada/Salida) de Archivos?
 > 
 > La **E/S de archivos** (Input/Output) es el conjunto de operaciones que permiten a los programas **comunicarse con el sistema de archivos** del ordenador. Esta capacidad es fundamental para que las aplicaciones puedan **almacenar y recuperar información** de forma permanente.
 > 
@@ -59,7 +59,7 @@ graph TB
 
 ### 📊 Jerarquía de Clases
 
-> [!note]- 🌳 Organización del paquete java.io
+> [!note] 🌳 Organización del paquete java.io
 > 
 > Java proporciona un rico conjunto de clases para trabajar con archivos, organizadas en una **jerarquía lógica** que separa responsabilidades.
 > 
@@ -129,7 +129,7 @@ graph TB
 
 ### 🔄 Flujo de Operaciones
 
-> [!example]- ⚡ Cómo Fluyen los Datos
+> [!example] ⚡ Cómo Fluyen los Datos
 > 
 > **Lectura de archivos:**
 > 
@@ -184,7 +184,7 @@ graph TB
 
 ### 🔍 Conceptos Fundamentales
 
-> [!tip]- 📥 ¿Cómo Leer un Archivo?
+> [!tip] 📥 ¿Cómo Leer un Archivo?
 > 
 > **Proceso paso a paso:**
 > 
@@ -226,7 +226,7 @@ graph TB
 
 ### 🛠️ Técnicas de Lectura
 
-> [!success]- 🎯 Estrategias Según el Caso de Uso
+> [!success] 🎯 Estrategias Según el Caso de Uso
 > 
 > **1. Leer todo el archivo en memoria:**
 > 
@@ -320,7 +320,7 @@ graph TB
 
 ### 📝 Conceptos Fundamentales
 
-> [!tip]- 📤 ¿Cómo Escribir un Archivo?
+> [!tip] 📤 ¿Cómo Escribir un Archivo?
 > 
 > **Proceso paso a paso:**
 > 
@@ -369,7 +369,7 @@ graph TB
 
 ### 🔧 Técnicas de Escritura
 
-> [!success]- 🎯 Estrategias Según el Caso de Uso
+> [!success] 🎯 Estrategias Según el Caso de Uso
 > 
 > **1. Escribir colección completa:**
 > 
@@ -471,7 +471,7 @@ graph TB
 
 ### 📋 Clase File: El Inspector
 
-> [!info]- 🗂️ Trabajar con la Clase File
+> [!info] 🗂️ Trabajar con la Clase File
 > 
 > La clase `File` representa una **ruta en el sistema de archivos**, NO el contenido del archivo.
 > 
@@ -554,7 +554,7 @@ graph TB
 
 ### 📁 Trabajar con Directorios
 
-> [!example]- 🗃️ Explorar el Sistema de Archivos
+> [!example] 🗃️ Explorar el Sistema de Archivos
 > 
 > **1. Listar contenido de un directorio:**
 > 
@@ -653,7 +653,7 @@ graph TB
 
 ### 🛡️ Estrategia Defensiva
 
-> [!warning]- 🚨 Excepciones Comunes en E/S
+> [!warning] 🚨 Excepciones Comunes en E/S
 > 
 > **Jerarquía de excepciones:**
 > 
@@ -734,7 +734,7 @@ graph TB
 
 ### 🎯 Try-with-Resources
 
-> [!success]- ⚡ Gestión Automática de Recursos
+> [!success] ⚡ Gestión Automática de Recursos
 > 
 > **Comparación visual:**
 > 
@@ -796,7 +796,7 @@ graph TB
 
 ### ✅ Checklist de Buenas Prácticas
 
-> [!tip]- 🏆 Recomendaciones Profesionales
+> [!tip] 🏆 Recomendaciones Profesionales
 > 
 > **1. SIEMPRE usar try-with-resources**
 > 
@@ -878,7 +878,7 @@ graph TB
 
 ### 🔄 Patrón Común: Copiar Archivo
 
-> [!example]- 📋 Ejemplo Completo y Robusto
+> [!example] 📋 Ejemplo Completo y Robusto
 > 
 > ```java
 > public boolean copiarArchivo(String origen, String destino) {
@@ -1004,7 +1004,7 @@ mindmap
 
 ## 🎓 Ejercicios Prácticos
 
-> [!example]- 💪 Práctica Guiada
+> [!example] 💪 Práctica Guiada
 > 
 > **Ejercicio 1: Contador de palabras**
 > 
@@ -1092,7 +1092,7 @@ mindmap
 
 ## 🚀 Próximos Pasos
 
-> [!quote]- 🌟 Continuando el Aprendizaje
+> [!quote] 🌟 Continuando el Aprendizaje
 > 
 > **Has aprendido:**
 > 

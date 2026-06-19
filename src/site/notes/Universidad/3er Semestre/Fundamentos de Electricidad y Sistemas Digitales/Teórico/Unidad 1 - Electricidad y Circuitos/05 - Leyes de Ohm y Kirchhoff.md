@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Por qué son fundamentales estas leyes?
+> [!info] 💡 ¿Por qué son fundamentales estas leyes?
 > 
 > Las **leyes de Ohm y Kirchhoff** son los pilares del análisis de circuitos eléctricos. Con ellas es posible determinar voltajes, corrientes y potencias en cualquier circuito, desde el más simple hasta el más complejo.
 > 
@@ -46,7 +46,7 @@
 
 ## 🔵 Ley de Ohm
 
-> [!note]- 🔵 La relación fundamental entre V, I y R
+> [!note] 🔵 La relación fundamental entre V, I y R
 > 
 > La **Ley de Ohm** establece que el voltaje entre los terminales de un conductor es directamente proporcional a la corriente que circula por él, siendo la resistencia la constante de proporcionalidad.
 > 
@@ -116,13 +116,13 @@
 > > 
 > > $$V = I \cdot R = 3 \times 15 = 45\text{ V}$$
 
-![ChatGPT Image 19 may 2026, 23_07_06.png](/img/user/Contenido%20Extra/Figuras/ChatGPT%20Image%2019%20may%202026,%2023_07_06.png)
+![ChatGPT Image 19 may 2026, 23_07_06.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2019%20may%202026,%2023_07_06.png)
 
 ---
 
 ## 🟢 KCL — Ley de Corriente de Kirchhoff
 
-> [!tip]- 🟢 Conservación de carga eléctrica en los nodos
+> [!tip] 🟢 Conservación de carga eléctrica en los nodos
 > 
 > La **Primera Ley de Kirchhoff (KCL)** se basa en el principio de conservación de la carga eléctrica: la carga no se crea ni se destruye en un nodo.
 > 
@@ -174,13 +174,13 @@
 > 
 > $$I_{total} = I_1 + I_2 + \cdots + I_n = V_s \left(\frac{1}{R_1} + \frac{1}{R_2} + \cdots + \frac{1}{R_n}\right)$$
 
-![ChatGPT Image 31 may 2026, 23_42_42.png](/img/user/Contenido%20Extra/Figuras/ChatGPT%20Image%2031%20may%202026,%2023_42_42.png)
+![ChatGPT Image 31 may 2026, 23_42_42.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2031%20may%202026,%2023_42_42.png)
 
 ---
 
 ## 🟡 KVL — Ley de Voltaje de Kirchhoff
 
-> [!tip]- 🟡 Conservación de energía en las mallas
+> [!tip] 🟡 Conservación de energía en las mallas
 > 
 > La **Segunda Ley de Kirchhoff (KVL)** se fundamenta en la conservación de energía: la energía ganada al recorrer fuentes debe ser igual a la energía cedida en los elementos pasivos.
 > 
@@ -233,13 +233,13 @@
 > > 
 > > ✅ Verificación KVL: $4 + 8 + 6 = 18\text{ V}$ ✓
 
-![ChatGPT Image 31 may 2026, 23_46_11.png](/img/user/Contenido%20Extra/Figuras/ChatGPT%20Image%2031%20may%202026,%2023_46_11.png)
+![ChatGPT Image 31 may 2026, 23_46_11.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2031%20may%202026,%2023_46_11.png)
 
 ---
 
 ## 🔢 Análisis de Circuitos con Múltiples Mallas
 
-> [!tip]- 🔢 Método de corrientes de malla
+> [!tip] 🔢 Método de corrientes de malla
 > 
 > Para circuitos con múltiples mallas, se asigna una **corriente de malla** a cada malla independiente y se aplica KVL en cada una. Esto genera un sistema de ecuaciones que se resuelve simultáneamente.
 > 
@@ -277,13 +277,13 @@
 > > 
 > > Resolviendo el sistema: $$I_1 = \frac{60}{26} \approx 2.31\text{ A} \qquad I_2 = \frac{12}{26} \approx 0.46\text{ A}$$
 
-![ChatGPT Image 31 may 2026, 23_56_09.png](/img/user/Contenido%20Extra/Figuras/ChatGPT%20Image%2031%20may%202026,%2023_56_09.png)
+![ChatGPT Image 31 may 2026, 23_56_09.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2031%20may%202026,%2023_56_09.png)
 
 ---
 
 ## 🧮 Forma Matricial — Método Directo por Inspección
 
-> [!tip]- 🧮 Armar el sistema de ecuaciones directamente desde el circuito
+> [!tip] 🧮 Armar el sistema de ecuaciones directamente desde el circuito
 > 
 > El **método matricial por inspección** permite construir el sistema de ecuaciones de mallas o nodos **sin escribir KVL/KCL explícitamente** en cada paso. Es el enfoque más rápido en exámenes cuando el circuito tiene dos o más mallas/nodos.
 > 
@@ -375,13 +375,13 @@
 >     style E fill:#ffe1e1
 > ```
 
-![ChatGPT Image 17 jun 2026, 21_36_10.png](/img/user/Contenido%20Extra/Figuras/ChatGPT%20Image%2017%20jun%202026,%2021_36_10.png)
+![ChatGPT Image 17 jun 2026, 21_36_10.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2017%20jun%202026,%2021_36_10.png)
 
 ---
 
 ## 🔵 Análisis de Nodos (Método de Tensiones de Nodo)
 
-> [!note]- 🔵 Método de tensiones de nodo
+> [!note] 🔵 Método de tensiones de nodo
 > 
 > El **método de tensiones de nodo** aplica KCL en cada nodo principal para obtener un sistema de ecuaciones. Es complementario al método de mallas.
 > 
@@ -406,13 +406,13 @@
 > > 
 > > ✅ Verificación: $\dfrac{8}{6} + \dfrac{8}{3} = 1.33 + 2.67 = 4\text{ A}$ ✓
 
-![ChatGPT Image 17 jun 2026, 22_31_35.png](/img/user/Contenido%20Extra/Figuras/ChatGPT%20Image%2017%20jun%202026,%2022_31_35.png)
+![ChatGPT Image 17 jun 2026, 22_31_35.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2017%20jun%202026,%2022_31_35.png)
 
 ---
 
 ## 🔋 Interconexión de Fuentes
 
-> [!note]- 🔋 Reglas para fuentes en serie y en paralelo
+> [!note] 🔋 Reglas para fuentes en serie y en paralelo
 > 
 > Antes de aplicar KVL o KCL a un circuito, es frecuente simplificar grupos de fuentes del mismo tipo. Las reglas son directas y permiten reducir el circuito antes de plantear el sistema de ecuaciones.
 > 
@@ -474,13 +474,13 @@
 >     style C fill:#fff4e1
 > ```
 
-![ChatGPT Image 17 jun 2026, 22_43_52.png](/img/user/Contenido%20Extra/Figuras/ChatGPT%20Image%2017%20jun%202026,%2022_43_52.png)
+![ChatGPT Image 17 jun 2026, 22_43_52.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2017%20jun%202026,%2022_43_52.png)
 
 ---
 
 ## ⚖️ Comparación de Métodos de Análisis
 
-> [!success]- 📊 ¿Cuándo usar cada método?
+> [!success] 📊 ¿Cuándo usar cada método?
 > 
 > |Método|Base|Incógnitas|Ideal cuando…|
 > |---|---|---|---|
@@ -507,7 +507,7 @@
 
 ## 🔗 Integración: Ohm + Kirchhoff
 
-> [!success]- 🔗 Usando las tres leyes en conjunto
+> [!success] 🔗 Usando las tres leyes en conjunto
 > 
 > En la práctica, las tres leyes se aplican de manera conjunta e iterativa para resolver cualquier circuito:
 > 
@@ -580,7 +580,7 @@ mindmap
 
 ## 📚 Referencias
 
-> [!quote]- 📖 Fuentes consultadas
+> [!quote] 📖 Fuentes consultadas
 > 
 > [1] C. K. Alexander y M. N. O. Sadiku, _Fundamentals of Electric Circuits_, 6th ed. New York, USA: McGraw-Hill, 2016, pp. 29–100.
 > 

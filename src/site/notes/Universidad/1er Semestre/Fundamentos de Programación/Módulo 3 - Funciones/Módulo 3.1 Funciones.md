@@ -448,7 +448,7 @@ flowchart TD
 > - [[Funciones Lambda\|Funciones Lambda]] - Funciones anónimas
 > - [[Decoradores\|Decoradores]] - Modificar comportamiento de funciones
 > - [[Módulos y Paquetes\|Módulos y Paquetes]] - Organizar funciones en archivos
-> - [[Programación Orientada a Objetos\|Programación Orientada a Objetos]] - Métodos como funciones de clase
+> - [[Universidad/2do Semestre/Programación orientada a objetos/Programación Orientada a Objetos\|Programación Orientada a Objetos]] - Métodos como funciones de clase
 > - [[Manejo de Excepciones\|Manejo de Excepciones]] - Control de errores en funciones
 > - [[Testing y Debugging\|Testing y Debugging]] - Probar y depurar funciones
 

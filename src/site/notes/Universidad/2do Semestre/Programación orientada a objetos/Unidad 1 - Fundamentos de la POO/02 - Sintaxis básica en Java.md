@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es la Sintaxis?
+> [!info] 💡 ¿Qué es la Sintaxis?
 > 
 > La **sintaxis** es el conjunto de reglas que definen cómo escribir código válido en un lenguaje de programación. Es como la gramática del español, pero para Java.
 > 
@@ -47,7 +47,7 @@ graph LR
 
 ### 🏗️ Anatomía de una Clase Java
 
-> [!tip]- 🔍 Componentes Esenciales
+> [!tip] 🔍 Componentes Esenciales
 > 
 > Todo programa Java comienza con una **clase** que contiene un **método main**.
 > 
@@ -105,7 +105,7 @@ graph LR
 
 ### 🎪 El Método main
 
-> [!success]- 🚀 Punto de Entrada del Programa
+> [!success] 🚀 Punto de Entrada del Programa
 > 
 > El método `main` es **obligatorio** y debe tener esta firma exacta:
 > 
@@ -149,7 +149,7 @@ graph LR
 
 ### 📊 Tipos Primitivos
 
-> [!note]- 🧱 Los Bloques Fundamentales
+> [!note] 🧱 Los Bloques Fundamentales
 > 
 > Java tiene **8 tipos primitivos** que representan valores simples.
 > 
@@ -205,7 +205,7 @@ graph LR
 
 ### 📦 Tipos de Referencia
 
-> [!example]- 🎁 Objetos y Referencias
+> [!example] 🎁 Objetos y Referencias
 > 
 > Los **tipos de referencia** son objetos que apuntan a ubicaciones en memoria.
 > 
@@ -262,7 +262,7 @@ graph LR
 
 ### 📌 Declaración de Variables
 
-> [!tip]- 📝 Cómo Crear Variables
+> [!tip] 📝 Cómo Crear Variables
 > 
 > **Sintaxis básica:**
 > ```
@@ -329,7 +329,7 @@ graph LR
 
 ### 🔒 Constantes
 
-> [!success]- 🎯 Valores Inmutables
+> [!success] 🎯 Valores Inmutables
 > 
 > Las **constantes** son valores que no cambian durante la ejecución.
 > 
@@ -367,7 +367,7 @@ graph LR
 
 ### 🔢 Operadores Aritméticos
 
-> [!note]- 🧮 Matemáticas Básicas
+> [!note] 🧮 Matemáticas Básicas
 > 
 > |Operador|Operación|Ejemplo|Resultado|
 > |---|---|---|---|
@@ -414,7 +414,7 @@ graph LR
 
 ### ⚖️ Operadores de Comparación
 
-> [!tip]- 🔍 Comparar Valores
+> [!tip] 🔍 Comparar Valores
 > 
 > |Operador|Significado|Ejemplo|Resultado|
 > |---|---|---|---|
@@ -448,7 +448,7 @@ graph LR
 
 ### 🔗 Operadores Lógicos
 
-> [!example]- 🧠 Lógica Booleana
+> [!example] 🧠 Lógica Booleana
 > 
 > |Operador|Operación|Ejemplo|Resultado|
 > |---|---|---|---|
@@ -501,7 +501,7 @@ graph LR
 
 ### 💬 Tipos de Comentarios
 
-> [!success]- 📖 Documentar el Código
+> [!success] 📖 Documentar el Código
 > 
 > ```java
 > public class Comentarios {
@@ -605,7 +605,7 @@ mindmap
 
 ## 💪 Ejercicios Prácticos
 
-> [!example]- 🎯 Práctica 1: Calculadora Básica
+> [!example] 🎯 Práctica 1: Calculadora Básica
 > 
 > ```java
 > public class Calculadora {
@@ -630,7 +630,7 @@ mindmap
 > }
 > ```
 
-> [!example]- 🎯 Práctica 2: Validador de Edad
+> [!example] 🎯 Práctica 2: Validador de Edad
 > 
 > ```java
 > public class ValidadorEdad {
@@ -659,7 +659,7 @@ mindmap
 > }
 > ```
 
-> [!example]- 🎯 Práctica 3: Conversor de Temperatura
+> [!example] 🎯 Práctica 3: Conversor de Temperatura
 > 
 > ```java
 > public class ConversorTemperatura {
@@ -690,7 +690,7 @@ mindmap
 
 ## 🚀 Próximos Pasos
 
-> [!quote]- 🌟 Has Aprendido
+> [!quote] 🌟 Has Aprendido
 > 
 > ✅ Estructura básica de un programa Java  
 > ✅ Tipos de datos primitivos y de referencia  

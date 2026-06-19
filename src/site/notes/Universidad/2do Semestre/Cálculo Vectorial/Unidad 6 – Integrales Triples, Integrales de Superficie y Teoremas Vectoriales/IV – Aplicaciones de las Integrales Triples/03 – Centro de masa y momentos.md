@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué son el Centro de Masa y los Momentos?
+> [!info] 💡 ¿Qué son el Centro de Masa y los Momentos?
 > 
 > El **centro de masa** es el punto donde se puede considerar concentrada toda la masa de un objeto para efectos de balance y movimiento. Los **momentos** son medidas que cuantifican cómo se distribuye la masa alrededor de ejes o planos.
 > 
@@ -55,7 +55,7 @@ graph TB
 
 ### 🎯 Momentos Respecto a Planos
 
-> [!note]- 📊 Definición y Significado
+> [!note] 📊 Definición y Significado
 > 
 > **Definición:**
 > 
@@ -105,7 +105,7 @@ graph TB
 
 ### 🎯 Centro de Masa
 
-> [!success]- 📍 Punto de Equilibrio Perfecto
+> [!success] 📍 Punto de Equilibrio Perfecto
 > 
 > **Definición:**
 > 
@@ -176,7 +176,7 @@ graph TB
 
 ### ⚙️ Momentos de Inercia
 
-> [!tip]- 🌀 Resistencia a la Rotación
+> [!tip] 🌀 Resistencia a la Rotación
 > 
 > **Definición:**
 > 
@@ -240,7 +240,7 @@ graph TB
 
 ### 📦 Coordenadas Cartesianas
 
-> [!example]- 🎲 Ejemplos Detallados
+> [!example] 🎲 Ejemplos Detallados
 > 
 > **Ejemplo 1: Cubo con densidad lineal**
 > 
@@ -335,7 +335,7 @@ graph TB
 
 ### 🔵 Coordenadas Cilíndricas
 
-> [!success]- 🎯 Simetría Circular
+> [!success] 🎯 Simetría Circular
 > 
 > **Fórmulas en cilíndricas:**
 > 
@@ -391,7 +391,7 @@ graph TB
 
 ### 🌐 Coordenadas Esféricas
 
-> [!tip]- 🔮 Simetría Radial
+> [!tip] 🔮 Simetría Radial
 > 
 > **Fórmulas en esféricas:**
 > 
@@ -465,7 +465,7 @@ graph TB
 
 ### 🔄 Teorema de Pappus
 
-> [!note]- 🌀 Volumen y Área por Revolución
+> [!note] 🌀 Volumen y Área por Revolución
 > 
 > **Teorema de Pappus para Volumen:**
 > 
@@ -498,7 +498,7 @@ graph TB
 
 ### ⚖️ Teorema de los Ejes Paralelos (Steiner)
 
-> [!success]- 📏 Traslación de Ejes
+> [!success] 📏 Traslación de Ejes
 > 
 > **Teorema:**
 > 
@@ -549,7 +549,7 @@ graph TB
 
 ### 📝 Problema 1: Cono con Densidad Altura
 
-> [!example]- 🔺 Cono Completo
+> [!example] 🔺 Cono Completo
 > 
 > Calcular masa, centro de masa y momento de inercia $I_z$ del cono sólido:
 > 
@@ -602,7 +602,7 @@ graph TB
 
 ### 📝 Problema 2: Hemisferio con Densidad Radial
 
-> [!example]- 🌍 Hemisferio Superior
+> [!example] 🌍 Hemisferio Superior
 > 
 > Hemisferio superior de radio $a$, densidad $\delta = \rho$ (más denso lejos del centro).
 > 
@@ -653,7 +653,7 @@ graph TB
 
 ### 📝 Problema 3: Pirámide con Densidad xy
 
-> [!example]- 🔺 Pirámide Cuadrada
+> [!example] 🔺 Pirámide Cuadrada
 > 
 > Pirámide con base cuadrada $[0,1] \times [0,1]$ en el plano $z=0$ y vértice en $(1/2, 1/2, 1)$.
 > 
@@ -765,7 +765,7 @@ flowchart TD
 
 ### ✅ Checklist de Verificación
 
-> [!tip]- 📝 Lista de Comprobación
+> [!tip] 📝 Lista de Comprobación
 > 
 > **Antes de calcular:**
 > 
@@ -792,7 +792,7 @@ flowchart TD
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Continuando el Aprendizaje
+> [!quote] 🌟 Continuando el Aprendizaje
 > 
 > **Has dominado:**
 > 
@@ -834,7 +834,7 @@ flowchart TD
 
 ## 🎓 Ejercicios Propuestos
 
-> [!example]- 💪 Práctica Progresiva
+> [!example] 💪 Práctica Progresiva
 > 
 > **Nivel Básico:**
 > 

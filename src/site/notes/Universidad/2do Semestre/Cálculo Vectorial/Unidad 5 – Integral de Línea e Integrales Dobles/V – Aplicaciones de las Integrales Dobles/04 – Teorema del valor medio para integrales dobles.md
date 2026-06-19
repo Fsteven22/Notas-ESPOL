@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es el Teorema del Valor Medio para Integrales Dobles?
+> [!info] 💡 ¿Qué es el Teorema del Valor Medio para Integrales Dobles?
 > 
 > El **Teorema del Valor Medio para Integrales Dobles** es una extensión natural del teorema del valor medio para integrales simples. Establece que para una función continua sobre una región, existe al menos un punto donde el valor de la función es igual al promedio de todos sus valores sobre esa región.
 > 
@@ -43,7 +43,7 @@ graph LR
 
 ## 📋 Enunciado del Teorema
 
-> [!example]- ⚡ Formulación Matemática
+> [!example] ⚡ Formulación Matemática
 > 
 > **Teorema del Valor Medio para Integrales Dobles:**
 > 
@@ -91,7 +91,7 @@ graph TD
 
 ### 📊 Visualización del Concepto
 
-> [!note]- 🌄 Significado Visual
+> [!note] 🌄 Significado Visual
 > 
 > **Interpretación como volumen:**
 > 
@@ -145,7 +145,7 @@ graph LR
 
 ### 🔍 Interpretación Física
 
-> [!success]- ⚙️ Significado en Aplicaciones
+> [!success] ⚙️ Significado en Aplicaciones
 > 
 > **En diferentes contextos:**
 > 
@@ -165,7 +165,7 @@ graph LR
 
 ## 🌳 Relación con Otros Teoremas
 
-> [!tip]- 🔗 Conexiones Importantes
+> [!tip] 🔗 Conexiones Importantes
 > 
 > **1. Teorema del Valor Medio para Integrales (una variable):**
 > 
@@ -202,7 +202,7 @@ graph LR
 
 ## 💡 Ejemplos Resueltos
 
-> [!example]- 📝 Ejemplo 1: Región Rectangular
+> [!example] 📝 Ejemplo 1: Región Rectangular
 > 
 > **Problema:**
 > 
@@ -247,7 +247,7 @@ graph LR
 > - Valor promedio: $f_{prom} = 1.5$
 > - Un punto válido: $(1, 0.5)$
 
-> [!example]- 📝 Ejemplo 2: Región Circular
+> [!example] 📝 Ejemplo 2: Región Circular
 > 
 > **Problema:**
 > 
@@ -277,7 +277,7 @@ graph LR
 > 
 > ✅ El teorema se verifica trivialmente para funciones constantes.
 
-> [!example]- 📝 Ejemplo 3: Región Triangular
+> [!example] 📝 Ejemplo 3: Región Triangular
 > 
 > **Problema:**
 > 
@@ -323,7 +323,7 @@ graph LR
 
 ## 🚀 Aplicaciones Prácticas
 
-> [!success]- 🌍 Aplicaciones en Ciencia e Ingeniería
+> [!success] 🌍 Aplicaciones en Ciencia e Ingeniería
 > 
 > **1. Cálculo de promedios físicos**
 > 
@@ -366,7 +366,7 @@ graph TD
     style F fill:#fff4e1
 ```
 
-> [!tip]- 🔬 Aplicaciones Avanzadas
+> [!tip] 🔬 Aplicaciones Avanzadas
 > 
 > **1. Teoría de probabilidad**
 > 
@@ -396,7 +396,7 @@ graph TD
 
 ## ⚠️ Condiciones y Limitaciones
 
-> [!warning]- 🔍 Requisitos del Teorema
+> [!warning] 🔍 Requisitos del Teorema
 > 
 > **Condiciones necesarias:**
 > 
@@ -448,7 +448,7 @@ graph TD
 
 ## 🎯 Demostración del Teorema
 
-> [!note]- 📚 Idea de la Demostración
+> [!note] 📚 Idea de la Demostración
 > 
 > **Esquema general:**
 > 
@@ -546,7 +546,7 @@ mindmap
 
 ## 🎓 Ejercicios Propuestos
 
-> [!example]- 💪 Práctica Guiada
+> [!example] 💪 Práctica Guiada
 > 
 > **Nivel Básico:**
 > 
@@ -610,7 +610,7 @@ mindmap
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Continuando el Aprendizaje
+> [!quote] 🌟 Continuando el Aprendizaje
 > 
 > **Has dominado:**
 > 

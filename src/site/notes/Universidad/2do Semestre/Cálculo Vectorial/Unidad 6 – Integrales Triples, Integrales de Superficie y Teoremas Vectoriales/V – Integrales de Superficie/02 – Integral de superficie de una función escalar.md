@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es una Integral de Superficie Escalar?
+> [!info] 💡 ¿Qué es una Integral de Superficie Escalar?
 > 
 > La **integral de superficie de una función escalar** extiende el concepto de integral doble a superficies curvas en el espacio tridimensional. Mientras que las integrales dobles integran sobre regiones planas, las integrales de superficie integran sobre superficies curvas.
 > 
@@ -51,7 +51,7 @@ graph TB
 
 ### 🎨 Concepto Fundamental
 
-> [!note]- 📘 Definición
+> [!note] 📘 Definición
 > 
 > Sea f(x,y,z) una función escalar continua definida sobre una superficie suave S. La **integral de superficie** de f sobre S se define como:
 > 
@@ -101,7 +101,7 @@ graph TB
 
 ### 📈 Superficie como Gráfica: z = g(x,y)
 
-> [!example]- 🎯 Primera Forma de Parametrización
+> [!example] 🎯 Primera Forma de Parametrización
 > 
 > Si la superficie S está dada por **z = g(x,y)** sobre una región D en el plano xy:
 > 
@@ -229,7 +229,7 @@ graph TB
 
 ### 🔄 Superficie Paramétrica: r(u,v)
 
-> [!success]- 🎨 Segunda Forma - Parametrización General
+> [!success] 🎨 Segunda Forma - Parametrización General
 > 
 > Si la superficie S está parametrizada por **r(u,v) = ⟨x(u,v), y(u,v), z(u,v)⟩** sobre una región D en el plano uv:
 > 
@@ -355,7 +355,7 @@ graph TB
 
 ### ⚖️ Masa y Centro de Masa
 
-> [!note]- 📊 Propiedades de Láminas
+> [!note] 📊 Propiedades de Láminas
 > 
 > **1. Masa de una lámina con densidad δ(x,y,z):**
 > 
@@ -443,7 +443,7 @@ graph TB
 
 ### 🌡️ Temperatura y Flujo de Calor
 
-> [!example]- 🔥 Distribución Térmica
+> [!example] 🔥 Distribución Térmica
 > 
 > **Temperatura promedio sobre una superficie:**
 > 
@@ -486,7 +486,7 @@ graph TB
 
 ## 📋 Propiedades de las Integrales de Superficie
 
-> [!tip]- 🔧 Propiedades Fundamentales
+> [!tip] 🔧 Propiedades Fundamentales
 > 
 > **1. Linealidad:**
 > 
@@ -525,7 +525,7 @@ graph TB
 
 ## 🎓 Ejemplos Completos Paso a Paso
 
-> [!example]- 📝 Problema 1: Cono con densidad lineal
+> [!example] 📝 Problema 1: Cono con densidad lineal
 > 
 > **Enunciado:** Calcular la masa de la superficie lateral del cono z = √(x² + y²), 0 ≤ z ≤ h, si la densidad es δ(x,y,z) = z
 > 
@@ -567,7 +567,7 @@ graph TB
 > Respuesta: m = (2πh³√2)/3
 > ```
 
-> [!example]- 📝 Problema 2: Paraboloide con función cuadrática
+> [!example] 📝 Problema 2: Paraboloide con función cuadrática
 > **Enunciado:** Calcular ∬_S (x² + y²) dS donde S es z = 1 - x² - y² con z ≥ 0
 > 
 > ```
@@ -623,7 +623,7 @@ graph TB
 
 ## 🔍 Comparación de Métodos
 
-> [!success]- ⚖️ ¿Cuándo usar cada método?
+> [!success] ⚖️ ¿Cuándo usar cada método?
 > 
 > |Método|Ventajas|Desventajas|Mejor para|
 > |---|---|---|---|
@@ -656,7 +656,7 @@ graph TB
 
 ## 📊 Resumen de Fórmulas
 
-> [!note]- 📐 Tabla Completa
+> [!note] 📐 Tabla Completa
 > 
 > **Fórmulas principales:**
 > 
@@ -686,7 +686,7 @@ graph TB
 
 ## 🎯 Estrategia de Resolución
 
-> [!tip]- 🗺️ Guía Completa
+> [!tip] 🗺️ Guía Completa
 > 
 > ```mermaid
 > flowchart TD

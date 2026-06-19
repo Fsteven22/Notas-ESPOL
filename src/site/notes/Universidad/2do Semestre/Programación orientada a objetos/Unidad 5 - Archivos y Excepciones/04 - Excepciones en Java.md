@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es una Excepción?
+> [!info] 💡 ¿Qué es una Excepción?
 > 
 > Una **excepción** es un evento anormal que ocurre durante la ejecución de un programa y que interrumpe el flujo normal de instrucciones.
 > 
@@ -41,7 +41,7 @@
 
 ### 🌳 Árbol de Clases
 
-> [!note]- 🗂️ Organización de Excepciones en Java
+> [!note] 🗂️ Organización de Excepciones en Java
 > 
 > ```mermaid
 > classDiagram
@@ -89,7 +89,7 @@
 
 ### 🔍 Excepciones Verificadas vs No Verificadas
 
-> [!tip]- 📋 Diferencias Clave
+> [!tip] 📋 Diferencias Clave
 > 
 > **Excepciones VERIFICADAS (Checked):**
 > 
@@ -156,7 +156,7 @@
 
 ### 🔧 Bloque try-catch
 
-> [!example]- 🎯 Sintaxis Básica
+> [!example] 🎯 Sintaxis Básica
 > 
 > **Estructura:**
 > 
@@ -215,7 +215,7 @@
 
 ### 📦 Múltiples catch
 
-> [!success]- 🎪 Manejar Diferentes Excepciones
+> [!success] 🎪 Manejar Diferentes Excepciones
 > 
 > **Orden IMPORTANTE: De más específico a más general**
 > 
@@ -274,7 +274,7 @@
 
 ### 🔒 Bloque finally
 
-> [!tip]- 🎯 Código que SIEMPRE se Ejecuta
+> [!tip] 🎯 Código que SIEMPRE se Ejecuta
 > 
 > El bloque `finally` se ejecuta **siempre**, haya o no excepción.
 > 
@@ -328,7 +328,7 @@
 
 ### 💥 throw - Lanzar una Excepción
 
-> [!example]- 🎯 Generar Excepciones Manualmente
+> [!example] 🎯 Generar Excepciones Manualmente
 > 
 > **Sintaxis:**
 > 
@@ -376,7 +376,7 @@
 
 ### 📢 throws - Declarar Excepciones
 
-> [!tip]- 📋 Propagar Excepciones
+> [!tip] 📋 Propagar Excepciones
 > 
 > **Propósito:** Indicar que un método **puede lanzar** excepciones verificadas.
 > 
@@ -428,7 +428,7 @@
 
 ## 🎨 Excepciones Personalizadas
 
-> [!success]- 🏗️ Crear Tus Propias Excepciones
+> [!success] 🏗️ Crear Tus Propias Excepciones
 > 
 > **Cuándo crear excepciones personalizadas:**
 > 
@@ -500,7 +500,7 @@
 
 ## 🔍 Información de Excepciones
 
-> [!info]- 🛠️ Métodos Útiles de Throwable
+> [!info] 🛠️ Métodos Útiles de Throwable
 > 
 > |Método|Descripción|Uso|
 > |---|---|---|
@@ -554,7 +554,7 @@
 
 ## 📋 Excepciones Comunes
 
-> [!note]- 🎯 Excepciones Frecuentes en Java
+> [!note] 🎯 Excepciones Frecuentes en Java
 > 
 > **Excepciones NO verificadas (RuntimeException):**
 > 
@@ -607,7 +607,7 @@
 
 ## ✅ Mejores Prácticas
 
-> [!tip]- 🏆 Recomendaciones Profesionales
+> [!tip] 🏆 Recomendaciones Profesionales
 > 
 > **1. Ser específico en los catch**
 > 
@@ -714,7 +714,7 @@
 
 ## 🎯 Ejemplo Completo
 
-> [!example]- 💼 Sistema de Registro de Estudiantes
+> [!example] 💼 Sistema de Registro de Estudiantes
 > 
 > ```java
 > // Excepción personalizada

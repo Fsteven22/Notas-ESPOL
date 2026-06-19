@@ -7,7 +7,7 @@
 
 ## 🎯 El Condicional en Profundidad
 
-> [!info]- 📖 Recordatorio: Definición del Condicional
+> [!info] 📖 Recordatorio: Definición del Condicional
 > 
 > Sean $p$ y $q$ dos proposiciones. El **condicional** $p \rightarrow q$ ("si $p$ entonces $q$") tiene la siguiente tabla de verdad:
 > 
@@ -28,7 +28,7 @@
 
 ## 🔤 Formas Equivalentes del Condicional
 
-> [!tip]- 🗣️ Distintas Maneras de Expresar "si p entonces q"
+> [!tip] 🗣️ Distintas Maneras de Expresar "si p entonces q"
 > 
 > En el lenguaje natural existen muchas formas de expresar un condicional. Todas las siguientes son equivalentes a $p \rightarrow q$:
 > 
@@ -47,7 +47,7 @@
 > > - "**Necesario para $p$**" → el resultado va en $q$ (consecuente)
 > > - "**Suficiente para $q$**" → la causa va en $p$ (antecedente)
 
-> [!example]- ✏️ Práctica: Convertir a la forma estándar
+> [!example] ✏️ Práctica: Convertir a la forma estándar
 > 
 > Escriba en la forma **"si $p$ entonces $q$"** cada proposición:
 > 
@@ -64,7 +64,7 @@
 
 ## 🔁 Proposiciones Derivadas del Condicional
 
-> [!note]- 📐 Recíproco, Inverso y Contrarrecíproco
+> [!note] 📐 Recíproco, Inverso y Contrarrecíproco
 > 
 > Dado el condicional $p \rightarrow q$, se definen tres proposiciones relacionadas:
 > 
@@ -94,7 +94,7 @@
 > > ✅ El recíproco y el inverso son **lógicamente equivalentes** entre sí.  
 > > ❌ El original y el recíproco **no son equivalentes** en general.
 
-> [!example]- 🧮 Verificación mediante tabla de verdad
+> [!example] 🧮 Verificación mediante tabla de verdad
 > 
 > Verifiquemos que $p \rightarrow q \equiv \neg q \rightarrow \neg p$:
 > 
@@ -118,7 +118,7 @@
 > 
 > Las columnas difieren → $p \rightarrow q \not\equiv q \rightarrow p$ ❌
 
-> [!example]- ✏️ Ejemplo aplicado: Recíproco y Contrarrecíproco
+> [!example] ✏️ Ejemplo aplicado: Recíproco y Contrarrecíproco
 > 
 > Sea la proposición: **"Si nieva, entonces hace frío."**
 > 
@@ -133,7 +133,7 @@
 
 ## 💡 Verdadero por Omisión
 
-> [!warning]- ⚠️ Condicional Vacuamente Verdadero
+> [!warning] ⚠️ Condicional Vacuamente Verdadero
 > 
 > Una proposición condicional $p \rightarrow q$ que es verdadera **porque el antecedente $p$ es falso** se dice que es **verdadera por omisión** (o _vacuamente verdadera_ / _superficialmente verdadera_).
 > 
@@ -152,7 +152,7 @@
 
 ## ⚖️ Equivalencia Lógica
 
-> [!info]- 📖 Definiciones Fundamentales
+> [!info] 📖 Definiciones Fundamentales
 > 
 > **Forma proposicional:** Cualquier expresión $P$ obtenida a partir de variables proposicionales $p_1, p_2, \ldots, p_n$ usando conectivos lógicos de forma adecuada.
 > 
@@ -163,7 +163,7 @@
 > **Tautología:** Forma proposicional que es **siempre verdadera**.  
 > **Contradicción:** Forma proposicional que es **siempre falsa**.
 
-> [!example]- ✅ Verificar $\neg(p \rightarrow q) \equiv p \wedge \neg q$
+> [!example] ✅ Verificar $\neg(p \rightarrow q) \equiv p \wedge \neg q$
 > 
 > |$p$|$q$|$\neg q$|$p \rightarrow q$|$\neg(p \rightarrow q)$|$p \wedge \neg q$|
 > |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -186,7 +186,7 @@
 
 ## 📋 Principales Equivalencias Lógicas
 
-> [!success]- 🏛️ Tabla de Equivalencias (Leyes del Álgebra Proposicional)
+> [!success] 🏛️ Tabla de Equivalencias (Leyes del Álgebra Proposicional)
 > 
 > ### Leyes de Identidad
 > 
@@ -266,7 +266,7 @@
 
 ## 🔍 Verificación de Equivalencias
 
-> [!example]- 🧮 Ejemplo 1: $p \rightarrow q \equiv \neg p \vee q$
+> [!example] 🧮 Ejemplo 1: $p \rightarrow q \equiv \neg p \vee q$
 > 
 > |$p$|$q$|$\neg p$|$p \rightarrow q$|$\neg p \vee q$|
 > |:-:|:-:|:-:|:-:|:-:|
@@ -277,7 +277,7 @@
 > 
 > Columnas idénticas → $p \rightarrow q \equiv \neg p \vee q$ ✅
 
-> [!example]- 🧮 Ejemplo 2: $p \leftrightarrow q \equiv (p \rightarrow q) \wedge (q \rightarrow p)$
+> [!example] 🧮 Ejemplo 2: $p \leftrightarrow q \equiv (p \rightarrow q) \wedge (q \rightarrow p)$
 > 
 > |$p$|$q$|$p \leftrightarrow q$|$p \rightarrow q$|$q \rightarrow p$|$(p \rightarrow q) \wedge (q \rightarrow p)$|
 > |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -288,7 +288,7 @@
 > 
 > Columnas idénticas → $p \leftrightarrow q \equiv (p \rightarrow q) \wedge (q \rightarrow p)$ ✅
 
-> [!example]- 🧮 Ejemplo 3: $p \veebar q \equiv (p \wedge \neg q) \vee (q \wedge \neg p)$
+> [!example] 🧮 Ejemplo 3: $p \veebar q \equiv (p \wedge \neg q) \vee (q \wedge \neg p)$
 > 
 > |$p$|$q$|$\neg p$|$\neg q$|$p \veebar q$|$p \wedge \neg q$|$q \wedge \neg p$|$(p \wedge \neg q) \vee (q \wedge \neg p)$|
 > |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -299,7 +299,7 @@
 > 
 > Columnas idénticas → $p \veebar q \equiv (p \wedge \neg q) \vee (q \wedge \neg p)$ ✅
 
-> [!example]- 🧮 Ejemplo 4: $(p \rightarrow q) \rightarrow r \not\equiv p \rightarrow (q \rightarrow r)$
+> [!example] 🧮 Ejemplo 4: $(p \rightarrow q) \rightarrow r \not\equiv p \rightarrow (q \rightarrow r)$
 > 
 > |$p$|$q$|$r$|$p \rightarrow q$|$(p \rightarrow q) \rightarrow r$|$q \rightarrow r$|$p \rightarrow (q \rightarrow r)$|
 > |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -318,7 +318,7 @@
 
 ## 🏷️ Tautologías y Contradicciones
 
-> [!note]- 📖 Definiciones y Ejemplos
+> [!note] 📖 Definiciones y Ejemplos
 > 
 > **Tautología:** Forma proposicional cuya columna final en la tabla de verdad es **toda V**.  
 > **Contradicción:** Forma proposicional cuya columna final es **toda F**.
@@ -340,7 +340,7 @@
 > |---|---|
 > |Contradicción|$p \wedge \neg p$|
 
-> [!example]- 🧮 Verificación: $p \vee \neg p$ es tautología
+> [!example] 🧮 Verificación: $p \vee \neg p$ es tautología
 > 
 > |$p$|$\neg p$|$p \vee \neg p$|
 > |:-:|:-:|:-:|
@@ -349,7 +349,7 @@
 > 
 > Siempre verdadera → es una tautología ✅
 
-> [!example]- 🧮 Verificación: Modus Ponens $(p \wedge (p \rightarrow q)) \rightarrow q$
+> [!example] 🧮 Verificación: Modus Ponens $(p \wedge (p \rightarrow q)) \rightarrow q$
 > 
 > |$p$|$q$|$p \rightarrow q$|$p \wedge (p \rightarrow q)$|$(p \wedge (p \rightarrow q)) \rightarrow q$|
 > |:-:|:-:|:-:|:-:|:-:|

@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Cómo se conectaron las computadoras entre sí?
+> [!info] 💡 ¿Cómo se conectaron las computadoras entre sí?
 >
 > Durante décadas, las computadoras trabajaron de forma aislada. La necesidad de compartir información y recursos impulsó el desarrollo de las redes, que eventualmente evolucionaron hasta formar la Internet que conocemos hoy.
 >
@@ -29,7 +29,7 @@
 
 ## 🔬 ARPANET — El origen de todo (1967)
 
-> [!note]- 🔬 La primera red de computadoras
+> [!note] 🔬 La primera red de computadoras
 >
 > **ARPANET** fue una red patrocinada por el gobierno de los Estados Unidos, creada originalmente con fines militares durante la **Guerra Fría**. Fue desarrollada por la agencia **RAND** y comenzó a operar a finales de los años sesenta.
 >
@@ -60,7 +60,7 @@
 
 ## 🔌 Ethernet — La red local (1973)
 
-> [!note]- 🔌 Conectando computadoras en un mismo espacio
+> [!note] 🔌 Conectando computadoras en un mismo espacio
 >
 > En **1980**, el modelo de una gran máquina con muchos usuarios dio paso a una **red de máquinas más pequeñas conectadas** para compartir recursos como impresoras, software y datos.
 >
@@ -80,7 +80,7 @@
 
 ## 🏢 Redes LAN y Netware (1989)
 
-> [!note]- 🏢 Redes de área local
+> [!note] 🏢 Redes de área local
 >
 > Las estaciones de trabajo o computadoras personales conectadas en red se conocieron como **LAN** (*Local Area Network* — Red de Área Local).
 >
@@ -113,7 +113,7 @@
 
 ## 🌍 Internet y TCP/IP
 
-> [!important]- 🌍 La red de redes
+> [!important] 🌍 La red de redes
 >
 > **Internet** no es una sola red, sino una **red de muchas redes diferentes** alrededor del mundo que se comunican usando un protocolo común: **TCP/IP** (*Transmission Control Protocol / Internet Protocol*).
 >
@@ -148,7 +148,7 @@
 
 ## 🕸️ World Wide Web — WWW (1991)
 
-> [!important]- 🕸️ Internet se vuelve accesible para todos
+> [!important] 🕸️ Internet se vuelve accesible para todos
 >
 > En **1991**, **Tim Berners-Lee** creó la **World Wide Web**, un sistema de documentos interconectados mediante **hipervínculos** accesibles a través de Internet usando un navegador.
 >
@@ -174,7 +174,7 @@
 
 ## 📅 Línea de Tiempo General
 
-> [!summary]- 📅 De ARPANET a la WWW
+> [!summary] 📅 De ARPANET a la WWW
 >
 > ```mermaid
 > timeline
@@ -195,7 +195,7 @@
 
 ## 📊 Comparación de tipos de red
 
-> [!summary]- 📊 LAN vs WAN vs Internet
+> [!summary] 📊 LAN vs WAN vs Internet
 >
 > | Característica | LAN | WAN | Internet |
 > |---|---|---|---|

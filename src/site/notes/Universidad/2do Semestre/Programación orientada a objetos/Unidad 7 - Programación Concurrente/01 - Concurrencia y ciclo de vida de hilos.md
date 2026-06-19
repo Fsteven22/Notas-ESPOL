@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es la Concurrencia?
+> [!info] 💡 ¿Qué es la Concurrencia?
 > 
 > La **concurrencia** es la capacidad de un programa para ejecutar múltiples tareas de manera simultánea o intercalada. En Java, esto se logra principalmente mediante **hilos (threads)**, que son flujos de ejecución independientes dentro de un mismo proceso.
 > 
@@ -52,7 +52,7 @@ graph TB
 
 ### 🔍 Proceso vs Hilo
 
-> [!note]- 🏗️ Diferencias Clave
+> [!note] 🏗️ Diferencias Clave
 > 
 > **Comparación visual:**
 > 
@@ -119,7 +119,7 @@ graph TB
 
 ### 🎭 Tipos de Hilos en Java
 
-> [!tip]- 🔧 Clasificación de Hilos
+> [!tip] 🔧 Clasificación de Hilos
 > 
 > **1. Hilos de Usuario (User Threads)**
 > 
@@ -192,7 +192,7 @@ graph TB
 
 ### 📊 Estados del Hilo
 
-> [!info]- 🎢 Diagrama de Estados
+> [!info] 🎢 Diagrama de Estados
 > 
 > ```mermaid
 > stateDiagram-v2
@@ -223,7 +223,7 @@ graph TB
 
 ### 🛠️ Transiciones de Estado
 
-> [!example]- 🔀 Ejemplos de Transiciones
+> [!example] 🔀 Ejemplos de Transiciones
 > 
 > **1. NEW → RUNNABLE → TERMINATED**
 > 
@@ -351,7 +351,7 @@ graph TB
 
 ### 📋 Método 1: Extender Thread
 
-> [!example]- 🧬 Herencia de Thread
+> [!example] 🧬 Herencia de Thread
 > 
 > **Sintaxis básica:**
 > 
@@ -421,7 +421,7 @@ graph TB
 
 ### 🎯 Método 2: Implementar Runnable (✅ RECOMENDADO)
 
-> [!success]- 🏆 Forma Preferida en la Industria
+> [!success] 🏆 Forma Preferida en la Industria
 > 
 > **Sintaxis básica:**
 > 
@@ -502,7 +502,7 @@ graph TB
 
 ### ⚡ Método 3: Lambdas y Referencias (Java 8+)
 
-> [!tip]- 🎨 Sintaxis Moderna
+> [!tip] 🎨 Sintaxis Moderna
 > 
 > **1. Expresiones Lambda:**
 > 
@@ -571,7 +571,7 @@ graph TB
 
 ### 📊 Comparación de Métodos
 
-> [!note]- 🔍 ¿Cuál Elegir?
+> [!note] 🔍 ¿Cuál Elegir?
 > 
 > |Método|Cuándo Usar|Ventajas|Desventajas|
 > |---|---|---|---|
@@ -603,7 +603,7 @@ graph TB
 
 ### ⏸️ Métodos Fundamentales
 
-> [!tip]- 🎛️ Control de Ejecución
+> [!tip] 🎛️ Control de Ejecución
 > 
 > **1. start() - Iniciar un hilo**
 > 
@@ -733,7 +733,7 @@ graph TB
 
 ### ⚙️ Prioridades de Hilos
 
-> [!warning]- ⚖️ Gestión de Prioridades
+> [!warning] ⚖️ Gestión de Prioridades
 > 
 > **Rango de prioridades:**
 > 
@@ -794,7 +794,7 @@ graph TB
 
 ### 🔧 Métodos Útiles
 
-> [!success]- 🛠️ Herramientas de Inspección y Control
+> [!success] 🛠️ Herramientas de Inspección y Control
 > 
 > **1. Información del hilo:**
 > 
@@ -874,7 +874,7 @@ graph TB
 
 ### 🐛 Race Conditions (Condiciones de Carrera)
 
-> [!danger]- 🏁 El Problema de la Concurrencia
+> [!danger] 🏁 El Problema de la Concurrencia
 > 
 > **¿Qué es una Race Condition?**
 > 
@@ -950,7 +950,7 @@ graph TB
 
 ### 🔒 Introducción a la Sincronización
 
-> [!success]- 🛡️ Solución: Palabra Clave synchronized
+> [!success] 🛡️ Solución: Palabra Clave synchronized
 > 
 > **Contador seguro:**
 > 
@@ -1040,7 +1040,7 @@ graph TB
 
 ### 💀 Deadlock (Interbloqueo)
 
-> [!danger]- ⚰️ El Problema Mortal de la Concurrencia
+> [!danger] ⚰️ El Problema Mortal de la Concurrencia
 > 
 > **¿Qué es un Deadlock?**
 > 
@@ -1151,7 +1151,7 @@ graph TB
 
 ### ✅ Checklist de Buenas Prácticas
 
-> [!tip]- 🏆 Recomendaciones Profesionales
+> [!tip] 🏆 Recomendaciones Profesionales
 > 
 > **1. Preferir Runnable sobre extends Thread**
 > 
@@ -1265,7 +1265,7 @@ graph TB
 
 ### 🔍 Debugging de Hilos
 
-> [!example]- 🐛 Técnicas de Depuración
+> [!example] 🐛 Técnicas de Depuración
 > 
 > **1. Imprimir información del hilo:**
 > 
@@ -1393,7 +1393,7 @@ mindmap
 
 ### 📋 Tabla Comparativa Final
 
-> [!success]- 🔍 Comparación de Enfoques
+> [!success] 🔍 Comparación de Enfoques
 > 
 > |Aspecto|extends Thread|implements Runnable|Lambda|
 > |---|---|---|---|
@@ -1416,7 +1416,7 @@ mindmap
 
 ## 🎓 Ejercicios Prácticos
 
-> [!example]- 💪 Práctica Guiada
+> [!example] 💪 Práctica Guiada
 > 
 > **Ejercicio 1: Simulador de descarga**
 > 
@@ -1621,7 +1621,7 @@ mindmap
 
 ## 🚀 Próximos Pasos
 
-> [!quote]- 🌟 Continuando el Aprendizaje
+> [!quote] 🌟 Continuando el Aprendizaje
 > 
 > **Has aprendido:**
 > 

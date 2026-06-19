@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Por qué es importante este vocabulario?
+> [!info] 💡 ¿Por qué es importante este vocabulario?
 > 
 > El vocabulario de **materiales, producción y distribución** es fundamental para:
 > 
@@ -48,7 +48,7 @@ graph LR
 
 ## 🧵 A. Materials (Describing Products)
 
-> [!example]- 📦 Materiales Básicos
+> [!example] 📦 Materiales Básicos
 > 
 > **Materiales fundamentales:**
 > 
@@ -103,7 +103,7 @@ graph LR
 > |**natural + material**|natural stone, natural wood|
 > |**recycled + material**|recycled plastic, recycled metal|
 
-> [!success]- 🎨 Características de Materiales (Adjectives)
+> [!success] 🎨 Características de Materiales (Adjectives)
 > 
 > **Propiedades físicas:**
 > 
@@ -166,7 +166,7 @@ graph LR
 
 ## 🏭 B. Production & Distribution (Verbs)
 
-> [!note]- 🔨 Verbos de Producción
+> [!note] 🔨 Verbos de Producción
 > 
 > **Verbos clave del proceso productivo:**
 > 
@@ -219,7 +219,7 @@ graph LR
 > ✅ Factories produce millions of units.
 > ```
 
-> [!tip]- 🚚 Verbos de Distribución
+> [!tip] 🚚 Verbos de Distribución
 > 
 > **Verbos del proceso de distribución:**
 > 
@@ -272,7 +272,7 @@ graph LR
 
 ## 📚 C. Mini-Glosario EN → ES
 
-> [!quote]- 📖 Referencia Rápida Completa
+> [!quote] 📖 Referencia Rápida Completa
 > 
 > ### Materials
 > 
@@ -330,7 +330,7 @@ graph LR
 
 ## 💬 D. Collocations & Real Phrases
 
-> [!success]- 🎯 Combinaciones Frecuentes
+> [!success] 🎯 Combinaciones Frecuentes
 > 
 > **1. Material Collocations**
 > 
@@ -386,7 +386,7 @@ graph LR
 
 ## 🌍 E. Aplicaciones Reales
 
-> [!example]- 💼 Situaciones Prácticas
+> [!example] 💼 Situaciones Prácticas
 > 
 > **Scenario 1: Shopping for Clothes**
 > 
@@ -444,7 +444,7 @@ graph LR
 
 ## 🎓 Mini Practice Section
 
-> [!tip]- 💪 Quick Exercises
+> [!tip] 💪 Quick Exercises
 > 
 > **Exercise 1: Complete with the correct material**
 > 
@@ -570,7 +570,7 @@ mindmap
 
 ## 🔗 Connection to Next Topics
 
-> [!quote]- 🌟 Preparing for Grammar
+> [!quote] 🌟 Preparing for Grammar
 > 
 > **You've mastered the vocabulary. Now you're ready for:**
 > 

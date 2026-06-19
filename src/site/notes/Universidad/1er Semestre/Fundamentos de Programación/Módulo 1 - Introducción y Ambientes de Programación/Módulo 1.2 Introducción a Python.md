@@ -235,14 +235,14 @@ mindmap
 > 
 > ### 📋 Prerrequisitos
 > 
-> - [[Fundamentos de Programación\|Fundamentos de Programación]] - Conceptos básicos
+> - [[Universidad/1er Semestre/Fundamentos de Programación/Fundamentos de Programación\|Fundamentos de Programación]] - Conceptos básicos
 > - [[Lógica de Programación\|Lógica de Programación]] - Pensamiento algorítmico
 > - [[Sistemas Operativos Básicos\|Sistemas Operativos Básicos]] - Manejo de terminal
 > 
 > ### 🎯 Siguientes Pasos
 > 
 > - [[Estructuras de Datos en Python\|Estructuras de Datos en Python]] - Listas, diccionarios, sets
-> - [[Programación Orientada a Objetos\|Programación Orientada a Objetos]] - Classes y objetos
+> - [[Universidad/2do Semestre/Programación orientada a objetos/Programación Orientada a Objetos\|Programación Orientada a Objetos]] - Classes y objetos
 > - [[Manejo de Archivos\|Manejo de Archivos]] - Lectura y escritura
 > - [[APIs y Requests\|APIs y Requests]] - Comunicación con servicios web
 > - [[Bases de Datos con Python\|Bases de Datos con Python]] - SQLite, PostgreSQL

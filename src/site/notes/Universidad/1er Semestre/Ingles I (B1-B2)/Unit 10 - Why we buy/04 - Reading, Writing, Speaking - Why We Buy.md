@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 Integrating All Skills
+> [!info] 💡 Integrating All Skills
 > 
 > Esta sección integra todo lo aprendido en la unidad para desarrollar habilidades comunicativas completas en contextos reales sobre **consumo, productos y decisiones de compra**.
 > 
@@ -44,7 +44,7 @@
 
 ## 📖 A. Reading: Understanding Consumer Behavior
 
-> [!example]- 📰 Reading Text: "Why We Buy What We Buy"
+> [!example] 📰 Reading Text: "Why We Buy What We Buy"
 > 
 > **Sample Reading Text:**
 > 
@@ -82,7 +82,7 @@
 > 
 > ---
 
-> [!note]- 🔍 Reading Comprehension Questions
+> [!note] 🔍 Reading Comprehension Questions
 > 
 > **Level 1: Basic Understanding**
 > 
@@ -172,7 +172,7 @@
 > >     - 1. Quality, 2. Price, 3. Design, 4. Sustainability, 5. Brand
 > >     - (Accept any order with justification)
 
-> [!tip]- 📚 Vocabulary from Reading
+> [!tip] 📚 Vocabulary from Reading
 > 
 > **Key terms to extract:**
 > 
@@ -202,7 +202,7 @@
 
 ## ✍️ B. Writing: Product Descriptions & Reviews
 
-> [!example]- 📝 Writing Task 1: Product Description
+> [!example] 📝 Writing Task 1: Product Description
 > 
 > **Assignment:**
 > 
@@ -291,7 +291,7 @@
 > ☐ Checked spelling and grammar
 > ```
 
-> [!note]- 📝 Writing Task 2: Product Review
+> [!note] 📝 Writing Task 2: Product Review
 > 
 > **Assignment:**
 > 
@@ -392,7 +392,7 @@
 
 ## 🗣️ C. Speaking: Discussions & Recommendations
 
-> [!example]- 💬 Discussion Topic 1: Shopping Habits
+> [!example] 💬 Discussion Topic 1: Shopping Habits
 > 
 > **Discussion Questions:**
 > 
@@ -466,7 +466,7 @@
 > > actual need!"
 > > ```
 
-> [!tip]- 🎯 Speaking Task: Product Recommendation
+> [!tip] 🎯 Speaking Task: Product Recommendation
 > 
 > **Task:**
 > 
@@ -548,7 +548,7 @@
 > > ☐ Eye contact and clear pronunciation
 > > ```
 
-> [!note]- 🤝 Pair/Group Discussion Activities
+> [!note] 🤝 Pair/Group Discussion Activities
 > 
 > **Activity 1: Debate - Quality vs Price**
 > 
@@ -629,7 +629,7 @@
 
 ## 📊 Self-Assessment & Reflection
 
-> [!quote]- 🎯 Can You Do This?
+> [!quote] 🎯 Can You Do This?
 > 
 > **Reading Skills:**
 > 
@@ -672,7 +672,7 @@
 
 ## 💪 Final Challenge: Mini Project
 
-> [!example]- 🎓 Unit 10 Capstone Project
+> [!example] 🎓 Unit 10 Capstone Project
 > 
 > **Choose ONE of these projects:**
 > 
@@ -779,7 +779,7 @@ mindmap
 
 ## 🔗 Beyond Unit 10
 
-> [!quote]- 🌟 What's Next?
+> [!quote] 🌟 What's Next?
 > 
 > **You've completed Unit 10! You can now:**
 > 

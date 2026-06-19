@@ -31,7 +31,7 @@ graph TB
 
 ## 📋 Objetivos del Módulo
 
-> [!success]- **🎯 Metas de Aprendizaje** Al finalizar este módulo, serás capaz de:
+> [!success] **🎯 Metas de Aprendizaje** Al finalizar este módulo, serás capaz de:
 > 
 > - 🔍 **Comprender** qué es Pandas y su importancia en el ecosistema de datos
 > - 🧱 **Dominar** las estructuras fundamentales: Series y DataFrame
@@ -42,7 +42,7 @@ graph TB
 
 ## 🐼 1. ¿Qué es Pandas?
 
-> [!info]- **🌟 El Poder de Pandas** **Pandas** (Panel Data) es una biblioteca de código abierto que revoluciona el análisis de datos en Python. Inspirada en R y Excel, combina la simplicidad con el poder computacional de Python.
+> [!info] **🌟 El Poder de Pandas** **Pandas** (Panel Data) es una biblioteca de código abierto que revoluciona el análisis de datos en Python. Inspirada en R y Excel, combina la simplicidad con el poder computacional de Python.
 > 
 > ### 🚀 ¿Por qué Pandas es tan popular?
 > 
@@ -54,7 +54,7 @@ graph TB
 > |**Integrado**|Funciona perfectamente con NumPy, Matplotlib|🔗|
 > |**Potente**|Operaciones complejas en pocas líneas|💪|
 
-> [!tip]- **⚙️ Instalación y Configuración**
+> [!tip] **⚙️ Instalación y Configuración**
 > 
 > ```python
 > # 📦 Instalación (ejecutar una sola vez)
@@ -92,7 +92,7 @@ graph LR
     style C fill:#f3e5f5,stroke:#4a148c,stroke-width:2px
 ```
 
-> [!success]- **📈 Series: La Columna Inteligente** Una **Series** es un array unidimensional con etiquetas (índices). Es como una columna de Excel con superpoderes.
+> [!success] **📈 Series: La Columna Inteligente** Una **Series** es un array unidimensional con etiquetas (índices). Es como una columna de Excel con superpoderes.
 > 
 > ### 🔑 Características Clave:
 > 
@@ -136,7 +136,7 @@ graph LR
 > print(f"Precio máximo: ${precios.max():.2f}")
 > ```
 
-> [!tip]- **📋 DataFrame: La Tabla de Datos Definitiva** El **DataFrame** es la estructura estrella de Pandas. Es una tabla bidimensional donde cada columna es una Series.
+> [!tip] **📋 DataFrame: La Tabla de Datos Definitiva** El **DataFrame** es la estructura estrella de Pandas. Es una tabla bidimensional donde cada columna es una Series.
 > 
 > ### 🔍 Analogías para Entender DataFrame:
 > 
@@ -177,7 +177,7 @@ graph LR
 > print(df_estudiantes.describe())
 > ```
 
-> [!example]- **🎯 Múltiples Formas de Crear DataFrames**
+> [!example] **🎯 Múltiples Formas de Crear DataFrames**
 > 
 > ```python
 > # 1️⃣ Desde diccionario de listas
@@ -233,7 +233,7 @@ graph TB
     style D fill:#fce4ec,stroke:#c2185b,stroke-width:2px
 ```
 
-> [!success]- **📄 Lectura de Archivos CSV** Los archivos CSV son fundamentales en el análisis de datos. Pandas los maneja con elegancia.
+> [!success] **📄 Lectura de Archivos CSV** Los archivos CSV son fundamentales en el análisis de datos. Pandas los maneja con elegancia.
 > 
 > ### 🔍 Lectura Básica:
 > 
@@ -278,7 +278,7 @@ graph TB
 > df_tipado = pd.read_csv('empleados.csv', dtype=tipos_datos)
 > ```
 
-> [!tip]- **📊 Lectura de Archivos Excel** Excel sigue siendo omnipresente en el mundo empresarial.
+> [!tip] **📊 Lectura de Archivos Excel** Excel sigue siendo omnipresente en el mundo empresarial.
 > 
 > ```python
 > # 📋 Instalación necesaria
@@ -304,7 +304,7 @@ graph TB
 >                  nrows=100)          # 100 filas
 > ```
 
-> [!example]- **🌐 JSON y Otros Formatos**
+> [!example] **🌐 JSON y Otros Formatos**
 > 
 > ```python
 > # 🌐 JSON - Común con APIs
@@ -324,7 +324,7 @@ graph TB
 > df_sql = pd.read_sql_query('SELECT * FROM ventas WHERE año = 2024', conn)
 > ```
 
-> [!warning]- **💾 Escritura de Archivos**
+> [!warning] **💾 Escritura de Archivos**
 > 
 > ### 📄 Guardar en CSV:
 > 
@@ -356,7 +356,7 @@ graph TB
 
 ## 🔍 4. Exploración de DataFrames
 
-> [!info]- **🕵️ Comandos de Exploración Esenciales**
+> [!info] **🕵️ Comandos de Exploración Esenciales**
 > 
 > ```python
 > # 🏗️ Crear dataset de ejemplo
@@ -397,7 +397,7 @@ graph TB
 > df_empresa.info()
 > ```
 
-> [!tip]- **📈 Análisis Estadístico Rápido**
+> [!tip] **📈 Análisis Estadístico Rápido**
 > 
 > ```python
 > # 📊 Estadísticas descriptivas
@@ -419,7 +419,7 @@ graph TB
 >        print(f"  {valor}: {conteo} ({pct:.1f}%)")
 > ```
 
-> [!success]- **⚠️ Diagnóstico de Calidad de Datos**
+> [!success] **⚠️ Diagnóstico de Calidad de Datos**
 > 
 > ```python
 > def diagnostico_completo(df):
@@ -479,7 +479,7 @@ graph TB
     style I fill:#fce4ec,stroke:#c2185b,stroke-width:2px
 ```
 
-> [!success]- **📊 Selección de Columnas**
+> [!success] **📊 Selección de Columnas**
 > 
 > ```python
 > # 1️⃣ Una sola columna (devuelve Series)
@@ -500,7 +500,7 @@ graph TB
 > df_filtrado = df_empresa[columnas_disponibles]
 > ```
 
-> [!tip]- **🎯 Selección de Filas: loc vs iloc**
+> [!tip] **🎯 Selección de Filas: loc vs iloc**
 > 
 > ### 🔑 Diferencia Clave:
 > 
@@ -545,7 +545,7 @@ graph TB
 
 ## 🔍 6. Filtrado Condicional
 
-> [!example]- **🔍 Filtros Básicos**
+> [!example] **🔍 Filtros Básicos**
 > 
 > ```python
 > # 💰 Filtros simples
@@ -565,7 +565,7 @@ graph TB
 > print(f"Empleados junior (< 5 años): {len(juniors)}")
 > ```
 
-> [!tip]- **🔗 Filtros Combinados: Y, O, No**
+> [!tip] **🔗 Filtros Combinados: Y, O, No**
 > 
 > ### 🧮 Operadores Lógicos:
 > 
@@ -604,7 +604,7 @@ graph TB
 > print(f"Perfil específico: {len(perfil_especifico)}")
 > ```
 
-> [!success]- **🎯 Métodos Avanzados de Filtrado**
+> [!success] **🎯 Métodos Avanzados de Filtrado**
 > 
 > ```python
 > # 📋 Usando .isin() para múltiples valores
@@ -633,7 +633,7 @@ graph TB
 
 ## 🧠 Técnica de Estudio: Método PANDAS
 
-> [!note]- **🎓 Mnemotecnia PANDAS** Para recordar los pasos del análisis de datos con Pandas:
+> [!note] **🎓 Mnemotecnia PANDAS** Para recordar los pasos del análisis de datos con Pandas:
 > 
 > **P** - **Preparar**: Importar pandas y configurar el entorno **A** - **Abrir**: Leer los archivos de datos (CSV, Excel, JSON) **N** - **Navegar**: Explorar el DataFrame (head, info, describe) **D** - **Detectar**: Identificar problemas (nulos, duplicados, tipos) **A** - **Analizar**: Aplicar filtros y selecciones **S** - **Salvar**: Guardar los resultados procesados
 > 
@@ -647,7 +647,7 @@ graph TB
 
 ## 🛠️ Ejercicios Prácticos
 
-> [!example]- **🚀 Ejercicio 1: Análisis de Ventas**
+> [!example] **🚀 Ejercicio 1: Análisis de Ventas**
 > 
 > ```python
 > # 📊 Crear dataset de ventas
@@ -673,7 +673,7 @@ graph TB
 > # 4. Productos más vendidos por región
 > ```
 
-> [!example]- **🎯 Ejercicio 2: Análisis Estudiantil**
+> [!example] **🎯 Ejercicio 2: Análisis Estudiantil**
 > 
 > ```python
 > # 🎓 Dataset de estudiantes
@@ -698,7 +698,7 @@ graph TB
 
 ## 🔗 Referencias y Conexiones
 
-> [!quote]- **📚 Referencias a Otras Notas**
+> [!quote] **📚 Referencias a Otras Notas**
 > 
 > - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 6 - Pandas/Módulo 6.1 Introducción a NumPy\|Módulo 6.1 Introducción a NumPy]] - Base matemática para Pandas
 > - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 5 - Diccionarios/Módulo 5.1 Diccionarios\|Módulo 5.1 Diccionarios]] - Estructura similar a DataFrames
@@ -706,7 +706,7 @@ graph TB
 > - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo general - Funciones especiales/Funciones Built-in\|Funciones Built-in]] - Funciones que complementan Pandas
 > - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo general - Funciones especiales/Manejo de Errores con try, except, finally\|Manejo de Errores con try, except, finally]] - Para lectura robusta de archivos
 
-> [!info]- **🎯 Notas Recomendadas**
+> [!info] **🎯 Notas Recomendadas**
 > 
 > ### 📋 Prerrequisitos:
 > 
@@ -723,7 +723,7 @@ graph TB
 
 ## 📊 Comparativa: Pandas vs Otras Herramientas
 
-> [!tip]- **⚖️ Pandas vs Competidores**
+> [!tip] **⚖️ Pandas vs Competidores**
 > 
 > |Herramienta|Fortalezas|Debilidades|Caso de Uso|
 > |---|---|---|---|
@@ -735,7 +735,7 @@ graph TB
 
 ## 🎨 Proyecto Final: Dashboard de Datos
 
-> [!success]- **🏆 Proyecto Integrador**
+> [!success] **🏆 Proyecto Integrador**
 > 
 > ```python
 > # 🎯 Crear un análisis completo de datos empresariales
@@ -832,7 +832,7 @@ graph TB
 
 ## 🎯 Casos de Uso Reales
 
-> [!example]- **🌟 Aplicaciones en el Mundo Real**
+> [!example] **🌟 Aplicaciones en el Mundo Real**
 > 
 > ### 🏪 **Retail y E-commerce**
 > 
@@ -876,7 +876,7 @@ graph TB
 
 ## 🔧 Consejos y Mejores Prácticas
 
-> [!warning]- **⚠️ Errores Comunes y Cómo Evitarlos**
+> [!warning] **⚠️ Errores Comunes y Cómo Evitarlos**
 > 
 > ### 🚨 **Top 5 Errores de Principiantes**
 > 
@@ -903,7 +903,7 @@ graph TB
 
 ## 🚀 Recursos Adicionales
 
-> [!info]- **📚 Para Profundizar**
+> [!info] **📚 Para Profundizar**
 > 
 > ### 🔗 **Enlaces Útiles**
 > 
@@ -925,7 +925,7 @@ graph TB
 
 ## 🏁 Resumen Ejecutivo
 
-> [!abstract]- **📋 Puntos Clave del Módulo**
+> [!abstract] **📋 Puntos Clave del Módulo**
 > 
 > ### 🎯 **Conceptos Esenciales Dominados**
 > 

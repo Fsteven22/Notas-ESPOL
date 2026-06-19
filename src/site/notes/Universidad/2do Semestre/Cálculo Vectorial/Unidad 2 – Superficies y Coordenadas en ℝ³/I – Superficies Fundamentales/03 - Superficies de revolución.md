@@ -1282,7 +1282,7 @@
 > **Aplicaciones directas:**
 > - [[Cálculo de Áreas de Superficie\|Cálculo de Áreas de Superficie]] - Integrales de superficie
 > - [[Centros de Masa\|Centros de Masa]] - Teoremas de Pappus
-> - [[Universidad/1er Semestre/Física Mecanica/02 - Dinámica/Dinámica de Rotación/Momento de Inercia\|Momento de Inercia]] - Física rotacional
+> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Momento de Inercia\|Momento de Inercia]] - Física rotacional
 > - [[Optimización en 3D\|Optimización en 3D]] - Problemas isoperimétricos
 > 
 > **Temas avanzados:**

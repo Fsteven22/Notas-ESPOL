@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es la Voz Pasiva y por qué es importante?
+> [!info] 💡 ¿Qué es la Voz Pasiva y por qué es importante?
 > 
 > La **voz pasiva (Passive Voice)** es una estructura gramatical que cambia el enfoque de la oración: en lugar de destacar **quién hace** la acción, enfatiza **qué recibe** la acción o **qué se produce**.
 > 
@@ -43,7 +43,7 @@
 
 ## ✅ A. Passive Voice - Simple Present
 
-> [!example]- 📘 Estructura y Formación
+> [!example] 📘 Estructura y Formación
 > 
 > **Fórmula básica:**
 > 
@@ -98,7 +98,7 @@
 > ✅ Bananas are exported to Europe.
 > ```
 
-> [!note]- 🔍 Cuándo OMITIR "by + agent"
+> [!note] 🔍 Cuándo OMITIR "by + agent"
 > 
 > **Casos donde NO usamos "by":**
 > 
@@ -130,7 +130,7 @@
 >     style D fill:#ffe1e1
 > ```
 
-> [!success]- 🎨 Negative & Questions
+> [!success] 🎨 Negative & Questions
 > 
 > **Forma negativa:**
 > 
@@ -180,7 +180,7 @@
 
 ## 🕐 B. Passive Voice - Simple Past
 
-> [!example]- 📕 Estructura y Formación
+> [!example] 📕 Estructura y Formación
 > 
 > **Fórmula básica:**
 > 
@@ -232,7 +232,7 @@
 > |**two days ago**|The order was shipped two days ago|
 > |**on Monday**|The products were transported on Monday|
 
-> [!tip]- 🔄 Active to Passive Transformation
+> [!tip] 🔄 Active to Passive Transformation
 > 
 > **Paso a paso:**
 > 
@@ -284,7 +284,7 @@
 >           (no "by someone" - desconocido/no relevante)
 > ```
 
-> [!success]- 🎨 Negative & Questions (Past)
+> [!success] 🎨 Negative & Questions (Past)
 > 
 > **Forma negativa:**
 > 
@@ -330,7 +330,7 @@
 
 ## 🎯 C. Cuándo Usar el Pasivo
 
-> [!note]- 🤔 Razones para Usar Passive Voice
+> [!note] 🤔 Razones para Usar Passive Voice
 > 
 > **1. El agente (quien hace la acción) no es importante**
 > 
@@ -396,7 +396,7 @@
 
 ## 📋 D. Tabla Active → Passive
 
-> [!quote]- 🔄 Transformaciones Completas
+> [!quote] 🔄 Transformaciones Completas
 > 
 > **Present Simple:**
 > 
@@ -433,7 +433,7 @@
 
 ## 💪 E. Mini Ejercicios
 
-> [!tip]- ✏️ Practice Exercises
+> [!tip] ✏️ Practice Exercises
 > 
 > **Exercise 1: Transform to Passive (Present)**
 > 
@@ -600,7 +600,7 @@ mindmap
 
 ## 🎓 Key Patterns Summary
 
-> [!quote]- 📝 Essential Patterns to Remember
+> [!quote] 📝 Essential Patterns to Remember
 > 
 > **Product Descriptions (Present):**
 > 
@@ -633,7 +633,7 @@ mindmap
 
 ## 🔗 Connection to Next Topics
 
-> [!note]- 🌟 Preparing for Functional Language
+> [!note] 🌟 Preparing for Functional Language
 > 
 > **You've mastered the grammar. Now you're ready for:**
 > 

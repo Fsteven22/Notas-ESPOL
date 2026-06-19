@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es un circuito eléctrico?
+> [!info] 💡 ¿Qué es un circuito eléctrico?
 >
 > Un **circuito eléctrico** es una trayectoria cerrada por la que puede fluir corriente eléctrica. Está compuesto por elementos interconectados que generan, transportan, almacenan o disipan energía eléctrica.
 >
@@ -38,13 +38,13 @@
 > | **Capacitor** | Almacena energía en campo eléctrico | ⊣⊢ |
 > | **Inductor** | Almacena energía en campo magnético | ⌇ |
 > 
-> ![Pasted image 20260519225402.png](/img/user/Contenido%20Extra/Figuras/Pasted%20image%2020260519225402.png)
+> ![Pasted image 20260519225402.png](/img/user/Universidad/Figuras/Pasted%20image%2020260519225402.png)
 
 ---
 
 ## 🎛️ Fuentes Dependientes (Controladas)
 
-> [!note]- 🔗 Fuentes Controladas por otra Variable del Circuito
+> [!note] 🔗 Fuentes Controladas por otra Variable del Circuito
 >
 > Las **fuentes dependientes** (o controladas) son elementos activos cuyo valor de voltaje o corriente de salida **depende de otra tensión o corriente** existente en el circuito. Son esenciales para modelar transistores, amplificadores operacionales y otros dispositivos activos.
 >
@@ -109,7 +109,7 @@
 ---
 ## 🔗 Conductores
 
-> [!note]- 🧵 El Medio de Transporte
+> [!note] 🧵 El Medio de Transporte
 >
 > Los **conductores** son materiales que permiten el flujo libre de electrones con muy poca oposición. Son el medio por el que la corriente viaja entre los componentes del circuito.
 >
@@ -145,13 +145,13 @@
 >
 > > **Calibre AWG:** En América Latina se usa el estándar **AWG (American Wire Gauge)** para medir el diámetro de los conductores. A menor número AWG, mayor diámetro y mayor capacidad de corriente (ej. AWG 12 para circuitos de 20 A en hogares).
 
-![Pasted image 20260519225615.png](/img/user/Contenido%20Extra/Figuras/Pasted%20image%2020260519225615.png)
+![Pasted image 20260519225615.png](/img/user/Universidad/Figuras/Pasted%20image%2020260519225615.png)
 
 ---
 
 ## ⊟ Resistencias
 
-> [!tip]- 🔩 Disipadores de Energía
+> [!tip] 🔩 Disipadores de Energía
 >
 > La **resistencia** es el elemento pasivo que se opone al paso de la corriente, convirtiendo energía eléctrica en calor (efecto Joule).
 >
@@ -214,13 +214,13 @@
 > | **Potencia** | Máxima potencia disipable sin dañarse (¼ W, ½ W, 1 W, 2 W…) |
 > | **Coeficiente de temperatura** | Variación de R con la temperatura (ppm/°C) |
 
-![Pasted image 20260519225108.png](/img/user/Contenido%20Extra/Figuras/Pasted%20image%2020260519225108.png)
+![Pasted image 20260519225108.png](/img/user/Universidad/Figuras/Pasted%20image%2020260519225108.png)
 
 ---
 
 ## ⊣⊢ Capacitores
 
-> [!tip]- ⚡ Almacenadores de Carga Eléctrica
+> [!tip] ⚡ Almacenadores de Carga Eléctrica
 >
 > El **capacitor** (o condensador) es un elemento pasivo que almacena energía en forma de **campo eléctrico** entre dos placas conductoras separadas por un dieléctrico.
 >
@@ -273,13 +273,13 @@
 > > ⚠️ Los capacitores electrolíticos **deben conectarse respetando la polaridad** (+ y −). Invertirlos puede dañarlos o causar cortocircuito.
 
 
- ![Pasted image 20260519225814.png](/img/user/Contenido%20Extra/Figuras/Pasted%20image%2020260519225814.png)
+ ![Pasted image 20260519225814.png](/img/user/Universidad/Figuras/Pasted%20image%2020260519225814.png)
 
 ---
 
 ## ⌇ Inductores
 
-> [!tip]- 🧲 Almacenadores de Energía Magnética
+> [!tip] 🧲 Almacenadores de Energía Magnética
 >
 > El **inductor** (o bobina) es un elemento pasivo que almacena energía en forma de **campo magnético** cuando circula corriente por sus espiras.
 >
@@ -326,12 +326,12 @@
 > | **Motores y relés** | Genera campo magnético para movimiento mecánico |
 
 
-![Pasted image 20260519225956.png](/img/user/Contenido%20Extra/Figuras/Pasted%20image%2020260519225956.png)
+![Pasted image 20260519225956.png](/img/user/Universidad/Figuras/Pasted%20image%2020260519225956.png)
 
 ---
 ## 🌍 Simbología EU vs US
 
-> [!note]- 📐 Dos Estándares para los Mismos Elementos
+> [!note] 📐 Dos Estándares para los Mismos Elementos
 >
 > Existen dos sistemas de simbología para circuitos eléctricos. En Ecuador y Europa se usa el estándar **IEC (EU)**, mientras que en libros americanos predomina el estándar **IEEE/ANSI (US)**.
 >
@@ -349,7 +349,7 @@
 
 ## 🎛️ Elementos de Control
 
-> [!note]- 🔘 Interruptores, Pulsadores y Relés
+> [!note] 🔘 Interruptores, Pulsadores y Relés
 >
 > Los **elementos de control** permiten abrir o cerrar un circuito, ya sea manualmente o de forma automática/eléctrica.
 >
@@ -394,12 +394,12 @@
 >     style C fill:#ffe1e1
 >     style D fill:#e1ffe1
 > ```
-![ChatGPT Image 30 may 2026, 18_49_08.png](/img/user/Contenido%20Extra/Figuras/ChatGPT%20Image%2030%20may%202026,%2018_49_08.png)
+![ChatGPT Image 30 may 2026, 18_49_08.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2030%20may%202026,%2018_49_08.png)
 
 ---
 ## ⚖️ Comparación de los Tres Elementos Pasivos
 
-> [!success]- 📊 Resistencia, Capacitor e Inductor
+> [!success] 📊 Resistencia, Capacitor e Inductor
 >
 > | Característica | Resistencia (R) | Capacitor (C) | Inductor (L) |
 > |---|---|---|---|
@@ -422,7 +422,7 @@
 >     style E fill:#fff4e1
 > ```
 > 
-![ChatGPT Image 19 may 2026, 23_02_18.png](/img/user/Contenido%20Extra/Figuras/ChatGPT%20Image%2019%20may%202026,%2023_02_18.png)
+![ChatGPT Image 19 may 2026, 23_02_18.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2019%20may%202026,%2023_02_18.png)
 
 ---
 
@@ -457,7 +457,7 @@ mindmap
 
 ## 📚 Referencias
 
-> [!quote]- 📖 Fuentes consultadas
+> [!quote] 📖 Fuentes consultadas
 >
 > [1] A. Hermosa Donante, *Electrónica Aplicada*, 1.ª ed. Mexico: Alfaomega Grupo Editor, 2013, pp. 30–75. ISBN-13: 9786077074045.
 >

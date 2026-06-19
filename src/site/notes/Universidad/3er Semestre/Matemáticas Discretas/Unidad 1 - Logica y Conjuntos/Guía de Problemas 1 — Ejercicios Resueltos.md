@@ -5,7 +5,7 @@
 
 # 📝 Guía de Problemas 1 — Ejercicios Resueltos
 
-> [!info]- 📌 Sobre esta guía
+> [!info] 📌 Sobre esta guía
 > 
 > Ejercicios resueltos de la **Guía de Problemas 1** — Matemáticas Discretas (MATG1051). Autores de la guía: Cristhian Hernández, Ebner Pineda, Liliana Pérez, Jennifer Avilés.
 > 
@@ -22,7 +22,7 @@
 
 ## 🔌 1.1 — Proposiciones, Tablas de Verdad y Circuitos
 
-> [!example]- 📝 Ejercicio 1 — Simplificación de circuito (3 entradas)
+> [!example] 📝 Ejercicio 1 — Simplificación de circuito (3 entradas)
 > 
 > **Enunciado:** El circuito tiene entradas $p, q, r$ y salida $s$. Analizando la figura: NOT en $p$, NOT en $q$, NOT en $r$; luego tres AND: $(p \land q)$, $(\neg p \land r)$, $(\neg q \land r)$; y finalmente un OR de las tres salidas.
 > 
@@ -49,7 +49,7 @@
 > 1. **AND** entre $p$ y $q$ → produce $p \land q$.
 > 2. **OR** entre el resultado anterior y $r$ → salida $s$.
 
-> [!example]- 📝 Ejercicio 2 — Expresión booleana del circuito
+> [!example] 📝 Ejercicio 2 — Expresión booleana del circuito
 > 
 > **Enunciado:** Circuito con entradas $P, Q$ y compuertas AND, NOT, OR.
 > 
@@ -80,7 +80,7 @@
 > 1. **NOT** en $P$ → $\neg P$.
 > 2. **OR** entre $\neg P$ y $Q$ → salida $S$.
 
-> [!example]- 📝 Ejercicio 3 — Expresión booleana y tabla de verdad
+> [!example] 📝 Ejercicio 3 — Expresión booleana y tabla de verdad
 > 
 > **Enunciado:** Circuito con entradas $x_1, x_2, x_3$.
 > 
@@ -131,7 +131,7 @@
 > 
 > La salida es 1 únicamente cuando $x_3 = 0$, independientemente de $x_1$ y $x_2$.
 
-> [!example]- 📝 Ejercicio 4 — Tabla de verdad, clasificación y simplificación
+> [!example] 📝 Ejercicio 4 — Tabla de verdad, clasificación y simplificación
 > 
 > **Enunciado:** $[(p \to q) \land (\neg r \lor p)] \to (q \lor r)$
 > 
@@ -193,7 +193,7 @@
 > 
 > La fórmula es equivalente a $p \lor q \lor r$, que es Falsa cuando $p=F, q=F, r=F$ y Verdadera en los demás casos → **contingencia**. $\blacksquare$
 
-> [!example]- 📝 Ejercicio 5 — Valor lógico con valores asignados
+> [!example] 📝 Ejercicio 5 — Valor lógico con valores asignados
 > 
 > **Enunciado:** $p = V$, $q = V$, $r = F$, $s = F$. Evaluar:
 > 
@@ -220,7 +220,7 @@
 > 
 > El valor lógico de la proposición es **Verdadero**.
 
-> [!example]- 📝 Ejercicio 6 — Sistema de seguridad (bóveda)
+> [!example] 📝 Ejercicio 6 — Sistema de seguridad (bóveda)
 > 
 > **Enunciado:** Entradas $A$ (gerente), $B$ (subgerente), $C$ (supervisor). Reglas:
 > 
@@ -334,7 +334,7 @@
 
 ## 🔁 1.2 — Proposiciones Condicionales y Equivalencia Lógica
 
-> [!example]- 📝 Ejercicio 7 — Recíproca, inversa y contrarrecíproca
+> [!example] 📝 Ejercicio 7 — Recíproca, inversa y contrarrecíproca
 > 
 > **Variables:** $p$: "Obtengo el 10% de descuento en el impuesto predial." $q$: "Cancelo el impuesto predial en enero."
 > 
@@ -351,7 +351,7 @@
 > 
 > > [!tip] La original y la contrarrecíproca son **lógicamente equivalentes**. La recíproca y la inversa también son equivalentes entre sí.
 
-> [!example]- 📝 Ejercicio 8 — Validez del razonamiento (lanchas)
+> [!example] 📝 Ejercicio 8 — Validez del razonamiento (lanchas)
 > 
 > **Proposiciones:**
 > 
@@ -380,7 +380,7 @@
 > 
 > El razonamiento es **válido**. $\blacksquare$
 
-> [!example]- 📝 Ejercicio 9 — Validez del razonamiento (submarinistas)
+> [!example] 📝 Ejercicio 9 — Validez del razonamiento (submarinistas)
 > 
 > **Proposiciones:**
 > 
@@ -413,7 +413,7 @@
 > 
 > El razonamiento es **válido**. $\blacksquare$
 
-> [!example]- 📝 Ejercicio 10 — Validez del razonamiento (Juan y la procrastinación)
+> [!example] 📝 Ejercicio 10 — Validez del razonamiento (Juan y la procrastinación)
 > 
 > **Proposiciones:**
 > 
@@ -442,7 +442,7 @@
 > 
 > El razonamiento es **válido**. $\blacksquare$
 
-> [!example]- 📝 Ejercicio 11 — Argumento con 5 premisas
+> [!example] 📝 Ejercicio 11 — Argumento con 5 premisas
 > 
 > **Premisas:**
 > 
@@ -472,7 +472,7 @@
 > 
 > El argumento es **válido**. $\blacksquare$
 
-> [!example]- 📝 Ejercicio 12 — Argumento con 3 premisas
+> [!example] 📝 Ejercicio 12 — Argumento con 3 premisas
 > 
 > **Premisas:**
 > 
@@ -517,7 +517,7 @@
 
 ## 🔢 1.3 — Demostraciones e Inducción Matemática
 
-> [!example]- 📝 Ejercicio 13 — Cuantificadores en $\mathbb{R} \times \mathbb{R}$
+> [!example] 📝 Ejercicio 13 — Cuantificadores en $\mathbb{R} \times \mathbb{R}$
 > 
 > **Dominio:** $\mathbb{R} \times \mathbb{R}$
 > 
@@ -557,7 +557,7 @@
 > 
 > **(q) $\exists x \exists y\ ((x < y) \to (x^2 < y^2))$** — ✅ **Verdadero.** $x=1, y=2$: $1 < 2$ y $1 < 4$. ✓
 
-> [!example]- 📝 Ejercicio 14 — Valor lógico de proposiciones cuantificadas
+> [!example] 📝 Ejercicio 14 — Valor lógico de proposiciones cuantificadas
 > 
 > 
 > 
@@ -623,7 +623,7 @@
 > 
 > Como el cuantificador exige que esto valga para **todo** $x > 0$, y falla para $x = 1 \in \left(0, \frac{4}{3}\right]$, la proposición es falsa. $\blacksquare$
 
-> [!example]- 📝 Ejercicio 15 — Inducción: $3^n \geq 2n+1$
+> [!example] 📝 Ejercicio 15 — Inducción: $3^n \geq 2n+1$
 > 
 > **Demostrar:** $\forall n \in \mathbb{N}: 3^n \geq 2n+1$
 > 
@@ -637,7 +637,7 @@
 > 
 > Por lo tanto $3^{k+1} \geq 2k+3 = 2(k+1)+1$. $\blacksquare$
 
-> [!example]- 📝 Ejercicio 16 — Inducción: suma de cuadrados
+> [!example] 📝 Ejercicio 16 — Inducción: suma de cuadrados
 > 
 > **Demostrar:** $1^2 + 2^2 + \cdots + n^2 = \dfrac{n(n+1)(2n+1)}{6}$, $\forall n \geq 1$
 > 
@@ -655,7 +655,7 @@
 > 
 > $$= \frac{(k+1)(k+2)(2(k+1)+1)}{6} \quad \blacksquare$$
 
-> [!example]- 📝 Ejercicio 17 — Inducción: suma alternada de cuadrados
+> [!example] 📝 Ejercicio 17 — Inducción: suma alternada de cuadrados
 > 
 > **Demostrar:** $-1^2 + 2^2 - 3^2 + \cdots + (-1)^n n^2 = \dfrac{(-1)^n n(n+1)}{2}$, $\forall n \geq 1$
 > 
@@ -671,7 +671,7 @@
 > 
 > $$= (-1)^{k+1}(k+1) \cdot \frac{k+2}{2} = \frac{(-1)^{k+1}(k+1)(k+2)}{2} \quad \blacksquare$$
 
-> [!example]- 📝 Ejercicio 18 — Directo: si 2 | $n^2-1$ entonces 4 | $n^2-1$
+> [!example] 📝 Ejercicio 18 — Directo: si 2 | $n^2-1$ entonces 4 | $n^2-1$
 > 
 > **Demostrar:** Si $2 \mid n^2-1$, entonces $4 \mid n^2-1$.
 > 
@@ -683,7 +683,7 @@
 > 
 > Como $k(k+1)$ es producto de dos enteros consecutivos, es entero. Por tanto $4 \mid 4k(k+1) = n^2-1$. $\blacksquare$
 
-> [!example]- 📝 Ejercicio 19 — Inducción: divisibilidad por 57
+> [!example] 📝 Ejercicio 19 — Inducción: divisibilidad por 57
 > 
 > **Demostrar:** $7^{n+1} + 8^{2n-1}$ es divisible por 57, $\forall n \in \mathbb{N}$.
 > 
@@ -699,7 +699,7 @@
 > 
 > Por tanto $57 \mid 7^{k+2} + 8^{2k+1}$. $\blacksquare$
 
-> [!example]- 📝 Ejercicio 20 — Inducción: desigualdad con raíces
+> [!example] 📝 Ejercicio 20 — Inducción: desigualdad con raíces
 > 
 > **Demostrar:** $\displaystyle1 + \frac{1}{\sqrt{2}} + \cdots + \frac{1}{\sqrt{n}} > 2(\sqrt{n+1}-1)$, $\forall n \in \mathbb{N}$
 > 
@@ -721,7 +721,7 @@
 > 
 > Por tanto $S_{k+1} > 2(\sqrt{k+2}-1)$. $\blacksquare$
 
-> [!example]- 📝 Ejercicio 21 — Inducción: $1^2 + 2^2 + \cdots + n^2 \leq n^3$
+> [!example] 📝 Ejercicio 21 — Inducción: $1^2 + 2^2 + \cdots + n^2 \leq n^3$
 > 
 > **Demostrar:** $\displaystyle\sum_{i=1}^{n} i^2 \leq n^3$, $\forall n \in \mathbb{N}$
 > 
@@ -739,7 +739,7 @@
 > 
 > Lo cual es verdadero para todo $k \geq 1$. $\blacksquare$
 
-> [!example]- 📝 Ejercicio 22 — Inducción: diagonales de polígono convexo
+> [!example] 📝 Ejercicio 22 — Inducción: diagonales de polígono convexo
 > 
 > **Demostrar:** Un polígono convexo de $n$ lados tiene $\dfrac{n(n-3)}{2}$ diagonales, $\forall n \geq 3$.
 > 
@@ -760,11 +760,11 @@
 > 
 > Como $\dfrac{(k+1)(k-2)}{2} = \dfrac{(k+1)((k+1)-3)}{2}$, que es exactamente la fórmula para $n = k+1$. $\blacksquare$
 > 
-> ![Pasted image 20260613145551.png](/img/user/Contenido%20Extra/Figuras/Pasted%20image%2020260613145551.png)
+> ![Pasted image 20260613145551.png](/img/user/Universidad/Figuras/Pasted%20image%2020260613145551.png)
 > 
-> ![Pasted image 20260613145600.png](/img/user/Contenido%20Extra/Figuras/Pasted%20image%2020260613145600.png)
+> ![Pasted image 20260613145600.png](/img/user/Universidad/Figuras/Pasted%20image%2020260613145600.png)
 > 
-> ![Pasted image 20260613145618.png](/img/user/Contenido%20Extra/Figuras/Pasted%20image%2020260613145618.png)
+> ![Pasted image 20260613145618.png](/img/user/Universidad/Figuras/Pasted%20image%2020260613145618.png)
 > 
 >
 > >[!note] 📌 Nota — Lo que muestran las imágenes
@@ -779,7 +779,7 @@
 
 ## 🧮 1.4 — Conjuntos, Operaciones y Demostraciones
 
-> [!example]- 📝 Ejercicio 23 — Si $A \subseteq B$, entonces $A \cap B = A$
+> [!example] 📝 Ejercicio 23 — Si $A \subseteq B$, entonces $A \cap B = A$
 > 
 > **Demostrar:** Si $A \subseteq B$, entonces $A \cap B = A$.
 > 
@@ -791,7 +791,7 @@
 > 
 > Por doble contención: $A \cap B = A$. $\blacksquare$
 
-> [!example]- 📝 Ejercicio 24 — Condiciones entre conjuntos
+> [!example] 📝 Ejercicio 24 — Condiciones entre conjuntos
 > 
 > **(a) $A \cap B = A$:**
 > 
@@ -807,7 +807,7 @@
 > 
 > $A \cup B = A$ significa que todo elemento de $B$ ya está en $A$, es decir $B \subseteq A$.
 
-> [!example]- 📝 Ejercicio 25 — $A \times (B \cap C) = (A \times B) \cap (A \times C)$
+> [!example] 📝 Ejercicio 25 — $A \times (B \cap C) = (A \times B) \cap (A \times C)$
 > 
 > **Demostración:**
 > 
@@ -817,7 +817,7 @@
 > 
 > Como $(x,y)$ es arbitrario: $A \times (B \cap C) = (A \times B) \cap (A \times C)$. $\blacksquare$
 
-> [!example]- 📝 Ejercicio 26 — Simplificación con álgebra de conjuntos
+> [!example] 📝 Ejercicio 26 — Simplificación con álgebra de conjuntos
 > 
 > **Simplificar:** $((C \cup \overline{A}) - \overline{B-A}) \cap C$
 > 
@@ -837,7 +837,7 @@
 > 
 > $$\boxed{((C \cup \overline{A}) - \overline{B-A}) \cap C = B \cap C \cap \overline{A}}$$
 
-> [!example]- 📝 Ejercicio 27 — Si $A \subseteq B$, entonces $A \cup C \subseteq B \cup C$
+> [!example] 📝 Ejercicio 27 — Si $A \subseteq B$, entonces $A \cup C \subseteq B \cup C$
 > 
 > **Demostración:**
 > 
@@ -848,7 +848,7 @@
 > 
 > En ambos casos $x \in B \cup C$, por tanto $A \cup C \subseteq B \cup C$. $\blacksquare$
 
-> [!example]- 📝 Ejercicio 28 — Tres demostraciones con álgebra de conjuntos
+> [!example] 📝 Ejercicio 28 — Tres demostraciones con álgebra de conjuntos
 > 
 > **(a) $A - (A - (A \cap B)) = A \cap B$**
 > 

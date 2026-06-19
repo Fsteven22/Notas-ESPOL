@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Por qué es importante este vocabulario?
+> [!info] 💡 ¿Por qué es importante este vocabulario?
 > 
 > El vocabulario de **éxito, oportunidades y riesgos** es fundamental para:
 > 
@@ -57,7 +57,7 @@ graph TD
 
 ## 🏆 A. Vocabulary: Succeeding
 
-> [!example]- 📈 Palabras Clave sobre Éxito
+> [!example] 📈 Palabras Clave sobre Éxito
 > 
 > **Verbos de éxito y progreso:**
 > 
@@ -115,7 +115,7 @@ graph TD
 >     style H fill:#e1f5ff
 > ```
 
-> [!success]- 🎯 Frases Comunes con Vocabulario de Éxito
+> [!success] 🎯 Frases Comunes con Vocabulario de Éxito
 > 
 > **Succeed/Success:**
 > 
@@ -183,7 +183,7 @@ graph TD
 
 ## ⚖️ B. Opportunities & Risks
 
-> [!note]- 🎲 Vocabulario de Decisiones y Evaluación
+> [!note] 🎲 Vocabulario de Decisiones y Evaluación
 > 
 > **Palabras clave:**
 > 
@@ -238,7 +238,7 @@ graph TD
 >     style J fill:#ffcccc
 > ```
 
-> [!tip]- 🎯 Frases para Analizar Decisiones
+> [!tip] 🎯 Frases para Analizar Decisiones
 > 
 > **Talking about advantages:**
 > 
@@ -317,7 +317,7 @@ graph TD
 
 ## 📚 C. Mini-Glosario EN → ES
 
-> [!quote]- 📖 Referencia Rápida Completa
+> [!quote] 📖 Referencia Rápida Completa
 > 
 > ### Succeeding Vocabulary
 > 
@@ -370,7 +370,7 @@ graph TD
 
 ## 💬 D. Collocations & Uso Real
 
-> [!success]- 🎯 Combinaciones Frecuentes
+> [!success] 🎯 Combinaciones Frecuentes
 > 
 > **1. Goal Collocations**
 > 
@@ -444,7 +444,7 @@ graph TD
 
 ## 🌍 E. Aplicaciones en Frases
 
-> [!example]- 💼 Contextos Reales de Uso
+> [!example] 💼 Contextos Reales de Uso
 > 
 > **Scenario 1: Job Interview**
 > 
@@ -535,7 +535,7 @@ graph TD
 
 ## 🎓 Mini Practice Section
 
-> [!tip]- 💪 Quick Exercises
+> [!tip] 💪 Quick Exercises
 > 
 > **Exercise 1: Complete with the correct word**
 > 
@@ -712,7 +712,7 @@ mindmap
 
 ## 🔗 Connection to Next Topics
 
-> [!quote]- 🌟 Preparing for Grammar
+> [!quote] 🌟 Preparing for Grammar
 > 
 > **You've mastered the vocabulary. Now you're ready for:**
 > 

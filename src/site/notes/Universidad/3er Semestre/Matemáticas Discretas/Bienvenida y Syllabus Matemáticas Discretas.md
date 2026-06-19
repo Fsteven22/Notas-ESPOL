@@ -7,7 +7,7 @@
 
 ## 🎉 ¡Bienvenido/a a Matemáticas Discretas!
 
-> [!info]- 👋 Sobre esta materia
+> [!info] 👋 Sobre esta materia
 >
 > ¡Hola y bienvenido/a! Esta materia es parte de la formación básica para estudiantes de Computación, Estadística, y Logística y Transporte. Aquí aprenderás a razonar matemáticamente usando objetos discretos — la base de casi todo lo que existe en la computación.
 >
@@ -26,7 +26,7 @@
 
 ## 🎯 Objetivo General
 
-> [!note]- 📌 ¿Qué vamos a lograr?
+> [!note] 📌 ¿Qué vamos a lograr?
 >
 > Aplicar los fundamentos del pensamiento y razonamiento matemático a través del estudio de los objetos discretos y las relaciones entre ellos, para la **resolución de problemas de naturaleza discreta**.
 >
@@ -43,7 +43,7 @@
 
 ## 📋 Evaluación
 
-> [!warning]- 📊 ¿Cómo se evalúa?
+> [!warning] 📊 ¿Cómo se evalúa?
 >
 > | Actividad | ¿Aplica? |
 > |---|---|
@@ -61,7 +61,7 @@
 
 ## 🗂️ Contenido del Curso
 
-> [!tip]- 📚 Programa completo por unidades
+> [!tip] 📚 Programa completo por unidades
 >
 > ```mermaid
 > graph LR
@@ -95,7 +95,7 @@
 
 ## 📖 Unidades Detalladas
 
-> [!example]- 🔵 Unidad I — Conjunto, Lógica, Demostraciones y Circuitos Combinatorios *(6h)*
+> [!example] 🔵 Unidad I — Conjunto, Lógica, Demostraciones y Circuitos Combinatorios *(6h)*
 >
 > | # | Subunidad |
 > |---|---|
@@ -104,7 +104,7 @@
 > | 1.3 | Demostraciones por métodos directo, indirecto, resolución e inducción matemática |
 > | 1.4 | Conjunto, subconjunto, producto cartesiano, conjunto potencia, cardinalidad y operaciones |
 
-> [!example]- 🟢 Unidad II — Funciones, Sucesiones y Relaciones *(5h)*
+> [!example] 🟢 Unidad II — Funciones, Sucesiones y Relaciones *(5h)*
 >
 > | # | Subunidad |
 > |---|---|
@@ -113,7 +113,7 @@
 > | 2.3 | Propiedades, relaciones de equivalencia y de orden parcial |
 > | 2.4 | Sucesiones y cadenas, representación y tipos de sucesiones, notación sigma y producto |
 
-> [!example]- 🟡 Unidad III — Introducción a la Teoría de Números y Técnicas de Conteo *(8h)*
+> [!example] 🟡 Unidad III — Introducción a la Teoría de Números y Técnicas de Conteo *(8h)*
 >
 > | # | Subunidad |
 > |---|---|
@@ -123,7 +123,7 @@
 > | 3.4 | Principio de las casillas, permutaciones y combinaciones |
 > | 3.5 | Combinaciones generalizadas y teorema del binomio |
 
-> [!example]- 🔴 Unidad IV — Relaciones de Recurrencia y Algoritmos *(7h)*
+> [!example] 🔴 Unidad IV — Relaciones de Recurrencia y Algoritmos *(7h)*
 >
 > | # | Subunidad |
 > |---|---|
@@ -132,7 +132,7 @@
 > | 4.3 | Relaciones de recurrencia, aplicaciones a problemas discretos |
 > | 4.4 | Resolución de relaciones de recurrencia homogénea de segundo orden |
 
-> [!example]- 🟣 Unidad V — Teoría de Grafos, Árboles y Aplicaciones *(12h)*
+> [!example] 🟣 Unidad V — Teoría de Grafos, Árboles y Aplicaciones *(12h)*
 >
 > | # | Subunidad |
 > |---|---|
@@ -140,7 +140,7 @@
 > | 5.2 | Árboles y caracterización, árboles de expansión mínima y binarios, recorridos |
 > | 5.3 | Algoritmo de la ruta más corta, algoritmo del mínimo peso |
 
-> [!example]- 🩵 Unidad VI — Lenguajes, Gramáticas y Autómatas de Estado Finito *(4h)*
+> [!example] 🩵 Unidad VI — Lenguajes, Gramáticas y Autómatas de Estado Finito *(4h)*
 >
 > | # | Subunidad |
 > |---|---|
@@ -152,7 +152,7 @@
 
 ## 👨‍🏫 Profesores
 
-> [!info]- 👥 Responsables de la asignatura
+> [!info] 👥 Responsables de la asignatura
 >
 > | Profesor | Correo | Rol |
 > |---|---|---|
@@ -164,7 +164,7 @@
 
 ## 📚 Bibliografía (Formato IEEE)
 
-> [!quote]- 📖 Fuentes oficiales de la materia
+> [!quote] 📖 Fuentes oficiales de la materia
 >
 > **Básica:**
 >
@@ -180,7 +180,7 @@
 
 ## 🗺️ Índice de Notas
 
-> [!tip]- 📂 Estructura del repositorio
+> [!tip] 📂 Estructura del repositorio
 >
 > ```
 > 📁 Matemáticas Discretas/

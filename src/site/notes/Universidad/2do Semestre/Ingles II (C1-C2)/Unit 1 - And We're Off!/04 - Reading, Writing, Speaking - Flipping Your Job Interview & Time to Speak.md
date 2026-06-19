@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué se trabaja en esta nota?
+> [!info] 💡 ¿Qué se trabaja en esta nota?
 >
 > Esta nota cubre los bloques finales de la unidad, enfocados en habilidades receptivas y productivas:
 >
@@ -40,7 +40,7 @@
 
 ## 📖 Reading — Flipping Your Job Interview
 
-> [!note]- 📖 Ideas principales del artículo
+> [!note] 📖 Ideas principales del artículo
 >
 > El artículo *Flipping Your Job Interview* plantea una perspectiva diferente sobre las entrevistas de trabajo: en lugar de que solo el empleador evalúe al candidato, **el candidato también debe evaluar a la empresa**.
 >
@@ -65,7 +65,7 @@
 
 ## ✍️ Writing — Blog Comments
 
-> [!note]- ✍️ Frases para comentarios de blog
+> [!note] ✍️ Frases para comentarios de blog
 >
 > En la sección de escritura se trabajan frases para responder a artículos de opinión en formato de comentario de blog. Se organizan en tres funciones:
 >
@@ -116,7 +116,7 @@
 
 ## 🗣️ Speaking — Time to Speak
 
-> [!note]- 🗣️ Cheat Sheet para el roleplay de entrevista
+> [!note] 🗣️ Cheat Sheet para el roleplay de entrevista
 >
 > En la sección **1.5 Time to Speak** se practica un roleplay de entrevista de trabajo en grupos. Las frases útiles se dividen en tres etapas:
 >
@@ -162,7 +162,7 @@
 
 ## 📝 Ejercicios de práctica
 
-> [!example]- ✏️ Ejercicio 1 — Reacciona al artículo
+> [!example] ✏️ Ejercicio 1 — Reacciona al artículo
 >
 > Escribe un comentario de blog de 4 a 6 oraciones respondiendo al artículo *Flipping Your Job Interview*. Tu comentario debe incluir:
 >
@@ -171,7 +171,7 @@
 > - Una frase de **apreciación** al autor.
 > - Al menos un uso de **a bit** o **a little** para suavizar una crítica.
 
-> [!success]- ✅ Respuestas — Ejercicio 1
+> [!success] ✅ Respuestas — Ejercicio 1
 >
 > Respuesta abierta — no hay una única respuesta correcta. Tu comentario debe incluir:
 >
@@ -184,7 +184,7 @@
 >
 > > 💡 Revisa que tu comentario tenga entre 50 y 75 palabras como indica el libro.
 
-> [!example]- ✏️ Ejercicio 2 — Roleplay de entrevista
+> [!example] ✏️ Ejercicio 2 — Roleplay de entrevista
 >
 > En parejas o grupos de tres, practica el siguiente escenario:
 >
@@ -194,7 +194,7 @@
 > > - **Persona B:** Candidato — usa las frases de la etapa *Prepare* y haz al menos dos preguntas al entrevistador.
 > > - **Persona C (opcional):** Observador — al final, usa las frases de la etapa *Agree* para evaluar al candidato.
 
-> [!success]- ✅ Respuestas — Ejercicio 2
+> [!success] ✅ Respuestas — Ejercicio 2
 >
 > Ejercicio de roleplay — evaluación por etapas:
 >
@@ -210,7 +210,7 @@
 
 ## 📚 Glosario de términos difíciles
 
-> [!quote]- 📖 Palabras y conceptos que pueden causar confusión
+> [!quote] 📖 Palabras y conceptos que pueden causar confusión
 >
 > | Término | Explicación sencilla |
 > |---|---|
@@ -227,7 +227,7 @@
 
 ## 📚 Referencias
 
-> [!quote]- 📖 Fuentes consultadas
+> [!quote] 📖 Fuentes consultadas
 >
 > [1] *Keynote Upper-Intermediate*, National Geographic Learning / Cengage, Student's Book, Unit 1: And We're Off!, pp. 1–15.
 

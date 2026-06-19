@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es el Functional Language?
+> [!info] 💡 ¿Qué es el Functional Language?
 > 
 > El **Functional Language** (lenguaje funcional) son las frases y expresiones que usamos para cumplir funciones comunicativas específicas en la vida real. No se trata solo de gramática correcta, sino de **sonar natural y apropiado** en diferentes situaciones.
 > 
@@ -49,7 +49,7 @@
 
 ## 🛍️ A. Describing Products
 
-> [!example]- 📦 Frases para Describir Materiales
+> [!example] 📦 Frases para Describir Materiales
 > 
 > **Patrón básico: "It's made of..."**
 > 
@@ -102,7 +102,7 @@
 > |It's + % + material, so it's + characteristic|It's 100% wool, so it's very warm|
 > |Made of + material + with + detail|Made of leather with metal details|
 
-> [!success]- 🎨 Describing Characteristics
+> [!success] 🎨 Describing Characteristics
 > 
 > **Frases para características físicas:**
 > 
@@ -181,7 +181,7 @@
 >    It's very durable and keeps drinks cold for 24 hours.
 > ```
 
-> [!tip]- 🌍 Describing Origin & Production
+> [!tip] 🌍 Describing Origin & Production
 > 
 > **Frases para el origen:**
 > 
@@ -238,7 +238,7 @@
 
 ## 🏭 B. Talking about Production
 
-> [!note]- 🔨 Production Process Language
+> [!note] 🔨 Production Process Language
 > 
 > **Passive voice en contexto (lo más común):**
 > 
@@ -292,7 +292,7 @@
 > ✅ It's transported by sea
 > ```
 
-> [!success]- 🌱 Sustainability & Quality Language
+> [!success] 🌱 Sustainability & Quality Language
 > 
 > **Frases sobre sostenibilidad:**
 > 
@@ -342,7 +342,7 @@
 
 ## 🚚 C. Discussing Distribution
 
-> [!example]- 📦 Shipping & Delivery Language
+> [!example] 📦 Shipping & Delivery Language
 > 
 > **Frases sobre envío:**
 > 
@@ -402,7 +402,7 @@
 >       Otherwise, it's $5.
 > ```
 
-> [!tip]- 🌍 Import/Export Language
+> [!tip] 🌍 Import/Export Language
 > 
 > **Frases sobre comercio internacional:**
 > 
@@ -451,7 +451,7 @@
 
 ## 🗣️ D. Pronunciation Tips
 
-> [!note]- 🔊 Key Pronunciation Patterns
+> [!note] 🔊 Key Pronunciation Patterns
 > 
 > **1. Word Stress - Palabras clave de Unit 10**
 > 
@@ -493,7 +493,7 @@
 > de-LIV-er-y        (tap on LIV)
 > ```
 
-> [!success]- 🔗 Linking & Connected Speech
+> [!success] 🔗 Linking & Connected Speech
 > 
 > **Linking en frases comunes:**
 > 
@@ -541,7 +541,7 @@
 > Natural:    /ɪtsˈveri djʊərəblənd strɒŋ/
 > ```
 
-> [!tip]- 🎯 Intonation Patterns
+> [!tip] 🎯 Intonation Patterns
 > 
 > **Describing products (falling intonation):**
 > 
@@ -597,7 +597,7 @@
 
 ## 💬 E. Mini Speaking Drills
 
-> [!example]- 🎤 Práctica Oral Guiada
+> [!example] 🎤 Práctica Oral Guiada
 > 
 > **Drill 1: Describe un objeto cerca de ti**
 > 
@@ -744,7 +744,7 @@ mindmap
 
 ## 🔗 Connection to Next Topics
 
-> [!quote]- 🌟 Preparing for Real Communication
+> [!quote] 🌟 Preparing for Real Communication
 > 
 > **You've mastered functional language. Now you're ready for:**
 > 

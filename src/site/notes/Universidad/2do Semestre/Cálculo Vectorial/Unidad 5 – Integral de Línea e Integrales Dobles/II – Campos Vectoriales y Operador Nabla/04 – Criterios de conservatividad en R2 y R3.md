@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es un Campo Conservativo?
+> [!info] 💡 ¿Qué es un Campo Conservativo?
 > 
 > Un **campo vectorial conservativo** es aquel que puede expresarse como el gradiente de una función escalar (llamada **función potencial**). Esta propiedad tiene implicaciones profundas en física y matemáticas, especialmente relacionadas con la conservación de energía.
 > 
@@ -54,7 +54,7 @@ graph TB
 
 ### 🌊 Campo Vectorial Conservativo
 
-> [!example]- 📋 Definición Formal
+> [!example] 📋 Definición Formal
 > 
 > **Definición:**
 > 
@@ -120,7 +120,7 @@ graph TB
 
 ### 🔄 Operadores Diferenciales
 
-> [!note]- 🧮 Gradiente, Rotacional y Divergencia
+> [!note] 🧮 Gradiente, Rotacional y Divergencia
 > 
 > **1. Gradiente (∇f)**
 > 
@@ -202,7 +202,7 @@ graph TB
 
 ### 📏 Criterio de Igualdad de Derivadas Cruzadas
 
-> [!success]- 🎯 Teorema Principal en ℝ²
+> [!success] 🎯 Teorema Principal en ℝ²
 > 
 > **Teorema:**
 > 
@@ -280,7 +280,7 @@ graph TB
 
 ### 🔍 Demostración del Criterio
 
-> [!tip]- 📐 Idea de la Demostración
+> [!tip] 📐 Idea de la Demostración
 > 
 > **Dirección (⇒): Si F es conservativo, entonces ∂P/∂y = ∂Q/∂x**
 > 
@@ -333,7 +333,7 @@ graph TB
 
 ### 🚫 Dominios No Simplemente Conexos
 
-> [!warning]- ⚠️ Casos Especiales
+> [!warning] ⚠️ Casos Especiales
 > 
 > **¿Qué es un dominio simplemente conexo?**
 > 
@@ -399,7 +399,7 @@ graph TB
 
 ### 🌀 Criterio del Rotacional Nulo
 
-> [!success]- 🎯 Teorema Principal en ℝ³
+> [!success] 🎯 Teorema Principal en ℝ³
 > 
 > **Teorema:**
 > 
@@ -480,7 +480,7 @@ graph TB
 
 ### 📊 Tabla Comparativa ℝ² vs ℝ³
 
-> [!note]- 🔄 Diferencias y Similitudes
+> [!note] 🔄 Diferencias y Similitudes
 > 
 > |Aspecto|ℝ²|ℝ³|
 > |---|---|---|
@@ -529,7 +529,7 @@ graph TB
 
 ### 📝 Ejemplo 1: Campo Conservativo en ℝ²
 
-> [!example]- ✅ Verificación y Función Potencial
+> [!example] ✅ Verificación y Función Potencial
 > 
 > **Enunciado:**
 > 
@@ -617,7 +617,7 @@ graph TB
 
 ### 📝 Ejemplo 2: Campo NO Conservativo en ℝ²
 
-> [!example]- ❌ Análisis de Campo Rotacional
+> [!example] ❌ Análisis de Campo Rotacional
 > 
 > **Enunciado:**
 > 
@@ -700,7 +700,7 @@ graph TB
 
 ### 📝 Ejemplo 3: Campo Conservativo en ℝ³
 
-> [!example]- ✅ Verificación con Rotacional
+> [!example] ✅ Verificación con Rotacional
 > 
 > **Enunciado:**
 > 
@@ -780,7 +780,7 @@ graph TB
 
 ### 🔧 Método 1: Integración Directa
 
-> [!tip]- 📐 Procedimiento Sistemático
+> [!tip] 📐 Procedimiento Sistemático
 > 
 > **Para ℝ²:**
 > 
@@ -849,7 +849,7 @@ graph TB
 
 ### 🔧 Método 2: Integral de Línea
 
-> [!tip]- 🛤️ Método Alternativo
+> [!tip] 🛤️ Método Alternativo
 > 
 > **Principio:**
 > 
@@ -898,7 +898,7 @@ graph TB
 
 ## 📊 Tabla Resumen de Criterios
 
-> [!success]- ✅ Resumen Completo
+> [!success] ✅ Resumen Completo
 > 
 > | Aspecto | ℝ² | ℝ³ |
 > |---------|-----|-----|
@@ -932,7 +932,7 @@ graph TB
 
 ## 🎓 Ejercicios Propuestos
 
-> [!note]- 💪 Problemas para Practicar
+> [!note] 💪 Problemas para Practicar
 > 
 > ### Nivel Básico
 > 
@@ -1017,7 +1017,7 @@ graph TB
 
 ## 🔗 Aplicaciones y Conexiones
 
-> [!quote]- 🌟 Relevancia Práctica
+> [!quote] 🌟 Relevancia Práctica
 > 
 > ### Aplicaciones Físicas
 > 
@@ -1073,7 +1073,7 @@ graph TB
 
 ## 📚 Resumen y Puntos Clave
 
-> [!success]- ✅ Conceptos Esenciales
+> [!success] ✅ Conceptos Esenciales
 > 
 > ### Ideas Centrales
 > 

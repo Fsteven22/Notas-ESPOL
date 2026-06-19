@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué son las Clases Wrapper?
+> [!info] 💡 ¿Qué son las Clases Wrapper?
 > 
 > Las **clases wrapper** (envolventes) son clases que **encapsulan tipos primitivos** en objetos. Permiten tratar los tipos primitivos como objetos cuando es necesario.
 > 
@@ -57,7 +57,7 @@
 
 ### ⚡ Conversión Automática
 
-> [!tip]- 🎪 Boxing y Unboxing Explicado
+> [!tip] 🎪 Boxing y Unboxing Explicado
 > 
 > **Autoboxing** = Conversión automática de primitivo → objeto  
 > **Unboxing** = Conversión automática de objeto → primitivo
@@ -141,7 +141,7 @@
 
 ### 📝 Formas de Instanciar
 
-> [!example]- 🔨 Métodos de Creación
+> [!example] 🔨 Métodos de Creación
 > 
 > **1. Autoboxing (recomendado):**
 > 
@@ -221,7 +221,7 @@
 
 ### 🎯 Conversiones
 
-> [!success]- 🔄 Parseo y Conversión
+> [!success] 🔄 Parseo y Conversión
 > 
 > **1. String → Primitivo (parseXxx):**
 > 
@@ -310,7 +310,7 @@
 
 ### 🧮 Métodos de Utilidad
 
-> [!tip]- 🎲 Funciones Adicionales
+> [!tip] 🎲 Funciones Adicionales
 > 
 > **1. Comparación:**
 > 
@@ -427,7 +427,7 @@
 
 ### 🔍 Diferencias Críticas
 
-> [!danger]- ⚡ Comportamiento de Comparación
+> [!danger] ⚡ Comportamiento de Comparación
 > 
 > **Regla de oro:**
 > 
@@ -513,7 +513,7 @@
 
 ### 📦 Integración con Estructuras de Datos
 
-> [!success]- 🗂️ Wrappers en Collections
+> [!success] 🗂️ Wrappers en Collections
 > 
 > **Por qué son necesarios:**
 > 
@@ -619,7 +619,7 @@
 
 ### 🎯 Cuándo Usar Primitivos vs Wrappers
 
-> [!warning]- ⚖️ Trade-offs
+> [!warning] ⚖️ Trade-offs
 > 
 > **Ventajas y desventajas:**
 > 
@@ -707,7 +707,7 @@
 
 ## ⚠️ Problemas Comunes y Soluciones
 
-> [!danger]- 🐛 Errores Frecuentes
+> [!danger] 🐛 Errores Frecuentes
 > 
 > **1. NullPointerException con unboxing:**
 > 
@@ -824,7 +824,7 @@ mindmap
       Caché -128 a 127
 ````
 
-> [!quote]- 🎓 Puntos Clave para Recordar
+> [!quote] 🎓 Puntos Clave para Recordar
 > 
 > ✅ **Wrappers = objetos** que envuelven tipos primitivos  
 > ✅ **Autoboxing/Unboxing** - conversión automática desde Java 5  

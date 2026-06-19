@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es una Integral Iterada? Una **integral iterada** es el proceso de calcular una integral múltiple evaluándola como una secuencia de integrales simples, una dentro de otra. Es la herramienta fundamental para calcular integrales dobles y triples en la práctica.
+> [!info] 💡 ¿Qué es una Integral Iterada? Una **integral iterada** es el proceso de calcular una integral múltiple evaluándola como una secuencia de integrales simples, una dentro de otra. Es la herramienta fundamental para calcular integrales dobles y triples en la práctica.
 > 
 > **Analogía práctica:** Imagina que necesitas contar personas en un estadio rectangular:
 > 
@@ -48,7 +48,7 @@ graph TB
 
 ### 🔷 Definición Geométrica
 
-> [!note]- 📊 Concepto de Integral Doble
+> [!note] 📊 Concepto de Integral Doble
 > 
 > La **integral doble** de una función $f(x,y)$ sobre una región $R$ se denota:
 > 
@@ -87,7 +87,7 @@ graph TB
 
 ### 🎨 Elementos de Área
 
-> [!success]- 📏 Notaciones para el Elemento de Área
+> [!success] 📏 Notaciones para el Elemento de Área
 > 
 > El elemento de área $dA$ puede escribirse de varias formas:
 > 
@@ -121,7 +121,7 @@ graph TB
 
 ### 📜 Enunciado del Teorema
 
-> [!important]- 🎓 Teorema de Fubini
+> [!important] 🎓 Teorema de Fubini
 > 
 > **Enunciado:**
 > 
@@ -158,7 +158,7 @@ graph TB
 
 ### 🔍 Interpretación Geométrica
 
-> [!example]- 🎨 Visualización del Teorema
+> [!example] 🎨 Visualización del Teorema
 > 
 > **Método 1: Integrar primero en $y$**
 > 
@@ -195,7 +195,7 @@ graph TB
 
 ### 🟦 Caso Más Simple
 
-> [!success]- ✨ Integrales sobre Rectángulos
+> [!success] ✨ Integrales sobre Rectángulos
 > 
 > Para una región rectangular $R = [a,b] \times [c,d]$:
 > 
@@ -225,7 +225,7 @@ graph TB
 
 ### 🧮 Ejemplos Resueltos
 
-> [!example]- 📝 Cálculos en Rectángulos
+> [!example] 📝 Cálculos en Rectángulos
 > 
 > **Ejemplo 1: Función simple**
 > 
@@ -301,7 +301,7 @@ flowchart LR
 
 ### 📊 Definición y Características
 
-> [!note]- 📐 Región Tipo I
+> [!note] 📐 Región Tipo I
 > 
 > Una región $R$ es de **Tipo I** si puede describirse como:
 > 
@@ -340,7 +340,7 @@ flowchart LR
 
 ### 🔢 Ejemplos Tipo I
 
-> [!example]- 🎯 Cálculos en Regiones Tipo I
+> [!example] 🎯 Cálculos en Regiones Tipo I
 > 
 > **Ejemplo 1: Región triangular**
 > 
@@ -423,7 +423,7 @@ flowchart LR
 
 ### 📊 Definición y Características
 
-> [!note]- 📐 Región Tipo II
+> [!note] 📐 Región Tipo II
 > 
 > Una región $R$ es de **Tipo II** si puede describirse como:
 > 
@@ -462,7 +462,7 @@ flowchart LR
 
 ### 🔢 Ejemplos Tipo II
 
-> [!example]- 🎯 Cálculos en Regiones Tipo II
+> [!example] 🎯 Cálculos en Regiones Tipo II
 > 
 > **Ejemplo 1: La misma región triangular del Ejemplo 1 anterior**
 > 
@@ -547,7 +547,7 @@ flowchart LR
 
 ### 🎯 ¿Cuándo y Por Qué Cambiar?
 
-> [!tip]- 🔀 Motivación para Cambiar el Orden
+> [!tip] 🔀 Motivación para Cambiar el Orden
 > 
 > **Razones para cambiar el orden:**
 > 
@@ -574,7 +574,7 @@ flowchart LR
 
 ### 📝 Metodología Paso a Paso
 
-> [!example]- 🔧 Proceso Completo de Cambio
+> [!example] 🔧 Proceso Completo de Cambio
 > 
 > **Ejemplo: Cambiar orden de integración**
 > 
@@ -643,7 +643,7 @@ flowchart LR
 
 ### 🔷 Funciones Separables
 
-> [!success]- ✨ Cuando $f(x,y) = g(x) \cdot h(y)$
+> [!success] ✨ Cuando $f(x,y) = g(x) \cdot h(y)$
 > 
 > Si la función es **separable**, la integral se factoriza:
 > 
@@ -661,7 +661,7 @@ flowchart LR
 
 ### 🎪 Simetría
 
-> [!tip]- 🔄 Aprovechar la Simetría de la Región
+> [!tip] 🔄 Aprovechar la Simetría de la Región
 > 
 > **Tipos de simetría:**
 > 
@@ -687,7 +687,7 @@ flowchart LR
 
 ### 📏 Área de una Región
 
-> [!note]- 📐 Cálculo de Áreas
+> [!note] 📐 Cálculo de Áreas
 > 
 > El **área** de una región $R$ es:
 > 
@@ -707,7 +707,7 @@ flowchart LR
 
 ### 📦 Volumen bajo una Superficie
 
-> [!example]- 🏔️ Cálculo de Volúmenes
+> [!example] 🏔️ Cálculo de Volúmenes
 > 
 > El **volumen** bajo $z = f(x,y) \geq 0$ sobre región $R$ es:
 > 
@@ -733,7 +733,7 @@ flowchart LR
 
 ## 🎓 Estrategias de Resolución
 
-> [!tip]- 🧩 Guía para Resolver Integrales Dobles
+> [!tip] 🧩 Guía para Resolver Integrales Dobles
 > 
 > **Checklist de decisiones:**
 > 
@@ -774,7 +774,7 @@ flowchart LR
 
 ## 📚 Tabla Resumen Completa
 
-> [!quote]- 📋 Guía Rápida de Integrales Iteradas
+> [!quote] 📋 Guía Rápida de Integrales Iteradas
 > 
 > |Concepto|Tipo I|Tipo II|Rectangular|
 > |---|---|---|---|
@@ -797,7 +797,7 @@ flowchart LR
 
 ## 🎓 Ejercicios Progresivos
 
-> [!example]- 💪 Práctica Guiada
+> [!example] 💪 Práctica Guiada
 > 
 > **Nivel Básico:**
 > 
@@ -877,7 +877,7 @@ flowchart LR
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Continuando el Aprendizaje
+> [!quote] 🌟 Continuando el Aprendizaje
 > 
 > **Has dominado:**
 > 

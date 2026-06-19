@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué aprenderás en esta sección?
+> [!info] 💡 ¿Qué aprenderás en esta sección?
 > 
 > En esta nota dominarás dos estructuras gramaticales esenciales para hablar sobre **metas, desafíos y situaciones hipotéticas**:
 > 
@@ -44,7 +44,7 @@
 
 ## 🔄 A. Phrasal Verbs - Introducción
 
-> [!example]- 📘 ¿Qué son los Phrasal Verbs?
+> [!example] 📘 ¿Qué son los Phrasal Verbs?
 > 
 > **Definición:** Un **phrasal verb** es la combinación de un verbo + una partícula (preposición o adverbio) que crea un nuevo significado diferente al verbo original.
 > 
@@ -114,7 +114,7 @@
 
 ## 💪 B. Phrasal Verbs Útiles para Unit 11
 
-> [!success]- 🎯 Phrasal Verbs sobre Metas y Esfuerzo
+> [!success] 🎯 Phrasal Verbs sobre Metas y Esfuerzo
 > 
 > **1. GIVE UP - Rendirse**
 > 
@@ -228,7 +228,7 @@
 > - They found out how to succeed
 > ```
 
-> [!tip]- 🔥 Más Phrasal Verbs para Pushing Yourself
+> [!tip] 🔥 Más Phrasal Verbs para Pushing Yourself
 > 
 > **6. GET OVER - Superar (algo difícil)**
 > 
@@ -308,7 +308,7 @@
 
 ## 🎭 C. Unreal Conditional - Present (2nd Conditional)
 
-> [!note]- 📕 Estructura del Second Conditional
+> [!note] 📕 Estructura del Second Conditional
 > 
 > **¿Qué es el Second Conditional?**
 > 
@@ -374,7 +374,7 @@
 > pero "were" es siempre correcto y más formal.
 > ```
 
-> [!example]- 💡 Ejemplos con Unit 11 Vocabulary
+> [!example] 💡 Ejemplos con Unit 11 Vocabulary
 > 
 > **Talking about goals:**
 > 
@@ -431,7 +431,7 @@
 > |If I + past verb, I would + verb|If I tried harder, I would succeed|
 > |If I were you, I would + verb|If I were you, I would take the risk|
 
-> [!success]- 🔄 Negative & Questions
+> [!success] 🔄 Negative & Questions
 > 
 > **Forma negativa:**
 > 
@@ -484,7 +484,7 @@
 
 ## 🌟 D. Unreal Conditional - Future (wish / if only / would)
 
-> [!note]- 💭 Expressing Wishes - I wish / If only
+> [!note] 💭 Expressing Wishes - I wish / If only
 > 
 > **I WISH + Past Simple** (para situaciones presentes que queremos cambiar)
 > 
@@ -541,7 +541,7 @@
 > ✅ I wish they would help me
 > ```
 
-> [!tip]- 🎯 IF ONLY (más enfático que "I wish")
+> [!tip] 🎯 IF ONLY (más enfático que "I wish")
 > 
 > **IF ONLY = I wish (pero más dramático/enfático)**
 > 
@@ -571,7 +571,7 @@
 > |**Deseo fuerte**|If only I were braver!|
 > |**Situación dramática**|If only things were different!|
 
-> [!example]- 🗣️ I wish + WOULD (para comportamientos que queremos cambiar)
+> [!example] 🗣️ I wish + WOULD (para comportamientos que queremos cambiar)
 > 
 > **I wish + would** (para acciones/comportamientos de OTROS o situaciones)
 > 
@@ -618,7 +618,7 @@
 
 ## 💪 E. Mini Ejercicios
 
-> [!tip]- ✏️ Practice Exercises
+> [!tip] ✏️ Practice Exercises
 > 
 > **Exercise 1: Complete with the correct phrasal verb**
 > 
@@ -793,7 +793,7 @@ mindmap
 
 ## 🎯 Key Patterns Summary
 
-> [!quote]- 📝 Essential Patterns to Remember
+> [!quote] 📝 Essential Patterns to Remember
 > 
 > **Phrasal Verbs:**
 > ```
@@ -826,7 +826,7 @@ mindmap
 
 ## 🔗 Connection to Next Topics
 
-> [!note]- 🌟 Preparing for Functional Language
+> [!note] 🌟 Preparing for Functional Language
 > 
 > **You've mastered the grammar. Now you're ready for:**
 > 

@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es una Integral Doble? La **integral doble** es una extensión natural de la integral definida a funciones de dos variables. Mientras que una integral simple calcula áreas bajo curvas, una **integral doble calcula volúmenes bajo superficies** o el valor acumulado de una función sobre una región bidimensional.
+> [!info] 💡 ¿Qué es una Integral Doble? La **integral doble** es una extensión natural de la integral definida a funciones de dos variables. Mientras que una integral simple calcula áreas bajo curvas, una **integral doble calcula volúmenes bajo superficies** o el valor acumulado de una función sobre una región bidimensional.
 > 
 > **Analogía práctica:** Imagina que necesitas calcular la cantidad total de lluvia caída sobre una ciudad:
 > 
@@ -50,7 +50,7 @@ graph TB
 
 ### 🔢 Definición de Integral Doble
 
-> [!example]- 📝 Construcción de la Integral Doble
+> [!example] 📝 Construcción de la Integral Doble
 > 
 > **Idea intuitiva:**
 > 
@@ -105,7 +105,7 @@ graph TB
 
 ### 📏 Teorema de Fubini
 
-> [!note]- 🔄 Conversión a Integrales Iteradas
+> [!note] 🔄 Conversión a Integrales Iteradas
 > 
 > **Teorema de Fubini:**
 > 
@@ -189,7 +189,7 @@ graph TB
 
 ### 📐 Regiones Tipo I (verticalmente simples)
 
-> [!success]- 📊 Regiones entre dos funciones de x
+> [!success] 📊 Regiones entre dos funciones de x
 > 
 > **Definición:**
 > 
@@ -281,7 +281,7 @@ graph TB
 
 ### 📏 Regiones Tipo II (horizontalmente simples)
 
-> [!tip]- 📈 Regiones entre dos funciones de y
+> [!tip] 📈 Regiones entre dos funciones de y
 > 
 > **Definición:**
 > 
@@ -360,7 +360,7 @@ graph TB
 
 ### 🔄 Cambio de Orden de Integración
 
-> [!warning]- 🔀 Conversión entre Tipo I y Tipo II
+> [!warning] 🔀 Conversión entre Tipo I y Tipo II
 > 
 > **¿Cuándo cambiar el orden?**
 > 
@@ -469,7 +469,7 @@ graph TB
 
 ### 📦 Cálculo de Volúmenes
 
-> [!example]- 🏔️ Volumen bajo una Superficie
+> [!example] 🏔️ Volumen bajo una Superficie
 > 
 > **Interpretación geométrica:**
 > 
@@ -557,7 +557,7 @@ graph TB
 
 ### ⚖️ Masa y Centro de Masa
 
-> [!success]- 🎯 Propiedades Físicas de Láminas
+> [!success] 🎯 Propiedades Físicas de Láminas
 > 
 > **Densidad superficial:**
 > 
@@ -640,7 +640,7 @@ graph TB
 
 ### 📊 Área de una Región
 
-> [!tip]- 📏 Cálculo de Áreas con Integrales Dobles
+> [!tip] 📏 Cálculo de Áreas con Integrales Dobles
 > 
 > **Fórmula fundamental:**
 > 
@@ -691,7 +691,7 @@ graph TB
 
 ### 🎪 Cambio a Coordenadas Polares
 
-> [!warning]- 🌀 Transformación de Coordenadas
+> [!warning] 🌀 Transformación de Coordenadas
 > 
 > **Relaciones fundamentales:**
 > 
@@ -751,7 +751,7 @@ graph TB
 
 ### 🎯 Ejemplos en Coordenadas Polares
 
-> [!example]- 🔄 Aplicaciones Prácticas
+> [!example] 🔄 Aplicaciones Prácticas
 > 
 > **Ejemplo 1: Disco completo**
 > 
@@ -895,7 +895,7 @@ flowchart TD
     style J fill:#fff4e1
 ```
 
-> [!note]- 📋 Tablas de Referencia Rápida
+> [!note] 📋 Tablas de Referencia Rápida
 > 
 > ### Tipos de Regiones
 > 
@@ -929,7 +929,7 @@ flowchart TD
 
 ## 🎓 Ejercicios Progresivos
 
-> [!example]- 💪 Práctica con Soluciones Detalladas
+> [!example] 💪 Práctica con Soluciones Detalladas
 > 
 > **Nivel Básico:**
 > 
@@ -1069,7 +1069,7 @@ flowchart TD
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Continuando el Aprendizaje
+> [!quote] 🌟 Continuando el Aprendizaje
 > 
 > **Has dominado:**
 > 

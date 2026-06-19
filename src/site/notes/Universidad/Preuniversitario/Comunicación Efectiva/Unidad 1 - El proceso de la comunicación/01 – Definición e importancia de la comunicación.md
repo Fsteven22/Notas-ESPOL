@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es la comunicación?
+> [!info] 💡 ¿Qué es la comunicación?
 > 
 > La **comunicación** es un proceso fundamental en todas las interacciones humanas. No podemos NO comunicar: incluso el silencio comunica algo.
 > 
@@ -32,7 +32,7 @@
 
 ## 📖 Definiciones según diferentes autores
 
-> [!note]- 👥 Perspectivas académicas
+> [!note] 👥 Perspectivas académicas
 > 
 > ### David Berlo (1960)
 > 
@@ -84,7 +84,7 @@
 
 ### 1️⃣ Según el código utilizado
 
-> [!example]- 🗣️ Comunicación Verbal
+> [!example] 🗣️ Comunicación Verbal
 > 
 > **Definición:** Utiliza palabras habladas o escritas como código principal.
 > 
@@ -115,7 +115,7 @@
 > - ❌ Limitada por el vocabulario
 > - ❌ Barreras idiomáticas
 
-> [!example]- 👁️ Comunicación No Verbal
+> [!example] 👁️ Comunicación No Verbal
 > 
 > **Definición:** Transmite mensajes sin usar palabras, a través de gestos, expresiones, posturas y otros signos.
 > 
@@ -183,7 +183,7 @@
 
 ### 2️⃣ Según el número de participantes
 
-> [!example]- 🧘 Comunicación Intrapersonal
+> [!example] 🧘 Comunicación Intrapersonal
 > 
 > **Definición:** Diálogo interno con uno mismo.
 > 
@@ -209,7 +209,7 @@
 > - Resolver problemas
 > - Formar opiniones
 
-> [!example]- 👥 Comunicación Interpersonal
+> [!example] 👥 Comunicación Interpersonal
 > 
 > **Definición:** Intercambio directo entre dos o más personas.
 > 
@@ -236,7 +236,7 @@
 > - Comunicación **multidireccional**
 > - Permite ajustes en tiempo real
 
-> [!example]- 📢 Comunicación Masiva
+> [!example] 📢 Comunicación Masiva
 > 
 > **Definición:** Un emisor transmite a una audiencia amplia y heterogénea.
 > 
@@ -277,7 +277,7 @@
 
 ### 3️⃣ Según la dirección del flujo
 
-> [!example]- ➡️ Comunicación Unidireccional
+> [!example] ➡️ Comunicación Unidireccional
 > 
 > **Definición:** El mensaje fluye en una sola dirección, del emisor al receptor, sin retroalimentación.
 > 
@@ -307,7 +307,7 @@
 > - Riesgo de malentendidos
 > - Receptor pasivo
 
-> [!example]- ↔️ Comunicación Bidireccional
+> [!example] ↔️ Comunicación Bidireccional
 > 
 > **Definición:** El mensaje fluye en ambas direcciones, permitiendo retroalimentación.
 > 
@@ -340,7 +340,7 @@
 
 ### 4️⃣ Según el nivel de formalidad
 
-> [!example]- 🎩 Comunicación Formal
+> [!example] 🎩 Comunicación Formal
 > 
 > **Definición:** Sigue protocolos, reglas y estructuras establecidas.
 > 
@@ -380,7 +380,7 @@
 > - Puede ser distante
 > - Requiere más tiempo
 
-> [!example]- 👕 Comunicación Informal
+> [!example] 👕 Comunicación Informal
 > 
 > **Definición:** Espontánea, sin seguir protocolos estrictos.
 > 
@@ -426,7 +426,7 @@
 
 ### 💼 En el ámbito profesional
 
-> [!success]- 🏢 Beneficios organizacionales
+> [!success] 🏢 Beneficios organizacionales
 > 
 > **1. Productividad:**
 > 
@@ -462,7 +462,7 @@
 
 ### 👨‍👩‍👧‍👦 En el ámbito personal
 
-> [!success]- ❤️ Relaciones interpersonales
+> [!success] ❤️ Relaciones interpersonales
 > 
 > **1. Relaciones familiares:**
 > 
@@ -496,7 +496,7 @@
 
 ### 🎓 En el ámbito académico
 
-> [!success]- 📚 Aprendizaje y conocimiento
+> [!success] 📚 Aprendizaje y conocimiento
 > 
 > **1. Proceso de enseñanza-aprendizaje:**
 > 
@@ -528,7 +528,7 @@
 
 ### 🌍 En el ámbito social
 
-> [!success]- 🤝 Convivencia y ciudadanía
+> [!success] 🤝 Convivencia y ciudadanía
 > 
 > **1. Participación ciudadana:**
 > 
@@ -562,7 +562,7 @@
 
 ## ⚠️ Barreras de la comunicación
 
-> [!warning]- 🚧 Obstáculos que dificultan la comunicación efectiva
+> [!warning] 🚧 Obstáculos que dificultan la comunicación efectiva
 > 
 > ### 1. Barreras físicas o ambientales
 > 
@@ -712,7 +712,7 @@
 
 ## 🎯 Características de la comunicación efectiva
 
-> [!success]- ✅ Principios de excelencia comunicativa
+> [!success] ✅ Principios de excelencia comunicativa
 > 
 > ### 1. Claridad
 > 
@@ -859,7 +859,7 @@
 
 ## 💡 Consejos prácticos para mejorar tu comunicación
 
-> [!tip]- 🎯 Estrategias aplicables inmediatamente
+> [!tip] 🎯 Estrategias aplicables inmediatamente
 > 
 > ### Para mejorar comunicación oral
 > 
@@ -932,7 +932,7 @@
 
 ## 📊 Modelo de autoevaluación comunicativa
 
-> [!note]- 📋 Evalúa tus habilidades
+> [!note] 📋 Evalúa tus habilidades
 > 
 > ### Cuestionario de autoevaluación
 > 
@@ -983,7 +983,7 @@
 
 ## 🎓 Ejercicios prácticos
 
-> [!example]- 💪 Actividades para desarrollar
+> [!example] 💪 Actividades para desarrollar
 > 
 > ### Ejercicio 1: Identificación de tipos
 > 
@@ -1096,7 +1096,7 @@
 
 ## 🔗 Conexiones con otros temas
 
-> [!quote]- 🌐 Relaciones con el curso
+> [!quote] 🌐 Relaciones con el curso
 > 
 > **Este tema es fundamental para:**
 > 
@@ -1123,7 +1123,7 @@
 
 ## 📚 Lecturas complementarias recomendadas
 
-> [!tip]- 📖 Para profundizar
+> [!tip] 📖 Para profundizar
 > 
 > ### Libros fundamentales:
 > 
@@ -1153,7 +1153,7 @@
 
 ## ✅ Resumen ejecutivo
 
-> [!summary]- 📝 Puntos clave para recordar
+> [!summary] 📝 Puntos clave para recordar
 > 
 > ### Definición
 > 

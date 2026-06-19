@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es el Área mediante Integral Doble?
+> [!info] 💡 ¿Qué es el Área mediante Integral Doble?
 > 
 > La **integral doble** es una herramienta fundamental del cálculo multivariable que permite calcular el **área de regiones planas** en el plano ℝ². Es la extensión natural de la integral simple al espacio bidimensional.
 > 
@@ -49,7 +49,7 @@ graph TB
 
 ### 🔷 Definición de Integral Doble para Área
 
-> [!example]- 📐 Fórmula General del Área
+> [!example] 📐 Fórmula General del Área
 > 
 > El **área de una región R** en el plano xy se calcula mediante:
 > 
@@ -90,7 +90,7 @@ graph TB
 
 ### 📍 Región Tipo I (Regular respecto a x)
 
-> [!success]- 🔼 Región entre dos funciones de x
+> [!success] 🔼 Región entre dos funciones de x
 > 
 > Una región es **Tipo I** si puede describirse como:
 > 
@@ -172,7 +172,7 @@ graph TB
 
 ### 📍 Región Tipo II (Regular respecto a y)
 
-> [!success]- 🔽 Región entre dos funciones de y
+> [!success] 🔽 Región entre dos funciones de y
 > 
 > Una región es **Tipo II** si puede describirse como:
 > 
@@ -228,7 +228,7 @@ graph TB
 
 ## 🔄 Cambio de Orden de Integración
 
-> [!tip]- ↔️ Convertir entre Tipo I y Tipo II
+> [!tip] ↔️ Convertir entre Tipo I y Tipo II
 > 
 > Algunas regiones pueden expresarse de **ambas formas**. Cambiar el orden puede:
 > 
@@ -292,7 +292,7 @@ graph TB
 
 ### 📋 Metodología paso a paso
 
-> [!note]- 🔧 Procedimiento general
+> [!note] 🔧 Procedimiento general
 > 
 > **Paso 1: Graficar la región**
 > 
@@ -363,7 +363,7 @@ graph TB
 
 ## 💻 Ejemplos Resueltos Completos
 
-> [!example]- 🎓 Problema 1: Región triangular
+> [!example] 🎓 Problema 1: Región triangular
 > 
 > **Enunciado:** Calcular el área de la región limitada por $y = x$, $y = 2x$, y $x = 3$.
 > 
@@ -402,7 +402,7 @@ graph TB
 > 
 > **Respuesta:** $A = \frac{9}{2}$ unidades cuadradas
 
-> [!example]- 🎓 Problema 2: Región entre parábola y recta
+> [!example] 🎓 Problema 2: Región entre parábola y recta
 > 
 > **Enunciado:** Calcular el área entre $y = x^2 - 4$ y $y = 2x - 1$.
 > 
@@ -436,7 +436,7 @@ graph TB
 > 
 > **Respuesta:** $A = \frac{32}{3}$ unidades cuadradas
 
-> [!example]- 🎓 Problema 3: Región entre dos parábolas
+> [!example] 🎓 Problema 3: Región entre dos parábolas
 > 
 > **Enunciado:** Área entre $x = y²$ y $y = x²$.
 > 
@@ -475,7 +475,7 @@ graph TB
 
 ## 📊 Resumen de Fórmulas
 
-> [!success]- 📐 Tabla de referencia rápida
+> [!success] 📐 Tabla de referencia rápida
 > 
 > |Tipo|Descripción|Fórmula|Orden de integración|
 > |---|---|---|---|
@@ -504,7 +504,7 @@ graph TB
 
 ## 🎯 Ejercicios Propuestos
 
-> [!question]- 💪 Practica tus habilidades
+> [!question] 💪 Practica tus habilidades
 > 
 > **Nivel Básico:**
 > 
@@ -542,7 +542,7 @@ graph TB
 
 ## 🔗 Conexión con Otros Temas
 
-> [!quote]- 🌟 Aplicaciones y extensiones
+> [!quote] 🌟 Aplicaciones y extensiones
 > 
 > **Progresión del aprendizaje:**
 > 

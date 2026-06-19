@@ -7,7 +7,7 @@
 
 ## 🎉 ¡Bienvenido/a a Programación Orientada a Objetos!
 
-> [!info]- 👋 Sobre esta materia
+> [!info] 👋 Sobre esta materia
 >
 > ¡Hola y bienvenido/a! Esta materia te introduce al paradigma de programación orientada a objetos (POO) y al desarrollo de interfaces gráficas de usuario. Aprenderás a diseñar e implementar soluciones de software de complejidad media usando Java como lenguaje principal.
 >
@@ -26,7 +26,7 @@
 
 ## 🎯 Objetivos del Curso
 
-> [!note]- 📌 ¿Qué vamos a lograr?
+> [!note] 📌 ¿Qué vamos a lograr?
 >
 > Este curso introduce el diseño de software usando el paradigma orientado a objetos y el desarrollo de interfaces gráficas. Se diseñan e implementan soluciones a problemas de complejidad media en prácticas y proyectos de curso.
 >
@@ -42,7 +42,7 @@
 
 ## 📋 Evaluación
 
-> [!warning]- 📊 Criterios de aprendizaje desarrollados
+> [!warning] 📊 Criterios de aprendizaje desarrollados
 >
 > | Criterio | Descripción |
 > |---|---|
@@ -54,7 +54,7 @@
 
 ## 🗂️ Contenido del Curso
 
-> [!tip]- 📚 Temas a cubrir
+> [!tip] 📚 Temas a cubrir
 >
 > ```mermaid
 > graph LR
@@ -89,7 +89,7 @@
 
 ## 📚 Bibliografía (Formato IEEE)
 
-> [!quote]- 📖 Fuentes oficiales de la materia
+> [!quote] 📖 Fuentes oficiales de la materia
 >
 > **Texto guía:**
 >
@@ -105,7 +105,7 @@
 
 ## 🗺️ Índice de Notas
 
-> [!tip]- 📂 Estructura del repositorio
+> [!tip] 📂 Estructura del repositorio
 >
 > ```
 > 📁 Programación Orientada a Objetos/

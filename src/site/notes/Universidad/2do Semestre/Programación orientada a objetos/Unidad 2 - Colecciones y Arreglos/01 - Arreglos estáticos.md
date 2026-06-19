@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es un Arreglo (Array)?
+> [!info] 💡 ¿Qué es un Arreglo (Array)?
 > 
 > Un **arreglo** es una estructura de datos que almacena una **colección de elementos del mismo tipo** en posiciones de memoria contiguas. Es la forma más básica y eficiente de manejar múltiples valores relacionados.
 > 
@@ -52,7 +52,7 @@
 
 ### 📝 Sintaxis Básica
 
-> [!tip]- 🎨 Formas de Declarar Arreglos
+> [!tip] 🎨 Formas de Declarar Arreglos
 > 
 > **Sintaxis general:**
 > 
@@ -108,7 +108,7 @@
 
 ### 🎯 Inicialización de Arreglos
 
-> [!example]- 🔢 Diferentes Formas de Inicializar
+> [!example] 🔢 Diferentes Formas de Inicializar
 > 
 > **1. Inicialización directa con valores:**
 > 
@@ -192,7 +192,7 @@
 
 ### 📍 Uso de Índices
 
-> [!tip]- 🎯 Acceder a Elementos
+> [!tip] 🎯 Acceder a Elementos
 > 
 > **Sintaxis de acceso:**
 > 
@@ -258,7 +258,7 @@
 
 ### 🔄 Recorrer Arreglos
 
-> [!success]- 🚶 Formas de Iterar
+> [!success] 🚶 Formas de Iterar
 > 
 > **1. Bucle for tradicional:**
 > 
@@ -353,7 +353,7 @@
 
 ### 🔢 Búsqueda y Cálculos
 
-> [!example]- 🎯 Algoritmos Básicos
+> [!example] 🎯 Algoritmos Básicos
 > 
 > **1. Buscar un valor:**
 > 
@@ -446,7 +446,7 @@
 
 ### 📋 Copiar y Comparar
 
-> [!warning]- ⚠️ Copia de Arreglos
+> [!warning] ⚠️ Copia de Arreglos
 > 
 > **❌ ERROR COMÚN - Asignación por referencia:**
 > 
@@ -520,7 +520,7 @@
 
 ### 🛠️ Métodos Útiles
 
-> [!success]- 📦 java.util.Arrays
+> [!success] 📦 java.util.Arrays
 > 
 > **Importar la clase:**
 > 
@@ -602,7 +602,7 @@
 
 ### 📐 Matrices (2D)
 
-> [!info]- 🔲 Arreglos de Arreglos
+> [!info] 🔲 Arreglos de Arreglos
 > 
 > **Sintaxis básica:**
 > 
@@ -705,7 +705,7 @@
 
 ## ⚠️ Errores Comunes y Soluciones
 
-> [!danger]- 🐛 Problemas Frecuentes
+> [!danger] 🐛 Problemas Frecuentes
 > 
 > **1. ArrayIndexOutOfBoundsException:**
 > 
@@ -806,7 +806,7 @@ mindmap
 
 ```
 
-> [!quote]- 🎓 Puntos Clave para Recordar
+> [!quote] 🎓 Puntos Clave para Recordar
 > 
 > ✅ **Tamaño fijo** - se define al crear y no cambia  
 > ✅ **Índice base 0** - primer elemento en `[0]`, último en `[length-1]`  

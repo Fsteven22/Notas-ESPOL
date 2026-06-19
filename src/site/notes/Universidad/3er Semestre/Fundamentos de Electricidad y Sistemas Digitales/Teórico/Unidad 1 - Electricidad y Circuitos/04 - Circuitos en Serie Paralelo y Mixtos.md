@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Cómo se conectan los elementos de un circuito?
+> [!info] 💡 ¿Cómo se conectan los elementos de un circuito?
 >
 > Cuando múltiples elementos eléctricos forman parte de un mismo circuito, pueden combinarse de distintas maneras según la trayectoria que siga la corriente. La forma en que se conectan determina completamente el comportamiento del circuito: la distribución de voltaje, la corriente en cada rama y la resistencia equivalente total.
 >
@@ -42,7 +42,7 @@
 
 ## 🔗 Circuito en Serie
 
-> [!note]- 🔗 Una sola trayectoria para la corriente
+> [!note] 🔗 Una sola trayectoria para la corriente
 >
 > En un **circuito en serie**, los elementos están conectados uno tras otro formando una única trayectoria. La misma corriente recorre todos los elementos secuencialmente.
 >
@@ -107,13 +107,13 @@
 > | **Misma potencia base** | $P = I^2 R$ varía según la resistencia de cada elemento |
 > 
 
-![ChatGPT Image 30 may 2026, 20_14_44.png](/img/user/Contenido%20Extra/Figuras/ChatGPT%20Image%2030%20may%202026,%2020_14_44.png)
+![ChatGPT Image 30 may 2026, 20_14_44.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2030%20may%202026,%2020_14_44.png)
 
 ---
 
 ## 🔀 Circuito en Paralelo
 
-> [!note]- 🔀 Múltiples trayectorias para la corriente
+> [!note] 🔀 Múltiples trayectorias para la corriente
 >
 > En un **circuito en paralelo**, los elementos comparten los mismos dos nodos (terminales), por lo que el voltaje en todos ellos es idéntico. La corriente total se reparte entre las ramas disponibles.
 >
@@ -185,13 +185,13 @@
 > | **Mismo voltaje** | Todos los elementos operan a la misma tensión |
 > | **Mayor corriente total** | Al agregar ramas, la corriente de la fuente aumenta |
 
-![ChatGPT Image 30 may 2026, 20_24_25.png](/img/user/Contenido%20Extra/Figuras/ChatGPT%20Image%2030%20may%202026,%2020_24_25.png)
+![ChatGPT Image 30 may 2026, 20_24_25.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2030%20may%202026,%2020_24_25.png)
 
 ---
 
 ## ⊣⊢ Capacitores en Serie y Paralelo
 
-> [!tip]- ⚡ Combinación de Capacitores
+> [!tip] ⚡ Combinación de Capacitores
 >
 > Las reglas para capacitores son **inversas** a las de resistencias:
 >
@@ -218,13 +218,13 @@
 > >
 > > En serie: $C_t = \frac{4 \times 6}{4 + 6} = \frac{24}{10} = 2.4\,\mu F$
 
-![ChatGPT Image 30 may 2026, 20_29_23.png](/img/user/Contenido%20Extra/Figuras/ChatGPT%20Image%2030%20may%202026,%2020_29_23.png)
+![ChatGPT Image 30 may 2026, 20_29_23.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2030%20may%202026,%2020_29_23.png)
 
 ---
 
 ## ⌇ Inductores en Serie y Paralelo
 
-> [!tip]- 🧲 Combinación de Inductores
+> [!tip] 🧲 Combinación de Inductores
 >
 > Los inductores se combinan **igual que las resistencias** (asumiendo que no hay acoplamiento magnético entre ellos):
 >
@@ -251,12 +251,12 @@
 > >
 > > En paralelo: $L_t = \frac{3 \times 6}{3 + 6} = \frac{18}{9} = 2\,mH$
 
-![file_000000006634720e8575d8d5057e5f59.png](/img/user/Contenido%20Extra/Figuras/file_000000006634720e8575d8d5057e5f59.png)
+![file_000000006634720e8575d8d5057e5f59.png](/img/user/Universidad/Figuras/file_000000006634720e8575d8d5057e5f59.png)
 
 ---
 ## 🔁 Circuito Mixto (Serie-Paralelo)
 
-> [!tip]- 🔁 Combinación de ambas configuraciones
+> [!tip] 🔁 Combinación de ambas configuraciones
 >
 > Un **circuito mixto** (o serie-paralelo) combina secciones en serie con grupos en paralelo. Son los circuitos más comunes en la práctica real.
 >
@@ -321,12 +321,12 @@
 > >
 > > ✅ Verificación KCL: $0.8 + 1.6 = 2.4\text{ A}$ ✓
 
-![file_00000000bdc471f7b12b164a687c03e7.png](/img/user/Contenido%20Extra/Figuras/file_00000000bdc471f7b12b164a687c03e7.png)
+![file_00000000bdc471f7b12b164a687c03e7.png](/img/user/Universidad/Figuras/file_00000000bdc471f7b12b164a687c03e7.png)
 
 ---
 ## 🔋 Potencia en Circuitos
 
-> [!tip]- ⚡ Potencia disipada y suministrada
+> [!tip] ⚡ Potencia disipada y suministrada
 >
 > La **potencia** indica la rapidez con que se transfiere o disipa energía en el circuito. Se expresa en vatios (W).
 >
@@ -350,7 +350,7 @@
 
 ## 📊 Comparación General
 
-> [!success]- 📊 Serie vs. Paralelo vs. Mixto
+> [!success] 📊 Serie vs. Paralelo vs. Mixto
 >
 > | Característica | Serie | Paralelo | Mixto |
 > |---|---|---|---|
@@ -407,7 +407,7 @@ mindmap
 
 ## 📝 Ejercicios Prácticos
 
-> [!example]- ✏️ Ejercicio 1 — Resistencia Total en Circuito Mixto (terminales AO)
+> [!example] ✏️ Ejercicio 1 — Resistencia Total en Circuito Mixto (terminales AO)
 >
 > **Dado** el siguiente circuito con R1 a R6, encontrar la resistencia total vista desde los terminales A y O.
 >
@@ -422,7 +422,7 @@ mindmap
 >
 > > 💡 Siempre redibuja el circuito simplificado después de cada reducción para no perder la topología.
 
-> [!example]- ✏️ Ejercicio 2 — Circuito con Cruce de Corrientes (I1, I2)
+> [!example] ✏️ Ejercicio 2 — Circuito con Cruce de Corrientes (I1, I2)
 >
 > **Dado** un circuito con dos corrientes de malla I1 e I2 que se cruzan, encontrar los valores de cada corriente.
 >
@@ -441,7 +441,7 @@ mindmap
 ---
 ## 📚 Referencias
 
-> [!quote]- 📖 Fuentes consultadas
+> [!quote] 📖 Fuentes consultadas
 >
 > [1] R. L. Boylestad, *Introductory Circuit Analysis*, 13th ed. Hoboken, NJ, USA: Pearson, 2016, pp. 131–210.
 >

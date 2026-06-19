@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué son las Clases Internas?
+> [!info] 💡 ¿Qué son las Clases Internas?
 > 
 > Las **clases internas** (inner classes) son clases definidas **dentro de otras clases**. Java permite esta estructura para modelar relaciones muy estrechas entre componentes y crear código más organizado y encapsulado.
 > 
@@ -62,7 +62,7 @@ graph TB
 
 ### 📊 Jerarquía y Clasificación
 
-> [!note]- 🌳 Organización de Clases Internas
+> [!note] 🌳 Organización de Clases Internas
 > 
 > ```mermaid
 > classDiagram
@@ -113,7 +113,7 @@ graph TB
 
 ### 🔄 Flujo de Creación y Uso
 
-> [!example]- ⚡ Cómo se Relacionan las Clases
+> [!example] ⚡ Cómo se Relacionan las Clases
 > 
 > **Ciclo de vida de clases internas:**
 > 
@@ -152,7 +152,7 @@ graph TB
 
 ### 📝 Definición y Sintaxis
 
-> [!tip]- 🎯 Clases Internas No Estáticas
+> [!tip] 🎯 Clases Internas No Estáticas
 > 
 > Una **clase interna miembro** se define como un miembro más de la clase externa, junto con atributos y métodos. Cada instancia de la clase interna está **asociada a una instancia específica** de la clase externa.
 > 
@@ -202,7 +202,7 @@ graph TB
 
 ### 🛠️ Creación e Instanciación
 
-> [!success]- 🔨 Cómo Crear Instancias
+> [!success] 🔨 Cómo Crear Instancias
 > 
 > **1. Desde dentro de la clase externa:**
 > 
@@ -274,7 +274,7 @@ graph TB
 
 ### 💼 Casos de Uso Reales
 
-> [!example]- 🎯 Ejemplos Prácticos
+> [!example] 🎯 Ejemplos Prácticos
 > 
 > **Ejemplo 1: Iterador personalizado**
 > 
@@ -402,7 +402,7 @@ graph TB
 
 ### 📝 Definición y Alcance
 
-> [!tip]- 🔍 Clases Dentro de Métodos
+> [!tip] 🔍 Clases Dentro de Métodos
 > 
 > Una **clase interna local** se define **dentro de un método o bloque de código**. Su alcance se limita al bloque donde fue declarada y es útil para lógica muy específica.
 > 
@@ -458,7 +458,7 @@ graph TB
 
 ### 🛠️ Casos de Uso
 
-> [!example]- 💡 Cuándo Usar Clases Locales
+> [!example] 💡 Cuándo Usar Clases Locales
 > 
 > **Ejemplo 1: Comparador temporal**
 > 
@@ -548,7 +548,7 @@ graph TB
 
 ### 📝 Concepto y Sintaxis
 
-> [!tip]- 🎨 Clases Sin Nombre
+> [!tip] 🎨 Clases Sin Nombre
 > 
 > Una **clase anónima** es una clase **sin nombre** que se declara e instancia en una sola expresión. Se usa para implementar interfaces o extender clases de forma rápida y directa.
 > 
@@ -599,7 +599,7 @@ graph TB
 
 ### 🛠️ Implementar Interfaces
 
-> [!success]- 🎯 Caso Más Común: Interfaces
+> [!success] 🎯 Caso Más Común: Interfaces
 > 
 > **Ejemplo 1: Runnable para hilos**
 > 
@@ -703,7 +703,7 @@ graph TB
 
 ### 🔄 Extender Clases
 
-> [!example]- 🏗️ Heredar de Clases Concretas
+> [!example] 🏗️ Heredar de Clases Concretas
 > 
 > **Ejemplo: Personalizar comportamiento de clase base**
 > 
@@ -777,7 +777,7 @@ graph TB
 
 ### 💡 Ventajas y Limitaciones
 
-> [!info]- ⚖️ Pros y Contras de Clases Anónimas
+> [!info] ⚖️ Pros y Contras de Clases Anónimas
 > 
 > **Ventajas:**
 > 
@@ -843,7 +843,7 @@ graph TB
 
 ### 📝 Definición y Características
 
-> [!tip]- 🔧 Clases Anidadas Independientes
+> [!tip] 🔧 Clases Anidadas Independientes
 > 
 > Una **clase interna estática** (static nested class) se declara con el modificador `static`. A diferencia de las clases internas normales, **NO tiene acceso a la instancia de la clase externa**.
 > 
@@ -897,7 +897,7 @@ graph TB
 
 ### 🛠️ Creación e Instanciación
 
-> [!success]- 🔨 Cómo Usar Clases Estáticas
+> [!success] 🔨 Cómo Usar Clases Estáticas
 > 
 > **Instanciación simple (no requiere instancia de externa):**
 > 
@@ -961,7 +961,7 @@ graph TB
 
 ### 💼 Casos de Uso
 
-> [!example]- 🎯 Ejemplos Prácticos
+> [!example] 🎯 Ejemplos Prácticos
 > 
 > **Ejemplo 1: Builder Pattern**
 > 
@@ -1149,7 +1149,7 @@ graph TB
 
 ### 📊 Tabla Comparativa Completa
 
-> [!info]- 🔍 Todas las Clases Internas en Perspectiva
+> [!info] 🔍 Todas las Clases Internas en Perspectiva
 > 
 > |Característica|Miembro|Local|Anónima|Estática|
 > |---|---|---|---|---|
@@ -1165,7 +1165,7 @@ graph TB
 
 ### 🎯 Guía de Decisión
 
-> [!tip]- 🤔 ¿Qué Tipo Usar?
+> [!tip] 🤔 ¿Qué Tipo Usar?
 > 
 > ```mermaid
 > graph TD
@@ -1204,7 +1204,7 @@ graph TB
 
 ### ✅ Checklist de Buenas Prácticas
 
-> [!success]- 🏆 Recomendaciones Profesionales
+> [!success] 🏆 Recomendaciones Profesionales
 > 
 > **1. Encapsulación: Ocultar clases auxiliares**
 > 
@@ -1297,7 +1297,7 @@ graph TB
 
 ### ⚠️ Errores Comunes
 
-> [!warning]- 🚨 Trampas Frecuentes
+> [!warning] 🚨 Trampas Frecuentes
 > 
 > **1. Olvidar que clase interna necesita instancia externa**
 > 
@@ -1391,7 +1391,7 @@ graph TB
 
 ### 📊 Evolución del Lenguaje
 
-> [!info]- 🚀 Desde Java 8: Una Alternativa Más Limpia
+> [!info] 🚀 Desde Java 8: Una Alternativa Más Limpia
 > 
 > **Comparación sintáctica:**
 > 
@@ -1457,7 +1457,7 @@ graph TB
 
 ## 🎓 Ejercicios Prácticos
 
-> [!example]- 💪 Práctica Guiada
+> [!example] 💪 Práctica Guiada
 > 
 > **Ejercicio 1: Implementar ArrayList con iterador**
 > 
@@ -1707,7 +1707,7 @@ mindmap
 
 ### 📋 Tabla de Decisión Rápida
 
-> [!success]- 🎯 Guía Rápida de Elección
+> [!success] 🎯 Guía Rápida de Elección
 > 
 > | Pregunta | Sí → | No → |
 > |----------|------|------|
@@ -1722,7 +1722,7 @@ mindmap
 
 ## 🚀 Próximos Pasos
 
-> [!quote]- 🌟 Continuando el Aprendizaje
+> [!quote] 🌟 Continuando el Aprendizaje
 > 
 > **Has aprendido:**
 > 

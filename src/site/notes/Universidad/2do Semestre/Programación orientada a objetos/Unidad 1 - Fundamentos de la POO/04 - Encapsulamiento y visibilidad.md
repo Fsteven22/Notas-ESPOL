@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es el Encapsulamiento?
+> [!info] 💡 ¿Qué es el Encapsulamiento?
 > 
 > El **encapsulamiento** es uno de los pilares fundamentales de la POO. Consiste en **ocultar los detalles internos** de implementación y exponer solo una interfaz controlada para interactuar con el objeto.
 > 
@@ -49,7 +49,7 @@ graph TB
 
 ### 📊 Los 4 Niveles de Visibilidad
 
-> [!tip]- 🎨 Tabla Completa de Modificadores
+> [!tip] 🎨 Tabla Completa de Modificadores
 > 
 > |Modificador|Clase|Paquete|Subclase|Global|Símbolo|
 > |---|---|---|---|---|---|
@@ -90,7 +90,7 @@ graph TB
 
 ### 🎯 Uso Apropiado de Modificadores
 
-> [!success]- 📋 Guía de Decisión
+> [!success] 📋 Guía de Decisión
 > 
 > ```mermaid
 > graph TD
@@ -134,7 +134,7 @@ graph TB
 
 ### 🔓 Sin Encapsulamiento (Mal diseño)
 
-> [!warning]- ❌ Ejemplo de Código Vulnerable
+> [!warning] ❌ Ejemplo de Código Vulnerable
 > 
 > ```java
 > // ❌ MAL DISEÑO - Atributos públicos
@@ -177,7 +177,7 @@ graph TB
 
 ### 🔐 Con Encapsulamiento (Buen diseño)
 
-> [!success]- ✅ Ejemplo de Código Protegido
+> [!success] ✅ Ejemplo de Código Protegido
 > 
 > ```java
 > // ✅ BUEN DISEÑO - Atributos privados con control
@@ -305,7 +305,7 @@ graph TB
 
 ### 📖 Conceptos Fundamentales
 
-> [!note]- 🔑 Métodos de Acceso
+> [!note] 🔑 Métodos de Acceso
 > 
 > Los **getters** y **setters** son métodos que permiten **leer** y **modificar** atributos privados de forma controlada.
 > 
@@ -365,7 +365,7 @@ graph TB
 
 ### 🎯 Patrones Avanzados
 
-> [!example]- 🚀 Técnicas Especializadas
+> [!example] 🚀 Técnicas Especializadas
 > 
 > **1. Getter con lógica computada:**
 > 
@@ -503,7 +503,7 @@ graph TB
 
 ## 🎨 Ejemplo Completo: Sistema de Empleados
 
-> [!example]- 💼 Implementación Profesional
+> [!example] 💼 Implementación Profesional
 > 
 > ```java
 > public class Empleado {
@@ -719,7 +719,7 @@ Total de empleados: " + Empleado.getTotalEmpleados());
 
 ### ✅ Principios de Encapsulamiento
 
-> [!success]- 💡 Reglas de Oro
+> [!success] 💡 Reglas de Oro
 > 
 > **1. Siempre hacer atributos privados:**
 > 
@@ -854,7 +854,7 @@ mindmap
 
 ## 💪 Ejercicios Prácticos
 
-> [!example]- 🎯 Práctica 1: Clase Fecha
+> [!example] 🎯 Práctica 1: Clase Fecha
 > 
 > ```java
 > public class Fecha {
@@ -916,7 +916,7 @@ mindmap
 > }
 > ```
 
-> [!example]- 🎯 Práctica 2: Clase Temperatura
+> [!example] 🎯 Práctica 2: Clase Temperatura
 > 
 > ```java
 > public class Temperatura {
@@ -974,7 +974,7 @@ mindmap
 
 ## 🚀 Próximos Pasos
 
-> [!quote]- 🌟 Has Aprendido
+> [!quote] 🌟 Has Aprendido
 > 
 > ✅ Los 4 modificadores de acceso y cuándo usarlos  
 > ✅ Principios del encapsulamiento  

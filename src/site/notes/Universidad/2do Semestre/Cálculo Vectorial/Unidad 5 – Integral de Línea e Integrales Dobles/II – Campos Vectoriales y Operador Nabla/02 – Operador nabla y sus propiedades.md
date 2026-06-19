@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es el Operador Nabla? El **operador nabla** (∇) es un operador diferencial vectorial fundamental en cálculo vectorial. Actúa como un "vector de derivadas parciales" que se aplica a campos escalares y vectoriales para obtener información sobre cómo cambian en el espacio.
+> [!info] 💡 ¿Qué es el Operador Nabla? El **operador nabla** (∇) es un operador diferencial vectorial fundamental en cálculo vectorial. Actúa como un "vector de derivadas parciales" que se aplica a campos escalares y vectoriales para obtener información sobre cómo cambian en el espacio.
 > 
 > **Analogía práctica:** Imagina un explorador con tres brújulas especiales:
 > 
@@ -53,7 +53,7 @@ graph TB
 
 ### 🔢 Forma del Operador Nabla
 
-> [!example]- 📝 Representación Matemática
+> [!example] 📝 Representación Matemática
 > 
 > El operador nabla se define como un **vector de operadores de derivadas parciales**:
 > 
@@ -96,7 +96,7 @@ graph TB
 
 ### 🎨 Operaciones Básicas con Nabla
 
-> [!note]- ⚙️ Tres Operaciones Fundamentales
+> [!note] ⚙️ Tres Operaciones Fundamentales
 > 
 > **1. Gradiente (∇f) - Sobre campos escalares**
 > 
@@ -154,7 +154,7 @@ graph TB
 
 ### ➕ Linealidad del Operador
 
-> [!success]- 📊 Propiedades Lineales Fundamentales
+> [!success] 📊 Propiedades Lineales Fundamentales
 > 
 > **Propiedad 1: Linealidad del Gradiente**
 > 
@@ -220,7 +220,7 @@ graph TB
 
 ### 🎯 Regla del Producto
 
-> [!tip]- 🔨 Reglas de Productos con Nabla
+> [!tip] 🔨 Reglas de Productos con Nabla
 > 
 > **Regla 1: Producto de escalar por vector (Gradiente)**
 > 
@@ -304,7 +304,7 @@ graph TB
 
 ### ⭕ Identidades de Composición
 
-> [!warning]- 🎭 Identidades que Siempre se Cumplen
+> [!warning] 🎭 Identidades que Siempre se Cumplen
 > 
 > **Identidad 1: El rotacional del gradiente es CERO**
 > 
@@ -397,7 +397,7 @@ graph TB
 
 ### 🔀 Identidades con Productos
 
-> [!note]- 🧮 Identidades BAC-CAB y Similares
+> [!note] 🧮 Identidades BAC-CAB y Similares
 > 
 > **Identidad BAC-CAB (Desarrollo del doble producto cruz)**
 > 
@@ -465,7 +465,7 @@ graph TB
 
 ### 📊 Definición y Propiedades
 
-> [!example]- 🎯 El Operador ∇² (Delta o Laplaciano)
+> [!example] 🎯 El Operador ∇² (Delta o Laplaciano)
 > 
 > **Definición:**
 > 
@@ -546,7 +546,7 @@ graph TB
 
 ### 🌊 Laplaciano Vectorial
 
-> [!tip]- 🔀 Extensión a Campos Vectoriales
+> [!tip] 🔀 Extensión a Campos Vectoriales
 > 
 > **Definición del Laplaciano vectorial:**
 > 
@@ -613,7 +613,7 @@ graph TB
 
 ### 🛤️ Teoremas Fundamentales
 
-> [!success]- 🌉 Puente entre Derivadas e Integrales
+> [!success] 🌉 Puente entre Derivadas e Integrales
 > 
 > **Visión unificada:**
 > 
@@ -713,7 +713,7 @@ graph TB
 
 ## 📋 Tabla Resumen de Propiedades
 
-> [!note]- 📊 Guía de Referencia Rápida
+> [!note] 📊 Guía de Referencia Rápida
 > 
 > ### Operaciones Básicas
 > 
@@ -764,7 +764,7 @@ graph TB
 
 ## 🎯 Ejercicios Resueltos
 
-> [!example]- 💪 Práctica con Ejemplos Detallados
+> [!example] 💪 Práctica con Ejemplos Detallados
 > 
 > **Nivel Básico:**
 > 
@@ -918,7 +918,7 @@ graph TB
 
 ## 🔗 Preparación para Integrales de Línea
 
-> [!quote]- 🌟 Conectando con el Siguiente Tema
+> [!quote] 🌟 Conectando con el Siguiente Tema
 > 
 > **Has dominado:**
 > 

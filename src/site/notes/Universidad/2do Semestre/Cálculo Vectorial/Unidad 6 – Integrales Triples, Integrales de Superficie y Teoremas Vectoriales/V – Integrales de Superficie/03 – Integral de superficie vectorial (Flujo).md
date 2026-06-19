@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es la Integral de Superficie Vectorial?
+> [!info] 💡 ¿Qué es la Integral de Superficie Vectorial?
 > 
 > La **integral de superficie vectorial** o **integral de flujo** mide la cantidad de un campo vectorial que atraviesa una superficie. Es la extensión natural de las integrales de línea a superficies en el espacio tridimensional.
 > 
@@ -53,7 +53,7 @@ graph TB
 
 ### 🔷 Campo Vectorial
 
-> [!note]- 📊 Definición y Ejemplos
+> [!note] 📊 Definición y Ejemplos
 > 
 > **Definición:**
 > 
@@ -103,7 +103,7 @@ graph TB
 
 ### 🎨 Superficies Parametrizadas
 
-> [!success]- 📏 Representación de Superficies
+> [!success] 📏 Representación de Superficies
 > 
 > **Definición:**
 > 
@@ -153,7 +153,7 @@ graph TB
 
 ### 🧭 Vector Normal y Orientación
 
-> [!tip]- ⬆️ Dirección Perpendicular
+> [!tip] ⬆️ Dirección Perpendicular
 > 
 > **Vector normal:**
 > 
@@ -211,7 +211,7 @@ graph TB
 
 ### 📏 Fórmula Fundamental
 
-> [!example]- 🎯 Definición Matemática
+> [!example] 🎯 Definición Matemática
 > 
 > **Integral de flujo:**
 > 
@@ -257,7 +257,7 @@ graph TB
 
 ### 📊 Casos Especiales
 
-> [!note]- 🎨 Fórmulas para Tipos Comunes
+> [!note] 🎨 Fórmulas para Tipos Comunes
 > 
 > **1. Gráfica de función: $z = f(x,y)$**
 > 
@@ -317,7 +317,7 @@ graph TB
 
 ### 📝 Ejemplo 1: Plano con Campo Constante
 
-> [!example]- ✈️ Flujo a Través de un Plano
+> [!example] ✈️ Flujo a Través de un Plano
 > 
 > Calcular el flujo del campo $\mathbf{F} = \langle 0, 0, 3 \rangle$ a través del cuadrado $S$:
 > 
@@ -355,7 +355,7 @@ graph TB
 
 ### 📝 Ejemplo 2: Paraboloide con Campo Radial
 
-> [!example]- 🎪 Superficie Curva
+> [!example] 🎪 Superficie Curva
 > 
 > Calcular el flujo de $\mathbf{F} = \langle x, y, z \rangle$ a través del paraboloide:
 > 
@@ -417,7 +417,7 @@ graph TB
 
 ### 📝 Ejemplo 3: Cilindro Cerrado
 
-> [!example]- 🥫 Superficie Cerrada
+> [!example] 🥫 Superficie Cerrada
 > 
 > Calcular el flujo de $\mathbf{F} = \langle 2x, 3y, z^2 \rangle$ a través del cilindro cerrado:
 > 
@@ -507,7 +507,7 @@ graph TB
 
 ### 🌟 Enunciado del Teorema
 
-> [!success]- 📐 Relación Fundamental
+> [!success] 📐 Relación Fundamental
 > 
 > **Teorema de la Divergencia:**
 > 
@@ -557,7 +557,7 @@ graph TB
 
 ### 📝 Ejemplo con Divergencia
 
-> [!tip]- 🎯 Aplicación del Teorema
+> [!tip] 🎯 Aplicación del Teorema
 > 
 > Calcular el flujo de $\mathbf{F} = \langle x^3, y^3, z^3 \rangle$ a través de la esfera $x^2+y^2+z^2=a^2$, orientada hacia afuera.
 > 
@@ -676,7 +676,7 @@ flowchart TD
 
 ## 🎓 Ejercicios Propuestos
 
-> [!example]- 💪 Práctica Progresiva
+> [!example] 💪 Práctica Progresiva
 > 
 > **Nivel Básico:**
 > 
@@ -709,7 +709,7 @@ flowchart TD
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Continuando el Aprendizaje
+> [!quote] 🌟 Continuando el Aprendizaje
 > 
 > **Has dominado:**
 > 

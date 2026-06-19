@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 La huella ecológica de la tecnología
+> [!info] 💡 La huella ecológica de la tecnología
 > 
 > Cada dispositivo electrónico que usamos tiene un ciclo de vida con impacto ambiental en todas sus etapas: fabricación, uso y descarte. La tecnología que conecta al mundo también genera una de las corrientes de residuos de más rápido crecimiento en la historia.
 > 
@@ -30,7 +30,7 @@
 
 ## 🗑️ Chatarra Electrónica — E-waste
 
-> [!warning]- 📊 Estadísticas alarmantes
+> [!warning] 📊 Estadísticas alarmantes
 > 
 > Los **desechos electrónicos** (_e-waste_) son la corriente de residuos de más rápido crecimiento a nivel mundial. Incluyen todo dispositivo eléctrico o electrónico descartado: teléfonos, computadoras, televisores, electrodomésticos, baterías.
 > 
@@ -43,7 +43,7 @@
 > 
 > > ⚠️ El resto — más del 80% — termina en vertederos, incineradoras o es exportado informalmente hacia países en desarrollo.
 
-> [!note]- 📱 Composición de un teléfono móvil descartado
+> [!note] 📱 Composición de un teléfono móvil descartado
 > 
 > Un teléfono promedio contiene materiales tanto valiosos como peligrosos:
 > 
@@ -57,7 +57,7 @@
 > 
 > > 💡 El 10% no especificado refleja la complejidad real de la composición — los fabricantes no divulgan todos los materiales, lo que dificulta el reciclaje eficiente.
 
-> [!danger]- ☠️ Componentes peligrosos
+> [!danger] ☠️ Componentes peligrosos
 > 
 > Muchos dispositivos electrónicos contienen **metales pesados y sustancias tóxicas** que, al ser descartados de forma inadecuada, contaminan suelo, agua y aire:
 > 
@@ -69,7 +69,7 @@
 > |**Cromo hexavalente**|Recubrimientos metálicos|Carcinógeno, daño al ADN|
 > |**Retardantes de llama bromados**|Carcasas plásticas, placas|Disruptores endocrinos, tóxicos al incinerar|
 
-> [!warning]- 🚢 El flujo global de e-waste
+> [!warning] 🚢 El flujo global de e-waste
 > 
 > Una fracción importante de los desechos electrónicos generados en países desarrollados es **exportada hacia Asia y América Latina**, muchas veces de forma ilegal o bajo etiquetas engañosas como "donaciones" o "equipos usados".
 > 
@@ -94,7 +94,7 @@
 
 ## ♻️ Green ICT — Tecnología Verde
 
-> [!note]- 🌿 ¿Qué es Green ICT?
+> [!note] 🌿 ¿Qué es Green ICT?
 > 
 > **Green ICT** (Tecnologías de la Información y Comunicación Verdes) es el enfoque que busca minimizar el impacto ambiental de la tecnología a lo largo de todo su ciclo de vida — desde el diseño hasta el descarte.
 > 
@@ -106,7 +106,7 @@
 > |**Reparación en lugar de sustitución**|Extender la vida útil de los dispositivos — repararlos en vez de descartarlos al primer fallo|
 > |**Diseño para el desmontaje**|Fabricar equipos que puedan desarmarse fácilmente para recuperar materiales al final de su vida|
 
-> [!important]- 🔄 Economía Circular aplicada a la tecnología
+> [!important] 🔄 Economía Circular aplicada a la tecnología
 > 
 > El modelo tradicional es **lineal**: extraer → fabricar → usar → descartar. La **Economía Circular** propone cerrar ese ciclo:
 > 
@@ -137,7 +137,7 @@
 > |**Reparar**|Talleres de reparación, derecho a reparar (_Right to Repair_)|
 > |**Reciclar**|Entregar en puntos de acopio certificados para recuperar materiales|
 
-> [!tip]- 🇪🇨 Iniciativas en Ecuador
+> [!tip] 🇪🇨 Iniciativas en Ecuador
 > 
 > Ecuador cuenta con programas concretos para la gestión de e-waste:
 > 
@@ -154,7 +154,7 @@
 
 ## 🌍 Desarrollo Sostenible
 
-> [!important]- 📖 Definición y origen
+> [!important] 📖 Definición y origen
 > 
 > El **Desarrollo Sostenible** fue definido por la Comisión Brundtland de la ONU en 1987 como:
 > 
@@ -180,7 +180,7 @@
 >     style EC2 fill:#f5e1ff
 > ```
 
-> [!note]- 🎯 Los 17 Objetivos de Desarrollo Sostenible (ODS) — ONU 2030
+> [!note] 🎯 Los 17 Objetivos de Desarrollo Sostenible (ODS) — ONU 2030
 > 
 > En 2015, la ONU aprobó la **Agenda 2030** con 17 ODS como hoja de ruta global para erradicar la pobreza, proteger el planeta y garantizar prosperidad para todos.
 > 
@@ -205,7 +205,7 @@
 
 ## 📋 Trabajos Grupales
 
-> [!tip]- 👥 Pautas para las tareas grupales de la unidad
+> [!tip] 👥 Pautas para las tareas grupales de la unidad
 > 
 > Al finalizar esta unidad se deben realizar dos trabajos en grupo:
 > 

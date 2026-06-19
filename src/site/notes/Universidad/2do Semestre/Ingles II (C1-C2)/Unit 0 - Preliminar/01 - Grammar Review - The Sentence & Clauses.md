@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué se repasa en esta nota?
+> [!info] 💡 ¿Qué se repasa en esta nota?
 >
 > Esta nota cubre los fundamentos de la oración en inglés y los tipos de cláusulas. Son la base sobre la que se construyen todos los tipos de oraciones que verás en Inglés II.
 >
@@ -37,7 +37,7 @@
 
 ## 📝 What is a Sentence?
 
-> [!note]- 💡 Definición
+> [!note] 💡 Definición
 >
 > A **sentence** is a group of words that expresses a **complete thought**. It always has at least a **subject** and a **verb**, and it makes sense on its own.
 >
@@ -63,7 +63,7 @@
 
 ## 🔍 Characteristics of a Sentence
 
-> [!note]- 📋 Las 5 características obligatorias
+> [!note] 📋 Las 5 características obligatorias
 >
 > Every sentence in English must have these five features:
 >
@@ -91,7 +91,7 @@
 
 ## 🔗 Clauses
 
-> [!note]- 🧱 What is a Clause?
+> [!note] 🧱 What is a Clause?
 >
 > A **clause** is a group of words that contains a **subject** and a **verb**. There are two types:
 >
@@ -160,7 +160,7 @@
 
 ## 📝 Ejercicios de práctica
 
-> [!example]- ✏️ Ejercicio 1 — ¿Oración completa o incompleta?
+> [!example] ✏️ Ejercicio 1 — ¿Oración completa o incompleta?
 >
 > Indica si cada grupo de palabras es una oración completa (✅) o incompleta (❌):
 >
@@ -171,7 +171,7 @@
 > 5. Although he tried very hard.
 > 6. My professor explained the assignment clearly.
 
-> [!success]- ✅ Respuestas — Ejercicio 1
+> [!success] ✅ Respuestas — Ejercicio 1
 >
 > | # | Respuesta | Por qué |
 > |---|---|---|
@@ -182,7 +182,7 @@
 > | 5 | ❌ Incompleta | Cláusula dependiente — *although* introduce un contraste pero no hay cláusula principal |
 > | 6 | ✅ Completa | Sujeto (*My professor*) + verbo (*explained*) + idea completa |
 
-> [!example]- ✏️ Ejercicio 2 — Independent o Dependent?
+> [!example] ✏️ Ejercicio 2 — Independent o Dependent?
 >
 > Clasifica cada cláusula como independiente (I) o dependiente (D):
 >
@@ -195,7 +195,7 @@
 > 7. The coffee is too hot.
 > 8. Unless you study harder.
 
-> [!success]- ✅ Respuestas — Ejercicio 2
+> [!success] ✅ Respuestas — Ejercicio 2
 >
 > | # | Cláusula | Tipo | Por qué |
 > |---|---|---|---|
@@ -212,7 +212,7 @@
 
 ## 📚 Glosario de términos difíciles
 
-> [!quote]- 📖 Palabras y conceptos que pueden causar confusión
+> [!quote] 📖 Palabras y conceptos que pueden causar confusión
 >
 > | Término | Explicación sencilla |
 > |---|---|

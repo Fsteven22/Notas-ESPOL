@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Cómo pasamos de máquinas mecánicas a computadoras electrónicas?
+> [!info] 💡 ¿Cómo pasamos de máquinas mecánicas a computadoras electrónicas?
 >
 > Entre finales del siglo XIX y mediados del XX, los avances en electromecánica y electrónica permitieron dar el salto de las calculadoras mecánicas a las primeras computadoras programables. Este período sentó las bases de la arquitectura que usamos hasta hoy.
 >
@@ -29,7 +29,7 @@
 
 ## 📊 Herman Hollerith — El tabulador electromecánico (s. XIX)
 
-> [!note]- 📊 Automatizando el censo
+> [!note] 📊 Automatizando el censo
 >
 > **Herman Hollerith** inventó el primer **tabulador electromecánico**, una máquina capaz de leer y procesar tarjetas perforadas de forma automática. Fue desarrollado para procesar el censo de los Estados Unidos de 1890, reduciendo el tiempo de procesamiento de años a meses.
 >
@@ -46,7 +46,7 @@
 
 ## 🧠 Alan Turing — La Máquina de Turing (1937)
 
-> [!important]- 🧠 El fundamento teórico de la computación moderna
+> [!important] 🧠 El fundamento teórico de la computación moderna
 >
 > En **1937**, **Alan Turing** publicó un célebre artículo en el que definió una máquina calculadora de capacidad infinita — la **Máquina de Turing** — que operaba basándose en una serie de instrucciones lógicas.
 >
@@ -76,7 +76,7 @@
 
 ## 🏛️ Mark I — Harvard (1944)
 
-> [!note]- 🏛️ La primera computadora electromecánica de gran escala
+> [!note] 🏛️ La primera computadora electromecánica de gran escala
 >
 > En **1944**, la **Universidad de Harvard** construyó la **Mark I**, una computadora electromecánica de gran escala liderada por **Howard H. Aiken**. Fue una de las primeras máquinas capaces de ejecutar secuencias largas de operaciones aritméticas de forma automática.
 >
@@ -92,7 +92,7 @@
 
 ## ⚡ ENIAC — Universidad de Pensilvania (1947)
 
-> [!important]- ⚡ La primera computadora electrónica
+> [!important] ⚡ La primera computadora electrónica
 >
 > En **1947**, la **Universidad de Pensilvania** construyó la **ENIAC** (*Electronic Numerical Integrator And Calculator*), considerada la **primera computadora electrónica** de propósito general. Fue liderada por **John Mauchly y John Eckert**.
 >
@@ -111,7 +111,7 @@
 
 ## 🔬 John von Neumann — La arquitectura moderna (1950)
 
-> [!important]- 🔬 La idea que cambió todo
+> [!important] 🔬 La idea que cambió todo
 >
 > **John von Neumann**, quien era consultor en el proyecto ENIAC, comenzó a trabajar en la **EDVAC** (*Electronic Discrete Variable Automatic Computer*), completando su trabajo en **1950**.
 >
@@ -152,7 +152,7 @@
 
 ## 📅 Línea de Tiempo
 
-> [!summary]- 📅 De Hollerith a Von Neumann
+> [!summary] 📅 De Hollerith a Von Neumann
 >
 > ```mermaid
 > timeline

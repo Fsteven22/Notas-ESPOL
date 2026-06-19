@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es el Teorema Fundamental de las Integrales de Línea?
+> [!info] 💡 ¿Qué es el Teorema Fundamental de las Integrales de Línea?
 > 
 > El **Teorema Fundamental de las Integrales de Línea** (TFIL) es la extensión natural del Teorema Fundamental del Cálculo a campos vectoriales. Establece que bajo ciertas condiciones, la integral de línea de un campo vectorial depende **únicamente** de los puntos inicial y final, no del camino tomado.
 > 
@@ -52,7 +52,7 @@ graph TB
 
 ### 🧭 Campos Vectoriales
 
-> [!example]- 🌊 Definición y Tipos
+> [!example] 🌊 Definición y Tipos
 > 
 > Un **campo vectorial** en ℝ² o ℝ³ asigna un vector a cada punto del espacio.
 > 
@@ -116,7 +116,7 @@ graph TB
 
 ### 📜 Enunciado del Teorema
 
-> [!success]- 🏆 Teorema Fundamental de las Integrales de Línea
+> [!success] 🏆 Teorema Fundamental de las Integrales de Línea
 > 
 > **Enunciado formal:**
 > 
@@ -182,7 +182,7 @@ graph TB
 
 ### 🔍 Demostración (Esquemática)
 
-> [!tip]- 📐 Idea de la Demostración
+> [!tip] 📐 Idea de la Demostración
 > 
 > **Para curva parametrizada r(t), t ∈ [a, b]:**
 > 
@@ -232,7 +232,7 @@ graph TB
 
 ### ✅ Criterios para Campos Conservativos
 
-> [!example]- 🧪 Pruebas de Conservatividad
+> [!example] 🧪 Pruebas de Conservatividad
 > 
 > **Criterio 1: Rotacional nulo (ℝ³)**
 > 
@@ -315,7 +315,7 @@ graph TB
 
 ### 🔨 Encontrar la Función Potencial
 
-> [!tip]- 🎯 Métodos para Hallar f
+> [!tip] 🎯 Métodos para Hallar f
 > 
 > **Método 1: Integración directa (ℝ²)**
 > 
@@ -435,7 +435,7 @@ graph TB
 
 ### 📝 Problema 1: Verificación y Cálculo
 
-> [!example]- 🎯 Ejemplo Completo en ℝ²
+> [!example] 🎯 Ejemplo Completo en ℝ²
 > 
 > **Enunciado:** Considere el campo **F**(x, y) = ⟨3x² + 2y, 2x + 4y³⟩.
 > 
@@ -516,7 +516,7 @@ graph TB
 
 ### 📝 Problema 2: Comparación de Caminos
 
-> [!example]- 🛤️ Independencia del Camino
+> [!example] 🛤️ Independencia del Camino
 > 
 > **Enunciado:** Para **F**(x, y) = ⟨y, x⟩, calcule ∫_C **F**·d**r** para:
 > 
@@ -599,7 +599,7 @@ graph TB
 
 ### 📝 Problema 3: Campo NO Conservativo
 
-> [!example]- ❌ Cuando NO Aplica el Teorema
+> [!example] ❌ Cuando NO Aplica el Teorema
 > 
 > **Enunciado:** Para **F**(x, y) = ⟨-y, x⟩, calcule ∫_C **F**·d**r** donde:
 > 
@@ -677,7 +677,7 @@ graph TB
 
 ### ⚡ Trabajo y Energía
 
-> [!success]- 💪 Fuerzas Conservativas
+> [!success] 💪 Fuerzas Conservativas
 > 
 > **Definición física:**
 > 
@@ -756,7 +756,7 @@ graph TB
 
 ### 🌡️ Campos de Temperatura
 
-> [!note]- 🔥 Gradiente Térmico
+> [!note] 🔥 Gradiente Térmico
 > 
 > **Flujo de calor:**
 > 
@@ -804,7 +804,7 @@ graph TB
 
 ### 🔁 Integrales Sobre Curvas Cerradas
 
-> [!tip]- ⭕ Teorema para Curvas Cerradas
+> [!tip] ⭕ Teorema para Curvas Cerradas
 > 
 > **Proposición:**
 > 
@@ -892,7 +892,7 @@ graph TB
 
 ### 🌀 Relación con el Rotacional
 
-> [!example]- 🔄 Conexión con el Teorema de Green
+> [!example] 🔄 Conexión con el Teorema de Green
 > 
 > **Teorema de Green (preliminar):**
 > 
@@ -937,7 +937,7 @@ graph TB
 
 ### 📋 Guía Práctica
 
-> [!success]- ✅ Checklist de Resolución
+> [!success] ✅ Checklist de Resolución
 > 
 > **Paso 1: Identificar el problema**
 > 
@@ -1003,7 +1003,7 @@ graph TB
 
 ### 🚫 Errores Comunes
 
-> [!warning]- ⚠️ Pitfalls a Evitar
+> [!warning] ⚠️ Pitfalls a Evitar
 > 
 > **Error 1: Asumir conservatividad sin verificar**
 > 
@@ -1076,7 +1076,7 @@ graph TB
 
 ## 📚 Ejercicios Propuestos
 
-> [!note]- 💪 Problemas para Practicar
+> [!note] 💪 Problemas para Practicar
 > 
 > ### Nivel Básico
 > 
@@ -1165,7 +1165,7 @@ graph TB
 
 ## 🔗 Conexión con Teoremas Posteriores
 
-> [!quote]- 🌟 Temas Relacionados
+> [!quote] 🌟 Temas Relacionados
 > 
 > **Jerarquía de teoremas fundamentales:**
 > 
@@ -1217,7 +1217,7 @@ graph TB
 
 ## 📊 Resumen Visual Completo
 
-> [!success]- ✅ Mapa Conceptual Final
+> [!success] ✅ Mapa Conceptual Final
 > 
 > ```mermaid
 > mindmap

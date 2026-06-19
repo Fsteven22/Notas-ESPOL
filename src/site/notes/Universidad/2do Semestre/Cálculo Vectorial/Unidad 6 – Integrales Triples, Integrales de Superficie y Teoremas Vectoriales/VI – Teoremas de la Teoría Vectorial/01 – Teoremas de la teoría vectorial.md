@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué son los Teoremas Fundamentales del Cálculo Vectorial?
+> [!info] 💡 ¿Qué son los Teoremas Fundamentales del Cálculo Vectorial?
 > 
 > Los **teoremas fundamentales del cálculo vectorial** son resultados que relacionan integrales sobre diferentes tipos de dominios (curvas, superficies, volúmenes) con propiedades de campos vectoriales. Son análogos multidimensionales del Teorema Fundamental del Cálculo.
 > 
@@ -47,7 +47,7 @@ graph TB
 
 ### 🎨 Recordatorio de Operadores
 
-> [!note]- 🔧 Operadores Fundamentales
+> [!note] 🔧 Operadores Fundamentales
 > 
 > Antes de los teoremas, recordemos los operadores básicos:
 > 
@@ -114,7 +114,7 @@ graph TB
 
 ### 🎯 Enunciado y Significado
 
-> [!success]- 🎨 Teorema del Gradiente
+> [!success] 🎨 Teorema del Gradiente
 > 
 > Sea f una función diferenciable y C una curva suave que va desde el punto A hasta el punto B. Entonces:
 > 
@@ -165,7 +165,7 @@ graph TB
 
 ### 📝 Ejemplos
 
-> [!example]- 🎓 Ejemplo 1: Cálculo directo
+> [!example] 🎓 Ejemplo 1: Cálculo directo
 > 
 > **Enunciado:** Calcular ∫_C ∇f·dr donde f(x,y) = x²y y C es cualquier curva desde (1,1) hasta (2,3)
 > 
@@ -212,7 +212,7 @@ graph TB
 > = 4 + 5 + 2 = 11 ✓
 > ```
 
-> [!example]- 🎓 Ejemplo 2: Campo conservativo en 3D
+> [!example] 🎓 Ejemplo 2: Campo conservativo en 3D
 > 
 > **Enunciado:** Verificar que F = ⟨yz, xz, xy⟩ es conservativo y calcular ∫_C F·dr desde (0,0,0) hasta (1,1,1)
 > 
@@ -243,7 +243,7 @@ graph TB
 
 ### 🎯 Enunciado y Significado
 
-> [!success]- 🎨 Teorema de Green
+> [!success] 🎨 Teorema de Green
 > 
 > Sea C una curva simple cerrada orientada positivamente (sentido antihorario) que encierra una región D en el plano xy. Sea F = ⟨P,Q⟩ un campo vectorial con derivadas parciales continuas en D. Entonces:
 > 
@@ -296,7 +296,7 @@ graph TB
 
 ### 📝 Ejemplos
 
-> [!example]- 🎓 Ejemplo 1: Cálculo de circulación
+> [!example] 🎓 Ejemplo 1: Cálculo de circulación
 > 
 > **Enunciado:** Calcular ∮_C (x² - y)dx + (x + y²)dy donde C es el círculo x² + y² = 1 orientado positivamente
 > 
@@ -344,7 +344,7 @@ graph TB
 > (Mucho más laborioso)
 > ```
 
-> [!example]- 🎓 Ejemplo 2: Cálculo de área
+> [!example] 🎓 Ejemplo 2: Cálculo de área
 > 
 > **Enunciado:** Usar el Teorema de Green para calcular el área de la elipse x²/a² + y²/b² = 1
 > 
@@ -381,7 +381,7 @@ graph TB
 
 ### 🎯 Enunciado y Significado
 
-> [!success]- 🎨 Teorema de Stokes
+> [!success] 🎨 Teorema de Stokes
 > 
 > Sea S una superficie orientada suave a trozos con frontera C (curva cerrada simple). Sea F un campo vectorial con derivadas parciales continuas en S. Entonces:
 > 
@@ -434,7 +434,7 @@ graph TB
 
 ### 📝 Ejemplos
 
-> [!example]- 🎓 Ejemplo 1: Paraboloide
+> [!example] 🎓 Ejemplo 1: Paraboloide
 > 
 > **Enunciado:** Verificar Stokes para F = ⟨-y, x, 0⟩ sobre el paraboloide z = 1 - x² - y², z ≥ 0
 > 
@@ -488,7 +488,7 @@ graph TB
 
 ### 🎯 Enunciado y Significado
 
-> [!success]- 🎨 Teorema de la Divergencia
+> [!success] 🎨 Teorema de la Divergencia
 > 
 > Sea E una región sólida en ℝ³ con frontera S (superficie cerrada) orientada hacia afuera. Sea F un campo vectorial con derivadas parciales continuas en E. Entonces:
 > 
@@ -542,7 +542,7 @@ graph TB
 
 ### 📝 Ejemplos
 
-> [!example]- 🎓 Ejemplo 1: Cubo
+> [!example] 🎓 Ejemplo 1: Cubo
 > 
 > **Enunciado:** Calcular el flujo de F = ⟨x, y, z⟩ hacia afuera del cubo [0,1]³
 > 
@@ -590,7 +590,7 @@ graph TB
 > (Mucho más trabajo)
 > ```
 
-> [!example]- 🎓 Ejemplo 2: Esfera
+> [!example] 🎓 Ejemplo 2: Esfera
 > 
 > **Enunciado:** Calcular ∬_S F·n dS donde F = ⟨x³, y³, z³⟩ y S es la esfera x² + y² + z² = a²
 > ```
@@ -621,7 +621,7 @@ graph TB
 
 ## 📊 Tabla Comparativa de los Teoremas
 
-> [!note]- 📐 Resumen Visual
+> [!note] 📐 Resumen Visual
 > 
 > |Teorema|Relaciona|Fórmula|Dimensiones|
 > |---|---|---|---|
@@ -655,7 +655,7 @@ graph TB
 
 ## 🎯 Estrategia de Aplicación
 
-> [!tip]- 🗺️ ¿Cuándo usar cada teorema?
+> [!tip] 🗺️ ¿Cuándo usar cada teorema?
 > 
 > ```mermaid
 > flowchart TD

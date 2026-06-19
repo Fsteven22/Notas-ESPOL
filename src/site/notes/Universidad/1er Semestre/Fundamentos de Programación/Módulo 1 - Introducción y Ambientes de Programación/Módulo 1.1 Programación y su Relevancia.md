@@ -330,7 +330,7 @@ graph TD
 > 
 > - [[Estructuras de Datos\|Estructuras de Datos]] - Organización eficiente
 > - [[Algoritmos Fundamentales\|Algoritmos Fundamentales]] - Soluciones optimizadas
-> - [[Programación Orientada a Objetos\|Programación Orientada a Objetos]] - Modelado del mundo real
+> - [[Universidad/2do Semestre/Programación orientada a objetos/Programación Orientada a Objetos\|Programación Orientada a Objetos]] - Modelado del mundo real
 > - [[Bases de Datos\|Bases de Datos]] - Gestión de información
 
 > [!success]+ **Proyecto Práctico: Tu Primer Programa**

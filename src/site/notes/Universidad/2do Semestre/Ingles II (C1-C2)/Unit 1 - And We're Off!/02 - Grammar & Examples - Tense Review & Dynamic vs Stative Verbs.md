@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué gramática se trabaja en esta unidad?
+> [!info] 💡 ¿Qué gramática se trabaja en esta unidad?
 >
 > En esta nota se cubren dos bloques gramaticales fundamentales de la unidad:
 >
@@ -35,7 +35,7 @@
 
 ## 🕐 Tense Review
 
-> [!note]- 🕐 Los seis tiempos verbales esenciales
+> [!note] 🕐 Los seis tiempos verbales esenciales
 >
 > ### Tabla comparativa general
 >
@@ -119,7 +119,7 @@
 
 ## ⚡ Dynamic vs. Stative Verbs
 
-> [!note]- ⚡ ¿Cuándo NO se puede usar -ing?
+> [!note] ⚡ ¿Cuándo NO se puede usar -ing?
 >
 > ### Definiciones
 >
@@ -151,7 +151,7 @@
 > > ❌ *She is knowing the answer.* → ✅ *She knows the answer.*
 > > ❌ *I am wanting a coffee.* → ✅ *I want a coffee.*
 
-> [!tip]- 💡 Insider English — Excepciones importantes
+> [!tip] 💡 Insider English — Excepciones importantes
 >
 > Algunos verbos estativos **pueden usarse en forma continua** cuando su significado cambia:
 >
@@ -169,7 +169,7 @@
 
 ## 📝 Ejercicios de práctica
 
-> [!example]- ✏️ Ejercicio 1 — Elige el tiempo correcto
+> [!example] ✏️ Ejercicio 1 — Elige el tiempo correcto
 >
 > Selecciona el tiempo verbal adecuado para cada oración:
 >
@@ -179,7 +179,7 @@
 > 4. He __________________ (reads / is reading) the newspaper every morning.
 > 5. We __________________ (have been waiting / waited) for two hours now.
 
-> [!success]- ✅ Respuestas — Ejercicio 1
+> [!success] ✅ Respuestas — Ejercicio 1
 >
 > 1. has worked *(Present Perfect — since indica duración hasta el presente)*
 > 2. was studying *(Past Continuous — acción en progreso interrumpida)*
@@ -187,7 +187,7 @@
 > 4. reads *(Simple Present — hábito diario)*
 > 5. have been waiting *(Present Perfect Continuous — duración en progreso)*
 
-> [!example]- ✏️ Ejercicio 2 — Dynamic o Stative
+> [!example] ✏️ Ejercicio 2 — Dynamic o Stative
 >
 > Indica si el verbo subrayado es dinámico (D) o estativo (S) y corrige las oraciones incorrectas:
 >
@@ -197,7 +197,7 @@
 > 9. He **is believing** everything she says.
 > 10. We **are thinking** of moving to a new city.
 
-> [!success]- ✅ Respuestas — Ejercicio 2
+> [!success] ✅ Respuestas — Ejercicio 2
 >
 > 1. ❌ Estativo (S) — *I know the answer to that question.*
 > 2. ✅ Dinámico (D) — Correcto, no necesita corrección.
@@ -209,7 +209,7 @@
 
 ## 📚 Glosario de términos difíciles
 
-> [!quote]- 📖 Palabras y conceptos que pueden causar confusión
+> [!quote] 📖 Palabras y conceptos que pueden causar confusión
 >
 > | Término | Explicación sencilla |
 > |---|---|
@@ -226,7 +226,7 @@
 
 ## 📚 Referencias
 
-> [!quote]- 📖 Fuentes consultadas
+> [!quote] 📖 Fuentes consultadas
 >
 > [1] *Keynote Upper-Intermediate*, National Geographic Learning / Cengage, Student's Book, Unit 1: And We're Off!, pp. 1–15.
 

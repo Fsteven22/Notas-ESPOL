@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Por Qué Concurrencia en Interfaces Gráficas?
+> [!info] 💡 ¿Por Qué Concurrencia en Interfaces Gráficas?
 > 
 > Las **interfaces gráficas de usuario (GUI)** requieren un manejo especial de la concurrencia para mantener la **responsividad** y evitar que la aplicación se "congele" durante operaciones largas.
 > 
@@ -54,7 +54,7 @@ graph TB
 
 ### 🎭 Event Dispatch Thread en Swing
 
-> [!note]- 🎨 El Corazón de Swing
+> [!note] 🎨 El Corazón de Swing
 > 
 > **¿Qué es el EDT?**
 > 
@@ -104,7 +104,7 @@ graph TB
 
 ### 🔍 Verificar si Estás en el EDT
 
-> [!example]- 🧪 Detección del Thread Actual
+> [!example] 🧪 Detección del Thread Actual
 > 
 > **Método para verificar:**
 > 
@@ -157,7 +157,7 @@ graph TB
 
 ### ⚠️ Problema: Bloquear el EDT
 
-> [!danger]- 🚫 El Error Más Común
+> [!danger] 🚫 El Error Más Común
 > 
 > **Ejemplo problemático:**
 > 
@@ -249,7 +249,7 @@ graph TB
 
 ### 🎯 ¿Qué es SwingWorker?
 
-> [!success]- 🏆 La Herramienta Estándar para Concurrencia en Swing
+> [!success] 🏆 La Herramienta Estándar para Concurrencia en Swing
 > 
 > **SwingWorker** es una clase diseñada específicamente para ejecutar tareas largas en segundo plano mientras mantiene la UI responsiva.
 > 
@@ -293,7 +293,7 @@ graph TB
 
 ### 📝 Anatomía de un SwingWorker
 
-> [!example]- 🔬 Estructura Básica
+> [!example] 🔬 Estructura Básica
 > 
 > **Template completo:**
 > 
@@ -390,7 +390,7 @@ graph TB
 
 ### 🎨 Ejemplo Completo: Procesador de Archivos
 
-> [!example]- 💼 Caso de Uso Real
+> [!example] 💼 Caso de Uso Real
 > 
 > ```java
 > import javax.swing.*;
@@ -553,7 +553,7 @@ graph TB
 
 ### 📨 Comunicación con el EDT
 
-> [!tip]- 🎯 Actualizar UI desde Threads Externos
+> [!tip] 🎯 Actualizar UI desde Threads Externos
 > 
 > **Problema:** Tienes un thread de trabajo que necesita actualizar la UI.
 > 
@@ -578,7 +578,7 @@ graph TB
 
 ### 🚀 invokeLater
 
-> [!example]- ⚡ Ejecución Asíncrona
+> [!example] ⚡ Ejecución Asíncrona
 > 
 > **Sintaxis:**
 > 
@@ -665,7 +665,7 @@ graph TB
 
 ### ⏰ invokeAndWait
 
-> [!warning]- ⚠️ Ejecución Síncrona (Usar con Precaución)
+> [!warning] ⚠️ Ejecución Síncrona (Usar con Precaución)
 > 
 > **Sintaxis:**
 > 
@@ -747,7 +747,7 @@ graph TB
 
 ### 📥 Patrón: Carga de Datos
 
-> [!example]- 💾 Cargar Datos desde Base de Datos/Archivo
+> [!example] 💾 Cargar Datos desde Base de Datos/Archivo
 > 
 > ```java
 > public class CargaDatosWorker extends SwingWorker<List<Dato>, Void> {
@@ -821,7 +821,7 @@ graph TB
 
 ### 📤 Patrón: Guardar Datos
 
-> [!example]- 💿 Persistir Datos con Feedback
+> [!example] 💿 Persistir Datos con Feedback
 > 
 > ```java
 > public class GuardadoDatosWorker extends SwingWorker<Boolean, Integer> {
@@ -895,7 +895,7 @@ graph TB
 
 ### 🔍 Patrón: Búsqueda en Tiempo Real
 
-> [!example]- 🔎 Búsqueda Incremental con Debouncing
+> [!example] 🔎 Búsqueda Incremental con Debouncing
 > 
 > ```java
 > public class BuscadorTiempoReal {
@@ -995,7 +995,7 @@ graph TB
 
 ### 📊 Patrón: Actualización Periódica
 
-> [!example]- 🔄 Monitoreo y Actualización Automática
+> [!example] 🔄 Monitoreo y Actualización Automática
 > 
 > ```java
 > public class MonitorSistema extends JFrame {
@@ -1111,7 +1111,7 @@ graph TB
 
 ### 🐛 Error: Modificar UI fuera del EDT
 
-> [!danger]- ❌ El Error Más Frecuente
+> [!danger] ❌ El Error Más Frecuente
 > 
 > **Código problemático:**
 > 
@@ -1173,7 +1173,7 @@ graph TB
 
 ### 🔒 Error: Deadlock con invokeAndWait
 
-> [!danger]- 💀 Bloqueo Mortal
+> [!danger] 💀 Bloqueo Mortal
 > 
 > **Código problemático:**
 > 
@@ -1229,7 +1229,7 @@ graph TB
 
 ### 🔄 Error: No cancelar workers anteriores
 
-> [!warning]- ⚡ Múltiples Workers Activos
+> [!warning] ⚡ Múltiples Workers Activos
 > 
 > **Problema:**
 > 
@@ -1283,7 +1283,7 @@ graph TB
 
 ### ✅ Checklist de Buenas Prácticas
 
-> [!tip]- 🏆 Recomendaciones Profesionales
+> [!tip] 🏆 Recomendaciones Profesionales
 > 
 > **1. SIEMPRE usar SwingWorker para operaciones largas**
 > 
@@ -1413,7 +1413,7 @@ graph TB
 
 ### 🔍 Debugging de Concurrencia en GUI
 
-> [!example]- 🐛 Herramientas de Depuración
+> [!example] 🐛 Herramientas de Depuración
 > 
 > **1. Activar detección de violaciones EDT:**
 > 
@@ -1562,7 +1562,7 @@ mindmap
 
 ### 📋 Tabla Comparativa Final
 
-> [!success]- 🔍 Comparación de Enfoques
+> [!success] 🔍 Comparación de Enfoques
 > 
 > |Aspecto|EDT Bloqueado|Thread Manual|SwingWorker|
 > |---|---|---|---|
@@ -1595,7 +1595,7 @@ mindmap
 
 ## 🎓 Ejercicios Prácticos
 
-> [!example]- 💪 Práctica Guiada
+> [!example] 💪 Práctica Guiada
 > 
 > **Ejercicio 1: Descargador de archivos con progreso**
 > 
@@ -1902,7 +1902,7 @@ mindmap
 
 ## 🚀 Próximos Pasos
 
-> [!quote]- 🌟 Continuando el Aprendizaje
+> [!quote] 🌟 Continuando el Aprendizaje
 > 
 > **Has aprendido:**
 > 

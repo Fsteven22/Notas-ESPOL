@@ -7,7 +7,7 @@
 
 ## 🎉 Welcome to English II
 
-> [!info]- 👋 About this course
+> [!info] 👋 About this course
 >
 > Welcome! This course builds on the foundations of English I, developing your ability to produce academic paragraphs, identify arguments in oral and written communication, and express your own views on social, academic and professional topics.
 >
@@ -27,7 +27,7 @@
 
 ## 🎯 Course Objectives
 
-> [!note]- 📌 What will we achieve?
+> [!note] 📌 What will we achieve?
 >
 > This course develops grammatical structures for academic paragraph writing, oral communication skills, and vocabulary for everyday and professional topics.
 >
@@ -45,7 +45,7 @@
 
 ## 📋 Evaluation
 
-> [!warning]- 📊 Métodos de evaluación
+> [!warning] 📊 Métodos de evaluación
 >
 > | Método | |
 > |---|---|
@@ -60,7 +60,7 @@
 
 ## 🗂️ Course Content
 
-> [!tip]- 📚 Unidades del curso
+> [!tip] 📚 Unidades del curso
 >
 > ```mermaid
 > graph LR
@@ -91,7 +91,7 @@
 
 ## 📚 Bibliography
 
-> [!quote]- 📖 Official course materials
+> [!quote] 📖 Official course materials
 >
 > **Lectura obligatoria:**
 >
@@ -107,7 +107,7 @@
 
 ## 🗺️ Notes Index
 
-> [!tip]- 📂 Estructura del vault — English II
+> [!tip] 📂 Estructura del vault — English II
 >
 > ```
 > 📁 Ingles II (C1-C2)/

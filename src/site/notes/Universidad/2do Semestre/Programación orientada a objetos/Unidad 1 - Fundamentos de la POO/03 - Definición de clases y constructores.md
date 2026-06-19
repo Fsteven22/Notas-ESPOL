@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es una Clase?
+> [!info] 💡 ¿Qué es una Clase?
 > 
 > Una **clase** es un plano o plantilla que define la estructura y comportamiento de los objetos. Es el concepto fundamental de la Programación Orientada a Objetos.
 > 
@@ -60,7 +60,7 @@ graph TB
 
 ### 🧩 Componentes Básicos
 
-> [!tip]- 🔍 Estructura Completa
+> [!tip] 🔍 Estructura Completa
 > 
 > ```java
 > // 1. Modificador de acceso + palabra clave class + nombre
@@ -117,7 +117,7 @@ graph TB
 
 ### 🎨 Modificadores de Acceso
 
-> [!note]- 🔐 Niveles de Visibilidad
+> [!note] 🔐 Niveles de Visibilidad
 > 
 > |Modificador|Acceso desde|Símbolo|Uso típico|
 > |---|---|---|---|
@@ -166,7 +166,7 @@ graph TB
 
 ### ⚙️ Concepto Fundamental
 
-> [!success]- 🎯 ¿Qué es un Constructor?
+> [!success] 🎯 ¿Qué es un Constructor?
 > 
 > Un **constructor** es un método especial que se ejecuta automáticamente al crear un objeto. Su propósito es **inicializar** el estado del objeto.
 > 
@@ -219,7 +219,7 @@ graph TB
 
 ### 🔄 Tipos de Constructores
 
-> [!example]- 📦 Constructor por Defecto
+> [!example] 📦 Constructor por Defecto
 > 
 > Si **no defines ningún constructor**, Java crea uno automáticamente (vacío, sin parámetros).
 > 
@@ -255,7 +255,7 @@ graph TB
 > 
 > **⚠️ Importante:** Si defines **cualquier** constructor, Java **NO** crea el constructor por defecto automáticamente.
 
-> [!example]- 🎨 Constructor Parametrizado
+> [!example] 🎨 Constructor Parametrizado
 > 
 > Permite crear objetos con valores iniciales específicos.
 > 
@@ -303,7 +303,7 @@ graph TB
 > }
 > ```
 
-> [!example]- 🔗 Sobrecarga de Constructores
+> [!example] 🔗 Sobrecarga de Constructores
 > 
 > Tener **múltiples constructores** con diferentes parámetros en la misma clase.
 > 
@@ -368,7 +368,7 @@ graph TB
 
 ### 🎯 La Palabra Clave `this`
 
-> [!tip]- 🔑 Uso de `this`
+> [!tip] 🔑 Uso de `this`
 > 
 > La palabra `this` se refiere al **objeto actual** y tiene múltiples usos:
 > 
@@ -447,7 +447,7 @@ graph TB
 
 ## 🎨 Ejemplo Completo: Clase Producto
 
-> [!example]- 📦 Implementación Práctica
+> [!example] 📦 Implementación Práctica
 > 
 > ```java
 > public class Producto {
@@ -584,7 +584,7 @@ graph TB
 
 ### ✅ Recomendaciones
 
-> [!success]- 💡 Consejos Profesionales
+> [!success] 💡 Consejos Profesionales
 > 
 > **1. Inicializar todos los atributos:**
 > 
@@ -719,7 +719,7 @@ mindmap
       Documentación
 ```
 
-> [!success]-  🎯 Tabla de Referencia Rápida
+> [!success]  🎯 Tabla de Referencia Rápida
 > 
 > |Concepto|Sintaxis|Ejemplo|
 > |---|---|---|
@@ -735,7 +735,7 @@ mindmap
 
 ## 💪 Ejercicios Prácticos
 
-> [!example]- 🎯 Práctica 1: Clase Círculo
+> [!example] 🎯 Práctica 1: Clase Círculo
 > 
 > ```java
 > public class Circulo {
@@ -785,7 +785,7 @@ mindmap
 > }
 > ```
 
-> [!example]- 🎯 Práctica 2: Clase Empleado
+> [!example] 🎯 Práctica 2: Clase Empleado
 > 
 > ```java
 > public class Empleado {
@@ -848,7 +848,7 @@ mindmap
 
 ## 🚀 Próximos Pasos
 
-> [!quote]- 🌟 Has Aprendido
+> [!quote] 🌟 Has Aprendido
 > 
 > ✅ Estructura completa de una clase  
 > ✅ Modificadores de acceso (public, private, protected)  

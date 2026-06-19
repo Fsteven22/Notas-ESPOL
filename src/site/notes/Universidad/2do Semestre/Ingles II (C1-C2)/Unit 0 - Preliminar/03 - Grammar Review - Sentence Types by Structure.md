@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿De qué trata esta nota?
+> [!info] 💡 ¿De qué trata esta nota?
 >
 > Esta nota es **autoexplicativa** — puedes entenderla sin haber leído las notas anteriores. Cubre los 4 tipos de oraciones en inglés según su estructura, con definiciones, ejemplos y ejercicios integrados.
 >
@@ -44,7 +44,7 @@
 
 ## 🟢 Simple Sentence
 
-> [!note]- 🟢 Una sola cláusula independiente
+> [!note] 🟢 Una sola cláusula independiente
 >
 > A **simple sentence** contains **one independent clause** only. It can have one or more subjects and verbs, but they all belong to a single complete thought.
 >
@@ -75,7 +75,7 @@
 
 ## 🟡 Compound Sentence
 
-> [!note]- 🟡 Dos o más cláusulas independientes
+> [!note] 🟡 Dos o más cláusulas independientes
 >
 > A **compound sentence** contains **two or more independent clauses** joined by a **coordinating conjunction (FANBOYS)** or a **semicolon**.
 >
@@ -104,7 +104,7 @@
 
 ## 🔵 Complex Sentence
 
-> [!note]- 🔵 Una independiente + una o más dependientes
+> [!note] 🔵 Una independiente + una o más dependientes
 >
 > A **complex sentence** contains **one independent clause** and **at least one dependent clause**, joined by a **subordinating conjunction** (because, although, when, if, since, while…).
 >
@@ -133,7 +133,7 @@
 
 ## 🔴 Compound-Complex Sentence
 
-> [!note]- 🔴 Dos o más independientes + al menos una dependiente
+> [!note] 🔴 Dos o más independientes + al menos una dependiente
 >
 > A **compound-complex sentence** contains **two or more independent clauses** AND **at least one dependent clause**.
 >
@@ -155,7 +155,7 @@
 
 ## 📊 Comparación General
 
-> [!success]- 📊 Los 4 tipos de un vistazo
+> [!success] 📊 Los 4 tipos de un vistazo
 >
 > | Tipo | Cláusulas independientes | Cláusulas dependientes | Conector |
 > |---|---|---|---|
@@ -181,7 +181,7 @@
 
 ## 📝 Ejercicios de práctica
 
-> [!example]- ✏️ Ejercicio 1 — Identifica el tipo de oración
+> [!example] ✏️ Ejercicio 1 — Identifica el tipo de oración
 >
 > Write **Simple**, **Compound**, **Complex**, or **Compound-Complex** in the blank:
 >
@@ -223,7 +223,7 @@
 >
 > **10.** Vegetables are good for your health and easy to digest. &emsp; `________________`
 
-> [!success]- ✅ Respuestas — Ejercicio 1
+> [!success] ✅ Respuestas — Ejercicio 1
 >
 > | # | Oración | Tipo | Por qué |
 > |---|---|---|---|
@@ -238,7 +238,7 @@
 > | 9 | *Let's go to the theater after lunch.* | **Simple** | *After lunch* es frase preposicional — una sola cláusula independiente |
 > | 10 | *Vegetables are good for your health and easy to digest.* | **Simple** | 1 sujeto + 1 verbo con dos predicados coordinados — no hay segunda cláusula |
 
-> [!example]- ✏️ Ejercicio 2 — Construye las oraciones
+> [!example] ✏️ Ejercicio 2 — Construye las oraciones
 >
 > Combina las ideas usando el tipo de oración indicado:
 >
@@ -247,7 +247,7 @@
 > 3. *I love coffee.* → **Simple** (añade un complemento)
 > 4. *It was raining. We went outside. We had umbrellas.* → **Compound-Complex**
 
-> [!success]- ✅ Respuestas — Ejercicio 2
+> [!success] ✅ Respuestas — Ejercicio 2
 >
 > | # | Respuesta posible | Tipo confirmado |
 > |---|---|---|
@@ -260,7 +260,7 @@
 
 ## 📚 Glosario de términos difíciles
 
-> [!quote]- 📖 Palabras y conceptos que pueden causar confusión
+> [!quote] 📖 Palabras y conceptos que pueden causar confusión
 >
 > | Término | Explicación sencilla |
 > |---|---|

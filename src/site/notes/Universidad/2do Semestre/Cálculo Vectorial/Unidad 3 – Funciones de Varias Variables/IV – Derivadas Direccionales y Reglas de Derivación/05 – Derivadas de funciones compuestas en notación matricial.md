@@ -2274,7 +2274,7 @@ graph TB
 > 
 > - [[03 - Matriz Jacobiana\|03 - Matriz Jacobiana]] - Fundamento de la regla de la cadena
 > - [[02 - Vectores en ℝ³\|02 - Vectores en ℝ³]] - Notación vectorial y operaciones
-> - [[Universidad/1er Semestre/Física Mecanica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Herramientas Matemáticas/Derivadas Parciales\|Derivadas Parciales]] - Base de la derivación multivariable
+> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Herramientas Matemáticas/Derivadas Parciales\|Derivadas Parciales]] - Base de la derivación multivariable
 > - [[Álgebra de Matrices\|Álgebra de Matrices]] - Multiplicación matricial
 > 
 > **➡️ Extensiones directas:**

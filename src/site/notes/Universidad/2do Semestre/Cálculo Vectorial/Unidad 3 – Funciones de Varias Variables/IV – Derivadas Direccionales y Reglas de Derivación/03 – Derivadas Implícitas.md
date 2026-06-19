@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Por qué son importantes las Derivadas Implícitas?
+> [!info] 💡 ¿Por qué son importantes las Derivadas Implícitas?
 > 
 > Las derivadas implícitas permiten calcular derivadas de relaciones donde no podemos (o no queremos) despejar explícitamente una variable en términos de otras.
 > 
@@ -37,7 +37,7 @@
 
 ### 📋 Definición y Método
 
-> [!example]- 🟢 Definición: Derivada Implícita
+> [!example] 🟢 Definición: Derivada Implícita
 > 
 > **Situación:** Dada una ecuación $F(x, y) = 0$ que define implícitamente $y$ como función de $x$ (i.e., $y = y(x)$).
 > 
@@ -83,7 +83,7 @@
 
 ### 🎨 Visualización Geométrica
 
-> [!note]- 🖼️ Interpretación Gráfica
+> [!note] 🖼️ Interpretación Gráfica
 > 
 > ### Curva Implícita
 > 
@@ -147,7 +147,7 @@
 
 ### Ejemplo 1: Círculo
 
-> [!example]- 📝 Ejemplo 1: Derivada del Círculo
+> [!example] 📝 Ejemplo 1: Derivada del Círculo
 > 
 > **Ecuación:** $x^2 + y^2 = 25$
 > 
@@ -193,7 +193,7 @@
 
 ### Ejemplo 2: Elipse
 
-> [!example]- 📝 Ejemplo 2: Derivada de la Elipse
+> [!example] 📝 Ejemplo 2: Derivada de la Elipse
 > 
 > **Ecuación:** $\frac{x^2}{9} + \frac{y^2}{4} = 1$
 > 
@@ -225,7 +225,7 @@
 
 ### Ejemplo 3: Ecuación de Tercer Grado
 
-> [!example]- 📝 Ejemplo 3: Folium de Descartes
+> [!example] 📝 Ejemplo 3: Folium de Descartes
 > 
 > **Ecuación:** $x^3 + y^3 = 3xy$ (Folium de Descartes)
 > 
@@ -271,7 +271,7 @@
 
 ### Ejemplo 4: Segunda Derivada
 
-> [!example]- 📝 Ejemplo 4: Segunda Derivada Implícita
+> [!example] 📝 Ejemplo 4: Segunda Derivada Implícita
 > 
 > **Ecuación:** $x^2 + y^2 = 1$
 > 
@@ -312,7 +312,7 @@
 
 ### 📐 Caso General: Dos Variables Independientes
 
-> [!example]- 🔵 Caso: $F(x, y, z) = 0$ define $z = z(x, y)$
+> [!example] 🔵 Caso: $F(x, y, z) = 0$ define $z = z(x, y)$
 > 
 > **Situación:** La ecuación $F(x, y, z) = 0$ define implícitamente $z$ como función de $x$ e $y$.
 > 
@@ -356,7 +356,7 @@
 
 ### Ejemplo 5: Esfera
 
-> [!example]- 📝 Ejemplo 5: Derivadas Parciales de una Esfera
+> [!example] 📝 Ejemplo 5: Derivadas Parciales de una Esfera
 > 
 > **Ecuación:** $x^2 + y^2 + z^2 = 9$ (esfera de radio 3)
 > 
@@ -396,7 +396,7 @@
 
 ### Ejemplo 6: Paraboloide
 
-> [!example]- 📝 Ejemplo 6: Paraboloide Elíptico
+> [!example] 📝 Ejemplo 6: Paraboloide Elíptico
 > 
 > **Ecuación:** $z = x^2 + 2y^2$ o $F(x, y, z) = x^2 + 2y^2 - z = 0$
 > 
@@ -426,7 +426,7 @@
 
 ### Ejemplo 7: Ecuación de Estado
 
-> [!example]- 🔥 Ejemplo 7: Gas de Van der Waals
+> [!example] 🔥 Ejemplo 7: Gas de Van der Waals
 > 
 > **Ecuación de estado:**
 > 
@@ -472,7 +472,7 @@
 
 ### 📊 Relaciones Termodinámicas
 
-> [!note]- 🌡️ Relaciones de Maxwell
+> [!note] 🌡️ Relaciones de Maxwell
 > 
 > **Contexto:** En termodinámica, variables como $P$, $V$, $T$, $S$ (entropía) están relacionadas.
 > 
@@ -510,7 +510,7 @@
 
 ### 🔗 Reciprocidad de Derivadas
 
-> [!note]- 🔄 Teorema de Reciprocidad
+> [!note] 🔄 Teorema de Reciprocidad
 > 
 > **Teorema:** Si $F(x, y) = 0$ define $y = y(x)$ o $x = x(y)$, entonces:
 > 
@@ -544,7 +544,7 @@
 
 ### 📐 Segunda Derivada Implícita
 
-> [!example]- 📝 Ejemplo 8: Segunda Derivada en General
+> [!example] 📝 Ejemplo 8: Segunda Derivada en General
 > 
 > **Dada:** $F(x, y) = 0$ con $\frac{dy}{dx} = -\frac{F_x}{F_y}$
 > 
@@ -586,7 +586,7 @@
 
 ### Ejemplo 9: Segunda Derivada de una Elipse
 
-> [!example]- 📝 Ejemplo 9: Curvatura de Elipse
+> [!example] 📝 Ejemplo 9: Curvatura de Elipse
 > 
 > **Ecuación:** $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$
 > 
@@ -630,7 +630,7 @@
 
 ### 🔍 Aplicación 1: Optimización con Restricciones
 
-> [!example]- 📐 Ejemplo 10: Extremos Condicionados
+> [!example] 📐 Ejemplo 10: Extremos Condicionados
 > 
 > **Problema:** Maximizar $f(x, y) = xy$ sujeto a $x^2 + y^2 = 1$
 > 
@@ -662,7 +662,7 @@
 
 ### 🌊 Aplicación 2: Ecuaciones Diferenciales Implícitas
 
-> [!example]- 🔬 Ejemplo 11: Familia de Curvas
+> [!example] 🔬 Ejemplo 11: Familia de Curvas
 > 
 > **Ecuación diferencial:** $x\frac{dy}{dx} + y = x^2$
 > 
@@ -698,7 +698,7 @@
 
 ### 💰 Aplicación 3: Economía - Curvas de Indiferencia
 
-> [!example]- 📊 Ejemplo 12: Utilidad Marginal
+> [!example] 📊 Ejemplo 12: Utilidad Marginal
 > 
 > **Función de utilidad:** $U(x, y) = x^{0.5}y^{0.5}$ (Cobb-Douglas)
 > 
@@ -741,7 +741,7 @@
 
 ### 🌡️ Aplicación 4: Termodinámica Avanzada
 
-> [!example]- ⚗️ Ejemplo 13: Relaciones de Maxwell
+> [!example] ⚗️ Ejemplo 13: Relaciones de Maxwell
 > 
 > **Energía libre de Helmholtz:** $F = U - TS$
 > 
@@ -781,7 +781,7 @@
 
 ### 📐 Caso: Múltiples Ecuaciones
 
-> [!note]- 🔢 Sistema de Ecuaciones Implícitas
+> [!note] 🔢 Sistema de Ecuaciones Implícitas
 > 
 > **Sistema:** $\begin{cases} F(x, y, u, v) = 0 \ G(x, y, u, v) = 0 \end{cases}$
 > 
@@ -811,7 +811,7 @@
 
 ### Ejemplo 14: Sistema 2×2
 
-> [!example]- 📝 Ejemplo 14: Transformación de Coordenadas
+> [!example] 📝 Ejemplo 14: Transformación de Coordenadas
 > 
 > **Sistema:** $\begin{cases} x = r\cos\theta \ y = r\sin\theta \end{cases}$
 > 
@@ -847,7 +847,7 @@
 
 ### Ejemplo 15: Cambio de Variables en EDPs
 
-> [!example]- 🌊 Ejemplo 15: Ecuación de Onda
+> [!example] 🌊 Ejemplo 15: Ecuación de Onda
 > 
 > **Ecuación de onda:** $u_{tt} = c^2u_{xx}$
 > 
@@ -901,7 +901,7 @@
 
 ### 📐 Teorema de la Función Implícita (Formal)
 
-> [!note]- 🎓 Enunciado Completo
+> [!note] 🎓 Enunciado Completo
 > 
 > **Teorema:** Sea $F: \mathbb{R}^{n+m} \to \mathbb{R}^m$ una función de clase $C^1$ y sea $(\vec{a}, \vec{b}) \in \mathbb{R}^n \times \mathbb{R}^m$ tal que:
 > 
@@ -934,7 +934,7 @@
 
 ### 📐 Condiciones de Regularidad
 
-> [!note]- ✅ Cuándo Aplica el Teorema
+> [!note] ✅ Cuándo Aplica el Teorema
 > 
 > **Puntos regulares vs singulares:**
 > 
@@ -974,7 +974,7 @@
 
 ## 🌟 Conceptos Clave para Recordar
 
-> [!tip]- 💡 Puntos Esenciales
+> [!tip] 💡 Puntos Esenciales
 > 
 > ### Sobre Derivadas Implícitas
 > 
@@ -1041,7 +1041,7 @@
 
 ### ⚠️ Trampa 1: Puntos Singulares
 
-> [!warning]- 🚨 Cuidado con $\nabla F = \vec{0}$
+> [!warning] 🚨 Cuidado con $\nabla F = \vec{0}$
 > 
 > **Problema:** En puntos donde $F_x = F_y = 0$, la fórmula no aplica.
 > 
@@ -1076,7 +1076,7 @@
 
 ### ⚠️ Trampa 2: Múltiples Ramas
 
-> [!warning]- 🌿 Funciones Multivaluadas
+> [!warning] 🌿 Funciones Multivaluadas
 > 
 > **Problema:** Una ecuación puede definir múltiples funciones.
 > 
@@ -1102,7 +1102,7 @@
 
 ### ⚠️ Trampa 3: Dependencia Circular
 
-> [!warning]- 🔄 Variables Interdependientes
+> [!warning] 🔄 Variables Interdependientes
 > 
 > **Cuidado al aplicar fórmulas cuando las variables están relacionadas de forma compleja.**
 > 
@@ -1118,7 +1118,7 @@
 
 ## 📚 Tabla de Referencia Rápida
 
-> [!note]- 📋 Fórmulas Clave
+> [!note] 📋 Fórmulas Clave
 > 
 > |Situación|Fórmula|
 > |---|---|
@@ -1139,7 +1139,7 @@
 
 ## 🔗 Relaciones con Otros Temas
 
-> [!quote]- 🌐 Conexiones Matemáticas
+> [!quote] 🌐 Conexiones Matemáticas
 > 
 > ### Prerequisitos:
 > 
@@ -1191,7 +1191,7 @@
 
 ### Problema 1: Lemniscata
 
-> [!example]- 🎯 Ejercicio: Lemniscata de Bernoulli
+> [!example] 🎯 Ejercicio: Lemniscata de Bernoulli
 > 
 > **Ecuación:** $(x^2 + y^2)^2 = 2a^2(x^2 - y^2)$
 > 
@@ -1242,7 +1242,7 @@
 
 ### Problema 2: Optimización Implícita
 
-> [!example]- 🎯 Ejercicio: Optimización con Restricción
+> [!example] 🎯 Ejercicio: Optimización con Restricción
 > 
 > **Problema:** Encontrar el rectángulo de área máxima inscrito en la elipse:
 > 
@@ -1278,7 +1278,7 @@
 
 ### Problema 3: Termodinámica
 
-> [!example]- 🎯 Ejercicio: Ciclo Termodinámico
+> [!example] 🎯 Ejercicio: Ciclo Termodinámico
 > 
 > **Ecuación de Van der Waals:**
 > 
@@ -1326,7 +1326,7 @@
 
 ### 🎨 Aplicación 1: Curvas Algebraicas
 
-> [!example]- 🌸 Ejemplo 16: Rosa de Cuatro Pétalos
+> [!example] 🌸 Ejemplo 16: Rosa de Cuatro Pétalos
 > 
 > **Ecuación en polares:** $r = \sin(2\theta)$
 > 
@@ -1350,7 +1350,7 @@
 
 ### 🔬 Aplicación 2: Ecuaciones Diferenciales
 
-> [!example]- 📐 Ejemplo 17: Solución Implícita de ED
+> [!example] 📐 Ejemplo 17: Solución Implícita de ED
 > 
 > **Ecuación diferencial:** $y' = \frac{x - y}{x + y}$
 > 
@@ -1378,7 +1378,7 @@
 
 ### 💡 Aplicación 3: Cambio de Variables en Integral
 
-> [!example]- 🔄 Ejemplo 18: Jacobiano Implícito
+> [!example] 🔄 Ejemplo 18: Jacobiano Implícito
 > 
 > **Transformación implícita:** $\begin{cases} u = x^2 - y^2 \ v = 2xy \end{cases}$
 > 
@@ -1414,7 +1414,7 @@
 
 ## ✨ Comentarios Finales
 
-> [!note]- 🎓 Para Llevar
+> [!note] 🎓 Para Llevar
 > 
 > ### Lo Esencial
 > 
@@ -1506,7 +1506,7 @@
 
 ## 📊 Resumen Visual
 
-> [!note]- 🗺️ Mapa Mental
+> [!note] 🗺️ Mapa Mental
 > 
 > ```
 > DERIVADAS IMPLÍCITAS
@@ -1549,7 +1549,7 @@
 
 ## 📚 Problemas Propuestos
 
-> [!note]- 💪 Ejercicios para Practicar
+> [!note] 💪 Ejercicios para Practicar
 > 
 > ### Nivel Básico
 > 

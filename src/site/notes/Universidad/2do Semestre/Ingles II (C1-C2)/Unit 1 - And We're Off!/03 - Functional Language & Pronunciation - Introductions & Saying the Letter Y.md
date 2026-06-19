@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué se trabaja en esta nota?
+> [!info] 💡 ¿Qué se trabaja en esta nota?
 >
 > Esta nota cubre dos bloques de la sección **1.3 We Go Way Back**:
 >
@@ -35,7 +35,7 @@
 
 ## 🤝 Functional Language — Introductions
 
-> [!note]- 🤝 Frases para presentaciones en contexto real
+> [!note] 🤝 Frases para presentaciones en contexto real
 >
 > Las frases se organizan en tres situaciones distintas según el contexto de la interacción:
 >
@@ -85,7 +85,7 @@
 
 ## 🔤 Pronunciation — Saying the Letter Y
 
-> [!note]- 🔤 ¿Cómo suena la letra Y en inglés?
+> [!note] 🔤 ¿Cómo suena la letra Y en inglés?
 >
 > La letra **Y** puede tener diferentes sonidos según su posición en la palabra. Es uno de los sonidos que más confunde a hispanohablantes porque en español la Y se comporta de manera diferente.
 >
@@ -118,7 +118,7 @@
 
 ## 📝 Ejercicios de práctica
 
-> [!example]- ✏️ Ejercicio 1 — Completa la presentación
+> [!example] ✏️ Ejercicio 1 — Completa la presentación
 >
 > Usa las frases del bloque de Functional Language para completar el diálogo:
 >
@@ -130,7 +130,7 @@
 > >
 > > **David:** Yeah, __________________ — back in Guayaquil!
 
-> [!success]- ✅ Respuestas — Ejercicio 1
+> [!success] ✅ Respuestas — Ejercicio 1
 >
 > > **Carlos:** Hey Ana, let me introduce you to my colleague David.
 > >
@@ -140,7 +140,7 @@
 > >
 > > **David:** Yeah, we go way back — back in Guayaquil!
 
-> [!example]- ✏️ Ejercicio 2 — Sonido de la Y
+> [!example] ✏️ Ejercicio 2 — Sonido de la Y
 >
 > Clasifica las siguientes palabras según el sonido de la letra Y:
 >
@@ -150,7 +150,7 @@
 > |---|---|---|---|
 > | | | | |
 
-> [!success]- ✅ Respuestas — Ejercicio 2
+> [!success] ✅ Respuestas — Ejercicio 2
 >
 > | Sonido /j/ | Sonido /ɪ/ | Sonido /iː/ | Sonido /aɪ/ |
 > |---|---|---|---|
@@ -162,7 +162,7 @@
 
 ## 📚 Glosario de términos difíciles
 
-> [!quote]- 📖 Palabras y conceptos que pueden causar confusión
+> [!quote] 📖 Palabras y conceptos que pueden causar confusión
 >
 > | Término | Explicación sencilla |
 > |---|---|
@@ -179,7 +179,7 @@
 
 ## 📚 Referencias
 
-> [!quote]- 📖 Fuentes consultadas
+> [!quote] 📖 Fuentes consultadas
 >
 > [1] *Keynote Upper-Intermediate*, National Geographic Learning / Cengage, Student's Book, Unit 1: And We're Off!, pp. 1–15.
 

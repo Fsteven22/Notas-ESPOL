@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es la Integral Doble? La **integral doble** es una extensión natural de la integral simple que nos permite calcular volúmenes, áreas y otras magnitudes en el espacio bidimensional. Mientras la integral simple calcula el área bajo una curva, la integral doble calcula el **volumen bajo una superficie**.
+> [!info] 💡 ¿Qué es la Integral Doble? La **integral doble** es una extensión natural de la integral simple que nos permite calcular volúmenes, áreas y otras magnitudes en el espacio bidimensional. Mientras la integral simple calcula el área bajo una curva, la integral doble calcula el **volumen bajo una superficie**.
 > 
 > **Analogía práctica:** Imagina que eres un arquitecto calculando el volumen de agua que puede contener una piscina de fondo irregular. La integral doble te permite:
 > 
@@ -49,7 +49,7 @@ graph TB
 
 ### 📊 Repaso: Integral Simple
 
-> [!example]- 📏 Concepto de Área bajo una Curva
+> [!example] 📏 Concepto de Área bajo una Curva
 > 
 > La **integral simple** calcula el área entre una función $f(x)$ y el eje $x$ en un intervalo $[a, b]$.
 > 
@@ -87,7 +87,7 @@ graph TB
 
 ### 🎲 Extensión a Dos Dimensiones
 
-> [!note]- 🌐 Construcción de la Integral Doble
+> [!note] 🌐 Construcción de la Integral Doble
 > 
 > La integral doble extiende este concepto a funciones de dos variables $f(x,y)$ sobre una región $R$ en el plano $xy$.
 > 
@@ -138,7 +138,7 @@ graph TB
 
 ### 🏔️ Volumen bajo una Superficie
 
-> [!success]- 📐 Concepto Central de Volumen
+> [!success] 📐 Concepto Central de Volumen
 > 
 > **Definición geométrica:**
 > 
@@ -197,7 +197,7 @@ graph TB
 
 ### ⚖️ Casos Especiales del Signo
 
-> [!warning]- ➕➖ Función con Valores Positivos y Negativos
+> [!warning] ➕➖ Función con Valores Positivos y Negativos
 > 
 > **Regla general:**
 > 
@@ -252,7 +252,7 @@ graph TB
 
 ### 🗺️ Tipos de Regiones
 
-> [!note]- 🔲 Clasificación de Regiones Planas
+> [!note] 🔲 Clasificación de Regiones Planas
 > 
 > **1. Regiones Rectangulares (Tipo I y II simultáneo)**
 > 
@@ -335,7 +335,7 @@ graph TB
 
 ### 🔄 Cambio de Orden de Integración
 
-> [!tip]- ↔️ Reescribir Integrales Iteradas
+> [!tip] ↔️ Reescribir Integrales Iteradas
 > 
 > **¿Por qué cambiar el orden?**
 > 
@@ -401,7 +401,7 @@ graph TB
 
 ### 📏 Cálculo de Áreas
 
-> [!example]- 🗺️ Área de Regiones Planas
+> [!example] 🗺️ Área de Regiones Planas
 > 
 > **Principio fundamental:**
 > 
@@ -469,7 +469,7 @@ graph TB
 
 ### 🏋️ Masa y Centro de Masa
 
-> [!success]- ⚖️ Propiedades Físicas de Láminas
+> [!success] ⚖️ Propiedades Físicas de Láminas
 > 
 > **Concepto de lámina:** Una lámina es una placa delgada en el plano $xy$ con **densidad variable** $\rho(x,y)$.
 > 
@@ -526,7 +526,7 @@ graph TB
 
 ### 📊 Valor Promedio
 
-> [!tip]- 📈 Promedio de una Función sobre una Región
+> [!tip] 📈 Promedio de una Función sobre una Región
 > 
 > **Definición:**
 > 
@@ -593,7 +593,7 @@ graph TB
 
 ### 🎯 Transformación de Coordenadas
 
-> [!info]- 🌀 De Cartesianas a Polares
+> [!info] 🌀 De Cartesianas a Polares
 > 
 > **Relaciones fundamentales:**
 > 
@@ -646,7 +646,7 @@ graph TB
 
 ### 🌐 Ejemplos de Conversión
 
-> [!example]- 🔄 Problemas Resueltos en Polares
+> [!example] 🔄 Problemas Resueltos en Polares
 > 
 > **Ejemplo 1: Círculo unitario**
 > 
@@ -698,7 +698,7 @@ graph TB
 
 ### 🎨 Sólidos Comunes
 
-> [!note]- 🏔️ Geometrías Típicas
+> [!note] 🏔️ Geometrías Típicas
 > 
 > **1. Prisma recto**
 > 
@@ -764,7 +764,7 @@ graph TB
 
 ### 🔍 Estrategias de Visualización
 
-> [!tip]- 👁️ Cómo "Ver" la Integral Doble
+> [!tip] 👁️ Cómo "Ver" la Integral Doble
 > 
 > **Proceso mental en 6 pasos:**
 > 
@@ -847,7 +847,7 @@ flowchart TD
 
 ### 📊 Tabla Maestra de Fórmulas
 
-> [!success]- 🎓 Referencia Rápida
+> [!success] 🎓 Referencia Rápida
 > 
 > |Concepto|Fórmula|Condiciones|
 > |---|---|---|
@@ -904,7 +904,7 @@ flowchart TD
 
 ## 💪 Ejercicios Guiados
 
-> [!example]- 🎯 Problemas Resueltos Paso a Paso
+> [!example] 🎯 Problemas Resueltos Paso a Paso
 > 
 > **Nivel Básico:**
 > 
@@ -984,7 +984,7 @@ flowchart TD
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Continuando el Aprendizaje
+> [!quote] 🌟 Continuando el Aprendizaje
 > 
 > **Has dominado:**
 > 

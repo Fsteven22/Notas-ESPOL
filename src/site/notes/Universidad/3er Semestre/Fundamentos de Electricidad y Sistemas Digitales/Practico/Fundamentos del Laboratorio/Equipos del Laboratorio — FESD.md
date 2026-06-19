@@ -5,7 +5,7 @@
 
 # 🔬 Equipos del Laboratorio — FESD
 
-> [!info]- 📌 Sobre esta nota Esta nota cubre todos los equipos que se usan en las prácticas del Laboratorio de Electrónica. Sirve como referencia rápida antes de cada práctica.
+> [!info] 📌 Sobre esta nota Esta nota cubre todos los equipos que se usan en las prácticas del Laboratorio de Electrónica. Sirve como referencia rápida antes de cada práctica.
 > 
 > |Equipo|Función principal|
 > |---|---|
@@ -21,7 +21,7 @@
 
 ## 🟦 Tablero Universal
 
-> [!note]- 📐 ¿Qué es y cómo funciona?
+> [!note] 📐 ¿Qué es y cómo funciona?
 > 
 > El tablero universal es la herramienta más básica para implementar cualquier circuito electrónico. Tiene filas y columnas de puntos de conexión con la siguiente lógica:
 > 
@@ -40,13 +40,13 @@
 > 
 > > ⚠️ Los puntos grandes están **aislados entre sí**. No confundir con el protoboard.
 > 
-> ![Pasted image 20260525231332.png](/img/user/Contenido%20Extra/Figuras/Pasted%20image%2020260525231332.png)
+> ![Pasted image 20260525231332.png](/img/user/Universidad/Figuras/Pasted%20image%2020260525231332.png)
 
 ---
 
 ## 🟩 Protoboard
 
-> [!note]- 🔌 ¿Qué es y cómo funciona?
+> [!note] 🔌 ¿Qué es y cómo funciona?
 > 
 > El protoboard es muy similar al tablero universal y se usa para la **primera etapa de prueba** de cualquier proyecto electrónico. Su lógica de conexión es:
 > 
@@ -62,15 +62,15 @@
 > 
 > > 💡 Usar el programa **Fritzing** para simular conexiones antes de armar físicamente.
 > 
-> ![Pasted image 20260525231403.png](/img/user/Contenido%20Extra/Figuras/Pasted%20image%2020260525231403.png)
+> ![Pasted image 20260525231403.png](/img/user/Universidad/Figuras/Pasted%20image%2020260525231403.png)
 
 ---
 
 ## ⚡ Fuente DC
 
-> [!tip]- 🔋 ¿Qué es y cómo se usa?
+> [!tip] 🔋 ¿Qué es y cómo se usa?
 > 
-> ![Pasted image 20260525231457.png](/img/user/Contenido%20Extra/Figuras/Pasted%20image%2020260525231457.png)
+> ![Pasted image 20260525231457.png](/img/user/Universidad/Figuras/Pasted%20image%2020260525231457.png)
 > La fuente DC (modelo **GW INSTEK GPS-4303**) entrega corriente continua para alimentar circuitos. Tiene **4 canales** independientes:
 > 
 > |Canal|Voltaje|Corriente máx.|
@@ -106,15 +106,15 @@
 > |Verde|Referencia (0V)|CH3(+) — CH1(−)|
 > |Rojo|+Vcc|CH1(+)|
 > |Azul|−Vcc|CH3(−)|
-> ![Pasted image 20260525231619.png](/img/user/Contenido%20Extra/Figuras/Pasted%20image%2020260525231619.png)
+> ![Pasted image 20260525231619.png](/img/user/Universidad/Figuras/Pasted%20image%2020260525231619.png)
 
 ---
 
 ## 🔩 LCR
 
-> [!note]- 📏 ¿Qué es y cómo se usa?
+> [!note] 📏 ¿Qué es y cómo se usa?
 > 
-> ![Pasted image 20260525231710.png](/img/user/Contenido%20Extra/Figuras/Pasted%20image%2020260525231710.png)
+> ![Pasted image 20260525231710.png](/img/user/Universidad/Figuras/Pasted%20image%2020260525231710.png)
 > El **LCR** (modelo GW INSTEK) es un medidor de impedancias de alta precisión. Mide:
 > 
 > |Magnitud|Símbolo|Unidad|
@@ -138,9 +138,9 @@
 
 ## 🟡 Multímetro
 
-> [!tip]- 📐 ¿Qué es y cómo se usa?
+> [!tip] 📐 ¿Qué es y cómo se usa?
 > 
-> ![Pasted image 20260525231749.png](/img/user/Contenido%20Extra/Figuras/Pasted%20image%2020260525231749.png)
+> ![Pasted image 20260525231749.png](/img/user/Universidad/Figuras/Pasted%20image%2020260525231749.png)
 > El **multímetro FLUKE 179** mide múltiples variables eléctricas. Se opera con una **perilla selectora** y las borneras correctas según la medición.
 > 
 > **Borneras:**
@@ -175,15 +175,15 @@
 > > 
 > > ⚠️ No exceder los 400 mA en la bornera mA — quema el fusible interno.
 > 
-> ![Pasted image 20260525231848.png](/img/user/Contenido%20Extra/Figuras/Pasted%20image%2020260525231848.png)
+> ![Pasted image 20260525231848.png](/img/user/Universidad/Figuras/Pasted%20image%2020260525231848.png)
 
 ---
 
 ## 📡 Generador de Funciones
 
-> [!tip]- 〰️ ¿Qué es y cómo se usa?
+> [!tip] 〰️ ¿Qué es y cómo se usa?
 > 
-> ![Pasted image 20260525231935.png](/img/user/Contenido%20Extra/Figuras/Pasted%20image%2020260525231935.png)
+> ![Pasted image 20260525231935.png](/img/user/Universidad/Figuras/Pasted%20image%2020260525231935.png)
 > El generador de funciones produce señales AC de distintas formas. Disponibles en el lab:
 > 
 > |Modelo|Frecuencia|Amplitud máx.|
@@ -221,9 +221,9 @@
 
 ## 📺 Osciloscopio
 
-> [!tip]- 📈 ¿Qué es y cómo se usa?
+> [!tip] 📈 ¿Qué es y cómo se usa?
 > 
-> ![Pasted image 20260525232051.png](/img/user/Contenido%20Extra/Figuras/Pasted%20image%2020260525232051.png)
+> ![Pasted image 20260525232051.png](/img/user/Universidad/Figuras/Pasted%20image%2020260525232051.png)
 > El **osciloscopio GW INSTEK GDS-820C** es un instrumento de medición gráfico que muestra señales en el dominio del tiempo.
 > 
 > **Especificaciones:**

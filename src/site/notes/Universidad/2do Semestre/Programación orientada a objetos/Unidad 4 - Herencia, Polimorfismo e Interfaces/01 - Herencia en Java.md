@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es la Herencia?
+> [!info] 💡 ¿Qué es la Herencia?
 > 
 > La **herencia** es un mecanismo que permite crear nuevas clases a partir de clases existentes, **heredando** sus atributos y métodos. Es uno de los pilares fundamentales de la POO.
 > 
@@ -42,7 +42,7 @@ graph TB
     style D fill:#e1ffe1
 ```
 
-> [!tip]- 🎯 ¿Cuándo Usar Herencia?
+> [!tip] 🎯 ¿Cuándo Usar Herencia?
 > 
 > **✅ USA herencia cuando:**
 > 
@@ -64,7 +64,7 @@ graph TB
 
 ### 📝 Estructura Fundamental
 
-> [!example]- 🔨 Definición de Clases
+> [!example] 🔨 Definición de Clases
 > 
 > **Superclase:**
 > 
@@ -147,7 +147,7 @@ graph TB
 
 ### 🔑 La Palabra Clave `super`
 
-> [!tip]- 🎯 Usos de super
+> [!tip] 🎯 Usos de super
 > 
 > **1. Llamar al constructor del padre:**
 > 
@@ -189,7 +189,7 @@ graph TB
 > }
 > ```
 
-> [!warning]- ⚠️ Reglas Importantes de super()
+> [!warning] ⚠️ Reglas Importantes de super()
 > 
 > **1. super() DEBE ser la primera línea:**
 > 
@@ -237,7 +237,7 @@ graph TB
 
 ### 📋 Concepto
 
-> [!tip]- 🎨 ¿Qué es Sobrescribir?
+> [!tip] 🎨 ¿Qué es Sobrescribir?
 > 
 > **Sobrescribir** (override) es redefinir en la subclase un método heredado de la superclase, manteniendo la **misma firma** (nombre, parámetros y tipo de retorno).
 > 
@@ -255,7 +255,7 @@ graph TB
 
 ### 🛠️ Implementación
 
-> [!example]- ✍️ Ejemplos de Sobrescritura
+> [!example] ✍️ Ejemplos de Sobrescritura
 > 
 > **Ejemplo básico:**
 > 
@@ -308,7 +308,7 @@ graph TB
 > pez.moverse();         // El pez nada
 > ```
 
-> [!example]- 🎯 Sobrescritura con super
+> [!example] 🎯 Sobrescritura con super
 > 
 > Puedes **reutilizar** el código del padre y **agregar** funcionalidad:
 > 
@@ -352,7 +352,7 @@ graph TB
 
 ### 🏷️ Anotación @Override
 
-> [!success]- ✅ Buena Práctica: Usar @Override
+> [!success] ✅ Buena Práctica: Usar @Override
 > 
 > **¿Por qué usar @Override?**
 > 
@@ -395,7 +395,7 @@ graph TB
 
 ### 🔄 Concepto
 
-> [!tip]- 🌟 Polimorfismo Explicado
+> [!tip] 🌟 Polimorfismo Explicado
 > 
 > El **polimorfismo** permite que una referencia de tipo superclase apunte a objetos de cualquier subclase. El método que se ejecuta depende del **tipo real** del objeto, no del tipo de la referencia.
 > 
@@ -407,7 +407,7 @@ graph TB
 
 ### 🛠️ Implementación
 
-> [!example]- 🎨 Polimorfismo en Acción
+> [!example] 🎨 Polimorfismo en Acción
 > 
 > **Jerarquía:**
 > 
@@ -482,7 +482,7 @@ graph TB
 > El coche Ford acelera suavemente
 > ```
 
-> [!example]- 🎯 Métodos Polimórficos
+> [!example] 🎯 Métodos Polimórficos
 > 
 > ```java
 > public class TallerMecanico {
@@ -504,7 +504,7 @@ graph TB
 
 ### 🔍 Casting y instanceof
 
-> [!warning]- ⚠️ Casting de Objetos
+> [!warning] ⚠️ Casting de Objetos
 > 
 > **Upcasting (automático):**
 > 
@@ -556,7 +556,7 @@ graph TB
 
 ### 📊 Tabla de Visibilidad
 
-> [!info]- 🔐 Control de Acceso
+> [!info] 🔐 Control de Acceso
 > 
 > |Modificador|Misma Clase|Mismo Paquete|Subclase|Cualquier Lugar|
 > |---|---|---|---|---|
@@ -569,7 +569,7 @@ graph TB
 
 ### 🛠️ Uso Práctico
 
-> [!example]- 🎯 Ejemplo de Modificadores
+> [!example] 🎯 Ejemplo de Modificadores
 > 
 > ```java
 > public class Empleado {
@@ -610,7 +610,7 @@ graph TB
 > }
 > ```
 
-> [!tip]- 💡 Buenas Prácticas
+> [!tip] 💡 Buenas Prácticas
 > 
 > **Recomendaciones:**
 > 
@@ -630,7 +630,7 @@ graph TB
 
 ### 📋 Restricciones en Java
 
-> [!warning]- ⚠️ Clases y Métodos final
+> [!warning] ⚠️ Clases y Métodos final
 > 
 > **Clase final - NO se puede heredar:**
 > 
@@ -687,7 +687,7 @@ graph TB
 
 ### 🔗 Herencia Simple
 
-> [!info]- 🎯 Java = Herencia Simple
+> [!info] 🎯 Java = Herencia Simple
 > 
 > **Java NO permite herencia múltiple de clases:**
 > 
@@ -729,7 +729,7 @@ graph TB
 
 ### 🌳 Tipos de Jerarquías
 
-> [!example]- 📊 Jerarquía Simple
+> [!example] 📊 Jerarquía Simple
 > 
 > **Lineal - Un nivel de herencia:**
 > 
@@ -762,7 +762,7 @@ graph TB
 > }
 > ```
 
-> [!example]- 🌲 Jerarquía Multinivel
+> [!example] 🌲 Jerarquía Multinivel
 > 
 > **Múltiples niveles - Herencia en cadena:**
 > 
@@ -826,7 +826,7 @@ graph TB
 > }
 > ```
 
-> [!example]- 🌿 Jerarquía Jerárquica
+> [!example] 🌿 Jerarquía Jerárquica
 > 
 > **Una superclase, múltiples subclases:**
 > 
@@ -873,7 +873,7 @@ graph TB
 
 ## 🎯 Ejemplo Completo Integrador
 
-> [!example]- 🏢 Sistema de Gestión de Empleados
+> [!example] 🏢 Sistema de Gestión de Empleados
 > 
 > ```java
 > // ==================== SUPERCLASE ====================
@@ -1073,7 +1073,7 @@ graph TB
 
 ## ✅ Mejores Prácticas
 
-> [!success]- 🎯 Recomendaciones
+> [!success] 🎯 Recomendaciones
 > 
 > **1. Diseña la jerarquía antes de codificar:**
 > 
@@ -1133,7 +1133,7 @@ graph TB
 > - Prefiere private + getters/setters protected
 > - Mantiene encapsulación
 
-> [!warning]- ⚠️ Antipatrones a Evitar
+> [!warning] ⚠️ Antipatrones a Evitar
 > 
 > **1. Jerarquías muy profundas:**
 > 
@@ -1199,7 +1199,7 @@ mindmap
       Evitar jerarquías profundas
 ```
 
-> [!quote]- 💡 Puntos Clave
+> [!quote] 💡 Puntos Clave
 > 
 > - **Herencia** = Reutilización + Especialización
 > - **super** = Acceso a la superclase

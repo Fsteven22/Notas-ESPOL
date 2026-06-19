@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es la Matemática Discreta?
+> [!info] 💡 ¿Qué es la Matemática Discreta?
 > 
 > La **Matemática Discreta** es la rama de las matemáticas que estudia los objetos y estructuras que son **finitos o discretos**, en lugar de continuos.
 > 
@@ -34,7 +34,7 @@
 
 ## 📋 Proposiciones
 
-> [!note]- 📖 Definición
+> [!note] 📖 Definición
 > 
 > Una **proposición** es una oración (enunciado) que es **verdadero o falso**, pero no ambas cosas a la vez. Se representan con las letras $p, q, r, s$, etc.
 > 
@@ -44,7 +44,7 @@
 
 ### 🔍 ¿Cuál es una proposición?
 
-> [!example]- ✅ Ejemplos comentados
+> [!example] ✅ Ejemplos comentados
 > 
 > Analicemos los siguientes enunciados:
 > 
@@ -64,7 +64,7 @@
 
 ## 🔗 Conectivos Lógicos
 
-> [!tip]- ⚙️ Operadores Unitarios y Binarios
+> [!tip] ⚙️ Operadores Unitarios y Binarios
 > 
 > - Un **operador unitario** sobre un conjunto $X$ asigna a cada elemento de $X$ otro elemento de $X$.
 > - Un **operador binario** sobre un conjunto $X$ asigna a cada **par** de elementos de $X$ otro elemento de $X$.
@@ -89,7 +89,7 @@
 
 ### 1️⃣ Negación ($\neg p$)
 
-> [!info]- 📋 Definición y Tabla de Verdad
+> [!info] 📋 Definición y Tabla de Verdad
 > 
 > Sea $p$ una proposición. La **negación** de $p$, denotada $\neg p$, es la proposición "no $p$".
 > 
@@ -109,7 +109,7 @@
 
 ### 2️⃣ Disyunción ($p \vee q$)
 
-> [!info]- 📋 Definición y Tabla de Verdad
+> [!info] 📋 Definición y Tabla de Verdad
 > 
 > Sean $p$ y $q$ dos proposiciones. La **disyunción** de $p$ y $q$, denotada $p \vee q$, es la proposición "$p$ **o** $q$".
 > 
@@ -128,7 +128,7 @@
 
 ### 3️⃣ Conjunción ($p \wedge q$)
 
-> [!info]- 📋 Definición y Tabla de Verdad
+> [!info] 📋 Definición y Tabla de Verdad
 > 
 > Sean $p$ y $q$ dos proposiciones. La **conjunción** de $p$ y $q$, denotada $p \wedge q$, es la proposición "$p$ **y** $q$".
 > 
@@ -147,7 +147,7 @@
 
 ### 4️⃣ Disyunción Exclusiva ($p \veebar q$)
 
-> [!info]- 📋 Definición y Tabla de Verdad
+> [!info] 📋 Definición y Tabla de Verdad
 > 
 > Sean $p$ y $q$ dos proposiciones. La **disyunción exclusiva** de $p$ y $q$, denotada $p \veebar q$, es la proposición "**ó** $p$ **ó** $q$" (pero no ambas).
 > 
@@ -172,7 +172,7 @@
 
 ### 5️⃣ Condicional ($p \rightarrow q$)
 
-> [!info]- 📋 Definición y Tabla de Verdad
+> [!info] 📋 Definición y Tabla de Verdad
 > 
 > Sean $p$ y $q$ dos proposiciones. El **condicional** de $p$ y $q$, denotado $p \rightarrow q$, es la proposición "**si** $p$ **entonces** $q$".
 > 
@@ -193,7 +193,7 @@
 > 
 > **Fórmula:** $VL(p \rightarrow q) = \max{1 - VL(p),\ VL(q)}$
 
-> [!tip]- 🔄 Formas Equivalentes del Condicional
+> [!tip] 🔄 Formas Equivalentes del Condicional
 > 
 > Todas las siguientes expresiones son equivalentes a "$si\ p\ entonces\ q$":
 > 
@@ -206,7 +206,7 @@
 > |Una condición **necesaria** para $p$ es $q$|Una condición necesaria para comenzar el verano es terminar el calor|
 > |Una condición **suficiente** para $q$ es $p$|Una condición suficiente para estar en forma es ir al gym|
 
-> [!example]- ✏️ Reescribir en forma "si p entonces q"
+> [!example] ✏️ Reescribir en forma "si p entonces q"
 > 
 > |Proposición original|Forma estándar|
 > |---|---|
@@ -217,7 +217,7 @@
 > |Una condición necesaria para que Luisa visite Salinas es que viaje a Manta.|Si Luisa visita Salinas, entonces viaja a Manta.|
 > |Para comer sano es suficiente adelgazar.|Si adelgazo, entonces como sano.|
 
-> [!note]- 🔁 Recíproco y Contrarrecíproco
+> [!note] 🔁 Recíproco y Contrarrecíproco
 > 
 > Dado el condicional $p \rightarrow q$:
 > 
@@ -231,7 +231,7 @@
 
 ### 6️⃣ Bicondicional ($p \leftrightarrow q$)
 
-> [!info]- 📋 Definición y Tabla de Verdad
+> [!info] 📋 Definición y Tabla de Verdad
 > 
 > Sean $p$ y $q$ dos proposiciones. El **bicondicional** de $p$ y $q$, denotado $p \leftrightarrow q$, es la proposición "$p$ **si y solo si** $q$".
 > 
@@ -280,7 +280,7 @@ graph TD
 
 ## 🔢 Tablas de Verdad
 
-> [!tip]- 🛠️ Cómo construir una Tabla de Verdad
+> [!tip] 🛠️ Cómo construir una Tabla de Verdad
 > 
 > 1. Identificar las variables proposicionales ($p, q, r, \ldots$)
 > 2. La tabla tendrá $2^n$ filas, donde $n$ es el número de variables
@@ -289,7 +289,7 @@ graph TD
 > 
 > **Precedencia:** $\neg$ → $\wedge$ → $\vee$ → $\rightarrow$
 
-> [!example]- 🧮 Ejemplo 1: Precedencia de operadores
+> [!example] 🧮 Ejemplo 1: Precedencia de operadores
 > 
 > **Dado:** $VL(p) = F,\ VL(q) = V,\ VL(r) = F$. Hallar $VL(\neg p \vee q \wedge r)$.
 > 
@@ -301,7 +301,7 @@ graph TD
 > |2|$VL(q \wedge r) = \min{1, 0}$|$F$|
 > |3|$VL((\neg p) \vee (q \wedge r)) = \max{1, 0}$|**V**|
 
-> [!example]- 🧮 Ejemplo 2: Tabla completa con condicional
+> [!example] 🧮 Ejemplo 2: Tabla completa con condicional
 > 
 > **Dado:** $VL(q) = VL(r) = F,\ VL(p) = V$.
 > 
@@ -311,7 +311,7 @@ graph TD
 > |$p \vee \neg q \rightarrow r$|$VL(\neg q) = V$, $VL(p \vee V) = V$, luego $V \rightarrow F$|**F**|
 > |$p \rightarrow (q \rightarrow r)$|$VL(q \rightarrow r) = V$ (antecedente falso), luego $V \rightarrow V$|**V**|
 
-> [!example]- 🧮 Ejemplo 3: Verificar equivalencia $\neg(p \rightarrow q) \equiv p \wedge \neg q$
+> [!example] 🧮 Ejemplo 3: Verificar equivalencia $\neg(p \rightarrow q) \equiv p \wedge \neg q$
 > 
 > |$p$|$q$|$\neg q$|$p \rightarrow q$|$\neg(p \rightarrow q)$|$p \wedge \neg q$|
 > |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -329,7 +329,7 @@ graph TD
 
 ## ⚖️ Equivalencias Lógicas y Propiedades
 
-> [!note]- 📐 Tautologías, Contradicciones y Equivalencias
+> [!note] 📐 Tautologías, Contradicciones y Equivalencias
 > 
 > - **Tautología:** Forma proposicional que es **siempre verdadera**, sin importar los valores de las variables.
 > - **Contradicción:** Forma proposicional que es **siempre falsa**.
@@ -337,8 +337,8 @@ graph TD
 > - **Equivalencia lógica:** $P \equiv Q$ (también $P \Leftrightarrow Q$) cuando $P$ y $Q$ tienen los **mismos valores lógicos** para todas las combinaciones posibles de sus variables.  
 >     Equivalente a decir que $P \leftrightarrow Q$ es una **tautología**.
 
-> [!success]- 📋 Principales Equivalencias Lógicas
-> ![Pasted image 20260517162520.png](/img/user/Contenido%20Extra/Figuras/Pasted%20image%2020260517162520.png)
+> [!success] 📋 Principales Equivalencias Lógicas
+> ![Pasted image 20260517162520.png](/img/user/Universidad/Figuras/Pasted%20image%2020260517162520.png)
 > **Leyes de identidad:**
 > 
 > |Ley|Expresión|
@@ -406,7 +406,7 @@ graph TD
 > |Bicondicional|$p \leftrightarrow q \equiv (p \rightarrow q) \wedge (q \rightarrow p)$|
 > |Disyunción exclusiva|$p \veebar q \equiv (p \wedge \neg q) \vee (q \wedge \neg p)$|
 
-> [!example]- ✅ Equivalencias que son ciertas
+> [!example] ✅ Equivalencias que son ciertas
 > 
 > Las siguientes equivalencias son **verdaderas** (tautologías):
 > 
@@ -420,7 +420,7 @@ graph TD
 
 ## ⚡ Circuitos Combinatorios
 
-> [!info]- 🖥️ Conexión con la Lógica Digital
+> [!info] 🖥️ Conexión con la Lógica Digital
 > 
 > Los **circuitos combinatorios** (o circuitos lógicos) son sistemas digitales cuya salida depende **únicamente** de los valores actuales de las entradas. Están construidos con **compuertas lógicas** que implementan directamente los conectivos de la lógica proposicional.
 > 
@@ -438,7 +438,7 @@ graph TD
 
 ### 🔌 Compuertas Lógicas Básicas
 
-> [!tip]- 🔧 Compuertas y sus Símbolos
+> [!tip] 🔧 Compuertas y sus Símbolos
 > 
 > Cada conectivo lógico se corresponde con una **compuerta** en circuitos digitales:
 > 
@@ -451,9 +451,9 @@ graph TD
 > |**NAND**|$\neg(p \wedge q)$|AND con círculo|Falso solo si ambas entradas son 1|
 > |**NOR**|$\neg(p \vee q)$|OR con círculo|Verdadero solo si ambas entradas son 0|
 > 
-![ChatGPT Image 20 may 2026, 13_02_00.png](/img/user/Contenido%20Extra/Figuras/ChatGPT%20Image%2020%20may%202026,%2013_02_00.png)
+![ChatGPT Image 20 may 2026, 13_02_00.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2020%20may%202026,%2013_02_00.png)
 
-> [!example]- 🧮 Tablas de Verdad de Compuertas
+> [!example] 🧮 Tablas de Verdad de Compuertas
 > 
 > **Compuerta NOT:**
 > 
@@ -491,7 +491,7 @@ graph TD
 
 ### 🏗️ Circuitos Combinatorios
 
-> [!note]- 🔗 De expresiones lógicas a circuitos
+> [!note] 🔗 De expresiones lógicas a circuitos
 > 
 > Cualquier **forma proposicional** puede representarse como un circuito combinatorio y viceversa.
 > 
@@ -510,7 +510,7 @@ graph TD
 > q ───────────┘          ├──[ AND ]──→ Salida
 > r ──────────────────────┘
 > ```
-> ![ChatGPT Image 20 may 2026, 13_05_26.png](/img/user/Contenido%20Extra/Figuras/ChatGPT%20Image%2020%20may%202026,%2013_05_26.png)
+> ![ChatGPT Image 20 may 2026, 13_05_26.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2020%20may%202026,%2013_05_26.png)
 > 
 > |$p$|$q$|$r$|$\neg p$|$\neg p \vee q$|$(\neg p \vee q) \wedge r$|
 > |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -523,7 +523,7 @@ graph TD
 > |1|1|0|0|1|0|
 > |1|1|1|0|1|1|
 
-> [!example]- 💡 Ejemplo: Medio Sumador (Half Adder)
+> [!example] 💡 Ejemplo: Medio Sumador (Half Adder)
 > 
 > El **medio sumador** suma dos bits $A$ y $B$ produciendo una **suma** $S$ y un **acarreo** $C$:
 > 

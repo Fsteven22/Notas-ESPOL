@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es el Cambio de Orden? El **cambio de orden de integración** es una técnica fundamental que consiste en reescribir una integral iterada intercambiando el orden en que se integran las variables. Esta habilidad es esencial para resolver integrales que de otra manera serían imposibles o extremadamente difíciles.
+> [!info] 💡 ¿Qué es el Cambio de Orden? El **cambio de orden de integración** es una técnica fundamental que consiste en reescribir una integral iterada intercambiando el orden en que se integran las variables. Esta habilidad es esencial para resolver integrales que de otra manera serían imposibles o extremadamente difíciles.
 > 
 > **Analogía práctica:** Imagina que estás contando personas en un estadio. Puedes:
 > 
@@ -54,7 +54,7 @@ graph TB
 
 ### 🔷 Teorema de Fubini
 
-> [!note]- 📜 Base Matemática del Cambio de Orden
+> [!note] 📜 Base Matemática del Cambio de Orden
 > 
 > **Enunciado del Teorema de Fubini:**
 > 
@@ -106,7 +106,7 @@ graph TB
 
 ### ⚠️ Errores Comunes
 
-> [!warning]- 🚨 Trampas al Cambiar de Orden
+> [!warning] 🚨 Trampas al Cambiar de Orden
 > 
 > **Error 1: No redibujar la región**
 > 
@@ -157,7 +157,7 @@ graph TB
 
 ### 📋 Algoritmo Sistemático
 
-> [!tip]- 🎯 7 Pasos para Cambiar el Orden
+> [!tip] 🎯 7 Pasos para Cambiar el Orden
 > 
 > **Proceso completo:**
 > 
@@ -234,7 +234,7 @@ graph TB
 
 ### 🎨 Ejemplo Detallado Completo
 
-> [!example]- 📝 Cambio Paso a Paso
+> [!example] 📝 Cambio Paso a Paso
 > 
 > **Problema:** Cambiar el orden de integración en: $$\int_0^2 \int_{x^2}^{4} f(x,y),dy,dx$$
 > 
@@ -346,7 +346,7 @@ graph TB
 
 ### 📊 Tipo I → Tipo II
 
-> [!note]- ⬆️↔️ De Vertical a Horizontal
+> [!note] ⬆️↔️ De Vertical a Horizontal
 > 
 > **Estructura general:**
 > 
@@ -427,7 +427,7 @@ graph TB
 
 ### 📊 Tipo II → Tipo I
 
-> [!note]- ↔️⬆️ De Horizontal a Vertical
+> [!note] ↔️⬆️ De Horizontal a Vertical
 > 
 > **Estructura general:**
 > 
@@ -518,7 +518,7 @@ graph TB
 
 ### 🔀 Regiones Complejas
 
-> [!warning]- 🧩 Cuando Una Descripción No Basta
+> [!warning] 🧩 Cuando Una Descripción No Basta
 > 
 > **Señales de que necesitas dividir:**
 > 
@@ -604,7 +604,7 @@ graph TB
 
 ### 🎯 Integrales Imposibles sin Cambio
 
-> [!success]- 🔓 Problemas que Se Desbloquean
+> [!success] 🔓 Problemas que Se Desbloquean
 > 
 > ## Caso 1: Función sin antiderivada elemental
 > 
@@ -759,7 +759,7 @@ graph TB
 
 ### 📊 Comparación de Complejidad
 
-> [!tip]- ⚖️ Elegir el Mejor Orden
+> [!tip] ⚖️ Elegir el Mejor Orden
 > 
 > **Criterios de decisión:**
 > 
@@ -819,7 +819,7 @@ graph TB
 
 ### 🎨 Casos Resueltos
 
-> [!example]- 📝 Biblioteca de Problemas
+> [!example] 📝 Biblioteca de Problemas
 > 
 > **EJEMPLO 1: Clásico con exponencial**
 > 
@@ -933,7 +933,7 @@ graph TB
 ## 🎓 Ejercicios Propuestos
 
 ### 💪 Práctica Guiada
-> [!example]- 🎯 Problemas para Resolver
+> [!example] 🎯 Problemas para Resolver
 > 
 > ## NIVEL BÁSICO
 > 

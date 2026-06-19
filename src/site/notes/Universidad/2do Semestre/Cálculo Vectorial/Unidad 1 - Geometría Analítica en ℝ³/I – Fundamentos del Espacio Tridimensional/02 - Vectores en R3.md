@@ -7,7 +7,7 @@
 
 ## 🎯 Fundamentos de Vectores en el Espacio
 
-> [!info]- 💡 Introducción a los Vectores Tridimensionales Los **vectores en ℝ³** son magnitudes que poseen tanto **magnitud** (tamaño o longitud) como **dirección** y **sentido** en el espacio tridimensional. Son fundamentales para describir desplazamientos, fuerzas, velocidades y muchas otras cantidades físicas.
+> [!info] 💡 Introducción a los Vectores Tridimensionales Los **vectores en ℝ³** son magnitudes que poseen tanto **magnitud** (tamaño o longitud) como **dirección** y **sentido** en el espacio tridimensional. Son fundamentales para describir desplazamientos, fuerzas, velocidades y muchas otras cantidades físicas.
 > 
 > **Analogías útiles:**
 > 
@@ -29,7 +29,7 @@
 
 ### 📐 Definición Formal de Vector
 
-> [!note]- 🌟 Concepto Matemático de Vector **Definición:**
+> [!note] 🌟 Concepto Matemático de Vector **Definición:**
 > 
 > Un **vector en ℝ³** es un elemento del espacio vectorial tridimensional que puede representarse de múltiples formas:
 > 
@@ -67,7 +67,7 @@
 
 ### ✍️ Formas de Notación
 
-> [!example]- 📝 Convenciones de Escritura **Notaciones equivalentes para el mismo vector:**
+> [!example] 📝 Convenciones de Escritura **Notaciones equivalentes para el mismo vector:**
 > 
 > **1. Notación de flecha (más común):**
 > 
@@ -95,7 +95,7 @@
 
 ### 🎨 Interpretación Geométrica
 
-> [!tip]- 👁️ Visualización de Vectores **Representación gráfica:**
+> [!tip] 👁️ Visualización de Vectores **Representación gráfica:**
 > 
 > Un vector se dibuja como una **flecha** (segmento dirigido) donde:
 > 
@@ -125,7 +125,7 @@
 
 ### 📏 Fórmula Fundamental
 
-> [!warning]- 🔷 Cálculo del Vector A\vec{B} **Dados dos puntos A y B en ℝ³:**
+> [!warning] 🔷 Cálculo del Vector A\vec{B} **Dados dos puntos A y B en ℝ³:**
 > 
 > - A = (x₁, y₁, z₁)
 > - B = (x₂, y₂, z₂)
@@ -150,7 +150,7 @@
 
 ### 📊 Ejemplos Detallados
 
-> [!example]- 🎯 Casos Prácticos **Ejemplo 1: Vector básico**
+> [!example] 🎯 Casos Prácticos **Ejemplo 1: Vector básico**
 > 
 > Dados A = (1, 2, 3) y B = (4, 6, 8)
 > 
@@ -213,7 +213,7 @@
 
 ### 📦 Descomposición en Componentes
 
-> [!success]- 🟢 Análisis de Componentes **Dado un vector v = (v₁, v₂, v₃):**
+> [!success] 🟢 Análisis de Componentes **Dado un vector v = (v₁, v₂, v₃):**
 > 
 > **1. Componente en X (v₁):**
 > 
@@ -241,7 +241,7 @@
 
 ### 🎯 Vectores Unitarios Canónicos
 
-> [!note]- 📏 Base Estándar de ℝ³ **Los tres vectores fundamentales:**
+> [!note] 📏 Base Estándar de ℝ³ **Los tres vectores fundamentales:**
 > 
 > **Vector i (dirección X):**
 > 
@@ -280,7 +280,7 @@
 
 ### 🔍 Propiedades de las Componentes
 
-> [!tip]- ⚡ Características Importantes **1. Independencia:**
+> [!tip] ⚡ Características Importantes **1. Independencia:**
 > 
 > - Las componentes son independientes entre sí
 > - Modificar una componente no afecta las otras
@@ -310,7 +310,7 @@
 
 ### 📏 Definición y Cálculo
 
-> [!warning]- 🔶 Longitud del Vector **Dado un vector v = (v₁, v₂, v₃):**
+> [!warning] 🔶 Longitud del Vector **Dado un vector v = (v₁, v₂, v₃):**
 > 
 > **La magnitud o norma del vector es:**
 > 
@@ -335,7 +335,7 @@
 
 ### 📊 Ejemplos de Cálculo de Magnitud
 
-> [!example]- 🎯 Ejercicios Resueltos **Ejemplo 1: Vector básico**
+> [!example] 🎯 Ejercicios Resueltos **Ejemplo 1: Vector básico**
 > 
 > **v** = (3, 4, 0)
 > 
@@ -392,7 +392,7 @@
 
 ### ➕ Suma de Vectores
 
-> [!success]- ➕ Operación Fundamental **Dados u = (u₁, u₂, u₃) y v = (v₁, v₂, v₃):**
+> [!success] ➕ Operación Fundamental **Dados u = (u₁, u₂, u₃) y v = (v₁, v₂, v₃):**
 > 
 > **u + v = (u₁ + v₁, u₂ + v₂, u₃ + v₃)**
 > 
@@ -421,7 +421,7 @@
 
 ### ➖ Resta de Vectores
 
-> [!note]- ➖ Diferencia de Vectores **Dados u = (u₁, u₂, u₃) y v = (v₁, v₂, v₃):**
+> [!note] ➖ Diferencia de Vectores **Dados u = (u₁, u₂, u₃) y v = (v₁, v₂, v₃):**
 > 
 > **u - v = (u₁ - v₁, u₂ - v₂, u₃ - v₃)**
 > 
@@ -443,7 +443,7 @@
 
 ### ✖️ Multiplicación por Escalar
 
-> [!info]- ✖️ Escalamiento de Vectores **Dado un vector v = (v₁, v₂, v₃) y un escalar k ∈ ℝ:**
+> [!info] ✖️ Escalamiento de Vectores **Dado un vector v = (v₁, v₂, v₃) y un escalar k ∈ ℝ:**
 > 
 > **k·v = (k·v₁, k·v₂, k·v₃)**
 > 
@@ -475,7 +475,7 @@
 
 ### 🔵 Vector Cero
 
-> [!warning]- ⭕ El Vector Nulo **Definición:**
+> [!warning] ⭕ El Vector Nulo **Definición:**
 > 
 > **0** = (0, 0, 0) = 0**i** + 0**j** + 0**k**
 > 
@@ -494,7 +494,7 @@
 
 ### 🎯 Vectores Unitarios
 
-> [!success]- 📏 Vectores de Magnitud 1 **Definición:**
+> [!success] 📏 Vectores de Magnitud 1 **Definición:**
 > 
 > Un vector **u** es **unitario** si ||**u**|| = 1
 > 
@@ -527,7 +527,7 @@
 
 ### ↔️ Vectores Opuestos
 
-> [!note]- 🔄 Inversión de Sentido **Definición:**
+> [!note] 🔄 Inversión de Sentido **Definición:**
 > 
 > El **vector opuesto** de **v** = (v₁, v₂, v₃) es:
 > 
@@ -580,7 +580,7 @@ graph TD
 
 ## 🧪 Ejercicios Integrales
 
-> [!example]- 💪 Práctica Completa **Nivel 1 - Básico:** 🟢
+> [!example] 💪 Práctica Completa **Nivel 1 - Básico:** 🟢
 > 
 > 1. Dados A = (2, 1, 3) y B = (5, 4, 7), calcular:
 >     - a) A\vec{B}
@@ -683,7 +683,7 @@ graph TD
 
 ### ↕️ Definición de Paralelismo
 
-> [!warning]- 📏 Vectores con la Misma Dirección **Definición:**
+> [!warning] 📏 Vectores con la Misma Dirección **Definición:**
 > 
 > Dos vectores **u** y **v** son **paralelos** si uno es múltiplo escalar del otro.
 > 
@@ -722,7 +722,7 @@ graph TD
 
 ### 🔗 Puntos Colineales
 
-> [!tip]- 📍 Tres Puntos en Línea Recta **Definición:**
+> [!tip] 📍 Tres Puntos en Línea Recta **Definición:**
 > 
 > Tres puntos A, B, C son **colineales** si están sobre la misma recta.
 > 
@@ -749,7 +749,7 @@ graph TD
 
 ## 📚 Propiedades Algebraicas Completas
 
-> [!note]- 🔢 Axiomas del Espacio Vectorial ℝ³ **ℝ³ con las operaciones de suma (+) y multiplicación escalar (·) forma un espacio vectorial:**
+> [!note] 🔢 Axiomas del Espacio Vectorial ℝ³ **ℝ³ con las operaciones de suma (+) y multiplicación escalar (·) forma un espacio vectorial:**
 > 
 > **A. Propiedades de la suma:**
 > 
@@ -771,7 +771,7 @@ graph TD
 
 ## 🔗 Conexiones con el Sistema de Notas
 
-> [!quote]- 🌟 Enlaces Conceptuales
+> [!quote] 🌟 Enlaces Conceptuales
 > 
 > **Prerequisites (Prerrequisitos):**
 > 
@@ -801,11 +801,11 @@ graph TD
 > 
 > - [[Espacios Vectoriales\|Espacios Vectoriales]] - Generalización abstracta
 > - [[Bases y Dimensión\|Bases y Dimensión]] - Vectores linealmente independientes
-> - [[Álgebra Lineal\|Álgebra Lineal]] - Teoría completa
+> - [[Universidad/2do Semestre/Algebra Lineal/Álgebra Lineal\|Álgebra Lineal]] - Teoría completa
 
 ## 💡 Consejos de Estudio y Errores Comunes
 
-> [!tip]- 🧠 Estrategias de Aprendizaje **Para dominar vectores:**
+> [!tip] 🧠 Estrategias de Aprendizaje **Para dominar vectores:**
 > 
 > **1. Visualización:**
 > 
@@ -854,7 +854,7 @@ graph TD
 
 ## 📊 Tabla Resumen de Vectores
 
-> [!example]- 📋 Compendio Completo
+> [!example] 📋 Compendio Completo
 > 
 > |Concepto|Notación|Fórmula|Ejemplo|
 > |---|---|---|---|

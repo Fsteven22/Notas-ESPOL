@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es el Volumen bajo una Superficie?
+> [!info] 💡 ¿Qué es el Volumen bajo una Superficie?
 > 
 > La **integral doble** no solo calcula áreas planas, sino que también permite determinar el **volumen de sólidos** limitados por superficies en el espacio tridimensional ℝ³.
 > 
@@ -50,7 +50,7 @@ graph TB
 
 ### 🔷 Definición de Volumen mediante Integral Doble
 
-> [!example]- 📊 Concepto Fundamental
+> [!example] 📊 Concepto Fundamental
 > 
 > **Definición formal:**
 > 
@@ -102,7 +102,7 @@ graph TB
 
 ### 🎨 Interpretación Física
 
-> [!note]- 🌊 Analogía del Agua
+> [!note] 🌊 Analogía del Agua
 > 
 > **Caso 1: Volumen de agua en un recipiente**
 > 
@@ -141,7 +141,7 @@ graph TB
 
 ### 📍 Volumen sobre Región Tipo I
 
-> [!success]- 🔼 Integración en coordenadas cartesianas
+> [!success] 🔼 Integración en coordenadas cartesianas
 > 
 > **Configuración:**
 > 
@@ -220,7 +220,7 @@ graph TB
 
 ### 📍 Volumen sobre Región Tipo II
 
-> [!success]- 🔽 Orden alternativo de integración
+> [!success] 🔽 Orden alternativo de integración
 > 
 > **Configuración:**
 > 
@@ -268,7 +268,7 @@ graph TB
 
 ## 🔄 Volumen entre Dos Superficies
 
-> [!tip]- 📏 Diferencia de Alturas
+> [!tip] 📏 Diferencia de Alturas
 > 
 > **Concepto:**
 > 
@@ -350,7 +350,7 @@ graph TB
 
 ### 📋 Metodología Sistemática
 
-> [!note]- 🔧 Guía paso a paso
+> [!note] 🔧 Guía paso a paso
 > 
 > **FASE 1: ANÁLISIS PRELIMINAR**
 > 
@@ -400,7 +400,7 @@ graph TB
 
 ### 🔍 Casos Especiales
 
-> [!tip]- ⚡ Simplificaciones comunes
+> [!tip] ⚡ Simplificaciones comunes
 > 
 > **1. Simetría**
 > 
@@ -447,7 +447,7 @@ graph TB
 
 ## 💻 Ejemplos Avanzados
 
-> [!example]- 🎓 Problema 5: Pirámide truncada
+> [!example] 🎓 Problema 5: Pirámide truncada
 > 
 > **Enunciado:** Calcular el volumen del sólido bajo el plano $z = 4 - x - y$ sobre la región triangular con vértices (0,0), (4,0), (0,4).
 > 
@@ -493,7 +493,7 @@ graph TB
 > 
 > **Respuesta:** $V = \frac{32}{3}$ unidades cúbicas
 
-> [!example]- 🎓 Problema 6: Sólido de revolución
+> [!example] 🎓 Problema 6: Sólido de revolución
 > 
 > **Enunciado:** Volumen del sólido generado por $z = \sqrt{1-x^2}$ sobre $-1 \leq x \leq 1$, $-\sqrt{1-x^2} \leq y \leq \sqrt{1-x^2}$.
 > 
@@ -537,7 +537,7 @@ graph TB
 > 
 > **Respuesta:** $V = \frac{2\pi}{3}$ unidades cúbicas
 
-> [!example]- 🎓 Problema 7: Volumen complejo
+> [!example] 🎓 Problema 7: Volumen complejo
 > 
 > **Enunciado:** Volumen entre $z = x^2 + y^2$ y $z = 2 - x^2 - y^2$.
 > 
@@ -584,7 +584,7 @@ graph TB
 
 ## 🌟 Coordenadas Polares
 
-> [!success]- 🔄 Cambio de coordenadas para regiones circulares
+> [!success] 🔄 Cambio de coordenadas para regiones circulares
 > 
 > **Cuándo usar polares:**
 > 
@@ -651,7 +651,7 @@ graph TB
 
 ## 📊 Resumen y Fórmulas Clave
 
-> [!success]- 📐 Tabla de referencia rápida
+> [!success] 📐 Tabla de referencia rápida
 > 
 > **Fórmulas fundamentales:**
 > 
@@ -687,7 +687,7 @@ graph TB
 
 ## 🎯 Ejercicios Propuestos
 
-> [!question]- 💪 Practica con estos problemas
+> [!question] 💪 Practica con estos problemas
 > 
 > **Nivel Básico:**
 > 
@@ -725,7 +725,7 @@ graph TB
 
 ## 🔗 Aplicaciones Prácticas
 
-> [!quote]- 🌍 Usos en el mundo real
+> [!quote] 🌍 Usos en el mundo real
 > 
 > **1. Ingeniería Civil:**
 > 

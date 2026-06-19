@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Por qué son importantes el MCD y el MCM?
+> [!info] 💡 ¿Por qué son importantes el MCD y el MCM?
 > 
 > El **máximo común divisor** y el **mínimo común múltiplo** son herramientas fundamentales de la teoría de números con aplicaciones en simplificación de fracciones, sincronización de ciclos, criptografía y algoritmos computacionales.
 > 
@@ -49,7 +49,7 @@
 
 ## 🔵 Máximo Común Divisor (MCD)
 
-> [!note]- 🔵 Definición y cálculo por factorización
+> [!note] 🔵 Definición y cálculo por factorización
 > 
 > **Definición.** Sean $m$ y $n$ enteros diferentes de cero. Un **divisor común** de $m$ y $n$ es un entero que divide tanto a $m$ como a $n$. El **máximo común divisor**, denotado $\text{mcd}(m, n)$, es el divisor común más grande.
 > 
@@ -93,7 +93,7 @@
 
 ## 🟢 Mínimo Común Múltiplo (MCM)
 
-> [!tip]- 🟢 Definición y cálculo por factorización
+> [!tip] 🟢 Definición y cálculo por factorización
 > 
 > **Definición.** Sean $m$ y $n$ enteros positivos. Un **múltiplo común** de $m$ y $n$ es un entero divisible tanto por $m$ como por $n$. El **mínimo común múltiplo**, denotado $\text{mcm}(m, n)$, es el múltiplo común positivo más pequeño.
 > 
@@ -134,7 +134,7 @@
 
 ## 🟡 Relación entre MCD y MCM
 
-> [!important]- 🟡 Teorema — Producto MCD · MCM
+> [!important] 🟡 Teorema — Producto MCD · MCM
 > 
 > **Teorema.** Para cualquier par de enteros positivos $m, n$:
 > 
@@ -168,7 +168,7 @@
 
 ## 🏛️ Algoritmo de la División
 
-> [!abstract]- 🏛️ Principio del Buen Orden y Teorema del Cociente-Residuo
+> [!abstract] 🏛️ Principio del Buen Orden y Teorema del Cociente-Residuo
 > 
 > ### Principio del Buen Orden
 > 
@@ -209,7 +209,7 @@
 
 ## ⚙️ Algoritmo de Euclides
 
-> [!tip]- ⚙️ Cálculo eficiente del MCD por divisiones sucesivas
+> [!tip] ⚙️ Cálculo eficiente del MCD por divisiones sucesivas
 > 
 > Dado cualquier entero $n \neq 0$: $0 = n \cdot 0$, así $n \mid 0$. Por tanto:
 > $$\text{mcd}(n, 0) = n \qquad \text{mcd}(n, 1) = 1$$
@@ -254,7 +254,7 @@
 
 ## 🔗 Comparación de Métodos para MCD
 
-> [!success]- 📊 ¿Cuándo usar cada método?
+> [!success] 📊 ¿Cuándo usar cada método?
 > 
 > | Método | Procedimiento | Ideal cuando… |
 > |---|---|---|
@@ -279,7 +279,7 @@
 
 ## 🧮 Ejercicios Propuestos
 
-> [!example]- 🧮 Ejercicios de práctica
+> [!example] 🧮 Ejercicios de práctica
 > 
 > Encuentre $\text{mcd}$ y $\text{mcm}$ para cada par:
 > 
@@ -326,7 +326,7 @@ mindmap
 
 ## 📚 Referencias
 
-> [!quote]- 📖 Fuentes consultadas
+> [!quote] 📖 Fuentes consultadas
 > 
 > [1] E. Pineda, *Elementos de teoría de números*, clase MATG1051, ESPOL, 2025.
 > 

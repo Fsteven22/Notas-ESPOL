@@ -219,7 +219,7 @@ mindmap
 > ### 🔄 **Temas Relacionados**
 > 
 > - [[Algoritmos de Ordenamiento\|Algoritmos de Ordenamiento]] - Para entender shuffle
-> - [[Universidad/1er Semestre/Física Mecanica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Herramientas Matemáticas/Estadística Básica\|Estadística Básica]] - Para distribuciones
+> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Herramientas Matemáticas/Estadística Básica\|Estadística Básica]] - Para distribuciones
 > - [[Criptografía Básica\|Criptografía Básica]] - Para entender diferencias con secrets
 > - [[Game Development Python\|Game Development Python]] - Aplicaciones prácticas
 

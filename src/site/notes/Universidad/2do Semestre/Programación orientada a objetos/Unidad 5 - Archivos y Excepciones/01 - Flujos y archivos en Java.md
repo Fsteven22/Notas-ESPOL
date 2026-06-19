@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué son los Flujos (Streams)?
+> [!info] 💡 ¿Qué son los Flujos (Streams)?
 > 
 > Un **flujo** es una secuencia de datos que viaja desde un origen hacia un destino. En Java, los flujos son la abstracción fundamental para cualquier operación de entrada/salida (E/S).
 > 
@@ -33,7 +33,7 @@
 
 ### 🔤 Flujos de Bytes vs Caracteres
 
-> [!tip]- 🎭 Dos Familias Principales
+> [!tip] 🎭 Dos Familias Principales
 > 
 > Java proporciona dos jerarquías paralelas de clases para manejar flujos:
 > 
@@ -68,7 +68,7 @@ graph TB
 
 ### 📊 Jerarquía Completa
 
-> [!note]- 🌳 Árbol de Clases de E/S
+> [!note] 🌳 Árbol de Clases de E/S
 > 
 > ```mermaid
 > classDiagram
@@ -117,7 +117,7 @@ graph TB
 
 ### 📥 Flujos de Entrada (Input Streams)
 
-> [!example]- 📖 Lectura de Datos
+> [!example] 📖 Lectura de Datos
 > 
 > **Propósito:** Traer datos DESDE una fuente HACIA el programa.
 > 
@@ -144,7 +144,7 @@ graph TB
 
 ### 📤 Flujos de Salida (Output Streams)
 
-> [!example]- ✍️ Escritura de Datos
+> [!example] ✍️ Escritura de Datos
 > 
 > **Propósito:** Enviar datos DESDE el programa HACIA un destino.
 > 
@@ -172,7 +172,7 @@ graph TB
 
 ## 🎨 Concepto de Decorador (Wrapper)
 
-> [!success]- 🎁 Envolver Flujos para Añadir Funcionalidad
+> [!success] 🎁 Envolver Flujos para Añadir Funcionalidad
 > 
 > Java usa el **patrón Decorator** para añadir capacidades a los flujos básicos sin modificarlos.
 > 
@@ -212,7 +212,7 @@ graph TB
 
 ### 💾 Persistencia de Datos
 
-> [!info]- 📌 Datos que Sobreviven
+> [!info] 📌 Datos que Sobreviven
 > 
 > Los archivos permiten que la información **persista** más allá de la ejecución del programa.
 > 
@@ -224,7 +224,7 @@ graph TB
 
 ### 🚿 Flujo de Datos Unidireccional
 
-> [!tip]- ➡️ Una Dirección a la Vez
+> [!tip] ➡️ Una Dirección a la Vez
 > 
 > Cada flujo es **unidireccional**:
 > 
@@ -248,7 +248,7 @@ graph TB
 
 ### 🔒 Cierre de Recursos
 
-> [!warning]- ⚠️ SIEMPRE Cerrar Flujos
+> [!warning] ⚠️ SIEMPRE Cerrar Flujos
 > 
 > **Problema:** Los flujos consumen recursos del sistema operativo.
 > 
@@ -276,7 +276,7 @@ graph TB
 
 ## 📊 Resumen Comparativo
 
-> [!summary]- 🎯 Guía Rápida de Decisión
+> [!summary] 🎯 Guía Rápida de Decisión
 > 
 > ```mermaid
 > graph TD

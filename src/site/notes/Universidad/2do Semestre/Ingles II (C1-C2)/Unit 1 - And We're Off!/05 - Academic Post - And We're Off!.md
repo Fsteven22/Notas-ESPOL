@@ -7,7 +7,7 @@
 
 ## 🎯 ¿Qué es un Academic Post?
 
-> [!info]- 💡 Definición y contexto
+> [!info] 💡 Definición y contexto
 >
 > Un **Academic Post** es una entrada escrita corta para un foro, blog o tablón de discusión de estilo académico. Es una tarea de escritura práctica donde escribes una contribución formal a una plataforma de discusión académica, como un foro de clase o un blog estudiantil.
 >
@@ -37,7 +37,7 @@
 
 ## 🏗️ Estructura
 
-> [!note]- 🏗️ Las 5 partes del Academic Post
+> [!note] 🏗️ Las 5 partes del Academic Post
 >
 > Todo Academic Post sigue esta estructura fija en el mismo orden:
 >
@@ -72,7 +72,7 @@
 
 ## 💬 Useful Phrases
 
-> [!note]- 💬 Frases útiles por sección
+> [!note] 💬 Frases útiles por sección
 >
 > ### 🔵 Opinion
 >
@@ -130,7 +130,7 @@
 
 ## 📝 Ejercicio de práctica
 
-> [!example]- ✏️ Practice — What helps students succeed at university?
+> [!example] ✏️ Practice — What helps students succeed at university?
 >
 > Este es el ejercicio de práctica oficial del PDF:
 >
@@ -147,7 +147,7 @@
 > - Haga referencia a ambas opiniones (Lizzy y Paul).
 > - Siga la estructura de las 5 partes.
 
-> [!success]- ✅ Guía de autoevaluación
+> [!success] ✅ Guía de autoevaluación
 >
 > Antes de entregar tu Academic Post, verifica esta lista:
 >
@@ -166,7 +166,7 @@
 
 ## 📚 Glosario de términos difíciles
 
-> [!quote]- 📖 Palabras y conceptos que pueden causar confusión
+> [!quote] 📖 Palabras y conceptos que pueden causar confusión
 >
 > | Término | Explicación sencilla |
 > |---|---|
@@ -183,7 +183,7 @@
 
 ## 📚 Referencias
 
-> [!quote]- 📖 Fuentes consultadas
+> [!quote] 📖 Fuentes consultadas
 >
 > [1] K. Yambay de Armijos, *E2 Academic Post*, Academic Writing Center (AWC), ESPOL, Guayaquil, Ecuador, 2024. Disponible en: [Academic Post KYdA.pdf](/img/user/Universidad/2do%20Semestre/Ingles%20II%20(C1-C2)/Unit%201%20-%20And%20We're%20Off!/Recursos%20Adicionales/Academic%20Post%20KYdA.pdf)
 

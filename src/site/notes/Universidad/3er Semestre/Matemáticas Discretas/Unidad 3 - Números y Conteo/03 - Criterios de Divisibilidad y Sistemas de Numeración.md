@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Por qué son útiles estos temas?
+> [!info] 💡 ¿Por qué son útiles estos temas?
 > 
 > Los **criterios de divisibilidad** permiten determinar si un número es divisible por otro sin realizar la división completa, simplemente analizando sus dígitos. Los **sistemas de numeración** permiten representar el mismo entero en distintas bases, lo cual es fundamental en computación.
 > 
@@ -52,7 +52,7 @@
 
 ## 🔵 Criterios de Divisibilidad
 
-> [!note]- 🔵 Teorema — Criterios para 3 y 9
+> [!note] 🔵 Teorema — Criterios para 3 y 9
 > 
 > **Teorema.** Sea $n \in \mathbb{N}$.
 > - La suma de los dígitos de $n$ es divisible para $9$ si y sólo si $n$ es divisible para $9$.
@@ -106,7 +106,7 @@
 
 ## 🟢 Sistemas de Numeración
 
-> [!tip]- 🟢 Bases numéricas y representación posicional
+> [!tip] 🟢 Bases numéricas y representación posicional
 > 
 > En el sistema **decimal** (base $10$), cada posición representa una potencia de $10$. Por ejemplo:
 > $$3854 = 3 \cdot 10^3 + 8 \cdot 10^2 + 5 \cdot 10^1 + 4 \cdot 10^0$$
@@ -135,7 +135,7 @@
 
 ## 🟡 Conversión entre Bases
 
-> [!tip]- 🟡 De cualquier base a decimal y de decimal a cualquier base
+> [!tip] 🟡 De cualquier base a decimal y de decimal a cualquier base
 > 
 > ### De base $b$ a decimal — evaluación directa
 > 
@@ -194,7 +194,7 @@
 
 ## 🔢 Número de Dígitos en Binario
 
-> [!note]- 🔢 ¿Cuántos bits necesita un número?
+> [!note] 🔢 ¿Cuántos bits necesita un número?
 > 
 > **Teorema.** Si la representación binaria de un entero positivo $n$ es $1b_{k-1}\cdots b_1 b_0$, entonces:
 > $$2^k \leq n < 2^{k+1}$$
@@ -226,7 +226,7 @@
 
 ## 🔗 Comparación de Métodos de Conversión
 
-> [!success]- 📊 ¿Qué método usar según la situación?
+> [!success] 📊 ¿Qué método usar según la situación?
 > 
 > | Conversión | Método | Proceso |
 > |---|---|---|
@@ -282,7 +282,7 @@ mindmap
 
 ## 📚 Referencias
 
-> [!quote]- 📖 Fuentes consultadas
+> [!quote] 📖 Fuentes consultadas
 > 
 > [1] E. Pineda, *Elementos de teoría de números*, clase MATG1051, ESPOL, 2025.
 > 

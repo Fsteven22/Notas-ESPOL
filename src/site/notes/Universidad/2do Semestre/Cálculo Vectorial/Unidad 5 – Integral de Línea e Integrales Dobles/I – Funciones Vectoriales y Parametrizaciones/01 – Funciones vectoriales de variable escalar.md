@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué son las Funciones Vectoriales?
+> [!info] 💡 ¿Qué son las Funciones Vectoriales?
 > 
 > Una **función vectorial de variable escalar** es una función que asigna a cada valor escalar **t** (usualmente tiempo o parámetro) un vector en el espacio ℝ² o ℝ³.
 > 
@@ -51,7 +51,7 @@ graph TB
     style E fill:#ffe1ff
 ```
 
-> [!tip]- 🎯 ¿Para Qué Sirven?
+> [!tip] 🎯 ¿Para Qué Sirven?
 > 
 > **✅ Aplicaciones principales:**
 > 
@@ -75,7 +75,7 @@ graph TB
 
 ### 📋 Definición
 
-> [!info]- 📐 Definición Matemática
+> [!info] 📐 Definición Matemática
 > 
 > Una **función vectorial** **r** de una variable escalar t es una función cuyo dominio es un conjunto de números reales y cuyo rango es un conjunto de vectores.
 > 
@@ -99,7 +99,7 @@ graph TB
 
 ### 🎨 Notaciones Comunes
 
-> [!tip]- 📝 Formas de Escribir Funciones Vectoriales
+> [!tip] 📝 Formas de Escribir Funciones Vectoriales
 > 
 > **Notación de corchetes angulares:** $$\mathbf{r}(t) = \langle x(t), y(t), z(t) \rangle$$
 > 
@@ -117,7 +117,7 @@ graph TB
 
 ### 📐 Curvas en el Plano (ℝ²)
 
-> [!example]- ⭕ Círculo
+> [!example] ⭕ Círculo
 > 
 > **Función vectorial:** $$\mathbf{r}(t) = \langle \cos(t), \sin(t) \rangle, \quad t \in [0, 2\pi]$$
 > 
@@ -140,7 +140,7 @@ graph TB
 > 
 > **Círculo de radio R centrado en (h, k):** $$\mathbf{r}(t) = \langle h + R\cos(t), k + R\sin(t) \rangle$$
 
-> [!example]- 🌀 Espiral
+> [!example] 🌀 Espiral
 > 
 > **Espiral de Arquímedes:** $$\mathbf{r}(t) = \langle t\cos(t), t\sin(t) \rangle, \quad t \geq 0$$
 > 
@@ -154,7 +154,7 @@ graph TB
 > 
 > El radio crece exponencialmente
 
-> [!example]- 📈 Parábola
+> [!example] 📈 Parábola
 > 
 > **Forma paramétrica:** $$\mathbf{r}(t) = \langle t, t^2 \rangle, \quad t \in \mathbb{R}$$
 > 
@@ -164,7 +164,7 @@ graph TB
 
 ### 🌐 Curvas en el Espacio (ℝ³)
 
-> [!example]- 🌪️ Hélice Circular
+> [!example] 🌪️ Hélice Circular
 > 
 > **Función vectorial:** $$\mathbf{r}(t) = \langle a\cos(t), a\sin(t), bt \rangle, \quad t \in \mathbb{R}$$
 > 
@@ -189,7 +189,7 @@ graph TB
 > 
 > Hélice de radio 2, que sube 2π unidades por cada vuelta completa.
 
-> [!example]- 📊 Curva de Intersección
+> [!example] 📊 Curva de Intersección
 > 
 > **Intersección de cilindro y plano:**
 > 
@@ -202,7 +202,7 @@ graph TB
 > - x² + y² = 4cos²(t) + 4sin²(t) = 4 ✓
 > - z = 2cos(t) = x ✓
 
-> [!example]- 🎯 Trayectoria de Proyectil
+> [!example] 🎯 Trayectoria de Proyectil
 > 
 > **Física: Lanzamiento parabólico**
 > 
@@ -231,7 +231,7 @@ graph TB
 
 ### 📊 Límite de una Función Vectorial
 
-> [!info]- 🎯 Definición de Límite
+> [!info] 🎯 Definición de Límite
 > 
 > El límite de **r**(t) cuando t → a existe si y solo si existen los límites de todas sus componentes:
 > 
@@ -245,7 +245,7 @@ graph TB
 > 
 > $$0 < |t - a| < \delta \implies |\mathbf{r}(t) - \mathbf{L}| < \varepsilon$$
 
-> [!example]- ✏️ Ejemplos de Límites
+> [!example] ✏️ Ejemplos de Límites
 > 
 > **Ejemplo 1:**
 > 
@@ -265,7 +265,7 @@ graph TB
 
 ### 🔄 Continuidad
 
-> [!info]- 📐 Función Vectorial Continua
+> [!info] 📐 Función Vectorial Continua
 > 
 > Una función vectorial **r**(t) es **continua** en t = a si:
 > 
@@ -290,7 +290,7 @@ graph TB
 
 ### 🎯 Definición de Derivada
 
-> [!info]- 📐 Derivada de una Función Vectorial
+> [!info] 📐 Derivada de una Función Vectorial
 > 
 > La **derivada** de **r**(t) se define como:
 > 
@@ -312,7 +312,7 @@ graph TB
 > - Apunta en la dirección del movimiento
 > - Su magnitud representa la rapidez de cambio
 
-> [!example]- ✏️ Ejemplos de Derivadas
+> [!example] ✏️ Ejemplos de Derivadas
 > 
 > **Ejemplo 1: Círculo**
 > 
@@ -347,7 +347,7 @@ graph TB
 
 ### 🔧 Reglas de Derivación
 
-> [!success]- ✅ Propiedades de la Derivada
+> [!success] ✅ Propiedades de la Derivada
 > 
 > Sean **r**(t) y **s**(t) funciones vectoriales, c un escalar, y f(t) una función escalar:
 > 
@@ -363,7 +363,7 @@ graph TB
 > 
 > **6. Regla de la cadena:** $$\frac{d}{dt}[\mathbf{r}(f(t))] = \mathbf{r}'(f(t)) \cdot f'(t)$$
 
-> [!example]- 🎯 Aplicación de Reglas
+> [!example] 🎯 Aplicación de Reglas
 > 
 > **Ejemplo: Derivada de la norma al cuadrado**
 > 
@@ -383,7 +383,7 @@ graph TB
 
 ### 🔄 Derivadas de Orden Superior
 
-> [!info]- 📊 Segunda Derivada y Superiores
+> [!info] 📊 Segunda Derivada y Superiores
 > 
 > **Segunda derivada:**
 > 
@@ -395,7 +395,7 @@ graph TB
 > 
 > $$\mathbf{r}^{(n)}(t) = \langle x^{(n)}(t), y^{(n)}(t), z^{(n)}(t) \rangle$$
 
-> [!example]- ✏️ Ejemplo de Derivadas de Orden Superior
+> [!example] ✏️ Ejemplo de Derivadas de Orden Superior
 > 
 > $$\mathbf{r}(t) = \langle t^3, \cos(2t), e^t \rangle$$
 > 
@@ -411,7 +411,7 @@ graph TB
 
 ### 📐 Vector Tangente Unitario
 
-> [!info]- 🎯 Vector Tangente Unitario T(t)
+> [!info] 🎯 Vector Tangente Unitario T(t)
 > 
 > El **vector tangente unitario** es la normalización de **r**'(t):
 > 
@@ -427,7 +427,7 @@ graph TB
 > 
 > Si **r**(t) es la posición de una partícula, **T**(t) indica la dirección instantánea del movimiento.
 
-> [!example]- ✏️ Cálculo de Vector Tangente Unitario
+> [!example] ✏️ Cálculo de Vector Tangente Unitario
 > 
 > **Para la hélice:** $$\mathbf{r}(t) = \langle \cos(t), \sin(t), t \rangle$$
 > 
@@ -441,7 +441,7 @@ graph TB
 
 ### 🔵 Vector Normal Unitario
 
-> [!info]- 🎯 Vector Normal Principal N(t)
+> [!info] 🎯 Vector Normal Principal N(t)
 > 
 > El **vector normal unitario** mide cómo cambia la dirección de **T**(t):
 > 
@@ -454,7 +454,7 @@ graph TB
 > - Apunta hacia el "centro de curvatura"
 > - Indica la dirección en que la curva se está doblando
 
-> [!example]- ✏️ Cálculo de Vector Normal
+> [!example] ✏️ Cálculo de Vector Normal
 > 
 > **Para el círculo:** $$\mathbf{r}(t) = \langle \cos(t), \sin(t) \rangle$$
 > 
@@ -472,7 +472,7 @@ graph TB
 
 ### 🟣 Vector Binormal
 
-> [!info]- 🎯 Vector Binormal B(t)
+> [!info] 🎯 Vector Binormal B(t)
 > 
 > El **vector binormal** es perpendicular tanto a **T** como a **N**:
 > 
@@ -485,7 +485,7 @@ graph TB
 > - Completa un sistema ortonormal {**T**, **N**, **B**}
 > - Define el "plano osculador"
 
-> [!tip]- 📊 Triedro de Frenet (Marco Móvil)
+> [!tip] 📊 Triedro de Frenet (Marco Móvil)
 > 
 > Los tres vectores **T**, **N**, **B** forman el **triedro de Frenet** o **marco móvil** de la curva:
 > 
@@ -509,7 +509,7 @@ graph TB
 
 ### 🎯 Fórmula de Longitud
 
-> [!info]- 📐 Longitud de una Curva
+> [!info] 📐 Longitud de una Curva
 > 
 > La **longitud de arco** de una curva **r**(t) desde t = a hasta t = b es:
 > 
@@ -524,7 +524,7 @@ graph TB
 > - ‖**r**'(t)‖ = rapidez instantánea
 > - Integrar la rapidez da la distancia total recorrida
 
-> [!example]- ✏️ Ejemplos de Longitud de Arco
+> [!example] ✏️ Ejemplos de Longitud de Arco
 > 
 > **Ejemplo 1: Hélice circular**
 > 
@@ -553,7 +553,7 @@ graph TB
 
 ### 🔄 Parametrización por Longitud de Arco
 
-> [!tip]- 📊 Parámetro Longitud de Arco s
+> [!tip] 📊 Parámetro Longitud de Arco s
 > 
 > La **función longitud de arco** desde t = a es:
 > 
@@ -581,7 +581,7 @@ graph TB
 
 ### ⚡ Velocidad y Aceleración
 
-> [!info]- 🎯 Cinemática Vectorial
+> [!info] 🎯 Cinemática Vectorial
 > 
 > Si **r**(t) representa la posición de una partícula:
 > 
@@ -593,7 +593,7 @@ graph TB
 > 
 > **Magnitud de la aceleración:** $$a(t) = |\mathbf{a}(t)|$$
 
-> [!example]- 🎯 Ejemplo: Movimiento Circular Uniforme
+> [!example] 🎯 Ejemplo: Movimiento Circular Uniforme
 > 
 > **Posición:** $$\mathbf{r}(t) = \langle R\cos(\omega t), R\sin(\omega t) \rangle$$
 > 
@@ -613,7 +613,7 @@ graph TB
 > - **a** apunta hacia el centro (aceleración centrípeta)
 > - Magnitud: ‖**a**‖ = Rω² = v²/R
 
-> [!example]- 🚀 Ejemplo: Proyectil con Resistencia del Aire
+> [!example] 🚀 Ejemplo: Proyectil con Resistencia del Aire
 > 
 > **Ecuación de movimiento:** $$\mathbf{r}''(t) = \langle 0, -g \rangle - k\mathbf{r}'(t)$$
 > 
@@ -626,7 +626,7 @@ graph TB
 
 ### 🌍 Movimiento Planetario
 
-> [!tip]- 🪐 Leyes de Kepler
+> [!tip] 🪐 Leyes de Kepler
 > 
 > **Primera Ley (Órbitas Elípticas):**
 > 
@@ -652,7 +652,7 @@ graph TB
 
 ### 📊 Integral Indefinida
 
-> [!info]- 📐 Antiderivada Vectorial
+> [!info] 📐 Antiderivada Vectorial
 > 
 > La **integral indefinida** de **r**(t) es:
 > 
@@ -662,7 +662,7 @@ graph TB
 > 
 > **Verificación:** $$\frac{d}{dt}\left[\int \mathbf{r}(t) , dt\right] = \mathbf{r}(t)$$
 
-> [!example]- ✏️ Ejemplo de Integral Indefinida
+> [!example] ✏️ Ejemplo de Integral Indefinida
 > 
 > $$\mathbf{r}(t) = \langle 2t, \cos(t), e^{3t} \rangle$$
 > 
@@ -674,7 +674,7 @@ graph TB
 
 ### 📏 Integral Definida
 
-> [!info]- 📊 Integral Definida Vectorial
+> [!info] 📊 Integral Definida Vectorial
 > 
 > $$\int_a^b \mathbf{r}(t) , dt = \left\langle \int_a^b x(t) , dt, \int_a^b y(t) , dt, \int_a^b z(t) , dt \right\rangle$$
 > 
@@ -684,7 +684,7 @@ graph TB
 > 
 > $$\int_a^b \mathbf{r}(t) , dt = \mathbf{R}(b) - \mathbf{R}(a)$$
 
-> [!example]- ✏️ Ejemplo de Integral Definida
+> [!example] ✏️ Ejemplo de Integral Definida
 > 
 > $$\int_0^{\pi/2} \langle \sin(t), \cos(t), 1 \rangle , dt$$
 > 
@@ -700,7 +700,7 @@ graph TB
 
 ## ✅ Resumen de Fórmulas
 
-> [!summary]- 📋 Referencia Rápida
+> [!summary] 📋 Referencia Rápida
 > 
 > **Definición:** $$\mathbf{r}(t) = \langle x(t), y(t), z(t) \rangle$$
 > 
@@ -724,7 +724,7 @@ graph TB
 
 ## 🎓 Ejercicios Propuestos
 
-> [!question]- 💪 Práctica
+> [!question] 💪 Práctica
 > 
 > **Ejercicio 1:** Encuentra **r**'(t) y **r**''(t) para **r**(t) = ⟨t², sin(t), e^t⟩
 > 
@@ -778,7 +778,7 @@ flowchart TD
 
 ```
 
-> [!quote]- 💡 Puntos Clave
+> [!quote] 💡 Puntos Clave
 > 
 > - **Función vectorial** = Asigna vectores a números reales
 > - **Curva** = Trayectoria trazada por r(t)

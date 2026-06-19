@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Por Qué Manejar Excepciones?
+> [!info] 💡 ¿Por Qué Manejar Excepciones?
 > 
 > El **manejo de excepciones** permite que tu programa responda elegantemente a situaciones inesperadas en lugar de terminar abruptamente.
 > 
@@ -35,7 +35,7 @@
 
 ### 📋 Niveles de Manejo
 
-> [!tip]- 🎚️ Dónde Manejar las Excepciones
+> [!tip] 🎚️ Dónde Manejar las Excepciones
 > 
 > **1. Manejo Local (en el método donde ocurre)**
 > 
@@ -103,7 +103,7 @@
 
 ### 🔄 Wrapping de Excepciones
 
-> [!success]- 🎁 Encapsular Excepciones de Bajo Nivel
+> [!success] 🎁 Encapsular Excepciones de Bajo Nivel
 > 
 > **Propósito:** Convertir excepciones técnicas en excepciones de negocio más significativas.
 > 
@@ -167,7 +167,7 @@
 
 ### 📐 Diseño de Excepciones
 
-> [!example]- 🎨 Crear Excepciones Significativas
+> [!example] 🎨 Crear Excepciones Significativas
 > 
 > **Estructura completa:**
 > 
@@ -224,7 +224,7 @@
 
 ### 🌳 Jerarquía de Excepciones Personalizadas
 
-> [!note]- 📊 Organizar Excepciones por Dominio
+> [!note] 📊 Organizar Excepciones por Dominio
 > 
 > **Estructura jerárquica:**
 > 
@@ -319,7 +319,7 @@
 
 ### 🎯 Checked vs Unchecked Personalizadas
 
-> [!tip]- ⚖️ ¿Exception o RuntimeException?
+> [!tip] ⚖️ ¿Exception o RuntimeException?
 > 
 > **Regla de decisión:**
 > 
@@ -392,7 +392,7 @@
 
 ### 🔄 Patrón: Try-Catch-Finally
 
-> [!example]- 🎯 Manejo Completo de Recursos
+> [!example] 🎯 Manejo Completo de Recursos
 > 
 > ```java
 > public class GestorArchivos {
@@ -438,7 +438,7 @@
 
 ### 🎁 Patrón: Try-With-Resources
 
-> [!success]- ⚡ Forma Moderna (Java 7+)
+> [!success] ⚡ Forma Moderna (Java 7+)
 > 
 > ```java
 > public List<String> leerArchivoModerno(String ruta) {
@@ -488,7 +488,7 @@
 
 ### 🔁 Patrón: Reintentos
 
-> [!tip]- 🔄 Intentar Múltiples Veces
+> [!tip] 🔄 Intentar Múltiples Veces
 > 
 > ```java
 > public class ConexionConReintentos {
@@ -544,7 +544,7 @@
 
 ### 🎯 Patrón: Validación con Excepciones
 
-> [!example]- ✅ Validación Defensiva
+> [!example] ✅ Validación Defensiva
 > 
 > ```java
 > public class ValidadorEstudiante {
@@ -620,7 +620,7 @@
 
 ## 🎯 Ejemplo Completo: Sistema Bancario
 
-> [!example]- 💼 Caso Práctico Integral
+> [!example] 💼 Caso Práctico Integral
 > 
 > **1. Jerarquía de excepciones:**
 > 
@@ -858,7 +858,7 @@
 
 ## ✅ Mejores Prácticas Avanzadas
 
-> [!tip]- 🏆 Recomendaciones Profesionales
+> [!tip] 🏆 Recomendaciones Profesionales
 > 
 > **1. Mensajes descriptivos y accionables**
 > 

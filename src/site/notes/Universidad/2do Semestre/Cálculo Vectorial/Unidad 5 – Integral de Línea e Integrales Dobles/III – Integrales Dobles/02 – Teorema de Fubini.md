@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es el Teorema de Fubini? El **Teorema de Fubini** es uno de los resultados fundamentales en cálculo multivariable. Establece las condiciones bajo las cuales una **integral doble** (o múltiple) puede calcularse como **integrales iteradas** (sucesivas integrales simples), y garantiza que el resultado es **independiente del orden de integración**.
+> [!info] 💡 ¿Qué es el Teorema de Fubini? El **Teorema de Fubini** es uno de los resultados fundamentales en cálculo multivariable. Establece las condiciones bajo las cuales una **integral doble** (o múltiple) puede calcularse como **integrales iteradas** (sucesivas integrales simples), y garantiza que el resultado es **independiente del orden de integración**.
 > 
 > **Analogía práctica:** Imagina que necesitas contar todas las personas en un estadio:
 > 
@@ -48,7 +48,7 @@ graph TB
 
 ### 📜 Versión para Regiones Rectangulares
 
-> [!example]- 📦 Caso Más Simple
+> [!example] 📦 Caso Más Simple
 > 
 > **Teorema de Fubini (Regiones Rectangulares):**
 > 
@@ -137,7 +137,7 @@ graph TB
 
 ### 🗺️ Versión para Regiones Generales
 
-> [!note]- 🌐 Extensión a Regiones No Rectangulares
+> [!note] 🌐 Extensión a Regiones No Rectangulares
 > 
 > **Teorema de Fubini (Regiones Tipo I):**
 > 
@@ -230,7 +230,7 @@ graph TB
 
 ### ✅ Condiciones de Validez
 
-> [!warning]- ⚠️ Cuándo Aplica el Teorema
+> [!warning] ⚠️ Cuándo Aplica el Teorema
 > 
 > **Condiciones necesarias:**
 > 
@@ -304,7 +304,7 @@ graph TB
 
 ### 🎭 Casos Especiales
 
-> [!tip]- 🔬 Situaciones Particulares
+> [!tip] 🔬 Situaciones Particulares
 > 
 > **Caso 1: Funciones separables**
 > 
@@ -388,7 +388,7 @@ graph TB
 
 ### 🎯 Estrategia y Metodología
 
-> [!success]- 🔀 Proceso Sistemático
+> [!success] 🔀 Proceso Sistemático
 > 
 > **¿Cuándo cambiar el orden?**
 > 
@@ -495,7 +495,7 @@ graph TB
 
 ### 📝 Ejemplos Resueltos Completos
 
-> [!example]- 💡 Aplicaciones Prácticas
+> [!example] 💡 Aplicaciones Prácticas
 > 
 > **Ejemplo 1: Integral imposible que se vuelve posible**
 > 
@@ -632,7 +632,7 @@ graph TB
 
 ### 📊 Cálculo Eficiente
 
-> [!tip]- ⚡ Estrategias de Optimización
+> [!tip] ⚡ Estrategias de Optimización
 > 
 > **Principio 1: Elegir el orden más simple**
 > 
@@ -687,7 +687,7 @@ graph TB
 
 ### 🔬 Verificación de Resultados
 
-> [!success]- ✅ Usar Fubini para Comprobar
+> [!success] ✅ Usar Fubini para Comprobar
 > 
 > **Técnica de doble verificación:**
 > 
@@ -735,7 +735,7 @@ graph TB
 
 ### 📦 Teorema de Fubini para Integrales Triples
 
-> [!note]- 🎲 Generalización a 3D
+> [!note] 🎲 Generalización a 3D
 > 
 > **Enunciado para integrales triples:**
 > 
@@ -802,7 +802,7 @@ graph TB
 
 ### 🔄 Teorema General (n dimensiones)
 
-> [!warning]- 🌌 Versión Abstracta
+> [!warning] 🌌 Versión Abstracta
 > 
 > **Teorema de Fubini (Versión General):**
 > 
@@ -836,7 +836,7 @@ graph TB
 
 ## 📋 Resumen y Comparaciones
 
-> [!note]- 📊 Tabla Maestra de Referencia
+> [!note] 📊 Tabla Maestra de Referencia
 > 
 > ### Versiones del Teorema
 > 
@@ -873,7 +873,7 @@ graph TB
 
 ## 🎓 Ejercicios Desafiantes
 
-> [!example]- 🏆 Problemas Avanzados
+> [!example] 🏆 Problemas Avanzados
 > 
 > **Ejercicio 1: Combinación de técnicas**
 > 
@@ -983,7 +983,7 @@ graph TB
 
 ## 🔗 Conexión con Temas Avanzados
 
-> [!quote]- 🌟 Hacia el Futuro del Aprendizaje
+> [!quote] 🌟 Hacia el Futuro del Aprendizaje
 > 
 > **Has dominado:**
 > 
