@@ -19,7 +19,7 @@
 > - **b** = Límite superior  
 > - **f(i)** = Término general de la suma
 
-> [!note]- Componentes de la Notación Sigma 📊
+> [!note] Componentes de la Notación Sigma 📊
 > ### Elementos Básicos
 > ```mermaid
 > graph TB
@@ -44,7 +44,7 @@
 > - **Un solo término**: Si a = b, entonces Σ = f(a)
 > - **Índice negativo**: Permitido, ej: Σ(i=-2 to 3) i
 
-> [!tip]- Propiedades Fundamentales ⚖️
+> [!tip] Propiedades Fundamentales ⚖️
 > ### Propiedad 1: Linealidad (Factor Constante)
 > **$$\sum_{i=a}^{b} c \cdot f(i) = c \sum_{i=a}^{b} f(i)$$**
 > 
@@ -67,7 +67,7 @@
 > 
 > **Ejemplo:** $\sum_{i=1}^{5} 7 = 7 \cdot (5-1+1) = 7 \cdot 5 = 35$
 
-> [!example]- Propiedades Avanzadas y Manipulaciones 🧮
+> [!example] Propiedades Avanzadas y Manipulaciones 🧮
 > ### Propiedad 5: Separación de Sumatorias
 > **$$\sum_{i=a}^{c} f(i) = \sum_{i=a}^{b} f(i) + \sum_{i=b+1}^{c} f(i)$$** (donde a ≤ b < c)
 > 
@@ -90,7 +90,7 @@
 > 
 > > Se puede cambiar el orden de sumación
 
-> [!abstract]- Fórmulas de Sumatorias Importantes 📚
+> [!abstract] Fórmulas de Sumatorias Importantes 📚
 > ### Sumatorias Básicas Fundamentales
 > | Fórmula | Expresión | Resultado |
 > |---------|-----------|-----------|
@@ -110,7 +110,7 @@
 > Fórmula: 4(4+1)(2·4+1)/6 = 4·5·9/6 = 30 ✓
 > ```
 
-> [!success]- Aplicaciones en Cálculo 🎯
+> [!success] Aplicaciones en Cálculo 🎯
 > ### En Límites y Definición de Integral
 > ```mermaid
 > graph LR
@@ -133,7 +133,7 @@
 > - **Series geométricas**: Convergencia y divergencia
 > - **Series de potencias**: Desarrollo de funciones
 
-> [!warning]- Errores Comunes y Precauciones ⚠️
+> [!warning] Errores Comunes y Precauciones ⚠️
 > ### Errores Frecuentes
 > - **🔄 Confundir límites**: Verificar si incluyen o excluyen los extremos
 > - **📐 Cambio de índice incorrecto**: Mantener coherencia en los límites
@@ -176,7 +176,7 @@
 > **M** - Memorizar las fórmulas básicas (1, i², i³)
 > **A** - Aplicar verificación con casos simples
 
-> [!success]- Puntos Clave para Recordar 🎯
+> [!success] Puntos Clave para Recordar 🎯
 > 1. **📏 Notación estándar**: Σ con límites e índice claramente definidos
 > 2. **⚖️ Linealidad**: Constantes salen, sumas se distribuyen
 > 3. **🔄 Flexibilidad de índices**: Se pueden cambiar manteniendo coherencia

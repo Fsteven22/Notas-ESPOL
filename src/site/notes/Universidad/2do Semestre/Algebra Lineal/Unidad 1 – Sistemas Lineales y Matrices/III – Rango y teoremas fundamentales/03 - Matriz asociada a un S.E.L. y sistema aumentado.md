@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es un Sistema de Ecuaciones Lineales?
+> [!info] 💡 ¿Qué es un Sistema de Ecuaciones Lineales?
 > 
 > Un **Sistema de Ecuaciones Lineales (S.E.L.)** es un conjunto de ecuaciones algebraicas de primer grado con varias incógnitas. La representación matricial permite usar las herramientas del álgebra lineal para resolver estos sistemas de forma eficiente.
 > 
@@ -57,7 +57,7 @@ graph TB
 
 ### 📝 Forma Escalar (Ecuaciones)
 
-> [!example]- 📋 Representación Tradicional
+> [!example] 📋 Representación Tradicional
 > 
 > **Definición:**
 > 
@@ -127,7 +127,7 @@ graph TB
 
 ### 🔢 Forma Matricial
 
-> [!note]- 🎯 Representación Compacta
+> [!note] 🎯 Representación Compacta
 > 
 > **Matriz de coeficientes A:**
 > 
@@ -216,7 +216,7 @@ graph TB
 
 ### 📊 Matriz Aumentada
 
-> [!success]- 🔗 Sistema Completo
+> [!success] 🔗 Sistema Completo
 > 
 > **Definición:**
 > 
@@ -299,7 +299,7 @@ graph TB
 
 ### 🎨 Forma Vectorial
 
-> [!tip]- 🔄 Combinación Lineal
+> [!tip] 🔄 Combinación Lineal
 > 
 > **Interpretación alternativa:**
 > 
@@ -360,7 +360,7 @@ graph TB
 
 ### 📥 De Ecuaciones a Matrices
 
-> [!example]- 🔨 Proceso de Conversión
+> [!example] 🔨 Proceso de Conversión
 > 
 > **Algoritmo de construcción:**
 > 
@@ -464,7 +464,7 @@ graph TB
 
 ### 📤 De Matrices a Ecuaciones
 
-> [!note]- 🔄 Proceso Inverso
+> [!note] 🔄 Proceso Inverso
 > 
 > **Algoritmo de reconstrucción:**
 > 
@@ -540,7 +540,7 @@ graph TB
 
 ### 📏 Clasificación Dimensional
 
-> [!info]- 📐 Según m y n
+> [!info] 📐 Según m y n
 > 
 > **Tabla de clasificación:**
 > 
@@ -621,7 +621,7 @@ graph TB
 
 ### 🔍 Sistemas Homogéneos vs No Homogéneos
 
-> [!tip]- ⚖️ Según el Vector b
+> [!tip] ⚖️ Según el Vector b
 > 
 > **Sistema homogéneo:**
 > 
@@ -697,7 +697,7 @@ graph TB
 
 ### 🎲 Tipos de Operaciones
 
-> [!example]- 🛠️ Transformaciones Permitidas
+> [!example] 🛠️ Transformaciones Permitidas
 > 
 > **Las tres operaciones elementales:**
 > 
@@ -773,7 +773,7 @@ graph TB
 
 ### 📋 Ejemplos de Aplicación
 
-> [!success]- 💫 Transformaciones Paso a Paso
+> [!success] 💫 Transformaciones Paso a Paso
 > 
 > **Ejemplo 1: Crear cero debajo del pivote**
 > 
@@ -846,7 +846,7 @@ graph TB
 
 ### 🔺 Forma Escalonada (Row Echelon Form)
 
-> [!note]- 📐 Estructura Triangular
+> [!note] 📐 Estructura Triangular
 > 
 > **Definición:**
 > 
@@ -937,7 +937,7 @@ graph TB
 
 ### 💎 Forma Escalonada Reducida (RREF)
 
-> [!tip]- ✨ Forma Canónica
+> [!tip] ✨ Forma Canónica
 > 
 > **Definición:**
 > 
@@ -1047,7 +1047,7 @@ graph TB
 
 ### 📊 Sistemas en ℝ²
 
-> [!example]- 🎨 Visualización en el Plano
+> [!example] 🎨 Visualización en el Plano
 > 
 > **Cada ecuación es una recta:**
 > 
@@ -1150,7 +1150,7 @@ graph TB
 
 ### 🌐 Sistemas en ℝ³
 
-> [!success]- 📐 Visualización en el Espacio
+> [!success] 📐 Visualización en el Espacio
 > 
 > **Cada ecuación es un plano:**
 > 
@@ -1245,7 +1245,7 @@ graph TB
 
 ## 📚 Resumen y Conclusiones
 
-> [!success]- 🎯 Puntos Clave
+> [!success] 🎯 Puntos Clave
 > 
 > **Representaciones equivalentes:**
 > 

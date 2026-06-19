@@ -7,11 +7,11 @@
 
 > [!quote] "En el mundo de las magnitudes físicas, cada variable cuenta su propia historia de cambio." 📐
 
-> [!info]- Las derivadas parciales son herramientas matemáticas fundamentales para entender cómo cambian las magnitudes físicas cuando varía una sola variable, manteniendo todas las demás constantes. En física experimental, son esenciales para la propagación de incertidumbres y el análisis de sensibilidad en mediciones.
+> [!info] Las derivadas parciales son herramientas matemáticas fundamentales para entender cómo cambian las magnitudes físicas cuando varía una sola variable, manteniendo todas las demás constantes. En física experimental, son esenciales para la propagación de incertidumbres y el análisis de sensibilidad en mediciones.
 
 ## 🔧 Conceptos Fundamentales
 
-> [!info]- **Definición Matemática** 📊
+> [!info] **Definición Matemática** 📊
 > 
 > ### Concepto Central:
 > 
@@ -41,7 +41,7 @@
 > |**Interpretación**|Tasa de cambio total|Tasa de cambio con otras variables fijas|
 > |**Resultado**|Función de x|Función de todas las variables|
 
-> [!tip]- **Reglas de Derivación Parcial** ⚡
+> [!tip] **Reglas de Derivación Parcial** ⚡
 > 
 > ### Reglas Básicas:
 > 
@@ -84,7 +84,7 @@
 > |f = sin(x)|∂f/∂x = cos(x)|Movimiento oscilatorio|
 > |f = ln(x)|∂f/∂x = 1/x|Escalas logarítmicas|
 
-> [!warning]- **Interpretación Geométrica** 📐
+> [!warning] **Interpretación Geométrica** 📐
 > 
 > ### Visualización 3D:
 > 
@@ -132,7 +132,7 @@
 
 ## 🎯 Derivadas Parciales en Física
 
-> [!note]- **Aplicaciones en Mecánica** 🏗️
+> [!note] **Aplicaciones en Mecánica** 🏗️
 > 
 > ### Cinemática:
 > 
@@ -179,7 +179,7 @@
 > Fₓ = -mg(∂h/∂x), Fᵧ = -mg(∂h/∂y)
 > ```
 
-> [!tip]- **Propagación de Incertidumbres** 📊
+> [!tip] **Propagación de Incertidumbres** 📊
 > 
 > ### Fórmula General:
 > 
@@ -209,7 +209,7 @@
 
 ## 📚 Ejemplos Detallados
 
-> [!example]- **Ejemplo 1: Área de un Rectángulo** 📐
+> [!example] **Ejemplo 1: Área de un Rectángulo** 📐
 > 
 > ### Función:
 > 
@@ -247,7 +247,7 @@
 > u_A = √[0.09 + 0.0625] = 0.39 m²
 > ```
 
-> [!example]- **Ejemplo 2: Velocidad (División)** 🚗
+> [!example] **Ejemplo 2: Velocidad (División)** 🚗
 > 
 > ### Función:
 > 
@@ -288,7 +288,7 @@
 > - Distancia: 50%
 > - Tiempo: 50%
 
-> [!example]- **Ejemplo 3: Densidad de un Cilindro** ⚖️
+> [!example] **Ejemplo 3: Densidad de un Cilindro** ⚖️
 > 
 > ### Función:
 > 
@@ -333,7 +333,7 @@
 
 ## 🧮 Técnicas de Cálculo
 
-> [!tip]- **Estrategias de Memorización** 🎯
+> [!tip] **Estrategias de Memorización** 🎯
 > 
 > ### Mnemotecnia: "DERIVAR"
 > 
@@ -350,7 +350,7 @@
 > |**Exponencial**|∂(e^x)/∂x = e^x|Decaimientos|
 > |**Logarítmica**|∂(ln x)/∂x = 1/x|Escalas log|
 
-> [!note]- **Verificaciones Útiles** ✅
+> [!note] **Verificaciones Útiles** ✅
 > 
 > ### Análisis Dimensional:
 > 
@@ -378,7 +378,7 @@
 
 ## ⚡ Derivadas de Orden Superior
 
-> [!info]- **Derivadas Mixtas y Segundas** 📈
+> [!info] **Derivadas Mixtas y Segundas** 📈
 > 
 > ### Derivadas Segundas:
 > 
@@ -411,7 +411,7 @@
 
 ## 🌊 Aplicaciones Avanzadas
 
-> [!info]- **Gradiente y Campos Vectoriales** 🧭
+> [!info] **Gradiente y Campos Vectoriales** 🧭
 > 
 > ### Vector Gradiente:
 > 
@@ -439,7 +439,7 @@
 > - **Campo eléctrico**: \vec{E} = -∇V
 > - **Fuerza elástica**: \vec{F} = -∇U_elástica
 
-> [!info]- **Optimización y Puntos Críticos** 🎯
+> [!info] **Optimización y Puntos Críticos** 🎯
 > 
 > ### Condiciones para Extremos:
 > 
@@ -468,7 +468,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- **Confusiones Frecuentes** ⚠️
+> [!warning] **Confusiones Frecuentes** ⚠️
 > 
 > 1. **Confundir ∂ con d**:
 >     - ❌ ∂f/∂x para funciones de una variable
@@ -490,7 +490,7 @@
 
 ## 🎯 Aplicaciones Específicas en Laboratorio
 
-> [!info]- **Experimentos Típicos** 🔬
+> [!info] **Experimentos Típicos** 🔬
 > 
 > ### Péndulo Simple:
 > 
@@ -534,22 +534,22 @@
 
 ## 📖 Referencias y Conexiones
 
-> [!quote]- **Notas Relacionadas**
+> [!quote] **Notas Relacionadas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis de Datos y Errores/Incertidumbres Experimentales\|Incertidumbres Experimentales]] - Aplicación principal
 > - [[Análisis de Errores\|Análisis de Errores]] - Contexto experimental
-> - [[Cálculo Vectorial\|Cálculo Vectorial]] - Extensiones matemáticas
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Cálculo Vectorial\|Cálculo Vectorial]] - Extensiones matemáticas
 > - [[Optimización\|Optimización]] - Aplicaciones avanzadas
 
 ## 📚 Notas Recomendadas
 
-> [!note]- **Prerrequisitos**
+> [!note] **Prerrequisitos**
 > 
 > - [[Funciones de Varias Variables\|Funciones de Varias Variables]] - Concepto base
 > - **Cálculo diferencial**: Derivadas ordinarias
 > - **Álgebra**: Operaciones básicas
 
-> [!note]- **Temas Siguientes**
+> [!note] **Temas Siguientes**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis de Datos y Errores/Incertidumbres Experimentales\|Incertidumbres Experimentales]] - Aplicación directa
 > - [[Análisis Gráfico\|Análisis Gráfico]] - Representación visual

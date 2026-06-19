@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Por qué estudiar las propiedades? Las **propiedades de las integrales de línea** son herramientas fundamentales que simplifican cálculos complejos y revelan conexiones profundas entre geometría, física y matemáticas.
+> [!info] 💡 ¿Por qué estudiar las propiedades? Las **propiedades de las integrales de línea** son herramientas fundamentales que simplifican cálculos complejos y revelan conexiones profundas entre geometría, física y matemáticas.
 > 
 > **Analogía práctica:** Imagina que necesitas calcular el trabajo realizado al mover un objeto por diferentes caminos:
 > 
@@ -49,7 +49,7 @@ graph TB
 
 ### ➕ Propiedad 1: Linealidad
 
-> [!success]- 📊 Combinación Lineal de Funciones
+> [!success] 📊 Combinación Lineal de Funciones
 > 
 > **Enunciado:**
 > 
@@ -120,7 +120,7 @@ graph TB
 
 ### ➗ Propiedad 2: Aditividad Respecto al Camino
 
-> [!note]- 🔗 Descomposición de Curvas
+> [!note] 🔗 Descomposición de Curvas
 > 
 > **Enunciado:**
 > 
@@ -215,7 +215,7 @@ graph TB
 
 ### 🔄 Propiedad 3: Reversión de Orientación
 
-> [!warning]- ↩️ Cambio de Dirección
+> [!warning] ↩️ Cambio de Dirección
 > 
 > **Enunciado:**
 > 
@@ -307,7 +307,7 @@ graph TB
 
 ### 📏 Propiedad 4: Independencia de Parametrización
 
-> [!tip]- 🔀 Libertad de Parametrización
+> [!tip] 🔀 Libertad de Parametrización
 > 
 > **Enunciado:**
 > 
@@ -386,7 +386,7 @@ graph TB
 
 ### 🎯 Campos Conservativos
 
-> [!success]- ⚡ Independencia del Camino
+> [!success] ⚡ Independencia del Camino
 > 
 > **Definición:**
 > 
@@ -481,7 +481,7 @@ graph TB
 
 ### 🌊 Circulación y Flujo
 
-> [!example]- 🔄 Conceptos Vectoriales Importantes
+> [!example] 🔄 Conceptos Vectoriales Importantes
 > 
 > **Circulación:**
 > 
@@ -559,7 +559,7 @@ graph TB
 
 ## 📊 Tabla Resumen de Propiedades
 
-> [!note]- 📋 Referencia Rápida
+> [!note] 📋 Referencia Rápida
 > 
 > ### Propiedades Algebraicas
 > 
@@ -588,7 +588,7 @@ graph TB
 
 ## 🎨 Ejemplos Integradores
 
-> [!example]- 💪 Problemas Compuestos
+> [!example] 💪 Problemas Compuestos
 > 
 > **Ejemplo 1: Usando múltiples propiedades**
 > ```
@@ -650,7 +650,7 @@ graph TB
 
 ## 🎯 Introducción
 
-> [!info]- 💡 Conectando Matemáticas con la Realidad Las integrales de línea no son solo objetos matemáticos abstractos: tienen **significados geométricos y físicos profundos** que nos ayudan a entender fenómenos del mundo real.
+> [!info] 💡 Conectando Matemáticas con la Realidad Las integrales de línea no son solo objetos matemáticos abstractos: tienen **significados geométricos y físicos profundos** que nos ayudan a entender fenómenos del mundo real.
 > 
 > **¿Por qué son importantes estas interpretaciones?**
 > 
@@ -686,7 +686,7 @@ graph TB
 
 ### 📏 Longitud de Curvas
 
-> [!success]- 📊 Cálculo de Longitud de Arco
+> [!success] 📊 Cálculo de Longitud de Arco
 > 
 > **Fórmula fundamental:**
 > 
@@ -783,7 +783,7 @@ graph TB
 
 ### 📦 Área de Superficies
 
-> [!note]- 🎨 Área de Superficie de Revolución
+> [!note] 🎨 Área de Superficie de Revolución
 > 
 > **Concepto:** Cuando una curva gira alrededor de un eje, genera una superficie. Las integrales de línea permiten calcular su área.
 > 
@@ -864,7 +864,7 @@ graph TB
 
 ### 🌊 Área Bajo una Curva en el Espacio
 
-> [!tip]- 📈 Área de Cortinas
+> [!tip] 📈 Área de Cortinas
 > 
 > **Concepto:** El área de la "cortina" que cuelga de una curva $C$ en el plano $xy$ hasta el plano $z = 0$.
 > 
@@ -914,7 +914,7 @@ graph TB
 
 ### 💼 Trabajo Realizado por una Fuerza
 
-> [!success]- ⚡ Trabajo a lo Largo de un Camino
+> [!success] ⚡ Trabajo a lo Largo de un Camino
 > 
 > **Concepto fundamental:**
 > 
@@ -1017,7 +1017,7 @@ graph TB
 
 ### 🌊 Flujo a Través de una Curva
 
-> [!example]- 💨 Flujo de un Campo Vectorial
+> [!example] 💨 Flujo de un Campo Vectorial
 > 
 > **Concepto:**
 > 
@@ -1107,7 +1107,7 @@ graph TB
 
 ### 🔄 Circulación
 
-> [!warning]- 🌀 Tendencia a Circular
+> [!warning] 🌀 Tendencia a Circular
 > 
 > **Concepto:**
 > 
@@ -1175,7 +1175,7 @@ graph TB
 
 ### ⚖️ Masa y Centro de Masa
 
-> [!tip]- 🎯 Propiedades de Alambres
+> [!tip] 🎯 Propiedades de Alambres
 > 
 > **Masa de un alambre:**
 > 
@@ -1249,7 +1249,7 @@ graph TB
 
 ## 📊 Tabla Resumen de Interpretaciones
 
-> [!note]- 📋 Referencia Rápida
+> [!note] 📋 Referencia Rápida
 > 
 > ### Interpretaciones Geométricas
 > 
@@ -1274,7 +1274,7 @@ graph TB
 
 ## 🎨 Ejemplos Integradores
 
-> [!example]- 💪 Problemas Compuestos
+> [!example] 💪 Problemas Compuestos
 > 
 > **Ejemplo 1: Trabajo con análisis energético**
 > 
@@ -1392,7 +1392,7 @@ graph TB
 
 ## 🔗 Conexión con Teoremas Importantes
 
-> [!quote]- 🌟 Visión de Conjunto
+> [!quote] 🌟 Visión de Conjunto
 > 
 > **Teorema Fundamental para Integrales de Línea:**
 > 

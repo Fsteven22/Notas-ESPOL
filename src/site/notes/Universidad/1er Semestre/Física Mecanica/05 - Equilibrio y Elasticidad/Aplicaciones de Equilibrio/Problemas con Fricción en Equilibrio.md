@@ -7,11 +7,11 @@
 
 > [!quote] "La fricción es la fuerza que mantiene al mundo en movimiento controlado; sin ella, todo resbalaría hacia el caos." 🔒
 
-> [!info]- Los problemas con fricción en equilibrio constituyen una de las aplicaciones más importantes y prácticas de la estática. La fricción proporciona las fuerzas necesarias para mantener objetos en reposo sobre superficies inclinadas, permite el equilibrio de escaleras contra paredes, y determina las condiciones límite antes del deslizamiento. Estos problemas requieren un análisis cuidadoso de las fuerzas de fricción estática y las condiciones de impendencia de movimiento.
+> [!info] Los problemas con fricción en equilibrio constituyen una de las aplicaciones más importantes y prácticas de la estática. La fricción proporciona las fuerzas necesarias para mantener objetos en reposo sobre superficies inclinadas, permite el equilibrio de escaleras contra paredes, y determina las condiciones límite antes del deslizamiento. Estos problemas requieren un análisis cuidadoso de las fuerzas de fricción estática y las condiciones de impendencia de movimiento.
 
 ## 🔒 Fundamentos de la Fricción
 
-> [!info]- **Fricción Estática** ⚖️
+> [!info] **Fricción Estática** ⚖️
 > 
 > ### Características Fundamentales:
 > 
@@ -35,7 +35,7 @@
 > - **f_s = μ_s N**: Punto crítico (impendencia de deslizamiento)
 > - **f_s > μ_s N**: Imposible (ocurre deslizamiento)
 
-> [!tip]- **Fricción Cinética** 🏃
+> [!tip] **Fricción Cinética** 🏃
 > 
 > ### Características:
 > 
@@ -58,7 +58,7 @@
 >     style E fill:#ffebee
 > ```
 
-> [!warning]- **Coeficientes de Fricción** 📊
+> [!warning] **Coeficientes de Fricción** 📊
 > 
 > ### Coeficiente de Fricción Estática (μ_s):
 > 
@@ -109,7 +109,7 @@
 >     style D fill:#e8f5e8
 > ```
 
-> [!note]- **Análisis de Impendencia** ⚠️
+> [!note] **Análisis de Impendencia** ⚠️
 > 
 > ### Condición de Impendencia:
 > 
@@ -138,7 +138,7 @@
 
 ## 🎯 Estrategias de Resolución
 
-> [!tip]- **Método FINCA (Fricción-Incógnita-Normal-Crítica-Análisis)** 🧠
+> [!tip] **Método FINCA (Fricción-Incógnita-Normal-Crítica-Análisis)** 🧠
 > 
 > ### **F**ricción - Identifica fuerzas de fricción
 > 
@@ -170,7 +170,7 @@
 > 14. Verifica coherencia física de resultados
 > 15. Interpreta el significado físico de la solución
 
-> [!tip]- **Técnicas Especializadas** 🔧
+> [!tip] **Técnicas Especializadas** 🔧
 > 
 > ### **Diagrama de Cuerpo Libre Mejorado**:
 > 
@@ -192,7 +192,7 @@
 
 ## 📚 Problemas Tipo
 
-> [!example]- **Problema 1: Caja en Superficie Horizontal** 📦
+> [!example] **Problema 1: Caja en Superficie Horizontal** 📦
 > 
 > ### Enunciado:
 > 
@@ -219,7 +219,7 @@
 > 
 > Aplicando segunda ley de Newton: ΣF = ma: F - f_k = ma 250 - 147 = 50a **a = 2.06 m/s²**
 
-> [!example]- **Problema 2: Bloque en Plano Inclinado** ⛰️
+> [!example] **Problema 2: Bloque en Plano Inclinado** ⛰️
 > 
 > ### Enunciado:
 > 
@@ -247,7 +247,7 @@
 > 
 > **Interpretación**: Se necesitaría μ_s = tan(30°) = 0.577 para equilibrio
 
-> [!example]- **Problema 3: Escalera Contra la Pared** 🪜
+> [!example] **Problema 3: Escalera Contra la Pared** 🪜
 > 
 > ### Enunciado:
 > 
@@ -276,7 +276,7 @@
 > 
 > Como f < f_max (382 < 588), **la escalera permanece en equilibrio** ✓
 
-> [!example]- **Problema 4: Dos Bloques Apilados** 📚
+> [!example] **Problema 4: Dos Bloques Apilados** 📚
 > 
 > ### Enunciado:
 > 
@@ -321,7 +321,7 @@
 > 
 > **Conclusión**: Ambos bloques se mueven juntos hasta F = 73.5 N
 
-> [!example]- **Problema 5: Cuña con Fricción** 🔺
+> [!example] **Problema 5: Cuña con Fricción** 🔺
 > 
 > ### Enunciado:
 > 
@@ -367,7 +367,7 @@
 
 ## 🧮 Análisis de Casos Especiales
 
-> [!tip]- **Ángulo Crítico de Reposo** 📐
+> [!tip] **Ángulo Crítico de Reposo** 📐
 > 
 > ### Para Plano Inclinado:
 > 
@@ -385,7 +385,7 @@
 > - Ángulo de reposo de materiales granulares
 > - Diseño de rampas y accesos
 
-> [!tip]- **Fricción en Superficies Curvas** 🌙
+> [!tip] **Fricción en Superficies Curvas** 🌙
 > 
 > ### Análisis General:
 > 
@@ -399,7 +399,7 @@
 > - Fricción en cada superficie de contacto
 > - Equilibrio tridimensional
 
-> [!tip]- **Sistemas con Fricción Variable** 📊
+> [!tip] **Sistemas con Fricción Variable** 📊
 > 
 > ### Fricción Dependiente de Condiciones:
 > 
@@ -416,7 +416,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- **Confusiones Frecuentes** ⚠️
+> [!warning] **Confusiones Frecuentes** ⚠️
 > 
 > 1. **Confundir fricción estática con cinética** en el análisis
 > 2. **Asumir que fricción = μN** siempre (solo es el máximo)
@@ -431,7 +431,7 @@
 
 ## 🎯 Aplicaciones Prácticas
 
-> [!info]- **Ejemplos del Mundo Real** 🌍
+> [!info] **Ejemplos del Mundo Real** 🌍
 > 
 > ### Ingeniería Civil:
 > 
@@ -467,7 +467,7 @@
 
 ## 📖 Referencias y Notas Relacionadas
 
-> [!quote]- **Notas Relacionadas**
+> [!quote] **Notas Relacionadas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/05 - Equilibrio y Elasticidad/Equilibrio\|Equilibrio]] - Fundamentos de equilibrio estático
 > - [[Universidad/1er Semestre/Física Mecanica/02 - Dinámica/Dinámica de Traslación/Fuerzas y Diagramas de Cuerpo Libre\|Fuerzas y Diagramas de Cuerpo Libre]] - Técnicas de análisis
@@ -478,7 +478,7 @@
 
 ## 🔧 Formulario de Consulta Rápida
 
-> [!note]- **Ecuaciones Esenciales**
+> [!note] **Ecuaciones Esenciales**
 > 
 > ### Leyes de Fricción:
 > 

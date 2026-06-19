@@ -7,7 +7,7 @@
 
 ## 🎯 Fundamentos de los Sistemas de Coordenadas
 
-> [!info]- 💡 Introducción a los Sistemas de Coordenadas Curvilíneos Los **sistemas de coordenadas cilíndricas y esféricas** son extensiones naturales del sistema cartesiano que aprovechan las simetrías geométricas de ciertos problemas. Mientras que las coordenadas cartesianas (x, y, z) son ideales para geometría rectangular, las coordenadas curvilíneas simplifican enormemente problemas con simetría circular o esférica.
+> [!info] 💡 Introducción a los Sistemas de Coordenadas Curvilíneos Los **sistemas de coordenadas cilíndricas y esféricas** son extensiones naturales del sistema cartesiano que aprovechan las simetrías geométricas de ciertos problemas. Mientras que las coordenadas cartesianas (x, y, z) son ideales para geometría rectangular, las coordenadas curvilíneas simplifican enormemente problemas con simetría circular o esférica.
 > 
 > **Analogías útiles:**
 > 
@@ -32,7 +32,7 @@
 
 ### 📊 Comparación de Sistemas
 
-> [!note]- 🌟 Tres Sistemas Principales
+> [!note] 🌟 Tres Sistemas Principales
 > 
 > |Sistema|Coordenadas|Mejor para|Simetría|
 > |---|---|---|---|
@@ -61,7 +61,7 @@
 
 ### 📐 Definición y Conversión
 
-> [!example]- 🟢 Sistema de Coordenadas Cilíndricas (r, θ, z)
+> [!example] 🟢 Sistema de Coordenadas Cilíndricas (r, θ, z)
 > 
 > **Definición:** El sistema de coordenadas cilíndricas extiende las coordenadas polares 2D al espacio 3D añadiendo una coordenada de altura z.
 > 
@@ -116,7 +116,7 @@
 
 ### 🎨 Superficies de Coordenadas Constantes
 
-> [!tip]- 📏 Familias de Superficies
+> [!tip] 📏 Familias de Superficies
 > 
 > **1. r = constante (r = r₀)**
 > 
@@ -163,7 +163,7 @@
 
 ### ✅ Ejemplos de Conversión
 
-> [!example]- 💪 Casos Prácticos
+> [!example] 💪 Casos Prácticos
 > 
 > **Ejemplo 1 - Conversión básica (Cartesianas → Cilíndricas):**
 > 
@@ -241,7 +241,7 @@
 
 ### 🧮 Vectores Unitarios y Diferenciales
 
-> [!note]- 📐 Base Vectorial Cilíndrica
+> [!note] 📐 Base Vectorial Cilíndrica
 > 
 > **Vectores unitarios:**
 > 
@@ -282,7 +282,7 @@
 
 ### 📊 Integrales en Coordenadas Cilíndricas
 
-> [!success]- 🟢 Integración Triple
+> [!success] 🟢 Integración Triple
 > 
 > **Forma general:**
 > 
@@ -336,7 +336,7 @@
 
 ### 🎯 Aplicaciones Físicas en Cilíndricas
 
-> [!example]- ⚡ Casos de Uso
+> [!example] ⚡ Casos de Uso
 > 
 > **1. Campo eléctrico de cable infinito:**
 > 
@@ -383,7 +383,7 @@
 
 ### 📐 Definición y Conversión
 
-> [!example]- 🔴 Sistema de Coordenadas Esféricas (ρ, φ, θ)
+> [!example] 🔴 Sistema de Coordenadas Esféricas (ρ, φ, θ)
 > 
 > **Definición:** El sistema de coordenadas esféricas describe la posición de un punto mediante su distancia al origen y dos ángulos.
 > 
@@ -422,7 +422,7 @@
 
 ### 🎨 Superficies de Coordenadas Constantes
 
-> [!tip]- 📏 Familias de Superficies Esféricas
+> [!tip] 📏 Familias de Superficies Esféricas
 > 
 > **1. ρ = constante (ρ = ρ₀)**
 > 
@@ -464,7 +464,7 @@
 
 ### ✅ Ejemplos de Conversión
 
-> [!example]- 💪 Casos Prácticos Esféricos
+> [!example] 💪 Casos Prácticos Esféricos
 > 
 > **Ejemplo 1 - Conversión básica (Cartesianas → Esféricas):**
 > 
@@ -549,7 +549,7 @@
 
 ### 🧮 Vectores Unitarios y Diferenciales
 
-> [!note]- 📐 Base Vectorial Esférica
+> [!note] 📐 Base Vectorial Esférica
 > 
 > **Vectores unitarios:**
 > 
@@ -594,7 +594,7 @@
 
 ### 📊 Integrales en Coordenadas Esféricas
 
-> [!success]- 🟢 Integración Triple en Esféricas
+> [!success] 🟢 Integración Triple en Esféricas
 > 
 > **Forma general:**
 > 
@@ -664,7 +664,7 @@
 
 ### 🎯 Aplicaciones Físicas en Esféricas
 
-> [!example]- ⚡ Casos de Uso Físicos
+> [!example] ⚡ Casos de Uso Físicos
 > 
 > **1. Campo gravitacional de masa puntual:**
 > 
@@ -720,7 +720,7 @@
 
 ## 🔄 Tabla Comparativa de Sistemas
 
-> [!note]- 📋 Resumen Completo de Conversiones
+> [!note] 📋 Resumen Completo de Conversiones
 > 
 > ### Conversiones Cartesianas ↔ Cilíndricas ↔ Esféricas
 > 
@@ -750,7 +750,7 @@
 
 ### 🐍 Código Python Completo
 
-> [!success]- 🔧 Biblioteca de Conversiones
+> [!success] 🔧 Biblioteca de Conversiones
 > 
 > ```python
 > import numpy as np
@@ -1088,7 +1088,7 @@
 
 ### 🎮 Visualización Interactiva Avanzada
 
-> [!example]- 🌐 Sistema de Coordenadas Interactivo
+> [!example] 🌐 Sistema de Coordenadas Interactivo
 > 
 > ```python
 > import plotly.graph_objects as go
@@ -1273,7 +1273,7 @@
 
 ## 🧪 Ejercicios Progresivos
 
-> [!example]- 💪 Práctica Graduada
+> [!example] 💪 Práctica Graduada
 > 
 > **Nivel 1 - Conversiones Básicas:** 🟢
 > 
@@ -1372,7 +1372,7 @@
 
 ## 🔬 Operadores Diferenciales
 
-> [!note]- 📐 Gradiente, Divergencia, Rotacional y Laplaciano
+> [!note] 📐 Gradiente, Divergencia, Rotacional y Laplaciano
 > 
 > ### En Coordenadas Cilíndricas
 > 
@@ -1424,7 +1424,7 @@
 
 ### 🌌 Física y Electromagnetismo
 
-> [!example]- ⚡ Problemas Físicos Clásicos
+> [!example] ⚡ Problemas Físicos Clásicos
 > 
 > **1. Ecuación de Laplace en cilíndricas:**
 > 
@@ -1483,7 +1483,7 @@
 
 ### 🛰️ Mecánica Orbital
 
-> [!tip]- 🌍 Movimiento de Satélites
+> [!tip] 🌍 Movimiento de Satélites
 > 
 > **Ecuación de órbita en coordenadas esféricas:**
 > 
@@ -1519,7 +1519,7 @@
 
 ### 🌊 Mecánica de Fluidos
 
-> [!warning]- 💧 Flujo en Coordenadas Curvilíneas
+> [!warning] 💧 Flujo en Coordenadas Curvilíneas
 > 
 > **1. Flujo de Poiseuille (tubería cilíndrica):**
 > 
@@ -1557,7 +1557,7 @@
 
 ## 📚 Problemas Desafiantes
 
-> [!example]- 🏆 Desafíos Avanzados
+> [!example] 🏆 Desafíos Avanzados
 > 
 > **Desafío 1 - Transformación de integrales:**
 > 
@@ -1604,7 +1604,7 @@
 
 ## 🌐 Conexiones Conceptuales
 
-> [!quote]- 🔗 Enlaces con Otros Temas
+> [!quote] 🔗 Enlaces con Otros Temas
 > 
 > **Prerequisitos:**
 > - [[Coordenadas Polares 2D\|Coordenadas Polares 2D]] - Base para cilíndricas
@@ -1641,7 +1641,7 @@
 
 ## 💡 Consejos de Estudio
 
-> [!tip]- 🧠 Estrategias de Aprendizaje
+> [!tip] 🧠 Estrategias de Aprendizaje
 > 
 > **Para elegir el sistema correcto:**
 > 
@@ -1708,7 +1708,7 @@
 
 ## 📊 Tabla de Referencia Rápida
 
-> [!abstract]- 📋 Fórmulas Esenciales
+> [!abstract] 📋 Fórmulas Esenciales
 > 
 > ### Conversiones Directas
 > 
@@ -1753,7 +1753,7 @@
 
 ## 🎓 Aplicaciones en Ingeniería
 
-> [!example]- 🔧 Casos de Ingeniería Práctica
+> [!example] 🔧 Casos de Ingeniería Práctica
 > 
 > **1. Diseño de Antenas**
 > 
@@ -1999,7 +1999,7 @@
 
 ## 🌟 Sistemas de Coordenadas Generalizados
 
-> [!info]- 🔵 Extensión a Coordenadas Arbitrarias
+> [!info] 🔵 Extensión a Coordenadas Arbitrarias
 > 
 > **Coordenadas curvilíneas generales (u₁, u₂, u₃):**
 > 
@@ -2042,7 +2042,7 @@
 
 ## 🎬 Animaciones y Visualizaciones Dinámicas
 
-> [!tip]- 🎥 Crear Visualizaciones Interactivas
+> [!tip] 🎥 Crear Visualizaciones Interactivas
 > 
 > ```python
 > def animar_transformacion_coordenadas():
@@ -2152,7 +2152,7 @@
 
 ## 📝 Resumen Final
 
-> [!abstract]- 🎓 Puntos Clave para Recordar
+> [!abstract] 🎓 Puntos Clave para Recordar
 > 
 > ### Conceptos Fundamentales
 > 

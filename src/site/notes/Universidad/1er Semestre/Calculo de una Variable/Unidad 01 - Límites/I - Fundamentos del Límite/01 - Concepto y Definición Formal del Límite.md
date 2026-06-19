@@ -504,7 +504,7 @@ graph TD
 
 ## 🎯 Fundamentos de Límites Infinitos
 
-> [!info]- 💡 Introducción a las Definiciones Formales Las **definiciones formales** de límites para asíntotas extienden el concepto clásico de límite (definición épsilon-delta) a casos donde:
+> [!info] 💡 Introducción a las Definiciones Formales Las **definiciones formales** de límites para asíntotas extienden el concepto clásico de límite (definición épsilon-delta) a casos donde:
 > 
 > - **Variable tiende al infinito:** $x \to \pm\infty$ (asíntotas horizontales)
 > - **Función tiende al infinito:** $f(x) \to \pm\infty$ (asíntotas verticales)
@@ -518,7 +518,7 @@ graph TD
 
 ### 🔍 Recordatorio: Definición Épsilon-Delta Clásica
 
-> [!note]- 📚 Definición Base (Límites Finitos)
+> [!note] 📚 Definición Base (Límites Finitos)
 > 
 > **Para límites finitos:** $\lim_{x \to a} f(x) = L$
 > 
@@ -537,7 +537,7 @@ graph TD
 
 ### ➕ Límite Infinito Positivo
 
-> [!example]- 📈 Definición: $\lim_{x \to a} f(x) = +\infty$
+> [!example] 📈 Definición: $\lim_{x \to a} f(x) = +\infty$
 > 
 > **Definición formal:** Para todo $M > 0$, existe $\delta > 0$ tal que:
 > 
@@ -558,7 +558,7 @@ graph TD
 
 ### ➖ Límite Infinito Negativo
 
-> [!example]- 📉 Definición: $\lim_{x \to a} f(x) = -\infty$
+> [!example] 📉 Definición: $\lim_{x \to a} f(x) = -\infty$
 > 
 > **Definición formal:** Para todo $M > 0$, existe $\delta > 0$ tal que:
 > 
@@ -575,7 +575,7 @@ graph TD
 
 ### 🔄 Límites Laterales Infinitos
 
-> [!tip]- 🎯 Límites Unilaterales Infinitos
+> [!tip] 🎯 Límites Unilaterales Infinitos
 > 
 > **Por la derecha:** $\lim_{x \to a^+} f(x) = +\infty$
 > 
@@ -591,7 +591,7 @@ graph TD
 
 ### ➡️ Límite al Infinito Positivo
 
-> [!success]- 📊 Definición: $\lim_{x \to +\infty} f(x) = L$
+> [!success] 📊 Definición: $\lim_{x \to +\infty} f(x) = L$
 > 
 > **Definición formal:** Para todo $\varepsilon > 0$, existe $N > 0$ tal que:
 > 
@@ -612,7 +612,7 @@ graph TD
 
 ### ⬅️ Límite al Infinito Negativo
 
-> [!success]- 📊 Definición: $\lim_{x \to -\infty} f(x) = L$
+> [!success] 📊 Definición: $\lim_{x \to -\infty} f(x) = L$
 > 
 > **Definición formal:** Para todo $\varepsilon > 0$, existe $N > 0$ tal que:
 > 
@@ -627,7 +627,7 @@ graph TD
 
 ### ♾️ Límites Infinitos al Infinito
 
-> [!warning]- ⚡ Definiciones para Casos Infinito-Infinito
+> [!warning] ⚡ Definiciones para Casos Infinito-Infinito
 > 
 > **1. $\lim_{x \to +\infty} f(x) = +\infty$**
 > 
@@ -647,7 +647,7 @@ graph TD
 
 ## 📊 Tabla Resumen de Definiciones
 
-> [!note]- 📋 Compendio de Definiciones Formales
+> [!note] 📋 Compendio de Definiciones Formales
 > 
 > |Tipo de Límite|Notación|Definición Formal|Variables|
 > |---|---|---|---|
@@ -661,7 +661,7 @@ graph TD
 
 ## 🧠 Técnica de Estudio: Método "EMDN"
 
-> [!tip]- 🎓 Mnemotecnia "EMDN"
+> [!tip] 🎓 Mnemotecnia "EMDN"
 > 
 > **E** - **E**légir la definición correcta **M** - **M** o **N** según el tipo de límite **D** - **D**elta para límites en puntos finitos **N** - **N**úmero grande para límites al infinito
 > 
@@ -678,7 +678,7 @@ graph TD
 
 ### 📊 Ejemplo 1: Asíntota Vertical
 
-> [!example]- 📈 Demostrar: $\lim_{x \to 0^+} \frac{1}{x} = +\infty$
+> [!example] 📈 Demostrar: $\lim_{x \to 0^+} \frac{1}{x} = +\infty$
 > 
 > **Problema:** Usar la definición formal para demostrar que $\frac{1}{x}$ tiende a $+\infty$ cuando $x$ se acerca a $0$ por la derecha.
 > 
@@ -698,7 +698,7 @@ graph TD
 
 ### 📊 Ejemplo 2: Asíntota Horizontal
 
-> [!example]- 📉 Demostrar: $\lim_{x \to +\infty} \frac{2x + 1}{x + 3} = 2$
+> [!example] 📉 Demostrar: $\lim_{x \to +\infty} \frac{2x + 1}{x + 3} = 2$
 > 
 > **Problema:** Demostrar usando la definición formal que la función tiene asíntota horizontal en $y = 2$.
 > 
@@ -726,7 +726,7 @@ graph TD
 
 ### 📊 Ejemplo 3: Límite Infinito al Infinito
 
-> [!example]- 🚀 Demostrar: $\lim_{x \to +\infty} x^2 = +\infty$
+> [!example] 🚀 Demostrar: $\lim_{x \to +\infty} x^2 = +\infty$
 > 
 > **Problema:** Demostrar que $x^2$ crece sin límite cuando $x \to +\infty$.
 > 
@@ -788,7 +788,7 @@ graph TD
 
 ## ⚠️ Errores Comunes en Demostraciones
 
-> [!warning]- 🚫 Errores Frecuentes
+> [!warning] 🚫 Errores Frecuentes
 > 
 > **Error 1: Confundir M y N**
 > 
@@ -819,7 +819,7 @@ graph TD
 
 ### 🔧 Metodología General
 
-> [!tip]- 📋 Proceso Paso a Paso
+> [!tip] 📋 Proceso Paso a Paso
 > 
 > **Para Asíntotas Verticales ($x \to a$, $f(x) \to \pm\infty$):**
 > 
@@ -839,7 +839,7 @@ graph TD
 
 ### 🎪 Casos Especiales
 
-> [!note]- 🔄 Situaciones Particulares
+> [!note] 🔄 Situaciones Particulares
 > 
 > **Límites laterales infinitos:**
 > 
@@ -862,7 +862,7 @@ graph TD
 
 ## 📖 Ejercicios de Práctica Progresiva
 
-> [!example]- 💪 Secuencia de Entrenamiento
+> [!example] 💪 Secuencia de Entrenamiento
 > 
 > **Nivel 1 - Asíntotas Básicas:** 🟢
 > 
@@ -892,7 +892,7 @@ graph TD
 
 ### 📊 Identificación de Asíntotas
 
-> [!success]- 🎯 Metodología Práctica
+> [!success] 🎯 Metodología Práctica
 > 
 > **Para encontrar asíntotas usando definiciones formales:**
 > 
@@ -915,7 +915,7 @@ graph TD
 
 ## 📚 Conexiones con Otros Temas
 
-> [!quote]- 🔗 Enlaces a Otras Notas
+> [!quote] 🔗 Enlaces a Otras Notas
 > 
 > **Prerrequisitos:**
 > 
@@ -943,7 +943,7 @@ graph TD
 
 ## 💡 Notas Históricas y Conceptuales
 
-> [!info]- 🏛️ Contexto Matemático
+> [!info] 🏛️ Contexto Matemático
 > 
 > **Desarrollo histórico:**
 > 

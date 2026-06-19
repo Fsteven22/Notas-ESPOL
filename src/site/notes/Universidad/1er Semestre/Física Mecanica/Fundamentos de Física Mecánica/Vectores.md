@@ -11,7 +11,7 @@
 
 ## 📋 Conceptos Fundamentales
 
-> [!info]- 🎯 **Definición de Vector** Un vector es una cantidad que posee tanto magnitud (tamaño) como dirección en el espacio. Se representa gráficamente como una flecha que apunta en la dirección del vector, con longitud proporcional a su magnitud.
+> [!info] 🎯 **Definición de Vector** Un vector es una cantidad que posee tanto magnitud (tamaño) como dirección en el espacio. Se representa gráficamente como una flecha que apunta en la dirección del vector, con longitud proporcional a su magnitud.
 > 
 > **Características principales:**
 > 
@@ -25,7 +25,7 @@
 > - Vector: **v**, $\vec{v}$, o v̅
 > - Magnitud: |**v**|, ||**v**||, o v
 
-> [!info]- 📏 **Escalares vs Vectores**
+> [!info] 📏 **Escalares vs Vectores**
 > 
 > |Escalares|Vectores|
 > |---|---|
@@ -41,7 +41,7 @@
 
 ## 🔢 Representaciones de Vectores
 
-> [!tip]- 📐 **Representación Gráfica** Un vector se dibuja como una flecha donde:
+> [!tip] 📐 **Representación Gráfica** Un vector se dibuja como una flecha donde:
 > 
 > - La **longitud** representa la magnitud
 > - La **dirección** de la flecha indica la dirección
@@ -55,7 +55,7 @@
 > - **Polar:** (r, θ) en 2D
 > - **Esférico:** (r, θ, φ) en 3D
 
-> [!tip]- 🧮 **Representación por Componentes** En 2D: $$\vec{v} = v_x\hat{i} + v_y\hat{j}$$ En 3D: $$\vec{v} = v_x\hat{i} + v_y\hat{j} + v_z\hat{k}$$
+> [!tip] 🧮 **Representación por Componentes** En 2D: $$\vec{v} = v_x\hat{i} + v_y\hat{j}$$ En 3D: $$\vec{v} = v_x\hat{i} + v_y\hat{j} + v_z\hat{k}$$
 > 
 > **Vectores unitarios:**
 > 
@@ -69,7 +69,7 @@
 
 ## ➕ Operaciones con Vectores
 
-> [!warning]- 🔧 **Suma de Vectores**
+> [!warning] 🔧 **Suma de Vectores**
 > 
 > **Método gráfico - Regla del paralelogramo:**
 > 
@@ -90,11 +90,11 @@
 > - Conmutativa: $\vec{A} + \vec{B} = \vec{B} + \vec{A}$
 > - Asociativa: $(\vec{A} + \vec{B}) + \vec{C} = \vec{A} + (\vec{B} + \vec{C})$
 
-> [!warning]- ➖ **Resta de Vectores** La resta es equivalente a sumar el vector opuesto: $$\vec{A} - \vec{B} = \vec{A} + (-\vec{B})$$
+> [!warning] ➖ **Resta de Vectores** La resta es equivalente a sumar el vector opuesto: $$\vec{A} - \vec{B} = \vec{A} + (-\vec{B})$$
 > 
 > **Método analítico:** $$\vec{A} - \vec{B} = (A_x - B_x)\hat{i} + (A_y - B_y)\hat{j} + (A_z - B_z)\hat{k}$$
 
-> [!warning]- ✖️ **Multiplicación por Escalar** Multiplicar un vector por un escalar cambia solo su magnitud: $$k\vec{A} = kA_x\hat{i} + kA_y\hat{j} + kA_z\hat{k}$$
+> [!warning] ✖️ **Multiplicación por Escalar** Multiplicar un vector por un escalar cambia solo su magnitud: $$k\vec{A} = kA_x\hat{i} + kA_y\hat{j} + kA_z\hat{k}$$
 > 
 > **Efectos:**
 > 
@@ -105,7 +105,7 @@
 
 ## 📊 Productos de Vectores
 
-> [!info]- 🔴 **Producto Punto (Escalar)** El producto punto de dos vectores es un escalar: $$\vec{A} \cdot \vec{B} = |\vec{A}||\vec{B}|\cos\theta$$
+> [!info] 🔴 **Producto Punto (Escalar)** El producto punto de dos vectores es un escalar: $$\vec{A} \cdot \vec{B} = |\vec{A}||\vec{B}|\cos\theta$$
 > 
 > **Método por componentes:** $$\vec{A} \cdot \vec{B} = A_xB_x + A_yB_y + A_zB_z$$
 > 
@@ -120,7 +120,7 @@
 > - Si $\vec{A} \cdot \vec{B} = 0$, entonces $\vec{A} \perp \vec{B}$
 > - $\vec{A} \cdot \vec{A} = |\vec{A}|^2$
 
-> [!info]- ✖️ **Producto Cruz (Vectorial)** El producto cruz de dos vectores es otro vector perpendicular a ambos: $$\vec{A} \times \vec{B} = |\vec{A}||\vec{B}|\sin\theta,\hat{n}$$
+> [!info] ✖️ **Producto Cruz (Vectorial)** El producto cruz de dos vectores es otro vector perpendicular a ambos: $$\vec{A} \times \vec{B} = |\vec{A}||\vec{B}|\sin\theta,\hat{n}$$
 > 
 > **Método por componentes (determinante):** $$\vec{A} \times \vec{B} = \begin{vmatrix} \hat{i} & \hat{j} & \hat{k} \ A_x & A_y & A_z \ B_x & B_y & B_z \end{vmatrix}$$
 > 
@@ -139,7 +139,7 @@
 
 ## 🧠 Técnica de Estudio: Método VAMOS
 
-> [!tip]- 🎓 **Estrategia de Aprendizaje: Mnemotecnia VAMOS** Para problemas con vectores usa el método **VAMOS**:
+> [!tip] 🎓 **Estrategia de Aprendizaje: Mnemotecnia VAMOS** Para problemas con vectores usa el método **VAMOS**:
 > 
 > **V - Visualizar** el problema gráficamente **A - Analizar** qué tipo de operación se necesita **M - Método** elegir entre gráfico o analítico **O - Operación** ejecutar los cálculos **S - Sentido** verificar que el resultado tenga sentido físico
 > 
@@ -152,7 +152,7 @@
 
 ## 📋 Aplicaciones en Física
 
-> [!example]- 🎯 **Cinemática Vectorial**
+> [!example] 🎯 **Cinemática Vectorial**
 > 
 > ```mermaid
 > graph TD
@@ -171,7 +171,7 @@
 >    style H fill:#f3e5f5
 > ```
 
-> [!example]- ⚖️ **Dinámica Vectorial** **Segunda Ley de Newton:** $$\sum \vec{F} = m\vec{a}$$
+> [!example] ⚖️ **Dinámica Vectorial** **Segunda Ley de Newton:** $$\sum \vec{F} = m\vec{a}$$
 > 
 > **En componentes:**
 > 
@@ -183,13 +183,13 @@
 
 ## 🧪 Problemas Resueltos
 
-> [!example]- 💡 **Problema 1: Suma de Vectores** Dados $\vec{A} = 3\hat{i} + 4\hat{j}$ y $\vec{B} = -2\hat{i} + 5\hat{j}$, encontrar $\vec{A} + \vec{B}$ y su magnitud.
+> [!example] 💡 **Problema 1: Suma de Vectores** Dados $\vec{A} = 3\hat{i} + 4\hat{j}$ y $\vec{B} = -2\hat{i} + 5\hat{j}$, encontrar $\vec{A} + \vec{B}$ y su magnitud.
 > 
 > **Solución:** $$\vec{A} + \vec{B} = (3-2)\hat{i} + (4+5)\hat{j} = \hat{i} + 9\hat{j}$$
 > 
 > **Magnitud:** $$|\vec{A} + \vec{B}| = \sqrt{1^2 + 9^2} = \sqrt{82} = 9.06$$
 
-> [!example]- 💡 **Problema 2: Producto Punto** Si $\vec{A} = 2\hat{i} + 3\hat{j}$ y $\vec{B} = 4\hat{i} - \hat{j}$, encontrar el ángulo entre ellos.
+> [!example] 💡 **Problema 2: Producto Punto** Si $\vec{A} = 2\hat{i} + 3\hat{j}$ y $\vec{B} = 4\hat{i} - \hat{j}$, encontrar el ángulo entre ellos.
 > 
 > **Solución:** **Producto punto:** $$\vec{A} \cdot \vec{B} = (2)(4) + (3)(-1) = 8 - 3 = 5$$
 > 
@@ -197,7 +197,7 @@
 > 
 > **Ángulo:** $$\cos\theta = \frac{5}{\sqrt{13}\sqrt{17}} = \frac{5}{\sqrt{221}}$$ $$\theta = \arccos\left(\frac{5}{\sqrt{221}}\right) = 69.1°$$
 
-> [!example]- 💡 **Problema 3: Producto Cruz** Para $\vec{A} = 2\hat{i} + 3\hat{j} + \hat{k}$ y $\vec{B} = \hat{i} - 2\hat{j} + 3\hat{k}$, encontrar $\vec{A} \times \vec{B}$.
+> [!example] 💡 **Problema 3: Producto Cruz** Para $\vec{A} = 2\hat{i} + 3\hat{j} + \hat{k}$ y $\vec{B} = \hat{i} - 2\hat{j} + 3\hat{k}$, encontrar $\vec{A} \times \vec{B}$.
 > 
 > **Solución:** $$\vec{A} \times \vec{B} = \begin{vmatrix} \hat{i} & \hat{j} & \hat{k} \ 2 & 3 & 1 \ 1 & -2 & 3 \end{vmatrix}$$
 > 
@@ -209,7 +209,7 @@
 
 ## 🎯 Sistemas de Coordenadas
 
-> [!info]- 📐 **Coordenadas Cartesianas vs Polares**
+> [!info] 📐 **Coordenadas Cartesianas vs Polares**
 > 
 > **Conversiones 2D (Cartesiano ↔ Polar):**
 > 
@@ -229,7 +229,7 @@
 
 ## 🔍 Referencias y Conexiones
 
-> [!quote]- 📚 **Referencias a otras notas**
+> [!quote] 📚 **Referencias a otras notas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/02 - Dinámica/Dinámica de Traslación/Fuerzas y Diagramas de Cuerpo Libre\|Fuerzas y Diagramas de Cuerpo Libre]] - Aplicación directa de vectores
 > - [[Universidad/1er Semestre/Física Mecanica/01 - Cinemática/Cinemática Traslacional\|Cinemática Traslacional]] - Vectores posición, velocidad, aceleración
@@ -239,7 +239,7 @@
 
 ## 📖 Notas Recomendadas para Complementar
 
-> [!info]- 🎯 **Prerrequisitos y Temas Relacionados**
+> [!info] 🎯 **Prerrequisitos y Temas Relacionados**
 > 
 > **Prerrequisitos esenciales:**
 > 
@@ -257,7 +257,7 @@
 
 ## 🔧 Herramientas de Verificación
 
-> [!tip]- ✅ **Cómo Verificar Operaciones Vectoriales**
+> [!tip] ✅ **Cómo Verificar Operaciones Vectoriales**
 > 
 > **Verificación de suma/resta:**
 > 

@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción a la Clasificación por Secciones
 
-> [!info]- 💡 Cómo las Secciones Determinan el Tipo de Superficie La **clasificación de superficies por secciones** es un método sistemático donde **el patrón de las curvas obtenidas al cortar la superficie determina inequívocamente su tipo**.
+> [!info] 💡 Cómo las Secciones Determinan el Tipo de Superficie La **clasificación de superficies por secciones** es un método sistemático donde **el patrón de las curvas obtenidas al cortar la superficie determina inequívocamente su tipo**.
 > 
 > **Principio fundamental:**
 > 
@@ -44,7 +44,7 @@
 
 ### 🔍 Patrones de Identificación
 
-> [!warning]- 🎯 Tabla de Decisión para Clasificar Superficies
+> [!warning] 🎯 Tabla de Decisión para Clasificar Superficies
 > 
 > **Criterio 1: Secciones horizontales (z = k)**
 > 
@@ -78,7 +78,7 @@
 
 ### 🎯 Algoritmo de Clasificación
 
-> [!success]- 📝 Proceso Paso a Paso
+> [!success] 📝 Proceso Paso a Paso
 > 
 > **PASO 1: Analizar secciones z = k**
 > 
@@ -141,7 +141,7 @@
 
 ### 🔵 Elipsoide: El Patrón de "Encogimiento"
 
-> [!note]- 🥚 Patrón: Elipses que decrecen hasta un punto
+> [!note] 🥚 Patrón: Elipses que decrecen hasta un punto
 > 
 > **Ecuación:** x²/a² + y²/b² + z²/c² = 1
 > 
@@ -186,7 +186,7 @@
 
 ### 🎪 Paraboloide Elíptico: El Patrón de "Expansión desde Punto"
 
-> [!success]- 🍶 Patrón: Elipses crecientes desde un punto
+> [!success] 🍶 Patrón: Elipses crecientes desde un punto
 > 
 > **Ecuación:** z = x²/a² + y²/b²
 > 
@@ -232,7 +232,7 @@
 
 ### 🦋 Paraboloide Hiperbólico: El Patrón de "Rotación"
 
-> [!warning]- 🎢 Patrón: Hipérbolas que rotan, rectas en el medio
+> [!warning] 🎢 Patrón: Hipérbolas que rotan, rectas en el medio
 > 
 > **Ecuación:** z = x²/a² - y²/b²
 > 
@@ -283,7 +283,7 @@
 
 ### 🎪 Hiperboloide de Una Hoja: El Patrón de "Cintura"
 
-> [!info]- 🍾 Patrón: Elipses con mínimo en el centro
+> [!info] 🍾 Patrón: Elipses con mínimo en el centro
 > 
 > **Ecuación:** x²/a² + y²/b² - z²/c² = 1
 > 
@@ -330,7 +330,7 @@
 
 ### 🎪 Hiperboloide de Dos Hojas: El Patrón de "Gap"
 
-> [!warning]- 🎈 Patrón: Gap en el medio, elipses en los extremos
+> [!warning] 🎈 Patrón: Gap en el medio, elipses en los extremos
 > 
 > **Ecuación:** x²/a² - y²/b² - z²/c² = 1
 > 
@@ -374,7 +374,7 @@
 
 ### 🎪 Cono Elíptico: El Patrón de "Crecimiento Lineal"
 
-> [!tip]- 🍦 Patrón: Elipses con crecimiento lineal, vértice en origen
+> [!tip] 🍦 Patrón: Elipses con crecimiento lineal, vértice en origen
 > 
 > **Ecuación:** x²/a² + y²/b² = z²/c²
 > 
@@ -430,7 +430,7 @@
 
 ## 📋 Tabla Maestra de Clasificación
 
-> [!example]- 🎯 Guía Rápida de Identificación
+> [!example] 🎯 Guía Rápida de Identificación
 > 
 > |Superficie|Secciones z=k|Crecimiento|Secciones verticales|Dominio z|Característica única|
 > |---|---|---|---|---|---|
@@ -443,7 +443,7 @@
 
 ## 🎯 Ejemplos de Clasificación Completa
 
-> [!example]- 📝 Ejercicios Resueltos Paso a Paso
+> [!example] 📝 Ejercicios Resueltos Paso a Paso
 > 
 > ### **Ejemplo 1: Identificar x² + 4y² + 9z² = 36**
 > 
@@ -803,7 +803,7 @@ graph TD
 
 ## 💡 Consejos de Clasificación
 
-> [!tip]- 🎯 Trucos para Identificar Rápidamente
+> [!tip] 🎯 Trucos para Identificar Rápidamente
 > 
 > **Truco 1: Mira primero z = 0**
 > 
@@ -865,7 +865,7 @@ graph TD
 
 ## 🔗 Conexiones con el Sistema de Notas
 
-> [!quote]- 🌟 Enlaces Conceptuales
+> [!quote] 🌟 Enlaces Conceptuales
 > 
 > **Prerequisites (Prerrequisitos):**
 > 

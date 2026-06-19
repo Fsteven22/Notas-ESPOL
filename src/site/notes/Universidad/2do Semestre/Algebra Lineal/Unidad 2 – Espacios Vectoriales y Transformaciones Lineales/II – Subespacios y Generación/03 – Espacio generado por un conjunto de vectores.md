@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Por qué es importante el Espacio Generado?
+> [!info] 💡 ¿Por qué es importante el Espacio Generado?
 > 
 > Cuando tenemos un conjunto de vectores, surge una pregunta natural: **¿qué tan "grande" es el espacio que estos vectores pueden crear mediante combinaciones lineales?**
 > 
@@ -44,7 +44,7 @@
 
 ### 🔑 Definición Formal
 
-> [!example]- 🟢 Definición: Espacio Generado (Span)
+> [!example] 🟢 Definición: Espacio Generado (Span)
 > 
 > **Definición:** Sea $V$ un espacio vectorial y sea $S = {\vec{v}_1, \vec{v}_2, \ldots, \vec{v}_n}$ un conjunto de vectores en $V$. El **espacio generado** por $S$, denotado $\text{span}(S)$ o $\langle S \rangle$, es el conjunto de todas las **combinaciones lineales** de los vectores en $S$:
 > 
@@ -83,7 +83,7 @@
 
 ### 🎯 Casos Especiales
 
-> [!note]- 📋 Casos Importantes
+> [!note] 📋 Casos Importantes
 > 
 > ### 1. Conjunto Vacío
 > 
@@ -133,7 +133,7 @@
 
 ### Visualización en $\mathbb{R}^2$
 
-> [!note]- 📊 En el Plano
+> [!note] 📊 En el Plano
 > 
 > ### Un Vector en $\mathbb{R}^2$
 > 
@@ -216,7 +216,7 @@
 
 ### Visualización en $\mathbb{R}^3$
 
-> [!note]- 📊 En el Espacio
+> [!note] 📊 En el Espacio
 > 
 > ### Un Vector en $\mathbb{R}^3$
 > 
@@ -297,7 +297,7 @@
 
 ## 🧮 Propiedades del Espacio Generado
 
-> [!note]- ⭐ Propiedades Fundamentales
+> [!note] ⭐ Propiedades Fundamentales
 > 
 > ### Propiedad 1: Es un Subespacio
 > 
@@ -370,7 +370,7 @@
 
 ### Ejemplo 1: Un Vector en $\mathbb{R}^2$
 
-> [!example]- 📝 Ejemplo 1: Span de Un Vector
+> [!example] 📝 Ejemplo 1: Span de Un Vector
 > 
 > **Conjunto:** $$S = \left\{ \begin{bmatrix} 2 \\ 3 \end{bmatrix} \right\}$$
 > 
@@ -399,7 +399,7 @@
 
 ### Ejemplo 2: Dos Vectores en $\mathbb{R}^3$
 
-> [!example]- 📝 Ejemplo 2: Span de Dos Vectores
+> [!example] 📝 Ejemplo 2: Span de Dos Vectores
 > 
 > **Conjunto:** $$S = \left\{ \begin{bmatrix} 1 \\ 0 \\ 1 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 1 \end{bmatrix} \right\}$$
 > 
@@ -439,7 +439,7 @@
 
 ### Ejemplo 3: Vectores Paralelos
 
-> [!example]- 📝 Ejemplo 3: Vectores Linealmente Dependientes
+> [!example] 📝 Ejemplo 3: Vectores Linealmente Dependientes
 > 
 > **Conjunto:** $$S = \left\{ \begin{bmatrix} 1 \\ 2 \\ 3 \end{bmatrix}, \begin{bmatrix} 2 \\ 4 \\ 6 \end{bmatrix}, \begin{bmatrix} -1 \\ -2 \\ -3 \end{bmatrix} \right\}$$
 > 
@@ -471,7 +471,7 @@
 
 ### Ejemplo 4: Vectores Canónicos
 
-> [!example]- 📝 Ejemplo 4: Base Canónica de $\mathbb{R}^3$
+> [!example] 📝 Ejemplo 4: Base Canónica de $\mathbb{R}^3$
 > 
 > **Conjunto:** $$S = \left\{ \vec{e}_1 = \begin{bmatrix} 1 \\ 0 \\ 0 \end{bmatrix}, \vec{e}_2 = \begin{bmatrix} 0 \\ 1 \\ 0 \end{bmatrix}, \vec{e}_3 = \begin{bmatrix} 0 \\ 0 \\ 1 \end{bmatrix} \right\}$$
 > 
@@ -501,7 +501,7 @@
 
 ## 🔍 Verificar si un Vector está en el Span
 
-> [!note]- 🎯 Método: Resolver Sistema de Ecuaciones
+> [!note] 🎯 Método: Resolver Sistema de Ecuaciones
 > 
 > **Pregunta:** ¿Está $\vec{w}$ en $\text{span}(\vec{v}_1, \vec{v}_2, \ldots, \vec{v}_n)$?
 > 
@@ -531,7 +531,7 @@
 
 ### Ejemplo 5: Verificar Pertenencia
 
-> [!example]- 📝 Ejemplo 5: ¿Está el vector en el span?
+> [!example] 📝 Ejemplo 5: ¿Está el vector en el span?
 > 
 > **Dado:** $$S = \left\{ 
 \begin{bmatrix} 1 & 2 & 1 \end{bmatrix}, 
@@ -587,7 +587,7 @@
 
 ### Ejemplo 6: Vector que SÍ está en el Span
 
-> [!example]- 📝 Ejemplo 6: Pertenencia Exitosa
+> [!example] 📝 Ejemplo 6: Pertenencia Exitosa
 > 
 > **Dado:** $$S = \left\{ \begin{bmatrix} 1 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 1 \\ 0 \\ 1 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 1 \end{bmatrix} \right\}, \quad \vec{w} = \begin{bmatrix} 2 \\ 3 \\ 4 \end{bmatrix}$$
 > 
@@ -639,7 +639,7 @@
 
 ## 🎓 Relación con Independencia Lineal
 
-> [!note]- 🔗 Conexión Importante
+> [!note] 🔗 Conexión Importante
 > 
 > ### Vectores Redundantes
 > 
@@ -681,7 +681,7 @@
 
 ## 📐 Espacio Generado y Subespacios
 
-> [!note]- 🎯 Teorema Fundamental
+> [!note] 🎯 Teorema Fundamental
 > 
 > **Teorema:** Todo subespacio $W$ de un espacio vectorial $V$ puede expresarse como el span de algún conjunto de vectores.
 > 
@@ -712,7 +712,7 @@
 
 ### Ejemplo 7: Espacio de Matrices
 
-> [!example]- 📝 Ejemplo 7: Matrices 2×2
+> [!example] 📝 Ejemplo 7: Matrices 2×2
 > 
 > **Conjunto de matrices:**
 > 
@@ -744,7 +744,7 @@
 
 ### Ejemplo 8: Polinomios
 
-> [!example]- 📝 Ejemplo 8: Espacio de Polinomios
+> [!example] 📝 Ejemplo 8: Espacio de Polinomios
 > 
 > **Conjunto:** $$S = {1, x, x^2}$$ en el espacio $P_2$ (polinomios de grado ≤ 2)
 > 
@@ -782,7 +782,7 @@
 
 ### Ejemplo 9: Matrices Simétricas
 
-> [!example]- 📝 Ejemplo 9: Subespacios Especiales
+> [!example] 📝 Ejemplo 9: Subespacios Especiales
 > 
 > **Pregunta:** ¿Cuál es un conjunto generador para el espacio de matrices simétricas $2 \times 2$?
 > 
@@ -814,7 +814,7 @@
 
 ## 🧮 Algoritmo: Encontrar Conjunto Generador Minimal
 
-> [!note]- 🔧 Procedimiento para Reducir Redundancia
+> [!note] 🔧 Procedimiento para Reducir Redundancia
 > 
 > **Objetivo:** Dado un conjunto $S$ de vectores, encontrar un subconjunto $S' \subseteq S$ tal que:
 > 
@@ -871,7 +871,7 @@
 
 ### Aplicación 1: Sistemas de Ecuaciones Lineales
 
-> [!example]- 🔧 Espacio de Soluciones
+> [!example] 🔧 Espacio de Soluciones
 > 
 > **Sistema homogéneo:** $A\vec{x} = \vec{0}$
 > 
@@ -907,7 +907,7 @@
 
 ### Aplicación 2: Espacio Columna de una Matriz
 
-> [!example]- 📊 Column Space
+> [!example] 📊 Column Space
 > 
 > **Definición:** El **espacio columna** de una matriz $A$ es el span de sus columnas:
 > 
@@ -939,7 +939,7 @@
 
 ### Aplicación 3: Procesamiento de Señales
 
-> [!example]- 🎵 Descomposición de Señales
+> [!example] 🎵 Descomposición de Señales
 > 
 > **Problema:** Representar una señal compleja como combinación de señales básicas.
 > 
@@ -965,7 +965,7 @@
 
 ### Aplicación 4: Computer Graphics
 
-> [!example]- 🎮 Transformaciones Lineales
+> [!example] 🎮 Transformaciones Lineales
 > 
 > **Problema:** Representar imágenes como combinaciones de imágenes base.
 > 
@@ -989,7 +989,7 @@
 
 ## 📊 Tabla Resumen de Propiedades
 
-> [!note]- 📋 Propiedades del Span
+> [!note] 📋 Propiedades del Span
 > 
 > |Propiedad|Enunciado|Intuición|
 > |---|---|---|
@@ -1006,7 +1006,7 @@
 
 ## 🎓 Ejercicios Propuestos
 
-> [!example]- 💪 Práctica Nivel Básico
+> [!example] 💪 Práctica Nivel Básico
 > 
 > **1. Calcular el span:**
 > 
@@ -1042,7 +1042,7 @@
 > 
 > c) $\text{span}\left\{ \begin{bmatrix} 1 \\ 2 \\ 3 \end{bmatrix}, \begin{bmatrix} 2 \\ 4 \\ 6 \end{bmatrix} \right\}$
 
-> [!example]- 💪 Práctica Nivel Intermedio
+> [!example] 💪 Práctica Nivel Intermedio
 > 
 > **4. Redundancia:**
 > 
@@ -1074,7 +1074,7 @@
 
 ## 🎓 Ejercicios Propuestos (continuación)
 
-> [!example]- 💪 Práctica Nivel Intermedio (continuación)
+> [!example] 💪 Práctica Nivel Intermedio (continuación)
 > 
 > **4. Redundancia:**
 > 
@@ -1108,7 +1108,7 @@
 > 
 > c) Describir geométricamente $\text{span}(S_1 \cup S_2)$
 
-> [!example]- 💪 Práctica Nivel Avanzado
+> [!example] 💪 Práctica Nivel Avanzado
 > 
 > **7. Espacio columna:**
 > 
@@ -1158,7 +1158,7 @@
 
 ## ✅ Soluciones Selectas
 
-> [!success]- 🔑 Respuestas Ejercicios Básicos
+> [!success] 🔑 Respuestas Ejercicios Básicos
 > 
 > **1a)** $\text{span}\left\{ \begin{bmatrix} 1 \\ 2 \end{bmatrix} \right\}$
 > 
@@ -1200,7 +1200,7 @@
 > 
 > $$\boxed{\text{Sí, está en el span}}$$
 
-> [!success]- 🔑 Respuestas Ejercicios Intermedios
+> [!success] 🔑 Respuestas Ejercicios Intermedios
 > 
 > **4a)** $S = \left\{ \begin{bmatrix} 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 2 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \end{bmatrix} \right\}$
 > 
@@ -1230,7 +1230,7 @@
 > 
 > $$\boxed{x + y - z = 0}$$
 
-> [!success]- 🔑 Respuestas Ejercicios Avanzados
+> [!success] 🔑 Respuestas Ejercicios Avanzados
 > 
 > **7a)** $A = \begin{bmatrix} 1 & 2 & 3 \\ 2 & 4 & 6 \\ 3 & 6 & 9 \end{bmatrix}$
 > 
@@ -1283,7 +1283,7 @@
 
 ## 🌟 Conceptos Clave para Recordar
 
-> [!tip]- 💡 Puntos Esenciales
+> [!tip] 💡 Puntos Esenciales
 > 
 > ### Sobre Espacio Generado
 > 
@@ -1341,7 +1341,7 @@
 
 ## 🔗 Relaciones Importantes
 
-> [!quote]- 🌐 Conexiones con Otros Temas
+> [!quote] 🌐 Conexiones con Otros Temas
 > 
 > ### Prerequisitos:
 > 
@@ -1390,7 +1390,7 @@
 
 ## 📊 Mapa Conceptual
 
-> [!note]- 🌳 Árbol de Conceptos
+> [!note] 🌳 Árbol de Conceptos
 > 
 > ```
 > ESPACIO GENERADO (SPAN)
@@ -1442,7 +1442,7 @@
 
 ## ✨ Comentarios Finales
 
-> [!note]- 🎓 Para Llevar
+> [!note] 🎓 Para Llevar
 > 
 > ### Lo Esencial
 > 

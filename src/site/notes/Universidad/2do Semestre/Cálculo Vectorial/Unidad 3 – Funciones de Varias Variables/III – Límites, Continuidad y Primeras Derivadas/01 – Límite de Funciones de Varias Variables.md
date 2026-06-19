@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Por qué son importantes los Límites en Varias Variables?
+> [!info] 💡 ¿Por qué son importantes los Límites en Varias Variables?
 > 
 > Los límites son fundamentales para entender el comportamiento de funciones cerca de un punto, incluso cuando la función no está definida ahí.
 > 
@@ -30,7 +30,7 @@
 
 ### 🔍 Definición Formal (Epsilon-Delta)
 
-> [!example]- 🟢 Definición: Límite de una Función de Dos Variables
+> [!example] 🟢 Definición: Límite de una Función de Dos Variables
 > 
 > **Definición formal:** Sea $f$ una función definida en un conjunto $D \subseteq \mathbb{R}^2$ (excepto posiblemente en el punto $(x_0, y_0)$). Decimos que:
 > 
@@ -48,7 +48,7 @@
 
 ### 🎯 Definición Intuitiva
 
-> [!note]- 💭 Interpretación Práctica
+> [!note] 💭 Interpretación Práctica
 > 
 > El límite $\lim_{(x,y) \to (x_0,y_0)} f(x,y) = L$ significa:
 > 
@@ -66,7 +66,7 @@
 
 ## ⚠️ Diferencia con Límites en Una Variable
 
-> [!warning]- 🔄 Conceptos Clave
+> [!warning] 🔄 Conceptos Clave
 > 
 > ### En una variable: $\lim_{x \to a} f(x)$
 > 
@@ -119,7 +119,7 @@
 
 ### 📍 Método 1: Sustitución Directa
 
-> [!tip]- ✅ Cuando la Función es Continua en el Punto
+> [!tip] ✅ Cuando la Función es Continua en el Punto
 > 
 > **Aplicable cuando:**
 > 
@@ -155,7 +155,7 @@
 
 ### 📍 Método 2: Trayectorias Específicas
 
-> [!tip]- 🛤️ Probar que un Límite NO Existe
+> [!tip] 🛤️ Probar que un Límite NO Existe
 > 
 > **Estrategia:** Si encontramos **dos caminos diferentes** que dan límites diferentes, entonces el límite **NO existe**.
 > 
@@ -202,7 +202,7 @@
 
 ### 📍 Método 3: Coordenadas Polares
 
-> [!tip]- 🔄 Transformación a Coordenadas Polares
+> [!tip] 🔄 Transformación a Coordenadas Polares
 > 
 > **Sustitución:** $$\begin{cases} x = r\cos\theta \ y = r\sin\theta \ r = \sqrt{x^2 + y^2} \end{cases}$$
 > 
@@ -257,7 +257,7 @@
 
 ### 📍 Método 4: Teorema del Sandwich (Squeeze)
 
-> [!tip]- 🥪 Acotar la Función
+> [!tip] 🥪 Acotar la Función
 > 
 > **Teorema del Sandwich:** Si $g(x,y) \leq f(x,y) \leq h(x,y)$ cerca de $(x_0, y_0)$ y
 > 
@@ -319,7 +319,7 @@
 
 ### 📍 Método 5: Factorización y Simplificación
 
-> [!tip]- ✂️ Simplificar Antes de Evaluar
+> [!tip] ✂️ Simplificar Antes de Evaluar
 > 
 > **Estrategias:**
 > 
@@ -378,7 +378,7 @@
 
 ## 🎨 Propiedades de los Límites
 
-> [!note]- 📜 Leyes de los Límites
+> [!note] 📜 Leyes de los Límites
 > 
 > Si $\lim_{(x,y) \to (x_0,y_0)} f(x,y) = L$ y $\lim_{(x,y) \to (x_0,y_0)} g(x,y) = M$, entonces:
 > 
@@ -420,7 +420,7 @@
 
 ## 📚 Ejemplos Detallados
 
-> [!example]- 📝 Ejemplo 11: Límite con Indeterminación $\frac{0}{0}$
+> [!example] 📝 Ejemplo 11: Límite con Indeterminación $\frac{0}{0}$
 > 
 > $$\lim_{(x,y) \to (0,0)} \frac{x^3 + y^3}{x^2 + y^2}$$
 > 
@@ -436,7 +436,7 @@
 > 
 > **Conclusión:** $$\boxed{\lim_{(x,y) \to (0,0)} \frac{x^3 + y^3}{x^2 + y^2} = 0}$$
 
-> [!example]- 📝 Ejemplo 12: Límite que Depende del Camino
+> [!example] 📝 Ejemplo 12: Límite que Depende del Camino
 > 
 > $$\lim_{(x,y) \to (0,0)} \frac{x^2y}{x^4 + y^2}$$
 > 
@@ -450,7 +450,7 @@
 > 
 > $$\boxed{\text{El límite NO existe}}$$
 
-> [!example]- 📝 Ejemplo 13: Límite Trigonométrico
+> [!example] 📝 Ejemplo 13: Límite Trigonométrico
 > 
 > $$\lim_{(x,y) \to (0,0)} \frac{\sin(x^2 + y^2)}{x^2 + y^2}$$
 > 
@@ -464,7 +464,7 @@
 > 
 > Por lo tanto: $$\boxed{\lim_{(x,y) \to (0,0)} \frac{\sin(x^2 + y^2)}{x^2 + y^2} = 1}$$
 
-> [!example]- 📝 Ejemplo 14: Límite Exponencial
+> [!example] 📝 Ejemplo 14: Límite Exponencial
 > 
 > $$\lim_{(x,y) \to (0,0)} \frac{e^{x+y} - 1}{x + y}$$
 > 
@@ -478,7 +478,7 @@
 > 
 > **Respuesta:** $\boxed{1}$
 
-> [!example]- 📝 Ejemplo 15: Límite con Valor Absoluto
+> [!example] 📝 Ejemplo 15: Límite con Valor Absoluto
 > 
 > $$\lim_{(x,y) \to (0,0)} \frac{|xy|}{\sqrt{x^2 + y^2}}$$
 > 
@@ -498,7 +498,7 @@
 
 ## 🔄 Límites Iterados vs Límite Doble
 
-> [!warning]- ⚠️ Diferencia Importante
+> [!warning] ⚠️ Diferencia Importante
 > 
 > ### Límite Doble
 > 
@@ -537,7 +537,7 @@
 
 ### Ejemplo: Límites Iterados Diferentes
 
-> [!example]- 📝 Ejemplo 16: Límites Iterados Diferentes del Límite Doble
+> [!example] 📝 Ejemplo 16: Límites Iterados Diferentes del Límite Doble
 > 
 > $$f(x,y) = \frac{xy}{x^2 + y^2}$$
 > 
@@ -571,7 +571,7 @@
 
 ## 🌟 Límites en Tres Variables
 
-> [!note]- 🎲 Extensión a $\mathbb{R}^3$
+> [!note] 🎲 Extensión a $\mathbb{R}^3$
 > 
 > ### Definición
 > 
@@ -587,7 +587,7 @@
 > 
 > Cuando $(x,y,z) \to (0,0,0)$: $\rho \to 0$
 
-> [!example]- 📝 Ejemplo 17: Límite en Tres Variables
+> [!example] 📝 Ejemplo 17: Límite en Tres Variables
 > 
 > $$\lim_{(x,y,z) \to (0,0,0)} \frac{xyz}{x^2 + y^2 + z^2}$$
 > 
@@ -605,7 +605,7 @@
 > 
 > **Conclusión:** $$\boxed{\lim_{(x,y,z) \to (0,0,0)} \frac{xyz}{x^2 + y^2 + z^2} = 0}$$
 
-> [!example]- 📝 Ejemplo 18: Límite en 3D que NO Existe
+> [!example] 📝 Ejemplo 18: Límite en 3D que NO Existe
 > 
 > $$\lim_{(x,y,z) \to (0,0,0)} \frac{x^2 + y^2}{x^2 + y^2 + z^2}$$
 > 
@@ -621,7 +621,7 @@
 
 ## 💡 Estrategias y Consejos Prácticos
 
-> [!tip]- ⭐ Guía Paso a Paso para Calcular Límites
+> [!tip] ⭐ Guía Paso a Paso para Calcular Límites
 > 
 > ### Paso 1: Intentar Sustitución Directa
 > 
@@ -652,7 +652,7 @@
 > - ¿Todos los términos tienden a cero suficientemente rápido?
 > - ¿Las cotas son correctas?
 
-> [!tip]- 🎯 Errores Comunes a Evitar
+> [!tip] 🎯 Errores Comunes a Evitar
 > 
 > ❌ **Error 1:** Confiar solo en los ejes coordenados
 > 
@@ -678,7 +678,7 @@
 > 
 > - $\lim_{(x,y) \to (0,0)} f(x,y)$ no requiere que $f(0,0)$ esté definida
 
-> [!tip]- 🔍 Caminos Útiles para Probar
+> [!tip] 🔍 Caminos Útiles para Probar
 > 
 > |Tipo de Camino|Ecuación|Cuándo Usar|
 > |---|---|---|
@@ -696,7 +696,7 @@
 
 ## 📊 Tabla Resumen: Métodos
 
-> [!note]- 📋 Comparación de Métodos
+> [!note] 📋 Comparación de Métodos
 > 
 > |Método|Cuándo Usar|Ventajas|Limitaciones|
 > |---|---|---|---|
@@ -711,7 +711,7 @@
 
 ## 📚 Ejemplos Adicionales Desafiantes
 
-> [!example]- 📝 Ejemplo 19: Función Complicada
+> [!example] 📝 Ejemplo 19: Función Complicada
 > 
 > $$\lim_{(x,y) \to (0,0)} \frac{x^2 + y^2}{\sqrt{x^2 + y^2 + 1} - 1}$$
 > 
@@ -733,7 +733,7 @@
 > 
 > **Respuesta:** $\boxed{2}$
 
-> [!example]- 📝 Ejemplo 20: Límite Logarítmico
+> [!example] 📝 Ejemplo 20: Límite Logarítmico
 > 
 > $$\lim_{(x,y) \to (0,0)} \frac{\ln(1 + x^2 + y^2)}{x^2 + y^2}$$
 > 
@@ -747,7 +747,7 @@
 > 
 > Por lo tanto: $$\boxed{\lim_{(x,y) \to (0,0)} \frac{\ln(1 + x^2 + y^2)}{x^2 + y^2} = 1}$$
 
-> [!example]- 📝 Ejemplo 21: Límite con Sen y Cos
+> [!example] 📝 Ejemplo 21: Límite con Sen y Cos
 > 
 > $$\lim_{(x,y) \to (0,0)} \frac{1 - \cos(x^2 + y^2)}{x^2 + y^2}$$
 > 
@@ -771,7 +771,7 @@
 > 
 > **Respuesta:** $\boxed{0}$
 
-> [!example]- 📝 Ejemplo 22: Límite Exponencial Complejo
+> [!example] 📝 Ejemplo 22: Límite Exponencial Complejo
 > 
 > $$\lim_{(x,y) \to (0,0)} \frac{e^{xy} - 1 - xy}{x^2y^2}$$
 > 
@@ -791,7 +791,7 @@
 > 
 > $$\boxed{\lim_{(x,y) \to (0,0)} \frac{e^{xy} - 1 - xy}{x^2y^2} = \frac{1}{2}}$$
 
-> [!example]- 📝 Ejemplo 23: Límite que Requiere Análisis Cuidadoso
+> [!example] 📝 Ejemplo 23: Límite que Requiere Análisis Cuidadoso
 > 
 > $$\lim_{(x,y) \to (0,0)} \frac{x^3 - y^3}{x^2 + y^2}$$
 > 
@@ -813,7 +813,7 @@
 > 
 > **Conclusión:** $$\boxed{\lim_{(x,y) \to (0,0)} \frac{x^3 - y^3}{x^2 + y^2} = 0}$$
 
-> [!example]- 📝 Ejemplo 24: Límite con Raíces
+> [!example] 📝 Ejemplo 24: Límite con Raíces
 > 
 > $$\lim_{(x,y) \to (0,0)} \frac{xy}{\sqrt{x^2 + y^2}}$$
 > 
@@ -831,7 +831,7 @@
 > 
 > $$\boxed{\lim_{(x,y) \to (0,0)} \frac{xy}{\sqrt{x^2 + y^2}} = 0}$$
 
-> [!example]- 📝 Ejemplo 25: Un Límite Tramposo
+> [!example] 📝 Ejemplo 25: Un Límite Tramposo
 > 
 > $$\lim_{(x,y) \to (0,0)} \frac{x^2y}{x^4 + 3y^2}$$
 > 
@@ -849,7 +849,7 @@
 
 ## 🎓 Ejercicios Propuestos
 
-> [!example]- 💪 Práctica Nivel Básico
+> [!example] 💪 Práctica Nivel Básico
 > 
 > **1. Calcular por sustitución directa:**
 > 
@@ -883,7 +883,7 @@
 > 
 > c) $\lim_{(x,y) \to (0,0)} \frac{x^4 + y^4}{x^2 + y^2}$
 
-> [!example]- 💪 Práctica Nivel Intermedio
+> [!example] 💪 Práctica Nivel Intermedio
 > 
 > **4. Límites con indeterminaciones:**
 > 
@@ -917,7 +917,7 @@
 > 
 > c) $f(x,y) = \frac{xy}{x + y}$
 
-> [!example]- 💪 Práctica Nivel Avanzado
+> [!example] 💪 Práctica Nivel Avanzado
 > 
 > **7. Límites desafiantes:**
 > 
@@ -953,7 +953,7 @@
 
 ## ✅ Soluciones Selectas
 
-> [!success]- 🔑 Respuestas Ejercicios Básicos
+> [!success] 🔑 Respuestas Ejercicios Básicos
 > 
 > **1a)** $\lim_{(x,y) \to (1,2)} (3x^2 + 2y^2 - xy)$
 > 
@@ -1015,7 +1015,7 @@
 > 
 > **Respuesta:** $\boxed{0}$
 
-> [!success]- 🔑 Respuestas Ejercicios Intermedios
+> [!success] 🔑 Respuestas Ejercicios Intermedios
 > 
 > **4a)** $\lim_{(x,y) \to (0,0)} \frac{x^2y}{x^4 + y^2}$
 > **Por $y = 0$:** $\lim_{x \to 0} \frac{0}{x^4} = 0$
@@ -1080,7 +1080,7 @@
 > 
 > Los límites iterados son **diferentes**, y ya sabemos que el límite doble **NO existe**.
 
-> [!success]- 🔑 Respuestas Ejercicios Avanzados
+> [!success] 🔑 Respuestas Ejercicios Avanzados
 > 
 > **7a)** $\lim_{(x,y) \to (0,0)} \frac{x^3 + y^3}{x^2 + xy + y^2}$
 > 
@@ -1138,7 +1138,7 @@
 
 ## 🔗 Conexión con Continuidad
 
-> [!info]- 🌉 Relación Límite-Continuidad
+> [!info] 🌉 Relación Límite-Continuidad
 > 
 > ### Definición de Continuidad
 > 
@@ -1191,7 +1191,7 @@
 
 ## 🎯 Teoremas Importantes
 
-> [!note]- 📐 Teoremas Útiles sobre Límites
+> [!note] 📐 Teoremas Útiles sobre Límites
 > 
 > ### Teorema 1: Unicidad del Límite
 > 
@@ -1247,7 +1247,7 @@
 
 ## 📊 Visualización Geométrica
 
-> [!note]- 🎨 Interpretación Gráfica del Límite
+> [!note] 🎨 Interpretación Gráfica del Límite
 > 
 > ### Para $z = f(x,y)$
 > 
@@ -1296,7 +1296,7 @@
 
 ## 🔬 Casos Especiales
 
-> [!warning]- ⚠️ Situaciones Especiales a Considerar
+> [!warning] ⚠️ Situaciones Especiales a Considerar
 > 
 > ### Caso 1: Funciones Definidas por Partes
 > 
@@ -1342,7 +1342,7 @@
 
 ## 💡 Estrategias Avanzadas
 
-> [!tip]- 🎓 Técnicas Adicionales
+> [!tip] 🎓 Técnicas Adicionales
 > 
 > ### Técnica 1: Parametrización de Curvas
 > 
@@ -1388,7 +1388,7 @@
 
 ## 📈 Resumen Visual
 
-> [!note]- 🗺️ Mapa Conceptual: Estrategias para Límites
+> [!note] 🗺️ Mapa Conceptual: Estrategias para Límites
 > 
 > ```
 > ¿Límite de f(x,y) cuando (x,y) → (x₀,y₀)?
@@ -1420,7 +1420,7 @@
 
 ## 🎯 Conceptos Clave para Recordar
 
-> [!tip]- 💡 Puntos Esenciales
+> [!tip] 💡 Puntos Esenciales
 > 
 > **Sobre la existencia de límites:**
 > 
@@ -1449,7 +1449,7 @@
 
 ## 🔗 Conexiones con Otros Temas
 
-> [!quote]- 🌐 Relaciones
+> [!quote] 🌐 Relaciones
 > 
 > **Este tema es prerequisito para:**
 > 
@@ -1471,7 +1471,7 @@
 
 ## 📝 Ejercicios Adicionales de Desafío
 
-> [!example]- 🏆 Problemas de Competencia
+> [!example] 🏆 Problemas de Competencia
 > 
 > **10. Límites extremadamente desafiantes:**
 > 
@@ -1510,7 +1510,7 @@
 
 ## ✨ Comentarios Finales
 
-> [!note]- 🎓 Reflexiones sobre Límites en Varias Variables
+> [!note] 🎓 Reflexiones sobre Límites en Varias Variables
 > 
 > Los límites en varias variables son **fundamentalmente más complejos** que en una variable debido a:
 > 

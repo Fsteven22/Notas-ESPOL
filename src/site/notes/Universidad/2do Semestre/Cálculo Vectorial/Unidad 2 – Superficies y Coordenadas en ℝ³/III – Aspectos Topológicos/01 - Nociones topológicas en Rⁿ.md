@@ -7,7 +7,7 @@
 
 ## 🎯 Fundamentos de Topología en Espacios Euclidianos
 
-> [!info]- 💡 Introducción a la Topología de ℝⁿ La **topología** es la rama de las matemáticas que estudia las propiedades de los espacios que se preservan bajo deformaciones continuas. En ℝⁿ, la topología proporciona un marco riguroso para conceptos intuitivos como "cercanía", "continuidad" y "límite".
+> [!info] 💡 Introducción a la Topología de ℝⁿ La **topología** es la rama de las matemáticas que estudia las propiedades de los espacios que se preservan bajo deformaciones continuas. En ℝⁿ, la topología proporciona un marco riguroso para conceptos intuitivos como "cercanía", "continuidad" y "límite".
 > 
 > **Analogías útiles:**
 > 
@@ -34,7 +34,7 @@
 
 ### 📊 Jerarquía de Conceptos
 
-> [!note]- 🌟 Estructura de Ideas Topológicas
+> [!note] 🌟 Estructura de Ideas Topológicas
 > 
 > ```mermaid
 > graph TD
@@ -66,7 +66,7 @@
 
 ### 🔢 Definición de Distancia
 
-> [!example]- 🟢 Métrica Euclidiana
+> [!example] 🟢 Métrica Euclidiana
 > 
 > **Definición:** Para **x** = (x₁, x₂, ..., xₙ) y **y** = (y₁, y₂, ..., yₙ) en ℝⁿ:
 > 
@@ -98,7 +98,7 @@
 
 ### 🎨 Otras Métricas en ℝⁿ
 
-> [!tip]- 📏 Familia de Métricas
+> [!tip] 📏 Familia de Métricas
 > 
 > **1. Métrica del taxista (Manhattan, ℓ¹):**
 > 
@@ -176,7 +176,7 @@
 
 ### 📐 Definiciones Básicas
 
-> [!example]- ⚪ Bolas en ℝⁿ
+> [!example] ⚪ Bolas en ℝⁿ
 > 
 > **Bola abierta:**
 > 
@@ -213,7 +213,7 @@
 
 ### ✅ Ejemplos Concretos
 
-> [!example]- 💪 Casos Prácticos
+> [!example] 💪 Casos Prácticos
 > 
 > **Ejemplo 1 - Bola abierta en ℝ²:**
 > 
@@ -259,7 +259,7 @@
 
 ### 🎨 Propiedades de las Bolas
 
-> [!note]- 📋 Características Importantes
+> [!note] 📋 Características Importantes
 > 
 > **1. Bolas abiertas son conjuntos abiertos:**
 > 
@@ -302,7 +302,7 @@
 
 ### 📐 Definición Formal
 
-> [!success]- 🟢 Conjuntos Abiertos en ℝⁿ
+> [!success] 🟢 Conjuntos Abiertos en ℝⁿ
 > 
 > **Definición:** Un conjunto A ⊂ ℝⁿ es **abierto** si para todo **x** ∈ A, existe ε > 0 tal que:
 > 
@@ -338,7 +338,7 @@
 
 ### 🎯 Propiedades de los Abiertos
 
-> [!tip]- 📊 Axiomas de Topología
+> [!tip] 📊 Axiomas de Topología
 > 
 > **Propiedades fundamentales (Axiomas de Topología):**
 > 
@@ -378,7 +378,7 @@
 
 ### ✅ Ejemplos Detallados
 
-> [!example]- 💪 Casos Prácticos de Abiertos
+> [!example] 💪 Casos Prácticos de Abiertos
 > 
 > **Ejemplo 1 - Cuadrante abierto en ℝ²:**
 > 
@@ -433,7 +433,7 @@
 
 ### 📐 Definición y Caracterizaciones
 
-> [!example]- 🔴 Conjuntos Cerrados en ℝⁿ
+> [!example] 🔴 Conjuntos Cerrados en ℝⁿ
 > 
 > **Definición 1 (Por complemento):** Un conjunto F ⊂ ℝⁿ es **cerrado** si su complemento Fᶜ = ℝⁿ \ F es abierto.
 > 
@@ -472,7 +472,7 @@
 
 ### 🎯 Propiedades de los Cerrados
 
-> [!note]- 📊 Axiomas Duales
+> [!note] 📊 Axiomas Duales
 > 
 > **Propiedades fundamentales (Duales a los abiertos):**
 > 
@@ -512,7 +512,7 @@
 
 ### ✅ Ejemplos Detallados
 
-> [!example]- 💪 Casos Prácticos de Cerrados
+> [!example] 💪 Casos Prácticos de Cerrados
 > 
 > **Ejemplo 1 - Intervalo cerrado:**
 > 
@@ -586,7 +586,7 @@
 
 ### 📐 Definiciones Fundamentales
 
-> [!success]- 🟢 Clasificación de Puntos
+> [!success] 🟢 Clasificación de Puntos
 > 
 > Sea A ⊂ ℝⁿ y **p** ∈ ℝⁿ
 > 
@@ -634,7 +634,7 @@
 
 ### 🎨 Ejemplos Visuales
 
-> [!example]- 💪 Casos Ilustrativos
+> [!example] 💪 Casos Ilustrativos
 > 
 > **Ejemplo 1 - Intervalo semi-abierto [0, 1) en ℝ:**
 > 
@@ -700,7 +700,7 @@
 
 ### 🔧 Propiedades Algebraicas
 
-> [!tip]- 📊 Relaciones entre Operadores
+> [!tip] 📊 Relaciones entre Operadores
 > 
 > **1. Interior:**
 > 
@@ -742,7 +742,7 @@
 
 ### 📐 Definición de Clausura
 
-> [!example]- 🔵 Clausura de un Conjunto
+> [!example] 🔵 Clausura de un Conjunto
 > 
 > **Definición 1 (Por puntos de acumulación):**
 > 
@@ -787,7 +787,7 @@
 
 ### 🎯 Propiedades de la Clausura
 
-> [!note]- 📊 Axiomas de Kuratowski
+> [!note] 📊 Axiomas de Kuratowski
 > 
 > **Propiedades fundamentales (Axiomas de Clausura):**
 > 
@@ -833,7 +833,7 @@
 
 ### ✅ Ejemplos de Clausura
 
-> [!example]- 💪 Cálculo de Clausuras
+> [!example] 💪 Cálculo de Clausuras
 > 
 > **Ejemplo 1 - Intervalo abierto:**
 > 
@@ -891,7 +891,7 @@
 
 ### 📐 Definición y Caracterizaciones
 
-> [!success]- 🟢 Puntos Límite
+> [!success] 🟢 Puntos Límite
 > 
 > **Definición 1 (Por bolas perforadas):**
 > 
@@ -931,7 +931,7 @@
 
 ### 🎯 Propiedades del Conjunto Derivado
 
-> [!tip]- 📊 Operador Derivado
+> [!tip] 📊 Operador Derivado
 > 
 > **Propiedades:**
 > 
@@ -958,7 +958,7 @@
 
 ### ✅ Ejemplos de Puntos de Acumulación
 
-> [!example]- 💪 Casos Detallados
+> [!example] 💪 Casos Detallados
 > 
 > **Ejemplo 1 - Conjunto finito:**
 > 
@@ -1021,7 +1021,7 @@
 
 ### 📐 Definiciones de Compacidad
 
-> [!example]- 🔴 Compacidad en ℝⁿ
+> [!example] 🔴 Compacidad en ℝⁿ
 > 
 > **Definición 1 (Por cubrimientos):**
 > 
@@ -1051,7 +1051,7 @@
 
 ### 🎯 Propiedades de Compactos
 
-> [!note]- 📊 Teoremas Fundamentales
+> [!note] 📊 Teoremas Fundamentales
 > 
 > **Propiedades básicas:**
 > 
@@ -1084,7 +1084,7 @@
 
 ### ✅ Ejemplos de Conjuntos Compactos
 
-> [!example]- 💪 Casos Prácticos
+> [!example] 💪 Casos Prácticos
 > 
 > **Ejemplo 1 - Intervalo cerrado:**
 > 
@@ -1135,7 +1135,7 @@
 
 ### 📐 Definición de Conexidad
 
-> [!success]- 🟢 Conjuntos Conexos
+> [!success] 🟢 Conjuntos Conexos
 > 
 > **Definición 1 (Por separación):**
 > 
@@ -1168,7 +1168,7 @@
 
 ### 🎨 Conexidad por Caminos
 
-> [!tip]- 🛤️ Arco-Conexidad
+> [!tip] 🛤️ Arco-Conexidad
 > 
 > **Definición:**
 > 
@@ -1208,7 +1208,7 @@
 
 ### 🎯 Propiedades de Conjuntos Conexos
 
-> [!note]- 📊 Teoremas de Conexidad
+> [!note] 📊 Teoremas de Conexidad
 > 
 > **Propiedades básicas:**
 > 
@@ -1239,7 +1239,7 @@
 
 ### ✅ Ejemplos de Conjuntos Conexos
 
-> [!example]- 💪 Casos Ilustrativos
+> [!example] 💪 Casos Ilustrativos
 > 
 > **Ejemplos CONEXOS:**
 > 
@@ -1279,7 +1279,7 @@
 
 ## 💻 Implementación Computacional
 
-> [!success]- 🔧 Código Python para Topología
+> [!success] 🔧 Código Python para Topología
 > 
 > ```python
 > import numpy as np
@@ -1625,7 +1625,7 @@
 
 ## 🧪 Ejercicios Progresivos
 
-> [!example]- 💪 Práctica Graduada
+> [!example] 💪 Práctica Graduada
 > 
 > **Nivel 1 - Conceptos Básicos:** 🟢
 > 
@@ -1695,7 +1695,7 @@
 
 ## 📊 Tabla Resumen
 
-> [!abstract]- 📋 Compendio de Conceptos
+> [!abstract] 📋 Compendio de Conceptos
 > 
 > |Concepto|Definición|Notación|Propiedades Clave|
 > |---|---|---|---|
@@ -1732,7 +1732,7 @@
 
 ## 🌐 Conexiones Conceptuales
 
-> [!quote]- 🔗 Enlaces con Otros Temas
+> [!quote] 🔗 Enlaces con Otros Temas
 > 
 > **Prerequisitos:**
 > 

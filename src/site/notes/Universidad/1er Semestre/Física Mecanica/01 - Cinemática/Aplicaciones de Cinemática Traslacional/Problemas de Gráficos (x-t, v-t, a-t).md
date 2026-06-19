@@ -7,11 +7,11 @@
 
 >[!quote] "Un gráfico vale más que mil ecuaciones; en la física, visualizar el movimiento es comprenderlo en su esencia más profunda." 📈
 
-> [!info]- Los gráficos cinemáticos son herramientas fundamentales para analizar el movimiento de los objetos. A través de las representaciones gráficas de posición vs tiempo (x-t), velocidad vs tiempo (v-t) y aceleración vs tiempo (a-t), podemos interpretar y resolver problemas de movimiento de manera visual e intuitiva.
+> [!info] Los gráficos cinemáticos son herramientas fundamentales para analizar el movimiento de los objetos. A través de las representaciones gráficas de posición vs tiempo (x-t), velocidad vs tiempo (v-t) y aceleración vs tiempo (a-t), podemos interpretar y resolver problemas de movimiento de manera visual e intuitiva.
 
 ## 📊 Tipos de Gráficos Cinemáticos
 
-> [!info]- **Gráfico Posición-Tiempo (x-t)** 📍
+> [!info] **Gráfico Posición-Tiempo (x-t)** 📍
 > 
 > ### Características Principales:
 > 
@@ -29,7 +29,7 @@
 > |Curva compleja|Movimiento complejo|v = variable|a = variable|
 > 
 
-> [!tip]- **Gráfico Velocidad-Tiempo (v-t)** 🚀
+> [!tip] **Gráfico Velocidad-Tiempo (v-t)** 🚀
 > 
 > ### Características Principales:
 > 
@@ -46,7 +46,7 @@
 > - **Pendiente negativa**: Desaceleración o aceleración negativa
 
 
-> [!warning]- **Gráfico Aceleración-Tiempo (a-t)** ⚡
+> [!warning] **Gráfico Aceleración-Tiempo (a-t)** ⚡
 > 
 > ### Características Principales:
 > 
@@ -76,7 +76,7 @@
 > ```
 > 
 
-> [!note]- **Relaciones Matemáticas** 📐
+> [!note] **Relaciones Matemáticas** 📐
 > 
 > ### Derivadas:
 > 
@@ -90,7 +90,7 @@
 
 ## 🎯 Estrategias de Resolución
 
-> [!tip]- **Método GAVI (Gráfico-Análisis-Variables-Interpretación)** 🧠
+> [!tip] **Método GAVI (Gráfico-Análisis-Variables-Interpretación)** 🧠
 > 
 > ### **G**ráfico - Identifica el tipo
 > 
@@ -119,7 +119,7 @@
 
 ## 📚 Problemas Tipo
 
-> [!example]- **Problema 1: Análisis de Gráfico x-t** 🏃‍♂️
+> [!example] **Problema 1: Análisis de Gráfico x-t** 🏃‍♂️
 > 
 > ### Enunciado:
 > 
@@ -145,7 +145,7 @@
 > **Velocidad promedio**: v̄ = 0/6 = 0 m/s **Desplazamiento total**: 0 m (regresa al origen)
 > 
 
-> [!example]- **Problema 2: Del Gráfico v-t al x-t** 🔄
+> [!example] **Problema 2: Del Gráfico v-t al x-t** 🔄
 > 
 > ### Enunciado:
 > 
@@ -168,7 +168,7 @@
 > 
 > El gráfico x-t será una parábola.
 
-> [!example]- **Problema 3: Análisis Completo** 📊
+> [!example] **Problema 3: Análisis Completo** 📊
 > 
 > ### Enunciado:
 > 
@@ -185,12 +185,12 @@
 
 ## 🧮 Técnicas de Memorización
 
-> [!tip]- **Mnemotecnia: "PAVA"** 🦆 **P**endiente → **A**celeración (en gráfico v-t) **A**rea → **V**elocidad cambio (en gráfico a-t)  
+> [!tip] **Mnemotecnia: "PAVA"** 🦆 **P**endiente → **A**celeración (en gráfico v-t) **A**rea → **V**elocidad cambio (en gráfico a-t)  
 > **V**elocidad → pendiente en gráfico **A**-t (posición) **A**rea bajo v-t → desplazamiento (**A**vance)
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- **Confusiones Frecuentes** ⚠️
+> [!warning] **Confusiones Frecuentes** ⚠️
 > 
 > 1. **Confundir velocidad con posición** en la interpretación de gráficos
 > 2. **Ignorar el signo** de la pendiente o área
@@ -201,7 +201,7 @@
 
 ## 🎯 Aplicaciones Prácticas
 
-> [!info]- **Ejemplos del Mundo Real** 🌍
+> [!info] **Ejemplos del Mundo Real** 🌍
 > 
 > ### Transporte:
 > 
@@ -224,7 +224,7 @@
 
 ## 📖 Referencias
 
-> [!quote]- **Notas Relacionadas**
+> [!quote] **Notas Relacionadas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/01 - Cinemática/Cinemática Traslacional\|Cinemática Traslacional]] - Fundamentos teóricos
 > - [[Ecuaciones de Movimiento\|Ecuaciones de Movimiento]] - Base matemática
@@ -233,7 +233,7 @@
 
 ## 📚 Notas Recomendadas
 
-> [!note]- **Prerrequisitos**
+> [!note] **Prerrequisitos**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Manejo de magnitudes vectoriales
 > - [[Universidad/1er Semestre/Física Mecanica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Sistema de unidades

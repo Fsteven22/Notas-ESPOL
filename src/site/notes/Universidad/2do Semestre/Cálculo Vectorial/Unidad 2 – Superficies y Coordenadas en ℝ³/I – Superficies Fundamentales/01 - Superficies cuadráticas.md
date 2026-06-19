@@ -7,7 +7,7 @@
 
 ## 🎯 Fundamentos de las Superficies Cuadráticas
 
-> [!info]- 💡 Introducción a las Superficies de Segundo Grado Las **superficies cuadráticas** son superficies tridimensionales definidas por ecuaciones polinómicas de segundo grado en las variables x, y, z. Constituyen una extensión natural de las cónicas (elipse, hipérbola, parábola) al espacio tridimensional y son fundamentales en geometría analítica, física, ingeniería y computación gráfica.
+> [!info] 💡 Introducción a las Superficies de Segundo Grado Las **superficies cuadráticas** son superficies tridimensionales definidas por ecuaciones polinómicas de segundo grado en las variables x, y, z. Constituyen una extensión natural de las cónicas (elipse, hipérbola, parábola) al espacio tridimensional y son fundamentales en geometría analítica, física, ingeniería y computación gráfica.
 > 
 > **Analogías útiles:**
 > 
@@ -25,7 +25,7 @@
 
 ### 📊 Ecuación General de una Cuádrica
 
-> [!note]- 🌟 Forma General La ecuación más general de una superficie cuádrica en ℝ³ es:
+> [!note] 🌟 Forma General La ecuación más general de una superficie cuádrica en ℝ³ es:
 > 
 > $$Ax^2 + By^2 + Cz^2 + Dxy + Exz + Fyz + Gx + Hy + Iz + J = 0$$
 > 
@@ -46,7 +46,7 @@
 
 ### 📋 Tipos Principales
 
-> [!example]- 🎨 Taxonomía Completa
+> [!example] 🎨 Taxonomía Completa
 > 
 > Las superficies cuadráticas se clasifican en **17 tipos**, pero los más importantes son:
 > 
@@ -70,7 +70,7 @@
 
 ### 📐 Definición y Propiedades
 
-> [!success]- 🟢 Superficie Cerrada Fundamental
+> [!success] 🟢 Superficie Cerrada Fundamental
 > 
 > **Ecuación canónica:** $$\frac{x^2}{a^2} + \frac{y^2}{b^2} + \frac{z^2}{c^2} = 1$$
 > 
@@ -95,7 +95,7 @@
 
 ### 🔍 Secciones Planas del Elipsoide
 
-> [!tip]- ✂️ Intersección con Planos
+> [!tip] ✂️ Intersección con Planos
 > 
 > **Sección z = k (planos horizontales):** $$\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1 - \frac{k^2}{c^2}$$
 > 
@@ -115,7 +115,7 @@
 
 ### ✅ Ejemplos de Elipsoides
 
-> [!example]- 🌍 Aplicaciones Reales
+> [!example] 🌍 Aplicaciones Reales
 > 
 > **Ejemplo 1 - Esfera:** $$x^2 + y^2 + z^2 = 25$$
 > 
@@ -142,7 +142,7 @@
 
 ### 📐 Definición y Características
 
-> [!warning]- 🟡 Superficie Reglada Conexa
+> [!warning] 🟡 Superficie Reglada Conexa
 > 
 > **Ecuación canónica:** $$\frac{x^2}{a^2} + \frac{y^2}{b^2} - \frac{z^2}{c^2} = 1$$
 > 
@@ -161,7 +161,7 @@
 
 ### 🔍 Secciones Planas
 
-> [!tip]- ✂️ Análisis de Cortes
+> [!tip] ✂️ Análisis de Cortes
 > 
 > **Sección z = k (horizontal):** $$\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1 + \frac{k^2}{c^2}$$
 > 
@@ -184,7 +184,7 @@
 
 ### ✅ Ejemplos y Aplicaciones
 
-> [!example]- 🏗️ Casos Prácticos
+> [!example] 🏗️ Casos Prácticos
 > 
 > **Ejemplo 1 - Hiperboloide circular:** $$x^2 + y^2 - z^2 = 1$$
 > 
@@ -216,7 +216,7 @@
 
 ### 📐 Definición y Propiedades
 
-> [!warning]- 🔴 Superficie Disconnexa
+> [!warning] 🔴 Superficie Disconnexa
 > 
 > **Ecuación canónica:** $$-\frac{x^2}{a^2} - \frac{y^2}{b^2} + \frac{z^2}{c^2} = 1$$
 > 
@@ -234,7 +234,7 @@
 
 ### 🔍 Secciones Planas
 
-> [!tip]- ✂️ Análisis de Cortes
+> [!tip] ✂️ Análisis de Cortes
 > 
 > **Sección z = k:** $$\frac{x^2}{a^2} + \frac{y^2}{b^2} = \frac{k^2}{c^2} - 1$$
 > 
@@ -254,7 +254,7 @@
 
 ### ✅ Ejemplos
 
-> [!example]- 🔭 Aplicaciones
+> [!example] 🔭 Aplicaciones
 > 
 > **Ejemplo 1 - Caso simple:** $$z^2 - x^2 - y^2 = 1$$
 > 
@@ -276,7 +276,7 @@
 
 ### 📐 Definición y Características
 
-> [!success]- 🟢 Superficie Parabólica
+> [!success] 🟢 Superficie Parabólica
 > 
 > **Ecuación canónica:** $$\frac{x^2}{a^2} + \frac{y^2}{b^2} = z$$
 > 
@@ -296,7 +296,7 @@
 
 ### 🔍 Secciones Planas
 
-> [!tip]- ✂️ Análisis de Cortes
+> [!tip] ✂️ Análisis de Cortes
 > 
 > **Sección z = k (horizontal):** $$\frac{x^2}{a^2} + \frac{y^2}{b^2} = k$$
 > 
@@ -319,7 +319,7 @@
 
 ### ✅ Ejemplos y Aplicaciones
 
-> [!example]- 📡 Casos Prácticos
+> [!example] 📡 Casos Prácticos
 > 
 > **Ejemplo 1 - Paraboloide circular:** $$z = x^2 + y^2$$
 > 
@@ -345,7 +345,7 @@
 
 ### 📐 Definición y Propiedades
 
-> [!warning]- 🟡 Superficie en Silla
+> [!warning] 🟡 Superficie en Silla
 > 
 > **Ecuación canónica:** $$\frac{x^2}{a^2} - \frac{y^2}{b^2} = z$$
 > 
@@ -365,7 +365,7 @@
 
 ### 🔍 Secciones Planas
 
-> [!tip]- ✂️ Análisis de Cortes
+> [!tip] ✂️ Análisis de Cortes
 > 
 > **Sección z = k (horizontal):** $$\frac{x^2}{a^2} - \frac{y^2}{b^2} = k$$
 > 
@@ -389,7 +389,7 @@
 
 ### ✅ Ejemplos y Aplicaciones
 
-> [!example]- 🏗️ Casos Arquitectónicos
+> [!example] 🏗️ Casos Arquitectónicos
 > 
 > **Ejemplo 1 - Caso simple:** $$z = x^2 - y^2$$
 > 
@@ -422,7 +422,7 @@
 
 ### 📐 Definición y Características
 
-> [!info]- 🔵 Superficie Cónica
+> [!info] 🔵 Superficie Cónica
 > 
 > **Ecuación canónica:** $$\frac{x^2}{a^2} + \frac{y^2}{b^2} - \frac{z^2}{c^2} = 0$$
 > 
@@ -440,7 +440,7 @@
 
 ### 🔍 Secciones Planas
 
-> [!tip]- ✂️ Análisis de Cortes
+> [!tip] ✂️ Análisis de Cortes
 > 
 > **Sección z = k (horizontal):** $$\frac{x^2}{a^2} + \frac{y^2}{b^2} = \frac{k^2}{c^2}$$
 > 
@@ -459,7 +459,7 @@
 
 ### ✅ Ejemplos
 
-> [!example]- 🌋 Aplicaciones
+> [!example] 🌋 Aplicaciones
 > 
 > **Ejemplo 1 - Cono circular:** $$x^2 + y^2 = z^2$$
 > 
@@ -479,7 +479,7 @@
 
 ## 📊 Tabla Comparativa de Cuádricas
 
-> [!example]- 📋 Resumen Visual
+> [!example] 📋 Resumen Visual
 > 
 > |Superficie|Ecuación|Secciones Horizontales|Secciones Verticales|Cerrada|
 > |---|---|---|---|---|
@@ -494,7 +494,7 @@
 
 ### 🎯 Método Sistemático
 
-> [!tip]- 🔎 Algoritmo de Clasificación
+> [!tip] 🔎 Algoritmo de Clasificación
 > 
 > **Paso 1: Simplificar la ecuación**
 > - Agrupar términos cuadráticos, lineales y constantes
@@ -525,7 +525,7 @@
 
 ### ✅ Ejemplos de Identificación
 
-> [!example]- 🔍 Casos Prácticos
+> [!example] 🔍 Casos Prácticos
 > 
 > **Ejemplo 1:** $$4x^2 + 9y^2 + 36z^2 = 36$$
 > 
@@ -568,7 +568,7 @@
 
 ### 📐 Técnicas de Graficación
 
-> [!note]- ✏️ Estrategias para Dibujar
+> [!note] ✏️ Estrategias para Dibujar
 > 
 > **Método 1 - Secciones planas:**
 > 
@@ -617,7 +617,7 @@
 
 ### 🔄 Reducción a Forma Canónica
 
-> [!warning]- 🟡 Ecuaciones con Términos Cruzados
+> [!warning] 🟡 Ecuaciones con Términos Cruzados
 > 
 > **Problema:** Cuando la ecuación contiene términos como xy, xz, yz: $$Ax^2 + By^2 + Cz^2 + Dxy + Exz + Fyz + Gx + Hy + Iz + J = 0$$
 > 
@@ -642,7 +642,7 @@
 
 ### ✅ Ejemplo de Rotación
 
-> [!example]- 🔄 Caso con Término Cruzado
+> [!example] 🔄 Caso con Término Cruzado
 > 
 > **Ejemplo:** $$xy + xz + yz = 1$$
 > 
@@ -660,7 +660,7 @@
 
 ### 🐍 Código Python para Cuádricas
 
-> [!success]- 💻 Herramientas de Visualización
+> [!success] 💻 Herramientas de Visualización
 > 
 > ```python
 > import numpy as np
@@ -884,7 +884,7 @@
 
 ### 🏗️ Ingeniería y Arquitectura
 
-> [!example]- 🏛️ Casos Reales
+> [!example] 🏛️ Casos Reales
 > 
 > **1. Torres de enfriamiento (Hiperboloide de 1 hoja):**
 > 
@@ -917,7 +917,7 @@
 
 ### 🔭 Astronomía y Física
 
-> [!note]- 🌌 Aplicaciones Científicas
+> [!note] 🌌 Aplicaciones Científicas
 > 
 > **1. Órbitas planetarias:**
 > 
@@ -942,7 +942,7 @@
 
 ### 📡 Computación Gráfica
 
-> [!tip]- 🎮 Aplicaciones Digitales
+> [!tip] 🎮 Aplicaciones Digitales
 > 
 > **1. Renderizado 3D:**
 > 
@@ -990,7 +990,7 @@
 
 ## 🧪 Ejercicios Progresivos
 
-> [!example]- 💪 Práctica Graduada
+> [!example] 💪 Práctica Graduada
 > 
 > **Nivel 1 - Identificación Básica:** 🟢
 > 
@@ -1033,7 +1033,7 @@
 
 ## 🎯 Métodos de Estudio
 
-> [!tip]- 🧠 Estrategias de Aprendizaje
+> [!tip] 🧠 Estrategias de Aprendizaje
 > 
 > **Para memorizar tipos:**
 > 
@@ -1078,7 +1078,7 @@
 
 ## 📚 Conexiones Conceptuales
 
-> [!quote]- 🔗 Enlaces con Otros Temas
+> [!quote] 🔗 Enlaces con Otros Temas
 > 
 > **Prerequisitos:**
 > 
@@ -1093,7 +1093,7 @@
 > - [[Coordenadas cilíndricas y esféricas\|Coordenadas cilíndricas y esféricas]] - Simplifica ecuaciones
 > - [[Superficies de revolución\|Superficies de revolución]] - Caso especial de cuádricas
 > - [[Superficies cilíndricas\|Superficies cilíndricas]] - Cuádricas sin variable z
-> - [[Cálculo vectorial\|Cálculo vectorial]] - Gradientes y normales
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Cálculo Vectorial\|Cálculo vectorial]] - Gradientes y normales
 > - [[Curvas de nivel\|Curvas de nivel]] - Secciones planas
 > 
 > **Aplicaciones directas:**
@@ -1107,7 +1107,7 @@
 > 
 > - [[Geometría diferencial\|Geometría diferencial]] - Curvaturas principales
 > - [[Topología\|Topología]] - Clasificación de superficies
-> - [[Álgebra lineal\|Álgebra lineal]] - Diagonalización de formas cuadráticas
+> - [[Universidad/2do Semestre/Algebra Lineal/Álgebra Lineal\|Álgebra lineal]] - Diagonalización de formas cuadráticas
 > - [[Geometría proyectiva\|Geometría proyectiva]] - Teoremas de Desargues y Pascal
 
 ## 📊 Diagrama Conceptual
@@ -1166,7 +1166,7 @@ graph TD
 
 ### 📐 Superficies Degeneradas
 
-> [!warning]- ⚠️ Casos Límite
+> [!warning] ⚠️ Casos Límite
 > 
 > **1. Plano único:**
 > 
@@ -1201,7 +1201,7 @@ graph TD
 
 ### ✅ Ejemplos de Casos Degenerados
 
-> [!example]- 🔍 Identificación
+> [!example] 🔍 Identificación
 > 
 > **Ejemplo 1:** $$x^2 + 2xy + y^2 = 1$$ $$(x + y)^2 = 1$$ $$x + y = \pm 1$$
 > 
@@ -1219,7 +1219,7 @@ graph TD
 
 ### 🔄 Superficies Regladas
 
-> [!note]- 📏 Generación por Rectas
+> [!note] 📏 Generación por Rectas
 > 
 > **Definición:** Una superficie es **reglada** si puede generarse mediante el movimiento de una recta.
 > 
@@ -1252,7 +1252,7 @@ graph TD
 
 ### 🎯 Focos y Propiedades Ópticas
 
-> [!success]- 🔦 Reflexión de Luz
+> [!success] 🔦 Reflexión de Luz
 > 
 > **Paraboloide de revolución:**
 > 
@@ -1275,7 +1275,7 @@ graph TD
 
 ## 💡 Problemas Desafiantes
 
-> [!example]- 🏆 Ejercicios Avanzados
+> [!example] 🏆 Ejercicios Avanzados
 > 
 > **Desafío 1 - Optimización:** Encontrar el punto del elipsoide $\frac{x^2}{9} + \frac{y^2}{4} + \frac{z^2}{1} = 1$ que está más alejado del origen.
 > 
@@ -1307,7 +1307,7 @@ graph TD
 
 ### 📐 Invariantes de una Cuádrica
 
-> [!note]- 🔢 Cantidades Invariantes
+> [!note] 🔢 Cantidades Invariantes
 > 
 > Para la ecuación general: $$Ax^2 + By^2 + Cz^2 + Dxy + Exz + Fyz + Gx + Hy + Iz + J = 0$$
 > 
@@ -1327,7 +1327,7 @@ graph TD
 
 ### 🔄 Clasificación por Signatura
 
-> [!tip]- ⚖️ Ley de Inercia de Sylvester
+> [!tip] ⚖️ Ley de Inercia de Sylvester
 > 
 > La **signatura** de una forma cuadrática es el triplete (p, n, z) donde:
 > 
@@ -1352,7 +1352,7 @@ graph TD
 
 ### 🐍 Análisis Completo con Python
 
-> [!success]- 💻 Suite Completa de Análisis
+> [!success] 💻 Suite Completa de Análisis
 > 
 > ```python
 > import numpy as np
@@ -1536,7 +1536,7 @@ graph TD
 
 ## 🎯 Consejos Finales
 
-> [!tip]- 🌟 Recomendaciones del Experto
+> [!tip] 🌟 Recomendaciones del Experto
 > 
 > **Para dominar cuádricas:**
 > 

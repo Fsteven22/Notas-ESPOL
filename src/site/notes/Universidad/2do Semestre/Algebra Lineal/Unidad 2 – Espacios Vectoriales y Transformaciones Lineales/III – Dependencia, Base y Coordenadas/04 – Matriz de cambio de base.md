@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Por qué necesitamos Matrices de Cambio de Base?
+> [!info] 💡 ¿Por qué necesitamos Matrices de Cambio de Base?
 > 
 > **Problema:** En el capítulo anterior vimos que cambiar coordenadas requiere dos pasos:
 > 
@@ -43,7 +43,7 @@
 
 ### Matriz de Cambio de Base
 
-> [!note]- 📋 Definición Principal
+> [!note] 📋 Definición Principal
 > 
 > Sean $\mathcal{B} = \left\{\vec{v}_1, \ldots, \vec{v}_n\right\}$ y $\mathcal{C} = \left\{\vec{w}_1, \ldots, \vec{w}_n\right\}$ bases de $V$.
 > 
@@ -69,7 +69,7 @@
 > - La flecha apunta hacia donde QUEREMOS llegar
 > - Multiplica coordenadas en $\mathcal{B}$ para obtener coordenadas en $\mathcal{C}$
 
-> [!warning]- ⚠️ Dirección de la Flecha
+> [!warning] ⚠️ Dirección de la Flecha
 > 
 > **CUIDADO:** La notación puede confundir.
 > 
@@ -89,7 +89,7 @@
 
 ### Construcción de la Matriz
 
-> [!tip]- 🛠️ Cómo Construir $P_{\mathcal{C} \leftarrow \mathcal{B}}$
+> [!tip] 🛠️ Cómo Construir $P_{\mathcal{C} \leftarrow \mathcal{B}}$
 > 
 > **Algoritmo paso a paso:**
 > 
@@ -114,7 +114,7 @@
 
 ### Ejemplo 1: Cambio en $\mathbb{R}^2$
 
-> [!example]- 📝 Bases Simples
+> [!example] 📝 Bases Simples
 > 
 > **Base 1:** $$\mathcal{B} = \left\{\vec{v}_1 = \begin{bmatrix} 1 \\ 1 \end{bmatrix}, \vec{v}_2 = \begin{bmatrix} 1 \\ -1 \end{bmatrix}\right\}$$
 > 
@@ -174,7 +174,7 @@
 
 ### Ejemplo 2: Cambio desde Base Canónica
 
-> [!example]- 📝 Caso Especial Importante
+> [!example] 📝 Caso Especial Importante
 > 
 > **Base canónica:** $$\mathcal{E} = \left\{\vec{e}_1 = \begin{bmatrix} 1 \\ 0 \end{bmatrix}, \vec{e}_2 = \begin{bmatrix} 0 \\ 1 \end{bmatrix}\right\}$$
 > 
@@ -224,7 +224,7 @@
 
 ### Ejemplo 3: En $\mathbb{R}^3$
 
-> [!example]- 📝 Tres Dimensiones
+> [!example] 📝 Tres Dimensiones
 > 
 > **Base 1:** $$\mathcal{B} = \left\{\begin{bmatrix} 1 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 1 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 1 \\ 1 \\ 1 \end{bmatrix}\right\}$$
 > 
@@ -258,7 +258,7 @@
 
 ### Método Matricial Aumentado
 
-> [!tip]- 🛠️ Algoritmo Sistemático
+> [!tip] 🛠️ Algoritmo Sistemático
 > 
 > **Para encontrar $P_{\mathcal{C} \leftarrow \mathcal{B}}$:**
 > 
@@ -271,7 +271,7 @@
 > 
 > **Ventaja:** Un solo proceso de eliminación.
 
-> [!example]- 📝 Ejemplo Completo
+> [!example] 📝 Ejemplo Completo
 > 
 > $$\mathcal{B} = \left\{\begin{bmatrix} 1 \\ 2 \end{bmatrix}, \begin{bmatrix} 3 \\ 4 \end{bmatrix}\right\}, \quad \mathcal{C} = \left\{\begin{bmatrix} 1 \\ 1 \end{bmatrix}, \begin{bmatrix} 1 \\ -1 \end{bmatrix}\right\}$$
 > 
@@ -299,7 +299,7 @@
 
 ### Propiedad 1: Invertibilidad
 
-> [!note]- 🔄 Las Matrices de Cambio de Base son Invertibles
+> [!note] 🔄 Las Matrices de Cambio de Base son Invertibles
 > 
 > **Teorema:** $P_{\mathcal{C} \leftarrow \mathcal{B}}$ es siempre invertible y:
 > 
@@ -325,7 +325,7 @@
 
 ### Propiedad 2: Composición
 
-> [!note]- 🔗 Encadenar Cambios de Base
+> [!note] 🔗 Encadenar Cambios de Base
 > 
 > **Teorema:** Si tenemos tres bases $\mathcal{B}$, $\mathcal{C}$, $\mathcal{D}$:
 > 
@@ -350,7 +350,7 @@
 
 ### Propiedad 3: Caso Especial - Base Canónica
 
-> [!note]- ⭐ Simplificación Importante
+> [!note] ⭐ Simplificación Importante
 > 
 > **Si $\mathcal{E}$ es la base canónica:**
 > 
@@ -376,7 +376,7 @@
 
 ### Aplicación 1: Simplificación de Problemas
 
-> [!example]- 🎯 Elegir la Base Correcta
+> [!example] 🎯 Elegir la Base Correcta
 > 
 > **Problema:** Resolver sistema de ecuaciones diferenciales:
 > 
@@ -402,7 +402,7 @@
 
 ### Aplicación 2: Gráficos por Computadora
 
-> [!example]- 🎮 Transformaciones 3D
+> [!example] 🎮 Transformaciones 3D
 > 
 > **Escenario:** Objeto 3D con sistema local de coordenadas.
 > 
@@ -424,7 +424,7 @@
 > **Ventaja:** Una multiplicación matricial por vértice
 > ### Aplicación 3: Procesamiento de Señales
 
-> [!example]- 📡 Análisis Tiempo-Frecuencia
+> [!example] 📡 Análisis Tiempo-Frecuencia
 > 
 > **Bases en procesamiento de señales:**
 > 
@@ -451,7 +451,7 @@
 
 ### Aplicación 4: Machine Learning - PCA
 
-> [!example]- 🤖 Reducción de Dimensionalidad
+> [!example] 🤖 Reducción de Dimensionalidad
 > 
 > **Contexto:** Datos de alta dimensión en $\mathbb{R}^n$
 > 
@@ -488,7 +488,7 @@
 
 ### Bases Ortogonales
 
-> [!tip]- ⭐ Simplificación para Bases Ortogonales
+> [!tip] ⭐ Simplificación para Bases Ortogonales
 > 
 > **Si $\mathcal{B}$ y $\mathcal{C}$ son bases ortogonales:**
 > 
@@ -504,7 +504,7 @@
 > 
 > $$P^{-1} = P^T \quad \text{(matriz ortogonal)}$$
 
-> [!example]- 📝 Rotación en $\mathbb{R}^2$
+> [!example] 📝 Rotación en $\mathbb{R}^2$
 > 
 > **Base canónica:** $$\mathcal{E} = \left\{\begin{bmatrix} 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \end{bmatrix}\right\}$$
 > 
@@ -524,7 +524,7 @@
 
 ### Bases Triangulares
 
-> [!tip]- 🔺 Estructura Especial
+> [!tip] 🔺 Estructura Especial
 > 
 > **Base triangular superior:**
 > 
@@ -544,7 +544,7 @@
 
 ### Estrategia 1: Vía Base Canónica
 
-> [!tip]- 🛠️ Método Indirecto
+> [!tip] 🛠️ Método Indirecto
 > 
 > **Para encontrar $P_{\mathcal{C} \leftarrow \mathcal{B}}$:**
 > 
@@ -567,7 +567,7 @@
 > 
 > **Cuándo usar:** Cuando las bases NO son canónicas y es más fácil invertir que resolver sistemas
 
-> [!example]- 📝 Ejemplo
+> [!example] 📝 Ejemplo
 > 
 > $$\mathcal{B} = \left\{\begin{bmatrix} 1 \\ 2 \end{bmatrix}, \begin{bmatrix} 3 \\ 5 \end{bmatrix}\right\}, \quad \mathcal{C} = \left\{\begin{bmatrix} 2 \\ 1 \end{bmatrix}, \begin{bmatrix} 1 \\ 1 \end{bmatrix}\right\}$$
 > 
@@ -589,7 +589,7 @@
 
 ### Estrategia 2: Método Directo (Aumentado)
 
-> [!tip]- 🛠️ Una Sola Eliminación
+> [!tip] 🛠️ Una Sola Eliminación
 > 
 > **Formar matriz aumentada:**
 > 
@@ -609,7 +609,7 @@
 
 ### Estrategia 3: Verificación
 
-> [!tip]- ✅ Cómo Verificar Resultados
+> [!tip] ✅ Cómo Verificar Resultados
 > 
 > **Método 1:** Verificar que $P^{-1} = P_{\text{inverso}}$
 > 
@@ -630,7 +630,7 @@
 
 ## 📊 Tabla Resumen
 
-> [!summary]- 📋 Referencia Rápida
+> [!summary] 📋 Referencia Rápida
 > 
 > ### Fórmulas Principales
 > 
@@ -682,7 +682,7 @@
 
 ### Nivel Básico
 
-> [!example]- 💪 Ejercicios Fundamentales
+> [!example] 💪 Ejercicios Fundamentales
 > 
 > **1.** En $\mathbb{R}^2$:
 > 
@@ -726,7 +726,7 @@
 
 ### Nivel Intermedio
 
-> [!example]- 💪 Desafío Moderado
+> [!example] 💪 Desafío Moderado
 > 
 > **6.** Dadas las bases en $\mathbb{R}^2$:
 > 
@@ -774,7 +774,7 @@
 
 ### Nivel Avanzado
 
-> [!example]- 💪 Desafío Avanzado
+> [!example] 💪 Desafío Avanzado
 > 
 > **11.** Base de rotación en $\mathbb{R}^2$:
 > 
@@ -838,7 +838,7 @@
 
 ### Soluciones Básicas
 
-> [!success]- 🔑 Respuestas Nivel 1
+> [!success] 🔑 Respuestas Nivel 1
 > 
 > **1.**
 > 
@@ -908,7 +908,7 @@
 
 ### Soluciones Intermedias
 
-> [!success]- 🔑 Respuestas Nivel 2
+> [!success] 🔑 Respuestas Nivel 2
 > 
 > **6.** Matriz aumentada:
 > 
@@ -1028,7 +1028,7 @@
 
 ### Soluciones Avanzadas
 
-> [!success]- 🔑 Respuestas Nivel 3
+> [!success] 🔑 Respuestas Nivel 3
 > 
 > **11.** 
 > 
@@ -1178,7 +1178,7 @@
 
 ## 🌟 Conceptos Clave para Recordar
 
-> [!tip]- 💡 Puntos Esenciales
+> [!tip] 💡 Puntos Esenciales
 > 
 > ### Sobre la Matriz de Cambio de Base
 > 
@@ -1275,7 +1275,7 @@
 
 ## 🔗 Notas Relacionadas
 
-> [!quote]- 🌐 Conexiones Conceptuales
+> [!quote] 🌐 Conexiones Conceptuales
 > 
 > ### Prerequisitos:
 > 
@@ -1344,7 +1344,7 @@
 
 ## 📚 Resumen Ejecutivo
 
-> [!summary]- 🎯 Lo Esencial
+> [!summary] 🎯 Lo Esencial
 > 
 > ### Idea Central
 > 
@@ -1413,7 +1413,7 @@
 
 ## 🎯 Errores Comunes y Cómo Evitarlos
 
-> [!warning]- ⚠️ Trampas Frecuentes
+> [!warning] ⚠️ Trampas Frecuentes
 > 
 > ### Error 1: Confundir Dirección de la Flecha
 > 
@@ -1530,7 +1530,7 @@
 
 ## 💻 Ejemplos Computacionales
 
-> [!example]- 🖥️ Implementación en Python/NumPy
+> [!example] 🖥️ Implementación en Python/NumPy
 > 
 > ```python
 > import numpy as np
@@ -1613,7 +1613,7 @@
 >  [0. 1.]]
 > ```
 
-> [!example]- 🖥️ Ejemplo con Bases Ortonormales
+> [!example] 🖥️ Ejemplo con Bases Ortonormales
 > 
 > ```python
 > import numpy as np
@@ -1655,7 +1655,7 @@
 > print(f"Norma preservada: ||u_E|| = {np.linalg.norm(u_E):.4f}, ||u_B|| = {np.linalg.norm(u_B):.4f}")
 > ```
 
-> [!example]- 🖥️ Aplicación: Diagonalización
+> [!example] 🖥️ Aplicación: Diagonalización
 > 
 > ```python
 > import numpy as np
@@ -1718,7 +1718,7 @@
 
 ## 🎨 Visualización Geométrica
 
-> [!note]- 📊 Interpretación Visual
+> [!note] 📊 Interpretación Visual
 > 
 > ### Cambio de Base en R²
 > 
@@ -1796,7 +1796,7 @@
 
 ## 🔬 Teoría Profunda (Opcional)
 
-> [!note]- 🎓 Conexión con Teoría de Grupos
+> [!note] 🎓 Conexión con Teoría de Grupos
 > 
 > ### Las Matrices de Cambio de Base Forman un Grupo
 > 
@@ -1819,7 +1819,7 @@
 > - $SO(n)$: Matrices ortogonales con $\det = 1$ (rotaciones)
 > - $U(n)$: Matrices unitarias (espacios complejos)
 
-> [!note]- 🎓 Relación con Isomorfismos
+> [!note] 🎓 Relación con Isomorfismos
 > 
 > ### Cambio de Base como Isomorfismo
 > 
@@ -1846,7 +1846,7 @@
 > - Arriba: quedarse en $V$ (identidad)
 > - Abajo: $\mathcal{B} \to \mathbb{R}^n \to \mathbb{R}^n$ vía $P$
 
-> [!note]- 🎓 Invariantes bajo Cambio de Base
+> [!note] 🎓 Invariantes bajo Cambio de Base
 > 
 > ### Propiedades que NO Cambian
 > 
@@ -1875,7 +1875,7 @@
 ---
 ## 📊 Tabla de Resumen de Conceptos
 
-> [!summary]- 📋 Resumen Completo del Capítulo
+> [!summary] 📋 Resumen Completo del Capítulo
 > 
 > ### Conceptos Fundamentales
 > 
@@ -2073,7 +2073,7 @@
 
 ## 📑 Índice de Referencia Rápida
 
-> [!note]- 🔍 Búsqueda Rápida por Tema
+> [!note] 🔍 Búsqueda Rápida por Tema
 > 
 > ### Por Concepto
 > 

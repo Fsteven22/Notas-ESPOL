@@ -7,11 +7,11 @@
 
 > [!quote] "El error no está en equivocarse, sino en no saber cuánto nos equivocamos." 🎯
 
-> [!info]- Toda medición experimental contiene inevitablemente cierto grado de incertidumbre. Los errores absolutos y relativos son herramientas fundamentales para cuantificar y comparar la precisión de nuestras mediciones, permitiéndonos evaluar la confiabilidad de nuestros resultados experimentales.
+> [!info] Toda medición experimental contiene inevitablemente cierto grado de incertidumbre. Los errores absolutos y relativos son herramientas fundamentales para cuantificar y comparar la precisión de nuestras mediciones, permitiéndonos evaluar la confiabilidad de nuestros resultados experimentales.
 
 ## 🔧 Conceptos Fundamentales
 
-> [!info]- **Definiciones Básicas** 📐
+> [!info] **Definiciones Básicas** 📐
 > 
 > ### Terminología Esencial:
 > 
@@ -31,7 +31,7 @@
 > - **Error porcentual**: Se expresa en **porcentaje (%)**
 > - **Signo del error**: Positivo si se sobrestima, negativo si se subestima
 
-> [!tip]- **Tipos de Errores** 🌊
+> [!tip] **Tipos de Errores** 🌊
 > 
 > ### Clasificación por Origen:
 > 
@@ -64,7 +64,7 @@
 > |**Moderado**|5-10%|⚠️ Aceptable|Mediciones técnicas|
 > |**Grande**|> 10%|❌ Inaceptable|Requiere mejora del método|
 
-> [!warning]- **Fórmulas Fundamentales** ⚡
+> [!warning] **Fórmulas Fundamentales** ⚡
 > 
 > ### Error Absoluto:
 > 
@@ -110,7 +110,7 @@
 >     style G fill:#e0f2f1
 > ```
 
-> [!note]- **Métodos de Cálculo** 📝
+> [!note] **Métodos de Cálculo** 📝
 > 
 > ### Para Medición Única:
 > 
@@ -141,7 +141,7 @@
 
 ## 🎯 Estrategias de Cálculo
 
-> [!tip]- **Método VERA (Valor-Error-Relativo-Análisis)** 🧠
+> [!tip] **Método VERA (Valor-Error-Relativo-Análisis)** 🧠
 > 
 > ### **V**alor - Determina el valor de referencia
 > 
@@ -169,7 +169,7 @@
 
 ## 📚 Ejemplos Prácticos
 
-> [!example]- **Ejemplo 1: Medición de Longitud** 📏
+> [!example] **Ejemplo 1: Medición de Longitud** 📏
 > 
 > ### Situación:
 > 
@@ -195,7 +195,7 @@
 > - **Error relativo del 1.0%** (aceptable para mediciones con regla)
 > - **Posible causa**: Paralaje, deformación de la regla, error de lectura
 
-> [!example]- **Ejemplo 2: Múltiples Mediciones** 🔢
+> [!example] **Ejemplo 2: Múltiples Mediciones** 🔢
 > 
 > ### Situación:
 > 
@@ -227,7 +227,7 @@
 > 
 > **T = (2.002 ± 0.011) s** con error relativo de **0.1%**
 
-> [!example]- **Ejemplo 3: Comparación de Instrumentos** 🔍
+> [!example] **Ejemplo 3: Comparación de Instrumentos** 🔍
 > 
 > ### Situación:
 > 
@@ -262,12 +262,12 @@
 
 ## 🧮 Técnicas de Memorización
 
-> [!tip]- **Mnemotecnia: "MEDIR"** 🎯
+> [!tip] **Mnemotecnia: "MEDIR"** 🎯
 > 
 > **M**edición vs valor verdadero **E**rror absoluto = diferencia  
 > **D**ividir entre verdadero **I**rrelativo = sin unidades **R**esultado en porcentaje × 100
 
-> [!tip]- **Reglas Prácticas** 📏
+> [!tip] **Reglas Prácticas** 📏
 > 
 > ### Para Error Relativo:
 > 
@@ -284,7 +284,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- **Confusiones Frecuentes** ⚠️
+> [!warning] **Confusiones Frecuentes** ⚠️
 > 
 > 1. **Confundir exactitud con precisión**:
 >     - **Exactitud**: Cercanía al valor verdadero
@@ -306,7 +306,7 @@
 
 ## 🎯 Criterios de Aceptabilidad
 
-> [!info]- **Estándares por Disciplina** 🌍
+> [!info] **Estándares por Disciplina** 🌍
 > 
 > ### Física de Laboratorio (Estudiante):
 > 
@@ -335,7 +335,7 @@
 
 ## 🔬 Aplicaciones en Laboratorio
 
-> [!info]- **Experimentos Típicos** 🧪
+> [!info] **Experimentos Típicos** 🧪
 > 
 > ### Mecánica:
 > 
@@ -362,7 +362,7 @@
 
 ## 📖 Referencias
 
-> [!quote]- **Notas Relacionadas**
+> [!quote] **Notas Relacionadas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Mediciones e Instrumentos/Mediciones Fundamentales\|Mediciones Fundamentales]] - Base conceptual
 > - [[Uso del Calibrador de Vernier\|Uso del Calibrador de Vernier]] - Aplicación práctica
@@ -371,13 +371,13 @@
 
 ## 📚 Notas Recomendadas
 
-> [!note]- **Prerrequisitos**
+> [!note] **Prerrequisitos**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Mediciones e Instrumentos/Mediciones Fundamentales\|Mediciones Fundamentales]] - Conceptos básicos
 > - **Estadística básica**: Promedio, desviación estándar
 > - **Álgebra**: Operaciones con decimales y porcentajes
 
-> [!note]- **Temas Siguientes**
+> [!note] **Temas Siguientes**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis de Datos y Errores/Incertidumbres Experimentales\|Incertidumbres Experimentales]] - Propagación de errores
 > - [[Tratamiento Estadístico de Datos\|Tratamiento Estadístico de Datos]] - Análisis avanzado

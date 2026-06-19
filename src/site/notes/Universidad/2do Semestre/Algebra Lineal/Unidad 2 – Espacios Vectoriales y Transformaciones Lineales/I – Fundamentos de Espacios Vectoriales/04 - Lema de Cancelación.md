@@ -7,7 +7,7 @@
 
 ## 🌟 Concepto Fundamental
 
-> [!info]- Definición Intuitiva **El Lema de Cancelación es una propiedad fundamental en estructuras algebraicas que permite "cancelar" o "eliminar" términos comunes en ambos lados de una ecuación bajo ciertas condiciones. En álgebra lineal, se manifiesta principalmente en espacios vectoriales y transformaciones lineales, estableciendo cuándo podemos simplificar expresiones vectoriales de manera similar a como cancelamos en aritmética.**
+> [!info] Definición Intuitiva **El Lema de Cancelación es una propiedad fundamental en estructuras algebraicas que permite "cancelar" o "eliminar" términos comunes en ambos lados de una ecuación bajo ciertas condiciones. En álgebra lineal, se manifiesta principalmente en espacios vectoriales y transformaciones lineales, estableciendo cuándo podemos simplificar expresiones vectoriales de manera similar a como cancelamos en aritmética.**
 > 
 > **Características clave:**
 > 
@@ -20,7 +20,7 @@
 
 ### 📖 Contexto Histórico
 
-> [!note]- Desarrollo Histórico **Antigüedad - Aritmética elemental (300 a.C.):**
+> [!note] Desarrollo Histórico **Antigüedad - Aritmética elemental (300 a.C.):**
 > 
 > - **Euclides (300 a.C.):** _Elementos_
 >     - Axiomas de igualdad (Axioma de Euclides)
@@ -83,7 +83,7 @@
 
 ## 📐 Lema de Cancelación Aditiva
 
-> [!important]- En Grupos y Espacios Vectoriales **Enunciado formal:**
+> [!important] En Grupos y Espacios Vectoriales **Enunciado formal:**
 > 
 > ```
 > Sea (V, +) un espacio vectorial (o grupo abeliano).
@@ -187,7 +187,7 @@
 
 ## 🎯 Lema de Cancelación Multiplicativa
 
-> [!success]- En Anillos y Cuerpos **Cancelación en cuerpos:**
+> [!success] En Anillos y Cuerpos **Cancelación en cuerpos:**
 > 
 > ```
 > Sea 𝔽 un cuerpo (ℝ, ℂ, ℚ, etc.)
@@ -301,7 +301,7 @@
 
 ## 🔷 Lema de Cancelación Escalar
 
-> [!note]- En Espacios Vectoriales **Cancelación de escalares:**
+> [!note] En Espacios Vectoriales **Cancelación de escalares:**
 > 
 > ```
 > Sea V un espacio vectorial sobre 𝔽
@@ -394,7 +394,7 @@
 
 ## 📊 Tabla Comparativa
 
-> [!tip]- Cuándo Aplica el Lema
+> [!tip] Cuándo Aplica el Lema
 > 
 > ```
 > LEMA DE CANCELACIÓN - VALIDEZ POR ESTRUCTURA
@@ -421,7 +421,7 @@
 
 ## 🧮 Problemas Resueltos
 
-> [!example]- Ejemplos Detallados **Problema 1: Cancelación vectorial básica**
+> [!example] Ejemplos Detallados **Problema 1: Cancelación vectorial básica**
 > 
 > ```
 > En ℝ³, resolver:
@@ -689,7 +689,7 @@
 
 ## 🔍 Generalizaciones
 
-> [!important]- Extensiones del Concepto **Cancelación en módulos:**
+> [!important] Extensiones del Concepto **Cancelación en módulos:**
 > 
 > ```
 > Un módulo M sobre un anillo R generaliza
@@ -765,7 +765,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- Malentendidos Frecuentes **1. "Siempre se puede cancelar"**
+> [!warning] Malentendidos Frecuentes **1. "Siempre se puede cancelar"**
 > 
 > ```
 > ✗ FALSO
@@ -874,7 +874,7 @@
 
 ## 🎯 Aplicaciones Prácticas
 
-> [!note]- Usos en Álgebra Lineal **Resolución de sistemas lineales:**
+> [!note] Usos en Álgebra Lineal **Resolución de sistemas lineales:**
 > 
 > ```
 > Sistema: Ax = b
@@ -953,7 +953,7 @@
 
 ## 🔗 Conexiones con Otros Temas
 
-> [!quote]- Enlaces Conceptuales **Fundamentos previos:**
+> [!quote] Enlaces Conceptuales **Fundamentos previos:**
 > 
 > - [[Axiomas de espacios vectoriales\|Axiomas de espacios vectoriales]] - Propiedades básicas
 > - [[Grupos y estructuras algebraicas\|Grupos y estructuras algebraicas]] - Contexto general
@@ -977,7 +977,7 @@
 
 ## 📋 Tabla de Resumen
 
-> [!important]- Guía Rápida
+> [!important] Guía Rápida
 > 
 > ```
 > LEMA DE CANCELACIÓN - GUÍA DE USO
@@ -1013,7 +1013,7 @@
 
 ## 💡 Intuición Geométrica
 
-> [!tip]- Interpretación Visual **Traslaciones (cancelación aditiva):**
+> [!tip] Interpretación Visual **Traslaciones (cancelación aditiva):**
 > 
 > ```
 > En ℝ²:
@@ -1074,7 +1074,7 @@
 
 ## 📚 Teoremas Relacionados
 
-> [!success]- Resultados Importantes **Teorema de cancelación en grupos:**
+> [!success] Resultados Importantes **Teorema de cancelación en grupos:**
 > 
 > ```
 > Sea (G, ·) un grupo.

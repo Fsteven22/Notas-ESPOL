@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es una Función Vectorial de Variable Vectorial?
+> [!info] 💡 ¿Qué es una Función Vectorial de Variable Vectorial?
 > 
 > Una **función vectorial de variable vectorial** es una transformación que toma un vector (o punto) en ℝⁿ y produce otro vector en ℝᵐ. Estas funciones son fundamentales en cálculo multivariable y modelan transformaciones geométricas, campos vectoriales y sistemas dinámicos.
 > 
@@ -66,7 +66,7 @@ graph TB
 
 ### 🌟 Definición y Notación
 
-> [!example]- 📝 Formas de Representación
+> [!example] 📝 Formas de Representación
 > 
 > **Notación Vectorial:**
 > 
@@ -123,7 +123,7 @@ graph TB
 
 ### 🎨 Clasificación de Funciones Vectoriales
 
-> [!note]- 📋 Tipos Según Dimensiones
+> [!note] 📋 Tipos Según Dimensiones
 > 
 > ```mermaid
 > graph TB
@@ -211,7 +211,7 @@ graph TB
 
 ### ➕ Operaciones Algebraicas
 
-> [!success]- 🧮 Suma, Resta y Multiplicación por Escalar
+> [!success] 🧮 Suma, Resta y Multiplicación por Escalar
 > 
 > **Definiciones:**
 > 
@@ -265,7 +265,7 @@ graph TB
 
 ### ✖️ Productos Vectoriales
 
-> [!example]- 🎯 Producto Punto y Producto Cruz
+> [!example] 🎯 Producto Punto y Producto Cruz
 > 
 > **1. Producto Punto (Escalar):**
 > 
@@ -341,7 +341,7 @@ graph TB
 
 ### 🔄 Derivada Parcial
 
-> [!tip]- ∂ Definición y Cálculo
+> [!tip] ∂ Definición y Cálculo
 > 
 > **Definición:**
 > 
@@ -402,7 +402,7 @@ graph TB
 
 ### 🎯 Matriz Jacobiana
 
-> [!success]- 📊 La Derivada Total
+> [!success] 📊 La Derivada Total
 > 
 > **Definición:**
 > 
@@ -489,7 +489,7 @@ graph TB
 
 ### 🌊 Operadores Diferenciales Vectoriales
 
-> [!note]- ∇ Gradiente, Divergencia y Rotacional
+> [!note] ∇ Gradiente, Divergencia y Rotacional
 > 
 > **1. Gradiente (∇f) - De escalar a vector:**
 > 
@@ -610,7 +610,7 @@ graph TB
 
 ### 🌀 Definición y Visualización
 
-> [!example]- 🎭 Campos Vectoriales en el Plano y Espacio
+> [!example] 🎭 Campos Vectoriales en el Plano y Espacio
 > 
 > **Definición:**
 > 
@@ -700,7 +700,7 @@ graph TB
 
 ### 🛤️ Líneas de Campo
 
-> [!tip]- 📈 Curvas Integrales y Trayectorias
+> [!tip] 📈 Curvas Integrales y Trayectorias
 > 
 > **Definición:**
 > 
@@ -781,7 +781,7 @@ graph TB
 
 ### ⚡ Campos Conservativos
 
-> [!success]- 🎯 Campos con Función Potencial
+> [!success] 🎯 Campos con Función Potencial
 > 
 > **Definición:**
 > 
@@ -893,7 +893,7 @@ graph TB
 
 ### 🌡️ Problema 1: Temperatura y Gradiente
 
-> [!example]- 🎯 Campo Escalar de Temperatura
+> [!example] 🎯 Campo Escalar de Temperatura
 > 
 > **Enunciado:**
 > 
@@ -978,7 +978,7 @@ graph TB
 
 ### 🌊 Problema 2: Campo de Velocidades
 
-> [!example]- 💨 Flujo de Fluido
+> [!example] 💨 Flujo de Fluido
 > 
 > **Enunciado:**
 > 
@@ -1063,7 +1063,7 @@ graph TB
 
 ### ⚡ Problema 3: Campo Electromagnético
 
-> [!example]- 🔌 Campo Eléctrico
+> [!example] 🔌 Campo Eléctrico
 > 
 > **Enunciado:**
 > 
@@ -1152,7 +1152,7 @@ graph TB
 
 ## 🎓 Ejercicios Propuestos
 
-> [!note]- 💪 Problemas para Practicar
+> [!note] 💪 Problemas para Practicar
 > 
 > ### Nivel Básico
 > 
@@ -1278,7 +1278,7 @@ graph TB
 
 ## 🔗 Conexión con Otros Temas
 
-> [!quote]- 🌟 Temas Relacionados y Aplicaciones
+> [!quote] 🌟 Temas Relacionados y Aplicaciones
 > 
 > ```mermaid
 > mindmap
@@ -1379,7 +1379,7 @@ graph TB
 
 ## 📚 Resumen y Puntos Clave
 
-> [!success]- ✅ Conceptos Fundamentales
+> [!success] ✅ Conceptos Fundamentales
 > 
 > ### Ideas Centrales
 > 

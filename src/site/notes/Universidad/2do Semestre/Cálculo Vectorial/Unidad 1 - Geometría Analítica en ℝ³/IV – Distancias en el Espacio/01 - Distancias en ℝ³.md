@@ -7,7 +7,7 @@
 
 ## 🎯 Fundamentos de las Distancias
 
-> [!info]- 💡 Introducción a las Métricas en el Espacio Tridimensional Las **distancias en ℝ³** son medidas que cuantifican la separación entre diferentes objetos geométricos (puntos, rectas, planos) en el espacio tridimensional. Estas métricas son fundamentales para la geometría analítica y tienen aplicaciones directas en física, ingeniería, computación gráfica y análisis espacial.
+> [!info] 💡 Introducción a las Métricas en el Espacio Tridimensional Las **distancias en ℝ³** son medidas que cuantifican la separación entre diferentes objetos geométricos (puntos, rectas, planos) en el espacio tridimensional. Estas métricas son fundamentales para la geometría analítica y tienen aplicaciones directas en física, ingeniería, computación gráfica y análisis espacial.
 > 
 > **Analogías útiles:**
 > 
@@ -25,7 +25,7 @@
 
 ### 📊 Tipos de Distancias Fundamentales
 
-> [!note]- 🌟 Clasificación de Distancias en ℝ³
+> [!note] 🌟 Clasificación de Distancias en ℝ³
 > 
 > |Tipo de Distancia|Objetos Involucrados|Complejidad|Aplicación Principal|
 > |---|---|---|---|
@@ -47,7 +47,7 @@
 
 ### 🔍 Definición y Fórmula
 
-> [!example]- 🔵 Métrica Euclidiana Fundamental
+> [!example] 🔵 Métrica Euclidiana Fundamental
 > 
 > **Definición:** La distancia entre dos puntos P₁(x₁, y₁, z₁) y P₂(x₂, y₂, z₂) en ℝ³ es la longitud del segmento que los une.
 > 
@@ -65,7 +65,7 @@
 
 ### 📐 Propiedades de la Distancia Punto-Punto
 
-> [!note]- 📋 Propiedades Fundamentales
+> [!note] 📋 Propiedades Fundamentales
 > 
 > **1. No negatividad:**
 > 
@@ -92,7 +92,7 @@
 
 ### ✅ Ejemplos de Distancia Punto-Punto
 
-> [!example]- 💪 Casos Prácticos
+> [!example] 💪 Casos Prácticos
 > 
 > **Ejemplo 1 - Cálculo básico:**
 > 
@@ -121,7 +121,7 @@
 
 ### 🔍 Definición y Métodos
 
-> [!success]- 🟢 Distancia Perpendicular
+> [!success] 🟢 Distancia Perpendicular
 > 
 > **Definición:** La distancia de un punto P a una recta L es la longitud del segmento perpendicular desde P hasta L.
 > 
@@ -146,7 +146,7 @@
 
 ### 🔧 Procedimiento de Cálculo
 
-> [!tip]- 🎯 Pasos para Calcular d(P, L)
+> [!tip] 🎯 Pasos para Calcular d(P, L)
 > 
 > **Método 1 - Producto vectorial:**
 > 
@@ -179,7 +179,7 @@
 
 ### ✅ Ejemplos de Distancia Punto-Recta
 
-> [!example]- 🔗 Aplicaciones Prácticas
+> [!example] 🔗 Aplicaciones Prácticas
 > 
 > **Ejemplo 1 - Cálculo directo:**
 > 
@@ -209,7 +209,7 @@
 
 ### 🔍 Definición y Fórmula
 
-> [!warning]- 🟡 Distancia Ortogonal
+> [!warning] 🟡 Distancia Ortogonal
 > 
 > **Definición:** La distancia de un punto P a un plano π es la longitud del segmento perpendicular desde P hasta π.
 > 
@@ -235,7 +235,7 @@
 
 ### 📐 Casos Especiales
 
-> [!tip]- 🎯 Situaciones Particulares
+> [!tip] 🎯 Situaciones Particulares
 > 
 > **1. Punto en el plano:**
 > 
@@ -262,7 +262,7 @@
 
 ### ✅ Ejemplos de Distancia Punto-Plano
 
-> [!example]- 🎨 Casos Ilustrativos
+> [!example] 🎨 Casos Ilustrativos
 > 
 > **Ejemplo 1 - Cálculo estándar:**
 > 
@@ -294,7 +294,7 @@
 
 ### 🔍 Análisis de Posiciones Relativas
 
-> [!info]- 🔵 Clasificación de Rectas en ℝ³
+> [!info] 🔵 Clasificación de Rectas en ℝ³
 > 
 > **Posiciones relativas posibles:**
 > 
@@ -314,7 +314,7 @@
 
 ### 🔧 Fórmula General
 
-> [!success]- 🟢 Distancia entre Rectas Alabeadas
+> [!success] 🟢 Distancia entre Rectas Alabeadas
 > 
 > **Dadas dos rectas:**
 > 
@@ -340,7 +340,7 @@
 
 ### 📊 Procedimiento Completo
 
-> [!tip]- 🎯 Algoritmo de Cálculo
+> [!tip] 🎯 Algoritmo de Cálculo
 > 
 > **Paso 1 - Determinar posición relativa:**
 > 
@@ -368,7 +368,7 @@
 
 ### ✅ Ejemplos de Distancia Recta-Recta
 
-> [!example]- 💼 Casos Resueltos
+> [!example] 💼 Casos Resueltos
 > 
 > **Ejemplo 1 - Rectas alabeadas:**
 > 
@@ -398,7 +398,7 @@
 
 ### 🔍 Análisis de Configuraciones
 
-> [!note]- 📋 Casos Posibles
+> [!note] 📋 Casos Posibles
 > 
 > **Posiciones relativas:**
 > 
@@ -417,7 +417,7 @@
 
 ### 🔧 Fórmula para Recta Paralela a Plano
 
-> [!warning]- 🟡 Caso No Trivial
+> [!warning] 🟡 Caso No Trivial
 > 
 > **Cuando L ∥ π:**
 > 
@@ -439,7 +439,7 @@
 
 ### ✅ Ejemplos de Distancia Recta-Plano
 
-> [!example]- 🌉 Aplicaciones
+> [!example] 🌉 Aplicaciones
 > 
 > **Ejemplo 1 - Recta paralela a plano:**
 > 
@@ -468,7 +468,7 @@
 
 ### 🔍 Configuraciones Posibles
 
-> [!info]- 🔵 Relaciones entre Planos
+> [!info] 🔵 Relaciones entre Planos
 > 
 > **Posiciones relativas:**
 > 
@@ -488,7 +488,7 @@
 
 ### 🔧 Fórmula para Planos Paralelos
 
-> [!success]- 🟢 Caso de Planos Paralelos
+> [!success] 🟢 Caso de Planos Paralelos
 > 
 > **Cuando π₁ ∥ π₂ con normales proporcionales:**
 > 
@@ -516,7 +516,7 @@
 
 ### ✅ Ejemplos de Distancia Plano-Plano
 
-> [!example]- 🏗️ Casos Constructivos
+> [!example] 🏗️ Casos Constructivos
 > 
 > **Ejemplo 1 - Planos paralelos simples:**
 > 
@@ -548,7 +548,7 @@
 
 ## 📊 Tabla Resumen de Distancias
 
-> [!example]- 📋 Compendio de Fórmulas
+> [!example] 📋 Compendio de Fórmulas
 > 
 > | Objetos | Fórmula | Condiciones | Complejidad |
 > |---------|---------|-------------|-------------|
@@ -605,7 +605,7 @@ graph TD
 
 ## 🧪 Ejercicios Progresivos
 
-> [!example]- 💪 Práctica Graduada
+> [!example] 💪 Práctica Graduada
 > 
 > **Nivel 1 - Fundamentos:** 🟢
 > 
@@ -664,7 +664,7 @@ graph TD
 
 ### 🔍 Axiomas de una Métrica
 
-> [!note]- 📐 Definición Formal de Distancia
+> [!note] 📐 Definición Formal de Distancia
 > 
 > Una función d: S × S → ℝ es una **métrica** si satisface:
 > 
@@ -692,7 +692,7 @@ graph TD
 
 ### ⚖️ Comparación de Métricas
 
-> [!tip]- 🔄 Diferentes Conceptos de Distancia
+> [!tip] 🔄 Diferentes Conceptos de Distancia
 > 
 > **Visualización de métricas:**
 > 
@@ -714,7 +714,7 @@ graph TD
 
 ## 🌐 Conexiones Conceptuales
 
-> [!quote]- 🔗 Enlaces con Otros Temas
+> [!quote] 🔗 Enlaces con Otros Temas
 > 
 > **Prerequisitos:**
 > 
@@ -733,7 +733,7 @@ graph TD
 > 
 > **Temas avanzados:**
 > 
-> - [[Cálculo Vectorial\|Cálculo Vectorial]] - Gradientes y direcciones
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Cálculo Vectorial\|Cálculo Vectorial]] - Gradientes y direcciones
 > - [[Geometría Diferencial\|Geometría Diferencial]] - Métricas en variedades
 > - [[Espacios Métricos\|Espacios Métricos]] - Generalización abstracta
 > - [[Topología\|Topología]] - Bolas abiertas y cerradas
@@ -748,7 +748,7 @@ graph TD
 
 ## 💡 Consejos de Estudio
 
-> [!tip]- 🧠 Estrategias de Aprendizaje
+> [!tip] 🧠 Estrategias de Aprendizaje
 > 
 > **Para memorizar fórmulas:**
 > 
@@ -790,7 +790,7 @@ graph TD
 
 ## 🎓 Problemas Desafiantes
 
-> [!example]- 🏆 Ejercicios Avanzados
+> [!example] 🏆 Ejercicios Avanzados
 > 
 > **Desafío 1 - Optimización:** Encontrar el punto en la recta L: (1, 2, 3) + t(1, 1, 1) que está más cercano al punto P(0, 0, 0).
 > 

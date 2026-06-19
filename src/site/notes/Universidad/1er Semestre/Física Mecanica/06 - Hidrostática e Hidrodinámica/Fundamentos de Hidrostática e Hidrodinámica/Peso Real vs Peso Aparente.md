@@ -21,7 +21,7 @@
 > 
 > **W_aparente = W_real - F_flotación** **W_aparente = m × g - ρ_fluido × V_sumergido × g**
 
-> [!note]- Fundamento Físico - Principio de Arquímedes 🌊
+> [!note] Fundamento Físico - Principio de Arquímedes 🌊
 > 
 > ### Base Teórica
 > 
@@ -56,7 +56,7 @@
 >     style K fill:#fce4ec
 > ```
 
-> [!tip]- Casos y Situaciones 🔬
+> [!tip] Casos y Situaciones 🔬
 > 
 > ### Clasificación por Densidad Relativa
 > 
@@ -81,7 +81,7 @@
 >     style E fill:#e8f5e8
 > ```
 
-> [!example]- Ejemplos Prácticos y Cálculos 🧮
+> [!example] Ejemplos Prácticos y Cálculos 🧮
 > 
 > ### Ejemplo 1: Piedra en el Agua
 > 
@@ -128,7 +128,7 @@
 > 
 > **Resultado:** 60% del bloque está bajo el agua, 40% emerge
 
-> [!abstract]- Aplicaciones Prácticas 🏗️
+> [!abstract] Aplicaciones Prácticas 🏗️
 > 
 > ### En la Industria y Tecnología
 > 
@@ -160,7 +160,7 @@
 >       Implantes biomédicos
 > ```
 
-> [!warning]- Factores que Afectan la Medición ⚠️
+> [!warning] Factores que Afectan la Medición ⚠️
 > 
 > ### Variables del Fluido
 > 
@@ -209,7 +209,7 @@
 
 > [!brain]+ Técnica de Memorización: FLOTAR 🧠 **F** - Flotación reduce el peso aparente **L** - Líquido ejerce fuerza hacia arriba **O** - Objeto desplaza su propio volumen **T** - Todo sumergido siente menos peso **A** - Arquímedes explica la diferencia **R** - Real menos flotación igual aparente
 
-> [!success]- Puntos Clave para Recordar 🎯
+> [!success] Puntos Clave para Recordar 🎯
 > 
 > 1. **⚖️ Peso real constante**: No cambia con el medio circundante
 > 2. **🌊 Peso aparente variable**: Depende de la densidad del fluido

@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es la Intersección de Superficies?
+> [!info] 💡 ¿Qué es la Intersección de Superficies?
 > 
 > En el espacio tridimensional **ℝ³**, cuando dos superficies se encuentran, su intersección generalmente forma una **curva espacial**. Este concepto es fundamental en cálculo vectorial y tiene aplicaciones en geometría, física y diseño computacional.
 > 
@@ -48,7 +48,7 @@ graph TB
 
 ### 🌍 Superficies en ℝ³
 
-> [!example]- 📐 Representación de Superficies
+> [!example] 📐 Representación de Superficies
 > 
 > Una **superficie** en ℝ³ puede representarse de varias formas:
 > 
@@ -114,7 +114,7 @@ graph TB
 
 ### 🔄 Curvas Espaciales
 
-> [!note]- 📈 Definición y Propiedades
+> [!note] 📈 Definición y Propiedades
 > 
 > Una **curva espacial** es una función vectorial:
 > 
@@ -171,7 +171,7 @@ graph TB
 
 ### 📋 Planteamiento del Problema
 
-> [!success]- 🎯 Sistema de Ecuaciones
+> [!success] 🎯 Sistema de Ecuaciones
 > 
 > Para encontrar la curva de intersección de dos superficies:
 > 
@@ -228,7 +228,7 @@ graph TB
 
 ### 🔧 Método 1: Plano Intersecando Superficie
 
-> [!example]- ✂️ Ejemplo: Plano y Esfera
+> [!example] ✂️ Ejemplo: Plano y Esfera
 > 
 > **Problema:** Encontrar la intersección de:
 > 
@@ -316,7 +316,7 @@ graph TB
 
 ### ⚙️ Método 2: Dos Superficies Cuadráticas
 
-> [!tip]- 🔄 Ejemplo: Dos Cilindros
+> [!tip] 🔄 Ejemplo: Dos Cilindros
 > 
 > **Problema:** Intersección de dos cilindros:
 > 
@@ -392,7 +392,7 @@ graph TB
 
 ### 🎨 Método 3: Casos Especiales
 
-> [!note]- 🌟 Intersección de Esfera y Cono
+> [!note] 🌟 Intersección de Esfera y Cono
 > 
 > **Problema:**
 > 
@@ -464,7 +464,7 @@ graph TB
 
 ### 🧭 Cálculo del Vector Tangente
 
-> [!success]- ➡️ Derivada de la Curva
+> [!success] ➡️ Derivada de la Curva
 > 
 > Si la curva está parametrizada como **r**(t) = (x(t), y(t), z(t)), el **vector tangente** es:
 > 
@@ -520,7 +520,7 @@ graph TB
 
 ### 📏 Longitud de Arco
 
-> [!example]- 📊 Cálculo de Distancia Recorrida
+> [!example] 📊 Cálculo de Distancia Recorrida
 > 
 > La **longitud de arco** desde t = a hasta t = b es:
 > 
@@ -562,7 +562,7 @@ graph TB
 
 ### 📝 Problema 1: Plano y Paraboloide
 
-> [!example]- 🎯 Enunciado y Solución Completa
+> [!example] 🎯 Enunciado y Solución Completa
 > 
 > **Enunciado:** Encuentre la curva de intersección entre:
 > 
@@ -639,7 +639,7 @@ graph TB
 
 ### 📝 Problema 2: Esfera y Cilindro
 
-> [!example]- 🎯 Problema Más Complejo
+> [!example] 🎯 Problema Más Complejo
 > 
 > **Enunciado:** Encuentre las curvas de intersección entre:
 > 
@@ -724,7 +724,7 @@ graph TB
 
 ### 📝 Problema 3: Dos Paraboloides
 
-> [!example]- 🎯 Caso Avanzado
+> [!example] 🎯 Caso Avanzado
 > 
 > **Enunciado:**
 > 
@@ -787,7 +787,7 @@ graph TB
 
 ## 🎓 Ejercicios Propuestos
 
-> [!note]- 💪 Problemas para Practicar
+> [!note] 💪 Problemas para Practicar
 > 
 > ### Nivel Básico
 > 
@@ -874,7 +874,7 @@ graph TB
 
 ## 🔗 Conexión con Otros Temas
 
-> [!quote]- 🌟 Temas Relacionados
+> [!quote] 🌟 Temas Relacionados
 > 
 > **Diagrama de conceptos:**
 > 
@@ -951,7 +951,7 @@ graph TB
 
 ## 📚 Resumen y Puntos Clave
 
-> [!success]- ✅ Conceptos Fundamentales
+> [!success] ✅ Conceptos Fundamentales
 > 
 > ### Ideas Centrales
 > 

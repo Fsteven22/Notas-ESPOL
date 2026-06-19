@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es el Jacobiano de una Transformación?
+> [!info] 💡 ¿Qué es el Jacobiano de una Transformación?
 > 
 > El **Jacobiano** es una herramienta fundamental del cálculo multivariable que mide cómo una transformación de coordenadas "distorsiona" o "escala" volúmenes, áreas o longitudes en el espacio. Es la generalización multidimensional del concepto de derivada.
 > 
@@ -47,7 +47,7 @@ graph LR
 
 ### 🔢 Matriz Jacobiana
 
-> [!example]- 📊 Construcción de la Matriz
+> [!example] 📊 Construcción de la Matriz
 > 
 > Para una transformación $T: \mathbb{R}^n \to \mathbb{R}^m$ definida por:
 > 
@@ -82,7 +82,7 @@ graph TD
 
 ### 🎲 Determinante Jacobiano
 
-> [!note]- 🔍 El Jacobiano Escalar
+> [!note] 🔍 El Jacobiano Escalar
 > 
 > Cuando $n = m$ (misma dimensión entrada/salida), el **determinante Jacobiano** es:
 > 
@@ -120,7 +120,7 @@ graph TD
 
 ### 📍 Coordenadas Polares (2D)
 
-> [!success]- 🔄 Transformación Polar
+> [!success] 🔄 Transformación Polar
 > 
 > **Transformación:** $$\begin{cases} x = r\cos\theta \ y = r\sin\theta \end{cases}$$
 > 
@@ -162,7 +162,7 @@ graph TD
 
 ### 🌐 Coordenadas Esféricas (3D)
 
-> [!example]- 🎯 Transformación Esférica
+> [!example] 🎯 Transformación Esférica
 > 
 > **Transformación:** $$\begin{cases} x = \rho\sin\phi\cos\theta \ y = \rho\sin\phi\sin\theta \ z = \rho\cos\phi \end{cases}$$
 > 
@@ -216,7 +216,7 @@ graph TD
 
 ### 🔶 Coordenadas Cilíndricas (3D)
 
-> [!tip]- 🥫 Transformación Cilíndrica
+> [!tip] 🥫 Transformación Cilíndrica
 > 
 > **Transformación:** $$\begin{cases} x = r\cos\theta \ y = r\sin\theta \ z = z \end{cases}$$
 > 
@@ -244,7 +244,7 @@ graph TD
 
 ### 📏 Cambio de Variables en Integrales
 
-> [!success]- ∫∫∫ Teorema del Cambio de Variable
+> [!success] ∫∫∫ Teorema del Cambio de Variable
 > 
 > **Teorema fundamental:**
 > 
@@ -296,7 +296,7 @@ flowchart TD
 
 ### 🎯 Análisis de Sensibilidad
 
-> [!note]- 📊 Estudio de Variaciones
+> [!note] 📊 Estudio de Variaciones
 > 
 > El Jacobiano mide cómo cambios pequeños en las entradas afectan las salidas.
 > 
@@ -320,7 +320,7 @@ flowchart TD
 
 ### 🔍 Invertibilidad de Transformaciones
 
-> [!warning]- ⚡ Teorema de la Función Inversa
+> [!warning] ⚡ Teorema de la Función Inversa
 > 
 > **Condición de invertibilidad:**
 > 
@@ -365,7 +365,7 @@ graph TD
 
 ### 🔄 Transformaciones Afines
 
-> [!note]- 📐 Jacobiano Constante
+> [!note] 📐 Jacobiano Constante
 > 
 > Para transformaciones **afines** (lineales + traslación):
 > 
@@ -386,7 +386,7 @@ graph TD
 
 ### 🌀 Composición de Transformaciones
 
-> [!tip]- 🔗 Regla de la Cadena Multivariable
+> [!tip] 🔗 Regla de la Cadena Multivariable
 > 
 > Para $\mathbf{z} = g(\mathbf{y})$ y $\mathbf{y} = f(\mathbf{x})$:
 > 
@@ -437,7 +437,7 @@ flowchart TD
 
 ### ⚠️ Errores Comunes
 
-> [!warning]- 🚫 Evitar Estos Errores
+> [!warning] 🚫 Evitar Estos Errores
 > 
 > |Error|Corrección|
 > |---|---|

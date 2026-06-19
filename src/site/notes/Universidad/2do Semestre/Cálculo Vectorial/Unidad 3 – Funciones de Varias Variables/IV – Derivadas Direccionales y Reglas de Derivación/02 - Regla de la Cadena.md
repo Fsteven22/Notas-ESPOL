@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Por qué es importante la Regla de la Cadena?
+> [!info] 💡 ¿Por qué es importante la Regla de la Cadena?
 > 
 > La regla de la cadena es una de las herramientas más poderosas del cálculo multivariable, extendiendo el concepto de derivación de funciones compuestas a dimensiones superiores.
 > 
@@ -36,7 +36,7 @@
 
 ### 📋 Definición Formal
 
-> [!example]- 🟢 Teorema: Regla de la Cadena Multivariable
+> [!example] 🟢 Teorema: Regla de la Cadena Multivariable
 > 
 > **Teorema:** Sean $\vec{g}: \mathbb{R}^m \to \mathbb{R}^n$ y $f: \mathbb{R}^n \to \mathbb{R}^p$ funciones diferenciables. Entonces la composición $h = f \circ \vec{g}$ es diferenciable y:
 > 
@@ -74,7 +74,7 @@
 
 ### 🎨 Visualización Geométrica
 
-> [!note]- 🖼️ Interpretación Gráfica
+> [!note] 🖼️ Interpretación Gráfica
 > 
 > ### Diagrama de Composición
 > 
@@ -117,7 +117,7 @@
 
 ### 🌟 Caso 1: Función Real de Variables Intermedias
 
-> [!example]- 🔵 Caso: $z = f(x, y)$ con $x = x(t)$, $y = y(t)$
+> [!example] 🔵 Caso: $z = f(x, y)$ con $x = x(t)$, $y = y(t)$
 > 
 > **Situación:** Función $z = f(x,y)$ donde $x$ e $y$ dependen de una variable $t$.
 > 
@@ -159,7 +159,7 @@
 
 ### 🌟 Caso 2: Función de Dos Variables Independientes
 
-> [!example]- 🔵 Caso: $z = f(x, y)$ con $x = x(s,t)$, $y = y(s,t)$
+> [!example] 🔵 Caso: $z = f(x, y)$ con $x = x(s,t)$, $y = y(s,t)$
 > 
 > **Situación:** $z$ depende de $x$ e $y$, que a su vez dependen de $s$ y $t$.
 > 
@@ -197,7 +197,7 @@
 
 ### 🌟 Caso 3: Cambio de Coordenadas Polares
 
-> [!example]- 🔵 Caso: Coordenadas Polares
+> [!example] 🔵 Caso: Coordenadas Polares
 > 
 > **Transformación:** $$x = r\cos\theta, \quad y = r\sin\theta$$
 > 
@@ -242,7 +242,7 @@
 
 ### 🌟 Caso 4: Gradiente en Coordenadas Curvilíneas
 
-> [!example]- 🔵 Caso: Gradiente en Diferentes Coordenadas
+> [!example] 🔵 Caso: Gradiente en Diferentes Coordenadas
 > 
 > **Relación fundamental:**
 > 
@@ -278,7 +278,7 @@
 
 ### Ejemplo 1: Composición Simple
 
-> [!example]- 📝 Ejemplo 1: Cadena con Una Variable
+> [!example] 📝 Ejemplo 1: Cadena con Una Variable
 > 
 > **Función:** $z = e^{x^2 + y^2}$ con $x = t$, $y = 2t$
 > 
@@ -308,7 +308,7 @@
 
 ### Ejemplo 2: Dos Variables Independientes
 
-> [!example]- 📝 Ejemplo 2: Derivadas Parciales
+> [!example] 📝 Ejemplo 2: Derivadas Parciales
 > 
 > **Función:** $w = xy + yz + zx$ con $x = s + t$, $y = st$, $z = s - t$
 > 
@@ -346,7 +346,7 @@
 
 ### Ejemplo 3: Verificación con Laplaciano
 
-> [!example]- 📝 Ejemplo 3: Laplaciano en Polares
+> [!example] 📝 Ejemplo 3: Laplaciano en Polares
 > 
 > **Objetivo:** Expresar $\nabla^2 f = f_{xx} + f_{yy}$ en coordenadas polares.
 > 
@@ -388,7 +388,7 @@
 
 ### Ejemplo 4: Termodinámica
 
-> [!example]- 🔥 Ejemplo 4: Relaciones Termodinámicas
+> [!example] 🔥 Ejemplo 4: Relaciones Termodinámicas
 > 
 > **Contexto:** En termodinámica, las variables de estado están relacionadas. Para un gas ideal:
 > 
@@ -428,7 +428,7 @@
 
 ### Ejemplo 5: Machine Learning - Backpropagation
 
-> [!example]- 🤖 Ejemplo 5: Red Neuronal Simple
+> [!example] 🤖 Ejemplo 5: Red Neuronal Simple
 > 
 > **Arquitectura:** Red con una capa oculta
 > 
@@ -481,7 +481,7 @@
 
 ### Ejemplo 6: Geometría - Curva Parametrizada
 
-> [!example]- 📐 Ejemplo 6: Derivada Direccional a lo Largo de una Curva
+> [!example] 📐 Ejemplo 6: Derivada Direccional a lo Largo de una Curva
 > 
 > **Función:** $f(x,y) = x^2 + xy + y^2$
 > 
@@ -515,7 +515,7 @@
 
 ### Ejemplo 7: Física - Conservación de Energía
 
-> [!example]- ⚡ Ejemplo 7: Energía en Sistema Mecánico
+> [!example] ⚡ Ejemplo 7: Energía en Sistema Mecánico
 > 
 > **Sistema:** Partícula en campo potencial $V(x, y)$ con trayectoria $\vec{r}(t) = (x(t), y(t))$
 > 
@@ -557,7 +557,7 @@
 
 ### Ejemplo 8: Coordenadas Esféricas
 
-> [!example]- 🌍 Ejemplo 8: Laplaciano en Coordenadas Esféricas
+> [!example] 🌍 Ejemplo 8: Laplaciano en Coordenadas Esféricas
 > 
 > **Transformación:** $x = \rho\sin\phi\cos\theta$ $y = \rho\sin\phi\sin\theta$ $z = \rho\cos\phi$
 > 
@@ -591,7 +591,7 @@
 
 ### 📊 Notación Diferencial
 
-> [!note]- 📝 Notación de Leibniz Extendida
+> [!note] 📝 Notación de Leibniz Extendida
 > 
 > **Forma diferencial:**
 > 
@@ -626,7 +626,7 @@
 
 ### 🔄 Diagramas de Árbol
 
-> [!note]- 🌲 Método del Árbol de Dependencias
+> [!note] 🌲 Método del Árbol de Dependencias
 > 
 > **Técnica:** Dibujar un árbol que muestre las dependencias.
 > 
@@ -668,7 +668,7 @@
 
 ### 🔍 Aplicación 1: Cambios de Variables en EDPs
 
-> [!example]- 🔬 Ejemplo 9: Ecuación del Calor
+> [!example] 🔬 Ejemplo 9: Ecuación del Calor
 > 
 > **Ecuación del calor:** $u_t = k u_{xx}$
 > 
@@ -698,7 +698,7 @@
 
 ### 🎲 Aplicación 2: Cambio de Variables en Probabilidad
 
-> [!example]- 📊 Ejemplo 10: Transformación de Variables Aleatorias
+> [!example] 📊 Ejemplo 10: Transformación de Variables Aleatorias
 > 
 > **Problema:** Si $X$ e $Y$ son variables aleatorias con densidad conjunta $f_{XY}(x, y)$, y definimos:
 > 
@@ -732,7 +732,7 @@
 
 ### 🌊 Aplicación 3: Mecánica de Fluidos
 
-> [!example]- 💧 Ejemplo 11: Derivada Material
+> [!example] 💧 Ejemplo 11: Derivada Material
 > 
 > **Contexto:** En mecánica de fluidos, seguimos una partícula de fluido que se mueve.
 > 
@@ -779,7 +779,7 @@
 
 ### 📐 Propiedad 1: Composición de Funciones Lineales
 
-> [!note]- 🔢 Caso Especial: Transformaciones Lineales
+> [!note] 🔢 Caso Especial: Transformaciones Lineales
 > 
 > **Teorema:** Si $\vec{g}$ y $f$ son lineales, entonces:
 > 
@@ -805,7 +805,7 @@
 
 ### 📐 Propiedad 2: Regla de la Cadena Iterada
 
-> [!note]- 🔄 Composiciones Múltiples
+> [!note] 🔄 Composiciones Múltiples
 > 
 > **Teorema:** Para composiciones $h = f \circ g \circ k$:
 > 
@@ -831,7 +831,7 @@
 
 ### 📐 Propiedad 3: Invariancia del Gradiente
 
-> [!note]- 🌐 Gradiente es Independiente de Coordenadas
+> [!note] 🌐 Gradiente es Independiente de Coordenadas
 > 
 > **Teorema:** El gradiente $\nabla f$ es un objeto geométrico invariante bajo cambios de coordenadas.
 > 
@@ -860,7 +860,7 @@
 
 ### ⚠️ Cuidado 1: Variables Mezcladas
 
-> [!warning]- 🚨 Dependencia Parcial
+> [!warning] 🚨 Dependencia Parcial
 > 
 > **Situación problemática:**
 > 
@@ -894,7 +894,7 @@
 
 ### ⚠️ Cuidado 2: Notación Ambigua
 
-> [!warning]- 📝 Claridad en las Derivadas Parciales
+> [!warning] 📝 Claridad en las Derivadas Parciales
 > 
 > **Problema:** El símbolo $\frac{\partial z}{\partial x}$ puede ser ambiguo si no especificamos qué se mantiene constante.
 > 
@@ -925,7 +925,7 @@
 
 ### ⚠️ Cuidado 3: Orden de Composición
 
-> [!warning]- 🔄 Orden de las Matrices
+> [!warning] 🔄 Orden de las Matrices
 > 
 > **Error común:** Multiplicar jacobianas en orden incorrecto
 > 
@@ -953,7 +953,7 @@
 
 ## 🌟 Conceptos Clave para Recordar
 
-> [!tip]- 💡 Puntos Esenciales
+> [!tip] 💡 Puntos Esenciales
 > 
 > ### Sobre la Regla de la Cadena
 > 
@@ -1013,7 +1013,7 @@
 
 ## 📚 Tabla de Referencia Rápida
 
-> [!note]- 📋 Fórmulas Clave
+> [!note] 📋 Fórmulas Clave
 > 
 > |Situación|Fórmula|
 > |---|---|
@@ -1036,7 +1036,7 @@
 
 ## 🔗 Relaciones con Otros Temas
 
-> [!quote]- 🌐 Conexiones Matemáticas
+> [!quote] 🌐 Conexiones Matemáticas
 > 
 > ### Prerequisitos:
 > 

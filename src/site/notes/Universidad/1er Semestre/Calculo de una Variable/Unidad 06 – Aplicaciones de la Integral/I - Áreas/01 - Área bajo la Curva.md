@@ -36,7 +36,7 @@ graph TD
 
 ### 📋 Condiciones y Limitaciones
 
-> [!warning]- ⚠️ **Condiciones Importantes**
+> [!warning] ⚠️ **Condiciones Importantes**
 > 
 > - **Función no negativa**: $f(x) \geq 0$ en todo $[a,b]$
 > - **Continuidad**: $f$ debe ser continua (o Riemann integrable)
@@ -46,11 +46,11 @@ graph TD
 
 ### 🟢 Caso 1: Función Siempre Positiva
 
-> [!info]- 📈 **Caso Estándar** Cuando $f(x) \geq 0$ en $[a,b]$: $\text{Área} = \int_a^b f(x) dx$
+> [!info] 📈 **Caso Estándar** Cuando $f(x) \geq 0$ en $[a,b]$: $\text{Área} = \int_a^b f(x) dx$
 
 #### 🧪 Ejemplo Básico
 
-> [!tip]- 🔬 **Ejemplo**: Área bajo $f(x) = x^2$ de $x = 0$ a $x = 2$
+> [!tip] 🔬 **Ejemplo**: Área bajo $f(x) = x^2$ de $x = 0$ a $x = 2$
 > 
 > **Verificación de positividad**: $x^2 \geq 0$ para todo $x$ ✓
 > 
@@ -60,14 +60,14 @@ graph TD
 
 ### 🔴 Caso 2: Función Siempre Negativa
 
-> [!warning]- 📉 **Área con Signo Negativo** Cuando $f(x) \leq 0$ en $[a,b]$:
+> [!warning] 📉 **Área con Signo Negativo** Cuando $f(x) \leq 0$ en $[a,b]$:
 > 
 > - **Integral**: $\int_a^b f(x) dx < 0$ (área con signo)
 > - **Área geométrica**: $\text{Área} = -\int_a^b f(x) dx = \int_a^b |f(x)| dx$
 
 #### 🧪 Ejemplo con Función Negativa
 
-> [!tip]- 🔬 **Ejemplo**: Área bajo $f(x) = x^2 - 4$ de $x = 1$ a $x = 3$
+> [!tip] 🔬 **Ejemplo**: Área bajo $f(x) = x^2 - 4$ de $x = 1$ a $x = 3$
 > 
 > **Análisis**: $f(x) = x^2 - 4 < 0$ cuando $x^2 < 4$, es decir, cuando $|x| < 2$ En $[1,3]$: $f(1) = -3 < 0$ y $f(3) = 5 > 0$
 > 
@@ -77,7 +77,7 @@ graph TD
 
 ### 🔄 Caso 3: Función que Cambia de Signo
 
-> [!tip]- 🎯 **Método General** Cuando $f(x)$ cambia de signo en $[a,b]$:
+> [!tip] 🎯 **Método General** Cuando $f(x)$ cambia de signo en $[a,b]$:
 > 
 > 1. **Encontrar las raíces**: Resolver $f(x) = 0$
 > 2. **Dividir el intervalo**: En subintervalos donde $f$ mantiene signo
@@ -87,7 +87,7 @@ graph TD
 
 #### 🧪 Ejemplo Completo con Cambio de Signo
 
-> [!tip]- 🔬 **Ejemplo**: Área bajo $f(x) = x^3 - x$ de $x = -2$ a $x = 2$
+> [!tip] 🔬 **Ejemplo**: Área bajo $f(x) = x^3 - x$ de $x = -2$ a $x = 2$
 > 
 > **Paso 1**: Encontrar raíces $x^3 - x = 0 \Rightarrow x(x^2 - 1) = 0 \Rightarrow x = 0, \pm 1$
 > 
@@ -113,7 +113,7 @@ graph TD
 
 ### ⚡ Método Directo
 
-> [!info]- 🔧 **Para Funciones Simples**
+> [!info] 🔧 **Para Funciones Simples**
 > 
 > 1. Verificar que $f(x) \geq 0$ en $[a,b]$
 > 2. Encontrar antiderivada $F(x)$
@@ -121,7 +121,7 @@ graph TD
 
 ### 🔄 Método por Partes
 
-> [!tip]- 🎯 **Para Funciones que Cambian de Signo**
+> [!tip] 🎯 **Para Funciones que Cambian de Signo**
 > 
 > 1. Encontrar raíces de $f(x) = 0$
 > 2. Dividir $[a,b]$ en subintervalos
@@ -130,7 +130,7 @@ graph TD
 
 ### 🌊 Aprovechando Simetría
 
-> [!info]- ⚡ **Funciones Pares e Impares**
+> [!info] ⚡ **Funciones Pares e Impares**
 > 
 > **Función par**: $f(-x) = f(x)$
 > 
@@ -142,7 +142,7 @@ graph TD
 
 #### 🧪 Ejemplo con Simetría
 
-> [!tip]- 🔬 **Ejemplo**: Área bajo $f(x) = 4 - x^2$ de $x = -2$ a $x = 2$
+> [!tip] 🔬 **Ejemplo**: Área bajo $f(x) = 4 - x^2$ de $x = -2$ a $x = 2$
 > 
 > **Verificación**: $f(-x) = 4 - (-x)^2 = 4 - x^2 = f(x)$ (función par)
 > 
@@ -154,7 +154,7 @@ graph TD
 
 ### 📈 Funciones Polinómicas
 
-> [!tip]- 📊 **Características**
+> [!tip] 📊 **Características**
 > 
 > - Fáciles de integrar
 > - Pueden cambiar de signo múltiples veces
@@ -162,7 +162,7 @@ graph TD
 
 #### 🧪 Ejemplo Polinómico
 
-> [!info]- 🔬 **Área bajo** $f(x) = x^4 - 5x^2 + 4$ **en** $[-3, 3]$
+> [!info] 🔬 **Área bajo** $f(x) = x^4 - 5x^2 + 4$ **en** $[-3, 3]$
 > 
 > **Factorización**: $x^4 - 5x^2 + 4 = (x^2 - 1)(x^2 - 4) = (x-1)(x+1)(x-2)(x+2)$
 > 
@@ -180,7 +180,7 @@ graph TD
 
 ### 🌊 Funciones Trigonométricas
 
-> [!warning]- 🔍 **Consideraciones Especiales**
+> [!warning] 🔍 **Consideraciones Especiales**
 > 
 > - Oscilan entre valores positivos y negativos
 > - Útil conocer período y fase
@@ -188,7 +188,7 @@ graph TD
 
 #### 🧪 Ejemplo Trigonométrico
 
-> [!tip]- 🔬 **Área bajo** $f(x) = \sin(x)$ **de** $x = 0$ **a** $x = 2\pi$
+> [!tip] 🔬 **Área bajo** $f(x) = \sin(x)$ **de** $x = 0$ **a** $x = 2\pi$
 > 
 > **Análisis**: $\sin(x) \geq 0$ en $[0, \pi]$ y $\sin(x) \leq 0$ en $[\pi, 2\pi]$
 > 
@@ -204,7 +204,7 @@ graph TD
 
 #### 🧪 Ejemplo Exponencial
 
-> [!tip]- 🔬 **Área bajo** $f(x) = e^{-x^2}$ **de** $x = -1$ **a** $x = 1$
+> [!tip] 🔬 **Área bajo** $f(x) = e^{-x^2}$ **de** $x = -1$ **a** $x = 1$
 > 
 > **Análisis**: $e^{-x^2} > 0$ para todo $x$ ✓
 > 
@@ -216,7 +216,7 @@ graph TD
 
 ### 🗛️ Aplicaciones Geométricas
 
-> [!info]- 🎨 **Usos Geométricos**
+> [!info] 🎨 **Usos Geométricos**
 > 
 > - **Áreas de regiones irregulares**
 > - **Diseño arquitectónico**
@@ -224,7 +224,7 @@ graph TD
 
 ### ⚡ Aplicaciones Físicas
 
-> [!tip]- 🔬 **Interpretaciones Físicas**
+> [!tip] 🔬 **Interpretaciones Físicas**
 > 
 > - **Desplazamiento**: Área bajo curva de velocidad
 > - **Trabajo**: Área bajo curva de fuerza
@@ -232,13 +232,13 @@ graph TD
 
 #### 🧪 Ejemplo Físico
 
-> [!info]- 🚗 **Problema**: Un auto tiene velocidad $v(t) = 2t$ m/s durante los primeros 5 segundos. ¿Qué distancia recorre?
+> [!info] 🚗 **Problema**: Un auto tiene velocidad $v(t) = 2t$ m/s durante los primeros 5 segundos. ¿Qué distancia recorre?
 > 
 > **Solución**: El desplazamiento es el área bajo la curva de velocidad $\text{Desplazamiento} = \int_0^5 2t , dt = [t^2]_0^5 = 25 \text{ metros}$
 
 ### 📊 Aplicaciones Probabilísticas
 
-> [!warning]- 🎲 **Funciones de Densidad** En probabilidad, el área bajo una función de densidad $f(x)$ representa la probabilidad: $P(a \leq X \leq b) = \int_a^b f(x) dx$)$ representa la probabilidad: $$P(a \leq X \leq b) = \int_a^b f(x) dx$$
+> [!warning] 🎲 **Funciones de Densidad** En probabilidad, el área bajo una función de densidad $f(x)$ representa la probabilidad: $P(a \leq X \leq b) = \int_a^b f(x) dx$)$ representa la probabilidad: $$P(a \leq X \leq b) = \int_a^b f(x) dx$$
 
 ## ⚠️ Errores Comunes y Precauciones
 
@@ -311,7 +311,7 @@ flowchart TD
 > 
 > **G**raficar la función y la región **R**econocer si el área es positiva, negativa o mixta **A**plicar el Teorema Fundamental del Cálculo **F**ormular la integral definida $\int_a^b f(x)dx$ **O**btener el resultado y verificar
 
-> [!success]- 📋 Desarrollo Detallado del Método GRAFO
+> [!success] 📋 Desarrollo Detallado del Método GRAFO
 > ### 
 > 
 > #### 📊 **G - Graficar**
@@ -355,7 +355,7 @@ flowchart TD
 
 ### 🧪 Ejemplo Completo con GRAFO
 
-> [!example]- 📈 **Problema**: Encontrar el área bajo $f(x) = x^2 - 4$ desde $x = 0$ hasta $x = 3$
+> [!example] 📈 **Problema**: Encontrar el área bajo $f(x) = x^2 - 4$ desde $x = 0$ hasta $x = 3$
 > 
 > **🎯 Aplicando GRAFO paso a paso:**
 > 
@@ -405,14 +405,14 @@ flowchart TD
 
 ## 📚 Referencias y Conexiones
 
-> [!quote]- 🔗 Notas Relacionadas
+> [!quote] 🔗 Notas Relacionadas
 > 
 > - [[Universidad/1er Semestre/Calculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/01 - Integral de Riemann\|01 - Integral de Riemann]] - Definición formal subyacente
 > - [[Universidad/1er Semestre/Calculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/04 - Teorema Fundamental del Cálculo\|04 - Teorema Fundamental del Cálculo]] - Herramienta principal de evaluación
 > - [[Propiedades de la Integral Definida\|Propiedades de la Integral Definida]] - Herramientas para simplificar cálculos
 > - [[Universidad/1er Semestre/Calculo de una Variable/Unidad 05 - Integrales/III - Integrales Definidas/01 - Métodos de Integración Definida\|01 - Métodos de Integración Definida]] - Técnicas para evaluación
 
-> [!NOTE]- 📖 Para Profundizar
+> [!NOTE] 📖 Para Profundizar
 > 
 > 
 > - [[Universidad/1er Semestre/Calculo de una Variable/Unidad 05 - Integrales/IV - Integrales Impropias y Avanzadas/01 - Integrales Impropias\|01 - Integrales Impropias]] - Áreas con límites infinitos

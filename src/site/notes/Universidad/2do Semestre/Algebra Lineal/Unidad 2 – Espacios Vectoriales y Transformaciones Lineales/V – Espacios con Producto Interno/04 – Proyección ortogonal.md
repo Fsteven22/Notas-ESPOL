@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es la Proyección Ortogonal?
+> [!info] 💡 ¿Qué es la Proyección Ortogonal?
 > 
 > La **proyección ortogonal** es una de las operaciones más fundamentales e intuitivas del álgebra lineal. Consiste en "proyectar" un vector sobre otro vector o subespacio, similar a como una sombra se proyecta sobre el suelo cuando la luz viene desde arriba.
 > 
@@ -56,7 +56,7 @@ graph TB
 
 ### 🎯 Definición y Fórmula
 
-> [!example]- 📊 Proyección Vectorial Básica
+> [!example] 📊 Proyección Vectorial Básica
 > 
 > **Definición:** La proyección ortogonal de un vector **v** sobre un vector no nulo **u** es el vector en la dirección de **u** que está más cerca de **v**.
 > 
@@ -111,7 +111,7 @@ graph TB
 
 ### 📝 Ejemplos Numéricos Detallados
 
-> [!success]- 🔢 Cálculos Paso a Paso
+> [!success] 🔢 Cálculos Paso a Paso
 > 
 > **Ejemplo 1: Proyección en ℝ²**
 > 
@@ -203,7 +203,7 @@ graph TB
 
 ### 🔍 Propiedades Matemáticas
 
-> [!note]- 📐 Características de la Proyección
+> [!note] 📐 Características de la Proyección
 > 
 > **Propiedad 1: Linealidad**
 > 
@@ -273,7 +273,7 @@ graph TB
 
 ### 📦 Conceptos Fundamentales
 
-> [!info]- 🎲 De Vectores a Subespacios
+> [!info] 🎲 De Vectores a Subespacios
 > 
 > **Definición:** La proyección ortogonal de un vector **v** sobre un subespacio W es el vector en W que está más cerca de **v**.
 > 
@@ -319,7 +319,7 @@ graph TB
 
 ### 🎯 Fórmula con Base Ortogonal
 
-> [!success]- 📐 Cálculo Simplificado
+> [!success] 📐 Cálculo Simplificado
 > 
 > **Teorema:** Si W tiene base ortogonal {u₁, u₂, ..., uₖ}, entonces:
 > 
@@ -404,7 +404,7 @@ graph TB
 
 ### 🔧 Caso General: Base Arbitraria
 
-> [!warning]- ⚙️ Cuando la Base NO es Ortogonal
+> [!warning] ⚙️ Cuando la Base NO es Ortogonal
 > 
 > **Problema:** Si W = span{v₁, v₂, ..., vₖ} y la base NO es ortogonal, no podemos usar la fórmula simple.
 > 
@@ -490,7 +490,7 @@ graph TB
 
 ### 📏 Distancia Punto-Subespacio
 
-> [!example]- 📐 Cálculo de Distancias Mínimas
+> [!example] 📐 Cálculo de Distancias Mínimas
 > 
 > **Teorema fundamental:** La distancia de un punto (vector) **v** a un subespacio W es:
 > 
@@ -579,7 +579,7 @@ graph TB
 
 ### 🔍 Mejor Aproximación
 
-> [!tip]- 🎯 Problema de Optimización
+> [!tip] 🎯 Problema de Optimización
 > 
 > **Teorema de la mejor aproximación:** Entre todos los vectores de W, proj_W(v) es el que minimiza ||v - w||.
 > 
@@ -637,7 +637,7 @@ graph TB
 
 ### 📊 Descomposición Ortogonal
 
-> [!success]- 🔀 Separación de Componentes
+> [!success] 🔀 Separación de Componentes
 > 
 > **Teorema de descomposición:** Todo vector v se puede descomponer únicamente como:
 > 
@@ -699,7 +699,7 @@ graph TB
 
 ### 🎯 Definición y Construcción
 
-> [!info]- 🔢 Representación Matricial
+> [!info] 🔢 Representación Matricial
 > 
 > **Concepto:** Una matriz de proyección P transforma cualquier vector en su proyección sobre W:
 > 
@@ -783,7 +783,7 @@ graph TB
 
 ### 🔍 Propiedades de Matrices de Proyección
 
-> [!note]- ⭐ Características Especiales
+> [!note] ⭐ Características Especiales
 > 
 > **Propiedades fundamentales:**
 > 
@@ -861,7 +861,7 @@ graph TB
 
 ### 🎨 Construcción Práctica
 
-> [!example]- 🛠️ Cómo Construir Matrices de Proyección
+> [!example] 🛠️ Cómo Construir Matrices de Proyección
 > 
 > **Método 1: Con base ortonormal (MÁS FÁCIL)**
 > 
@@ -956,7 +956,7 @@ graph TB
 
 ### 🎯 Problema de Mínimos Cuadrados
 
-> [!info]- 📈 Sistemas Sobredeterminados
+> [!info] 📈 Sistemas Sobredeterminados
 > 
 > **Planteamiento:** Resolver Ax = b cuando el sistema tiene más ecuaciones que incógnitas (inconsistente).
 > 
@@ -1013,7 +1013,7 @@ graph TB
 
 ### 📝 Ejemplo Completo: Regresión Lineal
 
-> [!example]- 📊 Ajuste de Recta
+> [!example] 📊 Ajuste de Recta
 > 
 > **Problema:** Ajustar recta y = mx + c a puntos: (0,1), (1,2), (2,4), (3,5)
 > 
@@ -1107,7 +1107,7 @@ graph TB
 
 ### 🔬 Aplicaciones Prácticas
 
-> [!tip]- 🌍 Casos de Uso Reales
+> [!tip] 🌍 Casos de Uso Reales
 > 
 > **1. Ajuste de modelos físicos**
 > 
@@ -1183,7 +1183,7 @@ graph TB
 
 ### ⊥ Definición y Propiedades
 
-> [!info]- 🔄 Espacio Perpendicular
+> [!info] 🔄 Espacio Perpendicular
 > 
 > **Definición:** El complemento ortogonal de un subespacio W, denotado W⊥, es el conjunto de todos los vectores ortogonales a W:
 > 
@@ -1249,7 +1249,7 @@ graph TB
 
 ### 🔍 Cálculo del Complemento Ortogonal
 
-> [!example]- 🛠️ Métodos de Construcción
+> [!example] 🛠️ Métodos de Construcción
 > **Método 1: A partir de base**
 > 
 > Si W = span{v₁, v₂, ..., vₖ}, entonces w ∈ W⊥ si y solo si:
@@ -1306,7 +1306,7 @@ graph TB
 
 ### 🔀 Descomposición Ortogonal Completa
 
-> [!success]- 📊 Teorema de Descomposición
+> [!success] 📊 Teorema de Descomposición
 > 
 > **Teorema:** Todo vector v ∈ V se puede escribir únicamente como:
 > 
@@ -1456,7 +1456,7 @@ flowchart TD
 
 ### 🎯 Nivel Básico
 
-> [!example]- 📝 Fundamentos
+> [!example] 📝 Fundamentos
 > 
 > **Ejercicio 1:** Proyectar v = (4, 3) sobre u = (1, 0)
 > 
@@ -1498,7 +1498,7 @@ flowchart TD
 
 ### 🎓 Nivel Intermedio
 
-> [!example]- 🔧 Aplicaciones
+> [!example] 🔧 Aplicaciones
 > 
 > **Ejercicio 4:** Proyectar v = (1, 2, 3) sobre W = span{(1,0,0), (0,1,0)}
 > 
@@ -1525,7 +1525,7 @@ flowchart TD
 
 ### 🏆 Nivel Avanzado
 
-> [!example]- 🚀 Desafíos
+> [!example] 🚀 Desafíos
 > 
 > **Ejercicio 6:** Resolver por mínimos cuadrados:
 > 
@@ -1543,7 +1543,7 @@ flowchart TD
 
 ## 🔗 Conexiones y Próximos Pasos
 
-> [!quote]- 🌟 Progresión del Aprendizaje
+> [!quote] 🌟 Progresión del Aprendizaje
 > 
 > **Has dominado:**
 > 

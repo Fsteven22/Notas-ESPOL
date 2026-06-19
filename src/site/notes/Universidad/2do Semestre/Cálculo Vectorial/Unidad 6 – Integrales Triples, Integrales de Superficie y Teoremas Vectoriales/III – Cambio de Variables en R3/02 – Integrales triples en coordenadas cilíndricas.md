@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué son las Integrales Triples en Cilíndricas?
+> [!info] 💡 ¿Qué son las Integrales Triples en Cilíndricas?
 > 
 > Las **integrales triples en coordenadas cilíndricas** son una herramienta poderosa para calcular volúmenes, masas, centroides y otras cantidades sobre regiones tridimensionales que exhiben **simetría cilíndrica** o **axial**.
 > 
@@ -44,7 +44,7 @@ graph LR
 
 ## 📐 Recordatorio: Coordenadas Cilíndricas
 
-> [!note]- 🔄 Sistema de Coordenadas Cilíndricas
+> [!note] 🔄 Sistema de Coordenadas Cilíndricas
 > 
 > **Definición:**
 > 
@@ -104,7 +104,7 @@ graph TD
 
 ## 🧮 Elemento de Volumen en Cilíndricas
 
-> [!warning]- ⚠️ El Jacobiano: Factor $r$
+> [!warning] ⚠️ El Jacobiano: Factor $r$
 > 
 > **Elemento diferencial de volumen:**
 > 
@@ -169,7 +169,7 @@ graph TD
 
 ## 📝 Forma General de la Integral Triple
 
-> [!example]- 📖 Fórmula Fundamental
+> [!example] 📖 Fórmula Fundamental
 > 
 > **Integral triple en coordenadas cilíndricas:**
 > 
@@ -218,7 +218,7 @@ graph TD
 
 ## 💡 Ejemplos Resueltos Paso a Paso
 
-> [!example]- 📝 Ejemplo 1: Cilindro Sólido (Volumen)
+> [!example] 📝 Ejemplo 1: Cilindro Sólido (Volumen)
 > 
 > **Problema:**
 > 
@@ -267,7 +267,7 @@ graph TD
 > 
 > **Respuesta:** $V = 12\pi$ unidades cúbicas
 
-> [!example]- 📝 Ejemplo 2: Cilindro con Tapa Parabólica
+> [!example] 📝 Ejemplo 2: Cilindro con Tapa Parabólica
 > 
 > **Problema:**
 > 
@@ -310,7 +310,7 @@ graph TD
 > 
 > **Respuesta:** $V = 8\pi$ unidades cúbicas
 
-> [!example]- 📝 Ejemplo 3: Cono (entre superficies)
+> [!example] 📝 Ejemplo 3: Cono (entre superficies)
 > 
 > **Problema:**
 > 
@@ -355,7 +355,7 @@ graph TD
 > 
 > **Respuesta:** $V = \frac{8\pi}{3}$ unidades cúbicas
 
-> [!example]- 📝 Ejemplo 4: Masa con Densidad Variable
+> [!example] 📝 Ejemplo 4: Masa con Densidad Variable
 > 
 > **Problema:**
 > 
@@ -398,7 +398,7 @@ graph TD
 
 ## 🎯 Regiones Comunes en Cilíndricas
 
-> [!note]- 🔍 Tipos de Regiones Frecuentes
+> [!note] 🔍 Tipos de Regiones Frecuentes
 > 
 > **1. Cilindro sólido**
 > 
@@ -483,7 +483,7 @@ graph TD
 
 ## 🚀 Aplicaciones Físicas
 
-> [!success]- ⚙️ Aplicaciones en Ciencia e Ingeniería
+> [!success] ⚙️ Aplicaciones en Ciencia e Ingeniería
 > 
 > **1. Centro de masa**
 > 
@@ -531,7 +531,7 @@ graph TD
 
 ## 📋 Estrategias para Configurar Integrales
 
-> [!tip]- 🎯 Método Sistemático
+> [!tip] 🎯 Método Sistemático
 > 
 > **Paso 1: Dibujar la región (si es posible)**
 > 
@@ -588,7 +588,7 @@ flowchart TD
 
 ## 🎓 Ejercicios Propuestos
 
-> [!example]- 💪 Práctica Guiada
+> [!example] 💪 Práctica Guiada
 > 
 > **Nivel Básico:**
 > 
@@ -686,7 +686,7 @@ flowchart TD
 
 ## 📊 Comparación: Cartesianas vs Cilíndricas
 
-> [!note]- 🔄 Cuándo Preferir Cada Sistema
+> [!note] 🔄 Cuándo Preferir Cada Sistema
 > 
 > **Ejemplo comparativo: Cilindro $x^2 + y^2 \leq 1$, $0 \leq z \leq 2$**
 > 
@@ -801,7 +801,7 @@ flowchart TD
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Continuando el Aprendizaje
+> [!quote] 🌟 Continuando el Aprendizaje
 > 
 > **Has dominado:**
 > 

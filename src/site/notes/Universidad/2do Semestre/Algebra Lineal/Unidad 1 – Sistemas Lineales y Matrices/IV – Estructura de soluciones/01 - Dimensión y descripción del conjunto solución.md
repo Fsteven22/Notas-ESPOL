@@ -7,7 +7,7 @@
 
 ## 🎯 Fundamentos del Conjunto Solución
 
-> [!info]- 💡 Introducción al Conjunto Solución
+> [!info] 💡 Introducción al Conjunto Solución
 > El **conjunto solución** de un sistema lineal compatible es el conjunto de todos los vectores que satisfacen el sistema. Su estructura depende fundamentalmente de la relación entre el número de variables y el rango de la matriz.
 > 
 > **Analogías útiles:**
@@ -26,7 +26,7 @@
 
 ### 📐 Dimensión del Conjunto Solución
 
-> [!note]- 📖 Definición Formal
+> [!note] 📖 Definición Formal
 > 
 > **Definición:** Para un sistema lineal Ax = b **compatible** con A matriz m×n y rango(A) = r, la **dimensión del conjunto solución** es:
 > 
@@ -53,7 +53,7 @@
 
 ### 🔢 Teorema Fundamental
 
-> [!important]- 🎓 Teorema de la Dimensión del Conjunto Solución
+> [!important] 🎓 Teorema de la Dimensión del Conjunto Solución
 > 
 > **Teorema:** Sea Ax = b un sistema lineal compatible con A matriz m×n y rango(A) = r.
 > 
@@ -85,7 +85,7 @@
 
 ### ✨ Forma Paramétrica (Forma Vectorial)
 
-> [!note]- 📖 Estructura de la Solución Paramétrica
+> [!note] 📖 Estructura de la Solución Paramétrica
 > 
 > **Definición:** La **forma paramétrica** expresa todas las soluciones como:
 > 
@@ -137,7 +137,7 @@
 
 ### 🎨 Procedimiento para Obtener la Forma Paramétrica
 
-> [!success]- ✅ Algoritmo Paso a Paso
+> [!success] ✅ Algoritmo Paso a Paso
 > 
 > **Entrada:** Sistema compatible Ax = b
 > 
@@ -210,7 +210,7 @@
 
 ### 📍 Caso 1: Dimensión 0 (Sistema Compatible Determinado)
 
-> [!example]- 🎯 Solución Única
+> [!example] 🎯 Solución Única
 > 
 > **Condición:**
 > ```
@@ -300,7 +300,7 @@
 
 ### 📏 Caso 2: Dimensión 1 (Una Variable Libre)
 
-> [!example]- 🎯 Conjunto Solución: Recta
+> [!example] 🎯 Conjunto Solución: Recta
 > 
 > **Condición:**
 > ```
@@ -425,7 +425,7 @@
 
 ### 🔲 Caso 3: Dimensión 2 (Dos Variables Libres)
 
-> [!example]- 🎯 Conjunto Solución: Plano
+> [!example] 🎯 Conjunto Solución: Plano
 > 
 > **Condición:**
 > ```
@@ -529,7 +529,7 @@
 
 ### 📐 Caso General: Dimensión k
 
-> [!note]- 🌟 Caso k Variables Libres
+> [!note] 🌟 Caso k Variables Libres
 > 
 > **Condición:**
 > ```
@@ -587,7 +587,7 @@
 
 ### 🎯 Conexión Fundamental
 
-> [!important]- 🔗 Teorema del Espacio Nulo
+> [!important] 🔗 Teorema del Espacio Nulo
 > 
 > **Teorema:** Sea Ax = b un sistema compatible con solución particular x₀.
 > 
@@ -644,7 +644,7 @@
 
 ### 🎨 Procedimiento para Encontrar Nul(A)
 
-> [!success]- ✅ Cómo Obtener la Base de Nul(A)
+> [!success] ✅ Cómo Obtener la Base de Nul(A)
 > 
 > **Método:** Resolver el sistema homogéneo Ax = 0
 > 
@@ -702,7 +702,7 @@
 
 ### ✅ Ejemplo Integrador 1: Sistema 3×4 Completo
 
-> [!example]- 🎯 Análisis Exhaustivo
+> [!example] 🎯 Análisis Exhaustivo
 > 
 > **Sistema dado:**
 > ```
@@ -880,7 +880,7 @@
 
 ### ✅ Ejemplo Integrador 2: Sistema con Parámetro
 
-> [!example]- 🎯 Análisis Según Valores del Parámetro
+> [!example] 🎯 Análisis Según Valores del Parámetro
 > 
 > **Sistema paramétrico:**
 > ```
@@ -1039,7 +1039,7 @@
 
 ### ✅ Ejemplo Integrador 3: Sistema Homogéneo
 
-> [!example]- 🎯 Caso Especial: Ax = 0
+> [!example] 🎯 Caso Especial: Ax = 0
 > 
 > **Sistema homogéneo:**
 > ```
@@ -1143,7 +1143,7 @@
 
 ### 🌍 Visualización por Dimensiones
 
-> [!note]- 🎨 Representación Geométrica del Conjunto Solución
+> [!note] 🎨 Representación Geométrica del Conjunto Solución
 > 
 > **En ℝ² (2 variables):**
 > 
@@ -1208,7 +1208,7 @@
 
 ### 📐 Estructura Afín
 
-> [!important]- 🔷 Subespacio Afín
+> [!important] 🔷 Subespacio Afín
 > 
 > **Definición:**
 > ```
@@ -1272,7 +1272,7 @@
 
 ## 📊 Tabla Resumen de Dimensiones
 
-> [!note]- 📋 Resumen por Dimensión del Conjunto Solución
+> [!note] 📋 Resumen por Dimensión del Conjunto Solución
 > 
 > ```
 > ┌──────┬──────────┬────────────┬─────────────────┬──────────────────┐
@@ -1305,7 +1305,7 @@
 
 ### 📝 Algoritmo Maestro
 
-> [!success]- ✅ Proceso Completo para Describir el Conjunto Solución
+> [!success] ✅ Proceso Completo para Describir el Conjunto Solución
 > 
 > **ENTRADA:** Sistema lineal Ax = b
 > 
@@ -1478,7 +1478,7 @@
 
 ## 🎯 Ejercicios Progresivos
 
-> [!example]- 💪 Práctica Guiada
+> [!example] 💪 Práctica Guiada
 > 
 > **Nivel 1: Identificación Rápida** 🟢
 > 
@@ -1596,7 +1596,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- 🚫 Problemas Frecuentes y Soluciones
+> [!warning] 🚫 Problemas Frecuentes y Soluciones
 > 
 > **Error 1: Confundir dimensión con número de ecuaciones**
 > 
@@ -1761,7 +1761,7 @@ graph TD
 
 ## 🔗 Relación con Otros Conceptos
 
-> [!note]- 🌐 Conexiones Conceptuales
+> [!note] 🌐 Conexiones Conceptuales
 > 
 > **1. Relación con Formas Escalonadas:**
 > ```
@@ -1827,7 +1827,7 @@ graph TD
 
 ## 📚 Resumen Ejecutivo
 
-> [!summary]- 🎯 Lo Esencial
+> [!summary] 🎯 Lo Esencial
 > 
 > **Fórmula fundamental:**
 > ```
@@ -1865,7 +1865,7 @@ graph TD
 
 ## 🎯 Fundamentos del Conjunto Solución
 
-> [!info]- 💡 Introducción al Conjunto Solución
+> [!info] 💡 Introducción al Conjunto Solución
 > El **conjunto solución** de un sistema lineal compatible es el conjunto de todos los vectores que satisfacen el sistema. Su estructura depende fundamentalmente de la relación entre el número de variables y el rango de la matriz.
 > 
 > **Analogías útiles:**
@@ -1884,7 +1884,7 @@ graph TD
 
 ### 📐 Dimensión del Conjunto Solución
 
-> [!note]- 📖 Definición Formal
+> [!note] 📖 Definición Formal
 > 
 > **Definición:** Para un sistema lineal Ax = b **compatible** con A matriz m×n y rango(A) = r, la **dimensión del conjunto solución** es:
 > 
@@ -1911,7 +1911,7 @@ graph TD
 
 ### 🔢 Teorema Fundamental
 
-> [!important]- 🎓 Teorema de la Dimensión del Conjunto Solución
+> [!important] 🎓 Teorema de la Dimensión del Conjunto Solución
 > 
 > **Teorema:** Sea Ax = b un sistema lineal compatible con A matriz m×n y rango(A) = r.
 > 
@@ -1943,7 +1943,7 @@ graph TD
 
 ### ✨ Forma Paramétrica (Forma Vectorial)
 
-> [!note]- 📖 Estructura de la Solución Paramétrica
+> [!note] 📖 Estructura de la Solución Paramétrica
 > 
 > **Definición:** La **forma paramétrica** expresa todas las soluciones como:
 > 
@@ -1995,7 +1995,7 @@ graph TD
 
 ### 🎨 Procedimiento para Obtener la Forma Paramétrica
 
-> [!success]- ✅ Algoritmo Paso a Paso
+> [!success] ✅ Algoritmo Paso a Paso
 > 
 > **Entrada:** Sistema compatible Ax = b
 > 
@@ -2068,7 +2068,7 @@ graph TD
 
 ### 📍 Caso 1: Dimensión 0 (Sistema Compatible Determinado)
 
-> [!example]- 🎯 Solución Única
+> [!example] 🎯 Solución Única
 > 
 > **Condición:**
 > ```
@@ -2158,7 +2158,7 @@ graph TD
 
 ### 📏 Caso 2: Dimensión 1 (Una Variable Libre)
 
-> [!example]- 🎯 Conjunto Solución: Recta
+> [!example] 🎯 Conjunto Solución: Recta
 > 
 > **Condición:**
 > ```
@@ -2283,7 +2283,7 @@ graph TD
 
 ### 🔲 Caso 3: Dimensión 2 (Dos Variables Libres)
 
-> [!example]- 🎯 Conjunto Solución: Plano
+> [!example] 🎯 Conjunto Solución: Plano
 > 
 > **Condición:**
 > ```
@@ -2387,7 +2387,7 @@ graph TD
 
 ### 📐 Caso General: Dimensión k
 
-> [!note]- 🌟 Caso k Variables Libres
+> [!note] 🌟 Caso k Variables Libres
 > 
 > **Condición:**
 > ```
@@ -2445,7 +2445,7 @@ graph TD
 
 ### 🎯 Conexión Fundamental
 
-> [!important]- 🔗 Teorema del Espacio Nulo
+> [!important] 🔗 Teorema del Espacio Nulo
 > 
 > **Teorema:** Sea Ax = b un sistema compatible con solución particular x₀.
 > 
@@ -2502,7 +2502,7 @@ graph TD
 
 ### 🎨 Procedimiento para Encontrar Nul(A)
 
-> [!success]- ✅ Cómo Obtener la Base de Nul(A)
+> [!success] ✅ Cómo Obtener la Base de Nul(A)
 > 
 > **Método:** Resolver el sistema homogéneo Ax = 0
 > 
@@ -2560,7 +2560,7 @@ graph TD
 
 ### ✅ Ejemplo Integrador 1: Sistema 3×4 Completo
 
-> [!example]- 🎯 Análisis Exhaustivo
+> [!example] 🎯 Análisis Exhaustivo
 > 
 > **Sistema dado:**
 > ```
@@ -2738,7 +2738,7 @@ graph TD
 
 ### ✅ Ejemplo Integrador 2: Sistema con Parámetro
 
-> [!example]- 🎯 Análisis Según Valores del Parámetro
+> [!example] 🎯 Análisis Según Valores del Parámetro
 > 
 > **Sistema paramétrico:**
 > ```
@@ -2897,7 +2897,7 @@ graph TD
 
 ### ✅ Ejemplo Integrador 3: Sistema Homogéneo
 
-> [!example]- 🎯 Caso Especial: Ax = 0
+> [!example] 🎯 Caso Especial: Ax = 0
 > 
 > **Sistema homogéneo:**
 > ```
@@ -3014,7 +3014,7 @@ graph TD
 
 ### 🌍 Visualización por Dimensiones
 
-> [!note]- 🎨 Representación Geométrica del Conjunto Solución
+> [!note] 🎨 Representación Geométrica del Conjunto Solución
 > 
 > **En ℝ² (2 variables):**
 > 
@@ -3079,7 +3079,7 @@ graph TD
 
 ### 📐 Estructura Afín
 
-> [!important]- 🔷 Subespacio Afín
+> [!important] 🔷 Subespacio Afín
 > 
 > **Definición:**
 > ```
@@ -3143,7 +3143,7 @@ graph TD
 
 ## 📊 Tabla Resumen de Dimensiones
 
-> [!note]- 📋 Resumen por Dimensión del Conjunto Solución
+> [!note] 📋 Resumen por Dimensión del Conjunto Solución
 > 
 > ```
 > ┌──────┬──────────┬────────────┬─────────────────┬──────────────────┐
@@ -3176,7 +3176,7 @@ graph TD
 
 ### 📝 Algoritmo Maestro
 
-> [!success]- ✅ Proceso Completo para Describir el Conjunto Solución
+> [!success] ✅ Proceso Completo para Describir el Conjunto Solución
 > 
 > **ENTRADA:** Sistema lineal Ax = b
 > 
@@ -3349,7 +3349,7 @@ graph TD
 
 ## 🎯 Ejercicios Progresivos
 
-> [!example]- 💪 Práctica Guiada
+> [!example] 💪 Práctica Guiada
 > 
 > **Nivel 1: Identificación Rápida** 🟢
 > 
@@ -3467,7 +3467,7 @@ graph TD
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- 🚫 Problemas Frecuentes y Soluciones
+> [!warning] 🚫 Problemas Frecuentes y Soluciones
 > 
 > **Error 1: Confundir dimensión con número de ecuaciones**
 > 
@@ -3632,7 +3632,7 @@ graph TD
 
 ## 🔗 Relación con Otros Conceptos
 
-> [!note]- 🌐 Conexiones Conceptuales
+> [!note] 🌐 Conexiones Conceptuales
 > 
 > **1. Relación con Formas Escalonadas:**
 > ```
@@ -3698,7 +3698,7 @@ graph TD
 
 ## 📚 Resumen Ejecutivo
 
-> [!summary]- 🎯 Lo Esencial
+> [!summary] 🎯 Lo Esencial
 > 
 > **Fórmula fundamental:**
 > ```
@@ -3755,7 +3755,7 @@ graph TD
 
 ## 💻 Implementación Computacional
 
-> [!success]- 🖥️ Algoritmos en Código
+> [!success] 🖥️ Algoritmos en Código
 > 
 > **Python (NumPy + SymPy):**
 > 
@@ -4099,7 +4099,7 @@ graph TD
 
 ## 📋 Plantilla de Resolución
 
-> [!tip]- 📝 Formato Estándar
+> [!tip] 📝 Formato Estándar
 > 
 > **ENCABEZADO:**
 > ```
@@ -4204,7 +4204,7 @@ graph TD
 
 ## 🎓 Consejos para Exámenes
 
-> [!tip]- ✏️ Estrategia de Examen
+> [!tip] ✏️ Estrategia de Examen
 > 
 > **Gestión del tiempo:**
 > ```
@@ -4284,7 +4284,7 @@ graph TD
 
 ## 📖 Casos Especiales Importantes
 
-> [!info]- 🌟 Situaciones Particulares
+> [!info] 🌟 Situaciones Particulares
 > 
 > **Caso 1: Sistema homogéneo Ax = 0**
 > ```
@@ -4397,7 +4397,7 @@ graph TD
 
 ## 🔗 Enlaces y Referencias
 
-> [!quote]- 🌐 Relaciones con Otras Notas
+> [!quote] 🌐 Relaciones con Otras Notas
 > 
 > **Depende directamente de:**
 > - [[Universidad/2do Semestre/Algebra Lineal/Unidad 1 – Sistemas Lineales y Matrices/II – Métodos de resolución/02 - Formas Escalonadas y Matriz Escalonada\|02 - Formas Escalonadas y Matriz Escalonada]]
@@ -4432,7 +4432,7 @@ graph TD
 
 ## 🎯 Fundamentos de la Clasificación
 
-> [!info]- 💡 Introducción al Concepto de Clasificación de Soluciones
+> [!info] 💡 Introducción al Concepto de Clasificación de Soluciones
 > 
 > La **clasificación de soluciones** de un sistema de ecuaciones lineales es el proceso de determinar si el sistema tiene solución y, en caso afirmativo, cuántas soluciones posee. Esta clasificación es fundamental para entender la naturaleza matemática del problema y su interpretación geométrica.
 > 
@@ -4461,7 +4461,7 @@ graph TD
 
 ### 🔢 Clasificación Principal
 
-> [!note]- 📖 Taxonomía Completa de Sistemas
+> [!note] 📖 Taxonomía Completa de Sistemas
 > 
 > **Clasificación de Sistemas de Ecuaciones Lineales:**
 > 
@@ -4536,7 +4536,7 @@ graph TD
 
 ### 📊 Teorema Fundamental
 
-> [!note]- 🎓 Teorema de Rouché-Frobenius
+> [!note] 🎓 Teorema de Rouché-Frobenius
 > 
 > **Enunciado del Teorema:**
 > 
@@ -4618,7 +4618,7 @@ graph TD
 
 ### ✅ Método Paso a Paso
 
-> [!success]- 🔧 Algoritmo de Clasificación
+> [!success] 🔧 Algoritmo de Clasificación
 > 
 > **ALGORITMO COMPLETO PARA CLASIFICAR UN S.E.L.**
 > 
@@ -4742,7 +4742,7 @@ graph TD
 
 ### ✅ Ejemplo 1: Sistema Compatible Determinado
 
-> [!example]- 🎯 Solución Única en ℝ³
+> [!example] 🎯 Solución Única en ℝ³
 > 
 > **Sistema dado:**
 > 
@@ -4873,7 +4873,7 @@ graph TD
 
 ### ✅ Ejemplo 2: Sistema Compatible Indeterminado
 
-> [!example]- 🎯 Infinitas Soluciones (Recta en ℝ³)
+> [!example] 🎯 Infinitas Soluciones (Recta en ℝ³)
 > 
 > **Sistema dado:**
 > 
@@ -5019,7 +5019,7 @@ graph TD
 
 ### ✅ Ejemplo 3: Sistema Incompatible
 
-> [!example]- 🎯 Sin Solución (Contradicción)
+> [!example] 🎯 Sin Solución (Contradicción)
 > 
 > **Sistema dado:**
 > 
@@ -5131,7 +5131,7 @@ graph TD
 
 ### ✅ Ejemplo 4: Sistema Compatible Indeterminado (2 Parámetros)
 
-> [!example]- 🎯 Infinitas Soluciones (Plano en ℝ⁴)
+> [!example] 🎯 Infinitas Soluciones (Plano en ℝ⁴)
 > 
 > **Sistema dado:**
 > 
@@ -5273,7 +5273,7 @@ graph TD
 
 ## 📊 Tabla Resumen de Clasificación
 
-> [!note]- 📋 Cuadro Comparativo Completo
+> [!note] 📋 Cuadro Comparativo Completo
 > 
 > | **Tipo de Sistema** | **rango(A)** | **rango([A\|B])** | **Relación con n** | **Nº Soluciones** | **Parámetros** | **Geometría (ℝ³)** |
 > |---------------------|--------------|-------------------|--------------------|-------------------|----------------|-------------------|
@@ -5354,7 +5354,7 @@ graph TD
 
 ### 🌍 Visualización en Diferentes Dimensiones
 
-> [!success]- 🔭 Geometría de las Soluciones
+> [!success] 🔭 Geometría de las Soluciones
 > 
 > **EN ℝ² (dos incógnitas):**
 > 
@@ -5495,7 +5495,7 @@ graph TD
 
 ### 🔍 Análisis de Casos Límite
 
-> [!warning]- 🚨 Situaciones Que Requieren Atención Especial
+> [!warning] 🚨 Situaciones Que Requieren Atención Especial
 > 
 > **CASO 1: Sistemas con parámetros**
 > 
@@ -5643,7 +5643,7 @@ graph TD
 
 ### 💡 Enfoques Óptimos según Clasificación
 
-> [!tip]- 🧠 Métodos Específicos para Cada Caso
+> [!tip] 🧠 Métodos Específicos para Cada Caso
 > 
 > **ESTRATEGIA 1: Para sistemas compatibles determinados**
 > 
@@ -5782,7 +5782,7 @@ graph TD
 
 ## 📊 Diagrama de Decisión Completo
 
-> [!note]- 🗺️ Flujo de Clasificación Visual
+> [!note] 🗺️ Flujo de Clasificación Visual
 > 
 > ```mermaid
 > graph TD
@@ -5835,7 +5835,7 @@ graph TD
 
 ### ✅ Ejemplo 5: Sistema 4×4 con Análisis Completo
 
-> [!example]- 🎯 Sistema Cuadrado con Clasificación Detallada
+> [!example] 🎯 Sistema Cuadrado con Clasificación Detallada
 > 
 > **Sistema dado:**
 > 
@@ -6046,7 +6046,7 @@ graph TD
 
 ### ✅ Ejemplo 6: Sistema con Dos Parámetros
 
-> [!example]- 🎯 Análisis Completo de Sistema 3×5
+> [!example] 🎯 Análisis Completo de Sistema 3×5
 > 
 > **Sistema dado:**
 > 
@@ -6228,7 +6228,7 @@ graph TD
 
 ### 🔧 Problemas Aplicados
 
-> [!success]- 💼 Casos de Uso Real
+> [!success] 💼 Casos de Uso Real
 > 
 > **APLICACIÓN 1: Circuitos eléctricos (Leyes de Kirchhoff)**
 > 
@@ -6437,7 +6437,7 @@ graph TD
 
 ## ⚠️ Errores Comunes y Cómo Evitarlos
 
-> [!warning]- 🚫 Errores Frecuentes en Clasificación
+> [!warning] 🚫 Errores Frecuentes en Clasificación
 > 
 > **ERROR 1: Confundir rango(A) con rango([A|B])**
 > 
@@ -6597,7 +6597,7 @@ graph TD
 
 ## 📊 Tabla de Referencia Rápida
 
-> [!note]- 📋 Guía Rápida de Clasificación
+> [!note] 📋 Guía Rápida de Clasificación
 > 
 > ```
 > ┌─────────────────────────────────────────────────────────────────┐
@@ -6659,7 +6659,7 @@ graph TD
 
 ## 🎯 Ejercicios Progresivos
 
-> [!example]- 💪 Práctica Graduada de Clasificación
+> [!example] 💪 Práctica Graduada de Clasificación
 > 
 > **NIVEL 1: Básico (identificación directa)** 🟢
 > 
@@ -6803,7 +6803,7 @@ graph TD
 
 ## 🔗 Relaciones con Otros Conceptos
 
-> [!note]- 🌐 Conexiones Conceptuales Profundas
+> [!note] 🌐 Conexiones Conceptuales Profundas
 > 
 > **1. Teorema de Rouché-Frobenius ↔ Espacios Vectoriales**
 > 
@@ -6920,7 +6920,7 @@ graph TD
 
 ## 📈 Complejidad Computacional
 
-> [!info]- ⚙️ Aspectos Algorítmicos
+> [!info] ⚙️ Aspectos Algorítmicos
 > 
 > **Complejidad de clasificación según método:**
 > 
@@ -6970,7 +6970,7 @@ graph TD
 
 ## 💡 Consejos para Exámenes
 
-> [!tip]- ✍️ Estrategia de Examen
+> [!tip] ✍️ Estrategia de Examen
 > 
 > **ANTES DE EMPEZAR:**
 > 

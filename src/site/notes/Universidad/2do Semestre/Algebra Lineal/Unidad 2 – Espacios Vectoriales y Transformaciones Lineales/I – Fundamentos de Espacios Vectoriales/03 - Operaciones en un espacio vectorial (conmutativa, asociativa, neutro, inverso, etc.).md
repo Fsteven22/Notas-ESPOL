@@ -7,7 +7,7 @@
 
 ## 🌟 Concepto Fundamental
 
-> [!info]- Definición Intuitiva **Las operaciones en un espacio vectorial son las reglas algebraicas que gobiernan cómo se combinan vectores entre sí (suma) y con escalares (multiplicación por escalar). Estas operaciones deben satisfacer propiedades específicas (axiomas) que garantizan una estructura coherente y permiten manipulaciones algebraicas predecibles. Las propiedades fundamentales incluyen conmutatividad, asociatividad, existencia de elementos neutros e inversos, y leyes distributivas.**
+> [!info] Definición Intuitiva **Las operaciones en un espacio vectorial son las reglas algebraicas que gobiernan cómo se combinan vectores entre sí (suma) y con escalares (multiplicación por escalar). Estas operaciones deben satisfacer propiedades específicas (axiomas) que garantizan una estructura coherente y permiten manipulaciones algebraicas predecibles. Las propiedades fundamentales incluyen conmutatividad, asociatividad, existencia de elementos neutros e inversos, y leyes distributivas.**
 > 
 > **Características clave:**
 > 
@@ -19,7 +19,7 @@
 
 ### 📖 Contexto Histórico
 
-> [!note]- Desarrollo Histórico **Precursores conceptuales (1600-1800):**
+> [!note] Desarrollo Histórico **Precursores conceptuales (1600-1800):**
 > 
 > - **Descartes (1637):** Álgebra de coordenadas
 >     - Operaciones componente a componente (implícitas)
@@ -74,7 +74,7 @@
 
 ## 📐 Las Dos Operaciones Fundamentales
 
-> [!important]- Definiciones Formales **1. SUMA DE VECTORES**
+> [!important] Definiciones Formales **1. SUMA DE VECTORES**
 > 
 > ```
 > Operación binaria interna:
@@ -146,7 +146,7 @@
 
 ## 🎯 Axiomas de la Suma de Vectores
 
-> [!success]- Propiedades de la Suma (A1-A5) **A1. CERRADURA (Clausura)**
+> [!success] Propiedades de la Suma (A1-A5) **A1. CERRADURA (Clausura)**
 > 
 > ```
 > ∀\vec{u}, \vec{v} ∈ V : \vec{u} + \vec{v} ∈ V
@@ -294,7 +294,7 @@
 
 ## 🔢 Axiomas de la Multiplicación por Escalar
 
-> [!important]- Propiedades del Producto (M1-M5) **M1. CERRADURA BAJO MULTIPLICACIÓN**
+> [!important] Propiedades del Producto (M1-M5) **M1. CERRADURA BAJO MULTIPLICACIÓN**
 > 
 > ```
 > ∀α ∈ F, ∀\vec{v} ∈ V : α\vec{v} ∈ V
@@ -419,7 +419,7 @@
 
 ## 🧮 Propiedades Derivadas
 
-> [!note]- Consecuencias de los Axiomas **TEOREMA 1: Unicidad del vector cero**
+> [!note] Consecuencias de los Axiomas **TEOREMA 1: Unicidad del vector cero**
 > 
 > ```
 > Enunciado:
@@ -628,7 +628,7 @@
 
 ## 🎨 Operación Derivada: Resta de Vectores
 
-> [!tip]- Resta como Operación Secundaria **Definición:**
+> [!tip] Resta como Operación Secundaria **Definición:**
 > 
 > ```
 > La resta NO es un axioma, se define en términos de suma e inverso:
@@ -719,7 +719,7 @@
 
 ## 🧩 Ejemplos de Verificación de Axiomas
 
-> [!example]- Verificación Completa **Ejemplo 1: Matrices 2×2**
+> [!example] Verificación Completa **Ejemplo 1: Matrices 2×2**
 > 
 > ```
 > V = M₂ₓ₂(ℝ) = {[a b] : a,b,c,d ∈ ℝ}
@@ -829,7 +829,7 @@
 
 ## 📊 Tabla Resumen de Axiomas
 
-> [!important]- Referencia Rápida
+> [!important] Referencia Rápida
 > 
 > ```
 > ╔═══════════════════════════════════════════════════════════════╗
@@ -864,7 +864,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- Malentendidos Frecuentes **1. "Conmutatividad en multiplicación por escalar"**
+> [!warning] Malentendidos Frecuentes **1. "Conmutatividad en multiplicación por escalar"**
 > 
 > ```
 > ✗ FALSO: \vec{v}α ≠ α\vec{v} en general
@@ -981,7 +981,7 @@
 
 ## 🔗 Conexiones con Otros Temas
 
-> [!quote]- Enlaces Conceptuales **Fundamentos previos:**
+> [!quote] Enlaces Conceptuales **Fundamentos previos:**
 > 
 > - [[Álgebra abstracta\|Álgebra abstracta]] - Grupos, anillos, campos
 > - [[Teoría de conjuntos\|Teoría de conjuntos]] - Operaciones binarias
@@ -1004,7 +1004,7 @@
 
 ## 📚 Recursos Adicionales
 
-> [!note]- Herramientas y Referencias **Software para manipulación:**
+> [!note] Herramientas y Referencias **Software para manipulación:**
 > 
 > - **MATLAB/Octave:** Operaciones vectoriales y matriciales
 > - **Python (NumPy):** numpy.add(), numpy.multiply()
@@ -1025,7 +1025,7 @@
 
 ## 📖 Bibliografía Esencial
 
-> [!tip]- Lecturas Recomendadas **Nivel introductorio:**
+> [!tip] Lecturas Recomendadas **Nivel introductorio:**
 > 
 > - **Kolman, B., & Hill, D.** (2006). _Álgebra Lineal_. Pearson.
 >     - Cap. 4.1-4.2: Espacios vectoriales y propiedades

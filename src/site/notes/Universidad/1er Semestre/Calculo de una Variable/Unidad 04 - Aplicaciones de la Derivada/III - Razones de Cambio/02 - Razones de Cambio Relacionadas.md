@@ -421,7 +421,7 @@ flowchart TD
 - [[Trigonometría\|Trigonometría]] - Para problemas con ángulos y rotación
 - [[Física General\|Física General]] - Contexto físico de las aplicaciones
 - [[Ecuaciones Diferenciales\|Ecuaciones Diferenciales]] - Modelado dinámico avanzado
-- [[Cálculo Vectorial\|Cálculo Vectorial]] - Extensión a movimiento en múltiples dimensiones
+- [[Universidad/2do Semestre/Cálculo Vectorial/Cálculo Vectorial\|Cálculo Vectorial]] - Extensión a movimiento en múltiples dimensiones
 - [[Mecánica de Fluidos\|Mecánica de Fluidos]] - Aplicaciones específicas en flujos
 - [[Termodinámica\|Termodinámica]] - Relaciones entre variables de estado
 

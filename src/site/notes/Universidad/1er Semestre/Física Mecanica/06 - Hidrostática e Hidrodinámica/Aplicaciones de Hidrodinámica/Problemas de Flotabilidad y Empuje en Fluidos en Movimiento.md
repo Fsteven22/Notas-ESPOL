@@ -7,11 +7,11 @@
 
 > [!quote] "Cuando los fluidos se mueven, la flotabilidad no solo eleva, sino que también arrastra, creando una danza compleja de fuerzas donde Arquímedes se encuentra con la dinámica de fluidos." ⛵
 
-> [!info]- La flotabilidad en fluidos en movimiento combina el principio de Arquímedes con efectos dinámicos como resistencia al avance, fuerzas de corriente y velocidades relativas. Es fundamental para entender el comportamiento de barcos, submarinos, sedimentación de partículas y transporte en ríos.
+> [!info] La flotabilidad en fluidos en movimiento combina el principio de Arquímedes con efectos dinámicos como resistencia al avance, fuerzas de corriente y velocidades relativas. Es fundamental para entender el comportamiento de barcos, submarinos, sedimentación de partículas y transporte en ríos.
 
 ## 🔧 Conceptos Fundamentales
 
-> [!info]- **Fuerzas sobre Objetos en Flujo** ⚓
+> [!info] **Fuerzas sobre Objetos en Flujo** ⚓
 > 
 > ### Fuerzas Principales:
 > 
@@ -33,7 +33,7 @@
 > |Coeficiente de arrastre|C_d|Forma del objeto|adimensional|
 > |Área frontal|A|Perpendicular al flujo|m²|
 
-> [!tip]- **Velocidades Relativas** 🌊
+> [!tip] **Velocidades Relativas** 🌊
 > 
 > ### Casos Fundamentales:
 > 
@@ -57,7 +57,7 @@
 > |Contra corriente|v_obj + v_fluido|Mayor|
 > |Perpendicular|√(v_obj² + v_fluido²)|Intermedia|
 
-> [!warning]- **Coeficientes de Resistencia** ⚡
+> [!warning] **Coeficientes de Resistencia** ⚡
 > 
 > ### Formas Comunes:
 > 
@@ -99,7 +99,7 @@
 >     style I fill:#fce4ec
 > ```
 
-> [!note]- **Ecuaciones de Equilibrio** 📐
+> [!note] **Ecuaciones de Equilibrio** 📐
 > 
 > ### Equilibrio Vertical (Flotación):
 > 
@@ -119,7 +119,7 @@
 
 ## 🎯 Estrategias de Resolución
 
-> [!tip]- **Método MAREA (Masas-Arquímedes-Resistencia-Equilibrio-Análisis)** 🧠
+> [!tip] **Método MAREA (Masas-Arquímedes-Resistencia-Equilibrio-Análisis)** 🧠
 > 
 > ### **M**asas - Define densidades y volúmenes
 > 
@@ -154,7 +154,7 @@
 
 ## 📚 Problemas Tipo
 
-> [!example]- **Problema 1: Barco en Río con Corriente** ⛵
+> [!example] **Problema 1: Barco en Río con Corriente** ⛵
 > 
 > ### Enunciado:
 > 
@@ -188,7 +188,7 @@
 > 
 > **Observación**: Esta es una potencia considerable, equivalente a ~930 HP, típica de embarcaciones rápidas.
 
-> [!example]- **Problema 2: Sedimentación de Partícula en Corriente** 🌊
+> [!example] **Problema 2: Sedimentación de Partícula en Corriente** 🌊
 > 
 > ### Enunciado:
 > 
@@ -232,7 +232,7 @@
 > 
 > **Trayectoria**: La partícula cae con velocidad constante mientras es arrastrada horizontalmente.
 
-> [!example]- **Problema 3: Submarino en Inmersión** 🚤
+> [!example] **Problema 3: Submarino en Inmersión** 🚤
 > 
 > ### Enunciado:
 > 
@@ -285,11 +285,11 @@
 
 ## 🧮 Técnicas de Memorización
 
-> [!tip]- **Mnemotecnia: "FLOTA"** 🛟
+> [!tip] **Mnemotecnia: "FLOTA"** 🛟
 > 
 > **F**uerza de empuje = ρ_fluido × V × g (siempre hacia arriba) **L**a resistencia se opone al movimiento **relativo** **O**bjeto flota si ρ_objeto < ρ_fluido **T**erminal velocity cuando fuerzas se equilibran **A**rrastre ∝ velocidad² (régimen turbulento)
 
-> [!tip]- **Regla de las Velocidades Relativas** 🌊
+> [!tip] **Regla de las Velocidades Relativas** 🌊
 > 
 > - **Con la corriente**: Menor resistencia, mayor eficiencia
 > - **Contra la corriente**: Mayor resistencia, menor eficiencia
@@ -297,7 +297,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- **Confusiones Frecuentes** ⚠️
+> [!warning] **Confusiones Frecuentes** ⚠️
 > 
 > 1. **Velocidad absoluta vs relativa**: Usar velocidad respecto al suelo en lugar de velocidad relativa al fluido
 > 2. **Empuje vs peso**: Confundir condiciones de flotación estática con dinámica
@@ -310,7 +310,7 @@
 
 ## 🎯 Aplicaciones Prácticas
 
-> [!info]- **Ejemplos del Mundo Real** 🌍
+> [!info] **Ejemplos del Mundo Real** 🌍
 > 
 > ### Navegación:
 > 
@@ -341,7 +341,7 @@
 
 ## 📖 Referencias
 
-> [!quote]- **Notas Relacionadas**
+> [!quote] **Notas Relacionadas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/06 - Hidrostática e Hidrodinámica/Hidrostática/El Principio de Arquímedes y Flotación\|El Principio de Arquímedes y Flotación]] - Fundamentos estáticos
 > - [[Universidad/1er Semestre/Física Mecanica/06 - Hidrostática e Hidrodinámica/Aplicaciones de Hidrodinámica/Problemas de Ecuación de Bernoulli\|Problemas de Ecuación de Bernoulli]] - Efectos dinámicos
@@ -351,7 +351,7 @@
 
 ## 📚 Notas Recomendadas
 
-> [!note]- **Prerrequisitos**
+> [!note] **Prerrequisitos**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/06 - Hidrostática e Hidrodinámica/Hidrostática/El Principio de Arquímedes y Flotación\|El Principio de Arquímedes y Flotación]] - Empuje hidrostático
 > - [[Universidad/1er Semestre/Física Mecanica/06 - Hidrostática e Hidrodinámica/Aplicaciones de Hidrodinámica/Problemas de Ecuación de Continuidad\|Problemas de Ecuación de Continuidad]] - Conservación de masa
@@ -365,7 +365,7 @@
 > - Coeficientes de resistencia al flujo
 > - Equilibrio de fuerzas en sistemas dinámicos
 
-> [!note]- **Temas Avanzados**
+> [!note] **Temas Avanzados**
 > 
 > - **Hidrodinámica naval**: Diseño de embarcaciones
 > - **Sedimentología**: Transporte de partículas

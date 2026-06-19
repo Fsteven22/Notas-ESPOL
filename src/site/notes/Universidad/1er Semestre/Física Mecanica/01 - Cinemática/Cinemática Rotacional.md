@@ -11,7 +11,7 @@
 
 ## 📋 Conceptos Fundamentales
 
-> [!info]- 🎯 **Definición de Cinemática Rotacional** La cinemática rotacional estudia el movimiento de rotación de los cuerpos rígidos sin considerar las causas que producen dicho movimiento. Se enfoca en describir cómo cambian las variables angulares con respecto al tiempo.
+> [!info] 🎯 **Definición de Cinemática Rotacional** La cinemática rotacional estudia el movimiento de rotación de los cuerpos rígidos sin considerar las causas que producen dicho movimiento. Se enfoca en describir cómo cambian las variables angulares con respecto al tiempo.
 > 
 > **Características principales:**
 > 
@@ -21,7 +21,7 @@
 
 ## 🔢 Variables Cinemáticas Angulares
 
-> [!tip]- 📐 **Posición Angular (θ)** **Definición:** Ángulo medido desde una línea de referencia hasta la posición del objeto.
+> [!tip] 📐 **Posición Angular (θ)** **Definición:** Ángulo medido desde una línea de referencia hasta la posición del objeto.
 > 
 > **Unidades:**
 > 
@@ -37,7 +37,7 @@
 > |π rad|180°|0.5 rev|
 > |1 rad|57.3°|0.159 rev|
 
-> [!tip]- ⚡ **Velocidad Angular (ω)** **Definición:** Razón de cambio de la posición angular con respecto al tiempo.
+> [!tip] ⚡ **Velocidad Angular (ω)** **Definición:** Razón de cambio de la posición angular con respecto al tiempo.
 > 
 > $$\omega = \frac{d\theta}{dt}$$
 > 
@@ -49,7 +49,7 @@
 > - Dirección dada por la regla de la mano derecha
 > - En movimiento uniforme: $\omega = \frac{\theta}{t}$
 
-> [!tip]- 🚀 **Aceleración Angular (α)** **Definición:** Razón de cambio de la velocidad angular con respecto al tiempo.
+> [!tip] 🚀 **Aceleración Angular (α)** **Definición:** Razón de cambio de la velocidad angular con respecto al tiempo.
 > 
 > $$\alpha = \frac{d\omega}{dt} = \frac{d^2\theta}{dt^2}$$
 > 
@@ -63,7 +63,7 @@
 
 ## 📊 Ecuaciones de la Cinemática Rotacional
 
-> [!warning]- 🧮 **Ecuaciones para Aceleración Angular Constante** Estas ecuaciones son análogas a las de la cinemática lineal:
+> [!warning] 🧮 **Ecuaciones para Aceleración Angular Constante** Estas ecuaciones son análogas a las de la cinemática lineal:
 > 
 > |Ecuación|Fórmula|Variables|
 > |---|---|---|
@@ -82,7 +82,7 @@
 
 ## 🔄 Relación entre Variables Lineales y Angulares
 
-> [!info]- 🔗 **Correspondencias Fundamentales** Para un punto a distancia **r** del eje de rotación:
+> [!info] 🔗 **Correspondencias Fundamentales** Para un punto a distancia **r** del eje de rotación:
 > 
 > ```mermaid
 > graph TD
@@ -105,7 +105,7 @@
 
 ## 🧠 Técnica de Estudio: Método de Analogías
 
-> [!tip]- 🎓 **Estrategia de Aprendizaje: Analogías Lineales-Angulares** **Paso 1:** Memoriza las correspondencias usando la mnemotecnia **"ROTO"**:
+> [!tip] 🎓 **Estrategia de Aprendizaje: Analogías Lineales-Angulares** **Paso 1:** Memoriza las correspondencias usando la mnemotecnia **"ROTO"**:
 > 
 > - **R**otación → **R**adio multiplica
 > - **O**mega → **O**rbital (velocidad)
@@ -125,7 +125,7 @@
 
 ## 📋 Tipos de Movimiento Circular
 
-> [!info]- 🔄 **Clasificación del Movimiento Circular**
+> [!info] 🔄 **Clasificación del Movimiento Circular**
 > 
 > **1. Movimiento Circular Uniforme (MCU)**
 > 
@@ -145,7 +145,7 @@
 
 ## 🧪 Ejemplos Prácticos
 
-> [!example]- 💡 **Problema Resuelto** Una rueda gira con velocidad angular inicial de 10 rad/s y experimenta una aceleración angular de -2 rad/s² durante 3 segundos.
+> [!example] 💡 **Problema Resuelto** Una rueda gira con velocidad angular inicial de 10 rad/s y experimenta una aceleración angular de -2 rad/s² durante 3 segundos.
 > 
 > **Encontrar:** Velocidad angular final y ángulo recorrido
 > 
@@ -158,7 +158,7 @@
 
 ## 🔍 Referencias y Conexiones
 
-> [!quote]- 📚 **Referencias a otras notas**
+> [!quote] 📚 **Referencias a otras notas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/01 - Cinemática/Cinemática Traslacional\|Cinemática Traslacional]] - Base conceptual para analogías
 > - [[Universidad/1er Semestre/Física Mecanica/02 - Dinámica/Dinámica de Rotación/Momento de Inercia\|Momento de Inercia]] - Extensión hacia dinámica rotacional
@@ -167,7 +167,7 @@
 
 ## 📖 Notas Recomendadas para Complementar
 
-> [!info]- 🎯 **Prerrequisitos y Temas Relacionados**
+> [!info] 🎯 **Prerrequisitos y Temas Relacionados**
 > 
 > **Prerrequisitos esenciales:**
 > 

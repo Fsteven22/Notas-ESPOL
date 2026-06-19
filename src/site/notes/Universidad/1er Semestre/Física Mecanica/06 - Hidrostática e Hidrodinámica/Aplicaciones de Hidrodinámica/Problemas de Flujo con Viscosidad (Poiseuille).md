@@ -7,11 +7,11 @@
 
 > [!quote] "La viscosidad es la resistencia silenciosa que gobierna el mundo real; sin ella, Bernoulli sería rey, pero con ella, Poiseuille revela la verdad del flujo." 🌊
 
-> [!info]- El flujo con viscosidad introduce efectos de fricción que Bernoulli no considera. La ecuación de Poiseuille describe el flujo laminar viscoso en tuberías, fundamental para entender desde la circulación sanguínea hasta el transporte de petróleo en oleoductos.
+> [!info] El flujo con viscosidad introduce efectos de fricción que Bernoulli no considera. La ecuación de Poiseuille describe el flujo laminar viscoso en tuberías, fundamental para entender desde la circulación sanguínea hasta el transporte de petróleo en oleoductos.
 
 ## 🔧 Conceptos Fundamentales
 
-> [!info]- **Viscosidad y Esfuerzo Cortante** 🍯
+> [!info] **Viscosidad y Esfuerzo Cortante** 🍯
 > 
 > ### Definición de Viscosidad:
 > 
@@ -38,7 +38,7 @@
 > - **Flujo turbulento**: Perfil más plano
 > - **Velocidad máxima**: En el centro del tubo
 
-> [!tip]- **Ecuación de Poiseuille** 🧪
+> [!tip] **Ecuación de Poiseuille** 🧪
 > 
 > ### Para Tubo Circular:
 > 
@@ -61,7 +61,7 @@
 > - **μ**: Viscosidad dinámica [Pa·s]
 > - **L**: Longitud del tubo [m]
 
-> [!warning]- **Número de Reynolds** ⚡
+> [!warning] **Número de Reynolds** ⚡
 > 
 > ### Definición:
 > 
@@ -101,7 +101,7 @@
 >     style G fill:#fce4ec
 > ```
 
-> [!note]- **Analogía con Circuitos Eléctricos** ⚡
+> [!note] **Analogía con Circuitos Eléctricos** ⚡
 > 
 > ### Resistencia Hidráulica:
 > 
@@ -121,7 +121,7 @@
 
 ## 🎯 Estrategias de Resolución
 
-> [!tip]- **Método VAPOR (Viscosidad-Área-Presión-Ohm-Reynolds)** 🧠
+> [!tip] **Método VAPOR (Viscosidad-Área-Presión-Ohm-Reynolds)** 🧠
 > 
 > ### **V**iscosidad - Identifica las propiedades del fluido
 > 
@@ -155,7 +155,7 @@
 
 ## 📚 Problemas Tipo
 
-> [!example]- **Problema 1: Flujo en Tubería Simple** 🔧
+> [!example] **Problema 1: Flujo en Tubería Simple** 🔧
 > 
 > ### Enunciado:
 > 
@@ -195,7 +195,7 @@
 > 
 > La aplicación de Poiseuille es válida.
 
-> [!example]- **Problema 2: Sistema de Tuberías en Serie** 🔗
+> [!example] **Problema 2: Sistema de Tuberías en Serie** 🔗
 > 
 > ### Enunciado:
 > 
@@ -230,7 +230,7 @@
 > 
 > **Observación**: La tubería más estrecha (menor D) tiene mayor resistencia y mayor caída de presión.
 
-> [!example]- **Problema 3: Flujo Sanguíneo (Aplicación Biomédica)** ❤️
+> [!example] **Problema 3: Flujo Sanguíneo (Aplicación Biomédica)** ❤️
 > 
 > ### Enunciado:
 > 
@@ -276,11 +276,11 @@
 
 ## 🧮 Técnicas de Memorización
 
-> [!tip]- **Mnemotecnia: "RADIO"** 🎯
+> [!tip] **Mnemotecnia: "RADIO"** 🎯
 > 
 > **R**⁴ en el numerador → **R**adio a la cuarta potencia es clave **A**umento de radio → **D**ismunuye resistencia enormemente **D**iámetro doble → resistencia 1/16 (porque R⁴) **I**nverso de viscosidad → más viscoso, menos caudal **O**hm hidráulico → ΔP = R × Q
 
-> [!tip]- **Regla del Radio** 📏
+> [!tip] **Regla del Radio** 📏
 > 
 > **"El radio gobierna"**: Si R se duplica, Q aumenta 16 veces
 > 
@@ -291,7 +291,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- **Confusiones Frecuentes** ⚠️
+> [!warning] **Confusiones Frecuentes** ⚠️
 > 
 > 1. **Confundir radio con diámetro**: Usar D en lugar de R en la fórmula de Poiseuille
 > 2. **Ignorar el régimen de flujo**: Aplicar Poiseuille cuando Re > 2,100
@@ -304,7 +304,7 @@
 
 ## 🎯 Aplicaciones Prácticas
 
-> [!info]- **Ejemplos del Mundo Real** 🌍
+> [!info] **Ejemplos del Mundo Real** 🌍
 > 
 > ### Biomedicina:
 > 
@@ -339,7 +339,7 @@
 
 ## 📖 Referencias
 
-> [!quote]- **Notas Relacionadas**
+> [!quote] **Notas Relacionadas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/06 - Hidrostática e Hidrodinámica/Aplicaciones de Hidrodinámica/Problemas de Ecuación de Bernoulli\|Problemas de Ecuación de Bernoulli]] - Flujo ideal sin viscosidad
 > - [[Universidad/1er Semestre/Física Mecanica/06 - Hidrostática e Hidrodinámica/Hidrodinámica/Viscosidad y Número de Reynolds\|Viscosidad y Número de Reynolds]] - Caracterización del flujo
@@ -349,7 +349,7 @@
 
 ## 📚 Notas Recomendadas
 
-> [!note]- **Prerrequisitos**
+> [!note] **Prerrequisitos**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/06 - Hidrostática e Hidrodinámica/Aplicaciones de Hidrodinámica/Problemas de Ecuación de Continuidad\|Problemas de Ecuación de Continuidad]] - Conservación de masa
 > - [[Universidad/1er Semestre/Física Mecanica/06 - Hidrostática e Hidrodinámica/Fundamentos de Hidrostática e Hidrodinámica/Presión y Densidad\|Presión y Densidad]] - Propiedades de fluidos
@@ -361,7 +361,7 @@
 > - Perfiles de velocidad en flujo laminar
 > - Analogías con circuitos eléctricos
 
-> [!note]- **Temas Avanzados**
+> [!note] **Temas Avanzados**
 > 
 > - **Flujo no newtoniano**: Fluidos complejos
 > - **Flujo en medios porosos**: Ley de Darcy

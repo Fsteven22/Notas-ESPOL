@@ -7,7 +7,7 @@
 
 ## 🌟 Concepto Fundamental
 
-> [!info]- Definición Intuitiva
+> [!info] Definición Intuitiva
 > **El espacio fila de una matriz es el subespacio vectorial generado por sus filas. Representa todos los vectores que pueden obtenerse como combinaciones lineales de las filas de la matriz. Este concepto es el dual del espacio columna y comparte con él la misma dimensión (el rango), aunque viven en espacios diferentes.**
 > 
 > **Características clave:**
@@ -19,7 +19,7 @@
 
 ### 📖 Contexto Histórico
 
-> [!note]- Desarrollo del Concepto
+> [!note] Desarrollo del Concepto
 > **Orígenes duales (1850-1880):**
 > - **Sylvester (1850):** Concepto de rango
 >   - Introducción del término "rank"
@@ -55,7 +55,7 @@
 
 ## 📊 Definición Formal
 
-> [!important]- Espacio Fila
+> [!important] Espacio Fila
 > **Definición:**
 > 
 > Sea $A$ una matriz $m \times n$:
@@ -101,7 +101,7 @@
 
 ## 🎯 Propiedades Fundamentales
 
-> [!success]- Características del Espacio Fila
+> [!success] Características del Espacio Fila
 > **Teorema: Row(A) es un subespacio**
 > 
 > **DEMOSTRACIÓN:**
@@ -169,7 +169,7 @@
 
 ## 🔥 Propiedad Clave: Preservación por Operaciones de Fila
 
-> [!warning]- Diferencia Crítica con Espacio Columna
+> [!warning] Diferencia Crítica con Espacio Columna
 > **Teorema: Las operaciones elementales por filas PRESERVAN el espacio fila**
 > 
 > Si $B$ se obtiene de $A$ mediante operaciones elementales por filas:
@@ -221,7 +221,7 @@
 
 ## 🔍 Cálculo del Espacio Fila
 
-> [!tip]- Método de Reducción por Filas
+> [!tip] Método de Reducción por Filas
 > **Algoritmo para encontrar base de Row(A):**
 > 
 > **PROCEDIMIENTO:**
@@ -287,7 +287,7 @@
 
 ## 📈 Relación Fila-Columna
 
-> [!important]- Teorema Fundamental del Rango
+> [!important] Teorema Fundamental del Rango
 > **Igualdad de dimensiones:**
 > 
 > Para cualquier matriz $A$:
@@ -352,7 +352,7 @@
 
 ## 🎨 Interpretación Geométrica
 
-> [!note]- Visualización del Espacio Fila
+> [!note] Visualización del Espacio Fila
 > **Comparación visual Row vs Col:**
 > 
 > ```mermaid
@@ -425,7 +425,7 @@
 
 ## 🔗 Los Cuatro Subespacios Fundamentales
 
-> [!success]- Teorema de los Cuatro Subespacios
+> [!success] Teorema de los Cuatro Subespacios
 > **Para matriz $A$ de $m \times n$ con rango $r$:**
 > 
 > ```mermaid
@@ -507,7 +507,7 @@
 
 ## 💡 Ejemplos Resueltos
 
-> [!example]- Problemas Detallados
+> [!example] Problemas Detallados
 > **Problema 1: Encontrar base de Row(A)**
 > 
 > Sea 
@@ -698,7 +698,7 @@
 
 ## ⚡ Propiedades Adicionales
 
-> [!important]- Teoremas sobre Espacio Fila
+> [!important] Teoremas sobre Espacio Fila
 > **Propiedades de preservación:**
 > 
 > **P1)** Si $B = PA$ donde $P$ es invertible:
@@ -754,7 +754,7 @@
 
 ## 🎯 Aplicaciones del Espacio Fila
 
-> [!note]- Usos Prácticos
+> [!note] Usos Prácticos
 > **1. Sistemas de ecuaciones:**
 > 
 > **Interpretación dual:**
@@ -810,7 +810,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- Malentendidos Frecuentes
+> [!warning] Malentendidos Frecuentes
 > **1. "Row(A) usa filas de la matriz original"**
 > 
 > ❌ **INCOMPLETO**
@@ -915,7 +915,7 @@
 
 ## 🔗 Conexiones con Otros Temas
 
-> [!quote]- Enlaces Conceptuales
+> [!quote] Enlaces Conceptuales
 > **Fundamentos previos:**
 > - [[01 - Vectores en espacios vectoriales\|01 - Vectores en espacios vectoriales]] - Subespacios
 > - [[05 - Combinaciones lineales\|05 - Combinaciones lineales]] - Span
@@ -936,7 +936,7 @@
 
 ## 📚 Recursos Adicionales
 
-> [!note]- Herramientas y Referencias
+> [!note] Herramientas y Referencias
 > **Software de álgebra lineal:**
 > 
 > - **MATLAB**
@@ -969,7 +969,7 @@
 
 ## 📖 Bibliografía Esencial
 
-> [!tip]- Lecturas Recomendadas
+> [!tip] Lecturas Recomendadas
 > **Nivel introductorio:**
 > - **Lay, D. C.** (2016). _Álgebra Lineal y sus Aplicaciones_ (5ª ed.). Pearson.
 >   - Cap. 4.6: Rango
@@ -1000,7 +1000,7 @@
 
 ## 🎓 Conceptos Clave - Resumen
 
-> [!important]- Ideas Fundamentales
+> [!important] Ideas Fundamentales
 > 
 > **DEFINICIÓN ESENCIAL:**
 > 

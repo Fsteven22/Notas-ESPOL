@@ -11,7 +11,7 @@
 
 ## 📋 Definición y Concepto Fundamental
 
-> [!info]- 🎯 **¿Qué es la Velocidad Relativa?** Es la **velocidad de un objeto** medida **respecto a otro objeto** que también puede estar en movimiento. En problemas de navegación, consideramos cómo los **medios en movimiento** (aire, agua) afectan el movimiento de vehículos.
+> [!info] 🎯 **¿Qué es la Velocidad Relativa?** Es la **velocidad de un objeto** medida **respecto a otro objeto** que también puede estar en movimiento. En problemas de navegación, consideramos cómo los **medios en movimiento** (aire, agua) afectan el movimiento de vehículos.
 > 
 > **🔑 Ecuación fundamental:** $$\vec{v}_{AB} = \vec{v}_A - \vec{v}_B$$
 > 
@@ -21,7 +21,7 @@
 
 ## ✈️ Tipos de Problemas de Velocidad Relativa
 
-> [!tip]- 🌪️ **Aviones con Viento** **Situación:** Aeronave volando en un medio (aire) que se mueve con respecto a tierra
+> [!tip] 🌪️ **Aviones con Viento** **Situación:** Aeronave volando en un medio (aire) que se mueve con respecto a tierra
 > 
 > ```mermaid
 > graph LR
@@ -38,7 +38,7 @@
 > - 🚁 Helicópteros en corrientes de aire
 > - 🪂 Paracaidistas con viento lateral
 
-> [!warning]- 🚢 **Barcos en Corrientes** **Situación:** Embarcación navegando en agua que fluye respecto a la costa
+> [!warning] 🚢 **Barcos en Corrientes** **Situación:** Embarcación navegando en agua que fluye respecto a la costa
 > 
 > ```mermaid
 > graph TB
@@ -55,7 +55,7 @@
 > - 🛥️ Lanchas en corrientes marinas
 > - 🚤 Travesías en canales con flujo
 
-> [!note]- 🌧️ **Lluvia y Movimiento** **Situación:** Observador en movimiento percibiendo lluvia con velocidad aparente
+> [!note] 🌧️ **Lluvia y Movimiento** **Situación:** Observador en movimiento percibiendo lluvia con velocidad aparente
 > 
 > **Ejemplos típicos:**
 > 
@@ -67,7 +67,7 @@
 
 ## 🧭 Sistemas de Referencia y Navegación
 
-> [!abstract]- 📐 **Marcos de Referencia Importantes**
+> [!abstract] 📐 **Marcos de Referencia Importantes**
 > 
 > ### 🌍 Referencia Terrestre (Fija)
 > 
@@ -91,7 +91,7 @@
 
 ## 📐 Metodología de Resolución
 
-> [!example]- 🛠️ **Pasos para Resolver Problemas de Velocidad Relativa**
+> [!example] 🛠️ **Pasos para Resolver Problemas de Velocidad Relativa**
 > 
 > ### Paso 1: Identificar los Sistemas de Referencia
 > 
@@ -124,7 +124,7 @@
 
 ## 🧮 Casos Específicos y Configuraciones
 
-> [!abstract]- 📊 **Tabla de Configuraciones Comunes**
+> [!abstract] 📊 **Tabla de Configuraciones Comunes**
 > 
 > |Configuración|Descripción|Fórmula de Magnitud|Dirección|
 > |---|---|---|---|
@@ -137,7 +137,7 @@
 
 ## 🎯 Problemas Específicos de Navegación
 
-> [!tip]- 🧭 **Problema del Rumbo de Compensación** **Situación:** Determinar qué rumbo debe seguir un vehículo para alcanzar un destino específico cuando hay viento/corriente lateral.
+> [!tip] 🧭 **Problema del Rumbo de Compensación** **Situación:** Determinar qué rumbo debe seguir un vehículo para alcanzar un destino específico cuando hay viento/corriente lateral.
 > 
 > ```mermaid
 > graph TB
@@ -153,7 +153,7 @@
 > 2. El rumbo compensado debe anular la deriva
 > 3. $\vec{v}_{deseada} = \vec{v}_{vehículo/medio} + \vec{v}_{compensación}$
 
-> [!warning]- ⏱️ **Problema del Tiempo de Viaje** **Situación:** Calcular cuánto tiempo tarda un viaje considerando el efecto del medio
+> [!warning] ⏱️ **Problema del Tiempo de Viaje** **Situación:** Calcular cuánto tiempo tarda un viaje considerando el efecto del medio
 > 
 > **Factores clave:**
 > 
@@ -167,7 +167,7 @@
 
 ## 💡 Ejemplos Resueltos
 
-> [!example]- ✈️ **Ejemplo 1: Avión con Viento Lateral** **Problema:** Un avión vuela hacia el Norte a 300 km/h respecto al aire. Hay un viento del Oeste de 50 km/h. Determinar la velocidad resultante respecto a tierra.
+> [!example] ✈️ **Ejemplo 1: Avión con Viento Lateral** **Problema:** Un avión vuela hacia el Norte a 300 km/h respecto al aire. Hay un viento del Oeste de 50 km/h. Determinar la velocidad resultante respecto a tierra.
 > 
 > **Solución:**
 > 
@@ -186,7 +186,7 @@
 > 
 > **Respuesta:** El avión vuela a 304.1 km/h en dirección 9.46° al Este del Norte.
 
-> [!example]- 🚢 **Ejemplo 2: Barco Cruzando Río** **Problema:** Un barco quiere cruzar un río de 200 m de ancho perpendicularmente. La corriente fluye a 3 m/s hacia el Este. El barco puede navegar a 5 m/s respecto al agua. ¿Qué rumbo debe seguir y cuánto tiempo tardará?
+> [!example] 🚢 **Ejemplo 2: Barco Cruzando Río** **Problema:** Un barco quiere cruzar un río de 200 m de ancho perpendicularmente. La corriente fluye a 3 m/s hacia el Este. El barco puede navegar a 5 m/s respecto al agua. ¿Qué rumbo debe seguir y cuánto tiempo tardará?
 > 
 > **Solución:**
 > 
@@ -212,7 +212,7 @@
 
 ## 🎨 Representación Gráfica y Diagramas
 
-> [!note]- 📈 **Diagrama de Vectores de Velocidad**
+> [!note] 📈 **Diagrama de Vectores de Velocidad**
 > 
 > ```mermaid
 > graph TB
@@ -239,7 +239,7 @@
 
 ## 🧠 Técnica Mnemotécnica: "VIMAR"
 
-> [!tip]- 🎯 **Método VIMAR para Velocidad Relativa**
+> [!tip] 🎯 **Método VIMAR para Velocidad Relativa**
 > 
 > **V** - **V**ectorizar todas las velocidades conocidas **I** - **I**dentificar sistemas de referencia (tierra, medio, vehículo) **M** - **M**arcar la ecuación fundamental: $\vec{v}_{AC} = \vec{v}_{AB} + \vec{v}_{BC}$ **A** - **A**plicar descomposición en componentes x, y **R** - **R**esultar magnitud y dirección final
 > 
@@ -254,7 +254,7 @@
 
 ## ⚠️ Errores Comunes y Consejos
 
-> [!warning]- 🚫 **Errores Frecuentes**
+> [!warning] 🚫 **Errores Frecuentes**
 > 
 > ### ❌ Error 1: Confundir Sistemas de Referencia
 > 
@@ -276,7 +276,7 @@
 
 ## 🚀 Aplicaciones Avanzadas
 
-> [!abstract]- 🛰️ **Navegación por Instrumentos**
+> [!abstract] 🛰️ **Navegación por Instrumentos**
 > 
 > ### GPS vs Velocímetro
 > 
@@ -294,7 +294,7 @@
 
 ## 🔗 Referencias
 
-> [!quote]- 📚 **Notas Relacionadas**
+> [!quote] 📚 **Notas Relacionadas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/01 - Cinemática/Aplicaciones de Cinemática Traslacional/Problemas de Encuentro\|Problemas de Encuentro]] - Para encuentros con velocidad relativa
 > - [[Universidad/1er Semestre/Física Mecanica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Operaciones vectoriales fundamentales
@@ -306,7 +306,7 @@
 
 ## 📝 Notas Recomendadas como Prerrequisitos
 
-> [!info]- 🎓 **Conocimientos Previos Necesarios**
+> [!info] 🎓 **Conocimientos Previos Necesarios**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Suma vectorial y componentes
 > - [[Trigonometría\|Trigonometría]] - Descomposición y ángulos

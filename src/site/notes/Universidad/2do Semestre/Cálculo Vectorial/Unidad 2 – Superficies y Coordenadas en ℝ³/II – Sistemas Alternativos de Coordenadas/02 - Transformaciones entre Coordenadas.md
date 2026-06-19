@@ -7,7 +7,7 @@
 
 ## 🎯 Sistemas de Coordenadas Alternativos
 
-> [!info]- 💡 Introducción a los Sistemas de Coordenadas Además del **sistema cartesiano** (x, y, z), existen otros sistemas de coordenadas que simplifican la descripción de ciertos problemas geométricos y físicos. Los más importantes son:
+> [!info] 💡 Introducción a los Sistemas de Coordenadas Además del **sistema cartesiano** (x, y, z), existen otros sistemas de coordenadas que simplifican la descripción de ciertos problemas geométricos y físicos. Los más importantes son:
 > 
 > **Sistemas principales:**
 > 
@@ -39,7 +39,7 @@
 
 ### 📏 Definición del Sistema
 
-> [!note]- 🌟 Sistema de Coordenadas Cilíndricas **Definición:**
+> [!note] 🌟 Sistema de Coordenadas Cilíndricas **Definición:**
 > 
 > Las **coordenadas cilíndricas** (ρ, φ, z) de un punto P en el espacio se definen como:
 > 
@@ -80,7 +80,7 @@
 
 ### 🔄 Transformaciones Cartesianas ↔ Cilíndricas
 
-> [!warning]- 🔷 Fórmulas de Conversión#### **De Cilíndricas a Cartesianas**
+> [!warning] 🔷 Fórmulas de Conversión#### **De Cilíndricas a Cartesianas**
 > **Dadas coordenadas cilíndricas (ρ, φ, z):**
 > 
 > ```
@@ -137,7 +137,7 @@
 
 ### 📊 Ejemplos de Transformación Cilíndrica
 
-> [!example]- 🎯 Conversiones Paso a Paso
+> [!example] 🎯 Conversiones Paso a Paso
 > 
 > #### **Ejemplo 1: Cartesianas → Cilíndricas**
 > **Dado:** P = (3, 4, 5) en coordenadas cartesianas
@@ -217,7 +217,7 @@
 
 ### 📏 Definición del Sistema
 
-> [!note]- 🌟 Sistema de Coordenadas Esféricas **Definición:**
+> [!note] 🌟 Sistema de Coordenadas Esféricas **Definición:**
 > 
 > Las **coordenadas esféricas** (r, θ, φ) de un punto P en el espacio se definen como:
 > 
@@ -264,7 +264,7 @@
 
 ### 🔄 Transformaciones Cartesianas ↔ Esféricas
 
-> [!warning]- 🔷 Fórmulas de Conversión
+> [!warning] 🔷 Fórmulas de Conversión
 > 
 > #### **De Esféricas a Cartesianas**
 > 
@@ -335,7 +335,7 @@
 
 ### 📊 Ejemplos de Transformación Esférica
 
-> [!example]- 🎯 Conversiones Completas
+> [!example] 🎯 Conversiones Completas
 > #### **Ejemplo 1: Cartesianas → Esféricas**
 > **Dado:** P = (3, 4, 12) en coordenadas cartesianas
 > 
@@ -422,7 +422,7 @@
 
 ### 🔀 Conversión Directa
 
-> [!tip]- 🟢 Sin Pasar por Cartesianas
+> [!tip] 🟢 Sin Pasar por Cartesianas
 > 
 > #### **De Cilíndricas a Esféricas**
 > **Dadas coordenadas cilíndricas (ρ, φ, z):**
@@ -455,7 +455,7 @@
 
 ### 📊 Ejemplo Integrado
 
-> [!example]- 🎯 Conversión Múltiple
+> [!example] 🎯 Conversión Múltiple
 > 
 > **Problema:** Convertir el punto P entre los tres sistemas
 > 
@@ -504,7 +504,7 @@
 
 ## 📐 Tabla Resumen de Transformaciones
 
-> [!example]- 📋 Fórmulas Completas
+> [!example] 📋 Fórmulas Completas
 > 
 > ### **Cartesianas (x, y, z) ↔ Cilíndricas (ρ, φ, z)**
 > 
@@ -535,7 +535,7 @@
 
 ### 🖼️ Visualización de Coordenadas Cilíndricas
 
-> [!tip]- 🔵 Interpretación Geométrica Cilíndrica
+> [!tip] 🔵 Interpretación Geométrica Cilíndrica
 > 
 > **Superficies coordenadas cilíndricas:**
 > 
@@ -604,7 +604,7 @@
 
 ### 🖼️ Visualización de Coordenadas Esféricas
 
-> [!tip]- 🔴 Interpretación Geométrica Esférica
+> [!tip] 🔴 Interpretación Geométrica Esférica
 > 
 > **Superficies coordenadas esféricas:**
 > 
@@ -677,7 +677,7 @@
 
 ### 🎯 Líneas y Curvas Coordenadas
 
-> [!note]- 📏 Trayectorias en Diferentes Sistemas
+> [!note] 📏 Trayectorias en Diferentes Sistemas
 > 
 > **Líneas coordenadas cilíndricas:**
 > 
@@ -713,7 +713,7 @@
 
 ## 🧮 Ejercicios Integrales
 
-> [!example]- 💪 Práctica Completa### **Nivel 1 - Básico:** 🟢
+> [!example] 💪 Práctica Completa### **Nivel 1 - Básico:** 🟢
 > **Ejercicio 1:** Convertir de cartesianas a cilíndricas
 > 
 > a) P = (1, √3, 5)
@@ -882,7 +882,7 @@ graph TB
 
 ## 💡 Consejos y Errores Comunes
 
-> [!tip]- 🧠 Estrategias de Aprendizaje
+> [!tip] 🧠 Estrategias de Aprendizaje
 > 
 > **Para dominar las transformaciones:**
 > 
@@ -936,7 +936,7 @@ graph TB
 
 ## 🔗 Conexiones con el Sistema de Notas
 
-> [!quote]- 🌟 Enlaces Conceptuales
+> [!quote] 🌟 Enlaces Conceptuales
 > 
 > **Prerrequisitos:**
 > 

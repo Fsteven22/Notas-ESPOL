@@ -7,11 +7,11 @@
 
 > [!quote] "El impulso es el mensajero del cambio; en cada golpe, en cada empujón, porta consigo la promesa de una nueva velocidad." 🚀
 
-> [!info]- El impulso representa el efecto acumulativo de una fuerza actuando durante un tiempo determinado, resultando en un cambio de momentum. Esta aproximación es especialmente útil cuando conocemos las fuerzas y el tiempo de aplicación, pero no necesariamente los detalles del movimiento intermedio.
+> [!info] El impulso representa el efecto acumulativo de una fuerza actuando durante un tiempo determinado, resultando en un cambio de momentum. Esta aproximación es especialmente útil cuando conocemos las fuerzas y el tiempo de aplicación, pero no necesariamente los detalles del movimiento intermedio.
 
 ## ⚡ Fundamentos del Impulso y Momentum
 
-> [!info]- **Definiciones Fundamentales** 🎯
+> [!info] **Definiciones Fundamentales** 🎯
 > 
 > ### Momentum Lineal:
 > 
@@ -34,7 +34,7 @@
 > |Efecto acumulativo|Suma de todos los impulsos|kg⋅m/s|
 > |Cambio instantáneo|Δp en tiempo infinitesimal|kg⋅m/s|
 
-> [!tip]- **Tipos de Impulso** 🔨
+> [!tip] **Tipos de Impulso** 🔨
 > 
 > ### 1. Impulso de Fuerza Constante:
 > 
@@ -54,7 +54,7 @@
 > - **Inelásticas**: Solo se conserva momentum
 > - **Perfectamente inelásticas**: Los objetos se pegan
 
-> [!warning]- **Conservación del Momentum** ⚖️
+> [!warning] **Conservación del Momentum** ⚖️
 > 
 > ### Principio Fundamental:
 > 
@@ -102,7 +102,7 @@
 
 ## 🧮 Cálculo de Impulso
 
-> [!info]- **Métodos de Cálculo del Impulso** 📊
+> [!info] **Métodos de Cálculo del Impulso** 📊
 > 
 > ### 1. Fuerza Constante:
 > 
@@ -136,7 +136,7 @@
 > - **Método**: Conteo de cuadrículas, regla del trapecio
 > - **Ventaja**: Visualización clara del impulso
 
-> [!tip]- **Técnicas de Integración para Impulso** 🔢
+> [!tip] **Técnicas de Integración para Impulso** 🔢
 > 
 > ### Funciones Comunes:
 > 
@@ -154,7 +154,7 @@
 > - **Regla del trapecio**: J ≈ Σ ½(Fᵢ + Fᵢ₊₁)Δt
 > - **Regla de Simpson**: Mayor precisión para curvas suaves
 
-> [!example]- **Cálculo 1: Impulso con Fuerza Exponencial** 📈
+> [!example] **Cálculo 1: Impulso con Fuerza Exponencial** 📈
 > 
 > ### Enunciado:
 > 
@@ -178,7 +178,7 @@
 > 
 > **F̄ = J/Δt = 1,024,900/30 = 34,163 N**
 
-> [!example]- **Cálculo 2: Impulso por Integración Numérica** 📊
+> [!example] **Cálculo 2: Impulso por Integración Numérica** 📊
 > 
 > ### Enunciado:
 > 
@@ -204,7 +204,7 @@
 > 
 > **c) Precisión**: La regla del trapecio es generalmente **más precisa** para curvas suaves, pero en este caso ambos métodos dan el mismo resultado debido a la simetría de los datos.
 
-> [!example]- **Cálculo 3: Impulso en Función Periódica** 🌊
+> [!example] **Cálculo 3: Impulso en Función Periódica** 🌊
 > 
 > ### Enunciado:
 > 
@@ -234,7 +234,7 @@
 
 ## 🎯 Estrategias de Resolución
 
-> [!tip]- **Método IMPULSO (Identificar-Momentum-Período-Unidades-Límites-Sumar-Obtener)** 🧠
+> [!tip] **Método IMPULSO (Identificar-Momentum-Período-Unidades-Límites-Sumar-Obtener)** 🧠
 > 
 > ### **I**dentificar - Tipo de problema y fuerzas
 > 
@@ -280,7 +280,7 @@
 
 ## 📚 Problemas Tipo
 
-> [!example]- **Problema 1: Pelota y Raqueta de Tenis** 🎾
+> [!example] **Problema 1: Pelota y Raqueta de Tenis** 🎾
 > 
 > ### Enunciado:
 > 
@@ -306,7 +306,7 @@
 > 
 > **Verificación**: Δp = J ✓
 
-> [!example]- **Problema 2: Fuerza Variable en Martillo** 🔨
+> [!example] **Problema 2: Fuerza Variable en Martillo** 🔨
 > 
 > ### Enunciado:
 > 
@@ -334,7 +334,7 @@
 > 
 > F_max = F(0.01) = 5000(0.01)² = **0.5 N**
 
-> [!example]- **Problema 3: Cohete con Empuje Variable** 🚀
+> [!example] **Problema 3: Cohete con Empuje Variable** 🚀
 > 
 > ### Enunciado:
 > 
@@ -356,7 +356,7 @@
 > 
 > ā = Δv/Δt = (204.98 - 0)/15 = **13.67 m/s²**
 
-> [!example]- **Problema 4: Colisión de Vehículos** 🚗💥
+> [!example] **Problema 4: Colisión de Vehículos** 🚗💥
 > 
 > ### Enunciado:
 > 
@@ -388,7 +388,7 @@
 > 
 > **Pérdida = 231,000 - 4,305 = 226,695 J** (transformada en calor, sonido, deformación)
 
-> [!example]- **Problema 5: Explosión en el Espacio** 💥
+> [!example] **Problema 5: Explosión en el Espacio** 💥
 > 
 > ### Enunciado:
 > 
@@ -423,11 +423,11 @@
 
 ## 🧮 Técnicas de Memorización
 
-> [!tip]- **Mnemotecnia: "IMPULSO"** 📝
+> [!tip] **Mnemotecnia: "IMPULSO"** 📝
 > 
 > **I**ntegral - J = ∫F dt para fuerzas variables **M**omento - Cambia el momentum: J = Δp **P**roducto - J = F×t para fuerzas constantes **U**nidades - Newton-segundo = kg⋅m/s **L**ineal - Solo afecta momentum lineal **S**igno - Dirección importa: impulso vectorial **O**posición - Fuerzas internas se cancelan
 
-> [!tip]- **Reglas de Cálculo** 🔑
+> [!tip] **Reglas de Cálculo** 🔑
 > 
 > ### Para Fuerza Constante:
 > 
@@ -451,7 +451,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- **Confusiones Frecuentes** ⚠️
+> [!warning] **Confusiones Frecuentes** ⚠️
 > 
 > 1. **Confundir impulso con momentum**: J ≠ p, sino J = Δp
 > 2. **Olvidar la naturaleza vectorial**: Impulso tiene dirección y sentido
@@ -464,7 +464,7 @@
 
 ## 🎯 Aplicaciones Prácticas
 
-> [!info]- **Ejemplos del Mundo Real** 🌍
+> [!info] **Ejemplos del Mundo Real** 🌍
 > 
 > ### Deportes:
 > 
@@ -503,7 +503,7 @@
 
 ## 📖 Referencias
 
-> [!quote]- **Notas Relacionadas**
+> [!quote] **Notas Relacionadas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/04 - Impulso y Colisiones (Lineal)/Impulso Lineal\|Impulso Lineal]] - Fundamentos teóricos del impulso
 > - [[Universidad/1er Semestre/Física Mecanica/04 - Impulso y Colisiones (Lineal)/Momentum Lineal y Su Conservación\|Momentum Lineal y Su Conservación]] - Principios de conservación
@@ -512,7 +512,7 @@
 
 ## 📚 Notas Recomendadas
 
-> [!note]- **Prerrequisitos**
+> [!note] **Prerrequisitos**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]] - Segunda ley como base del impulso
 > - [[Universidad/1er Semestre/Física Mecanica/01 - Cinemática/Cinemática Traslacional\|Cinemática Traslacional]] - Conceptos de velocidad y aceleración

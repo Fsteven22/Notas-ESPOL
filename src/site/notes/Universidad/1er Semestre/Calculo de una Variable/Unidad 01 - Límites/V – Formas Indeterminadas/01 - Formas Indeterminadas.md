@@ -408,7 +408,7 @@ flowchart TD
 
 ## 🎯 Definición del Teorema del Emparedado
 
-> [!info]- 💡 Definición Fundamental El **Teorema del Emparedado** (también conocido como **Teorema del Sandwich** o **Squeeze Theorem**) establece que:
+> [!info] 💡 Definición Fundamental El **Teorema del Emparedado** (también conocido como **Teorema del Sandwich** o **Squeeze Theorem**) establece que:
 > 
 > Si tenemos tres funciones $f(x)$, $g(x)$ y $h(x)$ tales que:
 > 
@@ -421,7 +421,7 @@ flowchart TD
 
 ### 📊 Visualización Geométrica
 
-> [!success]- ✅ Interpretación Gráfica
+> [!success] ✅ Interpretación Gráfica
 > 
 > ```mermaid
 > graph TD
@@ -445,7 +445,7 @@ flowchart TD
 
 ### 🔢 Condiciones de Aplicación
 
-> [!example]- 🎨 Condiciones Necesarias Para aplicar el teorema necesitamos verificar:
+> [!example] 🎨 Condiciones Necesarias Para aplicar el teorema necesitamos verificar:
 > 
 > **Condición 1: Desigualdad** $$f(x) \leq g(x) \leq h(x)$$
 > 
@@ -463,7 +463,7 @@ flowchart TD
 
 ### 📐 Ejemplo 1: Límite Trigonométrico Fundamental
 
-> [!example]- 📊 Límite $\lim_{x \to 0} \frac{\sin x}{x} = 1$
+> [!example] 📊 Límite $\lim_{x \to 0} \frac{\sin x}{x} = 1$
 > 
 > **Problema:** Demostrar que $\lim_{x \to 0} \frac{\sin x}{x} = 1$
 > 
@@ -483,7 +483,7 @@ flowchart TD
 
 ### 🔢 Ejemplo 2: Función Oscilante Acotada
 
-> [!example]- 🌊 Límite $\lim_{x \to 0} x^2 \sin(\frac{1}{x}) = 0$
+> [!example] 🌊 Límite $\lim_{x \to 0} x^2 \sin(\frac{1}{x}) = 0$
 > 
 > **Problema:** Evaluar $\lim_{x \to 0} x^2 \sin(\frac{1}{x})$
 > 
@@ -507,7 +507,7 @@ flowchart TD
 
 ### 💫 Ejemplo 3: Función Exponencial con Oscilación
 
-> [!example]- 🚀 Límite con Exponencial
+> [!example] 🚀 Límite con Exponencial
 > 
 > **Problema:** Evaluar $\lim_{x \to +\infty} \frac{\sin x}{e^x}$
 > 
@@ -525,7 +525,7 @@ flowchart TD
 
 ### 📈 Límites Laterales
 
-> [!tip]- 🔄 Aplicación a Límites Laterales
+> [!tip] 🔄 Aplicación a Límites Laterales
 > 
 > El teorema también se aplica a límites laterales:
 > 
@@ -537,7 +537,7 @@ flowchart TD
 
 ### ∞ Límites al Infinito
 
-> [!tip]- 🌌 Límites en el Infinito
+> [!tip] 🌌 Límites en el Infinito
 > 
 > **Para $x \to +\infty$:** Si $f(x) \leq g(x) \leq h(x)$ para $x$ suficientemente grande, y $\lim_{x \to +\infty} f(x) = \lim_{x \to +\infty} h(x) = L$
 > 
@@ -547,7 +547,7 @@ flowchart TD
 
 ## 🧠 Técnica de Estudio: Método "DAVE"
 
-> [!tip]- 🎓 Mnemotecnia "DAVE"
+> [!tip] 🎓 Mnemotecnia "DAVE"
 > 
 > **D** - **D**esigualdad establecida **A** - **A**cotar la función problema **V** - **V**erificar límites extremos **E** - **E**mparedar y concluir
 > 
@@ -582,7 +582,7 @@ flowchart TD
 
 ## 🚫 Errores Comunes
 
-> [!warning]- ⚠️ Errores Frecuentes
+> [!warning] ⚠️ Errores Frecuentes
 > 
 > **Error 1: Desigualdades incorrectas**
 > 
@@ -606,7 +606,7 @@ flowchart TD
 
 ## 🎯 Cuándo NO Usar el Teorema
 
-> [!danger]- 🛑 Limitaciones del Teorema
+> [!danger] 🛑 Limitaciones del Teorema
 > 
 > **Casos donde NO aplica:**
 > 
@@ -630,7 +630,7 @@ flowchart TD
 
 ### 🌟 En Análisis Real
 
-> [!note]- 🔬 Aplicaciones Teóricas
+> [!note] 🔬 Aplicaciones Teóricas
 > 
 > **1. Demostración de límites trigonométricos:**
 > 
@@ -647,7 +647,7 @@ flowchart TD
 
 ### 🧮 En Cálculo Aplicado
 
-> [!note]- 🔧 Aplicaciones Prácticas
+> [!note] 🔧 Aplicaciones Prácticas
 > 
 > **1. Análisis de errores:**
 > 
@@ -663,7 +663,7 @@ flowchart TD
 
 ## 📖 Ejercicios de Práctica Progresiva
 
-> [!example]- 💪 Secuencia de Entrenamiento
+> [!example] 💪 Secuencia de Entrenamiento
 > 
 > **Nivel 1 - Básicos:** 🟢
 > 
@@ -687,7 +687,7 @@ flowchart TD
 
 ## 🔗 Conexiones con Otros Temas
 
-> [!quote]- 📚 Enlaces a Otras Notas
+> [!quote] 📚 Enlaces a Otras Notas
 > 
 > **Prerrequisitos:**
 > 

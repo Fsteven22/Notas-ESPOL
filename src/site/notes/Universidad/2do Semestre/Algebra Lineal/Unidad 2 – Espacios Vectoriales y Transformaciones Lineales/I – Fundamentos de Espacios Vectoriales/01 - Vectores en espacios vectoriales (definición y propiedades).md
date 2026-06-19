@@ -7,7 +7,7 @@
 
 ## 🌟 Concepto Fundamental
 
-> [!info]- Definición Intuitiva **Un espacio vectorial es una estructura algebraica que generaliza las propiedades fundamentales de los vectores geométricos (flechas en el espacio). Consiste en un conjunto de objetos llamados vectores, junto con operaciones de suma y multiplicación por escalares que satisfacen ciertas propiedades axiomáticas. Esta abstracción permite aplicar conceptos geométricos a contextos muy diversos: funciones, matrices, polinomios, soluciones de ecuaciones diferenciales, y más.**
+> [!info] Definición Intuitiva **Un espacio vectorial es una estructura algebraica que generaliza las propiedades fundamentales de los vectores geométricos (flechas en el espacio). Consiste en un conjunto de objetos llamados vectores, junto con operaciones de suma y multiplicación por escalares que satisfacen ciertas propiedades axiomáticas. Esta abstracción permite aplicar conceptos geométricos a contextos muy diversos: funciones, matrices, polinomios, soluciones de ecuaciones diferenciales, y más.**
 > 
 > **Características clave:**
 > 
@@ -19,7 +19,7 @@
 
 ### 📖 Contexto Histórico
 
-> [!note]- Desarrollo Histórico **Precursores (1600-1800):**
+> [!note] Desarrollo Histórico **Precursores (1600-1800):**
 > 
 > - **Descartes (1637):** Coordenadas cartesianas
 >     - Base para representación algebraica
@@ -86,7 +86,7 @@
 
 ## 📊 Definición Formal de Espacio Vectorial
 
-> [!important]- Axiomas Fundamentales **Definición:**
+> [!important] Axiomas Fundamentales **Definición:**
 > 
 > ```
 > Un espacio vectorial V sobre un campo F es un conjunto
@@ -154,7 +154,7 @@
 
 ## 🎯 Propiedades Derivadas
 
-> [!success]- Consecuencias de los Axiomas **Propiedades fundamentales:**
+> [!success] Consecuencias de los Axiomas **Propiedades fundamentales:**
 > 
 > ```
 > De los 10 axiomas se derivan muchas propiedades:
@@ -225,7 +225,7 @@
 
 ## 📐 Ejemplos de Espacios Vectoriales
 
-> [!note]- Casos Fundamentales **1. Espacio euclidiano ℝⁿ:**
+> [!note] Casos Fundamentales **1. Espacio euclidiano ℝⁿ:**
 > 
 > ```
 > Conjunto: ℝⁿ = {(x₁, x₂, ..., xₙ) : xᵢ ∈ ℝ}
@@ -365,7 +365,7 @@
 
 ## 🔍 Subespacios Vectoriales
 
-> [!important]- Espacios Dentro de Espacios **Definición:**
+> [!important] Espacios Dentro de Espacios **Definición:**
 > 
 > ```
 > Un subespacio W de un espacio vectorial V es un
@@ -480,7 +480,7 @@
 
 ## 🧮 Combinaciones Lineales
 
-> [!tip]- Construcción de Vectores **Definición:**
+> [!tip] Construcción de Vectores **Definición:**
 > 
 > ```
 > Sean \vec{v}₁, \vec{v}₂, ..., \vec{v}ₖ vectores en V y α₁, α₂, ..., αₖ escalares
@@ -574,7 +574,7 @@
 
 ## 🎯 Independencia Lineal
 
-> [!success]- Vectores Esenciales **Definición:**
+> [!success] Vectores Esenciales **Definición:**
 > 
 > ```
 > Los vectores \vec{v}₁, \vec{v}₂, ..., \vec{v}ₖ son linealmente independientes (LI)
@@ -673,7 +673,7 @@
 
 ## 📏 Base y Dimensión
 
-> [!important]- Estructura Fundamental **Definición de base:**
+> [!important] Estructura Fundamental **Definición de base:**
 > 
 > ```
 > Un conjunto B = {\vec{v}₁, \vec{v}₂, ..., \vec{v}ₙ} es una base de V si:
@@ -810,7 +810,7 @@
 
 ## 🔍 Propiedades Adicionales
 
-> [!note]- Resultados Importantes **Teorema de Steinitz (reemplazo):**
+> [!note] Resultados Importantes **Teorema de Steinitz (reemplazo):**
 > 
 > ```
 > Si {\vec{v}₁, ..., \vec{v}ₙ} genera V y {\vec{w}₁, ..., \vec{w}ₘ} es LI,
@@ -867,7 +867,7 @@
 
 ## 🧩 Problemas Resueltos
 
-> [!example]- Ejemplos Detallados **Problema 1: Verificar espacio vectorial**
+> [!example] Ejemplos Detallados **Problema 1: Verificar espacio vectorial**
 > 
 > ```
 > Verificar si V = {(x, y) ∈ ℝ² : x + y = 0}
@@ -1130,7 +1130,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- Malentendidos Frecuentes **1. "Todo conjunto de vectores es un espacio vectorial"**
+> [!warning] Malentendidos Frecuentes **1. "Todo conjunto de vectores es un espacio vectorial"**
 > 
 > ```
 > ✗ FALSO
@@ -1220,7 +1220,7 @@
 
 ## 🔗 Conexiones con Otros Temas
 
-> [!quote]- Enlaces Conceptuales **Fundamentos previos:**
+> [!quote] Enlaces Conceptuales **Fundamentos previos:**
 > 
 > - [[05.1 - Vectores en Rⁿ\|05.1 - Vectores en Rⁿ]] - Caso concreto ℝⁿ
 > - [[05.2 - Operaciones con vectores\|05.2 - Operaciones con vectores]] - Suma y producto
@@ -1244,7 +1244,7 @@
 
 ## 📚Recursos Adicionales
 
-> [!note]- Herramientas y Referencias **Software de álgebra lineal:**
+> [!note] Herramientas y Referencias **Software de álgebra lineal:**
 > 
 > - **MATLAB** - [mathworks.com](https://www.mathworks.com/)
 >     - Funciones: null(), orth(), rank()
@@ -1284,7 +1284,7 @@
 
 ## 📖 Bibliografía Esencial
 
-> [!tip]- Lecturas Recomendadas **Nivel introductorio:**
+> [!tip] Lecturas Recomendadas **Nivel introductorio:**
 > 
 > - **Kolman, B., & Hill, D.** (2006). _Álgebra Lineal_ (8ª ed.). Pearson.
 >     - Cap. 4: Espacios vectoriales reales
@@ -1354,7 +1354,7 @@
 
 ## 🎓 Conceptos Clave - Mapa Mental
 
-> [!important]- Estructura Conceptual
+> [!important] Estructura Conceptual
 > 
 > ```
 > VECTORES EN ESPACIOS VECTORIALES
@@ -1447,7 +1447,7 @@
 
 ## 🌟 Conceptos Avanzados
 
-> [!success]- Extensiones y Generalizaciones **Espacios normados:**
+> [!success] Extensiones y Generalizaciones **Espacios normados:**
 > 
 > ```
 > Espacio vectorial V con función norma ||·|| : V → ℝ⁺
@@ -1543,7 +1543,7 @@
 
 ## 🎯 Aplicaciones Específicas
 
-> [!note]- Contextos Prácticos **Machine Learning:**
+> [!note] Contextos Prácticos **Machine Learning:**
 > 
 > ```
 > Espacio de características:
@@ -1612,7 +1612,7 @@
 
 ## 💡 Intuición Geométrica
 
-> [!tip]- Visualización de Conceptos **Dimensión como grados de libertad:**
+> [!tip] Visualización de Conceptos **Dimensión como grados de libertad:**
 > 
 > ```
 > • dim = 0: punto (sin movimiento)

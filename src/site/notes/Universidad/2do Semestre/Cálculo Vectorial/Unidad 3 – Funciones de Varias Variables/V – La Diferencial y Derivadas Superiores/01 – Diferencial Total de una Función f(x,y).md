@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Por qué es importante el Diferencial Total?
+> [!info] 💡 ¿Por qué es importante el Diferencial Total?
 > 
 > El diferencial total es un concepto fundamental que nos permite **aproximar el cambio** en una función cuando sus variables cambian simultáneamente.
 > 
@@ -31,7 +31,7 @@
 
 ### 📋 Definición Formal
 
-> [!example]- 🟢 Definición: Diferencial Total
+> [!example] 🟢 Definición: Diferencial Total
 > 
 > **Definición formal:** Sea $f: D \subseteq \mathbb{R}^2 \to \mathbb{R}$ una función diferenciable en un punto $(x_0, y_0)$.
 > 
@@ -65,7 +65,7 @@
 
 ### 🎯 Interpretación Intuitiva
 
-> [!note]- 💭 Interpretación Práctica
+> [!note] 💭 Interpretación Práctica
 > 
 > **El diferencial total nos dice:**
 > 
@@ -109,7 +109,7 @@
 
 ### 📊 Fórmula para Funciones de Varias Variables
 
-> [!example]- 🔢 Generalización a n Variables
+> [!example] 🔢 Generalización a n Variables
 > 
 > Para una función $f(x_1, x_2, \ldots, x_n)$ diferenciable:
 > 
@@ -144,7 +144,7 @@
 
 ### 🔧 Propiedades Algebraicas
 
-> [!note]- 🟢 Propiedades del Diferencial Total
+> [!note] 🟢 Propiedades del Diferencial Total
 > 
 > Si $f$ y $g$ son funciones diferenciables y $c$ es una constante:
 > 
@@ -198,7 +198,7 @@
 
 ### Ejemplo 1: Función Polinomial Simple
 
-> [!example]- 📝 Ejemplo 1: Calcular el Diferencial Total
+> [!example] 📝 Ejemplo 1: Calcular el Diferencial Total
 > 
 > **Función:** $$f(x,y) = x^2 + 3xy + y^2$$
 > 
@@ -232,7 +232,7 @@
 
 ### Ejemplo 2: Función con Exponencial
 
-> [!example]- 📝 Ejemplo 2: Función Exponencial
+> [!example] 📝 Ejemplo 2: Función Exponencial
 > 
 > **Función:** $$f(x,y) = e^{x+y}$$
 > 
@@ -260,7 +260,7 @@
 
 ### Ejemplo 3: Función Trigonométrica
 
-> [!example]- 📝 Ejemplo 3: Funciones Trigonométricas
+> [!example] 📝 Ejemplo 3: Funciones Trigonométricas
 > 
 > **Función:** $$f(x,y) = \sin(x)\cos(y)$$
 > 
@@ -284,7 +284,7 @@
 
 ### Ejemplo 4: Función Racional
 
-> [!example]- 📝 Ejemplo 4: Cociente de Funciones
+> [!example] 📝 Ejemplo 4: Cociente de Funciones
 > 
 > **Función:** $$f(x,y) = \frac{x}{y}$$
 > 
@@ -312,7 +312,7 @@
 
 ### Ejemplo 5: Función Implícita
 
-> [!example]- 📝 Ejemplo 5: Relación Implícita
+> [!example] 📝 Ejemplo 5: Relación Implícita
 > 
 > **Ecuación implícita:** $$x^2 + y^2 = 25$$
 > 
@@ -342,7 +342,7 @@
 
 ### Ejemplo 6: Función Compuesta
 
-> [!example]- 📝 Ejemplo 6: Composición de Funciones
+> [!example] 📝 Ejemplo 6: Composición de Funciones
 > 
 > **Función:** $$f(x,y) = \ln(x^2 + y^2)$$
 > 
@@ -370,7 +370,7 @@
 
 ### Ejemplo 7: Función de Tres Variables
 
-> [!example]- 📝 Ejemplo 7: Extensión a Tres Dimensiones
+> [!example] 📝 Ejemplo 7: Extensión a Tres Dimensiones
 > 
 > **Función:** $$f(x,y,z) = xyz$$
 > 
@@ -400,7 +400,7 @@
 
 ### 📏 Análisis de Errores en Mediciones
 
-> [!tip]- ⚠️ Propagación de Errores
+> [!tip] ⚠️ Propagación de Errores
 > 
 > Cuando medimos variables experimentales con cierto error, el diferencial total nos permite estimar el **error en el resultado**.
 > 
@@ -424,7 +424,7 @@
 
 ### Ejemplo 8: Error en el Área de un Rectángulo
 
-> [!example]- 📝 Ejemplo 8: Propagación de Errores
+> [!example] 📝 Ejemplo 8: Propagación de Errores
 > 
 > **Problema:** Se mide un rectángulo con lados $x = 10$ cm y $y = 15$ cm, cada uno con un error de $\pm 0.1$ cm. ¿Cuál es el error aproximado en el área?
 > 
@@ -463,7 +463,7 @@
 
 ### Ejemplo 9: Error en el Volumen de un Cilindro
 
-> [!example]- 📝 Ejemplo 9: Cilindro con Errores
+> [!example] 📝 Ejemplo 9: Cilindro con Errores
 > 
 > **Problema:** Un cilindro tiene radio $r = 5$ cm (error $\pm 0.05$ cm) y altura $h = 20$ cm (error $\pm 0.1$ cm). Estimar el error en el volumen.
 > 
@@ -507,7 +507,7 @@
 
 ### 📊 Visualización del Diferencial Total
 
-> [!note]- 🖼️ Interpretación Geométrica
+> [!note] 🖼️ Interpretación Geométrica
 > 
 > ### Plano Tangente
 > 
@@ -560,7 +560,7 @@
 
 ### 🌀 Transformación de Coordenadas
 
-> [!example]- 🔄 Diferenciales en Polares
+> [!example] 🔄 Diferenciales en Polares
 > 
 > **Transformación:**
 > 
@@ -611,7 +611,7 @@
 
 ### 💼 Aplicación en Economía
 
-> [!tip]- 💰 Funciones de Producción
+> [!tip] 💰 Funciones de Producción
 > 
 > **Función de producción Cobb-Douglas:**
 > 
@@ -652,7 +652,7 @@
 
 ### 🌡️ Aplicación en Termodinámica
 
-> [!tip]- 🔥 Primera Ley de la Termodinámica
+> [!tip] 🔥 Primera Ley de la Termodinámica
 > 
 > **Energía interna de un gas ideal:**
 > 
@@ -687,7 +687,7 @@
 
 ### 🔬 Aplicación en Física: Ley de los Gases Ideales
 
-> [!example]- 📝 Ejemplo 11: Gases Ideales
+> [!example] 📝 Ejemplo 11: Gases Ideales
 > 
 > **Ecuación de estado:** $PV = nRT$
 > 
@@ -713,7 +713,7 @@
 
 ### 📐 Aproximación Lineal
 
-> [!tip]- ✅ Fórmula de Aproximación
+> [!tip] ✅ Fórmula de Aproximación
 > 
 > **Fórmula general:**
 > 
@@ -737,7 +737,7 @@
 
 ### Ejemplo 12: Aproximación de una Raíz
 
-> [!example]- 📝 Ejemplo 12: Calcular $\sqrt{(4.02)^2 + (2.97)^2}$
+> [!example] 📝 Ejemplo 12: Calcular $\sqrt{(4.02)^2 + (2.97)^2}$
 > 
 > **Función:** $f(x,y) = \sqrt{x^2 + y^2}$
 > 
@@ -771,7 +771,7 @@
 
 ### Ejemplo 13: Aproximación de Función Exponencial
 
-> [!example]- 📝 Ejemplo 13: Calcular $e^{0.02}\cos(0.03)$
+> [!example] 📝 Ejemplo 13: Calcular $e^{0.02}\cos(0.03)$
 > 
 > **Función:** $f(x,y) = e^x\cos(y)$
 > 
@@ -806,7 +806,7 @@
 
 ### 📋 Relación con Diferenciabilidad
 
-> [!note]- 🟢 Condición de Diferenciabilidad
+> [!note] 🟢 Condición de Diferenciabilidad
 > 
 > **Definición:** Una función $f(x,y)$ es **diferenciable** en $(x_0, y_0)$ si existe el diferencial total y satisface:
 > 
@@ -834,7 +834,7 @@
 
 ### Ejemplo 14: Función No Diferenciable
 
-> [!example]- 📝 Ejemplo 14: Derivadas Parciales Existen pero No Diferenciable
+> [!example] 📝 Ejemplo 14: Derivadas Parciales Existen pero No Diferenciable
 > 
 > **Función:**
 > 
@@ -868,7 +868,7 @@
 
 ## 📊 Tabla Resumen: Diferencial de Funciones Comunes
 
-> [!note]- 📋 Catálogo de Diferenciales
+> [!note] 📋 Catálogo de Diferenciales
 > 
 > |Función $f(x,y)$|Diferencial $df$|
 > |---|---|
@@ -897,7 +897,7 @@
 
 ### Nivel Básico
 
-> [!example]- 💪 Práctica Nivel Básico
+> [!example] 💪 Práctica Nivel Básico
 > 
 > **1. Calcular el diferencial total de las siguientes funciones:**
 > 
@@ -933,7 +933,7 @@
 
 ### Nivel Intermedio
 
-> [!example]- 💪 Práctica Nivel Intermedio
+> [!example] 💪 Práctica Nivel Intermedio
 > 
 > **4. Propagación de errores:**
 > 
@@ -961,7 +961,7 @@
 
 ### Nivel Avanzado
 
-> [!example]- 💪 Práctica Nivel Avanzado
+> [!example] 💪 Práctica Nivel Avanzado
 > 
 > **7. Coordenadas polares:**
 > 
@@ -995,7 +995,7 @@
 
 ## ✅ Soluciones Selectas
 
-> [!success]- 🔑 Respuestas Ejercicios Básicos
+> [!success] 🔑 Respuestas Ejercicios Básicos
 > 
 > **1a)** $f(x,y) = 3x^2 + 4y^2$
 > 
@@ -1033,7 +1033,7 @@
 > 
 > Valor real: $(2.01)^2 + (2.98)^2 = 4.0401 + 8.8804 = 12.9205$ ✓
 
-> [!success]- 🔑 Respuestas Ejercicios Intermedios
+> [!success] 🔑 Respuestas Ejercicios Intermedios
 > 
 > **4a)** Área del triángulo: $A = \frac{1}{2}bh$
 > 
@@ -1063,7 +1063,7 @@
 
 ## 🌟 Teoremas y Propiedades Importantes
 
-> [!note]- 📜 Teoremas Fundamentales
+> [!note] 📜 Teoremas Fundamentales
 > 
 > ### Teorema 1: Existencia del Diferencial
 > 
@@ -1101,7 +1101,7 @@
 
 ## 💡 Consejos y Errores Comunes
 
-> [!tip]- ⚠️ Errores Frecuentes
+> [!tip] ⚠️ Errores Frecuentes
 > 
 > ### Error 1: Confundir $df$ con $\Delta f$
 > 
@@ -1156,7 +1156,7 @@
 
 ## 🔗 Conexiones con Otros Temas
 
-> [!quote]- 🌐 Relaciones Importantes
+> [!quote] 🌐 Relaciones Importantes
 > 
 > **Este tema es fundamental para:**
 > 
@@ -1184,7 +1184,7 @@
 
 ## 📝 Resumen de Conceptos Clave
 
-> [!tip]- 💡 Puntos Esenciales para Recordar
+> [!tip] 💡 Puntos Esenciales para Recordar
 > 
 > ### Definición del Diferencial Total
 > 
@@ -1240,7 +1240,7 @@
 
 ## 🎨 Visualización del Diferencial Total
 
-> [!note]- 🖼️ Interpretación Gráfica Detallada
+> [!note] 🖼️ Interpretación Gráfica Detallada
 > 
 > ### Superficie y Plano Tangente
 > 
@@ -1321,7 +1321,7 @@
 
 ## 🧪 Experimento Numérico: Verificación del Diferencial
 
-> [!example]- 🔬 Comparación Diferencial vs Cambio Real
+> [!example] 🔬 Comparación Diferencial vs Cambio Real
 > 
 > **Función:** $f(x,y) = x^2 + xy + y^2$
 > 
@@ -1361,7 +1361,7 @@
 
 ### 🌐 Coordenadas Cilíndricas
 
-> [!note]- 🔵 Cilíndricas $(r, \theta, z)$
+> [!note] 🔵 Cilíndricas $(r, \theta, z)$
 > 
 > **Transformación:**
 > 
@@ -1385,7 +1385,7 @@
 
 ### 🌍 Coordenadas Esféricas
 
-> [!note]- 🔴 Esféricas $(\rho, \theta, \phi)$
+> [!note] 🔴 Esféricas $(\rho, \theta, \phi)$
 > 
 > **Transformación:**
 > 
@@ -1413,7 +1413,7 @@
 
 ### 🎯 Forma Vectorial del Diferencial
 
-> [!note]- ➡️ Notación Vectorial
+> [!note] ➡️ Notación Vectorial
 > 
 > **El diferencial como producto punto:**
 > 
@@ -1454,7 +1454,7 @@
 
 ### Ejemplo 15: Gradiente y Diferencial
 
-> [!example]- 📝 Ejemplo 15: Cálculo con Gradiente
+> [!example] 📝 Ejemplo 15: Cálculo con Gradiente
 > 
 > **Función:** $f(x,y) = x^2 - y^2$
 > 
@@ -1488,7 +1488,7 @@
 
 ### 📚 Diferenciales Exactos
 
-> [!note]- 🔬 Formas Diferenciales Exactas
+> [!note] 🔬 Formas Diferenciales Exactas
 > 
 > **Definición:** Una expresión de la forma:
 > 
@@ -1524,7 +1524,7 @@
 
 ### Ejemplo 16: Ecuación Diferencial Exacta
 
-> [!example]- 📝 Ejemplo 16: Resolver EDO Exacta
+> [!example] 📝 Ejemplo 16: Resolver EDO Exacta
 > 
 > **Ecuación:** $(2xy + 3)dx + (x^2 + 4y)dy = 0$
 > 
@@ -1566,7 +1566,7 @@
 
 ## 🎓 Ejercicios Adicionales de Aplicación
 
-> [!example]- 💪 Problemas Integradores
+> [!example] 💪 Problemas Integradores
 > 
 > **11. Optimización con restricciones:**
 > 
@@ -1610,7 +1610,7 @@
 
 ## 📊 Tabla Comparativa: Diferencial vs Otros Conceptos
 
-> [!note]- 📋 Diferencial en Contexto
+> [!note] 📋 Diferencial en Contexto
 > 
 > |Concepto|Definición|Relación con Diferencial|Uso Principal|
 > |---|---|---|---|
@@ -1625,7 +1625,7 @@
 
 ## 🎯 Estrategias para Resolver Problemas
 
-> [!tip]- 🛠️ Metodología Paso a Paso
+> [!tip] 🛠️ Metodología Paso a Paso
 > 
 > ### Para Calcular el Diferencial:
 > 
@@ -1676,7 +1676,7 @@
 
 ## 🌈 Visualización Interactiva Conceptual
 
-> [!note]- 🎨 Comprensión Visual
+> [!note] 🎨 Comprensión Visual
 > 
 > ### Analogía del "Camino en una Montaña"
 > 
@@ -1711,7 +1711,7 @@
 
 ## 📚 Referencias y Lecturas Adicionales
 
-> [!note]- 📖 Para Profundizar
+> [!note] 📖 Para Profundizar
 > 
 > ### Temas Relacionados para Estudiar:
 > 
@@ -1740,7 +1740,7 @@
 
 ## ✨ Conclusión
 
-> [!quote]- 🎓 Reflexión Final
+> [!quote] 🎓 Reflexión Final
 > 
 > El **diferencial total** es uno de los conceptos más poderosos del cálculo multivariable:
 > 

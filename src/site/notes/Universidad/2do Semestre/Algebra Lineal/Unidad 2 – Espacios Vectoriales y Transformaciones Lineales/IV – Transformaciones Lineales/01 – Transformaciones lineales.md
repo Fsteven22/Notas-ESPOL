@@ -7,7 +7,7 @@
 
 ## 🌟 Concepto Fundamental
 
-> [!info]- Definición Intuitiva
+> [!info] Definición Intuitiva
 > **Una transformación lineal es una función entre espacios vectoriales que preserva las operaciones de suma de vectores y multiplicación por escalares. Representa el concepto más fundamental del álgebra lineal: funciones que mantienen la estructura lineal del espacio.**
 > 
 > **Características clave:**
@@ -19,7 +19,7 @@
 
 ### 📖 Contexto Histórico
 
-> [!note]- Desarrollo del Concepto
+> [!note] Desarrollo del Concepto
 > **Orígenes geométricos (1800-1850):**
 > - **Möbius (1827):** Coordenadas baricéntricas
 >   - Primeras transformaciones sistemáticas
@@ -70,7 +70,7 @@
 
 ## 📊 Definición Formal
 
-> [!important]- Transformación Lineal
+> [!important] Transformación Lineal
 > **Definición:**
 > 
 > Sean $V$ y $W$ espacios vectoriales sobre el mismo campo $\mathbb{F}$ (usualmente $\mathbb{R}$ o $\mathbb{C}$).
@@ -107,7 +107,7 @@
 
 ## 🎯 Propiedades Fundamentales
 
-> [!success]- Consecuencias de la Linealidad
+> [!success] Consecuencias de la Linealidad
 > **Teorema: Propiedades básicas**
 > 
 > Si $T: V \to W$ es lineal, entonces:
@@ -166,7 +166,7 @@
 
 ## 🔢 Representación Matricial
 
-> [!important]- Matrices y Transformaciones Lineales
+> [!important] Matrices y Transformaciones Lineales
 > **Teorema fundamental de representación:**
 > 
 > Sea $T: \mathbb{R}^n \to \mathbb{R}^m$ una transformación lineal.
@@ -216,7 +216,7 @@
 
 ## 🎨 Transformaciones Geométricas en ℝ²
 
-> [!note]- Transformaciones Estándar en el Plano
+> [!note] Transformaciones Estándar en el Plano
 > **1. ROTACIÓN (ángulo θ en sentido antihorario):**
 > 
 > $$R_\theta\begin{pmatrix}\begin{bmatrix} x \\ y \end{bmatrix}\end{pmatrix} = \begin{bmatrix} \cos\theta & -\sin\theta \\ \sin\theta & \cos\theta \end{bmatrix}\begin{bmatrix} x \\ y \end{bmatrix}$$
@@ -286,7 +286,7 @@
 
 ## 🔍 Núcleo e Imagen
 
-> [!important]- Subespacios Fundamentales
+> [!important] Subespacios Fundamentales
 > **DEFINICIONES:**
 > 
 > Sea $T: V \to W$ transformación lineal.
@@ -337,7 +337,7 @@
 
 ## 📐 Teorema del Rango-Nulidad
 
-> [!success]- Teorema Fundamental de las Transformaciones Lineales
+> [!success] Teorema Fundamental de las Transformaciones Lineales
 > **Teorema del Rango-Nulidad (Rank-Nullity Theorem):**
 > 
 > Sea $T: V \to W$ transformación lineal donde $V$ es de dimensión finita.
@@ -399,7 +399,7 @@
 
 ## 🔄 Inyectividad y Sobreyectividad
 
-> [!tip]- Tipos de Transformaciones
+> [!tip] Tipos de Transformaciones
 > **DEFINICIONES:**
 > 
 > Sea $T: V \to W$ transformación lineal.
@@ -484,7 +484,7 @@
 
 ## 💡 Ejemplos Resueltos
 
-> [!example]- Problemas Detallados
+> [!example] Problemas Detallados
 > **Problema 1: Verificar linealidad**
 > 
 > Determinar si las siguientes funciones son transformaciones lineales:
@@ -616,7 +616,7 @@
 
 ## ⚡ Isomorfismos
 
-> [!important]- Espacios Isomorfos
+> [!important] Espacios Isomorfos
 > **DEFINICIÓN:**
 > 
 > Espacios vectoriales $V$ y $W$ son **isomorfos** (notación: $V \cong W$) si existe transformación lineal $T: V \to W$ que es biyectiva.
@@ -660,7 +660,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- Malentendidos Frecuentes
+> [!warning] Malentendidos Frecuentes
 > **1. "T(vec{u} + \vec{v}) = T(\vec{u}) + T(\vec{v}) implica linealidad"**
 > 
 > ⚠️ **INCOMPLETO**
@@ -735,7 +735,7 @@
 
 ## 🔗 Conexiones con Otros Temas
 
-> [!quote]- Enlaces Conceptuales
+> [!quote] Enlaces Conceptuales
 > **Fundamentos previos:**
 > - [[01 - Vectores en espacios vectoriales\|01 - Vectores en espacios vectoriales]] - Espacios vectoriales
 > - [[05 - Combinaciones lineales\|05 - Combinaciones lineales]] - Estructura lineal
@@ -757,7 +757,7 @@
 
 ## 📚 Recursos Adicionales
 
-> [!note]- Herramientas y Referencias
+> [!note] Herramientas y Referencias
 > **Software de álgebra lineal:**
 > 
 > - **MATLAB**
@@ -796,7 +796,7 @@
 
 ## 📖 Bibliografía Esencial
 
-> [!tip]- Lecturas Recomendadas
+> [!tip] Lecturas Recomendadas
 > **Nivel introductorio:**
 > - **Lay, D. C.** (2016). _Álgebra Lineal y sus Aplicaciones_ (5ª ed.). Pearson.
 >   - **Cap. 1.8-1.9:** Transformaciones lineales ⭐
@@ -828,7 +828,7 @@
 
 ## 🎓 Conceptos Clave - Resumen
 
-> [!important]- Ideas Fundamentales
+> [!important] Ideas Fundamentales
 > 
 > **DEFINICIÓN:**
 > 

@@ -7,7 +7,7 @@
 
 ## 🎯 Álgebra de Límites
 
-> [!info]- 💡 Definición Fundamental Las **propiedades de los límites** (también llamadas **álgebra de límites**) son reglas que nos permiten calcular límites de funciones complejas a partir de límites más simples.
+> [!info] 💡 Definición Fundamental Las **propiedades de los límites** (también llamadas **álgebra de límites**) son reglas que nos permiten calcular límites de funciones complejas a partir de límites más simples.
 > 
 > **Condición previa:** Todas las propiedades requieren que los límites individuales **existan y sean finitos**.
 > 
@@ -15,7 +15,7 @@
 
 ### 📊 Propiedades Básicas
 
-> [!success]- ✅ Propiedad del Límite de una Constante **Regla:** El límite de una constante es la constante misma.
+> [!success] ✅ Propiedad del Límite de una Constante **Regla:** El límite de una constante es la constante misma.
 > 
 > $$\lim_{x \to a} k = k$$
 > 
@@ -27,7 +27,7 @@
 > - $\lim_{x \to -2} \pi = \pi$
 > - $\lim_{x \to \infty} (-5) = -5$
 
-> [!success]- ✅ Propiedad del Límite de la Variable **Regla:** El límite de la variable independiente es el valor al que tiende.
+> [!success] ✅ Propiedad del Límite de la Variable **Regla:** El límite de la variable independiente es el valor al que tiende.
 > 
 > $$\lim_{x \to a} x = a$$
 > 
@@ -41,7 +41,7 @@
 
 ### ➕ Suma y Resta
 
-> [!example]- 📊 Propiedad de la Suma **Regla:** El límite de una suma es la suma de los límites.
+> [!example] 📊 Propiedad de la Suma **Regla:** El límite de una suma es la suma de los límites.
 > 
 > $$\lim_{x \to a} [f(x) + g(x)] = \lim_{x \to a} f(x) + \lim_{x \to a} g(x) = L + M$$
 > 
@@ -52,7 +52,7 @@
 > - $\lim_{x \to 2} (x^2 + 3x) = \lim_{x \to 2} x^2 + \lim_{x \to 2} 3x = 4 + 6 = 10$
 > - $\lim_{x \to 1} (2x + 5 + \sin x) = 2 + 5 + \sin(1) = 7 + \sin(1)$
 
-> [!example]- 📊 Propiedad de la Resta **Regla:** El límite de una diferencia es la diferencia de los límites.
+> [!example] 📊 Propiedad de la Resta **Regla:** El límite de una diferencia es la diferencia de los límites.
 > 
 > $$\lim_{x \to a} [f(x) - g(x)] = \lim_{x \to a} f(x) - \lim_{x \to a} g(x) = L - M$$
 > 
@@ -63,7 +63,7 @@
 
 ### ✖️ Multiplicación
 
-> [!example]- 📊 Propiedad del Producto **Regla:** El límite de un producto es el producto de los límites.
+> [!example] 📊 Propiedad del Producto **Regla:** El límite de un producto es el producto de los límites.
 > 
 > $$\lim_{x \to a} [f(x) \cdot g(x)] = \lim_{x \to a} f(x) \cdot \lim_{x \to a} g(x) = L \cdot M$$
 > 
@@ -77,7 +77,7 @@
 
 ### ➗ División
 
-> [!example]- 📊 Propiedad del Cociente **Regla:** El límite de un cociente es el cociente de los límites, **siempre que el denominador no sea cero**.
+> [!example] 📊 Propiedad del Cociente **Regla:** El límite de un cociente es el cociente de los límites, **siempre que el denominador no sea cero**.
 > 
 > $$\lim_{x \to a} \frac{f(x)}{g(x)} = \frac{\lim_{x \to a} f(x)}{\lim_{x \to a} g(x)} = \frac{L}{M}$$
 > 
@@ -94,7 +94,7 @@
 
 ### 📈 Potencias
 
-> [!tip]- 🚀 Propiedad de Potencias **Regla:** El límite de una potencia es la potencia del límite.
+> [!tip] 🚀 Propiedad de Potencias **Regla:** El límite de una potencia es la potencia del límite.
 > 
 > $$\lim_{x \to a} [f(x)]^n = \left[\lim_{x \to a} f(x)\right]^n = L^n$$
 > 
@@ -114,7 +114,7 @@
 
 ### 🔍 Raíces
 
-> [!tip]- 🌱 Propiedad de Raíces **Regla:** El límite de una raíz es la raíz del límite.
+> [!tip] 🌱 Propiedad de Raíces **Regla:** El límite de una raíz es la raíz del límite.
 > 
 > $$\lim_{x \to a} \sqrt[n]{f(x)} = \sqrt[n]{\lim_{x \to a} f(x)} = \sqrt[n]{L}$$
 > 
@@ -136,7 +136,7 @@
 
 ## 📊 Tabla Resumen de Propiedades
 
-> [!note]- 📋 Resumen Completo
+> [!note] 📋 Resumen Completo
 > 
 > |Operación|Propiedad|Condición|
 > |---|---|---|
@@ -152,7 +152,7 @@
 
 ## 🧠 Técnica de Estudio: Método "SCPR"
 
-> [!tip]- 🎓 Mnemotecnia "SCPR"
+> [!tip] 🎓 Mnemotecnia "SCPR"
 > 
 > **S** - **S**uma y resta directas **C** - **C**onstantes se mantienen **P** - **P**roducto de límites **R** - **R**azón cuidando el denominador
 > 
@@ -195,7 +195,7 @@ flowchart TD
 
 ### 🚫 Cuando las Propiedades NO Aplican
 
-> [!warning]- 🛑 Limitaciones Importantes
+> [!warning] 🛑 Limitaciones Importantes
 > 
 > **1. Límites no existen:**
 > 
@@ -218,7 +218,7 @@ flowchart TD
 
 ### 🔄 Formas Indeterminadas Comunes
 
-> [!danger]- ⚡ Casos Problemáticos
+> [!danger] ⚡ Casos Problemáticos
 > 
 > |Forma|Ejemplo|Técnica Alternativa|
 > |---|---|---|
@@ -233,7 +233,7 @@ flowchart TD
 
 ### 🔗 Composición de Funciones
 
-> [!note]- 🎭 Límite de Función Compuesta
+> [!note] 🎭 Límite de Función Compuesta
 > 
 > **Teorema:** Si $\lim_{x \to a} g(x) = L$ y $f$ es continua en $L$, entonces:
 > 
@@ -253,7 +253,7 @@ flowchart TD
 
 ### 📈 Límites Unilaterales
 
-> [!note]- 🔄 Propiedades para Límites Laterales
+> [!note] 🔄 Propiedades para Límites Laterales
 > 
 > **Todas las propiedades se extienden a límites laterales:**
 > 
@@ -268,7 +268,7 @@ flowchart TD
 
 ### 🎯 Método de Descomposición
 
-> [!example]- 🔧 Estrategia Paso a Paso
+> [!example] 🔧 Estrategia Paso a Paso
 > 
 > **Para evaluar límites complejos:**
 > 
@@ -291,7 +291,7 @@ flowchart TD
 
 ## 📖 Ejercicios de Práctica Progresiva
 
-> [!example]- 💪 Secuencia de Entrenamiento
+> [!example] 💪 Secuencia de Entrenamiento
 > 
 > **Nivel 1 - Operaciones Básicas:** 🟢
 > 
@@ -321,7 +321,7 @@ flowchart TD
 
 ### 📊 Ejemplo Integral: Función Racional
 
-> [!example]- 📝 Problema Resuelto
+> [!example] 📝 Problema Resuelto
 > 
 > **Problema:** Evaluar $\lim_{x \to 3} \frac{2x^3 - x^2 + 4x - 7}{x^2 + 2x - 1}$
 > 
@@ -341,7 +341,7 @@ flowchart TD
 
 ### 🌊 Ejemplo con Funciones Trigonométricas
 
-> [!example]- 🎯 Problema Trigonométrico
+> [!example] 🎯 Problema Trigonométrico
 > 
 > **Problema:** Evaluar $\lim_{x \to \pi/6} (\sin x \cdot \cos x + 2x)$
 > 
@@ -357,7 +357,7 @@ flowchart TD
 
 ## 🔗 Conexiones con Otros Temas
 
-> [!quote]- 📚 Enlaces a Otras Notas
+> [!quote] 📚 Enlaces a Otras Notas
 > 
 > **Prerrequisitos:**
 > 

@@ -7,11 +7,11 @@
 
 > [!quote] "En la realidad, los materiales rara vez experimentan un solo tipo de esfuerzo; es en la combinación donde se revela la verdadera complejidad y belleza de la mecánica de materiales." 🌐
 
-> [!info]- Los problemas combinados de tensión y deformación representan situaciones reales donde los materiales están sometidos simultáneamente a múltiples tipos de esfuerzos: normales, cortantes, y cambios volumétricos. Esta complejidad requiere herramientas analíticas avanzadas y una comprensión profunda de la interacción entre diferentes estados de esfuerzo.
+> [!info] Los problemas combinados de tensión y deformación representan situaciones reales donde los materiales están sometidos simultáneamente a múltiples tipos de esfuerzos: normales, cortantes, y cambios volumétricos. Esta complejidad requiere herramientas analíticas avanzadas y una comprensión profunda de la interacción entre diferentes estados de esfuerzo.
 
 ## 🎯 Estados de Esfuerzo Combinado
 
-> [!info]- **Clasificación de Estados de Esfuerzo** 🔄
+> [!info] **Clasificación de Estados de Esfuerzo** 🔄
 > 
 > ### Estados Fundamentales:
 > 
@@ -42,7 +42,7 @@
 > |σm|Esfuerzo medio|(σ₁ + σ₂ + σ₃)/3|
 > |σe|Esfuerzo equivalente|Von Mises o Tresca|
 
-> [!tip]- **Círculo de Mohr - Herramienta Fundamental** ⭕
+> [!tip] **Círculo de Mohr - Herramienta Fundamental** ⭕
 > 
 > ### Construcción del Círculo:
 > 
@@ -67,7 +67,7 @@
 > - Cálculo de cortante máximo
 > - Análisis de orientación crítica
 
-> [!warning]- **Deformación Volumétrica** 📦
+> [!warning] **Deformación Volumétrica** 📦
 > 
 > ### Concepto Fundamental:
 > 
@@ -125,7 +125,7 @@
 >     style F fill:#e8f5e8
 > ```
 
-> [!note]- **Teorías de Falla** ⚖️
+> [!note] **Teorías de Falla** ⚖️
 > 
 > ### Criterios de Falla Principales:
 > 
@@ -150,7 +150,7 @@
 
 ## 🎯 Estrategias de Resolución
 
-> [!tip]- **Método COMBI (Combinado-Orientación-Módulos-Biaxial-Interpretación)** 🧠
+> [!tip] **Método COMBI (Combinado-Orientación-Módulos-Biaxial-Interpretación)** 🧠
 > 
 > ### **C**ombinado - Identifica el estado
 > 
@@ -189,7 +189,7 @@
 
 ## 📚 Problemas Tipo
 
-> [!example]- **Problema 1: Estado Biaxial - Recipiente a Presión** 🏭
+> [!example] **Problema 1: Estado Biaxial - Recipiente a Presión** 🏭
 > 
 > ### Enunciado:
 > 
@@ -220,7 +220,7 @@
 > - σe = √[(100-50)² + (50-0)² + (0-100)²]/√2 = √(2500+2500+10000)/√2 = 86.6 MPa
 > - FS = σy/σe = 300/86.6 = 3.46
 
-> [!example]- **Problema 2: Transformación de Esfuerzos con Círculo de Mohr** ⭕
+> [!example] **Problema 2: Transformación de Esfuerzos con Círculo de Mohr** ⭕
 > 
 > ### Enunciado:
 > 
@@ -250,7 +250,7 @@
 > - σy' = C - R×cos(2×30° - 2×22.5°) = 30 - 70.7×cos(25°) = -34.1 MPa
 > - τx'y' = R×sen(2×30° - 2×22.5°) = 70.7×sen(25°) = 29.9 MPa
 
-> [!example]- **Problema 3: Deformación Volumétrica en Cubo Bajo Presión** 📦
+> [!example] **Problema 3: Deformación Volumétrica en Cubo Bajo Presión** 📦
 > 
 > ### Enunciado:
 > 
@@ -288,11 +288,11 @@
 
 ## 🧮 Técnicas de Memorización
 
-> [!tip]- **Mnemotecnia: "MOHR-V"** 🎯
+> [!tip] **Mnemotecnia: "MOHR-V"** 🎯
 > 
 > **M**ohr para transformar esfuerzos (**M**ohr circle) **O**rientación de principales (**O**rientation angles) **H**idrostático para volumen (**H**ydrostatic pressure) **R**adio da cortante máximo (**R**adius = τmax) **V**on Mises para falla (**V**on Mises criterion)
 
-> [!info]- **Reglas Nemotécnicas Adicionales** 🎯
+> [!info] **Reglas Nemotécnicas Adicionales** 🎯
 > 
 > ### "3-SIGMAS": Tres **SIGMAS** principales siempre
 > 
@@ -314,7 +314,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- **Confusiones Frecuentes** ⚠️
+> [!warning] **Confusiones Frecuentes** ⚠️
 > 
 > 1. **Confundir esfuerzo medio con equivalente**: σm ≠ σe
 > 2. **Mal aplicar convención de signos**: Tracción (+), Compresión (-)
@@ -327,7 +327,7 @@
 
 ## 🎯 Aplicaciones Prácticas
 
-> [!info]- **Ejemplos del Mundo Real** 🌍
+> [!info] **Ejemplos del Mundo Real** 🌍
 > 
 > ### Recipientes a Presión:
 > 
@@ -359,7 +359,7 @@
 
 ## 📈 Casos Especiales Avanzados
 
-> [!note]- **Situaciones Complejas** 🔬
+> [!note] **Situaciones Complejas** 🔬
 > 
 > ### Estados de Esfuerzo Especiales:
 > 
@@ -396,7 +396,7 @@
 
 ## 🔬 Herramientas de Análisis
 
-> [!tip]- **Métodos Computacionales** 💻
+> [!tip] **Métodos Computacionales** 💻
 > 
 > ### Software Especializado:
 > 
@@ -421,7 +421,7 @@
 
 ## 📖 Referencias
 
-> [!quote]- **Notas Relacionadas**
+> [!quote] **Notas Relacionadas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/05 - Equilibrio y Elasticidad/Aplicaciones de Elasticidad/Problemas de Deformación por Tensión y Compresión (Ley de Hooke)\|Problemas de Deformación por Tensión y Compresión (Ley de Hooke)]] - Base fundamental
 > - [[Universidad/1er Semestre/Física Mecanica/05 - Equilibrio y Elasticidad/Aplicaciones de Elasticidad/Problemas de Deformación por Cortante (Esfuerzo Cortante)\|Problemas de Deformación por Cortante (Esfuerzo Cortante)]] - Complemento esencial
@@ -431,7 +431,7 @@
 
 ## 📚 Notas Recomendadas
 
-> [!note]- **Prerrequisitos**
+> [!note] **Prerrequisitos**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para análisis tensorial
 > - [[Universidad/1er Semestre/Física Mecanica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Consistencia dimensional

@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Por qué es importante la Independencia Lineal?
+> [!info] 💡 ¿Por qué es importante la Independencia Lineal?
 > 
 > Cuando trabajamos con un conjunto de vectores, surge una pregunta fundamental: **¿Hay vectores redundantes en nuestro conjunto?**
 > 
@@ -44,7 +44,7 @@
 
 ### 🔑 Definición Formal
 
-> [!example]- 🟢 Definición: Dependencia Lineal
+> [!example] 🟢 Definición: Dependencia Lineal
 > 
 > **Definición:** Un conjunto de vectores $S = {\vec{v}_1, \vec{v}_2, \ldots, \vec{v}_n}$ en un espacio vectorial $V$ es **linealmente dependiente** si existen escalares $c_1, c_2, \ldots, c_n$, **no todos cero**, tales que:
 > 
@@ -78,7 +78,7 @@
 
 ### 🔍 Casos Especiales de Dependencia
 
-> [!note]- 📋 Casos Importantes
+> [!note] 📋 Casos Importantes
 > 
 > ### 1. Conjunto con el Vector Cero
 > 
@@ -142,7 +142,7 @@
 
 ### 🔑 Definición Formal
 
-> [!example]- 🟢 Definición: Independencia Lineal
+> [!example] 🟢 Definición: Independencia Lineal
 > 
 > **Definición:** Un conjunto de vectores $S = {\vec{v}_1, \vec{v}_2, \ldots, \vec{v}_n}$ es **linealmente independiente** si la **única** forma de obtener el vector cero como combinación lineal es usando **todos los coeficientes iguales a cero**:
 > 
@@ -175,7 +175,7 @@
 
 ### 🎯 Caracterizaciones Equivalentes
 
-> [!note]- 🔄 Formas Equivalentes de Independencia
+> [!note] 🔄 Formas Equivalentes de Independencia
 > 
 > Las siguientes afirmaciones son **equivalentes** para $S = {\vec{v}_1, \ldots, \vec{v}_n}$:
 > 
@@ -223,7 +223,7 @@
 
 ### Visualización en $\mathbb{R}^2$
 
-> [!note]- 📊 En el Plano
+> [!note] 📊 En el Plano
 > 
 > ### Dos Vectores Independientes
 > 
@@ -304,7 +304,7 @@
 
 ### Visualización en $\mathbb{R}^3$
 
-> [!note]- 📊 En el Espacio
+> [!note] 📊 En el Espacio
 > 
 > ### Dos Vectores Independientes en $\mathbb{R}^3$
 > 
@@ -391,7 +391,7 @@
 
 ### Método 1: Sistema de Ecuaciones Homogéneo
 
-> [!note]- 🎯 Procedimiento Estándar
+> [!note] 🎯 Procedimiento Estándar
 > 
 > **Objetivo:** Determinar si ${\vec{v}_1, \vec{v}_2, \ldots, \vec{v}_n}$ es linealmente independiente.
 > 
@@ -432,7 +432,7 @@
 
 ### Método 2: Determinante (Solo Matrices Cuadradas)
 
-> [!note]- 🔢 Método del Determinante
+> [!note] 🔢 Método del Determinante
 > 
 > **Aplicable cuando:** Los vectores forman una **matriz cuadrada** (igual número de vectores que componentes).
 > 
@@ -467,7 +467,7 @@
 
 ### Método 3: Inspección (Casos Simples)
 
-> [!note]- 👁️ Detección Visual
+> [!note] 👁️ Detección Visual
 > 
 > **Casos obvios de DEPENDENCIA:**
 > 
@@ -499,7 +499,7 @@
 
 ### Ejemplo 1: Verificar Independencia en $\mathbb{R}^3$
 
-> [!example]- 📝 Ejemplo 1: Tres Vectores en $\mathbb{R}^3$
+> [!example] 📝 Ejemplo 1: Tres Vectores en $\mathbb{R}^3$
 > 
 > **Dado:** $$S = \left\{ \vec{v}_1 = \begin{bmatrix} 1 \ 2 \ 3 \end{bmatrix}, \vec{v}_2 = \begin{bmatrix} 4 \ 5 \ 6 \end{bmatrix}, \vec{v}_3 = \begin{bmatrix} 7 \ 8 \ 9 \end{bmatrix} \right\}$$
 > 
@@ -563,7 +563,7 @@
 
 ### Ejemplo 2: Vectores Canónicos
 
-> [!example]- 📝 Ejemplo 2: Base Canónica de $\mathbb{R}^3$
+> [!example] 📝 Ejemplo 2: Base Canónica de $\mathbb{R}^3$
 > 
 > **Dado:** $$S = \left\{ \vec{e}_1 = \begin{bmatrix} 1 \ 0 \ 0 \end{bmatrix}, \vec{e}_2 = \begin{bmatrix} 0 \ 1 \ 0 \end{bmatrix}, \vec{e}_3 = \begin{bmatrix} 0 \ 0 \ 1 \end{bmatrix} \right\}$$
 > 
@@ -605,7 +605,7 @@
 
 ### Ejemplo 3: Dependencia con Vector Cero
 
-> [!example]- 📝 Ejemplo 3: Conjunto con Vector Cero
+> [!example] 📝 Ejemplo 3: Conjunto con Vector Cero
 > 
 > **Dado:** $$S = \left\{ \begin{bmatrix} 1 \ 2 \end{bmatrix}, \begin{bmatrix} 3 \ 4 \end{bmatrix}, \begin{bmatrix} 0 \ 0 \end{bmatrix} \right\}$$
 > 
@@ -629,7 +629,7 @@
 
 ### Ejemplo 4: Vectores en $\mathbb{R}^2$
 
-> [!example]- 📝 Ejemplo 4: Dos Vectores no Paralelos
+> [!example] 📝 Ejemplo 4: Dos Vectores no Paralelos
 > 
 > **Dado:** $$S = \left\{ \vec{v}_1 = \begin{bmatrix} 1 \ 2 \end{bmatrix}, \vec{v}_2 = \begin{bmatrix} 3 \ 5 \end{bmatrix} \right\}$$
 > 
@@ -658,7 +658,7 @@
 
 ### Ejemplo 5: Polinomios
 
-> [!example]- 📝 Ejemplo 5: Polinomios en $P_2$
+> [!example] 📝 Ejemplo 5: Polinomios en $P_2$
 > 
 > **Dado:** $$S = {1, x, x^2}$$ en el espacio $P_2$ (polinomios de grado ≤ 2)
 > 
@@ -694,7 +694,7 @@
 
 ### Ejemplo 6: Matrices
 
-> [!example]- 📝 Ejemplo 6: Matrices 2×2
+> [!example] 📝 Ejemplo 6: Matrices 2×2
 > 
 > **Dado:** $$S = \left\{ A_1 = \begin{bmatrix} 1 & 0 \\ 0 & 0 \end{bmatrix}, A_2 = \begin{bmatrix} 0 & 1 \\ 0 & 0 \end{bmatrix}, A_3 = \begin{bmatrix} 0 & 0 \\ 1 & 0 \end{bmatrix}, A_4 = \begin{bmatrix} 0 & 0 \\ 0 & 1 \end{bmatrix} \right\}$$
 > 
@@ -726,7 +726,7 @@
 
 ### Ejemplo 7: Caso con Más Vectores que Dimensión
 
-> [!example]- 📝 Ejemplo 7: Cuatro Vectores en $\mathbb{R}^3$
+> [!example] 📝 Ejemplo 7: Cuatro Vectores en $\mathbb{R}^3$
 > 
 > **Dado:** $$S = \left\{ \begin{bmatrix} 1 \\ 0 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 0 \\ 1 \end{bmatrix}, \begin{bmatrix} 1 \\ 1 \\ 1 \end{bmatrix} \right\}$$
 > 
@@ -762,7 +762,7 @@
 
 ## 🧮 Propiedades de Independencia/Dependencia
 
-> [!note]- ⭐ Propiedades Fundamentales
+> [!note] ⭐ Propiedades Fundamentales
 > 
 > ### Propiedad 1: Subconjunto de Conjunto Independiente
 > 
@@ -826,7 +826,7 @@
 
 ## 🔄 Relación con Bases y Dimensión
 
-> [!note]- 🔗 Conexión con Conceptos Futuros
+> [!note] 🔗 Conexión con Conceptos Futuros
 > 
 > ### Adelanto: Base
 > 
@@ -870,7 +870,7 @@
 
 ## 🎯 Algoritmo: Extraer Conjunto Independiente Maximal
 
-> [!note]- 🔧 Procedimiento para Eliminar Dependencia
+> [!note] 🔧 Procedimiento para Eliminar Dependencia
 > 
 > **Objetivo:** Dado un conjunto $S$ de vectores, encontrar un subconjunto $S' \subseteq S$ que sea linealmente independiente y que $\text{span}(S') = \text{span}(S)$.
 > 
@@ -923,7 +923,7 @@
 
 ## 📊 Tabla Resumen de Criterios
 
-> [!note]- 📋 Guía Rápida de Independencia/Dependencia
+> [!note] 📋 Guía Rápida de Independencia/Dependencia
 > 
 > |Situación|Independiente|Dependiente|
 > |---|---|---|
@@ -944,7 +944,7 @@
 
 ## 💡 Estrategias de Resolución
 
-> [!tip]- 🎯 Cómo Abordar Problemas
+> [!tip] 🎯 Cómo Abordar Problemas
 > 
 > ### Para Determinar Independencia:
 > 
@@ -988,7 +988,7 @@
 
 ## 🎓 Ejercicios Propuestos
 
-> [!example]- 💪 Práctica Nivel Básico
+> [!example] 💪 Práctica Nivel Básico
 > 
 > **1. Determinar independencia por inspección:**
 > 
@@ -1022,7 +1022,7 @@
 > 
 > c) ${x, x^2, x^3}$
 
-> [!example]- 💪 Práctica Nivel Intermedio
+> [!example] 💪 Práctica Nivel Intermedio
 > 
 > **4. Resolver sistema homogéneo:**
 > 
@@ -1054,7 +1054,7 @@
 > 
 > b) $\left\{ \begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix}, \begin{bmatrix} 5 & 6 \\ 7 & 8 \end{bmatrix}, \begin{bmatrix} 9 & 10 \\ 11 & 12 \end{bmatrix} \right\}$
 
-> [!example]- 💪 Práctica Nivel Avanzado
+> [!example] 💪 Práctica Nivel Avanzado
 > 
 > **7. Conjunto independiente maximal:**
 > 
@@ -1102,7 +1102,7 @@
 
 ## ✅ Soluciones Selectas
 
-> [!success]- 🔑 Respuestas Ejercicios Básicos
+> [!success] 🔑 Respuestas Ejercicios Básicos
 > 
 > **1a)** $S = \left\{ \begin{bmatrix} 1 \ 0 \end{bmatrix}, \begin{bmatrix} 0 \ 1 \end{bmatrix} \right\}$
 > 
@@ -1174,7 +1174,7 @@
 > 
 > Solo solución trivial → $$\boxed{\text{INDEPENDIENTES}}$$
 
-> [!success]- 🔑 Respuestas Ejercicios Intermedios
+> [!success] 🔑 Respuestas Ejercicios Intermedios
 > 
 > **4a)** $S = \left\{ \begin{bmatrix} 1 \ 1 \ 1 \end{bmatrix}, \begin{bmatrix} 1 \ 2 \ 3 \end{bmatrix}, \begin{bmatrix} 2 \ 3 \ 4 \end{bmatrix} \right\}$
 > 
@@ -1256,7 +1256,7 @@
 > 
 > Solo solución trivial → $$\boxed{\text{INDEPENDIENTES}}$$
 
-> [!success]- 🔑 Respuestas Ejercicios Avanzados
+> [!success] 🔑 Respuestas Ejercicios Avanzados
 > 
 > **7a)** $S = \left\{ \begin{bmatrix} 1 \ 2 \ 1 \end{bmatrix}, \begin{bmatrix} 2 \ 4 \ 2 \end{bmatrix}, \begin{bmatrix} 1 \ 1 \ 2 \end{bmatrix}, \begin{bmatrix} 3 \ 5 \ 4 \end{bmatrix} \right\}$
 > 
@@ -1341,7 +1341,7 @@
 
 ## 🌟 Conceptos Clave para Recordar
 
-> [!tip]- 💡 Puntos Esenciales
+> [!tip] 💡 Puntos Esenciales
 > 
 > ### Sobre Independencia Lineal
 > 
@@ -1411,7 +1411,7 @@
 
 ## 📊 Diagrama Conceptual
 
-> [!note]- 🌳 Árbol de Conceptos
+> [!note] 🌳 Árbol de Conceptos
 > 
 > ```
 > INDEPENDENCIA LINEAL
@@ -1474,7 +1474,7 @@
 
 ## 🔗 Relaciones Importantes
 
-> [!quote]- 🌐 Conexiones con Otros Temas
+> [!quote] 🌐 Conexiones con Otros Temas
 > 
 > ### Prerequisitos:
 > 
@@ -1521,7 +1521,7 @@
 
 ## ✨ Comentarios Finales
 
-> [!note]- 🎓 Para Llevar
+> [!note] 🎓 Para Llevar
 > 
 > ### Lo Esencial
 > 

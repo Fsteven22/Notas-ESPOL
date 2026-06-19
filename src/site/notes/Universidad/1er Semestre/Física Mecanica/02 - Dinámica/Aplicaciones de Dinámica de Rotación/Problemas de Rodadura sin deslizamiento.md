@@ -7,11 +7,11 @@
 
 > [!quote] "En la rodadura sin deslizamiento, cada punto de la rueda cuenta una historia diferente: el centro avanza uniformemente, el punto de contacto permanece inmóvil, y el punto más alto vuela a doble velocidad." 🎡
 
-> [!info]- La rodadura sin deslizamiento representa uno de los fenómenos más elegantes de la mecánica, donde la traslación y rotación se combinan de manera perfecta. Este tipo de movimiento aparece constantemente en nuestra vida diaria: desde las ruedas de vehículos hasta engranajes industriales, pelotas que ruedan y cilindros en planos inclinados. La comprensión de este movimiento requiere integrar conceptos de cinemática y dinámica tanto traslacional como rotacional, estableciendo la relación fundamental v = ωR que conecta ambos tipos de movimiento.
+> [!info] La rodadura sin deslizamiento representa uno de los fenómenos más elegantes de la mecánica, donde la traslación y rotación se combinan de manera perfecta. Este tipo de movimiento aparece constantemente en nuestra vida diaria: desde las ruedas de vehículos hasta engranajes industriales, pelotas que ruedan y cilindros en planos inclinados. La comprensión de este movimiento requiere integrar conceptos de cinemática y dinámica tanto traslacional como rotacional, estableciendo la relación fundamental v = ωR que conecta ambos tipos de movimiento.
 
 ## 🎯 Fundamentos de la Rodadura
 
-> [!info]- **Condición de Rodadura Pura** 🎯
+> [!info] **Condición de Rodadura Pura** 🎯
 > 
 > ### Características Principales:
 > 
@@ -34,7 +34,7 @@
 > - **No deslizamiento**: f_s ≤ μ_s N
 > - **Punto de contacto fijo**: Velocidad relativa = 0
 
-> [!tip]- **Cinemática de Puntos en el Objeto** 🌟
+> [!tip] **Cinemática de Puntos en el Objeto** 🌟
 > 
 > ### Velocidades de Puntos Característicos:
 > 
@@ -64,7 +64,7 @@
 > - **Puntos del borde**: Cicloides
 > - **Punto de contacto**: Serie de arcos
 
-> [!warning]- **Dinámica de la Rodadura** ⚡
+> [!warning] **Dinámica de la Rodadura** ⚡
 > 
 > ### Ecuaciones de Movimiento:
 > 
@@ -122,7 +122,7 @@
 >     style D fill:#fff3e0
 > ```
 
-> [!note]- **Momentos de Inercia Comunes** 📐
+> [!note] **Momentos de Inercia Comunes** 📐
 > 
 > ### Para objetos con masa M y radio R:
 > 
@@ -146,7 +146,7 @@
 
 ## 🎯 Estrategias de Resolución
 
-> [!tip]- **Método RODAS (Rodadura-Objeto-Dinámica-Análisis-Solución)** 🧠
+> [!tip] **Método RODAS (Rodadura-Objeto-Dinámica-Análisis-Solución)** 🧠
 > 
 > ### **R**odadura - Verifica las condiciones de rodadura
 > 
@@ -180,7 +180,7 @@
 
 ## 📚 Problemas Tipo
 
-> [!example]- **Problema 1: Cilindro en Plano Inclinado** 🏔️
+> [!example] **Problema 1: Cilindro en Plano Inclinado** 🏔️
 > 
 > ### Enunciado:
 > 
@@ -220,7 +220,7 @@
 > 
 > c) **Coeficiente mínimo**: μ_min = f_s/N = 3.27/16.97 = **0.193**
 
-> [!example]- **Problema 2: Esfera Rodando con Fuerza Aplicada** ⚽
+> [!example] **Problema 2: Esfera Rodando con Fuerza Aplicada** ⚽
 > 
 > ### Enunciado:
 > 
@@ -261,7 +261,7 @@
 > 
 > **Verificación**: La esfera acelera hacia adelante, por lo que la fricción debe actuar hacia atrás para generar la rotación necesaria.
 
-> [!example]- **Problema 3: Comparación de Objetos en Plano Inclinado** 🏁
+> [!example] **Problema 3: Comparación de Objetos en Plano Inclinado** 🏁
 > 
 > ### Enunciado:
 > 
@@ -310,20 +310,20 @@
 
 ## 🧮 Técnicas de Memorización
 
-> [!tip]- **Mnemotecnia: "RODAS"** 🛞 **R**odadura verificada **O**bjeto caracterizado **D**inámica aplicada  
+> [!tip] **Mnemotecnia: "RODAS"** 🛞 **R**odadura verificada **O**bjeto caracterizado **D**inámica aplicada  
 > **A**nálisis de fuerzas **S**olución sistemática
 
-> [!tip]- **Regla de Velocidades: "0-1-2"** 🎯
+> [!tip] **Regla de Velocidades: "0-1-2"** 🎯
 > 
 > - **0**: Punto de contacto (v = 0)
 > - **1**: Centro de masa (v = v_cm)
 > - **2**: Punto más alto (v = 2v_cm)
 
-> [!tip]- **Fórmula Rápida para Planos Inclinados** ⚡ **a = g sin θ/(1 + β)** donde β = I/(MR²) es el factor de forma
+> [!tip] **Fórmula Rápida para Planos Inclinados** ⚡ **a = g sin θ/(1 + β)** donde β = I/(MR²) es el factor de forma
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- **Confusiones Frecuentes** ⚠️
+> [!warning] **Confusiones Frecuentes** ⚠️
 > 
 > 1. **Incluir fricción en traslación del CM**: La fricción es interna al sistema
 > 2. **Confundir dirección de fricción**: Actúa para prevenir deslizamiento
@@ -335,7 +335,7 @@
 
 ## 🎯 Aplicaciones Prácticas
 
-> [!info]- **Ejemplos del Mundo Real** 🌍
+> [!info] **Ejemplos del Mundo Real** 🌍
 > 
 > ### Automoción:
 > 
@@ -369,7 +369,7 @@
 
 ## 📖 Referencias
 
-> [!quote]- **Notas Relacionadas**
+> [!quote] **Notas Relacionadas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/01 - Cinemática/Cinemática Rotacional\|Cinemática Rotacional]] - Fundamentos del movimiento circular
 > - [[Dinámica de Rotación\|Dinámica de Rotación]] - Segunda ley para rotación
@@ -378,7 +378,7 @@
 
 ## 📚 Notas Recomendadas
 
-> [!note]- **Prerrequisitos**
+> [!note] **Prerrequisitos**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Análisis vectorial
 > - [[Dinámica de Traslación\|Dinámica de Traslación]] - Leyes de Newton

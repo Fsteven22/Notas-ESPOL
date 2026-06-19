@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Por qué son importantes las Bases y la Dimensión?
+> [!info] 💡 ¿Por qué son importantes las Bases y la Dimensión?
 > 
 > Hemos visto que algunos vectores son redundantes (dependencia lineal) y que otros son esenciales (independencia lineal). Ahora surge una pregunta fundamental: **¿Cuál es el conjunto "perfecto" de vectores para representar un espacio?**
 > 
@@ -48,7 +48,7 @@
 
 ### 🔑 Definición Formal
 
-> [!example]- 🟢 Definición: Base de un Espacio Vectorial
+> [!example] 🟢 Definición: Base de un Espacio Vectorial
 > 
 > **Definición:** Un conjunto de vectores $\mathcal{B} = {\vec{v}_1, \vec{v}_2, \ldots, \vec{v}_n}$ es una **base** de un espacio vectorial $V$ si cumple **ambas** condiciones:
 > 
@@ -85,7 +85,7 @@
 
 ### 🎨 Caracterizaciones Equivalentes de Base
 
-> [!note]- 🔄 Definiciones Equivalentes
+> [!note] 🔄 Definiciones Equivalentes
 > 
 > Las siguientes afirmaciones son **equivalentes** para un conjunto $\mathcal{B} = {\vec{v}_1, \ldots, \vec{v}_n}$ en un espacio vectorial $V$:
 > 
@@ -132,7 +132,7 @@
 
 ### Base Canónica de ℝⁿ
 
-> [!example]- 📍 La Base Estándar
+> [!example] 📍 La Base Estándar
 > 
 > **Definición:** La **base canónica** (o estándar) de $\mathbb{R}^n$ es:
 > 
@@ -201,7 +201,7 @@
 
 ### Otras Bases de ℝⁿ
 
-> [!example]- 🔄 Bases Alternativas
+> [!example] 🔄 Bases Alternativas
 > 
 > **Ejemplo 1: Base alternativa de ℝ²**
 > 
@@ -255,7 +255,7 @@
 
 ### Base de Polinomios
 
-> [!example]- 📈 Base Canónica de Pₙ
+> [!example] 📈 Base Canónica de Pₙ
 > 
 > **Base estándar de polinomios de grado ≤ n:**
 > 
@@ -303,7 +303,7 @@
 
 ### Base de Matrices
 
-> [!example]- 📊 Base Canónica de M₂ₓ₂
+> [!example] 📊 Base Canónica de M₂ₓ₂
 > 
 > **Base estándar de matrices 2×2:**
 > 
@@ -343,7 +343,7 @@
 
 ### 🔑 Concepto de Dimensión
 
-> [!example]- 🟢 Definición: Dimensión de un Espacio Vectorial
+> [!example] 🟢 Definición: Dimensión de un Espacio Vectorial
 > 
 > **Definición:** La **dimensión** de un espacio vectorial $V$, denotada $\dim(V)$, es el **número de vectores en cualquier base** de $V$.
 > 
@@ -383,7 +383,7 @@
 
 ### 📊 Dimensiones de Espacios Comunes
 
-> [!note]- 📐 Tabla de Dimensiones
+> [!note] 📐 Tabla de Dimensiones
 > 
 > |Espacio Vectorial|Base|Dimensión|
 > |---|---|---|
@@ -435,7 +435,7 @@
 
 ### Teorema: Existencia y Unicidad de la Dimensión
 
-> [!note]- ⭐ Teorema Principal
+> [!note] ⭐ Teorema Principal
 > 
 > **Teorema de la Dimensión:**
 > 
@@ -467,7 +467,7 @@
 
 ### Teorema: Caracterizaciones de Bases
 
-> [!note]- 🔄 Criterios para Identificar Bases
+> [!note] 🔄 Criterios para Identificar Bases
 > 
 > **Teorema:** Sea $V$ un espacio vectorial con $\dim(V) = n$, y sea $S = {\vec{v}_1, \ldots, \vec{v}_k}$ un conjunto de vectores en $V$.
 > 
@@ -509,7 +509,7 @@
 
 ### Teorema: Extensión y Reducción
 
-> [!note]- 🔧 Construcción de Bases
+> [!note] 🔧 Construcción de Bases
 > 
 > **Teorema de Extensión:**
 > 
@@ -551,7 +551,7 @@
 
 ### Teorema: Desigualdades Fundamentales
 
-> [!note]- 📊 Relaciones entre Tamaño y Dimensión
+> [!note] 📊 Relaciones entre Tamaño y Dimensión
 > 
 > **Teorema:** Sea $V$ un espacio vectorial con $\dim(V) = n$.
 > 
@@ -607,7 +607,7 @@
 
 ### Método 1: A partir de Conjunto Generador
 
-> [!note]- 🎯 Reducir Generadores a Base
+> [!note] 🎯 Reducir Generadores a Base
 > 
 > **Objetivo:** Dado un conjunto generador $S$, encontrar una base contenida en $S$.
 > 
@@ -656,7 +656,7 @@
 
 ### Método 2: Extender Conjunto Independiente
 
-> [!note]- 🔧 Completar a Base
+> [!note] 🔧 Completar a Base
 > 
 > **Objetivo:** Dado un conjunto independiente $S$ en $\mathbb{R}^n$, extenderlo a una base de $\mathbb{R}^n$.
 > 
@@ -702,7 +702,7 @@
 
 ### Método 3: Base de Subespacio Definido por Ecuaciones
 
-> [!note]- 📐 Subespacios Implícitos
+> [!note] 📐 Subespacios Implícitos
 > 
 > **Objetivo:** Encontrar una base para el subespacio $W$ definido por ecuaciones lineales.
 > 
@@ -774,7 +774,7 @@
 
 ### Método 4: Base de Espacio Columna
 
-> [!note]- 📊 Base de Col(A)
+> [!note] 📊 Base de Col(A)
 > 
 > **Objetivo:** Encontrar una base para el espacio columna de una matriz $A$.
 > 
@@ -816,7 +816,7 @@
 
 ### Ejemplo 1: Verificar que un Conjunto es Base
 
-> [!example]- 📝 Verificación Completa
+> [!example] 📝 Verificación Completa
 > 
 > **Dado:** ¿Es $\mathcal{B}$ una base de ℝ³?
 > 
@@ -854,7 +854,7 @@
 
 ### Ejemplo 2: Encontrar Dimensión de Subespacio Generado
 
-> [!example]- 📏 Calcular Dimensión
+> [!example] 📏 Calcular Dimensión
 > 
 > **Dado:** Encontrar $\dim(\text{span}(S))$ donde:
 > 
@@ -893,7 +893,7 @@
 
 ### Ejemplo 3: Base de Polinomios con Restricciones
 
-> [!example]- 📈 Subespacio de P₃
+> [!example] 📈 Subespacio de P₃
 > 
 > **Dado:** Encontrar una base para el subespacio $W$ de $P_3$ donde:
 > 
@@ -940,7 +940,7 @@
 
 ### Ejemplo 4: Base de Matrices Simétricas
 
-> [!example]- 📊 Subespacio de M₃ₓ₃
+> [!example] 📊 Subespacio de M₃ₓ₃
 > 
 > **Dado:** Encontrar una base y la dimensión del espacio de matrices simétricas $3 \times 3$.
 > 
@@ -976,7 +976,7 @@
 
 ### Ejemplo 5: Extender a Base de ℝ⁴
 
-> [!example]- 🔧 Extensión de Conjunto Independiente
+> [!example] 🔧 Extensión de Conjunto Independiente
 > 
 > **Dado:** Extender a una base de ℝ⁴:
 > 
@@ -1020,7 +1020,7 @@
 
 ### Propiedades Fundamentales
 
-> [!note]- ⭐ Propiedades Esenciales
+> [!note] ⭐ Propiedades Esenciales
 > 
 > ### Propiedad 1: Invariancia de la Dimensión
 > 
@@ -1082,7 +1082,7 @@
 
 ### Teorema del Rango (Adelanto)
 
-> [!note]- 📊 Relación Fundamental
+> [!note] 📊 Relación Fundamental
 > 
 > **Teorema del Rango (Rank-Nullity Theorem):**
 > 
@@ -1119,7 +1119,7 @@
 
 ### Relaciones entre Subespacios
 
-> [!note]- 🔗 Dimensiones de Suma e Intersección
+> [!note] 🔗 Dimensiones de Suma e Intersección
 > 
 > **Teorema de la Dimensión (Suma e Intersección):**
 > 
@@ -1183,7 +1183,7 @@
 
 ### Definición de Coordenadas
 
-> [!example]- 📍 Vector de Coordenadas
+> [!example] 📍 Vector de Coordenadas
 > 
 > **Definición:** Sea $\mathcal{B} = {\vec{v}_1, \vec{v}_2, \ldots, \vec{v}_n}$ una base de $V$, y sea $\vec{w} \in V$.
 > 
@@ -1208,7 +1208,7 @@
 
 ### Ejemplo de Coordenadas
 
-> [!example]- 📐 Cálculo de Coordenadas
+> [!example] 📐 Cálculo de Coordenadas
 > 
 > **Dado:** En ℝ², sea la base:
 > 
@@ -1260,7 +1260,7 @@
 
 ### Procedimiento Completo: Verificar si es Base
 
-> [!note]- ✅ Checklist de Verificación
+> [!note] ✅ Checklist de Verificación
 > 
 > **Para verificar si $\mathcal{B} = {\vec{v}_1, \ldots, \vec{v}_k}$ es base de $V$ con $\dim(V) = n$:**
 > 
@@ -1314,7 +1314,7 @@
 
 ### Procedimiento: Encontrar Base de Subespacio
 
-> [!note]- 🔍 Guía Completa
+> [!note] 🔍 Guía Completa
 > 
 > **Dado:** Subespacio $W$ de $V$
 > 
@@ -1377,7 +1377,7 @@
 
 ### Aplicación 1: Sistemas de Coordenadas Personalizados
 
-> [!example]- 🎯 Coordenadas en Diferentes Bases
+> [!example] 🎯 Coordenadas en Diferentes Bases
 > 
 > **Problema:** En gráficos computacionales, a veces necesitamos sistemas de coordenadas no estándar.
 > 
@@ -1393,7 +1393,7 @@
 
 ### Aplicación 2: Compresión de Datos (PCA)
 
-> [!example]- 📊 Reducción de Dimensionalidad
+> [!example] 📊 Reducción de Dimensionalidad
 > 
 > **Análisis de Componentes Principales (PCA):**
 > 
@@ -1417,7 +1417,7 @@
 
 ### Aplicación 3: Bases Ortonormales en Física
 
-> [!example]- ⚛️ Mecánica Cuántica
+> [!example] ⚛️ Mecánica Cuántica
 > 
 > **Estados cuánticos:**
 > 
@@ -1441,7 +1441,7 @@
 
 ### Aplicación 4: Espacios de Soluciones
 
-> [!example]- 🔧 Ingeniería y Física
+> [!example] 🔧 Ingeniería y Física
 > 
 > **Ecuaciones diferenciales:**
 > 
@@ -1465,7 +1465,7 @@
 
 ### Ejercicios Nivel Básico
 
-> [!example]- 💪 Práctica Fundamental
+> [!example] 💪 Práctica Fundamental
 > 
 > **1. Verificar si es base de ℝ²:**
 > 
@@ -1501,7 +1501,7 @@
 
 ### Ejercicios Nivel Intermedio
 
-> [!example]- 💪 Desafío Moderado
+> [!example] 💪 Desafío Moderado
 > 
 > **4. Bases de subespacios:**
 > 
@@ -1537,7 +1537,7 @@
 
 ### Ejercicios Nivel Avanzado
 
-> [!example]- 💪 Desafío Avanzado
+> [!example] 💪 Desafío Avanzado
 > 
 > **7. Matrices especiales:**
 > 
@@ -1593,7 +1593,7 @@
 
 ### Soluciones Ejercicios Básicos
 
-> [!success]- 🔑 Respuestas Nivel 1
+> [!success] 🔑 Respuestas Nivel 1
 > 
 > **1a)** $\mathcal{B} = \left\{ \begin{bmatrix} 1 \\ 2 \end{bmatrix},\; \begin{bmatrix} 3 \\ 4 \end{bmatrix} \right\}$
 > **Solución por determinante:**
@@ -1720,7 +1720,7 @@
 
 ### Soluciones Ejercicios Intermedios
 
-> [!success]- 🔑 Respuestas Nivel 2
+> [!success] 🔑 Respuestas Nivel 2
 > 
 > **4a)** Base de $W = \text{span}\left\{\begin{bmatrix} 1 \ 2 \ 3 \ 4 \end{bmatrix}, \begin{bmatrix} 2 \ 3 \ 4 \ 5 \end{bmatrix}, \begin{bmatrix} 0 \ 1 \ 2 \ 3 \end{bmatrix}\right\}$
 > 
@@ -1875,7 +1875,7 @@
 
 ### Soluciones Ejercicios Avanzados
 
-> [!success]- 🔑 Respuestas Nivel 3
+> [!success] 🔑 Respuestas Nivel 3
 > 
 > **7a)** Matrices antisimétricas $3 \times 3$ (donde $A^T = -A$)
 > 
@@ -1975,7 +1975,7 @@
 
 ## 🌟 Conceptos Clave para Recordar
 
-> [!tip]- 💡 Puntos Esenciales
+> [!tip] 💡 Puntos Esenciales
 > 
 > ### Sobre Bases
 > 
@@ -2065,7 +2065,7 @@
 
 ## 📊 Tabla Resumen Comparativa
 
-> [!note]- 📋 Guía Rápida
+> [!note] 📋 Guía Rápida
 > 
 > |Concepto|Definición|Propiedades|Dimensión|
 > |---|---|---|---|
@@ -2089,7 +2089,7 @@
 
 ## 🔗 Relaciones con Otros Temas
 
-> [!quote]- 🌐 Conexiones Conceptuales
+> [!quote] 🌐 Conexiones Conceptuales
 > 
 > ### Prerequisitos:
 > 
@@ -2142,7 +2142,7 @@
 
 ## 🎓 Guía de Estudio
 
-> [!tip]- 📖 Estrategia de Aprendizaje
+> [!tip] 📖 Estrategia de Aprendizaje
 > 
 > ### Nivel 1: Comprensión Básica
 > 
@@ -2228,7 +2228,7 @@
 
 ## 🎯 Errores Comunes y Cómo Evitarlos
 
-> [!warning]- ⚠️ Trampas Frecuentes
+> [!warning] ⚠️ Trampas Frecuentes
 > 
 > ### Error 1: Confundir tamaño con dimensión
 > 
@@ -2298,7 +2298,7 @@
 
 ## 🧩 Problemas Desafío
 
-> [!example]- 🏆 Para Pensar Profundamente
+> [!example] 🏆 Para Pensar Profundamente
 > 
 > ### Problema 1: Dimensión de intersección
 > 
@@ -2392,7 +2392,7 @@
 
 ## 📖 Resumen Ejecutivo
 
-> [!summary]- 📋 Lo Esencial en 5 Minutos
+> [!summary] 📋 Lo Esencial en 5 Minutos
 > 
 > ### Definiciones Centrales
 > 
@@ -2458,7 +2458,7 @@
 
 ## ✨ Reflexión Final
 
-> [!quote]- 💭 La Importancia de Bases y Dimensión
+> [!quote] 💭 La Importancia de Bases y Dimensión
 > 
 > ### Por qué es fundamental
 > 
@@ -2530,7 +2530,7 @@
 
 ## 🔄 Próximos Pasos
 
-> [!tip]- 🎯 Plan de Acción
+> [!tip] 🎯 Plan de Acción
 > 
 > ### Para consolidar este tema:
 > 

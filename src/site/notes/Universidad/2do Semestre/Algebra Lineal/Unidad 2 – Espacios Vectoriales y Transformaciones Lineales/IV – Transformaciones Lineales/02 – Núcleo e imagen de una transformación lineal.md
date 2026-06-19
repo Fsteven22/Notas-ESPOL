@@ -7,7 +7,7 @@
 
 ## 🌟 Concepto Fundamental
 
-> [!info]- Definición Intuitiva **El núcleo y la imagen son dos subespacios fundamentales asociados a toda transformación lineal. El núcleo captura lo que la transformación "destruye" (mapea a cero), mientras que la imagen captura todo lo que la transformación puede "alcanzar". Juntos, estos subespacios revelan la estructura completa de la transformación.**
+> [!info] Definición Intuitiva **El núcleo y la imagen son dos subespacios fundamentales asociados a toda transformación lineal. El núcleo captura lo que la transformación "destruye" (mapea a cero), mientras que la imagen captura todo lo que la transformación puede "alcanzar". Juntos, estos subespacios revelan la estructura completa de la transformación.**
 > 
 > **Características clave:**
 > 
@@ -19,7 +19,7 @@
 
 ### 📖 Contexto Histórico
 
-> [!note]- Desarrollo del Concepto **Orígenes algebraicos (1850-1900):**
+> [!note] Desarrollo del Concepto **Orígenes algebraicos (1850-1900):**
 > 
 > - **Cayley (1858):** Teoría de matrices
 >     - Primeras nociones de "soluciones triviales"
@@ -75,7 +75,7 @@
 
 ## 📊 Definiciones Formales
 
-> [!important]- Núcleo e Imagen **DEFINICIÓN:**
+> [!important] Núcleo e Imagen **DEFINICIÓN:**
 > 
 > Sea $T: V \to W$ una transformación lineal entre espacios vectoriales.
 > 
@@ -130,7 +130,7 @@
 
 ## 🎯 Propiedades Fundamentales
 
-> [!success]- Teoremas sobre Núcleo e Imagen **TEOREMA 1: Núcleo e Imagen son Subespacios**
+> [!success] Teoremas sobre Núcleo e Imagen **TEOREMA 1: Núcleo e Imagen son Subespacios**
 > 
 > Si $T: V \to W$ es transformación lineal, entonces:
 > 
@@ -236,7 +236,7 @@
 
 ## 📏 Dimensiones: Nulidad y Rango
 
-> [!important]- Medidas Fundamentales **DEFINICIONES:**
+> [!important] Medidas Fundamentales **DEFINICIONES:**
 > 
 > Sea $T: V \to W$ transformación lineal donde $V$ tiene dimensión finita.
 > 
@@ -290,7 +290,7 @@
 
 ## 🎓 Teorema del Rango-Nulidad
 
-> [!success]- Teorema Fundamental **TEOREMA DEL RANGO-NULIDAD (Rank-Nullity Theorem):**
+> [!success] Teorema Fundamental **TEOREMA DEL RANGO-NULIDAD (Rank-Nullity Theorem):**
 > 
 > Sea $T: V \to W$ transformación lineal donde $\dim(V) = n$ es finita.
 > 
@@ -405,7 +405,7 @@
 
 ## 🔢 Cálculo del Núcleo
 
-> [!note]- Métodos para Encontrar Ker(T) **MÉTODO 1: Definición Directa**
+> [!note] Métodos para Encontrar Ker(T) **MÉTODO 1: Definición Directa**
 > 
 > Para $T: V \to W$, resolver la ecuación: $$T(\vec{v}) = \vec{0}_W$$
 > 
@@ -491,7 +491,7 @@
 
 ## 🎨 Cálculo de la Imagen
 
-> [!note]- Métodos para Encontrar Im(T) **MÉTODO 1: Usando la Definición**
+> [!note] Métodos para Encontrar Im(T) **MÉTODO 1: Usando la Definición**
 > 
 > $$\text{Im}(T) = {T(\vec{v}) : \vec{v} \in V}$$
 > 
@@ -566,7 +566,7 @@
 
 ## 💡 Ejemplos Resueltos Completos
 
-> [!example]- Problemas Detallados **PROBLEMA 1: Análisis Completo de una Transformación**
+> [!example] Problemas Detallados **PROBLEMA 1: Análisis Completo de una Transformación**
 > 
 > Sea $T: \mathbb{R}^4 \to \mathbb{R}^3$ definida por: $$T\begin{pmatrix}\begin{bmatrix} w \ x \ y \ z \end{bmatrix}\end{pmatrix} = \begin{bmatrix} w + x + 2y + z \ 2w + 2x + 4y + 2z \ w - x + y + 3z \end{bmatrix}$$
 > 
@@ -728,7 +728,7 @@
 
 ## 🔄 Relación entre Ker(T) e Im(T)
 
-> [!important]- Descomposición del Espacio **TEOREMA: Descomposición en Suma Directa**
+> [!important] Descomposición del Espacio **TEOREMA: Descomposición en Suma Directa**
 > 
 > Sea $T: V \to W$ transformación lineal. Aunque en general $V \neq \text{Ker}(T) \oplus \text{Im}(T)$ (están en espacios diferentes), existe una descomposición fundamental:
 > 
@@ -764,7 +764,7 @@
 
 ## ⚙️ Aplicaciones Prácticas
 
-> [!tip]- Usos del Núcleo e Imagen **1. SISTEMAS DE ECUACIONES LINEALES**
+> [!tip] Usos del Núcleo e Imagen **1. SISTEMAS DE ECUACIONES LINEALES**
 > 
 > Para el sistema $A\vec{x} = \vec{b}$:
 > 
@@ -844,7 +844,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- Malentendidos Frecuentes **1. "Ker(T) e Im(T) están en el mismo espacio"**
+> [!warning] Malentendidos Frecuentes **1. "Ker(T) e Im(T) están en el mismo espacio"**
 > 
 > ❌ **FALSO**
 > 
@@ -924,7 +924,7 @@
 
 ## 🔗 Conexiones con Otros Temas
 
-> [!quote]- Enlaces Conceptuales **Fundamentos previos:**
+> [!quote] Enlaces Conceptuales **Fundamentos previos:**
 > 
 > - [[01 - Vectores en espacios vectoriales\|01 - Vectores en espacios vectoriales]] - Estructura de espacios
 > - [[05 - Combinaciones lineales\|05 - Combinaciones lineales]] - Generación de subespacios
@@ -949,7 +949,7 @@
 
 ## 🎓 Conceptos Clave - Resumen
 
-> [!important]- Ideas Fundamentales para Recordar
+> [!important] Ideas Fundamentales para Recordar
 > 
 > **DEFINICIONES CENTRALES:**
 > 

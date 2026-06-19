@@ -7,11 +7,11 @@
 
 > [!quote] "Medir es conocer; sin medición precisa, la física sería solo especulación." 📏
 
-> [!info]- La medición es el proceso de comparar una cantidad física con un patrón establecido llamado unidad. En física mecánica, las mediciones precisas son fundamentales para validar teorías, diseñar experimentos y obtener resultados confiables que puedan ser reproducidos por otros científicos.
+> [!info] La medición es el proceso de comparar una cantidad física con un patrón establecido llamado unidad. En física mecánica, las mediciones precisas son fundamentales para validar teorías, diseñar experimentos y obtener resultados confiables que puedan ser reproducidos por otros científicos.
 
 ## 🔧 Conceptos Fundamentales
 
-> [!info]- **¿Qué es Medir?** 📐
+> [!info] **¿Qué es Medir?** 📐
 > 
 > ### Definición Básica:
 > 
@@ -36,7 +36,7 @@
 > 
 > Ejemplo: L = (1.25 ± 0.01) m
 
-> [!tip]- **Tipos de Magnitudes** 🌊
+> [!tip] **Tipos de Magnitudes** 🌊
 > 
 > ### Clasificación Principal:
 > 
@@ -63,7 +63,7 @@
 > |Energía|E = Fd|J (N⋅m)|
 > |Potencia|P = E/t|W (J/s)|
 
-> [!warning]- **Sistema Internacional de Unidades (SI)** ⚡
+> [!warning] **Sistema Internacional de Unidades (SI)** ⚡
 > 
 > ### Características del SI:
 > 
@@ -109,7 +109,7 @@
 >     style G fill:#e0f2f1
 > ```
 
-> [!note]- **Conversión de Unidades** 📝
+> [!note] **Conversión de Unidades** 📝
 > 
 > ### Método del Factor de Conversión:
 > 
@@ -154,7 +154,7 @@
 
 ## 🎯 Estrategias de Medición
 
-> [!tip]- **Método de Medición Directa** 🧠
+> [!tip] **Método de Medición Directa** 🧠
 > 
 > ### Características:
 > 
@@ -177,7 +177,7 @@
 > |✅ Pocas fuentes de error|❌ No siempre es posible|
 > |✅ Fácil interpretación|❌ Puede requerir instrumentos específicos|
 
-> [!tip]- **Método de Medición Indirecta** 📊
+> [!tip] **Método de Medición Indirecta** 📊
 > 
 > ### Características:
 > 
@@ -201,7 +201,7 @@
 
 ## 📚 Ejemplos Prácticos
 
-> [!example]- **Ejemplo 1: Medición de Velocidad** 🏃
+> [!example] **Ejemplo 1: Medición de Velocidad** 🏃
 > 
 > ### Situación:
 > 
@@ -226,7 +226,7 @@
 > 
 > **v = (8.0 ± 0.1) m/s**
 
-> [!example]- **Ejemplo 2: Conversión de Unidades** 🔄
+> [!example] **Ejemplo 2: Conversión de Unidades** 🔄
 > 
 > ### Problema:
 > 
@@ -254,7 +254,7 @@
 > 90 km/h × (100000 cm/1 km) × (1 h/3600 s) = 90 × 100000/3600 = 2500 cm/s ✓
 > ```
 
-> [!example]- **Ejemplo 3: Análisis Dimensional** 📐
+> [!example] **Ejemplo 3: Análisis Dimensional** 📐
 > 
 > ### Problema:
 > 
@@ -278,12 +278,12 @@
 
 ## 🧮 Técnicas de Memorización
 
-> [!tip]- **Mnemotecnia: "MUI FÁCIL"** 🎯
+> [!tip] **Mnemotecnia: "MUI FÁCIL"** 🎯
 > 
 > **M**agnitud a medir **U**nidad apropiada  
 > **I**nstrumento correcto **F**actor de conversión **Á**rea de incertidumbre **C**ifras significativas **I**nterpretación física **L**imitaciones del método
 
-> [!tip]- **Reglas de Oro para Conversiones** 📏
+> [!tip] **Reglas de Oro para Conversiones** 📏
 > 
 > 1. **Siempre verificar** que las unidades se cancelen correctamente
 > 2. **El factor de conversión** debe ser equivalente a 1
@@ -293,7 +293,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- **Confusiones Frecuentes** ⚠️
+> [!warning] **Confusiones Frecuentes** ⚠️
 > 
 > 1. **Confundir masa y peso**: La masa se mide en kg, el peso en N
 > 2. **Olvidar la incertidumbre**: Todo resultado debe incluir su rango de confianza
@@ -305,7 +305,7 @@
 
 ## 🎯 Aplicaciones Prácticas
 
-> [!info]- **Ejemplos del Mundo Real** 🌍
+> [!info] **Ejemplos del Mundo Real** 🌍
 > 
 > ### Ingeniería:
 > 
@@ -327,7 +327,7 @@
 
 ## 📖 Referencias
 
-> [!quote]- **Notas Relacionadas**
+> [!quote] **Notas Relacionadas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Sistema de unidades
 > - [[Universidad/1er Semestre/Física Mecanica/Fundamentos de Física Mecánica/Conocimientos Previos a las Prácticas\|Conocimientos Previos a las Prácticas]] - Fundamentos básicos
@@ -335,13 +335,13 @@
 
 ## 📚 Notas Recomendadas
 
-> [!note]- **Prerrequisitos**
+> [!note] **Prerrequisitos**
 > 
 > - **Matemáticas básicas**: Álgebra, notación científica
 > - **Conceptos de proporcionalidad**: Razones y proporciones
 > - **Sistema decimal**: Manejo de potencias de 10
 
-> [!note]- **Temas Siguientes**
+> [!note] **Temas Siguientes**
 > 
 > - [[Uso del Calibrador de Vernier\|Uso del Calibrador de Vernier]] - Instrumento de precisión
 > - [[Universidad/1er Semestre/Física Mecanica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis de Datos y Errores/Errores Absolutos y Relativos\|Errores Absolutos y Relativos]] - Análisis de incertidumbres

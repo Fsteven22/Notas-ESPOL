@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es el Teorema Espectral?
+> [!info] 💡 ¿Qué es el Teorema Espectral?
 > 
 > El **Teorema Espectral** es uno de los resultados más importantes y elegantes del álgebra lineal. Establece que ciertas matrices pueden ser completamente caracterizadas por sus valores y vectores propios mediante una descomposición ortogonal.
 > 
@@ -54,7 +54,7 @@ graph TB
 
 ### 📝 Enunciado del Teorema
 
-> [!note]- 🎓 Versión Principal
+> [!note] 🎓 Versión Principal
 > 
 > **Teorema Espectral (Matrices Simétricas Reales):**
 > 
@@ -120,7 +120,7 @@ graph TB
 
 ### 🔍 Demostración del Teorema
 
-> [!example]- 📊 Prueba Constructiva
+> [!example] 📊 Prueba Constructiva
 > 
 > **Parte 1: Los valores propios son reales**
 > 
@@ -204,7 +204,7 @@ graph TB
 
 ### 🎯 Propiedades Clave del Teorema
 
-> [!success]- ✨ Consecuencias Importantes
+> [!success] ✨ Consecuencias Importantes
 > 
 > **1. Dimensión del espacio propio**
 > 
@@ -266,7 +266,7 @@ graph TB
 
 ### 📊 Forma Explícita
 
-> [!note]- 🔢 Expresión Matricial
+> [!note] 🔢 Expresión Matricial
 > 
 > **Descomposición estándar:**
 > 
@@ -349,7 +349,7 @@ graph TB
 
 ### 🌟 Interpretación Geométrica
 
-> [!tip]- 🎯 Significado Visual
+> [!tip] 🎯 Significado Visual
 > 
 > **La matriz como transformación:**
 > 
@@ -421,7 +421,7 @@ graph TB
 
 ### 📈 Formas Cuadráticas
 
-> [!example]- 🎲 Clasificación y Optimización
+> [!example] 🎲 Clasificación y Optimización
 > 
 > **Problema:** Analizar forma cuadrática f(x) = x^T Ax
 > 
@@ -485,7 +485,7 @@ graph TB
 
 ### 🔬 Análisis de Componentes Principales (PCA)
 
-> [!success]- 📊 Reducción de Dimensionalidad
+> [!success] 📊 Reducción de Dimensionalidad
 > 
 > **Contexto:**
 > 
@@ -557,7 +557,7 @@ graph TB
 
 ### ⚛️ Mecánica Cuántica
 
-> [!note]- 🌌 Operadores Hermitianos
+> [!note] 🌌 Operadores Hermitianos
 > 
 > **Contexto físico:**
 > 
@@ -623,7 +623,7 @@ graph TB
 
 ### 🔄 Sistemas Dinámicos
 
-> [!tip]- 📐 Ecuaciones Diferenciales
+> [!tip] 📐 Ecuaciones Diferenciales
 > 
 > **Sistema lineal:**
 > 
@@ -679,7 +679,7 @@ graph TB
 
 ### 🌐 Matrices Hermitianas
 
-> [!note]- ℂ Versión Compleja
+> [!note] ℂ Versión Compleja
 > 
 > **Definición:**
 > 
@@ -743,7 +743,7 @@ graph TB
 
 ### 🔄 Operadores Normales
 
-> [!example]- 🎭 Clase Más General
+> [!example] 🎭 Clase Más General
 > 
 > **Definición:**
 > 
@@ -814,7 +814,7 @@ graph TB
 
 ### 🔢 Algoritmos para Diagonalización
 
-> [!tip]- ⚙️ Métodos Numéricos
+> [!tip] ⚙️ Métodos Numéricos
 > 
 > **1. Método de la potencia (Power Iteration)**
 > 
@@ -897,7 +897,7 @@ graph TB
 
 ### 🎯 Estabilidad Numérica
 
-> [!success]- 🛡️ Consideraciones Prácticas
+> [!success] 🛡️ Consideraciones Prácticas
 > 
 > **Condicionamiento:**
 > 
@@ -964,7 +964,7 @@ graph TB
 
 ### 📝 Ejercicios Básicos
 
-> [!example]- 🎯 Diagonalización Simple
+> [!example] 🎯 Diagonalización Simple
 > 
 > **Ejercicio 1: Verificar simetría y encontrar descomposición espectral**
 > 
@@ -1066,7 +1066,7 @@ graph TB
 
 ### 🔬 Ejercicios Intermedios
 
-> [!tip]- 📊 Aplicaciones
+> [!tip] 📊 Aplicaciones
 > 
 > **Ejercicio 3: Matriz de covarianza**
 > 
@@ -1143,7 +1143,7 @@ graph TB
 
 ### 🎓 Problemas Avanzados
 
-> [!note]- 🏆 Teoría y Demostraciones
+> [!note] 🏆 Teoría y Demostraciones
 > 
 > **Problema 5: Demostrar fórmula de traza**
 > 
@@ -1232,7 +1232,7 @@ graph TB
 
 ## 📚 Resumen y Conclusiones
 
-> [!success]- 🎯 Puntos Clave
+> [!success] 🎯 Puntos Clave
 > 
 > **Teorema espectral - Enunciado:**
 > 

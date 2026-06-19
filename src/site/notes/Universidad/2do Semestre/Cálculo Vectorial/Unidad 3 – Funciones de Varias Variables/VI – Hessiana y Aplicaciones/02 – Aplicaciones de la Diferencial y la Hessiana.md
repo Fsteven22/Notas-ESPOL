@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Por qué estudiar la Diferencial y la Hessiana?
+> [!info] 💡 ¿Por qué estudiar la Diferencial y la Hessiana?
 > 
 > La **diferencial** y la **matriz Hessiana** son herramientas fundamentales que extienden conceptos del cálculo de una variable al mundo multivariable, permitiéndonos:
 > 
@@ -43,7 +43,7 @@
 
 ### 🔍 Definición y Concepto
 
-> [!example]- 🟢 Definición: La Diferencial
+> [!example] 🟢 Definición: La Diferencial
 > 
 > **Definición:** Para una función diferenciable $f: \mathbb{R}^n \to \mathbb{R}$, la **diferencial** de $f$ en el punto $\mathbf{a}$ es la transformación lineal:
 > 
@@ -70,7 +70,7 @@
 > - $df = \nabla f \cdot d\mathbf{r}$ donde $d\mathbf{r} = (dx, dy, dz)$
 > - $df = \sum_{i=1}^n \frac{\partial f}{\partial x_i}dx_i$
 
-> [!note]- 🎯 Interpretación Geométrica de la Diferencial
+> [!note] 🎯 Interpretación Geométrica de la Diferencial
 > 
 > ### En dos variables
 > 
@@ -105,7 +105,7 @@
 
 ### 📊 Propiedades de la Diferencial
 
-> [!tip]- ✅ Propiedades Algebraicas
+> [!tip] ✅ Propiedades Algebraicas
 > 
 > La diferencial es **lineal** y satisface:
 > 
@@ -151,7 +151,7 @@
 
 ### Ejemplo 1: Diferencial de Polinomio
 
-> [!example]- 📝 Ejemplo 1: Función Polinomial
+> [!example] 📝 Ejemplo 1: Función Polinomial
 > 
 > **Función:** $$f(x,y) = x^3 + 2x^2y + 3y^2$$
 > 
@@ -171,7 +171,7 @@
 
 ### Ejemplo 2: Función Exponencial
 
-> [!example]- 📝 Ejemplo 2: Con Exponencial
+> [!example] 📝 Ejemplo 2: Con Exponencial
 > 
 > **Función:** $$f(x,y) = e^{xy}$$
 > 
@@ -191,7 +191,7 @@
 
 ### Ejemplo 3: Función con Logaritmo
 
-> [!example]- 📝 Ejemplo 3: Función Logarítmica
+> [!example] 📝 Ejemplo 3: Función Logarítmica
 > 
 > **Función:** $$f(x,y) = \ln(x^2 + y^2)$$
 > 
@@ -211,7 +211,7 @@
 
 ### Ejemplo 4: Tres Variables
 
-> [!example]- 📝 Ejemplo 4: Función de Tres Variables
+> [!example] 📝 Ejemplo 4: Función de Tres Variables
 > 
 > **Función:** $$f(x,y,z) = x^2yz + \sin(xyz)$$
 > 
@@ -235,7 +235,7 @@
 
 ### 🌡️ Aplicación 1: Propagación de Errores
 
-> [!example]- 📊 Ejemplo: Error en Mediciones
+> [!example] 📊 Ejemplo: Error en Mediciones
 > 
 > **Situación:** Medimos el radio $r = 5$ cm (con error $\pm 0.1$ cm) y altura $h = 10$ cm (con error $\pm 0.2$ cm) de un cilindro.
 > 
@@ -266,7 +266,7 @@
 
 ### 💰 Aplicación 2: Economía - Productividad Marginal
 
-> [!example]- 📈 Ejemplo: Función de Producción
+> [!example] 📈 Ejemplo: Función de Producción
 > 
 > **Situación:** Una empresa tiene función de producción Cobb-Douglas: $$P(K, L) = 10K^{0.4}L^{0.6}$$
 > 
@@ -292,7 +292,7 @@
 
 ### 🌍 Aplicación 3: Física - Energía
 
-> [!example]- ⚡ Ejemplo: Energía Cinética Relativista
+> [!example] ⚡ Ejemplo: Energía Cinética Relativista
 > 
 > **Situación:** La energía cinética relativista es: $$E(m, v) = \frac{mc^2}{\sqrt{1 - v^2/c^2}} - mc^2$$
 > 
@@ -323,7 +323,7 @@
 
 ### 🔍 Definición
 
-> [!example]- 🟡 Definición: Matriz Hessiana
+> [!example] 🟡 Definición: Matriz Hessiana
 > 
 > **Definición:** Para una función $f: \mathbb{R}^n \to \mathbb{R}$ de clase $C^2$, la **matriz Hessiana** en el punto $\mathbf{a}$ es:
 > 
@@ -347,7 +347,7 @@
 > - Generaliza la segunda derivada $f''(x)$ de una variable
 > - Es fundamental para clasificar **puntos críticos**
 
-> [!note]- 📊 Interpretación Geométrica
+> [!note] 📊 Interpretación Geométrica
 > 
 > ### Analogía con una variable
 > 
@@ -382,7 +382,7 @@
 
 ### Ejemplo 5: Hessiana de Polinomio
 
-> [!example]- 📝 Ejemplo 5: Función Cuadrática
+> [!example] 📝 Ejemplo 5: Función Cuadrática
 > 
 > **Función:** $$f(x,y) = x^2 + 2xy + 3y^2$$
 > 
@@ -410,7 +410,7 @@
 
 ### Ejemplo 6: Hessiana con Exponencial
 
-> [!example]- 📝 Ejemplo 6: Función Exponencial
+> [!example] 📝 Ejemplo 6: Función Exponencial
 > 
 > **Función:** $$f(x,y) = e^{x^2 + y^2}$$
 > 
@@ -440,7 +440,7 @@
 
 ### Ejemplo 7: Hessiana de Función Trigonométrica
 
-> [!example]- 📝 Ejemplo 7: Con Seno y Coseno
+> [!example] 📝 Ejemplo 7: Con Seno y Coseno
 > 
 > **Función:** $$f(x,y) = \sin(x)\cos(y)$$
 > 
@@ -464,7 +464,7 @@
 
 ### Ejemplo 8: Tres Variables
 
-> [!example]- 📝 Ejemplo 8: Función de Tres Variables
+> [!example] 📝 Ejemplo 8: Función de Tres Variables
 > 
 > **Función:** $$f(x,y,z) = x^2 + y^2 + z^2 + 2xy - xz$$
 > 
@@ -488,7 +488,7 @@
 
 ### 📊 Criterio del Determinante (2 Variables)
 
-> [!tip]- ✅ Criterio de la Segunda Derivada (Test de la Hessiana)
+> [!tip] ✅ Criterio de la Segunda Derivada (Test de la Hessiana)
 > 
 > Sea $f(x,y)$ una función de clase $C^2$ y $(x_0, y_0)$ un **punto crítico** (es decir, $\nabla f(x_0, y_0) = \mathbf{0}$).
 > 
@@ -566,7 +566,7 @@
 
 ### 🔬 Criterio de Sylvester (n Variables)
 
-> [!note]- 🟣 Criterio General: Menores Principales
+> [!note] 🟣 Criterio General: Menores Principales
 > 
 > Para funciones de $n$ variables, usamos los **menores principales** de la Hessiana.
 > 
@@ -606,7 +606,7 @@
 
 ### Ejemplo 9: Función Cuadrática Simple
 
-> [!example]- 📝 Ejemplo 9: Paraboloide
+> [!example] 📝 Ejemplo 9: Paraboloide
 > 
 > **Función:** $$f(x,y) = x^2 + y^2$$
 > 
@@ -632,7 +632,7 @@
 
 ### Ejemplo 10: Punto Silla Clásico
 
-> [!example]- 📝 Ejemplo 10: Silla de Montar
+> [!example] 📝 Ejemplo 10: Silla de Montar
 > 
 > **Función:** $$f(x,y) = x^2 - y^2$$
 > 
@@ -670,7 +670,7 @@
 
 ### Ejemplo 11: Función más Compleja
 
-> [!example]- 📝 Ejemplo 11: Múltiples Puntos Críticos
+> [!example] 📝 Ejemplo 11: Múltiples Puntos Críticos
 > 
 > **Función:** $$f(x,y) = x^3 + y^3 - 3xy$$
 > 
@@ -709,7 +709,7 @@
 
 ### Ejemplo 12: Tres Variables
 
-> [!example]- 📝 Ejemplo 12: Función en $\mathbb{R}^3$
+> [!example] 📝 Ejemplo 12: Función en $\mathbb{R}^3$
 > 
 > **Función:** $$f(x,y,z) = x^2 + 2y^2 + 3z^2 - 2xy$$
 > 
@@ -751,7 +751,7 @@
 
 ## 🎨 Aproximación de Taylor de Segundo Orden
 
-> [!note]- 📐 Fórmula de Taylor Multivariable
+> [!note] 📐 Fórmula de Taylor Multivariable
 > 
 > ### Aproximación de segundo orden
 > 
@@ -785,7 +785,7 @@
 
 ### Ejemplo 13: Taylor de Segundo Orden
 
-> [!example]- 📝 Ejemplo 13: Aproximación Cuadrática
+> [!example] 📝 Ejemplo 13: Aproximación Cuadrática
 > 
 > **Función:** $$f(x,y) = e^x \cos(y)$$
 > 
@@ -829,7 +829,7 @@
 
 ### 📊 Estrategia General
 
-> [!tip]- ✅ Pasos para Optimizar
+> [!tip] ✅ Pasos para Optimizar
 > 
 > Para encontrar **extremos** de $f(\mathbf{x})$:
 > 
@@ -874,7 +874,7 @@
 
 ### Ejemplo 14: Problema de Optimización
 
-> [!example]- 📝 Ejemplo 14: Minimizar Distancia
+> [!example] 📝 Ejemplo 14: Minimizar Distancia
 > 
 > **Problema:** Encontrar el punto en el plano $z = x + y + 1$ que está más cerca del origen.
 > 
@@ -920,7 +920,7 @@
 
 ### Ejemplo 15: Maximizar Producción
 
-> [!example]- 📝 Ejemplo 15: Economía - Función de Producción
+> [!example] 📝 Ejemplo 15: Economía - Función de Producción
 > 
 > **Situación:** Una empresa tiene función de producción: $$P(x,y) = 100x + 80y - x^2 - y^2 - xy$$
 > 
@@ -972,7 +972,7 @@
 
 ### 🤖 Machine Learning: Descenso de Gradiente
 
-> [!example]- 🧠 Aplicación: Optimización en ML
+> [!example] 🧠 Aplicación: Optimización en ML
 > 
 > **Contexto:** En machine learning, queremos minimizar una **función de pérdida** (loss function) $L(\mathbf{w})$ donde $\mathbf{w}$ son los parámetros del modelo.
 > 
@@ -1018,7 +1018,7 @@
 
 ### 🔬 Física: Estabilidad de Equilibrio
 
-> [!example]- ⚛️ Aplicación: Energía Potencial
+> [!example] ⚛️ Aplicación: Energía Potencial
 > 
 > **Contexto:** En física, un sistema en equilibrio está en un punto donde la energía potencial $U(\mathbf{r})$ tiene derivada cero.
 > 
@@ -1070,7 +1070,7 @@
 
 ### 📊 Economía: Análisis de Segundo Orden
 
-> [!example]- 💼 Aplicación: Teoría del Consumidor
+> [!example] 💼 Aplicación: Teoría del Consumidor
 > 
 > **Contexto:** Un consumidor tiene función de utilidad $U(x_1, x_2, \ldots, x_n)$ donde $x_i$ son cantidades de bienes.
 > 
@@ -1102,7 +1102,7 @@
 
 ### 🏗️ Ingeniería: Diseño Óptimo
 
-> [!example]- 🔧 Aplicación: Optimización Estructural
+> [!example] 🔧 Aplicación: Optimización Estructural
 > 
 > **Problema:** Diseñar una caja rectangular sin tapa con volumen fijo $V_0$ que minimice el área de material usado.
 > 
@@ -1158,7 +1158,7 @@
 
 ### 📐 Teorema del Valor Medio (Multivariable)
 
-> [!note]- 🟣 Teorema: Valor Medio Multivariable
+> [!note] 🟣 Teorema: Valor Medio Multivariable
 > 
 > **Enunciado:** Sea $f: \mathbb{R}^n \to \mathbb{R}$ diferenciable en un conjunto convexo abierto $D$. Si $\mathbf{a}, \mathbf{b} \in D$, entonces existe $\mathbf{c}$ en el segmento que une $\mathbf{a}$ y $\mathbf{b}$ tal que:
 > 
@@ -1180,7 +1180,7 @@
 
 ### 🎯 Teorema de Taylor Multivariable
 
-> [!note]- 🟡 Teorema: Fórmula de Taylor con Resto
+> [!note] 🟡 Teorema: Fórmula de Taylor con Resto
 > 
 > **Enunciado:** Sea $f: \mathbb{R}^n \to \mathbb{R}$ de clase $C^{k+1}$ en una bola alrededor de $\mathbf{a}$. Entonces para $\mathbf{x}$ en esa bola:
 > 
@@ -1206,7 +1206,7 @@
 
 ### 🔬 Condiciones de Optimalidad
 
-> [!note]- 🟢 Teorema: Condiciones Necesarias y Suficientes
+> [!note] 🟢 Teorema: Condiciones Necesarias y Suficientes
 > 
 > ### Condiciones Necesarias (Primer Orden)
 > 
@@ -1251,7 +1251,7 @@
 
 ## 📊 Tabla Resumen: Criterios de Clasificación
 
-> [!note]- 📋 Referencia Rápida
+> [!note] 📋 Referencia Rápida
 > 
 > ### Para dos variables $f(x,y)$
 > 
@@ -1291,7 +1291,7 @@
 
 ## 💡 Trucos y Técnicas Útiles
 
-> [!tip]- 🎯 Estrategias para Simplificar Cálculos
+> [!tip] 🎯 Estrategias para Simplificar Cálculos
 > 
 > ### Truco 1: Identificar simetrías
 > 
@@ -1352,7 +1352,7 @@
 
 ## 🎨 Visualización de Conceptos
 
-> [!note]- 🖼️ Interpretación Gráfica Avanzada
+> [!note] 🖼️ Interpretación Gráfica Avanzada
 > 
 > ### Curvas de nivel y Hessiana
 > 
@@ -1417,7 +1417,7 @@
 
 ## 🎓 Ejercicios Propuestos
 
-> [!example]- 💪 Práctica Nivel Básico
+> [!example] 💪 Práctica Nivel Básico
 > 
 > **1. Calcular diferenciales:**
 > 
@@ -1445,7 +1445,7 @@
 > 
 > b) $f(x,y) = e^{xy}$ cerca de $(0, 0)$ para estimar $f(0.1, 0.1)$
 
-> [!example]- 💪 Práctica Nivel Intermedio
+> [!example] 💪 Práctica Nivel Intermedio
 > 
 > **4. Clasificar puntos críticos:**
 > 
@@ -1471,7 +1471,7 @@
 > 
 > b) Minimizar $f(x,y) = x^2 + 2y^2 + 2xy + 2x - 3y$
 
-> [!example]- 💪 Práctica Nivel Avanzado
+> [!example] 💪 Práctica Nivel Avanzado
 > 
 > **7. Tres variables:**
 > 
@@ -1507,7 +1507,7 @@
 
 ## ✅ Soluciones Selectas
 
-> [!success]- 🔑 Respuestas Ejercicios Básicos
+> [!success] 🔑 Respuestas Ejercicios Básicos
 > 
 > **1a)** $f(x,y) = x^3y + xy^2$
 > 
@@ -1531,7 +1531,7 @@
 > 
 > ¡Excelente aproximación!
 
-> [!success]- 🔑 Respuestas Ejercicios Intermedios
+> [!success] 🔑 Respuestas Ejercicios Intermedios
 > 
 > **4a)** $f(x,y) = x^2 + xy + y^2 - 3x - 6y$
 > 
@@ -1574,7 +1574,7 @@
 > 
 > $$\boxed{\text{Mínimo en } \left(-\frac{7}{2}, \frac{5}{2}\right)}$$
 
-> [!success]- 🔑 Respuestas Ejercicios Avanzados
+> [!success] 🔑 Respuestas Ejercicios Avanzados
 > 
 > **7a)** $f(x,y,z) = x^2 + y^2 + z^2 + 2xy - 4z$
 > 
@@ -1640,7 +1640,7 @@
 
 ## 🌟 Conceptos Clave para Recordar
 
-> [!tip]- 💡 Puntos Esenciales
+> [!tip] 💡 Puntos Esenciales
 > 
 > ### Sobre la Diferencial
 > 
@@ -1718,7 +1718,7 @@
 
 ## 🔗 Conexiones con Otros Temas
 
-> [!quote]- 🌐 Relaciones Importantes
+> [!quote] 🌐 Relaciones Importantes
 > 
 > **Este tema conecta con:**
 > 
@@ -1746,7 +1746,7 @@
 
 ## 📝 Formulario de Referencia Rápida
 
-> [!note]- 📋 Fórmulas Importantes
+> [!note] 📋 Fórmulas Importantes
 > 
 > ### Diferencial
 > 
@@ -1795,7 +1795,7 @@
 
 ## 💭 Reflexiones Finales
 
-> [!note]- 🎯 Para Profundizar
+> [!note] 🎯 Para Profundizar
 > 
 > ### Importancia Conceptual
 > 
@@ -1857,7 +1857,7 @@
 
 ## 🎨 Ejemplo Integrador Completo
 
-> [!example]- 🌟 Problema Completo: Análisis Exhaustivo
+> [!example] 🌟 Problema Completo: Análisis Exhaustivo
 > 
 > **Función:** $$f(x,y) = x^3 - 3x + y^2 - 2y$$
 > 
@@ -1971,7 +1971,7 @@
 
 ## 📚 Referencias y Lectura Adicional
 
-> [!note]- 📖 Para Seguir Aprendiendo
+> [!note] 📖 Para Seguir Aprendiendo
 > 
 > ### Libros Recomendados
 > 

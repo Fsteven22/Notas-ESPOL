@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción al Producto Interno
 
-> [!info]- 💡 ¿Qué es un Producto Interno?
+> [!info] 💡 ¿Qué es un Producto Interno?
 > 
 > El **producto interno** es una operación que toma dos vectores y produce un número (escalar). Generaliza el concepto del "producto punto" que conocemos de $\mathbb{R}^n$ a espacios vectoriales más abstractos.
 > 
@@ -36,7 +36,7 @@
 
 ## 📋 Definición Formal
 
-> [!note]- 🔷 Axiomas del Producto Interno
+> [!note] 🔷 Axiomas del Producto Interno
 > 
 > Sea $V$ un espacio vectorial sobre $\mathbb{R}$ (o $\mathbb{C}$). Un **producto interno** en $V$ es una función:
 > 
@@ -90,7 +90,7 @@
 
 ### 📊 Ejemplo 1: Producto Punto Euclidiano en $\mathbb{R}^n$
 
-> [!example]- 🎯 El Ejemplo Clásico
+> [!example] 🎯 El Ejemplo Clásico
 > 
 > **Definición:**
 > 
@@ -134,7 +134,7 @@
 
 ### 📊 Ejemplo 2: Producto Interno Ponderado en $\mathbb{R}^n$
 
-> [!example]- ⚖️ Asignando Importancia Diferente
+> [!example] ⚖️ Asignando Importancia Diferente
 > 
 > **Definición:**
 > 
@@ -185,7 +185,7 @@
 
 ### 📊 Ejemplo 3: Producto Interno en $C[a,b]$
 
-> [!example]- 📈 Funciones Continuas
+> [!example] 📈 Funciones Continuas
 > 
 > **Definición:**
 > 
@@ -254,7 +254,7 @@
 
 ### 📊 Ejemplo 4: Producto Interno con Función Peso
 
-> [!example]- 🎚️ Pesos Variables
+> [!example] 🎚️ Pesos Variables
 > 
 > **Definición:**
 > 
@@ -305,7 +305,7 @@
 
 ### 📊 Ejemplo 5: Producto de Frobenius en Matrices
 
-> [!example]- 📐 Matrices como Vectores
+> [!example] 📐 Matrices como Vectores
 > 
 > **Definición:**
 > 
@@ -361,7 +361,7 @@
 
 ## 🔍 Propiedades Derivadas
 
-> [!success]- ⚡ Consecuencias de los Axiomas
+> [!success] ⚡ Consecuencias de los Axiomas
 > 
 > De los cuatro axiomas fundamentales, podemos derivar propiedades adicionales importantes:
 > 
@@ -458,7 +458,7 @@
 
 ## 🎨 Visualización Geométrica
 
-> [!tip]- 🗺️ Interpretación Geométrica del Producto Interno
+> [!tip] 🗺️ Interpretación Geométrica del Producto Interno
 > 
 > ### Ángulo entre Vectores
 > 
@@ -505,7 +505,7 @@
 
 ## 🔬 Verificación de Productos Internos
 
-> [!warning]- ✅ ¿Cómo Verificar si una Función es un Producto Interno?
+> [!warning] ✅ ¿Cómo Verificar si una Función es un Producto Interno?
 > 
 > Para verificar que una función $\langle \cdot, \cdot \rangle$ es un producto interno válido, debemos verificar los **cuatro axiomas**.
 > 
@@ -555,7 +555,7 @@
 
 ## 📚 Ejemplos Adicionales
 
-> [!example]- 🔢 Más Ejemplos Trabajados
+> [!example] 🔢 Más Ejemplos Trabajados
 > 
 > ### Ejemplo 6: Producto Interno en $\mathbb{C}^n$
 > 
@@ -632,7 +632,7 @@
 
 ## 🎯 Aplicaciones del Producto Interno
 
-> [!quote]- 🌍 Usos en el Mundo Real
+> [!quote] 🌍 Usos en el Mundo Real
 > 
 > ### 1. Geometría y Visualización
 > 
@@ -693,7 +693,7 @@
 
 ## 🧩 Ejercicios Propuestos
 
-> [!example]- 💪 Práctica Guiada
+> [!example] 💪 Práctica Guiada
 > 
 > ### Nivel Básico
 > 
@@ -731,7 +731,7 @@
 
 ## 📖 Resumen del Capítulo
 
-> [!abstract]- 📝 Puntos Clave
+> [!abstract] 📝 Puntos Clave
 > 
 > ### Conceptos Fundamentales
 > 

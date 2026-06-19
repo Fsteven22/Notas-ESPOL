@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 De Producto Interno a Geometría
+> [!info] 💡 De Producto Interno a Geometría
 > 
 > Una vez que tenemos un producto interno en un espacio vectorial, automáticamente obtenemos dos conceptos geométricos fundamentales:
 > 
@@ -47,7 +47,7 @@
 
 ### 🔍 Definición
 
-> [!note]- 📏 ¿Qué es la Norma?
+> [!note] 📏 ¿Qué es la Norma?
 > 
 > Sea $V$ un espacio vectorial con producto interno $\langle \cdot, \cdot \rangle$. La **norma inducida** de un vector $\mathbf{v} \in V$ es:
 > 
@@ -76,7 +76,7 @@
 
 ### ⚖️ Axiomas de la Norma
 
-> [!success]- ✅ Propiedades que debe Satisfacer
+> [!success] ✅ Propiedades que debe Satisfacer
 > 
 > Toda norma inducida por un producto interno satisface las siguientes propiedades para todo $\mathbf{u}, \mathbf{v} \in V$ y todo escalar $\alpha$:
 > 
@@ -110,7 +110,7 @@
 
 ### 📊 Demostración de Propiedades
 
-> [!example]- 🔍 Pruebas de los Axiomas
+> [!example] 🔍 Pruebas de los Axiomas
 > 
 > **Demostración N1 (No negatividad):**
 > 
@@ -147,7 +147,7 @@
 
 ### 📊 Ejemplo 1: Norma Euclidiana en $\mathbb{R}^n$
 
-> [!example]- 📐 La Norma Más Común
+> [!example] 📐 La Norma Más Común
 > 
 > **Producto interno:** $\langle \mathbf{u}, \mathbf{v} \rangle = \sum_{i=1}^n u_i v_i$
 > 
@@ -198,7 +198,7 @@
 
 ### 📊 Ejemplo 2: Norma Ponderada en $\mathbb{R}^n$
 
-> [!example]- ⚖️ Con Pesos Diferentes
+> [!example] ⚖️ Con Pesos Diferentes
 > 
 > **Producto interno ponderado:** $\langle \mathbf{u}, \mathbf{v} \rangle_w = \sum_{i=1}^n w_i u_i v_i$ con $w_i > 0$
 > 
@@ -239,7 +239,7 @@
 
 ### 📊 Ejemplo 3: Norma $L^2$ en $C[a,b]$
 
-> [!example]- 📈 Norma de Funciones
+> [!example] 📈 Norma de Funciones
 > 
 > **Producto interno:** $\langle f, g \rangle = \int_a^b f(x)g(x) , dx$
 > 
@@ -286,7 +286,7 @@
 
 ### 📊 Ejemplo 4: Norma de Frobenius
 
-> [!example]- 🔲 Norma de Matrices
+> [!example] 🔲 Norma de Matrices
 > 
 > **Producto interno de Frobenius:** $\langle A, B \rangle = \text{tr}(A^T B) = \sum_{i,j} a_{ij}b_{ij}$
 > 
@@ -327,7 +327,7 @@
 
 ### 🔍 Definición
 
-> [!note]- 🗺️ Midiendo Separación entre Vectores
+> [!note] 🗺️ Midiendo Separación entre Vectores
 > 
 > Sea $V$ un espacio con producto interno y norma inducida $|\cdot|$. La **distancia** entre dos vectores $\mathbf{u}, \mathbf{v} \in V$ es:
 > 
@@ -353,7 +353,7 @@
 
 ### ⚖️ Axiomas de la Métrica
 
-> [!success]- ✅ Propiedades de la Distancia
+> [!success] ✅ Propiedades de la Distancia
 > 
 > La distancia inducida satisface los axiomas de una **métrica**:
 > 
@@ -383,7 +383,7 @@
 
 ### 📊 Demostración de Propiedades
 
-> [!example]- 🔍 Pruebas de los Axiomas
+> [!example] 🔍 Pruebas de los Axiomas
 > 
 > **Demostración M1 (No negatividad):**
 > 
@@ -417,7 +417,7 @@
 
 ### 📊 Ejemplo 1: Distancia Euclidiana en $\mathbb{R}^n$
 
-> [!example]- 📐 La Distancia Estándar
+> [!example] 📐 La Distancia Estándar
 > 
 > **Fórmula:**
 > 
@@ -465,7 +465,7 @@
 
 ### 📊 Ejemplo 2: Distancia entre Funciones
 
-> [!example]- 📈 Distancia $L^2$
+> [!example] 📈 Distancia $L^2$
 > 
 > **Fórmula:**
 > 
@@ -500,7 +500,7 @@
 
 ### 📊 Ejemplo 3: Distancia de Frobenius entre Matrices
 
-> [!example]- 🔲 Distancia entre Matrices
+> [!example] 🔲 Distancia entre Matrices
 > 
 > **Fórmula:**
 > 
@@ -528,7 +528,7 @@
 
 ## 🔗 Relaciones entre Norma y Distancia
 
-> [!tip]- 🎨 Conexiones Importantes
+> [!tip] 🎨 Conexiones Importantes
 > 
 > ### Relación Fundamental
 > 
@@ -569,7 +569,7 @@
 
 ## 📊 Propiedades Adicionales
 
-> [!note]- 🔍 Más Relaciones Útiles
+> [!note] 🔍 Más Relaciones Útiles
 > 
 > ### Norma de la Suma y Diferencia
 > 
@@ -612,7 +612,7 @@
 
 ## 🎯 Visualización Geométrica
 
-> [!quote]- 🗺️ Interpretación Gráfica
+> [!quote] 🗺️ Interpretación Gráfica
 > 
 > ### En $\mathbb{R}^2$
 > 
@@ -659,7 +659,7 @@
 
 ## 🧩 Ejercicios Propuestos
 
-> [!example]- 💪 Práctica Guiada
+> [!example] 💪 Práctica Guiada
 > 
 > ### Nivel Básico
 > 
@@ -706,7 +706,7 @@
 
 ## 📖 Resumen del Capítulo
 
-> [!abstract]- 📝 Puntos Clave
+> [!abstract] 📝 Puntos Clave
 > 
 > ### Conceptos Fundamentales
 > 
@@ -757,7 +757,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es la Desigualdad Triangular?
+> [!info] 💡 ¿Qué es la Desigualdad Triangular?
 > 
 > La **desigualdad triangular** es un principio fundamental en matemáticas que establece una relación entre las longitudes de los lados de un triángulo y las normas de vectores. Este concepto tiene aplicaciones profundas en álgebra lineal, análisis funcional, geometría y ciencias de la computación.
 > 
@@ -798,7 +798,7 @@ graph TD
 
 ### 📐 Definición Matemática
 
-> [!example]- 📝 Formulación en Diferentes Contextos
+> [!example] 📝 Formulación en Diferentes Contextos
 > 
 > **1. En espacios vectoriales con norma:**
 > 
@@ -857,7 +857,7 @@ graph TB
 
 ### 🔍 Interpretación Geométrica
 
-> [!note]- 🎨 Visualización en el Plano
+> [!note] 🎨 Visualización en el Plano
 > 
 > **Representación en ℝ²:**
 > 
@@ -932,7 +932,7 @@ graph TD
 
 ### 📚 Demostración usando Desigualdad de Cauchy-Schwarz
 
-> [!success]- 🎓 Prueba Rigurosa
+> [!success] 🎓 Prueba Rigurosa
 > 
 > **Teorema previo necesario:** Desigualdad de Cauchy-Schwarz
 > 
@@ -1032,7 +1032,7 @@ graph TD
 
 ### 🔢 Demostración en ℝⁿ con Norma Euclidiana
 
-> [!example]- 📐 Caso Específico para Vectores Numéricos
+> [!example] 📐 Caso Específico para Vectores Numéricos
 > 
 > **Datos:** u = (u₁, u₂, ..., uₙ), v = (v₁, v₂, ..., vₙ) ∈ ℝⁿ
 > 
@@ -1095,7 +1095,7 @@ graph TD
 
 ### 📋 Propiedades Fundamentales
 
-> [!note]- 🔑 Características Esenciales
+> [!note] 🔑 Características Esenciales
 > 
 > **1. Propiedad de simetría**
 > 
@@ -1175,7 +1175,7 @@ graph TD
 
 ### 🔄 Variantes Importantes
 
-> [!tip]- 🌟 Formas Alternativas
+> [!tip] 🌟 Formas Alternativas
 > 
 > **1. Desigualdad triangular para distancias**
 > 
@@ -1246,7 +1246,7 @@ graph LR
 
 ### 📊 Análisis de Errores Numéricos
 
-> [!warning]- ⚠️ Propagación de Errores
+> [!warning] ⚠️ Propagación de Errores
 > 
 > **Contexto:** En cálculos numéricos, los errores se acumulan. La desigualdad triangular proporciona cotas superiores.
 > 
@@ -1303,7 +1303,7 @@ graph LR
 
 ### 📈 Tabla de Casos Especiales
 
-> [!note]- 🔍 Comportamiento en Diferentes Escenarios
+> [!note] 🔍 Comportamiento en Diferentes Escenarios
 > 
 > |Caso|Condición|Relación|Factor|Interpretación Geométrica|
 > |---|---|---|---|---|
@@ -1316,7 +1316,7 @@ graph LR
 
 ### 🎓 Comparación con Otras Desigualdades
 
-> [!tip]- 🌟 Relación con Desigualdades Famosas
+> [!tip] 🌟 Relación con Desigualdades Famosas
 > 
 > **1. Conexión con Cauchy-Schwarz:**
 > 
@@ -1356,7 +1356,7 @@ graph TD
 
 ### 📚 Consecuencias Importantes
 
-> [!success]- 🎓 Teoremas que Dependen de la Desigualdad Triangular
+> [!success] 🎓 Teoremas que Dependen de la Desigualdad Triangular
 > 
 > **1. Continuidad de la norma:**
 > 
@@ -1407,7 +1407,7 @@ graph TD
 
 ### 🎯 Aplicaciones Teóricas
 
-> [!example]- 🔭 Uso en Demostraciones
+> [!example] 🔭 Uso en Demostraciones
 > 
 > **1. Espacios completos (Banach):**
 > 
@@ -1449,7 +1449,7 @@ graph TD
 
 ### 📝 Nivel Básico
 
-> [!example]- ✏️ Ejercicio 1: Verificación Directa
+> [!example] ✏️ Ejercicio 1: Verificación Directa
 > 
 > **Enunciado:** Verificar la desigualdad triangular para:
 > 
@@ -1501,7 +1501,7 @@ graph TD
 > 
 > **Respuesta:** La desigualdad se cumple. ✓
 
-> [!example]- ✏️ Ejercicio 2: Caso de Igualdad
+> [!example] ✏️ Ejercicio 2: Caso de Igualdad
 > 
 > **Enunciado:** Encontrar λ tal que para u = (2, 1) y v = (λ·2, λ·1), se alcance la igualdad en la desigualdad triangular.
 > 
@@ -1530,7 +1530,7 @@ graph TD
 
 ### 🎓 Nivel Intermedio
 
-> [!example]- ✏️ Ejercicio 3: Desigualdad con Tres Vectores
+> [!example] ✏️ Ejercicio 3: Desigualdad con Tres Vectores
 > 
 > **Enunciado:** Demostrar que para u, v, w en ℝⁿ:
 > 
@@ -1568,7 +1568,7 @@ graph TD
 > 
 > **Respuesta:** Queda demostrado por inducción matemática. ∎
 
-> [!example]- ✏️ Ejercicio 4: Aplicación Práctica
+> [!example] ✏️ Ejercicio 4: Aplicación Práctica
 > 
 > **Enunciado:** Una persona camina 3 km al este, luego 4 km al norte. ¿Cuál es la distancia mínima al punto de partida? ¿Se cumple la desigualdad triangular?
 > 
@@ -1614,7 +1614,7 @@ graph TD
 
 ### 🏆 Nivel Avanzado
 
-> [!example]- ✏️ Ejercicio 5: Desigualdad Triangular Inversa
+> [!example] ✏️ Ejercicio 5: Desigualdad Triangular Inversa
 > 
 > **Enunciado:** Demostrar la desigualdad triangular inversa:
 > 
@@ -1663,7 +1663,7 @@ graph TD
 > 
 > **Respuesta:** Queda demostrado. ∎
 
-> [!example]- ✏️ Ejercicio 6: Optimización con Restricciones
+> [!example] ✏️ Ejercicio 6: Optimización con Restricciones
 > 
 > **Enunciado:** Dados u, v ∈ ℝ² con ||u|| = 3, ||v|| = 4, encontrar el valor máximo y mínimo posibles para ||u + v||.
 > 
@@ -1726,7 +1726,7 @@ graph TD
 
 ## 📖 Resumen y Conclusiones
 
-> [!success]- 🎯 Puntos Clave
+> [!success] 🎯 Puntos Clave
 > 
 > **Conceptos Fundamentales:**
 > 
@@ -1770,7 +1770,7 @@ graph TD
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Continuando el Aprendizaje
+> [!quote] 🌟 Continuando el Aprendizaje
 > 
 > **Has dominado:**
 > 

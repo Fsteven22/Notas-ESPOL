@@ -7,7 +7,7 @@
 
 ## 🎯 Fundamentos del Producto Cruz
 
-> [!info]- 💡 Introducción al Producto Vectorial El **producto cruz** (también llamado **producto vectorial**) es una operación entre dos vectores en ℝ³ que resulta en un **nuevo vector perpendicular** a ambos vectores originales. Es fundamental en física, ingeniería y geometría espacial.
+> [!info] 💡 Introducción al Producto Vectorial El **producto cruz** (también llamado **producto vectorial**) es una operación entre dos vectores en ℝ³ que resulta en un **nuevo vector perpendicular** a ambos vectores originales. Es fundamental en física, ingeniería y geometría espacial.
 > 
 > **Analogías útiles:**
 > 
@@ -35,7 +35,7 @@
 
 ### 📝 Definición Formal
 
-> [!note]- 🌟 Concepto Matemático del Producto Cruz **Definición algebraica:**
+> [!note] 🌟 Concepto Matemático del Producto Cruz **Definición algebraica:**
 > 
 > Dados dos vectores **u** = (u₁, u₂, u₃) y **v** = (v₁, v₂, v₃) en ℝ³, su producto cruz es:
 > 
@@ -68,7 +68,7 @@
 
 ### 🔢 Cálculo del Producto Cruz
 
-> [!example]- 📊 Método del Determinante **Método práctico:**
+> [!example] 📊 Método del Determinante **Método práctico:**
 > 
 > **Paso 1:** Formar el determinante 3×3
 > 
@@ -155,7 +155,7 @@
 
 ### ✋ Determinación del Sentido
 
-> [!tip]- 👉 Método Visual **La regla de la mano derecha determina el sentido de u × v:**
+> [!tip] 👉 Método Visual **La regla de la mano derecha determina el sentido de u × v:**
 > 
 > **Método 1 - Dedos curvados:**
 > 
@@ -199,7 +199,7 @@
 
 ### 🔄 Productos de Vectores Base
 
-> [!success]- 📐 Tabla de Productos Cruz Básicos
+> [!success] 📐 Tabla de Productos Cruz Básicos
 > 
 > **Vectores base:** i = (1,0,0), j = (0,1,0), k = (0,0,1)
 > 
@@ -239,7 +239,7 @@
 
 ### ⚖️ Propiedades Algebraicas
 
-> [!note]- 🔢 Propiedades Fundamentales **1. Anticonmutativa:**
+> [!note] 🔢 Propiedades Fundamentales **1. Anticonmutativa:**
 > 
 > ```
 > u × v = -(v × u)
@@ -295,7 +295,7 @@
 
 ### 🎯 Propiedades Geométricas
 
-> [!warning]- 📏 Interpretación Geométrica **1. Perpendicularidad:**
+> [!warning] 📏 Interpretación Geométrica **1. Perpendicularidad:**
 > 
 > ```
 > (u × v) ⊥ u
@@ -345,7 +345,7 @@
 
 ### 🔺 Área de Triángulos
 
-> [!success]- 📐 Fórmula del Área **Dados tres puntos A, B, C en ℝ³:**
+> [!success] 📐 Fórmula del Área **Dados tres puntos A, B, C en ℝ³:**
 > 
 > **Método 1 - Usando vectores:**
 > 
@@ -393,7 +393,7 @@
 
 ### ▱ Área de Paralelogramos
 
-> [!info]- 📐 Paralelogramo Formado por Vectores **Dados dos vectores u y v:**
+> [!info] 📐 Paralelogramo Formado por Vectores **Dados dos vectores u y v:**
 > 
 > **Área del paralelogramo:**
 > 
@@ -446,7 +446,7 @@
 
 ### 🔷 Área de Polígonos Generales
 
-> [!tip]- 🔢 Polígonos en el Espacio **Para un polígono con vértices P₁, P₂, ..., Pₙ:**
+> [!tip] 🔢 Polígonos en el Espacio **Para un polígono con vértices P₁, P₂, ..., Pₙ:**
 > 
 > **Método de triangulación:**
 > 
@@ -484,7 +484,7 @@
 
 ### 🔄 Momento de una Fuerza (Torque)
 
-> [!warning]- 🔧 Torque Vectorial **Definición:**
+> [!warning] 🔧 Torque Vectorial **Definición:**
 > 
 > El momento τ⃗ (torque) de una fuerza \vec{F} aplicada en un punto, respecto a un punto de referencia O, es:
 > 
@@ -536,7 +536,7 @@
 
 ### 🧲 Fuerza Magnética
 
-> [!info]- ⚡ Fuerza de Lorentz **La fuerza sobre una carga en movimiento en un campo magnético:**
+> [!info] ⚡ Fuerza de Lorentz **La fuerza sobre una carga en movimiento en un campo magnético:**
 > **\vec{F} = q(\vec{v} × \vec{B})**
 > 
 > Donde:
@@ -585,7 +585,7 @@
 
 ### 🌊 Momento Angular
 
-> [!success]- 🔄 Cantidad de Movimiento Angular **Definición:**
+> [!success] 🔄 Cantidad de Movimiento Angular **Definición:**
 > 
 > El momento angular \vec{L} de una partícula respecto a un punto O es:
 > 
@@ -636,7 +636,7 @@
 
 ### 📦 Volumen de Paralelepípedos
 
-> [!note]- 🎲 Triple Producto Escalar **Definición:**
+> [!note] 🎲 Triple Producto Escalar **Definición:**
 > 
 > El producto triple escalar de tres vectores u, v, w es:
 > 
@@ -705,7 +705,7 @@
 
 ### 🔺 Volumen de Tetraedros
 
-> [!example]- 📐 Pirámide Triangular **Dado un tetraedro con vértices A, B, C, D:**
+> [!example] 📐 Pirámide Triangular **Dado un tetraedro con vértices A, B, C, D:**
 > 
 > **Volumen = (1/6)|A\vec{B} · (A\vec{C} × A\vec{D})|**
 > 
@@ -743,7 +743,7 @@
 
 ### 📐 Vector Normal a un Plano
 
-> [!tip]- ⊥ Perpendicular al Plano **Dados dos vectores u y v en un plano:**
+> [!tip] ⊥ Perpendicular al Plano **Dados dos vectores u y v en un plano:**
 > 
 > **Un vector perpendicular al plano es:** **\vec{n} = u × v**
 > 
@@ -798,7 +798,7 @@
 
 ### 📏 Distancia de Punto a Recta
 
-> [!success]- 📐 Distancia Perpendicular **Dados:**
+> [!success] 📐 Distancia Perpendicular **Dados:**
 > 
 > - Punto P
 > - Recta que pasa por Q con dirección \vec{v}
@@ -836,7 +836,7 @@
 
 ## 🔄 Identidades Vectoriales
 
-> [!note]- 🧮 Fórmulas Importantes **1. Producto vectorial triple (BAC-CAB):**
+> [!note] 🧮 Fórmulas Importantes **1. Producto vectorial triple (BAC-CAB):**
 > 
 > ```
 > u × (v × w) = v(u · w) - w(u · v)
@@ -871,7 +871,7 @@
 
 ## 🧪 Ejercicios Integrales
 
-> [!example]- 💪 Práctica Completa **Nivel 1 - Básico:** 🟢
+> [!example] 💪 Práctica Completa **Nivel 1 - Básico:** 🟢
 > 
 > 1. Calcular el producto cruz: a) u = (1, 2, 3) × v = (4, 5, 6) b) i × j c) k × i
 > 
@@ -1017,7 +1017,7 @@
 
 ## 💡 Consejos y Errores Comunes
 
-> [!tip]- 🧠 Estrategias de Aprendizaje **Para dominar el producto cruz:**
+> [!tip] 🧠 Estrategias de Aprendizaje **Para dominar el producto cruz:**
 > 
 > **1. Memorizar la fórmula del determinante:**
 > 
@@ -1082,7 +1082,7 @@
 
 ## 📊 Tabla Resumen
 
-> [!example]- 📋 Compendio Completo
+> [!example] 📋 Compendio Completo
 > 
 > |Concepto|Fórmula|Resultado|Aplicación|
 > |---|---|---|---|
@@ -1099,7 +1099,7 @@
 
 ## 🔗 Conexiones con el Sistema de Notas
 
-> [!quote]- 🌟 Enlaces Conceptuales **Prerequisites:**
+> [!quote] 🌟 Enlaces Conceptuales **Prerequisites:**
 > 
 > - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/I – Fundamentos del Espacio Tridimensional/02 - Vectores en R3\|02 - Vectores en R3]] - Base fundamental
 > - [[01 - Producto Punto y Ángulos\|01 - Producto Punto y Ángulos]] - Operación complementaria

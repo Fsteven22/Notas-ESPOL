@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué son las Superficies de Nivel?
+> [!info] 💡 ¿Qué son las Superficies de Nivel?
 > 
 > Las **superficies de nivel** son la extensión natural de las curvas de nivel a funciones de **tres variables**. Mientras que las curvas de nivel nos ayudan a visualizar funciones $f(x,y)$, las superficies de nivel nos permiten entender funciones $f(x,y,z)$.
 > 
@@ -38,7 +38,7 @@
 
 ### 🔵 Superficie de Nivel
 
-> [!example]- 🟢 Definición: Superficie de Nivel
+> [!example] 🟢 Definición: Superficie de Nivel
 > 
 > **Definición formal:** Sea $f: D \subseteq \mathbb{R}^3 \to \mathbb{R}$ una función de tres variables. La **superficie de nivel** de $f$ para el valor $k \in \mathbb{R}$ es el conjunto:
 > 
@@ -62,7 +62,7 @@
 
 ### 🎨 Familia de Superficies de Nivel
 
-> [!example]- 🟡 Familia de Superficies
+> [!example] 🟡 Familia de Superficies
 > 
 > **Definición:** Una **familia de superficies de nivel** es la colección de todas las superficies $S_k$ para diferentes valores de $k$ en el rango de $f$.
 > 
@@ -85,7 +85,7 @@
 
 ## 🔍 Relación con Curvas de Nivel
 
-> [!note]- 🔄 Comparación: Curvas vs Superficies
+> [!note] 🔄 Comparación: Curvas vs Superficies
 > 
 > |Aspecto|Curvas de Nivel|Superficies de Nivel|
 > |---|---|---|
@@ -111,7 +111,7 @@
 
 ## 📊 Superficies Cuádricas Fundamentales
 
-> [!info]- 🎓 Catálogo de Superficies Básicas
+> [!info] 🎓 Catálogo de Superficies Básicas
 > 
 > Las superficies cuádricas son las más comunes como superficies de nivel. Aquí está una guía de referencia:
 > 
@@ -237,7 +237,7 @@
 
 ## 📚 Ejemplos Fundamentales
 
-> [!example]- 📐 Ejemplo 1: Esferas Concéntricas
+> [!example] 📐 Ejemplo 1: Esferas Concéntricas
 > 
 > **Función:** $f(x,y,z) = x^2 + y^2 + z^2$
 > 
@@ -300,7 +300,7 @@
 > - Corte con plano $x = 0$: Círculos $y^2 + z^2 = k$
 > - Todos los cortes son círculos
 
-> [!example]- 🏔️ Ejemplo 2: Planos Paralelos
+> [!example] 🏔️ Ejemplo 2: Planos Paralelos
 > 
 > **Función:** $f(x,y,z) = z$
 > 
@@ -352,7 +352,7 @@
 > - Superficies equipotenciales en campo gravitacional uniforme
 > - Cada plano tiene altura constante
 
-> [!example]- 🌀 Ejemplo 3: Cilindros Concéntricos
+> [!example] 🌀 Ejemplo 3: Cilindros Concéntricos
 > 
 > **Función:** $f(x,y,z) = x^2 + y^2$
 > 
@@ -407,7 +407,7 @@
 > - Campo eléctrico de un cable infinito
 > - Flujo alrededor de un cable
 
-> [!example]- 🌋 Ejemplo 4: Paraboloide como Superficie de Nivel
+> [!example] 🌋 Ejemplo 4: Paraboloide como Superficie de Nivel
 > 
 > **Función:** $f(x,y,z) = z - x^2 - y^2$
 > 
@@ -456,7 +456,7 @@
 > - Superficies de igual "altura relativa" al paraboloide
 > - En optimización: conjuntos de nivel de funciones objetivo
 
-> [!example]- 🎭 Ejemplo 5: Cono Doble
+> [!example] 🎭 Ejemplo 5: Cono Doble
 > 
 > **Función:** $f(x,y,z) = z^2 - x^2 - y^2$
 > 
@@ -518,7 +518,7 @@
 > - Campos electromagnéticos
 > - Superficies de fase constante en ondas
 
-> [!example]- 🎪 Ejemplo 6: Paraboloide Hiperbólico
+> [!example] 🎪 Ejemplo 6: Paraboloide Hiperbólico
 > 
 > **Función:** $f(x,y,z) = x^2 - y^2 - z$
 > 
@@ -552,7 +552,7 @@
 > - Curvaturas opuestas en direcciones perpendiculares
 > - Arquitectura: techos hiperbólicos (Pringles)
 
-> [!example]- 🌍 Ejemplo 7: Elipsoides
+> [!example] 🌍 Ejemplo 7: Elipsoides
 > 
 > **Función:** $f(x,y,z) = \frac{x^2}{4} + \frac{y^2}{9} + z^2$
 > 
@@ -595,7 +595,7 @@
 
 ## 🔬 Análisis Detallado de Superficies Cuádricas
 
-> [!info]- 📊 Hiperboloides: Análisis Profundo
+> [!info] 📊 Hiperboloides: Análisis Profundo
 > 
 > ### Hiperboloide de Una Hoja
 > 
@@ -657,7 +657,7 @@
 
 ## 🎯 Cómo Identificar Superficies Cuádricas
 
-> [!tip]- 🔍 Método de Identificación
+> [!tip] 🔍 Método de Identificación
 > 
 > **Paso 1: Forma general**
 > 
@@ -720,7 +720,7 @@
 
 ## 🌟 Superficies de Nivel vs Gráficas
 
-> [!note]- 🔄 Dos Perspectivas Diferentes
+> [!note] 🔄 Dos Perspectivas Diferentes
 > 
 > ### Confusión Común
 > 
@@ -774,7 +774,7 @@
 
 ## 🔬 Gradiente y Superficies de Nivel
 
-> [!info]- 📐 Relación Fundamental
+> [!info] 📐 Relación Fundamental
 > 
 > ### Teorema del Gradiente
 > 
@@ -836,7 +836,7 @@
 
 ## 📊 Aplicaciones Físicas y Científicas
 
-> [!example]- 🌍 Casos del Mundo Real
+> [!example] 🌍 Casos del Mundo Real
 > 
 > ### 1. Física: Superficies Equipotenciales
 > 
@@ -950,7 +950,7 @@
 
 ## 🎨 Visualización de Superficies de Nivel
 
-> [!tip]- 🖼️ Técnicas de Representación
+> [!tip] 🖼️ Técnicas de Representación
 > 
 > ### Método 1: Secciones Transversales
 > 
@@ -1013,7 +1013,7 @@
 
 ## 🧮 Ejemplos Adicionales
 
-> [!example]- 📐 Ejemplo 8: Función Exponencial
+> [!example] 📐 Ejemplo 8: Función Exponencial
 > 
 > **Función:** $f(x,y,z) = e^{-(x^2+y^2+z^2)}$
 > 
@@ -1052,7 +1052,7 @@
 > - Modelo de densidad de probabilidad en física estadística
 > - Función de onda en mecánica cuántica
 
-> [!example]- 🌀 Ejemplo 9: Función Lineal Combinada
+> [!example] 🌀 Ejemplo 9: Función Lineal Combinada
 > 
 > **Función:** $f(x,y,z) = 2x + 3y - z$
 > 
@@ -1088,7 +1088,7 @@
 > - Distancia entre planos consecutivos es constante
 > - Modelo de campo uniforme en física
 
-> [!example]- 🎭 Ejemplo 10: Función de Distancia a un Punto
+> [!example] 🎭 Ejemplo 10: Función de Distancia a un Punto
 > 
 > **Función:** $f(x,y,z) = \sqrt{(x-1)^2 + (y+2)^2 + (z-3)^2}$
 > 
@@ -1119,7 +1119,7 @@
 > - Ondas esféricas emanando de una fuente puntual
 > - Señales de radio/radar desde una antena
 
-> [!example]- 🏔️ Ejemplo 11: Función Producto
+> [!example] 🏔️ Ejemplo 11: Función Producto
 > 
 > **Función:** $f(x,y,z) = xyz$
 > 
@@ -1159,7 +1159,7 @@
 > - Singularidad en los planos coordenados
 > - Simetría respecto a intercambio de variables
 
-> [!example]- 🌊 Ejemplo 12: Combinación de Paraboloides
+> [!example] 🌊 Ejemplo 12: Combinación de Paraboloides
 > 
 > **Función:** $f(x,y,z) = x^2 + y^2 - z^2$
 > 
@@ -1207,7 +1207,7 @@
 
 ## 📝 Ejercicios Propuestos
 
-> [!example]- 💪 Práctica Guiada
+> [!example] 💪 Práctica Guiada
 > 
 > ### Nivel Básico
 > 
@@ -1330,7 +1330,7 @@
 
 ## ✅ Soluciones Selectas
 
-> [!success]- 🔑 Respuestas de Ejercicios Básicos
+> [!success] 🔑 Respuestas de Ejercicios Básicos
 > 
 > **1a)** $f(x,y,z) = x + 2y + 3z$
 > 
@@ -1404,7 +1404,7 @@
 > 
 > d) $(1, 2, 2\sqrt{5})$: $1 + 4 + 20 = 25$ ✅ **Sí está**
 
-> [!success]- 🔑 Respuestas de Ejercicios Intermedios
+> [!success] 🔑 Respuestas de Ejercicios Intermedios
 > 
 > **3a)** $f(x,y,z) = \frac{x^2}{4} + \frac{y^2}{9} + z^2$
 > 
@@ -1482,7 +1482,7 @@
 > - 1 término negativo ($-y^2$)
 > - Constante positiva
 
-> [!success]- 🔑 Respuestas de Ejercicios Avanzados
+> [!success] 🔑 Respuestas de Ejercicios Avanzados
 > 
 > **6a)** $f(x,y,z) = x^2 + y^2 + z^2 - 2x - 4y + 6z = 0$
 > 
@@ -1567,7 +1567,7 @@
 
 ## 🎓 Conceptos Clave para Recordar
 
-> [!tip]- 💡 Puntos Importantes
+> [!tip] 💡 Puntos Importantes
 > 
 > **Sobre Superficies de Nivel:**
 > 
@@ -1608,7 +1608,7 @@
 
 ## 🔧 Herramientas Computacionales
 
-> [!info]- 💻 Software para Visualización
+> [!info] 💻 Software para Visualización
 > 
 > ### MATLAB/Octave
 > 
@@ -1690,7 +1690,7 @@
 
 ## 🌐 Extensión a Dimensiones Superiores
 
-> [!info]- 🚀 Hipersuperficies de Nivel
+> [!info] 🚀 Hipersuperficies de Nivel
 > 
 > ### Concepto General
 > 
@@ -1725,7 +1725,7 @@
 
 ## 🔗 Conexiones con Otros Temas
 
-> [!quote]- 🌉 Relaciones
+> [!quote] 🌉 Relaciones
 > 
 > **Este tema se relaciona con:**
 > 
@@ -1756,7 +1756,7 @@
 
 ## 📖 Resumen Visual
 
-> [!note]- 🎨 Guía Rápida de Superficies
+> [!note] 🎨 Guía Rápida de Superficies
 > 
 > ```
 > FUNCIÓN              SUPERFICIE DE NIVEL          FORMA
@@ -1794,7 +1794,7 @@
 
 ## ✔️ Autoevaluación
 
-> [!tip]- 📝 Verificación de Comprensión
+> [!tip] 📝 Verificación de Comprensión
 > 
 > **¿Puedes responder estas preguntas?**
 > 
@@ -1834,7 +1834,7 @@
 
 ## 📚 Tabla de Referencia Rápida
 
-> [!note]- 📋 Guía de Superficies Cuádricas Estándar
+> [!note] 📋 Guía de Superficies Cuádricas Estándar
 > 
 > |Nombre|Ecuación Estándar|Características|Secciones Horizontales|Secciones Verticales|
 > |---|---|---|---|---|
@@ -1853,7 +1853,7 @@
 
 ## 🎯 Estrategias de Resolución de Problemas
 
-> [!tip]- 🧩 Metodología Paso a Paso
+> [!tip] 🧩 Metodología Paso a Paso
 > 
 > ### Problema Tipo 1: Identificar Superficie de Nivel
 > 
@@ -1919,7 +1919,7 @@
 
 ## 🌟 Problemas Desafiantes
 
-> [!example]- 🎓 Problemas de Nivel Superior
+> [!example] 🎓 Problemas de Nivel Superior
 > 
 > ### Problema Avanzado 1: Intersección de Superficies
 > 
@@ -2001,7 +2001,7 @@
 
 ## 🔬 Aplicaciones Avanzadas
 
-> [!info]- 🚀 Temas Avanzados
+> [!info] 🚀 Temas Avanzados
 > 
 > ### 1. Teoría de Morse
 > 
@@ -2073,7 +2073,7 @@
 
 ## 📖 Problemas Integrados
 
-> [!example]- 🌐 Problemas que Combinan Conceptos
+> [!example] 🌐 Problemas que Combinan Conceptos
 > 
 > ### Problema Integral 1: Temperatura en un Sólido
 > 
@@ -2113,7 +2113,7 @@
 
 ## 🎬 Conclusión y Próximos Pasos
 
-> [!quote]- 🎓 Síntesis Final
+> [!quote] 🎓 Síntesis Final
 > 
 > ### Lo que has aprendido
 > 
@@ -2163,7 +2163,7 @@
 
 ## 📚 Referencias y Recursos Adicionales
 
-> [!quote]- 📖 Para Profundizar
+> [!quote] 📖 Para Profundizar
 > 
 > ### Libros de Texto Recomendados
 > 

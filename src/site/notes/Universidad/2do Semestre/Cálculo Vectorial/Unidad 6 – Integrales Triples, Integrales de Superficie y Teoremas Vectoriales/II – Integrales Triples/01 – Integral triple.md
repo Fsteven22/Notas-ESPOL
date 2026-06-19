@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es una Integral Triple? La **integral triple** es la extensión natural de las integrales dobles al espacio tridimensional. Mientras que las integrales dobles nos permiten calcular áreas y volúmenes bajo superficies, las **integrales triples** nos permiten calcular volúmenes, masas, centros de masa y otras propiedades de sólidos en el espacio tridimensional.
+> [!info] 💡 ¿Qué es una Integral Triple? La **integral triple** es la extensión natural de las integrales dobles al espacio tridimensional. Mientras que las integrales dobles nos permiten calcular áreas y volúmenes bajo superficies, las **integrales triples** nos permiten calcular volúmenes, masas, centros de masa y otras propiedades de sólidos en el espacio tridimensional.
 > 
 > **Analogía práctica:** Imagina que necesitas calcular la masa total de un objeto 3D con densidad variable:
 > 
@@ -50,7 +50,7 @@ graph TB
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es una Integral Triple? La **integral triple** extiende el concepto de integración a funciones de tres variables, permitiéndonos calcular volúmenes, masas, centros de masa y otras cantidades físicas en regiones tridimensionales.
+> [!info] 💡 ¿Qué es una Integral Triple? La **integral triple** extiende el concepto de integración a funciones de tres variables, permitiéndonos calcular volúmenes, masas, centros de masa y otras cantidades físicas en regiones tridimensionales.
 > 
 > **Analogía práctica:** Si una integral doble calcula el "volumen bajo una superficie", una integral triple puede calcular:
 > 
@@ -98,7 +98,7 @@ Let me create the complete document:
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es una Integral Triple? La **integral triple** extiende el concepto de integral a funciones de tres variables, permitiéndonos calcular volúmenes, masas, centros de masa y otras propiedades de sólidos tridimensionales.
+> [!info] 💡 ¿Qué es una Integral Triple? La **integral triple** extiende el concepto de integral a funciones de tres variables, permitiéndonos calcular volúmenes, masas, centros de masa y otras propiedades de sólidos tridimensionales.
 > 
 > **Analogía práctica:** Imagina calcular la masa total de un objeto 3D con densidad variable:
 > 
@@ -146,7 +146,7 @@ graph TB
 
 ### 🎯 ¿Qué es una Integral Triple?
 
-> [!info]- 💡 Concepto Fundamental
+> [!info] 💡 Concepto Fundamental
 > 
 > La **integral triple** es una extensión natural de la integral doble al espacio tridimensional. Mientras que una integral doble calcula "área acumulada" o "volumen bajo una superficie", la integral triple trabaja con funciones de tres variables y permite calcular propiedades de sólidos en el espacio.
 > 
@@ -193,7 +193,7 @@ graph TB
 
 ### 📐 Coordenadas Cartesianas
 
-> [!note]- 📦 Región Rectangular
+> [!note] 📦 Región Rectangular
 > 
 > **Caso más simple:** $V = [a,b] \times [c,d] \times [p,q]$
 > 
@@ -247,7 +247,7 @@ graph TB
 
 ### 🏔️ Regiones Más Generales
 
-> [!success]- 🗻 Tipos de Regiones Sólidas
+> [!success] 🗻 Tipos de Regiones Sólidas
 > 
 > **Clasificación de regiones tridimensionales:**
 > 
@@ -295,7 +295,7 @@ flowchart TD
     style E fill:#ffe1f5
 ```
 
-> [!example]- 📝 Ejemplo: Tetraedro
+> [!example] 📝 Ejemplo: Tetraedro
 > 
 > **Problema:** Calcular el volumen del tetraedro con vértices en $(0,0,0)$, $(1,0,0)$, $(0,1,0)$, $(0,0,1)$.
 > 
@@ -342,7 +342,7 @@ flowchart TD
 
 ### 📊 Definición y Transformación
 
-> [!tip]- 🔄 Sistema Cilíndrico
+> [!tip] 🔄 Sistema Cilíndrico
 > 
 > **Transformación de coordenadas:**
 > 
@@ -390,7 +390,7 @@ graph TB
 
 ### 🎯 Cuándo Usar Cilíndricas
 
-> [!success]- 🎪 Indicadores de Uso
+> [!success] 🎪 Indicadores de Uso
 > 
 > **Usar coordenadas cilíndricas cuando:**
 > 
@@ -414,7 +414,7 @@ graph TB
 >    Cilíndricas: z = r², 0 ≤ r ≤ √h, 0 ≤ θ ≤ 2π
 > ```
 
-> [!example]- 📝 Ejemplo: Cilindro con Densidad Variable
+> [!example] 📝 Ejemplo: Cilindro con Densidad Variable
 > 
 > **Problema:** Calcular la masa de un cilindro sólido de radio $a$ y altura $h$ con densidad $\rho(x,y,z) = z\sqrt{x^2+y^2}$.
 > 
@@ -451,7 +451,7 @@ graph TB
 
 ### 🌐 Definición y Transformación
 
-> [!note]- 🔮 Sistema Esférico
+> [!note] 🔮 Sistema Esférico
 > 
 > **Transformación de coordenadas:**
 > 
@@ -505,7 +505,7 @@ graph TB
 
 ### 🎪 Cuándo Usar Esféricas
 
-> [!tip]- 🌟 Indicadores de Uso
+> [!tip] 🌟 Indicadores de Uso
 > 
 > **Usar coordenadas esféricas cuando:**
 > 
@@ -532,7 +532,7 @@ graph TB
 >    Esféricas: a ≤ ρ ≤ b, 0 ≤ φ ≤ π, 0 ≤ θ ≤ 2π
 > ```
 
-> [!example]- 📝 Ejemplo: Volumen de Esfera
+> [!example] 📝 Ejemplo: Volumen de Esfera
 > 
 > **Problema:** Calcular el volumen de una esfera de radio $a$.
 > 
@@ -568,7 +568,7 @@ graph TB
 > Respuesta: V = 4πa³/3 ✓ (fórmula conocida)
 > ```
 
-> [!example]- 📝 Ejemplo: Masa de Hemisferio
+> [!example] 📝 Ejemplo: Masa de Hemisferio
 > 
 > **Problema:** Calcular la masa del hemisferio superior $x^2+y^2+z^2 \leq a^2$, $z \geq 0$ con densidad $\rho(x,y,z) = z$.
 > 
@@ -613,7 +613,7 @@ graph TB
 
 ### 🎯 Tabla Comparativa
 
-> [!quote]- 📋 Guía de Selección
+> [!quote] 📋 Guía de Selección
 > 
 > |Sistema|Transformación|dV|Cuándo usar|Regiones típicas|
 > |---|---|---|---|---|
@@ -643,7 +643,7 @@ flowchart TD
 
 ### 🔄 Estrategia de Conversión
 
-> [!success]- 🎲 Proceso de Decisión
+> [!success] 🎲 Proceso de Decisión
 > 
 > **Pasos para elegir coordenadas:**
 > 
@@ -680,7 +680,7 @@ flowchart TD
 
 ### ⚖️ Centro de Masa
 
-> [!example]- 📍 Cálculo de Centroide
+> [!example] 📍 Cálculo de Centroide
 > 
 > **Definiciones:**
 > 
@@ -731,7 +731,7 @@ flowchart TD
 
 ### 🔄 Momento de Inercia
 
-> [!note]- 🌀 Resistencia a la Rotación
+> [!note] 🌀 Resistencia a la Rotación
 > 
 > **Definición:**
 > 
@@ -786,7 +786,7 @@ mindmap
 
 ### Tabla de Referencia Rápida
 
-> [!quote]- 📚 Guía Práctica
+> [!quote] 📚 Guía Práctica
 > 
 > **Elementos diferenciales de volumen:**
 > 
@@ -810,7 +810,7 @@ mindmap
 
 ## 🎓 Ejercicios Resueltos Completos
 
-> [!example]- 💪 Ejercicio 1: Cono en Cilíndricas
+> [!example] 💪 Ejercicio 1: Cono en Cilíndricas
 > 
 > **Problema:** Calcular el volumen del sólido limitado por el cono $z = \sqrt{x^2+y^2}$ y el plano $z = 4$.
 > 
@@ -848,7 +848,7 @@ mindmap
 > Respuesta: V = 64π/3 unidades cúbicas
 > ```
 
-> [!example]- 💪 Ejercicio 2: Esfera con Densidad
+> [!example] 💪 Ejercicio 2: Esfera con Densidad
 > 
 > **Problema:** Una esfera de radio $a$ tiene densidad $\delta(x,y,z) = k\sqrt{x^2+y^2+z^2}$ donde $k$ es constante. Calcular su masa total.
 > 
@@ -885,7 +885,7 @@ mindmap
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Continuando el Aprendizaje
+> [!quote] 🌟 Continuando el Aprendizaje
 > 
 > **Has dominado:**
 > 

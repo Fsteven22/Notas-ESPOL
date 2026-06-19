@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es el Cambio de Variable? El **Teorema de Cambio de Variable** (o **Teorema de Sustitución**) es una herramienta fundamental que permite transformar integrales triples complejas en otras más simples mediante un cambio de coordenadas. Es la extensión tridimensional del cambio de variable en integrales simples.
+> [!info] 💡 ¿Qué es el Cambio de Variable? El **Teorema de Cambio de Variable** (o **Teorema de Sustitución**) es una herramienta fundamental que permite transformar integrales triples complejas en otras más simples mediante un cambio de coordenadas. Es la extensión tridimensional del cambio de variable en integrales simples.
 > 
 > **Analogía práctica:** Imagina describir la ubicación de un punto:
 > 
@@ -51,7 +51,7 @@ graph TB
 
 ### 🎲 Versión General
 
-> [!note]- 📋 Teorema de Cambio de Variable
+> [!note] 📋 Teorema de Cambio de Variable
 > 
 > Sea $T: D' \subset \mathbb{R}^3 \to D \subset \mathbb{R}^3$ una transformación **uno a uno** y **continuamente diferenciable** definida por:
 > 
@@ -97,7 +97,7 @@ graph TB
 
 ### 🔍 El Jacobiano: Factor de Escala
 
-> [!success]- 📊 Interpretación Geométrica
+> [!success] 📊 Interpretación Geométrica
 > 
 > El **Jacobiano** mide cómo la transformación $T$ **escala volúmenes**.
 > 
@@ -144,7 +144,7 @@ graph TB
 
 ### 📝 Método del Determinante
 
-> [!example]- 🔢 Desarrollo del Determinante
+> [!example] 🔢 Desarrollo del Determinante
 > 
 > **Desarrollo por la primera fila:**
 > 
@@ -174,7 +174,7 @@ graph TB
 
 ### 🎯 Propiedades del Jacobiano
 
-> [!tip]- ⚡ Propiedades Importantes
+> [!tip] ⚡ Propiedades Importantes
 > 
 > **1. Regla de la cadena para Jacobianos**
 > 
@@ -216,7 +216,7 @@ graph TB
 
 ### 📏 Definición y Transformación
 
-> [!example]- 🔄 Sistema Cilíndrico
+> [!example] 🔄 Sistema Cilíndrico
 > 
 > **Transformación:**
 > 
@@ -257,7 +257,7 @@ graph TB
 
 ### 🧮 Jacobiano Cilíndrico
 
-> [!success]- 📐 Cálculo del Jacobiano
+> [!success] 📐 Cálculo del Jacobiano
 > 
 > **Derivadas parciales:**
 > 
@@ -279,7 +279,7 @@ graph TB
 
 ### 🎯 Cuándo Usar Cilíndricas
 
-> [!tip]- 📋 Criterios de Selección
+> [!tip] 📋 Criterios de Selección
 > 
 > **Usar coordenadas cilíndricas cuando:**
 > 
@@ -324,7 +324,7 @@ graph TB
 
 ### 🌍 Definición y Transformación
 
-> [!example]- 🌐 Sistema Esférico
+> [!example] 🌐 Sistema Esférico
 > 
 > **Transformación:**
 > 
@@ -366,7 +366,7 @@ graph TB
 
 ### 🧮 Jacobiano Esférico
 
-> [!success]- 📐 Cálculo Detallado
+> [!success] 📐 Cálculo Detallado
 > 
 > **Derivadas parciales:**
 > 
@@ -391,7 +391,7 @@ graph TB
 
 ### 🎯 Cuándo Usar Esféricas
 
-> [!tip]- 📋 Criterios de Selección
+> [!tip] 📋 Criterios de Selección
 > 
 > **Usar coordenadas esféricas cuando:**
 > 
@@ -426,7 +426,7 @@ graph TB
 
 ## 📊 Tabla Comparativa de Sistemas
 
-> [!note]- 🔍 Comparación Completa
+> [!note] 🔍 Comparación Completa
 > 
 > |Sistema|Transformación|Jacobiano|Elemento dV|Mejor para|
 > |---|---|---|---|---|
@@ -477,7 +477,7 @@ graph TB
 
 ### 📌 Ejemplo 1: Cilindro con Cilíndricas
 
-> [!example]- 🔧 Volumen de Cilindro Inclinado
+> [!example] 🔧 Volumen de Cilindro Inclinado
 > 
 > **Problema:** Calcular $\displaystyle \iiint_D z,dV$ donde $D$ es la región acotada por el cilindro $x^2 + y^2 = 4$, el plano $z = 0$ y el plano $z = x + 2$.
 > 
@@ -506,7 +506,7 @@ graph TB
 
 ### 📌 Ejemplo 2: Esfera con Esféricas
 
-> [!example]- 🌐 Volumen de Esfera
+> [!example] 🌐 Volumen de Esfera
 > 
 > **Problema:** Calcular el volumen de la esfera $x^2 + y^2 + z^2 \leq a^2$ usando coordenadas esféricas.
 > 
@@ -527,7 +527,7 @@ graph TB
 
 ### 📌 Ejemplo 3: Cono con Esféricas
 
-> [!example]- 🔺 Masa de Cono con Densidad Variable
+> [!example] 🔺 Masa de Cono con Densidad Variable
 > 
 > **Problema:** Calcular la masa del cono $z = \sqrt{x^2 + y^2}$, $0 \leq z \leq h$ con densidad $\rho(x,y,z) = z$.
 > 
@@ -560,7 +560,7 @@ graph TB
 
 ## 🎯 Ejercicios Propuestos
 
-> [!question]- 💪 Práctica Progresiva
+> [!question] 💪 Práctica Progresiva
 > 
 > ### Nivel Básico
 > 
@@ -590,7 +590,7 @@ graph TB
 
 ## 📚 Resumen y Fórmulas Clave
 
-> [!note]- 📖 Compendio Rápido
+> [!note] 📖 Compendio Rápido
 > 
 > ### Teorema General
 > 
@@ -630,7 +630,7 @@ graph TB
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Progresión del Aprendizaje
+> [!quote] 🌟 Progresión del Aprendizaje
 > 
 > ```mermaid
 > mindmap

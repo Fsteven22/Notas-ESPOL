@@ -7,11 +7,11 @@
 
 > [!quote] "La energía no se crea ni se destruye, solo se transforma; en cada problema de conservación encontramos la poesía del movimiento convertida en matemáticas." ⚡
 
-> [!info]- La conservación de la energía mecánica es uno de los principios más poderosos de la física, permitiendo resolver problemas complejos de movimiento sin necesidad de analizar fuerzas. Cuando solo actúan fuerzas conservativas, la energía mecánica total del sistema permanece constante, transformándose entre energía cinética y potencial.
+> [!info] La conservación de la energía mecánica es uno de los principios más poderosos de la física, permitiendo resolver problemas complejos de movimiento sin necesidad de analizar fuerzas. Cuando solo actúan fuerzas conservativas, la energía mecánica total del sistema permanece constante, transformándose entre energía cinética y potencial.
 
 ## ⚖️ Fundamentos de la Conservación
 
-> [!info]- **Energía Mecánica Total** ⚡
+> [!info] **Energía Mecánica Total** ⚡
 > 
 > ### Definición:
 > 
@@ -30,7 +30,7 @@
 > |Conservativas|✅ Sí|Gravitatoria, elástica, eléctrica|
 > |No conservativas|❌ No|Fricción, resistencia del aire|
 
-> [!tip]- **Condiciones para Aplicar Conservación** 🎯
+> [!tip] **Condiciones para Aplicar Conservación** 🎯
 > 
 > ### Requisitos Esenciales:
 > 
@@ -46,7 +46,7 @@
 > - **Sistemas con resortes**: Incluir E_p elástica
 > - **Movimiento circular**: Considerar fuerza centrípeta
 
-> [!warning]- **Tipos de Energía Potencial** 🏔️
+> [!warning] **Tipos de Energía Potencial** 🏔️
 > 
 > ### Energía Potencial Gravitatoria:
 > 
@@ -80,7 +80,7 @@
 >     style G fill:#f1f8e9
 > ```
 
-> [!note]- **Ecuaciones Fundamentales** 📐
+> [!note] **Ecuaciones Fundamentales** 📐
 > 
 > ### Conservación General:
 > 
@@ -95,7 +95,7 @@
 
 ## 🎯 Estrategias de Resolución
 
-> [!tip]- **Método CERES (Conservación-Estados-Referencia-Ecuación-Solución)** 🧠
+> [!tip] **Método CERES (Conservación-Estados-Referencia-Ecuación-Solución)** 🧠
 > 
 > ### **C**onservación - Verificar condiciones
 > 
@@ -129,7 +129,7 @@
 
 ## 📚 Problemas Tipo
 
-> [!example]- **Problema 1: Caída Libre desde Reposo** 🪂
+> [!example] **Problema 1: Caída Libre desde Reposo** 🪂
 > 
 > ### Enunciado:
 > 
@@ -158,7 +158,7 @@
 > - 20g = 50 + gh
 > - **h = (20g - 50)/g = 14.9 m**
 
-> [!example]- **Problema 2: Péndulo Simple** 🕰️
+> [!example] **Problema 2: Péndulo Simple** 🕰️
 > 
 > ### Enunciado:
 > 
@@ -185,7 +185,7 @@
 > - cosθ_máx = 1 - 11.8/19.6 = 0.398
 > - **θ_máx = 66.5°**
 
-> [!example]- **Problema 3: Sistema Resorte-Masa** 🔗
+> [!example] **Problema 3: Sistema Resorte-Masa** 🔗
 > 
 > ### Enunciado:
 > 
@@ -201,7 +201,7 @@
 > 
 > **Distancia sobre la rampa**: d = h/sin30° = 1.84/0.5 = 3.68 m
 
-> [!example]- **Problema 4: Montaña Rusa** 🎢
+> [!example] **Problema 4: Montaña Rusa** 🎢
 > 
 > ### Enunciado:
 > 
@@ -226,12 +226,12 @@
 
 ## 🧮 Técnicas de Memorización
 
-> [!tip]- **Mnemotecnia: "GRAVE"** 📝
+> [!tip] **Mnemotecnia: "GRAVE"** 📝
 > 
 > **G**ravitatoria - mgh para altura **R**esorte - ½kx² para deformación  
 > **A**ltura - siempre respecto a referencia **V**elocidad - ½mv² para movimiento **E**nergía - se conserva sin fricción
 
-> [!tip]- **Regla de los Estados** 🔄
+> [!tip] **Regla de los Estados** 🔄
 > 
 > - **Estado 1**: Donde conoces más datos
 > - **Estado 2**: Donde está la incógnita
@@ -240,7 +240,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- **Confusiones Frecuentes** ⚠️
+> [!warning] **Confusiones Frecuentes** ⚠️
 > 
 > 1. **Mal nivel de referencia**: Cambiar la referencia a mitad del problema
 > 2. **Olvidar tipos de energía**: No considerar E_p elástica en problemas con resortes
@@ -251,7 +251,7 @@
 
 ## 🎯 Aplicaciones Prácticas
 
-> [!info]- **Ejemplos del Mundo Real** 🌍
+> [!info] **Ejemplos del Mundo Real** 🌍
 > 
 > ### Ingeniería Civil:
 > 
@@ -279,7 +279,7 @@
 
 ## 📖 Referencias
 
-> [!quote]- **Notas Relacionadas**
+> [!quote] **Notas Relacionadas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/03 - Trabajo y Energía/Trabajo y Energía\|Trabajo y Energía]] - Fundamentos teóricos
 > - [[Universidad/1er Semestre/Física Mecanica/03 - Trabajo y Energía/Principios de Conservación de la Energía\|Principios de Conservación de la Energía]] - Base conceptual
@@ -288,7 +288,7 @@
 
 ## 📚 Notas Recomendadas
 
-> [!note]- **Prerrequisitos**
+> [!note] **Prerrequisitos**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/01 - Cinemática/Cinemática Traslacional\|Cinemática Traslacional]] - Conceptos de velocidad y aceleración
 > - [[Universidad/1er Semestre/Física Mecanica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]] - Fundamentos de fuerzas

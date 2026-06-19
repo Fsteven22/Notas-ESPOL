@@ -7,7 +7,7 @@
 
 ## 🌟 ¿Qué es una Métrica?
 
-> [!info]- Definición **Una métrica (o función de distancia) es una función que define una noción de "distancia" entre elementos de un conjunto. Formaliza matemáticamente el concepto intuitivo de qué tan "lejos" o "cerca" están dos puntos.**
+> [!info] Definición **Una métrica (o función de distancia) es una función que define una noción de "distancia" entre elementos de un conjunto. Formaliza matemáticamente el concepto intuitivo de qué tan "lejos" o "cerca" están dos puntos.**
 > 
 > **Puntos clave:**
 > 
@@ -21,7 +21,7 @@
 
 ### 📖 Contexto Histórico
 
-> [!note]- Desarrollo del Concepto de Métrica
+> [!note] Desarrollo del Concepto de Métrica
 > 
 > **Geometría clásica (300 AC - 1600 DC):**
 > 
@@ -58,7 +58,7 @@
 
 ### 🔑 Axiomas de una Métrica
 
-> [!important]- Propiedades Fundamentales
+> [!important] Propiedades Fundamentales
 > 
 > **Definición:**
 > 
@@ -108,7 +108,7 @@
 > • d es la métrica sobre X
 > ```
 
-> [!example]- Verificación de Axiomas
+> [!example] Verificación de Axiomas
 > 
 > **Ejemplo: Métrica euclidiana en ℝ**
 > 
@@ -137,7 +137,7 @@
 
 ### 1️⃣ Métrica Euclidiana
 
-> [!important]- Distancia Euclidiana en ℝⁿ
+> [!important] Distancia Euclidiana en ℝⁿ
 > 
 > **Definición:**
 > 
@@ -172,7 +172,7 @@
 > • Proviene de un producto interno: d(x,y) = ||x - y||₂
 > ```
 
-> [!example]- Ejemplos Numéricos
+> [!example] Ejemplos Numéricos
 > 
 > **En ℝ:**
 > 
@@ -207,7 +207,7 @@
 
 ### 2️⃣ Métrica del Taxi (Manhattan)
 
-> [!important]- Métrica de la Suma (d₁)
+> [!important] Métrica de la Suma (d₁)
 > 
 > **Definición:**
 > 
@@ -239,7 +239,7 @@
 > • Distancia del taxi: 3 + 2 = 5
 > ```
 
-> [!example]- Ejemplos de Métrica del Taxi
+> [!example] Ejemplos de Métrica del Taxi
 > 
 > **En ℝ²:**
 > 
@@ -274,7 +274,7 @@
 
 ### 3️⃣ Métrica del Máximo (Chebyshev)
 
-> [!important]- Métrica del Supremo (d∞)
+> [!important] Métrica del Supremo (d∞)
 > 
 > **Definición:**
 > 
@@ -306,7 +306,7 @@
 >                     = 4
 > ```
 
-> [!example]- Comparación de las Tres Métricas
+> [!example] Comparación de las Tres Métricas
 > 
 > **Mismo ejemplo con las tres métricas:**
 > 
@@ -339,7 +339,7 @@
 
 ### 4️⃣ Métrica Discreta
 
-> [!important]- Métrica Trivial
+> [!important] Métrica Trivial
 > 
 > **Definición:**
 > 
@@ -378,7 +378,7 @@
 >              la suma es ≥ 1 ✓
 > ```
 
-> [!example]- Ejemplos de Métrica Discreta
+> [!example] Ejemplos de Métrica Discreta
 > 
 > **En cualquier conjunto:**
 > 
@@ -407,7 +407,7 @@
 
 ### 5️⃣ Métrica en Espacios de Funciones
 
-> [!important]- Métrica del Supremo en C([a,b])
+> [!important] Métrica del Supremo en C([a,b])
 > 
 > **Definición:**
 > 
@@ -446,7 +446,7 @@
 
 ### 🎯 Bolas Abiertas y Cerradas
 
-> [!important]- Bolas en Espacios Métricos
+> [!important] Bolas en Espacios Métricos
 > 
 > **Bola abierta:**
 > 
@@ -484,7 +484,7 @@
 > • Las bolas cerradas son conjuntos cerrados
 > ```
 
-> [!example]- Ejemplos de Bolas
+> [!example] Ejemplos de Bolas
 > 
 > **En ℝ con métrica euclidiana:**
 > 
@@ -520,7 +520,7 @@
 
 ### 🔗 Conexión con Espacios Métricos
 
-> [!quote]- Enlace a Espacios Métricos
+> [!quote] Enlace a Espacios Métricos
 > 
 > **[[Espacios Métricos\|Espacios Métricos]]**
 > 
@@ -559,7 +559,7 @@
 
 ### 🎯 Puntos de Acumulación
 
-> [!quote]- Enlace a Puntos de Acumulación
+> [!quote] Enlace a Puntos de Acumulación
 > 
 > **[[Puntos de Acumulación\|Puntos de Acumulación]]**
 > 
@@ -611,7 +611,7 @@
 
 ## ⚠️ Errores Comunes y Malentendidos
 
-> [!warning]- Misconceptions Frecuentes
+> [!warning] Misconceptions Frecuentes
 > 
 > **1. "Toda función de distancia es una métrica"**
 > 
@@ -693,7 +693,7 @@
 
 ## 🎯 Ejercicios
 
-> [!example]- Ejercicio 1: Verificar Axiomas
+> [!example] Ejercicio 1: Verificar Axiomas
 > 
 > **Instrucciones:** Determina si las siguientes funciones son métricas.
 > 
@@ -730,7 +730,7 @@
 >    Todos los axiomas se verifican ✓
 > ```
 
-> [!example]- Ejercicio 2: Calcular Distancias
+> [!example] Ejercicio 2: Calcular Distancias
 > 
 > **Instrucciones:** Calcula las distancias indicadas.
 > 
@@ -762,7 +762,7 @@
 >              4 ≤ 5 ≤ 7 ✓
 > ```
 
-> [!example]- Ejercicio 3: Bolas en Diferentes Métricas
+> [!example] Ejercicio 3: Bolas en Diferentes Métricas
 > 
 > **Instrucciones:** Describe las bolas unitarias en ℝ² con centro en el origen.
 > 
@@ -795,7 +795,7 @@
 >      B₂ (círculo) contiene B₁ (diamante) en su interior
 > ```
 
-> [!example]- Ejercicio 4: Métrica Discreta
+> [!example] Ejercicio 4: Métrica Discreta
 > 
 > **Instrucciones:** En X = {a, b, c, d} con métrica discreta d.
 > 
@@ -832,7 +832,7 @@
 
 ## 💡 Propiedades Avanzadas
 
-> [!tip]- Métricas Equivalentes
+> [!tip] Métricas Equivalentes
 > 
 > **Definición:**
 > 
@@ -878,7 +878,7 @@
 > ✗ Diferentes tasas de convergencia
 > ```
 
-> [!tip]- Completitud
+> [!tip] Completitud
 > 
 > **Sucesión de Cauchy:**
 > 
@@ -916,7 +916,7 @@
 > Ejemplo: ℝ es la completación de ℚ
 > ```
 
-> [!tip]- Isometrías
+> [!tip] Isometrías
 > 
 > **Definición:**
 > 
@@ -957,7 +957,7 @@
 
 ## 🌍 Aplicaciones de las Métricas
 
-> [!success]- Aplicaciones en Diferentes Áreas
+> [!success] Aplicaciones en Diferentes Áreas
 > 
 > **1. Análisis de datos y Machine Learning:**
 > 
@@ -1019,7 +1019,7 @@
 
 ## 🔗 Referencias y Conexiones
 
-> [!quote]- Enlaces Conceptuales
+> [!quote] Enlaces Conceptuales
 > 
 > **Conceptos fundamentales:**
 > 
@@ -1125,7 +1125,7 @@
 
 ## 📖 GLOSARIO - GLOSSARY
 
-> [!note]- Vocabulario Esencial (Español ↔ English)
+> [!note] Vocabulario Esencial (Español ↔ English)
 > 
 > ### Términos básicos:
 > 
@@ -1196,7 +1196,7 @@
 
 ## 📚 Referencias Bibliográficas
 
-> [!info]- Libros y Recursos Recomendados
+> [!info] Libros y Recursos Recomendados
 > 
 > **Textos clásicos:**
 > 
@@ -1247,7 +1247,7 @@
 
 ## 🎓 Notas Adicionales
 
-> [!tip]- Consejos para el Estudio
+> [!tip] Consejos para el Estudio
 > 
 > **Para entender métricas:**
 > 
@@ -1300,7 +1300,7 @@
 
 ## 🎯 ¿Qué es un Espacio Métrico?
 
-> [!info]- 💡 Introducción Intuitiva Un **espacio métrico** es simplemente un conjunto de elementos donde podemos medir "distancias" entre ellos de manera consistente. Es la formalización matemática de la idea intuitiva de "qué tan lejos está algo de otra cosa".
+> [!info] 💡 Introducción Intuitiva Un **espacio métrico** es simplemente un conjunto de elementos donde podemos medir "distancias" entre ellos de manera consistente. Es la formalización matemática de la idea intuitiva de "qué tan lejos está algo de otra cosa".
 > 
 > **Analogías útiles:**
 > 
@@ -1312,7 +1312,7 @@
 
 ### 📐 Definición Formal
 
-> [!note]- 🌟 Concepto Fundamental
+> [!note] 🌟 Concepto Fundamental
 > 
 > **Definición:** Un **espacio métrico** es un par $(X, d)$ donde:
 > 
@@ -1331,7 +1331,7 @@
 
 ### 🔍 Interpretación Simple
 
-> [!tip]- 💭 ¿Qué significa todo esto?
+> [!tip] 💭 ¿Qué significa todo esto?
 > 
 > **En lenguaje cotidiano:**
 > 
@@ -1351,7 +1351,7 @@
 
 ### 📏 La Recta Real
 
-> [!example]- 🔢 El Ejemplo Más Simple
+> [!example] 🔢 El Ejemplo Más Simple
 > 
 > **Espacio:** $(\mathbb{R}, d_E)$
 > 
@@ -1369,7 +1369,7 @@
 
 ### 🗺️ El Plano
 
-> [!example]- 🌍 Espacio Bidimensional
+> [!example] 🌍 Espacio Bidimensional
 > 
 > **Espacio:** $(\mathbb{R}^2, d_E)$
 > 
@@ -1386,7 +1386,7 @@
 
 ### 🏙️ Distancia en Ciudades
 
-> [!example]- 🚕 Métrica del Taxista
+> [!example] 🚕 Métrica del Taxista
 > 
 > **Espacio:** $(\mathbb{R}^2, d_1)$
 > 
@@ -1406,7 +1406,7 @@
 
 ### 🎲 Todo o Nada
 
-> [!example]- 🔢 Métrica Discreta
+> [!example] 🔢 Métrica Discreta
 > 
 > **Espacio:** Cualquier conjunto $X$ con la métrica discreta
 > 
@@ -1425,7 +1425,7 @@
 
 ### 📐 Bola Abierta
 
-> [!note]- ⭕ Definición de Bola Abierta
+> [!note] ⭕ Definición de Bola Abierta
 > 
 > **Definición:** Sea $(X, d)$ un espacio métrico, $x_0 \in X$ un punto, y $r > 0$ un número real positivo.
 > 
@@ -1443,7 +1443,7 @@
 
 ### 🎯 Bola Cerrada
 
-> [!note]- 🔵 Definición de Bola Cerrada
+> [!note] 🔵 Definición de Bola Cerrada
 > 
 > **Definición:** Sea $(X, d)$ un espacio métrico, $x_0 \in X$ un punto, y $r > 0$ un número real positivo.
 > 
@@ -1460,7 +1460,7 @@
 
 ### 🎨 Visualización: Diferencia entre Abierta y Cerrada
 
-> [!tip]- 👁️ ¿Cómo se ven?
+> [!tip] 👁️ ¿Cómo se ven?
 > 
 > **En la recta real $(\mathbb{R}, d_E)$ con centro $x_0$ y radio $r$:**
 > 
@@ -1482,7 +1482,7 @@
 
 ### 📏 En la Recta Real
 
-> [!example]- 🔢 $(\mathbb{R}, d_E)$
+> [!example] 🔢 $(\mathbb{R}, d_E)$
 > 
 > **Bola abierta $B(5, 2)$:** $$B(5, 2) = {x \in \mathbb{R} : |x - 5| < 2}$$ $$= {x \in \mathbb{R} : -2 < x - 5 < 2}$$ $$= {x \in \mathbb{R} : 3 < x < 7}$$ $$= (3, 7)$$
 > 
@@ -1510,7 +1510,7 @@
 
 ### 🗺️ En el Plano Euclidiano
 
-> [!example]- 🌍 $(\mathbb{R}^2, d_E)$
+> [!example] 🌍 $(\mathbb{R}^2, d_E)$
 > 
 > **Bola abierta $B((0,0), 1)$:** $$B((0,0), 1) = {(x, y) \in \mathbb{R}^2 : \sqrt{x^2 + y^2} < 1}$$ $$= {(x, y) \in \mathbb{R}^2 : x^2 + y^2 < 1}$$
 > 
@@ -1560,7 +1560,7 @@
 
 ### 🏙️ En la Métrica del Taxista
 
-> [!example]- 🚕 $(\mathbb{R}^2, d_1)$
+> [!example] 🚕 $(\mathbb{R}^2, d_1)$
 > 
 > **Bola abierta $B((0,0), 2)$ con métrica Manhattan:** $$B((0,0), 2) = {(x, y) : |x| + |y| < 2}$$
 > 
@@ -1598,7 +1598,7 @@
 
 ### 🎲 En la Métrica Discreta
 
-> [!example]- 🔢 $(X, d_D)$
+> [!example] 🔢 $(X, d_D)$
 > 
 > Sea $X$ cualquier conjunto con métrica discreta y $x_0 \in X$.
 > 
@@ -1616,7 +1616,7 @@
 
 ## 🎯 ¿Para Qué Sirven las Bolas?
 
-> [!tip]- 💡 Importancia de las Bolas
+> [!tip] 💡 Importancia de las Bolas
 > 
 > **1. Definir cercanía:** Las bolas formalizan "estar cerca de un punto".
 > 
@@ -1638,7 +1638,7 @@
 
 ## 📊 Comparación Visual de Bolas en Diferentes Métricas
 
-> [!example]- 🎨 Misma Posición y Radio, Diferentes Formas
+> [!example] 🎨 Misma Posición y Radio, Diferentes Formas
 > 
 > Todas con centro en $(0, 0)$ y radio $r = 1$ en $\mathbb{R}^2$:
 > 
@@ -1685,7 +1685,7 @@
 
 ## 🔗 Conexiones con el Sistema de Notas
 
-> [!quote]- 🌐 Enlaces Conceptuales
+> [!quote] 🌐 Enlaces Conceptuales
 > 
 > **Prerequisitos:**
 > 
@@ -1707,7 +1707,7 @@
 
 ## 🧪 Ejercicios Simples
 
-> [!example]- 💪 Práctica Básica
+> [!example] 💪 Práctica Básica
 > 
 > **Ejercicio 1:** En $(\mathbb{R}, d_E)$, describir explícitamente:
 > 

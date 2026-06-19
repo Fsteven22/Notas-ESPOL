@@ -7,11 +7,11 @@
 
 > [!quote] "En equilibrio, las fuerzas se anulan y los torques se equilibran; la estática es la sinfonía perfecta entre la traslación y la rotación en reposo." ⚖️
 
-> [!info]- Los problemas de equilibrio traslacional y rotacional forman la base de la estática, donde los cuerpos permanecen en reposo o en movimiento rectilíneo uniforme. Estos problemas requieren la aplicación simultánea de las condiciones de equilibrio de fuerzas y torques para determinar fuerzas desconocidas, puntos de aplicación y condiciones de estabilidad.
+> [!info] Los problemas de equilibrio traslacional y rotacional forman la base de la estática, donde los cuerpos permanecen en reposo o en movimiento rectilíneo uniforme. Estos problemas requieren la aplicación simultánea de las condiciones de equilibrio de fuerzas y torques para determinar fuerzas desconocidas, puntos de aplicación y condiciones de estabilidad.
 
 ## ⚖️ Condiciones de Equilibrio
 
-> [!info]- **Equilibrio Traslacional** ➡️
+> [!info] **Equilibrio Traslacional** ➡️
 > 
 > ### Condición Fundamental:
 > 
@@ -31,7 +31,7 @@
 > |ΣFᵧ = 0|No hay aceleración vertical|vᵧ = constante|
 > |Ambas cumplen|Equilibrio traslacional completo|\vec{v} = constante|
 
-> [!tip]- **Equilibrio Rotacional** 🔄
+> [!tip] **Equilibrio Rotacional** 🔄
 > 
 > ### Condición Fundamental:
 > 
@@ -50,7 +50,7 @@
 > - **Dirección**: Determinada por la regla de la mano derecha
 > - **Unidades**: N·m (Newton-metro)
 
-> [!warning]- **Equilibrio Estático Completo** 🏗️
+> [!warning] **Equilibrio Estático Completo** 🏗️
 > 
 > ### Condiciones Simultáneas:
 > 
@@ -90,7 +90,7 @@
 >     style G fill:#e8f5e8
 > ```
 
-> [!note]- **Tipos de Apoyos y Reacciones** 🔧
+> [!note] **Tipos de Apoyos y Reacciones** 🔧
 > 
 > ### Apoyos Simples:
 > 
@@ -122,7 +122,7 @@
 
 ## 🎯 Estrategias de Resolución
 
-> [!tip]- **Método DICES (DCL-Incógnitas-Coordenadas-Equilibrio-Solución)** 🧠
+> [!tip] **Método DICES (DCL-Incógnitas-Coordenadas-Equilibrio-Solución)** 🧠
 > 
 > ### **D**CL - Diagrama de Cuerpo Libre
 > 
@@ -155,7 +155,7 @@
 > 15. Verifica signos y unidades
 > 16. Comprueba coherencia física
 
-> [!tip]- **Estrategias Avanzadas** 🎯
+> [!tip] **Estrategias Avanzadas** 🎯
 > 
 > ### **Elección Inteligente del Punto de Referencia**:
 > 
@@ -177,7 +177,7 @@
 
 ## 📚 Problemas Tipo
 
-> [!example]- **Problema 1: Viga Simplemente Apoyada** 🌉
+> [!example] **Problema 1: Viga Simplemente Apoyada** 🌉
 > 
 > ### Enunciado:
 > 
@@ -203,7 +203,7 @@
 > 
 > **Verificación** (momentos respecto a B): ΣΜᵦ = 0: Rₐ(8) - W(4) - P(5) = 412.5(8) - 200(4) - 500(5) = 0 ✓
 
-> [!example]- **Problema 2: Viga en Voladizo** 🏗️
+> [!example] **Problema 2: Viga en Voladizo** 🏗️
 > 
 > ### Enunciado:
 > 
@@ -225,7 +225,7 @@
 > 
 > **Equilibrio rotacional** (respecto a A): ΣΜₐ = 0: Mₐ - W(3) - Wᵈ(2) = 0 Mₐ = 300(3) + 400(2) = 900 + 800 **Mₐ = 1700 N·m** (antihorario)
 
-> [!example]- **Problema 3: Estructura con Cable** 🎪
+> [!example] **Problema 3: Estructura con Cable** 🎪
 > 
 > ### Enunciado:
 > 
@@ -253,7 +253,7 @@
 > 
 > **Reacciones en A**: Rₐₓ = 115.47/2 = **57.74 N** (→) Rₐᵧ = 200 - 115.47(√3/2) = **100 N** (↑)
 
-> [!example]- **Problema 4: Escalera Apoyada en Pared** 🪜
+> [!example] **Problema 4: Escalera Apoyada en Pared** 🪜
 > 
 > ### Enunciado:
 > 
@@ -285,7 +285,7 @@
 
 ## 🧮 Técnicas Especializadas
 
-> [!tip]- **Análisis de Armaduras** 🔗
+> [!tip] **Análisis de Armaduras** 🔗
 > 
 > ### Método de los Nudos:
 > 
@@ -301,7 +301,7 @@
 > 7. Aplicar ΣF = 0 y ΣΜ = 0
 > 8. Máximo 3 barras cortadas por sección
 
-> [!tip]- **Centros de Gravedad Compuestos** ⚖️
+> [!tip] **Centros de Gravedad Compuestos** ⚖️
 > 
 > ### Para áreas compuestas:
 > 
@@ -314,7 +314,7 @@
 > - **Semicírculo**: CG a 4R/(3π) desde el diámetro
 > - **Cuarto de círculo**: CG a 4R/(3π) de cada eje
 
-> [!tip]- **Estabilidad de Estructuras** 🏗️
+> [!tip] **Estabilidad de Estructuras** 🏗️
 > 
 > ### Criterios de Estabilidad:
 > 
@@ -338,7 +338,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- **Confusiones Frecuentes** ⚠️
+> [!warning] **Confusiones Frecuentes** ⚠️
 > 
 > 1. **Olvidar incluir el peso propio** del elemento estructural
 > 2. **Confundir el punto de aplicación** de cargas distribuidas
@@ -352,7 +352,7 @@
 
 ## 🎯 Aplicaciones Prácticas
 
-> [!info]- **Ejemplos del Mundo Real** 🌍
+> [!info] **Ejemplos del Mundo Real** 🌍
 > 
 > ### Ingeniería Civil:
 > 
@@ -384,7 +384,7 @@
 
 ## 📖 Referencias y Notas Relacionadas
 
-> [!quote]- **Notas Relacionadas**
+> [!quote] **Notas Relacionadas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/05 - Equilibrio y Elasticidad/Equilibrio\|Equilibrio]] - Fundamentos teóricos del equilibrio
 > - [[Universidad/1er Semestre/Física Mecanica/05 - Equilibrio y Elasticidad/Centro de Gravedad (CG)\|Centro de Gravedad (CG)]] - Localización del centro de gravedad
@@ -395,7 +395,7 @@
 
 ## 🔧 Formulario de Consulta Rápida
 
-> [!note]- **Ecuaciones Esenciales**
+> [!note] **Ecuaciones Esenciales**
 > 
 > ### Condiciones de Equilibrio:
 > 

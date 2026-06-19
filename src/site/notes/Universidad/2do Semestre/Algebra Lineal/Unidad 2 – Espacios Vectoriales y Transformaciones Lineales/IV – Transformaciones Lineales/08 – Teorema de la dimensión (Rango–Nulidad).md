@@ -7,7 +7,7 @@
 
 ## 🌟 Concepto Fundamental
 
-> [!info]- Definición Intuitiva **El Teorema de la Dimensión, también conocido como Teorema del Rango-Nulidad, es uno de los resultados más fundamentales del álgebra lineal. Establece que la dimensión del dominio de una transformación lineal se "conserva" dividiéndose entre lo que se "pierde" (núcleo) y lo que se "alcanza" (imagen). Esta conservación dimensional es una ley fundamental de las transformaciones lineales.**
+> [!info] Definición Intuitiva **El Teorema de la Dimensión, también conocido como Teorema del Rango-Nulidad, es uno de los resultados más fundamentales del álgebra lineal. Establece que la dimensión del dominio de una transformación lineal se "conserva" dividiéndose entre lo que se "pierde" (núcleo) y lo que se "alcanza" (imagen). Esta conservación dimensional es una ley fundamental de las transformaciones lineales.**
 > 
 > **Características clave:**
 > 
@@ -19,7 +19,7 @@
 
 ### 📖 Contexto Histórico
 
-> [!note]- Desarrollo del Concepto **Orígenes matriciales (1850-1880):**
+> [!note] Desarrollo del Concepto **Orígenes matriciales (1850-1880):**
 > 
 > - **Sylvester (1850s):** Ley de nulidad
 >     - Primera versión para matrices
@@ -84,7 +84,7 @@
 
 ## 📊 Enunciado del Teorema
 
-> [!important]- Teorema de la Dimensión (Rank-Nullity) **TEOREMA:**
+> [!important] Teorema de la Dimensión (Rank-Nullity) **TEOREMA:**
 > 
 > Sea $T: V \to W$ una transformación lineal donde $V$ tiene dimensión finita.
 > 
@@ -130,7 +130,7 @@
 
 ## 🎯 Demostración Completa
 
-> [!success]- Prueba del Teorema **DEMOSTRACIÓN:**
+> [!success] Prueba del Teorema **DEMOSTRACIÓN:**
 > 
 > Sea $T: V \to W$ transformación lineal con $\dim(V) = n$.
 > 
@@ -258,7 +258,7 @@
 
 ## 💎 Consecuencias Fundamentales
 
-> [!success]- Corolarios Importantes **COROLARIO 1: Inyectividad en dimensiones iguales**
+> [!success] Corolarios Importantes **COROLARIO 1: Inyectividad en dimensiones iguales**
 > 
 > Sea $T: V \to W$ lineal con $\dim(V) = \dim(W) = n$.
 > 
@@ -363,7 +363,7 @@
 
 ## 🔍 Interpretaciones Geométricas
 
-> [!note]- Visualización del Teorema **INTERPRETACIÓN 1: Descomposición del dominio**
+> [!note] Visualización del Teorema **INTERPRETACIÓN 1: Descomposición del dominio**
 > 
 > El teorema establece una descomposición fundamental: $$V = \text{Ker}(T) \oplus U$$
 > 
@@ -439,7 +439,7 @@
 
 ## 📝 Ejemplos Resueltos Detallados
 
-> [!example]- Aplicaciones del Teorema **EJEMPLO 1: Determinar posibilidades**
+> [!example] Aplicaciones del Teorema **EJEMPLO 1: Determinar posibilidades**
 > 
 > Sea $T: \mathbb{R}^5 \to \mathbb{R}^3$ transformación lineal con $\text{rank}(T) = 3$.
 > 
@@ -602,7 +602,7 @@
 
 ## 🎭 Casos Especiales
 
-> [!tip]- Situaciones Particulares **CASO 1: Transformaciones entre espacios de igual dimensión**
+> [!tip] Situaciones Particulares **CASO 1: Transformaciones entre espacios de igual dimensión**
 > 
 > Si $\dim(V) = \dim(W) = n$ y $T: V \to W$:
 > 
@@ -672,7 +672,7 @@
 
 ## 🔗 Relación con Otros Teoremas
 
-> [!note]- Conexiones Fundamentales 
+> [!note] Conexiones Fundamentales 
 > **1. TEOREMA DE ISOMORFISMO (First Isomorphism Theorem)**
 > 
 > Para $T: V \to W$ lineal: $$\boxed{V/\text{Ker}(T) \cong \text{Im}(T)}$$
@@ -721,7 +721,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- Malentendidos Frecuentes **1. "nullity + rank = dim(W)"**
+> [!warning] Malentendidos Frecuentes **1. "nullity + rank = dim(W)"**
 > 
 > ❌ **ERROR DE FÓRMULA**
 > 
@@ -793,7 +793,7 @@
 
 ## 📊 Tabla de Referencia Rápida
 
-> [!note]- Guía de Consulta **FÓRMULA FUNDAMENTAL:**
+> [!note] Guía de Consulta **FÓRMULA FUNDAMENTAL:**
 > 
 > $$\boxed{\dim(V) = \text{nullity}(T) + \text{rank}(T)}$$
 > 
@@ -830,7 +830,7 @@
 
 ## 🔗 Conexiones con Otros Temas
 
-> [!quote]- Enlaces Conceptuales 
+> [!quote] Enlaces Conceptuales 
 > **Fundamentos previos:**
 > 
 > - [[01 - Vectores en espacios vectoriales\|01 - Vectores en espacios vectoriales]] - Espacios vectoriales
@@ -856,7 +856,7 @@
 
 ## 📚 Bibliografía Esencial
 
-> [!tip]- Lecturas Recomendadas **Nivel introductorio:**
+> [!tip] Lecturas Recomendadas **Nivel introductorio:**
 > 
 > - **Lay, D. C.** (2016). _Álgebra Lineal y sus Aplicaciones_ (5ª ed.). Pearson.
 >     - **Cap. 4.2:** Espacios nulos y columna ⭐
@@ -895,7 +895,7 @@
 
 ## 🎓 Conceptos Clave - Resumen
 
-> [!important]- Ideas Fundamentales para Recordar
+> [!important] Ideas Fundamentales para Recordar
 > 
 > **TEOREMA CENTRAL:**
 > 

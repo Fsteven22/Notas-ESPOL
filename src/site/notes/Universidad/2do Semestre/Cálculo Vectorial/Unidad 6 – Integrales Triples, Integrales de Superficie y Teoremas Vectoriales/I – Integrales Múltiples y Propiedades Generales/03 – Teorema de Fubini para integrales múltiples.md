@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es el Teorema de Fubini? El **Teorema de Fubini** es uno de los resultados más importantes del cálculo multivariable. Nos permite **convertir una integral múltiple en integrales iteradas**, es decir, calcular integrales dobles o triples realizando integraciones sucesivas de una variable a la vez.
+> [!info] 💡 ¿Qué es el Teorema de Fubini? El **Teorema de Fubini** es uno de los resultados más importantes del cálculo multivariable. Nos permite **convertir una integral múltiple en integrales iteradas**, es decir, calcular integrales dobles o triples realizando integraciones sucesivas de una variable a la vez.
 > 
 > **Analogía práctica:** Imagina que necesitas contar todas las personas en un estadio rectangular:
 > 
@@ -56,7 +56,7 @@ graph TB
 
 ### 📜 Versión para Integrales Dobles
 
-> [!note]- 📋 Teorema de Fubini (Integrales Dobles)
+> [!note] 📋 Teorema de Fubini (Integrales Dobles)
 > 
 > **Enunciado completo:**
 > 
@@ -101,7 +101,7 @@ graph TB
 
 ### 🔺 Extensión a Regiones No Rectangulares
 
-> [!success]- 🗺️ Regiones Tipo I y Tipo II
+> [!success] 🗺️ Regiones Tipo I y Tipo II
 > 
 > El teorema se extiende a regiones más generales que no son rectangulares:
 > 
@@ -150,7 +150,7 @@ graph TB
 
 ### 📦 Versión para Integrales Triples
 
-> [!example]- 🎲 Teorema de Fubini (Tres Variables)
+> [!example] 🎲 Teorema de Fubini (Tres Variables)
 > 
 > **Para regiones rectangulares:**
 > 
@@ -199,7 +199,7 @@ graph TD
 
 ### 📊 Método de las Rebanadas (Slicing)
 
-> [!tip]- 🍰 Visualización por Cortes
+> [!tip] 🍰 Visualización por Cortes
 > 
 > **Concepto fundamental:**
 > 
@@ -262,7 +262,7 @@ graph TD
 
 ### 🎯 Significado de los Límites de Integración
 
-> [!warning]- ⚠️ Interpretación Correcta de Límites
+> [!warning] ⚠️ Interpretación Correcta de Límites
 > 
 > **Regla fundamental:**
 > 
@@ -320,7 +320,7 @@ graph TD
 
 ### 📐 Metodología Sistemática
 
-> [!success]- 🔀 Pasos para Cambiar Orden
+> [!success] 🔀 Pasos para Cambiar Orden
 > 
 > **Procedimiento completo:**
 > 
@@ -364,7 +364,7 @@ graph TD
 
 ### 💡 Ejemplos Detallados
 
-> [!example]- 📝 Ejemplo 1: Región Triangular
+> [!example] 📝 Ejemplo 1: Región Triangular
 > 
 > **Problema:** Cambiar el orden de integración en:
 > 
@@ -422,7 +422,7 @@ graph TD
 > Tipo II: Barras horizontales (dx dy)
 > ```
 
-> [!example]- 📝 Ejemplo 2: Región Parabólica
+> [!example] 📝 Ejemplo 2: Región Parabólica
 > 
 > **Problema:** Cambiar el orden:
 > 
@@ -457,7 +457,7 @@ graph TD
 > ∫₀² ∫_{y²}⁴ f(x,y) dx dy
 > ```
 
-> [!example]- 📝 Ejemplo 3: Región Dividida
+> [!example] 📝 Ejemplo 3: Región Dividida
 > 
 > **Problema:** Cambiar el orden:
 > 
@@ -497,7 +497,7 @@ graph TD
 
 ### 🎲 Estrategias de Decisión
 
-> [!tip]- 🧠 ¿Cuándo Cambiar el Orden?
+> [!tip] 🧠 ¿Cuándo Cambiar el Orden?
 > 
 > **Indicadores para cambiar:**
 > 
@@ -536,7 +536,7 @@ graph TD
 
 ### 📊 Cálculo de Áreas
 
-> [!success]- 📏 Área de Regiones Planas
+> [!success] 📏 Área de Regiones Planas
 > 
 > **Fórmula fundamental:**
 > 
@@ -584,7 +584,7 @@ graph TD
 
 ### 🔢 Cálculo de Volúmenes
 
-> [!example]- 📦 Volumen bajo una Superficie
+> [!example] 📦 Volumen bajo una Superficie
 > 
 > **Ejemplo completo:**
 > 
@@ -624,7 +624,7 @@ graph TD
 
 ### 🎯 Integrales que Requieren Cambio de Orden
 
-> [!warning]- ⚡ Ejemplos donde es Necesario
+> [!warning] ⚡ Ejemplos donde es Necesario
 > 
 > **Ejemplo 1: Exponencial de x²**
 > 
@@ -703,7 +703,7 @@ graph TD
 
 ### 🌀 Coordenadas Polares
 
-> [!note]- 🔄 Teorema de Fubini en Polares
+> [!note] 🔄 Teorema de Fubini en Polares
 > 
 > **Transformación:**
 > 
@@ -751,7 +751,7 @@ graph TD
 
 ### 📦 Coordenadas Cilíndricas y Esféricas
 
-> [!tip]- 🎲 Fubini en 3D
+> [!tip] 🎲 Fubini en 3D
 > 
 > **Coordenadas cilíndricas:**
 > 
@@ -775,7 +775,7 @@ graph TD
 
 ### 📋 Hipótesis del Teorema
 
-> [!warning]- 🔍 Cuándo NO Aplica Fubini
+> [!warning] 🔍 Cuándo NO Aplica Fubini
 > 
 > **Condiciones suficientes (pero no necesarias):**
 > 
@@ -813,7 +813,7 @@ graph TD
 
 ### 🚫 Errores Comunes
 
-> [!danger]- ⚠️ Equivocaciones Frecuentes
+> [!danger] ⚠️ Equivocaciones Frecuentes
 > 
 > **Error 1: Confundir límites**
 > 
@@ -900,7 +900,7 @@ mindmap
 
 ### Tabla de Referencia Rápida
 
-> [!quote]- 📚 Guía de Consulta
+> [!quote] 📚 Guía de Consulta
 > 
 > **Tipos de regiones:**
 > 
@@ -964,7 +964,7 @@ flowchart TD
 
 ## 🎓 Ejercicios Resueltos Avanzados
 
-> [!example]- 💪 Ejercicio 1: Integral de Fresnel
+> [!example] 💪 Ejercicio 1: Integral de Fresnel
 > 
 > **Problema:** Evaluar $\displaystyle \int_0^1 \int_x^1 \cos(y^2) , dy , dx$
 > 
@@ -999,7 +999,7 @@ flowchart TD
 > Respuesta: sin(1)/2 ≈ 0.4207
 > ```
 
-> [!example]- 💪 Ejercicio 2: Volumen de Paraboloide
+> [!example] 💪 Ejercicio 2: Volumen de Paraboloide
 > 
 > **Problema:** Calcular el volumen bajo $z = 4 - x^2 - y^2$ sobre el primer cuadrante hasta $x + y = 2$.
 > 
@@ -1036,7 +1036,7 @@ flowchart TD
 > Respuesta: V = 16/3 unidades cúbicas
 > ```
 
-> [!example]- 💪 Ejercicio 3: Región con Tres Partes
+> [!example] 💪 Ejercicio 3: Región con Tres Partes
 > 
 > **Problema:** Cambiar el orden de:
 > 
@@ -1077,7 +1077,7 @@ flowchart TD
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Hacia Adelante en Cálculo
+> [!quote] 🌟 Hacia Adelante en Cálculo
 > 
 > **Teorema de Fubini como base para:**
 > 

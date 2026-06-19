@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es un Isomorfismo?
+> [!info] 💡 ¿Qué es un Isomorfismo?
 > 
 > Un **isomorfismo** es una transformación lineal especial que establece una correspondencia perfecta entre dos espacios vectoriales, preservando todas sus propiedades algebraicas. Es como tener dos "versiones" del mismo espacio vectorial, escritas en diferentes "idiomas" matemáticos.
 > 
@@ -63,7 +63,7 @@ graph LR
 
 ### 🎓 Definición Matemática
 
-> [!example]- 📝 Definición Formal de Isomorfismo
+> [!example] 📝 Definición Formal de Isomorfismo
 > 
 > **Definición:** Sean $V$ y $W$ espacios vectoriales sobre $\mathbb{F}$. Una transformación lineal $T: V \to W$ es un **isomorfismo** si cumple:
 > 
@@ -120,7 +120,7 @@ graph TB
 
 ### ✅ Criterios para Verificar Isomorfismo
 
-> [!success]- 🔍 ¿Cómo Saber si Dos Espacios son Isomorfos?
+> [!success] 🔍 ¿Cómo Saber si Dos Espacios son Isomorfos?
 > 
 > **Teorema fundamental:** Dos espacios vectoriales de dimensión finita sobre el mismo campo son isomorfos **si y solo si** tienen la misma dimensión.
 > 
@@ -199,7 +199,7 @@ graph TB
 
 ### 🎯 Teoremas Principales
 
-> [!tip]- 📐 Propiedades que se Preservan
+> [!tip] 📐 Propiedades que se Preservan
 > 
 > Un isomorfismo $T: V \to W$ preserva **todas** las propiedades algebraicas:
 > 
@@ -250,7 +250,7 @@ graph TB
 
 ### 🔄 Composición e Inversión
 
-> [!note]- 🔗 Operaciones con Isomorfismos
+> [!note] 🔗 Operaciones con Isomorfismos
 > 
 > **Teorema 1: Inversa de un isomorfismo**
 > 
@@ -318,7 +318,7 @@ graph TB
 
 ### 🎨 Isomorfismo entre $\mathbb{R}^n$ y otros espacios
 
-> [!example]- 🔢 Ejemplo 1: $\mathbb{R}^3 \cong \mathcal{P}_2(\mathbb{R})$
+> [!example] 🔢 Ejemplo 1: $\mathbb{R}^3 \cong \mathcal{P}_2(\mathbb{R})$
 > 
 > **Espacios:**
 > 
@@ -367,7 +367,7 @@ graph TB
 >     style B fill:#ffe1f5
 > ```
 
-> [!example]- 🔢 Ejemplo 2: $\mathbb{R}^4 \cong M_{2 \times 2}(\mathbb{R})$
+> [!example] 🔢 Ejemplo 2: $\mathbb{R}^4 \cong M_{2 \times 2}(\mathbb{R})$
 > 
 > **Espacios:**
 > 
@@ -395,7 +395,7 @@ graph TB
 > 
 > $$\begin{align} T(\alpha(a_1, b_1, c_1, d_1) + \beta(a_2, b_2, c_2, d_2)) &= T((\alpha a_1 + \beta a_2, \ldots)) \ &= \begin{pmatrix} \alpha a_1 + \beta a_2 & \alpha b_1 + \beta b_2 \ \alpha c_1 + \beta c_2 & \alpha d_1 + \beta d_2 \end{pmatrix} \ &= \alpha \begin{pmatrix} a_1 & b_1 \ c_1 & d_1 \end{pmatrix} + \beta \begin{pmatrix} a_2 & b_2 \ c_2 & d_2 \end{pmatrix} \ &= \alpha T(a_1, b_1, c_1, d_1) + \beta T(a_2, b_2, c_2, d_2) \quad ✓ \end{align}$$
 
-> [!example]- 🔢 Ejemplo 3: $\mathcal{P}_n(\mathbb{R}) \cong \mathbb{R}^{n+1}$
+> [!example] 🔢 Ejemplo 3: $\mathcal{P}_n(\mathbb{R}) \cong \mathbb{R}^{n+1}$
 > 
 > **Espacios:**
 > 
@@ -437,7 +437,7 @@ graph TB
 
 ### 📊 Representación mediante Coordenadas
 
-> [!tip]- 🗺️ El Isomorfismo de Coordenadas
+> [!tip] 🗺️ El Isomorfismo de Coordenadas
 > 
 > **Teorema fundamental:** Todo espacio vectorial $V$ de dimensión $n$ es isomorfo a $\mathbb{R}^n$.
 > 
@@ -486,7 +486,7 @@ graph TB
 >     style F fill:#e1ffe1
 > ```
 
-> [!example]- 📐 Ejemplo: Coordenadas en $\mathcal{P}_2(\mathbb{R})$
+> [!example] 📐 Ejemplo: Coordenadas en $\mathcal{P}_2(\mathbb{R})$
 > 
 > **Espacio:** $V = \mathcal{P}_2(\mathbb{R})$
 > 
@@ -531,7 +531,7 @@ graph TB
 
 ### 🎯 Matriz de Cambio de Base
 
-> [!note]- 🔀 Relación entre Bases y Coordenadas
+> [!note] 🔀 Relación entre Bases y Coordenadas
 > 
 > Sean $\mathcal{B}$ y $\mathcal{C}$ dos bases del espacio $V$.
 > 
@@ -570,7 +570,7 @@ graph TB
 > 3. $P_{\mathcal{B} \leftarrow \mathcal{B}} = I_n$ (identidad)
 > 4. $P_{\mathcal{A} \leftarrow \mathcal{C}} = P_{\mathcal{A} \leftarrow \mathcal{B}} \cdot P_{\mathcal{B} \leftarrow \mathcal{C}}$ (transitividad)
 
-> [!example]- 🎯 Ejemplo Completo: Cambio de Base en $\mathbb{R}^2$
+> [!example] 🎯 Ejemplo Completo: Cambio de Base en $\mathbb{R}^2$
 > 
 > **Bases:**
 > 
@@ -611,7 +611,7 @@ graph TB
 
 ### 💻 Simplificación de Problemas
 
-> [!success]- 🛠️ Uso de Isomorfismos para Resolver Problemas
+> [!success] 🛠️ Uso de Isomorfismos para Resolver Problemas
 > 
 > **Estrategia general:**
 > 
@@ -651,7 +651,7 @@ graph TB
 
 ### 🎨 Cambio de Perspectiva
 
-> [!tip]- 👓 Diferentes Visiones del Mismo Espacio
+> [!tip] 👓 Diferentes Visiones del Mismo Espacio
 > 
 > Los isomorfismos permiten ver el mismo espacio vectorial desde múltiples perspectivas:
 > 
@@ -719,7 +719,7 @@ mindmap
 
 ### Tabla Resumen
 
-> [!success]- 📋 Referencia Rápida
+> [!success] 📋 Referencia Rápida
 > 
 > **Definición y criterios:**
 > 
@@ -774,7 +774,7 @@ flowchart TD
 
 ## 🎯 Ejercicios Propuestos
 
-> [!example]- 💪 Problemas para Practicar
+> [!example] 💪 Problemas para Practicar
 > 
 > **Nivel Básico:**
 > 
@@ -824,7 +824,7 @@ flowchart TD
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Continuando el Aprendizaje
+> [!quote] 🌟 Continuando el Aprendizaje
 > 
 > **Has dominado:**
 > 

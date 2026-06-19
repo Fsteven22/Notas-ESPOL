@@ -7,11 +7,11 @@
 
 > [!quote] "En la inclinación de un plano se revelan todas las fuerzas fundamentales de la mecánica: el peso, la normal, la fricción y la tensión danzan en perfecta armonía matemática." 📐
 
-> [!info]- Los planos inclinados constituyen uno de los sistemas más fundamentales en la mecánica clásica, donde convergen conceptos de cinemática, dinámica, trabajo y energía. Desde rampas simples hasta sistemas complejos con poleas y múltiples objetos, estos problemas nos permiten analizar cómo las fuerzas se descomponen y interactúan en superficies no horizontales, siendo esenciales para comprender desde el movimiento en pendientes hasta máquinas simples.
+> [!info] Los planos inclinados constituyen uno de los sistemas más fundamentales en la mecánica clásica, donde convergen conceptos de cinemática, dinámica, trabajo y energía. Desde rampas simples hasta sistemas complejos con poleas y múltiples objetos, estos problemas nos permiten analizar cómo las fuerzas se descomponen y interactúan en superficies no horizontales, siendo esenciales para comprender desde el movimiento en pendientes hasta máquinas simples.
 
 ## 🎯 Tipos de Planos Inclinados
 
-> [!info]- **Plano Inclinado Simple (Sin Fricción)** 🛷
+> [!info] **Plano Inclinado Simple (Sin Fricción)** 🛷
 > 
 > ### Características Principales:
 > 
@@ -34,7 +34,7 @@
 > - N = mg cos θ
 > - v² = 2as (para MRUV)
 
-> [!tip]- **Plano Inclinado con Fricción** 🏔️
+> [!tip] **Plano Inclinado con Fricción** 🏔️
 > 
 > ### Características Principales:
 > 
@@ -60,7 +60,7 @@
 > - **Subida**: a = -g(sin θ + μₖ cos θ)
 > - **Bajada**: a = g(sin θ - μₖ cos θ)
 
-> [!warning]- **Sistemas con Poleas** 🔗
+> [!warning] **Sistemas con Poleas** 🔗
 > 
 > ### Características Principales:
 > 
@@ -103,7 +103,7 @@
 >     style K fill:#fce4ec
 > ```
 
-> [!note]- **Relaciones Trigonométricas Esenciales** 📐
+> [!note] **Relaciones Trigonométricas Esenciales** 📐
 > 
 > ### En plano inclinado con ángulo θ:
 > 
@@ -121,7 +121,7 @@
 
 ## 🎯 Estrategias de Resolución
 
-> [!tip]- **Método PIND (Plano-Inclinación-Normal-Dinámica)** 🧠
+> [!tip] **Método PIND (Plano-Inclinación-Normal-Dinámica)** 🧠
 > 
 > ### **P**lano - Establece el sistema de coordenadas
 > 
@@ -149,7 +149,7 @@
 
 ## 📚 Problemas Tipo
 
-> [!example]- **Problema 1: Plano Inclinado Liso** 🛷
+> [!example] **Problema 1: Plano Inclinado Liso** 🛷
 > 
 > ### Enunciado:
 > 
@@ -178,7 +178,7 @@
 > 
 > **Paso 5: Velocidad final** v = v₀ + at = 0 + 4.9(1.28) = **6.27 m/s**
 
-> [!example]- **Problema 2: Plano Inclinado con Fricción** 🏔️
+> [!example] **Problema 2: Plano Inclinado con Fricción** 🏔️
 > 
 > ### Enunciado:
 > 
@@ -205,7 +205,7 @@
 > 
 > **Paso 6: Aceleración bajando** ΣF = ma → 12.44 - 7.99 = 3a a = 4.45/3 = **1.48 m/s²**
 
-> [!example]- **Problema 3: Sistema con Polea** 🔗
+> [!example] **Problema 3: Sistema con Polea** 🔗
 > 
 > ### Enunciado:
 > 
@@ -243,9 +243,9 @@
 
 ## 🧮 Técnicas de Memorización
 
-> [!tip]- **Mnemotecnia: "PESO"** ⚖️ **P**aralela → **E**s **S**eno del ángulo **E**s la que causa movimiento **S**erpendicular → **O**btiene coseno **O**pone resistencia (normal)
+> [!tip] **Mnemotecnia: "PESO"** ⚖️ **P**aralela → **E**s **S**eno del ángulo **E**s la que causa movimiento **S**erpendicular → **O**btiene coseno **O**pone resistencia (normal)
 
-> [!tip]- **Regla Visual: "Triángulo de Fuerzas"** 📐
+> [!tip] **Regla Visual: "Triángulo de Fuerzas"** 📐
 > 
 > ```
 >      mg
@@ -263,7 +263,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- **Confusiones Frecuentes** ⚠️
+> [!warning] **Confusiones Frecuentes** ⚠️
 > 
 > 1. **Confundir seno y coseno**: Recordar que sin θ va con la componente paralela
 > 2. **Signo de la fricción**: Siempre opuesta al movimiento o tendencia de movimiento
@@ -274,7 +274,7 @@
 
 ## 🎯 Aplicaciones Prácticas
 
-> [!info]- **Ejemplos del Mundo Real** 🌍
+> [!info] **Ejemplos del Mundo Real** 🌍
 > 
 > ### Transporte:
 > 
@@ -308,7 +308,7 @@
 
 ## 📖 Referencias
 
-> [!quote]- **Notas Relacionadas**
+> [!quote] **Notas Relacionadas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/02 - Dinámica/Dinámica de Traslación/Fuerzas y Diagramas de Cuerpo Libre\|Fuerzas y Diagramas de Cuerpo Libre]] - Base del análisis de fuerzas
 > - [[Universidad/1er Semestre/Física Mecanica/02 - Dinámica/Aplicaciones de Dinámica de Traslación/Problemas con rozamiento\|Problemas con rozamiento]] - Fricción en superficies inclinadas
@@ -317,7 +317,7 @@
 
 ## 📚 Notas Recomendadas
 
-> [!note]- **Prerrequisitos**
+> [!note] **Prerrequisitos**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Descomposición de fuerzas
 > - [[Trigonometría Básica\|Trigonometría Básica]] - Funciones trigonométricas

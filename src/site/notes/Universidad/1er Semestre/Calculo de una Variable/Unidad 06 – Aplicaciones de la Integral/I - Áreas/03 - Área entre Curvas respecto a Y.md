@@ -5,11 +5,11 @@
 
 # 📊 Área entre Curvas: Integración con Respecto a Y
 
-> [!info]- 💡 **Concepto Central** La integración con respecto a y es un método alternativo para calcular áreas entre curvas donde tomamos **franjas horizontales** en lugar de verticales. En lugar de usar dx, empleamos dy, y en lugar de restar "superior menos inferior", restamos "derecha menos izquierda".
+> [!info] 💡 **Concepto Central** La integración con respecto a y es un método alternativo para calcular áreas entre curvas donde tomamos **franjas horizontales** en lugar de verticales. En lugar de usar dx, empleamos dy, y en lugar de restar "superior menos inferior", restamos "derecha menos izquierda".
 
 ## 🎯 Definición Fundamental
 
-> [!tip]- 🆔 **Fórmula Básica para Integración Respecto a Y** Si tenemos curvas definidas como $x = f(y)$ y $x = g(y)$, donde $f(y) \geq g(y)$ para todo $y \in [c,d]$, entonces el área entre las curvas es:
+> [!tip] 🆔 **Fórmula Básica para Integración Respecto a Y** Si tenemos curvas definidas como $x = f(y)$ y $x = g(y)$, donde $f(y) \geq g(y)$ para todo $y \in [c,d]$, entonces el área entre las curvas es:
 > 
 > $$A = \int_c^d [f(y) - g(y)] , dy$$
 > 
@@ -19,7 +19,7 @@
 > - $g(y)$ es la **función de la izquierda**
 > - $[c,d]$ son los límites en y (inferior y superior)
 
-> [!warning]- ⚠️ **Orientación Importante** En este método, los rectángulos son **horizontales** y tienen:
+> [!warning] ⚠️ **Orientación Importante** En este método, los rectángulos son **horizontales** y tienen:
 > 
 > - **Ancho**: $f(y) - g(y)$ (derecha menos izquierda)
 > - **Altura**: $dy$ (diferencial en y)
@@ -29,7 +29,7 @@
 
 ### 📐 Método Tradicional (Integración respecto a x)
 
-> [!info]- 📊 **Franjas Verticales (dx)**
+> [!info] 📊 **Franjas Verticales (dx)**
 > 
 > ```
 > y = f(x)  ┌─────────┐ ← función superior
@@ -44,7 +44,7 @@
 
 ### 📊 Método Alternativo (Integración respecto a y)
 
-> [!tip]- 📈 **Franjas Horizontales (dy)**
+> [!tip] 📈 **Franjas Horizontales (dy)**
 > 
 > ```
 > x = g(y) │ x = f(y)
@@ -62,7 +62,7 @@
 
 ## 📋 Metodología Paso a Paso
 
-> [!info]- 🔧 **Algoritmo para Integración Respecto a Y**
+> [!info] 🔧 **Algoritmo para Integración Respecto a Y**
 > 
 > **Paso 1**: Expresar las curvas en términos de y
 > 
@@ -113,7 +113,7 @@
 
 ### 🔬 Ejemplo 1: Parábola y Recta Vertical
 
-> [!tip]- 📈 **Área entre $x = y^2$ y $x = 4$ desde $y = -2$ hasta $y = 2$**
+> [!tip] 📈 **Área entre $x = y^2$ y $x = 4$ desde $y = -2$ hasta $y = 2$**
 > 
 > **Paso 1**: Identificar las funciones
 > 
@@ -129,7 +129,7 @@
 
 ### 🔬 Ejemplo 2: Dos Parábolas
 
-> [!tip]- 📈 **Área entre $x = y^2 + 1$ y $x = 3 - y^2$**
+> [!tip] 📈 **Área entre $x = y^2 + 1$ y $x = 3 - y^2$**
 > 
 > **Paso 1**: Encontrar intersecciones $$y^2 + 1 = 3 - y^2$$ $$2y^2 = 2$$ $$y^2 = 1 \Rightarrow y = \pm 1$$
 > 
@@ -144,7 +144,7 @@
 
 ### 🔬 Ejemplo 3: Cuando dy es Mejor que dx
 
-> [!tip]- 📈 **Área entre $x = \sqrt{y}$, $x = 0$ y $y = 4$**
+> [!tip] 📈 **Área entre $x = \sqrt{y}$, $x = 0$ y $y = 4$**
 > 
 > **Comparación de métodos:**
 > 
@@ -156,7 +156,7 @@
 
 ### ✅ Casos Ideales para dy
 
-> [!tip]- 🎯 **Usar integración respecto a Y cuando:**
+> [!tip] 🎯 **Usar integración respecto a Y cuando:**
 > 
 > 1. **Funciones dadas como x = f(y)**:
 >     - $x = y^2, x = \sqrt{y}, x = e^y$, etc.
@@ -172,7 +172,7 @@
 
 ### ❌ Casos donde NO conviene dy
 
-> [!warning]- 🚫 **Evitar integración respecto a Y cuando:**
+> [!warning] 🚫 **Evitar integración respecto a Y cuando:**
 > 
 > - Las funciones son naturalmente $y = f(x)$
 > - Los límites son líneas verticales $x = a, x = b$
@@ -183,7 +183,7 @@
 
 ### 📐 Casos Comunes de Conversión
 
-> [!info]- 🔄 **Transformaciones Útiles**
+> [!info] 🔄 **Transformaciones Útiles**
 > 
 > |Forma y = f(x)|Forma x = g(y)|Observaciones|
 > |---|---|---|
@@ -196,7 +196,7 @@
 
 ### 🧮 Manejo de Múltiples Ramas
 
-> [!warning]- 🌿 **Cuando x = f(y) tiene múltiples valores**
+> [!warning] 🌿 **Cuando x = f(y) tiene múltiples valores**
 > 
 > Para $x^2 + y^2 = 4$ (círculo):
 > 
@@ -209,7 +209,7 @@
 
 ### 🔬 Ejemplo 4: Región Compleja
 
-> [!tip]- 📈 **Área limitada por $y = x^2 - 4$, $y = 0$, $x = 0$ (primer cuadrante)**
+> [!tip] 📈 **Área limitada por $y = x^2 - 4$, $y = 0$, $x = 0$ (primer cuadrante)**
 > 
 > **Análisis del problema:**
 > 
@@ -228,7 +228,7 @@
 
 ### 🔬 Ejemplo 5: Curva con Bucle
 
-> [!tip]- 📈 **Área de un bucle en $x = y^3 - 3y$**
+> [!tip] 📈 **Área de un bucle en $x = y^3 - 3y$**
 > 
 > **Paso 1**: Encontrar donde la curva se cruza (bucle) Para intersecciones con el eje y: $x = 0$ $$y^3 - 3y = 0 \Rightarrow y(y^2 - 3) = 0$$ $$y = 0, y = \pm\sqrt{3}$$
 > 
@@ -245,7 +245,7 @@
 
 ### 🤔 ¿dx o dy?
 
-> [!info]- 💡 **Criterios de Decisión**
+> [!info] 💡 **Criterios de Decisión**
 > 
 > ```mermaid
 > flowchart TD
@@ -279,7 +279,7 @@
 
 ### 📊 Tabla Comparativa
 
-> [!tip]- 📋 **Guía Rápida de Decisión**
+> [!tip] 📋 **Guía Rápida de Decisión**
 > 
 > |Situación|Mejor Método|Razón|
 > |---|---|---|
@@ -294,7 +294,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- 🚨 **Errores Frecuentes en Integración dy**
+> [!warning] 🚨 **Errores Frecuentes en Integración dy**
 > 
 > 1. **Confundir derecha-izquierda con superior-inferior**:
 >     - ❌ $\int [g(y) - f(y)] dy$ cuando $f(y) > g(y)$
@@ -316,7 +316,7 @@
 
 ### 🏗️ Problemas de Ingeniería
 
-> [!info]- 🏗️ **Cálculo de Áreas de Secciones Transversales**
+> [!info] 🏗️ **Cálculo de Áreas de Secciones Transversales**
 > 
 > Para una viga con perfil definido por límites horizontales:
 > 
@@ -327,7 +327,7 @@
 
 ### 💧 Hidráulica
 
-> [!tip]- 💧 **Cálculo de Área Mojada en Canales**
+> [!tip] 💧 **Cálculo de Área Mojada en Canales**
 > 
 > Para un canal con forma parabólica $x = ay^2$:
 > 
@@ -336,7 +336,7 @@
 
 ### 📐 Centros de Masa
 
-> [!warning]- ⚖️ **Cálculo de Centroides con dy**
+> [!warning] ⚖️ **Cálculo de Centroides con dy**
 > 
 > Para una región definida por $x = f(y)$ y $x = g(y)$: $$\bar{x} = \frac{1}{A}\int_c^d \frac{f(y) + g(y)}{2}[f(y) - g(y)] , dy$$ $$\bar{y} = \frac{1}{A}\int_c^d y[f(y) - g(y)] , dy$$
 

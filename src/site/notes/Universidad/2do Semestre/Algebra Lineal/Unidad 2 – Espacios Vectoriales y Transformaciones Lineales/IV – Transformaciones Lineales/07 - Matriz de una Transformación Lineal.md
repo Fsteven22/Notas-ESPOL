@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es una Matriz de Transformación? Una **matriz de transformación lineal** es una representación numérica compacta de cómo una transformación lineal afecta a los vectores en el espacio. Es el "código genético" que describe completamente el comportamiento de la transformación.
+> [!info] 💡 ¿Qué es una Matriz de Transformación? Una **matriz de transformación lineal** es una representación numérica compacta de cómo una transformación lineal afecta a los vectores en el espacio. Es el "código genético" que describe completamente el comportamiento de la transformación.
 > 
 > **Analogía práctica:** Imagina un filtro fotográfico que modifica imágenes. La matriz de transformación es como la "receta" del filtro:
 > 
@@ -46,7 +46,7 @@ graph TB
 
 ### 🏗️ Proceso de Construcción
 
-> [!example]- 🔨 ¿Cómo se construye una matriz de transformación?
+> [!example] 🔨 ¿Cómo se construye una matriz de transformación?
 > 
 > El proceso se basa en un principio fundamental: **las columnas de la matriz son las imágenes de los vectores de la base**.
 > 
@@ -101,7 +101,7 @@ graph TB
 
 ### 🎨 Ejemplos Fundamentales
 
-> [!success]- 📊 Transformaciones Básicas en ℝ²
+> [!success] 📊 Transformaciones Básicas en ℝ²
 > 
 > **1. Rotación por ángulo θ (sentido antihorario)**
 > 
@@ -214,7 +214,7 @@ graph TB
 
 ### 🔄 Transformaciones en ℝ³
 
-> [!note]- 🌐 Extensión a Tres Dimensiones
+> [!note] 🌐 Extensión a Tres Dimensiones
 > 
 > **Construcción en ℝ³:**
 > 
@@ -281,7 +281,7 @@ graph TB
 
 ### ⚙️ Aplicar la Transformación
 
-> [!tip]- 🎯 Multiplicación Matriz-Vector
+> [!tip] 🎯 Multiplicación Matriz-Vector
 > 
 > **Fórmula general:**
 > 
@@ -352,7 +352,7 @@ graph TB
 
 ### 🔗 Composición de Transformaciones
 
-> [!success]- 🎭 Multiplicación de Matrices
+> [!success] 🎭 Multiplicación de Matrices
 > 
 > **Concepto fundamental:**
 > 
@@ -444,7 +444,7 @@ graph TB
 
 ### 🔄 Transformación Inversa
 
-> [!warning]- ↩️ Invertibilidad de Transformaciones
+> [!warning] ↩️ Invertibilidad de Transformaciones
 > 
 > **Concepto:**
 > 
@@ -536,7 +536,7 @@ graph TB
 
 ### 🔄 Concepto de Cambio de Base
 
-> [!info]- 🗺️ Representación en Diferentes Bases
+> [!info] 🗺️ Representación en Diferentes Bases
 > 
 > **Idea fundamental:**
 > 
@@ -597,7 +597,7 @@ graph TB
 
 ### 🛠️ Ejemplo Completo de Cambio de Base
 
-> [!example]- 📐 Caso Práctico en ℝ²
+> [!example] 📐 Caso Práctico en ℝ²
 > 
 > **Problema:**
 > 
@@ -671,7 +671,7 @@ graph TB
 
 ### 🌟 Diagonalización
 
-> [!success]- 💎 La Base Perfecta
+> [!success] 💎 La Base Perfecta
 > 
 > **Definición:**
 > 
@@ -756,7 +756,7 @@ graph TB
 
 ### 📊 Determinante y Transformaciones
 
-> [!note]- 📏 Interpretación Geométrica del Determinante
+> [!note] 📏 Interpretación Geométrica del Determinante
 > 
 > **Definición geométrica:**
 > 
@@ -840,7 +840,7 @@ graph TB
 
 ### 🎯 Traza de una Matriz
 
-> [!tip]- ➕ Suma de Elementos Diagonales
+> [!tip] ➕ Suma de Elementos Diagonales
 > 
 > **Definición:**
 > 
@@ -899,7 +899,7 @@ graph TB
 
 ### 🔬 Rango de una Matriz
 
-> [!warning]- 📐 Dimensión de la Imagen
+> [!warning] 📐 Dimensión de la Imagen
 > 
 > **Definición:**
 > 
@@ -1051,7 +1051,7 @@ flowchart TD
 
 ## 🎓 Ejercicios Guiados
 
-> [!example]- 💪 Práctica Progresiva
+> [!example] 💪 Práctica Progresiva
 > 
 > **Nivel Básico:**
 > 
@@ -1157,7 +1157,7 @@ flowchart TD
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Continuando el Aprendizaje
+> [!quote] 🌟 Continuando el Aprendizaje
 > 
 > **Has dominado:**
 > 

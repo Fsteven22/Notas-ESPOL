@@ -7,11 +7,11 @@
 
 > [!quote] "En el movimiento circular, la aceleración no solo cambia la rapidez, sino que también mantiene la curvatura del camino; entender sus componentes es dominar la danza entre velocidad y dirección." 🌀
 
-> [!info]- En el movimiento circular, la aceleración total se descompone en dos componentes fundamentales: la aceleración tangencial, que modifica la magnitud de la velocidad, y la aceleración centrípeta, que cambia constantemente la dirección del movimiento. Comprender estas componentes es esencial para analizar sistemas rotacionales complejos como ruedas, engranajes, satélites y máquinas rotativas.
+> [!info] En el movimiento circular, la aceleración total se descompone en dos componentes fundamentales: la aceleración tangencial, que modifica la magnitud de la velocidad, y la aceleración centrípeta, que cambia constantemente la dirección del movimiento. Comprender estas componentes es esencial para analizar sistemas rotacionales complejos como ruedas, engranajes, satélites y máquinas rotativas.
 
 ## 🎯 Tipos de Aceleración en Movimiento Circular
 
-> [!info]- **Aceleración Tangencial (aₜ)** 🏹
+> [!info] **Aceleración Tangencial (aₜ)** 🏹
 > 
 > ### Características Principales:
 > 
@@ -34,7 +34,7 @@
 > - aₜ = dv/dt
 > - α = aₜ/r
 
-> [!tip]- **Aceleración Centrípeta (aₓ)** 🎪
+> [!tip] **Aceleración Centrípeta (aₓ)** 🎪
 > 
 > ### Características Principales:
 > 
@@ -57,7 +57,7 @@
 > - aₓ = 4π²r/T²
 > - aₓ = (2πr/T)²/r
 
-> [!warning]- **Aceleración Total (a)** ⚡
+> [!warning] **Aceleración Total (a)** ⚡
 > 
 > ### Características Principales:
 > 
@@ -89,7 +89,7 @@
 >     style F fill:#f1f8e9
 > ```
 
-> [!note]- **Relaciones Matemáticas** 📐
+> [!note] **Relaciones Matemáticas** 📐
 > 
 > ### Para Aceleración Tangencial:
 > 
@@ -105,7 +105,7 @@
 
 ## 🎯 Estrategias de Resolución
 
-> [!tip]- **Método CART (Circular-Análisis-Relaciones-Total)** 🧠
+> [!tip] **Método CART (Circular-Análisis-Relaciones-Total)** 🧠
 > 
 > ### **C**ircular - Identifica el sistema
 > 
@@ -133,7 +133,7 @@
 
 ## 📚 Problemas Tipo
 
-> [!example]- **Problema 1: Rueda que Acelera** 🚗
+> [!example] **Problema 1: Rueda que Acelera** 🚗
 > 
 > ### Enunciado:
 > 
@@ -155,7 +155,7 @@
 > 
 > **Ángulo**: θ = arctan(aₜ/aₓ) = arctan(0.6/10.8) = **3.18°**
 
-> [!example]- **Problema 2: Satélite en Órbita** 🛰️
+> [!example] **Problema 2: Satélite en Órbita** 🛰️
 > 
 > ### Enunciado:
 > 
@@ -175,7 +175,7 @@
 > 
 > **Interpretación**: La aceleración está dominada por la componente centrípeta.
 
-> [!example]- **Problema 3: Punto en Disco Rotatorio** 💿
+> [!example] **Problema 3: Punto en Disco Rotatorio** 💿
 > 
 > ### Enunciado:
 > 
@@ -198,9 +198,9 @@
 
 ## 🧮 Técnicas de Memorización
 
-> [!tip]- **Mnemotecnia: "TANC"** 🎵 **T**angencial → **A**ltera magnitud **A**ngular → **N**o cambia dirección **N**ormal (centrípeta) → **C**ambia dirección constantemente **C**entrípeta → **C**entro siempre apunta
+> [!tip] **Mnemotecnia: "TANC"** 🎵 **T**angencial → **A**ltera magnitud **A**ngular → **N**o cambia dirección **N**ormal (centrípeta) → **C**ambia dirección constantemente **C**entrípeta → **C**entro siempre apunta
 
-> [!tip]- **Regla Visual: "Reloj de Aceleraciones"** 🕐
+> [!tip] **Regla Visual: "Reloj de Aceleraciones"** 🕐
 > 
 > - **12:00** → aₓ (hacia centro)
 > - **3:00** → aₜ (tangencial, si acelera)
@@ -208,7 +208,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- **Confusiones Frecuentes** ⚠️
+> [!warning] **Confusiones Frecuentes** ⚠️
 > 
 > 1. **Confundir direcciones**: aₓ siempre hacia el centro, aₜ siempre tangencial
 > 2. **Olvidar aₓ en MCU**: Incluso con velocidad constante existe aceleración centrípeta
@@ -219,7 +219,7 @@
 
 ## 🎯 Aplicaciones Prácticas
 
-> [!info]- **Ejemplos del Mundo Real** 🌍
+> [!info] **Ejemplos del Mundo Real** 🌍
 > 
 > ### Transporte:
 > 
@@ -247,7 +247,7 @@
 
 ## 📖 Referencias
 
-> [!quote]- **Notas Relacionadas**
+> [!quote] **Notas Relacionadas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/01 - Cinemática/Cinemática Rotacional\|Cinemática Rotacional]] - Fundamentos teóricos
 > - [[Universidad/1er Semestre/Física Mecanica/01 - Cinemática/Aplicaciones de Cinemática Rotacional/Problemas de Engranajes, Poleas y Transmisión de Movimiento\|Problemas de Engranajes, Poleas y Transmisión de Movimiento]] - Aplicaciones
@@ -256,7 +256,7 @@
 
 ## 📚 Notas Recomendadas
 
-> [!note]- **Prerrequisitos**
+> [!note] **Prerrequisitos**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Suma vectorial y componentes
 > - [[Universidad/1er Semestre/Física Mecanica/01 - Cinemática/Cinemática Traslacional\|Cinemática Traslacional]] - Conceptos básicos de aceleración

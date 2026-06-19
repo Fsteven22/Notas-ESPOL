@@ -7,7 +7,7 @@
 
 ## 📐 Introducción
 
-> [!info]- 💡 ¿Qué es la Desigualdad de Cauchy–Schwarz?
+> [!info] 💡 ¿Qué es la Desigualdad de Cauchy–Schwarz?
 > 
 > La **desigualdad de Cauchy–Schwarz** es una de las desigualdades más fundamentales y elegantes del álgebra lineal. Establece una relación universal entre el producto interno de dos vectores y sus normas.
 > 
@@ -55,7 +55,7 @@ graph TB
 
 ### 🎯 Forma Estándar en ℝⁿ
 
-> [!example]- 📏 Desigualdad en Espacios Euclidianos
+> [!example] 📏 Desigualdad en Espacios Euclidianos
 > 
 > **Teorema (Cauchy-Schwarz en ℝⁿ):**
 > 
@@ -137,7 +137,7 @@ graph TB
 
 ### 🔄 Formulaciones Equivalentes
 
-> [!note]- 📐 Otras Formas de la Desigualdad
+> [!note] 📐 Otras Formas de la Desigualdad
 > 
 > **1. Forma algebraica (desigualdad cuadrática):**
 > 
@@ -201,7 +201,7 @@ graph TB
 
 ### 📐 Demostración Geométrica
 
-> [!success]- 🎨 Enfoque Geométrico Intuitivo
+> [!success] 🎨 Enfoque Geométrico Intuitivo
 > 
 > **Idea:** Usar la proyección ortogonal de **u** sobre **v**.
 > 
@@ -264,7 +264,7 @@ graph TB
 
 ### 🧮 Demostración Algebraica
 
-> [!tip]- 📊 Enfoque Algebraico (Método Clásico)
+> [!tip] 📊 Enfoque Algebraico (Método Clásico)
 > 
 > **Demostración usando discriminante:**
 > 
@@ -307,7 +307,7 @@ graph TB
 
 ### 🎓 Demostración por Inducción
 
-> [!example]- 📝 Enfoque por Casos (ℝ²)
+> [!example] 📝 Enfoque por Casos (ℝ²)
 > 
 > **Demostración directa para n = 2:**
 > 
@@ -341,7 +341,7 @@ graph TB
 
 ### 🎯 Condiciones de Igualdad
 
-> [!warning]- 📏 Cuándo se Alcanza la Igualdad
+> [!warning] 📏 Cuándo se Alcanza la Igualdad
 > 
 > **Teorema:** La igualdad en Cauchy-Schwarz ocurre si y solo si los vectores son **linealmente dependientes**.
 > 
@@ -426,7 +426,7 @@ graph TB
 
 ### 📐 Definición del Ángulo entre Vectores
 
-> [!success]- 🎯 Motivación Geométrica
+> [!success] 🎯 Motivación Geométrica
 > 
 > **Problema:** ¿Cómo definir el ángulo entre vectores en ℝⁿ para n > 3?
 > 
@@ -489,7 +489,7 @@ graph TB
 
 ### 📏 Desigualdad Triangular
 
-> [!tip]- 🔺 Consecuencia Directa
+> [!tip] 🔺 Consecuencia Directa
 > 
 > **Teorema (Desigualdad triangular):**
 > 
@@ -558,7 +558,7 @@ graph TB
 
 ### 📊 Coeficiente de Correlación
 
-> [!example]- 📈 Aplicación en Estadística
+> [!example] 📈 Aplicación en Estadística
 > 
 > **Definición:** El coeficiente de correlación de Pearson entre variables X e Y es:
 > 
@@ -614,7 +614,7 @@ graph TB
 
 ### 🌐 Espacios con Producto Interno
 
-> [!info]- 📚 Forma General
+> [!info] 📚 Forma General
 > 
 > **Teorema (Cauchy-Schwarz general):**
 > 
@@ -652,7 +652,7 @@ graph TB
 
 ### 🔄 Desigualdad de Hölder
 
-> [!tip]- 📊 Generalización con Normas p
+> [!tip] 📊 Generalización con Normas p
 > 
 > **Desigualdad de Hölder:**
 > 
@@ -695,7 +695,7 @@ graph TB
 
 ### 📐 Desigualdad de Minkowski
 
-> [!note]- 🔺 Generalización de la Triangular
+> [!note] 🔺 Generalización de la Triangular
 > 
 > **Desigualdad de Minkowski:**
 > 
@@ -719,7 +719,7 @@ graph TB
 
 ### Nivel Básico
 
-> [!example]- 💪 Ejercicio 1: Verificar Cauchy-Schwarz
+> [!example] 💪 Ejercicio 1: Verificar Cauchy-Schwarz
 > 
 > **Problema:** Verificar la desigualdad de Cauchy-Schwarz para:
 > 
@@ -752,7 +752,7 @@ graph TB
 > (Vectores ortogonales)
 > ```
 
-> [!example]- 💪 Ejercicio 2: Calcular Ángulo
+> [!example] 💪 Ejercicio 2: Calcular Ángulo
 > 
 > **Problema:** Encontrar el ángulo entre:
 > 
@@ -782,7 +782,7 @@ graph TB
 
 ### Nivel Intermedio
 
-> [!example]- 💪 Ejercicio 3: Caso de Igualdad
+> [!example] 💪 Ejercicio 3: Caso de Igualdad
 > 
 > **Problema:** Para qué valor de λ se alcanza la igualdad en Cauchy-Schwarz si:
 > 
@@ -811,7 +811,7 @@ graph TB
 > Respuesta: λ = 8/3
 > ```
 
-> [!example]- 💪 Ejercicio 4: Desigualdad Triangular
+> [!example] 💪 Ejercicio 4: Desigualdad Triangular
 > 
 > **Problema:** Verificar que ‖**u** + **v**‖ ≤ ‖**u**‖ + ‖**v**‖ para:
 > 
@@ -837,7 +837,7 @@ graph TB
 
 ### Nivel Avanzado
 
-> [!example]- 💪 Ejercicio 5: Funciones
+> [!example] 💪 Ejercicio 5: Funciones
 > 
 > **Problema:** Verificar Cauchy-Schwarz para funciones en L²[0,1]:
 > 
@@ -900,7 +900,7 @@ mindmap
 
 ### Tabla Resumen
 
-> [!note]- 📋 Conceptos Clave
+> [!note] 📋 Conceptos Clave
 > 
 > |Aspecto|Contenido|Importancia|
 > |---|---|---|

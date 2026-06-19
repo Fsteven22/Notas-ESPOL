@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué son las Integrales Múltiples? Las **integrales múltiples** son una extensión natural de las integrales definidas de una variable a funciones de varias variables. Permiten calcular volúmenes, masas, centroides y otras magnitudes en espacios de dimensión superior.
+> [!info] 💡 ¿Qué son las Integrales Múltiples? Las **integrales múltiples** son una extensión natural de las integrales definidas de una variable a funciones de varias variables. Permiten calcular volúmenes, masas, centroides y otras magnitudes en espacios de dimensión superior.
 > 
 > **Analogía práctica:** Imagina que necesitas calcular:
 > 
@@ -48,7 +48,7 @@ graph TB
 
 ### 🔲 Concepto Fundamental
 
-> [!example]- 📐 Definición de Integral Doble
+> [!example] 📐 Definición de Integral Doble
 > 
 > Una **integral doble** extiende el concepto de integral definida a funciones de dos variables. Si f(x,y) es una función continua sobre una región R del plano xy, la integral doble se define como:
 > 
@@ -105,7 +105,7 @@ graph TB
 
 ### 📏 Regiones de Integración
 
-> [!note]- 🗺️ Tipos de Regiones
+> [!note] 🗺️ Tipos de Regiones
 > 
 > **Clasificación de regiones:**
 > 
@@ -207,7 +207,7 @@ graph TB
 
 ### ⚙️ Cálculo de Integrales Dobles
 
-> [!success]- 🔢 Procedimiento de Evaluación
+> [!success] 🔢 Procedimiento de Evaluación
 > 
 > **Algoritmo paso a paso:**
 > 
@@ -353,7 +353,7 @@ graph TB
 
 ### 📦 Concepto de Integral Triple
 
-> [!info]- 🎲 Extensión a Tres Dimensiones
+> [!info] 🎲 Extensión a Tres Dimensiones
 > 
 > Una **integral triple** extiende el concepto a funciones de tres variables sobre regiones tridimensionales (sólidos).
 > 
@@ -400,7 +400,7 @@ graph TB
 
 ### 🗂️ Tipos de Regiones en R³
 
-> [!note]- 📐 Clasificación de Sólidos
+> [!note] 📐 Clasificación de Sólidos
 > 
 > **Sólidos de Tipo 1 (z varía entre funciones):**
 > 
@@ -491,7 +491,7 @@ graph TB
 
 ### 🔄 Órdenes de Integración
 
-> [!tip]- 🔀 Cambiar el Orden
+> [!tip] 🔀 Cambiar el Orden
 > 
 > Para una caja rectangular, hay **6 órdenes posibles**:
 > 
@@ -569,7 +569,7 @@ graph TB
 
 ### ⚖️ Masa y Centro de Masa
 
-> [!success]- 🏋️ Cálculos Físicos
+> [!success] 🏋️ Cálculos Físicos
 > 
 > **Para láminas (2D):**
 > 
@@ -649,7 +649,7 @@ graph TB
 
 ### 📐 Volumen de Sólidos
 
-> [!example]- 📦 Cálculo de Volúmenes
+> [!example] 📦 Cálculo de Volúmenes
 > 
 > **Volumen bajo una superficie:**
 > 
@@ -744,7 +744,7 @@ flowchart TD
 
 ### ✅ Checklist de Resolución
 
-> [!tip]- 📋 Lista de Verificación
+> [!tip] 📋 Lista de Verificación
 > 
 > **Para integrales dobles:**
 > 
@@ -783,7 +783,7 @@ flowchart TD
 
 ### 📝 Ejemplo 1: Integral Doble sobre Región Tipo I
 
-> [!example]- 🎯 Problema Completo
+> [!example] 🎯 Problema Completo
 > 
 > **Problema:** Calcular ∬_R y² dA donde R está acotada por y = x, y = 2x, x = 1
 > 
@@ -831,7 +831,7 @@ flowchart TD
 
 ### 📝 Ejemplo 2: Integral Triple sobre Tetraedro
 
-> [!example]- 🎯 Volumen de Tetraedro
+> [!example] 🎯 Volumen de Tetraedro
 > 
 > **Problema:** Calcular el volumen del tetraedro limitado por los planos coordenados y el plano x + 2y + 3z = 6
 > 
@@ -914,7 +914,7 @@ flowchart TD
 
 ### 📝 Ejemplo 3: Centro de Masa de Lámina
 
-> [!example]- 🎯 Aplicación Física
+> [!example] 🎯 Aplicación Física
 > 
 > **Problema:** Encontrar el centro de masa de una lámina semicircular de radio a con densidad ρ(x,y) = y
 > 
@@ -989,7 +989,7 @@ flowchart TD
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Camino de Aprendizaje
+> [!quote] 🌟 Camino de Aprendizaje
 > 
 > **Has dominado:**
 > 

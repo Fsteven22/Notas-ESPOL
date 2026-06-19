@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Cómo Visualizar Funciones de Dos Variables? En funciones de **una variable** $y = f(x)$, la gráfica es una **curva** en el plano $\mathbb{R}^2$.
+> [!info] 💡 ¿Cómo Visualizar Funciones de Dos Variables? En funciones de **una variable** $y = f(x)$, la gráfica es una **curva** en el plano $\mathbb{R}^2$.
 > 
 > En funciones de **dos variables** $z = f(x,y)$, la gráfica es una **superficie** en el espacio $\mathbb{R}^3$.
 > 
@@ -31,7 +31,7 @@
 
 ### 🎯 Ejes Cartesianos en el Espacio
 
-> [!example]- 🟢 El Espacio Tridimensional $\mathbb{R}^3$
+> [!example] 🟢 El Espacio Tridimensional $\mathbb{R}^3$
 > 
 > **Sistema de coordenadas:**
 > 
@@ -65,7 +65,7 @@
 
 ### 📊 Planos Coordenados
 
-> [!note]- 🔷 Los Tres Planos Principales
+> [!note] 🔷 Los Tres Planos Principales
 > 
 > **1. Plano $xy$ (piso):**
 > 
@@ -98,7 +98,7 @@
 
 ### 1️⃣ Paraboloide Circular
 
-> [!example]- 📝 Ejemplo 1: Paraboloide hacia arriba
+> [!example] 📝 Ejemplo 1: Paraboloide hacia arriba
 > 
 > **Función:** $z = x^2 + y^2$
 > 
@@ -152,7 +152,7 @@
 > - Superficie de un líquido girando
 > - Reflector parabólico
 
-> [!example]- 📝 Ejemplo 2: Paraboloide hacia abajo
+> [!example] 📝 Ejemplo 2: Paraboloide hacia abajo
 > 
 > **Función:** $z = 4 - x^2 - y^2$
 > 
@@ -180,7 +180,7 @@
 > - $z = 0$: círculo $x^2 + y^2 = 4$
 > - $z = -5$: círculo $x^2 + y^2 = 9$
 
-> [!example]- 📝 Ejemplo 3: Paraboloide Elíptico
+> [!example] 📝 Ejemplo 3: Paraboloide Elíptico
 > 
 > **Función:** $z = x^2 + 4y^2$
 > 
@@ -201,7 +201,7 @@
 
 ### 2️⃣ Plano
 
-> [!example]- 📝 Ejemplo 4: Plano Horizontal
+> [!example] 📝 Ejemplo 4: Plano Horizontal
 > 
 > **Función:** $z = 5$
 > 
@@ -213,7 +213,7 @@
 > 
 > **Interpretación:** Superficie plana a 5 unidades del suelo.
 
-> [!example]- 📝 Ejemplo 5: Plano Inclinado
+> [!example] 📝 Ejemplo 5: Plano Inclinado
 > 
 > **Función:** $z = 2x + 3y + 1$
 > 
@@ -239,7 +239,7 @@
 
 ### 3️⃣ Superficies Cilíndricas
 
-> [!example]- 📝 Ejemplo 6: Cilindro Parabólico
+> [!example] 📝 Ejemplo 6: Cilindro Parabólico
 > 
 > **Función:** $z = x^2$
 > 
@@ -256,7 +256,7 @@
 > 
 > **Visualización:** La parábola $z = x^2$ se "barre" a lo largo del eje $y$.
 
-> [!example]- 📝 Ejemplo 7: Cilindro Circular
+> [!example] 📝 Ejemplo 7: Cilindro Circular
 > 
 > **Función:** $x^2 + y^2 = 4$ (técnicamente no es función de la forma $z=f(x,y)$)
 > 
@@ -273,7 +273,7 @@
 
 ### 4️⃣ Esfera y Hemisferio
 
-> [!example]- 📝 Ejemplo 8: Hemisferio Superior
+> [!example] 📝 Ejemplo 8: Hemisferio Superior
 > 
 > **Función:** $z = \sqrt{9 - x^2 - y^2}$
 > 
@@ -304,7 +304,7 @@
 
 ### 5️⃣ Silla de Montar (Paraboloide Hiperbólico)
 
-> [!example]- 📝 Ejemplo 9: Silla de Montar
+> [!example] 📝 Ejemplo 9: Silla de Montar
 > 
 > **Función:** $z = x^2 - y^2$
 > 
@@ -339,7 +339,7 @@
 
 ### 6️⃣ Cono
 
-> [!example]- 📝 Ejemplo 10: Cono Circular
+> [!example] 📝 Ejemplo 10: Cono Circular
 > 
 > **Función:** $z = \sqrt{x^2 + y^2}$
 > 
@@ -372,7 +372,7 @@
 
 ### 7️⃣ Funciones Trigonométricas
 
-> [!example]- 📝 Ejemplo 11: Onda Sinusoidal 2D
+> [!example] 📝 Ejemplo 11: Onda Sinusoidal 2D
 > 
 > **Función:** $z = \sin(x)$
 > 
@@ -385,7 +385,7 @@
 > 
 > **Forma:** Superficie ondulatoria como una "chapa ondulada".
 
-> [!example]- 📝 Ejemplo 12: Superficie Ondulada en Dos Direcciones
+> [!example] 📝 Ejemplo 12: Superficie Ondulada en Dos Direcciones
 > 
 > **Función:** $z = \sin(x) + \cos(y)$
 > 
@@ -402,7 +402,7 @@
 > - Ondas en agua
 > - Membranas vibrantes
 
-> [!example]- 📝 Ejemplo 13: Onda Radial
+> [!example] 📝 Ejemplo 13: Onda Radial
 > 
 > **Función:** $z = \sin(\sqrt{x^2 + y^2})$
 > 
@@ -420,7 +420,7 @@
 
 ### 8️⃣ Funciones Exponenciales
 
-> [!example]- 📝 Ejemplo 14: Campana Gaussiana 2D
+> [!example] 📝 Ejemplo 14: Campana Gaussiana 2D
 > 
 > **Función:** $z = e^{-(x^2 + y^2)}$
 > 
@@ -443,7 +443,7 @@
 > - Densidad de probabilidad
 > - Función de difusión
 
-> [!example]- 📝 Ejemplo 15: Crecimiento Exponencial
+> [!example] 📝 Ejemplo 15: Crecimiento Exponencial
 > 
 > **Función:** $z = e^{x+y}$
 > 
@@ -464,7 +464,7 @@
 
 ### 📊 Método de Trazas (Secciones Transversales)
 
-> [!tip]- 🎯 Cortar la Superficie con Planos
+> [!tip] 🎯 Cortar la Superficie con Planos
 > 
 > **Concepto:** Para entender una superficie compleja, la **cortamos** con planos y analizamos las **curvas resultantes**.
 > 
@@ -526,7 +526,7 @@
 
 ### 🎨 Procedimiento General para Graficar
 
-> [!success]- ✅ Pasos Sistemáticos
+> [!success] ✅ Pasos Sistemáticos
 > 
 > **Para graficar $z = f(x,y)$:**
 > 
@@ -572,7 +572,7 @@
 
 ## 📊 Ejemplo Completo Paso a Paso
 
-> [!example]- 🎓 Análisis Detallado: $z = 9 - x^2 - y^2$
+> [!example] 🎓 Análisis Detallado: $z = 9 - x^2 - y^2$
 > 
 > **Paso 1: Dominio**
 > 
@@ -650,7 +650,7 @@
 
 ## 🖼️ Galería de Superficies
 
-> [!note]- 🎨 Catálogo de Superficies Estándar
+> [!note] 🎨 Catálogo de Superficies Estándar
 > 
 > |Función|Nombre|Forma|Características|
 > |---|---|---|---|
@@ -669,7 +669,7 @@
 
 ## 🎓 Ejercicios Propuestos
 
-> [!example]- 💪 Práctica
+> [!example] 💪 Práctica
 > 
 > ### Nivel Básico
 > 
@@ -744,7 +744,7 @@
 
 ## ✅ Soluciones Selectas
 
-> [!success]- 🔑 Respuestas Ejercicios Básicos
+> [!success] 🔑 Respuestas Ejercicios Básicos
 > 
 > **1. Identificar superficies:**
 > 
@@ -792,7 +792,7 @@
 > 
 > c) $x = 1$: $z = 1 - y^2$ → **Parábola** hacia abajo, vértice en $(1,0,1)$
 
-> [!success]- 🔑 Respuestas Ejercicios Intermedios
+> [!success] 🔑 Respuestas Ejercicios Intermedios
 > 
 > **4a) Análisis completo de $z = 16 - x^2 - y^2$:**
 > 
@@ -866,7 +866,7 @@
 
 ## 🎨 Herramientas Tecnológicas
 
-> [!tip]- 💻 Software para Visualizar Superficies
+> [!tip] 💻 Software para Visualizar Superficies
 > 
 > ### Software Gratuito
 > 
@@ -941,7 +941,7 @@
 
 ## 🔬 Conceptos Avanzados (Vista Previa)
 
-> [!info]- 🎓 Temas Relacionados Avanzados
+> [!info] 🎓 Temas Relacionados Avanzados
 > 
 > ### 1. Diferenciabilidad
 > 
@@ -982,7 +982,7 @@
 
 ## 📊 Comparación: Curvas vs Superficies
 
-> [!note]- 📐 Analogías 1D → 2D
+> [!note] 📐 Analogías 1D → 2D
 > 
 > |Concepto|Función 1 Variable|Función 2 Variables|
 > |---|---|---|
@@ -1001,7 +1001,7 @@
 
 ## 🎯 Resumen de Superficies Importantes
 
-> [!success]- 📋 Tabla Resumen
+> [!success] 📋 Tabla Resumen
 > 
 > ### Superficies Cuadráticas (Segundo Grado)
 > 
@@ -1031,7 +1031,7 @@
 
 ## 💡 Tips para Visualizar Mentalmente
 
-> [!tip]- 🧠 Estrategias de Visualización
+> [!tip] 🧠 Estrategias de Visualización
 > 
 > **1. Empieza con lo conocido:**
 > 
@@ -1075,7 +1075,7 @@
 
 ## 🔗 Conexiones con Otros Temas
 
-> [!quote]- 🌐 Relaciones
+> [!quote] 🌐 Relaciones
 > 
 > **Este tema es prerequisito para:**
 > 

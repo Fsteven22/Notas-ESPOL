@@ -29,7 +29,7 @@
 > ### Jacobiano de la Transformación
 > **$$J = \left|\frac{\partial(x,y)}{\partial(r,\theta)}\right| = \begin{vmatrix} \cos\theta & -r\sin\theta \\ \sin\theta & r\cos\theta \end{vmatrix} = r$$**
 
-> [!note]- Elemento Diferencial de Área 📐
+> [!note] Elemento Diferencial de Área 📐
 > ### Deducción del Elemento de Área
 > ```mermaid
 > graph TB
@@ -61,7 +61,7 @@
 > **Por tanto:**
 > $$dA = \text{anchura} \times \text{altura} = dr \times (r \cdot d\theta) = r \, dr \, d\theta$$
 
-> [!tip]- Integral Doble en Coordenadas Polares 🔄
+> [!tip] Integral Doble en Coordenadas Polares 🔄
 > ### Fórmula General
 > **Para una función $f(x,y) = f(r\cos\theta, r\sin\theta) = g(r,\theta)$:**
 > 
@@ -84,7 +84,7 @@
 > 
 > **$$\iint_R f(x,y) \, dA = \int_{\alpha}^{\beta} \int_0^R g(r,\theta) \cdot r \, dr \, d\theta$$**
 
-> [!example]- Cálculo de Áreas con Sectores Circulares 📊
+> [!example] Cálculo de Áreas con Sectores Circulares 📊
 > ### Ejemplo 1: Área de un Círculo
 > **Región:** $x^2 + y^2 \leq a^2$
 > **En polares:** $0 \leq r \leq a, \, 0 \leq \theta \leq 2\pi$
@@ -128,7 +128,7 @@
 > = π(r₂² - r₁²)
 > ```
 
-> [!abstract]- Ejemplos de Integrales con Funciones 🧮
+> [!abstract] Ejemplos de Integrales con Funciones 🧮
 > ### Ejemplo 4: Integral de $f(x,y) = x^2 + y^2$ sobre un Círculo
 > **Región:** $x^2 + y^2 \leq R^2$
 > **Función en polares:** $f(r,\theta) = r^2$
@@ -167,7 +167,7 @@
 > = ∫₀^{2π} 8/3 dθ = (8/3) × 2π = 16π/3
 > ```
 
-> [!success]- Casos Especiales y Técnicas Avanzadas 🎯
+> [!success] Casos Especiales y Técnicas Avanzadas 🎯
 > ### Regiones con Simetría Radial
 > **Para funciones que dependen solo de $r$:**
 > $$\iint_R f(\sqrt{x^2+y^2}) \, dA = 2\pi \int_0^R f(r) \cdot r \, dr$$
@@ -187,7 +187,7 @@
 > | Espiral | $r = a\theta$ | $[0, n\pi]$ |
 > | Lemniscata | $r^2 = a^2\cos(2\theta)$ | $[-\pi/4, \pi/4] \cup [3\pi/4, 5\pi/4]$ |
 
-> [!warning]- Errores Comunes y Precauciones ⚠️
+> [!warning] Errores Comunes y Precauciones ⚠️
 > ### Errores Frecuentes
 > 
 > **1. 🔄 Olvidar el factor $r$ en $dA$**
@@ -255,7 +255,7 @@
 > ∬ e^{-(x²+y²)} dA sobre ℝ²:      I = π
 > ```
 
-> [!success]- Conexiones y Aplicaciones 🔗
+> [!success] Conexiones y Aplicaciones 🔗
 > ### Aplicaciones Físicas
 > - **🌡️ Distribuciones de temperatura** con simetría radial
 > - **⚡ Campos eléctricos** alrededor de cargas puntuales  

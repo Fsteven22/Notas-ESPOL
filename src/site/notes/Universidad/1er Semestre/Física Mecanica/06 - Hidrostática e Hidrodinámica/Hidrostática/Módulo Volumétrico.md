@@ -18,7 +18,7 @@
 > - ΔV = Cambio de volumen
 > - V₀ = Volumen original
 
-> [!note]- Fundamento Teórico ⚖️
+> [!note] Fundamento Teórico ⚖️
 > 
 > ### Base Física
 > 
@@ -46,7 +46,7 @@
 >     style F fill:#f3e5f5
 > ```
 
-> [!tip]- Tipos de Módulo de Compresibilidad 🔬
+> [!tip] Tipos de Módulo de Compresibilidad 🔬
 > 
 > ### Módulo Isotérmico (K_T)
 > 
@@ -69,7 +69,7 @@
 > - **K_S > K_T** (el módulo adiabático siempre es mayor)
 > - **K_S/K_T = γ** (relación de calores específicos)
 
-> [!example]- Valores Típicos y Aplicaciones 🏗️
+> [!example] Valores Típicos y Aplicaciones 🏗️
 > 
 > ### Módulos de Compresibilidad Comunes
 > 
@@ -104,7 +104,7 @@
 >       Exploración sísmica
 > ```
 
-> [!abstract]- Cálculos y Ejemplos Prácticos 🧮
+> [!abstract] Cálculos y Ejemplos Prácticos 🧮
 > 
 > ### Ejemplo 1: Compresión del Agua
 > 
@@ -134,7 +134,7 @@
 > v = √(K/ρ) = √(2.2×10⁹ Pa / 1000 kg/m³) = √(2.2×10⁶) ≈ 1483 m/s
 > ```
 
-> [!warning]- Limitaciones y Consideraciones ⚠️
+> [!warning] Limitaciones y Consideraciones ⚠️
 > 
 > ### Limitaciones del Concepto
 > 
@@ -171,7 +171,7 @@
 
 > [!brain]+ Técnica de Memorización: COMPRESS 🧠 **C** - Compresibilidad inversa del módulo **O** - Opuesto al cambio volumétrico **M** - Mayor módulo, menor compresión **P** - Presión causa la deformación **R** - Resistencia al cambio de volumen **E** - Elasticidad volumétrica fundamental **S** - Sonido viaja más rápido en materiales rígidos **S** - Signo negativo por convención física
 
-> [!success]- Puntos Clave para Recordar 🎯
+> [!success] Puntos Clave para Recordar 🎯
 > 
 > 1. **📐 Definición inversa**: K = 1/β (compresibilidad)
 > 2. **🔍 Signo negativo**: Convención física estándar

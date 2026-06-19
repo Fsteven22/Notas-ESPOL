@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es un Espacio Propio?
+> [!info] 💡 ¿Qué es un Espacio Propio?
 > 
 > Un **espacio propio** (o eigenespacio) asociado a un valor propio λ de una matriz A es el conjunto de todos los vectores que son transformados por A en múltiplos de sí mismos (con factor λ), junto con el vector cero.
 > 
@@ -44,7 +44,7 @@ graph TB
 
 ### 📊 Concepto Formal
 
-> [!success]- 🎨 Espacio Propio E_λ
+> [!success] 🎨 Espacio Propio E_λ
 > 
 > Sea A una matriz n×n y λ un valor propio de A. El **espacio propio** asociado a λ, denotado E_λ, es:
 > 
@@ -93,7 +93,7 @@ graph TB
 
 ### 🔧 Cálculo de Espacios Propios
 
-> [!example]- 🎯 Procedimiento Paso a Paso
+> [!example] 🎯 Procedimiento Paso a Paso
 > 
 > **Para encontrar E_λ:**
 > 
@@ -173,7 +173,7 @@ graph TB
 
 ### 📋 Propiedades Fundamentales
 
-> [!tip]- 🔧 Teoremas Importantes
+> [!tip] 🔧 Teoremas Importantes
 > 
 > **Propiedad 1: Independencia lineal**
 > 
@@ -221,7 +221,7 @@ graph TB
 
 ### 🔄 Diagonalización de Matrices
 
-> [!success]- 🎨 Proceso de Diagonalización
+> [!success] 🎨 Proceso de Diagonalización
 > 
 > Una matriz A es **diagonalizable** si existe una matriz invertible P tal que:
 > 
@@ -295,7 +295,7 @@ graph TB
 
 ### 📊 Potencias de Matrices
 
-> [!example]- 🚀 Cálculo Eficiente de A^n
+> [!example] 🚀 Cálculo Eficiente de A^n
 > 
 > Si A = PDP⁻¹, entonces:
 > 
@@ -337,7 +337,7 @@ graph TB
 
 ## 📊 Resumen Visual
 
-> [!note]- 📐 Mapa Conceptual
+> [!note] 📐 Mapa Conceptual
 > 
 > ```mermaid
 > mindmap
@@ -378,7 +378,7 @@ graph TB
 
 ## 🎓 Ejemplos Completos
 
-> [!example]- 📝 Problema 1: Matriz 3×3
+> [!example] 📝 Problema 1: Matriz 3×3
 > 
 > **Enunciado:** Encontrar todos los espacios propios y verificar si es diagonalizable:
 > 
@@ -437,7 +437,7 @@ graph TB
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué son las Multiplicidades?
+> [!info] 💡 ¿Qué son las Multiplicidades?
 > 
 > Las **multiplicidades** son conceptos fundamentales que describen "cuántas veces" aparece un valor propio, pero desde dos perspectivas diferentes:
 > 
@@ -485,7 +485,7 @@ graph TB
 
 ### 🎨 Definición Formal
 
-> [!note]- 📘 Concepto de Multiplicidad Algebraica
+> [!note] 📘 Concepto de Multiplicidad Algebraica
 > 
 > Sea λ un valor propio de la matriz A (n×n). La **multiplicidad algebraica** de λ, denotada MA(λ) o alg(λ), es la **multiplicidad de λ como raíz del polinomio característico**.
 > 
@@ -534,7 +534,7 @@ graph TB
 
 ### 📝 Ejemplos de Cálculo
 
-> [!example]- 🎯 Ejemplos Detallados
+> [!example] 🎯 Ejemplos Detallados
 > 
 > **Ejemplo 1: MA simple (todos distintos)**
 > 
@@ -596,7 +596,7 @@ graph TB
 
 ### 📊 Definición Formal
 
-> [!success]- 🎨 Concepto de Multiplicidad Geométrica
+> [!success] 🎨 Concepto de Multiplicidad Geométrica
 > 
 > Sea λ un valor propio de la matriz A (n×n). La **multiplicidad geométrica** de λ, denotada MG(λ) o geo(λ), es la **dimensión del espacio propio** E_λ.
 > 
@@ -638,7 +638,7 @@ graph TB
 
 ### 📝 Ejemplos de Cálculo
 
-> [!example]- 🎯 Cálculo de MG
+> [!example] 🎯 Cálculo de MG
 > 
 > **Ejemplo 1: MG = 1 (caso simple)**
 > 
@@ -741,7 +741,7 @@ graph TB
 
 ### 🎯 Teorema Fundamental
 
-> [!success]- 📐 Desigualdad Fundamental
+> [!success] 📐 Desigualdad Fundamental
 > 
 > **Teorema:** Para cualquier valor propio λ de una matriz A:
 > 
@@ -779,7 +779,7 @@ graph TB
 
 ### 🔍 Condición de Diagonalización
 
-> [!tip]- 🎨 Criterio de Diagonalización
+> [!tip] 🎨 Criterio de Diagonalización
 > 
 > **Teorema de Diagonalización:**
 > 
@@ -831,7 +831,7 @@ graph TB
 
 ### 🎓 Análisis Detallado de Matrices
 
-> [!example]- 📝 Ejemplo 1: Matriz Diagonalizable
+> [!example] 📝 Ejemplo 1: Matriz Diagonalizable
 > 
 > **Enunciado:** Analizar multiplicidades y diagonalización de:
 > 
@@ -903,7 +903,7 @@ graph TB
 > Razón: Deficiencia en λ = 1
 > ```
 
-> [!example]- 📝 Ejemplo 2: Matriz Diagonalizable
+> [!example] 📝 Ejemplo 2: Matriz Diagonalizable
 > 
 > **Enunciado:** Analizar multiplicidades y diagonalización de:
 > 
@@ -965,7 +965,7 @@ graph TB
 > Solo hay 2 vectores propios LI, necesitamos 3
 > ```
 
-> [!example]- 📝 Ejemplo 3: Matriz SÍ Diagonalizable
+> [!example] 📝 Ejemplo 3: Matriz SÍ Diagonalizable
 > 
 > **Enunciado:** Analizar multiplicidades de:
 > 
@@ -1039,7 +1039,7 @@ graph TB
 
 ## 📋 Tabla Resumen y Comparación
 
-> [!note]- 📊 Cuadro Comparativo Completo
+> [!note] 📊 Cuadro Comparativo Completo
 > 
 > |Aspecto|Multiplicidad Algebraica (MA)|Multiplicidad Geométrica (MG)|
 > |---|---|---|
@@ -1063,7 +1063,7 @@ graph TB
 
 ## 🎯 Estrategia de Análisis
 
-> [!tip]- 🗺️ Guía Paso a Paso
+> [!tip] 🗺️ Guía Paso a Paso
 > ```mermaid
 > flowchart TD
 >     A[Matriz A]

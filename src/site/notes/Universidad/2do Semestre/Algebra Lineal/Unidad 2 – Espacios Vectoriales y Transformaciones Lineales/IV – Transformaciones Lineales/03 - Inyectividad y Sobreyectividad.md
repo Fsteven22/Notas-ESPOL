@@ -7,7 +7,7 @@
 
 ## 🌟 Concepto Fundamental
 
-> [!info]- Definición Intuitiva **La inyectividad y sobreyectividad son dos propiedades fundamentales que caracterizan cómo una transformación lineal "mapea" vectores entre espacios. La inyectividad garantiza que vectores distintos tienen imágenes distintas (no hay "colisiones"), mientras que la sobreyectividad asegura que todo vector del codominio es alcanzable (no hay "huecos"). Juntas, estas propiedades determinan completamente el comportamiento estructural de una transformación lineal.**
+> [!info] Definición Intuitiva **La inyectividad y sobreyectividad son dos propiedades fundamentales que caracterizan cómo una transformación lineal "mapea" vectores entre espacios. La inyectividad garantiza que vectores distintos tienen imágenes distintas (no hay "colisiones"), mientras que la sobreyectividad asegura que todo vector del codominio es alcanzable (no hay "huecos"). Juntas, estas propiedades determinan completamente el comportamiento estructural de una transformación lineal.**
 > 
 > **Características clave:**
 > 
@@ -19,7 +19,7 @@
 
 ### 📖 Contexto Histórico
 
-> [!note]- Desarrollo del Concepto **Orígenes algebraicos (1800-1850):**
+> [!note] Desarrollo del Concepto **Orígenes algebraicos (1800-1850):**
 > 
 > - **Gauss (1801-1830):** Teoría de congruencias
 >     - Funciones uno-a-uno en aritmética modular
@@ -93,7 +93,7 @@
 
 ## 📊 Definiciones Formales
 
-> [!important]- Inyectividad (One-to-One) **DEFINICIÓN (Inyectividad):**
+> [!important] Inyectividad (One-to-One) **DEFINICIÓN (Inyectividad):**
 > 
 > Una transformación lineal $T: V \to W$ es **inyectiva** (o uno-a-uno) si:
 > 
@@ -141,7 +141,7 @@
 >   ✗ NO INYECTIVA: v₁ ≠ v₂ pero T(v₁) = T(v₂)
 > ```
 
-> [!important]- Sobreyectividad (Onto) **DEFINICIÓN (Sobreyectividad):**
+> [!important] Sobreyectividad (Onto) **DEFINICIÓN (Sobreyectividad):**
 > 
 > Una transformación lineal $T: V \to W$ es **sobreyectiva** (u onto) si:
 > 
@@ -185,7 +185,7 @@
 >   ✗ NO SOBREYECTIVA: Existen w sin preimagen
 > ```
 
-> [!important]- Biyectividad (Isomorfismo) **DEFINICIÓN (Biyectividad):**
+> [!important] Biyectividad (Isomorfismo) **DEFINICIÓN (Biyectividad):**
 > 
 > Una transformación lineal $T: V \to W$ es **biyectiva** si es:
 > 
@@ -229,7 +229,7 @@
 
 ## 🎯 Caracterizaciones Fundamentales
 
-> [!success]- Teoremas de Caracterización **TEOREMA 1: Caracterización por el núcleo (Inyectividad)**
+> [!success] Teoremas de Caracterización **TEOREMA 1: Caracterización por el núcleo (Inyectividad)**
 > 
 > Sea $T: V \to W$ transformación lineal.
 > 
@@ -333,7 +333,7 @@
 
 ## 🚫 Teoremas de Imposibilidad
 
-> [!warning]- Restricciones Dimensionales **TEOREMA 6: Imposibilidad de inyección**
+> [!warning] Restricciones Dimensionales **TEOREMA 6: Imposibilidad de inyección**
 > 
 > Si $\dim(V) > \dim(W)$, entonces **NO EXISTE** transformación lineal inyectiva $T: V \to W$.
 > 
@@ -409,7 +409,7 @@
 
 ## 📐 Propiedades y Resultados
 
-> [!note]- Propiedades Adicionales **PROPIEDAD 1: Composición de inyectivas**
+> [!note] Propiedades Adicionales **PROPIEDAD 1: Composición de inyectivas**
 > 
 > Si $S: U \to V$ y $T: V \to W$ son inyectivas, entonces:
 > 
@@ -501,7 +501,7 @@
 
 ## 💎 Ejemplos Resueltos Detallados
 
-> [!example]- Aplicaciones y Verificaciones **EJEMPLO 1: Verificación de inyectividad**
+> [!example] Aplicaciones y Verificaciones **EJEMPLO 1: Verificación de inyectividad**
 > 
 > Sea $T: \mathbb{R}^3 \to \mathbb{R}^3$ definida por:
 > 
@@ -696,7 +696,7 @@
 
 ## 🎭 Casos Especiales y Aplicaciones
 
-> [!tip]- Situaciones Particulares **CASO 1: Proyecciones**
+> [!tip] Situaciones Particulares **CASO 1: Proyecciones**
 > 
 > Una proyección $P: V \to V$ satisface $P^2 = P$.
 > 
@@ -770,7 +770,7 @@
 
 ## 📊 Tabla de Referencia Rápida
 
-> [!note]- Guía de Consulta **CARACTERIZACIONES:**
+> [!note] Guía de Consulta **CARACTERIZACIONES:**
 > 
 > |Propiedad|Condición por núcleo|Condición por rango|Condición dimensional|
 > |---|---|---|---|
@@ -806,7 +806,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- Malentendidos Frecuentes **1. "Inyectiva significa que rank(T) = dim(W)"**
+> [!warning] Malentendidos Frecuentes **1. "Inyectiva significa que rank(T) = dim(W)"**
 > 
 > ❌ **ERROR DE CONFUSIÓN**
 > 
@@ -900,7 +900,7 @@
 
 ## 🔗 Conexiones con Otros Temas
 
-> [!quote]- Enlaces Conceptuales **Fundamentos previos:**
+> [!quote] Enlaces Conceptuales **Fundamentos previos:**
 > 
 > - [[01 - Transformaciones lineales\|01 - Transformaciones lineales]] - Definición básica
 > - [[19 - Núcleo e Imagen\|19 - Núcleo e Imagen]] - Subespacios fundamentales
@@ -930,7 +930,7 @@
 
 ## 📚 Bibliografía Esencial
 
-> [!tip]- Lecturas Recomendadas **Nivel introductorio:**
+> [!tip] Lecturas Recomendadas **Nivel introductorio:**
 > 
 > - **Lay, D. C.** (2016). _Álgebra Lineal y sus Aplicaciones_ (5ª ed.). Pearson.
 >     - **Cap. 1.7-1.9:** Transformaciones lineales ⭐
@@ -969,7 +969,7 @@
 
 ## 🎓 Conceptos Clave - Resumen
 
-> [!important]- Ideas Fundamentales para Recordar **DEFINICIONES CENTRALES:**
+> [!important] Ideas Fundamentales para Recordar **DEFINICIONES CENTRALES:**
 > 
 > $$\boxed{\begin{align} \text{Inyectiva:} & \quad \text{Ker}(T) = {\vec{0}} \ \text{Sobreyectiva:} & \quad \text{Im}(T) = W \ \text{Biyectiva:} & \quad \text{Ambas} \end{align}}$$
 > 

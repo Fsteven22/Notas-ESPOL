@@ -7,11 +7,11 @@
 
 > [!quote] "La estabilidad no se trata solo de fuerzas equilibradas, sino de mantener ese equilibrio ante las perturbaciones del mundo real." ⚖️
 
-> [!info]- Los problemas de estabilidad van más allá del simple equilibrio estático, analizando la capacidad de un sistema para mantener su configuración de equilibrio o retornar a ella ante pequeñas perturbaciones. Involucran el análisis crítico de momentos de torsión, líneas de acción del peso, condiciones de vuelco y deslizamiento, determinando los límites de operación segura de estructuras y objetos.
+> [!info] Los problemas de estabilidad van más allá del simple equilibrio estático, analizando la capacidad de un sistema para mantener su configuración de equilibrio o retornar a ella ante pequeñas perturbaciones. Involucran el análisis crítico de momentos de torsión, líneas de acción del peso, condiciones de vuelco y deslizamiento, determinando los límites de operación segura de estructuras y objetos.
 
 ## ⚖️ Tipos de Estabilidad
 
-> [!info]- **Estabilidad Estable** ✅
+> [!info] **Estabilidad Estable** ✅
 > 
 > ### Características:
 > 
@@ -35,7 +35,7 @@
 > - Cono apoyado en su base
 > - Vaso sobre mesa (dentro de los límites)
 
-> [!tip]- **Estabilidad Inestable** ❌
+> [!tip] **Estabilidad Inestable** ❌
 > 
 > ### Características:
 > 
@@ -56,7 +56,7 @@
 > - Cono apoyado en su vértice
 > - Objeto al borde del vuelco
 
-> [!warning]- **Estabilidad Neutral** ➡️
+> [!warning] **Estabilidad Neutral** ➡️
 > 
 > ### Características:
 > 
@@ -108,7 +108,7 @@
 >     style D fill:#e8f5e8
 > ```
 
-> [!note]- **Condiciones de Vuelco** 🔄
+> [!note] **Condiciones de Vuelco** 🔄
 > 
 > ### Análisis de Vuelco:
 > 
@@ -141,7 +141,7 @@
 
 ## 🎯 Estrategias de Análisis
 
-> [!tip]- **Método EVCAD (Equilibrio-Vuelco-Centro-Ángulo-Decisión)** 🧠
+> [!tip] **Método EVCAD (Equilibrio-Vuelco-Centro-Ángulo-Decisión)** 🧠
 > 
 > ### **E**quilibrio - Verificar equilibrio básico
 > 
@@ -173,7 +173,7 @@
 > 14. Proponer modificaciones si es necesario
 > 15. Documentar condiciones límite de operación
 
-> [!tip]- **Técnicas Especializadas** 🔧
+> [!tip] **Técnicas Especializadas** 🔧
 > 
 > ### **Método Gráfico de Estabilidad**:
 > 
@@ -195,7 +195,7 @@
 
 ## 📚 Problemas Tipo
 
-> [!example]- **Problema 1: Escalera Contra Pared (Análisis Completo)** 🪜
+> [!example] **Problema 1: Escalera Contra Pared (Análisis Completo)** 🪜
 > 
 > ### Enunciado:
 > 
@@ -243,7 +243,7 @@
 > 
 > **Resultado**: **INESTABLE** - la escalera resbalará
 
-> [!example]- **Problema 2: Caja sobre Camión en Curva** 🚛
+> [!example] **Problema 2: Caja sobre Camión en Curva** 🚛
 > 
 > ### Enunciado:
 > 
@@ -288,7 +288,7 @@
 > 
 > La caja resbalará antes de volcarse, lo cual es preferible para la seguridad.
 
-> [!example]- **Problema 3: Torre con Carga de Viento** 🗼
+> [!example] **Problema 3: Torre con Carga de Viento** 🗼
 > 
 > ### Enunciado:
 > 
@@ -323,7 +323,7 @@
 > 
 > **Verificación**: Con F_max, el FS = 1.0 (vuelco inminente)
 
-> [!example]- **Problema 4: Automóvil en Pendiente** 🚗
+> [!example] **Problema 4: Automóvil en Pendiente** 🚗
 > 
 > ### Enunciado:
 > 
@@ -367,7 +367,7 @@
 > 
 > El automóvil deslizará antes de volcarse, lo cual es el comportamiento deseado para la seguridad.
 
-> [!example]- **Problema 5: Grúa con Carga Variable** 🏗️
+> [!example] **Problema 5: Grúa con Carga Variable** 🏗️
 > 
 > ### Enunciado:
 > 
@@ -402,7 +402,7 @@
 
 ## 🧮 Métodos de Análisis Avanzados
 
-> [!tip]- **Análisis de Estabilidad Dinámica** 🌊
+> [!tip] **Análisis de Estabilidad Dinámica** 🌊
 > 
 > ### Efectos Dinámicos:
 > 
@@ -423,7 +423,7 @@
 > - Considerar espectros de respuesta
 > - Incluir efectos de segundo orden
 
-> [!tip]- **Estabilidad de Sistemas Articulados** 🔗
+> [!tip] **Estabilidad de Sistemas Articulados** 🔗
 > 
 > ### Análisis de Pandeo:
 > 
@@ -443,7 +443,7 @@
 > - Análisis no-lineal geométrico
 > - Análisis post-crítico
 
-> [!tip]- **Optimización de Estabilidad** 📈
+> [!tip] **Optimización de Estabilidad** 📈
 > 
 > ### Estrategias de Mejora:
 > 
@@ -467,7 +467,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- **Confusiones Frecuentes** ⚠️
+> [!warning] **Confusiones Frecuentes** ⚠️
 > 
 > 1. **Confundir estabilidad con equilibrio** - pueden coexistir equilibrio inestable
 > 2. **No considerar todos los modos de falla** (deslizamiento vs vuelco)
@@ -482,7 +482,7 @@
 
 ## 🎯 Aplicaciones Prácticas
 
-> [!info]- **Ejemplos del Mundo Real** 🌍
+> [!info] **Ejemplos del Mundo Real** 🌍
 > 
 > ### Ingeniería Civil:
 > 
@@ -521,7 +521,7 @@
 
 ## 📖 Referencias y Notas Relacionadas
 
-> [!quote]- **Notas Relacionadas**
+> [!quote] **Notas Relacionadas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/05 - Equilibrio y Elasticidad/Equilibrio\|Equilibrio]] - Fundamentos básicos de equilibrio
 > - [[Universidad/1er Semestre/Física Mecanica/05 - Equilibrio y Elasticidad/Centro de Gravedad (CG)\|Centro de Gravedad (CG)]] - Localización del centro de gravedad
@@ -532,7 +532,7 @@
 
 ## 🔧 Formulario de Consulta Rápida
 
-> [!note]- **Ecuaciones Esenciales**
+> [!note] **Ecuaciones Esenciales**
 > 
 > ### Condiciones de Estabilidad:
 > 

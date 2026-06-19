@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué son las Integrales Triples? Las **integrales triples** son una extensión natural de las integrales dobles al espacio tridimensional. Permiten calcular volúmenes, masas, centros de masa y otros conceptos físicos en regiones del espacio **R³**.
+> [!info] 💡 ¿Qué son las Integrales Triples? Las **integrales triples** son una extensión natural de las integrales dobles al espacio tridimensional. Permiten calcular volúmenes, masas, centros de masa y otros conceptos físicos en regiones del espacio **R³**.
 > 
 > **Analogía práctica:** Imagina un escultor trabajando con un bloque de mármol:
 > 
@@ -50,7 +50,7 @@ graph TB
 
 ### 📦 Regiones Tipo I (Proyección en xy)
 
-> [!example]- 🎲 Regiones con z acotado
+> [!example] 🎲 Regiones con z acotado
 > 
 > Una región **Tipo I** tiene la forma:
 > 
@@ -111,7 +111,7 @@ graph TB
 
 ### 📊 Regiones Tipo II (Proyección en xz)
 
-> [!example]- 🔄 Regiones con y acotado
+> [!example] 🔄 Regiones con y acotado
 > 
 > Una región **Tipo II** tiene la forma:
 > 
@@ -138,7 +138,7 @@ graph TB
 
 ### 📐 Regiones Tipo III (Proyección en yz)
 
-> [!example]- 🔀 Regiones con x acotado
+> [!example] 🔀 Regiones con x acotado
 > 
 > Una región **Tipo III** tiene la forma:
 > 
@@ -171,7 +171,7 @@ graph TB
 
 ### 🎲 Los Seis Órdenes Posibles
 
-> [!note]- 🔀 Permutaciones de dx dy dz
+> [!note] 🔀 Permutaciones de dx dy dz
 > 
 > Para una región general, existen **6 órdenes** de integración posibles:
 > 
@@ -222,7 +222,7 @@ graph TB
 
 ### 🎯 Elección del Mejor Orden
 
-> [!tip]- 🔍 Estrategias de Selección
+> [!tip] 🔍 Estrategias de Selección
 > 
 > **Criterios para elegir el orden:**
 > 
@@ -272,7 +272,7 @@ graph TB
 
 ### 📦 Volumen de Regiones Sólidas
 
-> [!success]- 🎯 Fórmula Fundamental
+> [!success] 🎯 Fórmula Fundamental
 > 
 > El **volumen** de una región $D$ se calcula con:
 > 
@@ -310,7 +310,7 @@ graph TB
 
 ### 🔺 Volumen de Tetraedros
 
-> [!example]- 📐 Caso Especial Importante
+> [!example] 📐 Caso Especial Importante
 > 
 > Un **tetraedro** con vértices en $(0,0,0)$, $(a,0,0)$, $(0,b,0)$, $(0,0,c)$ está acotado por el plano:
 > 
@@ -339,7 +339,7 @@ graph TB
 
 ### 🏋️ Masa y Densidad
 
-> [!info]- 📊 Masa con Densidad Variable
+> [!info] 📊 Masa con Densidad Variable
 > 
 > Si $\rho(x,y,z)$ es la **densidad** en el punto $(x,y,z)$, la **masa total** es:
 > 
@@ -383,7 +383,7 @@ graph TB
 
 ### 📍 Centro de Masa
 
-> [!success]- 🎯 Coordenadas del Centro de Masa
+> [!success] 🎯 Coordenadas del Centro de Masa
 > 
 > El **centro de masa** $(\bar{x}, \bar{y}, \bar{z})$ de un sólido $D$ con densidad $\rho$ es:
 > 
@@ -435,7 +435,7 @@ graph TB
 
 ### 🔄 Momento de Inercia
 
-> [!note]- 🌀 Resistencia a la Rotación
+> [!note] 🌀 Resistencia a la Rotación
 > 
 > El **momento de inercia** mide la resistencia de un cuerpo a rotar alrededor de un eje.
 > 
@@ -463,7 +463,7 @@ graph TB
 
 ### 🗺️ Transformaciones Generales
 
-> [!tip]- 🔄 Jacobiano en R³
+> [!tip] 🔄 Jacobiano en R³
 > 
 > Para una transformación $T: (u,v,w) \to (x,y,z)$:
 > 
@@ -493,7 +493,7 @@ graph TB
 
 ### 🌐 Coordenadas Cilíndricas
 
-> [!example]- 📏 Sistema Cilíndrico
+> [!example] 📏 Sistema Cilíndrico
 > 
 > **Transformación:**
 > 
@@ -525,7 +525,7 @@ graph TB
 
 ### 🔮 Coordenadas Esféricas
 
-> [!example]- 🌍 Sistema Esférico
+> [!example] 🌍 Sistema Esférico
 > 
 > **Transformación:**
 > 
@@ -581,7 +581,7 @@ graph TB
 
 ## 📊 Tabla Comparativa de Sistemas
 
-> [!note]- 🔍 Comparación Completa
+> [!note] 🔍 Comparación Completa
 > 
 > |Sistema|Transformación|Jacobiano|Elemento dV|Uso principal|
 > |---|---|---|---|---|
@@ -610,7 +610,7 @@ graph TB
 
 ### 📝 Metodología Paso a Paso
 
-> [!success]- ✅ Proceso Sistemático
+> [!success] ✅ Proceso Sistemático
 > 
 > **Paso 1: Identificar la región D**
 > 
@@ -674,7 +674,7 @@ graph TB
 
 ### 📌 Ejemplo 1: Volumen entre Superficies
 
-> [!example]- 📐 Región entre Paraboloides
+> [!example] 📐 Región entre Paraboloides
 > 
 > **Problema:** Calcular el volumen de la región $D$ acotada por:
 > 
@@ -709,7 +709,7 @@ graph TB
 
 ### 📌 Ejemplo 2: Centro de Masa
 
-> [!example]- ⚖️ Hemisferio con Densidad Variable
+> [!example] ⚖️ Hemisferio con Densidad Variable
 > 
 > **Problema:** Encontrar el centro de masa del hemisferio superior $x^2+y^2+z^2 \leq a^2$, $z \geq 0$, con densidad $\rho(x,y,z) = z$.
 > 
@@ -739,7 +739,7 @@ graph TB
 
 ## 🎯 Ejercicios Propuestos
 
-> [!question]- 💪 Práctica Guiada
+> [!question] 💪 Práctica Guiada
 > 
 > ### Nivel Básico
 > 
@@ -769,7 +769,7 @@ graph TB
 
 ## 📚 Resumen y Fórmulas Clave
 
-> [!note]- 📖 Compendio Rápido
+> [!note] 📖 Compendio Rápido
 > 
 > ### Tipos de Regiones
 > 
@@ -793,7 +793,7 @@ graph TB
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Progresión del Aprendizaje
+> [!quote] 🌟 Progresión del Aprendizaje
 > 
 > ```mermaid
 > mindmap

@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es el Valor Promedio de una Función?
+> [!info] 💡 ¿Qué es el Valor Promedio de una Función?
 > 
 > El **valor promedio de una función** es un concepto fundamental que extiende la idea intuitiva de "promedio" desde conjuntos finitos de datos hasta funciones continuas sobre regiones. Representa un valor único que caracteriza el comportamiento global de una función sobre un dominio determinado.
 > 
@@ -44,7 +44,7 @@ graph LR
 
 ### 📏 Valor Promedio en Una Variable
 
-> [!example]- 📖 Definición Matemática (1D)
+> [!example] 📖 Definición Matemática (1D)
 > 
 > **Valor promedio de una función de una variable:**
 > 
@@ -96,7 +96,7 @@ graph TD
     style E fill:#e1ffe1
 ```
 
-> [!note]- 🔍 Deducción Intuitiva
+> [!note] 🔍 Deducción Intuitiva
 > 
 > **Del promedio discreto al continuo:**
 > 
@@ -132,7 +132,7 @@ graph TD
 
 ### 🌐 Valor Promedio en Dos Variables
 
-> [!example]- 🗺️ Definición Matemática (2D)
+> [!example] 🗺️ Definición Matemática (2D)
 > 
 > **Valor promedio de una función de dos variables:**
 > 
@@ -189,7 +189,7 @@ graph TD
 
 ### 📦 Valor Promedio en Tres Variables
 
-> [!example]- 🎲 Definición Matemática (3D)
+> [!example] 🎲 Definición Matemática (3D)
 > 
 > **Valor promedio de una función de tres variables:**
 > 
@@ -224,7 +224,7 @@ graph LR
 
 ## 🔗 Relación con el Teorema del Valor Medio
 
-> [!tip]- 🎯 Conexión Fundamental
+> [!tip] 🎯 Conexión Fundamental
 > 
 > El **Teorema del Valor Medio para Integrales** establece que el valor promedio se alcanza en al menos un punto del dominio.
 > 
@@ -277,7 +277,7 @@ graph LR
 
 ## 💡 Ejemplos Resueltos (Una Variable)
 
-> [!example]- 📝 Ejemplo 1: Función Lineal
+> [!example] 📝 Ejemplo 1: Función Lineal
 > 
 > **Problema:**
 > 
@@ -315,7 +315,7 @@ graph LR
 > 
 > **Respuesta:** $f_{prom} = 4$ alcanzado en $c = 1.5$
 
-> [!example]- 📝 Ejemplo 2: Función Cuadrática
+> [!example] 📝 Ejemplo 2: Función Cuadrática
 > 
 > **Problema:**
 > 
@@ -352,7 +352,7 @@ graph LR
 > 
 > **Respuesta:** $f_{prom} = 1$, alcanzado en $c = -1$ y $c = 1$
 
-> [!example]- 📝 Ejemplo 3: Función Trigonométrica
+> [!example] 📝 Ejemplo 3: Función Trigonométrica
 > 
 > **Problema:**
 > 
@@ -390,7 +390,7 @@ graph LR
 > 
 > **Respuesta:** $f_{prom} = \frac{2}{\pi}$
 
-> [!example]- 📝 Ejemplo 4: Función Exponencial
+> [!example] 📝 Ejemplo 4: Función Exponencial
 > 
 > **Problema:**
 > 
@@ -426,7 +426,7 @@ graph LR
 
 ## 🌍 Ejemplos Resueltos (Dos Variables)
 
-> [!example]- 📝 Ejemplo 5: Región Rectangular
+> [!example] 📝 Ejemplo 5: Región Rectangular
 > 
 > **Problema:**
 > 
@@ -464,7 +464,7 @@ graph LR
 > 
 > **Respuesta:** $f_{prom} = 1.5$
 
-> [!example]- 📝 Ejemplo 6: Región Triangular
+> [!example] 📝 Ejemplo 6: Región Triangular
 > 
 > **Problema:**
 > 
@@ -504,7 +504,7 @@ graph LR
 > 
 > **Respuesta:** $f_{prom} = \frac{2}{3}$
 
-> [!example]- 📝 Ejemplo 7: Región Circular
+> [!example] 📝 Ejemplo 7: Región Circular
 > 
 > **Problema:**
 > 
@@ -545,7 +545,7 @@ graph LR
 
 ## 🚀 Aplicaciones Prácticas
 
-> [!success]- 🌡️ Aplicación 1: Temperatura Promedio
+> [!success] 🌡️ Aplicación 1: Temperatura Promedio
 > 
 > **Problema real:**
 > 
@@ -569,7 +569,7 @@ graph LR
 > 
 > Aunque la temperatura varía de 100°C (en $x=0$) a 50°C (en $x=10$), la temperatura promedio es aproximadamente 83.33°C.
 
-> [!success]- ⚡ Aplicación 2: Valor RMS (Root Mean Square)
+> [!success] ⚡ Aplicación 2: Valor RMS (Root Mean Square)
 > 
 > **Concepto:**
 > 
@@ -601,7 +601,7 @@ graph LR
 > 
 > El valor RMS es la corriente continua equivalente que produciría la misma potencia disipada.
 
-> [!success]- 🌾 Aplicación 3: Densidad Poblacional
+> [!success] 🌾 Aplicación 3: Densidad Poblacional
 > 
 > **Problema:**
 > 
@@ -629,7 +629,7 @@ graph LR
 > 
 > Aunque la densidad varía desde 5000 en el centro hasta ~1839 en el borde, la densidad promedio es aproximadamente 6321 personas/km².
 
-> [!success]- 🏔️ Aplicación 4: Altura Promedio del Terreno
+> [!success] 🏔️ Aplicación 4: Altura Promedio del Terreno
 > 
 > **Problema:**
 > 
@@ -657,7 +657,7 @@ graph LR
 
 ## 📊 Propiedades del Valor Promedio
 
-> [!note]- 🔧 Propiedades Algebraicas
+> [!note] 🔧 Propiedades Algebraicas
 > 
 > Sean $f$ y $g$ funciones integrables en $[a,b]$, y $c$ una constante:
 > 
@@ -748,7 +748,7 @@ graph TD
 
 ## ⚙️ Métodos de Cálculo
 
-> [!tip]- 🔢 Estrategias para Calcular Promedios
+> [!tip] 🔢 Estrategias para Calcular Promedios
 > 
 > **Método 1: Directo (para funciones simples)**
 > 
@@ -839,7 +839,7 @@ graph TD
 
 ## 🎓 Ejercicios Propuestos
 
-> [!example]- 💪 Práctica Guiada
+> [!example] 💪 Práctica Guiada
 > 
 > **Nivel Básico:**
 > 
@@ -953,7 +953,7 @@ graph TD
 
 ## 📈 Comparación: Promedio Discreto vs Continuo
 
-> [!note]- 🔄 Transición de Discreto a Continuo
+> [!note] 🔄 Transición de Discreto a Continuo
 > 
 > **Tabla comparativa:**
 > 
@@ -999,7 +999,7 @@ graph LR
 
 ## 🔬 Aplicaciones Avanzadas
 
-> [!success]- 🎯 Aplicaciones en Matemáticas Avanzadas
+> [!success] 🎯 Aplicaciones en Matemáticas Avanzadas
 > 
 > **1. Teoría de Probabilidad**
 > 
@@ -1123,7 +1123,7 @@ flowchart TD
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Continuando el Aprendizaje
+> [!quote] 🌟 Continuando el Aprendizaje
 > 
 > **Has dominado:**
 > 

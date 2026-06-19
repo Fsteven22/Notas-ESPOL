@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Por qué son importantes las Coordenadas?
+> [!info] 💡 ¿Por qué son importantes las Coordenadas?
 > 
 > Las **coordenadas** son la forma de representar vectores abstractos mediante números concretos. Es el puente entre conceptos abstractos y cálculos prácticos.
 > 
@@ -43,7 +43,7 @@
 
 ### Coordenadas respecto a una Base
 
-> [!note]- 📋 Definición Principal
+> [!note] 📋 Definición Principal
 > 
 > Sea $V$ un espacio vectorial y $\mathcal{B} = {\vec{v}_1, \vec{v}_2, \ldots, \vec{v}_n}$ una **base ordenada** de $V$.
 > 
@@ -91,7 +91,7 @@
 
 ### Importancia del Orden
 
-> [!warning]- ⚠️ La Base debe estar Ordenada
+> [!warning] ⚠️ La Base debe estar Ordenada
 > 
 > **Ejemplo:** En $\mathbb{R}^2$, considera:
 > 
@@ -116,7 +116,7 @@
 
 ### Ejemplo 1: Coordenadas en $\mathbb{R}^2$
 
-> [!example]- 📝 Base Canónica
+> [!example] 📝 Base Canónica
 > 
 > **Base canónica de $\mathbb{R}^2$:**
 > 
@@ -132,7 +132,7 @@
 > 
 > **Observación:** Con la base canónica, las coordenadas coinciden con los componentes del vector. Por eso es la base más "natural".
 
-> [!example]- 📝 Base No Canónica
+> [!example] 📝 Base No Canónica
 > 
 > **Base alternativa:**
 > 
@@ -161,7 +161,7 @@
 > 
 > **Importante:** Mismo vector, diferentes coordenadas según la base.
 
-> [!example]- 📝 Base con Vectores Ortogonales
+> [!example] 📝 Base con Vectores Ortogonales
 > 
 > **Base ortogonal:**
 > 
@@ -191,7 +191,7 @@
 
 ### Ejemplo 2: Coordenadas en $\mathbb{R}^3$
 
-> [!example]- 📝 Tres Dimensiones
+> [!example] 📝 Tres Dimensiones
 > 
 > **Base:**
 > 
@@ -219,7 +219,7 @@
 > 
 > $$2\begin{bmatrix} 1 \ 0 \ 0 \end{bmatrix} + 1\begin{bmatrix} 1 \ 1 \ 0 \end{bmatrix} + 2\begin{bmatrix} 1 \ 1 \ 1 \end{bmatrix} = \begin{bmatrix} 2+1+2 \ 0+1+2 \ 0+0+2 \end{bmatrix} = \begin{bmatrix} 5 \ 3 \ 2 \end{bmatrix}$$ ✓
 
-> [!example]- 📝 Base con Estructura Especial
+> [!example] 📝 Base con Estructura Especial
 > 
 > **Base:**
 > 
@@ -245,7 +245,7 @@
 
 ### Ejemplo 3: Coordenadas en $P_2$
 
-> [!example]- 📝 Polinomios de Grado ≤ 2
+> [!example] 📝 Polinomios de Grado ≤ 2
 > 
 > **Base canónica:**
 > 
@@ -259,7 +259,7 @@
 > 
 > **Nota:** Los coeficientes del polinomio son directamente las coordenadas en la base canónica.
 
-> [!example]- 📝 Base No Canónica
+> [!example] 📝 Base No Canónica
 > 
 > **Base alternativa:**
 > 
@@ -289,7 +289,7 @@
 > 
 > $$-2(1) + 7(1+x) + (-2)(1+x+x^2)$$ $$= -2 + 7 + 7x - 2 - 2x - 2x^2$$ $$= 3 + 5x - 2x^2$$ ✓
 
-> [!example]- 📝 Base de Lagrange
+> [!example] 📝 Base de Lagrange
 > 
 > **Base de Lagrange para puntos $x = 0, 1, 2$:**
 > 
@@ -317,7 +317,7 @@
 
 ### Ejemplo 4: Coordenadas en Matrices $2 \times 2$
 
-> [!example]- 📝 Espacio de Matrices
+> [!example] 📝 Espacio de Matrices
 > 
 > **Base canónica de $M_{2 \times 2}$:**
 > 
@@ -331,7 +331,7 @@
 > 
 > **Nota:** Las matrices se "vectorizan" listando sus entradas en orden (fila por fila).
 
-> [!example]- 📝 Base de Matrices Simétricas y Antisimétricas
+> [!example] 📝 Base de Matrices Simétricas y Antisimétricas
 > 
 > **Base alternativa:**
 > 
@@ -355,7 +355,7 @@
 
 ### Ejemplo 5: Funciones
 
-> [!example]- 📝 Espacio de Funciones Trigonométricas
+> [!example] 📝 Espacio de Funciones Trigonométricas
 > 
 > **Espacio:** $V = \text{gen}{1, \cos(x), \sin(x)}$
 > 
@@ -381,7 +381,7 @@
 
 ### Método 1: Sistema de Ecuaciones
 
-> [!tip]- 🛠️ Procedimiento Directo
+> [!tip] 🛠️ Procedimiento Directo
 > 
 > **Pasos:**
 > 
@@ -408,7 +408,7 @@
 > - Propenso a errores aritméticos
 > - No es sistemático
 
-> [!example]- 📝 Ejemplo Completo
+> [!example] 📝 Ejemplo Completo
 > 
 > **Base en $\mathbb{R}^3$:**
 > 
@@ -443,7 +443,7 @@
 
 ### Método 2: Forma Matricial
 
-> [!tip]- 🛠️ Método Sistemático
+> [!tip] 🛠️ Método Sistemático
 > 
 > **Idea:** Convertir el problema en resolver $M\vec{c} = \vec{u}$
 > 
@@ -472,7 +472,7 @@
 > - Requiere conocimiento de matrices
 > - Más cálculos para problemas pequeños
 
-> [!example]- 📝 Ejemplo con Matriz Aumentada
+> [!example] 📝 Ejemplo con Matriz Aumentada
 > 
 > **Base en $\mathbb{R}^3$:**
 > 
@@ -512,7 +512,7 @@
 > 
 > $$0\begin{bmatrix} 1 \ 0 \ 1 \end{bmatrix} + 1\begin{bmatrix} 0 \ 1 \ 1 \end{bmatrix} + 2\begin{bmatrix} 1 \ 1 \ 0 \end{bmatrix} = \begin{bmatrix} 0+0+2 \ 0+1+2 \ 0+1+0 \end{bmatrix} = \begin{bmatrix} 2 \ 3 \ 1 \end{bmatrix}$$ ✓
 
-> [!example]- 📝 Múltiples Vectores Simultáneamente
+> [!example] 📝 Múltiples Vectores Simultáneamente
 > 
 > **Base:** $\mathcal{B} = \left\{\begin{bmatrix} 1 \ 1 \end{bmatrix}, \begin{bmatrix} 1 \ -1 \end{bmatrix}\right\}$
 > 
@@ -546,7 +546,7 @@
 
 ### Método 3: Fórmulas Especiales
 
-> [!tip]- 🛠️ Para Bases Ortogonales/Ortonormales
+> [!tip] 🛠️ Para Bases Ortogonales/Ortonormales
 > 
 > **Base ortogonal:** $\mathcal{B} = {\vec{v}_1, \ldots, \vec{v}_n}$ con $\vec{v}_i \cdot \vec{v}_j = 0$ si $i \neq j$
 > 
@@ -566,7 +566,7 @@
 > 
 > **Ventaja:** No requiere resolver sistemas de ecuaciones.
 
-> [!example]- 📝 Con Base Ortogonal
+> [!example] 📝 Con Base Ortogonal
 > 
 > **Base ortogonal en $\mathbb{R}^3$:**
 > 
@@ -588,7 +588,7 @@
 > 
 > $$4\begin{bmatrix} 1 \ 0 \ 0 \end{bmatrix} + 3\begin{bmatrix} 0 \ 2 \ 0 \end{bmatrix} + 3\begin{bmatrix} 0 \ 0 \ 3 \end{bmatrix} = \begin{bmatrix} 4 \ 6 \ 9 \end{bmatrix}$$ ✓
 
-> [!example]- 📝 Con Base Ortonormal
+> [!example] 📝 Con Base Ortonormal
 > 
 > **Base ortonormal en $\mathbb{R}^2$:**
 > 
@@ -616,7 +616,7 @@
 
 ### Propiedad 1: Linealidad
 
-> [!note]- ⚡ Propiedad Fundamental
+> [!note] ⚡ Propiedad Fundamental
 > 
 > **Teorema:** La función de coordenadas es lineal.
 > 
@@ -643,7 +643,7 @@
 > 3. La función preserva todas las operaciones lineales
 >     
 
-> [!example]- 📝 Verificación Numérica
+> [!example] 📝 Verificación Numérica
 > 
 > **Base:** $\mathcal{B} = \left\{\begin{bmatrix} 1 \ 1 \end{bmatrix}, \begin{bmatrix} 1 \ -1 \end{bmatrix}\right\}$
 > 
@@ -675,7 +675,7 @@
 
 ### Propiedad 2: Isomorfismo con $\mathbb{R}^n$
 
-> [!note]- 🔄 Equivalencia Estructural
+> [!note] 🔄 Equivalencia Estructural
 > 
 > **Teorema:** Si $\dim(V) = n$ y $\mathcal{B}$ es una base de $V$, entonces:
 > 
@@ -711,7 +711,7 @@
 
 ### Propiedad 3: Coordenadas de Vectores Especiales
 
-> [!note]- 📌 Casos Importantes
+> [!note] 📌 Casos Importantes
 > 
 > **1. Coordenadas de los vectores de la base:**
 > 
@@ -729,7 +729,7 @@
 > 
 > (Directamente los coeficientes)
 
-> [!example]- 📝 Coordenadas de la Base
+> [!example] 📝 Coordenadas de la Base
 > 
 > **Base en $\mathbb{R}^2$:** $\mathcal{B} = \left\{\begin{bmatrix} 2 \ 1 \end{bmatrix}, \begin{bmatrix} -1 \ 1 \end{bmatrix}\right\}$
 > 
@@ -749,7 +749,7 @@
 
 ### Propiedad 4: Independencia y Dependencia
 
-> [!note]- 🔗 Preservación de Relaciones
+> [!note] 🔗 Preservación de Relaciones
 > 
 > **Teorema:** Sean $\vec{v}_1, \ldots, \vec{v}_k \in V$ vectores y $\mathcal{B}$ una base de $V$.
 > 
@@ -771,7 +771,7 @@
 > 
 > **Consecuencia práctica:** Para verificar independencia lineal de vectores en $V$, basta verificar independencia de sus coordenadas en $\mathbb{R}^n$.
 
-> [!example]- 📝 Verificación de Independencia
+> [!example] 📝 Verificación de Independencia
 > 
 > **En $P_2$, base canónica** $\mathcal{E} = {1, x, x^2}$
 > 
@@ -795,7 +795,7 @@
 
 ### Concepto Intuitivo
 
-> [!note]- 🔀 Misma Información, Diferentes Coordenadas
+> [!note] 🔀 Misma Información, Diferentes Coordenadas
 > 
 > **Situación:** Tenemos el mismo vector $\vec{u}$ pero queremos expresarlo en dos bases diferentes:
 > 
@@ -817,7 +817,7 @@
 
 ### Relación entre Coordenadas
 
-> [!note]- 🔗 Conexión Básica
+> [!note] 🔗 Conexión Básica
 > 
 > **Proceso en dos pasos:**
 > 
@@ -844,7 +844,7 @@
 
 ### Ejemplo Simple
 
-> [!example]- 📝 Cambio de Base en $\mathbb{R}^2$
+> [!example] 📝 Cambio de Base en $\mathbb{R}^2$
 > 
 > **Base 1 (canónica):**
 > 
@@ -876,7 +876,7 @@
 > 
 > **Interpretación:** El mismo vector $\vec{u}$ tiene coordenadas $(6, 9)$ en base canónica pero coordenadas $(3, 3)$ en base $\mathcal{B}$.
 
-> [!example]- 📝 Cambio entre Bases No Canónicas
+> [!example] 📝 Cambio entre Bases No Canónicas
 > 
 > **Base 1:**
 > 
@@ -914,7 +914,7 @@
 
 ### Motivación para el Próximo Tema
 
-> [!tip]- 🎯 ¿Por qué Necesitamos Matrices de Cambio de Base?
+> [!tip] 🎯 ¿Por qué Necesitamos Matrices de Cambio de Base?
 > 
 > **Problema actual:**
 > 
@@ -941,7 +941,7 @@
 
 ## 📊 Tabla Resumen
 
-> [!summary]- 📋 Referencia Rápida
+> [!summary] 📋 Referencia Rápida
 > 
 > |Concepto|Definición|Notación|Dimensión|
 > |---|---|---|---|
@@ -1011,7 +1011,7 @@
 
 ### Aplicación 1: Gráficos por Computadora
 
-> [!example]- 🎮 Transformaciones 3D
+> [!example] 🎮 Transformaciones 3D
 > 
 > **Contexto:** En gráficos 3D, los objetos se definen en su propio sistema de coordenadas local.
 > 
@@ -1040,7 +1040,7 @@
 
 ### Aplicación 2: Procesamiento de Señales
 
-> [!example]- 📡 Transformada de Fourier Discreta
+> [!example] 📡 Transformada de Fourier Discreta
 > 
 > **Contexto:** Una señal digital se puede representar en diferentes bases.
 > 
@@ -1069,7 +1069,7 @@
 
 ### Aplicación 3: Machine Learning - PCA
 
-> [!example]- 🤖 Reducción de Dimensionalidad
+> [!example] 🤖 Reducción de Dimensionalidad
 > 
 > **Contexto:** Datos de alta dimensión (ej. imágenes 1000×1000 = 1,000,000 dimensiones)
 > 
@@ -1102,7 +1102,7 @@
 
 ### Aplicación 4: Física Cuántica
 
-> [!example]- ⚛️ Estados Cuánticos
+> [!example] ⚛️ Estados Cuánticos
 > 
 > **Base de espín-z:**
 > 
@@ -1134,7 +1134,7 @@
 
 ### Nivel Básico
 
-> [!example]- 💪 Ejercicios Fundamentales
+> [!example] 💪 Ejercicios Fundamentales
 > 
 > **1.** En $\mathbb{R}^2$, base $\mathcal{B} = \left\{\begin{bmatrix} 1 \ 2 \end{bmatrix}, \begin{bmatrix} 3 \ 4 \end{bmatrix}\right\}$
 > 
@@ -1170,7 +1170,7 @@
 
 ### Nivel Intermedio
 
-> [!example]- 💪 Desafío Moderado
+> [!example] 💪 Desafío Moderado
 > 
 > **6.** En $\mathbb{R}^3$, base ortogonal:
 > 
@@ -1210,7 +1210,7 @@
 
 ### Nivel Avanzado
 
-> [!example]- 💪 Desafío Avanzado
+> [!example] 💪 Desafío Avanzado
 > 
 > **11.** En $\mathbb{R}^3$, base:
 > 
@@ -1266,7 +1266,7 @@
 
 ### Soluciones Básicas
 
-> [!success]- 🔑 Respuestas Nivel 1
+> [!success] 🔑 Respuestas Nivel 1
 > 
 > **1.** Sistema:
 > 
@@ -1332,7 +1332,7 @@ $$\boxed{\left[\begin{bmatrix} 4 \ 3 \ 2 \end{bmatrix}\right]_{\mathcal{B}} = \b
 
 ### Soluciones Intermedias
 
-> [!success]- 🔑 Respuestas Nivel 2
+> [!success] 🔑 Respuestas Nivel 2
 > 
 > **6.** Usando fórmula para base ortogonal:
 > 
@@ -1408,7 +1408,7 @@ $$\boxed{\left[\begin{bmatrix} 4 \ 3 \ 2 \end{bmatrix}\right]_{\mathcal{B}} = \b
 
 ### Soluciones Avanzadas
 
-> [!success]- 🔑 Respuestas Nivel 3
+> [!success] 🔑 Respuestas Nivel 3
 > 
 > **11.**
 > 
@@ -1508,7 +1508,7 @@ $$\boxed{\left[\begin{bmatrix} 4 \ 3 \ 2 \end{bmatrix}\right]_{\mathcal{B}} = \b
 
 ## 🌟 Conceptos Clave para Recordar
 
-> [!tip]- 💡 Puntos Esenciales
+> [!tip] 💡 Puntos Esenciales
 > 
 > ### Sobre Coordenadas
 > 
@@ -1601,7 +1601,7 @@ $$\boxed{\left[\begin{bmatrix} 4 \ 3 \ 2 \end{bmatrix}\right]_{\mathcal{B}} = \b
 
 ## 🔗 Notas Relacionadas
 
-> [!quote]- 🌐 Conexiones Conceptuales
+> [!quote] 🌐 Conexiones Conceptuales
 > 
 > ### Prerequisitos:
 > 
@@ -1659,7 +1659,7 @@ $$\boxed{\left[\begin{bmatrix} 4 \ 3 \ 2 \end{bmatrix}\right]_{\mathcal{B}} = \b
 
 ## 📚 Resumen Ejecutivo
 
-> [!summary]- 🎯 Lo Esencial
+> [!summary] 🎯 Lo Esencial
 > 
 > ### Idea Central
 > 

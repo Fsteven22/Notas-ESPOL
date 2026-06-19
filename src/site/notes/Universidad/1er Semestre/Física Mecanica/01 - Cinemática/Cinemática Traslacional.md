@@ -11,7 +11,7 @@
 
 ## 📋 Conceptos Fundamentales
 
-> [!info]- 🎯 **Definición de Cinemática Traslacional** La cinemática traslacional estudia el movimiento de los cuerpos en línea recta (unidimensional) o en el plano/espacio (bidimensional/tridimensional) sin considerar las causas que producen dicho movimiento.
+> [!info] 🎯 **Definición de Cinemática Traslacional** La cinemática traslacional estudia el movimiento de los cuerpos en línea recta (unidimensional) o en el plano/espacio (bidimensional/tridimensional) sin considerar las causas que producen dicho movimiento.
 > 
 > **Características principales:**
 > 
@@ -22,7 +22,7 @@
 
 ## 🔢 Variables Cinemáticas Fundamentales
 
-> [!tip]- 📍 **Posición (x, r)** **Definición:** Ubicación de un objeto en el espacio respecto a un sistema de referencia.
+> [!tip] 📍 **Posición (x, r)** **Definición:** Ubicación de un objeto en el espacio respecto a un sistema de referencia.
 > 
 > **Características:**
 > 
@@ -33,7 +33,7 @@
 > 
 > **Unidades:** metros (m), kilómetros (km), centímetros (cm)
 
-> [!tip]- ⚡ **Velocidad (v)** **Definición:** Razón de cambio de la posición con respecto al tiempo.
+> [!tip] ⚡ **Velocidad (v)** **Definición:** Razón de cambio de la posición con respecto al tiempo.
 > 
 > **Velocidad promedio:** $$\bar{v} = \frac{\Delta x}{\Delta t} = \frac{x_f - x_i}{t_f - t_i}$$
 > 
@@ -45,7 +45,7 @@
 > - **Rapidez:** Magnitud de la velocidad (escalar)
 > - Unidades: m/s, km/h, cm/s
 
-> [!tip]- 🚀 **Aceleración (a)** **Definición:** Razón de cambio de la velocidad con respecto al tiempo.
+> [!tip] 🚀 **Aceleración (a)** **Definición:** Razón de cambio de la velocidad con respecto al tiempo.
 > 
 > **Aceleración promedio:** $$\bar{a} = \frac{\Delta v}{\Delta t} = \frac{v_f - v_i}{t_f - t_i}$$
 > 
@@ -60,7 +60,7 @@
 
 ## 📊 Ecuaciones de la Cinemática
 
-> [!warning]- 🧮 **Ecuaciones para Aceleración Constante (MRUA)** Estas cinco ecuaciones describen completamente el movimiento rectilíneo uniformemente acelerado:
+> [!warning] 🧮 **Ecuaciones para Aceleración Constante (MRUA)** Estas cinco ecuaciones describen completamente el movimiento rectilíneo uniformemente acelerado:
 > 
 > |Ecuación|Fórmula|Variables ausentes|
 > |---|---|---|
@@ -79,7 +79,7 @@
 
 ## 📈 Tipos de Movimiento Traslacional
 
-> [!info]- 🔄 **Clasificación del Movimiento**
+> [!info] 🔄 **Clasificación del Movimiento**
 > 
 > ```mermaid
 > graph TD
@@ -106,7 +106,7 @@
 >    style F fill:#f1f8e9
 > ```
 
-> [!tip]- 🎯 **Movimiento Rectilíneo Uniforme (MRU)** **Características:**
+> [!tip] 🎯 **Movimiento Rectilíneo Uniforme (MRU)** **Características:**
 > 
 > - Velocidad constante (a = 0)
 > - La gráfica x vs t es una línea recta
@@ -114,7 +114,7 @@
 > 
 > **Ejemplos:** Tren en vía recta, luz en el vacío
 
-> [!tip]- 🎯 **Movimiento Rectilíneo Uniformemente Acelerado (MRUA)** **Características:**
+> [!tip] 🎯 **Movimiento Rectilíneo Uniformemente Acelerado (MRUA)** **Características:**
 > 
 > - Aceleración constante (a ≠ 0)
 > - La gráfica v vs t es una línea recta
@@ -124,7 +124,7 @@
 
 ## 🧠 Técnica de Estudio: Método VEXAT
 
-> [!tip]- 🎓 **Estrategia de Aprendizaje: Mnemotecnia VEXAT** Para resolver problemas de cinemática, usa el método **VEXAT**:
+> [!tip] 🎓 **Estrategia de Aprendizaje: Mnemotecnia VEXAT** Para resolver problemas de cinemática, usa el método **VEXAT**:
 > 
 > **V - Variables** conocidas e incógnitas **E - Ecuación** apropiada a usar **X - eXaminar** el tipo de movimiento **A - Aplicar** la fórmula correcta **T - Todos** los valores deben tener unidades correctas
 > 
@@ -140,7 +140,7 @@
 
 ## 🧪 Casos Especiales Importantes
 
-> [!example]- 🍎 **Caída Libre** **Definición:** Movimiento bajo la influencia exclusiva de la gravedad.
+> [!example] 🍎 **Caída Libre** **Definición:** Movimiento bajo la influencia exclusiva de la gravedad.
 > 
 > **Características:**
 > 
@@ -155,7 +155,7 @@
 > - Tiempo total de vuelo: $t_{total} = \frac{2v_0}{g}$
 > - Tiempo para alcanzar altura h: $t = \frac{v_0 \pm \sqrt{v_0^2 - 2gh}}{g}$
 
-> [!example]- 🚗 **Frenado de Vehículos** **Problema típico:** Un auto viaja a 72 km/h y frena con desaceleración constante hasta detenerse en 50 m.
+> [!example] 🚗 **Frenado de Vehículos** **Problema típico:** Un auto viaja a 72 km/h y frena con desaceleración constante hasta detenerse en 50 m.
 > 
 > **Solución paso a paso:**
 > 
@@ -167,7 +167,7 @@
 
 ## 📊 Interpretación de Gráficas
 
-> [!warning]- 📈 **Análisis Gráfico del Movimiento**
+> [!warning] 📈 **Análisis Gráfico del Movimiento**
 > 
 > **Gráfica Posición vs Tiempo (x-t):**
 > 
@@ -191,7 +191,7 @@
 
 ## 🔍 Referencias y Conexiones
 
-> [!quote]- 📚 **Referencias a otras notas**
+> [!quote] 📚 **Referencias a otras notas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/01 - Cinemática/Cinemática Rotacional\|Cinemática Rotacional]] - Movimiento angular, analogías
 > - [[Universidad/1er Semestre/Física Mecanica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para movimiento en 2D y 3D
@@ -201,7 +201,7 @@
 
 ## 📖 Notas Recomendadas para Complementar
 
-> [!info]- 🎯 **Prerrequisitos y Temas Relacionados**
+> [!info] 🎯 **Prerrequisitos y Temas Relacionados**
 > 
 > **Prerrequisitos esenciales:**
 > 
@@ -219,7 +219,7 @@
 
 ## 🎮 Simulación Mental de Problemas
 
-> [!tip]- 🧩 **Técnica de Visualización** Para cada problema, construye mentalmente:
+> [!tip] 🧩 **Técnica de Visualización** Para cada problema, construye mentalmente:
 > 
 > 1. **🎬 La "película" del movimiento:**
 >     
@@ -259,7 +259,7 @@
 
 ## 📋 Conceptos Fundamentales
 
-> [!info]- 🎯 **Definición de Cinemática Traslacional** La cinemática traslacional estudia el movimiento de los cuerpos en línea recta (unidimensional) o en el plano/espacio (bidimensional/tridimensional) sin considerar las causas que producen dicho movimiento.
+> [!info] 🎯 **Definición de Cinemática Traslacional** La cinemática traslacional estudia el movimiento de los cuerpos en línea recta (unidimensional) o en el plano/espacio (bidimensional/tridimensional) sin considerar las causas que producen dicho movimiento.
 > 
 > **Características principales:**
 > 
@@ -270,7 +270,7 @@
 
 ## 🔢 Variables Cinemáticas Fundamentales
 
-> [!tip]- 📍 **Posición (x, r)** **Definición:** Ubicación de un objeto en el espacio respecto a un sistema de referencia.
+> [!tip] 📍 **Posición (x, r)** **Definición:** Ubicación de un objeto en el espacio respecto a un sistema de referencia.
 > 
 > **Características:**
 > 
@@ -281,7 +281,7 @@
 > 
 > **Unidades:** metros (m), kilómetros (km), centímetros (cm)
 
-> [!tip]- ⚡ **Velocidad (v)** **Definición:** Razón de cambio de la posición con respecto al tiempo.
+> [!tip] ⚡ **Velocidad (v)** **Definición:** Razón de cambio de la posición con respecto al tiempo.
 > 
 > **Velocidad promedio:** $$\bar{v} = \frac{\Delta x}{\Delta t} = \frac{x_f - x_i}{t_f - t_i}$$
 > 
@@ -293,7 +293,7 @@
 > - **Rapidez:** Magnitud de la velocidad (escalar)
 > - Unidades: m/s, km/h, cm/s
 
-> [!tip]- 🚀 **Aceleración (a)** **Definición:** Razón de cambio de la velocidad con respecto al tiempo.
+> [!tip] 🚀 **Aceleración (a)** **Definición:** Razón de cambio de la velocidad con respecto al tiempo.
 > 
 > **Aceleración promedio:** $$\bar{a} = \frac{\Delta v}{\Delta t} = \frac{v_f - v_i}{t_f - t_i}$$
 > 
@@ -308,7 +308,7 @@
 
 ## 📊 Ecuaciones de la Cinemática
 
-> [!warning]- 🧮 **Ecuaciones para Aceleración Constante (MRUA)** Estas cinco ecuaciones describen completamente el movimiento rectilíneo uniformemente acelerado:
+> [!warning] 🧮 **Ecuaciones para Aceleración Constante (MRUA)** Estas cinco ecuaciones describen completamente el movimiento rectilíneo uniformemente acelerado:
 > 
 > |Ecuación|Fórmula|Variables ausentes|
 > |---|---|---|
@@ -327,7 +327,7 @@
 
 ## 📈 Tipos de Movimiento Traslacional
 
-> [!info]- 🔄 **Clasificación del Movimiento**
+> [!info] 🔄 **Clasificación del Movimiento**
 > 
 > ```mermaid
 > graph TD
@@ -354,7 +354,7 @@
 >    style F fill:#f1f8e9
 > ```
 
-> [!tip]- 🎯 **Movimiento Rectilíneo Uniforme (MRU)** **Características:**
+> [!tip] 🎯 **Movimiento Rectilíneo Uniforme (MRU)** **Características:**
 > 
 > - Velocidad constante (a = 0)
 > - La gráfica x vs t es una línea recta
@@ -362,7 +362,7 @@
 > 
 > **Ejemplos:** Tren en vía recta, luz en el vacío
 
-> [!tip]- 🎯 **Movimiento Rectilíneo Uniformemente Acelerado (MRUA)** **Características:**
+> [!tip] 🎯 **Movimiento Rectilíneo Uniformemente Acelerado (MRUA)** **Características:**
 > 
 > - Aceleración constante (a ≠ 0)
 > - La gráfica v vs t es una línea recta
@@ -372,7 +372,7 @@
 
 ## 🧠 Técnica de Estudio: Método VEXAT
 
-> [!tip]- 🎓 **Estrategia de Aprendizaje: Mnemotecnia VEXAT** Para resolver problemas de cinemática, usa el método **VEXAT**:
+> [!tip] 🎓 **Estrategia de Aprendizaje: Mnemotecnia VEXAT** Para resolver problemas de cinemática, usa el método **VEXAT**:
 > 
 > **V - Variables** conocidas e incógnitas **E - Ecuación** apropiada a usar **X - eXaminar** el tipo de movimiento **A - Aplicar** la fórmula correcta **T - Todos** los valores deben tener unidades correctas
 > 
@@ -388,7 +388,7 @@
 
 ## 🧪 Casos Especiales Importantes
 
-> [!example]- 🍎 **Caída Libre** **Definición:** Movimiento bajo la influencia exclusiva de la gravedad.
+> [!example] 🍎 **Caída Libre** **Definición:** Movimiento bajo la influencia exclusiva de la gravedad.
 > 
 > **Características:**
 > 
@@ -403,7 +403,7 @@
 > - Tiempo total de vuelo: $t_{total} = \frac{2v_0}{g}$
 > - Tiempo para alcanzar altura h: $t = \frac{v_0 \pm \sqrt{v_0^2 - 2gh}}{g}$
 
-> [!example]- 🚗 **Frenado de Vehículos** **Problema típico:** Un auto viaja a 72 km/h y frena con desaceleración constante hasta detenerse en 50 m.
+> [!example] 🚗 **Frenado de Vehículos** **Problema típico:** Un auto viaja a 72 km/h y frena con desaceleración constante hasta detenerse en 50 m.
 > 
 > **Solución paso a paso:**
 > 
@@ -415,7 +415,7 @@
 
 ## 📊 Interpretación de Gráficas
 
-> [!warning]- 📈 **Análisis Gráfico del Movimiento**
+> [!warning] 📈 **Análisis Gráfico del Movimiento**
 > 
 > **Gráfica Posición vs Tiempo (x-t):**
 > 
@@ -439,7 +439,7 @@
 
 ## 🔍 Referencias y Conexiones
 
-> [!quote]- 📚 **Referencias a otras notas**
+> [!quote] 📚 **Referencias a otras notas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/01 - Cinemática/Cinemática Rotacional\|Cinemática Rotacional]] - Movimiento angular, analogías
 > - [[Universidad/1er Semestre/Física Mecanica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para movimiento en 2D y 3D
@@ -449,7 +449,7 @@
 
 ## 📖 Notas Recomendadas para Complementar
 
-> [!info]- 🎯 **Prerrequisitos y Temas Relacionados**
+> [!info] 🎯 **Prerrequisitos y Temas Relacionados**
 > 
 > **Prerrequisitos esenciales:**
 > 
@@ -467,7 +467,7 @@
 
 ## 🎮 Simulación Mental de Problemas
 
-> [!tip]- 🧩 **Técnica de Visualización** Para cada problema, construye mentalmente:
+> [!tip] 🧩 **Técnica de Visualización** Para cada problema, construye mentalmente:
 > 
 > 1. **🎬 La "película" del movimiento:**
 > 

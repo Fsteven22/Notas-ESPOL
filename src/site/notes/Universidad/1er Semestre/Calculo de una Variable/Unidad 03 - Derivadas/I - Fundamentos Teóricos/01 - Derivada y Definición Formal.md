@@ -11,7 +11,7 @@
 
 ## 📋 Conceptos Fundamentales
 
-> [!info]- 🎯 **Definición de Derivada** La derivada de una función f(x) en un punto x es el límite de la razón de cambio promedio cuando el intervalo se aproxima a cero.
+> [!info] 🎯 **Definición de Derivada** La derivada de una función f(x) en un punto x es el límite de la razón de cambio promedio cuando el intervalo se aproxima a cero.
 > 
 > $$f'(x) = \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}$$
 > 
@@ -23,7 +23,7 @@
 
 ## 🔢 Notaciones de la Derivada
 
-> [!tip]- ✍️ **Diferentes Formas de Escribir Derivadas** Para una función y = f(x):
+> [!tip] ✍️ **Diferentes Formas de Escribir Derivadas** Para una función y = f(x):
 > 
 > |Notación|Descripción|Uso Principal|
 > |---|---|---|
@@ -40,7 +40,7 @@
 
 ## 📊 Reglas Fundamentales de Derivación
 
-> [!warning]- 🧮 **Reglas Básicas**
+> [!warning] 🧮 **Reglas Básicas**
 > 
 > **Reglas algebraicas:**
 > 
@@ -68,7 +68,7 @@
 
 ## 📈 Derivadas de Funciones Especiales
 
-> [!info]- 🔢 **Funciones Elementales**
+> [!info] 🔢 **Funciones Elementales**
 > 
 > **Funciones exponenciales y logarítmicas:**
 > 
@@ -102,7 +102,7 @@
 
 ## 🧠 Técnica de Estudio: Método DERIVAR
 
-> [!tip]- 🎓 **Estrategia de Aprendizaje: Mnemotecnia DERIVAR**
+> [!tip] 🎓 **Estrategia de Aprendizaje: Mnemotecnia DERIVAR**
 > 
 > **D - Detectar** el tipo de función **E - Elegir** la regla apropiada  
 > **R - Recordar** la fórmula base **I - Identificar** funciones compuestas **V - Verificar** aplicando la regla de la cadena **A - Aplicar** las reglas algebraicas **R - Revisar** y simplificar el resultado
@@ -117,7 +117,7 @@
 
 ## 📋 Tipos de Derivación
 
-> [!info]- 🔄 **Clasificación de Métodos**
+> [!info] 🔄 **Clasificación de Métodos**
 > 
 > **1. Derivación Explícita**
 > 
@@ -143,7 +143,7 @@
 
 ## 🧪 Ejemplos Resueltos
 
-> [!example]- 💡 **Problema 1: Regla del Producto** Derivar: f(x) = x² · sin(x)
+> [!example] 💡 **Problema 1: Regla del Producto** Derivar: f(x) = x² · sin(x)
 > 
 > **Solución:** Usando (fg)' = f'g + fg':
 > 
@@ -152,7 +152,7 @@
 > 
 > f'(x) = 2x · sin(x) + x² · cos(x)
 
-> [!example]- 💡 **Problema 2: Regla de la Cadena** Derivar: h(x) = sin(x³ + 2x)
+> [!example] 💡 **Problema 2: Regla de la Cadena** Derivar: h(x) = sin(x³ + 2x)
 > 
 > **Solución:** h'(x) = cos(x³ + 2x) · (3x² + 2)
 > 
@@ -163,7 +163,7 @@
 
 ## 🎯 Aplicaciones de las Derivadas
 
-> [!warning]- 🔬 **Principales Aplicaciones**
+> [!warning] 🔬 **Principales Aplicaciones**
 > 
 > **En Física:**
 > 
@@ -185,7 +185,7 @@
 
 ## 🔍 Referencias y Conexiones
 
-> [!quote]- 📚 **Referencias a otras notas**
+> [!quote] 📚 **Referencias a otras notas**
 > 
 > - [[Universidad/1er Semestre/Calculo de una Variable/Unidad 01 - Límites/I - Fundamentos del Límite/01 - Concepto y Definición Formal del Límite\|01 - Concepto y Definición Formal del Límite]] - Base fundamental para la definición
 > - [[Universidad/1er Semestre/Calculo de una Variable/Unidad 01 - Límites/V – Formas Indeterminadas/01 - Formas Indeterminadas\|01 - Formas Indeterminadas]] - Aplicación de derivadas a límites
@@ -195,7 +195,7 @@
 
 ## 📖 Notas Recomendadas para Complementar
 
-> [!info]- 🎯 **Prerrequisitos y Temas Relacionados**
+> [!info] 🎯 **Prerrequisitos y Temas Relacionados**
 > 
 > **Prerrequisitos esenciales:**
 > 
@@ -213,7 +213,7 @@
 
 ## 🔧 Técnicas de Verificación
 
-> [!tip]- ✅ **Cómo Verificar tu Derivada**
+> [!tip] ✅ **Cómo Verificar tu Derivada**
 > 
 > **Método 1: Derivación numérica**
 > 

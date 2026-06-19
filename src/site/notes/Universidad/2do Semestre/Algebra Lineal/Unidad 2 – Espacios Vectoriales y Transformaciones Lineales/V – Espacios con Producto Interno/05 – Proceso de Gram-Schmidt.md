@@ -7,7 +7,7 @@
 
 ## 📚 Introducción
 
-> [!info]- 💡 ¿Qué es el Proceso de Gram-Schmidt?
+> [!info] 💡 ¿Qué es el Proceso de Gram-Schmidt?
 > 
 > El **Proceso de Gram-Schmidt** es un algoritmo fundamental en álgebra lineal que transforma un conjunto de vectores linealmente independientes en un conjunto de vectores **ortonormales** (perpendiculares entre sí y de longitud unitaria).
 > 
@@ -47,7 +47,7 @@ graph LR
 
 ### 🔍 Visualización del Concepto
 
-> [!example]- 📐 ¿Qué Significa Geométricamente?
+> [!example] 📐 ¿Qué Significa Geométricamente?
 > 
 > **Transformación visual de vectores:**
 > 
@@ -102,7 +102,7 @@ graph LR
 
 ### 🔄 Ortogonalidad vs Ortonormalidad
 
-> [!tip]- 📊 Diferencias Importantes
+> [!tip] 📊 Diferencias Importantes
 > 
 > **Conceptos relacionados pero distintos:**
 > 
@@ -155,7 +155,7 @@ graph LR
 
 ### 📝 Formulación Matemática
 
-> [!note]- 🎯 Fórmulas del Proceso
+> [!note] 🎯 Fórmulas del Proceso
 > 
 > **Algoritmo completo:**
 > 
@@ -201,7 +201,7 @@ graph LR
 
 ### 🧮 Ejemplo Completo en 3D
 
-> [!success]- 💪 Ejemplo Resuelto Detallado
+> [!success] 💪 Ejemplo Resuelto Detallado
 > 
 > **Vectores originales:**
 > 
@@ -312,7 +312,7 @@ graph LR
 
 ### 🔄 Versión Numéricamente Estable
 
-> [!tip]- ⚡ Algoritmo Mejorado
+> [!tip] ⚡ Algoritmo Mejorado
 > 
 > **Problema con el método clásico:**
 > 
@@ -403,7 +403,7 @@ graph LR
 
 ### 📊 Factorización QR
 
-> [!success]- 🔨 Descomposición Fundamental
+> [!success] 🔨 Descomposición Fundamental
 > 
 > **Definición:** Para cualquier matriz A (m×n) con columnas LI: $$A = QR$$
 > 
@@ -472,7 +472,7 @@ graph LR
 
 ### 🎓 Mínimos Cuadrados
 
-> [!example]- 📈 Regresión Lineal Óptima
+> [!example] 📈 Regresión Lineal Óptima
 > 
 > **Problema:** Encontrar la mejor línea (o hiperplano) que se ajuste a datos
 > 
@@ -547,7 +547,7 @@ graph LR
 
 ### 🖼️ Procesamiento de Señales
 
-> [!tip]- 📡 Ortogonalización de Bases
+> [!tip] 📡 Ortogonalización de Bases
 > 
 > **Aplicación: Análisis de Fourier Discreto**
 > 
@@ -609,7 +609,7 @@ graph LR
 
 ### 🎮 Gráficos por Computadora
 
-> [!info]- 🖥️ Sistemas de Coordenadas Locales
+> [!info] 🖥️ Sistemas de Coordenadas Locales
 > 
 > **Problema:** En gráficos 3D, objetos necesitan sus propios sistemas de coordenadas
 > 
@@ -695,7 +695,7 @@ graph LR
 
 ### 📚 Resultados Fundamentales
 
-> [!note]- 🎓 Teoremas Importantes
+> [!note] 🎓 Teoremas Importantes
 > 
 > **Teorema 1: Existencia**
 > 
@@ -761,7 +761,7 @@ graph LR
 
 ### 🔍 Condiciones de Fallo
 
-> [!warning]- ⚠️ Cuándo Falla Gram-Schmidt
+> [!warning] ⚠️ Cuándo Falla Gram-Schmidt
 > 
 > **Situaciones problemáticas:**
 > 
@@ -835,7 +835,7 @@ graph LR
 
 ## 🎓 Ejercicios Guiados
 
-> [!example]- 💪 Práctica Progresiva
+> [!example] 💪 Práctica Progresiva
 > ### **Nivel Básico:**
 > 
 > **Ejercicio 1: Ortogonalizar 2 vectores en ℝ²**

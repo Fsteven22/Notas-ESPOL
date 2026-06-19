@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué son las Propiedades de las Integrales Múltiples? Las **propiedades de las integrales múltiples** son reglas fundamentales que nos permiten manipular, simplificar y evaluar integrales de funciones de varias variables de manera más eficiente. Estas propiedades extienden los conceptos familiares de las integrales de una variable al espacio multidimensional.
+> [!info] 💡 ¿Qué son las Propiedades de las Integrales Múltiples? Las **propiedades de las integrales múltiples** son reglas fundamentales que nos permiten manipular, simplificar y evaluar integrales de funciones de varias variables de manera más eficiente. Estas propiedades extienden los conceptos familiares de las integrales de una variable al espacio multidimensional.
 > 
 > **Analogía práctica:** Imagina que estás calculando el volumen de agua en un recipiente complejo:
 > 
@@ -51,7 +51,7 @@ graph TB
 
 ### 📊 Linealidad de la Integral
 
-> [!example]- ⚡ Propiedad de Linealidad
+> [!example] ⚡ Propiedad de Linealidad
 > 
 > La integral múltiple es un **operador lineal**, lo que significa que respeta la suma de funciones y la multiplicación por constantes.
 > 
@@ -118,7 +118,7 @@ flowchart LR
 
 ### ➕ Aditividad sobre Regiones
 
-> [!success]- 🗺️ División de Regiones
+> [!success] 🗺️ División de Regiones
 > 
 > Si una región $R$ puede dividirse en subregiones disjuntas $R_1, R_2, \ldots, R_n$, entonces:
 > 
@@ -200,7 +200,7 @@ flowchart LR
 
 ### 🔄 Cambio en el Orden de Integración
 
-> [!tip]- 🔀 Teorema de Fubini
+> [!tip] 🔀 Teorema de Fubini
 > 
 > Para funciones continuas en regiones rectangulares o "tipo I/II", podemos cambiar el orden de integración:
 > 
@@ -279,7 +279,7 @@ flowchart LR
 
 ### 🪞 Simetría en Integrales Múltiples
 
-> [!note]- ⚖️ Aprovechando la Simetría
+> [!note] ⚖️ Aprovechando la Simetría
 > 
 > **Tipos de simetría y sus consecuencias:**
 > 
@@ -382,7 +382,7 @@ graph TB
 
 ### 📏 Área y Volumen como Casos Especiales
 
-> [!success]- 📐 Integrales Constantes
+> [!success] 📐 Integrales Constantes
 > 
 > **1. Área de una región plana:**
 > 
@@ -426,7 +426,7 @@ graph TB
 
 ### 📊 Monotonía de la Integral
 
-> [!warning]- 📈 Desigualdades en Integrales
+> [!warning] 📈 Desigualdades en Integrales
 > 
 > **Propiedad fundamental:**
 > 
@@ -481,7 +481,7 @@ graph LR
 
 ### 🎯 Teorema del Valor Medio para Integrales
 
-> [!example]- 📍 Valor Promedio
+> [!example] 📍 Valor Promedio
 > 
 > **Enunciado del teorema:**
 > 
@@ -542,7 +542,7 @@ graph LR
 
 ### 🗺️ Transformaciones Generales
 
-> [!tip]- 🧮 Jacobiano y Cambio de Variables
+> [!tip] 🧮 Jacobiano y Cambio de Variables
 > 
 > **Teorema fundamental:**
 > 
@@ -583,7 +583,7 @@ graph LR
 
 ### 🎯 Coordenadas Polares (Caso Especial)
 
-> [!success]- 🌀 Aplicación de Polares
+> [!success] 🌀 Aplicación de Polares
 > 
 > **Transformación polar:**
 > 
@@ -677,7 +677,7 @@ mindmap
 
 ### Tabla Resumen de Propiedades
 
-> [!quote]- 📋 Referencia Rápida
+> [!quote] 📋 Referencia Rápida
 > 
 > |Propiedad|Fórmula|Cuándo Aplicar|Beneficio|
 > |---|---|---|---|
@@ -738,7 +738,7 @@ flowchart TD
 
 ## 🎓 Ejercicios Resueltos Paso a Paso
 
-> [!example]- 💪 Ejercicio 1: Aplicando Linealidad
+> [!example] 💪 Ejercicio 1: Aplicando Linealidad
 > 
 > **Problema:** Evaluar $\displaystyle \iint_R (3x^2 - 2xy + 4) , dA$ donde $R = [0,1] \times [0,2]$
 > 
@@ -768,7 +768,7 @@ flowchart TD
 > = 8
 > ```
 
-> [!example]- 💪 Ejercicio 2: Cambio de Orden
+> [!example] 💪 Ejercicio 2: Cambio de Orden
 > 
 > **Problema:** Evaluar $\displaystyle \int_0^1 \int_y^1 \frac{e^x}{x} , dx , dy$
 > 
@@ -799,7 +799,7 @@ flowchart TD
 > = e - 1
 > ```
 
-> [!example]- 💪 Ejercicio 3: Usando Simetría
+> [!example] 💪 Ejercicio 3: Usando Simetría
 > 
 > **Problema:** Evaluar $\displaystyle \iint_R x^3y , dA$ donde $R = [-2,2] \times [-1,1]$
 > 
@@ -823,7 +823,7 @@ flowchart TD
 > Sin necesidad de calcular la integral!
 > ```
 
-> [!example]- 💪 Ejercicio 4: Coordenadas Polares
+> [!example] 💪 Ejercicio 4: Coordenadas Polares
 > 
 > **Problema:** Calcular $\displaystyle \iint_R \sqrt{x^2+y^2} , dA$ donde $R: x^2+y^2 \leq 4$
 > 
@@ -859,7 +859,7 @@ flowchart TD
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Continuando el Aprendizaje
+> [!quote] 🌟 Continuando el Aprendizaje
 > 
 > **Progresión natural:**
 > 

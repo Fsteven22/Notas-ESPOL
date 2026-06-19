@@ -7,7 +7,7 @@
 
 ## 🌟 Concepto Fundamental
 
-> [!info]- Visión General **Los teoremas fundamentales de espacios vectoriales son consecuencias lógicas que se derivan de los axiomas básicos. Aunque parecen "obvios" intuitivamente, su demostración rigurosa es esencial para la construcción formal de la teoría. Estos teoremas establecen propiedades cruciales sobre la unicidad de elementos especiales, comportamiento del cero, cancelación y otras relaciones algebraicas.**
+> [!info] Visión General **Los teoremas fundamentales de espacios vectoriales son consecuencias lógicas que se derivan de los axiomas básicos. Aunque parecen "obvios" intuitivamente, su demostración rigurosa es esencial para la construcción formal de la teoría. Estos teoremas establecen propiedades cruciales sobre la unicidad de elementos especiales, comportamiento del cero, cancelación y otras relaciones algebraicas.**
 > 
 > **Importancia:**
 > 
@@ -19,7 +19,7 @@
 
 ### 📖 Contexto Histórico
 
-> [!note]- Desarrollo de la Fundamentación **Era Pre-Axiomática (1600-1850):**
+> [!note] Desarrollo de la Fundamentación **Era Pre-Axiomática (1600-1850):**
 > 
 > - **Descartes, Newton, Leibniz:** Uso intuitivo de vectores
 > - Propiedades asumidas sin demostración formal
@@ -49,7 +49,7 @@
 
 ## 📐 Lista Completa de Axiomas (Recordatorio)
 
-> [!note]- Axiomas Base **Para un espacio vectorial (V, +, ·) sobre campo 𝔽:**
+> [!note] Axiomas Base **Para un espacio vectorial (V, +, ·) sobre campo 𝔽:**
 > 
 > **AXIOMAS DE LA SUMA:**
 > 
@@ -87,7 +87,7 @@
 
 ## 🎯 Teorema 1: Unicidad del Vector Cero
 
-> [!important]- Vector Neutro Único **Teorema:** El vector cero (elemento neutro de la suma) es único.
+> [!important] Vector Neutro Único **Teorema:** El vector cero (elemento neutro de la suma) es único.
 > 
 > **Enunciado formal:**
 > 
@@ -133,7 +133,7 @@
 > Notación unívoca: 0
 > ```
 
-> [!example]- Interpretación y Ejemplos **¿Por qué es importante?**
+> [!example] Interpretación y Ejemplos **¿Por qué es importante?**
 > 
 > ```
 > Sin este teorema, podría haber múltiples "ceros"
@@ -169,7 +169,7 @@
 
 ## 🎯 Teorema 2: Unicidad del Vector Opuesto
 
-> [!important]- Inverso Aditivo Único **Teorema:** Para cada vector v ∈ V, su opuesto (inverso aditivo) es único.
+> [!important] Inverso Aditivo Único **Teorema:** Para cada vector v ∈ V, su opuesto (inverso aditivo) es único.
 > 
 > **Enunciado formal:**
 > 
@@ -235,7 +235,7 @@
 > Notación estándar: -v (el opuesto de v)
 > ```
 
-> [!example]- Ejemplos e Interpretación **En ℝ²:**
+> [!example] Ejemplos e Interpretación **En ℝ²:**
 > 
 > ```
 > v = (3, -5)
@@ -268,7 +268,7 @@
 
 ## 🎯 Teorema 3: Producto por Escalar Cero
 
-> [!important]- Cero Escalar Anula Cualquier Vector **Teorema:** Para todo vector v ∈ V:
+> [!important] Cero Escalar Anula Cualquier Vector **Teorema:** Para todo vector v ∈ V:
 > 
 > ```
 > 0·v = 0
@@ -323,7 +323,7 @@
 > ∎
 > ```
 
-> [!example]- Ejemplos y Consecuencias **En ℝ³:**
+> [!example] Ejemplos y Consecuencias **En ℝ³:**
 > 
 > ```
 > 0·(2, -3, 5) = (0, 0, 0) = 0
@@ -358,7 +358,7 @@
 
 ## 🎯 Teorema 4: Producto de Vector Cero
 
-> [!important]- Escalar por Vector Cero **Teorema:** Para todo escalar c ∈ 𝔽:
+> [!important] Escalar por Vector Cero **Teorema:** Para todo escalar c ∈ 𝔽:
 > 
 > ```
 > c·0 = 0
@@ -391,7 +391,7 @@
 > ∎
 > ```
 
-> [!example]- Ejemplos **En ℝ²:**
+> [!example] Ejemplos **En ℝ²:**
 > 
 > ```
 > 5·(0, 0) = (0, 0)
@@ -420,7 +420,7 @@
 
 ## 🎯 Teorema 5: Producto por Menos Uno
 
-> [!important]- (-1) Produce el Opuesto **Teorema:** Para todo vector v ∈ V:
+> [!important] (-1) Produce el Opuesto **Teorema:** Para todo vector v ∈ V:
 > 
 > ```
 > (-1)·v = -v
@@ -459,7 +459,7 @@
 > ∎
 > ```
 
-> [!example]- Ejemplos y Consecuencias **En ℝ³:**
+> [!example] Ejemplos y Consecuencias **En ℝ³:**
 > 
 > ```
 > v = (2, -3, 5)
@@ -501,7 +501,7 @@
 
 ## 🎯 Teorema 6: Propiedad del Producto Nulo
 
-> [!important]- Ley del Cero Producto **Teorema:** Para todo c ∈ 𝔽 y v ∈ V:
+> [!important] Ley del Cero Producto **Teorema:** Para todo c ∈ 𝔽 y v ∈ V:
 > 
 > ```
 > c·v = 0  ⟹  c = 0  o  v = 0
@@ -553,7 +553,7 @@
 > Si ningún factor es cero, el producto no es cero
 > ```
 
-> [!example]- Ejemplos y Aplicaciones **Ejemplo 1:**
+> [!example] Ejemplos y Aplicaciones **Ejemplo 1:**
 > 
 > ```
 > En ℝ²: Si 3·v = (0,0), entonces v = (0,0)
@@ -596,7 +596,7 @@
 
 ## 🎯 Teorema 7: Propiedad de Cancelación
 
-> [!important]- Ley de Cancelación Aditiva **Teorema:** Para todo u, v, w ∈ V:
+> [!important] Ley de Cancelación Aditiva **Teorema:** Para todo u, v, w ∈ V:
 > 
 > ```
 > u + w = v + w  ⟹  u = v
@@ -637,7 +637,7 @@
 > ∎
 > ```
 
-> [!example]- Aplicaciones **Resolver ecuación:**
+> [!example] Aplicaciones **Resolver ecuación:**
 > 
 > ```
 > Resolver: v + (2, 3) = (5, 7)
@@ -667,7 +667,7 @@
 
 ## 🎯 Teorema 8: Cancelación Multiplicativa
 
-> [!important]- Cancelación de Escalares No Nulos **Teorema:** Para todo c ∈ 𝔽 (c ≠ 0) y u, v ∈ V:
+> [!important] Cancelación de Escalares No Nulos **Teorema:** Para todo c ∈ 𝔽 (c ≠ 0) y u, v ∈ V:
 > 
 > ```
 > c·u = c·v  ⟹  u = v
@@ -705,7 +705,7 @@
 > Escalares no nulos preservan desigualdad
 > ```
 
-> [!example]- Ejemplos **Ejemplo 1:**
+> [!example] Ejemplos **Ejemplo 1:**
 > 
 > ```
 > Si 3·u = 3·v, entonces u = v
@@ -741,7 +741,7 @@
 
 ## 🎯 Teorema 9: Distributividad del Opuesto
 
-> [!important]- Distribución de Signo Negativo **Teorema:** Para todo u, v ∈ V:
+> [!important] Distribución de Signo Negativo **Teorema:** Para todo u, v ∈ V:
 > 
 > ```
 > -(u + v) = (-u) + (-v)
@@ -786,7 +786,7 @@
 > 
 > ∎
 > ```
-> [!example]- Ejemplos **En ℝ²:**
+> [!example] Ejemplos **En ℝ²:**
 > 
 > ```
 > u = (3, -2), v = (1, 5)
@@ -821,7 +821,7 @@
 
 ## 🎯 Teorema 10: Opuesto de un Múltiplo Escalar
 
-> [!important]- Negativo de Producto Escalar **Teorema:** Para todo c ∈ 𝔽 y v ∈ V:
+> [!important] Negativo de Producto Escalar **Teorema:** Para todo c ∈ 𝔽 y v ∈ V:
 > 
 > ```
 > -(c·v) = (-c)·v = c·(-v)
@@ -886,7 +886,7 @@
 > ∎
 > ```
 
-> [!example]- Ejemplos y Aplicaciones **Ejemplo 1:**
+> [!example] Ejemplos y Aplicaciones **Ejemplo 1:**
 > 
 > ```
 > c = 3, v = (2, -1, 4)
@@ -941,7 +941,7 @@
 
 ## 🎯 Teorema 11: Resta como Suma del Opuesto
 
-> [!important]- Definición Formal de Resta **Teorema:** Para todo u, v ∈ V, la ecuación u + x = v tiene solución única.
+> [!important] Definición Formal de Resta **Teorema:** Para todo u, v ∈ V, la ecuación u + x = v tiene solución única.
 > 
 > **Definición de resta:**
 > 
@@ -986,7 +986,7 @@
 > La solución es única ✓
 > ```
 
-> [!example]- Propiedades de la Resta **Propiedad 1: Resta de sí mismo**
+> [!example] Propiedades de la Resta **Propiedad 1: Resta de sí mismo**
 > 
 > ```
 > v - v = 0
@@ -1036,7 +1036,7 @@
 
 ## 🎯 Teorema 12: Propiedades de Combinaciones Lineales
 
-> [!important]- Linealidad de Operaciones **Teorema:** Para escalares c₁, c₂, ..., cₙ y vectores v₁, v₂, ..., vₙ:
+> [!important] Linealidad de Operaciones **Teorema:** Para escalares c₁, c₂, ..., cₙ y vectores v₁, v₂, ..., vₙ:
 > 
 > **Parte A: Distributividad extendida**
 > 
@@ -1078,7 +1078,7 @@
 > Similar usando M3 e inducción
 > ```
 
-> [!example]- Consecuencias Importantes **Combinación lineal general:**
+> [!example] Consecuencias Importantes **Combinación lineal general:**
 > 
 > ```
 > c₁v₁ + c₂v₂ + ... + cₙvₙ
@@ -1108,7 +1108,7 @@
 
 ## 📊 Tabla Resumen de Teoremas
 
-> [!note]- Referencia Rápida
+> [!note] Referencia Rápida
 > 
 > |#|Teorema|Enunciado|Importancia|
 > |---|---|---|---|
@@ -1127,7 +1127,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- Malentendidos Frecuentes **1. "Asumir propiedades sin demostrar"**
+> [!warning] Malentendidos Frecuentes **1. "Asumir propiedades sin demostrar"**
 > 
 > ```
 > ✗ "Es obvio que 0·v = 0"
@@ -1192,7 +1192,7 @@
 
 ## 🎯 Ejercicios Propuestos
 
-> [!example]- Problemas de Práctica **Nivel básico - Verificación:**
+> [!example] Problemas de Práctica **Nivel básico - Verificación:**
 > 
 > 1. Verificar Teorema 3 (0·v = 0) explícitamente en: a) v = (2, -3) en ℝ² b) v = x² + 1 en P(ℝ) c) v = ⎡1 2⎤ en M₂ₓ₂(ℝ) ⎣3 4⎦
 >     
@@ -1223,7 +1223,7 @@
 
 ## 💡 Importancia y Aplicaciones
 
-> [!example]- Por Qué Son Importantes Estos Teoremas **Fundamento teórico:**
+> [!example] Por Qué Son Importantes Estos Teoremas **Fundamento teórico:**
 > 
 > ```
 > - Base rigurosa para álgebra lineal
@@ -1275,7 +1275,7 @@
 
 ## 🔗 Relación entre Teoremas
 
-> [!note]- Dependencias Lógicas
+> [!note] Dependencias Lógicas
 > 
 > ```
 > AXIOMAS (10)
@@ -1305,7 +1305,7 @@
 
 ## 📚 Conexiones con Otros Temas
 
-> [!quote]- Enlaces Conceptuales **Fundamentos previos:**
+> [!quote] Enlaces Conceptuales **Fundamentos previos:**
 > 
 > - [[02.2 Axiomas\|02.2 Axiomas]] - Concepto de sistema axiomático
 > - [[Lógica Matemática\|Lógica Matemática]] - Demostraciones formales
@@ -1329,7 +1329,7 @@
 
 ## 📖 Referencias Históricas
 
-> [!note]- Fuentes Clásicas **Textos fundamentales:**
+> [!note] Fuentes Clásicas **Textos fundamentales:**
 > 
 > - **Peano, G. (1888).** "Calcolo Geometrico"
 >     - Primera axiomatización de espacios vectoriales
@@ -1346,7 +1346,7 @@
 
 ## 🎓 Resumen Ejecutivo
 
-> [!important]- Puntos Clave para Recordar **Los 12 teoremas fundamentales:**
+> [!important] Puntos Clave para Recordar **Los 12 teoremas fundamentales:**
 > 
 > ```
 > 1. Vector cero ÚNICO
@@ -1397,7 +1397,7 @@
 
 ## 🧩 Demostración Completa Modelo
 
-> [!example]- Ejemplo Extenso: Teorema del Producto Nulo **Teorema 6 (Detallado):** Si c·v = 0, entonces c = 0 o v = 0
+> [!example] Ejemplo Extenso: Teorema del Producto Nulo **Teorema 6 (Detallado):** Si c·v = 0, entonces c = 0 o v = 0
 > 
 > **Demostración formal completa:**
 > 

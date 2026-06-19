@@ -7,11 +7,11 @@
 
 > [!quote] "En las profundidades silenciosas de los océanos, cada metro de descenso es un testimonio del peso invisible que la naturaleza acumula gota a gota." 🌊
 
-> [!info]- La presión en los fluidos es una magnitud fundamental que describe cómo se distribuye la fuerza por unidad de área en un medio continuo. La comprensión de la presión hidrostática es esencial para el diseño de estructuras subacuáticas, sistemas de distribución de fluidos, y una amplia gama de aplicaciones en ingeniería civil, naval y mecánica.
+> [!info] La presión en los fluidos es una magnitud fundamental que describe cómo se distribuye la fuerza por unidad de área en un medio continuo. La comprensión de la presión hidrostática es esencial para el diseño de estructuras subacuáticas, sistemas de distribución de fluidos, y una amplia gama de aplicaciones en ingeniería civil, naval y mecánica.
 
 ## 🎯 Conceptos Fundamentales
 
-> [!info]- **Presión Hidrostática** 💧
+> [!info] **Presión Hidrostática** 💧
 > 
 > ### Definición:
 > 
@@ -35,7 +35,7 @@
 > - **Actúa perpendicular** a cualquier superficie
 > - **Aumenta linealmente** con la profundidad
 
-> [!tip]- **Tipos de Presión** 🔍
+> [!tip] **Tipos de Presión** 🔍
 > 
 > ### **Presión Absoluta (P)**:
 > 
@@ -55,7 +55,7 @@
 > - ΔP = P₂ - P₁ = ρg(h₂ - h₁)
 > - Útil para calcular diferencias de nivel
 
-> [!warning]- **Propiedades de los Fluidos** 📊
+> [!warning] **Propiedades de los Fluidos** 📊
 > 
 > ### Densidades Típicas (a 20°C, 1 atm):
 > 
@@ -94,7 +94,7 @@
 >     style E fill:#4fc3f7
 > ```
 
-> [!note]- **Relaciones Matemáticas** 📐
+> [!note] **Relaciones Matemáticas** 📐
 > 
 > ### Gradiente de Presión:
 > 
@@ -114,7 +114,7 @@
 
 ## 🎯 Estrategias de Resolución
 
-> [!tip]- **Método PROF (Presión-Referencia-Operación-Fluido)** 🎯
+> [!tip] **Método PROF (Presión-Referencia-Operación-Fluido)** 🎯
 > 
 > ### **P**resión - Identifica el tipo de presión
 > 
@@ -142,7 +142,7 @@
 
 ## 📚 Problemas Tipo
 
-> [!example]- **Problema 1: Presión en el Océano** 🌊
+> [!example] **Problema 1: Presión en el Océano** 🌊
 > 
 > ### Enunciado:
 > 
@@ -165,7 +165,7 @@
 > 
 > **Interpretación**: La presión a 200 m es aproximadamente 21 veces la presión atmosférica.
 
-> [!example]- **Problema 2: Tanque con Múltiples Fluidos** 🪣
+> [!example] **Problema 2: Tanque con Múltiples Fluidos** 🪣
 > 
 > ### Enunciado:
 > 
@@ -188,7 +188,7 @@
 > 
 > **Verificación**: P₃ = P₀ + ρ₁gh₁ + ρ₂gh₂ + ρ₃gh₃ = 213.1 kPa ✓
 
-> [!example]- **Problema 3: Manómetro en U** 📏
+> [!example] **Problema 3: Manómetro en U** 📏
 > 
 > ### Enunciado:
 > 
@@ -214,7 +214,7 @@
 > 
 > **Equivalencia**: 33.4 kPa corresponde a 25 cm de columna de mercurio.
 
-> [!example]- **Problema 4: Presión en Diferentes Planetas** 🪐
+> [!example] **Problema 4: Presión en Diferentes Planetas** 🪐
 > 
 > ### Enunciado:
 > 
@@ -243,13 +243,13 @@
 
 ## 🧮 Técnicas de Memorización
 
-> [!tip]- **Mnemotecnia: "PROFUNDO"** 🌊
+> [!tip] **Mnemotecnia: "PROFUNDO"** 🌊
 > 
 > **P**resión = P₀ + ρgh (ecuación fundamental) **R**eferencia siempre desde superficie libre **O**rden: mayor profundidad = mayor presión **F**luido en reposo (hidrostática) **U**nidades: Pascal (Pa) = N/m² **N**o depende de la forma del recipiente **D**ensidad del fluido es clave **O**rtogonal: presión actúa perpendicular a superficies
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- **Confusiones Frecuentes** ⚠️
+> [!warning] **Confusiones Frecuentes** ⚠️
 > 
 > 1. **Confundir presión absoluta con manométrica** en los cálculos
 > 2. **Usar densidad incorrecta** del fluido (considerar temperatura)
@@ -262,7 +262,7 @@
 
 ## 🎯 Aplicaciones Prácticas
 
-> [!info]- **Ejemplos del Mundo Real** 🌍
+> [!info] **Ejemplos del Mundo Real** 🌍
 > 
 > ### Ingeniería Civil:
 > 
@@ -290,7 +290,7 @@
 
 ## 📊 Datos de Referencia
 
-> [!note]- **Equivalencias de Presión**
+> [!note] **Equivalencias de Presión**
 > 
 > ### Unidades Comunes:
 > 
@@ -312,7 +312,7 @@
 
 ## 📖 Referencias
 
-> [!quote]- **Notas Relacionadas**
+> [!quote] **Notas Relacionadas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/06 - Hidrostática e Hidrodinámica/Fundamentos de Hidrostática e Hidrodinámica/Presión y Densidad\|Presión y Densidad]] - Fundamentos teóricos
 > - [[Fundamentos de Hidrostática e Hidrodinámica\|Fundamentos de Hidrostática e Hidrodinámica]] - Principios generales
@@ -321,7 +321,7 @@
 
 ## 📚 Notas Recomendadas
 
-> [!note]- **Prerrequisitos**
+> [!note] **Prerrequisitos**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Sistema de unidades
 > - [[Universidad/1er Semestre/Física Mecanica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para fuerzas y direcciones

@@ -7,11 +7,11 @@
 
 > [!quote] "En un sistema aislado, el momentum total permanece constante; esta conservación es la clave para resolver las colisiones más complejas." 🎯
 
-> [!info]- Los problemas de variación de momentum en sistemas aislados constituyen el corazón del análisis de colisiones y explosiones. A través de la aplicación del principio de conservación del momentum lineal, podemos predecir y analizar el comportamiento de sistemas donde no actúan fuerzas externas netas.
+> [!info] Los problemas de variación de momentum en sistemas aislados constituyen el corazón del análisis de colisiones y explosiones. A través de la aplicación del principio de conservación del momentum lineal, podemos predecir y analizar el comportamiento de sistemas donde no actúan fuerzas externas netas.
 
 ## 🎯 Conceptos Fundamentales
 
-> [!info]- **Sistema Aislado** 🔒
+> [!info] **Sistema Aislado** 🔒
 > 
 > ### Características Principales:
 > 
@@ -29,7 +29,7 @@
 > |Con fricción despreciable|μ ≈ 0|Se conserva|Se conserva (elástico)|
 > |Con fuerzas internas únicamente|Solo F_int actúan|Constante|Variable según tipo|
 
-> [!tip]- **Tipos de Colisiones** 💥
+> [!tip] **Tipos de Colisiones** 💥
 > 
 > ### Clasificación por Conservación de Energía:
 > 
@@ -52,7 +52,7 @@
 > - Los objetos quedan unidos: \vec{v}_f1 = \vec{v}_f2
 > - Coeficiente de restitución: e = 0
 
-> [!warning]- **Explosiones y Desintegraciones** 💥
+> [!warning] **Explosiones y Desintegraciones** 💥
 > 
 > ### Características:
 > 
@@ -85,7 +85,7 @@
 >     style D fill:#e8f5e8
 > ```
 
-> [!note]- **Coeficiente de Restitución** 🔄
+> [!note] **Coeficiente de Restitución** 🔄
 > 
 > ### Definición:
 > 
@@ -104,7 +104,7 @@
 
 ## 🎯 Estrategias de Resolución
 
-> [!tip]- **Método SICE (Sistema-Inicial-Conservación-Ecuaciones)** 🧠
+> [!tip] **Método SICE (Sistema-Inicial-Conservación-Ecuaciones)** 🧠
 > 
 > ### **S**istema - Define el sistema aislado
 > 
@@ -132,7 +132,7 @@
 
 ## 📚 Problemas Tipo
 
-> [!example]- **Problema 1: Colisión Perfectamente Inelástica** 🚗
+> [!example] **Problema 1: Colisión Perfectamente Inelástica** 🚗
 > 
 > ### Enunciado:
 > 
@@ -158,7 +158,7 @@
 > 
 > **ΔK = Kf - Kᵢ = -267,857 J** (energía perdida)
 
-> [!example]- **Problema 2: Colisión Elástica Unidimensional** ⚡
+> [!example] **Problema 2: Colisión Elástica Unidimensional** ⚡
 > 
 > ### Enunciado:
 > 
@@ -180,7 +180,7 @@
 > 
 > **Resolución**: De (2): v₂f = v₁f + 8 Sustituyendo en (1): 4 = 0.5v₁f + v₁f + 8 -4 = 1.5v₁f **v₁f = -2.67 m/s** (rebota) **v₂f = 5.33 m/s** (se mueve hacia adelante)
 
-> [!example]- **Problema 3: Explosión Unidimensional** 💥
+> [!example] **Problema 3: Explosión Unidimensional** 💥
 > 
 > ### Enunciado:
 > 
@@ -200,7 +200,7 @@
 > 
 > **Verificación**: El fragmento más pequeño se mueve más rápido, lo cual es físicamente consistente.
 
-> [!example]- **Problema 4: Colisión Bidimensional** 🎱
+> [!example] **Problema 4: Colisión Bidimensional** 🎱
 > 
 > ### Enunciado:
 > 
@@ -227,7 +227,7 @@
 
 ## 🧮 Técnicas Avanzadas
 
-> [!tip]- **Método del Centro de Masa** 🎯
+> [!tip] **Método del Centro de Masa** 🎯
 > 
 > Para sistemas complejos, el análisis desde el sistema de referencia del centro de masa simplifica los cálculos:
 > 
@@ -239,7 +239,7 @@
 > - Las colisiones elásticas son simétricas respecto al CM
 > - Simplifica el análisis de colisiones bidimensionales
 
-> [!tip]- **Análisis Energético** ⚡
+> [!tip] **Análisis Energético** ⚡
 > 
 > ### Factor Q (Energía liberada/absorbida):
 > 
@@ -259,7 +259,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- **Confusiones Frecuentes** ⚠️
+> [!warning] **Confusiones Frecuentes** ⚠️
 > 
 > 1. **No verificar si el sistema es realmente aislado** antes de aplicar conservación
 > 2. **Confundir momentum con energía cinética** en la conservación
@@ -271,7 +271,7 @@
 
 ## 🎯 Aplicaciones Prácticas
 
-> [!info]- **Ejemplos del Mundo Real** 🌍
+> [!info] **Ejemplos del Mundo Real** 🌍
 > 
 > ### Ingeniería Automotriz:
 > 
@@ -299,7 +299,7 @@
 
 ## 📖 Referencias y Notas Relacionadas
 
-> [!quote]- **Notas Relacionadas**
+> [!quote] **Notas Relacionadas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/04 - Impulso y Colisiones (Lineal)/Momentum Lineal y Su Conservación\|Momentum Lineal y Su Conservación]] - Fundamentos teóricos
 > - [[Universidad/1er Semestre/Física Mecanica/04 - Impulso y Colisiones (Lineal)/Choques Uni-Bidimensionales\|Choques Uni-Bidimensionales]] - Análisis detallado de colisiones
@@ -309,7 +309,7 @@
 
 ## 🔧 Formulario de Consulta Rápida
 
-> [!note]- **Ecuaciones Esenciales**
+> [!note] **Ecuaciones Esenciales**
 > 
 > ### Conservación de Momentum:
 > 

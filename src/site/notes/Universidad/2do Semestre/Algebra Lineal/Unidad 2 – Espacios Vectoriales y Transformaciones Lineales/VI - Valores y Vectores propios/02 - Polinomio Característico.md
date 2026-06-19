@@ -7,7 +7,7 @@
 
 ## 📚 Introducción
 
-> [!info]- 💡 ¿Qué es el Polinomio Característico?
+> [!info] 💡 ¿Qué es el Polinomio Característico?
 > 
 > El **polinomio característico** es una función polinomial asociada a una matriz que codifica información fundamental sobre sus valores propios y su estructura algebraica.
 > 
@@ -51,7 +51,7 @@ graph LR
 
 ### 📐 Proceso de Formación
 
-> [!example]- 🛠️ ¿Cómo se Construye?
+> [!example] 🛠️ ¿Cómo se Construye?
 > 
 > **Pasos fundamentales:**
 > 
@@ -109,7 +109,7 @@ graph LR
 
 ### 🎨 Ejemplos de Construcción
 
-> [!success]- 📝 Casos Ilustrativos
+> [!success] 📝 Casos Ilustrativos
 > 
 > **Ejemplo 1: Matriz diagonal**
 > 
@@ -191,7 +191,7 @@ graph LR
 
 ### 🔢 Forma General
 
-> [!note]- 📐 Expresión Estándar
+> [!note] 📐 Expresión Estándar
 > 
 > Para una matriz A de orden n×n, el polinomio característico tiene la forma:
 > 
@@ -237,7 +237,7 @@ graph LR
 
 ### 🎯 Coeficientes Significativos
 
-> [!tip]- 🔍 Relación con Propiedades de la Matriz
+> [!tip] 🔍 Relación con Propiedades de la Matriz
 > 
 > **Teorema de los coeficientes:**
 > 
@@ -307,7 +307,7 @@ graph LR
 
 ### 📏 Matrices 2×2
 
-> [!example]- 2️⃣ Caso Más Simple
+> [!example] 2️⃣ Caso Más Simple
 > 
 > **Fórmula directa:**
 > 
@@ -372,7 +372,7 @@ graph LR
 
 ### 📐 Matrices 3×3
 
-> [!note]- 3️⃣ Caso Intermedio
+> [!note] 3️⃣ Caso Intermedio
 > 
 > **Métodos de cálculo:**
 > 
@@ -454,7 +454,7 @@ graph LR
 
 ### 📊 Matrices n×n General
 
-> [!tip]- 🔢 Caso General
+> [!tip] 🔢 Caso General
 > 
 > **Complejidad computacional:**
 > 
@@ -528,7 +528,7 @@ graph LR
 
 ### 📐 Teoremas Clásicos
 
-> [!success]- 🏆 Resultados Importantes
+> [!success] 🏆 Resultados Importantes
 > 
 > **1. Teorema de Invarianza**
 > 
@@ -634,7 +634,7 @@ graph LR
 
 ### 🔄 Relaciones Algebraicas
 
-> [!note]- 🔗 Conexiones entre Propiedades
+> [!note] 🔗 Conexiones entre Propiedades
 > 
 > **1. Traza y Coeficientes:**
 > 
@@ -735,7 +735,7 @@ graph LR
 
 ### 🔷 Matrices con Estructura Especial
 
-> [!example]- 🎯 Simplificaciones por Tipo
+> [!example] 🎯 Simplificaciones por Tipo
 > 
 > **1. Matrices Diagonales**
 > 
@@ -859,7 +859,7 @@ graph LR
 
 ### 🌟 Patrones Notables
 
-> [!tip]- 🔍 Formas Reconocibles
+> [!tip] 🔍 Formas Reconocibles
 > 
 > **1. Matriz de rotación en 2D**
 > 
@@ -931,7 +931,7 @@ graph LR
 
 ## 📝 Ejercicios Guiados
 
-> [!example]- 💪 Práctica Paso a Paso
+> [!example] 💪 Práctica Paso a Paso
 > ### **Nivel Básico:**
 > 
 > **Ejercicio 1: Cálculo directo 2×2**
@@ -1268,7 +1268,7 @@ graph LR
 
 ### Tabla Resumen Global
 
-> [!success]- 📋 Referencia Completa
+> [!success] 📋 Referencia Completa
 > 
 > | Aspecto | Fórmula/Propiedad | Significado |
 > |---------|------------------|-------------|
@@ -1287,7 +1287,7 @@ graph LR
 > 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Hacia Conceptos Avanzados
+> [!quote] 🌟 Hacia Conceptos Avanzados
 
 **Has dominado:**
 

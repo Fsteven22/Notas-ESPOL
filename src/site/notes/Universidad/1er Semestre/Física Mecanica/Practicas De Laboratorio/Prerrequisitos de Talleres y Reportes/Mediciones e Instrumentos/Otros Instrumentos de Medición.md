@@ -7,11 +7,11 @@
 
 > [!quote] "Un científico es tan bueno como sus instrumentos; conocerlos es dominar la precisión." 🔧
 
-> [!info]- Además del calibrador de Vernier, el laboratorio de física mecánica utiliza diversos instrumentos especializados para medir diferentes magnitudes. Cada instrumento tiene características únicas de precisión, rango de medición y aplicaciones específicas. Conocer sus capacidades y limitaciones es fundamental para seleccionar la herramienta apropiada y obtener resultados confiables.
+> [!info] Además del calibrador de Vernier, el laboratorio de física mecánica utiliza diversos instrumentos especializados para medir diferentes magnitudes. Cada instrumento tiene características únicas de precisión, rango de medición y aplicaciones específicas. Conocer sus capacidades y limitaciones es fundamental para seleccionar la herramienta apropiada y obtener resultados confiables.
 
 ## 🔧 Instrumentos de Longitud
 
-> [!info]- **Micrómetro (Palmer)** 📐
+> [!info] **Micrómetro (Palmer)** 📐
 > 
 > ### Características Principales:
 > 
@@ -43,7 +43,7 @@
 > - Escala circular: 0.23 mm
 > - **Total**: 8.73 mm
 
-> [!tip]- **Regla Graduada** 🌊
+> [!tip] **Regla Graduada** 🌊
 > 
 > ### Tipos Comunes:
 > 
@@ -77,7 +77,7 @@
 
 ## ⚖️ Instrumentos de Masa
 
-> [!warning]- **Balanza Analítica** ⚡
+> [!warning] **Balanza Analítica** ⚡
 > 
 > ### Especificaciones:
 > 
@@ -117,7 +117,7 @@
 > - **Electricidad estática**: Atracción/repulsión de objetos
 > - **Vibración**: Movimientos del edificio o equipos cercanos
 
-> [!tip]- **Balanza de Brazos** 📊
+> [!tip] **Balanza de Brazos** 📊
 > 
 > ### Principio de Funcionamiento:
 > 
@@ -149,7 +149,7 @@
 
 ## ⏱️ Instrumentos de Tiempo
 
-> [!note]- **Cronómetro** 📝
+> [!note] **Cronómetro** 📝
 > 
 > ### Tipos Disponibles:
 > 
@@ -210,7 +210,7 @@
 
 ## 🌡️ Instrumentos de Temperatura
 
-> [!info]- **Termómetros** 🔬
+> [!info] **Termómetros** 🔬
 > 
 > ### Tipos Comunes en Laboratorio:
 > 
@@ -244,7 +244,7 @@
 
 ## 📊 Instrumentos Especializados
 
-> [!tip]- **Dinamómetro** 🧠
+> [!tip] **Dinamómetro** 🧠
 > 
 > ### Principio: Ley de Hooke (F = kx)
 > 
@@ -275,7 +275,7 @@
 > - Deriva con la temperatura
 > - Fatiga del material con el uso
 
-> [!tip]- **Transportador** 📏
+> [!tip] **Transportador** 📏
 > 
 > ### Medición de Ángulos:
 > 
@@ -303,7 +303,7 @@
 
 ## 🧮 Técnicas de Selección
 
-> [!tip]- **Criterios de Selección: "PRAG"** 🎯
+> [!tip] **Criterios de Selección: "PRAG"** 🎯
 > 
 > **P**recisión requerida
 > 
@@ -327,7 +327,7 @@
 
 ## 📚 Comparación de Instrumentos
 
-> [!example]- **Tabla Comparativa de Precisión** 📊
+> [!example] **Tabla Comparativa de Precisión** 📊
 > 
 > ### Para Longitud:
 > 
@@ -355,7 +355,7 @@
 
 ## ⚠️ Errores Comunes y Cuidados
 
-> [!warning]- **Errores de Instrumentación** ⚠️
+> [!warning] **Errores de Instrumentación** ⚠️
 > 
 > ### Errores de Paralaje:
 > 
@@ -384,7 +384,7 @@
 
 ## 🎯 Mantenimiento de Instrumentos
 
-> [!info]- **Rutinas de Cuidado** 🛠️
+> [!info] **Rutinas de Cuidado** 🛠️
 > 
 > ### Limpieza:
 > 
@@ -416,7 +416,7 @@
 
 ## 📖 Referencias
 
-> [!quote]- **Notas Relacionadas**
+> [!quote] **Notas Relacionadas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Mediciones e Instrumentos/Mediciones Fundamentales\|Mediciones Fundamentales]] - Conceptos básicos
 > - [[Uso del Calibrador de Vernier\|Uso del Calibrador de Vernier]] - Instrumento de precisión
@@ -425,13 +425,13 @@
 
 ## 📚 Notas Recomendadas
 
-> [!note]- **Prerrequisitos**
+> [!note] **Prerrequisitos**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Mediciones e Instrumentos/Mediciones Fundamentales\|Mediciones Fundamentales]] - Base conceptual
 > - [[Universidad/1er Semestre/Física Mecanica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Sistema de unidades
 > - **Conocimientos básicos**: Manejo cuidadoso de equipos
 
-> [!note]- **Temas Siguientes**
+> [!note] **Temas Siguientes**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Presentación de Resultados/Cifras Significativas\|Cifras Significativas]] - Expresión correcta de resultados
 > - [[Calibración de Instrumentos\|Calibración de Instrumentos]] - Verificación de precisión

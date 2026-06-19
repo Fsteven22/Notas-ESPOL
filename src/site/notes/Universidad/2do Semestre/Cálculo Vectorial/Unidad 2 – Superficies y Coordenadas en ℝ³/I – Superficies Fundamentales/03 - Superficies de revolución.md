@@ -7,7 +7,7 @@
 
 ## 🎯 Fundamentos de las Superficies de Revolución
 
-> [!info]- 💡 Introducción a las Superficies Generadas por Rotación Las **superficies de revolución** son superficies tridimensionales generadas al rotar una curva plana (llamada **generatriz**) alrededor de un eje fijo (llamado **eje de revolución**). Estas superficies poseen simetría rotacional y son fundamentales en geometría, física, ingeniería y diseño industrial.
+> [!info] 💡 Introducción a las Superficies Generadas por Rotación Las **superficies de revolución** son superficies tridimensionales generadas al rotar una curva plana (llamada **generatriz**) alrededor de un eje fijo (llamado **eje de revolución**). Estas superficies poseen simetría rotacional y son fundamentales en geometría, física, ingeniería y diseño industrial.
 > 
 > **Analogías útiles:**
 > 
@@ -25,7 +25,7 @@
 
 ### 📊 Características Fundamentales
 
-> [!note]- 🌟 Propiedades Esenciales
+> [!note] 🌟 Propiedades Esenciales
 > 
 > **Elementos de una superficie de revolución:**
 > 
@@ -48,7 +48,7 @@
 
 ### 📐 Método de Generación
 
-> [!success]- 🟢 Proceso de Construcción
+> [!success] 🟢 Proceso de Construcción
 > 
 > **Definición formal:** Una superficie de revolución S se obtiene rotando una curva C alrededor de un eje L. Si un punto P(x₀, y₀) de la curva está a distancia r del eje, al rotar describe un círculo de radio r.
 > 
@@ -70,7 +70,7 @@
 
 ### 🧮 Ecuaciones Paramétricas
 
-> [!example]- 📘 Formulación Matemática
+> [!example] 📘 Formulación Matemática
 > 
 > **Caso 1: Rotación alrededor del eje z**
 > 
@@ -101,7 +101,7 @@
 
 ### 🔧 Coordenadas Cilíndricas
 
-> [!tip]- 🎯 Sistema Natural para Superficies de Revolución
+> [!tip] 🎯 Sistema Natural para Superficies de Revolución
 > 
 > **Coordenadas cilíndricas (r, θ, z):**
 > 
@@ -129,7 +129,7 @@
 
 ### 🔵 Esfera
 
-> [!example]- ⚪ La Superficie Más Simétrica
+> [!example] ⚪ La Superficie Más Simétrica
 > 
 > **Generatriz:** Semicírculo en el plano xz
 > 
@@ -165,7 +165,7 @@
 
 ### 🔴 Cilindro Circular
 
-> [!example]- 📏 Superficie de Revolución Más Simple
+> [!example] 📏 Superficie de Revolución Más Simple
 > 
 > **Generatriz:** Línea recta paralela al eje z
 > 
@@ -200,7 +200,7 @@
 
 ### 🟠 Cono Circular
 
-> [!example]- 🔺 Superficie Cónica Clásica
+> [!example] 🔺 Superficie Cónica Clásica
 > 
 > **Generatriz:** Línea recta que pasa por el origen
 > 
@@ -242,7 +242,7 @@
 
 ### 🟡 Paraboloide de Revolución
 
-> [!example]- 📡 Superficie Parabólica
+> [!example] 📡 Superficie Parabólica
 > 
 > **Generatriz:** Parábola en el plano xz
 > 
@@ -283,7 +283,7 @@
 
 ### 🟢 Elipsoide de Revolución
 
-> [!example]- 🏈 Superficies Elípticas
+> [!example] 🏈 Superficies Elípticas
 > 
 > **Tipo A: Elipsoide prolado (alargado)**
 > 
@@ -320,7 +320,7 @@
 
 ### 🔵 Hiperboloide de Revolución
 
-> [!example]- ⌛ Superficies Hiperbólicas
+> [!example] ⌛ Superficies Hiperbólicas
 > 
 > **Tipo A: Hiperboloide de una hoja**
 > 
@@ -366,7 +366,7 @@
 
 ### 🟣 Toroide (Toro)
 
-> [!example]- 🍩 La Rosquilla Matemática
+> [!example] 🍩 La Rosquilla Matemática
 > 
 > **Generatriz:** Círculo que NO pasa por el eje de revolución
 > 
@@ -414,7 +414,7 @@
 
 ### 🟤 Catenoide
 
-> [!example]- ⛓️ La Superficie Mínima
+> [!example] ⛓️ La Superficie Mínima
 > 
 > **Generatriz:** Catenaria (curva de una cadena colgante)
 > 
@@ -451,7 +451,7 @@
 
 ### 🧮 Cálculo de Áreas y Volúmenes
 
-> [!tip]- 📐 Fórmulas Integrales
+> [!tip] 📐 Fórmulas Integrales
 > 
 > **Área de superficie de revolución (alrededor del eje x):**
 > 
@@ -484,7 +484,7 @@
 
 ### 📊 Curvaturas
 
-> [!note]- 📈 Análisis de Curvatura
+> [!note] 📈 Análisis de Curvatura
 > 
 > **Curvatura gaussiana K:**
 > 
@@ -514,7 +514,7 @@
 
 ### 🐍 Código Python para Visualización
 
-> [!success]- 🔧 Generación de Superficies de Revolución
+> [!success] 🔧 Generación de Superficies de Revolución
 > 
 > ```python
 > import numpy as np
@@ -736,7 +736,7 @@
 
 ### 🎮 Visualización Interactiva Avanzada
 
-> [!example]- 🌐 Código con Plotly para Interactividad
+> [!example] 🌐 Código con Plotly para Interactividad
 > 
 > ```python
 > import plotly.graph_objects as go
@@ -797,7 +797,7 @@
 
 ### 🏗️ Ingeniería y Arquitectura
 
-> [!example]- 🏢 Casos de Uso Real
+> [!example] 🏢 Casos de Uso Real
 > 
 > **1. Torres de enfriamiento (Hiperboloide):**
 > 
@@ -877,7 +877,7 @@
 
 ### 🔭 Astronomía y Física
 
-> [!note]- 🌌 Aplicaciones Científicas
+> [!note] 🌌 Aplicaciones Científicas
 > 
 > **1. Forma de planetas (Elipsoide oblato):**
 > 
@@ -968,7 +968,7 @@
 
 ### 🎨 Diseño Industrial y CAD
 
-> [!tip]- 🔧 Modelado de Productos
+> [!tip] 🔧 Modelado de Productos
 > 
 > **1. Botellas y envases:**
 > 
@@ -1083,7 +1083,7 @@
 
 ### 🎢 Entretenimiento y Arte
 
-> [!example]- 🎨 Aplicaciones Creativas
+> [!example] 🎨 Aplicaciones Creativas
 > 
 > **1. Diseño de montañas rusas (loops):**
 > 
@@ -1160,7 +1160,7 @@
 
 ## 🧪 Ejercicios Progresivos
 
-> [!example]- 💪 Práctica Graduada
+> [!example] 💪 Práctica Graduada
 > 
 > **Nivel 1 - Identificación:** 🟢
 > 
@@ -1243,7 +1243,7 @@
 
 ## 📊 Tabla Comparativa de Superficies
 
-> [!note]- 📋 Resumen Completo
+> [!note] 📋 Resumen Completo
 > 
 > | Superficie | Ecuación Implícita | Generatriz | K (Curvatura) | Aplicaciones |
 > |------------|-------------------|------------|---------------|--------------|
@@ -1264,7 +1264,7 @@
 
 ## 🌐 Conexiones Conceptuales
 
-> [!quote]- 🔗 Enlaces con Otros Temas
+> [!quote] 🔗 Enlaces con Otros Temas
 > 
 > **Prerequisitos:**
 > - [[Coordenadas Cilíndricas\|Coordenadas Cilíndricas]] - Sistema natural para superficies de revolución
@@ -1301,7 +1301,7 @@
 
 ## 💡 Consejos de Estudio
 
-> [!tip]- 🧠 Estrategias de Aprendizaje
+> [!tip] 🧠 Estrategias de Aprendizaje
 > 
 > **Para identificar superficies:**
 > 
@@ -1364,7 +1364,7 @@
 
 ### 📐 Análisis Diferencial
 
-> [!warning]- 🟡 Geometría Diferencial de Superficies
+> [!warning] 🟡 Geometría Diferencial de Superficies
 > 
 > **Vector normal unitario:**
 > 
@@ -1421,7 +1421,7 @@
 
 ### 🎲 Clasificación Topológica
 
-> [!info]- 🔵 Invariantes Topológicos
+> [!info] 🔵 Invariantes Topológicos
 > 
 > **Característica de Euler (χ):**
 > 
@@ -1457,7 +1457,7 @@
 
 ### 🌊 Superficies Mínimas
 
-> [!success]- 🟢 Minimización de Área
+> [!success] 🟢 Minimización de Área
 > 
 > **Definición:** Una superficie es **mínima** si tiene curvatura media H = 0 en todos los puntos.
 > 
@@ -1525,7 +1525,7 @@
 
 ### 🏆 Problemas de Olimpiada
 
-> [!example]- 🥇 Desafíos Avanzados
+> [!example] 🥇 Desafíos Avanzados
 > 
 > **Problema 1: Intersección óptima**
 > 
@@ -1596,7 +1596,7 @@
 
 ### 🔧 Problemas de Ingeniería
 
-> [!tip]- ⚙️ Casos Aplicados
+> [!tip] ⚙️ Casos Aplicados
 > 
 > **Problema 4: Diseño de tanque**
 > 
@@ -1748,7 +1748,7 @@
 
 ### 📖 Material de Referencia
 
-> [!note]- 📚 Lecturas Recomendadas
+> [!note] 📚 Lecturas Recomendadas
 > 
 > **Textos clásicos:**
 > 
@@ -1779,7 +1779,7 @@
 
 ### 🎬 Visualizaciones Dinámicas
 
-> [!tip]- 🎥 Crear Animaciones
+> [!tip] 🎥 Crear Animaciones
 > 
 > ```python
 > import matplotlib.pyplot as plt
@@ -1852,7 +1852,7 @@
 
 ## 🎓 Resumen Final
 
-> [!abstract]- 📝 Puntos Clave
+> [!abstract] 📝 Puntos Clave
 > 
 > **Conceptos fundamentales:**
 > 

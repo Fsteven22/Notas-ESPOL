@@ -7,7 +7,7 @@
 
 ## 🌟 Concepto Fundamental
 
-> [!info]- Definición Intuitiva
+> [!info] Definición Intuitiva
 > **El espacio columna de una matriz es el subespacio vectorial generado por sus columnas. Representa todos los vectores que pueden obtenerse como combinaciones lineales de las columnas de la matriz. Este concepto es fundamental para entender qué sistemas lineales tienen solución y cuál es el rango de una transformación lineal.**
 > 
 > **Características clave:**
@@ -19,7 +19,7 @@
 
 ### 📖 Contexto Histórico
 
-> [!note]- Desarrollo del Concepto
+> [!note] Desarrollo del Concepto
 > **Orígenes (1850-1900):**
 > - **Cayley (1858):** Teoría de matrices
 >   - Primera formulación sistemática
@@ -53,7 +53,7 @@
 
 ## 📊 Definición Formal
 
-> [!important]- Espacio Columna
+> [!important] Espacio Columna
 > **Definición:**
 > 
 > Sea $A$ una matriz $m \times n$:
@@ -84,7 +84,7 @@
 
 ## 🎯 Propiedades Fundamentales
 
-> [!success]- Características del Espacio Columna
+> [!success] Características del Espacio Columna
 > **Teorema: Col(A) es un subespacio**
 > 
 > **DEMOSTRACIÓN:**
@@ -145,7 +145,7 @@
 
 ## 🔍 Cálculo del Espacio Columna
 
-> [!tip]- Método de Reducción por Filas
+> [!tip] Método de Reducción por Filas
 > **Algoritmo para encontrar base de Col(A):**
 > 
 > **PROCEDIMIENTO:**
@@ -203,7 +203,7 @@
 
 ## 📈 Relación con el Rango
 
-> [!important]- Rango y Dimensión
+> [!important] Rango y Dimensión
 > **Teorema del rango:**
 > 
 > Para matriz $A$ de $m \times n$:
@@ -243,7 +243,7 @@
 
 ## 🎨 Interpretación Geométrica
 
-> [!note]- Visualización del Espacio Columna
+> [!note] Visualización del Espacio Columna
 > **En $\mathbb{R}^3$:**
 > 
 > ```mermaid
@@ -296,7 +296,7 @@
 
 ## 🔗 Relación con Otros Subespacios
 
-> [!success]- Cuatro Subespacios Fundamentales
+> [!success] Cuatro Subespacios Fundamentales
 > **Para matriz $A$ de $m \times n$:**
 > 
 > **CUATRO SUBESPACIOS:**
@@ -371,7 +371,7 @@
 
 ## 💡 Ejemplos Resueltos
 
-> [!example]- Problemas Detallados
+> [!example] Problemas Detallados
 > **Problema 1: Encontrar base y dimensión**
 > 
 > Sea 
@@ -529,7 +529,7 @@
 
 ## ⚡ Propiedades del Rango
 
-> [!important]- Teoremas sobre el Rango
+> [!important] Teoremas sobre el Rango
 > **Propiedades básicas:**
 > 
 > Para matrices $A$ y $B$ apropiadas:
@@ -577,7 +577,7 @@
 
 ## 🎯 Aplicaciones del Espacio Columna
 
-> [!note]- Usos Prácticos
+> [!note] Usos Prácticos
 > **Consistencia de sistemas:**
 > 
 > **CRITERIO DE CONSISTENCIA:**
@@ -620,7 +620,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- Malentendidos Frecuentes
+> [!warning] Malentendidos Frecuentes
 > **1. "Usar columnas de la forma reducida"**
 > 
 > ✗ **FALSO**
@@ -721,7 +721,7 @@
 
 ## 🔗 Conexiones con Otros Temas
 
-> [!quote]- Enlaces Conceptuales
+> [!quote] Enlaces Conceptuales
 > **Fundamentos previos:**
 > - [[01 - Vectores en espacios vectoriales\|01 - Vectores en espacios vectoriales]] - Espacios y subespacios
 > - [[05 - Combinaciones lineales\|05 - Combinaciones lineales]] - Generación de vectores
@@ -742,7 +742,7 @@
 
 ## 📚 Recursos Adicionales
 
-> [!note]- Herramientas y Referencias
+> [!note] Herramientas y Referencias
 > **Software de álgebra lineal:**
 > 
 > - **MATLAB**
@@ -764,7 +764,7 @@
 
 ## 📖 Bibliografía Esencial
 
-> [!tip]- Lecturas Recomendadas
+> [!tip] Lecturas Recomendadas
 > **Nivel introductorio:**
 > - **Lay, D. C.** (2016). _Álgebra Lineal y sus Aplicaciones_ (5ª ed.). Pearson.
 >   - Cap. 4: Espacios vectoriales
@@ -786,7 +786,7 @@
 
 ## 🎓 Conceptos Clave - Resumen
 
-> [!important]- Ideas Fundamentales
+> [!important] Ideas Fundamentales
 > 
 > **DEFINICIONES ESENCIALES:**
 > 

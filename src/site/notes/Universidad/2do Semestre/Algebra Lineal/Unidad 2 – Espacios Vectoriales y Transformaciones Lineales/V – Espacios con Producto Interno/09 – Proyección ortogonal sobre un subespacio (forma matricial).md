@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es la Proyección Ortogonal Matricial?
+> [!info] 💡 ¿Qué es la Proyección Ortogonal Matricial?
 > 
 > La **proyección ortogonal en forma matricial** es una representación de la proyección de vectores sobre subespacios utilizando multiplicación de matrices. Esta formulación permite expresar la proyección como una transformación lineal mediante una **matriz de proyección**.
 > 
@@ -56,7 +56,7 @@ graph TB
 
 ### 📊 Matriz de Proyección
 
-> [!example]- 🔢 Construcción y Definición
+> [!example] 🔢 Construcción y Definición
 > 
 > **Definición formal:**
 > 
@@ -148,7 +148,7 @@ graph TB
 
 ### 🎯 Caso Especial: Base Ortonormal
 
-> [!success]- ⚡ Simplificación Significativa
+> [!success] ⚡ Simplificación Significativa
 > 
 > **Teorema:**
 > 
@@ -241,7 +241,7 @@ graph TB
 
 ### 📐 Proyección sobre Línea (1D)
 
-> [!note]- 📏 Caso Unidimensional
+> [!note] 📏 Caso Unidimensional
 > 
 > **Proyección sobre línea generada por vector a:**
 > 
@@ -323,7 +323,7 @@ graph TB
 
 ### ⚡ Idempotencia
 
-> [!example]- 🔄 P² = P
+> [!example] 🔄 P² = P
 > 
 > **Teorema:**
 > 
@@ -398,7 +398,7 @@ graph TB
 
 ### 🔄 Simetría
 
-> [!success]- 📊 P^T = P
+> [!success] 📊 P^T = P
 > 
 > **Teorema:**
 > 
@@ -446,7 +446,7 @@ graph TB
 
 ### 🎯 Rango y Núcleo
 
-> [!tip]- 📐 Espacios Fundamentales
+> [!tip] 📐 Espacios Fundamentales
 > 
 > **Teorema:**
 > 
@@ -531,7 +531,7 @@ graph TB
 
 ### 🔢 Valores y Vectores Propios
 
-> [!note]- 🎨 Espectro de P
+> [!note] 🎨 Espectro de P
 > 
 > **Teorema:**
 > 
@@ -631,7 +631,7 @@ graph TB
 
 ### 📋 Algoritmo General
 
-> [!example]- 🔢 Pasos para Construir P
+> [!example] 🔢 Pasos para Construir P
 > 
 > **Procedimiento completo:**
 > 
@@ -734,7 +734,7 @@ graph TB
 
 ### ⚡ Optimización: Usar Base Ortonormal
 
-> [!success]- 🚀 Método Eficiente
+> [!success] 🚀 Método Eficiente
 > 
 > **Estrategia recomendada:**
 > 
@@ -814,7 +814,7 @@ graph TB
 
 ### 🔧 Casos Especiales
 
-> [!tip]- 📐 Situaciones Particulares
+> [!tip] 📐 Situaciones Particulares
 > 
 > **1. Proyección sobre todo el espacio (W = ℝⁿ):**
 > 
@@ -889,7 +889,7 @@ graph TB
 
 ### 📉 Mínimos Cuadrados (Forma Matricial)
 
-> [!example]- 📊 Solución mediante Proyección
+> [!example] 📊 Solución mediante Proyección
 > 
 > **Problema:**
 > 
@@ -979,7 +979,7 @@ graph TB
 
 ### 📡 Filtrado de Señales
 
-> [!success]- 🎵 Eliminación de Componentes
+> [!success] 🎵 Eliminación de Componentes
 > 
 > **Concepto:**
 > 
@@ -1036,7 +1036,7 @@ graph TB
 
 ### 🖼️ Compresión y Aproximación
 
-> [!tip]- 📸 Reducción de Dimensionalidad
+> [!tip] 📸 Reducción de Dimensionalidad
 > 
 > **PCA (Análisis de Componentes Principales):**
 > 
@@ -1091,7 +1091,7 @@ graph TB
 
 ### 📝 Ejercicios Básicos
 
-> [!example]- 🎯 Cálculos Fundamentales
+> [!example] 🎯 Cálculos Fundamentales
 > 
 > **Ejercicio 1: Proyección sobre línea**
 > 
@@ -1184,7 +1184,7 @@ graph TB
 
 ### 🧮 Ejercicios Intermedios
 
-> [!note]- 📊 Aplicaciones y Cálculos
+> [!note] 📊 Aplicaciones y Cálculos
 > 
 > **Ejercicio 4: Proyección con base no ortonormal**
 > 
@@ -1287,7 +1287,7 @@ graph TB
 
 ### 🔬 Problemas Avanzados
 
-> [!tip]- 🎓 Teoría y Demostraciones
+> [!tip] 🎓 Teoría y Demostraciones
 > 
 > **Problema 7: Demostrar unicidad de P**
 > 
@@ -1329,7 +1329,7 @@ graph TB
 
 ## 📚 Resumen y Conclusiones
 
-> [!success]- 🎯 Puntos Clave
+> [!success] 🎯 Puntos Clave
 > 
 > **Fórmulas fundamentales:**
 > 

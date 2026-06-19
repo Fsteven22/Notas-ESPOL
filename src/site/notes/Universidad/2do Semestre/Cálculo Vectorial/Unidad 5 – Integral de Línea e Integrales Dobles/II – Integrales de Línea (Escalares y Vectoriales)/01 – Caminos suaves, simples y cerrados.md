@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es un Camino en Cálculo Vectorial? Un **camino** (o curva parametrizada) es una función que describe el movimiento de un punto en el espacio a medida que un parámetro (generalmente el tiempo) varía. Es la representación matemática de una trayectoria.
+> [!info] 💡 ¿Qué es un Camino en Cálculo Vectorial? Un **camino** (o curva parametrizada) es una función que describe el movimiento de un punto en el espacio a medida que un parámetro (generalmente el tiempo) varía. Es la representación matemática de una trayectoria.
 > 
 > **Analogía práctica:** Imagina que eres un dron volando sobre una ciudad:
 > 
@@ -48,7 +48,7 @@ graph LR
 
 ### 🔷 Concepto Fundamental
 
-> [!note]- 📊 Definición Matemática
+> [!note] 📊 Definición Matemática
 > 
 > **Camino en $\mathbb{R}^n$:**
 > 
@@ -92,7 +92,7 @@ graph TD
 
 ### 🎨 Ejemplos Concretos
 
-> [!example]- 🌟 Caminos Básicos
+> [!example] 🌟 Caminos Básicos
 > 
 > **1. Segmento de recta en 2D**
 > 
@@ -170,7 +170,7 @@ graph TB
 
 ### 📈 Definición de Suavidad
 
-> [!success]- ✨ ¿Qué Significa que un Camino sea Suave?
+> [!success] ✨ ¿Qué Significa que un Camino sea Suave?
 > 
 > Un camino $\gamma: [a,b] \rightarrow \mathbb{R}^n$ es **suave** si:
 > 
@@ -215,7 +215,7 @@ flowchart TD
 
 ### 🧮 Ejemplos de Análisis
 
-> [!example]- 🔬 Verificación de Suavidad
+> [!example] 🔬 Verificación de Suavidad
 > 
 > **Ejemplo 1: Circunferencia ✓**
 > 
@@ -284,7 +284,7 @@ flowchart TD
 
 ### 🎯 Definición de Simplicidad
 
-> [!note]- 📍 Camino Simple (Sin Autointersecciones)
+> [!note] 📍 Camino Simple (Sin Autointersecciones)
 > 
 > Un camino $\gamma: [a,b] \rightarrow \mathbb{R}^n$ es **simple** si:
 > 
@@ -326,7 +326,7 @@ graph TB
 
 ### 🔍 Ejemplos Detallados
 
-> [!example]- 🎨 Análisis de Simplicidad
+> [!example] 🎨 Análisis de Simplicidad
 > 
 > **Ejemplo 1: Circunferencia (Simple) ✓**
 > 
@@ -390,7 +390,7 @@ flowchart TD
 
 ### 🔁 Definición de Camino Cerrado
 
-> [!success]- 🔄 Concepto de Cerradura
+> [!success] 🔄 Concepto de Cerradura
 > 
 > Un camino $\gamma: [a,b] \rightarrow \mathbb{R}^n$ es **cerrado** si:
 > 
@@ -424,7 +424,7 @@ flowchart TD
 
 ### 📊 Ejemplos y Clasificación
 
-> [!example]- 🌀 Tipos de Caminos Cerrados
+> [!example] 🌀 Tipos de Caminos Cerrados
 > 
 > **1. Círculo (Cerrado y Simple) ✓✓**
 > 
@@ -498,7 +498,7 @@ graph TB
 
 ### 📏 Longitud de Arco
 
-> [!info]- 📐 Cálculo de la Longitud
+> [!info] 📐 Cálculo de la Longitud
 > 
 > La **longitud de arco** de un camino suave $\gamma: [a,b] \rightarrow \mathbb{R}^n$ es:
 > 
@@ -539,7 +539,7 @@ flowchart LR
 
 ### 🔢 Ejemplos de Cálculo
 
-> [!example]- 📝 Longitudes de Caminos Específicos
+> [!example] 📝 Longitudes de Caminos Específicos
 > 
 > **Ejemplo 1: Longitud de un círculo**
 > 
@@ -603,7 +603,7 @@ flowchart LR
 
 ## 🎯 Tabla Resumen Completa
 
-> [!quote]- 📋 Clasificación General de Caminos
+> [!quote] 📋 Clasificación General de Caminos
 > 
 > |Propiedad|Definición|Ejemplo ✅|Contraejemplo ❌|
 > |---|---|---|---|
@@ -637,7 +637,7 @@ graph TB
 ---
 ## 📚 Teoremas Importantes
 
-> [!note]- 🎓 Resultados Fundamentales
+> [!note] 🎓 Resultados Fundamentales
 > 
 > **1. Teorema de Reparametrización**
 > 
@@ -677,7 +677,7 @@ graph TB
 
 ## 🎓 Ejercicios Guiados
 
-> [!example]- 💪 Práctica Progresiva
+> [!example] 💪 Práctica Progresiva
 > 
 > **Nivel Básico:**
 > 
@@ -743,7 +743,7 @@ graph TB
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Continuando el Aprendizaje
+> [!quote] 🌟 Continuando el Aprendizaje
 > 
 > **Has dominado:**
 > 

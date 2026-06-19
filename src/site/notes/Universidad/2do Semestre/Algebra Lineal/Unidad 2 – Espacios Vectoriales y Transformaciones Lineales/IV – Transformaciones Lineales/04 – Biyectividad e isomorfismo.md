@@ -7,7 +7,7 @@
 
 ## 🌟 Concepto Fundamental
 
-> [!info]- Definición Intuitiva **Un isomorfismo es una transformación lineal biyectiva que establece una "equivalencia estructural perfecta" entre dos espacios vectoriales. Los espacios isomorfos son esencialmente el mismo espacio vectorial, solo que con diferentes "nombres" para sus elementos. El isomorfismo preserva todas las operaciones y relaciones algebraicas, permitiéndonos trasladar completamente la estructura de un espacio a otro sin pérdida de información.**
+> [!info] Definición Intuitiva **Un isomorfismo es una transformación lineal biyectiva que establece una "equivalencia estructural perfecta" entre dos espacios vectoriales. Los espacios isomorfos son esencialmente el mismo espacio vectorial, solo que con diferentes "nombres" para sus elementos. El isomorfismo preserva todas las operaciones y relaciones algebraicas, permitiéndonos trasladar completamente la estructura de un espacio a otro sin pérdida de información.**
 > 
 > **Características clave:**
 > 
@@ -19,7 +19,7 @@
 
 ### 📖 Contexto Histórico
 
-> [!note]- Desarrollo del Concepto **Orígenes algebraicos (1830-1870):**
+> [!note] Desarrollo del Concepto **Orígenes algebraicos (1830-1870):**
 > 
 > - **Galois (1830-1832):** Teoría de grupos
 >     - Primeros isomorfismos entre grupos
@@ -94,7 +94,7 @@
 
 ## 📊 Definiciones Formales
 
-> [!important]- Isomorfismo de Espacios Vectoriales **DEFINICIÓN (Isomorfismo):**
+> [!important] Isomorfismo de Espacios Vectoriales **DEFINICIÓN (Isomorfismo):**
 > 
 > Una transformación lineal $T: V \to W$ es un **isomorfismo** si es **biyectiva** (inyectiva y sobreyectiva).
 > 
@@ -131,7 +131,7 @@
 > - No se pierde ni se añade información
 > - Los espacios son "algebraicamente idénticos"
 
-> [!important]- Espacios Isomorfos **DEFINICIÓN (Espacios Isomorfos):**
+> [!important] Espacios Isomorfos **DEFINICIÓN (Espacios Isomorfos):**
 > 
 > Dos espacios vectoriales $V$ y $W$ son **isomorfos** (notación: $V \cong W$) si existe al menos un isomorfismo $T: V \to W$.
 > 
@@ -149,7 +149,7 @@
 > 
 > El isomorfismo divide todos los espacios vectoriales en **clases de equivalencia**. Espacios en la misma clase son "esencialmente iguales".
 
-> [!important]- Transformación Inversa **DEFINICIÓN (Transformación Inversa):**
+> [!important] Transformación Inversa **DEFINICIÓN (Transformación Inversa):**
 > 
 > Si $T: V \to W$ es un isomorfismo, su **transformación inversa** $T^{-1}: W \to V$ está definida por:
 > 
@@ -176,7 +176,7 @@
 
 ## 🎯 Teoremas Fundamentales
 
-> [!success]- Teorema de Caracterización de Isomorfismos **TEOREMA 1: Caracterización por la inversa**
+> [!success] Teorema de Caracterización de Isomorfismos **TEOREMA 1: Caracterización por la inversa**
 > 
 > Sea $T: V \to W$ transformación lineal.
 > 
@@ -234,7 +234,7 @@
 > 
 > **Q.E.D.**
 
-> [!success]- Teorema Fundamental de Clasificación **TEOREMA 2: Clasificación dimensional** ⭐⭐⭐
+> [!success] Teorema Fundamental de Clasificación **TEOREMA 2: Clasificación dimensional** ⭐⭐⭐
 > 
 > Sean $V$ y $W$ espacios vectoriales de dimensión finita sobre el mismo campo $\mathbb{F}$.
 > 
@@ -308,7 +308,7 @@
 > 
 > $$\boxed{\dim_{\mathbb{F}}(V) = n \implies V \cong \mathbb{F}^n}$$
 
-> [!success]- Teorema de Preservación de Propiedades **TEOREMA 3: Los isomorfismos preservan estructura**
+> [!success] Teorema de Preservación de Propiedades **TEOREMA 3: Los isomorfismos preservan estructura**
 > 
 > Sea $T: V \to W$ isomorfismo. Entonces $T$ preserva:
 > 
@@ -353,7 +353,7 @@
 > 
 > **(8):** $T(\vec{0}) = T(0 \cdot \vec{v}) = 0 \cdot T(\vec{v}) = \vec{0}$ ✓
 
-> [!success]- Teoremas de Isomorfismo de Noether **PRIMER TEOREMA DE ISOMORFISMO:** ⭐⭐⭐
+> [!success] Teoremas de Isomorfismo de Noether **PRIMER TEOREMA DE ISOMORFISMO:** ⭐⭐⭐
 > 
 > Sea $T: V \to W$ transformación lineal. Entonces:
 > 
@@ -392,7 +392,7 @@
 
 ## 💎 Ejemplos Resueltos Detallados
 
-> [!example]- Isomorfismos Concretos **EJEMPLO 1: Isomorfismo básico ℝ² ≅ ℂ**
+> [!example] Isomorfismos Concretos **EJEMPLO 1: Isomorfismo básico ℝ² ≅ ℂ**
 > 
 > Demostrar que $\mathbb{R}^2 \cong \mathbb{C}$ (como espacios vectoriales reales).
 > 
@@ -543,7 +543,7 @@
 
 ## 🎭 Aplicaciones y Casos Especiales
 
-> [!tip]- Aplicaciones Importantes **APLICACIÓN 1: Cambio de base**
+> [!tip] Aplicaciones Importantes **APLICACIÓN 1: Cambio de base**
 > 
 > Todo cambio de base es un isomorfismo.
 > 
@@ -579,7 +579,7 @@
 
 ## 📐 Propiedades Algebraicas
 
-> [!note]- Propiedades de Isomorfismos **PROPIEDAD 1: Composición**
+> [!note] Propiedades de Isomorfismos **PROPIEDAD 1: Composición**
 > 
 > Si $T: U \to V$ y $S: V \to W$ son isomorfismos, entonces: $$\boxed{S \circ T: U \to W \text{ es isomorfismo}}$$
 > 
@@ -632,7 +632,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- Malentendidos Frecuentes **1. "Toda transformación lineal es un isomorfismo"**
+> [!warning] Malentendidos Frecuentes **1. "Toda transformación lineal es un isomorfismo"**
 > 
 > ❌ **FALSO**
 > 
@@ -722,7 +722,7 @@
 
 ## 📊 Tabla de Referencia Rápida
 
-> [!note]- Guía de Consulta **CARACTERIZACIONES DE ISOMORFISMO:**
+> [!note] Guía de Consulta **CARACTERIZACIONES DE ISOMORFISMO:**
 > 
 > |Condición|Equivalencia|
 > |---|---|
@@ -760,7 +760,7 @@
 
 ## 🔗 Conexiones con Otros Temas
 
-> [!quote]- Enlaces Conceptuales **Fundamentos previos:**
+> [!quote] Enlaces Conceptuales **Fundamentos previos:**
 > 
 > - [[01 - Transformaciones lineales\|01 - Transformaciones lineales]] - Definición básica
 > - [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 – Espacios Vectoriales y Transformaciones Lineales/IV – Transformaciones Lineales/03 - Inyectividad y Sobreyectividad\|03 - Inyectividad y sobreyectividad]] - Biyectividad
@@ -791,7 +791,7 @@
 
 ## 📚 Bibliografía Esencial
 
-> [!tip]- Lecturas Recomendadas **Nivel introductorio:**
+> [!tip] Lecturas Recomendadas **Nivel introductorio:**
 > 
 > - **Lay, D. C.** (2016). _Álgebra Lineal y sus Aplicaciones_ (5ª ed.). Pearson.
 >     - **Cap. 4.4:** Coordinate Systems ⭐
@@ -837,7 +837,7 @@
 
 ## 🎓 Conceptos Clave - Resumen
 
-> [!important]- Ideas Fundamentales para Recordar **DEFINICIÓN CENTRAL:**
+> [!important] Ideas Fundamentales para Recordar **DEFINICIÓN CENTRAL:**
 > 
 > $$\boxed{T: V \to W \text{ es isomorfismo} \iff T \text{ es biyectiva (inyectiva y sobreyectiva)}}$$
 > 

@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es una Integral de Línea Escalar? La **integral de línea escalar** es una extensión de la integral definida que permite integrar funciones a lo largo de curvas en el plano o el espacio. Mientras que las integrales definidas integran sobre intervalos rectos y las integrales dobles sobre regiones planas, **las integrales de línea integran sobre trayectorias curvas**.
+> [!info] 💡 ¿Qué es una Integral de Línea Escalar? La **integral de línea escalar** es una extensión de la integral definida que permite integrar funciones a lo largo de curvas en el plano o el espacio. Mientras que las integrales definidas integran sobre intervalos rectos y las integrales dobles sobre regiones planas, **las integrales de línea integran sobre trayectorias curvas**.
 > 
 > **Analogía práctica:** Imagina que necesitas calcular el costo total de pintar una cerca curva:
 > 
@@ -50,7 +50,7 @@ graph TB
 
 ### 🎨 Curvas Parametrizadas
 
-> [!example]- 📍 Representación de Curvas
+> [!example] 📍 Representación de Curvas
 > 
 > **Definición:**
 > 
@@ -138,7 +138,7 @@ graph TB
 
 ### 📏 Longitud de Arco
 
-> [!note]- 📐 Elemento Diferencial de Arco
+> [!note] 📐 Elemento Diferencial de Arco
 > 
 > **Vector tangente:**
 > 
@@ -227,7 +227,7 @@ graph TB
 
 ### 🎯 Definición de Integral de Línea Escalar
 
-> [!success]- 📊 Construcción e Interpretación
+> [!success] 📊 Construcción e Interpretación
 > 
 > **Definición formal:**
 > 
@@ -305,7 +305,7 @@ graph TB
 
 ### 📝 Método General de Evaluación
 
-> [!tip]- 🎓 Proceso Paso a Paso
+> [!tip] 🎓 Proceso Paso a Paso
 > 
 > **Algoritmo general:**
 > 
@@ -374,7 +374,7 @@ graph TB
 
 ### 💡 Ejemplos Resueltos Detallados
 
-> [!example]- 🎯 Casos Fundamentales
+> [!example] 🎯 Casos Fundamentales
 > 
 > **Ejemplo 1: Segmento de recta**
 > 
@@ -518,7 +518,7 @@ graph TB
 
 ### 🔄 Curvas Definidas por Tramos
 
-> [!warning]- ✂️ Curvas No Suaves
+> [!warning] ✂️ Curvas No Suaves
 > 
 > **Concepto:**
 > 
@@ -593,7 +593,7 @@ graph TB
 
 ### ⚖️ Masa y Centro de Masa de Alambre
 
-> [!success]- 🔩 Propiedades de Alambres Curvos
+> [!success] 🔩 Propiedades de Alambres Curvos
 > 
 > **Densidad lineal:**
 > 
@@ -678,7 +678,7 @@ graph TB
 
 ### 📊 Valor Promedio sobre una Curva
 
-> [!tip]- 📈 Promedio de Función sobre Trayectoria
+> [!tip] 📈 Promedio de Función sobre Trayectoria
 > 
 > **Definición:**
 > 
@@ -724,7 +724,7 @@ graph TB
 
 ### 🏗️ Área de Superficie Lateral
 
-> [!example]- 🎪 Superficie Generada por Revolución
+> [!example] 🎪 Superficie Generada por Revolución
 > 
 > **Concepto:**
 > 
@@ -783,7 +783,7 @@ graph TB
 
 ### 📐 Curvas en Coordenadas Polares
 
-> [!note]- 🌀 Integración en Polares
+> [!note] 🌀 Integración en Polares
 > 
 > **Conversión:**
 > 
@@ -850,7 +850,7 @@ graph TB
 
 ### 🔀 Curvas Definidas Implícitamente
 
-> [!warning]- ⚙️ Cuando F(x,y) = 0
+> [!warning] ⚙️ Cuando F(x,y) = 0
 > 
 > **Estrategia:**
 > 
@@ -919,7 +919,7 @@ flowchart TD
     style M fill:#fff4e1
 ```
 
-> [!note]- 📋 Tablas de Referencia Rápida
+> [!note] 📋 Tablas de Referencia Rápida
 > 
 > ### Fórmulas de Elemento de Arco
 > 
@@ -958,7 +958,7 @@ flowchart TD
 
 ## 🎓 Ejercicios Progresivos
 
-> [!example]- 💪 Práctica con Soluciones Detalladas
+> [!example] 💪 Práctica con Soluciones Detalladas
 > 
 > **Nivel Básico:**
 > 
@@ -1125,7 +1125,7 @@ flowchart TD
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Continuando el Aprendizaje
+> [!quote] 🌟 Continuando el Aprendizaje
 > 
 > **Has dominado:**
 > 

@@ -19,7 +19,7 @@
 > ### Transformación a Integral Impropia
 > $$\int_a^b f(x)dx \rightarrow \text{Integral Impropia cuando hay asíntotas en }[a,b]$$
 
-> [!note]- Clasificación de Asíntotas en Integrales 📊
+> [!note] Clasificación de Asíntotas en Integrales 📊
 > ```mermaid
 > graph TB
 >     A[Asíntotas en Integrales] --> B[Asíntotas Verticales]
@@ -46,7 +46,7 @@
 >     style M fill:#e0f2f1
 > ```
 
-> [!tip]- Asíntotas Verticales en Integrales 🔬
+> [!tip] Asíntotas Verticales en Integrales 🔬
 > ### Caso 1: Asíntota en un Extremo
 > **Si $f(x)$ tiene asíntota vertical en $x = b$:**
 > $$\int_a^b f(x)dx = \lim_{t \to b^-} \int_a^t f(x)dx$$
@@ -70,7 +70,7 @@
 > ### Caso 3: Múltiples Asíntotas
 > **Si hay asíntotas en varios puntos, cada segmento debe analizarse por separado**
 
-> [!example]- Asíntotas Horizontales y Oblicuas 🧮
+> [!example] Asíntotas Horizontales y Oblicuas 🧮
 > ### Asíntotas Horizontales: $y = L$
 > **Cuando $\lim_{x \to \infty} f(x) = L \neq 0$:**
 > $$\int_a^{\infty} f(x)dx \text{ generalmente diverge}$$
@@ -103,7 +103,7 @@
 > ∫₁^∞ x/[√(x² + x) + x] dx converge (puede demostrarse)
 > ```
 
-> [!abstract]- Análisis Detallado con Ejemplos Prácticos 📚
+> [!abstract] Análisis Detallado con Ejemplos Prácticos 📚
 > ### Ejemplo 1: Asíntota Vertical en Extremo
 > **Analizar:** $\int_0^{\pi/2} \tan(x)dx$
 > 
@@ -150,7 +150,7 @@
 > Aunque ∫₁^∞ sin(x)/x² dx converge, la integral total diverge
 > ```
 
-> [!success]- Estrategias de Análisis 🎯
+> [!success] Estrategias de Análisis 🎯
 > ### Metodología de Identificación
 > ```mermaid
 > flowchart TD
@@ -186,7 +186,7 @@
 > 8. **Evaluar límites** cuidadosamente
 > 9. **Verificar resultado** con análisis gráfico si es posible
 
-> [!warning]- Errores Comunes y Precauciones ⚠️
+> [!warning] Errores Comunes y Precauciones ⚠️
 > ### Errores Frecuentes
 > - **🔍 No identificar asíntotas en el interior**: Verificar todo el intervalo [a,b]
 > - **📊 Confundir tipos de asíntotas**: Vertical vs horizontal vs oblicua
@@ -238,7 +238,7 @@
 > **A** - Aproximación gráfica ayuda visualizar
 > **S** - Siempre verificar resultado final
 
-> [!success]- Puntos Clave para Recordar 🎯
+> [!success] Puntos Clave para Recordar 🎯
 > 1. **🔍 Identificación completa**: Buscar todas las asíntotas en [a,b]
 > 2. **⚡ Transformación automática**: Asíntotas → integrales impropias
 > 3. **📊 Tipos distintos**: Cada tipo de asíntota requiere análisis diferente

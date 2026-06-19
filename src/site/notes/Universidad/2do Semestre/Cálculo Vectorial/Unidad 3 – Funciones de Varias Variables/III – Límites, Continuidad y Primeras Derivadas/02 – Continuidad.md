@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Por qué es importante la Continuidad?
+> [!info] 💡 ¿Por qué es importante la Continuidad?
 > 
 > La continuidad es un concepto fundamental que garantiza que las funciones se comportan "suavemente" sin saltos ni interrupciones.
 > 
@@ -32,7 +32,7 @@
 
 ### 🔍 Definición Formal
 
-> [!example]- 🟢 Definición: Continuidad en un Punto
+> [!example] 🟢 Definición: Continuidad en un Punto
 > 
 > **Definición formal:** Una función $f: D \subseteq \mathbb{R}^n \to \mathbb{R}$ es **continua** en un punto $(x_0, y_0)$ si se cumplen tres condiciones:
 > 
@@ -58,7 +58,7 @@
 
 ### 🎯 Definición Intuitiva
 
-> [!note]- 💭 Interpretación Práctica
+> [!note] 💭 Interpretación Práctica
 > 
 > **Una función es continua en un punto si:**
 > 
@@ -99,7 +99,7 @@
 
 ## 📊 Continuidad en un Conjunto
 
-> [!example]- 🟡 Continuidad en Regiones
+> [!example] 🟡 Continuidad en Regiones
 > 
 > **Definición:** Una función $f$ es **continua en un conjunto $D$** si es continua en **cada punto** de $D$.
 > 
@@ -141,7 +141,7 @@
 
 ### ⚠️ Clasificación de Discontinuidades
 
-> [!warning]- 🔴 Discontinuidades en Varias Variables
+> [!warning] 🔴 Discontinuidades en Varias Variables
 > 
 > ### 1. Discontinuidad Removible (Evitable)
 > 
@@ -194,7 +194,7 @@
 
 ### Ejemplo 1: Función Continua Polinomial
 
-> [!example]- 📝 Ejemplo 1: Polinomio
+> [!example] 📝 Ejemplo 1: Polinomio
 > 
 > **Función:** $$f(x,y) = x^2 + 3xy - 2y^2 + 5$$
 > 
@@ -214,7 +214,7 @@
 
 ### Ejemplo 2: Discontinuidad Removible
 
-> [!example]- 📝 Ejemplo 2: Discontinuidad que se puede Arreglar
+> [!example] 📝 Ejemplo 2: Discontinuidad que se puede Arreglar
 > 
 > **Función:** $$f(x,y) = \begin{cases} \frac{x^2 - y^2}{x - y} & \text{si } x \neq y \ 0 & \text{si } x = y \end{cases}$$
 > 
@@ -236,7 +236,7 @@
 
 ### Ejemplo 3: Discontinuidad Esencial
 
-> [!example]- 📝 Ejemplo 3: Límite que No Existe
+> [!example] 📝 Ejemplo 3: Límite que No Existe
 > 
 > **Función:** $$f(x,y) = \begin{cases} \frac{xy}{x^2 + y^2} & \text{si } (x,y) \neq (0,0) \ 0 & \text{si } (x,y) = (0,0) \end{cases}$$
 > 
@@ -257,7 +257,7 @@
 
 ### Ejemplo 4: Función Racional Continua
 
-> [!example]- 📝 Ejemplo 4: Continuidad de una Función Racional
+> [!example] 📝 Ejemplo 4: Continuidad de una Función Racional
 > 
 > **Función:** $$f(x,y) = \frac{x^2 + y^2}{x^2 + y^2 + 1}$$
 > 
@@ -279,7 +279,7 @@
 
 ### Ejemplo 5: Discontinuidad Infinita
 
-> [!example]- 📝 Ejemplo 5: Asíntota Vertical
+> [!example] 📝 Ejemplo 5: Asíntota Vertical
 > 
 > **Función:** $$f(x,y) = \frac{1}{x^2 + y^2}$$
 > 
@@ -312,7 +312,7 @@
 
 ### Ejemplo 6: Función Definida por Partes
 
-> [!example]- 📝 Ejemplo 6: Continuidad en Función por Partes
+> [!example] 📝 Ejemplo 6: Continuidad en Función por Partes
 > 
 > **Función:** $$f(x,y) = \begin{cases} x^2 + y^2 & \text{si } x^2 + y^2 < 1 \ 2 - x^2 - y^2 & \text{si } x^2 + y^2 \geq 1 \end{cases}$$
 > 
@@ -337,7 +337,7 @@
 
 ### Ejemplo 7: Discontinuidad en la Frontera
 
-> [!example]- 📝 Ejemplo 7: Salto en la Frontera
+> [!example] 📝 Ejemplo 7: Salto en la Frontera
 > 
 > **Función:** $$f(x,y) = \begin{cases} 1 & \text{si } x^2 + y^2 < 1 \ 2 & \text{si } x^2 + y^2 \geq 1 \end{cases}$$
 > 
@@ -358,7 +358,7 @@
 
 ### Ejemplo 8: Función Trigonométrica
 
-> [!example]- 📝 Ejemplo 8: Continuidad de Funciones Compuestas
+> [!example] 📝 Ejemplo 8: Continuidad de Funciones Compuestas
 > 
 > **Función:** $$f(x,y) = \sin(x^2 + y^2)$$
 > 
@@ -380,7 +380,7 @@
 
 ### 📜 Teoremas Fundamentales
 
-> [!note]- 🟢 Propiedades Algebraicas
+> [!note] 🟢 Propiedades Algebraicas
 > 
 > Si $f$ y $g$ son continuas en $(x_0, y_0)$, entonces:
 > 
@@ -420,7 +420,7 @@
 
 ## 🌟 Funciones Continuas Importantes
 
-> [!tip]- ✅ Catálogo de Funciones Continuas
+> [!tip] ✅ Catálogo de Funciones Continuas
 > 
 > ### Siempre Continuas en Todo su Dominio:
 > 
@@ -472,7 +472,7 @@
 
 ### Teorema del Valor Intermedio
 
-> [!note]- 🎯 Teorema del Valor Intermedio (TVI)
+> [!note] 🎯 Teorema del Valor Intermedio (TVI)
 > 
 > **Enunciado:** Sea $f$ continua en un conjunto **conexo por trayectorias** $D \subseteq \mathbb{R}^2$.
 > 
@@ -502,7 +502,7 @@
 
 ### Teorema del Valor Extremo
 
-> [!note]- 🎯 Teorema del Valor Extremo (TVE)
+> [!note] 🎯 Teorema del Valor Extremo (TVE)
 > 
 > **Enunciado:** Sea $f$ continua en un conjunto **compacto** (cerrado y acotado) $D \subseteq \mathbb{R}^2$.
 > 
@@ -542,7 +542,7 @@
 
 ### Teorema de Weierstrass
 
-> [!note]- 🎯 Teorema de Aproximación de Weierstrass
+> [!note] 🎯 Teorema de Aproximación de Weierstrass
 > 
 > **Enunciado:** Toda función continua en un conjunto compacto puede aproximarse **uniformemente** por polinomios.
 > 
@@ -562,7 +562,7 @@
 
 ## 💡 Estrategias para Verificar Continuidad
 
-> [!tip]- ⭐ Guía Paso a Paso
+> [!tip] ⭐ Guía Paso a Paso
 > 
 > ### Método General:
 > 
@@ -610,7 +610,7 @@
 
 ### Ejemplo 9: Continuidad de Función Compuesta
 
-> [!example]- 📝 Ejemplo 9: Composición Compleja
+> [!example] 📝 Ejemplo 9: Composición Compleja
 > 
 > **Función:** $$f(x,y) = e^{\sin(x^2 + y^2)}$$
 > 
@@ -629,7 +629,7 @@
 
 ### Ejemplo 10: Función con Raíz
 
-> [!example]- 📝 Ejemplo 10: Verificar Continuidad en la Frontera
+> [!example] 📝 Ejemplo 10: Verificar Continuidad en la Frontera
 > 
 > **Función:** $$f(x,y) = \sqrt{4 - x^2 - y^2}$$
 > 
@@ -655,7 +655,7 @@
 
 ### Ejemplo 11: Discontinuidad No Removible
 
-> [!example]- 📝 Ejemplo 11: Verificar que NO se puede Arreglar
+> [!example] 📝 Ejemplo 11: Verificar que NO se puede Arreglar
 > 
 > **Función:** $$f(x,y) = \begin{cases} \frac{x^2y}{x^4 + y^2} & \text{si } (x,y) \neq (0,0) \ 0 & \text{si } (x,y) = (0,0) \end{cases}$$
 > 
@@ -674,7 +674,7 @@
 
 ### Ejemplo 12: Función Absoluto
 
-> [!example]- 📝 Ejemplo 12: Continuidad del Valor Absoluto
+> [!example] 📝 Ejemplo 12: Continuidad del Valor Absoluto
 > 
 > **Función:** $$f(x,y) = |x + y|$$
 > 
@@ -692,7 +692,7 @@
 
 ### Ejemplo 13: Función Definida por Partes (Compleja)
 
-> [!example]- 📝 Ejemplo 13: Múltiples Regiones
+> [!example] 📝 Ejemplo 13: Múltiples Regiones
 > 
 > **Función:** $$f(x,y) = \begin{cases} x^2 + y^2 & \text{si } x^2 + y^2 \leq 1 \ 1 & \text{si } 1 < x^2 + y^2 \leq 2 \ 4 - x^2 - y^2 & \text{si } x^2 + y^2 > 2 \end{cases}$$
 > 
@@ -724,7 +724,7 @@
 
 ### Ejemplo 14: Función Trigonométrica con Singularidad
 
-> [!example]- 📝 Ejemplo 14: Extender por Continuidad
+> [!example] 📝 Ejemplo 14: Extender por Continuidad
 > 
 > **Función:** $$f(x,y) = \frac{\sin(x^2 + y^2)}{x^2 + y^2} \quad \text{para } (x,y) \neq (0,0)$$
 > 
@@ -742,7 +742,7 @@
 
 ### Ejemplo 15: Aplicación del TVE
 
-> [!example]- 📝 Ejemplo 15: Encontrar Extremos
+> [!example] 📝 Ejemplo 15: Encontrar Extremos
 > 
 > **Función:** $$f(x,y) = x^2 + y^2 - 2x - 4y + 10$$
 > 
@@ -774,7 +774,7 @@
 
 ## 🔄 Continuidad Uniforme
 
-> [!note]- 🎯 Concepto Avanzado: Continuidad Uniforme
+> [!note] 🎯 Concepto Avanzado: Continuidad Uniforme
 > 
 > ### Definición
 > 
@@ -810,7 +810,7 @@
 
 ## 🎨 Visualización de Discontinuidades
 
-> [!note]- 🖼️ Interpretación Gráfica
+> [!note] 🖼️ Interpretación Gráfica
 > 
 > ### Función Continua:
 > 
@@ -889,7 +889,7 @@
 
 ## 🧮 Continuidad en Coordenadas Polares
 
-> [!tip]- 🔄 Análisis en Polares
+> [!tip] 🔄 Análisis en Polares
 > 
 > ### Conversión
 > 
@@ -921,7 +921,7 @@
 
 ## 🎓 Ejercicios Propuestos
 
-> [!example]- 💪 Práctica Nivel Básico
+> [!example] 💪 Práctica Nivel Básico
 > 
 > **1. Determinar si las siguientes funciones son continuas en todo su dominio:**
 > 
@@ -957,7 +957,7 @@
 > 
 > b) $f(x,y) = \begin{cases} \frac{\sin(x^2 + y^2)}{x^2 + y^2} & \text{si } (x,y) \neq (0,0) \ k & \text{si } (x,y) = (0,0) \end{cases}$
 
-> [!example]- 💪 Práctica Nivel Intermedio
+> [!example] 💪 Práctica Nivel Intermedio
 > 
 > **4. Verificar continuidad en el origen:**
 > 
@@ -985,7 +985,7 @@
 > 
 > c) $f(x,y) = e^{-(x^2+y^2)}$ en $\mathbb{R}^2$ (¿se aplica el TVE?)
 
-> [!example]- 💪 Práctica Nivel Avanzado
+> [!example] 💪 Práctica Nivel Avanzado
 > 
 > **7. Problemas conceptuales:**
 > 
@@ -1025,7 +1025,7 @@
 
 ## ✅ Soluciones Selectas
 
-> [!success]- 🔑 Respuestas Ejercicios Básicos
+> [!success] 🔑 Respuestas Ejercicios Básicos
 > 
 > **1a)** $f(x,y) = x^3 + 2x^2y + y^3$
 > 
@@ -1089,7 +1089,7 @@
 > 
 > Para continuidad: $k = 1$ ✓
 
-> [!success]- 🔑 Respuestas Ejercicios Intermedios
+> [!success] 🔑 Respuestas Ejercicios Intermedios
 > 
 > **4a)** $f(x,y) = \begin{cases} \frac{xy^2}{x^2 + y^4} & \text{si } (x,y) \neq (0,0) \ 0 & \text{si } (x,y) = (0,0) \end{cases}$
 > 
@@ -1143,7 +1143,7 @@
 
 ## 🌟 Aplicaciones Prácticas
 
-> [!note]- 🔬 Aplicaciones de la Continuidad
+> [!note] 🔬 Aplicaciones de la Continuidad
 > 
 > ### 1. Física
 > 
@@ -1222,7 +1222,7 @@
 
 ## 🔍 Temas Relacionados y Conexiones
 
-> [!info]- 🌐 Profundización: Conceptos Topológicos
+> [!info] 🌐 Profundización: Conceptos Topológicos
 > 
 > ### Conjuntos Abiertos y Cerrados
 > 
@@ -1264,7 +1264,7 @@
 
 ## 📊 Tabla Comparativa: Tipos de Continuidad
 
-> [!note]- 📋 Resumen Comparativo
+> [!note] 📋 Resumen Comparativo
 > 
 > |Tipo|Definición|Ejemplo|¿Removible?|
 > |---|---|---|---|
@@ -1289,7 +1289,7 @@
 
 ## 💡 Consejos y Errores Comunes
 
-> [!tip]- ⚠️ Errores Frecuentes
+> [!tip] ⚠️ Errores Frecuentes
 > 
 > ### Error 1: Confundir "definida" con "continua"
 > 
@@ -1353,7 +1353,7 @@
 
 ## 🎯 Estrategias de Demostración
 
-> [!tip]- 🔧 Técnicas para Probar Continuidad
+> [!tip] 🔧 Técnicas para Probar Continuidad
 > 
 > ### Técnica 1: Usar Funciones Conocidas
 > 
@@ -1413,7 +1413,7 @@
 
 ## 🔄 Extensión a Tres Variables
 
-> [!note]- 🎲 Continuidad en $\mathbb{R}^3$
+> [!note] 🎲 Continuidad en $\mathbb{R}^3$
 > 
 > ### Definición
 > 
@@ -1451,7 +1451,7 @@
 
 ## 📈 Gráficas y Visualización
 
-> [!note]- 🎨 Interpretación Visual de la Continuidad
+> [!note] 🎨 Interpretación Visual de la Continuidad
 > 
 > ### Función Continua: Paraboloide
 > 
@@ -1534,7 +1534,7 @@
 
 ## 🎓 Resumen de Conceptos Clave
 
-> [!tip]- 💡 Puntos Esenciales para Recordar
+> [!tip] 💡 Puntos Esenciales para Recordar
 > 
 > ### Definición de Continuidad
 > 
@@ -1590,7 +1590,7 @@
 
 ## 🔗 Conexiones con Otros Temas
 
-> [!quote]- 🌐 Relaciones Importantes
+> [!quote] 🌐 Relaciones Importantes
 > 
 > **Este tema es prerequisito para:**
 > 
@@ -1613,7 +1613,7 @@
 
 ## 📝 Notas Finales
 
-> [!note]- 🎯 Reflexiones sobre Continuidad
+> [!note] 🎯 Reflexiones sobre Continuidad
 > 
 > ### Importancia Conceptual
 > 

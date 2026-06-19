@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué son los Teoremas de Existencia y Clasificación?
+> [!info] 💡 ¿Qué son los Teoremas de Existencia y Clasificación?
 > 
 > Los **teoremas de existencia** garantizan que una función tiene extremos bajo ciertas condiciones, mientras que los **criterios de clasificación** nos permiten determinar si un punto crítico es máximo, mínimo o punto silla.
 > 
@@ -58,7 +58,7 @@ graph TB
 
 ### 🔷 Teorema del Valor Extremo (Weierstrass)
 
-> [!note]- 🎯 Garantía de Existencia
+> [!note] 🎯 Garantía de Existencia
 > 
 > **Teorema del Valor Extremo:**
 > 
@@ -111,7 +111,7 @@ graph TB
 
 ### 🎨 Localización de Extremos
 
-> [!success]- 📍 Dónde Buscar
+> [!success] 📍 Dónde Buscar
 > 
 > **Teorema de localización:**
 > 
@@ -154,7 +154,7 @@ graph TB
 
 ### 📊 Test de la Segunda Derivada (Criterio del Hessiano)
 
-> [!example]- 🎯 Método Principal
+> [!example] 🎯 Método Principal
 > 
 > **Definición del Hessiano:**
 > 
@@ -232,7 +232,7 @@ graph TB
 
 ### 🎯 Casos Especiales
 
-> [!tip]- ⚠️ Cuando D = 0
+> [!tip] ⚠️ Cuando D = 0
 > 
 > Cuando $D = 0$, el test es **inconcluso**. Se requieren métodos adicionales:
 > 
@@ -269,7 +269,7 @@ graph TB
 
 ### 📝 Ejemplo 1: Paraboloide
 
-> [!example]- 🎪 Función Cuadrática
+> [!example] 🎪 Función Cuadrática
 > 
 > Encontrar y clasificar los extremos de:
 > 
@@ -311,7 +311,7 @@ graph TB
 
 ### 📝 Ejemplo 2: Función con Punto Silla
 
-> [!example]- 🏔️ Superficie Tipo Silla
+> [!example] 🏔️ Superficie Tipo Silla
 > 
 > Encontrar y clasificar extremos de:
 > 
@@ -346,7 +346,7 @@ graph TB
 
 ### 📝 Ejemplo 3: Múltiples Puntos Críticos
 
-> [!example]- 🎢 Función Compleja
+> [!example] 🎢 Función Compleja
 > 
 > Encontrar y clasificar extremos de:
 > 
@@ -411,7 +411,7 @@ graph TB
 
 ## ✅ Proceso Sistemático
 
-> [!success]- 📋 Algoritmo Completo
+> [!success] 📋 Algoritmo Completo
 > 
 > **Para encontrar y clasificar extremos de $f(x,y)$:**
 > 
@@ -460,7 +460,7 @@ graph TB
 
 ## 🎓 Ejercicios Propuestos
 
-> [!example]- 💪 Práctica Progresiva
+> [!example] 💪 Práctica Progresiva
 > 
 > **Nivel Básico:**
 > 
@@ -497,7 +497,7 @@ graph TB
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Continuando el Aprendizaje
+> [!quote] 🌟 Continuando el Aprendizaje
 > 
 > **Has dominado:**
 > 

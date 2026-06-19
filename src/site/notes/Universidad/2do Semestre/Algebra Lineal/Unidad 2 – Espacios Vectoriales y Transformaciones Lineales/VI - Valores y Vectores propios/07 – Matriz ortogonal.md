@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es una Matriz Ortogonal?
+> [!info] 💡 ¿Qué es una Matriz Ortogonal?
 > 
 > Una **matriz ortogonal** es una matriz cuadrada cuyas columnas (y filas) forman un conjunto de vectores **ortonormales**. Es uno de los conceptos más importantes en álgebra lineal por sus propiedades de preservación geométrica.
 > 
@@ -59,7 +59,7 @@ graph TB
 
 ### 📐 Vectores Ortogonales y Ortonormales
 
-> [!example]- 🔢 Conceptos Base
+> [!example] 🔢 Conceptos Base
 > 
 > **1. Producto escalar (producto punto):**
 > 
@@ -151,7 +151,7 @@ graph TB
 
 ### 🎨 Definición de Matriz Ortogonal
 
-> [!note]- 📝 Caracterización Completa
+> [!note] 📝 Caracterización Completa
 > 
 > **Definición 1 (Mediante la transpuesta):**
 > 
@@ -237,7 +237,7 @@ graph TB
 
 ### 🔍 Verificación de Ortogonalidad
 
-> [!success]- ✅ Proceso de Comprobación
+> [!success] ✅ Proceso de Comprobación
 > 
 > **Método 1: Multiplicar Q^T por Q**
 > 
@@ -334,7 +334,7 @@ graph TB
 
 ### 🔄 Matrices de Rotación
 
-> [!example]- 🌀 Rotaciones en el Plano
+> [!example] 🌀 Rotaciones en el Plano
 > 
 > **Matriz de rotación en ℝ²:**
 > 
@@ -418,7 +418,7 @@ graph TB
 
 ### 🪞 Matrices de Reflexión
 
-> [!tip]- ↔️ Transformaciones de Espejo
+> [!tip] ↔️ Transformaciones de Espejo
 > 
 > **Reflexión respecto al eje X:**
 > 
@@ -495,7 +495,7 @@ graph TB
 
 ### 🎲 Matrices de Permutación
 
-> [!note]- 🔀 Intercambio de Coordenadas
+> [!note] 🔀 Intercambio de Coordenadas
 > 
 > **Definición:**
 > 
@@ -560,7 +560,7 @@ graph TB
 
 ### ⚡ Propiedad de Inversión Trivial
 
-> [!success]- 🔄 Q^(-1) = Q^T
+> [!success] 🔄 Q^(-1) = Q^T
 > 
 > **Teorema:**
 > 
@@ -631,7 +631,7 @@ graph TB
 
 ### 📏 Preservación de Normas y Productos
 
-> [!example]- 📐 Propiedades Geométricas
+> [!example] 📐 Propiedades Geométricas
 > 
 > **Teorema 1: Preservación de la norma**
 > 
@@ -732,7 +732,7 @@ graph TB
 
 ### 🎲 Determinante
 
-> [!tip]- 🔢 det(Q) = ±1
+> [!tip] 🔢 det(Q) = ±1
 > 
 > **Teorema:**
 > 
@@ -821,7 +821,7 @@ graph TB
 
 ### 🎮 Gráficos por Computadora y Videojuegos
 
-> [!example]- 🖼️ Transformaciones 3D
+> [!example] 🖼️ Transformaciones 3D
 > 
 > **Transformaciones fundamentales en 3D:**
 > 
@@ -898,7 +898,7 @@ graph TB
 
 ### 🔬 Física y Mecánica
 
-> [!note]- ⚙️ Sistemas de Referencia
+> [!note] ⚙️ Sistemas de Referencia
 > 
 > **1. Cambio de sistemas de coordenadas:**
 > 
@@ -952,7 +952,7 @@ graph TB
 
 ### 📊 Análisis de Datos y Estadística
 
-> [!success]- 📈 Reducción de Dimensionalidad
+> [!success] 📈 Reducción de Dimensionalidad
 > 
 > **Análisis de Componentes Principales (PCA):**
 > 
@@ -1020,7 +1020,7 @@ graph TB
 
 ### 🔐 Procesamiento de Señales
 
-> [!tip]- 📡 Transformadas y Compresión
+> [!tip] 📡 Transformadas y Compresión
 > 
 > **Transformada Discreta del Coseno (DCT):**
 > 
@@ -1080,7 +1080,7 @@ graph TB
 
 ### 📐 Descomposición QR
 
-> [!example]- 🎯 Factorización Fundamental
+> [!example] 🎯 Factorización Fundamental
 > 
 > **Definición:**
 > 
@@ -1169,7 +1169,7 @@ graph TB
 
 ### 🎭 Descomposición en Valores Singulares (SVD)
 
-> [!success]- 🌟 La Descomposición Suprema
+> [!success] 🌟 La Descomposición Suprema
 > 
 > **Teorema (SVD):**
 > 
@@ -1276,7 +1276,7 @@ graph TB
 
 ### 🔢 Descomposición Espectral
 
-> [!tip]- 🎨 Diagonalización Ortogonal
+> [!tip] 🎨 Diagonalización Ortogonal
 > 
 > **Teorema espectral para matrices simétricas:**
 > 
@@ -1382,7 +1382,7 @@ graph TB
 
 ### 🏆 Teorema de Caracterización
 
-> [!note]- 📜 Caracterizaciones Equivalentes
+> [!note] 📜 Caracterizaciones Equivalentes
 > 
 > **Teorema:** Para una matriz cuadrada Q, las siguientes afirmaciones son equivalentes:
 > 
@@ -1436,7 +1436,7 @@ graph TB
 
 ### 🔄 Propiedades de Clausura
 
-> [!example]- 🎯 Operaciones que Preservan Ortogonalidad
+> [!example] 🎯 Operaciones que Preservan Ortogonalidad
 > 
 > **Teorema 1: Producto de matrices ortogonales**
 > Si Q₁ y Q₂ son ortogonales, entonces **Q₁Q₂** también es ortogonal.
@@ -1497,7 +1497,7 @@ graph TB
 
 ### 🌐 Grupos Ortogonales
 
-> [!success]- 📐 Estructura Algebraica
+> [!success] 📐 Estructura Algebraica
 > 
 > **Grupo ortogonal O(n):**
 > 
@@ -1571,7 +1571,7 @@ graph TB
 
 ### 📝 Ejercicios Básicos
 
-> [!example]- 🎯 Verificación y Cálculo
+> [!example] 🎯 Verificación y Cálculo
 > 
 > **Ejercicio 1: Verificar ortogonalidad**
 > 
@@ -1640,7 +1640,7 @@ graph TB
 
 ### 🧮 Ejercicios Intermedios
 
-> [!tip]- 📊 Aplicaciones y Transformaciones
+> [!tip] 📊 Aplicaciones y Transformaciones
 > 
 > **Ejercicio 4: Composición de rotaciones**
 > 
@@ -1713,7 +1713,7 @@ graph TB
 
 ### 🔬 Problemas Avanzados
 
-> [!note]- 🎓 Teoría y Demostraciones
+> [!note] 🎓 Teoría y Demostraciones
 > 
 > **Problema 7: Demostrar propiedad de determinante**
 > 
@@ -1788,7 +1788,7 @@ graph TB
 
 ## 📚 Resumen y Conclusiones
 
-> [!success]- 🎯 Puntos Clave
+> [!success] 🎯 Puntos Clave
 > 
 > **Definiciones fundamentales:**
 > 

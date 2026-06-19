@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Por qué son importantes el Gradiente y las Derivadas Direccionales?
+> [!info] 💡 ¿Por qué son importantes el Gradiente y las Derivadas Direccionales?
 > 
 > El gradiente y las derivadas direccionales extienden el concepto de derivada para medir **tasas de cambio en cualquier dirección**, no solo en las direcciones de los ejes coordenados.
 > 
@@ -40,7 +40,7 @@
 
 ### 📋 Definición Formal
 
-> [!example]- 🟢 Definición: Derivada Direccional
+> [!example] 🟢 Definición: Derivada Direccional
 > 
 > **Definición:** Sea $f: \mathbb{R}^2 \to \mathbb{R}$ y $\mathbf{u} = (u_1, u_2)$ un **vector unitario** ($|\mathbf{u}| = 1$). La **derivada direccional** de $f$ en el punto $(x_0, y_0)$ en la dirección $\mathbf{u}$ es:
 > 
@@ -72,7 +72,7 @@
 
 ### 🎨 Visualización Geométrica
 
-> [!note]- 🖼️ Interpretación Gráfica
+> [!note] 🖼️ Interpretación Gráfica
 > 
 > ### Superficie y Dirección
 > 
@@ -140,7 +140,7 @@
 
 ### 📐 Definición del Gradiente
 
-> [!example]- 🟡 Definición: Gradiente
+> [!example] 🟡 Definición: Gradiente
 > 
 > **Definición:** El **gradiente** de $f$ en el punto $(x, y)$ es el vector:
 > 
@@ -177,7 +177,7 @@
 
 ### 🔗 Teorema Fundamental: Gradiente y Derivada Direccional
 
-> [!note]- 🎯 Teorema: Fórmula de la Derivada Direccional
+> [!note] 🎯 Teorema: Fórmula de la Derivada Direccional
 > 
 > **Teorema:** Si $f$ es **diferenciable** en $(x_0, y_0)$, entonces la derivada direccional en cualquier dirección $\mathbf{u}$ (con $|\mathbf{u}| = 1$) existe y está dada por:
 > 
@@ -216,7 +216,7 @@
 
 ### 🌟 Propiedad 1: Dirección de Máximo Crecimiento
 
-> [!note]- 🔺 El Gradiente Apunta Hacia Arriba
+> [!note] 🔺 El Gradiente Apunta Hacia Arriba
 > 
 > **Teorema:** El gradiente $\nabla f(x_0, y_0)$ apunta en la dirección de **máximo crecimiento** de $f$ en el punto $(x_0, y_0)$.
 > 
@@ -252,7 +252,7 @@
 
 ### 🌟 Propiedad 2: Perpendicular a Curvas de Nivel
 
-> [!note]- 🗺️ Gradiente y Curvas de Nivel
+> [!note] 🗺️ Gradiente y Curvas de Nivel
 > 
 > **Teorema:** El gradiente $\nabla f(x_0, y_0)$ es **perpendicular** a la curva de nivel de $f$ que pasa por $(x_0, y_0)$.
 > 
@@ -310,7 +310,7 @@
 
 ### 🌟 Propiedad 3: Magnitud del Gradiente
 
-> [!note]- 📏 La Norma del Gradiente
+> [!note] 📏 La Norma del Gradiente
 > 
 > **Interpretación:** La magnitud $|\nabla f|$ mide:
 > 
@@ -352,7 +352,7 @@
 
 ### Ejemplo 1: Cálculo del Gradiente
 
-> [!example]- 📐 Ejemplo 1: Función Polinomial
+> [!example] 📐 Ejemplo 1: Función Polinomial
 > 
 > **Función:** $$f(x,y) = x^2 + 2xy + y^2$$
 > 
@@ -385,7 +385,7 @@
 
 ### Ejemplo 2: Derivada Direccional
 
-> [!example]- 📐 Ejemplo 2: Calcular Derivada Direccional
+> [!example] 📐 Ejemplo 2: Calcular Derivada Direccional
 > 
 > **Función:** $f(x,y) = x^2 + y^2$
 > 
@@ -433,7 +433,7 @@
 
 ### Ejemplo 3: Dirección de Máximo Crecimiento
 
-> [!example]- 📐 Ejemplo 3: Máximo Ascenso
+> [!example] 📐 Ejemplo 3: Máximo Ascenso
 > 
 > **Función (temperatura):** $T(x,y) = 100 - x^2 - 2y^2$
 > 
@@ -489,7 +489,7 @@
 
 ### Ejemplo 4: Función Exponencial
 
-> [!example]- 📐 Ejemplo 4: Gradiente de Exponencial
+> [!example] 📐 Ejemplo 4: Gradiente de Exponencial
 > 
 > **Función:** $f(x,y) = e^{x^2+y^2}$
 > 
@@ -525,7 +525,7 @@
 
 ### Ejemplo 5: Función Logarítmica
 
-> [!example]- 📐 Ejemplo 5: Gradiente de Logaritmo
+> [!example] 📐 Ejemplo 5: Gradiente de Logaritmo
 > 
 > **Función:** $f(x,y) = \ln(x^2 + y^2)$ para $(x,y) \neq (0, 0)$
 > 
@@ -563,7 +563,7 @@
 
 ### Ejemplo 6: Optimización - Ascenso más Rápido
 
-> [!example]- 📐 Ejemplo 6: Escalador en Montaña
+> [!example] 📐 Ejemplo 6: Escalador en Montaña
 > 
 > **Situación:** Un escalador está en el punto $(1, 2)$ de una montaña con elevación:
 > 
@@ -621,7 +621,7 @@
 
 ### Ejemplo 7: Física - Campo Eléctrico
 
-> [!example]- ⚡ Ejemplo 7: Potencial Eléctrico
+> [!example] ⚡ Ejemplo 7: Potencial Eléctrico
 > 
 > **Potencial eléctrico:**
 > 
@@ -665,7 +665,7 @@
 
 ### Ejemplo 8: Machine Learning - Gradiente Descendente
 
-> [!example]- 🤖 Ejemplo 8: Optimización con Gradiente
+> [!example] 🤖 Ejemplo 8: Optimización con Gradiente
 > **Función de costo (error cuadrático):**
 > 
 > $$C(w_1, w_2) = (w_1 - 3)^2 + (w_2 + 1)^2$$
@@ -731,7 +731,7 @@
 
 ### Ejemplo 9: Curvas de Nivel y Gradiente
 
-> [!example]- 🗺️ Ejemplo 9: Análisis de Curvas de Nivel
+> [!example] 🗺️ Ejemplo 9: Análisis de Curvas de Nivel
 > 
 > **Función:** $f(x,y) = x^2 - y^2$ (paraboloide hiperbólico o "silla de montar")
 > 
@@ -782,7 +782,7 @@
 
 ### Ejemplo 10: Tres Variables
 
-> [!example]- 📐 Ejemplo 10: Gradiente en 3D
+> [!example] 📐 Ejemplo 10: Gradiente en 3D
 > 
 > **Función (temperatura en el espacio):**
 > 
@@ -823,7 +823,7 @@
 
 ### 📊 Operaciones con Gradientes
 
-> [!note]- 🔧 Propiedades del Operador Gradiente
+> [!note] 🔧 Propiedades del Operador Gradiente
 > 
 > Sean $f$ y $g$ funciones diferenciables, y $c$ una constante.
 > 
@@ -889,7 +889,7 @@
 
 ### 🏔️ Aplicación 1: Mapas Topográficos
 
-> [!example]- 🗺️ Ejemplo 11: Análisis de Terreno
+> [!example] 🗺️ Ejemplo 11: Análisis de Terreno
 > 
 > **Mapa topográfico** con curvas de nivel:
 > 
@@ -939,7 +939,7 @@
 
 ### 🌡️ Aplicación 2: Flujo de Calor
 
-> [!example]- 🔥 Ejemplo 12: Conducción Térmica
+> [!example] 🔥 Ejemplo 12: Conducción Térmica
 > 
 > **Ley de Fourier:** El flujo de calor es proporcional al negativo del gradiente de temperatura:
 > 
@@ -984,7 +984,7 @@
 
 ### 💧 Aplicación 3: Optimización de Funciones
 
-> [!example]- 📈 Ejemplo 13: Encontrar Extremos
+> [!example] 📈 Ejemplo 13: Encontrar Extremos
 > 
 > **Función:** $f(x,y) = x^2 + y^2 - 4x - 6y + 13$
 > 
@@ -1034,7 +1034,7 @@
 
 ### 🎯 Aplicación 4: Descenso por Gradiente
 
-> [!example]- 🤖 Ejemplo 14: Minimización Iterativa
+> [!example] 🤖 Ejemplo 14: Minimización Iterativa
 > 
 > **Problema:** Minimizar $f(x,y) = x^2 + 4y^2 - 2x - 4y + 5$
 > 
@@ -1084,7 +1084,7 @@
 
 ### 🌀 Campos Conservativos
 
-> [!note]- 🔄 Campos Vectoriales y Potenciales
+> [!note] 🔄 Campos Vectoriales y Potenciales
 > 
 > **Definición:** Un campo vectorial $\mathbf{F}: \mathbb{R}^n \to \mathbb{R}^n$ es **conservativo** si existe una función escalar $f: \mathbb{R}^n \to \mathbb{R}$ tal que:
 > 
@@ -1144,7 +1144,7 @@
 
 ### 📊 Matriz Hessiana
 
-> [!note]- 🔢 Derivadas Segundas y Hessiana
+> [!note] 🔢 Derivadas Segundas y Hessiana
 > 
 > **Definición:** La **matriz Hessiana** de $f: \mathbb{R}^n \to \mathbb{R}$ es la matriz de derivadas parciales de segundo orden:
 > 
@@ -1236,7 +1236,7 @@
 
 ## 🌟 Conceptos Clave para Recordar
 
-> [!tip]- 💡 Puntos Esenciales
+> [!tip] 💡 Puntos Esenciales
 > 
 > ### Sobre Diferenciabilidad
 > 
@@ -1308,7 +1308,7 @@
 
 ## 🔗 Relaciones Importantes
 
-> [!quote]- 🌐 Conexiones con Otros Temas
+> [!quote] 🌐 Conexiones con Otros Temas
 > 
 > ### Prerequisitos:
 > 
@@ -1363,7 +1363,7 @@
 
 ## 📊 Mapa Conceptual Completo
 
-> [!note]- 🌳 Árbol de Conceptos
+> [!note] 🌳 Árbol de Conceptos
 > 
 > ```
 > TEOREMAS SOBRE DIFERENCIABILIDAD
@@ -1429,7 +1429,7 @@
 
 ## ✨ Comentarios Finales
 
-> [!note]- 🎓 Para Llevar
+> [!note] 🎓 Para Llevar
 > 
 > ### Lo Esencial
 > 
@@ -1548,7 +1548,7 @@
 
 ## 📖 Tabla de Referencia Rápida
 
-> [!note]- 📋 Resumen de Teoremas
+> [!note] 📋 Resumen de Teoremas
 > 
 > |Teorema|Hipótesis|Conclusión|Aplicación Principal|
 > |---|---|---|---|
@@ -1580,7 +1580,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Por qué son importantes las Derivadas Direccionales?
+> [!info] 💡 ¿Por qué son importantes las Derivadas Direccionales?
 > 
 > Las derivadas parciales nos dan información sobre cómo cambia una función en las direcciones de los **ejes coordenados**. Pero, ¿qué pasa si queremos saber cómo cambia en **cualquier dirección**?
 > 
@@ -1608,7 +1608,7 @@
 
 ### 🔍 Definición Formal
 
-> [!example]- 🟢 Definición: Derivada Direccional
+> [!example] 🟢 Definición: Derivada Direccional
 > 
 > **Definición:** Sea $f: \mathbb{R}^n \to \mathbb{R}$ una función y $\vec{u}$ un **vector unitario** (es decir, $|\vec{u}| = 1$). La **derivada direccional** de $f$ en el punto $\vec{a}$ en la dirección de $\vec{u}$ es:
 > 
@@ -1639,7 +1639,7 @@
 
 ### 🎯 Interpretación Geométrica
 
-> [!note]- 📊 Visualización
+> [!note] 📊 Visualización
 > 
 > Para una superficie $z = f(x,y)$ y un punto $(x_0, y_0)$:
 > 
@@ -1676,7 +1676,7 @@
 
 ## 🧮 Relación con Derivadas Parciales
 
-> [!note]- 🔄 Casos Especiales
+> [!note] 🔄 Casos Especiales
 > 
 > Las **derivadas parciales** son casos especiales de derivadas direccionales:
 > 
@@ -1706,7 +1706,7 @@
 
 ### 📐 Definición del Gradiente
 
-> [!example]- 🟡 Definición: Vector Gradiente
+> [!example] 🟡 Definición: Vector Gradiente
 > 
 > **Definición:** El **gradiente** de una función $f(x,y)$ es el vector formado por todas sus derivadas parciales:
 > 
@@ -1744,7 +1744,7 @@
 
 ### 🎯 Propiedades del Gradiente
 
-> [!note]- ⭐ Propiedades Importantes
+> [!note] ⭐ Propiedades Importantes
 > 
 > ### 1. Álgebra del Gradiente
 > 
@@ -1778,7 +1778,7 @@
 
 ## 🔑 Fórmula Fundamental: Derivada Direccional y Gradiente
 
-> [!example]- 🟢 Teorema Principal
+> [!example] 🟢 Teorema Principal
 > 
 > **Teorema:** Si $f$ es **diferenciable** en $(x_0, y_0)$ y $\vec{u}$ es un vector unitario, entonces:
 > 
@@ -1815,7 +1815,7 @@
 
 ### Ejemplo 1: Derivada Direccional Simple
 
-> [!example]- 📝 Ejemplo 1: Cálculo Directo
+> [!example] 📝 Ejemplo 1: Cálculo Directo
 > 
 > **Función:** $$f(x,y) = x^2 + y^2$$
 > 
@@ -1861,7 +1861,7 @@
 
 ### Ejemplo 2: Diferentes Direcciones
 
-> [!example]- 📝 Ejemplo 2: Comparar Direcciones
+> [!example] 📝 Ejemplo 2: Comparar Direcciones
 > 
 > **Función:** $$f(x,y) = x^2 - y^2$$
 > 
@@ -1912,7 +1912,7 @@
 
 ### Ejemplo 3: Función Exponencial
 
-> [!example]- 📝 Ejemplo 3: Con Exponencial
+> [!example] 📝 Ejemplo 3: Con Exponencial
 > 
 > **Función:** $$f(x,y) = e^{xy}$$
 > 
@@ -1948,7 +1948,7 @@
 
 ### Ejemplo 4: Función Trigonométrica
 
-> [!example]- 📝 Ejemplo 4: Seno y Coseno
+> [!example] 📝 Ejemplo 4: Seno y Coseno
 > 
 > **Función:** $$f(x,y) = \sin(x)\cos(y)$$
 > 
@@ -1984,7 +1984,7 @@
 
 ## 🎯 Dirección de Máximo Crecimiento
 
-> [!note]- 🌟 Teorema: Máximo y Mínimo Crecimiento
+> [!note] 🌟 Teorema: Máximo y Mínimo Crecimiento
 > 
 > **Teorema:** Sea $f$ diferenciable en $(x_0, y_0)$ y sea $\nabla f(x_0, y_0) \neq \vec{0}$. Entonces:
 > 
@@ -2022,7 +2022,7 @@
 
 ### Ejemplo 5: Encontrar Direcciones Extremas
 
-> [!example]- 📝 Ejemplo 5: Máximo y Mínimo Cambio
+> [!example] 📝 Ejemplo 5: Máximo y Mínimo Cambio
 > 
 > **Función:** $$f(x,y) = x^2 + 2y^2$$
 > 
@@ -2078,7 +2078,7 @@
 
 ### Aplicación 1: Ascenso en una Montaña
 
-> [!example]- ⛰️ Ejemplo: Topografía
+> [!example] ⛰️ Ejemplo: Topografía
 > 
 > **Situación:** La elevación de una montaña está dada por (en metros): $$h(x,y) = 1000 - 0.01x^2 - 0.02y^2$$
 > 
@@ -2120,7 +2120,7 @@
 
 ### Aplicación 2: Temperatura
 
-> [!example]- 🌡️ Ejemplo: Distribución de Temperatura
+> [!example] 🌡️ Ejemplo: Distribución de Temperatura
 > 
 > **Situación:** La temperatura en una placa metálica es: $$T(x,y) = 100 - x^2 - 2y^2$$
 > 
@@ -2160,7 +2160,7 @@
 
 ### Aplicación 3: Optimización
 
-> [!example]- 📊 Ejemplo: Función de Producción
+> [!example] 📊 Ejemplo: Función de Producción
 > 
 > **Situación:** Una empresa tiene función de producción: $$P(K,L) = 100K^{0.4}L^{0.6}$$
 > 
@@ -2210,7 +2210,7 @@
 
 ## 🔄 Derivadas Direccionales en Tres Variables
 
-> [!note]- 🎲 Extensión a $\mathbb{R}^3$
+> [!note] 🎲 Extensión a $\mathbb{R}^3$
 > 
 > ### Definición
 > 
@@ -2230,7 +2230,7 @@
 
 ### Ejemplo 6: Función de Tres Variables
 
-> [!example]- 📝 Ejemplo 6: En 3D
+> [!example] 📝 Ejemplo 6: En 3D
 > 
 > **Función:** $$f(x,y,z) = x^2 + y^2 + z^2$$
 > 
@@ -2262,7 +2262,7 @@
 
 ### Ejemplo 7: Campo Escalar en Física
 
-> [!example]- 📝 Ejemplo 7: Potencial Eléctrico
+> [!example] 📝 Ejemplo 7: Potencial Eléctrico
 > 
 > **Situación:** El potencial eléctrico debido a una carga puntual es: $$V(x,y,z) = \frac{k}{\sqrt{x^2 + y^2 + z^2}}$$
 > 
@@ -2298,7 +2298,7 @@
 
 ## 📐 Relación con Curvas y Superficies de Nivel
 
-> [!note]- 🎯 Gradiente y Curvas de Nivel
+> [!note] 🎯 Gradiente y Curvas de Nivel
 > 
 > ### Teorema: Gradiente Perpendicular a Curvas de Nivel
 > 
@@ -2338,7 +2338,7 @@
 
 ### Ejemplo 8: Curvas de Nivel
 
-> [!example]- 📝 Ejemplo 8: Visualizar Gradiente y Nivel
+> [!example] 📝 Ejemplo 8: Visualizar Gradiente y Nivel
 > 
 > **Función:** $$f(x,y) = x^2 + y^2$$
 > 
@@ -2368,7 +2368,7 @@
 
 ### Ejemplo 9: Superficie de Nivel
 
-> [!example]- 📝 Ejemplo 9: Normal a Superficie
+> [!example] 📝 Ejemplo 9: Normal a Superficie
 > 
 > **Superficie:** $$x^2 + y^2 + z^2 = 9$$ (esfera de radio 3)
 > 
@@ -2400,7 +2400,7 @@
 
 ## 🎯 Propiedades de las Derivadas Direccionales
 
-> [!note]- 📋 Propiedades Importantes
+> [!note] 📋 Propiedades Importantes
 > 
 > ### 1. Linealidad
 > 
@@ -2444,7 +2444,7 @@
 
 ## 🧮 Tabla de Fórmulas de Referencia
 
-> [!note]- 📋 Resumen de Fórmulas
+> [!note] 📋 Resumen de Fórmulas
 > 
 > |Concepto|Fórmula|
 > |---|---|
@@ -2464,7 +2464,7 @@
 
 ## 🎓 Ejercicios Propuestos
 
-> [!example]- 💪 Práctica Nivel Básico
+> [!example] 💪 Práctica Nivel Básico
 > 
 > **1. Calcular el gradiente:**
 > 
@@ -2502,7 +2502,7 @@
 > 
 > d) $\vec{v} = (2, 2, 1)$
 
-> [!example]- 💪 Práctica Nivel Intermedio
+> [!example] 💪 Práctica Nivel Intermedio
 > 
 > **4. Dirección de máximo cambio:**
 > 
@@ -2538,7 +2538,7 @@
 > 
 > c) Verificar que $\nabla f$ es perpendicular a la curva de nivel que pasa por $(2,3)$
 
-> [!example]- 💪 Práctica Nivel Avanzado
+> [!example] 💪 Práctica Nivel Avanzado
 > 
 > **7. Problemas teóricos:**
 > 
@@ -2580,7 +2580,7 @@
 
 ## ✅ Soluciones Selectas
 
-> [!success]- 🔑 Respuestas Ejercicios Básicos
+> [!success] 🔑 Respuestas Ejercicios Básicos
 > 
 > **1a)** $f(x,y) = 3x^2 + 2xy + y^2$
 > 
@@ -2612,7 +2612,7 @@
 > 
 > $$|\vec{v}| = \sqrt{9+16} = 5$$ $$\vec{u} = \frac{1}{5}(3,4)$$
 
-> [!success]- 🔑 Respuestas Ejercicios Intermedios
+> [!success] 🔑 Respuestas Ejercicios Intermedios
 > 
 > **4a)** $f(x,y) = x^2 - y^2$ en $(2,1)$
 > 
@@ -2648,7 +2648,7 @@
 > 
 > **Respuesta:** Bajas a razón de $7\sqrt{2} \approx 9.9$ m por unidad de distancia.
 
-> [!success]- 🔑 Respuestas Ejercicios Avanzados
+> [!success] 🔑 Respuestas Ejercicios Avanzados
 > 
 > **7c)** Si $\nabla f = \vec{0}$ en todos los puntos
 > 
@@ -2682,7 +2682,7 @@
 
 ## 🌟 Conceptos Clave para Recordar
 
-> [!tip]- 💡 Puntos Esenciales
+> [!tip] 💡 Puntos Esenciales
 > 
 > ### Sobre Derivadas Direccionales
 > 
@@ -2730,7 +2730,7 @@
 
 ## 🔗 Conexiones con Otros Temas
 
-> [!quote]- 🌐 Relaciones Importantes 
+> [!quote] 🌐 Relaciones Importantes 
 > **Este tema es prerequisito para:**
 > 
 > - [[10 - Diferenciabilidad y Plano Tangente\|10 - Diferenciabilidad y Plano Tangente]] - El gradiente define el plano tangente
@@ -2754,7 +2754,7 @@
 
 ## 💡 Estrategias y Trucos
 
-> [!tip]- 🎯 Técnicas para Problemas de Derivadas Direccionales
+> [!tip] 🎯 Técnicas para Problemas de Derivadas Direccionales
 > 
 > ### Estrategia 1: Siempre Normalizar
 > 
@@ -2812,7 +2812,7 @@
 
 ## 🔬 Casos Especiales
 
-> [!warning]- ⚠️ Situaciones Especiales
+> [!warning] ⚠️ Situaciones Especiales
 > 
 > ### Caso 1: Gradiente Cero
 > 
@@ -2865,7 +2865,7 @@
 
 ## 📊 Visualización Avanzada
 
-> [!note]- 🎨 Interpretación Visual Completa
+> [!note] 🎨 Interpretación Visual Completa
 > 
 > ### Mapa de Contorno con Gradientes
 > 
@@ -2921,7 +2921,7 @@
 
 ## 🎯 Algoritmo: Descenso de Gradiente
 
-> [!note]- 🔄 Aplicación en Optimización
+> [!note] 🔄 Aplicación en Optimización
 > 
 > ### Método del Descenso de Gradiente
 > 
@@ -2974,7 +2974,7 @@
 
 ## 📐 Fórmulas en Diferentes Sistemas de Coordenadas
 
-> [!note]- 🔢 Coordenadas Alternativas
+> [!note] 🔢 Coordenadas Alternativas
 > 
 > ### Coordenadas Polares (2D)
 > 
@@ -3011,7 +3011,7 @@
 
 ## 🌟 Teoremas Importantes Relacionados
 
-> [!note]- 🎓 Resultados Teóricos
+> [!note] 🎓 Resultados Teóricos
 > 
 > ### Teorema 1: Existencia del Máximo
 > 
@@ -3053,7 +3053,7 @@
 
 ## 💻 Ejemplos Computacionales
 
-> [!example]- 🖥️ Ejemplo: Cálculo Numérico
+> [!example] 🖥️ Ejemplo: Cálculo Numérico
 > 
 > ### Pseudocódigo para Derivada Direccional
 > 
@@ -3100,7 +3100,7 @@
 
 ## 🎯 Resumen Visual: Mapa Conceptual
 
-> [!note]- 🌳 Árbol de Conceptos
+> [!note] 🌳 Árbol de Conceptos
 > 
 > ```
 > DERIVADA DIRECCIONAL
@@ -3138,7 +3138,7 @@
 
 ## ✨ Comentarios Finales
 
-> [!note]- 🎓 Para Llevar
+> [!note] 🎓 Para Llevar
 > 
 > ### Lo Esencial
 > 
@@ -3192,7 +3192,7 @@
 
 ## 📖 Lecturas Complementarias
 
-> [!note]- 📚 Para Profundizar
+> [!note] 📚 Para Profundizar
 > 
 > ### Conceptos Relacionados
 > 

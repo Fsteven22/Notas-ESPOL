@@ -7,11 +7,11 @@
 
 > [!quote] "La notación científica es el lenguaje universal de las magnitudes: permite expresar desde el radio de un átomo hasta la distancia a las galaxias con igual elegancia." 🔬
 
-> [!info]- La notación científica es un sistema de escritura numérica fundamental en ciencias que permite expresar números muy grandes o muy pequeños de manera compacta y precisa. Esta notación facilita los cálculos, comparaciones y la comunicación de resultados experimentales, siendo especialmente crucial en física, química, astronomía y todas las disciplinas cuantitativas.
+> [!info] La notación científica es un sistema de escritura numérica fundamental en ciencias que permite expresar números muy grandes o muy pequeños de manera compacta y precisa. Esta notación facilita los cálculos, comparaciones y la comunicación de resultados experimentales, siendo especialmente crucial en física, química, astronomía y todas las disciplinas cuantitativas.
 
 ## 🔧 Conceptos Fundamentales
 
-> [!info]- **Definición y Estructura** 📐
+> [!info] **Definición y Estructura** 📐
 > 
 > ### Forma Estándar:
 > 
@@ -54,7 +54,7 @@
 > - Número entre 1 y 10
 > - 10^0 = 1, por lo tanto N = a × 1 = a
 
-> [!tip]- **Conversión a Notación Científica** 🎯
+> [!tip] **Conversión a Notación Científica** 🎯
 > 
 > ### Proceso para Números Grandes (> 10):
 > 
@@ -133,7 +133,7 @@
 
 ## 🔢 Operaciones Aritméticas
 
-> [!info]- **Multiplicación en Notación Científica** ✖️
+> [!info] **Multiplicación en Notación Científica** ✖️
 > 
 > ### Regla General:
 > 
@@ -178,7 +178,7 @@
 > Por tanto: 8.5 × 10^-1 × 10^3 = 8.5 × 10^2
 > ```
 
-> [!tip]- **División en Notación Científica** ➗
+> [!tip] **División en Notación Científica** ➗
 > 
 > ### Regla General:
 > 
@@ -216,7 +216,7 @@
 > Ajustar mantisa: 5.0 × 10^1
 > ```
 
-> [!note]- **Suma y Resta** ➕➖
+> [!note] **Suma y Resta** ➕➖
 > 
 > ### Requisito Fundamental:
 > 
@@ -260,7 +260,7 @@
 
 ## 🔬 Cifras Significativas
 
-> [!info]- **Reglas de Cifras Significativas** 📊
+> [!info] **Reglas de Cifras Significativas** 📊
 > 
 > ### Identificación de Cifras Significativas:
 > 
@@ -314,7 +314,7 @@
 > |**50000 (1 sig)**|50000|5 × 10^4|
 > |**50000 (2 sig)**|50000|5.0 × 10^4|
 
-> [!warning]- **Operaciones con Cifras Significativas** ⚡
+> [!warning] **Operaciones con Cifras Significativas** ⚡
 > 
 > ### Multiplicación y División:
 > 
@@ -368,7 +368,7 @@
 
 ## 🌌 Aplicaciones en Física
 
-> [!info]- **Constantes Físicas Fundamentales** ⚛️
+> [!info] **Constantes Físicas Fundamentales** ⚛️
 > 
 > ### Constantes Universales:
 > 
@@ -420,7 +420,7 @@
 > Edad del universo: ~4.3 × 10^17 s
 > ```
 
-> [!note]- **Cálculos Típicos en Física** ⚡
+> [!note] **Cálculos Típicos en Física** ⚡
 > 
 > ### Ejemplo 1: Energía Cinética Relativista
 > 
@@ -473,7 +473,7 @@
 
 ## 📱 Calculadoras y Notación Científica
 
-> [!info]- **Uso de Calculadoras Científicas** 🧮
+> [!info] **Uso de Calculadoras Científicas** 🧮
 > 
 > ### Entrada de Números:
 > 
@@ -516,7 +516,7 @@
 
 ## 🎯 Análisis de Órdenes de Magnitud
 
-> [!info]- **Estimaciones Rápidas** 🚀
+> [!info] **Estimaciones Rápidas** 🚀
 > 
 > ### Concepto de Orden de Magnitud:
 > 
@@ -559,7 +559,7 @@
 
 ## ⚠️ Errores Comunes y Precauciones
 
-> [!warning]- **Errores Frecuentes en Notación** ❌
+> [!warning] **Errores Frecuentes en Notación** ❌
 > 
 > 1. **Mantisa fuera del rango**:
 >     - ❌ 0.23 × 10^5 (mantisa < 1)
@@ -578,7 +578,7 @@
 >     - ❌ Ingresar 2.3 × 10 × 4 en lugar de 2.3 [EE] 4
 >     - ✅ Usar la función EXP o EE correctamente
 
-> [!warning]- **Precauciones en Cálculos** ⚠️
+> [!warning] **Precauciones en Cálculos** ⚠️
 > 
 > ### Propagación de Errores:
 > 
@@ -608,7 +608,7 @@
 
 ## 🧮 Herramientas Computacionales
 
-> [!info]- **Software para Cálculos Científicos** 💻
+> [!info] **Software para Cálculos Científicos** 💻
 > 
 > ### Calculadoras Online:
 > 
@@ -639,7 +639,7 @@
 
 ## 📚 Conexiones y Referencias
 
-> [!quote]- **Relación con Otros Temas**
+> [!quote] **Relación con Otros Temas**
 > 
 > - [[Logaritmos y Exponenciales\|Logaritmos y Exponenciales]] - Base matemática fundamental
 > - [[Análisis Dimensional\|Análisis Dimensional]] - Consistencia de unidades
@@ -649,7 +649,7 @@
 
 ## 🎯 Ejercicios y Problemas
 
-> [!example]- **Problema Tipo 1: Conversión Básica** 📝
+> [!example] **Problema Tipo 1: Conversión Básica** 📝
 > 
 > ### Enunciado:
 > 
@@ -682,7 +682,7 @@
 >    (8 posiciones a la derecha desde 9.1)
 > ```
 
-> [!example]- **Problema Tipo 2: Operaciones Aritméticas** ⚡
+> [!example] **Problema Tipo 2: Operaciones Aritméticas** ⚡
 > 
 > ### Enunciado:
 > 
@@ -733,7 +733,7 @@
 > Precisión limitada por 10^5 → 8.2 × 10^6
 > ```
 
-> [!example]- **Problema Tipo 3: Aplicación Física Compleja** 🔬
+> [!example] **Problema Tipo 3: Aplicación Física Compleja** 🔬
 > 
 > ### Enunciado:
 > 
@@ -785,7 +785,7 @@
 > 
 > **Interpretación**: El Sol irradia aproximadamente 3.84 × 10^26 watts, equivalente a quemar 4.3 × 10^9 toneladas de carbón por segundo.
 
-> [!example]- **Problema Tipo 4: Estimación de Órdenes de Magnitud** 🌍
+> [!example] **Problema Tipo 4: Estimación de Órdenes de Magnitud** 🌍
 > 
 > ### Enunciado:
 > 
@@ -832,7 +832,7 @@
 
 ## 🏆 Problemas Desafío
 
-> [!example]- **Desafío 1: Análisis Dimensional Avanzado** 🚀
+> [!example] **Desafío 1: Análisis Dimensional Avanzado** 🚀
 > 
 > ### Enunciado:
 > 
@@ -869,7 +869,7 @@
 > 
 > **Interpretación**: Un agujero negro de masa solar tiene una temperatura increíblemente baja, ¡mucho más fría que el espacio interestelar!
 
-> [!example]- **Desafío 2: Análisis de Precisión Experimental** ⚗️
+> [!example] **Desafío 2: Análisis de Precisión Experimental** ⚗️
 > 
 > ### Enunciado:
 > 
@@ -911,7 +911,7 @@
 
 ## ✅ Lista de Verificación
 
-> [!note]- **Checklist para Notación Científica** ✓
+> [!note] **Checklist para Notación Científica** ✓
 > 
 > ### Al escribir en notación científica:
 > 
@@ -941,7 +941,7 @@
 
 ## 📖 Recursos Adicionales
 
-> [!info]- **Para Profundizar** 📚
+> [!info] **Para Profundizar** 📚
 > 
 > ### Libros Recomendados:
 > 
@@ -972,7 +972,7 @@
 
 ## 🔗 Conexiones Interdisciplinarias
 
-> [!quote]- **Aplicaciones Transversales**
+> [!quote] **Aplicaciones Transversales**
 > 
 > ### En Química:
 > 

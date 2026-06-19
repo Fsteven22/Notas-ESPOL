@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Por qué son importantes los Subespacios Vectoriales?
+> [!info] 💡 ¿Por qué son importantes los Subespacios Vectoriales?
 > 
 > Los subespacios vectoriales son **subconjuntos especiales** de espacios vectoriales que heredan la estructura de espacio vectorial. Son fundamentales para entender la estructura interna de los espacios vectoriales.
 > 
@@ -36,7 +36,7 @@
 
 ### 📋 Definición Formal
 
-> [!example]- 🟢 Definición: Subespacio Vectorial
+> [!example] 🟢 Definición: Subespacio Vectorial
 > 
 > **Definición:** Sea $V$ un espacio vectorial sobre un campo $\mathbb{F}$ (usualmente $\mathbb{R}$ o $\mathbb{C}$). Un subconjunto $W \subseteq V$ es un **subespacio vectorial** de $V$ si satisface:
 > 
@@ -63,7 +63,7 @@
 > 
 > Si $W$ es subespacio de $V$, entonces $W$ es **automáticamente** un espacio vectorial con las operaciones heredadas de $V$.
 
-> [!tip]- ✅ Criterio del Subespacio (Versión Compacta)
+> [!tip] ✅ Criterio del Subespacio (Versión Compacta)
 > 
 > **Teorema:** Un subconjunto no vacío $W \subseteq V$ es un subespacio si y solo si:
 > 
@@ -79,7 +79,7 @@
 
 ### 🎯 Interpretación Geométrica
 
-> [!note]- 📊 Visualización en $\mathbb{R}^2$ y $\mathbb{R}^3$
+> [!note] 📊 Visualización en $\mathbb{R}^2$ y $\mathbb{R}^3$
 > 
 > ### Subespacios de $\mathbb{R}^2$
 > 
@@ -141,7 +141,7 @@
 
 ### Ejemplo 1: Subespacios de $\mathbb{R}^2$
 
-> [!example]- 📍 Ejemplo 1: Rectas por el Origen
+> [!example] 📍 Ejemplo 1: Rectas por el Origen
 > 
 > **a) La recta $y = 2x$**
 > 
@@ -182,7 +182,7 @@
 
 ### Ejemplo 2: Subespacios de $\mathbb{R}^3$
 
-> [!example]- 📍 Ejemplo 2: Planos y Rectas en $\mathbb{R}^3$
+> [!example] 📍 Ejemplo 2: Planos y Rectas en $\mathbb{R}^3$
 > 
 > **a) El plano $xy$ (donde $z = 0$)**
 > 
@@ -232,7 +232,7 @@
 
 ### Ejemplo 3: Subespacios Triviales
 
-> [!example]- 📍 Ejemplo 3: Subespacios en Todo Espacio Vectorial
+> [!example] 📍 Ejemplo 3: Subespacios en Todo Espacio Vectorial
 > 
 > Para **cualquier** espacio vectorial $V$:
 > 
@@ -268,7 +268,7 @@
 
 ### Ejemplo 4: Matrices
 
-> [!example]- 📍 Ejemplo 4: Subespacios de Matrices
+> [!example] 📍 Ejemplo 4: Subespacios de Matrices
 > 
 > Sea $M_{2×2}(\mathbb{R})$ el espacio de matrices $2 \times 2$ con entradas reales.
 > 
@@ -312,7 +312,7 @@
 
 ### Ejemplo 5: Polinomios
 
-> [!example]- 📍 Ejemplo 5: Subespacios de Polinomios
+> [!example] 📍 Ejemplo 5: Subespacios de Polinomios
 > 
 > Sea $P_n$ el espacio de polinomios de grado ≤ $n$.
 > 
@@ -359,7 +359,7 @@
 
 ### 🎯 Teoremas Básicos
 
-> [!note]- 🟡 Propiedades de Subespacios
+> [!note] 🟡 Propiedades de Subespacios
 > 
 > ### Teorema 1: Intersección de Subespacios
 > 
@@ -402,7 +402,7 @@
 > 
 > $$\boxed{W_1 \cup W_2 \text{ NO es subespacio en general}}$$
 
-> [!note]- 🟡 Teorema 2: Caracterización por Combinaciones Lineales
+> [!note] 🟡 Teorema 2: Caracterización por Combinaciones Lineales
 > 
 > **Teorema:** $W$ es subespacio de $V$ si y solo si $W$ contiene todas las combinaciones lineales de sus elementos.
 > 
@@ -420,7 +420,7 @@
 
 ### 📋 Definición de Span
 
-> [!example]- 🟢 Definición: Espacio Generado (Span)
+> [!example] 🟢 Definición: Espacio Generado (Span)
 > 
 > **Definición:** Sean $\vec{v}_1, \vec{v}_2, \ldots, \vec{v}_k$ vectores en $V$. El **espacio generado** por estos vectores es:
 > 
@@ -444,7 +444,7 @@
 > 2. Es el **subespacio más pequeño** que contiene a $\vec{v}_1, \ldots, \vec{v}_k$
 > 3. Si $W = \text{span}{\vec{v}_1, \ldots, \vec{v}_k}$, decimos que ${\vec{v}_1, \ldots, \vec{v}_k}$ **genera** o **engendra** a $W$
 
-> [!tip]- ✅ Teorema: El Span es un Subespacio
+> [!tip] ✅ Teorema: El Span es un Subespacio
 > 
 > **Teorema:** Para cualquier conjunto de vectores ${\vec{v}_1, \ldots, \vec{v}_k} \subseteq V$:
 > 
@@ -461,7 +461,7 @@
 
 ### Ejemplos de Span
 
-> [!example]- 📍 Ejemplo 6: Span en $\mathbb{R}^2$
+> [!example] 📍 Ejemplo 6: Span en $\mathbb{R}^2$
 > 
 > **a) Span de un vector no nulo**
 > 
@@ -506,7 +506,7 @@
 > 
 > **Interpretación:** Agregar vectores dependientes no "expande" el span.
 
-> [!example]- 📍 Ejemplo 7: Span en $\mathbb{R}^3$
+> [!example] 📍 Ejemplo 7: Span en $\mathbb{R}^3$
 > 
 > **a) Span de un vector (recta)**
 > 
@@ -538,7 +538,7 @@
 > - 2 vectores independientes → plano (dimensión 2)
 > - 3 vectores independientes → todo $\mathbb{R}^3$ (dimensión 3)
 
-> [!example]- 📍 Ejemplo 8: Span en Polinomios
+> [!example] 📍 Ejemplo 8: Span en Polinomios
 > 
 > Sea $P_2$ el espacio de polinomios de grado ≤ 2.
 > 
@@ -564,7 +564,7 @@
 
 ### 📋 Definición
 
-> [!example]- 🟢 Definición: Suma de Subespacios
+> [!example] 🟢 Definición: Suma de Subespacios
 > 
 > **Definición:** Sean $W_1$ y $W_2$ subespacios de $V$. La **suma** de $W_1$ y $W_2$ es:
 > 
@@ -591,7 +591,7 @@
 
 ### Ejemplos de Suma de Subespacios
 
-> [!example]- 📍 Ejemplo 9: Suma en $\mathbb{R}^3$
+> [!example] 📍 Ejemplo 9: Suma en $\mathbb{R}^3$
 > 
 > **a) Suma de dos rectas**
 > 
@@ -617,7 +617,7 @@
 
 ### Suma Directa
 
-> [!example]- 🟣 Definición: Suma Directa
+> [!example] 🟣 Definición: Suma Directa
 > 
 > **Definición:** Sean $W_1$ y $W_2$ subespacios de $V$. Decimos que $V$ es la **suma directa** de $W_1$ y $W_2$ si:
 > 
@@ -636,7 +636,7 @@
 > 
 > **Interpretación geométrica:** Los subespacios son "complementarios" y no se "traslapan" (excepto en el origen).
 
-> [!example]- 📍 Ejemplo 10: Suma Directa
+> [!example] 📍 Ejemplo 10: Suma Directa
 > 
 > **a) En $\mathbb{R}^2$**
 > 
@@ -679,7 +679,7 @@
 
 ### 🛠️ Guía Práctica
 
-> [!tip]- ✅ Checklist para Verificar Subespacios
+> [!tip] ✅ Checklist para Verificar Subespacios
 > 
 > ### Método 1: Definición Directa (3 condiciones)
 > 
@@ -719,7 +719,7 @@
 > 
 > Si $W$ es el núcleo o imagen de una transformación lineal, entonces es subespacio (tema futuro).
 
-> [!warning]- ⚠️ Trampas Comunes
+> [!warning] ⚠️ Trampas Comunes
 > 
 > ### ❌ Errores Frecuentes
 > 
@@ -767,7 +767,7 @@
 
 ## 📊 Tabla de Subespacios Comunes
 
-> [!note]- 📋 Referencia Rápida: Subespacios Clásicos
+> [!note] 📋 Referencia Rápida: Subespacios Clásicos
 > 
 > |Espacio|Subespacio|Descripción|Dimensión|
 > |---|---|---|---|
@@ -791,7 +791,7 @@
 
 ## 🎓 Ejercicios Propuestos
 
-> [!example]- 💪 Práctica Nivel Básico
+> [!example] 💪 Práctica Nivel Básico
 > 
 > **1. Verificar si son subespacios de $\mathbb{R}^2$:**
 > 
@@ -831,7 +831,7 @@
 > 
 > c) $\text{span}{1, x, x^2}$ en $P_3$
 
-> [!example]- 💪 Práctica Nivel Intermedio
+> [!example] 💪 Práctica Nivel Intermedio
 > 
 > **4. Verificar subespacios de matrices:**
 > 
@@ -869,7 +869,7 @@
 > 
 > b) $(W_1 + W_2) + W_3 = W_1 + (W_2 + W_3)$ (asociatividad)
 
-> [!example]- 💪 Práctica Nivel Avanzado
+> [!example] 💪 Práctica Nivel Avanzado
 > 
 > **8. Problemas teóricos:**
 > 
@@ -911,7 +911,7 @@
 
 ## ✅ Soluciones Selectas
 
-> [!success]- 🔑 Respuestas Ejercicios Básicos
+> [!success] 🔑 Respuestas Ejercicios Básicos
 > 
 > **1a)** $W = {(x, 2x) : x \in \mathbb{R}}$
 > 
@@ -963,7 +963,7 @@
 > 
 > **Interpretación:** La recta $y = 2x$
 
-> [!success]- 🔑 Respuestas Ejercicios Intermedios
+> [!success] 🔑 Respuestas Ejercicios Intermedios
 > 
 > **4a)** Matrices con traza cero
 > 
@@ -1016,7 +1016,7 @@
 > 
 > Ejemplo: $p(x) = x(x-1) = x^2 - x$
 
-> [!success]- 🔑 Respuestas Ejercicios Avanzados
+> [!success] 🔑 Respuestas Ejercicios Avanzados
 > 
 > **9)** Complemento ortogonal
 > 
@@ -1048,7 +1048,7 @@
 
 ## 🌟 Conceptos Clave para Recordar
 
-> [!tip]- 💡 Puntos Esenciales
+> [!tip] 💡 Puntos Esenciales
 > 
 > ### Sobre Subespacios
 > 
@@ -1111,7 +1111,7 @@
 
 ## 🔗 Conexiones con Otros Temas
 
-> [!quote]- 🌐 Relaciones Importantes
+> [!quote] 🌐 Relaciones Importantes
 > 
 > **Este tema es prerequisito para:**
 > 
@@ -1136,7 +1136,7 @@
 
 ## 📝 Notas Finales
 
-> [!note]- 🎯 Reflexiones sobre Subespacios Vectoriales
+> [!note] 🎯 Reflexiones sobre Subespacios Vectoriales
 > 
 > ### Importancia Conceptual
 > 
@@ -1210,7 +1210,7 @@
 
 ## 🧮 Fórmulas de Referencia Rápida
 
-> [!note]- 📋 Tabla de Referencia: Propiedades de Subespacios
+> [!note] 📋 Tabla de Referencia: Propiedades de Subespacios
 > 
 > ### Definición
 > 
@@ -1259,7 +1259,7 @@
 
 ## 💡 Trucos y Técnicas Útiles
 
-> [!tip]- 🎯 Estrategias para Trabajar con Subespacios
+> [!tip] 🎯 Estrategias para Trabajar con Subespacios
 > 
 > ### Truco 1: Verificación del Vector Cero Primero
 > 
@@ -1336,7 +1336,7 @@
 
 ## 🎨 Visualización Avanzada
 
-> [!note]- 🖼️ Galería de Subespacios
+> [!note] 🖼️ Galería de Subespacios
 > 
 > ### En $\mathbb{R}^2$
 > 
@@ -1444,7 +1444,7 @@
 
 ## 🔬 Casos Especiales y Patológicos
 
-> [!warning]- ⚠️ Ejemplos Sutiles y Tramposos
+> [!warning] ⚠️ Ejemplos Sutiles y Tramposos
 > 
 > ### Caso 1: Producto de Coordenadas
 > 
@@ -1545,7 +1545,7 @@
 
 ## 🎓 Problemas Tipo Examen
 
-> [!example]- 📝 Problemas Conceptuales
+> [!example] 📝 Problemas Conceptuales
 > 
 > **Problema 1:** Verdadero o Falso (justificar)
 > 
@@ -1587,7 +1587,7 @@
 > 
 > **Hint:** Usa contradicción. Supón que existen $\vec{w}_1 \in W_1 \setminus W_2$ y $\vec{w}_2 \in W_2 \setminus W_1$.
 
-> [!example]- 📝 Problemas de Cálculo
+> [!example] 📝 Problemas de Cálculo
 > 
 > **Problema 4:** Encontrar intersección y suma
 > 
@@ -1623,7 +1623,7 @@
 
 ## ✨ Aplicaciones Prácticas
 
-> [!note]- 🌍 Aplicaciones Reales de Subespacios
+> [!note] 🌍 Aplicaciones Reales de Subespacios
 > 
 > ### 1. Compresión de Datos (PCA)
 > 
@@ -1687,7 +1687,7 @@
 
 ## 🎯 Resumen Ejecutivo
 
-> [!note]- 📌 Lo Más Importante en Una Página
+> [!note] 📌 Lo Más Importante en Una Página
 > 
 > ### Definición Core
 > 

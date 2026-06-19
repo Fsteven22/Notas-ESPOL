@@ -7,11 +7,11 @@
 
 > [!quote] "La incertidumbre no es ignorancia, sino conocimiento preciso de lo que no podemos conocer con exactitud." 🔍
 
-> [!info]- Las incertidumbres experimentales describen el rango de valores dentro del cual esperamos que se encuentre el valor verdadero de una magnitud. Cuando combinamos mediciones para calcular resultados indirectos, las incertidumbres se propagan siguiendo reglas matemáticas específicas que nos permiten estimar la confiabilidad del resultado final.
+> [!info] Las incertidumbres experimentales describen el rango de valores dentro del cual esperamos que se encuentre el valor verdadero de una magnitud. Cuando combinamos mediciones para calcular resultados indirectos, las incertidumbres se propagan siguiendo reglas matemáticas específicas que nos permiten estimar la confiabilidad del resultado final.
 
 ## 🔧 Conceptos Fundamentales
 
-> [!info]- **Tipos de Incertidumbres** 📐
+> [!info] **Tipos de Incertidumbres** 📐
 > 
 > ### Clasificación Principal:
 > 
@@ -29,7 +29,7 @@
 > - **Nivel de confianza**: Generalmente 68% (1σ) o 95% (2σ)
 > - **Distribución**: Asumimos distribución normal para la mayoría de casos
 
-> [!tip]- **Fuentes de Incertidumbre** 🌊
+> [!tip] **Fuentes de Incertidumbre** 🌊
 > 
 > ### Instrumentales:
 > 
@@ -63,7 +63,7 @@
 > - **Deformación**: En mediciones de sólidos
 > - **Fricción**: En experimentos de mecánica
 
-> [!warning]- **Propagación de Incertidumbres** ⚡
+> [!warning] **Propagación de Incertidumbres** ⚡
 > 
 > ### Reglas Fundamentales:
 > 
@@ -122,7 +122,7 @@
 >     style G fill:#e0f2f1
 > ```
 
-> [!note]- **Método de Derivadas Parciales** 📝
+> [!note] **Método de Derivadas Parciales** 📝
 > 
 > ### Fundamento Matemático:
 > 
@@ -156,7 +156,7 @@
 
 ## 🎯 Estrategias de Cálculo
 
-> [!tip]- **Método PIPR (Propagar-Identificar-Propagar-Reportar)** 🧠
+> [!tip] **Método PIPR (Propagar-Identificar-Propagar-Reportar)** 🧠
 > 
 > ### **P**ropagar - Identifica la función matemática
 > 
@@ -184,7 +184,7 @@
 
 ## 📚 Ejemplos Prácticos
 
-> [!example]- **Ejemplo 1: Velocidad (División Simple)** 🏃
+> [!example] **Ejemplo 1: Velocidad (División Simple)** 🏃
 > 
 > ### Situación:
 > 
@@ -218,7 +218,7 @@
 > 
 > **v = (8.00 ± 0.13) m/s** con incertidumbre relativa de 1.6%
 
-> [!example]- **Ejemplo 2: Área de un Círculo** 🔵
+> [!example] **Ejemplo 2: Área de un Círculo** 🔵
 > 
 > ### Situación:
 > 
@@ -250,7 +250,7 @@
 > 
 > **A = (86.3 ± 1.6) cm²** con incertidumbre relativa de 1.9%
 
-> [!example]- **Ejemplo 3: Densidad (Función Compuesta)** ⚖️
+> [!example] **Ejemplo 3: Densidad (Función Compuesta)** ⚖️
 > 
 > ### Situación:
 > 
@@ -289,11 +289,11 @@
 
 ## 🧮 Técnicas de Memorización
 
-> [!tip]- **Mnemotecnia: "SUMAR"** 🎯
+> [!tip] **Mnemotecnia: "SUMAR"** 🎯
 > 
 > **S**uma cuadrática para suma/resta **U**sa relativas para producto/división **M**ultiplica por |n| para potencias **A**plica derivadas para funciones complejas **R**edondea apropiadamente el resultado
 
-> [!tip]- **Reglas Rápidas de Propagación** 📏
+> [!tip] **Reglas Rápidas de Propagación** 📏
 > 
 > ### Jerarquía de Operaciones:
 > 
@@ -310,7 +310,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- **Confusiones Frecuentes** ⚠️
+> [!warning] **Confusiones Frecuentes** ⚠️
 > 
 > 1. **Sumar incertidumbres linealmente**:
 >     - ❌ u_z = u_x + u_y
@@ -330,7 +330,7 @@
 
 ## 🎯 Aplicaciones Específicas
 
-> [!info]- **Experimentos de Laboratorio** 🔬
+> [!info] **Experimentos de Laboratorio** 🔬
 > 
 > ### Cinemática:
 > 
@@ -382,7 +382,7 @@
 
 ## 🔍 Análisis de Dominancia
 
-> [!info]- **Identificar Contribuciones Principales** 📊
+> [!info] **Identificar Contribuciones Principales** 📊
 > 
 > ### Método de Análisis:
 > 
@@ -410,7 +410,7 @@
 
 ## 📖 Referencias
 
-> [!quote]- **Notas Relacionadas**
+> [!quote] **Notas Relacionadas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis de Datos y Errores/Errores Absolutos y Relativos\|Errores Absolutos y Relativos]] - Conceptos fundamentales
 > - [[Universidad/1er Semestre/Física Mecanica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Herramientas Matemáticas/Derivadas Parciales\|Derivadas Parciales]] - Herramienta matemática
@@ -419,13 +419,13 @@
 
 ## 📚 Notas Recomendadas
 
-> [!note]- **Prerrequisitos**
+> [!note] **Prerrequisitos**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis de Datos y Errores/Errores Absolutos y Relativos\|Errores Absolutos y Relativos]] - Base conceptual
 > - **Cálculo diferencial**: Derivadas parciales básicas
 > - **Álgebra**: Operaciones con radicales
 
-> [!note]- **Temas Siguientes**
+> [!note] **Temas Siguientes**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Herramientas Matemáticas/Derivadas Parciales\|Derivadas Parciales]] - Matemáticas para propagación
 > - [[Análisis Gráfico\|Análisis Gráfico]] - Representación de incertidumbres

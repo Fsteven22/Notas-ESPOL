@@ -30,7 +30,7 @@
 > 
 > _Esta tabla contiene las reglas de derivación esenciales que debes memorizar. Cada fórmula representa la derivada directa de las funciones elementales más importantes en cálculo diferencial._
 
-> [!tip]- Fórmulas Organizadas por Categoría 🔢
+> [!tip] Fórmulas Organizadas por Categoría 🔢
 > 
 > ### Funciones Algebraicas
 > 
@@ -52,7 +52,7 @@
 > 
 > **12.** $D_x(\sec x) = \sec x \tan x$ **13.** $D_x(\csc x) = -\csc x \cot x$
 
-> [!example]- Reglas de Combinación (Referencia Rápida) ⚡
+> [!example] Reglas de Combinación (Referencia Rápida) ⚡
 > 
 > ### Reglas Fundamentales para Funciones Compuestas
 > 
@@ -64,7 +64,7 @@
 > 
 > **Regla de la Cadena:** $$D_x[f(g(x))] = f'(g(x)) \cdot g'(x)$$
 
-> [!note]- Casos Especiales Importantes 📝
+> [!note] Casos Especiales Importantes 📝
 > 
 > ### Extensiones Útiles de las Fórmulas Básicas
 > 
@@ -84,7 +84,7 @@
 > - $D_x(\cos(ax)) = -a\sin(ax)$
 > - $D_x(\tan(ax)) = a\sec^2(ax)$
 
-> [!success]- Ejemplos Rápidos de Aplicación 🚀
+> [!success] Ejemplos Rápidos de Aplicación 🚀
 > 
 > ### Casos Comunes que Aparecen Frecuentemente
 > 
@@ -111,7 +111,7 @@
 
 > [!brain]+ Estrategia de Memorización: TABLA 🧠 **T** - **Tipo**: Identifica la función (algebraica, exponencial, logarítmica, trigonométrica) **A** - **Aplica**: Usa la fórmula directa correspondiente **B** - **Busca**: Composición de funciones (cadena) **L** - **Linealiza**: Separa sumas y diferencias **A** - **Ajusta**: Simplifica el resultado final
 
-> [!warning]- Conexión con tus Otras Notas 🔗
+> [!warning] Conexión con tus Otras Notas 🔗
 > 
 > ### Cómo usar esta referencia junto con tus estudios
 > 
@@ -130,7 +130,7 @@
 > 3. **Memorizar fórmulas** → Esta tabla de referencia
 > 4. **Aplicar en problemas** → Combinando teoría con fórmulas
 
-> [!info]- Relación con Integrales 🔄
+> [!info] Relación con Integrales 🔄
 > 
 > ### Teorema Fundamental del Cálculo
 > 
@@ -146,7 +146,7 @@
 > - $D_x(\sin x) = \cos x$ ↔ $\int \cos x , dx = \sin x + C$
 > - $D_x(e^x) = e^x$ ↔ $\int e^x , dx = e^x + C$
 
-> [!success]- Puntos Clave para Recordar 🎯
+> [!success] Puntos Clave para Recordar 🎯
 > 
 > 1. **📋 Referencia rápida**: Esta tabla es para consulta inmediata durante problemas
 > 2. **🔗 Complemento**: Funciona mejor junto con tus notas teóricas existentes

@@ -11,7 +11,7 @@
 
 ## 📋 Definición y Características
 
-> [!info]- 🎯 **¿Qué son los Problemas de Encuentro?** Son situaciones cinemáticas donde **dos o más móviles** que parten desde posiciones diferentes y con velocidades distintas llegan a **coincidir en el mismo punto** del espacio en el **mismo instante** de tiempo.
+> [!info] 🎯 **¿Qué son los Problemas de Encuentro?** Son situaciones cinemáticas donde **dos o más móviles** que parten desde posiciones diferentes y con velocidades distintas llegan a **coincidir en el mismo punto** del espacio en el **mismo instante** de tiempo.
 > 
 > **🔑 Condición fundamental:** $$x_1(t) = x_2(t) \quad \text{en el momento del encuentro}$$
 
@@ -19,7 +19,7 @@
 
 ## 🚗 Tipos de Problemas de Encuentro
 
-> [!tip]- 📍 **Encuentro Frontal (Convergencia)** **Situación:** Dos móviles parten desde puntos diferentes y **se dirigen uno hacia el otro**
+> [!tip] 📍 **Encuentro Frontal (Convergencia)** **Situación:** Dos móviles parten desde puntos diferentes y **se dirigen uno hacia el otro**
 > 
 > ```mermaid
 > graph LR
@@ -34,7 +34,7 @@
 > - 🚂 Trenes que parten de estaciones diferentes
 > - 👥 Dos personas caminando una hacia la otra
 
-> [!warning]- 🏃‍♂️ **Persecución y Alcance** **Situación:** Un móvil **persigue** a otro que tiene ventaja inicial
+> [!warning] 🏃‍♂️ **Persecución y Alcance** **Situación:** Un móvil **persigue** a otro que tiene ventaja inicial
 > 
 > ```mermaid
 > graph LR
@@ -50,7 +50,7 @@
 > - 🐆 Depredador cazando presa
 > - 🚗 Auto rápido alcanzando auto lento
 
-> [!note]- 🔄 **Encuentro Cíclico** **Situación:** Móviles en trayectorias circulares o que se encuentran periódicamente
+> [!note] 🔄 **Encuentro Cíclico** **Situación:** Móviles en trayectorias circulares o que se encuentran periódicamente
 > 
 > **Ejemplos típicos:**
 > 
@@ -62,7 +62,7 @@
 
 ## 📐 Metodología de Resolución
 
-> [!example]- 🛠️ **Pasos para Resolver Problemas de Encuentro**
+> [!example] 🛠️ **Pasos para Resolver Problemas de Encuentro**
 > 
 > ### Paso 1: Análisis de la Situación
 > 
@@ -91,7 +91,7 @@
 
 ## 🧮 Casos Específicos y Fórmulas
 
-> [!abstract]- 📊 **Tabla de Casos Comunes**
+> [!abstract] 📊 **Tabla de Casos Comunes**
 > 
 > |Caso|Condiciones Iniciales|Fórmula del Tiempo|Posición de Encuentro|
 > |---|---|---|---|
@@ -103,7 +103,7 @@
 
 ## 💡 Ejemplos Resueltos
 
-> [!example]- 🚗 **Ejemplo 1: Encuentro Frontal Clásico** **Problema:** Dos autos parten simultáneamente desde ciudades separadas 300 km. El auto A viaja a 80 km/h hacia el este, el auto B viaja a 70 km/h hacia el oeste. ¿Cuándo y dónde se encuentran?
+> [!example] 🚗 **Ejemplo 1: Encuentro Frontal Clásico** **Problema:** Dos autos parten simultáneamente desde ciudades separadas 300 km. El auto A viaja a 80 km/h hacia el este, el auto B viaja a 70 km/h hacia el oeste. ¿Cuándo y dónde se encuentran?
 > 
 > **Solución:**
 > 
@@ -128,7 +128,7 @@
 > 
 > **Respuesta:** Se encuentran a las 2 horas, a 160 km de la ciudad A.
 
-> [!example]- 👮‍♂️ **Ejemplo 2: Persecución con Ventaja Inicial** **Problema:** Un ladrón huye en auto a 60 km/h. Después de 15 minutos, la policía sale en persecución a 90 km/h. ¿Cuánto tiempo perseguirá la policía al ladrón?
+> [!example] 👮‍♂️ **Ejemplo 2: Persecución con Ventaja Inicial** **Problema:** Un ladrón huye en auto a 60 km/h. Después de 15 minutos, la policía sale en persecución a 90 km/h. ¿Cuánto tiempo perseguirá la policía al ladrón?
 > 
 > **Solución:**
 > 
@@ -149,7 +149,7 @@
 
 ## 🎨 Representación Gráfica
 
-> [!note]- 📈 **Gráficos Posición vs Tiempo**
+> [!note] 📈 **Gráficos Posición vs Tiempo**
 > 
 > ```mermaid
 > graph TB
@@ -174,7 +174,7 @@
 
 ## 🧠 Técnica Mnemotécnica: "PLACE"
 
-> [!tip]- 🎯 **Método PLACE para Problemas de Encuentro**
+> [!tip] 🎯 **Método PLACE para Problemas de Encuentro**
 > 
 > **P** - **P**osiciones iniciales (definir $x_0$ para cada móvil) **L** - **L**eyes de movimiento (ecuaciones cinemáticas) **A** - **A**plicar condición de encuentro ($x_1 = x_2$) **C** - **C**alcular tiempo de encuentro **E** - **E**ncontrar posición final
 > 
@@ -187,7 +187,7 @@
 
 ## ⚠️ Errores Comunes y Consejos
 
-> [!warning]- 🚫 **Errores Frecuentes**
+> [!warning] 🚫 **Errores Frecuentes**
 > 
 > ### ❌ Error 1: Sistema de Coordenadas Confuso
 > 
@@ -205,7 +205,7 @@
 
 ## 🔗 Referencias
 
-> [!quote]- 📚 **Notas Relacionadas**
+> [!quote] 📚 **Notas Relacionadas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/01 - Cinemática/Cinemática Traslacional\|Cinemática Traslacional]] - Conceptos base
 > - [[Universidad/1er Semestre/Física Mecanica/01 - Cinemática/Aplicaciones de Cinemática Traslacional/Velocidad Relativa para Barcos y Aviones\|Velocidad Relativa para Barcos y Aviones]] - Marcos de referencia
@@ -215,7 +215,7 @@
 
 ## 📝 Notas Recomendadas como Prerrequisitos
 
-> [!info]- 🎓 **Conocimientos Previos Necesarios**
+> [!info] 🎓 **Conocimientos Previos Necesarios**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para sistemas de coordenadas
 > - [[Sistemas de Ecuaciones\|Sistemas de Ecuaciones]] - Álgebra necesaria

@@ -7,11 +7,11 @@
 
 > [!quote] "Cuando las fuerzas externas se combinan con las colisiones, la física se vuelve una sinfonía compleja donde cada nota importa y el tiempo es el director de orquesta." ⚡💥
 
-> [!info]- Los problemas combinados representan situaciones reales donde las colisiones no ocurren en condiciones ideales aisladas. Aquí, fuerzas externas como fricción, gravedad, fuerzas aplicadas o resistencia del aire actúan simultáneamente con los procesos de colisión, creando escenarios más complejos pero tremendamente útiles para entender fenómenos del mundo real.
+> [!info] Los problemas combinados representan situaciones reales donde las colisiones no ocurren en condiciones ideales aisladas. Aquí, fuerzas externas como fricción, gravedad, fuerzas aplicadas o resistencia del aire actúan simultáneamente con los procesos de colisión, creando escenarios más complejos pero tremendamente útiles para entender fenómenos del mundo real.
 
 ## 🔄 Naturaleza de los Problemas Combinados
 
-> [!warning]- **Características Fundamentales** ⚙️
+> [!warning] **Características Fundamentales** ⚙️
 > 
 > ### Diferencias con Colisiones Ideales:
 > 
@@ -29,7 +29,7 @@
 > |**Conservación de Momentum**|Solo si ΣF_ext = 0|Rara vez se cumple|
 > |**Segunda Ley de Newton**|Siempre|Requiere análisis detallado de fuerzas|
 
-> [!success]- **Clasificación de Fuerzas Externas** 🎯
+> [!success] **Clasificación de Fuerzas Externas** 🎯
 > 
 > ### Por Naturaleza:
 > 
@@ -65,7 +65,7 @@
 
 ## 🎯 Estrategias de Resolución
 
-> [!tip]- **Método FASES (Fuerzas-Análisis-Separación-Ecuaciones-Síntesis)** 🧠
+> [!tip] **Método FASES (Fuerzas-Análisis-Separación-Ecuaciones-Síntesis)** 🧠
 > 
 > ### **F**uerzas - Identifica todas las fuerzas
 > 
@@ -99,7 +99,7 @@
 
 ## 🚗 Casos Típicos de Análisis
 
-> [!example]- **Caso 1: Fricción Durante la Colisión** 🛞
+> [!example] **Caso 1: Fricción Durante la Colisión** 🛞
 > 
 > ### Descripción Física:
 > 
@@ -138,7 +138,7 @@
 > mv₂' - μmgt₂ = 0 (hasta detenerse)
 > ```
 
-> [!example]- **Caso 2: Fuerza Aplicada Constante** ⚡
+> [!example] **Caso 2: Fuerza Aplicada Constante** ⚡
 > 
 > ### Descripción Física:
 > 
@@ -170,7 +170,7 @@
 
 ## 📚 Problemas Tipo Resueltos
 
-> [!example]- **Problema 1: Frenado de Emergencia con Colisión** 🚨
+> [!example] **Problema 1: Frenado de Emergencia con Colisión** 🚨
 > 
 > ### Enunciado:
 > 
@@ -213,7 +213,7 @@
 > - b) |J| = 24,420 N·s
 > - c) d_total = 46.28 m (no hay movimiento post-colisión)
 
-> [!example]- **Problema 2: Proyectil con Colisión en Vuelo** 🎯
+> [!example] **Problema 2: Proyectil con Colisión en Vuelo** 🎯
 > 
 > ### Enunciado:
 > 
@@ -265,7 +265,7 @@
 > Distancia horizontal adicional: d = 15 × 0.5 = 7.5 m
 > ```
 
-> [!example]- **Problema 3: Sistema con Resorte y Colisión** 🌀
+> [!example] **Problema 3: Sistema con Resorte y Colisión** 🌀
 > 
 > ### Enunciado:
 > 
@@ -327,7 +327,7 @@
 
 ## 🧮 Herramientas de Análisis
 
-> [!info]- **Diagramas de Análisis Temporal** 📊
+> [!info] **Diagramas de Análisis Temporal** 📊
 > 
 > ### Diagrama de Fases:
 > 
@@ -361,7 +361,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- **Trampas Conceptuales** ❌
+> [!warning] **Trampas Conceptuales** ❌
 > 
 > 1. **Olvidar que el momentum NO se conserva** cuando hay fuerzas externas
 > 2. **Aplicar conservación de energía** sin considerar el trabajo de fuerzas no conservativas
@@ -373,7 +373,7 @@
 
 ## 🔧 Técnicas Especializadas
 
-> [!tip]- **Métodos Avanzados** ⚡
+> [!tip] **Métodos Avanzados** ⚡
 > 
 > ### Análisis Diferencial:
 > 
@@ -401,7 +401,7 @@
 
 ## 🎯 Aplicaciones Especializadas
 
-> [!success]- **Casos de Estudio Reales** 🌍
+> [!success] **Casos de Estudio Reales** 🌍
 > 
 > ### Ingeniería Automotriz:
 > 
@@ -429,7 +429,7 @@
 
 ## 📖 Referencias
 
-> [!quote]- **Notas Relacionadas**
+> [!quote] **Notas Relacionadas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/04 - Impulso y Colisiones (Lineal)/Aplicaciones de Impulso y Colisiones (Lineal)/Problemas de Colisiones\|Problemas de Colisiones]] - Fundamentos de colisiones puras
 > - [[Universidad/1er Semestre/Física Mecanica/04 - Impulso y Colisiones (Lineal)/Impulso Lineal\|Impulso Lineal]] - Teoría del impulso-momentum
@@ -439,7 +439,7 @@
 
 ## 📚 Notas Recomendadas
 
-> [!note]- **Prerrequisitos**
+> [!note] **Prerrequisitos**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/04 - Impulso y Colisiones (Lineal)/Momentum Lineal y Su Conservación\|Momentum Lineal y Su Conservación]] - Conceptos de conservación
 > - [[Universidad/1er Semestre/Física Mecanica/03 - Trabajo y Energía/Principios de Conservación de la Energía\|Principios de Conservación de la Energía]] - Análisis energético

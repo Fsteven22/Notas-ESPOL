@@ -9,7 +9,7 @@
 
 > [!info]+ Definición Fundamental 💧 Los **vasos comunicantes** son recipientes conectados entre sí que contienen un líquido en equilibrio. El principio establece que cuando varios recipientes están conectados por su base, **el líquido alcanza el mismo nivel en todos ellos**, independientemente de la forma o tamaño de cada recipiente.
 
-> [!note]- Fundamento Físico ⚖️
+> [!note] Fundamento Físico ⚖️
 > 
 > ### Presión Hidrostática
 > 
@@ -36,7 +36,7 @@
 >     style E fill:#e8f5e8
 > ```
 
-> [!tip]- Características Principales 🔬
+> [!tip] Características Principales 🔬
 > 
 > ### Con Líquidos Homogéneos
 > 
@@ -52,7 +52,7 @@
 > - El líquido más denso queda en la parte inferior
 > - Las alturas son inversamente proporcionales a las densidades
 
-> [!example]- Aplicaciones Prácticas 🏗️
+> [!example] Aplicaciones Prácticas 🏗️
 > 
 > ### En la Vida Cotidiana
 > 
@@ -80,7 +80,7 @@
 >       Control de procesos
 > ```
 
-> [!abstract]- Experimento Clásico 🧪
+> [!abstract] Experimento Clásico 🧪
 > 
 > ### Materiales Necesarios
 > 
@@ -96,7 +96,7 @@
 > 3. **Observación**: Monitorear cómo el agua se distribuye
 > 4. **Resultado**: El agua alcanza la misma altura en todos los tubos
 
-> [!warning]- Condiciones y Limitaciones ⚠️
+> [!warning] Condiciones y Limitaciones ⚠️
 > 
 > ### Condiciones Necesarias
 > 
@@ -130,7 +130,7 @@
 
 > [!brain]+ Técnica de Memorización: VACCONE 🧠 **V** - Vasos conectados **A** - Altura igual siempre **C** - Comunicación libre necesaria **C** - Condiciones de equilibrio **O** - Obstáculos impiden funcionamiento **N** - Nivel idéntico resultado **E** - Equilibrio hidrostático base
 
-> [!success]- Puntos Clave para Recordar 🎯
+> [!success] Puntos Clave para Recordar 🎯
 > 
 > 1. **📐 La forma no importa**: Solo cuenta la altura del líquido
 > 2. **🔄 Equilibrio automático**: El sistema se autorregula

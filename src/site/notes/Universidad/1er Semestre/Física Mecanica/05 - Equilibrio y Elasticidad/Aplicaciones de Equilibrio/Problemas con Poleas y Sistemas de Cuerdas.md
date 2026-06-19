@@ -7,11 +7,11 @@
 
 > [!quote] "Las poleas transforman la dirección y magnitud de las fuerzas, creando sistemas mecánicos donde la geometría define el equilibrio." 🔄
 
-> [!info]- Los problemas con poleas y sistemas de cuerdas representan aplicaciones fundamentales del equilibrio estático, donde las fuerzas se redistribuyen a través de cuerdas inextensibles y poleas que pueden ser fijas, móviles, o tener masa propia. Estos sistemas requieren análisis cuidadoso de las tensiones, considerando las restricciones geométricas y las condiciones de equilibrio.
+> [!info] Los problemas con poleas y sistemas de cuerdas representan aplicaciones fundamentales del equilibrio estático, donde las fuerzas se redistribuyen a través de cuerdas inextensibles y poleas que pueden ser fijas, móviles, o tener masa propia. Estos sistemas requieren análisis cuidadoso de las tensiones, considerando las restricciones geométricas y las condiciones de equilibrio.
 
 ## 🔄 Tipos de Poleas y Sistemas
 
-> [!info]- **Polea Fija (Ideal)** 📌
+> [!info] **Polea Fija (Ideal)** 📌
 > 
 > ### Características:
 > 
@@ -34,7 +34,7 @@
 > - **En la polea**: R₁ + R₂ + \vec{T}₁ + \vec{T}₂ = 0
 > - **En la cuerda**: |T₁| = |T₂| = T
 
-> [!tip]- **Polea Móvil (Ideal)** 🔄
+> [!tip] **Polea Móvil (Ideal)** 🔄
 > 
 > ### Características:
 > 
@@ -54,7 +54,7 @@
 > 
 > ΣF↑ = 2T - W = 0 → **T = W/2**
 
-> [!warning]- **Polea con Masa** ⚖️
+> [!warning] **Polea con Masa** ⚖️
 > 
 > ### Consideraciones Adicionales:
 > 
@@ -99,7 +99,7 @@
 >     style D fill:#e8f5e8
 > ```
 
-> [!note]- **Restricciones Geométricas** 📐
+> [!note] **Restricciones Geométricas** 📐
 > 
 > ### Cuerdas Inextensibles:
 > 
@@ -127,7 +127,7 @@
 
 ## 🎯 Estrategias de Resolución
 
-> [!tip]- **Método PACES (Poleas-Análisis-Cuerdas-Equilibrio-Sistema)** 🧠
+> [!tip] **Método PACES (Poleas-Análisis-Cuerdas-Equilibrio-Sistema)** 🧠
 > 
 > ### **P**oleas - Identifica tipos y configuración
 > 
@@ -159,7 +159,7 @@
 > 14. Resuelve para encontrar tensiones y reacciones
 > 15. Verifica coherencia física de resultados
 
-> [!tip]- **Técnicas Especializadas** 🔧
+> [!tip] **Técnicas Especializadas** 🔧
 > 
 > ### **Método del Cuerpo Libre**:
 > 
@@ -181,7 +181,7 @@
 
 ## 📚 Problemas Tipo
 
-> [!example]- **Problema 1: Sistema Simple con Polea Fija** 🔄
+> [!example] **Problema 1: Sistema Simple con Polea Fija** 🔄
 > 
 > ### Enunciado:
 > 
@@ -209,7 +209,7 @@
 > 
 > **Tensión en equilibrio**: T = 15(9.8) = **147 N**
 
-> [!example]- **Problema 2: Sistema con Polea Móvil** 🏋️
+> [!example] **Problema 2: Sistema con Polea Móvil** 🏋️
 > 
 > ### Enunciado:
 > 
@@ -231,7 +231,7 @@
 > 
 > **Verificación**: La polea móvil multiplica la fuerza por 2, permitiendo levantar 196 N con solo 98 N.
 
-> [!example]- **Problema 3: Sistema con Polea de Masa** ⚖️
+> [!example] **Problema 3: Sistema con Polea de Masa** ⚖️
 > 
 > ### Enunciado:
 > 
@@ -258,7 +258,7 @@
 > 
 > **Para equilibrio estático**: Se necesitaría m₁ = m₂, entonces: **T₁ = T₂ = mg** (donde m sería la masa común)
 
-> [!example]- **Problema 4: Sistema Combinado (Atwood Modificado)** 🔗
+> [!example] **Problema 4: Sistema Combinado (Atwood Modificado)** 🔗
 > 
 > ### Enunciado:
 > 
@@ -290,7 +290,7 @@
 > 
 > **Tensión en equilibrio**: T = 58.8 N
 
-> [!example]- **Problema 5: Polipasto (Sistema de Poleas Múltiples)** 🏗️
+> [!example] **Problema 5: Polipasto (Sistema de Poleas Múltiples)** 🏗️
 > 
 > ### Enunciado:
 > 
@@ -331,7 +331,7 @@
 
 ## 🧮 Fórmulas y Relaciones
 
-> [!tip]- **Ventajas Mecánicas** 🔢
+> [!tip] **Ventajas Mecánicas** 🔢
 > 
 > ### Sistemas Básicos:
 > 
@@ -359,7 +359,7 @@
 > - **Poleas móviles**: Cada una multiplica VM por 2
 > - **VM_total = ∏VM_individual**
 
-> [!tip]- **Relaciones Geométricas** 📐
+> [!tip] **Relaciones Geométricas** 📐
 > 
 > ### Para Cuerdas Inextensibles:
 > 
@@ -382,7 +382,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- **Confusiones Frecuentes** ⚠️
+> [!warning] **Confusiones Frecuentes** ⚠️
 > 
 > 1. **Asumir que todas las poleas son ideales** sin considerar su masa
 > 2. **Confundir polea fija con móvil** al calcular ventajas mecánicas
@@ -396,7 +396,7 @@
 
 ## 🎯 Aplicaciones Prácticas
 
-> [!info]- **Ejemplos del Mundo Real** 🌍
+> [!info] **Ejemplos del Mundo Real** 🌍
 > 
 > ### Construcción e Ingeniería:
 > 
@@ -431,7 +431,7 @@
 
 ## 📖 Referencias y Notas Relacionadas
 
-> [!quote]- **Notas Relacionadas**
+> [!quote] **Notas Relacionadas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/05 - Equilibrio y Elasticidad/Equilibrio\|Equilibrio]] - Fundamentos de equilibrio estático
 > - [[Universidad/1er Semestre/Física Mecanica/02 - Dinámica/Aplicaciones de Dinámica de Traslación/Problemas de Cuerdas y Poleas ideales\|Problemas de Cuerdas y Poleas ideales]] - Casos con movimiento
@@ -442,7 +442,7 @@
 
 ## 🔧 Formulario de Consulta Rápida
 
-> [!note]- **Ecuaciones Esenciales**
+> [!note] **Ecuaciones Esenciales**
 > 
 > ### Equilibrio Básico:
 > 

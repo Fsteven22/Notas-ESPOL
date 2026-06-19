@@ -22,7 +22,7 @@
 > ### Curva Rectificable
 > Una curva es **rectificable** si su longitud es finita, es decir, si la integral de longitud de arco converge.
 
-> [!note]- Clasificación de Representaciones de Curvas 📐
+> [!note] Clasificación de Representaciones de Curvas 📐
 > ### Tipos de Parametrizaciones
 > ```mermaid
 > graph TB
@@ -66,7 +66,7 @@
 > 
 > $$L = \int_a^b \sqrt{\left(\frac{dx}{dt}\right)^2 + \left(\frac{dy}{dt}\right)^2 + \left(\frac{dz}{dt}\right)^2} \, dt = \int_a^b \|\mathbf{r}'(t)\| \, dt$$
 
-> [!example]- Ejemplos Clásicos y Cálculos Paso a Paso 📚
+> [!example] Ejemplos Clásicos y Cálculos Paso a Paso 📚
 > ### Ejemplo 1: Semicírculo
 > **Curva:** Semicírculo superior de radio $R$: $x^2 + y^2 = R^2$, $y \geq 0$
 > 
@@ -113,7 +113,7 @@
 > L = a[π√(4π²+1) + (1/2)ln(2π + √(4π²+1))]
 > ```
 
-> [!abstract]- Métodos de Integración para Longitud de Arco 🧮
+> [!abstract] Métodos de Integración para Longitud de Arco 🧮
 > ### Técnicas Comunes
 > 
 > **1. Sustitución Trigonométrica**
@@ -149,7 +149,7 @@
 >     style F fill:#c8e6c9
 > ```
 
-> [!success]- Aplicaciones y Contextos Físicos 🌍
+> [!success] Aplicaciones y Contextos Físicos 🌍
 > ### Aplicaciones en Física
 > 
 > **1. Mecánica**
@@ -178,7 +178,7 @@
 > - Medición de distancias reales en mapas
 > - Cálculo de longitudes de ríos y costas
 
-> [!warning]- Consideraciones Importantes y Errores Comunes ⚠️
+> [!warning] Consideraciones Importantes y Errores Comunes ⚠️
 > ### Condiciones para la Existencia
 > 
 > **1. Diferenciabilidad**
@@ -229,7 +229,7 @@
 > Espiral:        Depende del tipo, generalmente compleja
 > ```
 
-> [!success]- Puntos Clave para Recordar 🎯
+> [!success] Puntos Clave para Recordar 🎯
 > 1. **📐 Elemento diferencial**: $ds = ||\mathbf{r}'(t)|| \, dt$ es fundamental
 > 2. **🔧 Elección de parametrización**: Puede simplificar enormemente el cálculo
 > 3. **📊 Técnicas de integración**: Dominar sustituciones trigonométricas
@@ -268,15 +268,15 @@
 
 # 📏 Longitud de Arco con Integrales
 
-> [!info]- 💡 **Concepto Central** La longitud de arco es la medida de la distancia a lo largo de una curva entre dos puntos. A diferencia de la distancia en línea recta, considera toda la curvatura del camino. Se calcula mediante integrales definidas que suman infinitos segmentos infinitesimales de la curva.
+> [!info] 💡 **Concepto Central** La longitud de arco es la medida de la distancia a lo largo de una curva entre dos puntos. A diferencia de la distancia en línea recta, considera toda la curvatura del camino. Se calcula mediante integrales definidas que suman infinitos segmentos infinitesimales de la curva.
 
-> [!tip]- 🎯 **Idea Fundamental** Imaginemos una curva como una sucesión de segmentos rectos muy pequeños. La longitud total es la suma de todos estos segmentos. Cuando el tamaño tiende a cero, obtenemos la integral que representa la longitud exacta.
+> [!tip] 🎯 **Idea Fundamental** Imaginemos una curva como una sucesión de segmentos rectos muy pequeños. La longitud total es la suma de todos estos segmentos. Cuando el tamaño tiende a cero, obtenemos la integral que representa la longitud exacta.
 
 ## 📐 Fórmula Fundamental para y = f(x)
 
 ### 🔍 Derivación Intuitiva
 
-> [!info]- 🧮 **¿Cómo surge la fórmula?**
+> [!info] 🧮 **¿Cómo surge la fórmula?**
 > 
 > Consideremos un pequeño segmento de curva entre $(x, f(x))$ y $(x + dx, f(x + dx))$:
 > 
@@ -295,7 +295,7 @@
 
 ### 🎯 Fórmula Principal
 
-> [!tip]- 📏 **Longitud de Arco para y = f(x)**
+> [!tip] 📏 **Longitud de Arco para y = f(x)**
 > 
 > Para una curva $y = f(x)$ continua y derivable en $[a,b]$:
 > 
@@ -309,7 +309,7 @@
 > - $\sqrt{1 + [f'(x)]^2}$: factor de corrección por curvatura
 > - Límites $[a,b]$: intervalo de integración
 
-> [!warning]- ⚠️ **Condiciones de Validez**
+> [!warning] ⚠️ **Condiciones de Validez**
 > 
 > - $f(x)$ debe ser **continua** en $[a,b]$
 > - $f'(x)$ debe **existir** y ser **continua** en $[a,b]$
@@ -319,7 +319,7 @@
 
 ### 🔬 Ejemplo 1: Línea Recta (Verificación)
 
-> [!example]- 📈 **Longitud de $y = mx + c$ entre $x = 0$ y $x = a$**
+> [!example] 📈 **Longitud de $y = mx + c$ entre $x = 0$ y $x = a$**
 > 
 > **Derivada**: $f'(x) = m$
 > 
@@ -333,7 +333,7 @@
 
 ### 🔬 Ejemplo 2: Parábola
 
-> [!example]- 📈 **Longitud de $y = x^2$ entre $x = 0$ y $x = 1$**
+> [!example] 📈 **Longitud de $y = x^2$ entre $x = 0$ y $x = 1$**
 > 
 > **Paso 1**: Calcular la derivada $$f'(x) = 2x$$
 > 
@@ -349,7 +349,7 @@
 
 ### 🔬 Ejemplo 3: Función Radical
 
-> [!example]- 📈 **Longitud de $y = \frac{2}{3}x^{3/2}$ entre $x = 0$ y $x = 1$**
+> [!example] 📈 **Longitud de $y = \frac{2}{3}x^{3/2}$ entre $x = 0$ y $x = 1$**
 > 
 > **Derivada**: $f'(x) = \frac{2}{3} \cdot \frac{3}{2}x^{1/2} = x^{1/2} = \sqrt{x}$
 > 
@@ -363,7 +363,7 @@
 
 ### 🔄 Fórmula para x = g(y)
 
-> [!tip]- 📐 **Cuando la curva se describe mejor como x = g(y)**
+> [!tip] 📐 **Cuando la curva se describe mejor como x = g(y)**
 > 
 > $$L = \int_c^d \sqrt{1 + \left(\frac{dx}{dy}\right)^2} , dy$$
 > 
@@ -377,7 +377,7 @@
 
 ### 🧪 Ejemplo con dy
 
-> [!example]- 📈 **Longitud de $x = \frac{y^3}{3} + \frac{1}{4y}$ entre $y = 1$ y $y = 3$**
+> [!example] 📈 **Longitud de $x = \frac{y^3}{3} + \frac{1}{4y}$ entre $y = 1$ y $y = 3$**
 > 
 > **Derivada**: $\frac{dx}{dy} = y^2 - \frac{1}{4y^2}$
 > 
@@ -389,7 +389,7 @@
 
 ### 📐 Fórmula en Coordenadas Polares
 
-> [!tip]- 🌀 **Para curvas r = f(θ)**
+> [!tip] 🌀 **Para curvas r = f(θ)**
 > 
 > $$L = \int_\alpha^\beta \sqrt{r^2 + \left(\frac{dr}{d\theta}\right)^2} , d\theta$$
 > 
@@ -406,7 +406,7 @@
 
 #### 🔬 Ejemplo 1: Círculo
 
-> [!example]- ⭕ **Longitud de $r = a$ (círculo) entre $\theta = 0$ y $\theta = 2\pi$**
+> [!example] ⭕ **Longitud de $r = a$ (círculo) entre $\theta = 0$ y $\theta = 2\pi$**
 > 
 > **Derivada**: $\frac{dr}{d\theta} = 0$
 > 
@@ -416,7 +416,7 @@
 
 #### 🔬 Ejemplo 2: Cardioide
 
-> [!example]- ❤️ **Longitud de cardioide $r = a(1 + \cos\theta)$**
+> [!example] ❤️ **Longitud de cardioide $r = a(1 + \cos\theta)$**
 > 
 > **Derivada**: $\frac{dr}{d\theta} = -a\sin\theta$
 > 
@@ -430,7 +430,7 @@
 
 ### 🎯 Fórmula Paramétrica
 
-> [!tip]- 📐 **Para curvas x = x(t), y = y(t)**
+> [!tip] 📐 **Para curvas x = x(t), y = y(t)**
 > 
 > $$L = \int_{t_1}^{t_2} \sqrt{\left(\frac{dx}{dt}\right)^2 + \left(\frac{dy}{dt}\right)^2} , dt$$
 > 
@@ -446,7 +446,7 @@
 
 #### 🔬 Ejemplo 1: Círculo Parametrizado
 
-> [!example]- ⭕ **Longitud de $x = a\cos t, y = a\sin t$ para $t \in [0, 2\pi]$**
+> [!example] ⭕ **Longitud de $x = a\cos t, y = a\sin t$ para $t \in [0, 2\pi]$**
 > 
 > **Derivadas**:
 > 
@@ -457,7 +457,7 @@
 
 #### 🔬 Ejemplo 2: Cicloide
 
-> [!example]- 🌀 **Longitud de una arcada de cicloide**
+> [!example] 🌀 **Longitud de una arcada de cicloide**
 > 
 > **Parametrización**: $x = a(t - \sin t), y = a(1 - \cos t)$ para $t \in [0, 2\pi]$
 > 
@@ -476,7 +476,7 @@
 
 ### 🤔 Elección del Sistema de Coordenadas
 
-> [!info]- 💡 **¿Cuándo usar cada método?**
+> [!info] 💡 **¿Cuándo usar cada método?**
 > 
 > ```mermaid
 > flowchart TD
@@ -504,7 +504,7 @@
 
 ### 📋 Tabla de Decisión
 
-> [!tip]- 📊 **Guía rápida de métodos**
+> [!tip] 📊 **Guía rápida de métodos**
 > 
 > |Forma de la Curva|Método Recomendado|Cuándo Usar|
 > |---|---|---|
@@ -519,7 +519,7 @@
 
 ### 🔧 Sustitución Trigonométrica
 
-> [!tip]- 🔄 **Patrones frecuentes**
+> [!tip] 🔄 **Patrones frecuentes**
 > 
 > **Para $\sqrt{a^2 + x^2}$**:
 > 
@@ -538,7 +538,7 @@
 
 ### ⚡ Casos que Simplifican
 
-> [!info]- ✨ **Buscar estos patrones**
+> [!info] ✨ **Buscar estos patrones**
 > 
 > **1. Diferencias de cuadrados perfectos**: Si $1 + [f'(x)]^2$ es un cuadrado perfecto, la integral se simplifica enormemente.
 > 
@@ -554,7 +554,7 @@
 
 ### 🔢 Aproximación Numérica
 
-> [!warning]- 💻 **Cuando la integral es intratable**
+> [!warning] 💻 **Cuando la integral es intratable**
 > 
 > **Métodos numéricos**:
 > 
@@ -572,7 +572,7 @@
 
 ### ⭐ Catálogo de Longitudes Conocidas
 
-> [!info]- 📚 **Resultados importantes**
+> [!info] 📚 **Resultados importantes**
 > 
 > |Curva|Ecuación|Intervalo|Longitud|
 > |---|---|---|---|
@@ -586,7 +586,7 @@
 
 ### 🌀 Espirales
 
-> [!example]- 🌀 **Espiral de Arquímedes: $r = a\theta$**
+> [!example] 🌀 **Espiral de Arquímedes: $r = a\theta$**
 > 
 > **Para $\theta \in [0, 2\pi n]$ (n vueltas)**: $$L = \int_0^{2\pi n} \sqrt{(a\theta)^2 + a^2} , d\theta = a\int_0^{2\pi n} \sqrt{\theta^2 + 1} , d\theta$$
 > 
@@ -594,7 +594,7 @@
 
 ### 💫 Curvas Fractales
 
-> [!warning]- ∞ **Longitudes infinitas**
+> [!warning] ∞ **Longitudes infinitas**
 > 
 > Algunas curvas famosas tienen **longitud infinita**:
 > 
@@ -606,7 +606,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- 🚨 **Errores frecuentes en longitud de arco**
+> [!warning] 🚨 **Errores frecuentes en longitud de arco**
 > 
 > **1. Olvidar la raíz cuadrada**:
 > 
@@ -637,7 +637,7 @@
 
 ### 🏗️ Ingeniería Civil
 
-> [!info]- 🌉 **Diseño de estructuras**
+> [!info] 🌉 **Diseño de estructuras**
 > 
 > **Puentes colgantes**:
 > 
@@ -656,7 +656,7 @@
 
 ### 🛣️ Navegación y GPS
 
-> [!tip]- 🗺️ **Cálculo de distancias**
+> [!tip] 🗺️ **Cálculo de distancias**
 > 
 > **Rutas curvas**:
 > 
@@ -670,7 +670,7 @@
 
 ### 🔬 Ciencias Físicas
 
-> [!warning]- ⚡ **Aplicaciones en física**
+> [!warning] ⚡ **Aplicaciones en física**
 > 
 > **Mecánica**:
 > 
@@ -689,7 +689,7 @@
 
 ### 🎨 Arte y Diseño
 
-> [!info]- 🎨 **Aplicaciones creativas**
+> [!info] 🎨 **Aplicaciones creativas**
 > 
 > **Diseño gráfico**:
 > 
@@ -705,13 +705,13 @@
 
 ### 🎯 Casos Especiales
 
-> [!example]- 🧩 **Problema 1: Longitud variable**
+> [!example] 🧩 **Problema 1: Longitud variable**
 > 
 > Encuentra la longitud de $y = \ln(\cos x)$ entre $x = 0$ y $x = \pi/4$.
 > 
 > **Pista**: $f'(x) = -\tan x$, entonces $1 + [f'(x)]^2 = \sec^2 x$
 
-> [!example]- 🧩 **Problema 2: Parametrización inteligente**
+> [!example] 🧩 **Problema 2: Parametrización inteligente**
 > 
 > Para la astroide $x^{2/3} + y^{2/3} = a^{2/3}$, usa la parametrización: $x = a\cos^3 t, y = a\sin^3 t$
 > 
@@ -719,7 +719,7 @@
 
 ### 🔥 Integrales Elípticas
 
-> [!warning]- 🔬 **Más allá del cálculo básico**
+> [!warning] 🔬 **Más allá del cálculo básico**
 > 
 > Algunas longitudes de arco requieren **integrales elípticas**:
 > 
@@ -731,7 +731,7 @@
 
 ### 📐 Geometría Diferencial
 
-> [!info]- 🌐 **Conceptos avanzados**
+> [!info] 🌐 **Conceptos avanzados**
 > 
 > **Curvatura**:
 > 
@@ -745,7 +745,7 @@
 
 ### ⚡ Cálculo Vectorial
 
-> [!tip]- 📊 **Extensiones vectoriales**
+> [!tip] 📊 **Extensiones vectoriales**
 > 
 > **Curvas en el espacio**: $$L = \int_{t_1}^{t_2} |\vec{r}'(t)| , dt = \int_{t_1}^{t_2} \sqrt{x'(t)^2 + y'(t)^2 + z'(t)^2} , dt$$
 > 
@@ -755,7 +755,7 @@
 
 ### 🔢 Análisis Numérico
 
-> [!warning]- 💻 **Métodos computacionales**
+> [!warning] 💻 **Métodos computacionales**
 > 
 > **Aproximación por segmentos**: Para $n$ puntos $(x_i, y_i)$ en la curva: $L \approx \sum_{i=1}^{n-1} \sqrt{(x_{i+1} - x_i)^2 + (y_{i+1} - y_i)^2}$
 > 
@@ -770,7 +770,7 @@
 
 ### 🧠 Mnemotecnia para Fórmulas
 
-> [!tip]- 🎯 **Recordar las fórmulas principales**
+> [!tip] 🎯 **Recordar las fórmulas principales**
 > 
 > **Regla "1 + derivada al cuadrado"**:
 > 
@@ -788,7 +788,7 @@
 
 ### 📝 Lista de Verificación
 
-> [!info]- ✅ **Checklist antes de resolver**
+> [!info] ✅ **Checklist antes de resolver**
 > 
 > - [ ] ¿Qué tipo de curva es? (rectangular, polar, paramétrica)
 > - [ ] ¿La función es derivable en el intervalo?
@@ -800,7 +800,7 @@
 
 ### 🔄 Estrategia de Resolución
 
-> [!warning]- 📋 **Proceso sistemático**
+> [!warning] 📋 **Proceso sistemático**
 > 
 > **1. Análisis inicial**:
 > 
@@ -830,7 +830,7 @@
 
 ### 🎭 Longitud de Arco en Espacios Curvos
 
-> [!info]- 🌌 **Más allá del plano euclidiano**
+> [!info] 🌌 **Más allá del plano euclidiano**
 > 
 > **En la esfera** (coordenadas esféricas): Para curvas sobre una esfera de radio $R$: $ds = R\sqrt{(d\theta)^2 + \sin^2\theta , (d\phi)^2}$
 > 
@@ -840,7 +840,7 @@
 
 ### 🔬 Dimensiones Fractales
 
-> [!warning]- ∞ **Cuando la longitud diverge**
+> [!warning] ∞ **Cuando la longitud diverge**
 > 
 > **Curva de Koch**:
 > 
@@ -857,7 +857,7 @@
 
 ### 🎯 Nivel Intermedio
 
-> [!example]- 📝 **Problema A: Catenaria**
+> [!example] 📝 **Problema A: Catenaria**
 > 
 > Una cadena cuelga entre dos puntos formando una catenaria $y = a\cosh(x/a)$. Si $a = 10$ m y la cadena se extiende de $x = -20$ m a $x = 20$ m:
 > 
@@ -867,7 +867,7 @@
 
 ### 🔥 Nivel Avanzado
 
-> [!example]- 🧠 **Problema B: Optimización**
+> [!example] 🧠 **Problema B: Optimización**
 > 
 > De todas las curvas $y = f(x)$ que conectan $(0,0)$ con $(1,1)$ y tienen longitud fija $L > \sqrt{2}$, encuentra la que encierra máxima área con el eje x.
 > 
@@ -875,7 +875,7 @@
 
 ### 🌟 Nivel Experto
 
-> [!example]- 🏆 **Problema C: Integral elíptica**
+> [!example] 🏆 **Problema C: Integral elíptica**
 > 
 > Calcula la longitud exacta del cuarto de elipse $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$ en el primer cuadrante.
 > 
@@ -883,7 +883,7 @@
 
 ## 📊 Tabla Resumen de Fórmulas
 
-> [!info]- 📋 **Referencia rápida**
+> [!info] 📋 **Referencia rápida**
 > 
 > |Sistema|Ecuación de la Curva|Fórmula de Longitud|
 > |---|---|---|
@@ -908,7 +908,7 @@
 
 - [[Superficies de Revolución\|Superficies de Revolución]] - Área de superficies generadas por revolución
 - [[Curvatura y Torsión\|Curvatura y Torsión]] - Propiedades geométricas locales de curvas
-- [[Cálculo Vectorial\|Cálculo Vectorial]] - Extensión a curvas en el espacio 3D
+- [[Universidad/2do Semestre/Cálculo Vectorial/Cálculo Vectorial\|Cálculo Vectorial]] - Extensión a curvas en el espacio 3D
 - [[Geometría Diferencial\|Geometría Diferencial]] - Estudio sistemático de curvas y superficies
 - [[Integrales de Línea\|Integrales de Línea]] - Integración a lo largo de curvas
 - [[Cálculo de Variaciones\|Cálculo de Variaciones]] - Optimización de functionales que involucran longitud

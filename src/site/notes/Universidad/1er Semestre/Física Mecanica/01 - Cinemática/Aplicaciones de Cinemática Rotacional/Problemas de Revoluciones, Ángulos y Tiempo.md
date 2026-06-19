@@ -7,11 +7,11 @@
 
 > [!quote] "En cada revolución se escriben infinitos ángulos, y en cada ángulo vive la historia completa del tiempo que lo creó." 🌀
 
-> [!info]- Los problemas de revoluciones, ángulos y tiempo forman la base fundamental para comprender el movimiento rotacional. Estas magnitudes están íntimamente relacionadas y nos permiten describir completamente el estado rotacional de cualquier objeto, desde una partícula hasta planetas enteros, conectando la geometría circular con la física temporal.
+> [!info] Los problemas de revoluciones, ángulos y tiempo forman la base fundamental para comprender el movimiento rotacional. Estas magnitudes están íntimamente relacionadas y nos permiten describir completamente el estado rotacional de cualquier objeto, desde una partícula hasta planetas enteros, conectando la geometría circular con la física temporal.
 
 ## 🔄 Magnitudes Angulares Fundamentales
 
-> [!info]- **Desplazamiento Angular (θ)** 📐
+> [!info] **Desplazamiento Angular (θ)** 📐
 > 
 > ### Características Principales:
 > 
@@ -29,7 +29,7 @@
 > |Revoluciones|N|rev|1 rev = 360° = 2π rad|
 > |Arco de circunferencia|s|m|s = rθ (θ en rad)|
 
-> [!tip]- **Velocidad Angular (ω)** 🌪️
+> [!tip] **Velocidad Angular (ω)** 🌪️
 > 
 > ### Características Principales:
 > 
@@ -45,7 +45,7 @@
 > - **1 rad/s = 30/π rpm ≈ 9.549 rpm**
 > - **Velocidad lineal**: v = ωr (para movimiento circular)
 
-> [!warning]- **Aceleración Angular (α)** ⚡
+> [!warning] **Aceleración Angular (α)** ⚡
 > 
 > ### Características Principales:
 > 
@@ -79,7 +79,7 @@
 >     style F fill:#f0f8ff
 > ```
 
-> [!note]- **Relaciones Temporales y Periódicas** 📐
+> [!note] **Relaciones Temporales y Periódicas** 📐
 > 
 > ### Magnitudes Periódicas:
 > 
@@ -98,7 +98,7 @@
 
 ## 🎯 Estrategias de Resolución
 
-> [!tip]- **Método REVO (Revoluciones-Ecuaciones-Variables-Operaciones)** 🧠
+> [!tip] **Método REVO (Revoluciones-Ecuaciones-Variables-Operaciones)** 🧠
 > 
 > ### **R**evoluciones - Identifica el tipo de movimiento
 > 
@@ -126,7 +126,7 @@
 
 ## 📚 Problemas Tipo
 
-> [!example]- **Problema 1: Conversiones y Equivalencias** 🔄
+> [!example] **Problema 1: Conversiones y Equivalencias** 🔄
 > 
 > ### Enunciado:
 > 
@@ -152,7 +152,7 @@
 > - θ = ωt = 377 × 150 = 56,550 rad
 > - Verificación: θ = 9000 × 2π = 56,549 rad ✓
 
-> [!example]- **Problema 2: Rotación Uniformemente Acelerada** ⚡
+> [!example] **Problema 2: Rotación Uniformemente Acelerada** ⚡
 > 
 > ### Enunciado:
 > 
@@ -178,7 +178,7 @@
 > 
 > - N = θ/(2π) = 100.5/(2π) = 16 revoluciones
 
-> [!example]- **Problema 3: Análisis Temporal Complejo** 🕐
+> [!example] **Problema 3: Análisis Temporal Complejo** 🕐
 > 
 > ### Enunciado:
 > 
@@ -207,12 +207,12 @@
 
 ## 🧮 Técnicas de Memorización
 
-> [!tip]- **Mnemotecnia: "RATA"** 🐭 **R**adianes: 2π por revolución completa **A**ngular: ω = θ/t para velocidad constante  
+> [!tip] **Mnemotecnia: "RATA"** 🐭 **R**adianes: 2π por revolución completa **A**ngular: ω = θ/t para velocidad constante  
 > **T**iempo: T = 2π/ω para el periodo **A**celerada: usar ecuaciones con α cuando cambia ω
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- **Confusiones Frecuentes** ⚠️
+> [!warning] **Confusiones Frecuentes** ⚠️
 > 
 > 1. **Confundir unidades**: no convertir rpm a rad/s correctamente
 > 2. **Usar grados en lugar de radianes** en fórmulas físicas
@@ -223,7 +223,7 @@
 
 ## 🎯 Aplicaciones Prácticas
 
-> [!info]- **Ejemplos del Mundo Real** 🌍
+> [!info] **Ejemplos del Mundo Real** 🌍
 > 
 > ### Tecnología Cotidiana:
 > 
@@ -253,7 +253,7 @@
 
 ## 📊 Tabla de Conversiones Rápidas
 
-> [!note]- **Conversiones Frecuentes** 📏
+> [!note] **Conversiones Frecuentes** 📏
 > 
 > ### Velocidad Angular:
 > 
@@ -273,7 +273,7 @@
 
 ## 🔬 Casos Especiales
 
-> [!note]- **Situaciones Particulares** 🔍
+> [!note] **Situaciones Particulares** 🔍
 > 
 > ### Movimiento Periódico:
 > 
@@ -293,7 +293,7 @@
 
 ## 📖 Referencias
 
-> [!quote]- **Notas Relacionadas**
+> [!quote] **Notas Relacionadas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/01 - Cinemática/Cinemática Rotacional\|Cinemática Rotacional]] - Fundamentos teóricos
 > - [[Universidad/1er Semestre/Física Mecanica/01 - Cinemática/Aplicaciones de Cinemática Rotacional/Problemas con Gráficas Angulares (θ-t, ω-t, α-t)\|Problemas con Gráficas Angulares (θ-t, ω-t, α-t)]] - Análisis gráfico
@@ -302,7 +302,7 @@
 
 ## 📚 Notas Recomendadas
 
-> [!note]- **Prerrequisitos**
+> [!note] **Prerrequisitos**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Sistema de unidades
 > - [[Universidad/1er Semestre/Física Mecanica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Conceptos vectoriales básicos

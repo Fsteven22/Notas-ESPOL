@@ -7,11 +7,11 @@
 
 > [!quote] "En el universo de la rotación, cada gráfica angular cuenta una historia de giros, vueltas y revoluciones que moldean el cosmos." 🌀
 
-> [!info]- Las gráficas angulares son herramientas esenciales para analizar el movimiento rotacional de los objetos. A través de las representaciones gráficas de posición angular vs tiempo (θ-t), velocidad angular vs tiempo (ω-t) y aceleración angular vs tiempo (α-t), podemos interpretar y resolver problemas de rotación de manera visual e intuitiva.
+> [!info] Las gráficas angulares son herramientas esenciales para analizar el movimiento rotacional de los objetos. A través de las representaciones gráficas de posición angular vs tiempo (θ-t), velocidad angular vs tiempo (ω-t) y aceleración angular vs tiempo (α-t), podemos interpretar y resolver problemas de rotación de manera visual e intuitiva.
 
 ## 🌀 Tipos de Gráficas Angulares
 
-> [!info]- **Gráfica Posición Angular-Tiempo (θ-t)** 📍
+> [!info] **Gráfica Posición Angular-Tiempo (θ-t)** 📍
 > 
 > ### Características Principales:
 > 
@@ -29,7 +29,7 @@
 > |Parábola|Rotación uniformemente acelerada|ω = variable|α = constante|
 > |Curva compleja|Rotación compleja|ω = variable|α = variable|
 
-> [!tip]- **Gráfica Velocidad Angular-Tiempo (ω-t)** 🌪️
+> [!tip] **Gráfica Velocidad Angular-Tiempo (ω-t)** 🌪️
 > 
 > ### Características Principales:
 > 
@@ -45,7 +45,7 @@
 > - **Pendiente positiva**: Aceleración angular positiva
 > - **Pendiente negativa**: Desaceleración angular o aceleración angular negativa
 
-> [!warning]- **Gráfica Aceleración Angular-Tiempo (α-t)** ⚡
+> [!warning] **Gráfica Aceleración Angular-Tiempo (α-t)** ⚡
 > 
 > ### Características Principales:
 > 
@@ -74,7 +74,7 @@
 >     style C fill:#f0e8ff
 > ```
 
-> [!note]- **Relaciones Matemáticas** 📐
+> [!note] **Relaciones Matemáticas** 📐
 > 
 > ### Derivadas:
 > 
@@ -88,7 +88,7 @@
 
 ## 🎯 Estrategias de Resolución
 
-> [!tip]- **Método GARI (Gráfica-Análisis-Rotación-Interpretación)** 🧠
+> [!tip] **Método GARI (Gráfica-Análisis-Rotación-Interpretación)** 🧠
 > 
 > ### **G**ráfica - Identifica el tipo rotacional
 > 
@@ -116,7 +116,7 @@
 
 ## 📚 Problemas Tipo
 
-> [!example]- **Problema 1: Análisis de Gráfica θ-t** 🎡
+> [!example] **Problema 1: Análisis de Gráfica θ-t** 🎡
 > 
 > ### Enunciado:
 > 
@@ -141,7 +141,7 @@
 > 
 > **Velocidad angular promedio**: ω̄ = 0/9 = 0 rad/s **Desplazamiento angular total**: 0 rad (regresa a la posición inicial)
 
-> [!example]- **Problema 2: De la Gráfica ω-t a la θ-t** 🔄
+> [!example] **Problema 2: De la Gráfica ω-t a la θ-t** 🔄
 > 
 > ### Enunciado:
 > 
@@ -164,7 +164,7 @@
 > 
 > La gráfica θ-t será una parábola.
 
-> [!example]- **Problema 3: Análisis Rotacional Completo** 🌀
+> [!example] **Problema 3: Análisis Rotacional Completo** 🌀
 > 
 > ### Enunciado:
 > 
@@ -181,11 +181,11 @@
 
 ## 🧮 Técnicas de Memorización
 
-> [!tip]- **Mnemotecnia: "ROTA"** 🔄 **R**adianes → **O**mega es derivada de **T**heta → **A**lfa es derivada **R**otación → **O**bserva pendientes → **T**iempo en eje-x → **A**rea da cambios **R**evoluciones → **O**rden: θ, ω, α → **T**orque causa α → **A**celeración angular
+> [!tip] **Mnemotecnia: "ROTA"** 🔄 **R**adianes → **O**mega es derivada de **T**heta → **A**lfa es derivada **R**otación → **O**bserva pendientes → **T**iempo en eje-x → **A**rea da cambios **R**evoluciones → **O**rden: θ, ω, α → **T**orque causa α → **A**celeración angular
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- **Confusiones Frecuentes** ⚠️
+> [!warning] **Confusiones Frecuentes** ⚠️
 > 
 > 1. **Confundir unidades**: radianes vs grados, rad/s vs rpm
 > 2. **Ignorar el sentido de rotación** (horario vs antihorario)
@@ -195,7 +195,7 @@
 
 ## 🎯 Aplicaciones Prácticas
 
-> [!info]- **Ejemplos del Mundo Real** 🌍
+> [!info] **Ejemplos del Mundo Real** 🌍
 > 
 > ### Maquinaria:
 > 
@@ -223,7 +223,7 @@
 
 ## 🔄 Conversiones y Equivalencias
 
-> [!note]- **Unidades Angulares Importantes** 📏
+> [!note] **Unidades Angulares Importantes** 📏
 > 
 > ### Conversiones Básicas:
 > 
@@ -241,7 +241,7 @@
 
 ## 📖 Referencias
 
-> [!quote]- **Notas Relacionadas**
+> [!quote] **Notas Relacionadas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/01 - Cinemática/Cinemática Rotacional\|Cinemática Rotacional]] - Fundamentos teóricos
 > - [[Universidad/1er Semestre/Física Mecanica/02 - Dinámica/Dinámica de Rotación/Momento de Inercia\|Momento de Inercia]] - Propiedades rotacionales
@@ -250,7 +250,7 @@
 
 ## 📚 Notas Recomendadas
 
-> [!note]- **Prerrequisitos**
+> [!note] **Prerrequisitos**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Manejo de magnitudes vectoriales
 > - [[Universidad/1er Semestre/Física Mecanica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Sistema de unidades

@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué son los Extremos Relativos?
+> [!info] 💡 ¿Qué son los Extremos Relativos?
 > 
 > Los **extremos relativos** (o locales) son puntos donde una función alcanza valores máximos o mínimos en comparación con los puntos cercanos. Son fundamentales para optimización y análisis de funciones.
 > 
@@ -47,7 +47,7 @@ graph TB
     style F fill:#f0f0f0
 ```
 
-> [!tip]- 🎯 ¿Por Qué Estudiar Extremos?
+> [!tip] 🎯 ¿Por Qué Estudiar Extremos?
 > 
 > **✅ Aplicaciones prácticas:**
 > 
@@ -71,7 +71,7 @@ graph TB
 
 ### 📋 Definición
 
-> [!info]- 📐 ¿Qué es un Punto Crítico?
+> [!info] 📐 ¿Qué es un Punto Crítico?
 > 
 > Un punto **(a, b)** es **crítico** para f(x,y) si:
 > 
@@ -89,7 +89,7 @@ graph TB
 
 ### 🛠️ Cómo Encontrar Puntos Críticos
 
-> [!example]- ✏️ Procedimiento Estándar
+> [!example] ✏️ Procedimiento Estándar
 > 
 > **Paso 1: Calcular el gradiente** $$\nabla f(x,y) = \left(\frac{\partial f}{\partial x}, \frac{\partial f}{\partial y}\right)$$
 > 
@@ -112,7 +112,7 @@ graph TB
 > 
 > **Punto crítico:** (1, 2)
 
-> [!example]- 🎯 Ejemplo con Múltiples Puntos Críticos
+> [!example] 🎯 Ejemplo con Múltiples Puntos Críticos
 > 
 > **Función:** f(x,y) = x³ - 3x + y²
 > 
@@ -137,7 +137,7 @@ graph TB
 
 ### 📊 Matriz Hessiana
 
-> [!info]- 🔢 La Matriz Hessiana
+> [!info] 🔢 La Matriz Hessiana
 > 
 > La **matriz Hessiana** contiene todas las segundas derivadas parciales:
 > 
@@ -151,7 +151,7 @@ graph TB
 
 ### 🔬 Discriminante (Determinante de la Hessiana)
 
-> [!success]- ✅ El Criterio Decisivo
+> [!success] ✅ El Criterio Decisivo
 > 
 > En un punto crítico (a,b), calculamos:
 > 
@@ -170,7 +170,7 @@ graph TB
 > 
 > **Nota:** Cuando D > 0, también puedes usar fyy en lugar de fxx para determinar el tipo.
 
-> [!tip]- 💡 Mnemónica del Criterio
+> [!tip] 💡 Mnemónica del Criterio
 > 
 > **Recordatorio fácil:**
 > 
@@ -188,7 +188,7 @@ graph TB
 
 ### 📋 Pasos para Encontrar y Clasificar Extremos
 
-> [!example]- 🔧 Método Sistemático
+> [!example] 🔧 Método Sistemático
 > 
 > **PASO 1: Encontrar puntos críticos**
 > 
@@ -212,7 +212,7 @@ graph TB
 
 ### 🌟 Ejemplo Completo Desarrollado
 
-> [!example]- 📐 Ejemplo Detallado: f(x,y) = x² + y² - 2x - 4y + 5
+> [!example] 📐 Ejemplo Detallado: f(x,y) = x² + y² - 2x - 4y + 5
 > 
 > **PASO 1: Puntos críticos**
 > 
@@ -250,7 +250,7 @@ graph TB
 > 
 > **Valor en el mínimo:** $$f(1,2) = 1² + 2² - 2(1) - 4(2) + 5 = 1 + 4 - 2 - 8 + 5 = 0$$
 
-> [!example]- 🎨 Ejemplo con Punto Silla: f(x,y) = x² - y²
+> [!example] 🎨 Ejemplo con Punto Silla: f(x,y) = x² - y²
 > 
 > **PASO 1: Puntos críticos**
 > 
@@ -287,7 +287,7 @@ graph TB
 > - En la dirección y: la función baja (parábola -y²)
 > - Parece una silla de montar en el origen
 
-> [!example]- 🔥 Ejemplo Complejo: f(x,y) = x³ - 3xy²
+> [!example] 🔥 Ejemplo Complejo: f(x,y) = x³ - 3xy²
 > 
 > **PASO 1: Puntos críticos**
 > 
@@ -344,7 +344,7 @@ graph TB
 
 ### 🔍 Funciones Cuadráticas
 
-> [!tip]- 📊 Forma Canónica
+> [!tip] 📊 Forma Canónica
 > 
 > Para funciones de la forma: $$f(x,y) = ax² + bxy + cy² + dx + ey + f$$
 > 
@@ -367,7 +367,7 @@ graph TB
 > |4ac - b² < 0|Paraboloide hiperbólico (silla)|
 > |4ac - b² = 0|Degenerado (cilindro parabólico)|
 
-> [!example]- 🎯 Ejemplo Rápido de Cuadrática
+> [!example] 🎯 Ejemplo Rápido de Cuadrática
 > 
 > f(x,y) = 2x² + xy + 3y² - 4x - 6y + 10
 > 
@@ -381,7 +381,7 @@ graph TB
 
 ### 🌀 Puntos de Frontera
 
-> [!warning]- ⚠️ Extremos en la Frontera
+> [!warning] ⚠️ Extremos en la Frontera
 > 
 > **Importante:** El criterio de la segunda derivada solo aplica a **puntos interiores**.
 > 
@@ -410,7 +410,7 @@ graph TB
 
 ### 🌐 Funciones f(x,y,z)
 
-> [!info]- 🔵 Generalización a ℝ³
+> [!info] 🔵 Generalización a ℝ³
 > 
 > **Punto crítico en 3D:** $$\nabla f(a,b,c) = \mathbf{0} \iff \begin{cases} f_x(a,b,c) = 0 \ f_y(a,b,c) = 0 \ f_z(a,b,c) = 0 \end{cases}$$
 > 
@@ -430,7 +430,7 @@ graph TB
 > |D₁ < 0, D₂ > 0, D₃ < 0|**Máximo relativo**|
 > |Signos alternados diferentes|**Punto silla**|
 
-> [!example]- 📊 Ejemplo en 3D
+> [!example] 📊 Ejemplo en 3D
 > 
 > f(x,y,z) = x² + 2y² + 3z²
 > 
@@ -458,7 +458,7 @@ graph TB
 
 ### 💰 Optimización de Beneficios
 
-> [!example]- 📈 Problema de Maximización de Ganancias
+> [!example] 📈 Problema de Maximización de Ganancias
 > 
 > **Contexto:** Una empresa produce dos productos P₁ y P₂.
 > 
@@ -514,7 +514,7 @@ graph TB
 
 ### 🏗️ Diseño Óptimo
 
-> [!example]- 📦 Minimización de Costos de Material
+> [!example] 📦 Minimización de Costos de Material
 > 
 > **Problema:** Diseñar una caja rectangular abierta (sin tapa) con volumen 32 m³ que minimice el área de material.
 > 
@@ -560,7 +560,7 @@ graph TB
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- 🚫 Errores Frecuentes a Evitar
+> [!warning] 🚫 Errores Frecuentes a Evitar
 > 
 > **1. Olvidar verificar TODOS los puntos críticos**
 > 
@@ -612,7 +612,7 @@ graph TB
 
 ## ✅ Resumen de Fórmulas
 
-> [!summary]- 📋 Referencia Rápida
+> [!summary] 📋 Referencia Rápida
 > 
 > **Condición de punto crítico:** $$\nabla f(a,b) = \mathbf{0} \iff \begin{cases} f_x(a,b) = 0 \ f_y(a,b) = 0 \end{cases}$$
 > 
@@ -639,7 +639,7 @@ graph TB
 
 ## 🎓 Ejercicios Propuestos
 
-> [!question]- 💪 Práctica
+> [!question] 💪 Práctica
 > 
 > **Ejercicio 1:** Encuentra y clasifica los extremos de f(x,y) = x² + y² + 2x - 4y + 1
 > 
@@ -684,7 +684,7 @@ mindmap
       Física
 ```
 
-> [!quote]- 💡 Puntos Clave
+> [!quote] 💡 Puntos Clave
 > 
 > - **Punto crítico** = Donde el gradiente se anula o no existe
 > - **Hessiana** = Matriz de segundas derivadas (curvatura)

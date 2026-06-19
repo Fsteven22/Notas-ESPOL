@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Por qué son importantes las Operaciones No Convencionales?
+> [!info] 💡 ¿Por qué son importantes las Operaciones No Convencionales?
 > 
 > Hasta ahora hemos trabajado con las operaciones **estándar** de suma y multiplicación por escalar en espacios vectoriales. Pero, ¿qué sucede cuando nos dan **definiciones diferentes** de estas operaciones?
 > 
@@ -48,7 +48,7 @@
 
 ### Clasificación General
 
-> [!note]- 📊 Categorías Principales
+> [!note] 📊 Categorías Principales
 > 
 > ### Tipo 1: Suma Modificada (Multiplicación Estándar)
 > 
@@ -104,7 +104,7 @@
 
 ### Procedimiento Sistemático
 
-> [!example]- 🔬 Protocolo de Verificación
+> [!example] 🔬 Protocolo de Verificación
 > 
 > **Para determinar si $(V, \oplus, \odot)$ es espacio vectorial:**
 > 
@@ -168,7 +168,7 @@
 
 ### Ejemplo 1: Suma con Desplazamiento
 
-> [!example]- 🔍 Análisis Completo
+> [!example] 🔍 Análisis Completo
 > 
 > **Definición:** En $\mathbb{R}^2$, definir:
 > 
@@ -245,7 +245,7 @@
 
 ### Ejemplo 2: Multiplicación por Potencia
 
-> [!example]- 🔍 Análisis Completo
+> [!example] 🔍 Análisis Completo
 > 
 > **Definición:** En $\mathbb{R}$, definir:
 > 
@@ -287,7 +287,7 @@
 
 ### Ejemplo 3: Producto como Suma
 
-> [!example]- 🔍 Análisis Completo
+> [!example] 🔍 Análisis Completo
 > 
 > **Definición:** En $\mathbb{R}^+$ (números positivos), definir:
 > 
@@ -375,7 +375,7 @@
 
 ### Ejemplo 4: Suma Componente a Componente Modificada
 
-> [!example]- 🔍 Análisis Completo
+> [!example] 🔍 Análisis Completo
 > 
 > **Definición:** En $\mathbb{R}^2$, definir:
 > 
@@ -439,7 +439,7 @@
 
 ### Ranking de Vulnerabilidad
 
-> [!warning]- ⚠️ Puntos Débiles Comunes
+> [!warning] ⚠️ Puntos Débiles Comunes
 > 
 > ### 1. Distributividad (M3 y M4) - 40% de fallas
 > 
@@ -526,7 +526,7 @@
 
 ### Técnicas Eficientes
 
-> [!tip]- 💡 Atajos y Trucos
+> [!tip] 💡 Atajos y Trucos
 > 
 > ### Estrategia 1: Verificar Candidatos a "Cero"
 > 
@@ -574,7 +574,7 @@
 > ---
 > 
 > ### Estrategia 4: Usar Propiedades Algebraicas Conocidas
-> [!tip]- 🎓 Aprovecha Estructuras Familiares
+> [!tip] 🎓 Aprovecha Estructuras Familiares
 > 
 > **Reconocer operaciones logarítmicas/exponenciales:**
 > 
@@ -630,7 +630,7 @@
 
 ## 📊 Tabla de Verificación Rápida
 
-> [!note]- 📋 Checklist Completo
+> [!note] 📋 Checklist Completo
 > 
 > |Axioma|Nombre|Expresión|Prioridad|Dificultad|
 > |---|---|---|---|---|
@@ -659,7 +659,7 @@
 
 ### Ejemplo 5: Matrices con Suma Especial
 
-> [!example]- 🔍 Matrices 2×2
+> [!example] 🔍 Matrices 2×2
 > 
 > **Definición:** En $M_{2 \times 2}$, definir:
 > 
@@ -731,7 +731,7 @@
 
 ### Ejemplo 6: Enteros con Operaciones Estándar
 
-> [!example]- 🔍 Restricción de Dominio
+> [!example] 🔍 Restricción de Dominio
 > 
 > **Definición:** En $\mathbb{Z}$ (enteros), definir:
 > 
@@ -769,7 +769,7 @@
 
 ### Ejemplo 7: Funciones Positivas
 
-> [!example]- 🔍 Espacio de Funciones
+> [!example] 🔍 Espacio de Funciones
 > 
 > **Definición:** Sea $V = {f: \mathbb{R} \to \mathbb{R}^+ : f(x) > 0 \text{ para todo } x}$
 > 
@@ -823,7 +823,7 @@
 
 ### Ejemplo 8: Vectores con Primera Componente Positiva
 
-> [!example]- 🔍 Subconjunto de $\mathbb{R}^2$
+> [!example] 🔍 Subconjunto de $\mathbb{R}^2$
 > 
 > **Definición:** Sea $V = \left{\begin{bmatrix} x \ y \end{bmatrix} \in \mathbb{R}^2 : x > 0\right}$
 > 
@@ -869,7 +869,7 @@
 
 ### Ejercicios Nivel Básico
 
-> [!example]- 💪 Práctica Fundamental
+> [!example] 💪 Práctica Fundamental
 > 
 > **1. Determinar si es espacio vectorial:**
 > 
@@ -915,7 +915,7 @@
 
 ### Ejercicios Nivel Intermedio
 
-> [!example]- 💪 Desafío Moderado
+> [!example] 💪 Desafío Moderado
 > 
 > **4. Análisis completo:**
 > 
@@ -971,7 +971,7 @@
 
 ### Ejercicios Nivel Avanzado
 
-> [!example]- 💪 Desafío Avanzado
+> [!example] 💪 Desafío Avanzado
 > 
 > **7. Matrices especiales:**
 > 
@@ -1035,7 +1035,7 @@
 
 ### Soluciones Nivel Básico
 
-> [!success]- 🔑 Respuestas Nivel 1
+> [!success] 🔑 Respuestas Nivel 1
 > 
 > **1a)** $x \oplus y = x + y + 3$, $c \odot x = cx + 3c$
 > 
@@ -1141,7 +1141,7 @@
 
 ### Soluciones Nivel Intermedio
 
-> [!success]- 🔑 Respuestas Nivel 2
+> [!success] 🔑 Respuestas Nivel 2
 > 
 > **4.** Operaciones mixtas en componentes
 > 
@@ -1296,7 +1296,7 @@
 
 ### Soluciones Nivel Avanzado
 
-> [!success]- 🔑 Respuestas Nivel 3
+> [!success] 🔑 Respuestas Nivel 3
 > 
 > **7.** Matrices invertibles con producto
 > 
@@ -1506,7 +1506,7 @@
 
 ### Reconocimiento Rápido
 
-> [!tip]- 🔍 Patrones que Indican NO es Espacio Vectorial
+> [!tip] 🔍 Patrones que Indican NO es Espacio Vectorial
 > 
 > ### Patrón 1: Operaciones no lineales "sueltas"
 > 
@@ -1558,7 +1558,7 @@
 
 ### Patrones que SÍ Funcionan
 
-> [!tip]- ✅ Estructuras que Garantizan Espacio Vectorial
+> [!tip] ✅ Estructuras que Garantizan Espacio Vectorial
 > 
 > ### Patrón A: Traslación uniforme
 > 
@@ -1616,7 +1616,7 @@
 
 ## 🌟 Conceptos Clave para Recordar
 
-> [!tip]- 💡 Puntos Esenciales
+> [!tip] 💡 Puntos Esenciales
 > 
 > ### Sobre Verificación de Axiomas
 > 
@@ -1714,7 +1714,7 @@
 
 ## 📖 Resumen Ejecutivo
 
-> [!summary]- 📋 Lo Esencial en 5 Minutos
+> [!summary] 📋 Lo Esencial en 5 Minutos
 > 
 > ### ¿Qué son las operaciones no convencionales?
 > 
@@ -1794,7 +1794,7 @@
 
 ## 🔗 Relaciones con Otros Temas
 
-> [!quote]- 🌐 Conexiones Conceptuales
+> [!quote] 🌐 Conexiones Conceptuales
 > 
 > ### Prerequisitos:
 > 
@@ -1854,7 +1854,7 @@
 
 ## 🎓 Guía de Estudio
 
-> [!tip]- 📖 Estrategia de Aprendizaje
+> [!tip] 📖 Estrategia de Aprendizaje
 > 
 > ### Nivel 1: Comprensión Básica
 > 
@@ -1958,7 +1958,7 @@
 
 # 💡 Problemas Desafío
 
-> [!example]- 🏆 Para Pensar Profundamente
+> [!example] 🏆 Para Pensar Profundamente
 > 
 > ## Problema 1: Construcción Específica
 > 
@@ -2266,7 +2266,7 @@
 
 ## ✨ Reflexión Final
 
-> [!quote]- 💭 La Naturaleza de las Operaciones
+> [!quote] 💭 La Naturaleza de las Operaciones
 > 
 > ### Lo que hemos aprendido
 > 
@@ -2341,7 +2341,7 @@
 
 ## 🎯 Próximos Pasos
 
-> [!tip]- 📚 Plan de Acción
+> [!tip] 📚 Plan de Acción
 > 
 > ### Para consolidar este tema:
 > 

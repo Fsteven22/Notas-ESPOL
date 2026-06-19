@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es el Cambio de Variables? El **Teorema de Cambio de Variables** (también llamado **transformación de coordenadas**) es una técnica fundamental en cálculo multivariable que permite simplificar integrales dobles complejas mediante la transformación del dominio de integración a un sistema de coordenadas más conveniente.
+> [!info] 💡 ¿Qué es el Cambio de Variables? El **Teorema de Cambio de Variables** (también llamado **transformación de coordenadas**) es una técnica fundamental en cálculo multivariable que permite simplificar integrales dobles complejas mediante la transformación del dominio de integración a un sistema de coordenadas más conveniente.
 > 
 > **Analogía práctica:** Imagina que necesitas calcular el área de un terreno circular. Puedes intentar hacerlo con coordenadas rectangulares (x, y), dividiendo el círculo en pequeños rectángulos, o usar coordenadas polares (r, θ) donde el círculo se describe naturalmente. El segundo enfoque es mucho más simple.
 > 
@@ -47,7 +47,7 @@ graph TB
 
 ### 🔄 Transformaciones de Coordenadas
 
-> [!example]- 🌀 ¿Qué es una Transformación?
+> [!example] 🌀 ¿Qué es una Transformación?
 > 
 > Una **transformación de coordenadas** es una función que mapea puntos de un sistema de coordenadas a otro. Matemáticamente, es una función vectorial:
 > 
@@ -107,7 +107,7 @@ graph TB
 
 ### 📐 El Jacobiano
 
-> [!note]- 🎲 Factor de Corrección de Área
+> [!note] 🎲 Factor de Corrección de Área
 > 
 > El **Jacobiano** es el factor que corrige cómo se distorsionan las áreas (o volúmenes) bajo una transformación. Mide la "tasa de cambio de área" local.
 > 
@@ -192,7 +192,7 @@ graph TB
 
 ### 📜 Enunciado Formal
 
-> [!success]- 📋 Teorema Principal
+> [!success] 📋 Teorema Principal
 > 
 > Sea T: S → R una transformación uno a uno desde una región S en el plano uv hacia una región R en el plano xy, dada por:
 > 
@@ -264,7 +264,7 @@ graph TB
 
 ### 🎯 Aplicación Práctica del Teorema
 
-> [!tip]- 🛠️ Procedimiento Paso a Paso
+> [!tip] 🛠️ Procedimiento Paso a Paso
 > 
 > **Algoritmo general:**
 > 
@@ -376,7 +376,7 @@ graph TB
 
 ### 🔵 Definición y Propiedades
 
-> [!info]- 📐 Sistema Polar
+> [!info] 📐 Sistema Polar
 > 
 > Las **coordenadas polares** (r, θ) describen puntos en el plano mediante:
 > 
@@ -431,7 +431,7 @@ graph TB
 
 ### ⚙️ Jacobiano en Coordenadas Polares
 
-> [!example]- 🎲 Cálculo del Factor de Corrección
+> [!example] 🎲 Cálculo del Factor de Corrección
 > 
 > **Derivación del Jacobiano:**
 > 
@@ -504,7 +504,7 @@ graph TB
 
 ### 🎯 Cuándo Usar Coordenadas Polares
 
-> [!tip]- ✅ Criterios de Selección
+> [!tip] ✅ Criterios de Selección
 > 
 > **Señales de que polares simplifican el problema:**
 > 
@@ -572,7 +572,7 @@ graph TB
 
 ### 📏 Transformaciones Lineales
 
-> [!note]- 🔀 Cambios de Variables Lineales
+> [!note] 🔀 Cambios de Variables Lineales
 > 
 > Una **transformación lineal** tiene la forma:
 > 
@@ -642,7 +642,7 @@ graph TB
 
 ### 🎨 Transformaciones Personalizadas
 
-> [!example]- 🛠️ Diseñar Transformaciones a Medida
+> [!example] 🛠️ Diseñar Transformaciones a Medida
 > 
 > **Estrategia para crear transformaciones:**
 > 
@@ -719,7 +719,7 @@ graph TB
 
 ### 🗺️ Mapa Mental de Decisiones
 
-> [!tip]- 🧭 Guía Completa para Elegir Método
+> [!tip] 🧭 Guía Completa para Elegir Método
 > 
 > ```mermaid
 > flowchart TD
@@ -771,7 +771,7 @@ graph TB
 
 ### 📋 Checklist de Resolución
 
-> [!success]- ✅ Pasos Sistemáticos
+> [!success] ✅ Pasos Sistemáticos
 > 
 > **Protocolo completo:**
 > 
@@ -842,7 +842,7 @@ graph TB
 
 ### 📝 Ejemplo 1: Coordenadas Polares Básico
 
-> [!example]- 🎯 Área de Círculo
+> [!example] 🎯 Área de Círculo
 > 
 > **Problema:** Calcular el área del círculo x² + y² ≤ 9
 > 
@@ -893,7 +893,7 @@ graph TB
 
 ### 📝 Ejemplo 2: Función con x² + y²
 
-> [!example]- 🎯 Integral con Exponencial
+> [!example] 🎯 Integral con Exponencial
 > 
 > **Problema:** Calcular ∬_R e^√(x²+y²) dA donde R: 0 ≤ x² + y² ≤ 4, x ≥ 0, y ≥ 0
 > 
@@ -937,7 +937,7 @@ graph TB
 
 ### 📝 Ejemplo 3: Transformación a Elipse
 
-> [!example]- 🎯 Integral sobre Elipse
+> [!example] 🎯 Integral sobre Elipse
 > 
 > **Problema:** Calcular ∬_R (x² + y²) dA donde R: (x/2)² + (y/3)² ≤ 1
 > 
@@ -1000,7 +1000,7 @@ graph TB
 
 ### 🚫 Errores Frecuentes
 
-> [!warning]- ❌ Equivocaciones Típicas
+> [!warning] ❌ Equivocaciones Típicas
 > 
 > **Tabla de errores:**
 > 
@@ -1050,7 +1050,7 @@ graph TB
 
 ### ✅ Buenas Prácticas
 
-> [!success]- 🏆 Recomendaciones Profesionales
+> [!success] 🏆 Recomendaciones Profesionales
 > 
 > **Lista de verificación:**
 > 
@@ -1111,7 +1111,7 @@ graph TB
 
 ### 📚 Nivel Básico
 
-> [!example]- 💪 Práctica Inicial
+> [!example] 💪 Práctica Inicial
 > 
 > **Ejercicio 1:** Calcular el área del círculo x² + y² ≤ 16 usando coordenadas polares
 > 
@@ -1125,7 +1125,7 @@ graph TB
 
 ### 📚 Nivel Intermedio
 
-> [!example]- 💪 Desafíos Intermedios
+> [!example] 💪 Desafíos Intermedios
 > 
 > **Ejercicio 6:** Calcular ∬_R e^(-(x²+y²)) dA donde R: x² + y² ≤ 4
 > 
@@ -1139,7 +1139,7 @@ graph TB
 
 ### 📚 Nivel Avanzado
 
-> [!example]- 💪 Problemas Desafiantes
+> [!example] 💪 Problemas Desafiantes
 > 
 > **Ejercicio 11:** Usar cambio de variables u = x + y, v = x - y para calcular ∬_R e^(x+y) dA donde R es el cuadrado con vértices (0,0), (1,1), (0,2), (-1,1)
 > 
@@ -1155,7 +1155,7 @@ graph TB
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Continuando el Aprendizaje
+> [!quote] 🌟 Continuando el Aprendizaje
 > 
 > **Has dominado:**
 > 
@@ -1263,7 +1263,7 @@ graph TB
 
 ### 📋 Tabla Resumen
 
-> [!success]- 📊 Referencia Rápida
+> [!success] 📊 Referencia Rápida
 > 
 > **Transformaciones comunes:**
 > 

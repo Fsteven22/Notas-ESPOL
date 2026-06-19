@@ -56,7 +56,7 @@
 > Masa:        m = ρ × V
 > ```
 
-> [!example]- Aplicación Práctica 🧮
+> [!example] Aplicación Práctica 🧮
 > 
 > ### Ejemplo Rápido
 > 
@@ -77,7 +77,7 @@
 > - 🚢 Analizar condiciones de flotación
 > - 📏 Resolver problemas de equilibrio en fluidos
 
-> [!tip]- Conexión con Otros Conceptos 🔗
+> [!tip] Conexión con Otros Conceptos 🔗
 > 
 > ### En Problemas de Flotación
 > 

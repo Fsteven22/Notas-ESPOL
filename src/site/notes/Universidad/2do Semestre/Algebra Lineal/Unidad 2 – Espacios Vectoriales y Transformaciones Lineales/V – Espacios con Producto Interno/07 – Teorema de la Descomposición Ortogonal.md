@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es el Teorema de la Descomposición Ortogonal?
+> [!info] 💡 ¿Qué es el Teorema de la Descomposición Ortogonal?
 > 
 > El **Teorema de la Descomposición Ortogonal** es uno de los resultados fundamentales del álgebra lineal. Establece que cualquier vector en un espacio vectorial puede descomponerse de manera única en dos componentes perpendiculares: una que pertenece a un subespacio dado y otra que es ortogonal a ese subespacio.
 > 
@@ -61,7 +61,7 @@ graph TB
 
 ### 📐 Espacios y Subespacios
 
-> [!example]- 🔢 Conceptos Preliminares
+> [!example] 🔢 Conceptos Preliminares
 > 
 > **Definición de subespacio:**
 > 
@@ -134,7 +134,7 @@ graph TB
 
 ### ⊥ Complemento Ortogonal
 
-> [!note]- 📝 Definición y Propiedades
+> [!note] 📝 Definición y Propiedades
 > 
 > **Definición:**
 > 
@@ -227,7 +227,7 @@ graph TB
 
 ### 🎯 Proyecciones Ortogonales
 
-> [!success]- 📊 Proyección sobre Subespacios
+> [!success] 📊 Proyección sobre Subespacios
 > 
 > **Definición:**
 > 
@@ -328,7 +328,7 @@ graph TB
 
 ### 🎓 Enunciado Formal
 
-> [!example]- 📐 Teorema de la Descomposición Ortogonal
+> [!example] 📐 Teorema de la Descomposición Ortogonal
 > 
 > **Teorema:**
 > 
@@ -383,7 +383,7 @@ graph TB
 
 ### 🔍 Demostración
 
-> [!note]- 📝 Prueba del Teorema
+> [!note] 📝 Prueba del Teorema
 > 
 > **Demostración completa:**
 > 
@@ -470,7 +470,7 @@ graph TB
 
 ### 🎯 Consecuencias Importantes
 
-> [!tip]- 💡 Corolarios y Aplicaciones Directas
+> [!tip] 💡 Corolarios y Aplicaciones Directas
 > 
 > **Corolario 1: Mejor aproximación**
 > 
@@ -537,7 +537,7 @@ graph TB
 
 ### 📊 Usando Base Ortogonal
 
-> [!example]- 🔢 Procedimiento Paso a Paso
+> [!example] 🔢 Procedimiento Paso a Paso
 > 
 > **Método cuando W tiene base ortogonal:**
 > 
@@ -618,7 +618,7 @@ graph TB
 
 ### 🔄 Usando Base Ortonormal
 
-> [!success]- ⚡ Simplificación con Vectores Unitarios
+> [!success] ⚡ Simplificación con Vectores Unitarios
 > 
 > **Ventaja:** Si la base es ortonormal, los cálculos se simplifican considerablemente.
 > 
@@ -687,7 +687,7 @@ graph TB
 
 ### 📐 Gram-Schmidt
 
-> [!tip]- 🔄 Ortonormalización Previa
+> [!tip] 🔄 Ortonormalización Previa
 > 
 > **Proceso de Gram-Schmidt:**
 > 
@@ -774,7 +774,7 @@ graph TB
 
 ### 📉 Problema de Mínimos Cuadrados
 
-> [!example]- 📊 Mejor Ajuste Lineal
+> [!example] 📊 Mejor Ajuste Lineal
 > 
 > **Problema:**
 > 
@@ -856,7 +856,7 @@ graph TB
 
 ### 📡 Procesamiento de Señales
 
-> [!success]- 🎵 Series de Fourier y Descomposición
+> [!success] 🎵 Series de Fourier y Descomposición
 > 
 > **Concepto:**
 > 
@@ -910,7 +910,7 @@ graph TB
 
 ### 🖼️ Compresión de Imágenes
 
-> [!tip]- 📸 JPEG y DCT
+> [!tip] 📸 JPEG y DCT
 > 
 > **Transformada Discreta del Coseno (DCT):**
 > 
@@ -970,7 +970,7 @@ graph TB
 
 ### 📝 Ejercicios Básicos
 
-> [!example]- 🎯 Cálculos Fundamentales
+> [!example] 🎯 Cálculos Fundamentales
 > 
 > **Ejercicio 1: Proyección sobre el eje x**
 > 
@@ -1043,7 +1043,7 @@ graph TB
 
 ### 🧮 Ejercicios Intermedios
 
-> [!note]- 📊 Aplicaciones y Descomposiciones
+> [!note] 📊 Aplicaciones y Descomposiciones
 > 
 > **Ejercicio 4: Gram-Schmidt y proyección**
 > 
@@ -1112,7 +1112,7 @@ graph TB
 
 ### 🔬 Problemas Avanzados
 
-> [!tip]- 🎓 Teoría y Demostraciones
+> [!tip] 🎓 Teoría y Demostraciones
 > 
 > **Problema 6: Complemento del complemento**
 > 
@@ -1192,7 +1192,7 @@ graph TB
 
 ## 📚 Resumen y Conclusiones
 
-> [!success]- 🎯 Puntos Clave
+> [!success] 🎯 Puntos Clave
 > 
 > **Teorema fundamental:**
 > 

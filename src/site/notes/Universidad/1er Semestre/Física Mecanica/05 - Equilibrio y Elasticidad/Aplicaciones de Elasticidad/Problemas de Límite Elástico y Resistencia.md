@@ -7,11 +7,11 @@
 
 > [!quote] "La resistencia de un material no se mide solo por su capacidad de soportar fuerzas, sino por su habilidad de volver a su forma original cuando la adversidad cesa." 🔧
 
-> [!info]- El límite elástico y la resistencia de los materiales son conceptos fundamentales en la ingeniería y la física aplicada. Estos parámetros determinan las condiciones límite bajo las cuales un material puede operar sin sufrir deformaciones permanentes o fallas estructurales, siendo cruciales para el diseño seguro de estructuras y componentes.
+> [!info] El límite elástico y la resistencia de los materiales son conceptos fundamentales en la ingeniería y la física aplicada. Estos parámetros determinan las condiciones límite bajo las cuales un material puede operar sin sufrir deformaciones permanentes o fallas estructurales, siendo cruciales para el diseño seguro de estructuras y componentes.
 
 ## 🎯 Conceptos Fundamentales
 
-> [!info]- **Límite Elástico** 🔄
+> [!info] **Límite Elástico** 🔄
 > 
 > ### Definición:
 > 
@@ -33,7 +33,7 @@
 > |Cobre|33-400|110|
 > |Concreto|20-40|30|
 
-> [!tip]- **Resistencia del Material** 💪
+> [!tip] **Resistencia del Material** 💪
 > 
 > ### Tipos de Resistencia:
 > 
@@ -62,7 +62,7 @@
 > σᵤₜ ≈ σᵤᶜ > σₑ (para materiales dúctiles)
 > ```
 
-> [!warning]- **Factor de Seguridad** ⚠️
+> [!warning] **Factor de Seguridad** ⚠️
 > 
 > ### Definición:
 > 
@@ -104,7 +104,7 @@
 >     style F fill:#ffcdd2
 > ```
 
-> [!note]- **Relaciones Matemáticas** 📐
+> [!note] **Relaciones Matemáticas** 📐
 > 
 > ### Ley de Hooke (Región Elástica):
 > 
@@ -130,7 +130,7 @@
 
 ## 🎯 Estrategias de Resolución
 
-> [!tip]- **Método SERF (Seguridad-Esfuerzo-Resistencia-Factor)** 🛡️
+> [!tip] **Método SERF (Seguridad-Esfuerzo-Resistencia-Factor)** 🛡️
 > 
 > ### **S**eguridad - Identifica el tipo de análisis
 > 
@@ -158,7 +158,7 @@
 
 ## 📚 Problemas Tipo
 
-> [!example]- **Problema 1: Análisis de Cable** 🔗
+> [!example] **Problema 1: Análisis de Cable** 🔗
 > 
 > ### Enunciado:
 > 
@@ -184,7 +184,7 @@
 > 
 > **Conclusión**: Es seguro (FS > 2 para ambos casos)
 
-> [!example]- **Problema 2: Diseño de Columna** 🏗️
+> [!example] **Problema 2: Diseño de Columna** 🏗️
 > 
 > ### Enunciado:
 > 
@@ -206,7 +206,7 @@
 > 
 > **Respuesta**: d ≥ 40.3 cm
 
-> [!example]- **Problema 3: Análisis de Viga en Flexión** 📏
+> [!example] **Problema 3: Análisis de Viga en Flexión** 📏
 > 
 > ### Enunciado:
 > 
@@ -231,13 +231,13 @@
 
 ## 🧮 Técnicas de Memorización
 
-> [!tip]- **Mnemotecnia: "FRESA"** 🍓
+> [!tip] **Mnemotecnia: "FRESA"** 🍓
 > 
 > **F**actor de seguridad = Resistencia/Esfuerzo **R**esistencia > Límite elástico **E**sfuerzo = Fuerza/Área **S**eguridad aumenta con FS mayor **A**nálisis requiere propiedades del material
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- **Confusiones Frecuentes** ⚠️
+> [!warning] **Confusiones Frecuentes** ⚠️
 > 
 > 1. **Confundir límite elástico con resistencia última**
 > 2. **No considerar el tipo de esfuerzo** (tracción vs compresión)
@@ -249,7 +249,7 @@
 
 ## 🎯 Aplicaciones Prácticas
 
-> [!info]- **Ejemplos del Mundo Real** 🌍
+> [!info] **Ejemplos del Mundo Real** 🌍
 > 
 > ### Construcción:
 > 
@@ -277,7 +277,7 @@
 
 ## 📊 Datos de Referencia
 
-> [!note]- **Propiedades Típicas de Materiales**
+> [!note] **Propiedades Típicas de Materiales**
 > 
 > ### Metales:
 > 
@@ -300,7 +300,7 @@
 
 ## 📖 Referencias
 
-> [!quote]- **Notas Relacionadas**
+> [!quote] **Notas Relacionadas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/05 - Equilibrio y Elasticidad/Elasticidad\|Elasticidad]] - Fundamentos teóricos
 > - [[Universidad/1er Semestre/Física Mecanica/05 - Equilibrio y Elasticidad/Aplicaciones de Elasticidad/Problemas de Deformación por Tensión y Compresión (Ley de Hooke)\|Problemas de Deformación por Tensión y Compresión (Ley de Hooke)]] - Aplicaciones básicas
@@ -309,7 +309,7 @@
 
 ## 📚 Notas Recomendadas
 
-> [!note]- **Prerrequisitos**
+> [!note] **Prerrequisitos**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para análisis de fuerzas
 > - [[Universidad/1er Semestre/Física Mecanica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Sistema de unidades

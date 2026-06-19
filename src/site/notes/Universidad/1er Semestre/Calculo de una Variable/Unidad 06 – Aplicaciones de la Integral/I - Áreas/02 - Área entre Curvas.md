@@ -5,23 +5,23 @@
 
 # 📏 Área entre Curvas
 
-> [!info]- 💡 **Concepto Central** El área entre curvas es una extensión natural del concepto de área bajo una curva. Se calcula como la diferencia entre las integrales de las funciones que delimitan la región, considerando cuál función está "arriba" y cuál está "abajo" en cada intervalo.
+> [!info] 💡 **Concepto Central** El área entre curvas es una extensión natural del concepto de área bajo una curva. Se calcula como la diferencia entre las integrales de las funciones que delimitan la región, considerando cuál función está "arriba" y cuál está "abajo" en cada intervalo.
 
 ## 🎯 Definición Fundamental
 
-> [!tip]- 🏆 **Fórmula Básica para Área entre Curvas** Si $f(x) \geq g(x)$ para todo $x \in [a,b]$, entonces el área de la región limitada por las curvas $y = f(x)$ y $y = g(x)$ desde $x = a$ hasta $x = b$ es:
+> [!tip] 🏆 **Fórmula Básica para Área entre Curvas** Si $f(x) \geq g(x)$ para todo $x \in [a,b]$, entonces el área de la región limitada por las curvas $y = f(x)$ y $y = g(x)$ desde $x = a$ hasta $x = b$ es:
 > 
 > $$A = \int_a^b [f(x) - g(x)] dx$$
 > 
 > donde $f(x)$ es la **función superior** y $g(x)$ es la **función inferior**.
 
-> [!warning]- ⚠️ **Condición Importante** La fórmula anterior solo es válida cuando $f(x) \geq g(x)$ en todo el intervalo $[a,b]$. Si las funciones se cruzan, hay que dividir la región en subintervalos.
+> [!warning] ⚠️ **Condición Importante** La fórmula anterior solo es válida cuando $f(x) \geq g(x)$ en todo el intervalo $[a,b]$. Si las funciones se cruzan, hay que dividir la región en subintervalos.
 
 ## 🔍 Metodología General
 
 ### 📋 Proceso Paso a Paso
 
-> [!info]- 🔧 **Algoritmo para Calcular Áreas entre Curvas**
+> [!info] 🔧 **Algoritmo para Calcular Áreas entre Curvas**
 > 
 > **Paso 1**: Identificar las funciones $f(x)$ y $g(x)$
 > 
@@ -57,7 +57,7 @@
 
 ### 🔬 Ejemplo 1: Funciones sin Intersección
 
-> [!tip]- 📈 **Área entre $f(x) = x^2 + 1$ y $g(x) = x^2 - 1$ en $[0,2]$**
+> [!tip] 📈 **Área entre $f(x) = x^2 + 1$ y $g(x) = x^2 - 1$ en $[0,2]$**
 > 
 > **Paso 1**: Identificar cuál está arriba Para cualquier $x$: $f(x) = x^2 + 1 > x^2 - 1 = g(x)$ ✓
 > 
@@ -67,7 +67,7 @@
 
 ### 🔬 Ejemplo 2: Parábola y Recta con Intersecciones
 
-> [!tip]- 📈 **Área entre $f(x) = 6 - x^2$ y $g(x) = x + 4$**
+> [!tip] 📈 **Área entre $f(x) = 6 - x^2$ y $g(x) = x + 4$**
 > 
 > **Paso 1**: Encontrar intersecciones $$6 - x^2 = x + 4$$ $$2 - x^2 = x$$ $$x^2 + x - 2 = 0$$ $$(x + 2)(x - 1) = 0$$ $$x = -2 \text{ o } x = 1$$
 > 
@@ -77,7 +77,7 @@
 
 ### 🔬 Ejemplo 3: Funciones que se Cruzan Múltiples Veces
 
-> [!warning]- 🔄 **Área entre $f(x) = \sin(x)$ y $g(x) = \cos(x)$ en $[0,2\pi]$**
+> [!warning] 🔄 **Área entre $f(x) = \sin(x)$ y $g(x) = \cos(x)$ en $[0,2\pi]$**
 > 
 > **Paso 1**: Encontrar intersecciones $$\sin(x) = \cos(x) \Rightarrow \tan(x) = 1$$ $$x = \frac{\pi}{4}, \frac{5\pi}{4} \text{ en } [0,2\pi]$$
 > 
@@ -97,27 +97,27 @@
 
 ### 🔄 Funciones con Signos Diferentes
 
-> [!info]- ➕➖ **Cuando una función es positiva y otra negativa** Si $f(x) \geq 0$ y $g(x) \leq 0$ en $[a,b]$, entonces: $$A = \int_a^b f(x) dx + \int_a^b |g(x)| dx = \int_a^b f(x) dx - \int_a^b g(x) dx$$
+> [!info] ➕➖ **Cuando una función es positiva y otra negativa** Si $f(x) \geq 0$ y $g(x) \leq 0$ en $[a,b]$, entonces: $$A = \int_a^b f(x) dx + \int_a^b |g(x)| dx = \int_a^b f(x) dx - \int_a^b g(x) dx$$
 
 ### 🪞 Regiones Simétricas
 
-> [!tip]- 🔍 **Aprovechando Simetrías** Si la región es simétrica respecto al eje $y$ y las funciones son pares: $$A = 2\int_0^a [f(x) - g(x)] dx$$
+> [!tip] 🔍 **Aprovechando Simetrías** Si la región es simétrica respecto al eje $y$ y las funciones son pares: $$A = 2\int_0^a [f(x) - g(x)] dx$$
 > 
 > Si las funciones son impares y la región es simétrica, pueden cancelarse términos.
 
 ### 🔄 Intercambio de Roles
 
-> [!warning]- 🔄 **Cuando las funciones intercambian posiciones** En algunos intervalos $f(x) \geq g(x)$ y en otros $g(x) \geq f(x)$. En este caso: $$A = \sum_i \int_{x_i}^{x_{i+1}} |f(x) - g(x)| dx$$
+> [!warning] 🔄 **Cuando las funciones intercambian posiciones** En algunos intervalos $f(x) \geq g(x)$ y en otros $g(x) \geq f(x)$. En este caso: $$A = \sum_i \int_{x_i}^{x_{i+1}} |f(x) - g(x)| dx$$
 
 ## 🌍 Áreas con Respecto al Eje Y
 
 ### 📊 Integración Respecto a Y
 
-> [!tip]- 🔄 **Área entre curvas $x = f(y)$ y $x = g(y)$** Si $f(y) \geq g(y)$ para $y \in [c,d]$, entonces: $$A = \int_c^d [f(y) - g(y)] dy$$
+> [!tip] 🔄 **Área entre curvas $x = f(y)$ y $x = g(y)$** Si $f(y) \geq g(y)$ para $y \in [c,d]$, entonces: $$A = \int_c^d [f(y) - g(y)] dy$$
 
 ### 🔬 Ejemplo: Rotación de Perspectiva
 
-> [!info]- 📈 **Área entre $x = y^2$ y $x = 2y$ desde $y = 0$ hasta $y = 2$**
+> [!info] 📈 **Área entre $x = y^2$ y $x = 2y$ desde $y = 0$ hasta $y = 2$**
 > 
 > **Paso 1**: Verificar cuál función está a la derecha Para $y \in [0,2]$: comparar $y^2$ y $2y$
 > 
@@ -129,7 +129,7 @@
 
 ### 🎯 Elección del Eje de Integración
 
-> [!tip]- 💡 **Cuándo integrar respecto a $x$ vs $y$**
+> [!tip] 💡 **Cuándo integrar respecto a $x$ vs $y$**
 > 
 > **Integrar respecto a $x$ cuando:**
 > 
@@ -169,7 +169,7 @@
 
 ### 🔄 Regiones Complejas
 
-> [!warning]- 🧩 **Dividir Regiones Complejas** Para regiones que no pueden describirse con una sola integral:
+> [!warning] 🧩 **Dividir Regiones Complejas** Para regiones que no pueden describirse con una sola integral:
 > 
 > 1. **Identificar subregiones** donde la relación entre funciones es constante
 > 2. **Calcular área de cada subregión** por separado
@@ -181,7 +181,7 @@
 
 ### 📊 Verificación Gráfica
 
-> [!info]- 👁️ **Importancia de la Visualización** Siempre es recomendable graficar las funciones para:
+> [!info] 👁️ **Importancia de la Visualización** Siempre es recomendable graficar las funciones para:
 > 
 > - Verificar puntos de intersección
 > - Confirmar cuál función está arriba
@@ -190,7 +190,7 @@
 
 ### 🧮 Técnicas Numéricas
 
-> [!tip]- 💻 **Cuando no hay solución analítica** Para intersecciones complejas o integrales difíciles:
+> [!tip] 💻 **Cuando no hay solución analítica** Para intersecciones complejas o integrales difíciles:
 > 
 > - Métodos numéricos para encontrar raíces
 > - Integración numérica (Simpson, trapecios)
@@ -200,25 +200,25 @@
 
 ### 🗛️ Ingeniería Civil
 
-> [!info]- 🗛️ **Cálculo de Áreas de Terrenos** Para terrenos limitados por curvas de nivel o carreteras curvas: $$A = \int_a^b [f_{\text{superior}}(x) - f_{\text{inferior}}(x)] dx$$
+> [!info] 🗛️ **Cálculo de Áreas de Terrenos** Para terrenos limitados por curvas de nivel o carreteras curvas: $$A = \int_a^b [f_{\text{superior}}(x) - f_{\text{inferior}}(x)] dx$$
 
 ### 💊 Farmacología
 
-> [!tip]- 💊 **Biodisponibilidad de Medicamentos** La diferencia en concentración entre dos formulaciones: $$\text{Diferencia AUC} = \int_0^T [C_1(t) - C_2(t)] dt$$ donde $C_1(t)$ y $C_2(t)$ son las concentraciones en sangre.
+> [!tip] 💊 **Biodisponibilidad de Medicamentos** La diferencia en concentración entre dos formulaciones: $$\text{Diferencia AUC} = \int_0^T [C_1(t) - C_2(t)] dt$$ donde $C_1(t)$ y $C_2(t)$ son las concentraciones en sangre.
 
 ### 🌊 Hidrología
 
-> [!warning]- 🌊 **Cálculo de Volúmenes de Agua** Para embalses con perfiles variables: $$V = \int_0^h A(z) dz$$ donde $A(z)$ es el área de la sección transversal a altura $z$.
+> [!warning] 🌊 **Cálculo de Volúmenes de Agua** Para embalses con perfiles variables: $$V = \int_0^h A(z) dz$$ donde $A(z)$ es el área de la sección transversal a altura $z$.
 
 ## 🧠 Técnica de Estudio: Método PICAF
 
-> [!tip]- 🎓 **Mnemotecnia PICAF para áreas entre curvas**
+> [!tip] 🎓 **Mnemotecnia PICAF para áreas entre curvas**
 > 
 > **P**untos de intersección: Resolver $f(x) = g(x)$ **I**ntervalos: Dividir el dominio según los cruces **C**omparar: Determinar cuál función está arriba en cada intervalo **A**plicar: Usar la fórmula $\int |f(x) - g(x)| dx$ **F**inalizar: Sumar las áreas de todos los intervalos
 
 ### 🔍 Lista de Verificación
 
-> [!info]- ✅ **Checklist para Áreas entre Curvas**
+> [!info] ✅ **Checklist para Áreas entre Curvas**
 > 
 > - [ ] ¿Identifiqué todas las intersecciones?
 > - [ ] ¿Verifiqué cuál función está arriba en cada intervalo?
@@ -229,7 +229,7 @@
 
 ### 🧪 Ejemplo Completo con PICAF
 
-> [!example]- 📈 **Problema**: Encontrar el área entre $f(x) = x^2$ y $g(x) = 2x - x^2$
+> [!example] 📈 **Problema**: Encontrar el área entre $f(x) = x^2$ y $g(x) = 2x - x^2$
 > 
 > **🎯 Aplicando PICAF paso a paso:**
 > 
@@ -255,7 +255,7 @@
 > 
 ## ⚠️ Errores Comunes y Precauciones
 
-> [!warning]- 🚨 **Errores Frecuentes**
+> [!warning] 🚨 **Errores Frecuentes**
 > 
 > 1. **No encontrar todas las intersecciones**:
 > 
@@ -292,7 +292,7 @@
 
 ### 🔍 Casos Problemáticos
 
-> [!info]- ⚠️ **Situaciones que requieren atención especial**
+> [!info] ⚠️ **Situaciones que requieren atención especial**
 > 
 > **Tangencias**: Cuando las curvas se tocan pero no se cruzan **Asíntotas**: Límites de integración que tienden a infinito **Discontinuidades**: Funciones con saltos en el intervalo **Funciones implícitas**: Cuando es difícil despejar $y$ o $x$
 
@@ -300,15 +300,15 @@
 
 ### 🌀 Coordenadas Polares
 
-> [!tip]- 🌀 **Área entre curvas en coordenadas polares** Para curvas $r = f(\theta)$ y $r = g(\theta)$ con $f(\theta) \geq g(\theta)$: $$A = \frac{1}{2}\int_\alpha^\beta [f(\theta)]^2 - [g(\theta)]^2 d\theta$$
+> [!tip] 🌀 **Área entre curvas en coordenadas polares** Para curvas $r = f(\theta)$ y $r = g(\theta)$ con $f(\theta) \geq g(\theta)$: $$A = \frac{1}{2}\int_\alpha^\beta [f(\theta)]^2 - [g(\theta)]^2 d\theta$$
 
 ### 🎯 Coordenadas Paramétricas
 
-> [!info]- 🔍 **Curvas paramétricas** Para curvas dadas paramétricamente, convertir a forma rectangular o usar: $$A = \int y , dx = \int y(t) x'(t) dt$$
+> [!info] 🔍 **Curvas paramétricas** Para curvas dadas paramétricamente, convertir a forma rectangular o usar: $$A = \int y , dx = \int y(t) x'(t) dt$$
 
 ### 🔄 Aplicación del Teorema de Green
 
-> [!warning]- 🌊 **Cálculo de áreas usando Teorema de Green** $$A = \oint_C x , dy = -\oint_C y , dx = \frac{1}{2}\oint_C (x , dy - y , dx)$$
+> [!warning] 🌊 **Cálculo de áreas usando Teorema de Green** $$A = \oint_C x , dy = -\oint_C y , dx = \frac{1}{2}\oint_C (x , dy - y , dx)$$
 
 ---
 

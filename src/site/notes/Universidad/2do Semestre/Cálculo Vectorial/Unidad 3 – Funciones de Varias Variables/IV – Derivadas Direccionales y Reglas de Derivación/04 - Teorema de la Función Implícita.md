@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción y Motivación
 
-> [!info]- 💡 ¿Por qué necesitamos este teorema?
+> [!info] 💡 ¿Por qué necesitamos este teorema?
 > En matemáticas frecuentemente encontramos relaciones entre variables que no están expresadas explícitamente como y = f(x), sino de forma implícita como F(x,y) = 0.
 > 
 > **Ejemplos cotidianos:**
@@ -27,7 +27,7 @@
 
 ### 🔍 Función Implícita vs Explícita
 
-> [!note]- 📊 Diferencias Fundamentales
+> [!note] 📊 Diferencias Fundamentales
 > **Función Explícita:**
 > - Forma: y = f(x)
 > - y está despejada en términos de x
@@ -60,7 +60,7 @@
 
 ### 🧮 Derivadas Parciales
 
-> [!warning]- ∂ Notación y Significado
+> [!warning] ∂ Notación y Significado
 > Para una función F(x,y):
 > 
 > **Derivada parcial respecto a x:**
@@ -89,7 +89,7 @@
 
 ### 🎯 Condiciones de Regularidad
 
-> [!success]- ✅ Requisitos para el Teorema
+> [!success] ✅ Requisitos para el Teorema
 > Para aplicar el Teorema de la Función Implícita necesitamos:
 > 
 > **1. Continuidad:**
@@ -112,7 +112,7 @@
 
 ### 🔶 Versión Básica (Dos Variables)
 
-> [!warning]- 🎓 Teorema de la Función Implícita (2D)
+> [!warning] 🎓 Teorema de la Función Implícita (2D)
 > **Sea F: ℝ² → ℝ una función de clase C¹ (derivadas parciales continuas).**
 > 
 > **Supongamos que:**
@@ -138,7 +138,7 @@
 
 ### 🔷 Interpretación Geométrica
 
-> [!example]- 🎨 Visualización del Teorema
+> [!example] 🎨 Visualización del Teorema
 > **Situación geométrica:**
 > 
 > ```
@@ -179,7 +179,7 @@
 
 ### 📐 Derivación de la Fórmula
 
-> [!tip]- 🔍 ¿De dónde sale dy/dx = -Fₓ/Fᵧ?
+> [!tip] 🔍 ¿De dónde sale dy/dx = -Fₓ/Fᵧ?
 > **Método: Diferenciación implícita**
 > 
 > Si F(x, y(x)) = 0 para todo x, entonces derivando ambos lados:
@@ -208,7 +208,7 @@
 
 ### 📊 Ejemplos Detallados
 
-> [!example]- 🎯 Aplicaciones Paso a Paso
+> [!example] 🎯 Aplicaciones Paso a Paso
 > **Ejemplo 1: Círculo**
 > 
 > Dada la ecuación: x² + y² = 25
@@ -277,7 +277,7 @@
 
 ### 📈 Segunda Derivada Implícita
 
-> [!note]- 📊 Cálculo de d²y/dx²
+> [!note] 📊 Cálculo de d²y/dx²
 > Para encontrar la segunda derivada cuando F(x,y) = 0:
 > 
 > **Método:**
@@ -303,7 +303,7 @@
 
 ### 🎯 Ejemplo de Segunda Derivada
 
-> [!example]- 🔍 Caso Práctico
+> [!example] 🔍 Caso Práctico
 > **Para el círculo x² + y² = 25**
 > 
 > Ya sabemos: dy/dx = -x/y
@@ -337,7 +337,7 @@
 
 ### 🔶 Teorema en ℝ³
 
-> [!warning]- 🎓 Generalización a 3D
+> [!warning] 🎓 Generalización a 3D
 > **Sea F: ℝ³ → ℝ una función de clase C¹**
 > 
 > **Supongamos que:**
@@ -360,7 +360,7 @@
 
 ### 📊 Ejemplos en Tres Variables
 
-> [!example]- 🎯 Aplicaciones 3D
+> [!example] 🎯 Aplicaciones 3D
 > **Ejemplo 1: Esfera**
 > 
 > Dada: x² + y² + z² = 25
@@ -404,7 +404,7 @@
 
 ### 🔷 Teorema para Sistemas
 
-> [!note]- 🔢 Múltiples Ecuaciones
+> [!note] 🔢 Múltiples Ecuaciones
 > **Consideremos el sistema:**
 > ```
 > F(x, y, u, v) = 0
@@ -436,7 +436,7 @@
 
 ### 🎯 Ejemplo de Sistema
 
-> [!example]- 🔍 Caso Práctico
+> [!example] 🔍 Caso Práctico
 > **Sistema:**
 > ```
 > F: x² + u² + v² = 1
@@ -469,7 +469,7 @@
 
 ### 🔬 En Optimización
 
-> [!success]- 📈 Optimización con Restricciones
+> [!success] 📈 Optimización con Restricciones
 > **Problema:** Optimizar f(x,y) sujeto a g(x,y) = 0
 > 
 > **Método de sustitución:**
@@ -495,7 +495,7 @@
 
 ### ⚙️ En Ecuaciones Diferenciales
 
-> [!info]- 🔄 EDOs Implícitas
+> [!info] 🔄 EDOs Implícitas
 > Muchas EDOs se presentan implícitamente:
 > ```
 > F(x, y, y') = 0
@@ -520,7 +520,7 @@
 
 ### 🌐 En Geometría Diferencial
 
-> [!tip]- 📐 Superficies y Curvas
+> [!tip] 📐 Superficies y Curvas
 > **Superficies de nivel:**
 > F(x,y,z) = c define una superficie
 > 
@@ -538,7 +538,7 @@
 
 ### 🚫 Cuándo NO aplica el teorema
 
-> [!warning]- ❌ Casos de Falla
+> [!warning] ❌ Casos de Falla
 > **1. Derivada parcial nula:**
 > 
 > Si ∂F/∂y = 0 en el punto, el teorema no garantiza nada
@@ -570,7 +570,7 @@
 
 ### ✅ Verificación de Hipótesis
 
-> [!tip]- 🔍 Lista de Verificación
+> [!tip] 🔍 Lista de Verificación
 > Antes de aplicar el TFI, verificar:
 > 
 > **□ 1. F es de clase C¹**
@@ -614,7 +614,7 @@ graph TD
 
 ## 🧪 Ejercicios Resueltos
 
-> [!example]- 💪 Práctica Completa
+> [!example] 💪 Práctica Completa
 > **Nivel 1 - Básico:** 🟢
 > 
 > **Ejercicio 1:**
@@ -720,7 +720,7 @@ graph TD
 
 ## 📊 Tabla Resumen
 
-> [!example]- 📋 Compendio del Teorema
+> [!example] 📋 Compendio del Teorema
 > 
 > |Aspecto|Descripción|Fórmula/Condición|
 > |---|---|---|
@@ -737,7 +737,7 @@ graph TD
 
 ## 🔗 Conexiones Conceptuales
 
-> [!quote]- 🌟 Enlaces con Otros Temas
+> [!quote] 🌟 Enlaces con Otros Temas
 > 
 > **Prerequisites:**
 > - [[Universidad/1er Semestre/Física Mecanica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Herramientas Matemáticas/Derivadas Parciales\|Derivadas Parciales]] - Base del cálculo multivariable
@@ -762,7 +762,7 @@ graph TD
 
 ## 💡 Errores Comunes y Consejos
 
-> [!tip]- 🧠 Guía de Estudio
+> [!tip] 🧠 Guía de Estudio
 > **Errores frecuentes:**
 > 
 > ❌ **Error 1:** Olvidar verificar ∂F/∂y ≠ 0

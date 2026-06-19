@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es una Matriz Diagonalizable? Una **matriz diagonalizable** es aquella que puede transformarse en una matriz diagonal mediante un cambio de base apropiado. Es decir, una matriz que es **semejante a una matriz diagonal**. Esta propiedad es fundamental porque las matrices diagonales son extremadamente fáciles de trabajar.
+> [!info] 💡 ¿Qué es una Matriz Diagonalizable? Una **matriz diagonalizable** es aquella que puede transformarse en una matriz diagonal mediante un cambio de base apropiado. Es decir, una matriz que es **semejante a una matriz diagonal**. Esta propiedad es fundamental porque las matrices diagonales son extremadamente fáciles de trabajar.
 > 
 > **Analogía práctica:** Imagina un sistema complejo de ecuaciones interconectadas:
 > 
@@ -56,7 +56,7 @@ graph TB
 
 ### 🎯 Definición Formal
 
-> [!note]- 📋 ¿Qué Significa Ser Diagonalizable?
+> [!note] 📋 ¿Qué Significa Ser Diagonalizable?
 > 
 > **Definición:**
 > 
@@ -87,7 +87,7 @@ graph TB
 
 ### 🔑 Teorema Fundamental
 
-> [!success]- ⭐ Condición Necesaria y Suficiente
+> [!success] ⭐ Condición Necesaria y Suficiente
 > 
 > **Teorema:**
 > 
@@ -158,7 +158,7 @@ flowchart TD
 
 ### ✅ Condiciones Suficientes
 
-> [!tip]- 🎯 Cuándo Una Matriz ES Diagonalizable
+> [!tip] 🎯 Cuándo Una Matriz ES Diagonalizable
 > 
 > **Criterio 1: Valores propios distintos**
 > 
@@ -203,7 +203,7 @@ flowchart TD
 
 ### ❌ Condiciones de NO Diagonalización
 
-> [!warning]- 🚫 Cuándo Una Matriz NO ES Diagonalizable
+> [!warning] 🚫 Cuándo Una Matriz NO ES Diagonalizable
 > 
 > **Señales de que A NO es diagonalizable:**
 > 
@@ -259,7 +259,7 @@ flowchart TD
 
 ### 📐 Método Paso a Paso
 
-> [!example]- 🎯 Algoritmo Completo
+> [!example] 🎯 Algoritmo Completo
 > 
 > **Entrada:** Matriz $A \in \mathbb{M}_{n \times n}$
 > 
@@ -326,7 +326,7 @@ flowchart TD
 
 ### 💡 Ejemplo Completo 2×2
 
-> [!example]- 📝 Diagonalización Detallada
+> [!example] 📝 Diagonalización Detallada
 > 
 > **Problema:** Diagonalizar
 > 
@@ -411,7 +411,7 @@ flowchart TD
 
 ### 🎲 Ejemplo Completo 3×3
 
-> [!example]- 📝 Caso con Valor Propio Repetido
+> [!example] 📝 Caso con Valor Propio Repetido
 > 
 > **Problema:** Diagonalizar
 > 
@@ -505,7 +505,7 @@ flowchart TD
 
 ### 📊 Potencias de Matrices
 
-> [!tip]- ⚡ Cálculo Eficiente de $A^n$
+> [!tip] ⚡ Cálculo Eficiente de $A^n$
 > 
 > **Propiedad fundamental:**
 > 
@@ -563,7 +563,7 @@ flowchart TD
 
 ### 🔄 Sistemas de Ecuaciones Diferenciales
 
-> [!success]- 📈 Resolución de EDOs Lineales
+> [!success] 📈 Resolución de EDOs Lineales
 > 
 > **Sistema lineal homogéneo:**
 > 
@@ -614,7 +614,7 @@ flowchart TD
 
 ### 🌊 Cadenas de Markov
 
-> [!note]- 🎲 Análisis de Procesos Estocásticos
+> [!note] 🎲 Análisis de Procesos Estocásticos
 > 
 > **Matriz de transición P:**
 > 
@@ -665,7 +665,7 @@ mindmap
 
 ### Tabla de Referencia Rápida
 
-> [!quote]- 📚 Guía Práctica
+> [!quote] 📚 Guía Práctica
 > 
 > **Checklist de diagonalización:**
 > 
@@ -691,7 +691,7 @@ mindmap
 
 ## 🎓 Ejercicios Resueltos Avanzados
 
-> [!example]- 💪 Ejercicio 1: Matriz 3×3 con Valor Propio Triple
+> [!example] 💪 Ejercicio 1: Matriz 3×3 con Valor Propio Triple
 > 
 > **Problema:** Determinar si es diagonalizable:
 > 
@@ -728,7 +728,7 @@ mindmap
 >     [0  0  2]
 > ```
 
-> [!example]- 💪 Ejercicio 2: Aplicación a Fibonacci
+> [!example] 💪 Ejercicio 2: Aplicación a Fibonacci
 > 
 > **Problema:** Usar diagonalización para encontrar fórmula cerrada de Fibonacci.
 > 
@@ -780,7 +780,7 @@ mindmap
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Continuando el Aprendizaje
+> [!quote] 🌟 Continuando el Aprendizaje
 > 
 > **Progresión natural:**
 > 

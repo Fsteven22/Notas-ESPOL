@@ -7,7 +7,7 @@
 
 ## 🎯 Fundamentos de las Superficies Cilíndricas
 
-> [!info]- 💡 Introducción a las Superficies Cilíndricas Las **superficies cilíndricas** son superficies generadas por una recta (llamada generatriz) que se mueve paralelamente a sí misma a lo largo de una curva (llamada directriz). Estas superficies tienen la característica especial de que su ecuación en ℝ³ involucra solo dos de las tres coordenadas cartesianas.
+> [!info] 💡 Introducción a las Superficies Cilíndricas Las **superficies cilíndricas** son superficies generadas por una recta (llamada generatriz) que se mueve paralelamente a sí misma a lo largo de una curva (llamada directriz). Estas superficies tienen la característica especial de que su ecuación en ℝ³ involucra solo dos de las tres coordenadas cartesianas.
 > 
 > **Analogías útiles:**
 > 
@@ -25,7 +25,7 @@
 
 ### 📐 Definición Formal
 
-> [!note]- 🌟 Concepto Matemático **Definición:** Una **superficie cilíndrica** es el conjunto de todas las rectas paralelas a una dirección fija que pasan por una curva dada.
+> [!note] 🌟 Concepto Matemático **Definición:** Una **superficie cilíndrica** es el conjunto de todas las rectas paralelas a una dirección fija que pasan por una curva dada.
 > 
 > **Componentes:**
 > 
@@ -43,7 +43,7 @@
 
 ### 🔍 Generación de Superficies Cilíndricas
 
-> [!example]- 🎨 Construcción Geométrica **Proceso de generación:**
+> [!example] 🎨 Construcción Geométrica **Proceso de generación:**
 > 
 > 1. **Definir la directriz:** Curva C en un plano (usualmente xy, xz, o yz)
 > 2. **Elegir dirección del eje:** Vector director $\vec{v}$ para las generatrices
@@ -64,7 +64,7 @@
 
 ### 📏 Definición y Ecuación
 
-> [!success]- 🟢 Cilindro Circular Básico **Definición:** Un **cilindro circular** es una superficie cilíndrica cuya directriz es una circunferencia.
+> [!success] 🟢 Cilindro Circular Básico **Definición:** Un **cilindro circular** es una superficie cilíndrica cuya directriz es una circunferencia.
 > 
 > **Ecuación canónica (eje paralelo a Z):** $$x^2 + y^2 = r^2$$
 > 
@@ -85,7 +85,7 @@
 
 ### 🔄 Cilindros Circulares Trasladados
 
-> [!tip]- 🎯 Cilindros Descentrados **Forma general (eje paralelo a Z):** $$(x - h)^2 + (y - k)^2 = r^2$$
+> [!tip] 🎯 Cilindros Descentrados **Forma general (eje paralelo a Z):** $$(x - h)^2 + (y - k)^2 = r^2$$
 > 
 > donde $(h, k)$ es el centro de la circunferencia directriz en el plano xy.
 > 
@@ -103,7 +103,7 @@
 
 ### ✅ Ejemplos de Cilindros Circulares
 
-> [!example]- 💪 Casos Prácticos **Ejemplo 1 - Cilindro básico:**
+> [!example] 💪 Casos Prácticos **Ejemplo 1 - Cilindro básico:**
 > 
 > - Ecuación: $x^2 + y^2 = 16$
 > - Radio: $r = 4$
@@ -136,7 +136,7 @@
 
 ### 📐 Definición y Ecuación
 
-> [!warning]- 🟡 Cilindro con Sección Elíptica **Definición:** Un **cilindro elíptico** es una superficie cilíndrica cuya directriz es una elipse.
+> [!warning] 🟡 Cilindro con Sección Elíptica **Definición:** Un **cilindro elíptico** es una superficie cilíndrica cuya directriz es una elipse.
 > 
 > **Ecuación canónica (eje paralelo a Z):** $$\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$$
 > 
@@ -158,7 +158,7 @@
 
 ### 🔄 Propiedades del Cilindro Elíptico
 
-> [!note]- 📋 Características Geométricas **Secciones transversales:**
+> [!note] 📋 Características Geométricas **Secciones transversales:**
 > 
 > - Perpendiculares al eje: Elipses congruentes con semiejes a y b
 > - Paralelas al eje: Rectángulos o pares de rectas paralelas
@@ -176,7 +176,7 @@
 
 ### ✅ Ejemplos de Cilindros Elípticos
 
-> [!example]- 🎨 Aplicaciones **Ejemplo 1 - Cilindro elíptico estándar:**
+> [!example] 🎨 Aplicaciones **Ejemplo 1 - Cilindro elíptico estándar:**
 > 
 > - Ecuación: $\frac{x^2}{9} + \frac{y^2}{4} = 1$
 > - Semiejes: $a = 3, b = 2$
@@ -206,7 +206,7 @@
 
 ### 📐 Definición y Ecuación
 
-> [!info]- 🔵 Cilindro con Directriz Parabólica **Definición:** Un **cilindro parabólico** es una superficie cilíndrica cuya directriz es una parábola.
+> [!info] 🔵 Cilindro con Directriz Parabólica **Definición:** Un **cilindro parabólico** es una superficie cilíndrica cuya directriz es una parábola.
 > 
 > **Ecuación canónica (eje paralelo a Z):** $$y = ax^2$$ o equivalentemente: $$x^2 = \frac{y}{a}$$
 > 
@@ -228,7 +228,7 @@
 
 ### 🔄 Tipos y Orientaciones
 
-> [!tip]- 🎯 Variaciones del Cilindro Parabólico **Según el signo de a:**
+> [!tip] 🎯 Variaciones del Cilindro Parabólico **Según el signo de a:**
 > 
 > **Caso 1: a > 0**
 > 
@@ -259,7 +259,7 @@
 
 ### 🔍 Propiedades del Cilindro Parabólico
 
-> [!note]- 📋 Características Especiales **Secciones planas:**
+> [!note] 📋 Características Especiales **Secciones planas:**
 > 
 > 1. **Perpendiculares al eje:** Parábolas congruentes
 > 2. **Paralelas al eje y perpendiculares al plano de simetría:** Rectas paralelas
@@ -284,7 +284,7 @@
 
 ### ✅ Ejemplos de Cilindros Parabólicos
 
-> [!example]- 💼 Casos Ilustrativos **Ejemplo 1 - Parábola básica:**
+> [!example] 💼 Casos Ilustrativos **Ejemplo 1 - Parábola básica:**
 > 
 > - Ecuación: $y = x^2$
 > - Parámetro: $a = 1$
@@ -324,7 +324,7 @@
 
 ### 📏 Definición y Ecuación
 
-> [!warning]- 🟠 Cilindro con Directriz Hiperbólica **Definición:** Un **cilindro hiperbólico** es una superficie cilíndrica cuya directriz es una hipérbola.
+> [!warning] 🟠 Cilindro con Directriz Hiperbólica **Definición:** Un **cilindro hiperbólico** es una superficie cilíndrica cuya directriz es una hipérbola.
 > 
 > **Ecuación canónica (eje paralelo a Z):** $$\frac{x^2}{a^2} - \frac{y^2}{b^2} = 1$$
 > 
@@ -349,7 +349,7 @@
 
 ### 🔄 Estructura del Cilindro Hiperbólico
 
-> [!note]- 📋 Componentes y Propiedades **Ramas:**
+> [!note] 📋 Componentes y Propiedades **Ramas:**
 > 
 > - **Primera rama:** $x \geq a$ (región derecha)
 > - **Segunda rama:** $x \leq -a$ (región izquierda)
@@ -376,7 +376,7 @@
 
 ### 🎲 Tipos de Cilindros Hiperbólicos
 
-> [!tip]- 🔀 Variaciones **Cilindro hiperbólico de una hoja:**
+> [!tip] 🔀 Variaciones **Cilindro hiperbólico de una hoja:**
 > 
 > - Ecuación: $\frac{x^2}{a^2} - \frac{y^2}{b^2} = 1$
 > - Término positivo en x²
@@ -402,7 +402,7 @@
 
 ### ✅ Ejemplos de Cilindros Hiperbólicos
 
-> [!example]- 🌉 Aplicaciones y Casos **Ejemplo 1 - Hipérbola estándar:**
+> [!example] 🌉 Aplicaciones y Casos **Ejemplo 1 - Hipérbola estándar:**
 > 
 > - Ecuación: $\frac{x^2}{9} - \frac{y^2}{4} = 1$
 > - Parámetros: $a = 3, b = 2$
@@ -442,7 +442,7 @@
 
 ### ✂️ Secciones con Planos Coordenados
 
-> [!info]- 📐 Curvas de Intersección Para determinar la forma de una superficie cilíndrica, es útil analizar sus intersecciones con planos:
+> [!info] 📐 Curvas de Intersección Para determinar la forma de una superficie cilíndrica, es útil analizar sus intersecciones con planos:
 > 
 > **Intersección con planos perpendiculares al eje:**
 > 
@@ -465,7 +465,7 @@
 
 ### 🎯 Secciones con Planos Arbitrarios
 
-> [!tip]- 🔪 Curvas de Intersección General **Plano general:** $Ax + By + Cz + D = 0$
+> [!tip] 🔪 Curvas de Intersección General **Plano general:** $Ax + By + Cz + D = 0$
 > 
 > **Casos según orientación:**
 > 
@@ -492,7 +492,7 @@
 
 ### ✅ Ejemplos de Intersecciones
 
-> [!example]- 🎨 Casos Resueltos **Ejemplo 1 - Cilindro circular con plano vertical:**
+> [!example] 🎨 Casos Resueltos **Ejemplo 1 - Cilindro circular con plano vertical:**
 > 
 > - Cilindro: $x^2 + y^2 = 9$
 > - Plano: $x = 2$
@@ -519,7 +519,7 @@
 
 ## 📊 Tabla Resumen de Cilindros
 
-> [!note]- 📋 Compendio de Superficies Cilíndricas
+> [!note] 📋 Compendio de Superficies Cilíndricas
 > 
 > |Tipo|Ecuación (eje ∥ Z)|Directriz|Características|
 > |---|---|---|---|
@@ -574,7 +574,7 @@ graph TD
 
 ### 📋 Algoritmo de Identificación
 
-> [!tip]- 🎯 Método Sistemático **Paso 1: Verificar si es cilíndrica**
+> [!tip] 🎯 Método Sistemático **Paso 1: Verificar si es cilíndrica**
 > 
 > - Observar si falta una de las tres variables (x, y, o z)
 > - Si falta una variable → es una superficie cilíndrica
@@ -608,7 +608,7 @@ graph TD
 
 ### 🧩 Ejercicios de Identificación
 
-> [!example]- 💪 Práctica Guiada **Ejercicio 1:**
+> [!example] 💪 Práctica Guiada **Ejercicio 1:**
 > 
 > - Ecuación: $x^2 + z^2 = 25$
 > - Variable ausente: y
@@ -657,7 +657,7 @@ graph TD
 
 ### 📐 Parametrización General
 
-> [!success]- 🟢 Ecuaciones Paramétricas **Cilindro circular (eje ∥ Z):** $$\vec{r}(u, v) = (r\cos u, r\sin u, v)$$
+> [!success] 🟢 Ecuaciones Paramétricas **Cilindro circular (eje ∥ Z):** $$\vec{r}(u, v) = (r\cos u, r\sin u, v)$$
 > 
 > donde:
 > 
@@ -691,7 +691,7 @@ graph TD
 
 ### 🎨 Ventajas de la Parametrización
 
-> [!note]- 📋 Utilidades Computacionales **Ventajas:**
+> [!note] 📋 Utilidades Computacionales **Ventajas:**
 > 
 > 1. **Visualización 3D:**
 >     - Fácil generación de puntos para graficar
@@ -709,7 +709,7 @@ graph TD
 
 ### 💻 Implementación en Python
 
-> [!example]- 🐍 Código para Visualización
+> [!example] 🐍 Código para Visualización
 > 
 > ```python
 > import numpy as np
@@ -823,7 +823,7 @@ graph TD
 
 ### 🏗️ Ingeniería Estructural
 
-> [!warning]- 🏛️ Diseño de Estructuras **Bóvedas cilíndricas:**
+> [!warning] 🏛️ Diseño de Estructuras **Bóvedas cilíndricas:**
 > 
 > - Estructuras arquitectónicas clásicas
 > - Distribución uniforme de cargas
@@ -849,7 +849,7 @@ graph TD
 
 ### 🌊 Mecánica de Fluidos
 
-> [!info]- 💧 Flujo en Cilindros **Flujo laminar en tuberías:**
+> [!info] 💧 Flujo en Cilindros **Flujo laminar en tuberías:**
 > 
 > - Perfil de velocidad parabólico
 > - Cilindro como superficie de contorno
@@ -870,7 +870,7 @@ graph TD
 
 ### 🔭 Óptica y Lentes
 
-> [!success]- 🔬 Aplicaciones Ópticas **Lentes cilíndricas:**
+> [!success] 🔬 Aplicaciones Ópticas **Lentes cilíndricas:**
 > 
 > - Corrección de astigmatismo
 > - Sección transversal: Curva (circular o no)
@@ -895,7 +895,7 @@ graph TD
 
 ### 🎮 Computación Gráfica
 
-> [!example]- 💻 Modelado 3D **Modelado de objetos:**
+> [!example] 💻 Modelado 3D **Modelado de objetos:**
 > 
 > - Primitivas cilíndricas básicas
 > - Extrusión de curvas 2D
@@ -923,7 +923,7 @@ graph TD
 
 ### 📏 Área de Superficie
 
-> [!note]- 📐 Cálculo de Áreas **Cilindro circular (segmento de altura h):** $$A_{\text{lateral}} = 2\pi rh$$
+> [!note] 📐 Cálculo de Áreas **Cilindro circular (segmento de altura h):** $$A_{\text{lateral}} = 2\pi rh$$
 > 
 > **Cilindro elíptico (segmento de altura h):** $$A_{\text{lateral}} = \text{(perímetro de elipse)} \times h$$
 > 
@@ -935,7 +935,7 @@ graph TD
 
 ### 🔄 Vector Normal
 
-> [!tip]- 🎯 Normales a la Superficie Para una superficie cilíndrica parametrizada como $\vec{r}(u, v)$:
+> [!tip] 🎯 Normales a la Superficie Para una superficie cilíndrica parametrizada como $\vec{r}(u, v)$:
 > 
 > **Vector normal:** $$\vec{n} = \frac{\partial \vec{r}}{\partial u} \times \frac{\partial \vec{r}}{\partial v}$$
 > 
@@ -955,7 +955,7 @@ graph TD
 
 ### 📊 Curvatura
 
-> [!warning]- 🌀 Análisis de Curvatura **Curvatura gaussiana:** Para superficies cilíndricas: $$K = 0$$
+> [!warning] 🌀 Análisis de Curvatura **Curvatura gaussiana:** Para superficies cilíndricas: $$K = 0$$
 > 
 > (La curvatura gaussiana es siempre cero porque hay al menos una dirección de curvatura nula: la dirección de las generatrices)
 > 
@@ -969,7 +969,7 @@ graph TD
 
 ## 🎓 Ejercicios Progresivos
 
-> [!example]- 💪 Práctica Graduada **Nivel 1 - Identificación:** 🟢
+> [!example] 💪 Práctica Graduada **Nivel 1 - Identificación:** 🟢
 > 
 > 1. **Clasificar superficies:**
 >     - a) $x^2 + y^2 = 9$
@@ -1021,7 +1021,7 @@ graph TD
 
 ## 🌐 Conexiones Conceptuales
 
-> [!quote]- 🔗 Enlaces con Otros Temas **Prerequisitos:**
+> [!quote] 🔗 Enlaces con Otros Temas **Prerequisitos:**
 > 
 > - [[Cónicas en el plano\|Cónicas en el plano]] - Directrices de los cilindros
 > - [[Vectores en ℝ³\|Vectores en ℝ³]] - Generatrices como rectas
@@ -1036,7 +1036,7 @@ graph TD
 > 
 > **Aplicaciones avanzadas:**
 > 
-> - [[Cálculo Vectorial\|Cálculo Vectorial]] - Integrales de superficie
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Cálculo Vectorial\|Cálculo Vectorial]] - Integrales de superficie
 > - [[Ecuaciones Diferenciales\|Ecuaciones Diferenciales]] - Problemas en coordenadas cilíndricas
 > - [[Física Matemática\|Física Matemática]] - Laplaciano en cilindros
 > - [[Geometría Diferencial\|Geometría Diferencial]] - Superficies desarrollables
@@ -1049,7 +1049,7 @@ graph TD
 
 ## 💡 Consejos de Estudio
 
-> [!tip]- 🧠 Estrategias de Aprendizaje **Para identificar cilindros:**
+> [!tip] 🧠 Estrategias de Aprendizaje **Para identificar cilindros:**
 > 
 > 1. **Regla principal:** Buscar la variable ausente
 >     - Falta x → eje paralelo a X
@@ -1091,7 +1091,7 @@ graph TD
 
 ### 🎲 Superficies Regladas
 
-> [!info]- 📐 Cilindros como Superficies Regladas **Definición:** Una superficie **reglada** es aquella que puede generarse por el movimiento de una recta.
+> [!info] 📐 Cilindros como Superficies Regladas **Definición:** Una superficie **reglada** es aquella que puede generarse por el movimiento de una recta.
 > 
 > **Los cilindros son superficies regladas especiales:**
 > 
@@ -1108,7 +1108,7 @@ graph TD
 
 ### 📏 Superficies Desarrollables
 
-> [!success]- 🟢 Propiedad de Desarrollo **Definición:** Una superficie es **desarrollable** si puede "aplanarse" en un plano sin estiramiento ni compresión.
+> [!success] 🟢 Propiedad de Desarrollo **Definición:** Una superficie es **desarrollable** si puede "aplanarse" en un plano sin estiramiento ni compresión.
 > 
 > **Los cilindros son desarrollables:**
 > 
@@ -1132,7 +1132,7 @@ graph TD
 
 ### 🔄 Geodésicas en Cilindros
 
-> [!note]- 🌀 Caminos más Cortos **Geodésica:** Curva de longitud mínima entre dos puntos en una superficie.
+> [!note] 🌀 Caminos más Cortos **Geodésica:** Curva de longitud mínima entre dos puntos en una superficie.
 > 
 > **En cilindros circulares:**
 > 
@@ -1156,7 +1156,7 @@ graph TD
 
 ### 🔍 Superficies Límite
 
-> [!warning]- ⚠️ Casos Degenerados **1. Pares de planos paralelos:**
+> [!warning] ⚠️ Casos Degenerados **1. Pares de planos paralelos:**
 > 
 > - Ecuación: $x^2 = a^2$ o equivalentemente $(x-a)(x+a) = 0$
 > - Representa dos planos: $x = a$ y $x = -a$
@@ -1181,7 +1181,7 @@ graph TD
 
 ### 🎯 Cilindros con Secciones Especiales
 
-> [!tip]- 🔧 Variaciones Interesantes **Cilindro con directriz sinusoidal:**
+> [!tip] 🔧 Variaciones Interesantes **Cilindro con directriz sinusoidal:**
 > 
 > - Ecuación: $y = A\sin(kx)$ (variable z ausente)
 > - No es una cónica, pero sigue siendo cilíndrico
@@ -1208,7 +1208,7 @@ graph TD
 
 ### 📊 Ecuaciones Diferenciales en Cilindros
 
-> [!info]- 🧮 Problemas de Valor en la Frontera **Ecuación de Laplace en cilindro circular:** En coordenadas cilíndricas $(r, \theta, z)$: $$\nabla^2 u = \frac{1}{r}\frac{\partial}{\partial r}\left(r\frac{\partial u}{\partial r}\right) + \frac{1}{r^2}\frac{\partial^2 u}{\partial \theta^2} + \frac{\partial^2 u}{\partial z^2} = 0$$
+> [!info] 🧮 Problemas de Valor en la Frontera **Ecuación de Laplace en cilindro circular:** En coordenadas cilíndricas $(r, \theta, z)$: $$\nabla^2 u = \frac{1}{r}\frac{\partial}{\partial r}\left(r\frac{\partial u}{\partial r}\right) + \frac{1}{r^2}\frac{\partial^2 u}{\partial \theta^2} + \frac{\partial^2 u}{\partial z^2} = 0$$
 > 
 > **Condiciones de frontera en cilindro:**
 > 
@@ -1225,7 +1225,7 @@ graph TD
 
 ### 🌊 Campos Vectoriales en Cilindros
 
-> [!success]- 🔄 Análisis Vectorial **Campo vectorial tangente a cilindro circular:** $$\vec{F} = (-y, x, 0)$$
+> [!success] 🔄 Análisis Vectorial **Campo vectorial tangente a cilindro circular:** $$\vec{F} = (-y, x, 0)$$
 > 
 > - Circulación alrededor del eje z
 > - Perpendicular al vector normal radial
@@ -1243,7 +1243,7 @@ graph TD
 
 ### 📐 Geometría Diferencial de Cilindros
 
-> [!note]- 📏 Curvaturas y Métricas **Primera forma fundamental:** Para cilindro circular parametrizado: $$ds^2 = R^2 d\theta^2 + dz^2$$
+> [!note] 📏 Curvaturas y Métricas **Primera forma fundamental:** Para cilindro circular parametrizado: $$ds^2 = R^2 d\theta^2 + dz^2$$
 > 
 > **Curvaturas principales:**
 > 
@@ -1263,7 +1263,7 @@ graph TD
 
 ### 💻 Herramientas de Visualización
 
-> [!example]- 🖥️ Software Recomendado **GeoGebra 3D:**
+> [!example] 🖥️ Software Recomendado **GeoGebra 3D:**
 > 
 > - Interfaz intuitiva
 > - Ecuaciones implícitas y paramétricas
@@ -1298,7 +1298,7 @@ graph TD
 
 ### 🎬 Animaciones Conceptuales
 
-> [!tip]- 🎥 Ideas para Animaciones **Animación 1: Generación del cilindro**
+> [!tip] 🎥 Ideas para Animaciones **Animación 1: Generación del cilindro**
 > 
 > - Mostrar la directriz en un plano
 > - Mover una recta paralela a lo largo de la directriz
@@ -1323,7 +1323,7 @@ graph TD
 
 ## 🏆 Problemas Desafiantes
 
-> [!example]- 🎯 Ejercicios Avanzados **Desafío 1 - Optimización:** Un cilindro circular de radio $r$ está inscrito en una esfera de radio $R$. Encontrar el valor de $r$ que maximiza el volumen del cilindro (considerando altura finita).
+> [!example] 🎯 Ejercicios Avanzados **Desafío 1 - Optimización:** Un cilindro circular de radio $r$ está inscrito en una esfera de radio $R$. Encontrar el valor de $r$ que maximiza el volumen del cilindro (considerando altura finita).
 > 
 > **Desafío 2 - Intersección triple:** Encontrar la región del espacio donde se intersectan tres cilindros:
 > 
@@ -1343,7 +1343,7 @@ graph TD
 
 ## 📖 Resumen Ejecutivo
 
-> [!abstract]- 📝 Síntesis del Capítulo **Conceptos clave:**
+> [!abstract] 📝 Síntesis del Capítulo **Conceptos clave:**
 > 
 > 1. **Definición:** Superficies generadas por rectas paralelas (generatrices) a lo largo de una curva (directriz)
 >     
@@ -1386,7 +1386,7 @@ graph TD
 
 ## 🔗 Referencias y Lecturas Adicionales
 
-> [!quote]- 📚 Bibliografía Recomendada **Textos fundamentales:**
+> [!quote] 📚 Bibliografía Recomendada **Textos fundamentales:**
 > 
 > - **Thomas, Finney:** "Cálculo: Varias Variables" - Capítulo de superficies
 > - **Stewart, James:** "Cálculo de Varias Variables" - Secciones 12.6 y 13.5
@@ -1417,7 +1417,7 @@ graph TD
 
 ## 🎯 Autoevaluación
 
-> [!question]- ✅ Preguntas de Verificación **Comprueba tu comprensión:**
+> [!question] ✅ Preguntas de Verificación **Comprueba tu comprensión:**
 > 
 > 1. ¿Puedes identificar rápidamente si una ecuación representa un cilindro? ✓
 > 2. ¿Entiendes por qué la variable ausente indica el eje del cilindro? ✓

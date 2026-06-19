@@ -7,11 +7,11 @@
 
 >[!quote] "En el universo de las colisiones, la masa no solo importa por su cantidad, sino por cómo transforma el baile del momentum en una sinfonía de proporciones extraordinarias." ⚖️💫
 
-> [!info]- Los choques entre objetos de masas muy diferentes revelan comportamientos fascinantes y contraintuitivos. Cuando un objeto ligero colisiona con uno masivo, o viceversa, emergen patrones únicos que desafían nuestra intuición cotidiana. Estos casos extremos nos permiten comprender mejor los límites y aplicaciones de los principios de conservación, desde el rebote de una pelota de tenis hasta el impacto de asteroides.
+> [!info] Los choques entre objetos de masas muy diferentes revelan comportamientos fascinantes y contraintuitivos. Cuando un objeto ligero colisiona con uno masivo, o viceversa, emergen patrones únicos que desafían nuestra intuición cotidiana. Estos casos extremos nos permiten comprender mejor los límites y aplicaciones de los principios de conservación, desde el rebote de una pelota de tenis hasta el impacto de asteroides.
 
 ## ⚖️ Regímenes de Masa
 
-> [!success]- **Clasificación por Relación de Masas** 📏
+> [!success] **Clasificación por Relación de Masas** 📏
 > 
 > ### Parámetro Fundamental:
 > 
@@ -36,7 +36,7 @@
 > Para λ >> 1: μ ≈ m₂ (masa del objeto pesado)
 > ```
 
-> [!warning]- **Caso Extremo: Objeto Ligero contra Objeto Masivo (λ << 1)** 🏓
+> [!warning] **Caso Extremo: Objeto Ligero contra Objeto Masivo (λ << 1)** 🏓
 > 
 > ### Características del Sistema:
 > 
@@ -71,7 +71,7 @@
 > - Transferencia de momentum despreciable al objeto masivo
 > - Conservación casi perfecta de energía cinética del ligero
 
-> [!danger]- **Caso Extremo: Objeto Masivo contra Objeto Ligero (λ >> 1)** 🚛
+> [!danger] **Caso Extremo: Objeto Masivo contra Objeto Ligero (λ >> 1)** 🚛
 > 
 > ### Características del Sistema:
 > 
@@ -109,7 +109,7 @@
 
 ## 🎯 Estrategias de Resolución
 
-> [!tip]- **Método LIMA (Límites-Identificación-Modelado-Aproximación)** 🧠
+> [!tip] **Método LIMA (Límites-Identificación-Modelado-Aproximación)** 🧠
 > 
 > ### **L**ímites - Determina el régimen de masas
 > 
@@ -138,7 +138,7 @@
 
 ## 📚 Problemas Tipo Resueltos
 
-> [!example]- **Problema 1: Pelota de Tenis vs. Raqueta** 🎾
+> [!example] **Problema 1: Pelota de Tenis vs. Raqueta** 🎾
 > 
 > ### Enunciado:
 > 
@@ -201,7 +201,7 @@
 > ### Interpretación Física:
 > La raqueta transfiere energía a la pelota, amplificando su velocidad debido al movimiento relativo alto.
 
-> [!example]- **Problema 2: Bola de Billar vs. Bola Inmóvil** 🎱
+> [!example] **Problema 2: Bola de Billar vs. Bola Inmóvil** 🎱
 > 
 > ### Enunciado:
 > 
@@ -244,7 +244,7 @@
 > #### Interpretación:
 > Con la bola pesada, la bola blanca rebota hacia atrás con 2/3 de su velocidad original, mientras que la bola pesada adquiere solo 1/3 de la velocidad inicial.
 
-> [!example]- **Problema 3: Martillo y Clavo** 🔨
+> [!example] **Problema 3: Martillo y Clavo** 🔨
 > 
 > ### Enunciado:
 > 
@@ -300,7 +300,7 @@
 
 ## 🧮 Análisis de Límites Matemáticos
 
-> [!info]- **Límites Extremos** ∞
+> [!info] **Límites Extremos** ∞
 > 
 > ### Límite λ → 0 (m₁ << m₂):
 > 
@@ -336,7 +336,7 @@
 
 ## 🎯 Aplicaciones Especializadas
 
-> [!success]- **Fenómenos Naturales y Tecnológicos** 🌍
+> [!success] **Fenómenos Naturales y Tecnológicos** 🌍
 > 
 > ### Deportes:
 > 
@@ -375,7 +375,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- **Trampas Conceptuales Específicas** ❌
+> [!warning] **Trampas Conceptuales Específicas** ❌
 > 
 > 1. **Aplicar intuición de masas similares** a casos extremos
 > 2. **Olvidar que λ >> 1 no significa conservación de velocidad** del objeto masivo
@@ -387,7 +387,7 @@
 
 ## 🔧 Herramientas de Análisis
 
-> [!tip]- **Gráficos y Diagramas Especializados** 📊
+> [!tip] **Gráficos y Diagramas Especializados** 📊
 > 
 > ### Gráfico de Velocidades Finales vs. λ:
 > 
@@ -427,7 +427,7 @@
 
 ## 📖 Referencias
 
-> [!quote]- **Notas Relacionadas**
+> [!quote] **Notas Relacionadas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/04 - Impulso y Colisiones (Lineal)/Aplicaciones de Impulso y Colisiones (Lineal)/Problemas de Colisiones\|Problemas de Colisiones]] - Fundamentos de colisiones básicas
 > - [[Universidad/1er Semestre/Física Mecanica/04 - Impulso y Colisiones (Lineal)/Momentum Lineal y Su Conservación\|Momentum Lineal y Su Conservación]] - Principios de conservación
@@ -437,7 +437,7 @@
 
 ## 📚 Notas Recomendadas
 
-> [!note]- **Prerrequisitos**
+> [!note] **Prerrequisitos**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para análisis bidimensional
 > - [[Límites\|Límites]] - Para análisis matemático de casos extremos

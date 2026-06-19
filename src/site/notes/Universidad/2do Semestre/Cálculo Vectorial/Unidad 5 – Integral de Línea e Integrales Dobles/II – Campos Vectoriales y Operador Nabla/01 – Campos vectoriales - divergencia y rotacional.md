@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué son los Campos Vectoriales? Un **campo vectorial** es una función que asigna un vector a cada punto del espacio. Es como tener una "flecha" en cada ubicación que indica dirección y magnitud de alguna cantidad física.
+> [!info] 💡 ¿Qué son los Campos Vectoriales? Un **campo vectorial** es una función que asigna un vector a cada punto del espacio. Es como tener una "flecha" en cada ubicación que indica dirección y magnitud de alguna cantidad física.
 > 
 > **Analogía práctica:** Imagina el viento en un día tormentoso. En cada punto del espacio hay:
 > 
@@ -47,7 +47,7 @@ graph TB
 
 ### 🔢 Notación y Componentes
 
-> [!example]- 📝 Estructura Matemática
+> [!example] 📝 Estructura Matemática
 > 
 > **Definición en R²:**
 > 
@@ -114,7 +114,7 @@ graph TB
 
 ### 🎨 Visualización de Campos
 
-> [!note]- 🖼️ Representación Gráfica
+> [!note] 🖼️ Representación Gráfica
 > 
 > **Métodos de visualización:**
 > 
@@ -166,7 +166,7 @@ graph TB
 
 ### 🔺 Definición del Operador
 
-> [!tip]- 🎯 El Operador Diferencial Vectorial
+> [!tip] 🎯 El Operador Diferencial Vectorial
 > 
 > El **operador nabla** ($\nabla$) es un operador diferencial vectorial que se define como:
 > 
@@ -216,7 +216,7 @@ graph TB
 
 ### 📊 Concepto Intuitivo
 
-> [!example]- 💧 ¿Qué es la Divergencia?
+> [!example] 💧 ¿Qué es la Divergencia?
 > 
 > La **divergencia** mide cuánto "se expande" o "se contrae" un campo vectorial en un punto. Es una medida del **flujo neto** que sale de un punto infinitesimal.
 > 
@@ -266,7 +266,7 @@ graph TB
 
 ### 🔢 Definición Matemática
 
-> [!success]- 📐 Fórmulas de Divergencia
+> [!success] 📐 Fórmulas de Divergencia
 > 
 > **En R²:**
 > 
@@ -315,7 +315,7 @@ graph TB
 
 ### 💡 Ejemplos Resueltos
 
-> [!example]- ✏️ Cálculo de Divergencias
+> [!example] ✏️ Cálculo de Divergencias
 > 
 > **Ejemplo 1: Campo radial simple**
 > 
@@ -400,7 +400,7 @@ graph TB
 
 ### 🎡 Concepto Intuitivo
 
-> [!example]- 🔄 ¿Qué es el Rotacional?
+> [!example] 🔄 ¿Qué es el Rotacional?
 > 
 > El **rotacional** mide la tendencia de un campo vectorial a **rotar** o **girar** alrededor de un punto. Es una medida de la "vorticidad" o "circulación" del campo.
 > 
@@ -474,7 +474,7 @@ graph TB
 
 ### 🔢 Definición Matemática
 
-> [!success]- 📐 Fórmula del Rotacional
+> [!success] 📐 Fórmula del Rotacional
 > 
 > **Solo definido en R³:**
 > 
@@ -530,7 +530,7 @@ graph TB
 
 ### 💡 Ejemplos Resueltos
 
-> [!example]- ✏️ Cálculo de Rotacionales
+> [!example] ✏️ Cálculo de Rotacionales
 > 
 > **Ejemplo 1: Campo radial**
 > 
@@ -642,7 +642,7 @@ graph TB
 
 ### 🔑 Definición y Criterios
 
-> [!tip]- 🌟 ¿Qué es un Campo Conservativo?
+> [!tip] 🌟 ¿Qué es un Campo Conservativo?
 > 
 > Un campo vectorial $\mathbf{F}$ es **conservativo** si existe una función escalar $f$ (llamada **función potencial**) tal que:
 > 
@@ -690,7 +690,7 @@ graph TB
 
 ### 🔍 Verificación en R²
 
-> [!example]- 📋 Teorema para Campos en el Plano
+> [!example] 📋 Teorema para Campos en el Plano
 > 
 > **Teorema:** Sea $\mathbf{F}(x, y) = M,\hat{\mathbf{i}} + N,\hat{\mathbf{j}}$ un campo vectorial de clase $C^1$ en una bola abierta de $\mathbb{R}^2$. Entonces:
 > 
@@ -747,7 +747,7 @@ graph TB
 
 ### 🔍 Verificación en R³
 
-> [!example]- 📋 Teorema para Campos en el Espacio
+> [!example] 📋 Teorema para Campos en el Espacio
 > 
 > **Teorema:** Sea $\mathbf{F}(x, y, z) = M,\hat{\mathbf{i}} + N,\hat{\mathbf{j}} + P,\hat{\mathbf{k}}$ un campo vectorial de clase $C^1$ en una bola abierta de $\mathbb{R}^3$. Entonces:
 > 
@@ -805,7 +805,7 @@ graph TB
 
 ### 📝 Método General
 
-> [!success]- 🎯 Procedimiento para Hallar $f$ tal que $\nabla f = \mathbf{F}$
+> [!success] 🎯 Procedimiento para Hallar $f$ tal que $\nabla f = \mathbf{F}$
 > 
 > **Paso 0:** Verificar que $\mathbf{F}$ sea conservativo
 > 
@@ -851,7 +851,7 @@ graph TB
 
 ### 💡 Ejemplo Completo del PDF
 
-> [!example]- ✏️ Encontrar Potencial Paso a Paso
+> [!example] ✏️ Encontrar Potencial Paso a Paso
 > 
 > **Problema:** Hallar la función potencial de:
 > 
@@ -909,7 +909,7 @@ graph TB
 
 ### 💡 Ejemplo en R³
 
-> [!example]- ✏️ Ejemplo del PDF - Integral de Línea
+> [!example] ✏️ Ejemplo del PDF - Integral de Línea
 > 
 > **Problema:** Dado el campo:
 > 
@@ -977,7 +977,7 @@ graph TB
 
 ### 📋 Identidades Fundamentales
 
-> [!note]- 🔢 Propiedades Importantes
+> [!note] 🔢 Propiedades Importantes
 > 
 > Sean $\mathbf{F}$, $\mathbf{G}$ campos vectoriales y $f$, $g$ funciones escalares:
 > 
@@ -1035,7 +1035,7 @@ graph TB
 
 ### 📝 Nivel Básico
 
-> [!example]- 💪 Ejercicios de Práctica Inicial
+> [!example] 💪 Ejercicios de Práctica Inicial
 > 
 > **Ejercicio 1:** Calcular la divergencia de: $$\mathbf{F}(x, y) = 3x,\hat{\mathbf{i}} + 4y,\hat{\mathbf{j}}$$
 > 
@@ -1083,7 +1083,7 @@ graph TB
 
 ### 📝 Nivel Intermedio
 
-> [!example]- 💪 Ejercicios del PDF
+> [!example] 💪 Ejercicios del PDF
 > 
 > **Ejercicio 1 (PDF):** Verificar si es conservativo: $$\mathbf{F}(x, y) = 2x,\hat{\mathbf{i}} + y,\hat{\mathbf{j}}$$
 > 
@@ -1162,7 +1162,7 @@ graph TB
 
 ### 📝 Nivel Avanzado
 
-> [!example]- 💪 Problemas de Aplicación
+> [!example] 💪 Problemas de Aplicación
 > 
 > **Problema 1:** Demostrar que $\text{div}(\text{rot},\mathbf{F}) = 0$ para cualquier campo $\mathbf{F}$
 > 
@@ -1240,7 +1240,7 @@ mindmap
 
 ### 📋 Tablas de Referencia Rápida
 
-> [!note]- 📊 Guía Rápida de Fórmulas
+> [!note] 📊 Guía Rápida de Fórmulas
 > 
 > **Divergencia:**
 > 
@@ -1313,7 +1313,7 @@ flowchart TD
 
 ### 🌍 Aplicaciones Físicas
 
-> [!tip]- 🔬 Campos en la Física
+> [!tip] 🔬 Campos en la Física
 > 
 > **1. Campo Gravitatorio:**
 > 
@@ -1361,7 +1361,7 @@ flowchart TD
 
 ### 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Continuando el Aprendizaje
+> [!quote] 🌟 Continuando el Aprendizaje
 > 
 > **Has dominado:**
 > 
@@ -1410,7 +1410,7 @@ flowchart TD
 
 ## ✅ Checklist de Dominio
 
-> [!success]- 📝 ¿Dominas el Tema?
+> [!success] 📝 ¿Dominas el Tema?
 > 
 > Marca los conceptos que comprendes:
 > 

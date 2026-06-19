@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué son las Matrices Semejantes? Las **matrices semejantes** son matrices que representan la **misma transformación lineal** pero expresada en diferentes **bases**. Aunque las matrices parezcan diferentes numéricamente, describen esencialmente el mismo comportamiento matemático desde distintas perspectivas.
+> [!info] 💡 ¿Qué son las Matrices Semejantes? Las **matrices semejantes** son matrices que representan la **misma transformación lineal** pero expresada en diferentes **bases**. Aunque las matrices parezcan diferentes numéricamente, describen esencialmente el mismo comportamiento matemático desde distintas perspectivas.
 > 
 > **Analogía práctica:** Imagina describir la ubicación de un punto en una ciudad:
 > 
@@ -54,7 +54,7 @@ graph TB
 
 ### 🎯 Concepto de Semejanza
 
-> [!note]- 📋 Definición Rigurosa
+> [!note] 📋 Definición Rigurosa
 > 
 > **Definición:**
 > 
@@ -92,7 +92,7 @@ graph TB
 
 ### 🔄 Transformación de Semejanza
 
-> [!success]- 🎪 El Proceso Completo
+> [!success] 🎪 El Proceso Completo
 > 
 > **Operación de semejanza:**
 > 
@@ -139,7 +139,7 @@ graph TB
 
 ### ✅ Relación de Equivalencia
 
-> [!tip]- 🔗 Propiedades de la Semejanza
+> [!tip] 🔗 Propiedades de la Semejanza
 > 
 > La semejanza de matrices es una **relación de equivalencia**, lo que significa que cumple tres propiedades:
 > 
@@ -210,7 +210,7 @@ graph TB
 
 ### 🔢 Invariantes de Semejanza
 
-> [!example]- 🎯 Propiedades que NO Cambian
+> [!example] 🎯 Propiedades que NO Cambian
 > 
 > Si $A \sim B$ (es decir, $B = P^{-1}AP$), entonces:
 > 
@@ -302,7 +302,7 @@ graph TB
 
 ### 📝 Ejemplo Básico de Semejanza
 
-> [!example]- 💡 Verificación Directa
+> [!example] 💡 Verificación Directa
 > 
 > **Problema:** Verificar si las matrices son semejantes:
 > 
@@ -375,7 +375,7 @@ graph TB
 
 ### 🔄 Matrices que NO son Semejantes
 
-> [!warning]- ❌ Contraejemplos
+> [!warning] ❌ Contraejemplos
 > 
 > **Ejemplo 1: Diferentes valores propios**
 > 
@@ -420,7 +420,7 @@ graph TB
 
 ### 💎 Concepto de Diagonalización
 
-> [!success]- ⭐ Caso Especial Importante
+> [!success] ⭐ Caso Especial Importante
 > 
 > **Definición:**
 > 
@@ -461,7 +461,7 @@ graph TB
 
 ### 📐 Ejemplo Completo de Diagonalización
 
-> [!example]- 🎯 Proceso Paso a Paso
+> [!example] 🎯 Proceso Paso a Paso
 > 
 > **Problema:** Diagonalizar la matriz
 > 
@@ -540,7 +540,7 @@ graph TB
 
 ### 📊 Potencias de Matrices
 
-> [!tip]- 🚀 Simplificación de Cálculos
+> [!tip] 🚀 Simplificación de Cálculos
 > 
 > **Ventaja:** Si $A = PDP^{-1}$ (diagonalizable), entonces:
 > 
@@ -590,7 +590,7 @@ graph TB
 
 ### 🔄 Sistemas de Ecuaciones Diferenciales
 
-> [!note]- 📈 Resolución de EDOs
+> [!note] 📈 Resolución de EDOs
 > 
 > **Sistema lineal:**
 > 
@@ -642,7 +642,7 @@ mindmap
 
 ### Tabla de Referencia Rápida
 
-> [!quote]- 📚 Guía Práctica
+> [!quote] 📚 Guía Práctica
 > 
 > **Verificar si A ~ B:**
 > 
@@ -667,7 +667,7 @@ mindmap
 
 ## 🎓 Ejercicios Resueltos
 
-> [!example]- 💪 Ejercicio 1: Verificación de Semejanza
+> [!example] 💪 Ejercicio 1: Verificación de Semejanza
 > 
 > **Problema:** Determinar si las matrices son semejantes:
 > 
@@ -713,7 +713,7 @@ mindmap
 > CONCLUSIÓN: Sí son semejantes (misma estructura de Jordan)
 > ```
 
-> [!example]- 💪 Ejercicio 2: Diagonalización 3×3
+> [!example] 💪 Ejercicio 2: Diagonalización 3×3
 > 
 > **Problema:** Diagonalizar
 > 
@@ -748,7 +748,7 @@ mindmap
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Continuando el Aprendizaje
+> [!quote] 🌟 Continuando el Aprendizaje
 > 
 > **Progresión natural:**
 > 

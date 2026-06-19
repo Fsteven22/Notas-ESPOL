@@ -7,11 +7,11 @@
 
 > [!quote] "En las colisiones, la naturaleza conserva lo esencial mientras transforma lo superficial; cada choque es una danza de conservación y cambio." 💥
 
-> [!info]- Las colisiones son eventos fundamentales en la física donde dos o más cuerpos interactúan durante un tiempo muy corto, intercambiando momentum y energía. El análisis de colisiones nos permite comprender desde el comportamiento de partículas subatómicas hasta accidentes vehiculares, aplicando principios de conservación que rigen el universo.
+> [!info] Las colisiones son eventos fundamentales en la física donde dos o más cuerpos interactúan durante un tiempo muy corto, intercambiando momentum y energía. El análisis de colisiones nos permite comprender desde el comportamiento de partículas subatómicas hasta accidentes vehiculares, aplicando principios de conservación que rigen el universo.
 
 ## 🎯 Tipos de Colisiones
 
-> [!success]- **Colisiones Elásticas (1D)** ⚽
+> [!success] **Colisiones Elásticas (1D)** ⚽
 > 
 > ### Características Principales:
 > 
@@ -45,7 +45,7 @@
 > |m₁ >> m₂, v₂ᵢ = 0|v₁f ≈ v₁ᵢ, v₂f ≈ 2v₁ᵢ|Pelota contra pared|
 > |m₁ << m₂, v₂ᵢ = 0|v₁f ≈ -v₁ᵢ, v₂f ≈ 0|Rebote contra objeto masivo|
 
-> [!warning]- **Colisiones Inelásticas (1D)** 🚗
+> [!warning] **Colisiones Inelásticas (1D)** 🚗
 > 
 > ### Características Principales:
 > 
@@ -74,7 +74,7 @@
 > - El coeficiente e caracteriza la "elasticidad" del material
 > - Valores típicos: acero-acero (e ≈ 0.9), plástico-plástico (e ≈ 0.3)
 
-> [!danger]- **Choque Completamente Inelástico** 🔗
+> [!danger] **Choque Completamente Inelástico** 🔗
 > 
 > ### Características Principales:
 > 
@@ -128,7 +128,7 @@
 
 ## 🎯 Estrategias de Resolución
 
-> [!tip]- **Método CIME (Conservación-Identificación-Modelado-Evaluación)** 🧠
+> [!tip] **Método CIME (Conservación-Identificación-Modelado-Evaluación)** 🧠
 > 
 > ### **C**onservación - Identifica qué se conserva
 > 
@@ -156,7 +156,7 @@
 
 ## 📚 Problemas Tipo
 
-> [!example]- **Problema 1: Colisión Elástica Frontal** ⚽⚾
+> [!example] **Problema 1: Colisión Elástica Frontal** ⚽⚾
 > 
 > ### Enunciado:
 > 
@@ -196,7 +196,7 @@
 > - Momentum: 0.2(-2) + 0.3(8) = 2 ✓
 > - Energía: ½(0.2)(4) + ½(0.3)(64) = 10 J ✓
 
-> [!example]- **Problema 2: Colisión Inelástica** 🚗💥
+> [!example] **Problema 2: Colisión Inelástica** 🚗💥
 > 
 > ### Enunciado:
 > 
@@ -234,7 +234,7 @@
 > ΔKE = 333000 J (94% de energía perdida)
 > ```
 
-> [!example]- **Problema 3: Choque Completamente Inelástico** 🔫🎯
+> [!example] **Problema 3: Choque Completamente Inelástico** 🔫🎯
 > 
 > ### Enunciado:
 > 
@@ -278,7 +278,7 @@
 
 ## 🧮 Técnicas de Memorización
 
-> [!tip]- **Mnemotecnia: "ELIPSE"** 🥚 **E**lástica → **L**a energía **I**gual **P**ermanece **S**iempre **E**xacta
+> [!tip] **Mnemotecnia: "ELIPSE"** 🥚 **E**lástica → **L**a energía **I**gual **P**ermanece **S**iempre **E**xacta
 > 
 > **Reglas Rápidas:**
 > 
@@ -288,7 +288,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- **Confusiones Frecuentes** ❌
+> [!warning] **Confusiones Frecuentes** ❌
 > 
 > 1. **Confundir el signo de velocidades** en colisiones frontales
 > 2. **Asumir conservación de energía** en todas las colisiones
@@ -300,7 +300,7 @@
 
 ## 🔧 Herramientas de Análisis
 
-> [!info]- **Diagramas de Análisis** 📊
+> [!info] **Diagramas de Análisis** 📊
 > 
 > ### Diagrama Antes-Después:
 > 
@@ -326,7 +326,7 @@
 
 ## 🎯 Aplicaciones Prácticas
 
-> [!success]- **Ejemplos del Mundo Real** 🌍
+> [!success] **Ejemplos del Mundo Real** 🌍
 > 
 > ### Seguridad Vehicular:
 > 
@@ -354,7 +354,7 @@
 
 ## 🔬 Casos Especiales Avanzados
 
-> [!note]- **Situaciones Complejas** ⚡
+> [!note] **Situaciones Complejas** ⚡
 > 
 > ### Colisión con Rotación:
 > 
@@ -376,7 +376,7 @@
 
 ## 📖 Referencias
 
-> [!quote]- **Notas Relacionadas**
+> [!quote] **Notas Relacionadas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/04 - Impulso y Colisiones (Lineal)/Momentum Lineal y Su Conservación\|Momentum Lineal y Su Conservación]] - Fundamentos teóricos
 > - [[Universidad/1er Semestre/Física Mecanica/04 - Impulso y Colisiones (Lineal)/Centro de masa (CM)\|Centro de masa (CM)]] - Análisis de sistemas
@@ -385,7 +385,7 @@
 
 ## 📚 Notas Recomendadas
 
-> [!note]- **Prerrequisitos**
+> [!note] **Prerrequisitos**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para colisiones bidimensionales
 > - [[Universidad/1er Semestre/Física Mecanica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]] - Fundamentos dinámicos

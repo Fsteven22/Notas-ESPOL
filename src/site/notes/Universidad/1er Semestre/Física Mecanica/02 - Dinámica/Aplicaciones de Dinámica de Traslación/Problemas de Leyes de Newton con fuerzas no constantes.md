@@ -7,11 +7,11 @@
 
 > [!quote] "Cuando las fuerzas varían con el tiempo, la posición o la velocidad, la naturaleza revela su cara más compleja: cada instante cuenta una historia diferente en la ecuación del movimiento." 🌊
 
-> [!info]- Los problemas con fuerzas no constantes representan el siguiente nivel en la comprensión de la dinámica, donde la segunda ley de Newton se convierte en una ecuación diferencial que relaciona fuerzas variables con el movimiento. Estas situaciones aparecen constantemente en la naturaleza: desde la resistencia del aire que depende de la velocidad, hasta fuerzas elásticas proporcionales al desplazamiento, o fuerzas que varían periódicamente con el tiempo. Dominar estos problemas es esencial para entender sistemas oscilatorios, caída con resistencia del aire, y movimientos bajo fuerzas complejas.
+> [!info] Los problemas con fuerzas no constantes representan el siguiente nivel en la comprensión de la dinámica, donde la segunda ley de Newton se convierte en una ecuación diferencial que relaciona fuerzas variables con el movimiento. Estas situaciones aparecen constantemente en la naturaleza: desde la resistencia del aire que depende de la velocidad, hasta fuerzas elásticas proporcionales al desplazamiento, o fuerzas que varían periódicamente con el tiempo. Dominar estos problemas es esencial para entender sistemas oscilatorios, caída con resistencia del aire, y movimientos bajo fuerzas complejas.
 
 ## 🎯 Tipos de Fuerzas No Constantes
 
-> [!info]- **Fuerzas Dependientes del Tiempo F(t)** ⏰
+> [!info] **Fuerzas Dependientes del Tiempo F(t)** ⏰
 > 
 > ### Características Principales:
 > 
@@ -36,7 +36,7 @@
 > 3. **x(t) = ∫v(t)dt + C₂**: Integrar para posición
 > 4. **Aplicar condiciones iniciales**: Determinar constantes
 
-> [!tip]- **Fuerzas Dependientes de la Posición F(x)** 📍
+> [!tip] **Fuerzas Dependientes de la Posición F(x)** 📍
 > 
 > ### Características Principales:
 > 
@@ -69,7 +69,7 @@
 > - ½mv² + U(x) = E (constante)
 > - Útil cuando F es conservativa
 
-> [!warning]- **Fuerzas Dependientes de la Velocidad F(v)** 🌪️
+> [!warning] **Fuerzas Dependientes de la Velocidad F(v)** 🌪️
 > 
 > ### Características Principales:
 > 
@@ -127,7 +127,7 @@
 >     style E fill:#fce4ec
 > ```
 
-> [!note]- **Ecuaciones Diferenciales Fundamentales** 📐
+> [!note] **Ecuaciones Diferenciales Fundamentales** 📐
 > 
 > ### Para F = F(t):
 > 
@@ -149,7 +149,7 @@
 
 ## 🎯 Estrategias de Resolución
 
-> [!tip]- **Método VARIA (Variable-Análisis-Relación-Integración-Aplicación)** 🧠
+> [!tip] **Método VARIA (Variable-Análisis-Relación-Integración-Aplicación)** 🧠
 > 
 > ### **V**ariable - Identifica la dependencia de la fuerza
 > 
@@ -185,7 +185,7 @@
 
 ## 📚 Problemas Tipo
 
-> [!example]- **Problema 1: Fuerza Dependiente del Tiempo** ⏰
+> [!example] **Problema 1: Fuerza Dependiente del Tiempo** ⏰
 > 
 > ### Enunciado:
 > 
@@ -215,7 +215,7 @@
 > 
 > c) **Potencia**: P = F·v = F(3)·v(3) = (10×3)×(22.5) = **675 W**
 
-> [!example]- **Problema 2: Fuerza Elástica (Dependiente de Posición)** 🌸
+> [!example] **Problema 2: Fuerza Elástica (Dependiente de Posición)** 🌸
 > 
 > ### Enunciado:
 > 
@@ -237,7 +237,7 @@
 > 
 > **Verificación**: Usando ω = √(k/m) = √(200/0.5) = 20 rad/s vₘₐₓ = ωA = 20(0.1) = 2 m/s ✓
 
-> [!example]- **Problema 3: Resistencia del Aire (Dependiente de Velocidad)** 🪂
+> [!example] **Problema 3: Resistencia del Aire (Dependiente de Velocidad)** 🪂
 > 
 > ### Enunciado:
 > 
@@ -271,9 +271,9 @@
 
 ## 🧮 Técnicas de Memorización
 
-> [!tip]- **Mnemotecnia: "VARIA"** 🎭 **V**ariable identificada **A**nálisis del problema **R**elación diferencial **I**ntegración apropiada **A**plicación de condiciones
+> [!tip] **Mnemotecnia: "VARIA"** 🎭 **V**ariable identificada **A**nálisis del problema **R**elación diferencial **I**ntegración apropiada **A**plicación de condiciones
 
-> [!tip]- **Regla de Dependencias: "TXV"** 📊
+> [!tip] **Regla de Dependencias: "TXV"** 📊
 > 
 > - **T**iempo → Integración **D**irecta
 > - **X** (posición) → **E**nergía
@@ -281,7 +281,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- **Confusiones Frecuentes** ⚠️
+> [!warning] **Confusiones Frecuentes** ⚠️
 > 
 > 1. **Elegir método incorrecto**: Usar integración directa para F(v)
 > 2. **Olvidar constantes de integración**: No aplicar condiciones iniciales
@@ -293,7 +293,7 @@
 
 ## 🎯 Aplicaciones Prácticas
 
-> [!info]- **Ejemplos del Mundo Real** 🌍
+> [!info] **Ejemplos del Mundo Real** 🌍
 > 
 > ### Ingeniería Aeroespacial:
 > 
@@ -327,7 +327,7 @@
 
 ## 📖 Referencias
 
-> [!quote]- **Notas Relacionadas**
+> [!quote] **Notas Relacionadas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]] - Fundamentos teóricos
 > - [[Ecuaciones Diferenciales Básicas\|Ecuaciones Diferenciales Básicas]] - Herramientas matemáticas
@@ -336,7 +336,7 @@
 
 ## 📚 Notas Recomendadas
 
-> [!note]- **Prerrequisitos**
+> [!note] **Prerrequisitos**
 > 
 > - [[Cálculo Diferencial e Integral\|Cálculo Diferencial e Integral]] - Herramientas matemáticas
 > - [[Dinámica de Traslación\|Dinámica de Traslación]] - Conceptos básicos

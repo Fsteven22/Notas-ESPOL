@@ -5,23 +5,23 @@
 
 # 🌀 Área entre Curvas en Coordenadas Polares y Paramétricas
 
-> [!info]- 💡 **Concepto Central** El cálculo de áreas entre curvas se extiende naturalmente a coordenadas polares y paramétricas. Estas representaciones son especialmente útiles para curvas que son difíciles de expresar en coordenadas rectangulares, como círculos, espirales, cardoides y otras curvas especiales.
+> [!info] 💡 **Concepto Central** El cálculo de áreas entre curvas se extiende naturalmente a coordenadas polares y paramétricas. Estas representaciones son especialmente útiles para curvas que son difíciles de expresar en coordenadas rectangulares, como círculos, espirales, cardoides y otras curvas especiales.
 
 ## 🌀 Coordenadas Polares
 
 ### 🎯 Definición Fundamental
 
-> [!tip]- 🆔 **Fórmula Básica en Coordenadas Polares** Para curvas $r = f(\theta)$ y $r = g(\theta)$ donde $f(\theta) \geq g(\theta) \geq 0$ en el intervalo $[\alpha, \beta]$:
+> [!tip] 🆔 **Fórmula Básica en Coordenadas Polares** Para curvas $r = f(\theta)$ y $r = g(\theta)$ donde $f(\theta) \geq g(\theta) \geq 0$ en el intervalo $[\alpha, \beta]$:
 > 
 > $$A = \frac{1}{2}\int_\alpha^\beta \left[f(\theta)^2 - g(\theta)^2\right] d\theta$$
 > 
 > Esta fórmula surge del hecho de que el área de un sector circular con radio $r$ y ángulo $d\theta$ es $\frac{1}{2}r^2 d\theta$.
 
-> [!warning]- ⚠️ **Condición Importante** La fórmula es válida cuando ambas funciones son no negativas y $f(\theta) \geq g(\theta)$ en todo el intervalo. Si las curvas se cruzan, hay que dividir la región en subintervalos.
+> [!warning] ⚠️ **Condición Importante** La fórmula es válida cuando ambas funciones son no negativas y $f(\theta) \geq g(\theta)$ en todo el intervalo. Si las curvas se cruzan, hay que dividir la región en subintervalos.
 
 ### 📐 Metodología Paso a Paso
 
-> [!info]- 🔧 **Algoritmo para Áreas en Coordenadas Polares**
+> [!info] 🔧 **Algoritmo para Áreas en Coordenadas Polares**
 > 
 > **Paso 1**: Identificar las curvas $r = f(\theta)$ y $r = g(\theta)$
 > 
@@ -57,7 +57,7 @@
 
 #### 📬 Ejemplo 1: Círculo y Cardioide
 
-> [!tip]- 📈 **Área entre $r = 2$ y $r = 2(1 + \cos\theta)$**
+> [!tip] 📈 **Área entre $r = 2$ y $r = 2(1 + \cos\theta)$**
 > 
 > **Paso 1**: Identificar las curvas
 > 
@@ -76,7 +76,7 @@
 
 #### 📬 Ejemplo 2: Rosa de Cuatro Pétalos y Círculo
 
-> [!tip]- 📈 **Área entre $r = 2\cos(2\theta)$ y $r = 1$**
+> [!tip] 📈 **Área entre $r = 2\cos(2\theta)$ y $r = 1$**
 > 
 > **Paso 1**: Análisis de las curvas
 > 
@@ -93,11 +93,11 @@
 
 #### 🔄 Región Interior a Ambas Curvas
 
-> [!info]- 🎯 **Intersección de Regiones** Cuando queremos el área de la región que está **dentro** de ambas curvas: $$A = \frac{1}{2}\int_\alpha^\beta \min[f(\theta)^2, g(\theta)^2] d\theta$$
+> [!info] 🎯 **Intersección de Regiones** Cuando queremos el área de la región que está **dentro** de ambas curvas: $$A = \frac{1}{2}\int_\alpha^\beta \min[f(\theta)^2, g(\theta)^2] d\theta$$
 
 #### ⭐ Curvas con Bucles
 
-> [!warning]- 🌀 **Curvas que se intersectan a sí mismas** Para curvas como $r = 1 + 2\cos\theta$ que forman bucles, hay que ser cuidadoso con:
+> [!warning] 🌀 **Curvas que se intersectan a sí mismas** Para curvas como $r = 1 + 2\cos\theta$ que forman bucles, hay que ser cuidadoso con:
 > 
 > - Regiones donde $r < 0$
 > - Múltiples valores de $r$ para el mismo $\theta$
@@ -106,17 +106,17 @@
 
 ### 🎯 Definición Fundamental
 
-> [!tip]- 🆔 **Fórmula para Curvas Paramétricas** Para una curva paramétrica $x = x(t)$, $y = y(t)$ con $t \in [a,b]$, el área entre la curva y el eje $x$ es:
+> [!tip] 🆔 **Fórmula para Curvas Paramétricas** Para una curva paramétrica $x = x(t)$, $y = y(t)$ con $t \in [a,b]$, el área entre la curva y el eje $x$ es:
 > 
 > $$A = \int_a^b y(t) \cdot x'(t) , dt$$
 > 
 > Para el área entre dos curvas paramétricas: $$A = \left|\int_a^b [y_1(t) - y_2(t)] \cdot x'(t) , dt\right|$$
 
-> [!warning]- ⚠️ **Orientación Importante** El signo del resultado depende de la orientación de la curva. Usar valor absoluto para obtener el área geométrica.
+> [!warning] ⚠️ **Orientación Importante** El signo del resultado depende de la orientación de la curva. Usar valor absoluto para obtener el área geométrica.
 
 ### 📋 Metodología para Curvas Paramétricas
 
-> [!info]- 🔧 **Proceso para Áreas Paramétricas**
+> [!info] 🔧 **Proceso para Áreas Paramétricas**
 > 
 > **Paso 1**: Identificar las parametrizaciones
 > 
@@ -135,7 +135,7 @@
 
 #### 📬 Ejemplo 1: Elipse y Recta
 
-> [!tip]- 📈 **Área entre elipse $x = 3\cos t, y = 2\sin t$ y recta $y = 1$**
+> [!tip] 📈 **Área entre elipse $x = 3\cos t, y = 2\sin t$ y recta $y = 1$**
 > 
 > **Paso 1**: Parametrizar ambas curvas
 > 
@@ -148,7 +148,7 @@
 
 #### 📬 Ejemplo 2: Cicloide
 
-> [!tip]- 📈 **Área bajo una arcada de cicloide**
+> [!tip] 📈 **Área bajo una arcada de cicloide**
 > 
 > Para la cicloide $x = a(t - \sin t), y = a(1 - \cos t)$:
 > 
@@ -158,11 +158,11 @@
 
 #### 🔀 De Polares a Paramétricas
 
-> [!info]- 🔄 **Conversión Polar → Paramétrica** Una curva polar $r = f(\theta)$ se puede parametrizar como: $$x(\theta) = f(\theta)\cos\theta$$ $$y(\theta) = f(\theta)\sin\theta$$
+> [!info] 🔄 **Conversión Polar → Paramétrica** Una curva polar $r = f(\theta)$ se puede parametrizar como: $$x(\theta) = f(\theta)\cos\theta$$ $$y(\theta) = f(\theta)\sin\theta$$
 
 #### 🔀 De Paramétricas a Rectangulares
 
-> [!warning]- ⚠️ **Eliminación del Parámetro** A veces es útil eliminar el parámetro para obtener $y = g(x)$ y usar métodos rectangulares:
+> [!warning] ⚠️ **Eliminación del Parámetro** A veces es útil eliminar el parámetro para obtener $y = g(x)$ y usar métodos rectangulares:
 > 
 > 1. Despejar $t$ de $x = x(t)$
 > 2. Sustituir en $y = y(t)$
@@ -171,13 +171,13 @@
 
 ### 🌀 Área de Lemniscata
 
-> [!tip]- ∞ **Lemniscata de Bernoulli: $r^2 = a^2\cos(2\theta)$**
+> [!tip] ∞ **Lemniscata de Bernoulli: $r^2 = a^2\cos(2\theta)$**
 > 
 > Área total: $$A = 4 \cdot \frac{1}{2}\int_0^{\pi/4} a^2\cos(2\theta) , d\theta = a^2$$
 
 ### 🌸 Pétalos de Rosa
 
-> [!info]- 🌹 **Rosa de n pétalos: $r = a\cos(n\theta)$ o $r = a\sin(n\theta)$**
+> [!info] 🌹 **Rosa de n pétalos: $r = a\cos(n\theta)$ o $r = a\sin(n\theta)$**
 > 
 > - Si $n$ es impar: $n$ pétalos
 > - Si $n$ es par: $2n$ pétalos
@@ -186,7 +186,7 @@
 
 ### 💫 Espirales
 
-> [!warning]- 🌀 **Espiral de Arquímedes: $r = a\theta$**
+> [!warning] 🌀 **Espiral de Arquímedes: $r = a\theta$**
 > 
 > Área entre espiras consecutivas: $$A = \frac{1}{2}\int_{2\pi k}^{2\pi(k+1)} (a\theta)^2 , d\theta = \frac{\pi^3 a^2}{3}(2k+1)$$
 
@@ -194,13 +194,13 @@
 
 ### 🎯 Teorema de Green para Áreas
 
-> [!tip]- 🌊 **Aplicación del Teorema de Green** Para una curva cerrada simple $C$ parametrizada por $x(t), y(t)$:
+> [!tip] 🌊 **Aplicación del Teorema de Green** Para una curva cerrada simple $C$ parametrizada por $x(t), y(t)$:
 > 
 > $$A = \frac{1}{2}\oint_C (x , dy - y , dx) = \frac{1}{2}\int_a^b [x(t)y'(t) - y(t)x'(t)] , dt$$
 
 ### 🔄 Cambio de Variables
 
-> [!info]- 🔄 **Jacobiano en Coordenadas Polares**
+> [!info] 🔄 **Jacobiano en Coordenadas Polares**
 > 
 > El elemento de área en polares es: $$dA = r , dr , d\theta$$
 > 
@@ -208,7 +208,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- 🚨 **Errores Frecuentes**
+> [!warning] 🚨 **Errores Frecuentes**
 > 
 > 1. **En coordenadas polares**:
 >     - ❌ Olvidar el factor $\frac{1}{2}$ en la fórmula
@@ -227,7 +227,7 @@
 
 ### 🔮 Simetría en Polares
 
-> [!tip]- 🪞 **Aprovechando Simetrías**
+> [!tip] 🪞 **Aprovechando Simetrías**
 > 
 > - **Simetría respecto al eje polar**: Si $r(-\theta) = r(\theta)$, integrar de $0$ a $\pi$ y multiplicar por 2
 > - **Simetría respecto al eje $\pi/2$**: Si $r(\pi - \theta) = r(\theta)$
@@ -235,7 +235,7 @@
 
 ### 💫 Curvas Especiales
 
-> [!info]- ⭐ **Fórmulas Útiles para Curvas Conocidas**
+> [!info] ⭐ **Fórmulas Útiles para Curvas Conocidas**
 > 
 > **Cardioide** $r = a(1 + \cos\theta)$: Área = $\frac{3\pi a^2}{2}$
 > 
@@ -249,7 +249,7 @@
 
 ### 📐 Relación con Área en Rectangulares
 
-> [!info]- 🔄 **Casos donde es mejor cada sistema**
+> [!info] 🔄 **Casos donde es mejor cada sistema**
 > 
 > **Usar polares cuando**:
 > 
@@ -279,7 +279,7 @@
 ### 📖 Para Profundizar
 
 - [[Integrales Dobles en Polares\|Integrales Dobles en Polares]] - Extensión a regiones más generales
-- [[Cálculo Vectorial\|Cálculo Vectorial]] - Aplicaciones del teorema de Green
+- [[Universidad/2do Semestre/Cálculo Vectorial/Cálculo Vectorial\|Cálculo Vectorial]] - Aplicaciones del teorema de Green
 - [[Geometría Diferencial\|Geometría Diferencial]] - Curvas en espacios más generales
 - [[Análisis Complejo\|Análisis Complejo]] - Representación de curvas usando números complejos
 

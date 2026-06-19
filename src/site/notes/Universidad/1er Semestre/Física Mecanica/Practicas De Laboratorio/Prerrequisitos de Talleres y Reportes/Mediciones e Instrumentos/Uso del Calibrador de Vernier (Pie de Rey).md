@@ -7,11 +7,11 @@
 
 > [!quote] "La precisión en la medición es el primer paso hacia la excelencia científica; el vernier es tu aliado en esta búsqueda." 📏
 
-> [!info]- El calibrador de Vernier, también conocido como pie de rey o calibre, es un instrumento de medición de alta precisión utilizado para medir dimensiones internas, externas, profundidades y alturas. Su invención revolucionó las mediciones mecánicas al permitir lecturas con precisión de hasta 0.02 mm o incluso 0.01 mm.
+> [!info] El calibrador de Vernier, también conocido como pie de rey o calibre, es un instrumento de medición de alta precisión utilizado para medir dimensiones internas, externas, profundidades y alturas. Su invención revolucionó las mediciones mecánicas al permitir lecturas con precisión de hasta 0.02 mm o incluso 0.01 mm.
 
 ## 🔧 Anatomía del Calibrador
 
-> [!info]- **Partes Principales** 📐
+> [!info] **Partes Principales** 📐
 > 
 > ### Componentes Estructurales:
 > 
@@ -38,7 +38,7 @@
 > - Permite lecturas fraccionarias
 > - Precisión típica: 0.1 mm, 0.05 mm o 0.02 mm
 
-> [!tip]- **Tipos de Calibradores** 🌊
+> [!tip] **Tipos de Calibradores** 🌊
 > 
 > ### Según su Precisión:
 > 
@@ -64,7 +64,7 @@
 > - ❌ Requiere batería
 > - ❌ Más sensible a interferencias
 
-> [!warning]- **Principio del Vernier** ⚡
+> [!warning] **Principio del Vernier** ⚡
 > 
 > ### Fundamento Físico:
 > 
@@ -106,7 +106,7 @@
 >     style F fill:#f1f8e9
 > ```
 
-> [!note]- **Procedimiento de Lectura Paso a Paso** 📝
+> [!note] **Procedimiento de Lectura Paso a Paso** 📝
 > 
 > ### Para Vernier de 0.1 mm (10 divisiones):
 > 
@@ -139,7 +139,7 @@
 
 ## 🎯 Técnicas de Medición
 
-> [!tip]- **Mediciones Externas** 🧠
+> [!tip] **Mediciones Externas** 🧠
 > 
 > ### Procedimiento:
 > 
@@ -164,7 +164,7 @@
 > - ❌ Medir superficies rugosas o sucias
 > - ❌ Inclinar el calibrador durante la medición
 
-> [!tip]- **Mediciones Internas** 📊
+> [!tip] **Mediciones Internas** 📊
 > 
 > ### Procedimiento:
 > 
@@ -188,7 +188,7 @@
 > - Requiere mayor cuidado en el manejo
 > - La presión excesiva puede deformar piezas delgadas
 
-> [!tip]- **Medición de Profundidades** 📏
+> [!tip] **Medición de Profundidades** 📏
 > 
 > ### Procedimiento:
 > 
@@ -207,7 +207,7 @@
 
 ## 📚 Ejemplos Prácticos
 
-> [!example]- **Ejemplo 1: Lectura de Vernier 0.1 mm** 📏
+> [!example] **Ejemplo 1: Lectura de Vernier 0.1 mm** 📏
 > 
 > ### Situación:
 > 
@@ -228,7 +228,7 @@
 > 
 > **Diámetro = 15.4 ± 0.05 mm** (incertidumbre = precisión/2)
 
-> [!example]- **Ejemplo 2: Lectura de Vernier 0.02 mm** 🔍
+> [!example] **Ejemplo 2: Lectura de Vernier 0.02 mm** 🔍
 > 
 > ### Situación:
 > 
@@ -249,7 +249,7 @@
 > 
 > La línea 35 en un vernier de 50 divisiones corresponde a 35/50 = 0.70 mm ✓
 
-> [!example]- **Ejemplo 3: Medición Interna** 🕳️
+> [!example] **Ejemplo 3: Medición Interna** 🕳️
 > 
 > ### Problema:
 > 
@@ -276,11 +276,11 @@
 
 ## 🧮 Técnicas de Memorización
 
-> [!tip]- **Mnemotecnia: "CLAVE"** 🎯
+> [!tip] **Mnemotecnia: "CLAVE"** 🎯
 > 
 > **C**ero del vernier en escala principal **L**eer número completo anterior **A**ñadir coincidencia del vernier **V**erificar resultado coherente **E**xpresar con incertidumbre apropiada
 
-> [!tip]- **Reglas de Oro para el Vernier** 📏
+> [!tip] **Reglas de Oro para el Vernier** 📏
 > 
 > 1. **Siempre verificar el cero** antes de medir
 > 2. **La coincidencia debe ser exacta**, no aproximada
@@ -291,7 +291,7 @@
 
 ## ⚠️ Errores Comunes y Cuidados
 
-> [!warning]- **Errores Frecuentes en la Lectura** ⚠️
+> [!warning] **Errores Frecuentes en la Lectura** ⚠️
 > 
 > 1. **Confundir la escala**: Leer mm como cm o viceversa
 > 2. **Paralaje**: No mirar perpendicular a la escala
@@ -300,7 +300,7 @@
 > 5. **Precisión errónea**: Usar decimales incorrectos según el tipo de vernier
 > 6. **Cero mal ajustado**: No verificar que las mordazas cerradas den 0.00
 
-> [!warning]- **Cuidados del Instrumento** 🛠️
+> [!warning] **Cuidados del Instrumento** 🛠️
 > 
 > ### Mantenimiento Preventivo:
 > 
@@ -335,7 +335,7 @@
 
 ## 🎯 Aplicaciones en el Laboratorio
 
-> [!info]- **Experimentos Comunes** 🔬
+> [!info] **Experimentos Comunes** 🔬
 > 
 > ### Mecánica de Sólidos:
 > 
@@ -363,7 +363,7 @@
 
 ## 📖 Referencias
 
-> [!quote]- **Notas Relacionadas**
+> [!quote] **Notas Relacionadas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Mediciones e Instrumentos/Mediciones Fundamentales\|Mediciones Fundamentales]] - Conceptos básicos de medición
 > - [[Universidad/1er Semestre/Física Mecanica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis de Datos y Errores/Errores Absolutos y Relativos\|Errores Absolutos y Relativos]] - Análisis de incertidumbres
@@ -372,13 +372,13 @@
 
 ## 📚 Notas Recomendadas
 
-> [!note]- **Prerrequisitos**
+> [!note] **Prerrequisitos**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Mediciones e Instrumentos/Mediciones Fundamentales\|Mediciones Fundamentales]] - Base conceptual
 > - **Aritmética básica**: Suma, multiplicación decimal
 > - **Conceptos de precisión**: Diferencia entre exactitud y precisión
 
-> [!note]- **Temas Siguientes**
+> [!note] **Temas Siguientes**
 > 
 > - [[Micrómetro\|Micrómetro]] - Instrumento de mayor precisión
 > - [[Universidad/1er Semestre/Física Mecanica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis de Datos y Errores/Incertidumbres Experimentales\|Incertidumbres Experimentales]] - Propagación de errores

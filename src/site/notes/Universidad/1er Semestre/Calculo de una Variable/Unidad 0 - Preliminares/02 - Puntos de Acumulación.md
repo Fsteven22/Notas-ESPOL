@@ -7,7 +7,7 @@
 
 ## 🎯 Fundamentos de Puntos de Acumulación
 
-> [!info]- 💡 Introducción Intuitiva Un **punto de acumulación** es un punto que tiene "infinitamente muchos" elementos de un conjunto arbitrariamente cerca de él. Es la formalización matemática de la idea de que "hay puntos del conjunto amontonados alrededor de ese punto".
+> [!info] 💡 Introducción Intuitiva Un **punto de acumulación** es un punto que tiene "infinitamente muchos" elementos de un conjunto arbitrariamente cerca de él. Es la formalización matemática de la idea de que "hay puntos del conjunto amontonados alrededor de ese punto".
 > 
 > **Analogías útiles:**
 > 
@@ -19,7 +19,7 @@
 
 ### 📐 Definición Formal
 
-> [!note]- 🌟 Concepto Fundamental
+> [!note] 🌟 Concepto Fundamental
 > 
 > Sea $(X, d)$ un espacio métrico, $A \subseteq X$ un conjunto, y $x_0 \in X$ un punto (que puede o no estar en $A$).
 > 
@@ -37,7 +37,7 @@
 
 ### 🔍 Interpretación y Matices
 
-> [!tip]- 💭 ¿Qué significa realmente?
+> [!tip] 💭 ¿Qué significa realmente?
 > 
 > **Aspectos importantes:**
 > 
@@ -67,7 +67,7 @@
 
 ### 📏 En la Recta Real
 
-> [!example]- 🔢 $(\mathbb{R}, d_E)$
+> [!example] 🔢 $(\mathbb{R}, d_E)$
 > 
 > **Ejemplo 1: Intervalo abierto $(0, 1)$**
 > 
@@ -115,7 +115,7 @@
 
 ### 🗺️ En el Plano
 
-> [!example]- 🌍 $(\mathbb{R}^2, d_E)$
+> [!example] 🌍 $(\mathbb{R}^2, d_E)$
 > 
 > **Ejemplo 1: Disco abierto $B((0,0), 1)$**
 > 
@@ -155,7 +155,7 @@
 
 ### 🎲 En Espacios Discretos
 
-> [!example]- 🔢 $(X, d_D)$
+> [!example] 🔢 $(X, d_D)$
 > 
 > Sea $X$ cualquier conjunto con métrica discreta y $A \subseteq X$.
 > 
@@ -173,7 +173,7 @@
 
 ### 📊 Diferentes Formas de Ver lo Mismo
 
-> [!note]- 🔀 Definiciones Equivalentes
+> [!note] 🔀 Definiciones Equivalentes
 > 
 > Sea $(X, d)$ un espacio métrico, $A \subseteq X$, y $x_0 \in X$. Las siguientes afirmaciones son **equivalentes**:
 > 
@@ -189,7 +189,7 @@
 
 ### ✅ La Caracterización por Sucesiones (Más Útil)
 
-> [!tip]- 🎯 Usando Sucesiones
+> [!tip] 🎯 Usando Sucesiones
 > 
 > **Teorema:** $x_0$ es punto de acumulación de $A$ si y solo si existe una sucesión $(x_n)$ en $A$ con todos los términos distintos de $x_0$ que converge a $x_0$.
 > 
@@ -211,7 +211,7 @@
 
 ### 📍 Punto Aislado
 
-> [!note]- ⭕ Puntos que NO Acumulan
+> [!note] ⭕ Puntos que NO Acumulan
 > 
 > **Definición:** Un punto $x_0 \in A$ es **aislado** en $A$ si NO es punto de acumulación de $A$.
 > 
@@ -229,7 +229,7 @@
 
 ### 🎯 Punto Interior
 
-> [!note]- 🔵 Puntos "Rodeados" por el Conjunto
+> [!note] 🔵 Puntos "Rodeados" por el Conjunto
 > 
 > **Definición:** Un punto $x_0 \in A$ es un **punto interior** de $A$ si existe $r > 0$ tal que $B(x_0, r) \subseteq A$.
 > 
@@ -250,7 +250,7 @@
 
 ### 🎨 Punto Frontera
 
-> [!note]- 🔶 Puntos en el "Borde"
+> [!note] 🔶 Puntos en el "Borde"
 > 
 > **Definición:** Un punto $x_0 \in X$ es un **punto frontera** de $A$ si toda bola alrededor de $x_0$ contiene puntos de $A$ Y puntos de $X \setminus A$.
 > 
@@ -270,7 +270,7 @@
 
 ### 🎯 Clausura de un Conjunto
 
-> [!note]- 🔵 La Clausura Incluye Puntos de Acumulación
+> [!note] 🔵 La Clausura Incluye Puntos de Acumulación
 > 
 > **Definición:** La **clausura** (o **cerradura**) de $A$ es: $$\overline{A} = A \cup A'$$
 > 
@@ -289,7 +289,7 @@
 
 ### ✅ Conjuntos Cerrados
 
-> [!success]- 🔒 Definición con Puntos de Acumulación
+> [!success] 🔒 Definición con Puntos de Acumulación
 > 
 > **Teorema:** Un conjunto $A$ es **cerrado** si y solo si contiene todos sus puntos de acumulación.
 > 
@@ -313,7 +313,7 @@
 
 ### 📊 Proposiciones Básicas
 
-> [!tip]- ⚡ Resultados Fundamentales
+> [!tip] ⚡ Resultados Fundamentales
 > 
 > **Propiedad 1:** Si $A \subseteq B$, entonces $A' \subseteq B'$
 > 
@@ -337,7 +337,7 @@
 
 ### 🎨 Relación con Sucesiones
 
-> [!example]- 📈 Convergencia y Acumulación
+> [!example] 📈 Convergencia y Acumulación
 > 
 > **Teorema:** Si $(x_n)$ es una sucesión en $A$ que converge a $x_0$, entonces:
 > 
@@ -362,7 +362,7 @@
 
 ### 🎯 Conjuntos Especiales en $\mathbb{R}$
 
-> [!example]- 🌟 Casos Interesantes
+> [!example] 🌟 Casos Interesantes
 > 
 > **Ejemplo 1: El conjunto de Cantor**
 > 
@@ -395,7 +395,7 @@
 
 ### 🗺️ Conjuntos Especiales en $\mathbb{R}^2$
 
-> [!example]- 🌍 Casos en el Plano
+> [!example] 🌍 Casos en el Plano
 > 
 > **Ejemplo 1: La circunferencia $S^1 = {(x, y) : x^2 + y^2 = 1}$**
 > 
@@ -417,7 +417,7 @@
 
 ## 🧪 Ejercicios Progresivos
 
-> [!example]- 💪 Práctica con Puntos de Acumulación
+> [!example] 💪 Práctica con Puntos de Acumulación
 > 
 > **Nivel 1 - Identificación básica:** 🟢
 > 
@@ -469,7 +469,7 @@
 
 ## 🔗 Conexiones con el Sistema de Notas
 
-> [!quote]- 🌐 Enlaces Conceptuales
+> [!quote] 🌐 Enlaces Conceptuales
 > 
 > **Prerequisitos:**
 > 
@@ -517,7 +517,7 @@ graph TD
 
 ## 🎯 Conceptos Clave para Recordar
 
-> [!tip]- 💡 Puntos Esenciales
+> [!tip] 💡 Puntos Esenciales
 > 
 > **Definición fundamental:**
 > 
@@ -547,7 +547,7 @@ graph TD
 
 ## 🎨 Tabla Comparativa de Tipos de Puntos
 
-> [!note]- 📊 Resumen Comparativo
+> [!note] 📊 Resumen Comparativo
 > 
 > |Tipo de Punto|Debe estar en $A$|Condición|Ejemplo|
 > |---|---|---|---|
@@ -567,7 +567,7 @@ graph TD
 
 ### 🎪 Ejemplos Contraintuitivos
 
-> [!example]- 🤯 Situaciones Sorprendentes
+> [!example] 🤯 Situaciones Sorprendentes
 > 
 > **Caso 1: Conjunto donde todos los puntos son de acumulación**
 > 
@@ -611,7 +611,7 @@ graph TD
 
 ### 🌟 Propiedades Curiosas
 
-> [!tip]- ✨ Hechos Interesantes
+> [!tip] ✨ Hechos Interesantes
 > 
 > **Propiedad 1: Densidad**
 > 
@@ -644,7 +644,7 @@ graph TD
 
 ### 📐 Unión e Intersección
 
-> [!note]- 🔀 Comportamiento con Operaciones
+> [!note] 🔀 Comportamiento con Operaciones
 > 
 > Sean $A, B \subseteq X$ conjuntos en un espacio métrico.
 > 
@@ -670,7 +670,7 @@ graph TD
 
 ### 🎯 Complemento
 
-> [!note]- 🔄 Puntos de Acumulación del Complemento
+> [!note] 🔄 Puntos de Acumulación del Complemento
 > 
 > En general, **NO hay relación simple** entre $A'$ y $(X \setminus A)'$.
 > 
@@ -694,7 +694,7 @@ graph TD
 
 ### 📊 En Análisis de Datos
 
-> [!example]- 📈 Clustering y Outliers
+> [!example] 📈 Clustering y Outliers
 > 
 > **Detección de clusters:**
 > 
@@ -715,7 +715,7 @@ graph TD
 
 ### 🔬 En Física
 
-> [!example]- ⚛️ Distribuciones de Materia
+> [!example] ⚛️ Distribuciones de Materia
 > 
 > **Distribución de partículas:**
 > 
@@ -732,7 +732,7 @@ graph TD
 
 ### 💻 En Computación
 
-> [!example]- 🖥️ Algoritmos y Estructuras
+> [!example] 🖥️ Algoritmos y Estructuras
 > 
 > **Búsqueda de vecinos:**
 > 
@@ -756,7 +756,7 @@ graph TD
 
 ### 🏆 Bolzano-Weierstrass
 
-> [!success]- 🌟 Teorema Fundamental
+> [!success] 🌟 Teorema Fundamental
 > 
 > **Teorema de Bolzano-Weierstrass:**
 > 
@@ -774,7 +774,7 @@ graph TD
 
 ### 📐 Caracterización de Compacidad
 
-> [!success]- 💎 Relación con Compacidad
+> [!success] 💎 Relación con Compacidad
 > 
 > **Teorema:** En espacios métricos, $K$ es compacto si y solo si:
 > 
@@ -789,7 +789,7 @@ graph TD
 
 ### 🔍 Caracterización de Conjuntos Cerrados
 
-> [!success]- 🔒 Criterio Secuencial
+> [!success] 🔒 Criterio Secuencial
 > 
 > **Teorema:** En espacios métricos, $A$ es cerrado si y solo si:
 > 
@@ -809,7 +809,7 @@ graph TD
 
 ## 📝 Ejercicios Adicionales
 
-> [!example]- 💪 Práctica Avanzada
+> [!example] 💪 Práctica Avanzada
 > 
 > **Ejercicio 1:** ¿Cuáles son los puntos de acumulación de los siguientes conjuntos en $\mathbb{R}$?
 > 
@@ -846,7 +846,7 @@ graph TD
 
 ## 🎯 Estrategias para Identificar Puntos de Acumulación
 
-> [!tip]- 🧠 Métodos Prácticos
+> [!tip] 🧠 Métodos Prácticos
 > 
 > **Método 1: Construcción de sucesión**
 > 
@@ -879,7 +879,7 @@ graph TD
 
 # 🔗 Conexiones con el Sistema de Notas
 
-> [!quote]- 🌐 Enlaces Conceptuales
+> [!quote] 🌐 Enlaces Conceptuales
 > 
 > **Prerequisitos:**
 > 

@@ -7,7 +7,7 @@
 
 ## 📚 Introducción
 
-> [!info]- 💡 ¿Qué son los Valores y Vectores Propios?
+> [!info] 💡 ¿Qué son los Valores y Vectores Propios?
 > 
 > Los **valores propios** (eigenvalues) y **vectores propios** (eigenvectors) son conceptos fundamentales en álgebra lineal que describen direcciones especiales en las que una transformación lineal actúa simplemente como un escalamiento.
 > 
@@ -52,7 +52,7 @@ graph LR
 
 ### 📐 Visualización del Concepto
 
-> [!example]- 🔍 ¿Qué Significa Geométricamente?
+> [!example] 🔍 ¿Qué Significa Geométricamente?
 > 
 > **Comparación visual de vectores:**
 > 
@@ -114,7 +114,7 @@ graph LR
 
 ### 📝 Ecuación Característica
 
-> [!note]- 🎯 Método para Encontrar λ
+> [!note] 🎯 Método para Encontrar λ
 > 
 > **Derivación de la ecuación característica:**
 > 
@@ -179,7 +179,7 @@ graph LR
 
 ### 🧮 Ejemplos de Cálculo
 
-> [!success]- 💪 Ejemplos Resueltos
+> [!success] 💪 Ejemplos Resueltos
 > 
 > **Ejemplo 1: Matriz 2×2 simple**
 > 
@@ -277,7 +277,7 @@ graph LR
 
 ### 🔍 Método de Solución
 
-> [!tip]- 🛠︄ Encontrar Vectores Propios
+> [!tip] 🛠︄ Encontrar Vectores Propios
 > 
 > **Una vez conocidos los valores propios λ:**
 > 
@@ -342,7 +342,7 @@ graph LR
 
 ### 🔄 Normalización y Base
 
-> [!success]- 📏 Vectores Propios Normalizados
+> [!success] 📏 Vectores Propios Normalizados
 > 
 > **¿Por qué normalizar?**
 > 
@@ -398,7 +398,7 @@ graph LR
 
 ### 🔀 Concepto y Proceso
 
-> [!info]- 🎯 ¿Qué es Diagonalizar?
+> [!info] 🎯 ¿Qué es Diagonalizar?
 > 
 > **Diagonalizar** una matriz A significa encontrar matrices P y D tales que:
 > $$A = PDP^{-1}$$
@@ -453,7 +453,7 @@ graph LR
 
 ### 📊 Ejemplo Completo
 
-> [!example]- 💡 Diagonalización Paso a Paso
+> [!example] 💡 Diagonalización Paso a Paso
 > 
 > **Matriz a diagonalizar:**
 > $$A = \begin{pmatrix} 4 & 1 \\ 2 & 3 \end{pmatrix}$$
@@ -541,7 +541,7 @@ graph LR
 
 ### 📐 Teoremas Clave
 
-> [!note]- 📚 Resultados Fundamentales
+> [!note] 📚 Resultados Fundamentales
 > 
 > **1. Teorema de Diagonalización**
 > 
@@ -636,7 +636,7 @@ graph LR
 
 ### 🔢 Casos Especiales
 
-> [!success]- 🎯 Matrices con Propiedades Especiales
+> [!success] 🎯 Matrices con Propiedades Especiales
 > 
 > **1. Matrices Ortogonales (Q)**
 > 
@@ -733,7 +733,7 @@ graph LR
 ---
 ## 🎓 Ejercicios Guiados
 
-> [!example]- 💪 Práctica con Ejemplos
+> [!example] 💪 Práctica con Ejemplos
 > 
 > ### **Nivel Básico:**
 > 
@@ -1044,7 +1044,7 @@ flowchart TD
 
 ### Tabla Resumen Completa
 
-> [!success]- 📋 Referencia Rápida
+> [!success] 📋 Referencia Rápida
 > 
 > | Concepto | Fórmula/Definición | Interpretación |
 > |----------|-------------------|----------------|
@@ -1061,7 +1061,7 @@ flowchart TD
 
 ## 🎯 Casos Comunes y Atajos
 
-> [!tip]- ⚄ Trucos para Resolver Más Rápido
+> [!tip] ⚄ Trucos para Resolver Más Rápido
 > **1. Matrices 2×2**
 > 
 > Para $A = \begin{pmatrix} a & b \\ c & d \end{pmatrix}$:
@@ -1114,7 +1114,7 @@ flowchart TD
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Continuando el Aprendizaje
+> [!quote] 🌟 Continuando el Aprendizaje
 
 **Has dominado:**
 

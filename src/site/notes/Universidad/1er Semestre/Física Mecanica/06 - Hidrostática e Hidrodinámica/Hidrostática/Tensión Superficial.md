@@ -11,7 +11,7 @@
 
 ## 📋 Conceptos Fundamentales
 
->[!info]- 🎯 **Definición de Tensión Superficial**
+>[!info] 🎯 **Definición de Tensión Superficial**
 >La tensión superficial es la fuerza cohesiva que actúa en la superficie de un líquido, causada por las interacciones moleculares desbalanceadas en la interfase líquido-gas. Se manifiesta como una tendencia del líquido a minimizar su área superficial.
 >
 >**Características principales:**
@@ -23,7 +23,7 @@
 >**Símbolo:** γ (gamma) o σ (sigma)
 >**Unidades SI:** N/m = J/m²
 
->[!info]- 🔬 **Origen Molecular**
+>[!info] 🔬 **Origen Molecular**
 >En el interior del líquido, cada molécula está rodeada por otras moléculas y las fuerzas de atracción se equilibran. En la superficie, las moléculas tienen menos vecinos, creando un desbalance de fuerzas hacia el interior del líquido.
 >
 >```mermaid
@@ -44,7 +44,7 @@
 
 ## 🔢 Propiedades y Características
 
->[!tip]- 📊 **Valores Típicos de Tensión Superficial**
+>[!tip] 📊 **Valores Típicos de Tensión Superficial**
 >A 20°C en contacto con aire:
 >
 >| Líquido | γ (N/m) | γ (dyn/cm) |
@@ -62,7 +62,7 @@
 >- **Presión:** Efecto mínimo en líquidos
 >- **Naturaleza química:** Polaridad molecular
 
->[!tip]- 🌡️ **Dependencia con la Temperatura**
+>[!tip] 🌡️ **Dependencia con la Temperatura**
 >La tensión superficial generalmente disminuye linealmente con la temperatura:
 >$$\gamma(T) = \gamma_0 - k(T - T_0)$$
 >
@@ -75,7 +75,7 @@
 
 ## ⚖️ Ecuaciones Fundamentales
 
->[!warning]- 🧮 **Ecuaciones Básicas**
+>[!warning] 🧮 **Ecuaciones Básicas**
 >
 >**1. Definición por fuerza:**
 >$$\gamma = \frac{F}{L}$$
@@ -117,7 +117,7 @@ Esta es la forma más fundamental, donde el trabajo infinitesimal para crear ár
 
 ## 📋 Fenómenos Relacionados
 
->[!example]- 💧 **Capilaridad**
+>[!example] 💧 **Capilaridad**
 >**Definición:** Ascenso o descenso de un líquido en tubos estrechos debido a la tensión superficial y las fuerzas de adhesión/cohesión.
 >
 >**Ecuación de ascenso capilar:**
@@ -134,7 +134,7 @@ Esta es la forma más fundamental, donde el trabajo infinitesimal para crear ár
 >- **Agua en vidrio:** θ ≈ 0°, cos θ ≈ 1 (asciende)
 >- **Mercurio en vidrio:** θ ≈ 140°, cos θ < 0 (desciende)
 
->[!example]- 🫧 **Formación de Burbujas y Gotas**
+>[!example] 🫧 **Formación de Burbujas y Gotas**
 >**Burbujas de jabón:**
 >- **Una superficie:** $$\Delta P = \frac{2\gamma}{R}$$
 >- **Dos superficies:** $$\Delta P = \frac{4\gamma}{R}$$
@@ -144,7 +144,7 @@ Esta es la forma más fundamental, donde el trabajo infinitesimal para crear ár
 >- Radio de curvatura relacionado con presión interna
 >- Deformación por resistencia del aire al caer
 
->[!example]- 🌊 **Ondas Capilares**
+>[!example] 🌊 **Ondas Capilares**
 >Ondas en la superficie de líquidos donde la tensión superficial es la fuerza restauradora dominante.
 >
 >**Velocidad de onda capilar:**
@@ -154,7 +154,7 @@ Esta es la forma más fundamental, donde el trabajo infinitesimal para crear ár
 
 ## 🧠 Técnica de Estudio: Método GOTA
 
->[!tip]- 🎓 **Estrategia de Aprendizaje: Mnemotecnia GOTA**
+>[!tip] 🎓 **Estrategia de Aprendizaje: Mnemotecnia GOTA**
 >Para problemas de tensión superficial usa el método **GOTA**:
 >
 >**G - Geometría** identificar la forma de la superficie (esfera, cilindro, plano)
@@ -173,7 +173,7 @@ Esta es la forma más fundamental, donde el trabajo infinitesimal para crear ár
 
 ## 🧪 Experimentos y Aplicaciones
 
->[!example]- 🔬 **Métodos de Medición**
+>[!example] 🔬 **Métodos de Medición**
 >
 >**1. Método del anillo de Du Noüy:**
 >- Medir la fuerza necesaria para desprender un anillo de la superficie
@@ -191,7 +191,7 @@ Esta es la forma más fundamental, donde el trabajo infinitesimal para crear ár
 >- Medir fuerza sobre placa parcialmente sumergida
 >- $$\gamma = \frac{F}{P\cos\theta}$$ donde P es el perímetro
 
->[!example]- 🏭 **Aplicaciones Industriales**
+>[!example] 🏭 **Aplicaciones Industriales**
 >
 >**Detergentes y surfactantes:**
 >- Reducen la tensión superficial del agua
@@ -208,7 +208,7 @@ Esta es la forma más fundamental, donde el trabajo infinitesimal para crear ár
 
 ## 🌿 Fenómenos Biológicos
 
->[!info]- 🦎 **Tensión Superficial en la Naturaleza**
+>[!info] 🦎 **Tensión Superficial en la Naturaleza**
 >
 >**Insectos caminando sobre el agua:**
 >- Los patinadores de agua distribuyen su peso
@@ -227,7 +227,7 @@ Esta es la forma más fundamental, donde el trabajo infinitesimal para crear ár
 
 ## 🧪 Problemas Resueltos
 
->[!example]- 💡 **Problema 1: Ascenso Capilar**
+>[!example] 💡 **Problema 1: Ascenso Capilar**
 >Un tubo capilar de vidrio limpio con radio interno de 0.5 mm se introduce en agua a 20°C. ¿Qué altura alcanza el agua? (γ = 0.0728 N/m, ρ = 1000 kg/m³, θ ≈ 0°)
 >
 >**Solución:**
@@ -237,7 +237,7 @@ Esta es la forma más fundamental, donde el trabajo infinitesimal para crear ár
 >
 >$$h = \frac{2 \times 0.0728 \times 1}{4.905} = \frac{0.1456}{4.905} = 0.0297 \text{ m} = 2.97 \text{ cm}$$
 
->[!example]- 💡 **Problema 2: Presión en Burbuja de Jabón**
+>[!example] 💡 **Problema 2: Presión en Burbuja de Jabón**
 >Una burbuja de jabón tiene un diámetro de 4 cm. Si la tensión superficial del agua jabonosa es 0.025 N/m, ¿cuál es la presión manométrica dentro de la burbuja?
 >
 >**Solución:**
@@ -248,7 +248,7 @@ Esta es la forma más fundamental, donde el trabajo infinitesimal para crear ár
 >
 >$$\Delta P = \frac{4 \times 0.025}{0.02} = \frac{0.1}{0.02} = 5 \text{ Pa}$$
 
->[!example]- 💡 **Problema 3: Fuerza en Interfase**
+>[!example] 💡 **Problema 3: Fuerza en Interfase**
 >¿Qué fuerza se necesita para desprender una lámina rectangular de 5 cm × 2 cm de la superficie del agua? (γ = 0.0728 N/m)
 >
 >**Solución:**
@@ -261,7 +261,7 @@ Esta es la forma más fundamental, donde el trabajo infinitesimal para crear ár
 
 ## 🔍 Referencias y Conexiones
 
->[!quote]- 📚 **Referencias a otras notas**
+>[!quote] 📚 **Referencias a otras notas**
 >- [[Hidrostática e Hidrodinámica\|Hidrostática e Hidrodinámica]] - Contexto de mecánica de fluidos
 >- [[Fuerzas Intermoleculares\|Fuerzas Intermoleculares]] - Origen microscópico del fenómeno
 >- [[Termodinámica de Superficies\|Termodinámica de Superficies]] - Aspectos energéticos
@@ -270,7 +270,7 @@ Esta es la forma más fundamental, donde el trabajo infinitesimal para crear ár
 
 ## 📖 Notas Recomendadas para Complementar
 
->[!info]- 🎯 **Prerrequisitos y Temas Relacionados**
+>[!info] 🎯 **Prerrequisitos y Temas Relacionados**
 >
 >**Prerrequisitos esenciales:**
 >- [[Presión y Densidad 1\|Presión y Densidad 1]] - Conceptos fundamentales de fluidos
@@ -286,7 +286,7 @@ Esta es la forma más fundamental, donde el trabajo infinitesimal para crear ár
 
 ## 🔧 Técnicas Experimentales
 
->[!tip]- 🛠️ **Consejos para Experimentos**
+>[!tip] 🛠️ **Consejos para Experimentos**
 >
 >**Limpieza crítica:**
 >- Lavar toda la cristalería con detergente y enjuagar abundantemente

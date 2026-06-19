@@ -7,11 +7,11 @@
 
 > [!quote] "El torque es la llave maestra que abre las puertas del movimiento rotacional; donde la fuerza encuentra su brazo de palanca, nace la rotación." 🔑
 
-> [!info]- El torque o momento de fuerza es la magnitud física que describe la tendencia de una fuerza a provocar una rotación alrededor de un eje. Su comprensión es fundamental para analizar el equilibrio rotacional y la dinámica de cuerpos rígidos en movimiento angular.
+> [!info] El torque o momento de fuerza es la magnitud física que describe la tendencia de una fuerza a provocar una rotación alrededor de un eje. Su comprensión es fundamental para analizar el equilibrio rotacional y la dinámica de cuerpos rígidos en movimiento angular.
 
 ## 🔧 Fundamentos del Torque
 
-> [!info]- **Definición y Conceptos Básicos** ⚙️
+> [!info] **Definición y Conceptos Básicos** ⚙️
 > 
 > ### Definición Matemática:
 > 
@@ -36,7 +36,7 @@
 > |Sentido|Horario (-) / Antihorario (+)|---|
 > |Naturaleza|Magnitud vectorial|Vector|
 
-> [!tip]- **Regla de la Mano Derecha** 👋
+> [!tip] **Regla de la Mano Derecha** 👋
 > 
 > ### Para determinar la dirección del torque:
 > 
@@ -49,7 +49,7 @@
 > - **Positivo (+)**: Rotación antihoraria (saliendo del plano)
 > - **Negativo (-)**: Rotación horaria (entrando al plano)
 
-> [!warning]- **Brazo de Palanca o Brazo de Momento** ⚡
+> [!warning] **Brazo de Palanca o Brazo de Momento** ⚡
 > 
 > ### Definición:
 > 
@@ -69,7 +69,7 @@
 
 ## 📐 Cálculo de Brazo de Palanca
 
-> [!example]- **Fuerza Perpendicular vs. Fuerza Inclinada** 📏
+> [!example] **Fuerza Perpendicular vs. Fuerza Inclinada** 📏
 > 
 > ### Caso 1: Fuerza Perpendicular (θ = 90°)
 > 
@@ -103,7 +103,7 @@
 >     style D fill:#ffb74d
 > ```
 
-> [!example]- **Uso de τ = F · r · sin θ** 🔄
+> [!example] **Uso de τ = F · r · sin θ** 🔄
 > 
 > ### Estrategia de Resolución:
 > 
@@ -129,7 +129,7 @@
 > τ = F · d_efectivo
 > ```
 
-> [!example]- **Ejemplo Resuelto: Fuerza a 30° sobre palanca de 50 cm** 🔧
+> [!example] **Ejemplo Resuelto: Fuerza a 30° sobre palanca de 50 cm** 🔧
 > 
 > ### Enunciado:
 > 
@@ -164,7 +164,7 @@
 
 ## ⚙️ Torques Múltiples
 
-> [!tip]- **Varias Fuerzas Actuando sobre el Mismo Cuerpo** 🔄
+> [!tip] **Varias Fuerzas Actuando sobre el Mismo Cuerpo** 🔄
 > 
 > ### Principio de Superposición:
 > 
@@ -184,7 +184,7 @@
 >     - τ_neto < 0: Rotación horaria
 >     - τ_neto = 0: Equilibrio rotacional
 
-> [!example]- **Ejemplo: Barra con Dos Fuerzas en Extremos Distintos** ⚖️
+> [!example] **Ejemplo: Barra con Dos Fuerzas en Extremos Distintos** ⚖️
 > 
 > ### Enunciado:
 > 
@@ -236,7 +236,7 @@
 > - Dirección: **Rotación horaria**
 > - El extremo izquierdo baja, el derecho sube
 
-> [!example]- **Problema Avanzado: Sistema de Tres Fuerzas** 🔺
+> [!example] **Problema Avanzado: Sistema de Tres Fuerzas** 🔺
 > 
 > ### Enunciado:
 > 
@@ -286,7 +286,7 @@
 
 ## ⚖️ Equilibrio de Torques (Rotacional)
 
-> [!success]- **Condición de Equilibrio Rotacional** 🎯
+> [!success] **Condición de Equilibrio Rotacional** 🎯
 > 
 > ### Primera Condición: Suma de Torques = 0
 > 
@@ -308,7 +308,7 @@
 > 3. **Plantear la ecuación Σ τ = 0**
 > 4. **Resolver para la incógnita**
 
-> [!example]- **Ejemplo: Viga Horizontal Sostenida por Cable** 🏗️
+> [!example] **Ejemplo: Viga Horizontal Sostenida por Cable** 🏗️
 > 
 > ### Enunciado:
 > 
@@ -402,7 +402,7 @@
 > 
 > **Corrección del análisis**: Necesitamos considerar un punto de apoyo adicional o replantear el problema como una viga en voladizo.
 
-> [!example]- **Ejemplo Corregido: Viga en Equilibrio con Dos Apoyos** ⚖️
+> [!example] **Ejemplo Corregido: Viga en Equilibrio con Dos Apoyos** ⚖️
 > 
 > ### Enunciado Modificado:
 > 
@@ -456,7 +456,7 @@
 
 ## 🧮 Técnicas de Memorización
 
-> [!tip]- **Mnemotecnia: "FARDS"** 🎯
+> [!tip] **Mnemotecnia: "FARDS"** 🎯
 > 
 > **F**uerza × **A**ngulo × **R**adio = **D**irección del **S**entido
 > 
@@ -466,14 +466,14 @@
 > - **D**: Aplica regla de la mano derecha
 > - **S**: Suma algebraica de torques
 
-> [!tip]- **Regla Nemotécnica para el Signo** ↻↺
+> [!tip] **Regla Nemotécnica para el Signo** ↻↺
 > 
 > - **"Antihorario Arriba"** → Positivo (+)
 > - **"Horario Hundido"** → Negativo (-)
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- **Confusiones Frecuentes** ⚠️
+> [!warning] **Confusiones Frecuentes** ⚠️
 > 
 > 1. **Confundir distancia total con brazo de palanca efectivo**
 > 2. **No aplicar correctamente sin θ** en fuerzas inclinadas
@@ -486,7 +486,7 @@
 
 ## 🎯 Casos Especiales del Torque
 
-> [!info]- **Situaciones Particulares** 🔄
+> [!info] **Situaciones Particulares** 🔄
 > 
 > ### Torque Nulo:
 > 
@@ -510,7 +510,7 @@
 
 ## 📊 Tabla de Referencia Rápida
 
-> [!note]- **Fórmulas y Conversiones** 📋
+> [!note] **Fórmulas y Conversiones** 📋
 > 
 > |Situación|Fórmula|Observaciones|
 > |---|---|---|
@@ -523,7 +523,7 @@
 
 ## 🔗 Aplicaciones Prácticas
 
-> [!info]- **Ejemplos del Mundo Real** 🌍
+> [!info] **Ejemplos del Mundo Real** 🌍
 > 
 > ### Herramientas y Maquinaria:
 > 
@@ -551,7 +551,7 @@
 
 ## 📖 Referencias
 
-> [!quote]- **Notas Relacionadas**
+> [!quote] **Notas Relacionadas**
 > 
 > - [[Dinámica de Rotación\|Dinámica de Rotación]] - Aplicación del torque en movimiento
 > - [[Universidad/1er Semestre/Física Mecanica/05 - Equilibrio y Elasticidad/Equilibrio\|Equilibrio]] - Condiciones de equilibrio estático
@@ -561,7 +561,7 @@
 
 ## 📚 Notas Recomendadas
 
-> [!note]- **Prerrequisitos**
+> [!note] **Prerrequisitos**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/02 - Dinámica/Dinámica de Traslación/Fuerzas y Diagramas de Cuerpo Libre\|Fuerzas y Diagramas de Cuerpo Libre]] - Análisis de fuerzas
 > - [[Universidad/1er Semestre/Física Mecanica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]] - Fundamentos dinámicos

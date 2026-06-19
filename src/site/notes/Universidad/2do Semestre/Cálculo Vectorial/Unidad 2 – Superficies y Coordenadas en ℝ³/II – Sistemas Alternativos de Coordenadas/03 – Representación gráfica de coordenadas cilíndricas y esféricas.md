@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción a la Visualización
 
-> [!info]- 💡 Importancia de la Representación Gráfica La **visualización geométrica** de los sistemas de coordenadas cilíndricas y esféricas es fundamental para:
+> [!info] 💡 Importancia de la Representación Gráfica La **visualización geométrica** de los sistemas de coordenadas cilíndricas y esféricas es fundamental para:
 > 
 > **Objetivos de aprendizaje:**
 > 
@@ -39,7 +39,7 @@
 
 ### 📐 Componentes del Sistema Cilíndrico
 
-> [!note]- 🌟 Anatomía de las Coordenadas Cilíndricas **Los tres parámetros (ρ, φ, z):**
+> [!note] 🌟 Anatomía de las Coordenadas Cilíndricas **Los tres parámetros (ρ, φ, z):**
 > 
 > **1. Radio cilíndrico (ρ):**
 > 
@@ -115,7 +115,7 @@
 
 ### 🎨 Superficies Coordenadas Cilíndricas
 
-> [!warning]- 📊 Familias de Superficies Las **superficies coordenadas** se obtienen fijando una de las tres coordenadas:
+> [!warning] 📊 Familias de Superficies Las **superficies coordenadas** se obtienen fijando una de las tres coordenadas:
 > 
 > #### **1. Superficies ρ = constante**
 > **Ecuación:** ρ = k (k > 0)
@@ -252,7 +252,7 @@
 
 ### 📏 Líneas Coordenadas Cilíndricas
 
-> [!tip]- 🔗 Curvas de Intersección Las **líneas coordenadas** son las intersecciones de dos superficies coordenadas:
+> [!tip] 🔗 Curvas de Intersección Las **líneas coordenadas** son las intersecciones de dos superficies coordenadas:
 > 
 > #### **1. Líneas radiales (ρ variable, φ y z fijos)
 > **
@@ -367,7 +367,7 @@
 
 ### 🎯 Vectores Unitarios en Cilíndricas
 
-> [!success]- ➡️ Base Ortonormal Local En coordenadas cilíndricas, la base ortonormal **varía con la posición**:
+> [!success] ➡️ Base Ortonormal Local En coordenadas cilíndricas, la base ortonormal **varía con la posición**:
 > 
 > **1. Vector radial unitario (êρ):**
 > 
@@ -446,7 +446,7 @@
 
 ### 📐 Componentes del Sistema Esférico
 
-> [!note]- 🌟 Anatomía de las Coordenadas Esféricas **Los tres parámetros (r, θ, φ):**
+> [!note] 🌟 Anatomía de las Coordenadas Esféricas **Los tres parámetros (r, θ, φ):**
 > 
 > **1. Radio esférico (r):**
 > 
@@ -536,7 +536,7 @@
 
 ### 🎨 Superficies Coordenadas Esféricas
 
-> [!warning]- 📊 Familias de Superficies Esféricas
+> [!warning] 📊 Familias de Superficies Esféricas
 >
 >#### **1. Superficies r = constante**
 v
@@ -689,7 +689,7 @@ v
 
 ### 📏 Líneas Coordenadas Esféricas
 
-> [!tip]- 🔗 Curvas de Intersección Esféricas
+> [!tip] 🔗 Curvas de Intersección Esféricas
 >
 >#### **1. Líneas radiales (r variable, θ y φ fijos)**
 >
@@ -815,7 +815,7 @@ v
 
 ### 🎯 Vectores Unitarios en Esféricas
 
-> [!success]- ➡️ Base Ortonormal Local Esférica En coordenadas esféricas, la base ortonormal **varía con la posición**:
+> [!success] ➡️ Base Ortonormal Local Esférica En coordenadas esféricas, la base ortonormal **varía con la posición**:
 > 
 > **1. Vector radial unitario (êr):**
 > 
@@ -903,7 +903,7 @@ v
 
 ### 🔀 Tabla Comparativa
 
-> [!example]- 📋 Resumen de Superficies y Líneas
+> [!example] 📋 Resumen de Superficies y Líneas
 > 
 > |Característica|Cartesianas|Cilíndricas|Esféricas|
 > |---|---|---|---|
@@ -921,7 +921,7 @@ v
 
 ### 🎨 Visualización Comparativa
 
-> [!note]- 🖼️ Esquemas de los Tres Sistemas
+> [!note] 🖼️ Esquemas de los Tres Sistemas
 > 
 > **Sistema Cartesiano:**
 > 
@@ -983,7 +983,7 @@ v
 
 ### 📦 Descripción de Regiones Geométricas
 
-> [!warning]- 🔷 Regiones Típicas
+> [!warning] 🔷 Regiones Típicas
 >
 >#### **1. Cilindro Sólido**
 >
@@ -1130,7 +1130,7 @@ v
 
 ## 🧮 Ejercicios de Visualización
 
-> [!example]- 💪 Práctica de Representación
+> [!example] 💪 Práctica de Representación
 >
 >### **Nivel 1 - Identificación:** 🟢
 >
@@ -1335,7 +1335,7 @@ graph TB
 
 ## 💡 Consejos para Visualización
 
-> [!tip]- 🧠 Estrategias de Visualización Efectiva
+> [!tip] 🧠 Estrategias de Visualización Efectiva
 > 
 > **Técnicas de dibujo:**
 > 
@@ -1388,7 +1388,7 @@ graph TB
 
 ## 🔗 Conexiones Conceptuales
 
-> [!quote]- 🌟 Enlaces con Otros Temas
+> [!quote] 🌟 Enlaces con Otros Temas
 > 
 > **Prerrequisitos:**
 > 
@@ -1398,7 +1398,7 @@ graph TB
 > 
 > **Temas relacionados:**
 > 
-> - [[Cálculo Vectorial\|Cálculo Vectorial]] - Gradiente, divergencia, rotacional
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Cálculo Vectorial\|Cálculo Vectorial]] - Gradiente, divergencia, rotacional
 > - [[Integrales Triples\|Integrales Triples]] - Cambios de variable
 > - [[Ecuaciones Diferenciales\|Ecuaciones Diferenciales]] - Laplaciano en diferentes coordenadas
 > 

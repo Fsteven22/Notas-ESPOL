@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué son los Polinomios de Taylor en Varias Variables?
+> [!info] 💡 ¿Qué son los Polinomios de Taylor en Varias Variables?
 > 
 > Los **polinomios de Taylor** en varias variables son extensiones del concepto univariado que permiten aproximar funciones de múltiples variables mediante **sumas finitas de términos polinómicos**.
 > 
@@ -42,7 +42,7 @@ graph TB
     style D fill:#fff5e1
 ```
 
-> [!tip]- 🎯 ¿Cuándo Usar Taylor Multivariable?
+> [!tip] 🎯 ¿Cuándo Usar Taylor Multivariable?
 > 
 > **✅ Usa polinomios de Taylor cuando:**
 > 
@@ -64,7 +64,7 @@ graph TB
 
 ### 📝 Caso de Dos Variables
 
-> [!example]- 🔨 Polinomio de Taylor de orden n
+> [!example] 🔨 Polinomio de Taylor de orden n
 > 
 > Para una función f(x, y) alrededor del punto (a, b):
 > 
@@ -88,7 +88,7 @@ graph TB
 
 ### 📊 Tabla de Términos por Orden
 
-> [!info]- 📋 Estructura de Términos
+> [!info] 📋 Estructura de Términos
 > 
 > |Orden|Términos|Ejemplo en (x,y)|Interpretación|
 > |---|---|---|---|
@@ -105,7 +105,7 @@ graph TB
 
 ### 📐 Proceso de Cálculo
 
-> [!example]- ✏️ Método para Construir el Polinomio
+> [!example] ✏️ Método para Construir el Polinomio
 > 
 > **Pasos sistemáticos:**
 > 
@@ -128,7 +128,7 @@ graph TB
 
 ### 🎯 Ejemplo Completo
 
-> [!example]- 🌟 Aproximación de e^(x+y) en (0,0)
+> [!example] 🌟 Aproximación de e^(x+y) en (0,0)
 > 
 > **Función:** f(x,y) = e^(x+y)
 > 
@@ -170,7 +170,7 @@ graph TB
 > 
 > _Nota: El error crece al alejarnos del origen_
 
-> [!example]- 🎨 Aproximación de sen(x)·cos(y) en (0,0)
+> [!example] 🎨 Aproximación de sen(x)·cos(y) en (0,0)
 > 
 > **Función:** f(x,y) = sen(x)·cos(y)
 > 
@@ -208,7 +208,7 @@ graph TB
 
 ### 🌐 Extensión a ℝ³
 
-> [!info]- 🔵 Polinomio de Taylor en f(x,y,z)
+> [!info] 🔵 Polinomio de Taylor en f(x,y,z)
 > 
 > Para tres variables alrededor de (a,b,c):
 > 
@@ -237,7 +237,7 @@ graph TB
 
 ### 📊 Forma Vectorial
 
-> [!tip]- 🎯 Notación con Operadores
+> [!tip] 🎯 Notación con Operadores
 > 
 > **Vector de desplazamiento:** $$\mathbf{h} = \begin{pmatrix} x-a \ y-b \end{pmatrix} = \begin{pmatrix} h_1 \ h_2 \end{pmatrix}$$
 > 
@@ -252,7 +252,7 @@ graph TB
 > - $\nabla f(\mathbf{a})^T \mathbf{h}$ = término lineal
 > - $\mathbf{h}^T H_f(\mathbf{a}) \mathbf{h}$ = término cuadrático
 
-> [!example]- 📐 Ejemplo con Notación Matricial
+> [!example] 📐 Ejemplo con Notación Matricial
 > 
 > Para f(x,y) = x² + xy + 2y² en (1,1):
 > 
@@ -272,7 +272,7 @@ graph TB
 
 ### 🔍 Optimización
 
-> [!success]- 📈 Análisis de Puntos Críticos
+> [!success] 📈 Análisis de Puntos Críticos
 > 
 > **Criterio de la segunda derivada en 2D:**
 > 
@@ -292,7 +292,7 @@ graph TB
 > |D < 0|**Punto silla**|
 > |D = 0|Indeterminado|
 
-> [!example]- 🎲 Ejemplo de Optimización
+> [!example] 🎲 Ejemplo de Optimización
 > 
 > **Función:** f(x,y) = x² - 2xy + 3y²
 > 
@@ -321,7 +321,7 @@ graph TB
 
 ### 📊 Linealización de Sistemas
 
-> [!tip]- ⚙️ Aproximación Lineal
+> [!tip] ⚙️ Aproximación Lineal
 > 
 > En física e ingeniería, aproximamos sistemas no lineales:
 > 
@@ -339,7 +339,7 @@ graph TB
 
 ### 📏 Residuo de Taylor
 
-> [!warning]- ⚠️ Término de Error
+> [!warning] ⚠️ Término de Error
 > 
 > **Fórmula del residuo (Lagrange):**
 > 
@@ -359,7 +359,7 @@ graph TB
 > - Disminuye con mayor orden del polinomio
 > - Depende de las derivadas de la función
 
-> [!example]- 📊 Comparación de Errores
+> [!example] 📊 Comparación de Errores
 > 
 > Para f(x,y) = e^(x+y) en (0,0):
 > 
@@ -375,7 +375,7 @@ graph TB
 
 ## ✅ Resumen de Fórmulas Clave
 
-> [!summary]- 📋 Referencia Rápida
+> [!summary] 📋 Referencia Rápida
 > 
 > **Polinomio de Taylor orden 1 (2D):** $$P_1(x,y) = f(a,b) + f_x(a,b)(x-a) + f_y(a,b)(y-b)$$
 > 
@@ -391,7 +391,7 @@ graph TB
 
 ## 🎓 Ejercicios Propuestos
 
-> [!question]- 💪 Práctica Guiada
+> [!question] 💪 Práctica Guiada
 > 
 > **Ejercicio 1:** Encuentra P₂(x,y) para f(x,y) = x² + y² en (1,1)
 > 
@@ -432,7 +432,7 @@ mindmap
       Mejora con orden
 ```
 
-> [!quote]- 💡 Puntos Clave
+> [!quote] 💡 Puntos Clave
 > 
 > - **Aproximación local** = Polinomio simple que imita función compleja
 > - **Orden 1** = Plano tangente (mejor aproximación lineal)

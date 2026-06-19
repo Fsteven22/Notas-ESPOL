@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es el Teorema del Valor Medio? El **Teorema del Valor Medio para Integrales Triples** es una extensión natural del teorema clásico al espacio tridimensional. Establece que para funciones continuas sobre regiones acotadas, existe un punto donde la función toma su "valor promedio".
+> [!info] 💡 ¿Qué es el Teorema del Valor Medio? El **Teorema del Valor Medio para Integrales Triples** es una extensión natural del teorema clásico al espacio tridimensional. Establece que para funciones continuas sobre regiones acotadas, existe un punto donde la función toma su "valor promedio".
 > 
 > **Analogía práctica:** Imagina medir la temperatura en todos los puntos de una habitación:
 > 
@@ -51,7 +51,7 @@ graph TB
 
 ### 🎲 Versión Clásica
 
-> [!note]- 📋 Teorema del Valor Medio (Forma Principal)
+> [!note] 📋 Teorema del Valor Medio (Forma Principal)
 > 
 > Sea $f: D \subset \mathbb{R}^3 \to \mathbb{R}$ una función **continua** en una región $D$ **conexa** y **acotada**. Entonces existe al menos un punto $\mathbf{c} = (c_1, c_2, c_3) \in D$ tal que:
 > 
@@ -100,7 +100,7 @@ graph TB
 
 ### 🔢 Valor Promedio
 
-> [!success]- 📊 Definición de Valor Promedio
+> [!success] 📊 Definición de Valor Promedio
 > 
 > El **valor promedio** (o **valor medio**) de una función $f$ sobre una región $D$ es:
 > 
@@ -149,7 +149,7 @@ graph TB
 
 ### 📝 Prueba Detallada
 
-> [!example]- 🧮 Demostración Paso a Paso
+> [!example] 🧮 Demostración Paso a Paso
 > 
 > **Paso 1: Establecer cotas**
 > 
@@ -220,7 +220,7 @@ graph TB
 
 ### 📊 Estimación de Integrales
 
-> [!tip]- 🔢 Acotación de Valores
+> [!tip] 🔢 Acotación de Valores
 > 
 > **Corolario (Desigualdad de acotación):**
 > 
@@ -268,7 +268,7 @@ graph TB
 
 ### 🌡️ Valor Promedio en Física
 
-> [!success]- ⚡ Magnitudes Físicas Promedio
+> [!success] ⚡ Magnitudes Físicas Promedio
 > 
 > **Aplicaciones físicas directas:**
 > 
@@ -307,7 +307,7 @@ graph TB
 
 ### 🎲 Teorema de Existencia
 
-> [!note]- ✅ Garantía de Soluciones
+> [!note] ✅ Garantía de Soluciones
 > 
 > El teorema del valor medio garantiza la **existencia** de puntos con propiedades específicas.
 > 
@@ -333,7 +333,7 @@ graph TB
 
 ### 📐 Teorema del Valor Medio Ponderado
 
-> [!example]- ⚖️ Versión con Peso
+> [!example] ⚖️ Versión con Peso
 > 
 > **Enunciado:**
 > 
@@ -360,7 +360,7 @@ graph TB
 
 ### 🌐 Teorema en Otras Coordenadas
 
-> [!tip]- 🔄 Coordenadas Cilíndricas y Esféricas
+> [!tip] 🔄 Coordenadas Cilíndricas y Esféricas
 > 
 > El teorema también vale en otros sistemas de coordenadas, pero el volumen se calcula con el Jacobiano correspondiente.
 > 
@@ -384,7 +384,7 @@ graph TB
 
 ### 📌 Ejemplo 1: Valor Promedio en Cubo
 
-> [!example]- 📦 Función Polinomial
+> [!example] 📦 Función Polinomial
 > 
 > **Problema:** Encontrar el valor promedio de $f(x,y,z) = x^2 + y^2 + z^2$ en el cubo $D = [0,2] \times [0,2] \times [0,2]$.
 > 
@@ -408,7 +408,7 @@ graph TB
 
 ### 📌 Ejemplo 2: Estimación de Integral
 
-> [!example]- 🎯 Acotación sin Calcular
+> [!example] 🎯 Acotación sin Calcular
 > 
 > **Problema:** Estimar $\displaystyle I = \iiint_D \frac{1}{1+x^2+y^2+z^2},dV$ donde $D = [-1,1]^3$ sin calcular la integral.
 > 
@@ -439,7 +439,7 @@ graph TB
 
 ### 📌 Ejemplo 3: Aplicación Física
 
-> [!example]- 🌡️ Temperatura Promedio
+> [!example] 🌡️ Temperatura Promedio
 > 
 > **Problema:** En una esfera sólida de radio $R$, la temperatura está dada por:
 > 
@@ -469,7 +469,7 @@ graph TB
 
 ## 🎯 Ejercicios Propuestos
 
-> [!question]- 💪 Práctica ProgresivaNivel Básico
+> [!question] 💪 Práctica ProgresivaNivel Básico
 > **1.** Calcular el valor promedio de $f(x,y,z) = xyz$ en $D = [0,1] \times [0,2] \times [0,3]$
 > 
 > **2.** Encontrar cotas para $\displaystyle \iiint_D \sin(x+y+z),dV$ donde $D = [0,\pi/4]^3$
@@ -496,7 +496,7 @@ graph TB
 
 ## 📊 Comparación con Casos 1D y 2D
 
-> [!note]- 🔍 Unificación de Conceptos
+> [!note] 🔍 Unificación de Conceptos
 > 
 > |Dimensión|Dominio|Fórmula del valor medio|Punto especial|
 > |---|---|---|---|
@@ -534,7 +534,7 @@ graph TB
 
 ## 📚 Resumen y Fórmulas Clave
 
-> [!note]- 📖 Compendio Rápido
+> [!note] 📖 Compendio Rápido
 > 
 > ### Teorema Principal
 > 
@@ -570,7 +570,7 @@ graph TB
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Progresión del Aprendizaje
+> [!quote] 🌟 Progresión del Aprendizaje
 > 
 > ```mermaid
 > mindmap

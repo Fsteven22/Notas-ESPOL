@@ -11,7 +11,7 @@
 
 ## 📋 Definición y Características
 
-> [!info]- 🎯 **¿Qué son los Problemas de Persecución?** Son situaciones cinemáticas donde un **móvil perseguidor** busca **alcanzar** a otro **móvil objetivo** que tiene una **ventaja inicial** en posición, tiempo, o ambos. El perseguidor debe tener mayor velocidad para lograr el alcance.
+> [!info] 🎯 **¿Qué son los Problemas de Persecución?** Son situaciones cinemáticas donde un **móvil perseguidor** busca **alcanzar** a otro **móvil objetivo** que tiene una **ventaja inicial** en posición, tiempo, o ambos. El perseguidor debe tener mayor velocidad para lograr el alcance.
 > 
 > **🔑 Condiciones fundamentales:**
 > 
@@ -23,7 +23,7 @@
 
 ## 🏃‍♂️ Tipos de Problemas de Persecución
 
-> [!tip]- 🚗 **Persecución Clásica (Velocidades Constantes)** **Situación:** Ambos móviles mantienen velocidades constantes durante toda la persecución
+> [!tip] 🚗 **Persecución Clásica (Velocidades Constantes)** **Situación:** Ambos móviles mantienen velocidades constantes durante toda la persecución
 > 
 > ```mermaid
 > graph LR
@@ -39,7 +39,7 @@
 > - 🚗 Auto rápido alcanzando auto lento
 > - 🏃‍♂️ Corredor alcanzando a otro en pista
 
-> [!warning]- 🚀 **Persecución con Aceleración** **Situación:** El perseguidor acelera desde reposo o velocidad inicial menor
+> [!warning] 🚀 **Persecución con Aceleración** **Situación:** El perseguidor acelera desde reposo o velocidad inicial menor
 > 
 > ```mermaid
 > graph TB
@@ -57,7 +57,7 @@
 > - 🚂 Tren expreso alcanzando tren local
 > - 🚴‍♂️ Ciclista acelerando para alcanzar pelotón
 
-> [!note]- ⏰ **Persecución con Retardo Temporal** **Situación:** El perseguidor sale después que el objetivo
+> [!note] ⏰ **Persecución con Retardo Temporal** **Situación:** El perseguidor sale después que el objetivo
 > 
 > **Casos típicos:**
 > 
@@ -67,7 +67,7 @@
 > 
 > **Característica:** Combina ventaja espacial y temporal
 
-> [!abstract]- 🎯 **Persecución Interceptiva** **Situación:** El perseguidor toma una ruta directa hacia donde estará el objetivo
+> [!abstract] 🎯 **Persecución Interceptiva** **Situación:** El perseguidor toma una ruta directa hacia donde estará el objetivo
 > 
 > **Aplicaciones:**
 > 
@@ -75,7 +75,7 @@
 > - ⚽ Portero anticipando trayectoria del balón
 > - 🐕 Perro corriendo hacia donde llegará la pelota
 
-> [!note]- 🚌 **Problemas de Alcance (Caso Especial)** **Situación:** Similar a persecución, pero el móvil más rápido **sale después** que el más lento desde el **mismo punto**
+> [!note] 🚌 **Problemas de Alcance (Caso Especial)** **Situación:** Similar a persecución, pero el móvil más rápido **sale después** que el más lento desde el **mismo punto**
 > 
 > ```mermaid
 > graph LR
@@ -103,7 +103,7 @@
 
 ## 📐 Metodología de Resolución
 
-> [!example]- 🛠️ **Pasos para Resolver Problemas de Persecución**
+> [!example] 🛠️ **Pasos para Resolver Problemas de Persecución**
 > 
 > ### Paso 1: Analizar las Condiciones Iniciales
 > 
@@ -138,7 +138,7 @@
 
 ## 🧮 Casos Específicos y Fórmulas
 
-> [!abstract]- 📊 **Tabla de Fórmulas para Casos Comunes**
+> [!abstract] 📊 **Tabla de Fórmulas para Casos Comunes**
 > 
 > |Tipo de Persecución|Condiciones|Tiempo de Alcance|Posición de Alcance|
 > |---|---|---|---|
@@ -151,7 +151,7 @@
 
 ## 💡 Análisis de Viabilidad
 
-> [!warning]- 🚫 **¿Cuándo NO es Posible la Persecución?**
+> [!warning] 🚫 **¿Cuándo NO es Posible la Persecución?**
 > 
 > ### Condición de Imposibilidad
 > 
@@ -173,7 +173,7 @@
 
 ## 💡 Ejemplos Resueltos
 
-> [!example]- 🚔 **Ejemplo 1: Persecución Policial Clásica** **Problema:** Un ladrón escapa en auto a 60 km/h. Después de 10 minutos, la policía sale en persecución a 90 km/h. ¿Cuánto tiempo perseguirá la policía al ladrón y a qué distancia del punto de partida ocurrirá el alcance?
+> [!example] 🚔 **Ejemplo 1: Persecución Policial Clásica** **Problema:** Un ladrón escapa en auto a 60 km/h. Después de 10 minutos, la policía sale en persecución a 90 km/h. ¿Cuánto tiempo perseguirá la policía al ladrón y a qué distancia del punto de partida ocurrirá el alcance?
 > 
 > **Solución:**
 > 
@@ -200,7 +200,7 @@
 > 
 > **Respuesta:** La policía perseguirá durante 20 minutos y alcanzará al ladrón a 30 km del punto de partida policial.
 
-> [!example]- 🏎️ **Ejemplo 2: Persecución con Aceleración** **Problema:** Un auto deportivo (inicialmente en reposo) persigue a un auto que pasa por su lado a 20 m/s constante. El deportivo acelera a 4 m/s². ¿Cuándo y dónde alcanzará al auto en movimiento?
+> [!example] 🏎️ **Ejemplo 2: Persecución con Aceleración** **Problema:** Un auto deportivo (inicialmente en reposo) persigue a un auto que pasa por su lado a 20 m/s constante. El deportivo acelera a 4 m/s². ¿Cuándo y dónde alcanzará al auto en movimiento?
 > 
 > **Solución:**
 > 
@@ -229,7 +229,7 @@
 > 
 > **Respuesta:** El auto deportivo alcanzará al objetivo a los 10 segundos, a 200 m del punto de partida. En ese momento, el deportivo viajará a 40 m/s.
 
-> [!example]- 🚌 **Ejemplo 3: Problema de Alcance** **Problema:** Un bus sale de la estación a 60 km/h. 10 minutos después sale un auto a 90 km/h desde la misma estación. ¿Cuándo alcanzará el auto al bus y a qué distancia de la estación?
+> [!example] 🚌 **Ejemplo 3: Problema de Alcance** **Problema:** Un bus sale de la estación a 60 km/h. 10 minutos después sale un auto a 90 km/h desde la misma estación. ¿Cuándo alcanzará el auto al bus y a qué distancia de la estación?
 > 
 > **Solución:**
 > 
@@ -255,7 +255,7 @@
 
 ## 📊 Análisis Gráfico
 
-> [!note]- 📈 **Gráficos Posición vs Tiempo**
+> [!note] 📈 **Gráficos Posición vs Tiempo**
 > 
 > ```mermaid
 > graph TB
@@ -287,7 +287,7 @@
 
 ## 🧠 Técnica Mnemotécnica: "PERSIGO"
 
-> [!tip]- 🎯 **Método PERSIGO para Problemas de Persecución**
+> [!tip] 🎯 **Método PERSIGO para Problemas de Persecución**
 > 
 > **P** - **P**osiciones iniciales (ventaja del objetivo) **E** - **E**cuaciones de movimiento para ambos móviles **R** - **R**equisito fundamental: $v_{perseguidor} > v_{objetivo}$ **S** - **S**ustituir en condición de alcance: $x_1(t) = x_2(t)$ **I** - **I**gualar y resolver para tiempo **G** - **G**ráficar para visualizar (opcional pero útil) **O** - **O**btener posición final y verificar
 > 
@@ -297,7 +297,7 @@
 
 ## 🎪 Variantes y Casos Especiales
 
-> [!abstract]- 🔄 **Persecución Circular** **Situación:** Móviles en pista circular, el perseguidor debe dar una vuelta completa de ventaja
+> [!abstract] 🔄 **Persecución Circular** **Situación:** Móviles en pista circular, el perseguidor debe dar una vuelta completa de ventaja
 > 
 > **Consideraciones especiales:**
 > 
@@ -305,7 +305,7 @@
 > - Velocidad relativa constante en pista cerrada
 > - Múltiples alcances posibles (cada vuelta)
 
-> [!note]- 🎯 **Persecución Interceptiva** **Situación:** El perseguidor se dirige hacia donde estará el objetivo, no donde está
+> [!note] 🎯 **Persecución Interceptiva** **Situación:** El perseguidor se dirige hacia donde estará el objetivo, no donde está
 > 
 > **Método:**
 > 
@@ -315,7 +315,7 @@
 > 
 > **Ejemplo:** Portero atajando penal, misil interceptor
 
-> [!warning]- ⚡ **Persecución con Cambio de Velocidad** **Situación:** Las velocidades cambian durante la persecución
+> [!warning] ⚡ **Persecución con Cambio de Velocidad** **Situación:** Las velocidades cambian durante la persecución
 > 
 > **Análisis por tramos:**
 > 
@@ -327,7 +327,7 @@
 
 ## ⚠️ Errores Comunes y Consejos
 
-> [!warning]- 🚫 **Errores Frecuentes**
+> [!warning] 🚫 **Errores Frecuentes**
 > 
 > ### ❌ Error 1: No Considerar la Ventaja Inicial
 > 
@@ -349,7 +349,7 @@
 
 ## 🔬 Aplicaciones en el Mundo Real
 
-> [!abstract]- 🌍 **Aplicaciones Prácticas**
+> [!abstract] 🌍 **Aplicaciones Prácticas**
 > 
 > ### 🛡️ Militar y Defensa
 > 
@@ -373,7 +373,7 @@
 
 ## 🔗 Referencias
 
-> [!quote]- 📚 **Notas Relacionadas**
+> [!quote] 📚 **Notas Relacionadas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/01 - Cinemática/Aplicaciones de Cinemática Traslacional/Problemas de Encuentro\|Problemas de Encuentro]] - Casos donde no hay ventaja inicial
 > - [[Universidad/1er Semestre/Física Mecanica/01 - Cinemática/Cinemática Traslacional\|Cinemática Traslacional]] - Ecuaciones fundamentales

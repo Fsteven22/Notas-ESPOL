@@ -7,11 +7,11 @@
 
 > [!quote] "La fricción no es solo una resistencia al movimiento, es la fuerza que permite caminar, frenar y mantenernos en pie; sin ella, el mundo sería un lugar imposible de habitar." 🌪️
 
-> [!info]- El rozamiento o fricción es una fuerza que se opone al movimiento relativo entre superficies en contacto. Esta fuerza fundamental en la mecánica determina desde la capacidad de un vehículo para frenar hasta la estabilidad de objetos en superficies inclinadas. Comprender sus tipos, características y aplicaciones es esencial para resolver problemas de dinámica y diseñar sistemas mecánicos eficientes.
+> [!info] El rozamiento o fricción es una fuerza que se opone al movimiento relativo entre superficies en contacto. Esta fuerza fundamental en la mecánica determina desde la capacidad de un vehículo para frenar hasta la estabilidad de objetos en superficies inclinadas. Comprender sus tipos, características y aplicaciones es esencial para resolver problemas de dinámica y diseñar sistemas mecánicos eficientes.
 
 ## 🎯 Tipos de Rozamiento
 
-> [!info]- **Rozamiento Estático (fₛ)** 🚫
+> [!info] **Rozamiento Estático (fₛ)** 🚫
 > 
 > ### Características Principales:
 > 
@@ -34,7 +34,7 @@
 > - **Valor máximo**: fₛ,máx = μₛN
 > - **Siempre menor o igual**: fₛ ≤ μₛN
 
-> [!tip]- **Rozamiento Cinético (fₖ)** 🏃‍♂️
+> [!tip] **Rozamiento Cinético (fₖ)** 🏃‍♂️
 > 
 > ### Características Principales:
 > 
@@ -55,7 +55,7 @@
 > - fₖ = μₖN
 > - μₖ = fₖ/N (coeficiente de fricción cinética)
 
-> [!warning]- **Rozamiento por Rodadura (fᵣ)** 🎳
+> [!warning] **Rozamiento por Rodadura (fᵣ)** 🎳
 > 
 > ### Características Principales:
 > 
@@ -94,7 +94,7 @@
 >     style D fill:#fff3e0
 > ```
 
-> [!note]- **Leyes de la Fricción** 📐
+> [!note] **Leyes de la Fricción** 📐
 > 
 > ### Ley de Amontons-Coulomb:
 > 
@@ -110,7 +110,7 @@
 
 ## 🎯 Estrategias de Resolución
 
-> [!tip]- **Método FRNA (Fricción-Fuerzas-Normal-Análisis)** 🧠
+> [!tip] **Método FRNA (Fricción-Fuerzas-Normal-Análisis)** 🧠
 > 
 > ### **F**ricción - Identifica el tipo
 > 
@@ -138,7 +138,7 @@
 
 ## 📚 Problemas Tipo
 
-> [!example]- **Problema 1: Bloque en Superficie Horizontal** 📦
+> [!example] **Problema 1: Bloque en Superficie Horizontal** 📦
 > 
 > ### Enunciado:
 > 
@@ -158,7 +158,7 @@
 > 
 > **Paso 4: Aceleración** ΣF = ma → 25 - 14.7 = 5a a = 10.3/5 = **2.06 m/s²**
 
-> [!example]- **Problema 2: Plano Inclinado con Fricción** 🏔️
+> [!example] **Problema 2: Plano Inclinado con Fricción** 🏔️
 > 
 > ### Enunciado:
 > 
@@ -179,7 +179,7 @@
 > 
 > **Si hay movimiento** (μₖ = 0.4): fₖ = 0.4 × 16.97 = 6.79 N ma = mg sin30° - fₖ = 9.8 - 6.79 = 3.01 N a = 3.01/2 = **1.51 m/s²**
 
-> [!example]- **Problema 3: Sistema con Polea y Fricción** 🔗
+> [!example] **Problema 3: Sistema con Polea y Fricción** 🔗
 > 
 > ### Enunciado:
 > 
@@ -208,9 +208,9 @@
 
 ## 🧮 Técnicas de Memorización
 
-> [!tip]- **Mnemotecnia: "SECA"** 🏜️ **S**tático → **E**spera movimiento **E**stático → **C**oeficiente mayor **C**inético → **A**cción en movimiento **A**plicada → siempre menor que estática
+> [!tip] **Mnemotecnia: "SECA"** 🏜️ **S**tático → **E**spera movimiento **E**stático → **C**oeficiente mayor **C**inético → **A**cción en movimiento **A**plicada → siempre menor que estática
 
-> [!tip]- **Regla Visual: "Semáforo de Fricción"** 🚦
+> [!tip] **Regla Visual: "Semáforo de Fricción"** 🚦
 > 
 > - **🔴 ROJO (Estático)**: PARA - Máxima resistencia
 > - **🟡 AMARILLO (Transición)**: PRECAUCIÓN - Punto de deslizamiento
@@ -218,7 +218,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- **Confusiones Frecuentes** ⚠️
+> [!warning] **Confusiones Frecuentes** ⚠️
 > 
 > 1. **Confundir tipos de fricción**: Usar fₖ cuando el objeto está en reposo
 > 2. **Olvidar la dirección**: Fricción siempre opuesta al movimiento (o intento de movimiento)
@@ -229,7 +229,7 @@
 
 ## 🎯 Aplicaciones Prácticas
 
-> [!info]- **Ejemplos del Mundo Real** 🌍
+> [!info] **Ejemplos del Mundo Real** 🌍
 > 
 > ### Transporte:
 > 
@@ -263,7 +263,7 @@
 
 ## 📖 Referencias
 
-> [!quote]- **Notas Relacionadas**
+> [!quote] **Notas Relacionadas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/02 - Dinámica/Dinámica de Traslación/Fuerzas y Diagramas de Cuerpo Libre\|Fuerzas y Diagramas de Cuerpo Libre]] - Fundamentos de fuerzas
 > - [[Universidad/1er Semestre/Física Mecanica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]] - Base teórica de la dinámica
@@ -272,7 +272,7 @@
 
 ## 📚 Notas Recomendadas
 
-> [!note]- **Prerrequisitos**
+> [!note] **Prerrequisitos**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Descomposición de fuerzas
 > - [[Dinámica de Traslación\|Dinámica de Traslación]] - Leyes de Newton

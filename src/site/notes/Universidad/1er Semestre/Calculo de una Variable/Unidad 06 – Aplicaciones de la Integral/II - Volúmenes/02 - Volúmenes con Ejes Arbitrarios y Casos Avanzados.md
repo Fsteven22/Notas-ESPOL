@@ -5,15 +5,15 @@
 
 # 🌪️ Volúmenes de Revolución: Ejes Arbitrarios y Casos Avanzados
 
-> [!info]- 💡 **Concepto Central** Esta nota extiende los métodos básicos de volúmenes de revolución (disco, arandelas, capas cilíndricas) a casos más complejos: revolución alrededor de ejes arbitrarios, integración respecto a y, y situaciones problemáticas que requieren estrategias avanzadas.
+> [!info] 💡 **Concepto Central** Esta nota extiende los métodos básicos de volúmenes de revolución (disco, arandelas, capas cilíndricas) a casos más complejos: revolución alrededor de ejes arbitrarios, integración respecto a y, y situaciones problemáticas que requieren estrategias avanzadas.
 
-> [!warning]- 🔗 **Prerrequisito** Esta nota asume familiaridad con los conceptos básicos de [[Universidad/1er Semestre/Calculo de una Variable/Unidad 06 – Aplicaciones de la Integral/II - Volúmenes/01 - Volúmenes de Sólidos de Revolución\|01 - Volúmenes de Sólidos de Revolución]] - métodos de disco, arandelas y capas cilíndricas alrededor de ejes x e y.
+> [!warning] 🔗 **Prerrequisito** Esta nota asume familiaridad con los conceptos básicos de [[Universidad/1er Semestre/Calculo de una Variable/Unidad 06 – Aplicaciones de la Integral/II - Volúmenes/01 - Volúmenes de Sólidos de Revolución\|01 - Volúmenes de Sólidos de Revolución]] - métodos de disco, arandelas y capas cilíndricas alrededor de ejes x e y.
 
 ## 🎯 Revolución Alrededor de Ejes Arbitrarios
 
 ### 📐 Ejes Horizontales: y = k
 
-> [!tip]- ➡️ **Revolución alrededor de y = k (línea horizontal)**
+> [!tip] ➡️ **Revolución alrededor de y = k (línea horizontal)**
 > 
 > **Concepto clave**: El radio se mide como la **distancia perpendicular** desde la función hasta la línea y = k.
 > 
@@ -32,7 +32,7 @@
 
 #### 🧪 Ejemplo: Revolución alrededor de y = 2
 
-> [!example]- 📈 **Rotar $f(x) = x^2$ alrededor de $y = 2$ en $[0, 3]$**
+> [!example] 📈 **Rotar $f(x) = x^2$ alrededor de $y = 2$ en $[0, 3]$**
 > 
 > **Análisis**:
 > 
@@ -50,7 +50,7 @@
 
 ### 📐 Ejes Verticales: x = h
 
-> [!tip]- ⬆️ **Revolución alrededor de x = h (línea vertical)**
+> [!tip] ⬆️ **Revolución alrededor de x = h (línea vertical)**
 > 
 > #### **Método de Capas Cilíndricas**
 > 
@@ -70,7 +70,7 @@
 
 #### 🧪 Ejemplo: Revolución alrededor de x = 1
 
-> [!example]- 📈 **Rotar $f(x) = \sqrt{x}$ alrededor de $x = 1$ en $[0, 4]$**
+> [!example] 📈 **Rotar $f(x) = \sqrt{x}$ alrededor de $x = 1$ en $[0, 4]$**
 > 
 > **Análisis**: El intervalo $[0,4]$ cruza $x = 1$
 > 
@@ -85,7 +85,7 @@
 
 ### 📐 Ejes Diagonales: y = mx + b
 
-> [!warning]- ↗️ **Revolución alrededor de líneas inclinadas**
+> [!warning] ↗️ **Revolución alrededor de líneas inclinadas**
 > 
 > **Concepto**: La distancia de un punto $(x, f(x))$ a la línea $y = mx + b$ es:
 > 
@@ -103,7 +103,7 @@
 
 ### 📊 Cuándo Usar dy en Volúmenes
 
-> [!info]- 📋 **Criterios para Integración Vertical**
+> [!info] 📋 **Criterios para Integración Vertical**
 > 
 > **Usa dy cuando**:
 > 
@@ -133,13 +133,13 @@
 
 ### 🔄 Fórmulas Adaptadas para dy
 
-> [!tip]- 📐 **Método de Discos con dy**
+> [!tip] 📐 **Método de Discos con dy**
 > 
 > **Revolución alrededor del eje x**: Para $x = f(y)$ en $[c,d]$: $$V = \pi \int_c^d [f(y)]^2 , dy$$
 > 
 > **Revolución alrededor del eje y**: Para $x = f(y)$ en $[c,d]$: $$V = 2\pi \int_c^d y \cdot f(y) , dy$$
 
-> [!tip]- 🍩 **Método de Arandelas con dy**
+> [!tip] 🍩 **Método de Arandelas con dy**
 > 
 > **Entre curvas $x = f(y)$ y $x = g(y)$**: $$V = \pi \int_c^d \left[f(y)^2 - g(y)^2\right] dy$$
 > 
@@ -147,7 +147,7 @@
 
 #### 🧪 Ejemplo: Integración con dy
 
-> [!example]- 📈 **Rotar la región entre $x = y^2$ y $x = 4$ alrededor del eje x**
+> [!example] 📈 **Rotar la región entre $x = y^2$ y $x = 4$ alrededor del eje x**
 > 
 > **¿Por qué dy es mejor?**
 > 
@@ -162,7 +162,7 @@
 
 ### 🎯 Tabla de Decisión Completa
 
-> [!info]- 📊 **Guía Completa de Métodos**
+> [!info] 📊 **Guía Completa de Métodos**
 > 
 > |Situación|Eje de Revolución|Método Recomendado|Fórmula|
 > |---|---|---|---|
@@ -176,7 +176,7 @@
 
 ### 🤔 Algoritmo de Decisión
 
-> [!tip]- 🔧 **Proceso de Decisión Paso a Paso**
+> [!tip] 🔧 **Proceso de Decisión Paso a Paso**
 > 
 > **Paso 1**: ¿En qué forma están dadas las funciones?
 > 
@@ -208,7 +208,7 @@
 
 ### 🔄 Regiones con Múltiples Intersecciones
 
-> [!warning]- 🌀 **Funciones que se cruzan varias veces**
+> [!warning] 🌀 **Funciones que se cruzan varias veces**
 > 
 > **Problema**: $f(x) = \sin(x)$, $g(x) = \cos(x)$ en $[0, 2\pi]$ alrededor del eje x.
 > 
@@ -222,7 +222,7 @@
 
 ### 🔧 Sólidos Truncados
 
-> [!info]- ✂️ **Volúmenes con límites complicados**
+> [!info] ✂️ **Volúmenes con límites complicados**
 > 
 > **Ejemplo**: Cono truncado generado por $f(x) = x$ entre $x = 1$ y $x = 3$, pero solo la parte donde $f(x) \leq 2$.
 > 
@@ -234,7 +234,7 @@
 
 ### 🎭 Funciones con Discontinuidades
 
-> [!warning]- ⚠️ **Manejo de discontinuidades**
+> [!warning] ⚠️ **Manejo de discontinuidades**
 > 
 > **Para funciones discontinuas**:
 > 
@@ -251,7 +251,7 @@
 
 ### 🌀 Intersección de Sólidos
 
-> [!tip]- 🔄 **Volumen de intersección entre dos sólidos**
+> [!tip] 🔄 **Volumen de intersección entre dos sólidos**
 > 
 > **Concepto**: Volumen común entre dos sólidos de revolución.
 > 
@@ -265,7 +265,7 @@
 
 ### 🎯 Sólidos con Cavidades Variables
 
-> [!info]- 🕳️ **Cavidades que cambian de tamaño**
+> [!info] 🕳️ **Cavidades que cambian de tamaño**
 > 
 > **Ejemplo**: Sólido generado por dos funciones donde la cavidad interior varía.
 > 
@@ -277,7 +277,7 @@
 
 ### 🔢 Verificación Numérica
 
-> [!tip]- 💻 **Métodos de verificación**
+> [!tip] 💻 **Métodos de verificación**
 > 
 > **1. Aproximación por discos finitos**: Dividir el sólido en n discos y sumar volúmenes: $$V \approx \sum_{i=1}^n \pi [f(x_i)]^2 \Delta x$$
 > 
@@ -291,7 +291,7 @@
 
 ### ⚡ Optimización de Cálculos
 
-> [!info]- 🏃‍♂️ **Estrategias para simplificar**
+> [!info] 🏃‍♂️ **Estrategias para simplificar**
 > 
 > **1. Simetría**: Si $f(-x) = f(x)$, entonces $V = 2 \times \text{volumen en } [0,a]$
 > 
@@ -303,7 +303,7 @@
 
 ## ⚠️ Errores Comunes Avanzados
 
-> [!warning]- 🚨 **Errores Específicos de Casos Avanzados**
+> [!warning] 🚨 **Errores Específicos de Casos Avanzados**
 > 
 > **1. Ejes arbitrarios**:
 > 
@@ -334,7 +334,7 @@
 
 ### 🏗️ Ingeniería Estructural
 
-> [!info]- 🏗️ **Diseño de componentes**
+> [!info] 🏗️ **Diseño de componentes**
 > 
 > **Tanques de almacenamiento**: Forma optimizada para minimizar material vs. maximizar volumen
 > 
@@ -344,7 +344,7 @@
 
 ### 🚗 Industria Automotriz
 
-> [!tip]- 🚗 **Aplicaciones vehiculares**
+> [!tip] 🚗 **Aplicaciones vehiculares**
 > 
 > **Tanques de combustible**: Forma que maximiza capacidad en espacios restringidos
 > 
@@ -354,7 +354,7 @@
 
 ### 🍾 Industria del Envase
 
-> [!warning]- 🍾 **Optimización de recipientes**
+> [!warning] 🍾 **Optimización de recipientes**
 > 
 > **Botellas y latas**: Forma que minimiza material manteniendo volumen estándar
 > 
@@ -366,7 +366,7 @@
 
 ### 📐 Extensiones Naturales
 
-> [!info]- 🌟 **Temas relacionados**
+> [!info] 🌟 **Temas relacionados**
 > 
 > **Superficies de revolución**: Área de superficie generada por revolución
 > 
@@ -378,7 +378,7 @@
 
 ### 🔬 Conexiones Interdisciplinarias
 
-> [!tip]- 🔬 **Aplicaciones en otras áreas**
+> [!tip] 🔬 **Aplicaciones en otras áreas**
 > 
 > **Física**:
 > 
@@ -410,7 +410,7 @@
 - [[Superficies de Revolución\|Superficies de Revolución]] - Cálculo de áreas de superficie
 - [[Teorema de Pappus-Guldinus\|Teorema de Pappus-Guldinus]] - Métodos alternativos usando centroides
 - [[Coordenadas Cilíndricas\|Coordenadas Cilíndricas]] - Sistemas de coordenadas naturales para sólidos de revolución
-- [[Cálculo Vectorial\|Cálculo Vectorial]] - Extensiones a campos vectoriales
+- [[Universidad/2do Semestre/Cálculo Vectorial/Cálculo Vectorial\|Cálculo Vectorial]] - Extensiones a campos vectoriales
 
 ### 🎯 Aplicaciones Especializadas
 

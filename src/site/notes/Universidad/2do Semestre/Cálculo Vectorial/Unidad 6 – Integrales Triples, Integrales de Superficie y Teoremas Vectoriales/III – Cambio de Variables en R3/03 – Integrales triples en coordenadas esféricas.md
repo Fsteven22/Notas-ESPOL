@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué son las Integrales Triples en Esféricas?
+> [!info] 💡 ¿Qué son las Integrales Triples en Esféricas?
 > 
 > Las **integrales triples en coordenadas esféricas** son una herramienta fundamental para calcular volúmenes, masas, centroides y otras cantidades sobre regiones tridimensionales que exhiben **simetría esférica** o **radial desde un punto**.
 > 
@@ -44,7 +44,7 @@ graph LR
 
 ## 📐 Recordatorio: Coordenadas Esféricas
 
-> [!note]- 🔄 Sistema de Coordenadas Esféricas
+> [!note] 🔄 Sistema de Coordenadas Esféricas
 > 
 > **Definición:**
 > 
@@ -122,7 +122,7 @@ graph TD
 
 ## 🧮 Elemento de Volumen en Esféricas
 
-> [!warning]- ⚠️ El Jacobiano: Factor $\rho^2\sin\phi$
+> [!warning] ⚠️ El Jacobiano: Factor $\rho^2\sin\phi$
 > 
 > **Elemento diferencial de volumen:**
 > 
@@ -197,7 +197,7 @@ graph TD
 
 ## 📝 Forma General de la Integral Triple
 
-> [!example]- 📖 Fórmula Fundamental
+> [!example] 📖 Fórmula Fundamental
 > 
 > **Integral triple en coordenadas esféricas:**
 > 
@@ -250,7 +250,7 @@ graph TD
 
 ## 💡 Ejemplos Resueltos Paso a Paso
 
-> [!example]- 📝 Ejemplo 1: Volumen de Esfera
+> [!example] 📝 Ejemplo 1: Volumen de Esfera
 > 
 > **Problema:**
 > 
@@ -294,7 +294,7 @@ graph TD
 > 
 > **Respuesta:** $V = \frac{4\pi a^3}{3}$ unidades cúbicas
 
-> [!example]- 📝 Ejemplo 2: Hemisferio Superior
+> [!example] 📝 Ejemplo 2: Hemisferio Superior
 > 
 > **Problema:**
 > 
@@ -331,7 +331,7 @@ graph TD
 > 
 > **Respuesta:** $V = \frac{2\pi R^3}{3}$ unidades cúbicas
 
-> [!example]- 📝 Ejemplo 3: Casquete Esférico
+> [!example] 📝 Ejemplo 3: Casquete Esférico
 > 
 > **Problema:**
 > 
@@ -368,7 +368,7 @@ graph TD
 > 
 > **Respuesta:** $V = \frac{4\pi(b^3 - a^3)}{3}$ unidades cúbicas
 
-> [!example]- 📝 Ejemplo 4: Cono dentro de Esfera
+> [!example] 📝 Ejemplo 4: Cono dentro de Esfera
 > 
 > **Problema:**
 > 
@@ -413,7 +413,7 @@ graph TD
 > 
 > **Respuesta:** $V = \frac{16\pi}{3}\left(1 - \frac{\sqrt{2}}{2}\right) = \frac{16\pi(2-\sqrt{2})}{6} = \frac{8\pi(2-\sqrt{2})}{3}$ unidades cúbicas
 
-> [!example]- 📝 Ejemplo 5: Masa con Densidad Radial
+> [!example] 📝 Ejemplo 5: Masa con Densidad Radial
 > 
 > **Problema:**
 > 
@@ -449,7 +449,7 @@ graph TD
 
 ## 🎯 Regiones Comunes en Esféricas
 
-> [!note]- 🔍 Tipos de Regiones Frecuentes
+> [!note] 🔍 Tipos de Regiones Frecuentes
 > 
 > **1. Esfera sólida completa**
 > 
@@ -542,7 +542,7 @@ graph TD
 
 ## 🚀 Aplicaciones Físicas
 
-> [!success]- ⚙️ Aplicaciones en Ciencia e Ingeniería
+> [!success] ⚙️ Aplicaciones en Ciencia e Ingeniería
 > 
 > **1. Centro de masa**
 > 
@@ -599,7 +599,7 @@ graph TD
 
 ## 📋 Estrategias para Configurar Integrales
 
-> [!tip]- 🎯 Método Sistemático
+> [!tip] 🎯 Método Sistemático
 > 
 > **Paso 1: Identificar simetría esférica**
 > 
@@ -661,7 +661,7 @@ flowchart TD
 
 ## 🎓 Ejercicios Propuestos
 
-> [!example]- 💪 Práctica Guiada
+> [!example] 💪 Práctica Guiada
 > 
 > **Nivel Básico:**
 > 
@@ -751,7 +751,7 @@ flowchart TD
 
 ## 📊 Comparación de Sistemas de Coordenadas
 
-> [!note]- 🔄 Cartesianas vs Cilíndricas vs Esféricas
+> [!note] 🔄 Cartesianas vs Cilíndricas vs Esféricas
 > 
 > **Ejemplo: Esfera $x^2 + y^2 + z^2 = 1$**
 > 
@@ -872,7 +872,7 @@ flowchart TD
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Continuando el Aprendizaje
+> [!quote] 🌟 Continuando el Aprendizaje
 > 
 > **Has dominado:**
 > 

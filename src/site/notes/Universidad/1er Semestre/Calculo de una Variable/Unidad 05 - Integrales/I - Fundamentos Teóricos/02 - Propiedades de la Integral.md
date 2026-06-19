@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es la Integración? La **integración** es una operación fundamental en cálculo que, en esencia, representa dos conceptos complementarios:
+> [!info] 💡 ¿Qué es la Integración? La **integración** es una operación fundamental en cálculo que, en esencia, representa dos conceptos complementarios:
 > 
 > 1. **El proceso inverso de la derivación** (antiderivada)
 > 2. **El cálculo de áreas bajo curvas** (acumulación)
@@ -48,7 +48,7 @@ graph LR
 
 ### 🔄 Concepto de Integral Indefinida
 
-> [!example]- 📘 Definición y Notación
+> [!example] 📘 Definición y Notación
 > 
 > La **integral indefinida** de una función f(x) es el conjunto de todas sus primitivas (antiderivadas).
 > 
@@ -85,7 +85,7 @@ graph LR
 
 ### ➕ Linealidad de la Integral Indefinida
 
-> [!success]- 🎯 Propiedad Fundamental
+> [!success] 🎯 Propiedad Fundamental
 > 
 > La integral indefinida es un **operador lineal**, lo que significa que respeta la suma y la multiplicación por constantes.
 > 
@@ -141,7 +141,7 @@ graph LR
 
 ### 🔐 Constante de Integración
 
-> [!warning]- ⚠️ Elemento Crucial de la Integral Indefinida
+> [!warning] ⚠️ Elemento Crucial de la Integral Indefinida
 > 
 > La **constante de integración C** representa la familia infinita de funciones que tienen la misma derivada.
 > 
@@ -214,7 +214,7 @@ graph LR
 
 ### 🔄 Relación con la Derivada
 
-> [!note]- 🔗 Operaciones Inversas
+> [!note] 🔗 Operaciones Inversas
 > 
 > La integración y la derivación son **operaciones inversas**, como la suma y la resta, o la multiplicación y la división.
 > 
@@ -265,7 +265,7 @@ graph LR
 
 ### 🎨 No Unicidad de la Primitiva
 
-> [!tip]- 🔢 Familia Infinita de Soluciones
+> [!tip] 🔢 Familia Infinita de Soluciones
 > 
 > Una función tiene **infinitas primitivas**, todas diferenciándose por una constante.
 > 
@@ -355,7 +355,7 @@ graph LR
 
 ### 📐 Concepto de Integral Definida
 
-> [!info]- 📊 Definición y Notación
+> [!info] 📊 Definición y Notación
 > 
 > La **integral definida** de f(x) desde a hasta b representa el **área neta** entre la curva y el eje x en el intervalo [a,b].
 > 
@@ -408,7 +408,7 @@ graph LR
 
 ### ➕ Linealidad de la Integral Definida
 
-> [!success]- 🎯 Propiedades Lineales
+> [!success] 🎯 Propiedades Lineales
 > 
 > Al igual que la integral indefinida, la integral definida es un **operador lineal**.
 > 
@@ -458,7 +458,7 @@ graph LR
 
 ### 🔄 Cambio de Límites
 
-> [!example]- 🔀 Propiedades de Inversión y Punto
+> [!example] 🔀 Propiedades de Inversión y Punto
 > 
 > **Propiedad 1: Inversión de límites**
 > 
@@ -511,7 +511,7 @@ graph LR
 
 ### ➕ Aditividad del Intervalo
 
-> [!note]- 📊 Partición de Intervalos
+> [!note] 📊 Partición de Intervalos
 > 
 > La integral sobre un intervalo puede **dividirse** en suma de integrales sobre subintervalos.
 > 
@@ -571,7 +571,7 @@ graph LR
 
 ### ✅ Positividad y Cotas
 
-> [!tip]- 📈 Propiedades de Orden
+> [!tip] 📈 Propiedades de Orden
 > 
 > **Propiedad 1: Positividad**
 > 
@@ -623,7 +623,7 @@ graph LR
 
 ### 🎨 Interpretación Geométrica
 
-> [!success]- 📐 Significado Visual de la Integral Definida
+> [!success] 📐 Significado Visual de la Integral Definida
 > 
 > **Concepto fundamental:**
 > 
@@ -703,7 +703,7 @@ graph LR
 
 ### 🎓 Teorema Fundamental del Cálculo
 
-> [!example]- 🌟 El Puente entre Derivación e Integración
+> [!example] 🌟 El Puente entre Derivación e Integración
 > 
 > El **Teorema Fundamental del Cálculo** (TFC) conecta las dos operaciones fundamentales del cálculo y proporciona un método práctico para calcular integrales definidas.
 > 
@@ -767,7 +767,7 @@ graph LR
 
 ### ⚙️ Evaluación por Antiderivadas
 
-> [!success]- 🔧 Método Práctico de Cálculo
+> [!success] 🔧 Método Práctico de Cálculo
 > 
 > La **evaluación por antiderivadas** es el método estándar para calcular integrales definidas, basado en la Segunda Parte del TFC.
 > 
@@ -863,7 +863,7 @@ graph LR
 
 ## 📊 Tabla Resumen Comparativa
 
-> [!note]- 📋 Síntesis de Propiedades
+> [!note] 📋 Síntesis de Propiedades
 > 
 > |Propiedad|Integral Indefinida|Integral Definida|
 > |---|---|---|
@@ -882,7 +882,7 @@ graph LR
 
 ## 🎯 Ejercicios Guiados
 
-> [!example]- 💪 Práctica con Ejemplos Resueltos
+> [!example] 💪 Práctica con Ejemplos Resueltos
 > 
 > **Nivel Básico:**
 > 
@@ -924,7 +924,7 @@ graph LR
 
 ## 🎓 Conceptos Clave para Recordar
 
-> [!success]- 🌟 Resumen Esencial
+> [!success] 🌟 Resumen Esencial
 > 
 > **Integral Indefinida:**
 > 

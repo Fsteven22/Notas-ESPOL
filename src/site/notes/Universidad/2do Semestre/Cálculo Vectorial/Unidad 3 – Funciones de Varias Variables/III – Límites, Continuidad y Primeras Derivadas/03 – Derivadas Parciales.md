@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Por qué son importantes las Derivadas Parciales?
+> [!info] 💡 ¿Por qué son importantes las Derivadas Parciales?
 > 
 > Las derivadas parciales extienden el concepto de derivada a funciones de varias variables, permitiéndonos analizar **cómo cambia la función** cuando variamos **una variable a la vez**.
 > 
@@ -36,7 +36,7 @@
 
 ### 🔍 Definición Formal
 
-> [!example]- 🟢 Definición: Derivada Parcial con respecto a $x$
+> [!example] 🟢 Definición: Derivada Parcial con respecto a $x$
 > 
 > **Definición:** La **derivada parcial** de $f(x,y)$ con respecto a $x$ en el punto $(x_0, y_0)$ es:
 > 
@@ -63,7 +63,7 @@
 > - Es la **pendiente** de la curva que resulta de intersectar la superficie $z = f(x,y)$ con el plano $y = y_0$
 > - Representa la "inclinación" de la superficie en la dirección $x$
 
-> [!example]- 🟡 Definición: Derivada Parcial con respecto a $y$
+> [!example] 🟡 Definición: Derivada Parcial con respecto a $y$
 > 
 > **Definición:** La **derivada parcial** de $f(x,y)$ con respecto a $y$ en el punto $(x_0, y_0)$ es:
 > 
@@ -90,7 +90,7 @@
 
 ### 🎯 Interpretación Geométrica
 
-> [!note]- 📊 Visualización de Derivadas Parciales
+> [!note] 📊 Visualización de Derivadas Parciales
 > 
 > Para una superficie $z = f(x,y)$:
 > 
@@ -163,7 +163,7 @@
 
 ### 📍 Regla Práctica
 
-> [!tip]- ✅ Método para Calcular Derivadas Parciales
+> [!tip] ✅ Método para Calcular Derivadas Parciales
 > 
 > ### Para calcular $\frac{\partial f}{\partial x}$:
 > 
@@ -193,7 +193,7 @@
 
 ### Ejemplo 1: Polinomio Simple
 
-> [!example]- 📝 Ejemplo 1: Función Polinomial
+> [!example] 📝 Ejemplo 1: Función Polinomial
 > 
 > **Función:** $$f(x,y) = x^2 + 3xy + y^2$$
 > 
@@ -232,7 +232,7 @@
 
 ### Ejemplo 2: Función Exponencial
 
-> [!example]- 📝 Ejemplo 2: Con Exponencial
+> [!example] 📝 Ejemplo 2: Con Exponencial
 > 
 > **Función:** $$f(x,y) = e^{x^2 + y^2}$$
 > 
@@ -258,7 +258,7 @@
 
 ### Ejemplo 3: Función Racional
 
-> [!example]- 📝 Ejemplo 3: Cociente de Funciones
+> [!example] 📝 Ejemplo 3: Cociente de Funciones
 > 
 > **Función:** $$f(x,y) = \frac{xy}{x^2 + y^2}$$
 > 
@@ -290,7 +290,7 @@
 
 ### Ejemplo 4: Función Trigonométrica
 
-> [!example]- 📝 Ejemplo 4: Con Seno y Coseno
+> [!example] 📝 Ejemplo 4: Con Seno y Coseno
 > 
 > **Función:** $$f(x,y) = \sin(x)\cos(y)$$
 > 
@@ -312,7 +312,7 @@
 
 ### Ejemplo 5: Función Logarítmica
 
-> [!example]- 📝 Ejemplo 5: Con Logaritmo
+> [!example] 📝 Ejemplo 5: Con Logaritmo
 > 
 > **Función:** $$f(x,y) = \ln(x^2 + y^2)$$
 > 
@@ -336,7 +336,7 @@
 
 ### Ejemplo 6: Función Compuesta
 
-> [!example]- 📝 Ejemplo 6: Composición Compleja
+> [!example] 📝 Ejemplo 6: Composición Compleja
 > 
 > **Función:** $$f(x,y) = e^{xy}\sin(x + y)$$
 > 
@@ -364,7 +364,7 @@
 
 ### 📐 Definición
 
-> [!note]- 🟣 Derivadas Parciales de Segundo Orden
+> [!note] 🟣 Derivadas Parciales de Segundo Orden
 > 
 > Para una función $f(x,y)$, podemos calcular derivadas de las derivadas:
 > 
@@ -395,7 +395,7 @@
 
 ### Ejemplo 7: Derivadas de Orden Superior
 
-> [!example]- 📝 Ejemplo 7: Todas las Derivadas de Segundo Orden
+> [!example] 📝 Ejemplo 7: Todas las Derivadas de Segundo Orden
 > 
 > **Función:** $$f(x,y) = x^3y^2 + x^2y$$
 > 
@@ -431,7 +431,7 @@
 
 ## 🌟 Teorema de Schwarz (Clairaut)
 
-> [!note]- 🎯 Teorema: Igualdad de Derivadas Mixtas
+> [!note] 🎯 Teorema: Igualdad de Derivadas Mixtas
 > 
 > **Enunciado:** Si $f$ está definida en un disco abierto que contiene al punto $(a,b)$, y si las derivadas parciales $f_{xy}$ y $f_{yx}$ son **continuas** en ese disco, entonces:
 > 
@@ -457,7 +457,7 @@
 
 ### Ejemplo 8: Verificación del Teorema de Schwarz
 
-> [!example]- 📝 Ejemplo 8: Comprobar $f_{xy} = f_{yx}$
+> [!example] 📝 Ejemplo 8: Comprobar $f_{xy} = f_{yx}$
 > 
 > **Función:** $$f(x,y) = e^{x^2y}$$
 > 
@@ -501,7 +501,7 @@
 
 ## 📊 Derivadas Parciales en Tres Variables
 
-> [!note]- 🎲 Extensión a $\mathbb{R}^3$
+> [!note] 🎲 Extensión a $\mathbb{R}^3$
 > 
 > Para una función $f(x,y,z)$, tenemos **tres derivadas parciales de primer orden:**
 > 
@@ -537,7 +537,7 @@
 
 ### Ejemplo 9: Función de Tres Variables
 
-> [!example]- 📝 Ejemplo 9: Derivadas en $\mathbb{R}^3$
+> [!example] 📝 Ejemplo 9: Derivadas en $\mathbb{R}^3$
 > 
 > **Función:** $$f(x,y,z) = x^2yz + xy^2z + xyz^2$$
 > 
@@ -569,7 +569,7 @@
 
 ### 🌡️ Aplicación 1: Temperatura
 
-> [!example]- 🔥 Ejemplo: Distribución de Temperatura
+> [!example] 🔥 Ejemplo: Distribución de Temperatura
 > 
 > **Situación:** La temperatura en una placa metálica está dada por: $$T(x,y) = 100 - x^2 - 2y^2$$
 > 
@@ -599,7 +599,7 @@
 
 ### 💰 Aplicación 2: Economía - Utilidad Marginal
 
-> [!example]- 📈 Ejemplo: Función de Utilidad
+> [!example] 📈 Ejemplo: Función de Utilidad
 > 
 > **Situación:** La utilidad de un consumidor que compra $x$ unidades del bien A e $y$ unidades del bien B es: $$U(x,y) = xy + 2x + 3y$$
 > 
@@ -629,7 +629,7 @@
 
 ### 🏗️ Aplicación 3: Ingeniería - Producción
 
-> [!example]- 🏭 Ejemplo: Función de Producción Cobb-Douglas
+> [!example] 🏭 Ejemplo: Función de Producción Cobb-Douglas
 > 
 > **Situación:** La producción de una fábrica está dada por: $$P(K,L) = 10K^{0.4}L^{0.6}$$
 > 
@@ -659,7 +659,7 @@
 
 ### 🌊 Aplicación 4: Física - Onda
 
-> [!example]- 🌀 Ejemplo: Ecuación de Onda
+> [!example] 🌀 Ejemplo: Ecuación de Onda
 > 
 > **Situación:** Una onda en una cuerda está descrita por: $$u(x,t) = A\sin(kx - \omega t)$$
 > 
@@ -691,7 +691,7 @@
 
 ## 🔍 Relación entre Derivadas Parciales y Continuidad
 
-> [!warning]- ⚠️ Advertencias Importantes
+> [!warning] ⚠️ Advertencias Importantes
 > 
 > ### 1. Existencia de Derivadas Parciales NO implica Continuidad
 > 
@@ -732,7 +732,7 @@
 
 ## 📐 Derivadas Parciales de Orden Superior (General)
 
-> [!note]- 🔢 Notación y Generalización
+> [!note] 🔢 Notación y Generalización
 > 
 > ### Derivadas de Orden $n$
 > 
@@ -773,7 +773,7 @@
 
 ### Ejemplo 10: Función Implícita
 
-> [!example]- 📝 Ejemplo 10: Derivada Implícita
+> [!example] 📝 Ejemplo 10: Derivada Implícita
 > 
 > **Situación:** Dada la ecuación implícita: $$x^2 + y^2 + z^2 = 1$$
 > 
@@ -803,7 +803,7 @@
 
 ### Ejemplo 11: Laplaciano
 
-> [!example]- 📝 Ejemplo 11: Operador Laplaciano
+> [!example] 📝 Ejemplo 11: Operador Laplaciano
 > 
 > **Definición:** El **Laplaciano** de $f$ es: $$\nabla^2 f = \Delta f = \frac{\partial^2 f}{\partial x^2} + \frac{\partial^2 f}{\partial y^2}$$
 > 
@@ -830,7 +830,7 @@
 
 ### Ejemplo 12: Verificar EDP
 
-> [!example]- 📝 Ejemplo 12: Verificar Ecuación Diferencial Parcial
+> [!example] 📝 Ejemplo 12: Verificar Ecuación Diferencial Parcial
 > 
 > **Problema:** Verificar que $u(x,t) = \sin(x)\cos(ct)$ satisface la ecuación de onda: $$\frac{\partial^2 u}{\partial t^2} = c^2 \frac{\partial^2 u}{\partial x^2}$$
 > 
@@ -860,7 +860,7 @@
 
 ## 📊 Tabla Resumen: Reglas de Derivación
 
-> [!note]- 📋 Reglas Útiles para Derivadas Parciales
+> [!note] 📋 Reglas Útiles para Derivadas Parciales
 > 
 > |Regla|Fórmula|
 > |---|---|
@@ -879,7 +879,7 @@
 
 ## 🎓 Ejercicios Propuestos
 
-> [!example]- 💪 Práctica Nivel Básico
+> [!example] 💪 Práctica Nivel Básico
 > 
 > **1. Calcular las derivadas parciales de primer orden:**
 > 
@@ -915,7 +915,7 @@
 > 
 > c) $f(x,y) = \sin(x)\cos(y)$
 
-> [!example]- 💪 Práctica Nivel Intermedio
+> [!example] 💪 Práctica Nivel Intermedio
 > 
 > **4. Verificar el Teorema de Schwarz:**
 > 
@@ -953,7 +953,7 @@
 > 
 > b) Para $xyz = 1$, encontrar $\frac{\partial z}{\partial x}$ y $\frac{\partial z}{\partial y}$
 
-> [!example]- 💪 Práctica Nivel Avanzado
+> [!example] 💪 Práctica Nivel Avanzado
 > 
 > **8. Verificar ecuaciones diferenciales parciales:**
 > 
@@ -989,7 +989,7 @@
 
 ## ✅ Soluciones Selectas
 
-> [!success]- 🔑 Respuestas Ejercicios Básicos
+> [!success] 🔑 Respuestas Ejercicios Básicos
 > 
 > **1a)** $f(x,y) = x^3 + 2x^2y + 3y^2$
 > 
@@ -1027,7 +1027,7 @@
 > 
 > $$f_{xx} = 2y$$ $$f_{yy} = 2x$$ $$f_{xy} = 2x + 2y = f_{yx}$$ ✓
 
-> [!success]- 🔑 Respuestas Ejercicios Intermedios
+> [!success] 🔑 Respuestas Ejercicios Intermedios
 > 
 > **4a)** $f(x,y) = x^3y^2 - 2xy^3$
 > 
@@ -1061,7 +1061,7 @@
 > 
 > Análogamente: $$\boxed{\frac{\partial z}{\partial y} = -\frac{y}{z}}$$
 
-> [!success]- 🔑 Respuestas Ejercicios Avanzados
+> [!success] 🔑 Respuestas Ejercicios Avanzados
 > 
 > **8a)** $u(x,t) = e^{-t}\sin(x)$
 > 
@@ -1093,7 +1093,7 @@
 
 ## 🌟 Conceptos Clave para Recordar
 
-> [!tip]- 💡 Puntos Esenciales
+> [!tip] 💡 Puntos Esenciales
 > 
 > ### Sobre Derivadas Parciales
 > 
@@ -1143,7 +1143,7 @@
 
 ## 🔗 Conexiones con Otros Temas
 
-> [!quote]- 🌐 Relaciones Importantes
+> [!quote] 🌐 Relaciones Importantes
 > 
 > **Este tema es prerequisito para:**
 > 
@@ -1167,7 +1167,7 @@
 
 ## 📝 Notas Finales
 
-> [!note]- 🎯 Reflexiones sobre Derivadas Parciales
+> [!note] 🎯 Reflexiones sobre Derivadas Parciales
 > 
 > ### Importancia Conceptual
 > 
@@ -1226,7 +1226,7 @@
 
 ## 🧮 Fórmulas de Referencia Rápida
 
-> [!note]- 📋 Tabla de Referencia: Derivadas Parciales Comunes
+> [!note] 📋 Tabla de Referencia: Derivadas Parciales Comunes
 > 
 > |Función $f(x,y)$|$\frac{\partial f}{\partial x}$|$\frac{\partial f}{\partial y}$|
 > |---|---|---|
@@ -1250,7 +1250,7 @@
 
 ## 💡 Trucos y Técnicas Útiles
 
-> [!tip]- 🎯 Estrategias para Derivadas Parciales
+> [!tip] 🎯 Estrategias para Derivadas Parciales
 > 
 > ### Truco 1: Identificar qué es constante
 > 
@@ -1308,7 +1308,7 @@
 
 ## 🔬 Casos Especiales y Patológicos
 
-> [!warning]- ⚠️ Funciones Problemáticas
+> [!warning] ⚠️ Funciones Problemáticas
 > 
 > ### Caso 1: Derivadas parciales existen pero $f$ no es continua
 > 
@@ -1354,7 +1354,7 @@
 
 ## 📐 Notación Alternativa: Operadores Diferenciales
 
-> [!note]- 🔢 Notación de Operadores
+> [!note] 🔢 Notación de Operadores
 > 
 > ### Operador Nabla (∇)
 > 
@@ -1395,7 +1395,7 @@
 
 ## 🎨 Visualización de Derivadas Parciales
 
-> [!note]- 🖼️ Interpretación Gráfica Detallada
+> [!note] 🖼️ Interpretación Gráfica Detallada
 > 
 > ### Superficie y Cortes
 > 
@@ -1470,7 +1470,7 @@
 
 ## 🔄 Derivadas Parciales en Coordenadas Polares
 
-> [!note]- 🌀 Cambio de Coordenadas
+> [!note] 🌀 Cambio de Coordenadas
 > 
 > ### Transformación
 > 
@@ -1507,7 +1507,7 @@
 
 ## 📚 Ecuaciones Diferenciales Parciales Importantes
 
-> [!note]- 🎓 EDPs Clásicas
+> [!note] 🎓 EDPs Clásicas
 > 
 > ### 1. Ecuación de Laplace (estacionaria)
 > 
@@ -1571,7 +1571,7 @@
 
 ## 🎯 Resumen Visual: Árbol de Conceptos
 
-> [!note]- 🌳 Mapa Conceptual
+> [!note] 🌳 Mapa Conceptual
 > 
 > ```
 > DERIVADAS PARCIALES
@@ -1612,7 +1612,7 @@
 
 ## ✨ Comentarios Finales
 
-> [!note]- 🎓 Para Llevar
+> [!note] 🎓 Para Llevar
 > 
 > ### Lo Esencial
 > 

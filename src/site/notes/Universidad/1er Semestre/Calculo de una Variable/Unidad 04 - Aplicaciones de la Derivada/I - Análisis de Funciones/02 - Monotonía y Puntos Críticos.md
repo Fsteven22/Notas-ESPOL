@@ -7,7 +7,7 @@
 
 ## 🎯 Definiciones Fundamentales
 
-> [!info]- 💡 Conceptos Básicos La **monotonía** de una función describe si la función es creciente o decreciente en intervalos específicos. Los **puntos críticos** son los valores donde la función puede cambiar su comportamiento monótono.
+> [!info] 💡 Conceptos Básicos La **monotonía** de una función describe si la función es creciente o decreciente en intervalos específicos. Los **puntos críticos** son los valores donde la función puede cambiar su comportamiento monótono.
 > 
 > **Importancia:**
 > 
@@ -18,7 +18,7 @@
 
 ### 📈 Definición de Monotonía
 
-> [!success]- ✅ Función Creciente **Una función $f$ es creciente en un intervalo $I$ si:**
+> [!success] ✅ Función Creciente **Una función $f$ es creciente en un intervalo $I$ si:**
 > 
 > $$\text{Para todo } x_1, x_2 \in I \text{ con } x_1 < x_2 \text{, se cumple } f(x_1) \leq f(x_2)$$
 > 
@@ -29,7 +29,7 @@
 > 
 > **Interpretación gráfica:** La función "sube" de izquierda a derecha
 
-> [!success]- ✅ Función Decreciente **Una función $f$ es decreciente en un intervalo $I$ si:**
+> [!success] ✅ Función Decreciente **Una función $f$ es decreciente en un intervalo $I$ si:**
 > 
 > $$\text{Para todo } x_1, x_2 \in I \text{ con } x_1 < x_2 \text{, se cumple } f(x_1) \geq f(x_2)$$
 > 
@@ -42,7 +42,7 @@
 
 ### 🔍 Puntos Críticos
 
-> [!example]- 📍 Definición de Punto Crítico **Un punto $x = c$ es un punto crítico de $f(x)$ si:**
+> [!example] 📍 Definición de Punto Crítico **Un punto $x = c$ es un punto crítico de $f(x)$ si:**
 > 
 > 1. **$c$ está en el dominio de $f$**
 > 2. **Una de las siguientes condiciones se cumple:**
@@ -60,7 +60,7 @@
 
 ### 📊 Teorema Fundamental de Monotonía
 
-> [!tip]- 🔧 Criterio de la Primera Derivada para Monotonía **Sea $f$ una función derivable en el intervalo $(a,b)$:**
+> [!tip] 🔧 Criterio de la Primera Derivada para Monotonía **Sea $f$ una función derivable en el intervalo $(a,b)$:**
 > 
 > - **Si $f'(x) > 0$ para todo $x \in (a,b)$** → $f$ es **estrictamente creciente** en $(a,b)$
 > - **Si $f'(x) < 0$ para todo $x \in (a,b)$** → $f$ es **estrictamente decreciente** en $(a,b)$
@@ -74,7 +74,7 @@
 
 ### 🎯 Criterio para Extremos Locales
 
-> [!example]- 🏔️ Test de la Primera Derivada para Extremos **Sea $x = c$ un punto crítico de $f$ (es decir, $f'(c) = 0$ o $f'(c)$ no existe):**
+> [!example] 🏔️ Test de la Primera Derivada para Extremos **Sea $x = c$ un punto crítico de $f$ (es decir, $f'(c) = 0$ o $f'(c)$ no existe):**
 > 
 > **Caso 1: Máximo local**
 > 
@@ -101,7 +101,7 @@
 
 ### 📋 Algoritmo Paso a Paso
 
-> [!tip]- 🎓 Procedimiento Sistemático **Para analizar la monotonía y encontrar puntos críticos:**
+> [!tip] 🎓 Procedimiento Sistemático **Para analizar la monotonía y encontrar puntos críticos:**
 > 
 > **Paso 1: Encontrar la derivada**
 > 
@@ -157,7 +157,7 @@ flowchart TD
 
 ### 📊 Ejemplo 1: Función Polinomial Cúbica
 
-> [!example]- 📈 Ejemplo: $f(x) = x^3 - 3x^2 - 9x + 5$
+> [!example] 📈 Ejemplo: $f(x) = x^3 - 3x^2 - 9x + 5$
 > 
 > **Paso 1: Calcular la derivada** $$f'(x) = 3x^2 - 6x - 9$$
 > 
@@ -183,7 +183,7 @@ flowchart TD
 
 ### 📊 Ejemplo 2: Función Racional
 
-> [!example]- 📉 Ejemplo: $f(x) = \frac{x^2 - 4}{x^2 + 1}$
+> [!example] 📉 Ejemplo: $f(x) = \frac{x^2 - 4}{x^2 + 1}$
 > 
 > **Paso 1: Calcular la derivada (regla del cociente)** $$f'(x) = \frac{(2x)(x^2 + 1) - (x^2 - 4)(2x)}{(x^2 + 1)^2}$$ $$= \frac{2x(x^2 + 1) - 2x(x^2 - 4)}{(x^2 + 1)^2}$$ $$= \frac{2x[(x^2 + 1) - (x^2 - 4)]}{(x^2 + 1)^2}$$ $$= \frac{2x[5]}{(x^2 + 1)^2} = \frac{10x}{(x^2 + 1)^2}$$
 > 
@@ -209,7 +209,7 @@ flowchart TD
 
 ### 📊 Ejemplo 3: Función con Raíz
 
-> [!example]- 🌱 Ejemplo: $f(x) = x^{2/3}(x - 5)$
+> [!example] 🌱 Ejemplo: $f(x) = x^{2/3}(x - 5)$
 > 
 > **Paso 1: Expandir y derivar** $$f(x) = x^{2/3} \cdot x - 5x^{2/3} = x^{5/3} - 5x^{2/3}$$ $$f'(x) = \frac{5}{3}x^{2/3} - 5 \cdot \frac{2}{3}x^{-1/3}$$ $$= \frac{5}{3}x^{2/3} - \frac{10}{3}x^{-1/3}$$ $$= \frac{5}{3}x^{-1/3}(x - 2)$$ $$= \frac{5(x - 2)}{3x^{1/3}}$$
 > 
@@ -242,7 +242,7 @@ flowchart TD
 
 ## 🧠 Técnica de Estudio: Método "DICE"
 
-> [!tip]- 🎓 Mnemotecnia "DICE"
+> [!tip] 🎓 Mnemotecnia "DICE"
 > 
 > **D** - **D**erivada primero **I** - **I**gualar a cero (y buscar donde no existe) **C** - **C**rear tabla de signos **E** - **E**valuar comportamiento en cada intervalo
 > 
@@ -261,7 +261,7 @@ flowchart TD
 
 ### 🚫 Errores Frecuentes
 
-> [!warning]- 🛑 Errores Comunes en el Análisis
+> [!warning] 🛑 Errores Comunes en el Análisis
 > 
 > **Error 1: Olvidar puntos donde la derivada no existe**
 > 
@@ -290,7 +290,7 @@ flowchart TD
 
 ### 🔄 Casos Especiales
 
-> [!note]- 🎪 Situaciones Particulares
+> [!note] 🎪 Situaciones Particulares
 > 
 > **Caso 1: Puntos críticos en los extremos del dominio**
 > 
@@ -317,7 +317,7 @@ flowchart TD
 
 ### 🎯 Optimización Básica
 
-> [!success]- 🏆 Problemas de Optimización **Los puntos críticos son fundamentales para:**
+> [!success] 🏆 Problemas de Optimización **Los puntos críticos son fundamentales para:**
 > 
 > **1. Maximizar/minimizar funciones:**
 > 
@@ -343,7 +343,7 @@ flowchart TD
 
 ### 🌐 Conexiones Interdisciplinarias
 
-> [!note]- 🔗 Aplicaciones en Otras Áreas
+> [!note] 🔗 Aplicaciones en Otras Áreas
 > 
 > **Economía:**
 > 
@@ -371,7 +371,7 @@ flowchart TD
 
 ## 📖 Ejercicios de Práctica Progresiva
 
-> [!example]- 💪 Secuencia de Entrenamiento
+> [!example] 💪 Secuencia de Entrenamiento
 > 
 > **Nivel 1 - Funciones Polinomiales:** 🟢
 > 
@@ -402,7 +402,7 @@ flowchart TD
 
 ### 📊 Interpretación Visual
 
-> [!note]- 👁️ Lectura Gráfica de la Monotonía **Elementos gráficos clave:**
+> [!note] 👁️ Lectura Gráfica de la Monotonía **Elementos gráficos clave:**
 > 
 > **1. Pendiente de tangentes:**
 > 
@@ -429,7 +429,7 @@ flowchart TD
 
 ### 🔍 Análisis Comparativo: $f(x)$ vs $f'(x)$
 
-> [!tip]- 📊 Relación entre Función y Derivada
+> [!tip] 📊 Relación entre Función y Derivada
 > 
 > |Comportamiento de $f(x)$|Signo de $f'(x)$|Gráfica de $f'(x)$|
 > |---|---|---|
@@ -444,7 +444,7 @@ flowchart TD
 
 ### 📚 Teoremas Fundamentales
 
-> [!quote]- 🎓 Teoremas Relacionados
+> [!quote] 🎓 Teoremas Relacionados
 > 
 > **Teorema de Rolle:** Si $f$ es continua en $[a,b]$, diferenciable en $(a,b)$, y $f(a) = f(b)$, entonces existe $c \in (a,b)$ tal que $f'(c) = 0$.
 > 
@@ -458,7 +458,7 @@ flowchart TD
 
 ### 🌟 Conexión con Otros Conceptos
 
-> [!success]- 🔗 Temas Relacionados **La monotonía conecta con:**
+> [!success] 🔗 Temas Relacionados **La monotonía conecta con:**
 > 
 > **1. Concavidad (Segunda derivada):**
 > 
@@ -478,7 +478,7 @@ flowchart TD
 
 ## 📚 Conexiones con Otros Temas
 
-> [!quote]- 🔗 Enlaces a Otras Notas
+> [!quote] 🔗 Enlaces a Otras Notas
 > 
 > **Prerrequisitos:**
 > 

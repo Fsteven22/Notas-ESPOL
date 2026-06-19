@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Por qué Suma de Subespacios?
+> [!info] 💡 ¿Por qué Suma de Subespacios?
 > 
 > **Problema:** Dados dos subespacios $U$ y $W$, ¿cómo combinarlos en uno más grande?
 > 
@@ -42,7 +42,7 @@
 
 ### Suma de Subespacios
 
-> [!note]- 📋 Definición Principal
+> [!note] 📋 Definición Principal
 > 
 > Sean $U$ y $W$ subespacios de $V$.
 > 
@@ -67,7 +67,7 @@
 > - $U \oplus W$ - suma directa (caso especial)
 > - $\langle U, W \rangle$ - subespacio generado
 
-> [!warning]- ⚠️ Diferencia con Unión
+> [!warning] ⚠️ Diferencia con Unión
 > 
 > **CUIDADO:** $U + W \neq U \cup W$ en general
 > 
@@ -80,7 +80,7 @@
 > 
 > **Regla:** La unión NO es subespacio (no cerrada bajo suma)
 
-> [!example]- 📝 Ejemplos Básicos
+> [!example] 📝 Ejemplos Básicos
 > 
 > **1. Rectas en $\mathbb{R}^2$:**
 > 
@@ -116,7 +116,7 @@
 
 ### Suma Directa
 
-> [!note]- ⭐ Caso Especial Importante
+> [!note] ⭐ Caso Especial Importante
 > 
 > La suma $U + W$ es **directa** si $U \cap W = {\vec{0}}$
 > 
@@ -149,7 +149,7 @@
 > - Suma directa: los subespacios son "independientes"
 > - No directa: hay "solapamiento" entre subespacios
 
-> [!tip]- 🛠️ Cómo Verificar Suma Directa
+> [!tip] 🛠️ Cómo Verificar Suma Directa
 > 
 > **Método 1:** Verificar $U \cap W = {\vec{0}}$
 > 
@@ -176,7 +176,7 @@
 
 ### Teorema de la Dimensión
 
-> [!note]- 📊 Fórmula Principal (Grassmann)
+> [!note] 📊 Fórmula Principal (Grassmann)
 > 
 > Para subespacios $U, W$ de $V$:
 > 
@@ -207,7 +207,7 @@
 > |**$U = W$**|$\dim(U + W) = \dim(U)$|Mismo subespacio|
 > |**Máxima intersección**|$\dim(U \cap W) = \min(\dim U, \dim W)$|Un subespacio contiene al otro|
 
-> [!example]- 📝 Ejemplo de Cálculo Detallado
+> [!example] 📝 Ejemplo de Cálculo Detallado
 > 
 > En $\mathbb{R}^4$:
 > 
@@ -248,7 +248,7 @@
 
 ### Propiedades Algebraicas
 
-> [!note]- 🎨 Operaciones con Sumas
+> [!note] 🎨 Operaciones con Sumas
 > 
 > **1. Conmutatividad:** $$U + W = W + U$$
 > 
@@ -309,7 +309,7 @@
 
 ### Suma de Múltiples Subespacios
 
-> [!note]- 🔢 Generalización
+> [!note] 🔢 Generalización
 > 
 > **Definición:** Para subespacios $U_1, U_2, \ldots, U_k$:
 > 
@@ -337,7 +337,7 @@
 
 ### Ejemplo 1: Suma en $\mathbb{R}^3$
 
-> [!example]- 📐 Recta + Plano
+> [!example] 📐 Recta + Plano
 > 
 > **Subespacio $U$ (recta):** $$U = \text{span}\left{\begin{bmatrix} 1 \ 1 \ 1 \end{bmatrix}\right}$$
 > 
@@ -367,7 +367,7 @@
 
 ### Ejemplo 2: Suma No Directa
 
-> [!example]- 📐 Planos con Intersección
+> [!example] 📐 Planos con Intersección
 > 
 > **Plano $U$:** $x + y + z = 0$
 > 
@@ -412,7 +412,7 @@
 
 ### Ejemplo 3: Matrices $2 \times 2$
 
-> [!example]- 📐 Subespacios de Matrices
+> [!example] 📐 Subespacios de Matrices
 > 
 > **Espacio:** $M_{2 \times 2}$ (matrices $2 \times 2$)
 > 
@@ -448,7 +448,7 @@
 
 ### Ejemplo 4: Polinomios
 
-> [!example]- 📐 Subespacios de $\mathbb{P}_3$
+> [!example] 📐 Subespacios de $\mathbb{P}_3$
 > 
 > **Espacio:** $\mathbb{P}_3$ = polinomios de grado ≤ 3
 > 
@@ -480,7 +480,7 @@
 
 ### Método 1: Encontrar Base de $U + W$
 
-> [!tip]- 🛠️ Algoritmo Sistemático
+> [!tip] 🛠️ Algoritmo Sistemático
 > 
 > **Objetivo:** Encontrar base de $U + W$
 > 
@@ -523,7 +523,7 @@
 
 ### Método 2: Encontrar $U \cap W$
 
-> [!tip]- 🛠️ Intersección de Subespacios
+> [!tip] 🛠️ Intersección de Subespacios
 > 
 > **Método general:**
 > 
@@ -576,7 +576,7 @@
 
 ### Método 3: Verificar Suma Directa
 
-> [!tip]- 🛠️ Tres Formas de Verificar
+> [!tip] 🛠️ Tres Formas de Verificar
 > 
 > **Forma 1: Intersección**
 > 
@@ -633,7 +633,7 @@
 
 ### Aplicación 1: Descomposición de Soluciones
 
-> [!example]- 🔬 Ecuaciones Diferenciales
+> [!example] 🔬 Ecuaciones Diferenciales
 > 
 > **Ecuación:** $\frac{d^2y}{dx^2} + y = \sin(x)$
 > 
@@ -669,7 +669,7 @@
 
 ### Aplicación 2: Proyecciones Ortogonales
 
-> [!example]- 📊 Descomposición en Componentes
+> [!example] 📊 Descomposición en Componentes
 > 
 > **Teorema de descomposición ortogonal:**
 > 
@@ -709,7 +709,7 @@
 
 ### Aplicación 3: Descomposición de Matrices
 
-> [!example]- 🔢 Teoría de Matrices
+> [!example] 🔢 Teoría de Matrices
 > 
 > **Descomposición en partes simétricas:**
 > 
@@ -748,7 +748,7 @@
 
 ### Aplicación 4: Teoría de Códigos
 
-> [!example]- 💻 Códigos Correctores de Errores
+> [!example] 💻 Códigos Correctores de Errores
 > 
 > **Contexto:** Códigos lineales para corrección de errores
 > 
@@ -787,7 +787,7 @@
 
 ### Aplicación 5: Física Cuántica
 
-> [!example]- ⚛️ Espacios de Estados
+> [!example] ⚛️ Espacios de Estados
 > 
 > **Espacio de Hilbert:** $\mathcal{H}$ (espacio de estados cuánticos)
 > 
@@ -823,7 +823,7 @@
 
 ## 🎨 Visualización Geométrica
 
-> [!note]- 📊 Interpretación Visual
+> [!note] 📊 Interpretación Visual
 > 
 > ### Suma en $\mathbb{R}^2$
 > 
@@ -891,7 +891,7 @@
 
 ## 📋 Tabla de Resumen Completa
 
-> [!summary]- 🔍 Referencia Rápida Extendida
+> [!summary] 🔍 Referencia Rápida Extendida
 > 
 > ### Definiciones Fundamentales
 > 
@@ -970,7 +970,7 @@
 
 ### Nivel Básico (Continuación)
 
-> [!example]- 🎯 Más Práctica Fundamental
+> [!example] 🎯 Más Práctica Fundamental
 > 
 > **6.** En $\mathbb{R}^3$, sean: $$U = {(x,y,z) \mid x + y = 0}$$ $$W = {(x,y,z) \mid y + z = 0}$$
 > 
@@ -996,7 +996,7 @@
 
 ### Nivel Intermedio (Continuación)
 
-> [!example]- 🎯 Desafío Moderado Extendido
+> [!example] 🎯 Desafío Moderado Extendido
 > 
 > **11.** En $M_{2 \times 2}$, sean: $$U = \left{\begin{bmatrix} a & b \ c & d \end{bmatrix} \mid a + d = 0\right}$$ $$W = \left{\begin{bmatrix} a & b \ c & d \end{bmatrix} \mid b = c\right}$$
 > 
@@ -1028,7 +1028,7 @@
 
 ### Nivel Avanzado
 
-> [!example]- 🎯 Desafío Avanzado
+> [!example] 🎯 Desafío Avanzado
 > 
 > **16.** Demostrar que si $\dim(V) = n$ y $U$ es subespacio con $\dim(U) = k$, entonces existe un complemento $W$ tal que $V = U \oplus W$ con $\dim(W) = n - k$.
 > 
@@ -1070,7 +1070,7 @@
 
 ### Soluciones Básicas
 
-> [!success]- 🔑 Respuestas Nivel Básico
+> [!success] 🔑 Respuestas Nivel Básico
 > 
 > **6.**
 > 
@@ -1180,7 +1180,7 @@
 
 ### Soluciones Intermedias
 
-> [!success]- 🔑 Respuestas Nivel Intermedio
+> [!success] 🔑 Respuestas Nivel Intermedio
 > 
 > **11.**
 > 
@@ -1280,7 +1280,7 @@
 
 ### Soluciones Avanzadas
 
-> [!success]- 🔑 Respuestas Nivel Avanzado
+> [!success] 🔑 Respuestas Nivel Avanzado
 > 
 > **16.** **Demostración:**
 > 
@@ -1379,7 +1379,7 @@
 
 ## 🌟 Conceptos Clave para Recordar
 
-> [!tip]- 💡 Puntos Esenciales Completos
+> [!tip] 💡 Puntos Esenciales Completos
 > 
 > ### Sobre la Suma de Subespacios
 > 
@@ -1444,7 +1444,7 @@
 
 ## 🔗 Notas Relacionadas Ampliadas
 
-> [!quote]- 🌐 Conexiones Conceptuales
+> [!quote] 🌐 Conexiones Conceptuales
 > 
 > ### Prerequisitos:
 > 
@@ -1495,7 +1495,7 @@
 
 ## 📊 Tabla Comparativa Final
 
-> [!summary]- 🔍 Suma vs Intersección vs Unión
+> [!summary] 🔍 Suma vs Intersección vs Unión
 > 
 > |Aspecto|$U + W$|$U \cap W$|$U \cup W$|
 > |---|---|---|---|
@@ -1507,7 +1507,7 @@
 
 ## 🎨 Visualización Geométrica Extendida
 
-> [!note]- 📊 Más Interpretaciones Visuales
+> [!note] 📊 Más Interpretaciones Visuales
 > 
 > ### Suma Directa en $\mathbb{R}^3$
 > 
@@ -1591,7 +1591,7 @@
 
 ## 🔬 Teoría Profunda (Opcional)
 
-> [!note]- 🎓 Perspectiva Avanzada
+> [!note] 🎓 Perspectiva Avanzada
 > 
 > ### Retículo de Subespacios
 > 
@@ -1654,7 +1654,7 @@
 
 ## ⚠️ Errores Comunes Adicionales
 
-> [!warning]- 🚫 Más Trampas Frecuentes
+> [!warning] 🚫 Más Trampas Frecuentes
 > 
 > ### Error 1: Confundir $U + W$ con $U \cup W$
 > 
@@ -1758,7 +1758,7 @@
 
 ## 🎯 Estrategias de Resolución
 
-> [!tip]- 🛠️ Guía de Resolución de Problemas
+> [!tip] 🛠️ Guía de Resolución de Problemas
 > 
 > ### Para encontrar $U + W$:
 > 
@@ -1828,7 +1828,7 @@
 
 ## 📚 Resumen Ejecutivo
 
-> [!summary]- 🎯 Lo Esencial del Capítulo
+> [!summary] 🎯 Lo Esencial del Capítulo
 > 
 > ### Idea Central
 > 
@@ -1892,7 +1892,7 @@
 
 ## 📖 Referencias y Lecturas Adicionales
 
-> [!quote]- 📚 Para Profundizar
+> [!quote] 📚 Para Profundizar
 > 
 > ### Textos Clásicos:
 > 

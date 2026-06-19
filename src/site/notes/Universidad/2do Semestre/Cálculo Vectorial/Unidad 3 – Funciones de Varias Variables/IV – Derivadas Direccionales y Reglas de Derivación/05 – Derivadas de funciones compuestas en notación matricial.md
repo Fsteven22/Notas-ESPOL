@@ -7,7 +7,7 @@
 
 ## 🎯 Fundamentos de la Composición y Diferenciación
 
-> [!info]- 💡 Introducción a la Derivación de Funciones Compuestas Las **derivadas de funciones compuestas** en notación matricial extienden la regla de la cadena del cálculo univariado al contexto multivariable. Son fundamentales para entender cómo se propagan los cambios a través de transformaciones sucesivas.
+> [!info] 💡 Introducción a la Derivación de Funciones Compuestas Las **derivadas de funciones compuestas** en notación matricial extienden la regla de la cadena del cálculo univariado al contexto multivariable. Son fundamentales para entender cómo se propagan los cambios a través de transformaciones sucesivas.
 > 
 > **Analogías útiles:**
 > 
@@ -29,7 +29,7 @@
 
 ### 📐 Definición Formal de Composición
 
-> [!note]- 🌟 Concepto Matemático de Composición de Funciones **Definición:**
+> [!note] 🌟 Concepto Matemático de Composición de Funciones **Definición:**
 > 
 > Dadas dos funciones diferenciables:
 > 
@@ -69,7 +69,7 @@
 
 ### 📊 Enunciado General
 
-> [!warning]- 📢 Teorema Fundamental de la Composición **Teorema (Regla de la Cadena):**
+> [!warning] 📢 Teorema Fundamental de la Composición **Teorema (Regla de la Cadena):**
 > 
 > Si g: ℝⁿ → ℝᵐ es diferenciable en **x₀** y f: ℝᵐ → ℝᵖ es diferenciable en **y₀ = g(x₀)**, entonces la composición h = f ∘ g es diferenciable en **x₀** y:
 > 
@@ -99,7 +99,7 @@
 
 ### 🧮 Forma Explícita con Componentes
 
-> [!example]- 📝 Expresión Detallada de la Regla de la Cadena **Caso general:**
+> [!example] 📝 Expresión Detallada de la Regla de la Cadena **Caso general:**
 > 
 > Sea h(x) = f(g(x)) donde:
 > 
@@ -131,7 +131,7 @@
 
 ### 🔵 Caso 1: Función Escalar de Función Vectorial (ℝⁿ → ℝ)
 
-> [!success]- 🎯 Composición que Resulta en Escalar **Configuración:**
+> [!success] 🎯 Composición que Resulta en Escalar **Configuración:**
 > 
 > ```
 > g: ℝⁿ → ℝᵐ    (función vectorial)
@@ -182,7 +182,7 @@
 
 ### 🟢 Caso 2: Función Vectorial de Función Vectorial (ℝⁿ → ℝᵖ)
 
-> [!tip]- 🔗 Composición General Vectorial **Configuración:**
+> [!tip] 🔗 Composición General Vectorial **Configuración:**
 > 
 > ```
 > g: ℝⁿ → ℝᵐ    (función vectorial)
@@ -239,7 +239,7 @@
 
 ### 🟡 Caso 3: Cadena de Tres o Más Funciones
 
-> [!warning]- ⛓️ Composiciones Múltiples **Configuración:**
+> [!warning] ⛓️ Composiciones Múltiples **Configuración:**
 > 
 > ```
 > g: ℝⁿ → ℝᵐ
@@ -328,7 +328,7 @@ graph TB
 
 ### 📐 Notación de Leibniz
 
-> [!note]- ✍️ Forma Clásica de las Derivadas **Para h(x₁, ..., xₙ) = f(g₁(x), ..., gₘ(x)):**
+> [!note] ✍️ Forma Clásica de las Derivadas **Para h(x₁, ..., xₙ) = f(g₁(x), ..., gₘ(x)):**
 > 
 > **La derivada parcial de h respecto a x_j:**
 > 
@@ -360,7 +360,7 @@ graph TB
 
 ### 🌲 Diagrama de Árbol de Dependencias
 
-> [!example]- 🌳 Visualización de Variables Dependientes **Ejemplo: z = f(x, y) donde x = g(t), y = h(t)**
+> [!example] 🌳 Visualización de Variables Dependientes **Ejemplo: z = f(x, y) donde x = g(t), y = h(t)**
 > 
 > ```
 >                     z
@@ -401,7 +401,7 @@ graph TB
 
 ### 🔀 Variables Independientes vs Dependientes
 
-> [!warning]- ⚠️ Cuidado con la Notación Ambigua **Problema común:**
+> [!warning] ⚠️ Cuidado con la Notación Ambigua **Problema común:**
 > 
 > La notación ∂f/∂x puede significar cosas diferentes según el contexto.
 > 
@@ -446,7 +446,7 @@ graph TB
 
 ## 🧮 Ejemplos Detallados Paso a Paso
 
-> [!example]- 📖 Ejercicios Completamente Resueltos
+> [!example] 📖 Ejercicios Completamente Resueltos
 > 
 > ### **Ejemplo 1: Composición ℝ² → ℝ² → ℝ**
 > 
@@ -906,7 +906,7 @@ graph TB
 
 ### 📐 Cambio de Coordenadas
 
-> [!note]- 🔄 Transformaciones entre Sistemas de Coordenadas **Aplicación fundamental:** Expresar funciones y derivadas en diferentes sistemas coordenados.
+> [!note] 🔄 Transformaciones entre Sistemas de Coordenadas **Aplicación fundamental:** Expresar funciones y derivadas en diferentes sistemas coordenados.
 > 
 > ---
 > 
@@ -1056,7 +1056,7 @@ graph TB
 
 ### 📊 Linealidad de la Derivada de Composición
 
-> [!success]- ➕ Propiedades Algebraicas de la Regla de la Cadena
+> [!success] ➕ Propiedades Algebraicas de la Regla de la Cadena
 > 
 > **🔵 Propiedad 1: Aditividad**
 > 
@@ -1147,7 +1147,7 @@ graph TB
 
 ### 🔄 Composición Asociativa
 
-> [!warning]- 📐 Orden de Composición y Multiplicación de Jacobianas
+> [!warning] 📐 Orden de Composición y Multiplicación de Jacobianas
 > 
 > **🎯 Propiedad fundamental:**
 > 
@@ -1256,7 +1256,7 @@ graph TB
 
 ### 🎯 Teorema de la Función Inversa
 
-> [!tip]- 🔃 Derivada de la Función Inversa mediante Regla de la Cadena
+> [!tip] 🔃 Derivada de la Función Inversa mediante Regla de la Cadena
 > 
 > **📜 Teorema:**
 > 
@@ -1382,7 +1382,7 @@ graph TB
 
 ## 💡 Estrategias de Cálculo
 
-> [!example]- 🧠 Métodos Efectivos para Resolver Problemas
+> [!example] 🧠 Métodos Efectivos para Resolver Problemas
 > 
 > ### **Método 1: Sustitución Directa + Derivación**
 > 
@@ -2268,7 +2268,7 @@ graph TB
 
 ## 📚 Conexiones con Otros Temas
 
-> [!quote]- 🌟 Enlaces Conceptuales en el Sistema de Notas
+> [!quote] 🌟 Enlaces Conceptuales en el Sistema de Notas
 > 
 > **📖 Prerequisites (Prerrequisitos):**
 > 

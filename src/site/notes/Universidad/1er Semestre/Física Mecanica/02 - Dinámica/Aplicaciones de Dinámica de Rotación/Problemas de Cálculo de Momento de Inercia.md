@@ -7,11 +7,11 @@
 
 > [!quote] "El momento de inercia es la memoria rotacional de la materia; cada partícula recuerda su distancia al eje y resiste el cambio con la fuerza de su posición." 🌀
 
-> [!info]- El momento de inercia es una propiedad fundamental de los cuerpos rígidos que cuantifica su resistencia a cambios en el movimiento rotacional. Su cálculo correcto es esencial para resolver problemas de dinámica rotacional, especialmente cuando se aplica el Teorema de los Ejes Paralelos.
+> [!info] El momento de inercia es una propiedad fundamental de los cuerpos rígidos que cuantifica su resistencia a cambios en el movimiento rotacional. Su cálculo correcto es esencial para resolver problemas de dinámica rotacional, especialmente cuando se aplica el Teorema de los Ejes Paralelos.
 
 ## 🔧 Fundamentos del Momento de Inercia
 
-> [!info]- **Definición y Conceptos Básicos** ⚙️
+> [!info] **Definición y Conceptos Básicos** ⚙️
 > 
 > ### Definición Matemática:
 > 
@@ -43,7 +43,7 @@
 > |Naturaleza|Escalar positivo|---|
 > |Distribución|Función de la geometría|---|
 
-> [!tip]- **Momentos de Inercia de Figuras Básicas** 📐
+> [!tip] **Momentos de Inercia de Figuras Básicas** 📐
 > 
 > ### Respecto al Centro de Masa:
 > 
@@ -60,7 +60,7 @@
 > |**Cilindro hueco**|I = (1/2)M(R₁² + R₂²)|Eje longitudinal|
 > |**Placa rectangular**|I = (1/12)M(a² + b²)|Eje ⊥ por el centro|
 
-> [!warning]- **Teorema de los Ejes Paralelos (Steiner)** ⚡
+> [!warning] **Teorema de los Ejes Paralelos (Steiner)** ⚡
 > 
 > ### Enunciado:
 > 
@@ -89,7 +89,7 @@
 
 ## 📐 Cálculo Directo del Momento de Inercia
 
-> [!example]- **Partículas Discretas en un Sistema** 🔴
+> [!example] **Partículas Discretas en un Sistema** 🔴
 > 
 > ### Enunciado:
 > 
@@ -121,7 +121,7 @@
 > I = 18 + 16 + 15 = 49 kg·m²
 > ```
 
-> [!example]- **Varilla con Densidad Variable** 📏
+> [!example] **Varilla con Densidad Variable** 📏
 > 
 > ### Enunciado:
 > 
@@ -147,7 +147,7 @@
 
 ## ⚙️ Teorema de los Ejes Paralelos
 
-> [!success]- **Estrategia de Aplicación del Teorema** 🎯
+> [!success] **Estrategia de Aplicación del Teorema** 🎯
 > 
 > ### Método DESPLAZA:
 > 
@@ -159,7 +159,7 @@
 > - ✅ d = 0 → I = I_CM (mismo eje)
 > - ✅ Unidades consistentes (kg·m²)
 
-> [!example]- **Ejemplo Básico: Disco Desplazado** 💿
+> [!example] **Ejemplo Básico: Disco Desplazado** 💿
 > 
 > ### Enunciado:
 > 
@@ -191,7 +191,7 @@
 > 
 > **Verificación**: I > I_CM ✓ (1.025 > 0.225)
 
-> [!example]- **Problema Avanzado: Varilla en Diferentes Ejes** 📐
+> [!example] **Problema Avanzado: Varilla en Diferentes Ejes** 📐
 > 
 > ### Enunciado:
 > 
@@ -239,7 +239,7 @@
 > I = I_CM + Md² = 0.36 + (3)(1.2)² = 0.36 + 4.32 = 4.68 kg·m²
 > ```
 
-> [!example]- **Sistema Compuesto: Múltiples Objetos** 🔗
+> [!example] **Sistema Compuesto: Múltiples Objetos** 🔗
 > 
 > ### Enunciado:
 > 
@@ -290,7 +290,7 @@
 
 ## 🔄 Problemas con Múltiples Ejes
 
-> [!tip]- **Análisis de Diferentes Configuraciones** 🎯
+> [!tip] **Análisis de Diferentes Configuraciones** 🎯
 > 
 > ### Tipos de Problemas:
 > 
@@ -319,7 +319,7 @@
 >     style G fill:#e0f2f1
 > ```
 
-> [!example]- **Problema Complejo: Placa en L** 📐
+> [!example] **Problema Complejo: Placa en L** 📐
 > 
 > ### Enunciado:
 > 
@@ -396,11 +396,11 @@
 
 ## 🧮 Técnicas de Memorización
 
-> [!tip]- **Mnemotecnia: "STEINER"** 🧠
+> [!tip] **Mnemotecnia: "STEINER"** 🧠
 > 
 > **S**iempre busca el centro de masa primero **T**eorema: I = I_CM + Md² **E**jes deben ser paralelos **I**nercia aumenta al alejarse del CM **N**unca olvides la masa total M **E**cuación válida solo para cuerpos rígidos **R**esultado siempre mayor que I_CM
 
-> [!tip]- **Regla Nemotécnica para Fórmulas** 📝
+> [!tip] **Regla Nemotécnica para Fórmulas** 📝
 > 
 > - **"Medio Erre cuadrado"** → Disco: I = (1/2)MR²
 > - **"Erre cuadrado completo"** → Aro: I = MR²
@@ -410,7 +410,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- **Confusiones Frecuentes** ⚠️
+> [!warning] **Confusiones Frecuentes** ⚠️
 > 
 > 1. **Usar fórmulas incorrectas** para la geometría específica
 > 2. **Aplicar Steiner con ejes no paralelos**
@@ -425,7 +425,7 @@
 
 ## 📊 Casos Especiales y Verificaciones
 
-> [!info]- **Límites y Casos Particulares** 🔄
+> [!info] **Límites y Casos Particulares** 🔄
 > 
 > ### Verificaciones Útiles:
 > 
@@ -454,7 +454,7 @@
 > Si masa × k → I × k
 > ```
 
-> [!note]- **Tabla de Distancias Típicas** 📋
+> [!note] **Tabla de Distancias Típicas** 📋
 > 
 > |Configuración|Distancia d|Observaciones|
 > |---|---|---|
@@ -466,7 +466,7 @@
 
 ## 🎯 Aplicaciones Avanzadas
 
-> [!info]- **Problemas del Mundo Real** 🌍
+> [!info] **Problemas del Mundo Real** 🌍
 > 
 > ### Ingeniería Mecánica:
 > 
@@ -494,7 +494,7 @@
 
 ## 📖 Referencias
 
-> [!quote]- **Notas Relacionadas**
+> [!quote] **Notas Relacionadas**
 > 
 > - [[Dinámica de Rotación\|Dinámica de Rotación]] - Aplicación en ecuaciones de movimiento
 > - [[Universidad/1er Semestre/Física Mecanica/02 - Dinámica/Dinámica de Rotación/Torque y Equilibrio Rotacional\|Torque y Equilibrio Rotacional]] - Relación τ = Iα
@@ -504,7 +504,7 @@
 
 ## 📚 Notas Recomendadas
 
-> [!note]- **Prerrequisitos**
+> [!note] **Prerrequisitos**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Operaciones vectoriales y coordenadas
 > - [[Universidad/1er Semestre/Física Mecanica/05 - Equilibrio y Elasticidad/Centro de Gravedad (CG)\|Centro de Gravedad (CG)]] - Conceptos de centro de masa

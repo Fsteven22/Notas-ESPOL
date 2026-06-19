@@ -7,7 +7,7 @@
 
 ## 🎯 Fundamentos del Teorema
 
-> [!info]- 💡 Introducción al Teorema de Rouché-Frobenius El **Teorema de Rouché-Frobenius** es uno de los resultados fundamentales del álgebra lineal que establece las condiciones necesarias y suficientes para que un sistema de ecuaciones lineales tenga solución. Es la herramienta definitiva para determinar la **compatibilidad** de sistemas lineales.
+> [!info] 💡 Introducción al Teorema de Rouché-Frobenius El **Teorema de Rouché-Frobenius** es uno de los resultados fundamentales del álgebra lineal que establece las condiciones necesarias y suficientes para que un sistema de ecuaciones lineales tenga solución. Es la herramienta definitiva para determinar la **compatibilidad** de sistemas lineales.
 > 
 > **Analogías útiles:**
 > 
@@ -32,7 +32,7 @@
 
 ### 📊 Conceptos Previos Esenciales
 
-> [!note]- 🔑 Prerequisitos Necesarios
+> [!note] 🔑 Prerequisitos Necesarios
 > 
 > **1. Matriz de Coeficientes (A):**
 > 
@@ -90,7 +90,7 @@
 
 ### 🎓 Teorema de Rouché-Frobenius
 
-> [!important]- ⭐ Enunciado Formal
+> [!important] ⭐ Enunciado Formal
 > 
 > Sea un sistema de ecuaciones lineales **Ax = b** con:
 > 
@@ -133,7 +133,7 @@
 
 ### 🔍 Interpretación Geométrica
 
-> [!tip]- 🌐 Visualización del Teorema
+> [!tip] 🌐 Visualización del Teorema
 > 
 > **Para sistemas 2×2 (dos ecuaciones, dos incógnitas):**
 > 
@@ -213,7 +213,7 @@
 
 ### 📝 Nivel 1 - Sistemas Básicos
 
-> [!example]- 🟢 Ejemplo 1: Compatible Determinado (Caso Más Simple)
+> [!example] 🟢 Ejemplo 1: Compatible Determinado (Caso Más Simple)
 > 
 > **Sistema:** $$\begin{cases} x + y = 3 \ 2x - y = 0 \end{cases}$$
 > 
@@ -277,7 +277,7 @@
 > - x + y = 1 + 2 = 3 ✓
 > - 2x - y = 2(1) - 2 = 0 ✓
 
-> [!example]- 🟢 Ejemplo 2: Sistema Incompatible
+> [!example] 🟢 Ejemplo 2: Sistema Incompatible
 > 
 > **Sistema:** $$\begin{cases} x + y = 1 \ x + y = 2 \end{cases}$$
 > 
@@ -327,7 +327,7 @@
 > - x + y = 2 es otra recta paralela desplazada
 > - Nunca se cortan → sin solución
 
-> [!example]- 🟢 Ejemplo 3: Compatible Indeterminado
+> [!example] 🟢 Ejemplo 3: Compatible Indeterminado
 > 
 > **Sistema:** $$\begin{cases} x + 2y = 4 \ 2x + 4y = 8 \end{cases}$$
 > 
@@ -397,7 +397,7 @@
 
 ### 📝 Nivel 2 - Sistemas 3×3
 
-> [!example]- 🟡 Ejemplo 4: Sistema 3×3 Compatible Determinado
+> [!example] 🟡 Ejemplo 4: Sistema 3×3 Compatible Determinado
 > 
 > **Sistema:** $$\begin{cases} x + y + z = 6 \ 2x - y + z = 3 \ x + 2y - z = 1 \end{cases}$$
 > 
@@ -465,7 +465,7 @@
 > 
 > **Solución: (x, y, z) = (5/7, 13/7, 24/7)**
 
-> [!example]- 🟡 Ejemplo 5: Sistema 3×3 Compatible Indeterminado
+> [!example] 🟡 Ejemplo 5: Sistema 3×3 Compatible Indeterminado
 > 
 > **Sistema:** $$\begin{cases} x + y + z = 1 \ 2x + 2y + 2z = 2 \ 3x + 3y + 3z = 3 \end{cases}$$
 > 
@@ -516,7 +516,7 @@
 > 
 > **Interpretación:** La solución es un plano en ℝ³
 
-> [!example]- 🟡 Ejemplo 6: Sistema 3×3 Incompatible
+> [!example] 🟡 Ejemplo 6: Sistema 3×3 Incompatible
 > 
 > **Sistema:** $$\begin{cases} x + y + z = 1 \ 2x + 2y + 2z = 2 \ 3x + 3y + 3z = 5 \end{cases}$$
 > 
@@ -575,7 +575,7 @@
 
 ### 📝 Nivel 3 - Sistemas con Parámetros
 
-> [!example]- 🔴 Ejemplo 7: Sistema con Parámetro
+> [!example] 🔴 Ejemplo 7: Sistema con Parámetro
 > 
 > **Sistema (con parámetro a):** $$\begin{cases} x + y + z = 1 \ x + 2y + 3z = 2 \ x + 3y + az = 3 \end{cases}$$
 > 
@@ -667,7 +667,7 @@
 > |a ≠ 5|Compatible Determinado|(0, 1, 0)|
 > |a = 5|Compatible Indeterminado|(λ, 1-2λ, λ)|
 
-> [!example]- 🔴 Ejemplo 8: Sistema con Dos Parámetros
+> [!example] 🔴 Ejemplo 8: Sistema con Dos Parámetros
 > 
 > **Sistema:** $$\begin{cases} x + y + z = a \ x + 2y + 4z = b \ 2x + 3y + 5z = 3 \end{cases}$$
 > 
@@ -751,7 +751,7 @@
 > Solución: (x,y,z) = (2λ, 1-3λ, λ), λ ∈ ℝ
 > ```
 
-> [!example]- 🔴 Ejemplo 9: Discusión Completa con Parámetro
+> [!example] 🔴 Ejemplo 9: Discusión Completa con Parámetro
 > 
 > **Sistema:** $$\begin{cases} x + y + z = 1 \ 2x + ay + 2z = 3 \ x + y + az = 2 \end{cases}$$
 > 
@@ -843,7 +843,7 @@
 
 ### 📐 Método 1: Reducción por Filas (Gauss-Jordan)
 
-> [!note]- 🔨 Método de Eliminación Gaussiana
+> [!note] 🔨 Método de Eliminación Gaussiana
 > 
 > **Procedimiento:**
 > 
@@ -903,7 +903,7 @@
 
 ### 📐 Método 2: Determinantes (Menores)
 
-> [!note]- 🔢 Método de los Menores
+> [!note] 🔢 Método de los Menores
 > 
 > **Definición:** El rango de A es el orden del mayor menor no nulo
 > 
@@ -957,7 +957,7 @@
 
 ### 📐 Método 3: Usando Propiedades
 
-> [!tip]- ⚡ Atajos y Propiedades Útiles
+> [!tip] ⚡ Atajos y Propiedades Útiles
 > 
 > **Propiedades del rango:**
 > 
@@ -1010,7 +1010,7 @@
 
 ### 📝 Nivel 1 - Ejercicios Básicos
 
-> [!example]- 🟢 Práctica Inicial
+> [!example] 🟢 Práctica Inicial
 > 
 > **Ejercicio 1:** Clasifique el siguiente sistema usando Rouché-Frobenius: $$\begin{cases} x + 2y = 5 \ 2x + 4y = 10 \end{cases}$$
 > 
@@ -1052,7 +1052,7 @@
 
 ### 📝 Nivel 2 - Ejercicios Intermedios
 
-> [!example]- 🟡 Práctica Intermedia
+> [!example] 🟡 Práctica Intermedia
 > 
 > **Ejercicio 11:** Clasifique y resuelva si es posible: $$\begin{cases} x + 2y - z = 4 \ 2x + 5y + z = 13 \ 3x + 7y = 17 \end{cases}$$
 > 
@@ -1094,7 +1094,7 @@
 
 ### 📝 Nivel 3 - Ejercicios Avanzados
 
-> [!example]- 🔴 Práctica Avanzada
+> [!example] 🔴 Práctica Avanzada
 > 
 > **Ejercicio 21:** Discusión completa según a y b: $$\begin{cases} x + y + az = 1 \ x + ay + z = 1 \ ax + y + z = b \end{cases}$$
 > 
@@ -1138,7 +1138,7 @@
 
 ### 🔍 Soluciones Nivel 1
 
-> [!success]- ✅ Soluciones Ejercicios Básicos
+> [!success] ✅ Soluciones Ejercicios Básicos
 > 
 > **Solución Ejercicio 1:**
 > 
@@ -1258,7 +1258,7 @@
 
 ### 🔍 Soluciones Nivel 2
 
-> [!success]- ✅ Soluciones Ejercicios Intermedios
+> [!success] ✅ Soluciones Ejercicios Intermedios
 > 
 > **Solución Ejercicio 11:**
 > 
@@ -1367,7 +1367,7 @@
 
 ### 🔍 Soluciones Nivel 3
 
-> [!success]- ✅ Soluciones Ejercicios Avanzados
+> [!success] ✅ Soluciones Ejercicios Avanzados
 > 
 > **Solución Ejercicio 22:**
 > 
@@ -1523,7 +1523,7 @@
 
 ### 🔍 Sistemas Homogéneos
 
-> [!note]- 🟦 Propiedades de Sistemas Homogéneos (Ax = 0)
+> [!note] 🟦 Propiedades de Sistemas Homogéneos (Ax = 0)
 > 
 > **Definición:** Un sistema es homogéneo si b = 0, es decir, Ax = 0
 > 
@@ -1582,7 +1582,7 @@
 
 ### 🔍 Sistemas Cuadrados (m = n)
 
-> [!tip]- 🟨 Sistemas con Igual Número de Ecuaciones e Incógnitas
+> [!tip] 🟨 Sistemas con Igual Número de Ecuaciones e Incógnitas
 > 
 > **Caso especial:** A es matriz cuadrada n×n
 > 
@@ -1645,7 +1645,7 @@
 
 ### 🔍 Sistemas Rectangulares
 
-> [!warning]- 🟧 Sistemas con m ≠ n
+> [!warning] 🟧 Sistemas con m ≠ n
 > 
 > **Tipo 1: Sistemas Subdeterminados (m < n)**
 > 
@@ -1701,7 +1701,7 @@
 
 ### 🔍 Sistemas con Parámetros
 
-> [!example]- 🟪 Análisis Paramétrico Sistemático
+> [!example] 🟪 Análisis Paramétrico Sistemático
 > 
 > **Metodología general:**
 > 
@@ -1781,7 +1781,7 @@
 
 ### 📐 Teoremas Relacionados
 
-> [!note]- 📚 Teoremas Fundamentales del Álgebra Lineal
+> [!note] 📚 Teoremas Fundamentales del Álgebra Lineal
 > 
 > **Teorema 1: Existencia de Soluciones**
 > 
@@ -1855,7 +1855,7 @@
 
 ### 🔧 Propiedades Operacionales
 
-> [!tip]- ⚙️ Operaciones que Preservan/Cambian el Rango
+> [!tip] ⚙️ Operaciones que Preservan/Cambian el Rango
 > 
 > **Operaciones que NO cambian el rango:**
 > 
@@ -1914,7 +1914,7 @@
 
 ### 💼 Aplicaciones en Ingeniería
 
-> [!example]- ⚡ Circuitos Eléctricos
+> [!example] ⚡ Circuitos Eléctricos
 > 
 > **Leyes de Kirchhoff:**
 > 
@@ -1947,7 +1947,7 @@
 > 
 > Las corrientes tienen valores únicos determinados.
 
-> [!example]- 🏗️ Estructuras y Estática
+> [!example] 🏗️ Estructuras y Estática
 > 
 > **Análisis de armaduras (Método de los Nudos):**
 > 
@@ -1983,7 +1983,7 @@
 > 
 > Si agregamos condición de apoyo o material, se vuelve determinado.
 
-> [!example]- 🔬 Balances de Materia (Ingeniería Química)
+> [!example] 🔬 Balances de Materia (Ingeniería Química)
 > 
 > **Balance de masa en proceso continuo:**
 > 
@@ -2017,7 +2017,7 @@
 
 ### 💰 Aplicaciones en Economía
 
-> [!example]- 📊 Modelo de Leontief (Input-Output)
+> [!example] 📊 Modelo de Leontief (Input-Output)
 > 
 > **Análisis de sectores económicos interdependientes:**
 > 
@@ -2048,7 +2048,7 @@
 > 
 > Solución única: x = (I - A)⁻¹d
 
-> [!example]- 💹 Optimización de Portafolios
+> [!example] 💹 Optimización de Portafolios
 > 
 > **Asignación de inversiones con restricciones:**
 > 
@@ -2076,7 +2076,7 @@
 
 ### 🔬 Aplicaciones en Ciencias
 
-> [!example]- 🧪 Balanceo de Ecuaciones Químicas
+> [!example] 🧪 Balanceo de Ecuaciones Químicas
 > 
 > **Balancear:** C₃H₈ + O₂ → CO₂ + H₂O
 > 
@@ -2102,7 +2102,7 @@
 
 ### 🎯 Metodología Paso a Paso
 
-> [!tip]- 🗺️ Algoritmo General para Clasificar Sistemas
+> [!tip] 🗺️ Algoritmo General para Clasificar Sistemas
 > 
 > **PASO 1: Identificar el sistema**
 > 
@@ -2159,7 +2159,7 @@
 
 ### 🔍 Trucos y Atajos
 
-> [!tip]- ⚡ Métodos Rápidos de Identificación
+> [!tip] ⚡ Métodos Rápidos de Identificación
 > 
 > **Atajo 1: Observación Visual**
 > 
@@ -2227,7 +2227,7 @@
 
 ## 📖 Resumen y Puntos Clave
 
-> [!abstract]- 🎓 Conceptos Esenciales para Recordar
+> [!abstract] 🎓 Conceptos Esenciales para Recordar
 > 
 > ### Teorema de Rouché-Frobenius
 > 
@@ -2280,7 +2280,7 @@
 > - 2×2: Rectas que se cortan (CD), coinciden (CI), o son paralelas (I)
 > - 3×3: Planos que se cortan en punto (CD), recta (CI), o no se cortan (I)
 
-> [!summary]- 📋 Tabla de Decisión Rápida
+> [!summary] 📋 Tabla de Decisión Rápida
 > 
 > ### Algoritmo de Clasificación
 > 
@@ -2312,7 +2312,7 @@
 
 ## 🎯 Errores Comunes y Cómo Evitarlos
 
-> [!warning]- ⚠️ Trampas Frecuentes
+> [!warning] ⚠️ Trampas Frecuentes
 > 
 > ### Error 1: Confundir rg(A) con rg(A|b)
 > 
@@ -2413,7 +2413,7 @@
 
 ## 🧠 Técnicas de Memorización
 
-> [!tip]- 🎨 Reglas Nemotécnicas
+> [!tip] 🎨 Reglas Nemotécnicas
 > 
 > ### Mnemónico 1: "RR = Solución"
 > 
@@ -2454,7 +2454,7 @@
 
 ## 📚 Recursos Adicionales
 
-> [!info]- 🔗 Material Complementario
+> [!info] 🔗 Material Complementario
 > 
 > ### Conceptos Relacionados
 > 
@@ -2493,7 +2493,7 @@
 
 ## ✅ Checklist de Dominio del Tema
 
-> [!check]- ☑️ Autoevaluación
+> [!check] ☑️ Autoevaluación
 > 
 > ### Conceptos Básicos
 > 
@@ -2538,7 +2538,7 @@
 
 ## 🎓 Ejercicios de Consolidación Final
 
-> [!example]- 🏆 Desafíos Integradores
+> [!example] 🏆 Desafíos Integradores
 > 
 > ### Desafío 1: Problema Completo Paso a Paso
 > 
@@ -2601,7 +2601,7 @@
 
 ## 🌟 Reflexiones Finales
 
-> [!note]- 💭 Importancia y Perspectiva
+> [!note] 💭 Importancia y Perspectiva
 > 
 > ### ¿Por qué es fundamental este teorema?
 > 
@@ -2641,7 +2641,7 @@
 ---
 ## 🔗 Enlaces con Notas del Sistema
 
-> [!quote]- 🌐 Relaciones Conceptuales
+> [!quote] 🌐 Relaciones Conceptuales
 > 
 > **Depende directamente de:**
 > 
@@ -2681,7 +2681,7 @@
 > - [[Programación Lineal\|Programación Lineal]] - Factibilidad de restricciones
 > - [[Teoremas de Existencia y Unicidad\|Teoremas de Existencia y Unicidad]] - Ecuaciones diferenciales
 
-> [!info]- 📚 Temas Avanzados Relacionados
+> [!info] 📚 Temas Avanzados Relacionados
 > 
 > **Para profundizar después de dominar este tema:**
 > 
@@ -2725,7 +2725,7 @@
 
 ## 🎓 Recursos Adicionales para Estudio
 
-> [!tip]- 📖 Material Complementario Recomendado
+> [!tip] 📖 Material Complementario Recomendado
 > 
 > **Libros de referencia:**
 > 

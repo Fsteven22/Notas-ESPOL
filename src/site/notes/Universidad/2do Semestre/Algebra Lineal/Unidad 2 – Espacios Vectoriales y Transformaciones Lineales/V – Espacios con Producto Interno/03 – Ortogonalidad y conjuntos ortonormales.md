@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es la Ortogonalidad?
+> [!info] 💡 ¿Qué es la Ortogonalidad?
 > 
 > La **ortogonalidad** es uno de los conceptos más importantes y elegantes del álgebra lineal. Dos vectores son ortogonales cuando forman un ángulo de 90° entre sí, lo que significa que son completamente "independientes" o "perpendiculares" en su dirección.
 > 
@@ -51,7 +51,7 @@ graph TB
 
 ### 🔍 Definición del Producto Interno
 
-> [!example]- 📊 El Producto Interno como Herramienta Fundamental
+> [!example] 📊 El Producto Interno como Herramienta Fundamental
 > 
 > El **producto interno** (o producto escalar) es una operación que toma dos vectores y devuelve un número escalar. Es la herramienta matemática que nos permite definir ortogonalidad.
 > 
@@ -112,7 +112,7 @@ graph TB
 
 ### ⊥ Definición de Ortogonalidad
 
-> [!note]- 🎯 Criterio de Perpendicularidad
+> [!note] 🎯 Criterio de Perpendicularidad
 > 
 > **Definición:** Dos vectores **u** y **v** son **ortogonales** (se denota **u** ⊥ **v**) si y solo si:
 > 
@@ -181,7 +181,7 @@ graph TB
 
 ### 📐 Relación con Ángulos
 
-> [!success]- 🔺 Fórmula del Ángulo entre Vectores
+> [!success] 🔺 Fórmula del Ángulo entre Vectores
 > 
 > **Teorema fundamental:** El ángulo θ entre dos vectores no nulos **u** y **v** satisface:
 > 
@@ -240,7 +240,7 @@ graph TB
 
 ### 📦 Conjunto Ortogonal
 
-> [!info]- 🎲 Definición y Propiedades
+> [!info] 🎲 Definición y Propiedades
 > 
 > **Definición:** Un conjunto de vectores {v₁, v₂, ..., vₖ} es **ortogonal** si cada par de vectores distintos es ortogonal:
 > 
@@ -297,7 +297,7 @@ graph TB
 
 ### 🎯 Base Ortogonal
 
-> [!example]- 🏛️ Bases Especiales
+> [!example] 🏛️ Bases Especiales
 > 
 > **Definición:** Una **base ortogonal** de un espacio vectorial V es un conjunto ortogonal que genera V.
 > 
@@ -379,7 +379,7 @@ graph TB
 
 ### 🎖️ Definición de Conjunto Ortonormal
 
-> [!tip]- 🌟 La Perfección de la Ortogonalidad
+> [!tip] 🌟 La Perfección de la Ortogonalidad
 > 
 > **Definición:** Un conjunto de vectores {u₁, u₂, ..., uₖ} es **ortonormal** si:
 > 
@@ -447,7 +447,7 @@ graph TB
 
 ### 🔧 Normalización de Vectores
 
-> [!success]- 📏 Proceso de Normalización
+> [!success] 📏 Proceso de Normalización
 > 
 > **Definición:** Normalizar un vector **v** ≠ **0** es crear un vector unitario **û** en la misma dirección:
 > 
@@ -514,7 +514,7 @@ graph TB
 
 ### 💎 Propiedades de Bases Ortonormales
 
-> [!note]- ✨ Ventajas Computacionales y Teóricas
+> [!note] ✨ Ventajas Computacionales y Teóricas
 > 
 > **1. Coordenadas ultra-simplificadas:**
 > 
@@ -600,7 +600,7 @@ graph TB
 
 ### 🏗️ Algoritmo de Ortonormalización
 
-> [!example]- 🛠️ Construcción de Bases Ortonormales
+> [!example] 🛠️ Construcción de Bases Ortonormales
 > 
 > El **proceso de Gram-Schmidt** transforma cualquier base en una base ortonormal, preservando el espacio generado.
 > 
@@ -650,7 +650,7 @@ graph TB
 
 ### 📝 Ejemplo Detallado
 
-> [!success]- 🎓 Aplicación Completa en ℝ³
+> [!success] 🎓 Aplicación Completa en ℝ³
 > 
 > **Problema:** Ortonormalizar la base {v₁, v₂, v₃} donde:
 > 
@@ -738,7 +738,7 @@ graph TB
 
 ### ⚠️ Consideraciones Prácticas
 
-> [!warning]- 🔍 Limitaciones y Alternativas
+> [!warning] 🔍 Limitaciones y Alternativas
 > 
 > **Problemas del Gram-Schmidt clásico:**
 > 
@@ -793,7 +793,7 @@ graph TB
 
 ### 📊 Proyecciones Ortogonales
 
-> [!info]- 🎯 Descomposición de Vectores
+> [!info] 🎯 Descomposición de Vectores
 > 
 > **Concepto:** La proyección ortogonal de **v** sobre **u** es el vector en la dirección de **u** que está "más cerca" de **v**.
 > 
@@ -864,7 +864,7 @@ graph TB
 
 ### 🔬 Mínimos Cuadrados
 
-> [!example]- 📈 Aproximación Óptima
+> [!example] 📈 Aproximación Óptima
 > 
 > **Problema:** Dado un sistema inconsistente **Ax = b** (más ecuaciones que incógnitas), encontrar la "mejor" solución.
 > 
@@ -919,7 +919,7 @@ graph TB
 
 ### 🖼️ Compresión de Imágenes
 
-> [!tip]- 🎨 Representación Eficiente
+> [!tip] 🎨 Representación Eficiente
 > 
 > **Idea clave:** Usar base ortonormal donde la información se concentra en pocos coeficientes.
 > 
@@ -1045,7 +1045,7 @@ flowchart TD
 
 ### 🎯 Nivel Básico
 
-> [!example]- 📝 Ejercicios Fundamentales
+> [!example] 📝 Ejercicios Fundamentales
 > 
 > **Ejercicio 1: Verificar ortogonalidad**
 > 
@@ -1084,7 +1084,7 @@ flowchart TD
 
 ### 🎓 Nivel Intermedio
 
-> [!example]- 🔧 Aplicaciones y Cálculos
+> [!example] 🔧 Aplicaciones y Cálculos
 > 
 > **Ejercicio 3: Proyección ortogonal**
 > 
@@ -1124,7 +1124,7 @@ flowchart TD
 
 ### 🏆 Nivel Avanzado
 
-> [!example]- 🚀 Desafíos Complejos
+> [!example] 🚀 Desafíos Complejos
 > 
 > **Ejercicio 5: Gram-Schmidt completo**
 > 
@@ -1157,7 +1157,7 @@ flowchart TD
 
 ## 🔗 Conexiones y Próximos Pasos
 
-> [!quote]- 🌟 Progresión del Aprendizaje
+> [!quote] 🌟 Progresión del Aprendizaje
 > 
 > **Has dominado:**
 > 
@@ -1225,7 +1225,7 @@ flowchart TD
 
 ## 📐 Introducción
 
-> [!info]- 💡 ¿Qué son los Conjuntos Ortogonales?
+> [!info] 💡 ¿Qué son los Conjuntos Ortogonales?
 > 
 > Los **conjuntos ortogonales** son colecciones de vectores que son perpendiculares entre sí. Esta propiedad geométrica fundamental tiene aplicaciones profundas en álgebra lineal, desde simplificar sistemas de ecuaciones hasta comprimir datos en ingeniería.
 > 
@@ -1262,7 +1262,7 @@ graph TB
 
 ### 📏 Producto Interno y Ortogonalidad
 
-> [!example]- 🎓 Definición Matemática
+> [!example] 🎓 Definición Matemática
 > 
 > **Producto interno estándar en ℝⁿ:**
 > 
@@ -1323,7 +1323,7 @@ graph TB
 
 ### 🧮 Propiedades del Producto Interno
 
-> [!note]- 📊 Propiedades Fundamentales
+> [!note] 📊 Propiedades Fundamentales
 > 
 > El producto interno satisface las siguientes propiedades para vectores **u**, **v**, **w** y escalar c:
 > 
@@ -1377,7 +1377,7 @@ graph TB
 
 ### 📐 Norma y Normalización
 
-> [!success]- 📏 Longitud de Vectores
+> [!success] 📏 Longitud de Vectores
 > 
 > **Norma (longitud) de un vector:**
 > 
@@ -1451,7 +1451,7 @@ graph TB
 
 ### 📚 Definición y Propiedades
 
-> [!tip]- 🔢 Conjuntos Ortogonales
+> [!tip] 🔢 Conjuntos Ortogonales
 > 
 > **Definición:**
 > 
@@ -1544,7 +1544,7 @@ graph TB
 
 ### 🎨 Representación de Vectores
 
-> [!example]- 📝 Coordenadas en Bases Ortogonales
+> [!example] 📝 Coordenadas en Bases Ortogonales
 > 
 > **Teorema de coordenadas ortogonales:**
 > 
@@ -1634,7 +1634,7 @@ graph TB
 
 ### 🎯 Definición y Construcción
 
-> [!success]- 🌟 Bases Ortonormales
+> [!success] 🌟 Bases Ortonormales
 > 
 > **Definición:**
 > 
@@ -1714,7 +1714,7 @@ graph TB
 
 ### 🧮 Representación en Bases Ortonormales
 
-> [!tip]- 📐 Fórmulas Simplificadas
+> [!tip] 📐 Fórmulas Simplificadas
 > 
 > **Teorema (Coordenadas en base ortonormal):**
 > 
@@ -1804,7 +1804,7 @@ graph TB
 
 ### 🎨 Algoritmo de Ortonormalización
 
-> [!example]- 🛠️ Método de Gram-Schmidt
+> [!example] 🛠️ Método de Gram-Schmidt
 > 
 > **Objetivo:** Transformar una base arbitraria {**v₁**, **v₂**, ..., **vₙ**} en una base ortonormal {**u₁**, **u₂**, ..., **uₙ**} que genere el mismo espacio.
 > 
@@ -1936,7 +1936,7 @@ graph TB
 
 ### ⚠️ Consideraciones Numéricas
 
-> [!warning]- 🔢 Estabilidad del Algoritmo
+> [!warning] 🔢 Estabilidad del Algoritmo
 > 
 > **Problemas potenciales:**
 > 
@@ -2010,7 +2010,7 @@ graph TB
 
 ### 📊 Proyecciones Ortogonales
 
-> [!tip]- 📐 Proyección sobre Subespacios
+> [!tip] 📐 Proyección sobre Subespacios
 > 
 > **Definición:**
 > 
@@ -2087,7 +2087,7 @@ graph TB
 
 ### 📈 Regresión Lineal y Mínimos Cuadrados
 
-> [!example]- 📊 Aplicación en Ajuste de Datos
+> [!example] 📊 Aplicación en Ajuste de Datos
 > 
 > **Problema:** Encontrar la recta que mejor ajusta un conjunto de puntos.
 > 
@@ -2138,7 +2138,7 @@ graph TB
 
 ### 🎵 Series de Fourier
 
-> [!success]- 🌊 Expansión en Funciones Ortogonales
+> [!success] 🌊 Expansión en Funciones Ortogonales
 > 
 > **Concepto:** Las funciones trigonométricas forman un conjunto ortogonal en L²[−π, π] con el producto interno:
 > 
@@ -2195,7 +2195,7 @@ graph TB
 
 ### 🔲 Definición y Propiedades
 
-> [!note]- 🧩 Matrices con Columnas Ortonormales
+> [!note] 🧩 Matrices con Columnas Ortonormales
 > 
 > **Definición:**
 > 
@@ -2275,7 +2275,7 @@ graph TB
 
 ### 🔄 Descomposición QR
 
-> [!tip]- 📐 Factorización Fundamental
+> [!tip] 📐 Factorización Fundamental
 > 
 > **Teorema (Descomposición QR):**
 > 
@@ -2365,7 +2365,7 @@ graph TB
 
 ### ⊥ Definición y Propiedades
 
-> [!info]- 🔍 Subespacio Perpendicular
+> [!info] 🔍 Subespacio Perpendicular
 > 
 > **Definición:**
 > 
@@ -2428,7 +2428,7 @@ graph TB
 
 ### 🔄 Teorema de Descomposición
 
-> [!success]- 📐 Descomposición Única
+> [!success] 📐 Descomposición Única
 > 
 > **Teorema (Descomposición ortogonal):**
 > 
@@ -2529,7 +2529,7 @@ mindmap
 
 ### Tabla Comparativa Final
 
-> [!note]- 📋 Resumen de Conceptos Clave
+> [!note] 📋 Resumen de Conceptos Clave
 > 
 > |Concepto|Definición|Condición|Ventaja Principal|
 > |---|---|---|---|
@@ -2593,7 +2593,7 @@ flowchart TD
 
 ### Nivel Básico
 
-> [!example]- 💪 Ejercicio 1: Verificar Ortogonalidad
+> [!example] 💪 Ejercicio 1: Verificar Ortogonalidad
 > 
 > **Problema:** Determinar si los siguientes conjuntos de vectores son ortogonales:
 > 
@@ -2618,7 +2618,7 @@ flowchart TD
 > El conjunto {w₁, w₂, w₃} es ortogonal.
 > ```
 
-> [!example]- 💪 Ejercicio 2: Normalización
+> [!example] 💪 Ejercicio 2: Normalización
 > 
 > **Problema:** Normalizar los siguientes vectores:
 > 
@@ -2642,7 +2642,7 @@ flowchart TD
 
 ### Nivel Intermedio
 
-> [!example]- 💪 Ejercicio 3: Crear Base Ortonormal
+> [!example] 💪 Ejercicio 3: Crear Base Ortonormal
 > 
 > **Problema:** Usar Gram-Schmidt para convertir {**v₁**, **v₂**} en una base ortonormal, donde:
 > 
@@ -2675,7 +2675,7 @@ flowchart TD
 > {u₁, u₂} = {(1/√2, 1/√2, 0), (1/√6, −1/√6, 2/√6)}
 > ```
 
-> [!example]- 💪 Ejercicio 4: Proyección Ortogonal
+> [!example] 💪 Ejercicio 4: Proyección Ortogonal
 > 
 > **Problema:** Proyectar **y** = (1, 2, 3) sobre el subespacio W generado por:
 > 
@@ -2700,7 +2700,7 @@ flowchart TD
 
 ### Nivel Avanzado
 
-> [!example]- 💪 Ejercicio 5: Mínimos Cuadrados
+> [!example] 💪 Ejercicio 5: Mínimos Cuadrados
 > 
 > **Problema:** Encontrar la recta de mejor ajuste para los puntos: (0, 1), (1, 2), (2, 4)
 > 
@@ -2736,7 +2736,7 @@ flowchart TD
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Continuando el Aprendizaje
+> [!quote] 🌟 Continuando el Aprendizaje
 > 
 > **Has dominado:**
 > 

@@ -7,7 +7,7 @@
 
 ## 🌟 Concepto Fundamental
 
-> [!info]- Definición Intuitiva **Un espacio vectorial es una estructura algebraica formada por un conjunto de objetos llamados vectores, junto con dos operaciones (suma de vectores y multiplicación por escalares) que satisfacen ciertas propiedades naturales. Es el marco matemático fundamental para estudiar objetos que pueden sumarse y escalarse, generalizando las nociones geométricas de vectores en el plano y el espacio.**
+> [!info] Definición Intuitiva **Un espacio vectorial es una estructura algebraica formada por un conjunto de objetos llamados vectores, junto con dos operaciones (suma de vectores y multiplicación por escalares) que satisfacen ciertas propiedades naturales. Es el marco matemático fundamental para estudiar objetos que pueden sumarse y escalarse, generalizando las nociones geométricas de vectores en el plano y el espacio.**
 > 
 > **Características clave:**
 > 
@@ -20,7 +20,7 @@
 
 ### 📖 Contexto Histórico
 
-> [!note]- Desarrollo Histórico **Orígenes Geométricos (1600-1800):**
+> [!note] Desarrollo Histórico **Orígenes Geométricos (1600-1800):**
 > 
 > - **Descartes (1637):** Geometría analítica
 >     - Coordenadas para representar puntos
@@ -92,7 +92,7 @@
 
 ## 📐 Definición Formal
 
-> [!success]- Definición Axiomática **Definición:** Un **espacio vectorial** sobre un campo 𝔽 (usualmente ℝ o ℂ) es un conjunto V junto con dos operaciones:
+> [!success] Definición Axiomática **Definición:** Un **espacio vectorial** sobre un campo 𝔽 (usualmente ℝ o ℂ) es un conjunto V junto con dos operaciones:
 > 
 > ```
 > 1. SUMA VECTORIAL: + : V × V → V
@@ -164,7 +164,7 @@
 
 ### 1️⃣ Espacios Euclidianos ℝⁿ
 
-> [!example]- El Ejemplo Más Importante **Definición:**
+> [!example] El Ejemplo Más Importante **Definición:**
 > 
 > ```
 > ℝⁿ = {(x₁, x₂, ..., xₙ) : xᵢ ∈ ℝ}
@@ -234,7 +234,7 @@
 
 ### 2️⃣ Espacio de Matrices M_{m×n}(ℝ)
 
-> [!example]- Matrices como Vectores **Definición:**
+> [!example] Matrices como Vectores **Definición:**
 > 
 > ```
 > M_{m×n}(ℝ) = {matrices m×n con entradas reales}
@@ -283,7 +283,7 @@
 
 ### 3️⃣ Espacio de Polinomios P_n(ℝ)
 
-> [!example]- Polinomios como Vectores **Definición:**
+> [!example] Polinomios como Vectores **Definición:**
 > 
 > ```
 > P_n(ℝ) = {p(x) = a₀ + a₁x + a₂x² + ... + aₙxⁿ : aᵢ ∈ ℝ}
@@ -340,7 +340,7 @@
 
 ### 4️⃣ Espacio de Funciones C([a,b])
 
-> [!example]- Funciones Continuas **Definición:**
+> [!example] Funciones Continuas **Definición:**
 > 
 > ```
 > C([a,b]) = {f : [a,b] → ℝ : f es continua}
@@ -392,7 +392,7 @@
 
 ### 5️⃣ Espacio de Sucesiones ℓ²
 
-> [!example]- Sucesiones de Cuadrado Sumable **Definición:**
+> [!example] Sucesiones de Cuadrado Sumable **Definición:**
 > 
 > ```
 > ℓ² = {(x₁, x₂, x₃, ...) : xᵢ ∈ ℝ y Σ_{i=1}^∞ xᵢ² < ∞}
@@ -439,7 +439,7 @@
 
 ### 6️⃣ Otros Ejemplos
 
-> [!example]- Espacios Menos Convencionales **Soluciones de ecuaciones diferenciales:**
+> [!example] Espacios Menos Convencionales **Soluciones de ecuaciones diferenciales:**
 > 
 > ```
 > V = {y : y'' + y = 0}
@@ -484,7 +484,7 @@
 
 ## 🔧 Propiedades Derivadas
 
-> [!important]- Consecuencias de los Axiomas **Teorema:** En todo espacio vectorial V:
+> [!important] Consecuencias de los Axiomas **Teorema:** En todo espacio vectorial V:
 > 
 > **1. Unicidad del vector cero:**
 > 
@@ -567,7 +567,7 @@
 
 ## 🎯 Subespacios Vectoriales
 
-> [!important]- Espacios dentro de Espacios **Definición:** Un subconjunto W ⊆ V es un **subespacio vectorial** de V si:
+> [!important] Espacios dentro de Espacios **Definición:** Un subconjunto W ⊆ V es un **subespacio vectorial** de V si:
 > 
 > ```
 > 1. 0 ∈ W  (contiene el vector cero)
@@ -598,7 +598,7 @@
 > Ambos siempre son subespacios de V
 > ```
 
-> [!example]- Ejemplos de Subespacios **Ejemplo 1: Rectas por el origen en ℝ²**
+> [!example] Ejemplos de Subespacios **Ejemplo 1: Rectas por el origen en ℝ²**
 > 
 > ```
 > W = {(x, y) ∈ ℝ² : y = mx}  (recta con pendiente m)
@@ -683,7 +683,7 @@
 
 ## 🔄 Combinaciones Lineales
 
-> [!important]- Concepto Central **Definición:** Dados vectores v₁, v₂, ..., vₖ ∈ V y escalares c₁, c₂, ..., cₖ ∈ 𝔽, una **combinación lineal** es:
+> [!important] Concepto Central **Definición:** Dados vectores v₁, v₂, ..., vₖ ∈ V y escalares c₁, c₂, ..., cₖ ∈ 𝔽, una **combinación lineal** es:
 > 
 > ```
 > c₁v₁ + c₂v₂ + ... + cₖvₖ
@@ -715,7 +715,7 @@
 > Es decir, todo vector de V es combinación lineal de v₁, ..., vₖ
 > ```
 
-> [!example]- Ejemplos de Combinaciones Lineales **Ejemplo 1: En ℝ²**
+> [!example] Ejemplos de Combinaciones Lineales **Ejemplo 1: En ℝ²**
 > 
 > ```
 > v₁ = (1, 0), v₂ = (0, 1)
@@ -774,7 +774,7 @@
 
 ## 📐 Dependencia e Independencia Lineal
 
-> [!important]- Concepto Fundamental **Definición:** Un conjunto de vectores {v₁, v₂, ..., vₖ} es:
+> [!important] Concepto Fundamental **Definición:** Un conjunto de vectores {v₁, v₂, ..., vₖ} es:
 > 
 > **LINEALMENTE INDEPENDIENTE** si:
 > 
@@ -817,7 +817,7 @@
 >    soluciones no triviales
 > ```
 
-> [!example]- Ejemplos de (In)dependencia Lineal **Ejemplo 1: Vectores estándar en ℝ³**
+> [!example] Ejemplos de (In)dependencia Lineal **Ejemplo 1: Vectores estándar en ℝ³**
 > 
 > ```
 > e₁ = (1,0,0), e₂ = (0,1,0), e₃ = (0,0,1)
@@ -925,7 +925,7 @@
 
 ## 🎯 Base y Dimensión
 
-> [!important]- Conceptos Centrales **Definición de BASE:**
+> [!important] Conceptos Centrales **Definición de BASE:**
 > 
 > ```
 > Un conjunto B = {v₁, v₂, ..., vₙ} es una BASE de V si:
@@ -975,7 +975,7 @@
 > (pues {0} es linealmente dependiente)
 > ```
 
-> [!example]- Bases Estándar y Dimensiones **Base estándar de ℝⁿ:**
+> [!example] Bases Estándar y Dimensiones **Base estándar de ℝⁿ:**
 > 
 > ```
 > B = {e₁, e₂, ..., eₙ}
@@ -1028,7 +1028,7 @@
 > ℓ²:              dim = ∞
 > ```
 
-> [!example]- Encontrar Bases y Dimensiones **Ejemplo 1: Subespacio de ℝ³**
+> [!example] Encontrar Bases y Dimensiones **Ejemplo 1: Subespacio de ℝ³**
 > 
 > ```
 > W = {(x, y, z) ∈ ℝ³ : x + 2y - z = 0}
@@ -1091,7 +1091,7 @@
 
 ## 🔄 Teoremas Fundamentales
 
-> [!important]- Resultados Clave **Teorema 1: Caracterización de bases**
+> [!important] Resultados Clave **Teorema 1: Caracterización de bases**
 > 
 > ```
 > Si V tiene dimensión n, entonces:
@@ -1161,7 +1161,7 @@
 
 ## 🎨 Coordenadas respecto a una Base
 
-> [!important]- Representación Única **Teorema de coordenadas:**
+> [!important] Representación Única **Teorema de coordenadas:**
 > 
 > ```
 > Si B = {v₁, v₂, ..., vₙ} es base de V, entonces
@@ -1193,7 +1193,7 @@
 > Todo espacio de dimensión n es "esencialmente" ℝⁿ
 > ```
 
-> [!example]- Ejemplos de Coordenadas **Ejemplo 1: Base estándar de ℝ³**
+> [!example] Ejemplos de Coordenadas **Ejemplo 1: Base estándar de ℝ³**
 > 
 > ```
 > B = {(1,0,0), (0,1,0), (0,0,1)}
@@ -1247,7 +1247,7 @@
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- Malentendidos Frecuentes **1. "Todos los conjuntos son espacios vectoriales"**
+> [!warning] Malentendidos Frecuentes **1. "Todos los conjuntos son espacios vectoriales"**
 > 
 > ```
 > ✗ INCORRECTO
@@ -1333,7 +1333,7 @@
 
 ## 📊 Suma e Intersección de Subespacios
 
-> [!note]- Operaciones con Subespacios **Suma de subespacios:**
+> [!note] Operaciones con Subespacios **Suma de subespacios:**
 > 
 > ```
 > U + W = {u + w : u ∈ U, w ∈ W}
@@ -1377,7 +1377,7 @@
 
 ## 🎯 Ejercicios Propuestos
 
-> [!example]- Problemas de Práctica **Nivel básico:**
+> [!example] Problemas de Práctica **Nivel básico:**
 > 
 > 1. Verificar que son espacios vectoriales: a) ℝ³ con operaciones usuales b) P₃(ℝ) con suma y múltiplo escalar usuales c) M₂ₓ₃(ℝ) con operaciones matriciales
 >     
@@ -1404,7 +1404,7 @@
 
 ## 💡 Aplicaciones de Espacios Vectoriales
 
-> [!example]- Contextos Reales **Física:**
+> [!example] Contextos Reales **Física:**
 > 
 > ```
 > - Estados cuánticos: vectores en espacio de Hilbert
@@ -1450,7 +1450,7 @@
 
 ## 🔗 Conexiones con Otros Temas
 
-> [!quote]- Enlaces Conceptuales **Fundamentos previos:**
+> [!quote] Enlaces Conceptuales **Fundamentos previos:**
 > 
 > - [[02.1 Conjuntos\|02.1 Conjuntos]] - Definición de conjunto
 > - [[02.3 Funciones\|02.3 Funciones]] - Operaciones como funciones
@@ -1460,7 +1460,7 @@
 > 
 > **Temas relacionados:**
 > 
-> - [[Álgebra Lineal\|Álgebra Lineal]] - Teoría completa
+> - [[Universidad/2do Semestre/Algebra Lineal/Álgebra Lineal\|Álgebra Lineal]] - Teoría completa
 > - [[Transformaciones Lineales\|Transformaciones Lineales]] - Funciones entre espacios
 > - [[Producto Interno\|Producto Interno]] - Estructura adicional
 > - [[Normas\|Normas]] - Medida de longitud
@@ -1476,7 +1476,7 @@
 
 ## 📚 Recursos Adicionales
 
-> [!tip]- Herramientas y Referencias **Software:**
+> [!tip] Herramientas y Referencias **Software:**
 > 
 > - [MATLAB/Octave](https://octave.org/) - Cálculos con vectores
 > - [Python NumPy](https://numpy.org/) - Álgebra lineal
@@ -1503,7 +1503,7 @@
 
 ## 📖 Bibliografía Esencial
 
-> [!note]- Lecturas Recomendadas **Introductorios:**
+> [!note] Lecturas Recomendadas **Introductorios:**
 > 
 > - Lay, D. C. (2015). _Linear Algebra and Its Applications_ (5th ed.)
 >     - Cap. 4: Espacios vectoriales
@@ -1547,7 +1547,7 @@
 
 ## 🎓 Resumen Ejecutivo
 
-> [!important]- Conceptos Clave para Recordar **Definición de espacio vectorial:**
+> [!important] Conceptos Clave para Recordar **Definición de espacio vectorial:**
 > 
 > ```
 > Conjunto V con:
@@ -1620,7 +1620,7 @@
 
 ## 🧩 Problemas Resueltos Detallados
 
-> [!example]- Soluciones Paso a Paso **Problema 1: Verificar que es espacio vectorial**
+> [!example] Soluciones Paso a Paso **Problema 1: Verificar que es espacio vectorial**
 > 
 > ```
 > V = {(x, 2x) : x ∈ ℝ} con operaciones usuales de ℝ²
@@ -1831,7 +1831,7 @@
 
 ## 🌐 Extensiones y Generalizaciones
 
-> [!note]- Conceptos Relacionados **Espacios normados:**
+> [!note] Conceptos Relacionados **Espacios normados:**
 > 
 > ```
 > Espacio vectorial V con norma ||·||
@@ -1896,7 +1896,7 @@
 
 ## 🎯 Resumen Visual
 
-> [!important]- Mapa Conceptual
+> [!important] Mapa Conceptual
 > 
 > ```
 > ESPACIO VECTORIAL V

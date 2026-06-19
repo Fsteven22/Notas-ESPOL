@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es una Integral de Línea Vectorial? La **integral de línea vectorial** (o integral de flujo a lo largo de una curva) mide la acumulación del efecto de un **campo vectorial** a lo largo de una trayectoria. Mientras que las integrales de línea escalares integran funciones sobre curvas, **las integrales vectoriales miden cómo un campo vectorial "empuja" o "jala" a lo largo de una curva**.
+> [!info] 💡 ¿Qué es una Integral de Línea Vectorial? La **integral de línea vectorial** (o integral de flujo a lo largo de una curva) mide la acumulación del efecto de un **campo vectorial** a lo largo de una trayectoria. Mientras que las integrales de línea escalares integran funciones sobre curvas, **las integrales vectoriales miden cómo un campo vectorial "empuja" o "jala" a lo largo de una curva**.
 > 
 > **Analogía práctica:** Imagina caminar contra el viento a lo largo de un sendero:
 > 
@@ -54,7 +54,7 @@ graph TB
 
 ### 🎨 Campos Vectoriales
 
-> [!example]- 📍 Definición y Representación
+> [!example] 📍 Definición y Representación
 > 
 > **Definición:**
 > 
@@ -140,7 +140,7 @@ graph TB
 
 ### 🎯 Producto Punto y Vector Tangente
 
-> [!note]- 📐 Conceptos Geométricos Clave
+> [!note] 📐 Conceptos Geométricos Clave
 > 
 > **Vector tangente a la curva:**
 > 
@@ -211,7 +211,7 @@ graph TB
 
 ### ✨ Definición de Integral de Línea Vectorial
 
-> [!success]- 📊 Construcción e Interpretación
+> [!success] 📊 Construcción e Interpretación
 > 
 > **Definición formal:**
 > 
@@ -284,7 +284,7 @@ graph TB
 
 ### 📝 Método General de Evaluación
 
-> [!tip]- 🎓 Proceso Paso a Paso
+> [!tip] 🎓 Proceso Paso a Paso
 > 
 > **Algoritmo general:**
 > 
@@ -356,7 +356,7 @@ graph TB
 
 ### 💡 Ejemplos Resueltos Detallados
 
-> [!example]- 🎯 Casos Fundamentales
+> [!example] 🎯 Casos Fundamentales
 > 
 > **Ejemplo 1: Trabajo a lo largo de segmento**
 > 
@@ -531,7 +531,7 @@ graph TB
 
 ### 🔄 Reversión de Orientación
 
-> [!warning]- ↔️ Importancia de la Dirección
+> [!warning] ↔️ Importancia de la Dirección
 > 
 > **Teorema:**
 > 
@@ -593,7 +593,7 @@ graph TB
 
 ### 🎯 Definición y Caracterización
 
-> [!success]- ⚡ Campos Especiales
+> [!success] ⚡ Campos Especiales
 > 
 > **Definición:**
 > 
@@ -660,7 +660,7 @@ graph TB
 
 ### 🔍 Criterio de Campo Conservativo
 
-> [!tip]- ✅ ¿Cómo Verificar si es Conservativo?
+> [!tip] ✅ ¿Cómo Verificar si es Conservativo?
 > 
 > **Teorema (Criterio necesario):**
 > 
@@ -731,7 +731,7 @@ graph TB
 
 ### 🔨 Encontrar la Función Potencial
 
-> [!example]- 🎯 Método de Integración
+> [!example] 🎯 Método de Integración
 > 
 > **Proceso para encontrar $f$ tal que $\nabla f = \mathbf{F}$:**
 > 
@@ -827,7 +827,7 @@ graph TB
 
 ### 📐 Teorema Fundamental para Integrales de Línea
 
-> [!note]- 🎓 Análogo del TFC
+> [!note] 🎓 Análogo del TFC
 > 
 > **Teorema Fundamental para Integrales de Línea:**
 > 
@@ -890,7 +890,7 @@ graph TB
 
 ### 🌊 Enunciado y Significado
 
-> [!success]- 🔄 Conectando Línea con Doble
+> [!success] 🔄 Conectando Línea con Doble
 > 
 > **Teorema de Green:**
 > 
@@ -940,7 +940,7 @@ graph TB
 
 ### 💡 Aplicaciones del Teorema de Green
 
-> [!example]- 🎯 Uso Práctico
+> [!example] 🎯 Uso Práctico
 > 
 > **Aplicación 1: Simplificar integrales de línea**
 > 
@@ -1014,7 +1014,7 @@ graph TB
 
 ### 🔨 Ejemplos Detallados con Green
 
-> [!example]- 📊 Casos Completos
+> [!example] 📊 Casos Completos
 > 
 > **Ejemplo 1: Integral alrededor de triángulo**
 > 
@@ -1137,7 +1137,7 @@ flowchart TD
     style G fill:#fff4e1
 ```
 
-> [!note]- 📋 Tablas de Referencia Rápida
+> [!note] 📋 Tablas de Referencia Rápida
 > 
 > ### Fórmulas Principales
 > 
@@ -1190,7 +1190,7 @@ flowchart TD
 
 ## 🎓 Ejercicios Progresivos
 
-> [!example]- 💪 Práctica con Soluciones Detalladas
+> [!example] 💪 Práctica con Soluciones Detalladas
 > 
 > **Nivel Básico:**
 > 
@@ -1356,7 +1356,7 @@ flowchart TD
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Continuando el Aprendizaje
+> [!quote] 🌟 Continuando el Aprendizaje
 > 
 > **Has dominado:**
 > 

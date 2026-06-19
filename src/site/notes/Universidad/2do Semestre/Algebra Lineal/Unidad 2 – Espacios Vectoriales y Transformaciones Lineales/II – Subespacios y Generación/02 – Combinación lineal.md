@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Por qué son importantes las Combinaciones Lineales?
+> [!info] 💡 ¿Por qué son importantes las Combinaciones Lineales?
 > 
 > Las combinaciones lineales son el **concepto central** del álgebra lineal. Permiten construir nuevos vectores a partir de vectores dados mediante suma y multiplicación escalar.
 > 
@@ -36,7 +36,7 @@
 
 ### 📋 Definición Formal
 
-> [!example]- 🟢 Definición: Combinación Lineal
+> [!example] 🟢 Definición: Combinación Lineal
 > 
 > **Definición:** Sean $\vec{v}_1, \vec{v}_2, \ldots, \vec{v}_k$ vectores en un espacio vectorial $V$ sobre un campo $\mathbb{F}$. Un vector $\vec{w} \in V$ es una **combinación lineal** de $\vec{v}_1, \vec{v}_2, \ldots, \vec{v}_k$ si existen escalares $c_1, c_2, \ldots, c_k \in \mathbb{F}$ tales que:
 > 
@@ -62,7 +62,7 @@
 > - "El vector $\vec{w}$ está en el span de ${\vec{v}_1, \ldots, \vec{v}_k}$"
 > - "$\vec{w} \in \text{span}{\vec{v}_1, \ldots, \vec{v}_k}$"
 
-> [!note]- 🎯 Interpretación Geométrica
+> [!note] 🎯 Interpretación Geométrica
 > 
 > ### En $\mathbb{R}^2$
 > 
@@ -108,7 +108,7 @@
 
 ### Ejemplo 1: Combinaciones Lineales en $\mathbb{R}^2$
 
-> [!example]- 📍 Ejemplo 1: Vectores en el Plano
+> [!example] 📍 Ejemplo 1: Vectores en el Plano
 > 
 > **Dados los vectores:**
 > 
@@ -149,7 +149,7 @@
 
 ### Ejemplo 2: Vectores Colineales
 
-> [!example]- 📍 Ejemplo 2: Vectores en la Misma Dirección
+> [!example] 📍 Ejemplo 2: Vectores en la Misma Dirección
 > 
 > **Dados:**
 > 
@@ -189,7 +189,7 @@
 
 ### Ejemplo 3: Combinaciones Lineales en $\mathbb{R}^3$
 
-> [!example]- 📍 Ejemplo 3: Vectores en el Espacio
+> [!example] 📍 Ejemplo 3: Vectores en el Espacio
 > 
 > **Dados:**
 > 
@@ -231,7 +231,7 @@
 
 ### Ejemplo 4: Polinomios
 
-> [!example]- 📍 Ejemplo 4: Combinaciones de Polinomios
+> [!example] 📍 Ejemplo 4: Combinaciones de Polinomios
 > 
 > **En el espacio $P_2$ de polinomios de grado ≤ 2:**
 > 
@@ -263,7 +263,7 @@
 
 ### Ejemplo 5: Matrices
 
-> [!example]- 📍 Ejemplo 5: Combinaciones de Matrices
+> [!example] 📍 Ejemplo 5: Combinaciones de Matrices
 > 
 > **En $M_{2×2}(\mathbb{R})$, dados:**
 > 
@@ -301,7 +301,7 @@
 
 ### 🎯 Propiedades Fundamentales
 
-> [!note]- 🟡 Teorema: Propiedades Básicas
+> [!note] 🟡 Teorema: Propiedades Básicas
 > 
 > Sean $\vec{v}_1, \vec{v}_2, \ldots, \vec{v}_k$ vectores en un espacio vectorial $V$.
 > 
@@ -344,7 +344,7 @@
 > 
 > **En símbolos:** $\text{span}{\vec{v}_1, \ldots, \vec{v}_k} \subseteq \text{span}{\vec{w}_1, \ldots, \vec{w}_m}$
 
-> [!note]- 🟡 Teorema: Equivalencia con Span
+> [!note] 🟡 Teorema: Equivalencia con Span
 > 
 > **Teorema:** Un vector $\vec{w}$ es combinación lineal de ${\vec{v}_1, \ldots, \vec{v}_k}$ si y solo si:
 > 
@@ -369,7 +369,7 @@
 
 ### 📋 Método General: Sistema de Ecuaciones
 
-> [!tip]- ✅ Algoritmo: ¿Es $\vec{w}$ combinación lineal?
+> [!tip] ✅ Algoritmo: ¿Es $\vec{w}$ combinación lineal?
 > 
 > **Problema:** Dados $\vec{v}_1, \ldots, \vec{v}_k$ y $\vec{w}$, determinar si $\vec{w}$ es combinación lineal.
 > 
@@ -407,7 +407,7 @@
 
 ### Ejemplos Detallados
 
-> [!example]- 📍 Ejemplo 6: Método Sistemático en $\mathbb{R}^3$
+> [!example] 📍 Ejemplo 6: Método Sistemático en $\mathbb{R}^3$
 > 
 > **Pregunta:** ¿Es $\vec{w} = \begin{pmatrix} 5 \ 7 \ 3 \end{pmatrix}$ combinación lineal de:
 > 
@@ -453,7 +453,7 @@
 > 
 > $$\boxed{\vec{w} = 2\vec{v}_1 + \vec{v}_2 + \vec{v}_3}$$
 
-> [!example]- 📍 Ejemplo 7: Caso sin Solución
+> [!example] 📍 Ejemplo 7: Caso sin Solución
 > 
 > **Pregunta:** ¿Es $\vec{w} = \begin{pmatrix} 1 \ 2 \ 3 \end{pmatrix}$ combinación lineal de:
 > 
@@ -485,7 +485,7 @@
 > 
 > El vector $\vec{w}$ tiene $z = 3 \neq 0$, por lo que no está en ese plano.
 
-> [!example]- 📍 Ejemplo 8: Infinitas Soluciones
+> [!example] 📍 Ejemplo 8: Infinitas Soluciones
 > 
 > **Pregunta:** ¿Es $\vec{w} = \begin{pmatrix} 3 \ 6 \end{pmatrix}$ combinación lineal de:
 > 
@@ -540,7 +540,7 @@
 
 ### 📊 Interpretación Matricial
 
-> [!note]- 🟣 Conexión: Combinaciones Lineales ↔ Sistemas Lineales
+> [!note] 🟣 Conexión: Combinaciones Lineales ↔ Sistemas Lineales
 > 
 > ### Teorema Fundamental
 > 
@@ -573,7 +573,7 @@
 > 3. **Rango:** $\text{rango}(A) = \dim(\text{Col}(A))$ = dimensión del espacio generado por las columnas
 >     
 
-> [!example]- 📍 Ejemplo 9: Interpretación Matricial
+> [!example] 📍 Ejemplo 9: Interpretación Matricial
 > 
 > **Sistema:** $A\vec{x} = \vec{b}$ donde
 > 
@@ -613,7 +613,7 @@
 
 ### 🎨 Aplicación 1: Interpolación
 
-> [!example]- 🖼️ Ejemplo: Interpolación de Colores
+> [!example] 🖼️ Ejemplo: Interpolación de Colores
 > 
 > **Problema:** En gráficos por computadora, queremos mezclar colores.
 > 
@@ -642,7 +642,7 @@
 
 ### ⚡ Aplicación 2: Fuerzas en Física
 
-> [!example]- 🔧 Ejemplo: Descomposición de Fuerzas
+> [!example] 🔧 Ejemplo: Descomposición de Fuerzas
 > 
 > **Problema:** Una fuerza $\vec{F}$ actúa sobre un objeto en un plano inclinado.
 > 
@@ -680,7 +680,7 @@
 
 ### 📊 Aplicación 3: Economía - Portafolios
 
-> [!example]- 💰 Ejemplo: Inversión en Portafolios
+> [!example] 💰 Ejemplo: Inversión en Portafolios
 > 
 > **Problema:** Un inversionista tiene tres activos disponibles.
 > 
@@ -708,7 +708,7 @@
 
 ### 🎵 Aplicación 4: Procesamiento de Señales
 
-> [!example]- 🎶 Ejemplo: Síntesis de Audio
+> [!example] 🎶 Ejemplo: Síntesis de Audio
 > 
 > **Problema:** Crear un tono musical complejo.
 > 
@@ -735,7 +735,7 @@
 
 ### 🧬 Aplicación 5: Genética - Expresión de Genes
 
-> [!example]- 🔬 Ejemplo: Perfiles de Expresión Génica
+> [!example] 🔬 Ejemplo: Perfiles de Expresión Génica
 > 
 > **Problema:** Analizar la expresión de genes en diferentes condiciones.
 > 
@@ -763,7 +763,7 @@
 
 ### 📊 Combinaciones Afines
 
-> [!note]- 🟡 Definición: Combinación Afín
+> [!note] 🟡 Definición: Combinación Afín
 > 
 > **Definición:** Una **combinación afín** es una combinación lineal donde los coeficientes suman 1:
 > 
@@ -798,7 +798,7 @@
 
 ### 🎯 Combinaciones Convexas
 
-> [!note]- 🟡 Definición: Combinación Convexa
+> [!note] 🟡 Definición: Combinación Convexa
 > 
 > **Definición:** Una **combinación convexa** es una combinación afín con coeficientes no negativos:
 > 
@@ -831,7 +831,7 @@
 
 ### 📐 Teorema: Caracterización de Subespacios
 
-> [!note]- 🟣 Teorema: Cerradura bajo Combinaciones Lineales
+> [!note] 🟣 Teorema: Cerradura bajo Combinaciones Lineales
 > 
 > **Teorema:** Un subconjunto $W$ de un espacio vectorial $V$ es un subespacio si y solo si es **cerrado bajo combinaciones lineales**.
 > 
@@ -861,7 +861,7 @@
 
 ### 📊 Método de la Matriz Inversa
 
-> [!tip]- ✅ Técnica: Usando Inversa (cuando existe)
+> [!tip] ✅ Técnica: Usando Inversa (cuando existe)
 > 
 > **Situación:** Queremos expresar $\vec{w}$ como combinación de vectores **linealmente independientes** $\vec{v}_1, \ldots, \vec{v}_n$ en $\mathbb{R}^n$.
 > 
@@ -887,7 +887,7 @@
 > 
 > **Nota:** Este método solo funciona si $A$ es invertible (vectores linealmente independientes).
 
-> [!example]- 📍 Ejemplo 10: Usando Inversa
+> [!example] 📍 Ejemplo 10: Usando Inversa
 > 
 > **Expresar $\vec{w} = \begin{pmatrix} 7 \ 11 \end{pmatrix}$ como combinación de:**
 > 
@@ -925,7 +925,7 @@
 
 ### 🔄 Cambio de Base
 
-> [!note]- 🟣 Concepto: Cambio de Base
+> [!note] 🟣 Concepto: Cambio de Base
 > 
 > **Idea:** El mismo vector puede tener diferentes representaciones en diferentes bases.
 > 
@@ -966,7 +966,7 @@
 
 ## 📋 Tabla de Referencia Rápida
 
-> [!note]- 📊 Resumen de Conceptos Clave
+> [!note] 📊 Resumen de Conceptos Clave
 > 
 > |Concepto|Definición|Condición|Ejemplo|
 > |---|---|---|---|
@@ -982,7 +982,7 @@
 
 ## 🎓 Ejercicios Propuestos
 
-> [!example]- 💪 Práctica Nivel Básico
+> [!example] 💪 Práctica Nivel Básico
 > 
 > **1. Determinar si es combinación lineal:**
 > 
@@ -1012,7 +1012,7 @@
 > 
 > c) ¿El vector cero es siempre combinación lineal de cualquier conjunto de vectores?
 
-> [!example]- 💪 Práctica Nivel Intermedio
+> [!example] 💪 Práctica Nivel Intermedio
 > 
 > **4. Sistemas con parámetros:**
 > 
@@ -1054,7 +1054,7 @@
 > 
 > b) Encuentra todas las matrices $2 \times 2$ que son combinación de $\begin{pmatrix} 1 & 0 \ 0 & -1 \end{pmatrix}$ y $\begin{pmatrix} 0 & 1 \ 1 & 0 \end{pmatrix}$
 
-> [!example]- 💪 Práctica Nivel Avanzado
+> [!example] 💪 Práctica Nivel Avanzado
 > 
 > **9. Problemas teóricos:**
 > 
@@ -1098,7 +1098,7 @@
 
 ## ✅ Soluciones Selectas
 
-> [!success]- 🔑 Respuestas Ejercicios Básicos
+> [!success] 🔑 Respuestas Ejercicios Básicos
 > 
 > **1a)** ¿Es $\begin{pmatrix} 5 \ 7 \end{pmatrix}$ combinación de $\begin{pmatrix} 1 \ 2 \end{pmatrix}$ y $\begin{pmatrix} 2 \ 3 \end{pmatrix}$?
 > 
@@ -1140,7 +1140,7 @@
 > 
 > $$\boxed{\text{SÍ, estos vectores generan todo } \mathbb{R}^2}$$
 
-> [!success]- 🔑 Respuestas Ejercicios Intermedios
+> [!success] 🔑 Respuestas Ejercicios Intermedios
 > 
 > **4a)** ¿Para qué $k$ es $\begin{pmatrix} k \ 2k \end{pmatrix}$ combinación de $\begin{pmatrix} 1 \ 2 \end{pmatrix}$ y $\begin{pmatrix} 2 \ 3 \end{pmatrix}$?
 > 
@@ -1188,7 +1188,7 @@
 > 
 > $$\boxed{\text{SÍ: } p(x) = 1 \cdot q(x) + 2 \cdot r(x)}$$
 
-> [!success]- 🔑 Respuestas Ejercicios Avanzados
+> [!success] 🔑 Respuestas Ejercicios Avanzados
 > 
 > **9a)** Demostración de transitividad
 > 
@@ -1257,7 +1257,7 @@
 
 ## 🌟 Conceptos Clave para Recordar
 
-> [!tip]- 💡 Puntos Esenciales
+> [!tip] 💡 Puntos Esenciales
 > 
 > ### Sobre Combinaciones Lineales
 > 
@@ -1322,7 +1322,7 @@
 
 ## 🔗 Conexiones con Otros Temas
 
-> [!quote]- 🌐 Relaciones Importantes
+> [!quote] 🌐 Relaciones Importantes
 > 
 > **Este tema es prerequisito para:**
 > 
@@ -1347,7 +1347,7 @@
 
 ## 📝 Notas Finales
 
-> [!note]- 🎯 Reflexiones sobre Combinaciones Lineales
+> [!note] 🎯 Reflexiones sobre Combinaciones Lineales
 > 
 > ### Importancia Conceptual
 > 
@@ -1423,7 +1423,7 @@
 
 ## 🧮 Fórmulas y Algoritmos de Referencia
 
-> [!note]- 📋 Algoritmo General: Determinar Combinación Lineal
+> [!note] 📋 Algoritmo General: Determinar Combinación Lineal
 > 
 > **Input:** Vectores $\vec{v}_1, \ldots, \vec{v}_k$ y vector objetivo $\vec{w}$
 > 
@@ -1469,7 +1469,7 @@
 
 ## 💡 Trucos y Técnicas Adicionales
 
-> [!tip]- 🎯 Estrategias Avanzadas
+> [!tip] 🎯 Estrategias Avanzadas
 > 
 > ### Truco 1: Reconocer Patrones Visuales
 > 
@@ -1546,7 +1546,7 @@
 
 ## 🎨 Visualizaciones Interactivas (Conceptual)
 
-> [!note]- 🖼️ Galería de Combinaciones Lineales
+> [!note] 🖼️ Galería de Combinaciones Lineales
 > 
 > ### En $\mathbb{R}^2$: Dos Vectores Independientes
 > 
@@ -1630,7 +1630,7 @@
 
 ## 🔍 Problemas Conceptuales Profundos
 
-> [!example]- 🧠 Preguntas para Reflexionar
+> [!example] 🧠 Preguntas para Reflexionar
 > 
 > **1. Paradoja dimensional:**
 > 
@@ -1680,7 +1680,7 @@
 
 ## 📊 Tabla Comparativa: Tipos de Combinaciones
 
-> [!note]- 📋 Comparación Completa
+> [!note] 📋 Comparación Completa
 > 
 > |Tipo|Restricción en $c_i$|Conjunto Generado|Geometría|Aplicación|
 > |---|---|---|---|---|
@@ -1707,7 +1707,7 @@
 
 ## 🎯 Resumen Ejecutivo Final
 
-> [!note]- 📌 Todo en Una Página
+> [!note] 📌 Todo en Una Página
 > 
 > ### Definición Core
 > 
@@ -1789,7 +1789,7 @@
 
 ## 🎓 Conexión con Temas Futuros
 
-> [!quote]- 🔮 Vista Previa de Conceptos Avanzados
+> [!quote] 🔮 Vista Previa de Conceptos Avanzados
 > 
 > ### Independencia Lineal (Próximo Tema)
 > 
@@ -1848,7 +1848,7 @@
 
 ## ✨ Reflexión Final
 
-> [!quote]- 🌟 El Poder de la Linealidad
+> [!quote] 🌟 El Poder de la Linealidad
 > 
 > ### Por qué las Combinaciones Lineales son Tan Poderosas
 > 

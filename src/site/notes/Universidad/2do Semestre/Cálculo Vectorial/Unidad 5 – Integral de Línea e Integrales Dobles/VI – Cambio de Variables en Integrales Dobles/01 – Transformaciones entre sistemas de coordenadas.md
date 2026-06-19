@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué son las Transformaciones de Coordenadas?
+> [!info] 💡 ¿Qué son las Transformaciones de Coordenadas?
 > 
 > Las **transformaciones de coordenadas** son funciones matemáticas que permiten expresar la posición de un punto usando diferentes sistemas de referencia. Cada sistema tiene ventajas particulares según la geometría del problema.
 > 
@@ -51,7 +51,7 @@ graph TD
 
 ### 📊 Sistema Cartesiano (Rectangular)
 
-> [!example]- 📖 Coordenadas Cartesianas
+> [!example] 📖 Coordenadas Cartesianas
 > 
 > **Definición:**
 > 
@@ -126,7 +126,7 @@ graph LR
 
 ### ⭕ Sistema Polar (2D)
 
-> [!example]- 🎯 Coordenadas Polares
+> [!example] 🎯 Coordenadas Polares
 > 
 > **Definición:**
 > 
@@ -198,7 +198,7 @@ graph TD
 
 ### 🔵 Sistema Cilíndrico (3D)
 
-> [!example]- 🛢️ Coordenadas Cilíndricas
+> [!example] 🛢️ Coordenadas Cilíndricas
 > 
 > **Definición:**
 > 
@@ -275,7 +275,7 @@ graph LR
 
 ### 🌐 Sistema Esférico (3D)
 
-> [!example]- 🪐 Coordenadas Esféricas
+> [!example] 🪐 Coordenadas Esféricas
 > 
 > **Definición:**
 > 
@@ -375,7 +375,7 @@ graph TD
 
 ### 📐 Cartesianas ↔ Polares (2D)
 
-> [!tip]- 🔀 Conversión 2D
+> [!tip] 🔀 Conversión 2D
 > 
 > **De Polares a Cartesianas:**
 > 
@@ -411,7 +411,7 @@ graph LR
     style B fill:#e1ffe1
 ```
 
-> [!example]- 📝 Ejemplo: Polar → Cartesiana
+> [!example] 📝 Ejemplo: Polar → Cartesiana
 > 
 > **Convertir** $P(r, \theta) = (5, \pi/3)$ **a cartesianas.**
 > 
@@ -423,7 +423,7 @@ graph LR
 > 
 > **Respuesta:** $P(x, y) = (2.5, 4.33)$
 
-> [!example]- 📝 Ejemplo: Cartesiana → Polar
+> [!example] 📝 Ejemplo: Cartesiana → Polar
 > 
 > **Convertir** $P(x, y) = (-3, 3)$ **a polares.**
 > 
@@ -439,7 +439,7 @@ graph LR
 
 ### 🔵 Cartesianas ↔ Cilíndricas (3D)
 
-> [!tip]- 🔀 Conversión Cilíndrica
+> [!tip] 🔀 Conversión Cilíndrica
 > 
 > **De Cilíndricas a Cartesianas:**
 > 
@@ -470,7 +470,7 @@ graph LR
     style B fill:#e1ffe1
 ```
 
-> [!example]- 📝 Ejemplo: Cilíndrica → Cartesiana
+> [!example] 📝 Ejemplo: Cilíndrica → Cartesiana
 > 
 > **Convertir** $P(r, \theta, z) = (4, \pi/6, 3)$ **a cartesianas.**
 > 
@@ -484,7 +484,7 @@ graph LR
 > 
 > **Respuesta:** $P(x, y, z) = (2\sqrt{3}, 2, 3)$
 
-> [!example]- 📝 Ejemplo: Cartesiana → Cilíndrica
+> [!example] 📝 Ejemplo: Cartesiana → Cilíndrica
 > 
 > **Convertir** $P(x, y, z) = (1, -1, 5)$ **a cilíndricas.**
 > 
@@ -504,7 +504,7 @@ graph LR
 
 ### 🌐 Cartesianas ↔ Esféricas (3D)
 
-> [!tip]- 🔀 Conversión Esférica
+> [!tip] 🔀 Conversión Esférica
 > 
 > **De Esféricas a Cartesianas:**
 > 
@@ -544,7 +544,7 @@ graph LR
     style B fill:#e1ffe1
 ```
 
-> [!example]- 📝 Ejemplo: Esférica → Cartesiana
+> [!example] 📝 Ejemplo: Esférica → Cartesiana
 > 
 > **Convertir** $P(\rho, \theta, \phi) = (6, \pi/4, \pi/3)$ **a cartesianas.**
 > 
@@ -558,7 +558,7 @@ graph LR
 > 
 > **Respuesta:** $P(x, y, z) = (3\sqrt{6}/2, 3\sqrt{6}/2, 3)$
 
-> [!example]- 📝 Ejemplo: Cartesiana → Esférica
+> [!example] 📝 Ejemplo: Cartesiana → Esférica
 > 
 > **Convertir** $P(x, y, z) = (0, 0, -5)$ **a esféricas.**
 > 
@@ -574,7 +574,7 @@ graph LR
 
 ### 🔄 Cilíndricas ↔ Esféricas (3D)
 
-> [!tip]- 🔀 Conversión Cilíndrica-Esférica
+> [!tip] 🔀 Conversión Cilíndrica-Esférica
 > 
 > **De Esféricas a Cilíndricas:**
 > 
@@ -603,7 +603,7 @@ graph LR
 
 ## 📊 Tabla Resumen de Transformaciones
 
-> [!note]- 🗂️ Resumen Completo
+> [!note] 🗂️ Resumen Completo
 > 
 > **Transformaciones directas (hacia cartesianas):**
 > 
@@ -625,7 +625,7 @@ graph LR
 
 ## 🎨 Aplicaciones y Selección del Sistema
 
-> [!success]- 🎯 ¿Cuándo usar cada sistema?
+> [!success] 🎯 ¿Cuándo usar cada sistema?
 > **Criterios de selección:**
 > 
 > |Sistema|Usar cuando...|Ejemplos|
@@ -656,7 +656,7 @@ graph TD
     style F fill:#f0e1ff
 ```
 
-> [!example]- 📝 Ejemplos de Aplicación
+> [!example] 📝 Ejemplos de Aplicación
 > 
 > **1. Integrar sobre un disco:**
 > 
@@ -692,7 +692,7 @@ graph TD
 
 ## 🧮 Elementos Diferenciales (Jacobiano)
 
-> [!warning]- ⚠️ Factor de Volumen/Área
+> [!warning] ⚠️ Factor de Volumen/Área
 > 
 > Al transformar coordenadas en integrales, el **elemento diferencial** cambia:
 > 
@@ -746,7 +746,7 @@ graph TD
 
 ## 💡 Ejemplos Completos de Transformación
 
-> [!example]- 📝 Ejemplo 1: Ecuación de Círculo
+> [!example] 📝 Ejemplo 1: Ecuación de Círculo
 > 
 > **Transformar** $x^2 + y^2 = 25$ **a polares.**
 > 
@@ -766,7 +766,7 @@ graph TD
 > 
 > **Respuesta:** $r = 5$ (mucho más simple!)
 
-> [!example]- 📝 Ejemplo 2: Cilindro en Esféricas
+> [!example] 📝 Ejemplo 2: Cilindro en Esféricas
 > 
 > **Transformar** $x^2 + y^2 = 16$ **a esféricas.**
 > 
@@ -791,7 +791,7 @@ graph TD
 > 
 > **Respuesta:** $\rho\sin\phi = 4$
 
-> [!example]- 📝 Ejemplo 3: Cono en Cilíndricas
+> [!example] 📝 Ejemplo 3: Cono en Cilíndricas
 > 
 > **Transformar** $z = \sqrt{x^2 + y^2}$ **a cilíndricas.**
 > 
@@ -807,7 +807,7 @@ graph TD
 > 
 > **Interpretación:** Un cono con ángulo de 45° desde el eje $z$.
 
-> [!example]- 📝 Ejemplo 4: Esfera en Cilíndricas
+> [!example] 📝 Ejemplo 4: Esfera en Cilíndricas
 > 
 > **Transformar** $x^2 + y^2 + z^2 = 36$ **a cilíndricas.**
 > 
@@ -825,7 +825,7 @@ graph TD
 
 ## 🎓 Ejercicios Propuestos
 
-> [!example]- 💪 Práctica de Transformaciones
+> [!example] 💪 Práctica de Transformaciones
 > 
 > **Nivel Básico:**
 > 
@@ -1002,7 +1002,7 @@ flowchart TD
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Continuando el Aprendizaje
+> [!quote] 🌟 Continuando el Aprendizaje
 > 
 > **Has dominado:**
 > 

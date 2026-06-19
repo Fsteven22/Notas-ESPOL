@@ -11,7 +11,7 @@
 
 ## 📋 Definición y Características
 
-> [!info]- 🎯 **¿Qué son los Problemas de Tiempo y Distancia?** Son situaciones donde un móvil **viaja por diferentes tramos** con velocidades distintas, y se requiere calcular:
+> [!info] 🎯 **¿Qué son los Problemas de Tiempo y Distancia?** Son situaciones donde un móvil **viaja por diferentes tramos** con velocidades distintas, y se requiere calcular:
 > 
 > - **Distancia total recorrida**
 > - **Tiempo total empleado**
@@ -24,7 +24,7 @@
 
 ## 🛣️ Tipos de Problemas de Tiempo-Distancia
 
-> [!tip]- 📏 **Movimiento por Tramos con Datos Completos** **Situación:** Se conocen velocidad y tiempo (o distancia) de cada tramo
+> [!tip] 📏 **Movimiento por Tramos con Datos Completos** **Situación:** Se conocen velocidad y tiempo (o distancia) de cada tramo
 > 
 > ```mermaid
 > graph LR
@@ -41,7 +41,7 @@
 > - 🚴‍♂️ Ciclista en terreno variado (llano, subida, bajada)
 > - ✈️ Vuelo con diferentes velocidades por altitud
 
-> [!warning]- 🧩 **Movimiento con Datos Incompletos** **Situación:** Faltan algunos datos en ciertos tramos, se deben calcular
+> [!warning] 🧩 **Movimiento con Datos Incompletos** **Situación:** Faltan algunos datos en ciertos tramos, se deben calcular
 > 
 > **Casos típicos:**
 > 
@@ -52,13 +52,13 @@
 > 
 > **Estrategia:** Usar $d = vt$ en cada tramo para completar datos
 
-> [!note]- ⏱️ **Problemas de Velocidad Media** **Situación:** Calcular la velocidad promedio real del viaje completo
+> [!note] ⏱️ **Problemas de Velocidad Media** **Situación:** Calcular la velocidad promedio real del viaje completo
 > 
 > **⚠️ Advertencia crítica:** $$\bar{v} = \frac{d_{total}}{t_{total}} \neq \frac{v_1 + v_2 + ... + v_n}{n}$$
 > 
 > La velocidad media **NO es** el promedio aritmético de las velocidades
 
-> [!abstract]- 🔄 **Viajes de Ida y Vuelta** **Situación especial:** Recorrido del mismo trayecto a velocidades diferentes
+> [!abstract] 🔄 **Viajes de Ida y Vuelta** **Situación especial:** Recorrido del mismo trayecto a velocidades diferentes
 > 
 > **Casos comunes:**
 > 
@@ -70,7 +70,7 @@
 
 ## 📐 Metodología de Resolución
 
-> [!example]- 🛠️ **Pasos para Resolver Problemas de Tiempo-Distancia**
+> [!example] 🛠️ **Pasos para Resolver Problemas de Tiempo-Distancia**
 > 
 > ### Paso 1: Organizar los Datos en Tabla
 > 
@@ -105,7 +105,7 @@
 
 ## 📊 Fórmulas y Relaciones Especiales
 
-> [!abstract]- 📋 **Tabla de Fórmulas por Tipo de Problema**
+> [!abstract] 📋 **Tabla de Fórmulas por Tipo de Problema**
 > 
 > |Tipo de Cálculo|Fórmula|Aplicación|
 > |---|---|---|
@@ -116,7 +116,7 @@
 > |**Tiempo total**|$t_{total} = \sum t_i$|Suma de todos los tiempos|
 > |**Velocidad media**|$\bar{v} = \frac{d_{total}}{t_{total}}$|**NO** es promedio aritmético|
 
-> [!note]- 🔢 **Velocidad Media Armónica (Caso Especial)** **Cuándo usarla:** Cuando se recorren **distancias iguales** a velocidades diferentes
+> [!note] 🔢 **Velocidad Media Armónica (Caso Especial)** **Cuándo usarla:** Cuando se recorren **distancias iguales** a velocidades diferentes
 > 
 > **Fórmula general:** $$\bar{v}_{armónica} = \frac{n}{\frac{1}{v_1} + \frac{1}{v_2} + ... + \frac{1}{v_n}}$$
 > 
@@ -128,7 +128,7 @@
 
 ## 💡 Ejemplos Resueltos
 
-> [!example]- 🚗 **Ejemplo 1: Viaje Completo por Tramos** **Problema:** Un móvil viaja 2 horas a 60 km/h, luego 3 horas a 80 km/h, y finalmente 120 km a 40 km/h. Calcular: a) Distancia total, b) Tiempo total, c) Velocidad media.
+> [!example] 🚗 **Ejemplo 1: Viaje Completo por Tramos** **Problema:** Un móvil viaja 2 horas a 60 km/h, luego 3 horas a 80 km/h, y finalmente 120 km a 40 km/h. Calcular: a) Distancia total, b) Tiempo total, c) Velocidad media.
 > 
 > **Solución:**
 > 
@@ -166,7 +166,7 @@
 > 
 > **Verificación:** Promedio aritmético = $\frac{60+80+40}{3} = 60$ km/h (coincide por casualidad)
 
-> [!example]- 🔄 **Ejemplo 2: Ida y Vuelta con Velocidades Diferentes** **Problema:** Un auto va de la ciudad A a la B (180 km) a 90 km/h. Al regresar por la misma ruta lo hace a 60 km/h. Calcular la velocidad media del viaje completo.
+> [!example] 🔄 **Ejemplo 2: Ida y Vuelta con Velocidades Diferentes** **Problema:** Un auto va de la ciudad A a la B (180 km) a 90 km/h. Al regresar por la misma ruta lo hace a 60 km/h. Calcular la velocidad media del viaje completo.
 > 
 > **Solución:**
 > 
@@ -201,7 +201,7 @@
 
 ## 🎨 Representación Visual
 
-> [!note]- 📈 **Gráficos y Diagramas Útiles**
+> [!note] 📈 **Gráficos y Diagramas Útiles**
 > 
 > ```mermaid
 > graph TB
@@ -232,7 +232,7 @@
 
 ## 🧠 Técnica Mnemotécnica: "TABLA"
 
-> [!tip]- 🎯 **Método TABLA para Tiempo-Distancia**
+> [!tip] 🎯 **Método TABLA para Tiempo-Distancia**
 > 
 > **T** - **T**abular datos por tramos (organizar información) **A** - **A**nalizar qué datos faltan en cada tramo **B** - **B**uscar los valores faltantes usando $d = vt$ **L** - **L**istar totales: $\sum d_i$ y $\sum t_i$ **A** - **A**plicar velocidad media: $\bar{v} = \frac{d_{total}}{t_{total}}$
 > 
@@ -249,7 +249,7 @@
 
 ## ⚠️ Errores Comunes y Consejos
 
-> [!warning]- 🚫 **Errores Frecuentes**
+> [!warning] 🚫 **Errores Frecuentes**
 > 
 > ### ❌ Error 1: Velocidad Media Incorrecta
 > 
@@ -271,7 +271,7 @@
 
 ## 📊 Casos Especiales y Aplicaciones
 
-> [!abstract]- 🔄 **Movimiento con Paradas** **Situación:** El móvil hace paradas (tiempo parado se incluye en tiempo total)
+> [!abstract] 🔄 **Movimiento con Paradas** **Situación:** El móvil hace paradas (tiempo parado se incluye en tiempo total)
 > 
 > **Consideraciones:**
 > 
@@ -281,7 +281,7 @@
 > 
 > **Ejemplo:** Autobús urbano con paradas frecuentes
 
-> [!note]- ⛽ **Problemas de Consumo Combinado** **Extensión:** Combinar tiempo-distancia con consumo de combustible
+> [!note] ⛽ **Problemas de Consumo Combinado** **Extensión:** Combinar tiempo-distancia con consumo de combustible
 > 
 > **Variables adicionales:**
 > 
@@ -291,7 +291,7 @@
 > 
 > **Aplicación:** Planificación de viajes largos
 
-> [!tip]- 🚴‍♂️ **Deportes y Rendimiento** **Aplicación:** Análisis de rendimiento atlético por segmentos
+> [!tip] 🚴‍♂️ **Deportes y Rendimiento** **Aplicación:** Análisis de rendimiento atlético por segmentos
 > 
 > **Métricas útiles:**
 > 
@@ -305,7 +305,7 @@
 
 ## 🔗 Referencias
 
-> [!quote]- 📚 **Notas Relacionadas**
+> [!quote] 📚 **Notas Relacionadas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/01 - Cinemática/Cinemática Traslacional\|Cinemática Traslacional]] - Base teórica para cada tramo
 > - [[Universidad/1er Semestre/Física Mecanica/01 - Cinemática/Aplicaciones de Cinemática Traslacional/Problemas de Persecución\|Problemas de Persecución]] - Para casos con móviles múltiples

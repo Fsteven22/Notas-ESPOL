@@ -22,7 +22,7 @@
 > ### Convergencia de Sucesiones
 > Una sucesión $\{a_n\}$ **converge** a $L$ si: $\lim_{n \to \infty} a_n = L$
 
-> [!note]- Clasificación de Comportamientos ⚖️
+> [!note] Clasificación de Comportamientos ⚖️
 > ### Tipos de Convergencia y Divergencia
 > ```mermaid
 > graph TB
@@ -45,7 +45,7 @@
 >     style E fill:#fff3e0
 > ```
 
-> [!tip]- Criterios de Convergencia para Series Positivas 🔬
+> [!tip] Criterios de Convergencia para Series Positivas 🔬
 > ### 1. Criterio de Comparación
 > **Sean $\sum a_n$ y $\sum b_n$ series con $a_n, b_n \geq 0$ y $a_n \leq b_n$ para $n$ suficientemente grande:**
 > - Si $\sum b_n$ converge → $\sum a_n$ converge
@@ -71,7 +71,7 @@
 > - Si $L > 1$ → Serie diverge
 > - Si $L = 1$ → Criterio no decide
 
-> [!example]- Criterios Especiales y Avanzados 🧮
+> [!example] Criterios Especiales y Avanzados 🧮
 > ### 5. Criterio de Condensación de Cauchy
 > **Para sucesiones decrecientes $a_n \geq a_{n+1} \geq 0$:**
 > $$\sum_{n=1}^{\infty} a_n \text{ y } \sum_{k=0}^{\infty} 2^k a_{2^k} \text{ tienen el mismo comportamiento}$$
@@ -94,7 +94,7 @@
 > 
 > **→ La serie $\sum a_n b_n$ converge**
 
-> [!abstract]- Ejemplos Prácticos con Aplicación de Criterios 📚
+> [!abstract] Ejemplos Prácticos con Aplicación de Criterios 📚
 > ### Ejemplo 1: Serie Geométrica
 > **Serie:** $\sum_{n=0}^{\infty} r^n$
 > 
@@ -135,7 +135,7 @@
 > Por tanto, converge (de hecho, converge a e-1)
 > ```
 
-> [!success]- Series Alternadas y Convergencia Condicional 🔄
+> [!success] Series Alternadas y Convergencia Condicional 🔄
 > ### Criterio de Leibniz (Series Alternadas)
 > **Para series de la forma $\sum_{n=1}^{\infty} (-1)^{n+1} a_n$ donde $a_n > 0$:**
 > 
@@ -164,7 +164,7 @@
 >     style F fill:#ffcdd2
 > ```
 
-> [!warning]- Estrategia para Aplicar Criterios ⚠️
+> [!warning] Estrategia para Aplicar Criterios ⚠️
 > ### Orden de Aplicación Recomendado
 > 
 > **1. Verificar condición necesaria:**
@@ -220,7 +220,7 @@
 > **I** - Integral para funciones continuas decrecientes
 > **V** - Verificar convergencia absoluta en alternadas
 
-> [!success]- Puntos Clave para Recordar 🎯
+> [!success] Puntos Clave para Recordar 🎯
 > 1. **🔍 Condición necesaria**: Si $\lim a_n \neq 0$, la serie diverge
 > 2. **📊 Criterio apropiado**: Elegir según la estructura de la serie
 > 3. **⚖️ Convergencia absoluta**: Implica convergencia simple
@@ -272,7 +272,7 @@
 > - $\int_a^b f(x)dx$ donde $f$ tiene discontinuidad en $a$, $b$, o punto interior
 > - $\int_a^b \frac{1}{(x-c)^p}dx$ donde $a < c < b$
 
-> [!note]- Clasificación de Convergencia y Divergencia 📊
+> [!note] Clasificación de Convergencia y Divergencia 📊
 > ### Estados de una Integral Impropia
 > ```mermaid
 > graph TB
@@ -295,7 +295,7 @@
 >     style E fill:#fff3e0
 > ```
 
-> [!tip]- Criterios de Convergencia para Integrales Tipo I (∞) 🔬
+> [!tip] Criterios de Convergencia para Integrales Tipo I (∞) 🔬
 > ### 1. Criterio de Comparación Directa
 > **Para funciones $f(x), g(x) \geq 0$ en $[a,\infty)$ con $0 \leq f(x) \leq g(x)$:**
 > - Si $\int_a^{\infty} g(x)dx$ converge → $\int_a^{\infty} f(x)dx$ converge
@@ -318,7 +318,7 @@
 > 
 > **Resultado:** $\int_1^{\infty} \frac{1}{x^p}dx = \frac{1}{p-1}$ si $p > 1$
 
-> [!example]- Criterios para Integrales Tipo II (Discontinuidades) 🧮
+> [!example] Criterios para Integrales Tipo II (Discontinuidades) 🧮
 > ### 4. Criterio p en Discontinuidades
 > **Para discontinuidad en $x = a$:** $\int_a^b \frac{1}{(x-a)^p}dx$
 > 
@@ -341,7 +341,7 @@
 > - Si $p < 1$ → Integral converge
 > - Si $p \geq 1$ → Integral diverge
 
-> [!abstract]- Ejemplos Detallados con Aplicación de Criterios 📚
+> [!abstract] Ejemplos Detallados con Aplicación de Criterios 📚
 > ### Ejemplo 1: Integral Exponencial
 > **Integral:** $\int_0^{\infty} e^{-ax}dx$ donde $a > 0$
 > 
@@ -385,7 +385,7 @@
 > La integral diverge debido a la rama negativa
 > ```
 
-> [!success]- Criterios Especiales y Avanzados 🎯
+> [!success] Criterios Especiales y Avanzados 🎯
 > ### 7. Criterio de Dirichlet para Integrales
 > **Para $\int_a^{\infty} f(x)g(x)dx$ donde:**
 > - $F(x) = \int_a^x f(t)dt$ está acotada
@@ -424,7 +424,7 @@
 >     style I fill:#c8e6c9
 > ```
 
-> [!warning]- Estrategia y Errores Comunes ⚠️
+> [!warning] Estrategia y Errores Comunes ⚠️
 > ### Estrategia de Análisis
 > **1. Identificar el tipo de integral impropia:**
 > - ¿Límites infinitos? → Tipo I
@@ -481,7 +481,7 @@
 > **I** - Intervalos: dividir en partes manejables
 > **A** - Asintótico: comportamiento en límites
 
-> [!success]- Puntos Clave para Recordar 🎯
+> [!success] Puntos Clave para Recordar 🎯
 > 1. **🔍 Identificación correcta**: Tipo I (∞) vs Tipo II (discontinuidades)
 > 2. **⚖️ Criterios p opuestos**: >1 para ∞, <1 para discontinuidades
 > 3. **📊 Comparación efectiva**: Encontrar mayorantes o minorantes adecuadas

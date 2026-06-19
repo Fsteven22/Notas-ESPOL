@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es el Complemento Ortogonal? El **complemento ortogonal** de un subespacio es el conjunto de todos los vectores que son perpendiculares a cada vector del subespacio original. Es como encontrar la "dimensión faltante" que completa el espacio total.
+> [!info] 💡 ¿Qué es el Complemento Ortogonal? El **complemento ortogonal** de un subespacio es el conjunto de todos los vectores que son perpendiculares a cada vector del subespacio original. Es como encontrar la "dimensión faltante" que completa el espacio total.
 > 
 > **Analogía práctica:** Imagina el piso de una habitación (un plano):
 > 
@@ -55,7 +55,7 @@ graph TB
 
 ### 🎯 Concepto de Complemento Ortogonal
 
-> [!note]- 📋 Definición Rigurosa
+> [!note] 📋 Definición Rigurosa
 > 
 > **Definición:**
 > 
@@ -97,7 +97,7 @@ graph TB
 
 ### 🔍 Criterio Práctico
 
-> [!success]- 🎪 Cómo Verificar si v ∈ W⊥
+> [!success] 🎪 Cómo Verificar si v ∈ W⊥
 > 
 > **Proposición:** Para verificar si $\mathbf{v} \in W^\perp$:
 > 
@@ -141,7 +141,7 @@ graph TB
 
 ### ✅ Propiedades Básicas
 
-> [!tip]- 🔗 Características del Complemento Ortogonal
+> [!tip] 🔗 Características del Complemento Ortogonal
 > 
 > **1. W⊥ es un subespacio**
 > 
@@ -208,7 +208,7 @@ graph TB
 
 ### 📐 Relación con Matrices
 
-> [!example]- 🎯 Complementos de Espacios Fundamentales
+> [!example] 🎯 Complementos de Espacios Fundamentales
 > 
 > Sea $A$ una matriz de $m \times n$. Los **cuatro subespacios fundamentales** están relacionados por complementos ortogonales:
 > 
@@ -281,7 +281,7 @@ graph TB
 
 ### 🔢 Ejemplo en ℝ³
 
-> [!example]- 💡 Complemento de una Recta
+> [!example] 💡 Complemento de una Recta
 > 
 > **Problema:** Sea $W$ el subespacio generado por el vector
 > 
@@ -346,7 +346,7 @@ graph TB
 
 ### 📊 Ejemplo con Plano
 
-> [!example]- 🔍 Complemento de un Plano
+> [!example] 🔍 Complemento de un Plano
 > 
 > **Problema:** Sea $W$ el plano en $\mathbb{R}^3$ con ecuación $x + y - z = 0$. Encontrar $W^\perp$.
 > 
@@ -425,7 +425,7 @@ graph TB
 
 ### 🎲 Ejemplo con Núcleo de Matriz
 
-> [!example]- 🌀 Complemento del Núcleo
+> [!example] 🌀 Complemento del Núcleo
 > 
 > **Problema:** Sea $A = \begin{pmatrix} 1 & 2 & 3 \ 2 & 4 & 6 \end{pmatrix}$
 > 
@@ -511,7 +511,7 @@ graph TB
 
 ### 🏗️ Concepto de Proyección
 
-> [!tip]- 🔨 Descomposición en Componentes Ortogonales
+> [!tip] 🔨 Descomposición en Componentes Ortogonales
 > 
 > **Definición:**
 > 
@@ -543,7 +543,7 @@ graph TB
 
 ### 📐 Ejemplo de Proyección
 
-> [!example]- 🎯 Proyección sobre Plano
+> [!example] 🎯 Proyección sobre Plano
 > 
 > **Problema:** Proyectar el vector $\mathbf{v} = \begin{pmatrix} 1 \ 2 \ 3 \end{pmatrix}$ sobre el plano $W$ con ecuación $x + y + z = 0$.
 > 
@@ -659,7 +659,7 @@ graph TB
 
 ### 🔄 Teoremas Importantes
 
-> [!note]- 🎭 Teoremas sobre Complementos Ortogonales
+> [!note] 🎭 Teoremas sobre Complementos Ortogonales
 > 
 > **Teorema 1: Suma directa**
 > 
@@ -714,7 +714,7 @@ graph TB
 
 ### 📊 Matriz de Proyección
 
-> [!success]- 📏 Propiedades de la Matriz de Proyección
+> [!success] 📏 Propiedades de la Matriz de Proyección
 > 
 > **Definición:**
 > 
@@ -806,7 +806,7 @@ mindmap
 
 ### Tabla de Referencia Rápida
 
-> [!quote]- 📚 Guía Práctica
+> [!quote] 📚 Guía Práctica
 > 
 > **Encontrar W⊥:**
 > 
@@ -840,7 +840,7 @@ mindmap
 
 ## 🎓 Ejercicios Resueltos
 
-> [!example]- 💪 Ejercicio 1: Complemento en ℝ⁴
+> [!example] 💪 Ejercicio 1: Complemento en ℝ⁴
 > 
 > **Problema:** Sea $W = \text{gen}\left{\begin{pmatrix} 1 \ 0 \ 1 \ 0 \end{pmatrix}, \begin{pmatrix} 0 \ 1 \ 0 \ 1 \end{pmatrix}\right}$ en $\mathbb{R}^4$.
 > 
@@ -907,7 +907,7 @@ mindmap
 >                          [0 ]  [1 ]
 > ```
 
-> [!example]- 💪 Ejercicio 2: Proyección Ortogonal
+> [!example] 💪 Ejercicio 2: Proyección Ortogonal
 > 
 > **Problema:** Encontrar la proyección ortogonal de $\mathbf{v} = \begin{pmatrix} 3 \ 4 \ 5 \end{pmatrix}$ sobre $W = \text{gen}\left{\begin{pmatrix} 1 \ 0 \ 0 \end{pmatrix}, \begin{pmatrix} 0 \ 1 \ 0 \end{pmatrix}\right}$ (el plano $xy$).
 > 
@@ -967,7 +967,7 @@ mindmap
 > La componente perpendicular es (0,0,5) hacia arriba
 > ```
 
-> [!example]- 💪 Ejercicio 3: Complemento del Espacio Columna
+> [!example] 💪 Ejercicio 3: Complemento del Espacio Columna
 > 
 > **Problema:** Sea $A = \begin{pmatrix} 1 & 2 \ 3 & 6 \ 0 & 0 \end{pmatrix}$.
 > 
@@ -1056,7 +1056,7 @@ mindmap
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Continuando el Aprendizaje
+> [!quote] 🌟 Continuando el Aprendizaje
 > 
 > **Progresión natural:**
 > 

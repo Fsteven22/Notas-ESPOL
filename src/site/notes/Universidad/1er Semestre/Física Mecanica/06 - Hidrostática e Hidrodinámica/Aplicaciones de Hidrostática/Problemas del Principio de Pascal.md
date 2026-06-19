@@ -7,11 +7,11 @@
 
 > [!quote] "La presión aplicada a un fluido confinado se transmite íntegramente en todas las direcciones; así, una pequeña fuerza puede mover montañas cuando la naturaleza de los fluidos conspira a nuestro favor." ⚡
 
-> [!info]- El Principio de Pascal es uno de los fundamentos más importantes de la hidráulica moderna. Establece que cualquier cambio de presión aplicado a un fluido incompresible confinado se transmite íntegramente a todas las partes del fluido y a las paredes del recipiente. Este principio es la base de innumerables aplicaciones tecnológicas que han revolucionado la ingeniería.
+> [!info] El Principio de Pascal es uno de los fundamentos más importantes de la hidráulica moderna. Establece que cualquier cambio de presión aplicado a un fluido incompresible confinado se transmite íntegramente a todas las partes del fluido y a las paredes del recipiente. Este principio es la base de innumerables aplicaciones tecnológicas que han revolucionado la ingeniería.
 
 ## 🎯 Conceptos Fundamentales
 
-> [!info]- **Principio de Pascal** 🔧
+> [!info] **Principio de Pascal** 🔧
 > 
 > ### Enunciado:
 > 
@@ -38,7 +38,7 @@
 > - Fluido en **equilibrio** estático
 > - **Misma altura** (o diferencias de altura despreciables)
 
-> [!tip]- **Ventaja Mecánica Hidráulica** 💪
+> [!tip] **Ventaja Mecánica Hidráulica** 💪
 > 
 > ### Amplificación de Fuerza:
 > 
@@ -60,7 +60,7 @@
 > - **Trabajo total** permanece constante (ideal)
 > - **W₁ = W₂** → F₁ × d₁ = F₂ × d₂
 
-> [!warning]- **Sistemas Hidráulicos Reales** ⚙️
+> [!warning] **Sistemas Hidráulicos Reales** ⚙️
 > 
 > ### Componentes Principales:
 > 
@@ -115,7 +115,7 @@
 >     style F fill:#f3e5f5
 > ```
 
-> [!note]- **Relaciones Matemáticas** 📐
+> [!note] **Relaciones Matemáticas** 📐
 > 
 > ### Ecuación de Continuidad (Conservación de Volumen):
 > 
@@ -135,7 +135,7 @@
 
 ## 🎯 Estrategias de Resolución
 
-> [!tip]- **Método PASE (Pascal-Áreas-Sistema-Equilibrio)** 🎯
+> [!tip] **Método PASE (Pascal-Áreas-Sistema-Equilibrio)** 🎯
 > 
 > ### **P**ascal - Aplica el principio fundamental
 > 
@@ -163,7 +163,7 @@
 
 ## 📚 Problemas Tipo
 
-> [!example]- **Problema 1: Prensa Hidráulica Básica** 🏭
+> [!example] **Problema 1: Prensa Hidráulica Básica** 🏭
 > 
 > ### Enunciado:
 > 
@@ -188,7 +188,7 @@
 > 
 > **Verificación**: W₁ = 200 × 0.12 = 24 J; W₂ = 7200 × 0.0033 = 24 J ✓
 
-> [!example]- **Problema 2: Elevador Hidráulico** 🚗
+> [!example] **Problema 2: Elevador Hidráulico** 🚗
 > 
 > ### Enunciado:
 > 
@@ -211,7 +211,7 @@
 > 
 > **Interpretación**: Se amplifica la fuerza 100 veces, pero el desplazamiento se reduce 100 veces.
 
-> [!example]- **Problema 3: Sistema Hidráulico de Frenos** 🚙
+> [!example] **Problema 3: Sistema Hidráulico de Frenos** 🚙
 > 
 > ### Enunciado:
 > 
@@ -239,7 +239,7 @@
 > 
 > **Composición**: VM = (Palanca) × (Hidráulico) = 4 × 16.1 = 64.2 ✓
 
-> [!example]- **Problema 4: Máquina Compactadora** 🏗️
+> [!example] **Problema 4: Máquina Compactadora** 🏗️
 > 
 > ### Enunciado:
 > 
@@ -273,14 +273,14 @@
 
 ## 🧮 Técnicas de Memorización
 
-> [!tip]- **Mnemotecnia: "PASCAL"** ⚡
+> [!tip] **Mnemotecnia: "PASCAL"** ⚡
 > 
 > **P**resión se transmite íntegramente **A**reas determinan amplificación: F₂/F₁ = A₂/A₁  
 > **S**istema cerrado e incompresible **C**onservación: A₁d₁ = A₂d₂ **A**plicaciones: prensas, frenos, elevadores **L**ey fundamental: ΔP₁ = ΔP₂
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- **Confusiones Frecuentes** ⚠️
+> [!warning] **Confusiones Frecuentes** ⚠️
 > 
 > 1. **Confundir diámetro con radio** en el cálculo de áreas
 > 2. **No considerar el peso del fluido** en sistemas con diferencias de altura
@@ -293,7 +293,7 @@
 
 ## 🎯 Aplicaciones Prácticas
 
-> [!info]- **Ejemplos del Mundo Real** 🌍
+> [!info] **Ejemplos del Mundo Real** 🌍
 > 
 > ### Industria Automotriz:
 > 
@@ -329,7 +329,7 @@
 
 ## 📊 Datos de Referencia
 
-> [!note]- **Especificaciones Típicas de Sistemas Hidráulicos**
+> [!note] **Especificaciones Típicas de Sistemas Hidráulicos**
 > 
 > ### Presiones de Operación:
 > 
@@ -358,7 +358,7 @@
 
 ## 📖 Referencias
 
-> [!quote]- **Notas Relacionadas**
+> [!quote] **Notas Relacionadas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/06 - Hidrostática e Hidrodinámica/Hidrostática/El Principio de Pascal\|El Principio de Pascal]] - Fundamentos teóricos
 > - [[Universidad/1er Semestre/Física Mecanica/06 - Hidrostática e Hidrodinámica/Aplicaciones de Hidrostática/Problemas de Presión en un Fluido\|Problemas de Presión en un Fluido]] - Base hidrostática
@@ -367,7 +367,7 @@
 
 ## 📚 Notas Recomendadas
 
-> [!note]- **Prerrequisitos**
+> [!note] **Prerrequisitos**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Sistema de unidades
 > - [[Universidad/1er Semestre/Física Mecanica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para análisis de fuerzas

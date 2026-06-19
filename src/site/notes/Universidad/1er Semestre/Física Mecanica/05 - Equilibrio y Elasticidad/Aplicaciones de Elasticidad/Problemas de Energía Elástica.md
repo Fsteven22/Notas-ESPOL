@@ -7,11 +7,11 @@
 
 > [!quote] "La energía elástica es la memoria silenciosa de la materia; cada deformación guarda la historia de las fuerzas que la crearon, esperando el momento perfecto para liberarse." 🔋
 
-> [!info]- La energía elástica representa la capacidad de un material deformado para realizar trabajo al regresar a su forma original. Este concepto es fundamental en el análisis de sistemas mecánicos, desde resortes simples hasta estructuras complejas, y constituye un puente esencial entre la mecánica de sólidos y la conservación de energía.
+> [!info] La energía elástica representa la capacidad de un material deformado para realizar trabajo al regresar a su forma original. Este concepto es fundamental en el análisis de sistemas mecánicos, desde resortes simples hasta estructuras complejas, y constituye un puente esencial entre la mecánica de sólidos y la conservación de energía.
 
 ## 🎯 Conceptos Fundamentales
 
-> [!info]- **Energía de Deformación Elástica** ⚡
+> [!info] **Energía de Deformación Elástica** ⚡
 > 
 > ### Definición:
 > 
@@ -31,7 +31,7 @@
 > W = U = ∫F dx = ∫σ dε · V
 > ```
 
-> [!tip]- **Energía en Diferentes Tipos de Deformación** 🔧
+> [!tip] **Energía en Diferentes Tipos de Deformación** 🔧
 > 
 > ### **Tracción/Compresión Uniaxial**:
 > 
@@ -67,7 +67,7 @@
 > - G: Módulo de rigidez
 > - J: Momento polar de inercia
 
-> [!warning]- **Densidad de Energía de Deformación** 📊
+> [!warning] **Densidad de Energía de Deformación** 📊
 > 
 > ### Definición:
 > 
@@ -106,7 +106,7 @@
 >     style D fill:#e8f5e8
 > ```
 
-> [!note]- **Relaciones Energéticas Fundamentales** 📐
+> [!note] **Relaciones Energéticas Fundamentales** 📐
 > 
 > ### Para Elementos Estructurales:
 > 
@@ -146,7 +146,7 @@
 
 ## 🎯 Estrategias de Resolución
 
-> [!tip]- **Método EDEN (Energía-Deformación-Equilibrio-Naturaleza)** 🌱
+> [!tip] **Método EDEN (Energía-Deformación-Equilibrio-Naturaleza)** 🌱
 > 
 > ### **E**nergía - Identifica el tipo de energía
 > 
@@ -174,7 +174,7 @@
 
 ## 📚 Problemas Tipo
 
-> [!example]- **Problema 1: Resorte Simple** 🌀
+> [!example] **Problema 1: Resorte Simple** 🌀
 > 
 > ### Enunciado:
 > 
@@ -196,7 +196,7 @@
 > 
 > **Verificación**: W = ∫F dx = ∫₀.₀₈^₀.₁² 500x dx = 250[x²]₀.₀₈^₀.₁² = 2.0 J ✓
 
-> [!example]- **Problema 2: Barra en Tracción** 📏
+> [!example] **Problema 2: Barra en Tracción** 📏
 > 
 > ### Enunciado:
 > 
@@ -221,7 +221,7 @@
 > 
 > **Verificación**: U = ½·F·δ = ½·15,000·0.478×10⁻³ = 3.58 J ✓
 
-> [!example]- **Problema 3: Viga en Flexión** 🏗️
+> [!example] **Problema 3: Viga en Flexión** 🏗️
 > 
 > ### Enunciado:
 > 
@@ -249,7 +249,7 @@
 > 
 > **b) Deflexión máxima (Teorema de Castigliano)**: δₘₐₓ = ∂U/∂P = (P·L³)/(24·E·I) = 20,000·(4)³/(24·30×10⁹·4.5×10⁻⁴) = 39.5 mm
 
-> [!example]- **Problema 4: Sistema de Resortes** 🔗
+> [!example] **Problema 4: Sistema de Resortes** 🔗
 > 
 > ### Enunciado:
 > 
@@ -277,13 +277,13 @@
 
 ## 🧮 Técnicas de Memorización
 
-> [!tip]- **Mnemotecnia: "ELASTICO"** 🔄
+> [!tip] **Mnemotecnia: "ELASTICO"** 🔄
 > 
 > **E**nergía = ½ × fuerza × desplazamiento **L**a densidad = σ²/(2E) para tracción **A**lmacenada completamente recuperable **S**iempre proporcional al cuadrado **T**rabajo igual a energía (proceso cuasiestático) **I**ntegración para distribuciones variables **C**astigliano para deflexiones **O**rden: U = ½kx² para resortes
 
 ## ⚠️ Errores Comunes
 
-> [!warning]- **Confusiones Frecuentes** ⚠️
+> [!warning] **Confusiones Frecuentes** ⚠️
 > 
 > 1. **Confundir energía de deformación con trabajo total** en procesos irreversibles
 > 2. **No considerar todos los modos de deformación** en elementos complejos
@@ -296,7 +296,7 @@
 
 ## 🎯 Aplicaciones Prácticas
 
-> [!info]- **Ejemplos del Mundo Real** 🌍
+> [!info] **Ejemplos del Mundo Real** 🌍
 > 
 > ### Ingeniería Automotriz:
 > 
@@ -324,7 +324,7 @@
 
 ## 📊 Datos de Referencia
 
-> [!note]- **Capacidades de Almacenamiento Energético**
+> [!note] **Capacidades de Almacenamiento Energético**
 > 
 > ### Materiales Comunes:
 > 
@@ -345,7 +345,7 @@
 
 ## 📖 Referencias
 
-> [!quote]- **Notas Relacionadas**
+> [!quote] **Notas Relacionadas**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/05 - Equilibrio y Elasticidad/Elasticidad\|Elasticidad]] - Fundamentos teóricos
 > - [[Universidad/1er Semestre/Física Mecanica/03 - Trabajo y Energía/Trabajo y Energía\|Trabajo y Energía]] - Principios energéticos generales
@@ -354,7 +354,7 @@
 
 ## 📚 Notas Recomendadas
 
-> [!note]- **Prerrequisitos**
+> [!note] **Prerrequisitos**
 > 
 > - [[Universidad/1er Semestre/Física Mecanica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para análisis de fuerzas y desplazamientos
 > - [[Universidad/1er Semestre/Física Mecanica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Sistema de unidades
