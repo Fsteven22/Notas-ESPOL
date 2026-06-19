@@ -40,11 +40,11 @@
 > 
 > La **distancia** entre A y B es:
 > 
-> **d(A, B) = ||AB⃗|| = √[(x₂ - x₁)² + (y₂ - y₁)² + (z₂ - z₁)²]**
+> **d(A, B) = ||A\vec{B}|| = √[(x₂ - x₁)² + (y₂ - y₁)² + (z₂ - z₁)²]**
 > 
 > **Interpretación:**
 > 
-> - Es la longitud del vector AB⃗
+> - Es la longitud del vector A\vec{B}
 > - Es el "camino más corto" entre A y B
 > - Generalización del Teorema de Pitágoras a 3D
 > 
@@ -57,8 +57,8 @@
 > 
 > **Proceso de cálculo:**
 > 
-> 1. Formar el vector AB⃗ = B - A
-> 2. Calcular la magnitud ||AB⃗||
+> 1. Formar el vector A\vec{B} = B - A
+> 2. Calcular la magnitud ||A\vec{B}||
 > 3. El resultado es la distancia
 
 ### 📊 Ejemplos de Distancia
@@ -75,8 +75,8 @@
 >         = √50 = 5√2 ≈ 7.07 unidades
 > 
 > Método 2 - Vectorial:
-> AB⃗ = (4-1, 6-2, 8-3) = (3, 4, 5)
-> d(A, B) = ||AB⃗|| = √(9 + 16 + 25) = √50
+> A\vec{B} = (4-1, 6-2, 8-3) = (3, 4, 5)
+> d(A, B) = ||A\vec{B}|| = √(9 + 16 + 25) = √50
 > ```
 > 
 > ---
@@ -103,7 +103,7 @@
 >         = √[9 + 16 + 144]
 >         = √169 = 13 unidades
 > 
-> Nota: Esto es simplemente ||OP⃗|| = ||(3, 4, 12)||
+> Nota: Esto es simplemente ||O\vec{P}|| = ||(3, 4, 12)||
 > ```
 > 
 > ---
@@ -205,15 +205,15 @@
 > 
 > ```
 > Vectores desde A:
-> AB⃗ = B - A = (-1, 1, 0)
-> AC⃗ = C - A = (-1, 0, 1)
+> A\vec{B} = B - A = (-1, 1, 0)
+> A\vec{C} = C - A = (-1, 0, 1)
 > 
 > Producto punto:
-> AB⃗ · AC⃗ = (-1)(-1) + (1)(0) + (0)(1) = 1
+> A\vec{B} · A\vec{C} = (-1)(-1) + (1)(0) + (0)(1) = 1
 > 
 > Magnitudes:
-> ||AB⃗|| = √(1 + 1 + 0) = √2
-> ||AC⃗|| = √(1 + 0 + 1) = √2
+> ||A\vec{B}|| = √(1 + 1 + 0) = √2
+> ||A\vec{C}|| = √(1 + 0 + 1) = √2
 > 
 > Ángulo:
 > cos(θ) = 1/(√2 · √2) = 1/2
@@ -417,7 +417,7 @@
 > 
 > Dados A, B, C, el área del triángulo ABC es:
 > 
-> **A = (1/2)||AB⃗ × AC⃗||**
+> **A = (1/2)||A\vec{B} × A\vec{C}||**
 > 
 > **Fórmula en componentes:**
 > 
@@ -459,11 +459,11 @@
 > 
 > ```
 > Vectores desde A:
-> AB⃗ = (-1, 1, 0)
-> AC⃗ = (-1, 0, 1)
+> A\vec{B} = (-1, 1, 0)
+> A\vec{C} = (-1, 0, 1)
 > 
 > Producto cruz:
-> AB⃗ × AC⃗ = | i   j   k  |
+> A\vec{B} × A\vec{C} = | i   j   k  |
 >             | -1  1   0  |
 >             | -1  0   1  |
 > 
@@ -472,7 +472,7 @@
 > = (1, 1, 1)
 > 
 > Magnitud:
-> ||AB⃗ × AC⃗|| = √(1² + 1² + 1²) = √3
+> ||A\vec{B} × A\vec{C}|| = √(1² + 1² + 1²) = √3
 > 
 > Área del triángulo:
 > A = (1/2)√3 ≈ 0.866 unidades²
@@ -486,11 +486,11 @@
 > 
 > ```
 > Vectores desde P:
-> PQ⃗ = (3, 1, -2)
-> PR⃗ = (1, 3, -1)
+> P\vec{Q} = (3, 1, -2)
+> P\vec{R} = (1, 3, -1)
 > 
 > Producto cruz:
-> PQ⃗ × PR⃗ = | i   j   k  |
+> P\vec{Q} × P\vec{R} = | i   j   k  |
 >             | 3   1  -2  |
 >             | 1   3  -1  |
 > 
@@ -643,9 +643,9 @@
 > Calcular el volumen del tetraedro con vértices: O= (0, 0, 0), A = (2, 0, 0), B = (0, 3, 0), C = (0, 0, 4)
 > ```
 > Vectores desde O:
-> OA⃗ = (2, 0, 0)
-> OB⃗ = (0, 3, 0)
-> OC⃗ = (0, 0, 4)
+> O\vec{A} = (2, 0, 0)
+> O\vec{B} = (0, 3, 0)
+> O\vec{C} = (0, 0, 4)
 > 
 > Volumen del paralelepípedo:
 > V_paralep = |det| 2  0  0 || = |24| = 24
@@ -655,7 +655,7 @@
 > Volumen del tetraedro:
 > V_tetraedro = V_paralep/6 = 24/6 = 4 unidades³
 > 
-> Fórmula general: V_tetraedro = (1/6)|OA⃗ · (OB⃗ × OC⃗)|
+> Fórmula general: V_tetraedro = (1/6)|O\vec{A} · (O\vec{B} × O\vec{C})|
 > ```
 
 ## 🔍 Aplicaciones Especiales
@@ -713,9 +713,9 @@
 > 
 > **Si el plano pasa por P₁ con vector normal n:**
 > 
-> **d = |P₁P₀⃗ · n̂|**
+> **d = |P₁P₀⃗ · \hat{n}|**
 > 
-> Donde n̂ = **n**/||**n**|| es el vector normal unitario
+> Donde \hat{n} = **n**/||**n**|| es el vector normal unitario
 > 
 > **O equivalentemente:**
 > 
@@ -808,9 +808,9 @@ graph TD
     A --> C[Ángulos]
     A --> D[Áreas y Volúmenes]
     
-    B --> B1["Punto-Punto<br/>d = ||AB⃗||"]
+    B --> B1["Punto-Punto<br/>d = ||A\vec{B}||"]
     B --> B2["Punto-Recta<br/>d = ||P₁P₀⃗ × v||/||v||"]
-    B --> B3["Punto-Plano<br/>d = |P₁P₀⃗ · n̂|"]
+    B --> B3["Punto-Plano<br/>d = |P₁P₀⃗ · \hat{n}|"]
     
     C --> C1["Entre vectores<br/>cos θ = u·v / ||u||||v||"]
     C --> C2[Entre rectas<br/>usar vectores dirección]
@@ -833,7 +833,7 @@ graph TD
 > 
 > |Aplicación|Fórmula|Nota|
 > |---|---|---|
-> |**Distancia punto-punto**|d(A,B) = \|AB⃗\||Magnitud del vector|
+> |**Distancia punto-punto**|d(A,B) = \|A\vec{B}\||Magnitud del vector|
 > |**Ángulo entre vectores**|cos(θ) = (u·v)/(\|u\|v\|)|0° ≤ θ ≤ 180°|
 > |**Proyección escalar**|proj_u(v) = (v·u)/\|u\||Puede ser negativa|
 > |**Proyección vectorial**|proy_u(v) = [(v·u)/\|u\|²]u|Vector paralelo a u|
@@ -911,15 +911,15 @@ graph TD
 > 
 > ```
 > Solución:
-> AB⃗ = (3, 0, 0)
-> AC⃗ = (0, 4, 0)
+> A\vec{B} = (3, 0, 0)
+> A\vec{C} = (0, 4, 0)
 > 
-> AB⃗ × AC⃗ = | i  j  k |
+> A\vec{B} × A\vec{C} = | i  j  k |
 >             | 3  0  0 |
 >             | 0  4  0 |
 >           = (0, 0, 12)
 > 
-> ||AB⃗ × AC⃗|| = 12
+> ||A\vec{B} × A\vec{C}|| = 12
 > 
 > Área = 12/2 = 6 unidades²
 > 
@@ -940,21 +940,21 @@ graph TD
 > Solución:
 > 
 > a) Área del triángulo:
-> AB⃗ = (-1, 2, 0)
-> AC⃗ = (-1, 0, 3)
+> A\vec{B} = (-1, 2, 0)
+> A\vec{C} = (-1, 0, 3)
 > 
-> AB⃗ × AC⃗ = | i   j   k  |
+> A\vec{B} × A\vec{C} = | i   j   k  |
 >             | -1  2   0  |
 >             | -1  0   3  |
 >           = (6, 3, 2)
 > 
-> ||AB⃗ × AC⃗|| = √(36 + 9 + 4) = √49 = 7
+> ||A\vec{B} × A\vec{C}|| = √(36 + 9 + 4) = √49 = 7
 > Área = 7/2 = 3.5 unidades²
 > 
 > b) Volumen del tetraedro:
-> OA⃗ = (1, 0, 0)
-> OB⃗ = (0, 2, 0)
-> OC⃗ = (0, 0, 3)
+> O\vec{A} = (1, 0, 0)
+> O\vec{B} = (0, 2, 0)
+> O\vec{C} = (0, 0, 3)
 > 
 > V = (1/6)|det| 1  0  0 ||
 >              | 0  2  0 ||
@@ -977,11 +977,11 @@ graph TD
 > Solución:
 > 
 > a) Dirección del cable:
-> AB⃗ = (6, 8, -10)
-> ||AB⃗|| = √(36 + 64 + 100) = √200 = 10√2
+> A\vec{B} = (6, 8, -10)
+> ||A\vec{B}|| = √(36 + 64 + 100) = √200 = 10√2
 > 
 > Vector unitario:
-> û = AB⃗/||AB⃗|| = (6, 8, -10)/(10√2)
+> û = A\vec{B}/||A\vec{B}|| = (6, 8, -10)/(10√2)
 >   = (3/(5√2), 4/(5√2), -1/√2)
 > 
 > Componente de F en dirección del cable:

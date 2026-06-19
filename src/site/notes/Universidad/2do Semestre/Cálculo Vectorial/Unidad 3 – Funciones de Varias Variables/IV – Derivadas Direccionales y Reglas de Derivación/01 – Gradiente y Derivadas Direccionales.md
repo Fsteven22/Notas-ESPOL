@@ -89,7 +89,7 @@
 >           | /   / |     \
 >           |/___/  |      \
 >           +---→---+------- y
->          /    u⃗   |
+>          /    \vec{u}   |
 >         x         |
 >                (x₀,y₀)
 > ```
@@ -112,7 +112,7 @@
 >         |  /
 >         | •
 >         |/
->         +-------- dirección u⃗
+>         +-------- dirección \vec{u}
 > ```
 > 
 > La derivada direccional es la **pendiente** de esta curva de intersección.
@@ -129,8 +129,8 @@
 >         |
 >     •---|---  Direcciones especiales:
 >    /    |      • Eje x: f_x
->   u⃗    |      • Eje y: f_y
->  /     |      • Cualquier u⃗: D_u f
+>   \vec{u}    |      • Eje y: f_y
+>  /     |      • Cualquier \vec{u}: D_u f
 > +------→------ x
 > ```
 

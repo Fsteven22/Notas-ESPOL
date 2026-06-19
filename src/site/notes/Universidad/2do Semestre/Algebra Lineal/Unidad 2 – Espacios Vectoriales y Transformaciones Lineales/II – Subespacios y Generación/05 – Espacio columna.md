@@ -692,7 +692,7 @@
 > 
 > ---
 > 
-> **6. "Si b⃗ ∉ Col(A), entonces Ax⃗ = b⃗ tiene infinitas soluciones"**
+> **6. "Si \vec{b} ∉ Col(A), entonces A\vec{x} = \vec{b} tiene infinitas soluciones"**
 > 
 > ✗ **FALSO**
 > 

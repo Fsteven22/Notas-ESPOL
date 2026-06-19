@@ -430,7 +430,7 @@
 > r'(t)
 > dr/dt
 > ṙ(t)  [notación de Newton]
-> r⃗'(t)
+> \vec{r}'(t)
 > ```
 > 
 > **Interpretación geométrica:**

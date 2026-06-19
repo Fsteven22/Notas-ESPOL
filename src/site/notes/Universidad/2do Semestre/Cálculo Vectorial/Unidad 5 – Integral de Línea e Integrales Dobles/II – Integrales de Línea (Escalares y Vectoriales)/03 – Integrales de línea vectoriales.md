@@ -96,7 +96,7 @@ graph TB
 > 
 > ```
 > Ejemplo 1: Campo radial unitario
-> F(x,y) = ⟨x,y⟩/√(x²+y²) = r̂
+> F(x,y) = ⟨x,y⟩/√(x²+y²) = \hat{r}
 > 
 > Magnitud: ||F|| = 1 en todo punto
 > Dirección: Apunta radialmente hacia afuera

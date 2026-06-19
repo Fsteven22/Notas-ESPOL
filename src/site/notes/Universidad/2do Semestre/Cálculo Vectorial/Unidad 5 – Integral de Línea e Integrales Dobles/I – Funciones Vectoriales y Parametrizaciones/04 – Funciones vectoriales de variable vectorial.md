@@ -71,7 +71,7 @@ graph TB
 > **Notación Vectorial:**
 > 
 > ```
-> F(x⃗) = F(x₁, x₂, ..., xₙ) = ⟨f₁(x⃗), f₂(x⃗), ..., fₘ(x⃗)⟩
+> F(\vec{x}) = F(x₁, x₂, ..., xₙ) = ⟨f₁(\vec{x}), f₂(\vec{x}), ..., fₘ(\vec{x})⟩
 > ```
 > 
 > **Notación por Componentes:**
@@ -220,21 +220,21 @@ graph TB
 > **1. Suma:**
 > 
 > ```
-> (F + G)(x⃗) = F(x⃗) + G(x⃗)
+> (F + G)(\vec{x}) = F(\vec{x}) + G(\vec{x})
 >             = ⟨f₁ + g₁, f₂ + g₂, ..., fₙ + gₙ⟩
 > ```
 > 
 > **2. Resta:**
 > 
 > ```
-> (F - G)(x⃗) = F(x⃗) - G(x⃗)
+> (F - G)(\vec{x}) = F(\vec{x}) - G(\vec{x})
 >             = ⟨f₁ - g₁, f₂ - g₂, ..., fₙ - gₙ⟩
 > ```
 > 
 > **3. Multiplicación por escalar:**
 > 
 > ```
-> (c·F)(x⃗) = c·F(x⃗)
+> (c·F)(\vec{x}) = c·F(\vec{x})
 >          = ⟨c·f₁, c·f₂, ..., c·fₙ⟩
 > ```
 > 
@@ -409,7 +409,7 @@ graph TB
 > Para **F: ℝⁿ → ℝᵐ**, la **matriz Jacobiana** es:
 > 
 > ```
-> JF(x⃗) = [ ∂f₁/∂x₁  ∂f₁/∂x₂  ...  ∂f₁/∂xₙ ]
+> JF(\vec{x}) = [ ∂f₁/∂x₁  ∂f₁/∂x₂  ...  ∂f₁/∂xₙ ]
 >          [ ∂f₂/∂x₁  ∂f₂/∂x₂  ...  ∂f₂/∂xₙ ]
 >          [    ⋮         ⋮      ⋱      ⋮    ]
 >          [ ∂fₘ/∂x₁  ∂fₘ/∂x₂  ...  ∂fₘ/∂xₙ ]
@@ -461,7 +461,7 @@ graph TB
 > 
 > |Propiedad|Significado|Aplicación|
 > |---|---|---|
-> |**Aproximación lineal**|DF(x⃗₀)·h⃗ ≈ F(x⃗₀+h⃗) - F(x⃗₀)|Estimación local|
+> |**Aproximación lineal**|DF(\vec{x}₀)·\vec{h} ≈ F(\vec{x}₀+\vec{h}) - F(\vec{x}₀)|Estimación local|
 > |**Regla de la cadena**|D(G∘F) = DG·DF|Composición|
 > |**Jacobiano**|det(JF) cuando m=n|Cambio de variable|
 > |**Rango**|rank(JF)|Dimensión imagen|
@@ -1385,7 +1385,7 @@ graph TB
 > 
 > |Concepto|Definición|Fórmula Clave|
 > |---|---|---|
-> |**Función Vectorial**|Mapeo ℝⁿ → ℝᵐ|F(x⃗) = ⟨f₁(x⃗), ..., fₘ(x⃗)⟩|
+> |**Función Vectorial**|Mapeo ℝⁿ → ℝᵐ|F(\vec{x}) = ⟨f₁(\vec{x}), ..., fₘ(\vec{x})⟩|
 > |**Matriz Jacobiana**|Derivada total|JF = [∂fᵢ/∂xⱼ]|
 > |**Gradiente**|ℝⁿ → ℝ a vector|∇f = ⟨∂f/∂x₁, ..., ∂f/∂xₙ⟩|
 > |**Divergencia**|Vector a escalar|∇·F = Σ ∂fᵢ/∂xᵢ|

@@ -963,7 +963,7 @@ graph TB
 > **Interpretación geométrica:**
 > 
 > - **b** no está en Col(A)
-> - Buscar **x̂** tal que **Ax̂** sea la proyección de **b** sobre Col(A)
+> - Buscar **\hat{x}** tal que **A\hat{x}** sea la proyección de **b** sobre Col(A)
 > - Minimizar ||**b** - **Ax**||² (error cuadrático)
 > 
 > ```mermaid
@@ -972,9 +972,9 @@ graph TB
 >     B -->|Sí| C[Resolver normalmente]
 >     B -->|No| D[b no está en ColA]
 >     
->     D --> E[Buscar x̂ que minimize<br/>||b - Ax||]
+>     D --> E[Buscar \hat{x} que minimize<br/>||b - Ax||]
 >     E --> F[Proyectar b sobre ColA]
->     F --> G[Ax̂ = proj_ColA b]
+>     F --> G[A\hat{x} = proj_ColA b]
 >     G --> H[Solución de<br/>mínimos cuadrados]
 >     
 >     style D fill:#ffe1e1
@@ -984,22 +984,22 @@ graph TB
 > 
 > **Ecuación normal:**
 > 
-> La solución de mínimos cuadrados **x̂** satisface:
+> La solución de mínimos cuadrados **\hat{x}** satisface:
 > 
 > $$A^T A \hat{x} = A^T b$$
 > 
 > **Justificación:**
 > 
 > ```
-> Queremos: Ax̂ = proj_ColA(b)
+> Queremos: A\hat{x} = proj_ColA(b)
 > 
-> Esto significa: b - Ax̂ ⊥ Col(A)
+> Esto significa: b - A\hat{x} ⊥ Col(A)
 > 
-> Es decir: A^T(b - Ax̂) = 0
+> Es decir: A^T(b - A\hat{x}) = 0
 > 
-> Desarrollando: A^Tb - A^TAx̂ = 0
+> Desarrollando: A^Tb - A^TA\hat{x} = 0
 > 
-> Por tanto: A^TAx̂ = A^Tb  ✓
+> Por tanto: A^TA\hat{x} = A^Tb  ✓
 > ```
 > 
 > **Propiedades:**
@@ -1009,7 +1009,7 @@ graph TB
 > |**Existencia**|Siempre existe solución|Para cualquier A, b|
 > |**Unicidad**|Única si Col(A) tiene dim completa|rank(A) = n|
 > |**Optimalidad**|Minimiza \|b - Ax\|²|Por construcción|
-> |**Proyección**|Ax̂ = P_ColA b|P = A(A^TA)^{-1}A^T|
+> |**Proyección**|A\hat{x} = P_ColA b|P = A(A^TA)^{-1}A^T|
 
 ### 📝 Ejemplo Completo: Regresión Lineal
 
@@ -1081,10 +1081,10 @@ graph TB
 > 
 > ```
 > Valores predichos:
-> x=0: ŷ = 0.8   (real: 1)   error²: 0.04
-> x=1: ŷ = 2.1   (real: 2)   error²: 0.01
-> x=2: ŷ = 3.4   (real: 4)   error²: 0.36
-> x=3: ŷ = 4.7   (real: 5)   error²: 0.09
+> x=0: \hat{y} = 0.8   (real: 1)   error²: 0.04
+> x=1: \hat{y} = 2.1   (real: 2)   error²: 0.01
+> x=2: \hat{y} = 3.4   (real: 4)   error²: 0.36
+> x=3: \hat{y} = 4.7   (real: 5)   error²: 0.09
 > 
 > Error cuadrático total: 0.04 + 0.01 + 0.36 + 0.09 = 0.5
 > ```
@@ -1394,7 +1394,7 @@ flowchart TD
 
     A --> E["Aplicaciones"]
     E --> E1["Mínimos cuadrados"]
-    E1 --> E11["A^T A x̂ = A^T b"]
+    E1 --> E11["A^T A \hat{x} = A^T b"]
     E --> E2["Distancias"]
     E2 --> E21["||v - proj_W(v)||"]
     E --> E3["Regresión lineal"]
@@ -1421,7 +1421,7 @@ flowchart TD
 |**Matriz (base arbitraria)**|A(A^TA)^{-1}A^T|A invertible|General|
 |**Componente perpendicular**|v - proj_W(v)|Siempre|Residuo|
 |**Distancia a subespacio**|\|v - proj_W(v)\||Siempre|Métrica|
-|**Mínimos cuadrados**|A^TAx̂ = A^Tb|Sistema sobredeterminado|Regresión|
+|**Mínimos cuadrados**|A^TA\hat{x} = A^Tb|Sistema sobredeterminado|Regresión|
 
 ### 🎯 Diagrama de Flujo de Decisión
 

@@ -19,7 +19,7 @@
 > 
 > La proyección de cualquier vector **y** sobre W es:
 > 
-> **ŷ = Py**
+> **\hat{y} = Py**
 > 
 > **Analogía práctica:** Imagina una máquina que toma cualquier vector y automáticamente lo proyecta sobre un plano. La matriz P es el "programa" de esa máquina: multiplicar cualquier vector por P produce su proyección.
 > 
@@ -36,7 +36,7 @@
 ```mermaid
 graph TB
     A[Vector y en ℝⁿ] --> B[Matriz de Proyección P]
-    B --> C[ŷ = Py]
+    B --> C[\hat{y} = Py]
     
     D[Subespacio W] --> E[Base: columnas de A]
     E --> F[Calcular P = A A^T A ^-1 A^T]
@@ -127,9 +127,9 @@ graph TB
 >     D --> E[Invertir: A^T A ^-1]
 >     E --> F[P = A A^T A ^-1 A^T]
 >     
->     G[Vector y] --> H[Multiplicar: ŷ = Py]
+>     G[Vector y] --> H[Multiplicar: \hat{y} = Py]
 >     F --> H
->     H --> I[Proyección ŷ ∈ W]
+>     H --> I[Proyección \hat{y} ∈ W]
 >     
 >     style C fill:#e1ffe1
 >     style F fill:#fff4e1
@@ -333,8 +333,8 @@ graph TB
 > 
 > Proyectar un vector dos veces es lo mismo que proyectarlo una vez:
 > 
-> - Primera proyección: y → ŷ (ŷ ∈ W)
-> - Segunda proyección: ŷ → ŷ (ya está en W)
+> - Primera proyección: y → \hat{y} (\hat{y} ∈ W)
+> - Segunda proyección: \hat{y} → \hat{y} (ya está en W)
 > 
 > **Demostración (caso ortonormal):**
 > 
@@ -385,9 +385,9 @@ graph TB
 > 
 > ```mermaid
 > flowchart LR
->     A[y fuera de W] -->|P| B[ŷ en W]
->     B -->|P| C[ŷ mismo]
->     C -->|P| D[ŷ mismo]
+>     A[y fuera de W] -->|P| B[\hat{y} en W]
+>     B -->|P| C[\hat{y} mismo]
+>     C -->|P| D[\hat{y} mismo]
 >     
 >     E[P² = P<br/>P³ = P<br/>...] -.-> B
 >     
@@ -897,24 +897,24 @@ graph TB
 > 
 > **Solución:**
 > 
-> Encontrar x̂ que minimice ‖Ax - b‖
+> Encontrar \hat{x} que minimice ‖Ax - b‖
 > 
 > **Método matricial:**
 > 
 > ```
-> 1. La solución x̂ satisface:
->    Ax̂ = proj_Col(A)(b)
+> 1. La solución \hat{x} satisface:
+>    A\hat{x} = proj_Col(A)(b)
 >    
 >    donde Col(A) es el espacio columna de A
 > 
 > 2. Usando P = A(A^T A)^(-1)A^T:
->    Ax̂ = Pb
+>    A\hat{x} = Pb
 >    
-> 3. Como Ax̂ está en Col(A), existe x̂ tal que:
->    Ax̂ = A(A^T A)^(-1)A^T b
+> 3. Como A\hat{x} está en Col(A), existe \hat{x} tal que:
+>    A\hat{x} = A(A^T A)^(-1)A^T b
 >    
 > 4. Simplificando:
->    x̂ = (A^T A)^(-1)A^T b
+>    \hat{x} = (A^T A)^(-1)A^T b
 >    
 > (Solución de mínimos cuadrados)
 > ```
@@ -925,8 +925,8 @@ graph TB
 > graph TB
 >     A[Vector b] --> B[Proyectar sobre Col A ]
 >     B --> C[b̂ = Pb]
->     C --> D[Resolver Ax̂ = b̂]
->     D --> E[x̂ = A^T A ^-1 A^T b]
+>     C --> D[Resolver A\hat{x} = b̂]
+>     D --> E[\hat{x} = A^T A ^-1 A^T b]
 >     
 >     F[Error: z = b - b̂] -.-> G[z ⊥ Col A ]
 >     G -.-> H[A^T z = 0]
@@ -968,7 +968,7 @@ graph TB
 >                     [ 4 ]
 > 
 > Solución:
-> x̂ = (A^T A)^(-1) A^T b
+> \hat{x} = (A^T A)^(-1) A^T b
 >    = (1/6) [  5  -3 ] [  7 ]
 >            [ -3   3 ] [ 10 ]
 >    = (1/6) [ 35 - 30 ]   [ 5/6  ]
@@ -1276,7 +1276,7 @@ graph TB
 >         [ 1  2  1 ] [ 3 ] = [ 9 ]
 >                     [ 2 ]
 > 
-> x̂ = (A^T A)^(-1)A^T b
+> \hat{x} = (A^T A)^(-1)A^T b
 >    = (1/20) [  6  -4 ] [ 7 ]
 >             [ -4   6 ] [ 9 ]
 >    = (1/20) [ 42 - 36 ]   [ 6/20  ]   [ 0.3 ]
@@ -1302,7 +1302,7 @@ graph TB
 > - P₂y ∈ W y (y - P₂y) ∈ W⊥
 > 
 > Por el Teorema de Descomposición Ortogonal,
-> la descomposición y = ŷ + z con ŷ ∈ W, z ∈ W⊥ es única.
+> la descomposición y = \hat{y} + z con \hat{y} ∈ W, z ∈ W⊥ es única.
 > 
 > Por lo tanto:
 > P₁y = P₂y para todo y
@@ -1338,7 +1338,7 @@ graph TB
 >   root((Proyección<br/>Matricial))
 >     Fórmula general
 >       P = A A^T A ^-1 A^T
->       ŷ = Py
+>       \hat{y} = Py
 >     Base ortonormal
 >       P = QQ^T
 >       Más eficiente
@@ -1371,7 +1371,7 @@ graph TB
 > 
 > **Aplicaciones principales:**
 > 
-> 1. 📉 **Mínimos cuadrados**: x̂ = (A^T A)^(-1)A^T b
+> 1. 📉 **Mínimos cuadrados**: \hat{x} = (A^T A)^(-1)A^T b
 > 2. 📡 **Procesamiento de señales**: Filtrado y descomposición
 > 3. 📊 **PCA**: Reducción de dimensionalidad
 > 4. 🖼️ **Compresión**: Aproximación de bajo rango

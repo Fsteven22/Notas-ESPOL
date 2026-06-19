@@ -38,11 +38,11 @@ flowchart TD
 > 
 > |Símbolo|Magnitud|Unidad SI|Tipo|Descripción|
 > |---|---|---|---|---|
-> |**p⃗**|Momentum lineal|kg·m/s|Vectorial|Cantidad de movimiento|
+> |**\vec{p}**|Momentum lineal|kg·m/s|Vectorial|Cantidad de movimiento|
 > |**m**|Masa|kg|Escalar|Medida de inercia|
-> |**v⃗**|Velocidad|m/s|Vectorial|Rapidez y dirección|
-> |**F⃗**|Fuerza|N|Vectorial|Agente de cambio|
-> |**J⃗**|Impulso|N·s|Vectorial|Cambio de momentum|
+> |**\vec{v}**|Velocidad|m/s|Vectorial|Rapidez y dirección|
+> |**\vec{F}**|Fuerza|N|Vectorial|Agente de cambio|
+> |**\vec{J}**|Impulso|N·s|Vectorial|Cambio de momentum|
 > |**K**|Energía cinética|J|Escalar|Energía de movimiento|
 
 ## 🧮 Fórmula Fundamental
@@ -335,7 +335,7 @@ graph TB
 > **Donde:**
 > 
 > - M_total = Σmᵢ (masa total del sistema)
-> - v⃗_CM es la velocidad del centro de masa
+> - \vec{v}_CM es la velocidad del centro de masa
 > 
 > **Implicación importante:** Si se conserva el momentum → El centro de masa se mueve con velocidad constante
 
@@ -459,20 +459,20 @@ mindmap
 > 
 > **🎯 Momentum Lineal:**
 > 
-> - **Definición**: p⃗ = mv⃗ (inercia en movimiento)
+> - **Definición**: \vec{p} = m\vec{v} (inercia en movimiento)
 > - **Naturaleza**: Magnitud vectorial fundamental
 > - **Significado**: Describe la cantidad de movimiento de un objeto
 > 
 > **⚖️ Principio de Conservación:**
 > 
-> - **Condición**: Σ F⃗_ext = 0 (sistema aislado)
-> - **Enunciado**: P⃗_inicial = P⃗_final
+> - **Condición**: Σ \vec{F}_ext = 0 (sistema aislado)
+> - **Enunciado**: \vec{P}_inicial = \vec{P}_final
 > - **Aplicabilidad**: Universal, desde partículas hasta galaxias
 > 
 > **🔗 Relaciones Fundamentales:**
 > 
-> - **Con impulso**: J⃗ = Δp⃗ (teorema impulso-momentum)
-> - **Con fuerzas**: F⃗ = dp⃗/dt (Segunda Ley de Newton)
+> - **Con impulso**: \vec{J} = Δ\vec{p} (teorema impulso-momentum)
+> - **Con fuerzas**: \vec{F} = d\vec{p}/dt (Segunda Ley de Newton)
 > - **Con energía**: K = p²/(2m) (relación energía-momentum)
 > 
 > **🛠️ Aplicaciones Principales:**

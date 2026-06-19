@@ -31,7 +31,7 @@
 >    A[Molécula en el interior] --> B[Fuerzas balanceadas]
 >    C[Molécula en la superficie] --> D[Fuerzas desbalanceadas]
 >    
->    B --> E[Σ F⃗ = 0]
+>    B --> E[Σ \vec{F} = 0]
 >    D --> F[Fuerza neta hacia el interior]
 >    
 >    F --> G[Tendencia a minimizar área]

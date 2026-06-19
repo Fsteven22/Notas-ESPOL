@@ -456,7 +456,7 @@
 > **Propiedades del ajuste por mínimos cuadrados**:
 > 
 > - La línea pasa por el punto (x̄, ȳ)
-> - Suma de residuos es cero: Σ(yᵢ - ŷᵢ) = 0
+> - Suma de residuos es cero: Σ(yᵢ - \hat{y}ᵢ) = 0
 > - Es el estimador no sesgado de mínima varianza
 > - Asume errores solo en y, con varianza constante
 
@@ -494,7 +494,7 @@
 > **Gráfica de residuos**:
 > 
 > ```
-> Residuo = yᵢ - ŷᵢ (diferencia observado - predicho)
+> Residuo = yᵢ - \hat{y}ᵢ (diferencia observado - predicho)
 > Graficar: residuos vs valores predichos
 > ```
 > 
@@ -524,7 +524,7 @@
 > **Error estándar de la regresión**:
 > 
 > ```
-> s_y = √[Σ(yᵢ - ŷᵢ)²/(n - 2)]
+> s_y = √[Σ(yᵢ - \hat{y}ᵢ)²/(n - 2)]
 > ```
 > 
 > ### Intervalos de Confianza:
@@ -541,7 +541,7 @@
 > **Para predicciones**:
 > 
 > ```
-> ŷ ± t₀.₀₂₅,n₋₂ · s_y√[1 + 1/n + (x - x̄)²/Σ(xᵢ - x̄)²]
+> \hat{y} ± t₀.₀₂₅,n₋₂ · s_y√[1 + 1/n + (x - x̄)²/Σ(xᵢ - x̄)²]
 > ```
 
 > [!example]- **Ejemplo: Cálculo Completo de Ajuste** 📐
@@ -689,8 +689,8 @@
 > 
 > ```
 > SS_total = Σ(yᵢ - ȳ)²  (suma total de cuadrados)
-> SS_regresión = Σ(ŷᵢ - ȳ)²  (explicada por el modelo)
-> SS_residual = Σ(yᵢ - ŷᵢ)²  (no explicada)
+> SS_regresión = Σ(\hat{y}ᵢ - ȳ)²  (explicada por el modelo)
+> SS_residual = Σ(yᵢ - \hat{y}ᵢ)²  (no explicada)
 > 
 > R² = SS_regresión / SS_total = 1 - SS_residual / SS_total
 > ```
@@ -810,7 +810,7 @@
 > ### Definición de Residuos:
 > 
 > ```
-> Residuo = yᵢ - ŷᵢ = valor observado - valor predicho
+> Residuo = yᵢ - \hat{y}ᵢ = valor observado - valor predicho
 > ```
 > 
 > ### Gráficas de Diagnóstico:

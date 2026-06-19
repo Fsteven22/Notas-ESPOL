@@ -15,7 +15,7 @@
 > 
 > ### Condición Fundamental:
 > 
-> **ΣF⃗ = 0** (La suma vectorial de todas las fuerzas es nula)
+> **Σ\vec{F} = 0** (La suma vectorial de todas las fuerzas es nula)
 > 
 > ### En Componentes:
 > 
@@ -29,7 +29,7 @@
 > |---|---|---|
 > |ΣFₓ = 0|No hay aceleración horizontal|vₓ = constante|
 > |ΣFᵧ = 0|No hay aceleración vertical|vᵧ = constante|
-> |Ambas cumplen|Equilibrio traslacional completo|v⃗ = constante|
+> |Ambas cumplen|Equilibrio traslacional completo|\vec{v} = constante|
 
 > [!tip]- **Equilibrio Rotacional** 🔄
 > 
@@ -39,7 +39,7 @@
 > 
 > ### Características del Torque:
 > 
-> - **Definición**: τ = r⃗ × F⃗ = rF sen(θ)
+> - **Definición**: τ = \vec{r} × \vec{F} = rF sen(θ)
 > - **Brazo de palanca**: Distancia perpendicular desde el eje hasta la línea de acción
 > - **Signo**: Positivo (antihorario) o negativo (horario) por convención
 > - **Punto de referencia**: Puede elegirse arbitrariamente
@@ -56,7 +56,7 @@
 > 
 > Para que un cuerpo esté en equilibrio estático completo debe cumplir:
 > 
-> 1. **ΣF⃗ = 0** (Equilibrio traslacional)
+> 1. **Σ\vec{F} = 0** (Equilibrio traslacional)
 > 2. **Στ = 0** (Equilibrio rotacional)
 > 
 > ### Tipos de Equilibrio:

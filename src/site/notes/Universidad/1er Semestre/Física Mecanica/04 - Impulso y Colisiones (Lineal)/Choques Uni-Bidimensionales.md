@@ -49,12 +49,12 @@ flowchart TD
 > 
 > |Variable|Símbolo|Unidad|Tipo|Descripción|
 > |---|---|---|---|---|
-> |Momento lineal|p⃗|kg·m/s|Vectorial|Cantidad de movimiento|
+> |Momento lineal|\vec{p}|kg·m/s|Vectorial|Cantidad de movimiento|
 > |Masa|m|kg|Escalar|Invariante durante choque|
-> |Velocidad|v⃗|m/s|Vectorial|Antes y después del choque|
+> |Velocidad|\vec{v}|m/s|Vectorial|Antes y después del choque|
 > |Energía cinética|K|J|Escalar|Puede conservarse o perderse|
 > |Coeficiente restitución|e|-|Escalar|Caracteriza el tipo de choque|
-> |Impulso|J⃗|N·s|Vectorial|Cambio de momentum|
+> |Impulso|\vec{J}|N·s|Vectorial|Cambio de momentum|
 
 ### 🎯 Nomenclatura Estándar
 

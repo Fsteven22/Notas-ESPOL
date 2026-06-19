@@ -15,7 +15,7 @@
 > 
 > ### Concepto Fundamental:
 > 
-> **W = F⃗ · d⃗ = Fd cos θ**
+> **W = \vec{F} · \vec{d} = Fd cos θ**
 > 
 > - **W**: Trabajo realizado (Joules)
 > - **F**: Magnitud de la fuerza (N)
@@ -77,7 +77,7 @@
 > 
 > ### Fórmula Básica:
 > 
-> **W = F⃗ · d⃗ = Fd cos θ**
+> **W = \vec{F} · \vec{d} = Fd cos θ**
 > 
 > ### Casos Comunes:
 > 
@@ -173,7 +173,7 @@
 > 
 > ### Fórmula Integral:
 > 
-> **W = ∫F⃗ · dr⃗ = ∫F(x) dx** (en una dimensión)
+> **W = ∫\vec{F} · d\vec{r} = ∫F(x) dx** (en una dimensión)
 > 
 > ### Interpretación Gráfica:
 > 

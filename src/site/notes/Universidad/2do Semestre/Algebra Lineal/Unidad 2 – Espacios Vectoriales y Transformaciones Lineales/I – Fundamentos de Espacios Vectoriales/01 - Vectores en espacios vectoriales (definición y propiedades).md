@@ -93,46 +93,46 @@
 > no vacío junto con dos operaciones:
 > 
 > 1. Suma de vectores: + : V × V → V
->    (u⃗, v⃗) ↦ u⃗ + v⃗
+>    (\vec{u}, \vec{v}) ↦ \vec{u} + \vec{v}
 > 
 > 2. Multiplicación por escalar: · : F × V → V
->    (α, v⃗) ↦ αv⃗
+>    (α, \vec{v}) ↦ α\vec{v}
 > 
 > que satisfacen los siguientes 10 axiomas:
 > 
 > AXIOMAS DE LA SUMA:
 > 
-> (A1) Cerradura: ∀u⃗, v⃗ ∈ V, u⃗ + v⃗ ∈ V
+> (A1) Cerradura: ∀\vec{u}, \vec{v} ∈ V, \vec{u} + \vec{v} ∈ V
 > 
-> (A2) Asociatividad: ∀u⃗, v⃗, w⃗ ∈ V,
->      (u⃗ + v⃗) + w⃗ = u⃗ + (v⃗ + w⃗)
+> (A2) Asociatividad: ∀\vec{u}, \vec{v}, \vec{w} ∈ V,
+>      (\vec{u} + \vec{v}) + \vec{w} = \vec{u} + (\vec{v} + \vec{w})
 > 
-> (A3) Elemento neutro: ∃0⃗ ∈ V tal que ∀v⃗ ∈ V,
->      v⃗ + 0⃗ = 0⃗ + v⃗ = v⃗
+> (A3) Elemento neutro: ∃0⃗ ∈ V tal que ∀\vec{v} ∈ V,
+>      \vec{v} + 0⃗ = 0⃗ + \vec{v} = \vec{v}
 > 
-> (A4) Elemento inverso: ∀v⃗ ∈ V, ∃(-v⃗) ∈ V tal que
->      v⃗ + (-v⃗) = (-v⃗) + v⃗ = 0⃗
+> (A4) Elemento inverso: ∀\vec{v} ∈ V, ∃(-\vec{v}) ∈ V tal que
+>      \vec{v} + (-\vec{v}) = (-\vec{v}) + \vec{v} = 0⃗
 > 
-> (A5) Conmutatividad: ∀u⃗, v⃗ ∈ V,
->      u⃗ + v⃗ = v⃗ + u⃗
+> (A5) Conmutatividad: ∀\vec{u}, \vec{v} ∈ V,
+>      \vec{u} + \vec{v} = \vec{v} + \vec{u}
 > 
 > AXIOMAS DE LA MULTIPLICACIÓN POR ESCALAR:
 > 
-> (M1) Cerradura: ∀α ∈ F, ∀v⃗ ∈ V, αv⃗ ∈ V
+> (M1) Cerradura: ∀α ∈ F, ∀\vec{v} ∈ V, α\vec{v} ∈ V
 > 
 > (M2) Distributividad respecto a suma vectorial:
->      ∀α ∈ F, ∀u⃗, v⃗ ∈ V,
->      α(u⃗ + v⃗) = αu⃗ + αv⃗
+>      ∀α ∈ F, ∀\vec{u}, \vec{v} ∈ V,
+>      α(\vec{u} + \vec{v}) = α\vec{u} + α\vec{v}
 > 
 > (M3) Distributividad respecto a suma de escalares:
->      ∀α, β ∈ F, ∀v⃗ ∈ V,
->      (α + β)v⃗ = αv⃗ + βv⃗
+>      ∀α, β ∈ F, ∀\vec{v} ∈ V,
+>      (α + β)\vec{v} = α\vec{v} + β\vec{v}
 > 
-> (M4) Asociatividad mixta: ∀α, β ∈ F, ∀v⃗ ∈ V,
->      α(βv⃗) = (αβ)v⃗
+> (M4) Asociatividad mixta: ∀α, β ∈ F, ∀\vec{v} ∈ V,
+>      α(β\vec{v}) = (αβ)\vec{v}
 > 
-> (M5) Elemento neutro: ∀v⃗ ∈ V,
->      1·v⃗ = v⃗
+> (M5) Elemento neutro: ∀\vec{v} ∈ V,
+>      1·\vec{v} = \vec{v}
 >      (donde 1 es la identidad del campo F)
 > ```
 > 
@@ -141,13 +141,13 @@
 > ```
 > • V: espacio vectorial
 > • F: campo de escalares (usualmente ℝ o ℂ)
-> • v⃗, u⃗, w⃗: vectores (elementos de V)
+> • \vec{v}, \vec{u}, \vec{w}: vectores (elementos de V)
 > • α, β, γ: escalares (elementos de F)
 > • 0⃗: vector cero (elemento neutro de V)
 > • 0: escalar cero (elemento del campo)
 > 
 > Convenciones:
-> • Vectores: negrita v o flecha v⃗
+> • Vectores: negrita v o flecha \vec{v}
 > • Escalares: letra normal α, β
 > • Conjunto: mayúscula V, W
 > ```
@@ -167,18 +167,18 @@
 >     Por (A3): 0⃗' = 0⃗ + 0⃗' = 0⃗
 > 
 > P2) Unicidad del inverso:
->     Para cada v⃗, su inverso -v⃗ es único
+>     Para cada \vec{v}, su inverso -\vec{v} es único
 >     
 >     Demostración:
->     Si v⃗ + u⃗ = 0⃗ y v⃗ + w⃗ = 0⃗
->     u⃗ = u⃗ + 0⃗ = u⃗ + (v⃗ + w⃗) = (u⃗ + v⃗) + w⃗ = 0⃗ + w⃗ = w⃗
+>     Si \vec{v} + \vec{u} = 0⃗ y \vec{v} + \vec{w} = 0⃗
+>     \vec{u} = \vec{u} + 0⃗ = \vec{u} + (\vec{v} + \vec{w}) = (\vec{u} + \vec{v}) + \vec{w} = 0⃗ + \vec{w} = \vec{w}
 > 
 > P3) Producto por cero escalar:
->     0·v⃗ = 0⃗ para todo v⃗ ∈ V
+>     0·\vec{v} = 0⃗ para todo \vec{v} ∈ V
 >     
 >     Demostración:
->     0·v⃗ = (0 + 0)·v⃗ = 0·v⃗ + 0·v⃗
->     Por cancelación: 0⃗ = 0·v⃗
+>     0·\vec{v} = (0 + 0)·\vec{v} = 0·\vec{v} + 0·\vec{v}
+>     Por cancelación: 0⃗ = 0·\vec{v}
 > 
 > P4) Producto de escalar por vector cero:
 >     α·0⃗ = 0⃗ para todo α ∈ F
@@ -188,39 +188,39 @@
 >     Por cancelación: 0⃗ = α·0⃗
 > 
 > P5) Producto por -1:
->     (-1)·v⃗ = -v⃗
+>     (-1)·\vec{v} = -\vec{v}
 >     
 >     Demostración:
->     v⃗ + (-1)·v⃗ = 1·v⃗ + (-1)·v⃗ = (1 + (-1))·v⃗ = 0·v⃗ = 0⃗
->     Por definición de inverso: (-1)·v⃗ = -v⃗
+>     \vec{v} + (-1)·\vec{v} = 1·\vec{v} + (-1)·\vec{v} = (1 + (-1))·\vec{v} = 0·\vec{v} = 0⃗
+>     Por definición de inverso: (-1)·\vec{v} = -\vec{v}
 > 
-> P6) Si αv⃗ = 0⃗, entonces α = 0 o v⃗ = 0⃗
+> P6) Si α\vec{v} = 0⃗, entonces α = 0 o \vec{v} = 0⃗
 >     
 >     Demostración:
 >     Si α ≠ 0, entonces existe α⁻¹
->     v⃗ = 1·v⃗ = (α⁻¹α)·v⃗ = α⁻¹(αv⃗) = α⁻¹·0⃗ = 0⃗
+>     \vec{v} = 1·\vec{v} = (α⁻¹α)·\vec{v} = α⁻¹(α\vec{v}) = α⁻¹·0⃗ = 0⃗
 > 
 > P7) Cancelación:
->     Si u⃗ + v⃗ = u⃗ + w⃗, entonces v⃗ = w⃗
+>     Si \vec{u} + \vec{v} = \vec{u} + \vec{w}, entonces \vec{v} = \vec{w}
 >     
 >     Demostración:
->     -u⃗ + (u⃗ + v⃗) = -u⃗ + (u⃗ + w⃗)
->     (-u⃗ + u⃗) + v⃗ = (-u⃗ + u⃗) + w⃗
->     0⃗ + v⃗ = 0⃗ + w⃗
->     v⃗ = w⃗
+>     -\vec{u} + (\vec{u} + \vec{v}) = -\vec{u} + (\vec{u} + \vec{w})
+>     (-\vec{u} + \vec{u}) + \vec{v} = (-\vec{u} + \vec{u}) + \vec{w}
+>     0⃗ + \vec{v} = 0⃗ + \vec{w}
+>     \vec{v} = \vec{w}
 > 
 > P8) Opuesto de una suma:
->     -(u⃗ + v⃗) = -u⃗ + (-v⃗)
+>     -(\vec{u} + \vec{v}) = -\vec{u} + (-\vec{v})
 >     
 >     Demostración por verificación
 > 
 > P9) Opuesto del opuesto:
->     -(-v⃗) = v⃗
+>     -(-\vec{v}) = \vec{v}
 >     
 >     Por unicidad del inverso
 > 
 > P10) Resta definida como:
->      u⃗ - v⃗ := u⃗ + (-v⃗)
+>      \vec{u} - \vec{v} := \vec{u} + (-\vec{v})
 > ```
 
 ## 📐 Ejemplos de Espacios Vectoriales
@@ -379,14 +379,14 @@
 >      Equivalente: 0⃗ ∈ W
 > 
 > (S2) Cerradura bajo suma:
->      ∀u⃗, v⃗ ∈ W, u⃗ + v⃗ ∈ W
+>      ∀\vec{u}, \vec{v} ∈ W, \vec{u} + \vec{v} ∈ W
 > 
 > (S3) Cerradura bajo multiplicación por escalar:
->      ∀α ∈ F, ∀v⃗ ∈ W, αv⃗ ∈ W
+>      ∀α ∈ F, ∀\vec{v} ∈ W, α\vec{v} ∈ W
 > 
 > Forma compacta:
-> W es subespacio ⟺ ∀α, β ∈ F, ∀u⃗, v⃗ ∈ W,
->                    αu⃗ + βv⃗ ∈ W
+> W es subespacio ⟺ ∀α, β ∈ F, ∀\vec{u}, \vec{v} ∈ W,
+>                    α\vec{u} + β\vec{v} ∈ W
 > 
 > Nota: No es necesario verificar los 10 axiomas,
 > solo estas 3 condiciones (heredan las demás de V)
@@ -402,11 +402,11 @@
 >    Dimensión: 1
 >    
 >    Ejemplo: W = {(t, 2t, -t) : t ∈ ℝ}
->    Generado por v⃗ = (1, 2, -1)
+>    Generado por \vec{v} = (1, 2, -1)
 > 
 > 3. Planos por el origen:
 >    W = {s(a₁,b₁,c₁) + t(a₂,b₂,c₂) : s,t ∈ ℝ}
->    donde v⃗₁ y v⃗₂ no son paralelos
+>    donde \vec{v}₁ y \vec{v}₂ no son paralelos
 >    Dimensión: 2
 >    
 >    Ejemplo: plano xy
@@ -452,7 +452,7 @@
 > Sean U, W subespacios de V
 > 
 > 1. Intersección:
->    U ∩ W = {v⃗ ∈ V : v⃗ ∈ U y v⃗ ∈ W}
+>    U ∩ W = {\vec{v} ∈ V : \vec{v} ∈ U y \vec{v} ∈ W}
 >    
 >    Teorema: U ∩ W es subespacio
 >    
@@ -462,7 +462,7 @@
 >    U ∩ W = eje x: {(x,0,0)} (subespacio)
 > 
 > 2. Suma:
->    U + W = {u⃗ + w⃗ : u⃗ ∈ U, w⃗ ∈ W}
+>    U + W = {\vec{u} + \vec{w} : \vec{u} ∈ U, \vec{w} ∈ W}
 >    
 >    Teorema: U + W es subespacio
 >    
@@ -483,45 +483,45 @@
 > [!tip]- Construcción de Vectores **Definición:**
 > 
 > ```
-> Sean v⃗₁, v⃗₂, ..., v⃗ₖ vectores en V y α₁, α₂, ..., αₖ escalares
+> Sean \vec{v}₁, \vec{v}₂, ..., \vec{v}ₖ vectores en V y α₁, α₂, ..., αₖ escalares
 > 
 > Una combinación lineal es:
 > 
-> w⃗ = α₁v⃗₁ + α₂v⃗₂ + ... + αₖv⃗ₖ = Σᵢ₌₁ᵏ αᵢv⃗ᵢ
+> \vec{w} = α₁\vec{v}₁ + α₂\vec{v}₂ + ... + αₖ\vec{v}ₖ = Σᵢ₌₁ᵏ αᵢ\vec{v}ᵢ
 > 
 > Notación:
 > • Coeficientes: α₁, α₂, ..., αₖ ∈ F
-> • Vectores: v⃗₁, v⃗₂, ..., v⃗ₖ ∈ V
-> • Resultado: w⃗ ∈ V (por cerradura)
+> • Vectores: \vec{v}₁, \vec{v}₂, ..., \vec{v}ₖ ∈ V
+> • Resultado: \vec{w} ∈ V (por cerradura)
 > 
 > Interpretación geométrica en ℝ²:
-> w⃗ = α₁v⃗₁ + α₂v⃗₂
-> "Caminar α₁ pasos en dirección v⃗₁,
->  luego α₂ pasos en dirección v⃗₂"
+> \vec{w} = α₁\vec{v}₁ + α₂\vec{v}₂
+> "Caminar α₁ pasos en dirección \vec{v}₁,
+>  luego α₂ pasos en dirección \vec{v}₂"
 > ```
 > 
 > **Conjunto generado (span):**
 > 
 > ```
-> El conjunto generado por v⃗₁, ..., v⃗ₖ es:
+> El conjunto generado por \vec{v}₁, ..., \vec{v}ₖ es:
 > 
-> span{v⃗₁, ..., v⃗ₖ} = gen{v⃗₁, ..., v⃗ₖ}
->                     = {α₁v⃗₁ + ... + αₖv⃗ₖ : αᵢ ∈ F}
+> span{\vec{v}₁, ..., \vec{v}ₖ} = gen{\vec{v}₁, ..., \vec{v}ₖ}
+>                     = {α₁\vec{v}₁ + ... + αₖ\vec{v}ₖ : αᵢ ∈ F}
 > 
 > Todas las combinaciones lineales posibles
 > 
-> TEOREMA: span{v⃗₁, ..., v⃗ₖ} es un subespacio de V
+> TEOREMA: span{\vec{v}₁, ..., \vec{v}ₖ} es un subespacio de V
 > 
 > Es el subespacio más pequeño que contiene
-> a v⃗₁, ..., v⃗ₖ
+> a \vec{v}₁, ..., \vec{v}ₖ
 > 
 > Demostración de que es subespacio:
-> (S1) 0⃗ = 0v⃗₁ + ... + 0v⃗ₖ ∈ span{...} ✓
+> (S1) 0⃗ = 0\vec{v}₁ + ... + 0\vec{v}ₖ ∈ span{...} ✓
 > 
-> (S2) Sean w⃗₁ = Σαᵢv⃗ᵢ, w⃗₂ = Σβᵢv⃗ᵢ
->      w⃗₁ + w⃗₂ = Σ(αᵢ + βᵢ)v⃗ᵢ ∈ span{...} ✓
+> (S2) Sean \vec{w}₁ = Σαᵢ\vec{v}ᵢ, \vec{w}₂ = Σβᵢ\vec{v}ᵢ
+>      \vec{w}₁ + \vec{w}₂ = Σ(αᵢ + βᵢ)\vec{v}ᵢ ∈ span{...} ✓
 > 
-> (S3) γw⃗₁ = Σ(γαᵢ)v⃗ᵢ ∈ span{...} ✓
+> (S3) γ\vec{w}₁ = Σ(γαᵢ)\vec{v}ᵢ ∈ span{...} ✓
 > ```
 > 
 > **Ejemplos:**
@@ -556,15 +556,15 @@
 > **Sistema generador:**
 > 
 > ```
-> Decimos que {v⃗₁, ..., v⃗ₖ} genera V si:
+> Decimos que {\vec{v}₁, ..., \vec{v}ₖ} genera V si:
 > 
-> span{v⃗₁, ..., v⃗ₖ} = V
+> span{\vec{v}₁, ..., \vec{v}ₖ} = V
 > 
 > Es decir, todo vector de V es combinación lineal
-> de v⃗₁, ..., v⃗ₖ
+> de \vec{v}₁, ..., \vec{v}ₖ
 > 
-> Equivalente: ∀v⃗ ∈ V, ∃α₁, ..., αₖ ∈ F :
->              v⃗ = α₁v⃗₁ + ... + αₖv⃗ₖ
+> Equivalente: ∀\vec{v} ∈ V, ∃α₁, ..., αₖ ∈ F :
+>              \vec{v} = α₁\vec{v}₁ + ... + αₖ\vec{v}ₖ
 > 
 > Ejemplo:
 > {(1,0,0), (0,1,0), (0,0,1)} genera ℝ³
@@ -577,15 +577,15 @@
 > [!success]- Vectores Esenciales **Definición:**
 > 
 > ```
-> Los vectores v⃗₁, v⃗₂, ..., v⃗ₖ son linealmente independientes (LI)
+> Los vectores \vec{v}₁, \vec{v}₂, ..., \vec{v}ₖ son linealmente independientes (LI)
 > si la única combinación lineal que produce 0⃗ es la trivial:
 > 
-> α₁v⃗₁ + α₂v⃗₂ + ... + αₖv⃗ₖ = 0⃗
+> α₁\vec{v}₁ + α₂\vec{v}₂ + ... + αₖ\vec{v}ₖ = 0⃗
 > ⟹ α₁ = α₂ = ... = αₖ = 0
 > 
 > Son linealmente dependientes (LD) si:
 > ∃α₁, ..., αₖ ∈ F (no todos cero) tales que
-> α₁v⃗₁ + ... + αₖv⃗ₖ = 0⃗
+> α₁\vec{v}₁ + ... + αₖ\vec{v}ₖ = 0⃗
 > Interpretación: • LI: Ningún vector es combinación de los otros "Cada vector aporta nueva dirección" • LD: Al menos un vector es combinación de los otros "Hay redundancia"
 > 
 > ```
@@ -593,15 +593,15 @@
 > **Caracterizaciones equivalentes:**
 > ```
 > 
-> Para vectores v⃗₁, ..., v⃗ₖ, las siguientes son equivalentes:
+> Para vectores \vec{v}₁, ..., \vec{v}ₖ, las siguientes son equivalentes:
 > 
 > 1. Son linealmente dependientes (LD)
 >     
-> 2. Al menos uno es combinación lineal de los otros ∃i : v⃗ᵢ ∈ span{v⃗₁, ..., v⃗ᵢ₋₁, v⃗ᵢ₊₁, ..., v⃗ₖ}
+> 2. Al menos uno es combinación lineal de los otros ∃i : \vec{v}ᵢ ∈ span{\vec{v}₁, ..., \vec{v}ᵢ₋₁, \vec{v}ᵢ₊₁, ..., \vec{v}ₖ}
 >     
-> 3. Se puede eliminar al menos uno sin cambiar el span span{v⃗₁, ..., v⃗ₖ} = span{v⃗₁, ..., v⃗ᵢ₋₁, v⃗ᵢ₊₁, ..., v⃗ₖ} para algún i
+> 3. Se puede eliminar al menos uno sin cambiar el span span{\vec{v}₁, ..., \vec{v}ₖ} = span{\vec{v}₁, ..., \vec{v}ᵢ₋₁, \vec{v}ᵢ₊₁, ..., \vec{v}ₖ} para algún i
 >     
-> 4. La ecuación α₁v⃗₁ + ... + αₖv⃗ₖ = 0⃗ tiene solución no trivial
+> 4. La ecuación α₁\vec{v}₁ + ... + αₖ\vec{v}ₖ = 0⃗ tiene solución no trivial
 >     
 > 
 > Negando: Son LI ⟺ ninguna de las anteriores
@@ -638,9 +638,9 @@
 > 
 > En ℝⁿ con vectores columna:
 > 
-> v⃗₁, ..., v⃗ₖ son LI ⟺ det([v⃗₁ | ... | v⃗ₖ]) ≠ 0 (si k = n, matriz cuadrada)
+> \vec{v}₁, ..., \vec{v}ₖ son LI ⟺ det([\vec{v}₁ | ... | \vec{v}ₖ]) ≠ 0 (si k = n, matriz cuadrada)
 > 
-> O equivalentemente: rank([v⃗₁ | ... | v⃗ₖ]) = k
+> O equivalentemente: rank([\vec{v}₁ | ... | \vec{v}ₖ]) = k
 > 
 > Proceso de verificación:
 > 
@@ -649,7 +649,7 @@
 > 9. Contar pivotes
 > 10. Si # pivotes = # vectores ⟹ LI
 > 
-> Ejemplo: v⃗₁ = (1,2,3), v⃗₂ = (0,1,2), v⃗₃ = (0,0,1)
+> Ejemplo: \vec{v}₁ = (1,2,3), \vec{v}₂ = (0,1,2), \vec{v}₃ = (0,0,1)
 > 
 > [1 0 0] [2 1 0] ya escalonada, 3 pivotes ⟹ LI [3 2 1]
 > 
@@ -660,13 +660,13 @@
 > 
 > P1) Conjunto con vector cero es siempre LD α·0⃗ = 0⃗ con α ≠ 0
 > 
-> P2) Conjunto con vector repetido es LD 1·v⃗ - 1·v⃗ = 0⃗
+> P2) Conjunto con vector repetido es LD 1·\vec{v} - 1·\vec{v} = 0⃗
 > 
 > P3) Subconjunto de conjunto LI es LI (eliminar vectores preserva independencia)
 > 
 > P4) Superconjunto de conjunto LD es LD (agregar vectores preserva dependencia)
 > 
-> P5) Si {v⃗₁, ..., v⃗ₖ} es LI y {v⃗₁, ..., v⃗ₖ, v⃗} es LD, entonces v⃗ ∈ span{v⃗₁, ..., v⃗ₖ}
+> P5) Si {\vec{v}₁, ..., \vec{v}ₖ} es LI y {\vec{v}₁, ..., \vec{v}ₖ, \vec{v}} es LD, entonces \vec{v} ∈ span{\vec{v}₁, ..., \vec{v}ₖ}
 > 
 > P6) En espacio de dimensión n: • Más de n vectores son siempre LD • n vectores LI generan todo el espacio
 > ```
@@ -676,33 +676,33 @@
 > [!important]- Estructura Fundamental **Definición de base:**
 > 
 > ```
-> Un conjunto B = {v⃗₁, v⃗₂, ..., v⃗ₙ} es una base de V si:
+> Un conjunto B = {\vec{v}₁, \vec{v}₂, ..., \vec{v}ₙ} es una base de V si:
 > 
 > (B1) Los vectores son linealmente independientes
 > (B2) Los vectores generan V: span(B) = V
 > 
 > Equivalentemente:
-> Todo vector v⃗ ∈ V se escribe de manera ÚNICA como
+> Todo vector \vec{v} ∈ V se escribe de manera ÚNICA como
 > combinación lineal de los vectores de la base
 > 
-> v⃗ = α₁v⃗₁ + α₂v⃗₂ + ... + αₙv⃗ₙ
+> \vec{v} = α₁\vec{v}₁ + α₂\vec{v}₂ + ... + αₙ\vec{v}ₙ
 > 
 > Los escalares α₁, ..., αₙ se llaman coordenadas
-> de v⃗ respecto a la base B
+> de \vec{v} respecto a la base B
 > 
-> Notación: [v⃗]_B = (α₁, α₂, ..., αₙ)ᵀ
+> Notación: [\vec{v}]_B = (α₁, α₂, ..., αₙ)ᵀ
 > ```
 > 
 > **Bases estándar:**
 > 
 > ```
 > En ℝⁿ:
-> e⃗₁ = (1,0,0,...,0)
-> e⃗₂ = (0,1,0,...,0)
+> \vec{e}₁ = (1,0,0,...,0)
+> \vec{e}₂ = (0,1,0,...,0)
 > ⋮
-> e⃗ₙ = (0,0,0,...,1)
+> \vec{e}ₙ = (0,0,0,...,1)
 > 
-> Base canónica: {e⃗₁, e⃗₂, ..., e⃗ₙ}
+> Base canónica: {\vec{e}₁, \vec{e}₂, ..., \vec{e}ₙ}
 > 
 > Ejemplo en ℝ³:
 > {(1,0,0), (0,1,0), (0,0,1)}
@@ -757,7 +757,7 @@
 > **Teoremas sobre dimensión:**
 > 
 > ```
-> T1) Si dim(V) = n y S = {v⃗₁, ..., v⃗ₖ} ⊂ V:
+> T1) Si dim(V) = n y S = {\vec{v}₁, ..., \vec{v}ₖ} ⊂ V:
 >     
 >     a) Si k > n, entonces S es LD
 >     b) Si k < n, entonces S no genera V
@@ -776,13 +776,13 @@
 >     
 >     Análogo a |A∪B| = |A| + |B| - |A∩B|
 > 
-> T4) Si {v⃗₁, ..., v⃗ₖ} es LI en V con dim(V) = n
+> T4) Si {\vec{v}₁, ..., \vec{v}ₖ} es LI en V con dim(V) = n
 >     y k < n, se puede extender a una base
 >     agregando n-k vectores
 >     
 >     Teorema de extensión de base
 > 
-> T5) Si {v⃗₁, ..., v⃗ₖ} genera V con dim(V) = n
+> T5) Si {\vec{v}₁, ..., \vec{v}ₖ} genera V con dim(V) = n
 >     y k > n, se puede reducir a una base
 >     eliminando k-n vectores
 >     
@@ -792,18 +792,18 @@
 > **Cambio de base:**
 > 
 > ```
-> Sean B = {v⃗₁, ..., v⃗ₙ} y B' = {w⃗₁, ..., w⃗ₙ} bases de V
+> Sean B = {\vec{v}₁, ..., \vec{v}ₙ} y B' = {\vec{w}₁, ..., \vec{w}ₙ} bases de V
 > 
-> Coordenadas de v⃗:
-> [v⃗]_B respecto a B
-> [v⃗]_B' respecto a B'
+> Coordenadas de \vec{v}:
+> [\vec{v}]_B respecto a B
+> [\vec{v}]_B' respecto a B'
 > 
-> Matriz de cambio de base: P = [w⃗₁|...|w⃗ₙ]_B
-> (columnas son coordenadas de w⃗ᵢ en base B)
+> Matriz de cambio de base: P = [\vec{w}₁|...|\vec{w}ₙ]_B
+> (columnas son coordenadas de \vec{w}ᵢ en base B)
 > 
 > Relación:
-> [v⃗]_B = P[v⃗]_B'
-> [v⃗]_B' = P⁻¹[v⃗]_B
+> [\vec{v}]_B = P[\vec{v}]_B'
+> [\vec{v}]_B' = P⁻¹[\vec{v}]_B
 > 
 > P es invertible (columnas son LI)
 > ```
@@ -813,12 +813,12 @@
 > [!note]- Resultados Importantes **Teorema de Steinitz (reemplazo):**
 > 
 > ```
-> Si {v⃗₁, ..., v⃗ₙ} genera V y {w⃗₁, ..., w⃗ₘ} es LI,
+> Si {\vec{v}₁, ..., \vec{v}ₙ} genera V y {\vec{w}₁, ..., \vec{w}ₘ} es LI,
 > entonces:
 > 
 > 1. m ≤ n
-> 2. Se pueden reemplazar m vectores de {v⃗ᵢ}
->    por {w⃗ⱼ} manteniendo la propiedad de generar
+> 2. Se pueden reemplazar m vectores de {\vec{v}ᵢ}
+>    por {\vec{w}ⱼ} manteniendo la propiedad de generar
 > 
 > Consecuencia: dim(V) está bien definida
 > ```
@@ -833,8 +833,8 @@
 > 1. V = U + W (todo vector se escribe como suma)
 > 2. U ∩ W = {0⃗} (escritura es única)
 > 
-> Equivalente: Todo v⃗ ∈ V se escribe únicamente como
-> v⃗ = u⃗ + w⃗ con u⃗ ∈ U, w⃗ ∈ W
+> Equivalente: Todo \vec{v} ∈ V se escribe únicamente como
+> \vec{v} = \vec{u} + \vec{w} con \vec{u} ∈ U, \vec{w} ∈ W
 > 
 > Propiedad dimensional:
 > V = U ⊕ W ⟹ dim(V) = dim(U) + dim(W)
@@ -901,13 +901,13 @@
 > 
 > ```
 > Determinar si los vectores son LI en ℝ³:
-> v⃗₁ = (1, 2, 3)
-> v⃗₂ = (0, 1, 2)
-> v⃗₃ = (1, 0, 1)
+> \vec{v}₁ = (1, 2, 3)
+> \vec{v}₂ = (0, 1, 2)
+> \vec{v}₃ = (1, 0, 1)
 > 
 > SOLUCIÓN:
 > 
-> Método 1: Resolver α₁v⃗₁ + α₂v⃗₂ + α₃v⃗₃ = 0⃗
+> Método 1: Resolver α₁\vec{v}₁ + α₂\vec{v}₂ + α₃\vec{v}₃ = 0⃗
 > 
 > α₁(1,2,3) + α₂(0,1,2) + α₃(1,0,1) = (0,0,0)
 > 
@@ -979,19 +979,19 @@
 > 
 > ```
 > En ℝ², sean:
-> Base estándar: E = {e⃗₁, e⃗₂} = {(1,0), (0,1)}
-> Base alternativa: B = {v⃗₁, v⃗₂} = {(1,1), (1,-1)}
+> Base estándar: E = {\vec{e}₁, \vec{e}₂} = {(1,0), (0,1)}
+> Base alternativa: B = {\vec{v}₁, \vec{v}₂} = {(1,1), (1,-1)}
 > 
-> Encontrar coordenadas de w⃗ = (3, 1) en ambas bases.
+> Encontrar coordenadas de \vec{w} = (3, 1) en ambas bases.
 > 
 > SOLUCIÓN:
 > 
 > Coordenadas en base estándar:
-> w⃗ = 3(1,0) + 1(0,1)
-> [w⃗]_E = (3, 1)ᵀ
+> \vec{w} = 3(1,0) + 1(0,1)
+> [\vec{w}]_E = (3, 1)ᵀ
 > 
 > Coordenadas en base B:
-> w⃗ = α(1,1) + β(1,-1)
+> \vec{w} = α(1,1) + β(1,-1)
 > (3,1) = (α+β, α-β)
 > 
 > Sistema:
@@ -1001,7 +1001,7 @@
 > Sumar: 2α = 4 ⟹ α = 2
 > Restar: 2β = 2 ⟹ β = 1
 > 
-> [w⃗]_B = (2, 1)ᵀ
+> [\vec{w}]_B = (2, 1)ᵀ
 > 
 > Verificación:
 > 2(1,1) + 1(1,-1) = (2,2) + (1,-1) = (3,1) ✓
@@ -1020,10 +1020,10 @@
 > Necesitamos agregar 4 - 2 = 2 vectores más
 > 
 > Probar vectores canónicos restantes:
-> e⃗₃ = (0,0,1,0)
-> e⃗₄ = (0,0,0,1)
+> \vec{e}₃ = (0,0,1,0)
+> \vec{e}₄ = (0,0,0,1)
 > 
-> Verificar que {v⃗₁, v⃗₂, e⃗₃, e⃗₄} es LI:
+> Verificar que {\vec{v}₁, \vec{v}₂, \vec{e}₃, \vec{e}₄} es LI:
 > 
 > Matriz:
 > [1  0  0  0]
@@ -1059,7 +1059,7 @@
 > 
 > U + W:
 > Vector general:
-> u⃗ + w⃗ = α(1,0,0) + β(0,1,0) + γ(0,1,0) + δ(0,0,1)
+> \vec{u} + \vec{w} = α(1,0,0) + β(0,1,0) + γ(0,1,0) + δ(0,0,1)
 >        = α(1,0,0) + (β+γ)(0,1,0) + δ(0,0,1)
 > 
 > Con α, β+γ, δ arbitrarios:
@@ -1177,8 +1177,8 @@
 > 
 > Vectores paralelos siempre son LD
 > 
-> Si v⃗₂ = αv⃗₁:
-> 1·v⃗₂ - α·v⃗₁ = 0⃗ (combinación no trivial)
+> Si \vec{v}₂ = α\vec{v}₁:
+> 1·\vec{v}₂ - α·\vec{v}₁ = 0⃗ (combinación no trivial)
 > ```
 > 
 > **5. "dim(U + W) = dim(U) + dim(W)"**
@@ -1369,13 +1369,13 @@
 > │       │   ├── Cerradura
 > │       │   ├── Asociatividad
 > │       │   ├── Neutro (0⃗)
-> │       │   ├── Inverso (-v⃗)
+> │       │   ├── Inverso (-\vec{v})
 > │       │   └── Conmutatividad
 > │       └── (M1-M5) Multiplicación
 > │           ├── Cerradura
 > │           ├── Distributividad (2 tipos)
 > │           ├── Asociatividad mixta
-> │           └── Neutro (1·v⃗ = v⃗)
+> │           └── Neutro (1·\vec{v} = \vec{v})
 > │
 > ├── EJEMPLOS FUNDAMENTALES
 > │   ├── ℝⁿ, ℂⁿ (euclidianos)
@@ -1397,7 +1397,7 @@
 > │       └── Suma directa U ⊕ W
 > │
 > ├── COMBINACIONES LINEALES
-> │   ├── Definición: α₁v⃗₁ + ... + αₖv⃗ₖ
+> │   ├── Definición: α₁\vec{v}₁ + ... + αₖ\vec{v}ₖ
 > │   ├── Conjunto generado (span)
 > │   ├── Sistema generador
 > │   └── Propiedades
@@ -1430,11 +1430,11 @@
 > │       └── Fórmula dimensional
 > │
 > ├── PROPIEDADES DERIVADAS
-> │   ├── Unicidad de 0⃗ y -v⃗
-> │   ├── 0·v⃗ = 0⃗ y α·0⃗ = 0⃗
-> │   ├── (-1)·v⃗ = -v⃗
+> │   ├── Unicidad de 0⃗ y -\vec{v}
+> │   ├── 0·\vec{v} = 0⃗ y α·0⃗ = 0⃗
+> │   ├── (-1)·\vec{v} = -\vec{v}
 > │   ├── Cancelación
-> │   └── Si αv⃗ = 0⃗: α = 0 o v⃗ = 0⃗
+> │   └── Si α\vec{v} = 0⃗: α = 0 o \vec{v} = 0⃗
 > │
 > └── APLICACIONES
 >     ├── Sistemas lineales
@@ -1453,13 +1453,13 @@
 > Espacio vectorial V con función norma ||·|| : V → ℝ⁺
 > 
 > Propiedades:
-> 1. ||v⃗|| ≥ 0, ||v⃗|| = 0 ⟺ v⃗ = 0⃗
-> 2. ||αv⃗|| = |α| ||v⃗||
-> 3. ||u⃗ + v⃗|| ≤ ||u⃗|| + ||v⃗|| (desigualdad triangular)
+> 1. ||\vec{v}|| ≥ 0, ||\vec{v}|| = 0 ⟺ \vec{v} = 0⃗
+> 2. ||α\vec{v}|| = |α| ||\vec{v}||
+> 3. ||\vec{u} + \vec{v}|| ≤ ||\vec{u}|| + ||\vec{v}|| (desigualdad triangular)
 > 
 > Ejemplos:
-> • ℝⁿ con norma euclidiana: ||v⃗|| = √(Σvᵢ²)
-> • ℝⁿ con norma p: ||v⃗||_p = (Σ|vᵢ|ᵖ)^(1/p)
+> • ℝⁿ con norma euclidiana: ||\vec{v}|| = √(Σvᵢ²)
+> • ℝⁿ con norma p: ||\vec{v}||_p = (Σ|vᵢ|ᵖ)^(1/p)
 > • C[a,b] con norma sup: ||f|| = max|f(x)|
 > 
 > Permite definir convergencia, continuidad
@@ -1471,14 +1471,14 @@
 > Espacio vectorial V con producto interno ⟨·,·⟩ : V×V → F
 > 
 > Propiedades (caso real):
-> 4. ⟨u⃗, v⃗⟩ = ⟨v⃗, u⃗⟩ (simetría)
-> 5. ⟨αu⃗ + βv⃗, w⃗⟩ = α⟨u⃗, w⃗⟩ + β⟨v⃗, w⃗⟩ (linealidad)
-> 6. ⟨v⃗, v⃗⟩ ≥ 0, ⟨v⃗, v⃗⟩ = 0 ⟺ v⃗ = 0⃗ (positividad)
+> 4. ⟨\vec{u}, \vec{v}⟩ = ⟨\vec{v}, \vec{u}⟩ (simetría)
+> 5. ⟨α\vec{u} + β\vec{v}, \vec{w}⟩ = α⟨\vec{u}, \vec{w}⟩ + β⟨\vec{v}, \vec{w}⟩ (linealidad)
+> 6. ⟨\vec{v}, \vec{v}⟩ ≥ 0, ⟨\vec{v}, \vec{v}⟩ = 0 ⟺ \vec{v} = 0⃗ (positividad)
 > 
-> Induce norma: ||v⃗|| = √⟨v⃗, v⃗⟩
+> Induce norma: ||\vec{v}|| = √⟨\vec{v}, \vec{v}⟩
 > 
 > Ejemplos:
-> • ℝⁿ: ⟨u⃗, v⃗⟩ = Σuᵢvᵢ (producto punto)
+> • ℝⁿ: ⟨\vec{u}, \vec{v}⟩ = Σuᵢvᵢ (producto punto)
 > • C[a,b]: ⟨f, g⟩ = ∫ₐᵇ f(x)g(x)dx
 > 
 > Permite definir ortogonalidad, proyecciones
@@ -1508,13 +1508,13 @@
 > Dado subespacio W de V:
 > 
 > Espacio cociente: V/W
-> Elementos: clases de equivalencia [v⃗] = v⃗ + W
+> Elementos: clases de equivalencia [\vec{v}] = \vec{v} + W
 > 
-> v⃗ ~ u⃗ ⟺ v⃗ - u⃗ ∈ W
+> \vec{v} ~ \vec{u} ⟺ \vec{v} - \vec{u} ∈ W
 > 
 > Operaciones:
-> [v⃗] + [u⃗] = [v⃗ + u⃗]
-> α[v⃗] = [αv⃗]
+> [\vec{v}] + [\vec{u}] = [\vec{v} + \vec{u}]
+> α[\vec{v}] = [α\vec{v}]
 > 
 > Dimensión: dim(V/W) = dim(V) - dim(W)
 > 
@@ -1529,16 +1529,16 @@
 > V* = {φ : V → F : φ es lineal}
 > 
 > Operaciones:
-> (φ + ψ)(v⃗) = φ(v⃗) + ψ(v⃗)
-> (αφ)(v⃗) = αφ(v⃗)
+> (φ + ψ)(\vec{v}) = φ(\vec{v}) + ψ(\vec{v})
+> (αφ)(\vec{v}) = αφ(\vec{v})
 > 
 > V* es espacio vectorial
 > 
 > Si dim(V) = n finita: dim(V*) = n
 > V ≅ V** (bidual)
 > 
-> Base dual: si B = {v⃗₁, ..., v⃗ₙ} base de V
-> Base dual B* = {φ₁, ..., φₙ} donde φᵢ(v⃗ⱼ) = δᵢⱼ
+> Base dual: si B = {\vec{v}₁, ..., \vec{v}ₙ} base de V
+> Base dual B* = {φ₁, ..., φₙ} donde φᵢ(\vec{v}ⱼ) = δᵢⱼ
 > ```
 
 ## 🎯 Aplicaciones Específicas

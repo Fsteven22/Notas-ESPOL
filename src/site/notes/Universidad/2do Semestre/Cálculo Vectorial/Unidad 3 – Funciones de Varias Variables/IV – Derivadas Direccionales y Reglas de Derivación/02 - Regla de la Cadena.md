@@ -80,12 +80,12 @@
 > 
 > ```
 > ℝᵐ ──g→ ℝⁿ ──f→ ℝᵖ
->  x⃗       y⃗       z⃗
+>  \vec{x}       \vec{y}       \vec{z}
 > 
 > Composición: h = f ∘ g
 > 
 > ℝᵐ ──────h─────→ ℝᵖ
->  x⃗               z⃗
+>  \vec{x}               \vec{z}
 > ```
 > 
 > ---
@@ -95,7 +95,7 @@
 > La regla de la cadena dice que la aproximación lineal de $h$ es:
 > 
 > ```
-> Δz⃗ ≈ Jf(g(x⃗)) · Jg(x⃗) · Δx⃗
+> Δ\vec{z} ≈ Jf(g(\vec{x})) · Jg(\vec{x}) · Δ\vec{x}
 > 
 >       ↑           ↑       ↑
 >    cambio     transf.  cambio
@@ -441,9 +441,9 @@
 >    ↓
 > z₂ = w₂a₁ + b₂
 >    ↓
-> ŷ = σ(z₂)
+> \hat{y} = σ(z₂)
 >    ↓
-> L = (ŷ - y)²  [función de pérdida]
+> L = (\hat{y} - y)²  [función de pérdida]
 > ```
 > 
 > ---

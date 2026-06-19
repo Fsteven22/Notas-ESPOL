@@ -31,9 +31,9 @@
 ```mermaid
 graph TB
     A[Campo Vectorial F x,y,z] --> B[Superficie S orientada]
-    B --> C[Vector normal n̂]
+    B --> C[Vector normal \hat{n}]
     
-    C --> D[Flujo = ∬S F · n̂ dS]
+    C --> D[Flujo = ∬S F · \hat{n} dS]
     
     D --> E{Interpretación}
     E --> F[Flujo > 0<br/>Sale de la superficie]
@@ -82,9 +82,9 @@ graph TB
 >     A[Punto x,y,z] --> B[Vector F x,y,z]
 >     B --> C[Componentes<br/>P, Q, R]
 >     
->     C --> D[P î: componente en x]
->     C --> E[Q ĵ: componente en y]
->     C --> F[R k̂: componente en z]
+>     C --> D[P \hat{i}: componente en x]
+>     C --> E[Q \hat{j}: componente en y]
+>     C --> F[R \hat{k}: componente en z]
 >     
 >     style A fill:#e1f5ff
 >     style B fill:#fff4e1
@@ -144,7 +144,7 @@ graph TB
 >     D --> F[Producto cruz<br/>r_u × r_v]
 >     E --> F
 >     
->     F --> G[Vector normal n̂]
+>     F --> G[Vector normal \hat{n}]
 >     
 >     style A fill:#e1f5ff
 >     style C fill:#e1ffe1
@@ -612,7 +612,7 @@ mindmap
         Orientación consistente
     Fórmula de Flujo
       ∬ F · dS
-      ∬ F · n̂ dS
+      ∬ F · \hat{n} dS
       ∬ F · r_u × r_v du dv
     Casos Especiales
       Gráfica z = f x,y

@@ -160,12 +160,12 @@
 >    A --> C[Velocidad]
 >    A --> D[Aceleración]
 >    
->    B --> E["r⃗(t) = x(t)î + y(t)ĵ"]
->    C --> F["v⃗ = dr⃗/dt"]
->    D --> G["a⃗ = dv⃗/dt = d²r⃗/dt²"]
+>    B --> E["\vec{r}(t) = x(t)\hat{i} + y(t)\hat{j}"]
+>    C --> F["\vec{v} = d\vec{r}/dt"]
+>    D --> G["\vec{a} = d\vec{v}/dt = d²\vec{r}/dt²"]
 >    
->    H[Movimiento Proyectil] --> I["v⃗₀ = v₀cos(θ)î + v₀sin(θ)ĵ"]
->    H --> J["r⃗(t) = (v₀cos(θ)t)î + (v₀sin(θ)t - ½gt²)ĵ"]
+>    H[Movimiento Proyectil] --> I["\vec{v}₀ = v₀cos(θ)\hat{i} + v₀sin(θ)\hat{j}"]
+>    H --> J["\vec{r}(t) = (v₀cos(θ)t)\hat{i} + (v₀sin(θ)t - ½gt²)\hat{j}"]
 >    
 >    style A fill:#e1f5fe
 >    style H fill:#f3e5f5

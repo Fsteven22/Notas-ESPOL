@@ -64,7 +64,7 @@
 > 
 > - **Baja velocidad**: R = -bv
 > - **Alta velocidad**: R = -cv²
-> - **Trabajo**: W_R = ∫R⃗ · dr⃗ (requiere integración)
+> - **Trabajo**: W_R = ∫\vec{R} · d\vec{r} (requiere integración)
 > 
 > ### 3. Fuerzas Aplicadas Variables:
 > 

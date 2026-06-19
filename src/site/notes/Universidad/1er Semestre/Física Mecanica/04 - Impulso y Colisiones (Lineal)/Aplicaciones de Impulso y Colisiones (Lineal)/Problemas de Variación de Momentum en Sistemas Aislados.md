@@ -17,7 +17,7 @@
 > 
 > - **Definición**: Sistema donde la suma de fuerzas externas es nula (ΣF_ext = 0)
 > - **Conservación**: El momentum total del sistema permanece constante
-> - **Ecuación**: p⃗_inicial = p⃗_final
+> - **Ecuación**: \vec{p}_inicial = \vec{p}_final
 > - **Aplicación**: Válida en colisiones, explosiones y desintegraciones
 > 
 > ### Condiciones del Sistema:
@@ -35,21 +35,21 @@
 > 
 > #### **Colisiones Elásticas**:
 > 
-> - Se conserva momentum: Σp⃗_i = Σp⃗_f
+> - Se conserva momentum: Σ\vec{p}_i = Σ\vec{p}_f
 > - Se conserva energía cinética: ΣK_i = ΣK_f
 > - Coeficiente de restitución: e = 1
 > 
 > #### **Colisiones Inelásticas**:
 > 
-> - Se conserva momentum: Σp⃗_i = Σp⃗_f
+> - Se conserva momentum: Σ\vec{p}_i = Σ\vec{p}_f
 > - NO se conserva energía cinética: ΣK_f < ΣK_i
 > - Coeficiente de restitución: 0 < e < 1
 > 
 > #### **Colisiones Perfectamente Inelásticas**:
 > 
-> - Se conserva momentum: Σp⃗_i = Σp⃗_f
+> - Se conserva momentum: Σ\vec{p}_i = Σ\vec{p}_f
 > - Máxima pérdida de energía cinética
-> - Los objetos quedan unidos: v⃗_f1 = v⃗_f2
+> - Los objetos quedan unidos: \vec{v}_f1 = \vec{v}_f2
 > - Coeficiente de restitución: e = 0
 
 > [!warning]- **Explosiones y Desintegraciones** 💥
@@ -63,9 +63,9 @@
 > 
 > ### Ecuaciones Principales:
 > 
-> - **Momentum inicial**: p⃗_i = m_total × v⃗_inicial
-> - **Momentum final**: p⃗_f = m₁v⃗₁ + m₂v⃗₂ + ... + mₙv⃗ₙ
-> - **Conservación**: p⃗_i = p⃗_f
+> - **Momentum inicial**: \vec{p}_i = m_total × \vec{v}_inicial
+> - **Momentum final**: \vec{p}_f = m₁\vec{v}₁ + m₂\vec{v}₂ + ... + mₙ\vec{v}ₙ
+> - **Conservación**: \vec{p}_i = \vec{p}_f
 
 > [!success] 🔗 Relaciones Matemáticas Fundamentales
 > 
@@ -231,7 +231,7 @@
 > 
 > Para sistemas complejos, el análisis desde el sistema de referencia del centro de masa simplifica los cálculos:
 > 
-> **Centro de masa**: r⃗_CM = (m₁r⃗₁ + m₂r⃗₂)/(m₁ + m₂) **Velocidad del CM**: v⃗_CM = (m₁v⃗₁ + m₂v⃗₂)/(m₁ + m₂)
+> **Centro de masa**: \vec{r}_CM = (m₁\vec{r}₁ + m₂\vec{r}₂)/(m₁ + m₂) **Velocidad del CM**: \vec{v}_CM = (m₁\vec{v}₁ + m₂\vec{v}₂)/(m₁ + m₂)
 > 
 > ### Ventajas:
 > 
@@ -313,8 +313,8 @@
 > 
 > ### Conservación de Momentum:
 > 
-> - **General**: Σp⃗ᵢ = Σp⃗f
-> - **Dos objetos**: m₁v⃗₁ᵢ + m₂v⃗₂ᵢ = m₁v⃗₁f + m₂v⃗₂f
+> - **General**: Σ\vec{p}ᵢ = Σ\vec{p}f
+> - **Dos objetos**: m₁\vec{v}₁ᵢ + m₂\vec{v}₂ᵢ = m₁\vec{v}₁f + m₂\vec{v}₂f
 > 
 > ### Coeficiente de Restitución:
 > 

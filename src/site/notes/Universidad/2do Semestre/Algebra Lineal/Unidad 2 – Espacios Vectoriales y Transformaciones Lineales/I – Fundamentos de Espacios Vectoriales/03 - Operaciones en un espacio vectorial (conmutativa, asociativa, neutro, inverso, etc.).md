@@ -79,16 +79,16 @@
 > ```
 > Operación binaria interna:
 > + : V × V → V
-> (u⃗, v⃗) ↦ u⃗ + v⃗
+> (\vec{u}, \vec{v}) ↦ \vec{u} + \vec{v}
 > 
 > Características:
 > • Binaria: toma dos vectores
 > • Interna: resultado es vector en V (cerradura)
-> • Notación infija: u⃗ + v⃗ (operador entre argumentos)
+> • Notación infija: \vec{u} + \vec{v} (operador entre argumentos)
 > 
 > Interpretación geométrica (ℝⁿ):
 > "Regla del paralelogramo"
-> - Colocar origen de v⃗ en extremo de u⃗
+> - Colocar origen de \vec{v} en extremo de \vec{u}
 > - Suma: vector del origen inicial al extremo final
 > 
 > O equivalentemente:
@@ -104,12 +104,12 @@
 > ```
 > Operación externa:
 > · : F × V → V
-> (α, v⃗) ↦ α·v⃗  o  αv⃗
+> (α, \vec{v}) ↦ α·\vec{v}  o  α\vec{v}
 > 
 > Características:
 > • Externa: mezcla elementos de F (campo) y V
 > • Escala: cambia "longitud" pero no "dirección"
-> • Notación: αv⃗ (escalar primero, usual)
+> • Notación: α\vec{v} (escalar primero, usual)
 > 
 > Interpretación geométrica:
 > α > 0: estira o comprime en misma dirección
@@ -127,21 +127,21 @@
 > 
 > ```
 > Suma:
-> • u⃗ + v⃗ (estándar)
+> • \vec{u} + \vec{v} (estándar)
 > • Conmutativa: orden no importa
 > • Asociativa: agrupación no importa
 > 
 > Multiplicación por escalar:
-> • αv⃗ o α·v⃗ (punto usualmente omitido)
+> • α\vec{v} o α·\vec{v} (punto usualmente omitido)
 > • No conmutativa con suma de escalares y vectores
 > • Distributiva respecto a ambas sumas
 > 
 > Precedencia:
-> αv⃗ + w⃗ = (αv⃗) + w⃗  (multiplicación primero)
+> α\vec{v} + \vec{w} = (α\vec{v}) + \vec{w}  (multiplicación primero)
 > 
 > Combinaciones lineales:
-> α₁v⃗₁ + α₂v⃗₂ + ... + αₙv⃗ₙ
-> = (α₁v⃗₁) + (α₂v⃗₂) + ... + (αₙv⃗ₙ)
+> α₁\vec{v}₁ + α₂\vec{v}₂ + ... + αₙ\vec{v}ₙ
+> = (α₁\vec{v}₁) + (α₂\vec{v}₂) + ... + (αₙ\vec{v}ₙ)
 > ```
 
 ## 🎯 Axiomas de la Suma de Vectores
@@ -149,7 +149,7 @@
 > [!success]- Propiedades de la Suma (A1-A5) **A1. CERRADURA (Clausura)**
 > 
 > ```
-> ∀u⃗, v⃗ ∈ V : u⃗ + v⃗ ∈ V
+> ∀\vec{u}, \vec{v} ∈ V : \vec{u} + \vec{v} ∈ V
 > 
 > Significado:
 > Sumar dos vectores produce otro vector del mismo espacio
@@ -172,15 +172,15 @@
 > **A2. ASOCIATIVIDAD**
 > 
 > ```
-> ∀u⃗, v⃗, w⃗ ∈ V : (u⃗ + v⃗) + w⃗ = u⃗ + (v⃗ + w⃗)
+> ∀\vec{u}, \vec{v}, \vec{w} ∈ V : (\vec{u} + \vec{v}) + \vec{w} = \vec{u} + (\vec{v} + \vec{w})
 > 
 > Significado:
 > El orden de agrupación no importa
-> Podemos escribir u⃗ + v⃗ + w⃗ sin ambigüedad
+> Podemos escribir \vec{u} + \vec{v} + \vec{w} sin ambigüedad
 > 
 > Consecuencia:
 > Permite sumar múltiples vectores sin paréntesis
-> v⃗₁ + v⃗₂ + v⃗₃ + ... + v⃗ₙ está bien definido
+> \vec{v}₁ + \vec{v}₂ + \vec{v}₃ + ... + \vec{v}ₙ está bien definido
 > 
 > Verificación en ℝⁿ:
 > Componente i:
@@ -191,16 +191,16 @@
 >                = (u + (v + w))ᵢ ✓
 > 
 > Ejemplo numérico en ℝ²:
-> u⃗ = (1,2), v⃗ = (3,4), w⃗ = (5,6)
+> \vec{u} = (1,2), \vec{v} = (3,4), \vec{w} = (5,6)
 > 
-> (u⃗ + v⃗) + w⃗ = (4,6) + (5,6) = (9,12)
-> u⃗ + (v⃗ + w⃗) = (1,2) + (8,10) = (9,12) ✓
+> (\vec{u} + \vec{v}) + \vec{w} = (4,6) + (5,6) = (9,12)
+> \vec{u} + (\vec{v} + \vec{w}) = (1,2) + (8,10) = (9,12) ✓
 > ```
 > 
 > **A3. ELEMENTO NEUTRO (Identidad aditiva)**
 > 
 > ```
-> ∃0⃗ ∈ V : ∀v⃗ ∈ V, v⃗ + 0⃗ = 0⃗ + v⃗ = v⃗
+> ∃0⃗ ∈ V : ∀\vec{v} ∈ V, \vec{v} + 0⃗ = 0⃗ + \vec{v} = \vec{v}
 > 
 > Significado:
 > Existe un vector "cero" que no cambia otros vectores al sumar
@@ -232,14 +232,14 @@
 > **A4. ELEMENTO INVERSO (Opuesto aditivo)**
 > 
 > ```
-> ∀v⃗ ∈ V, ∃(-v⃗) ∈ V : v⃗ + (-v⃗) = (-v⃗) + v⃗ = 0⃗
+> ∀\vec{v} ∈ V, ∃(-\vec{v}) ∈ V : \vec{v} + (-\vec{v}) = (-\vec{v}) + \vec{v} = 0⃗
 > 
 > Significado:
 > Cada vector tiene un "opuesto" que suma a cero
 > 
 > Notación:
-> • -v⃗ : opuesto de v⃗ (inverso aditivo)
-> • También llamado "negativo" de v⃗
+> • -\vec{v} : opuesto de \vec{v} (inverso aditivo)
+> • También llamado "negativo" de \vec{v}
 > 
 > Forma del opuesto en cada espacio:
 > 
@@ -255,26 +255,26 @@
 > Funciones: -f donde (-f)(x) = -f(x)
 > 
 > Unicidad del opuesto:
-> Supongamos v⃗ + u⃗ = 0⃗ y v⃗ + w⃗ = 0⃗
-> u⃗ = u⃗ + 0⃗ = u⃗ + (v⃗ + w⃗) = (u⃗ + v⃗) + w⃗ = 0⃗ + w⃗ = w⃗
+> Supongamos \vec{v} + \vec{u} = 0⃗ y \vec{v} + \vec{w} = 0⃗
+> \vec{u} = \vec{u} + 0⃗ = \vec{u} + (\vec{v} + \vec{w}) = (\vec{u} + \vec{v}) + \vec{w} = 0⃗ + \vec{w} = \vec{w}
 > ∴ El opuesto es único
 > 
 > Relación con multiplicación por escalar:
-> Teorema: -v⃗ = (-1)v⃗
+> Teorema: -\vec{v} = (-1)\vec{v}
 > (se demuestra usando axiomas M)
 > ```
 > 
 > **A5. CONMUTATIVIDAD**
 > 
 > ```
-> ∀u⃗, v⃗ ∈ V : u⃗ + v⃗ = v⃗ + u⃗
+> ∀\vec{u}, \vec{v} ∈ V : \vec{u} + \vec{v} = \vec{v} + \vec{u}
 > 
 > Significado:
 > El orden de los sumandos no importa
 > 
 > Consecuencia:
 > Podemos reordenar sumas libremente
-> v⃗₁ + v⃗₂ + v⃗₃ = v⃗₃ + v⃗₁ + v⃗₂ = ...
+> \vec{v}₁ + \vec{v}₂ + \vec{v}₃ = \vec{v}₃ + \vec{v}₁ + \vec{v}₂ = ...
 > 
 > Verificación en ℝⁿ:
 > (u + v)ᵢ = uᵢ + vᵢ = vᵢ + uᵢ = (v + u)ᵢ
@@ -282,7 +282,7 @@
 > 
 > Interpretación geométrica:
 > Paralelogramo: dos caminos al mismo punto
-> u⃗ → v⃗  equivale a  v⃗ → u⃗
+> \vec{u} → \vec{v}  equivale a  \vec{v} → \vec{u}
 > 
 > Ejemplo numérico:
 > (2,3) + (1,5) = (3,8) = (1,5) + (2,3) ✓
@@ -297,7 +297,7 @@
 > [!important]- Propiedades del Producto (M1-M5) **M1. CERRADURA BAJO MULTIPLICACIÓN**
 > 
 > ```
-> ∀α ∈ F, ∀v⃗ ∈ V : αv⃗ ∈ V
+> ∀α ∈ F, ∀\vec{v} ∈ V : α\vec{v} ∈ V
 > 
 > Significado:
 > Multiplicar un vector por un escalar produce vector en V
@@ -321,7 +321,7 @@
 > **M2. DISTRIBUTIVIDAD I (Respecto a suma de vectores)**
 > 
 > ```
-> ∀α ∈ F, ∀u⃗, v⃗ ∈ V : α(u⃗ + v⃗) = αu⃗ + αv⃗
+> ∀α ∈ F, ∀\vec{u}, \vec{v} ∈ V : α(\vec{u} + \vec{v}) = α\vec{u} + α\vec{v}
 > 
 > Significado:
 > Multiplicar suma por escalar = suma de multiplicaciones
@@ -339,13 +339,13 @@
 > 
 > Aplicación:
 > Factorización de expresiones vectoriales
-> 2v⃗ + 2w⃗ = 2(v⃗ + w⃗)
+> 2\vec{v} + 2\vec{w} = 2(\vec{v} + \vec{w})
 > ```
 > 
 > **M3. DISTRIBUTIVIDAD II (Respecto a suma de escalares)**
 > 
 > ```
-> ∀α, β ∈ F, ∀v⃗ ∈ V : (α + β)v⃗ = αv⃗ + βv⃗
+> ∀α, β ∈ F, ∀\vec{v} ∈ V : (α + β)\vec{v} = α\vec{v} + β\vec{v}
 > 
 > Significado:
 > Suma de escalares distribuye sobre vector
@@ -362,13 +362,13 @@
 > 
 > Aplicación:
 > Simplificación de expresiones
-> 3v⃗ + 5v⃗ = (3+5)v⃗ = 8v⃗
+> 3\vec{v} + 5\vec{v} = (3+5)\vec{v} = 8\vec{v}
 > ```
 > 
 > **M4. ASOCIATIVIDAD MIXTA**
 > 
 > ```
-> ∀α, β ∈ F, ∀v⃗ ∈ V : α(βv⃗) = (αβ)v⃗
+> ∀α, β ∈ F, ∀\vec{v} ∈ V : α(β\vec{v}) = (αβ)\vec{v}
 > 
 > Significado:
 > Multiplicar sucesivamente por escalares = multiplicar por producto
@@ -384,18 +384,18 @@
 > (2·3)(1,5) = 6(1,5) = (6,30) ✓
 > 
 > Consecuencia:
-> Podemos escribir αβv⃗ sin ambigüedad
+> Podemos escribir αβ\vec{v} sin ambigüedad
 > No necesitamos paréntesis
 > 
 > Potencias (notación informal):
-> 2v⃗ + 2v⃗ = 2·2v⃗ = 4v⃗  (NO v⃗²)
-> Nota: v⃗² no tiene sentido (no hay producto de vectores aquí)
+> 2\vec{v} + 2\vec{v} = 2·2\vec{v} = 4\vec{v}  (NO \vec{v}²)
+> Nota: \vec{v}² no tiene sentido (no hay producto de vectores aquí)
 > ```
 > 
 > **M5. ELEMENTO NEUTRO MULTIPLICATIVO**
 > 
 > ```
-> ∀v⃗ ∈ V : 1·v⃗ = v⃗
+> ∀\vec{v} ∈ V : 1·\vec{v} = \vec{v}
 > 
 > donde 1 es la identidad multiplicativa del campo F
 > 
@@ -441,41 +441,41 @@
 > 
 > ```
 > Enunciado:
-> Para cada v⃗ ∈ V, su opuesto -v⃗ es único
+> Para cada \vec{v} ∈ V, su opuesto -\vec{v} es único
 > 
 > Demostración:
-> Supongamos u⃗ y w⃗ son ambos opuestos de v⃗
-> Es decir: v⃗ + u⃗ = 0⃗ y v⃗ + w⃗ = 0⃗
+> Supongamos \vec{u} y \vec{w} son ambos opuestos de \vec{v}
+> Es decir: \vec{v} + \vec{u} = 0⃗ y \vec{v} + \vec{w} = 0⃗
 > 
-> u⃗ = u⃗ + 0⃗                (A3: neutro)
->    = u⃗ + (v⃗ + w⃗)         (hipótesis)
->    = (u⃗ + v⃗) + w⃗         (A2: asociatividad)
->    = (v⃗ + u⃗) + w⃗         (A5: conmutatividad)
->    = 0⃗ + w⃗                (hipótesis)
->    = w⃗                     (A3: neutro)
+> \vec{u} = \vec{u} + 0⃗                (A3: neutro)
+>    = \vec{u} + (\vec{v} + \vec{w})         (hipótesis)
+>    = (\vec{u} + \vec{v}) + \vec{w}         (A2: asociatividad)
+>    = (\vec{v} + \vec{u}) + \vec{w}         (A5: conmutatividad)
+>    = 0⃗ + \vec{w}                (hipótesis)
+>    = \vec{w}                     (A3: neutro)
 > 
-> ∴ u⃗ = w⃗, el opuesto es único ∎
+> ∴ \vec{u} = \vec{w}, el opuesto es único ∎
 > ```
 > 
 > **TEOREMA 3: Producto por cero escalar**
 > 
 > ```
 > Enunciado:
-> ∀v⃗ ∈ V : 0·v⃗ = 0⃗
+> ∀\vec{v} ∈ V : 0·\vec{v} = 0⃗
 > 
 > donde 0 es el escalar cero y 0⃗ es el vector cero
 > 
 > Demostración:
-> 0·v⃗ = (0 + 0)·v⃗           (0 = 0+0 en el campo)
->      = 0·v⃗ + 0·v⃗          (M3: distributividad II)
+> 0·\vec{v} = (0 + 0)·\vec{v}           (0 = 0+0 en el campo)
+>      = 0·\vec{v} + 0·\vec{v}          (M3: distributividad II)
 > 
-> Sumando -(0·v⃗) a ambos lados:
-> 0·v⃗ + (-(0·v⃗)) = (0·v⃗ + 0·v⃗) + (-(0·v⃗))
-> 0⃗ = 0·v⃗ + (0·v⃗ + (-(0·v⃗)))    (A2: asociatividad)
-> 0⃗ = 0·v⃗ + 0⃗                    (A4: inverso)
-> 0⃗ = 0·v⃗                         (A3: neutro)
+> Sumando -(0·\vec{v}) a ambos lados:
+> 0·\vec{v} + (-(0·\vec{v})) = (0·\vec{v} + 0·\vec{v}) + (-(0·\vec{v}))
+> 0⃗ = 0·\vec{v} + (0·\vec{v} + (-(0·\vec{v})))    (A2: asociatividad)
+> 0⃗ = 0·\vec{v} + 0⃗                    (A4: inverso)
+> 0⃗ = 0·\vec{v}                         (A3: neutro)
 > 
-> ∴ 0·v⃗ = 0⃗ ∎
+> ∴ 0·\vec{v} = 0⃗ ∎
 > ```
 > 
 > **TEOREMA 4: Producto de escalar por vector cero**
@@ -501,18 +501,18 @@
 > 
 > ```
 > Enunciado:
-> ∀v⃗ ∈ V : (-1)·v⃗ = -v⃗
+> ∀\vec{v} ∈ V : (-1)·\vec{v} = -\vec{v}
 > 
 > Demostración:
-> v⃗ + (-1)·v⃗ = 1·v⃗ + (-1)·v⃗      (M5: neutro)
->             = (1 + (-1))·v⃗       (M3: distributividad II)
->             = 0·v⃗                (1 + (-1) = 0 en campo)
+> \vec{v} + (-1)·\vec{v} = 1·\vec{v} + (-1)·\vec{v}      (M5: neutro)
+>             = (1 + (-1))·\vec{v}       (M3: distributividad II)
+>             = 0·\vec{v}                (1 + (-1) = 0 en campo)
 >             = 0⃗                  (Teorema 3)
 > 
-> Por tanto, (-1)·v⃗ es el opuesto de v⃗
-> Por unicidad del opuesto: (-1)·v⃗ = -v⃗
+> Por tanto, (-1)·\vec{v} es el opuesto de \vec{v}
+> Por unicidad del opuesto: (-1)·\vec{v} = -\vec{v}
 > 
-> ∴ (-1)·v⃗ = -v⃗ ∎
+> ∴ (-1)·\vec{v} = -\vec{v} ∎
 > 
 > Consecuencia:
 > El opuesto se puede calcular multiplicando por -1
@@ -522,78 +522,78 @@
 > 
 > ```
 > Enunciado:
-> Si αv⃗ = 0⃗, entonces α = 0 o v⃗ = 0⃗
+> Si α\vec{v} = 0⃗, entonces α = 0 o \vec{v} = 0⃗
 > 
 > Demostración (contrapositiva):
 > Supongamos α ≠ 0
 > Entonces existe α⁻¹ en el campo F
 > 
-> αv⃗ = 0⃗
-> α⁻¹(αv⃗) = α⁻¹·0⃗
-> (α⁻¹α)v⃗ = 0⃗            (M4: asociatividad)
-> 1·v⃗ = 0⃗                (α⁻¹α = 1 en campo)
-> v⃗ = 0⃗                   (M5: neutro)
+> α\vec{v} = 0⃗
+> α⁻¹(α\vec{v}) = α⁻¹·0⃗
+> (α⁻¹α)\vec{v} = 0⃗            (M4: asociatividad)
+> 1·\vec{v} = 0⃗                (α⁻¹α = 1 en campo)
+> \vec{v} = 0⃗                   (M5: neutro)
 > 
-> ∴ Si α ≠ 0 y αv⃗ = 0⃗, entonces v⃗ = 0⃗ ∎
+> ∴ Si α ≠ 0 y α\vec{v} = 0⃗, entonces \vec{v} = 0⃗ ∎
 > ```
 > 
 > **TEOREMA 7: Cancelación aditiva**
 > 
 > ```
 > Enunciado:
-> Si u⃗ + v⃗ = u⃗ + w⃗, entonces v⃗ = w⃗
+> Si \vec{u} + \vec{v} = \vec{u} + \vec{w}, entonces \vec{v} = \vec{w}
 > 
 > Demostración:
-> u⃗ + v⃗ = u⃗ + w⃗                    (hipótesis)
-> (-u⃗) + (u⃗ + v⃗) = (-u⃗) + (u⃗ + w⃗)  (sumar -u⃗)
-> ((-u⃗) + u⃗) + v⃗ = ((-u⃗) + u⃗) + w⃗  (A2: asociatividad)
-> 0⃗ + v⃗ = 0⃗ + w⃗                    (A4: inverso)
-> v⃗ = w⃗                              (A3: neutro)
+> \vec{u} + \vec{v} = \vec{u} + \vec{w}                    (hipótesis)
+> (-\vec{u}) + (\vec{u} + \vec{v}) = (-\vec{u}) + (\vec{u} + \vec{w})  (sumar -\vec{u})
+> ((-\vec{u}) + \vec{u}) + \vec{v} = ((-\vec{u}) + \vec{u}) + \vec{w}  (A2: asociatividad)
+> 0⃗ + \vec{v} = 0⃗ + \vec{w}                    (A4: inverso)
+> \vec{v} = \vec{w}                              (A3: neutro)
 > 
-> ∴ Podemos "cancelar" u⃗ de ambos lados ∎
+> ∴ Podemos "cancelar" \vec{u} de ambos lados ∎
 > ```
 >TEOREMA 8: Opuesto de una suma**
 >
 > ```
 > Enunciado:
-> ∀u⃗, v⃗ ∈ V : -(u⃗ + v⃗) = (-u⃗) + (-v⃗)
+> ∀\vec{u}, \vec{v} ∈ V : -(\vec{u} + \vec{v}) = (-\vec{u}) + (-\vec{v})
 > 
 > Demostración:
-> Debemos mostrar que (-u⃗) + (-v⃗) es el opuesto de u⃗ + v⃗
+> Debemos mostrar que (-\vec{u}) + (-\vec{v}) es el opuesto de \vec{u} + \vec{v}
 > 
-> (u⃗ + v⃗) + [(-u⃗) + (-v⃗)]
-> = u⃗ + [v⃗ + ((-u⃗) + (-v⃗))]      (A2: asociatividad)
-> = u⃗ + [(v⃗ + (-u⃗)) + (-v⃗)]      (A2)
-> = u⃗ + [((-u⃗) + v⃗) + (-v⃗)]      (A5: conmutatividad)
-> = u⃗ + [(-u⃗) + (v⃗ + (-v⃗))]      (A2)
-> = u⃗ + [(-u⃗) + 0⃗]                (A4: inverso)
-> = u⃗ + (-u⃗)                       (A3: neutro)
+> (\vec{u} + \vec{v}) + [(-\vec{u}) + (-\vec{v})]
+> = \vec{u} + [\vec{v} + ((-\vec{u}) + (-\vec{v}))]      (A2: asociatividad)
+> = \vec{u} + [(\vec{v} + (-\vec{u})) + (-\vec{v})]      (A2)
+> = \vec{u} + [((-\vec{u}) + \vec{v}) + (-\vec{v})]      (A5: conmutatividad)
+> = \vec{u} + [(-\vec{u}) + (\vec{v} + (-\vec{v}))]      (A2)
+> = \vec{u} + [(-\vec{u}) + 0⃗]                (A4: inverso)
+> = \vec{u} + (-\vec{u})                       (A3: neutro)
 > = 0⃗                               (A4: inverso)
 > 
 > Por unicidad del opuesto:
-> -(u⃗ + v⃗) = (-u⃗) + (-v⃗) ∎
+> -(\vec{u} + \vec{v}) = (-\vec{u}) + (-\vec{v}) ∎
 > 
 > Notación práctica:
-> -(u⃗ + v⃗) = -u⃗ - v⃗
+> -(\vec{u} + \vec{v}) = -\vec{u} - \vec{v}
 > ```
 > 
 > **TEOREMA 9: Opuesto del opuesto**
 > 
 > ```
 > Enunciado:
-> ∀v⃗ ∈ V : -(-v⃗) = v⃗
+> ∀\vec{v} ∈ V : -(-\vec{v}) = \vec{v}
 > 
 > Demostración:
-> Por definición, -v⃗ es el opuesto de v⃗
-> Es decir: v⃗ + (-v⃗) = 0⃗
+> Por definición, -\vec{v} es el opuesto de \vec{v}
+> Es decir: \vec{v} + (-\vec{v}) = 0⃗
 > 
 > Esto también se puede escribir:
-> (-v⃗) + v⃗ = 0⃗                    (A5: conmutatividad)
+> (-\vec{v}) + \vec{v} = 0⃗                    (A5: conmutatividad)
 > 
-> Por tanto, v⃗ es el opuesto de (-v⃗)
-> Por unicidad del opuesto: v⃗ = -(-v⃗)
+> Por tanto, \vec{v} es el opuesto de (-\vec{v})
+> Por unicidad del opuesto: \vec{v} = -(-\vec{v})
 > 
-> ∴ -(-v⃗) = v⃗ ∎
+> ∴ -(-\vec{v}) = \vec{v} ∎
 > 
 > Interpretación geométrica:
 > Invertir dirección dos veces = dirección original
@@ -603,27 +603,27 @@
 > 
 > ```
 > Enunciado:
-> ∀α ∈ F, ∀v⃗ ∈ V : (-α)v⃗ = -(αv⃗) = α(-v⃗)
+> ∀α ∈ F, ∀\vec{v} ∈ V : (-α)\vec{v} = -(α\vec{v}) = α(-\vec{v})
 > 
-> Demostración parte 1: (-α)v⃗ = -(αv⃗)
+> Demostración parte 1: (-α)\vec{v} = -(α\vec{v})
 > 
-> αv⃗ + (-α)v⃗ = (α + (-α))v⃗        (M3: distributividad II)
->             = 0·v⃗                (campo: α + (-α) = 0)
+> α\vec{v} + (-α)\vec{v} = (α + (-α))\vec{v}        (M3: distributividad II)
+>             = 0·\vec{v}                (campo: α + (-α) = 0)
 >             = 0⃗                  (Teorema 3)
 > 
-> Por tanto, (-α)v⃗ es opuesto de αv⃗
-> ∴ (-α)v⃗ = -(αv⃗)
+> Por tanto, (-α)\vec{v} es opuesto de α\vec{v}
+> ∴ (-α)\vec{v} = -(α\vec{v})
 > 
-> Demostración parte 2: α(-v⃗) = -(αv⃗)
+> Demostración parte 2: α(-\vec{v}) = -(α\vec{v})
 > 
-> αv⃗ + α(-v⃗) = α(v⃗ + (-v⃗))       (M2: distributividad I)
+> α\vec{v} + α(-\vec{v}) = α(\vec{v} + (-\vec{v}))       (M2: distributividad I)
 >             = α·0⃗                (A4: inverso)
 >             = 0⃗                  (Teorema 4)
 > 
-> Por tanto, α(-v⃗) es opuesto de αv⃗
-> ∴ α(-v⃗) = -(αv⃗)
+> Por tanto, α(-\vec{v}) es opuesto de α\vec{v}
+> ∴ α(-\vec{v}) = -(α\vec{v})
 > 
-> Combinando: (-α)v⃗ = -(αv⃗) = α(-v⃗) ∎
+> Combinando: (-α)\vec{v} = -(α\vec{v}) = α(-\vec{v}) ∎
 > ```
 
 ## 🎨 Operación Derivada: Resta de Vectores
@@ -633,12 +633,12 @@
 > ```
 > La resta NO es un axioma, se define en términos de suma e inverso:
 > 
-> u⃗ - v⃗ := u⃗ + (-v⃗)
+> \vec{u} - \vec{v} := \vec{u} + (-\vec{v})
 > 
 > Léase: "u menos v es u más el opuesto de v"
 > 
 > Notación alternativa:
-> u⃗ - v⃗ ≡ u⃗ + (-1)v⃗
+> \vec{u} - \vec{v} ≡ \vec{u} + (-1)\vec{v}
 > 
 > No es operación fundamental:
 > Se reduce a operaciones primitivas (suma y producto por -1)
@@ -648,71 +648,71 @@
 > 
 > ```
 > P1) NO es conmutativa:
->     u⃗ - v⃗ ≠ v⃗ - u⃗ en general
+>     \vec{u} - \vec{v} ≠ \vec{v} - \vec{u} en general
 >     
->     De hecho: u⃗ - v⃗ = -(v⃗ - u⃗)
+>     De hecho: \vec{u} - \vec{v} = -(\vec{v} - \vec{u})
 >     
 >     Ejemplo en ℝ²:
 >     (3,2) - (1,1) = (2,1)
 >     (1,1) - (3,2) = (-2,-1) ≠ (2,1)
 > 
 > P2) NO es asociativa:
->     (u⃗ - v⃗) - w⃗ ≠ u⃗ - (v⃗ - w⃗) en general
+>     (\vec{u} - \vec{v}) - \vec{w} ≠ \vec{u} - (\vec{v} - \vec{w}) en general
 >     
 >     Expandiendo:
->     (u⃗ - v⃗) - w⃗ = u⃗ + (-v⃗) + (-w⃗) = u⃗ - v⃗ - w⃗
->     u⃗ - (v⃗ - w⃗) = u⃗ + (-(v⃗ - w⃗)) = u⃗ + (-v⃗ + w⃗) = u⃗ - v⃗ + w⃗
+>     (\vec{u} - \vec{v}) - \vec{w} = \vec{u} + (-\vec{v}) + (-\vec{w}) = \vec{u} - \vec{v} - \vec{w}
+>     \vec{u} - (\vec{v} - \vec{w}) = \vec{u} + (-(\vec{v} - \vec{w})) = \vec{u} + (-\vec{v} + \vec{w}) = \vec{u} - \vec{v} + \vec{w}
 >     
 >     Ejemplo en ℝ:
 >     (5 - 3) - 2 = 2 - 2 = 0
 >     5 - (3 - 2) = 5 - 1 = 4 ≠ 0
 > 
 > P3) Elemento neutro (derecho):
->     v⃗ - 0⃗ = v⃗ + (-0⃗) = v⃗ + 0⃗ = v⃗
+>     \vec{v} - 0⃗ = \vec{v} + (-0⃗) = \vec{v} + 0⃗ = \vec{v}
 >     
->     Pero: 0⃗ - v⃗ = -v⃗ ≠ v⃗ (en general)
+>     Pero: 0⃗ - \vec{v} = -\vec{v} ≠ \vec{v} (en general)
 > 
 > P4) Auto-resta:
->     v⃗ - v⃗ = v⃗ + (-v⃗) = 0⃗
+>     \vec{v} - \vec{v} = \vec{v} + (-\vec{v}) = 0⃗
 >     
 >     Todo vector menos sí mismo es cero
 > 
 > P5) Distributividad con escalares:
->     α(u⃗ - v⃗) = αu⃗ - αv⃗
+>     α(\vec{u} - \vec{v}) = α\vec{u} - α\vec{v}
 >     
 >     Demostración:
->     α(u⃗ - v⃗) = α(u⃗ + (-v⃗))
->               = αu⃗ + α(-v⃗)      (M2)
->               = αu⃗ + (-(αv⃗))    (Teorema 10)
->               = αu⃗ - αv⃗
+>     α(\vec{u} - \vec{v}) = α(\vec{u} + (-\vec{v}))
+>               = α\vec{u} + α(-\vec{v})      (M2)
+>               = α\vec{u} + (-(α\vec{v}))    (Teorema 10)
+>               = α\vec{u} - α\vec{v}
 > ```
 > 
 > **Interpretación geométrica:**
 > 
 > ```
-> En ℝⁿ, la resta u⃗ - v⃗ representa:
+> En ℝⁿ, la resta \vec{u} - \vec{v} representa:
 > 
-> 1. Vector desplazamiento de v⃗ a u⃗
->    "Qué hay que sumar a v⃗ para llegar a u⃗"
+> 1. Vector desplazamiento de \vec{v} a \vec{u}
+>    "Qué hay que sumar a \vec{v} para llegar a \vec{u}"
 > 
-> 2. Si u⃗ y v⃗ son puntos:
->    u⃗ - v⃗ = vector que apunta de v⃗ hacia u⃗
+> 2. Si \vec{u} y \vec{v} son puntos:
+>    \vec{u} - \vec{v} = vector que apunta de \vec{v} hacia \vec{u}
 > 
 > Visualización:
->       u⃗
+>       \vec{u}
 >      /|
->     / | u⃗-v⃗
+>     / | \vec{u}-\vec{v}
 >    /  |
 >   /   |
->  v⃗----+
+>  \vec{v}----+
 > 
 > Construcción:
-> - Colocar origen de u⃗ y v⃗ en mismo punto
-> - u⃗ - v⃗ va de punta de v⃗ a punta de u⃗
+> - Colocar origen de \vec{u} y \vec{v} en mismo punto
+> - \vec{u} - \vec{v} va de punta de \vec{v} a punta de \vec{u}
 > 
 > Ejemplo en ℝ²:
-> u⃗ = (5, 3), v⃗ = (2, 1)
-> u⃗ - v⃗ = (3, 2)
+> \vec{u} = (5, 3), \vec{v} = (2, 1)
+> \vec{u} - \vec{v} = (3, 2)
 > 
 > Vector de (2,1) a (5,3) es efectivamente (3,2)
 > ```
@@ -837,29 +837,29 @@
 > ╠═══════════════════════════════════════════════════════════════╣
 > ║ SUMA DE VECTORES                                              ║
 > ╟───────────────────────────────────────────────────────────────╢
-> ║ (A1) Cerradura       │ u⃗ + v⃗ ∈ V                            ║
-> ║ (A2) Asociatividad   │ (u⃗+v⃗)+w⃗ = u⃗+(v⃗+w⃗)                  ║
-> ║ (A3) Neutro          │ ∃0⃗: v⃗+0⃗ = v⃗                         ║
-> ║ (A4) Inverso         │ ∃(-v⃗): v⃗+(-v⃗) = 0⃗                   ║
-> ║ (A5) Conmutatividad  │ u⃗ + v⃗ = v⃗ + u⃗                       ║
+> ║ (A1) Cerradura       │ \vec{u} + \vec{v} ∈ V                            ║
+> ║ (A2) Asociatividad   │ (\vec{u}+\vec{v})+\vec{w} = \vec{u}+(\vec{v}+\vec{w})                  ║
+> ║ (A3) Neutro          │ ∃0⃗: \vec{v}+0⃗ = \vec{v}                         ║
+> ║ (A4) Inverso         │ ∃(-\vec{v}): \vec{v}+(-\vec{v}) = 0⃗                   ║
+> ║ (A5) Conmutatividad  │ \vec{u} + \vec{v} = \vec{v} + \vec{u}                       ║
 > ╟───────────────────────────────────────────────────────────────╢
 > ║ MULTIPLICACIÓN POR ESCALAR                                    ║
 > ╟───────────────────────────────────────────────────────────────╢
-> ║ (M1) Cerradura       │ αv⃗ ∈ V                                ║
-> ║ (M2) Distributiva I  │ α(u⃗+v⃗) = αu⃗+αv⃗                      ║
-> ║ (M3) Distributiva II │ (α+β)v⃗ = αv⃗+βv⃗                      ║
-> ║ (M4) Asociatividad   │ α(βv⃗) = (αβ)v⃗                        ║
-> ║ (M5) Neutro          │ 1·v⃗ = v⃗                              ║
+> ║ (M1) Cerradura       │ α\vec{v} ∈ V                                ║
+> ║ (M2) Distributiva I  │ α(\vec{u}+\vec{v}) = α\vec{u}+α\vec{v}                      ║
+> ║ (M3) Distributiva II │ (α+β)\vec{v} = α\vec{v}+β\vec{v}                      ║
+> ║ (M4) Asociatividad   │ α(β\vec{v}) = (αβ)\vec{v}                        ║
+> ║ (M5) Neutro          │ 1·\vec{v} = \vec{v}                              ║
 > ╚═══════════════════════════════════════════════════════════════╝
 > 
 > PROPIEDADES DERIVADAS:
-> • 0·v⃗ = 0⃗
+> • 0·\vec{v} = 0⃗
 > • α·0⃗ = 0⃗
-> • (-1)v⃗ = -v⃗
-> • -(u⃗+v⃗) = -u⃗ + (-v⃗)
-> • -(-v⃗) = v⃗
-> • αv⃗ = 0⃗ ⟹ α=0 o v⃗=0⃗
-> • Unicidad de 0⃗ y -v⃗
+> • (-1)\vec{v} = -\vec{v}
+> • -(\vec{u}+\vec{v}) = -\vec{u} + (-\vec{v})
+> • -(-\vec{v}) = \vec{v}
+> • α\vec{v} = 0⃗ ⟹ α=0 o \vec{v}=0⃗
+> • Unicidad de 0⃗ y -\vec{v}
 > ```
 
 ## ⚠️ Errores Comunes
@@ -867,19 +867,19 @@
 > [!warning]- Malentendidos Frecuentes **1. "Conmutatividad en multiplicación por escalar"**
 > 
 > ```
-> ✗ FALSO: v⃗α ≠ αv⃗ en general
+> ✗ FALSO: \vec{v}α ≠ α\vec{v} en general
 > 
 > La multiplicación por escalar es EXTERNA:
 > F × V → V
 > 
-> αv⃗ está definido (escalar × vector)
-> v⃗α NO está definido (vector × escalar)
+> α\vec{v} está definido (escalar × vector)
+> \vec{v}α NO está definido (vector × escalar)
 > 
-> Notación: SIEMPRE αv⃗ (escalar primero)
+> Notación: SIEMPRE α\vec{v} (escalar primero)
 > 
 > Excepción: En algunos contextos (física)
-> se escribe v⃗α por conveniencia, pero
-> se entiende como αv⃗
+> se escribe \vec{v}α por conveniencia, pero
+> se entiende como α\vec{v}
 > ```
 > 
 > **2. "0 y 0⃗ son lo mismo"**
@@ -895,7 +895,7 @@
 > Correcto:
 > • 0 + 0 = 0 (suma de escalares)
 > • 0⃗ + 0⃗ = 0⃗ (suma de vectores)
-> • 0·v⃗ = 0⃗ (producto → vector)
+> • 0·\vec{v} = 0⃗ (producto → vector)
 > 
 > Incorrecto:
 > • 0 + 0⃗ (no tiene sentido, tipos diferentes)
@@ -906,25 +906,25 @@
 > ```
 > ✗ FALSO
 > 
-> u⃗ - v⃗ ≠ v⃗ - u⃗ en general
+> \vec{u} - \vec{v} ≠ \vec{v} - \vec{u} en general
 > 
-> De hecho: u⃗ - v⃗ = -(v⃗ - u⃗)
+> De hecho: \vec{u} - \vec{v} = -(\vec{v} - \vec{u})
 > 
 > Ejemplo:
 > (5,0) - (2,0) = (3,0)
 > (2,0) - (5,0) = (-3,0) ≠ (3,0)
 > ```
 > 
-> **4. "αv⃗ = 0⃗ implica α = 0"**
+> **4. "α\vec{v} = 0⃗ implica α = 0"**
 > 
 > ```
 > ✗ FALSO (incompleto)
 > 
-> Correcto: αv⃗ = 0⃗ ⟹ α = 0 O v⃗ = 0⃗
+> Correcto: α\vec{v} = 0⃗ ⟹ α = 0 O \vec{v} = 0⃗
 > 
 > Contraejemplos:
 > • 5·0⃗ = 0⃗ pero 5 ≠ 0
-> • 0·v⃗ = 0⃗ pero v⃗ ≠ 0⃗ (si v⃗ cualquiera)
+> • 0·\vec{v} = 0⃗ pero \vec{v} ≠ 0⃗ (si \vec{v} cualquiera)
 > 
 > Solo si sabemos que uno NO es cero,
 > podemos concluir que el otro SÍ lo es
@@ -962,21 +962,21 @@
 > • Ambas son axiomas independientes
 > ```
 > 
-> **7. "(-v⃗) significa 'negativo de v⃗'"**
+> **7. "(-\vec{v}) significa 'negativo de \vec{v}'"**
 > 
 > ```
 > ⚠️ CUIDADO con terminología
 > 
-> -v⃗ es el "opuesto" o "inverso aditivo"
+> -\vec{v} es el "opuesto" o "inverso aditivo"
 > 
 > "Negativo" puede confundir:
-> Si v⃗ = (1,2), entonces -v⃗ = (-1,-2)
+> Si \vec{v} = (1,2), entonces -\vec{v} = (-1,-2)
 > 
 > Las componentes cambian de signo, pero
 > conceptualmente es "el vector que sumado
-> a v⃗ da 0⃗"
+> a \vec{v} da 0⃗"
 > 
-> Mejor: "opuesto de v⃗" o "menos v⃗"
+> Mejor: "opuesto de \vec{v}" o "menos \vec{v}"
 > ```
 
 ## 🔗 Conexiones con Otros Temas

@@ -1210,7 +1210,7 @@
 > **2. Error Cuadrático Medio (RMSE)**:
 > 
 > ```
-> RMSE = √[Σ(y_i - ŷ_i)²/n]
+> RMSE = √[Σ(y_i - \hat{y}_i)²/n]
 > 
 > - Mismas unidades que los datos
 > - Menor RMSE indica mejor ajuste

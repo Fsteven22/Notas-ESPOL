@@ -24,12 +24,12 @@
 > 
 > |Símbolo|Magnitud|Unidad SI|Unidad Alt.|Tipo|Descripción|
 > |---|---|---|---|---|---|
-> |**J⃗**|Impulso|N·s|kg·m/s|Vectorial|Efecto acumulado de fuerza|
-> |**F⃗**|Fuerza|N|kg·m/s²|Vectorial|Agente de cambio|
+> |**\vec{J}**|Impulso|N·s|kg·m/s|Vectorial|Efecto acumulado de fuerza|
+> |**\vec{F}**|Fuerza|N|kg·m/s²|Vectorial|Agente de cambio|
 > |**Δt**|Tiempo|s|-|Escalar|Duración de aplicación|
-> |**p⃗**|Momentum|kg·m/s|N·s|Vectorial|Cantidad de movimiento|
+> |**\vec{p}**|Momentum|kg·m/s|N·s|Vectorial|Cantidad de movimiento|
 > |**m**|Masa|kg|-|Escalar|Inercia del objeto|
-> |**v⃗**|Velocidad|m/s|-|Vectorial|Rapidez y dirección|
+> |**\vec{v}**|Velocidad|m/s|-|Vectorial|Rapidez y dirección|
 
 ### 🔗 Relaciones Conceptuales
 
@@ -259,9 +259,9 @@ graph TB
 
 > [!warning] ⚠️ Diferencias Fundamentales
 > 
-> |Aspecto|Impulso (J⃗)|Trabajo (W)|
+> |Aspecto|Impulso (\vec{J})|Trabajo (W)|
 > |---|---|---|
-> |**Definición**|F⃗ · Δt|F⃗ · Δr⃗|
+> |**Definición**|\vec{F} · Δt|\vec{F} · Δ\vec{r}|
 > |**Unidades**|N·s|J (N·m)|
 > |**Relaciona con**|Cambio momentum|Cambio energía|
 > |**Teorema**|J = Δp|W = ΔK|
@@ -301,13 +301,13 @@ graph TB
 > **⚡ Definición Central:**
 > 
 > - Impulso = Efecto acumulado de fuerza en tiempo
-> - J⃗ = F⃗_promedio · Δt (fuerza constante)
-> - J⃗ = ∫F⃗(t)dt (fuerza variable)
+> - \vec{J} = \vec{F}_promedio · Δt (fuerza constante)
+> - \vec{J} = ∫\vec{F}(t)dt (fuerza variable)
 > 
 > **🎯 Teorema Fundamental:**
 > 
 > - Impulso neto = Cambio de momentum
-> - J⃗_neto = Δp⃗ = m(v⃗_f - v⃗_i)
+> - \vec{J}_neto = Δ\vec{p} = m(\vec{v}_f - \vec{v}_i)
 > 
 > **📈 Interpretación Gráfica:**
 > 

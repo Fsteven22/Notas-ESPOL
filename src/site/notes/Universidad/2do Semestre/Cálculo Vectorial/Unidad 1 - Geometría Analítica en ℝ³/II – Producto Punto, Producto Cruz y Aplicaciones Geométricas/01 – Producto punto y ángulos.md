@@ -11,7 +11,7 @@
 > 
 > **Analogías útiles:**
 > 
-> - **Física:** Trabajo realizado por una fuerza (W = F⃗ · d⃗)
+> - **Física:** Trabajo realizado por una fuerza (W = \vec{F} · \vec{d})
 > - **Geometría:** Medida de "alineación" entre dos vectores
 > - **Proyección:** Sombra de un vector sobre otro
 > - **Similitud:** Qué tan "parecidos" son dos vectores
@@ -131,10 +131,10 @@
 > **Trabajo mecánico:**
 > 
 > ```
-> W = F⃗ · d⃗ = ||F⃗|| · ||d⃗|| · cos(θ)
+> W = \vec{F} · \vec{d} = ||\vec{F}|| · ||\vec{d}|| · cos(θ)
 > ```
 > 
-> - Si F⃗ y d⃗ están alineados (θ = 0°): W máximo
+> - Si \vec{F} y \vec{d} están alineados (θ = 0°): W máximo
 > - Si son perpendiculares (θ = 90°): W = 0
 > - Si son opuestos (θ = 180°): W negativo
 
@@ -514,7 +514,7 @@ graph TD
     C --> C2[Ortogonalidad<br/>u ⊥ v ⟺ u·v = 0]
     C --> C3["Proyecciones<br/>proyᵥu = u·v/||v||² v"]
     
-    D --> D1[Trabajo físico<br/>W = F⃗·d⃗]
+    D --> D1[Trabajo físico<br/>W = \vec{F}·\vec{d}]
     D --> D2[Similitud<br/>cos θ]
     D --> D3[Descomposición<br/>u = u‖ + u⊥]
     
@@ -783,7 +783,7 @@ graph TD
 > |**Proyección**|proyᵥ(u) = [(u·v)/(v·v)]v|Sombra de u sobre v|-|
 > |**Componente escalar**|compᵥ(u) = (u·v)/\|v\||Longitud con signo|-|
 > |**Propiedad consigo mismo**|u · u = \|u\|²|Magnitud al cuadrado|(3,4,0)·(3,4,0) = 25|
-> |**Trabajo**|W = F⃗ · d⃗|Energía transferida|W = 100 J|
+> |**Trabajo**|W = \vec{F} · \vec{d}|Energía transferida|W = 100 J|
 > |**Paralelismo**|u ∥ v ⟺ u·v = ±\|u\| \|v\||Máxima alineación|cos(θ) = ±1|
 
 ---

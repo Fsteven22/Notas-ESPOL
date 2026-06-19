@@ -129,16 +129,16 @@
 
 ### 🔄 Ecuación Normal
 
-> [!info]- 📐 Forma Normal del Plano **Definición:** Usando el vector normal unitario **n̂**:
+> [!info]- 📐 Forma Normal del Plano **Definición:** Usando el vector normal unitario **\hat{n}**:
 > 
-> $$\mathbf{n̂} \cdot (\mathbf{r} - \mathbf{r}_0) = 0$$
+> $$\mathbf{\hat{n}} \cdot (\mathbf{r} - \mathbf{r}_0) = 0$$
 > 
-> O equivalentemente: $$\mathbf{n̂} \cdot \mathbf{r} = p$$
+> O equivalentemente: $$\mathbf{\hat{n}} \cdot \mathbf{r} = p$$
 > 
 > Donde:
 > 
-> - **n̂** = **n**/||**n**|| es el vector normal unitario
-> - p = **n̂** · **r₀** es la distancia del origen al plano
+> - **\hat{n}** = **n**/||**n**|| es el vector normal unitario
+> - p = **\hat{n}** · **r₀** es la distancia del origen al plano
 > 
 > **Ventaja:** Facilita cálculos de distancias
 
@@ -538,7 +538,7 @@
 > **Paso 4: Vector normal**
 > 
 > - **n** = (2, 3, 6) apunta "hacia afuera"
-> - Normalizado: **n̂** = (2/7, 3/7, 6/7)
+> - Normalizado: **\hat{n}** = (2/7, 3/7, 6/7)
 > 
 > **Características:**
 > 
@@ -953,8 +953,8 @@ graph TD
 > 
 > - Normal: **n** = (2, 3, -6)
 > - Gravedad: **g** = (0, 0, -g)
-> - Componente normal: **g**·**n̂**
-> - Componente tangencial: **g** - (**g**·**n̂**)**n̂**
+> - Componente normal: **g**·**\hat{n}**
+> - Componente tangencial: **g** - (**g**·**\hat{n}**)**\hat{n}**
 
 ### 🔬 En Cristalografía
 

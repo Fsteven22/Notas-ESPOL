@@ -167,7 +167,7 @@
 > 
 > ### Trabajo y Energía:
 > 
-> **Potencia**: P = F⃗ · v⃗
+> **Potencia**: P = \vec{F} · \vec{v}
 > 
 > ```
 > ∂P/∂v = F (fuerza en dirección del movimiento)
@@ -427,17 +427,17 @@
 > 
 > ### Campos Conservativos:
 > 
-> Una fuerza F⃗ es conservativa si:
+> Una fuerza \vec{F} es conservativa si:
 > 
 > ```
-> F⃗ = -∇U (derivado de un potencial U)
+> \vec{F} = -∇U (derivado de un potencial U)
 > ```
 > 
 > ### Aplicaciones:
 > 
-> - **Campo gravitacional**: g⃗ = -∇Φ
-> - **Campo eléctrico**: E⃗ = -∇V
-> - **Fuerza elástica**: F⃗ = -∇U_elástica
+> - **Campo gravitacional**: \vec{g} = -∇Φ
+> - **Campo eléctrico**: \vec{E} = -∇V
+> - **Fuerza elástica**: \vec{F} = -∇U_elástica
 
 > [!info]- **Optimización y Puntos Críticos** 🎯
 > 

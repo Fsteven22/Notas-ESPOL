@@ -15,15 +15,15 @@
 > 
 > Sea **W** un subespacio de ℝⁿ y sea **y** un vector cualquiera en ℝⁿ. Entonces **y** puede escribirse de forma única como:
 > 
-> **y = ŷ + z**
+> **y = \hat{y} + z**
 > 
 > Donde:
 > 
-> - **ŷ ∈ W** (componente en W)
+> - **\hat{y} ∈ W** (componente en W)
 > - **z ∈ W⊥** (componente ortogonal a W)
-> - **ŷ · z = 0** (perpendiculares)
+> - **\hat{y} · z = 0** (perpendiculares)
 > 
-> **Analogía práctica:** Imagina una lámpara sobre una mesa. La luz proyecta una sombra del objeto sobre la mesa. El vector original es como el objeto, la proyección sobre la mesa es ŷ (componente en W), y la línea vertical desde la sombra al objeto es z (componente ortogonal).
+> **Analogía práctica:** Imagina una lámpara sobre una mesa. La luz proyecta una sombra del objeto sobre la mesa. El vector original es como el objeto, la proyección sobre la mesa es \hat{y} (componente en W), y la línea vertical desde la sombra al objeto es z (componente ortogonal).
 > 
 > **¿Por qué es importante?**
 > 
@@ -38,13 +38,13 @@
 ```mermaid
 graph TB
     A[Vector y en ℝⁿ] --> B[Descomposición Ortogonal]
-    B --> C[ŷ componente en W]
+    B --> C[\hat{y} componente en W]
     B --> D[z componente en W⊥]
     
-    C --> E[ŷ ∈ W]
+    C --> E[\hat{y} ∈ W]
     D --> F[z ⊥ W]
     
-    E --> G[y = ŷ + z]
+    E --> G[y = \hat{y} + z]
     F --> G
     
     G --> H[Única descomposición]
@@ -231,7 +231,7 @@ graph TB
 > 
 > **Definición:**
 > 
-> La **proyección ortogonal** de un vector **y** sobre un subespacio **W**, denotada **proj_W(y)** o **ŷ**, es el vector en W más cercano a y.
+> La **proyección ortogonal** de un vector **y** sobre un subespacio **W**, denotada **proj_W(y)** o **\hat{y}**, es el vector en W más cercano a y.
 > 
 > **Fórmula para proyección sobre vector unitario:**
 > 
@@ -257,10 +257,10 @@ graph TB
 >           = (3, 0)
 > 
 > Componente ortogonal:
-> z = y - ŷ = (3, 4) - (3, 0) = (0, 4)
+> z = y - \hat{y} = (3, 4) - (3, 0) = (0, 4)
 > 
 > Verificar perpendicularidad:
-> ŷ · z = (3, 0) · (0, 4) = 0 ✅
+> \hat{y} · z = (3, 0) · (0, 4) = 0 ✅
 > ```
 > 
 > **Visualización geométrica:**
@@ -273,12 +273,12 @@ graph TB
 >      /   | componente
 >     /    | ortogonal
 >    /     |
->   /______| ŷ (3,0)
+>   /______| \hat{y} (3,0)
 >  O       proyección
 >  
->  ŷ = proyección de y sobre eje x
+>  \hat{y} = proyección de y sobre eje x
 >  z = componente perpendicular
->  y = ŷ + z
+>  y = \hat{y} + z
 > ```
 > 
 > **Proyección sobre subespacio generado por base ortogonal:**
@@ -301,12 +301,12 @@ graph TB
 >     B -->|Ortogonal| C[Usar fórmula directa]
 >     B -->|No ortogonal| D[Ortonormalizar<br/>Gram-Schmidt]
 >     
->     C --> E[ŷ = Σ y·uᵢ/uᵢ·uᵢ uᵢ]
+>     C --> E[\hat{y} = Σ y·uᵢ/uᵢ·uᵢ uᵢ]
 >     D --> F[Obtener base ortonormal]
 >     F --> E
 >     
->     E --> G[Calcular z = y - ŷ]
->     G --> H[Verificar: ŷ · z = 0]
+>     E --> G[Calcular z = y - \hat{y}]
+>     G --> H[Verificar: \hat{y} · z = 0]
 >     
 >     style A fill:#e1f5ff
 >     style E fill:#e1ffe1
@@ -317,10 +317,10 @@ graph TB
 > 
 > |Propiedad|Fórmula|Significado|
 > |---|---|---|
-> |**Idempotencia**|proj_W(ŷ) = ŷ|Proyectar dos veces = proyectar una vez|
+> |**Idempotencia**|proj_W(\hat{y}) = \hat{y}|Proyectar dos veces = proyectar una vez|
 > |**Linealidad**|proj_W(αy₁ + βy₂) = α proj_W(y₁) + β proj_W(y₂)|Es transformación lineal|
-> |**Minimiza distancia**|‖y - ŷ‖ ≤ ‖y - w‖ para todo w ∈ W|ŷ es el vector más cercano|
-> |**Ortogonalidad**|(y - ŷ) ⊥ W|El error es perpendicular|
+> |**Minimiza distancia**|‖y - \hat{y}‖ ≤ ‖y - w‖ para todo w ∈ W|\hat{y} es el vector más cercano|
+> |**Ortogonalidad**|(y - \hat{y}) ⊥ W|El error es perpendicular|
 
 ---
 
@@ -334,15 +334,15 @@ graph TB
 > 
 > Sea **W** un subespacio de ℝⁿ. Entonces cada vector **y** en ℝⁿ puede escribirse de manera única como:
 > 
-> **y = ŷ + z**
+> **y = \hat{y} + z**
 > 
-> donde **ŷ ∈ W** y **z ∈ W⊥**.
+> donde **\hat{y} ∈ W** y **z ∈ W⊥**.
 > 
 > Además, si {u₁, u₂, ..., uₖ} es cualquier base ortogonal de W, entonces:
 > 
-> **ŷ = (y · u₁/‖u₁‖²)u₁ + (y · u₂/‖u₂‖²)u₂ + ... + (y · uₖ/‖uₖ‖²)uₖ**
+> **\hat{y} = (y · u₁/‖u₁‖²)u₁ + (y · u₂/‖u₂‖²)u₂ + ... + (y · uₖ/‖uₖ‖²)uₖ**
 > 
-> **z = y - ŷ**
+> **z = y - \hat{y}**
 > 
 > **Componentes del teorema:**
 > 
@@ -352,11 +352,11 @@ graph TB
 >     A --> C[Unicidad]
 >     A --> D[Fórmula explícita]
 >     
->     B --> E[Siempre existe<br/>ŷ y z]
+>     B --> E[Siempre existe<br/>\hat{y} y z]
 >     C --> F[Solo hay una<br/>descomposición]
->     D --> G[Podemos calcular<br/>ŷ usando base]
+>     D --> G[Podemos calcular<br/>\hat{y} usando base]
 >     
->     E --> H[y = ŷ + z]
+>     E --> H[y = \hat{y} + z]
 >     F --> H
 >     G --> H
 >     
@@ -369,7 +369,7 @@ graph TB
 > |Símbolo|Nombre|Descripción|
 > |---|---|---|
 > |**y**|Vector original|Vector a descomponer|
-> |**ŷ**|Proyección|Componente en W (se lee "y-hat")|
+> |**\hat{y}**|Proyección|Componente en W (se lee "y-hat")|
 > |**z**|Componente ortogonal|Componente en W⊥|
 > |**W**|Subespacio|Subespacio sobre el que proyectamos|
 > |**W⊥**|Complemento ortogonal|Subespacio perpendicular a W|
@@ -378,8 +378,8 @@ graph TB
 > 
 > 1. **Geométrica**: Todo vector es suma de su "sombra" en W y su "altura" sobre W
 > 2. **Algebraica**: Descomposición única en componentes perpendiculares
-> 3. **Aproximación**: ŷ es la mejor aproximación de y dentro de W
-> 4. **Optimización**: ŷ minimiza ‖y - w‖ para todo w ∈ W
+> 3. **Aproximación**: \hat{y} es la mejor aproximación de y dentro de W
+> 4. **Optimización**: \hat{y} minimiza ‖y - w‖ para todo w ∈ W
 
 ### 🔍 Demostración
 
@@ -390,23 +390,23 @@ graph TB
 > **Parte 1: Existencia**
 > 
 > ```
-> Queremos demostrar que existen ŷ ∈ W y z ∈ W⊥ tales que y = ŷ + z.
+> Queremos demostrar que existen \hat{y} ∈ W y z ∈ W⊥ tales que y = \hat{y} + z.
 > 
 > Sea {u₁, u₂, ..., uₖ} una base ortogonal de W.
 > 
 > Definimos:
-> ŷ = (y · u₁/‖u₁‖²)u₁ + (y · u₂/‖u₂‖²)u₂ + ... + (y · uₖ/‖uₖ‖²)uₖ
-> z = y - ŷ
+> \hat{y} = (y · u₁/‖u₁‖²)u₁ + (y · u₂/‖u₂‖²)u₂ + ... + (y · uₖ/‖uₖ‖²)uₖ
+> z = y - \hat{y}
 > 
-> Paso 1: Demostrar que ŷ ∈ W
-> ŷ es combinación lineal de u₁, ..., uₖ
-> → ŷ ∈ span{u₁, ..., uₖ} = W ✅
+> Paso 1: Demostrar que \hat{y} ∈ W
+> \hat{y} es combinación lineal de u₁, ..., uₖ
+> → \hat{y} ∈ span{u₁, ..., uₖ} = W ✅
 > 
 > Paso 2: Demostrar que z ∈ W⊥
 > Debemos probar que z · uᵢ = 0 para todo i = 1, ..., k
 > 
-> z · uᵢ = (y - ŷ) · uᵢ
->        = y · uᵢ - ŷ · uᵢ
+> z · uᵢ = (y - \hat{y}) · uᵢ
+>        = y · uᵢ - \hat{y} · uᵢ
 >        = y · uᵢ - [(y·u₁/‖u₁‖²)u₁ + ... + (y·uₖ/‖uₖ‖²)uₖ] · uᵢ
 >        = y · uᵢ - (y·uᵢ/‖uᵢ‖²)(uᵢ · uᵢ)    (por ortogonalidad de la base)
 >        = y · uᵢ - (y·uᵢ/‖uᵢ‖²)‖uᵢ‖²
@@ -415,30 +415,30 @@ graph TB
 > 
 > Por lo tanto z ⊥ uᵢ para todo i, entonces z ∈ W⊥ ✅
 > 
-> Paso 3: y = ŷ + z por construcción ✅
+> Paso 3: y = \hat{y} + z por construcción ✅
 > ```
 > 
 > **Parte 2: Unicidad**
 > 
 > ```
 > Supongamos que existen dos descomposiciones:
-> y = ŷ₁ + z₁  con ŷ₁ ∈ W, z₁ ∈ W⊥
-> y = ŷ₂ + z₂  con ŷ₂ ∈ W, z₂ ∈ W⊥
+> y = \hat{y}₁ + z₁  con \hat{y}₁ ∈ W, z₁ ∈ W⊥
+> y = \hat{y}₂ + z₂  con \hat{y}₂ ∈ W, z₂ ∈ W⊥
 > 
 > Restando:
-> 0 = (ŷ₁ - ŷ₂) + (z₁ - z₂)
+> 0 = (\hat{y}₁ - \hat{y}₂) + (z₁ - z₂)
 > 
 > Reordenando:
-> ŷ₁ - ŷ₂ = -(z₁ - z₂) = z₂ - z₁
+> \hat{y}₁ - \hat{y}₂ = -(z₁ - z₂) = z₂ - z₁
 > 
 > Ahora:
-> - ŷ₁ - ŷ₂ ∈ W (porque W es subespacio)
+> - \hat{y}₁ - \hat{y}₂ ∈ W (porque W es subespacio)
 > - z₂ - z₁ ∈ W⊥ (porque W⊥ es subespacio)
 > 
-> Pero ŷ₁ - ŷ₂ = z₂ - z₁, entonces este vector está en W ∩ W⊥
+> Pero \hat{y}₁ - \hat{y}₂ = z₂ - z₁, entonces este vector está en W ∩ W⊥
 > 
 > Como W ∩ W⊥ = {0}:
-> ŷ₁ - ŷ₂ = 0  →  ŷ₁ = ŷ₂
+> \hat{y}₁ - \hat{y}₂ = 0  →  \hat{y}₁ = \hat{y}₂
 > z₁ - z₂ = 0  →  z₁ = z₂
 > 
 > Por lo tanto la descomposición es única ✅ ∎
@@ -451,9 +451,9 @@ graph TB
 >     A[Inicio Demostración] --> B[Existencia]
 >     A --> C[Unicidad]
 >     
->     B --> D[Definir ŷ usando<br/>base ortogonal]
->     D --> E[Definir z = y - ŷ]
->     E --> F[Probar ŷ ∈ W]
+>     B --> D[Definir \hat{y} usando<br/>base ortogonal]
+>     D --> E[Definir z = y - \hat{y}]
+>     E --> F[Probar \hat{y} ∈ W]
 >     E --> G[Probar z ∈ W⊥]
 >     F --> H[Existencia probada ✅]
 >     G --> H
@@ -475,20 +475,20 @@ graph TB
 > **Corolario 1: Mejor aproximación**
 > 
 > ```
-> El vector ŷ = proj_W(y) es el vector en W más cercano a y.
+> El vector \hat{y} = proj_W(y) es el vector en W más cercano a y.
 > 
-> Es decir: ‖y - ŷ‖ ≤ ‖y - w‖ para todo w ∈ W
+> Es decir: ‖y - \hat{y}‖ ≤ ‖y - w‖ para todo w ∈ W
 > 
 > Demostración:
 > Para cualquier w ∈ W:
-> ‖y - w‖² = ‖(ŷ + z) - w‖²
->          = ‖(ŷ - w) + z‖²
->          = ‖ŷ - w‖² + ‖z‖² + 2(ŷ - w) · z
->          = ‖ŷ - w‖² + ‖z‖²    (porque z ⊥ W y ŷ-w ∈ W)
+> ‖y - w‖² = ‖(\hat{y} + z) - w‖²
+>          = ‖(\hat{y} - w) + z‖²
+>          = ‖\hat{y} - w‖² + ‖z‖² + 2(\hat{y} - w) · z
+>          = ‖\hat{y} - w‖² + ‖z‖²    (porque z ⊥ W y \hat{y}-w ∈ W)
 >          ≥ ‖z‖²
->          = ‖y - ŷ‖²
+>          = ‖y - \hat{y}‖²
 > 
-> La igualdad se da cuando w = ŷ ✅
+> La igualdad se da cuando w = \hat{y} ✅
 > ```
 > 
 > **Corolario 2: Desigualdad de Bessel**
@@ -496,11 +496,11 @@ graph TB
 > ```
 > Si {u₁, u₂, ..., uₖ} es conjunto ortonormal y W = span{u₁, ..., uₖ}:
 > 
-> ‖ŷ‖² = (y · u₁)² + (y · u₂)² + ... + (y · uₖ)² ≤ ‖y‖²
+> ‖\hat{y}‖² = (y · u₁)² + (y · u₂)² + ... + (y · uₖ)² ≤ ‖y‖²
 > 
 > Demostración:
-> y = ŷ + z con ŷ ⊥ z
-> ‖y‖² = ‖ŷ + z‖² = ‖ŷ‖² + ‖z‖² ≥ ‖ŷ‖² ✅
+> y = \hat{y} + z con \hat{y} ⊥ z
+> ‖y‖² = ‖\hat{y} + z‖² = ‖\hat{y}‖² + ‖z‖² ≥ ‖\hat{y}‖² ✅
 > ```
 > 
 > **Corolario 3: Identidad de Parseval**
@@ -516,8 +516,8 @@ graph TB
 > **Corolario 4: Teorema de Pitágoras**
 > 
 > ```
-> Como ŷ ⊥ z:
-> ‖y‖² = ‖ŷ + z‖² = ‖ŷ‖² + ‖z‖²
+> Como \hat{y} ⊥ z:
+> ‖y‖² = ‖\hat{y} + z‖² = ‖\hat{y}‖² + ‖z‖²
 > 
 > Generalización del teorema de Pitágoras a n dimensiones
 > ```
@@ -526,9 +526,9 @@ graph TB
 > 
 > |Resultado|Fórmula|Aplicación|
 > |---|---|---|
-> |**Mejor aproximación**|‖y - ŷ‖ ≤ ‖y - w‖|Mínimos cuadrados|
-> |**Teorema de Pitágoras**|‖y‖² = ‖ŷ‖² + ‖z‖²|Cálculo de distancias|
-> |**Bessel**|‖ŷ‖² ≤ ‖y‖²|Análisis de Fourier|
+> |**Mejor aproximación**|‖y - \hat{y}‖ ≤ ‖y - w‖|Mínimos cuadrados|
+> |**Teorema de Pitágoras**|‖y‖² = ‖\hat{y}‖² + ‖z‖²|Cálculo de distancias|
+> |**Bessel**|‖\hat{y}‖² ≤ ‖y‖²|Análisis de Fourier|
 > |**Parseval**|‖y‖² = Σ(y·uᵢ)²|Conservación energía|
 
 ---
@@ -552,14 +552,14 @@ graph TB
 > cₖ = y · uₖ / ‖uₖ‖²
 > 
 > Paso 2: Formar la proyección
-> ŷ = c₁u₁ + c₂u₂ + ... + cₖuₖ
+> \hat{y} = c₁u₁ + c₂u₂ + ... + cₖuₖ
 > 
 > Paso 3: Calcular componente ortogonal
-> z = y - ŷ
+> z = y - \hat{y}
 > 
 > Paso 4: Verificar (opcional pero recomendado)
-> - Verificar que ŷ · z = 0
-> - Verificar que y = ŷ + z
+> - Verificar que \hat{y} · z = 0
+> - Verificar que y = \hat{y} + z
 > ```
 > 
 > **Ejemplo completo en ℝ³:**
@@ -582,20 +582,20 @@ graph TB
 > c₂ = y · u₂ / ‖u₂‖² = ((2)(0) + (3)(0) + (4)(1)) / 1 = 4
 > 
 > Paso 2: Proyección
-> ŷ = (5/2)(1,1,0) + 4(0,0,1)
+> \hat{y} = (5/2)(1,1,0) + 4(0,0,1)
 >    = (5/2, 5/2, 0) + (0, 0, 4)
 >    = (5/2, 5/2, 4)
 > 
 > Paso 3: Componente ortogonal
-> z = y - ŷ = (2, 3, 4) - (5/2, 5/2, 4)
+> z = y - \hat{y} = (2, 3, 4) - (5/2, 5/2, 4)
 >    = (2 - 5/2, 3 - 5/2, 4 - 4)
 >    = (-1/2, 1/2, 0)
 > 
 > Paso 4: Verificación
-> ŷ · z = (5/2)(-1/2) + (5/2)(1/2) + (4)(0)
+> \hat{y} · z = (5/2)(-1/2) + (5/2)(1/2) + (4)(0)
 >       = -5/4 + 5/4 + 0 = 0 ✅
 > 
-> y = ŷ + z = (5/2, 5/2, 4) + (-1/2, 1/2, 0) = (2, 3, 4) ✅
+> y = \hat{y} + z = (5/2, 5/2, 4) + (-1/2, 1/2, 0) = (2, 3, 4) ✅
 > ```
 > 
 > **Flujo del proceso:**
@@ -607,9 +607,9 @@ graph TB
 >     B -->|No| D[Ortonormalizar base<br/>Gram-Schmidt]
 >     
 >     D --> C
->     C --> E[ŷ = Σ cᵢuᵢ]
->     E --> F[z = y - ŷ]
->     F --> G[Verificar ŷ · z = 0]
+>     C --> E[\hat{y} = Σ cᵢuᵢ]
+>     E --> F[z = y - \hat{y}]
+>     F --> G[Verificar \hat{y} · z = 0]
 >     
 >     style C fill:#e1ffe1
 >     style E fill:#fff4e1
@@ -628,7 +628,7 @@ graph TB
 > - ‖qᵢ‖ = 1 para todo i (unitarios)
 > 
 > Entonces:
-> ŷ = (y · q₁)q₁ + (y · q₂)q₂ + ... + (y · qₖ)qₖ
+> \hat{y} = (y · q₁)q₁ + (y · q₂)q₂ + ... + (y · qₖ)qₖ
 > 
 > (No hay división por ‖uᵢ‖² porque ‖qᵢ‖² = 1)
 > ```
@@ -651,12 +651,12 @@ graph TB
 > y · q₁ = 3(1/√2) + 4(1/√2) + 5(0) = 7/√2
 > y · q₂ = 3(0) + 4(0) + 5(1) = 5
 > 
-> ŷ = (7/√2)q₁ + 5q₂
+> \hat{y} = (7/√2)q₁ + 5q₂
 >    = (7/√2)(1/√2, 1/√2, 0) + 5(0, 0, 1)
 >    = (7/2, 7/2, 0) + (0, 0, 5)
 >    = (7/2, 7/2, 5)
 > 
-> z = y - ŷ = (3, 4, 5) - (7/2, 7/2, 5)
+> z = y - \hat{y} = (3, 4, 5) - (7/2, 7/2, 5)
 >    = (-1/2, 1/2, 0)
 > ```
 > 
@@ -665,7 +665,7 @@ graph TB
 > ```
 > Si Q = [q₁ q₂ ... qₖ] es matriz con columnas ortonormales:
 > 
-> ŷ = Q(Q^T y)
+> \hat{y} = Q(Q^T y)
 > z = y - Q(Q^T y) = (I - QQ^T)y
 > 
 > La matriz P = QQ^T es la matriz de proyección sobre W
@@ -792,11 +792,11 @@ graph TB
 > - b̂ ∈ W (proyección de b sobre Col(A))
 > - z ∈ W⊥ (componente perpendicular)
 > 
-> El vector x̂ que minimiza ‖Ax - b‖ satisface:
-> Ax̂ = b̂
+> El vector \hat{x} que minimiza ‖Ax - b‖ satisface:
+> A\hat{x} = b̂
 > 
 > Y se obtiene resolviendo:
-> A^T A x̂ = A^T b  (ecuaciones normales)
+> A^T A \hat{x} = A^T b  (ecuaciones normales)
 > ```
 > 
 > **Interpretación geométrica:**
@@ -805,8 +805,8 @@ graph TB
 > graph TB
 >     A[Vector b<br/>fuera de Col A ] --> B[Proyectar sobre Col A ]
 >     B --> C[b̂ = proj_Col A  b]
->     C --> D[Resolver Ax̂ = b̂]
->     D --> E[x̂ solución de<br/>mínimos cuadrados]
+>     C --> D[Resolver A\hat{x} = b̂]
+>     D --> E[\hat{x} solución de<br/>mínimos cuadrados]
 >     
 >     F[‖Ax - b‖] --> G[Minimizado cuando<br/>Ax = b̂]
 >     
@@ -896,10 +896,10 @@ graph TB
 > wₖ = [e^(2πik·0/N), e^(2πik·1/N), ..., e^(2πik·(N-1)/N)]
 > 
 > Coeficientes de Fourier:
-> ŷₖ = (y · wₖ) / N
+> \hat{y}ₖ = (y · wₖ) / N
 > 
 > Reconstrucción:
-> y = Σ(k=0 hasta N-1) ŷₖ wₖ
+> y = Σ(k=0 hasta N-1) \hat{y}ₖ wₖ
 > ```
 > 
 > **Aplicaciones:**
@@ -978,22 +978,22 @@ graph TB
 > W = span{(1, 0)} (eje x en ℝ²)
 > y = (3, 4)
 > 
-> Encontrar ŷ y z.
+> Encontrar \hat{y} y z.
 > 
 > Solución:
 > u = (1, 0)
 > ‖u‖² = 1
 > 
-> ŷ = (y · u / ‖u‖²)u
+> \hat{y} = (y · u / ‖u‖²)u
 >    = ((3, 4) · (1, 0) / 1)(1, 0)
 >    = 3(1, 0)
 >    = (3, 0)
 > 
-> z = y - ŷ = (3, 4) - (3, 0) = (0, 4)
+> z = y - \hat{y} = (3, 4) - (3, 0) = (0, 4)
 > 
 > Verificación:
-> ŷ · z = (3, 0) · (0, 4) = 0 ✅
-> y = ŷ + z = (3, 0) + (0, 4) = (3, 4) ✅
+> \hat{y} · z = (3, 0) · (0, 4) = 0 ✅
+> y = \hat{y} + z = (3, 0) + (0, 4) = (3, 4) ✅
 > ```
 > 
 > **Ejercicio 2: Proyección sobre un plano**
@@ -1003,21 +1003,21 @@ graph TB
 > Base ortonormal: {(1, 0, 0), (0, 1, 0)}
 > y = (2, 3, 5)
 > 
-> Encontrar ŷ y z.
+> Encontrar \hat{y} y z.
 > 
 > Solución:
 > q₁ = (1, 0, 0)
 > q₂ = (0, 1, 0)
 > 
-> ŷ = (y · q₁)q₁ + (y · q₂)q₂
+> \hat{y} = (y · q₁)q₁ + (y · q₂)q₂
 >    = ((2, 3, 5) · (1, 0, 0))(1, 0, 0) + ((2, 3, 5) · (0, 1, 0))(0, 1, 0)
 >    = 2(1, 0, 0) + 3(0, 1, 0)
 >    = (2, 3, 0)
 > 
-> z = y - ŷ = (2, 3, 5) - (2, 3, 0) = (0, 0, 5)
+> z = y - \hat{y} = (2, 3, 5) - (2, 3, 0) = (0, 0, 5)
 > 
 > Interpretación:
-> ŷ = proyección sobre plano xy
+> \hat{y} = proyección sobre plano xy
 > z = componente perpendicular (paralela al eje z)
 > ```
 > 
@@ -1068,7 +1068,7 @@ graph TB
 > q₂ = (1/2, 1, -1/2) / √(3/2) = (1/√6, 2/√6, -1/√6)
 > 
 > Paso 2: Proyectar y
-> ŷ = (y · q₁)q₁ + (y · q₂)q₂
+> \hat{y} = (y · q₁)q₁ + (y · q₂)q₂
 >    = ((2, 1, 3) · (1/√2, 0, 1/√2))(1/√2, 0, 1/√2) + 
 >      ((2, 1, 3) · (1/√6, 2/√6, -1/√6))(1/√6, 2/√6, -1/√6)
 >    = (5/√2)(1/√2, 0, 1/√2) + (1/√6)(1/√6, 2/√6, -1/√6)
@@ -1148,19 +1148,19 @@ graph TB
 > 
 > Demostración:
 > Para cualquier y ∈ ℝⁿ:
-> y = ŷ + z  donde ŷ ∈ W, z ∈ W⊥
+> y = \hat{y} + z  donde \hat{y} ∈ W, z ∈ W⊥
 > 
 > Aplicar P:
-> P(y) = ŷ
+> P(y) = \hat{y}
 > 
 > Aplicar P de nuevo:
-> P²(y) = P(P(y)) = P(ŷ)
+> P²(y) = P(P(y)) = P(\hat{y})
 > 
-> Pero ŷ ∈ W, entonces la proyección de ŷ sobre W es ŷ mismo:
-> P(ŷ) = ŷ
+> Pero \hat{y} ∈ W, entonces la proyección de \hat{y} sobre W es \hat{y} mismo:
+> P(\hat{y}) = \hat{y}
 > 
 > Por lo tanto:
-> P²(y) = ŷ = P(y)
+> P²(y) = \hat{y} = P(y)
 > 
 > Como esto vale para todo y:
 > P² = P ∎
@@ -1169,23 +1169,23 @@ graph TB
 > **Problema 8: Teorema de mejor aproximación**
 > 
 > ```
-> Demostrar que ŷ = proj_W(y) minimiza ‖y - w‖ para todo w ∈ W.
+> Demostrar que \hat{y} = proj_W(y) minimiza ‖y - w‖ para todo w ∈ W.
 > 
 > Demostración:
 > Sea w ∈ W arbitrario.
 > 
-> ‖y - w‖² = ‖(y - ŷ) + (ŷ - w)‖²
->          = ‖z + (ŷ - w)‖²
+> ‖y - w‖² = ‖(y - \hat{y}) + (\hat{y} - w)‖²
+>          = ‖z + (\hat{y} - w)‖²
 > 
-> Como z ∈ W⊥ y (ŷ - w) ∈ W:
->          = ‖z‖² + ‖ŷ - w‖² + 2z · (ŷ - w)
->          = ‖z‖² + ‖ŷ - w‖²    (porque z ⊥ W)
+> Como z ∈ W⊥ y (\hat{y} - w) ∈ W:
+>          = ‖z‖² + ‖\hat{y} - w‖² + 2z · (\hat{y} - w)
+>          = ‖z‖² + ‖\hat{y} - w‖²    (porque z ⊥ W)
 >          ≥ ‖z‖²
->          = ‖y - ŷ‖²
+>          = ‖y - \hat{y}‖²
 > 
-> La igualdad se da si y solo si ŷ - w = 0, es decir, w = ŷ.
+> La igualdad se da si y solo si \hat{y} - w = 0, es decir, w = \hat{y}.
 > 
-> Por lo tanto ŷ minimiza la distancia ∎
+> Por lo tanto \hat{y} minimiza la distancia ∎
 > ```
 
 ---
@@ -1200,14 +1200,14 @@ graph TB
 > mindmap
 >   root((Descomposición<br/>Ortogonal))
 >     Enunciado
->       y = ŷ + z
->       ŷ ∈ W
+>       y = \hat{y} + z
+>       \hat{y} ∈ W
 >       z ∈ W⊥
 >       Única
 >     Propiedades
->       ŷ · z = 0
->       y² = ŷ² + z²
->       ŷ minimiza distancia
+>       \hat{y} · z = 0
+>       y² = \hat{y}² + z²
+>       \hat{y} minimiza distancia
 >     Cálculo
 >       Base ortogonal
 >       Base ortonormal
@@ -1222,10 +1222,10 @@ graph TB
 > 
 > |Concepto|Fórmula|Condición|
 > |---|---|---|
-> |**Descomposición**|y = ŷ + z|ŷ ∈ W, z ∈ W⊥|
-> |**Proyección (base ortogonal)**|ŷ = Σ(y·uᵢ/‖uᵢ‖²)uᵢ|{u₁,...,uₖ} base de W|
-> |**Proyección (base ortonormal)**|ŷ = Σ(y·qᵢ)qᵢ | {q₁,...,qₖ} ortonormal |
-> | **Componente ortogonal** | z = y - ŷ | Siempre | | **Teorema de Pitágoras** | ‖y‖² = ‖ŷ‖² + ‖z‖² | Consecuencia | | **Mínimos cuadrados** | A^T A x̂ = A^T b | Sistema normal |
+> |**Descomposición**|y = \hat{y} + z|\hat{y} ∈ W, z ∈ W⊥|
+> |**Proyección (base ortogonal)**|\hat{y} = Σ(y·uᵢ/‖uᵢ‖²)uᵢ|{u₁,...,uₖ} base de W|
+> |**Proyección (base ortonormal)**|\hat{y} = Σ(y·qᵢ)qᵢ | {q₁,...,qₖ} ortonormal |
+> | **Componente ortogonal** | z = y - \hat{y} | Siempre | | **Teorema de Pitágoras** | ‖y‖² = ‖\hat{y}‖² + ‖z‖² | Consecuencia | | **Mínimos cuadrados** | A^T A \hat{x} = A^T b | Sistema normal |
 > 
 > **Conceptos relacionados:**
 > 

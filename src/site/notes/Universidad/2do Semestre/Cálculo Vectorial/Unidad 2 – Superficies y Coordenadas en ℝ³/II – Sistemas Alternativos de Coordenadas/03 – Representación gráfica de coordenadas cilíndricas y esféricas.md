@@ -915,7 +915,7 @@ v
 > |**Línea 1**|Recta ∥ eje X|Rayo radial|Rayo desde O|
 > |**Línea 2**|Recta ∥ eje Y|Círculo horizontal|Semicírculo vertical|
 > |**Línea 3**|Recta ∥ eje Z|Recta vertical|Círculo horizontal|
-> |**Vectores base**|î, ĵ, k̂ (fijos)|êρ, êφ, êz (varían)|êr, êθ, êφ (varían)|
+> |**Vectores base**|\hat{i}, \hat{j}, \hat{k} (fijos)|êρ, êφ, êz (varían)|êr, êθ, êφ (varían)|
 > |**Elemento volumen**|dx dy dz|ρ dρ dφ dz|r² sen(θ) dr dθ dφ|
 > |**Mejor para**|Geometría rectangular|Simetría cilíndrica|Simetría esférica|
 

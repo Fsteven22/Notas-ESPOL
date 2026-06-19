@@ -2285,7 +2285,7 @@ graph TB
 > 
 > ```
 > En ℝ²:
-> F(x,y) = P(x,y)î + Q(x,y)ĵ = ∇φ
+> F(x,y) = P(x,y)\hat{i} + Q(x,y)\hat{j} = ∇φ
 > 
 > Significa:
 > P(x,y) = ∂φ/∂x
@@ -2294,7 +2294,7 @@ graph TB
 > ────────────────────────────────
 > 
 > En ℝ³:
-> F(x,y,z) = P(x,y,z)î + Q(x,y,z)ĵ + R(x,y,z)k̂ = ∇φ
+> F(x,y,z) = P(x,y,z)\hat{i} + Q(x,y,z)\hat{j} + R(x,y,z)\hat{k} = ∇φ
 > 
 > Significa:
 > P(x,y,z) = ∂φ/∂x
@@ -2326,7 +2326,7 @@ graph TB
 > 
 > **Test de Conservatividad en ℝ²:**
 > 
-> Para **F** = P**î** + Q**ĵ**, el campo es conservativo si y solo si:
+> Para **F** = P**\hat{i}** + Q**\hat{j}**, el campo es conservativo si y solo si:
 > 
 > $$\frac{\partial Q}{\partial x} = \frac{\partial P}{\partial y}$$
 > 
@@ -2340,7 +2340,7 @@ graph TB
 > **Ejemplo en ℝ²:**
 > 
 > ```
-> F(x,y) = (2xy + 3)î + (x² - 4y)ĵ
+> F(x,y) = (2xy + 3)\hat{i} + (x² - 4y)\hat{j}
 > 
 > P(x,y) = 2xy + 3
 > Q(x,y) = x² - 4y
@@ -2356,7 +2356,7 @@ graph TB
 > 
 > **Test de Conservatividad en ℝ³:**
 > 
-> Para **F** = P**î** + Q**ĵ** + R**k̂**, el campo es conservativo si y solo si:
+> Para **F** = P**\hat{i}** + Q**\hat{j}** + R**\hat{k}**, el campo es conservativo si y solo si:
 > 
 > $$\nabla \times \mathbf{F} = \mathbf{0}$$
 > 
@@ -2429,14 +2429,14 @@ graph TB
 > **Ejemplo calculado:**
 > 
 > ```
-> Campo: F(x,y,z) = yî + xĵ + 0k̂
+> Campo: F(x,y,z) = y\hat{i} + x\hat{j} + 0\hat{k}
 > 
 > P = y,  Q = x,  R = 0
 > 
 > Rotacional:
-> ∇ × F = (∂R/∂y - ∂Q/∂z)î - (∂R/∂x - ∂P/∂z)ĵ + (∂Q/∂x - ∂P/∂y)k̂
->       = (0 - 0)î - (0 - 0)ĵ + (1 - 1)k̂
->       = 0î + 0ĵ + 0k̂ = 0
+> ∇ × F = (∂R/∂y - ∂Q/∂z)\hat{i} - (∂R/∂x - ∂P/∂z)\hat{j} + (∂Q/∂x - ∂P/∂y)\hat{k}
+>       = (0 - 0)\hat{i} - (0 - 0)\hat{j} + (1 - 1)\hat{k}
+>       = 0\hat{i} + 0\hat{j} + 0\hat{k} = 0
 > 
 > ✅ Es conservativo
 > ```
@@ -2449,7 +2449,7 @@ graph TB
 
 > [!success]- 🎯 Método Paso a Paso en Dos Dimensiones
 > 
-> **Dado:** Campo vectorial **F** = P(x,y)**î** + Q(x,y)**ĵ** que es conservativo
+> **Dado:** Campo vectorial **F** = P(x,y)**\hat{i}** + Q(x,y)**\hat{j}** que es conservativo
 > 
 > **Objetivo:** Encontrar φ(x,y) tal que **F** = ∇φ
 > 
@@ -2461,7 +2461,7 @@ graph TB
 > 
 > ```mermaid
 > flowchart TD
->     A["Inicio: F = Pî + Qĵ"] --> B["Verificar conservatividad<br/>∂Q/∂x = ∂P/∂y"]
+>     A["Inicio: F = P\hat{i} + Q\hat{j}"] --> B["Verificar conservatividad<br/>∂Q/∂x = ∂P/∂y"]
 >     B -->|✅| C["Integrar ecuación 1<br/>φ = ∫P dx + g(y)"]
 >     B -->|❌| Z[STOP: No existe potencial]
 >     
@@ -2492,7 +2492,7 @@ graph TB
 > **EJEMPLO COMPLETO:**
 > 
 > ```
-> Dado: F(x,y) = (2xy + 3)î + (x² + 4y³)ĵ
+> Dado: F(x,y) = (2xy + 3)\hat{i} + (x² + 4y³)\hat{j}
 > 
 > Paso 0: Verificar conservatividad
 > P = 2xy + 3,  Q = x² + 4y³
@@ -2551,7 +2551,7 @@ graph TB
 
 > [!tip]- 🔷 Reconstrucción en Tres Dimensiones
 > 
-> **Dado:** Campo vectorial **F** = P**î** + Q**ĵ** + R**k̂** conservativo
+> **Dado:** Campo vectorial **F** = P**\hat{i}** + Q**\hat{j}** + R**\hat{k}** conservativo
 > 
 > **Sistema de ecuaciones:**
 > 
@@ -2571,7 +2571,7 @@ graph TB
 > **EJEMPLO EN ℝ³:**
 > 
 > ```
-> F(x,y,z) = (2xyz)î + (x²z)ĵ + (x²y + 2z)k̂
+> F(x,y,z) = (2xyz)\hat{i} + (x²z)\hat{j} + (x²y + 2z)\hat{k}
 > 
 > Verificar (∇ × F = 0):
 > ∂R/∂y = x²,  ∂Q/∂z = x²  ✓
@@ -2645,7 +2645,7 @@ graph TB
 > **EJEMPLO:**
 > 
 > ```
-> F(x,y) = (2x + y)î + (x + 2y)ĵ
+> F(x,y) = (2x + y)\hat{i} + (x + 2y)\hat{j}
 > Punto de referencia: (0,0) con φ(0,0) = 0
 > 
 > Camino: (0,0) → (x,0) → (x,y)
@@ -2716,7 +2716,7 @@ graph TB
 > **Ejemplo de aplicación:**
 > 
 > ```
-> Calcular: ∫C F · dr donde F = (2x + y)î + (x + 2y)ĵ
+> Calcular: ∫C F · dr donde F = (2x + y)\hat{i} + (x + 2y)\hat{j}
 > Curva C: desde (0,0) hasta (1,1) a lo largo de y = x³
 > 
 > Método tradicional: Parametrizar C, calcular dr, integrar
@@ -2759,10 +2759,10 @@ graph TB
 > 
 > |Campo|Fuerza|Potencial|Interpretación|
 > |---|---|---|---|
-> |**Gravitatorio**|**F** = -mg**k̂**|φ = mgh|Altura gravitacional|
+> |**Gravitatorio**|**F** = -mg**\hat{k}**|φ = mgh|Altura gravitacional|
 > |**Eléctrico**|**F** = qE|φ = qV|Voltaje eléctrico|
-> |**Resorte**|**F** = -kx**î**|φ = ½kx²|Energía elástica|
-> |**Gravitatorio general**|**F** = -GMm/r²**r̂**|φ = -GMm/r|Gravedad newtoniana|
+> |**Resorte**|**F** = -kx**\hat{i}**|φ = ½kx²|Energía elástica|
+> |**Gravitatorio general**|**F** = -GMm/r²**\hat{r}**|φ = -GMm/r|Gravedad newtoniana|
 > 
 > **Conservación de energía:**
 > 
@@ -2784,7 +2784,7 @@ graph TB
 > 
 > ```
 > 
-> Campo gravitatorio: F = -mg k̂ Potencial: φ(z) = mgz (tomando φ(0) = 0)
+> Campo gravitatorio: F = -mg \hat{k} Potencial: φ(z) = mgz (tomando φ(0) = 0)
 > 
 > Objeto lanzado desde z = 0 con velocidad v₀
 > 
@@ -2805,7 +2805,7 @@ graph TB
 > 
 > **ENUNCIADO:**
 > 
-> Dado el campo vectorial **F**(x,y) = (3x² + 4y)**î** + (4x + 6y²)**ĵ**:
+> Dado el campo vectorial **F**(x,y) = (3x² + 4y)**\hat{i}** + (4x + 6y²)**\hat{j}**:
 > 
 > a) Verificar si es conservativo b) Encontrar la función potencial φ c) Calcular ∫C **F**·d**r** desde (0,0) hasta (1,2)
 > 
@@ -2816,7 +2816,7 @@ graph TB
 > **Parte (a): Verificar conservatividad**
 > 
 > ```
-> F = Pî + Qĵ donde:
+> F = P\hat{i} + Q\hat{j} donde:
 > P(x,y) = 3x² + 4y
 > Q(x,y) = 4x + 6y²
 > 
@@ -2890,7 +2890,7 @@ graph TB
 > 
 > **ENUNCIADO:**
 > 
-> Dado **F**(x,y,z) = (yz)**î** + (xz + 2y)**ĵ** + (xy + 3z²)**k̂**:
+> Dado **F**(x,y,z) = (yz)**\hat{i}** + (xz + 2y)**\hat{j}** + (xy + 3z²)**\hat{k}**:
 > 
 > a) Verificar si es conservativo b) Encontrar φ(x,y,z) c) Calcular el trabajo de (0,0,0) a (1,1,1)
 > 
@@ -2903,13 +2903,13 @@ graph TB
 > ```
 > P = yz,  Q = xz + 2y,  R = xy + 3z²
 > 
-> Componente î:
+> Componente \hat{i}:
 > ∂R/∂y - ∂Q/∂z = x - x = 0 ✓
 > 
-> Componente ĵ:
+> Componente \hat{j}:
 > ∂P/∂z - ∂R/∂x = y - y = 0 ✓
 > 
-> Componente k̂:
+> Componente \hat{k}:
 > ∂Q/∂x - ∂P/∂y = z - z = 0 ✓
 > 
 > ∇ × F = 0 → Es conservativo ✅
@@ -2973,7 +2973,7 @@ graph TB
 > 
 > **ENUNCIADO:**
 > 
-> Determinar si **F**(x,y) = (-y)**î** + (x)**ĵ** es conservativo. Si no lo es, calcular ∮C **F**·d**r** donde C es el círculo x² + y² = 1.
+> Determinar si **F**(x,y) = (-y)**\hat{i}** + (x)**\hat{j}** es conservativo. Si no lo es, calcular ∮C **F**·d**r** donde C es el círculo x² + y² = 1.
 > 
 > ---
 > 
@@ -2997,7 +2997,7 @@ graph TB
 > 
 > ```mermaid
 > graph TD
->     A[Campo F = -yî + xĵ] --> B[Campo rotacional]
+>     A[Campo F = -y\hat{i} + x\hat{j}] --> B[Campo rotacional]
 >     B --> C[Líneas de campo<br/>forman círculos]
 >     C --> D[Circulación no nula]
 >     D --> E[∮C F · dr ≠ 0]
@@ -3010,11 +3010,11 @@ graph TB
 > 
 > ```
 > Parametrización del círculo unitario:
-> r(t) = cos(t)î + sen(t)ĵ,  0 ≤ t ≤ 2π
+> r(t) = cos(t)\hat{i} + sen(t)\hat{j},  0 ≤ t ≤ 2π
 > 
-> dr/dt = -sen(t)î + cos(t)ĵ
+> dr/dt = -sen(t)\hat{i} + cos(t)\hat{j}
 > 
-> F(r(t)) = -sen(t)î + cos(t)ĵ
+> F(r(t)) = -sen(t)\hat{i} + cos(t)\hat{j}
 > 
 > F · dr/dt = (-sen(t))(-sen(t)) + (cos(t))(cos(t))
 >           = sen²(t) + cos²(t)
@@ -3076,7 +3076,7 @@ graph TB
 > Curvas de nivel: x² + y² = c
 > → Círculos concéntricos
 > 
-> Gradiente: ∇φ = 2xî + 2yĵ
+> Gradiente: ∇φ = 2x\hat{i} + 2y\hat{j}
 > → Vectores radiales hacia afuera
 > 
 > Propiedad: Los vectores del campo son
@@ -3119,10 +3119,10 @@ graph TB
 > 
 > |Campo|Potencial φ|Campo Vectorial F|Ecuación|
 > |---|---|---|---|
-> |**Gravitatorio<br/>(uniforme)**|φ = mgh|**F** = -mg**k̂**|F = -∇φ|
-> |**Gravitatorio<br/>(Newton)**|φ = -GMm/r|**F** = -GMm/r²**r̂**|F = -∇φ|
-> |**Eléctrico**|φ = kQ/r<br/>(V voltaje)|**E** = kQ/r²**r̂**|E = -∇V|
-> |**Resorte**|φ = ½kx²|**F** = -kx**î**|F = -dφ/dx|
+> |**Gravitatorio<br/>(uniforme)**|φ = mgh|**F** = -mg**\hat{k}**|F = -∇φ|
+> |**Gravitatorio<br/>(Newton)**|φ = -GMm/r|**F** = -GMm/r²**\hat{r}**|F = -∇φ|
+> |**Eléctrico**|φ = kQ/r<br/>(V voltaje)|**E** = kQ/r²**\hat{r}**|E = -∇V|
+> |**Resorte**|φ = ½kx²|**F** = -kx**\hat{i}**|F = -dφ/dx|
 > 
 > **Conservación de energía:**
 > 
@@ -3191,7 +3191,7 @@ graph TB
 > **Ejemplo clásico:**
 > 
 > ```
-> Campo: F = (-y/(x²+y²))î + (x/(x²+y²))ĵ
+> Campo: F = (-y/(x²+y²))\hat{i} + (x/(x²+y²))\hat{j}
 > Dominio: ℝ² \ {(0,0)} (plano sin origen)
 > 
 > Verificar rotacional:
@@ -3228,7 +3228,7 @@ graph TB
 > **Ejemplo: Campo angular**
 > 
 > ```
-> F = (-y/(x²+y²))î + (x/(x²+y²))ĵ
+> F = (-y/(x²+y²))\hat{i} + (x/(x²+y²))\hat{j}
 > 
 > En coordenadas polares: F = (1/r)θ̂
 > 
@@ -3295,23 +3295,23 @@ graph TB
 > 
 > ### Nivel Básico
 > 
-> **Ejercicio 1:** Verificar si **F** = (2x + 3y)î + (3x + 4y)ĵ es conservativo. Si lo es, encontrar φ.
+> **Ejercicio 1:** Verificar si **F** = (2x + 3y)\hat{i} + (3x + 4y)\hat{j} es conservativo. Si lo es, encontrar φ.
 > 
 > <details> <summary>💡 Pista</summary> Calcular ∂Q/∂x y ∂P/∂y. Si son iguales, integrar P respecto a x. </details>
 > 
 > **Ejercicio 2:** Dado φ(x,y) = x³y² - y³, encontrar **F** = ∇φ.
 > 
-> <details> <summary>💡 Pista</summary> F = (∂φ/∂x)î + (∂φ/∂y)ĵ </details>
+> <details> <summary>💡 Pista</summary> F = (∂φ/∂x)\hat{i} + (∂φ/∂y)\hat{j} </details>
 > 
 > ### Nivel Intermedio
 > 
-> **Ejercicio 3:** Para **F** = (yeˣʸ + cos(x))î + (xeˣʸ + 1)ĵ: a) Verificar conservatividad b) Encontrar φ(x,y) c) Calcular ∫C **F**·d**r** de (0,0) a (π,1)
+> **Ejercicio 3:** Para **F** = (yeˣʸ + cos(x))\hat{i} + (xeˣʸ + 1)\hat{j}: a) Verificar conservatividad b) Encontrar φ(x,y) c) Calcular ∫C **F**·d**r** de (0,0) a (π,1)
 > 
-> **Ejercicio 4:** En ℝ³, dado **F** = (2xyz²)î + (x²z²)ĵ + (2x²yz)k̂: a) Calcular ∇ × **F** b) Reconstruir φ(x,y,z)
+> **Ejercicio 4:** En ℝ³, dado **F** = (2xyz²)\hat{i} + (x²z²)\hat{j} + (2x²yz)\hat{k}: a) Calcular ∇ × **F** b) Reconstruir φ(x,y,z)
 > 
 > ### Nivel Avanzado
 > 
-> **Ejercicio 5:** Campo eléctrico de carga puntual: **E** = kQ/r² **r̂** donde **r** = x**î** + y**ĵ** + z**k̂**
+> **Ejercicio 5:** Campo eléctrico de carga puntual: **E** = kQ/r² **\hat{r}** donde **r** = x**\hat{i}** + y**\hat{j}** + z**\hat{k}**
 > 
 > Demostrar que φ(x,y,z) = -kQ/r es su potencial.
 > 

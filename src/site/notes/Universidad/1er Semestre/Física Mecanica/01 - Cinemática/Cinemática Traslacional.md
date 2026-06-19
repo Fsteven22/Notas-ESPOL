@@ -275,7 +275,7 @@
 > **Características:**
 > 
 > - En 1D: $x(t)$ - coordenada en una línea
-> - En 2D/3D: $r⃗(t) = x(t)î + y(t)ĵ + z(t)k̂$
+> - En 2D/3D: $\vec{r}(t) = x(t)\hat{i} + y(t)\hat{j} + z(t)\hat{k}$
 > - **Desplazamiento:** $Δx = x_f - x_i$ (cambio de posición)
 > - **Distancia:** Longitud total recorrida (siempre positiva)
 > 

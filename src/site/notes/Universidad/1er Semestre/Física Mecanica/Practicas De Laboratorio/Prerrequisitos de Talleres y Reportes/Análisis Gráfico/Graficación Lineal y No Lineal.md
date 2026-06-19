@@ -1302,7 +1302,7 @@
 > R² = r² = 1 - (SS_res / SS_tot)
 > 
 > donde:
-> SS_res = Σ(yᵢ - ŷᵢ)² (suma de cuadrados residuales)
+> SS_res = Σ(yᵢ - \hat{y}ᵢ)² (suma de cuadrados residuales)
 > SS_tot = Σ(yᵢ - ȳ)² (suma de cuadrados totales)
 > 
 > Interpretación:

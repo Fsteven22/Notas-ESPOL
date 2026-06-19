@@ -871,7 +871,7 @@ graph TB
 > **Interpretación geométrica:**
 > 
 > - **b** no está en Col(A)
-> - Buscar **x̂** tal que **Ax̂** sea la proyección de **b** sobre Col(A)
+> - Buscar **\hat{x}** tal que **A\hat{x}** sea la proyección de **b** sobre Col(A)
 > - Minimizar ||**b** - **Ax**||
 > 
 > **Ecuación normal:**
@@ -904,7 +904,7 @@ graph TB
 > [3 1]           [2]
 > 
 > A no es ortogonal, usar ecuación normal:
-> AᵀA x̂ = Aᵀb
+> AᵀA \hat{x} = Aᵀb
 > 
 > [1 2 3] [1 1]   [m]   [1 2 3] [1]
 > [1 1 1] [2 1] · [c] = [1 1 1] [3]
@@ -1151,7 +1151,7 @@ flowchart TD
 > 
 > Encuentra la recta y = mx + c que mejor ajusta los puntos: (0,1), (1,2), (2,4), (3,4)
 > 
-> [Pista: Plantear Ax = b y usar AᵀAx̂ = Aᵀb]
+> [Pista: Plantear Ax = b y usar AᵀA\hat{x} = Aᵀb]
 
 ---
 
@@ -2014,7 +2014,7 @@ graph TB
 > 
 > **Definición:**
 > 
-> La **proyección ortogonal** de un vector **y** sobre un subespacio W es el vector **ŷ** ∈ W más cercano a **y**.
+> La **proyección ortogonal** de un vector **y** sobre un subespacio W es el vector **\hat{y}** ∈ W más cercano a **y**.
 > 
 > **Fórmula con base ortonormal:**
 > 
@@ -2045,14 +2045,14 @@ graph TB
 >    = -4 + 1 + 4/3 = -5/3
 > 
 > Paso 2: Proyección
-> ŷ = (20/3)u₁ + (-5/3)u₂
+> \hat{y} = (20/3)u₁ + (-5/3)u₂
 >   = (20/3)(2/3, 2/3, 1/3) + (-5/3)(-2/3, 1/3, 2/3)
 >   = (40/9, 40/9, 20/9) + (10/9, -5/9, -10/9)
 >   = (50/9, 35/9, 10/9)
 >   ≈ (5.56, 3.89, 1.11)
 > 
 > Paso 3: Componente ortogonal
-> z = y - ŷ
+> z = y - \hat{y}
 >   = (6, 3, 2) - (50/9, 35/9, 10/9)
 >   = (4/9, -8/9, 8/9)
 >   ≈ (0.44, -0.89, 0.89)
@@ -2068,15 +2068,15 @@ graph TB
 > 
 > $$\mathbf{y} = \hat{\mathbf{y}} + \mathbf{z}$$
 > 
-> donde **ŷ** ∈ W y **z** ∈ W^⊥ (complemento ortogonal de W)
+> donde **\hat{y}** ∈ W y **z** ∈ W^⊥ (complemento ortogonal de W)
 > 
 > ```mermaid
 > graph TD
->     A[Vector y] --> B[Proyección ŷ ∈ W]
+>     A[Vector y] --> B[Proyección \hat{y} ∈ W]
 >     A --> C[Componente z ∈ W^⊥]
 >     
->     B --> D["ŷ = Σ⟨y,uᵢ⟩uᵢ"]
->     C --> E["z = y - ŷ"]
+>     B --> D["\hat{y} = Σ⟨y,uᵢ⟩uᵢ"]
+>     C --> E["z = y - \hat{y}"]
 >     
 >     D -.->|⊥| E
 >     
@@ -2436,14 +2436,14 @@ graph TB
 > 
 > $$\mathbf{y} = \hat{\mathbf{y}} + \mathbf{z}$$
 > 
-> donde **ŷ** ∈ W y **z** ∈ W^⊥
+> donde **\hat{y}** ∈ W y **z** ∈ W^⊥
 > 
 > **Propiedades:**
 > 
-> - **ŷ** = proj_W(**y**) es la proyección ortogonal de **y** sobre W
-> - **z** = **y** − **ŷ** es la componente ortogonal
-> - **ŷ** es el vector en W más cercano a **y**
-> - ‖**y**‖² = ‖**ŷ**‖² + ‖**z**‖² (Pitágoras)
+> - **\hat{y}** = proj_W(**y**) es la proyección ortogonal de **y** sobre W
+> - **z** = **y** − **\hat{y}** es la componente ortogonal
+> - **\hat{y}** es el vector en W más cercano a **y**
+> - ‖**y**‖² = ‖**\hat{y}**‖² + ‖**z**‖² (Pitágoras)
 > 
 > **Ejemplo completo:**
 > 
@@ -2455,12 +2455,12 @@ graph TB
 > Descomponer y = (3, 4, 5)
 > 
 > Paso 1: Proyección sobre W
-> ŷ = ⟨y, u₁⟩u₁ + ⟨y, u₂⟩u₂
+> \hat{y} = ⟨y, u₁⟩u₁ + ⟨y, u₂⟩u₂
 >   = 3(1,0,0) + 4(0,1,0)
 >   = (3, 4, 0)
 > 
 > Paso 2: Componente ortogonal
-> z = y - ŷ
+> z = y - \hat{y}
 >   = (3,4,5) - (3,4,0)
 >   = (0, 0, 5)
 > 
@@ -2471,7 +2471,7 @@ graph TB
 > 
 > Pitágoras:
 > ||y||² = 3² + 4² + 5² = 50
-> ||ŷ||² + ||z||² = 25 + 25 = 50 ✅
+> ||\hat{y}||² + ||z||² = 25 + 25 = 50 ✅
 > ```
 > 
 > **Aplicación en mínimos cuadrados:**
@@ -2480,11 +2480,11 @@ graph TB
 > 
 > $$|\mathbf{b} - A\mathbf{x}|$$
 > 
-> La solución **x̂** satisface: A**x̂** = **b̂** donde **b̂** = proj_Col(A)(**b**)
+> La solución **\hat{x}** satisface: A**\hat{x}** = **b̂** donde **b̂** = proj_Col(A)(**b**)
 > 
 > El error **e** = **b** − **b̂** está en (Col(A))^⊥ = Nul(A^T)
 > 
-> Ecuaciones normales: A^T A**x̂** = A^T**b**
+> Ecuaciones normales: A^T A**\hat{x}** = A^T**b**
 
 ---
 
@@ -2687,12 +2687,12 @@ flowchart TD
 > W es el plano xy.
 > 
 > Proyección:
-> ŷ = ⟨y, u₁⟩u₁ + ⟨y, u₂⟩u₂
+> \hat{y} = ⟨y, u₁⟩u₁ + ⟨y, u₂⟩u₂
 >   = 1(1,0,0) + 2(0,1,0)
 >   = (1, 2, 0)
 > 
 > Componente ortogonal:
-> z = y − ŷ = (1,2,3) − (1,2,0) = (0, 0, 3)
+> z = y − \hat{y} = (1,2,3) − (1,2,0) = (0, 0, 3)
 > 
 > Verificación:
 > z es paralelo al eje z, que es ortogonal al plano xy ✅

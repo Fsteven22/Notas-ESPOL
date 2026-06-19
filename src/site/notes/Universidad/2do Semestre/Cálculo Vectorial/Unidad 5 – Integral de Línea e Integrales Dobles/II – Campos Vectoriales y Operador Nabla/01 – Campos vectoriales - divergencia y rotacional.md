@@ -30,8 +30,8 @@ graph TB
     A[Campo Vectorial] --> B[Campo en R²]
     A --> C[Campo en R³]
     
-    B --> D[F x,y = M î + N ĵ]
-    C --> E[F x,y,z = M î + N ĵ + P k̂]
+    B --> D[F x,y = M \hat{i} + N \hat{j}]
+    C --> E[F x,y,z = M \hat{i} + N \hat{j} + P \hat{k}]
     
     D --> F[Ejemplo: Flujo 2D]
     E --> G[Ejemplo: Campo gravitatorio]
@@ -494,9 +494,9 @@ graph TB
 > 
 > ```mermaid
 > flowchart TD
->     A[Campo F = M,N,P] --> B[Componente î]
->     A --> C[Componente ĵ]
->     A --> D[Componente k̂]
+>     A[Campo F = M,N,P] --> B[Componente \hat{i}]
+>     A --> C[Componente \hat{j}]
+>     A --> D[Componente \hat{k}]
 >     
 >     B --> E[∂P/∂y - ∂N/∂z]
 >     C --> F[∂M/∂z - ∂P/∂x]
@@ -514,9 +514,9 @@ graph TB
 > 
 > |Componente|Derivadas necesarias|Fórmula|
 > |---|---|---|
-> |**î** (primera)|$\frac{\partial P}{\partial y}$ y $\frac{\partial N}{\partial z}$|$\frac{\partial P}{\partial y} - \frac{\partial N}{\partial z}$|
-> |**ĵ** (segunda)|$\frac{\partial M}{\partial z}$ y $\frac{\partial P}{\partial x}$|$\frac{\partial M}{\partial z} - \frac{\partial P}{\partial x}$|
-> |**k̂** (tercera)|$\frac{\partial N}{\partial x}$ y $\frac{\partial M}{\partial y}$|$\frac{\partial N}{\partial x} - \frac{\partial M}{\partial y}$|
+> |**\hat{i}** (primera)|$\frac{\partial P}{\partial y}$ y $\frac{\partial N}{\partial z}$|$\frac{\partial P}{\partial y} - \frac{\partial N}{\partial z}$|
+> |**\hat{j}** (segunda)|$\frac{\partial M}{\partial z}$ y $\frac{\partial P}{\partial x}$|$\frac{\partial M}{\partial z} - \frac{\partial P}{\partial x}$|
+> |**\hat{k}** (tercera)|$\frac{\partial N}{\partial x}$ y $\frac{\partial M}{\partial y}$|$\frac{\partial N}{\partial x} - \frac{\partial M}{\partial y}$|
 > 
 > **Nota importante:** La componente de $\hat{\mathbf{j}}$ tiene el signo **negativo** adelante
 > 
@@ -762,9 +762,9 @@ graph TB
 > ```mermaid
 > flowchart TD
 >     A[Campo F en R³] --> B[Calcular rot F]
->     B --> C[Componente î]
->     B --> D[Componente ĵ]
->     B --> E[Componente k̂]
+>     B --> C[Componente \hat{i}]
+>     B --> D[Componente \hat{j}]
+>     B --> E[Componente \hat{k}]
 >     
 >     C --> F{¿= 0?}
 >     D --> G{¿= 0?}

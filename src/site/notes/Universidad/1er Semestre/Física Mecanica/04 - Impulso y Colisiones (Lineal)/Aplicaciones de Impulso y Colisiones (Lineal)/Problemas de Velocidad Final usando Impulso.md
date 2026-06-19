@@ -15,15 +15,15 @@
 > 
 > ### Momentum Lineal:
 > 
-> **p⃗ = mv⃗** (kilogramo-metro por segundo, kg⋅m/s)
+> **\vec{p} = m\vec{v}** (kilogramo-metro por segundo, kg⋅m/s)
 > 
 > ### Impulso:
 > 
-> **J⃗ = ∫F⃗ dt = Δp⃗** (Newton-segundo, N⋅s)
+> **\vec{J} = ∫\vec{F} dt = Δ\vec{p}** (Newton-segundo, N⋅s)
 > 
 > ### Teorema Impulso-Momentum:
 > 
-> **J⃗ = Δp⃗ = p⃗f - p⃗i = m(v⃗f - v⃗i)**
+> **\vec{J} = Δ\vec{p} = \vec{p}f - \vec{p}i = m(\vec{v}f - \vec{v}i)**
 > 
 > ### Características del Impulso:
 > 
@@ -38,11 +38,11 @@
 > 
 > ### 1. Impulso de Fuerza Constante:
 > 
-> **J = F⃗ × Δt** (cuando F es constante)
+> **J = \vec{F} × Δt** (cuando F es constante)
 > 
 > ### 2. Impulso de Fuerza Variable:
 > 
-> **J = ∫t₁ᵗ² F⃗(t) dt** (integración necesaria)
+> **J = ∫t₁ᵗ² \vec{F}(t) dt** (integración necesaria)
 > 
 > ### 3. Impulso Promedio:
 > 
@@ -58,7 +58,7 @@
 > 
 > ### Principio Fundamental:
 > 
-> **Σp⃗inicial = Σp⃗final** (en ausencia de fuerzas externas)
+> **Σ\vec{p}inicial = Σ\vec{p}final** (en ausencia de fuerzas externas)
 > 
 > ### Condiciones de Aplicación:
 > 
@@ -106,7 +106,7 @@
 > 
 > ### 1. Fuerza Constante:
 > 
-> **J = F⃗ × Δt**
+> **J = \vec{F} × Δt**
 > 
 > - **Aplicación**: Cuando F no cambia durante Δt
 > - **Ejemplo**: Empuje de cohete con fuerza constante
@@ -244,8 +244,8 @@
 > 
 > ### **M**omentum - Estados inicial y final
 > 
-> 4. Calcular momentum inicial: p⃗ᵢ = mᵢv⃗ᵢ
-> 5. Identificar la incógnita (generalmente v⃗f)
+> 4. Calcular momentum inicial: \vec{p}ᵢ = mᵢ\vec{v}ᵢ
+> 5. Identificar la incógnita (generalmente \vec{v}f)
 > 6. Establecer dirección positiva de referencia
 > 
 > ### **P**eríodo - Intervalo de tiempo
@@ -269,12 +269,12 @@
 > ### **S**umar - Calcular el impulso
 > 
 > 16. Integrar ∫F(t)dt o sumar FΔt
-> 17. Aplicar J = Δp = m(v⃗f - v⃗ᵢ)
+> 17. Aplicar J = Δp = m(\vec{v}f - \vec{v}ᵢ)
 > 18. Considerar múltiples fuerzas si existen
 > 
 > ### **O**btener - Resolver para velocidad final
 > 
-> 19. Despejar v⃗f = v⃗ᵢ + J/m
+> 19. Despejar \vec{v}f = \vec{v}ᵢ + J/m
 > 20. Verificar dirección y magnitud
 > 21. Comprobar coherencia física del resultado
 
@@ -398,16 +398,16 @@
 > 
 > ### Solución:
 > 
-> **Datos**: m_total = 500 kg, vᵢ = 0 mA = 200 kg, v⃗A = 30î m/s mB = 150 kg, v⃗B = 40ĵ m/s  
-> mC = 150 kg, v⃗C = ?
+> **Datos**: m_total = 500 kg, vᵢ = 0 mA = 200 kg, \vec{v}A = 30\hat{i} m/s mB = 150 kg, \vec{v}B = 40\hat{j} m/s  
+> mC = 150 kg, \vec{v}C = ?
 > 
 > **a) Velocidad del fragmento C**:
 > 
-> Conservación de momentum: p⃗ᵢ = p⃗f → 0 = mAv⃗A + mBv⃗B + mCv⃗C
+> Conservación de momentum: \vec{p}ᵢ = \vec{p}f → 0 = mA\vec{v}A + mB\vec{v}B + mC\vec{v}C
 > 
-> 0 = 200(30î) + 150(40ĵ) + 150v⃗C 0 = 6000î + 6000ĵ + 150v⃗C 150v⃗C = -6000î - 6000ĵ **v⃗C = -40î - 40ĵ m/s**
+> 0 = 200(30\hat{i}) + 150(40\hat{j}) + 150\vec{v}C 0 = 6000\hat{i} + 6000\hat{j} + 150\vec{v}C 150\vec{v}C = -6000\hat{i} - 6000\hat{j} **\vec{v}C = -40\hat{i} - 40\hat{j} m/s**
 > 
-> |v⃗C| = √(40² + 40²) = 56.57 m/s a 225° (suroeste)
+> |\vec{v}C| = √(40² + 40²) = 56.57 m/s a 225° (suroeste)
 > 
 > **b) Impulso total de la explosión**:
 > 
@@ -431,15 +431,15 @@
 > 
 > ### Para Fuerza Constante:
 > 
-> **J = F⃗ × Δt**
+> **J = \vec{F} × Δt**
 > 
 > ### Para Fuerza Variable:
 > 
-> **J = ∫F⃗(t) dt**
+> **J = ∫\vec{F}(t) dt**
 > 
 > ### Teorema Fundamental:
 > 
-> **J = Δp = m(v⃗f - v⃗ᵢ)**
+> **J = Δp = m(\vec{v}f - \vec{v}ᵢ)**
 > 
 > ### Conservación (sistema aislado):
 > 

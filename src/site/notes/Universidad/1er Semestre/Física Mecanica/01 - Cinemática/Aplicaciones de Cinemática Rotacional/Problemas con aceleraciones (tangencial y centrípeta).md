@@ -61,7 +61,7 @@
 > 
 > ### Características Principales:
 > 
-> - **Composición vectorial**: a⃗ = aₜ⃗ + aₓ⃗
+> - **Composición vectorial**: \vec{a} = aₜ⃗ + aₓ⃗
 > - **Magnitud**: |a| = √(aₜ² + aₓ²)
 > - **Ángulo**: θ = arctan(aₜ/aₓ)
 > 

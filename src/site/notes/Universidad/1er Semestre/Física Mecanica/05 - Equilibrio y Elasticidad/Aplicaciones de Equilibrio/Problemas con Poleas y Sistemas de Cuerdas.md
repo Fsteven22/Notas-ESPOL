@@ -31,7 +31,7 @@
 > 
 > ### Ecuaciones de Equilibrio:
 > 
-> - **En la polea**: R₁ + R₂ + T⃗₁ + T⃗₂ = 0
+> - **En la polea**: R₁ + R₂ + \vec{T}₁ + \vec{T}₂ = 0
 > - **En la cuerda**: |T₁| = |T₂| = T
 
 > [!tip]- **Polea Móvil (Ideal)** 🔄
