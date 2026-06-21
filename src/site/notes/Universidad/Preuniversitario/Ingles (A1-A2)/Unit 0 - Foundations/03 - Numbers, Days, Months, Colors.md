@@ -21,7 +21,7 @@
 
 ### 📖 Cultural Context
 
-> [!note]- Cultural Differences in Numbers and Dates
+> [!note] Cultural Differences in Numbers and Dates
 > 
 > **Date Format Differences:**
 > 
@@ -71,7 +71,7 @@
 
 ### 0-20 (Basic Numbers)
 
-> [!success]- Numbers 0 to 20
+> [!success] Numbers 0 to 20
 > 
 > **Complete list with pronunciation:**
 > 
@@ -117,7 +117,7 @@
 
 ### 21-100 (Tens and Combinations)
 
-> [!success]- Tens and How to Form Numbers
+> [!success] Tens and How to Form Numbers
 > 
 > **The tens (20, 30, 40...):**
 > 
@@ -171,7 +171,7 @@
 
 ### 100+ (Hundreds, Thousands, Millions)
 
-> [!important]- Large Numbers
+> [!important] Large Numbers
 > 
 > **Hundreds:**
 > 
@@ -236,7 +236,7 @@
 
 ### 1st - 31st
 
-> [!success]- Ordinal Numbers (Order/Position)
+> [!success] Ordinal Numbers (Order/Position)
 > 
 > **First 20 ordinals:**
 > 
@@ -336,7 +336,7 @@
 
 ### The Seven Days
 
-> [!success]- Days of the Week with Pronunciation
+> [!success] Days of the Week with Pronunciation
 > 
 > **Complete list:**
 > 
@@ -402,7 +402,7 @@
 
 ### Common Expressions with Days
 
-> [!important]- Useful Phrases
+> [!important] Useful Phrases
 > 
 > **Talking about today and relative days:**
 > 
@@ -480,7 +480,7 @@
 
 ### The Twelve Months
 
-> [!success]- Months with Pronunciation
+> [!success] Months with Pronunciation
 > 
 > **Complete list:**
 > 
@@ -550,7 +550,7 @@
 
 ### Seasons
 
-> [!important]- The Four Seasons
+> [!important] The Four Seasons
 > 
 > **Seasons with pronunciation:**
 > 
@@ -586,7 +586,7 @@
 
 ### Writing and Saying Dates
 
-> [!important]- Date Formats
+> [!important] Date Formats
 > 
 > **Writing dates:**
 > 
@@ -658,7 +658,7 @@
 
 ### Basic Colors
 
-> [!success]- Primary and Common Colors
+> [!success] Primary and Common Colors
 > 
 > **Essential colors with pronunciation:**
 > 
@@ -694,7 +694,7 @@
 
 ### Additional Colors
 
-> [!success]- Extended Color Vocabulary
+> [!success] Extended Color Vocabulary
 > 
 > **More specific colors:**
 > 
@@ -736,7 +736,7 @@
 
 ### Color Patterns and Combinations
 
-> [!important]- Describing Colors
+> [!important] Describing Colors
 > 
 > **Single colors:**
 > 
@@ -804,7 +804,7 @@
 
 ### Common Expressions with Colors
 
-> [!tip]- Idioms and Phrases
+> [!tip] Idioms and Phrases
 > 
 > **Color idioms:**
 > 
@@ -868,7 +868,7 @@
 
 ## 🎯 Practice Exercises
 
-> [!example]- Exercise 1: Numbers Practice
+> [!example] Exercise 1: Numbers Practice
 > 
 > **Write these numbers in words:**
 > 
@@ -900,7 +900,7 @@
 > 10. three point five (or "three and a half")
 > ```
 
-> [!example]- Exercise 2: Ordinal Numbers
+> [!example] Exercise 2: Ordinal Numbers
 > 
 > **Convert to ordinal numbers:**
 > 
@@ -932,7 +932,7 @@
 > 10. one hundredth (100th)
 > ```
 
-> [!example]- Exercise 3: Days of the Week
+> [!example] Exercise 3: Days of the Week
 > 
 > **Answer these questions:**
 > 
@@ -967,7 +967,7 @@
 > 6. Thu, Sat, Sun
 > ```
 
-> [!example]- Exercise 4: Months and Dates
+> [!example] Exercise 4: Months and Dates
 > 
 > **Write these dates in full:**
 > 
@@ -1003,7 +1003,7 @@
 > 10. 28 days (29 in leap years)
 > ```
 
-> [!example]- Exercise 5: Colors
+> [!example] Exercise 5: Colors
 > 
 > **Name the colors:**
 > 
@@ -1041,7 +1041,7 @@
 > 12. green
 > ```
 
-> [!example]- Exercise 6: Complete the Sentences
+> [!example] Exercise 6: Complete the Sentences
 > 
 > **Fill in with numbers, days, months, or colors:**
 > 
@@ -1073,7 +1073,7 @@
 > 10. (current day - e.g., Wednesday)
 > ```
 
-> [!example]- Exercise 7: Math in English
+> [!example] Exercise 7: Math in English
 > 
 > **Say these math problems out loud:**
 > 
@@ -1115,7 +1115,7 @@
 
 ## 💡 Real-Life Applications
 
-> [!tip]- Using Numbers, Days, Months, Colors in Daily Life
+> [!tip] Using Numbers, Days, Months, Colors in Daily Life
 > 
 > **At the store:**
 > 
@@ -1196,7 +1196,7 @@
 
 ## 📝 Common Mistakes to Avoid
 
-> [!warning]- Typical Errors for Spanish Speakers
+> [!warning] Typical Errors for Spanish Speakers
 > 
 > **Mistake 1: Not using hyphen in compound numbers**
 > 
@@ -1312,7 +1312,7 @@
 
 ## 🎓 Advanced: Fractions, Percentages, Decimals
 
-> [!success]- Mathematical Expressions
+> [!success] Mathematical Expressions
 > 
 > **Fractions:**
 > 
@@ -1386,7 +1386,7 @@
 
 ## 🌍 Cultural Notes
 
-> [!info]- Important Cultural Information
+> [!info] Important Cultural Information
 > 
 > **Lucky and unlucky numbers:**
 > 
@@ -1437,7 +1437,7 @@
 
 ## 🔗 Referencias y Conexiones
 
-> [!quote]- Enlaces Conceptuales
+> [!quote] Enlaces Conceptuales
 > 
 > **📜 Fundación previa:**
 > 
@@ -1543,7 +1543,7 @@
 
 ## 📖 GLOSSARY - GLOSARIO
 
-> [!note]- Essential Vocabulary (English → Spanish)
+> [!note] Essential Vocabulary (English → Spanish)
 > 
 > ### Numbers - Números:
 > 
@@ -1733,7 +1733,7 @@
 
 ## 🎓 Quick Reference Card
 
-> [!tip]- Cheat Sheet: Essential Numbers, Days, Months, Colors
+> [!tip] Cheat Sheet: Essential Numbers, Days, Months, Colors
 > 
 > **Key Numbers:**
 > 

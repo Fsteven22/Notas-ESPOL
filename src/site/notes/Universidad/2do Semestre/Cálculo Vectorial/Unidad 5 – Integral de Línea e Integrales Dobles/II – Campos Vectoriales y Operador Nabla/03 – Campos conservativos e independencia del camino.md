@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es un Campo Conservativo? Un **campo conservativo** es un campo vectorial especial donde el trabajo realizado al mover un objeto depende únicamente de los puntos inicial y final, no del camino seguido. Es una de las propiedades más importantes en física y matemáticas aplicadas.
+> [!info] 💡 ¿Qué es un Campo Conservativo? Un **campo conservativo** es un campo vectorial especial donde el trabajo realizado al mover un objeto depende únicamente de los puntos inicial y final, no del camino seguido. Es una de las propiedades más importantes en física y matemáticas aplicadas.
 > 
 > **Analogía práctica:** Imagina caminar por una montaña:
 > 
@@ -43,7 +43,7 @@ graph TB
 
 ### 📐 Definición Formal
 
-> [!example]- 📋 Concepto Matemático Preciso
+> [!example] 📋 Concepto Matemático Preciso
 > 
 > **Definición:**
 > 
@@ -108,7 +108,7 @@ graph TB
 
 ### 🎨 Interpretación Geométrica
 
-> [!success]- 🗺️ Visualización del Campo y el Potencial
+> [!success] 🗺️ Visualización del Campo y el Potencial
 > 
 > **Relación entre U y F:**
 > 
@@ -171,7 +171,7 @@ graph TB
 
 ### ⚡ Trabajo e Independencia del Camino
 
-> [!note]- 🛣️ Propiedad Fundamental
+> [!note] 🛣️ Propiedad Fundamental
 > 
 > **Teorema fundamental de campos conservativos:**
 > 
@@ -238,7 +238,7 @@ graph TB
 
 ### ✓ Test del Rotacional
 
-> [!tip]- 🌀 Condición Necesaria y Suficiente
+> [!tip] 🌀 Condición Necesaria y Suficiente
 > 
 > **Teorema (en regiones simplemente conexas):**
 > 
@@ -340,7 +340,7 @@ graph TB
 
 ### 🔎 Test de las Derivadas Parciales
 
-> [!warning]- 📊 Condición Necesaria (más simple)
+> [!warning] 📊 Condición Necesaria (más simple)
 > 
 > **Criterio (en ℝ²):**
 > 
@@ -415,7 +415,7 @@ graph TB
 
 ### 🎯 Test de Integral en Curva Cerrada
 
-> [!example]- 🔄 Verificación Práctica
+> [!example] 🔄 Verificación Práctica
 > 
 > **Criterio:**
 > 
@@ -479,7 +479,7 @@ graph TB
 
 ### 📝 Método de Integración Directa
 
-> [!success]- 🎯 Procedimiento Sistemático
+> [!success] 🎯 Procedimiento Sistemático
 > 
 > **Objetivo:** Dado F conservativo, encontrar U tal que F = ∇U
 > 
@@ -561,7 +561,7 @@ graph TB
 
 ### 🔄 Método en ℝ³
 
-> [!note]- 📐 Extensión a Tres Dimensiones
+> [!note] 📐 Extensión a Tres Dimensiones
 > 
 > **Para F = (P, Q, R):**
 > 
@@ -621,7 +621,7 @@ graph TB
 
 ### ⚡ Método del Teorema Fundamental
 
-> [!tip]- 🚀 Cálculo Directo con Integral de Línea
+> [!tip] 🚀 Cálculo Directo con Integral de Línea
 > 
 > **Fórmula:**
 > 
@@ -680,7 +680,7 @@ graph TB
 
 ### 📜 Teorema de Green
 
-> [!note]- 🔄 Conexión entre Integral de Línea y Doble
+> [!note] 🔄 Conexión entre Integral de Línea y Doble
 > 
 > **Enunciado:**
 > 
@@ -735,7 +735,7 @@ graph TB
 
 ### 🌀 Teorema de Stokes
 
-> [!tip]- 🎭 Generalización en ℝ³
+> [!tip] 🎭 Generalización en ℝ³
 > 
 > **Enunciado:**
 > 
@@ -774,7 +774,7 @@ graph TB
 
 ### 📊 Teorema de la Divergencia
 
-> [!example]- 📤 Flujo y Conservación
+> [!example] 📤 Flujo y Conservación
 > 
 > **Enunciado:**
 > 
@@ -831,7 +831,7 @@ mindmap
       Conservación energía
 ```
 
-> [!success]- Tabla Resumen de Criterios
+> [!success] Tabla Resumen de Criterios
 > 
 > 
 > |Criterio|Fórmula|Cuándo usar|Limitación|
@@ -873,7 +873,7 @@ flowchart TD
 
 ## 🎓 Ejercicios Guiados
 
-> [!example]- 💪 Práctica Progresiva
+> [!example] 💪 Práctica Progresiva
 > 
 > **Nivel Básico:**
 > 
@@ -997,7 +997,7 @@ flowchart TD
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Continuando el Aprendizaje
+> [!quote] 🌟 Continuando el Aprendizaje
 > 
 > **Has dominado:**
 > 
@@ -1065,7 +1065,7 @@ flowchart TD
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es la Independencia del Camino? La **independencia del camino** es una propiedad fundamental de ciertas integrales de línea donde el valor de la integral depende únicamente de los puntos inicial y final, no de la trayectoria específica seguida entre ellos.
+> [!info] 💡 ¿Qué es la Independencia del Camino? La **independencia del camino** es una propiedad fundamental de ciertas integrales de línea donde el valor de la integral depende únicamente de los puntos inicial y final, no de la trayectoria específica seguida entre ellos.
 > 
 > **Analogía práctica:** Imagina viajar entre dos ciudades:
 > 
@@ -1108,7 +1108,7 @@ graph TB
 
 ### 🎯 Concepto Matemático
 
-> [!example]- 📋 Definición Precisa
+> [!example] 📋 Definición Precisa
 > 
 > **Definición:**
 > 
@@ -1175,7 +1175,7 @@ graph TB
 
 ### 🔄 Relación con Curvas Cerradas
 
-> [!note]- ⭕ Consecuencia Importante
+> [!note] ⭕ Consecuencia Importante
 > 
 > **Teorema:**
 > 
@@ -1250,7 +1250,7 @@ graph TB
 
 ### 📊 Teorema de Equivalencia
 
-> [!success]- 🎭 Cuatro Caracterizaciones Equivalentes
+> [!success] 🎭 Cuatro Caracterizaciones Equivalentes
 > 
 > **Teorema fundamental:**
 > 
@@ -1334,7 +1334,7 @@ graph TB
 
 ### 🧮 Verificación Práctica
 
-> [!tip]- ✅ Estrategia de Verificación
+> [!tip] ✅ Estrategia de Verificación
 > 
 > **Método recomendado según contexto:**
 > 
@@ -1432,7 +1432,7 @@ graph TB
 
 ### 🚀 Método del Teorema Fundamental
 
-> [!example]- 📐 Uso de la Función Potencial
+> [!example] 📐 Uso de la Función Potencial
 > 
 > **Teorema fundamental para integrales de línea:**
 > 
@@ -1509,7 +1509,7 @@ graph TB
 
 ### 🛤️ Elección del Camino Más Conveniente
 
-> [!tip]- 🎨 Estrategia de Simplificación
+> [!tip] 🎨 Estrategia de Simplificación
 > 
 > **Idea clave:**
 > 
@@ -1580,7 +1580,7 @@ graph TB
 
 ### 📊 Ejemplos Detallados
 
-> [!success]- 💡 Casos Prácticos Resueltos
+> [!success] 💡 Casos Prácticos Resueltos
 > 
 > **Ejemplo 1: Campo polinomial**
 > 
@@ -1687,7 +1687,7 @@ graph TB
 
 ### ⚡ Trabajo y Energía
 
-> [!note]- 💪 Interpretación Física
+> [!note] 💪 Interpretación Física
 > 
 > **Trabajo realizado por fuerza conservativa:**
 > 
@@ -1740,7 +1740,7 @@ graph TB
 
 ### 🔄 Reversibilidad
 
-> [!tip]- ↩️ Procesos Reversibles
+> [!tip] ↩️ Procesos Reversibles
 > 
 > **Propiedad:**
 > 
@@ -1791,7 +1791,7 @@ graph TB
 
 ### 🎯 Simplificación de Problemas
 
-> [!success]- 🚀 Estrategias Eficientes
+> [!success] 🚀 Estrategias Eficientes
 > 
 > **Ventajas computacionales:**
 > 
@@ -1849,7 +1849,7 @@ graph TB
 
 ### 🕳️ Regiones No Simplemente Conexas
 
-> [!warning]- ⚠️ Cuidado con Agujeros
+> [!warning] ⚠️ Cuidado con Agujeros
 > 
 > **Definición:**
 > 
@@ -1923,7 +1923,7 @@ graph TB
 
 ### 🔀 Dependencia Parcial
 
-> [!example]- 📐 Independencia en Subregiones
+> [!example] 📐 Independencia en Subregiones
 > 
 > **Concepto:**
 > 
@@ -2047,7 +2047,7 @@ flowchart TD
 
 ## 🎓 Ejercicios Guiados
 
-> [!example]- 💪 Práctica Progresiva
+> [!example] 💪 Práctica Progresiva
 > 
 > **Nivel Básico:**
 > 
@@ -2165,7 +2165,7 @@ flowchart TD
 
 ## 🔗 Conexión con Próximos Temas
 
-> [!quote]- 🌟 Continuando el Aprendizaje
+> [!quote] 🌟 Continuando el Aprendizaje
 > 
 > **Has dominado:**
 > 
@@ -2233,7 +2233,7 @@ flowchart TD
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es un Campo Potencial? En **Cálculo Vectorial**, un **campo potencial** (o función potencial) es una función escalar φ cuyo gradiente genera un campo vectorial **F**. Esta relación establece una conexión fundamental entre campos escalares y vectoriales.
+> [!info] 💡 ¿Qué es un Campo Potencial? En **Cálculo Vectorial**, un **campo potencial** (o función potencial) es una función escalar φ cuyo gradiente genera un campo vectorial **F**. Esta relación establece una conexión fundamental entre campos escalares y vectoriales.
 > 
 > **Analogía práctica:** Imagina una colina con diferentes alturas:
 > 
@@ -2275,7 +2275,7 @@ graph TB
 
 ### 🔍 Definición y Criterios
 
-> [!example]- ⚡ ¿Cuándo un Campo Vectorial tiene Potencial?
+> [!example] ⚡ ¿Cuándo un Campo Vectorial tiene Potencial?
 > 
 > Un **campo vectorial** **F** es **conservativo** (o tiene función potencial) si existe una función escalar φ tal que:
 > 
@@ -2382,7 +2382,7 @@ graph TB
 
 ### 🌀 Rotacional y Campos Conservativos
 
-> [!note]- 🔄 El Rotacional como Detector
+> [!note] 🔄 El Rotacional como Detector
 > 
 > El **rotacional** (∇ × **F**) mide la "tendencia a rotar" de un campo vectorial:
 > 
@@ -2447,7 +2447,7 @@ graph TB
 
 ### 📝 Método de Integración Directa (ℝ²)
 
-> [!success]- 🎯 Método Paso a Paso en Dos Dimensiones
+> [!success] 🎯 Método Paso a Paso en Dos Dimensiones
 > 
 > **Dado:** Campo vectorial **F** = P(x,y)**\hat{i}** + Q(x,y)**\hat{j}** que es conservativo
 > 
@@ -2549,7 +2549,7 @@ graph TB
 
 ### 📐 Método de Integración Directa (ℝ³)
 
-> [!tip]- 🔷 Reconstrucción en Tres Dimensiones
+> [!tip] 🔷 Reconstrucción en Tres Dimensiones
 > 
 > **Dado:** Campo vectorial **F** = P**\hat{i}** + Q**\hat{j}** + R**\hat{k}** conservativo
 > 
@@ -2605,7 +2605,7 @@ graph TB
 
 ### 🛣️ Método de Integración de Línea
 
-> [!example]- 🎯 Reconstrucción mediante Camino
+> [!example] 🎯 Reconstrucción mediante Camino
 > 
 > **Concepto:** Si **F** es conservativo, el potencial puede calcularse integrando a lo largo de cualquier camino desde un punto de referencia.
 > 
@@ -2675,7 +2675,7 @@ graph TB
 
 ### 📜 Enunciado y Significado
 
-> [!note]- 🌟 El Teorema más Importante
+> [!note] 🌟 El Teorema más Importante
 > 
 > **Teorema Fundamental para Integrales de Línea:**
 > 
@@ -2739,7 +2739,7 @@ graph TB
 
 ### 🔄 Trabajo e Independencia de Camino
 
-> [!success]- ⚡ Aplicaciones Físicas
+> [!success] ⚡ Aplicaciones Físicas
 > 
 > **Interpretación física:**
 > 
@@ -2801,7 +2801,7 @@ graph TB
 
 ### 📘 Ejemplo 1: Campo Lineal en ℝ²
 
-> [!example]- 💼 Problema Completo Paso a Paso
+> [!example] 💼 Problema Completo Paso a Paso
 > 
 > **ENUNCIADO:**
 > 
@@ -2886,7 +2886,7 @@ graph TB
 
 ### 📗 Ejemplo 2: Campo en ℝ³
 
-> [!example]- 🎓 Problema Tridimensional
+> [!example] 🎓 Problema Tridimensional
 > 
 > **ENUNCIADO:**
 > 
@@ -2969,7 +2969,7 @@ graph TB
 
 ### 📙 Ejemplo 3: Campo NO Conservativo
 
-> [!warning]- ❌ Cuando NO Existe Potencial
+> [!warning] ❌ Cuando NO Existe Potencial
 > 
 > **ENUNCIADO:**
 > 
@@ -3037,7 +3037,7 @@ graph TB
 
 ### 🗺️ Superficies de Nivel y Campos
 
-> [!note]- 🌄 Relación Geométrica
+> [!note] 🌄 Relación Geométrica
 > 
 > **Concepto:** Las superficies de nivel del potencial φ y las líneas de campo de **F** = ∇φ están relacionadas geométricamente.
 > 
@@ -3092,7 +3092,7 @@ graph TB
 
 ### 🎯 Interpretación Física
 
-> [!success]- ⚡ Aplicaciones en Física
+> [!success] ⚡ Aplicaciones en Física
 > 
 > **Campos físicos comunes:**
 > 
@@ -3161,7 +3161,7 @@ graph TB
 
 ### 🌀 Dominios No Simplemente Conexos
 
-> [!warning]- ⚠️ Casos con "Agujeros"
+> [!warning] ⚠️ Casos con "Agujeros"
 > 
 > **Dominio simplemente conexo:** Región sin "agujeros"
 > 
@@ -3221,7 +3221,7 @@ graph TB
 
 ### 🔀 Potenciales Multivaluados
 
-> [!tip]- 🔄 Funciones con Ramas
+> [!tip] 🔄 Funciones con Ramas
 > 
 > **Problema:** En dominios no simplemente conexos, el "potencial" puede ser multivaluado.
 > 
@@ -3259,7 +3259,7 @@ graph TB
 
 ## 📊 Tabla Resumen Completa
 
-> [!success]- 📋 Síntesis de Conceptos
+> [!success] 📋 Síntesis de Conceptos
 > 
 > ### Criterios de Conservatividad
 > 
@@ -3291,7 +3291,7 @@ graph TB
 
 ## 🎯 Ejercicios Propuestos
 
-> [!example]- 💪 Práctica Guiada
+> [!example] 💪 Práctica Guiada
 > 
 > ### Nivel Básico
 > 
@@ -3321,7 +3321,7 @@ graph TB
 
 ## 🔗 Conexiones y Extensiones
 
-> [!quote]- 🌟 Relación con Otros Temas
+> [!quote] 🌟 Relación con Otros Temas
 > 
 > **Árbol de conceptos:**
 > 
@@ -3388,7 +3388,7 @@ graph TB
 
 ## 🎓 Puntos Clave para Recordar
 
-> [!success]- ✅ Resumen Ejecutivo
+> [!success] ✅ Resumen Ejecutivo
 > 
 > **Las 10 ideas esenciales:**
 > 

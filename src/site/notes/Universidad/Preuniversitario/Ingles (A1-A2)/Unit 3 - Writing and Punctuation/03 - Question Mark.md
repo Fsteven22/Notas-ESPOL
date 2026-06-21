@@ -21,7 +21,7 @@
 
 ### 📖 Historical Context
 
-> [!note]- Development of the Question Mark
+> [!note] Development of the Question Mark
 > 
 > **Ancient origins (200 BC - 800 AD):**
 > 
@@ -60,7 +60,7 @@
 
 ### 1️⃣ Direct Questions (Interrogative Sentences)
 
-> [!important]- Asking for Information
+> [!important] Asking for Information
 > 
 > **What is a direct question?**
 > 
@@ -111,7 +111,7 @@
 > • Is it blue or green?
 > ```
 
-> [!example]- Direct Question Examples
+> [!example] Direct Question Examples
 > 
 > **Simple present questions:**
 > 
@@ -163,7 +163,7 @@
 
 ### 2️⃣ Tag Questions
 
-> [!important]- Confirmation Questions at the End
+> [!important] Confirmation Questions at the End
 > 
 > **What is a tag question?**
 > 
@@ -216,7 +216,7 @@
 > • He hasn't finished, has he?
 > ```
 
-> [!example]- Tag Question Examples
+> [!example] Tag Question Examples
 > 
 > **Positive → Negative:**
 > 
@@ -252,7 +252,7 @@
 
 ### 3️⃣ Indirect Questions (NO question mark!)
 
-> [!warning]- When NOT to Use a Question Mark
+> [!warning] When NOT to Use a Question Mark
 > 
 > **What is an indirect question?**
 > 
@@ -302,7 +302,7 @@
 > ✓ I wonder why he said that.
 > ```
 
-> [!example]- Indirect Question Examples
+> [!example] Indirect Question Examples
 > 
 > **Common mistakes (incorrect question marks):**
 > 
@@ -348,7 +348,7 @@
 
 ### 4️⃣ Rhetorical Questions
 
-> [!important]- Questions Not Expecting an Answer
+> [!important] Questions Not Expecting an Answer
 > 
 > **What is a rhetorical question?**
 > 
@@ -379,7 +379,7 @@
 > • "Why does this always happen to me?"
 > ```
 
-> [!example]- Rhetorical Question Examples
+> [!example] Rhetorical Question Examples
 > 
 > **Classic rhetorical questions:**
 > 
@@ -412,7 +412,7 @@
 
 ### 5️⃣ Questions in Parentheses
 
-> [!important]- Questions Within Sentences
+> [!important] Questions Within Sentences
 > 
 > **Parenthetical questions:**
 > 
@@ -438,7 +438,7 @@
 
 ## ⚠️ Common Mistakes with Question Marks
 
-> [!warning]- Errors to Avoid
+> [!warning] Errors to Avoid
 > 
 > **1. Using question marks with indirect questions:**
 > 
@@ -535,7 +535,7 @@
 
 ## 🎯 Practice Exercises
 
-> [!example]- Exercise 1: Add Question Marks or Periods
+> [!example] Exercise 1: Add Question Marks or Periods
 > 
 > **Instructions:** Add the correct punctuation (? or .) to each sentence.
 > 
@@ -577,7 +577,7 @@
 > 30. Who called last night?
 > ```
 
-> [!example]- Exercise 2: Correct the Errors
+> [!example] Exercise 2: Correct the Errors
 > 
 > **Instructions:** Find and fix the question mark error in each sentence.
 > 
@@ -609,7 +609,7 @@
 > 50. I don't know when they will arrive. (indirect - period)
 > ```
 
-> [!example]- Exercise 3: Tag Questions
+> [!example] Exercise 3: Tag Questions
 > 
 > **Instructions:** Complete each tag question correctly.
 > 
@@ -641,7 +641,7 @@
 > 70. You can help me, can't you?
 > ```
 
-> [!example]- Exercise 4: Direct vs. Indirect Questions
+> [!example] Exercise 4: Direct vs. Indirect Questions
 > 
 > **Instructions:** Convert each direct question to an indirect question.
 > 
@@ -678,7 +678,7 @@
 
 ## 💡 Style Tips and Advanced Usage
 
-> [!tip]- Writing Style Guidelines
+> [!tip] Writing Style Guidelines
 > 
 > **Question marks in different contexts:**
 > 
@@ -734,7 +734,7 @@
 
 ## 🌍 English vs. Spanish Question Marks
 
-> [!warning]- Critical Differences for Spanish Speakers
+> [!warning] Critical Differences for Spanish Speakers
 > 
 > **Spanish uses inverted question mark at the beginning:**
 > 
@@ -793,7 +793,7 @@
 
 ## 🔗 Referencias y Conexiones
 
-> [!quote]- Enlaces Conceptuales
+> [!quote] Enlaces Conceptuales
 > 
 > **Related punctuation marks:**
 > 
@@ -849,7 +849,7 @@
 
 ## 📖 GLOSSARY - GLOSARIO
 
-> [!note]- Essential Vocabulary (English → Spanish)
+> [!note] Essential Vocabulary (English → Spanish)
 > 
 > ### Question Terms:
 > 

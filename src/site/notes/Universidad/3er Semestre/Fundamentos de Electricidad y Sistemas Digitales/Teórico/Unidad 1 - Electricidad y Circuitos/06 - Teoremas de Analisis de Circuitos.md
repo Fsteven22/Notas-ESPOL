@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Por qué necesitamos teoremas de análisis?
+> [!info] 💡 ¿Por qué necesitamos teoremas de análisis?
 > 
 > Las leyes de Ohm y Kirchhoff permiten analizar cualquier circuito, pero en redes complejas generan sistemas de muchas ecuaciones simultáneas que resultan tediosos de resolver. Los **teoremas de análisis de circuitos** son herramientas que simplifican radicalmente ese proceso, permitiendo:
 > 
@@ -56,7 +56,7 @@
 
 ## 🔀 Teorema de Superposición
 
-> [!note]- 🔀 Una fuente activa a la vez
+> [!note] 🔀 Una fuente activa a la vez
 > 
 > El **Teorema de Superposición** establece que en un circuito lineal con múltiples fuentes independientes, la respuesta (voltaje o corriente) en cualquier elemento es la **suma algebraica** de las respuestas producidas por cada fuente actuando individualmente, mientras las demás se eliminan.
 > 
@@ -113,13 +113,13 @@
 > |Voltajes y corrientes (cantidades lineales)|Potencia ($P = I^2R$: no lineal)|
 > |Circuitos con elementos lineales|Circuitos con elementos no lineales|
 
-![ChatGPT Image 17 jun 2026, 00_07_49.png](/img/user/Contenido%20Extra/Figuras/ChatGPT%20Image%2017%20jun%202026,%2000_07_49.png)
+![ChatGPT Image 17 jun 2026, 00_07_49.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2017%20jun%202026,%2000_07_49.png)
 
 ---
 
 ## ⚡ Divisor de Voltaje y Divisor de Corriente
 
-> [!note]- ⚡ Atajos para circuitos simples de una malla o un par de nodos
+> [!note] ⚡ Atajos para circuitos simples de una malla o un par de nodos
 > 
 > Los **divisores** son fórmulas directas que evitan plantear KVL o KCL completo cuando el circuito tiene estructura simple. Son los atajos más rápidos en exámenes.
 > 
@@ -188,13 +188,13 @@
 >     style D fill:#e1ffe1
 > ```
 
-![ChatGPT Image 17 jun 2026, 00_10_30.png](/img/user/Contenido%20Extra/Figuras/ChatGPT%20Image%2017%20jun%202026,%2000_10_30.png)
+![ChatGPT Image 17 jun 2026, 00_10_30.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2017%20jun%202026,%2000_10_30.png)
 
 ---
 
 ## 🟦 Teorema de Thévenin
 
-> [!tip]- 🟦 Cualquier red lineal = una fuente + una resistencia
+> [!tip] 🟦 Cualquier red lineal = una fuente + una resistencia
 > 
 > El **Teorema de Thévenin** establece que cualquier red lineal de fuentes y resistencias, vista desde dos terminales ($A$-$B$), puede reemplazarse por un circuito equivalente formado por:
 > 
@@ -262,7 +262,7 @@
 
 ## 🟧 Teorema de Norton
 
-> [!tip]- 🟧 Equivalente con fuente de corriente
+> [!tip] 🟧 Equivalente con fuente de corriente
 > 
 > El **Teorema de Norton** es el dual del Teorema de Thévenin. Establece que cualquier red lineal vista desde dos terminales puede reemplazarse por:
 > 
@@ -318,13 +318,13 @@
 > > 
 > > ✅ Verificación: $V_{Th} = I_N \times R_N = 5 \times 2.4 = 12\text{ V}$ ✓
 
-![ChatGPT Image 17 jun 2026, 00_16_27.png](/img/user/Contenido%20Extra/Figuras/ChatGPT%20Image%2017%20jun%202026,%2000_16_27.png)
+![ChatGPT Image 17 jun 2026, 00_16_27.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2017%20jun%202026,%2000_16_27.png)
 
 ---
 
 ## 🔁 Transformación de Fuentes
 
-> [!note]- 🔁 Convertir entre fuente de voltaje y fuente de corriente
+> [!note] 🔁 Convertir entre fuente de voltaje y fuente de corriente
 > 
 > La **transformación de fuentes** es una técnica que permite intercambiar una fuente de voltaje con su resistencia en serie por una fuente de corriente con su resistencia en paralelo (y viceversa), manteniendo el comportamiento externo idéntico.
 > 
@@ -360,13 +360,13 @@
 > > 
 > > Equivalente Norton: $$I_s = \frac{20}{5} = 4\text{ A} \qquad \text{con } R_s = 5\ \Omega \text{ en paralelo}$$
 
-![ChatGPT Image 17 jun 2026, 00_22_01.png](/img/user/Contenido%20Extra/Figuras/ChatGPT%20Image%2017%20jun%202026,%2000_22_01.png)
+![ChatGPT Image 17 jun 2026, 00_22_01.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2017%20jun%202026,%2000_22_01.png)
 
 ---
 
 ## ⚡ Teorema de Máxima Transferencia de Potencia
 
-> [!tip]- ⚡ ¿Cuándo la carga absorbe la máxima potencia?
+> [!tip] ⚡ ¿Cuándo la carga absorbe la máxima potencia?
 > 
 > El **Teorema de Máxima Transferencia de Potencia** establece la condición bajo la cual una carga $R_L$ extrae la mayor potencia posible de una red con equivalente Thévenin ($V_{Th}$, $R_{Th}$).
 > 
@@ -404,13 +404,13 @@
 > > 
 > > **Verificación:** $$I_L = \frac{12}{3+3} = 2\text{ A} \qquad P_L = (2)^2 \times 3 = 12\text{ W}\ ✓$$
 
-![ChatGPT Image 17 jun 2026, 00_25_46.png](/img/user/Contenido%20Extra/Figuras/ChatGPT%20Image%2017%20jun%202026,%2000_25_46.png)
+![ChatGPT Image 17 jun 2026, 00_25_46.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2017%20jun%202026,%2000_25_46.png)
 
 ---
 
 ## 🗺️ Circuito Plano
 
-> [!note]- 🗺️ Requisito previo para el método de mallas
+> [!note] 🗺️ Requisito previo para el método de mallas
 > 
 > El **método de corrientes de malla** (y su forma matricial) solo puede aplicarse a **circuitos planos**.
 > 
@@ -427,7 +427,7 @@
 
 ## 🧮 Métodos Directos Matriciales — Mallas y Nodos
 
-> [!tip]- 🧮 Construir el sistema de ecuaciones directamente por inspección
+> [!tip] 🧮 Construir el sistema de ecuaciones directamente por inspección
 > 
 > Los **métodos directos** permiten armar el sistema de ecuaciones completo sin escribir KVL o KCL en cada paso. La estructura del circuito dicta directamente los valores de cada entrada de la matriz.
 > 
@@ -520,13 +520,13 @@
 > ```
 
 
-![ChatGPT Image 17 jun 2026, 00_30_37.png](/img/user/Contenido%20Extra/Figuras/ChatGPT%20Image%2017%20jun%202026,%2000_30_37.png)
+![ChatGPT Image 17 jun 2026, 00_30_37.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2017%20jun%202026,%2000_30_37.png)
 
 ---
 
 ## ⚖️ Comparación General de Teoremas
 
-> [!success]- 📊 Resumen comparativo
+> [!success] 📊 Resumen comparativo
 > 
 > |Teorema|Modelo equivalente|Condición|Ventaja principal|
 > |---|---|---|---|
@@ -602,7 +602,7 @@ mindmap
 
 ## 📚 Referencias
 
-> [!quote]- 📖 Fuentes consultadas
+> [!quote] 📖 Fuentes consultadas
 > 
 > [1] C. K. Alexander y M. N. O. Sadiku, _Fundamentals of Electric Circuits_, 6th ed. New York, USA: McGraw-Hill, 2016, pp. 139–200.
 > 

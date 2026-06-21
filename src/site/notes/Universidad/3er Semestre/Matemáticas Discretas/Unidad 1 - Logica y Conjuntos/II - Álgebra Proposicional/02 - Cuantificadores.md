@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Por qué necesitamos cuantificadores?
+> [!info] 💡 ¿Por qué necesitamos cuantificadores?
 > 
 > Considera el enunciado:
 > 
@@ -24,11 +24,11 @@
 
 ## 📋 Funciones Proposicionales
 
-> [!note]- 📖 Definición 1 — Función Proposicional
+> [!note] 📖 Definición 1 — Función Proposicional
 > 
 > Sea $P(x)$ un enunciado que incluye a la variable $x$ y sea $D$ un conjunto. Diremos que $P$ es una **función proposicional** si para cada $x \in D$, $P(x)$ es una proposición. En este caso, $D$ es el **dominio de discurso** de $P$.
 
-> [!example]- ✅ Ejemplo 1 — Números Primos
+> [!example] ✅ Ejemplo 1 — Números Primos
 > 
 > Sea $P(n)$: "$n$ es un número primo" y sea $D$ el conjunto de enteros positivos.
 > 
@@ -37,7 +37,7 @@
 > - $P(17)$: "17 es un número primo" → **verdadera** ✅
 > - $P(21)$: "21 es un número primo" → **falsa** ❌
 
-> [!example]- ✅ Ejemplo 2 — Más Funciones Proposicionales
+> [!example] ✅ Ejemplo 2 — Más Funciones Proposicionales
 > 
 > Los siguientes enunciados son funciones proposicionales:
 > 
@@ -51,7 +51,7 @@
 
 ## ∀ Cuantificador Universal
 
-> [!note]- 📖 Definición 2 — Cuantificador Universal
+> [!note] 📖 Definición 2 — Cuantificador Universal
 > 
 > Sea $P$ una función proposicional con dominio de discurso $D$. La proposición:
 > 
@@ -63,7 +63,7 @@
 > 
 > El símbolo $\forall$ se llama **cuantificador universal** y significa: "para todo", "para cualquier" o "para cada".
 
-> [!tip]- ⚙️ Valor de Verdad
+> [!tip] ⚙️ Valor de Verdad
 > 
 > | Condición | Valor de la proposición |
 > |---|---|
@@ -72,7 +72,7 @@
 > 
 > > Un valor $x \in D$ que hace a $P(x)$ **falsa** se llama un **contraejemplo** de la proposición $\forall x \in D : P(x)$.
 
-> [!example]- ✅ Ejemplo 3 — Proposición Universal Verdadera
+> [!example] ✅ Ejemplo 3 — Proposición Universal Verdadera
 > 
 > La proposición $\forall x \in \mathbb{R} : 9x^2 + 16 \geq 24x$ es **verdadera**.
 > 
@@ -84,7 +84,7 @@
 > 
 > Como el cuadrado de cualquier número real es siempre $\geq 0$, la proposición es verdadera. ✅
 
-> [!example]- ❌ Ejemplo 4 — Proposición Universal Falsa (con contraejemplo)
+> [!example] ❌ Ejemplo 4 — Proposición Universal Falsa (con contraejemplo)
 > 
 > La proposición $\forall x \in \mathbb{R} : x^2 - 10x \geq -17$ es **falsa**.
 > 
@@ -100,7 +100,7 @@
 
 ## ∃ Cuantificador Existencial
 
-> [!note]- 📖 Definición 3 — Cuantificador Existencial
+> [!note] 📖 Definición 3 — Cuantificador Existencial
 > 
 > Sea $P$ una función proposicional con dominio de discurso $D$. La proposición:
 > 
@@ -112,14 +112,14 @@
 > 
 > El símbolo $\exists$ se llama **cuantificador existencial** y significa: "existe", "existe un" o "existe algún".
 
-> [!tip]- ⚙️ Valor de Verdad
+> [!tip] ⚙️ Valor de Verdad
 > 
 > | Condición | Valor de la proposición |
 > |---|---|
 > | $P(x)$ es verdadera **para al menos un** $x \in D$ | $\exists x \in D : P(x)$ es **verdadera** |
 > | $P(x)$ es falsa **para todo** $x \in D$ | $\exists x \in D : P(x)$ es **falsa** |
 
-> [!example]- ✅ Ejemplo 5 — Proposición Existencial Verdadera
+> [!example] ✅ Ejemplo 5 — Proposición Existencial Verdadera
 > 
 > La proposición:
 > 
@@ -129,7 +129,7 @@
 > 
 > $$\frac{3/2}{4(3/2)^2 + 9} = \frac{3/2}{9 + 9} = \frac{3/2}{18} = \frac{1}{12} \checkmark$$
 
-> [!example]- ❌ Ejemplo 6 — Proposición Existencial Falsa
+> [!example] ❌ Ejemplo 6 — Proposición Existencial Falsa
 > 
 > La proposición:
 > 
@@ -150,7 +150,7 @@
 
 ## 🔄 Negación de Cuantificadores
 
-> [!important]- ⭐ Teorema 2 — Negación de Proposiciones Cuantificadas
+> [!important] ⭐ Teorema 2 — Negación de Proposiciones Cuantificadas
 > 
 > Sea $P$ una función proposicional con dominio de discurso $D$. Entonces:
 > 
@@ -159,14 +159,14 @@
 > 
 > **Regla mnemotécnica:** Al negar, el cuantificador "cambia" ($\forall \leftrightarrow \exists$) y la función se niega.
 
-> [!tip]- ⚙️ Tabla de Negaciones
+> [!tip] ⚙️ Tabla de Negaciones
 > 
 > | Proposición original | Negación equivalente |
 > |---|---|
 > | $\forall x \in D : P(x)$ | $\exists x \in D : \neg P(x)$ |
 > | $\exists x \in D : P(x)$ | $\forall x \in D : \neg P(x)$ |
 
-> [!note]- 📋 Demostración del Teorema (caso 2)
+> [!note] 📋 Demostración del Teorema (caso 2)
 > 
 > **Probar:** $\neg(\exists x \in D : P(x)) \equiv \forall x \in D : \neg P(x)$
 > 
@@ -178,7 +178,7 @@
 
 ## 🪆 Cuantificadores Anidados
 
-> [!note]- 📖 Definición 4 — Cuantificadores Anidados
+> [!note] 📖 Definición 4 — Cuantificadores Anidados
 > 
 > Se dice que hay **cuantificadores anidados** cuando una función proposicional depende de dos o más variables y cada una es cuantificada.
 > 
@@ -186,28 +186,28 @@
 
 ### Caso ∀∀
 
-> [!tip]- ⚙️ $\forall x \in D,\ \forall y \in D : P(x,y)$
+> [!tip] ⚙️ $\forall x \in D,\ \forall y \in D : P(x,y)$
 > 
 > - **Verdadera** si $P(x,y)$ es verdadera **para toda** $x$ en $D$ y **para toda** $y$ en $D$.
 > - **Falsa** si $P(x,y)$ es falsa **para al menos un par** $(x,y)$ en $D$.
 
 ### Caso ∀∃
 
-> [!tip]- ⚙️ $\forall x \in D,\ \exists y \in D : P(x,y)$
+> [!tip] ⚙️ $\forall x \in D,\ \exists y \in D : P(x,y)$
 > 
 > - **Verdadera** si para **toda** $x \in D$, **existe al menos una** $y \in D$ tal que $P(x,y)$ es verdadera.
 > - **Falsa** si **existe al menos una** $x \in D$ tal que $P(x,y)$ es falsa **para toda** $y \in D$.
 
 ### Caso ∃∀
 
-> [!tip]- ⚙️ $\exists x \in D,\ \forall y \in D : P(x,y)$
+> [!tip] ⚙️ $\exists x \in D,\ \forall y \in D : P(x,y)$
 > 
 > - **Verdadera** si **existe al menos una** $x \in D$ tal que $P(x,y)$ es verdadera **para toda** $y \in D$.
 > - **Falsa** si **para toda** $x \in D$, **existe una** $y \in D$ tal que $P(x,y)$ es falsa.
 
 ### Caso ∃∃
 
-> [!tip]- ⚙️ $\exists x \in D,\ \exists y \in D : P(x,y)$
+> [!tip] ⚙️ $\exists x \in D,\ \exists y \in D : P(x,y)$
 > 
 > - **Verdadera** si **existe al menos un par** $(x,y)$ en $D$ tal que $P(x,y)$ es verdadera.
 > - **Falsa** si $P(x,y)$ es falsa **para toda** $x$ y **toda** $y$ en $D$.
@@ -216,7 +216,7 @@
 
 ### 📊 Tabla Comparativa de Cuantificadores Anidados
 
-> [!success]- 🗂️ Resumen rápido
+> [!success] 🗂️ Resumen rápido
 > 
 > | Forma | Verdadera cuando... | Falsa cuando... |
 > |---|---|---|
@@ -229,7 +229,7 @@
 
 ## ✅ Ejemplos de Cuantificadores Anidados
 
-> [!example]- ✅ Ejemplo 7 — $\forall\forall$ Verdadera
+> [!example] ✅ Ejemplo 7 — $\forall\forall$ Verdadera
 > 
 > La proposición:
 > 
@@ -243,7 +243,7 @@
 > 
 > Si $x > 2 \wedge y < -5$ es falsa, el condicional es **vacuamente verdadero**. ✅
 
-> [!example]- ✅ Ejemplo 8 — $\forall\exists$ Verdadera
+> [!example] ✅ Ejemplo 8 — $\forall\exists$ Verdadera
 > 
 > La proposición:
 > 
@@ -255,7 +255,7 @@
 > 
 > $$-3\left(\frac{4}{3}x + 2\right) + 4x = -4x - 6 + 4x = -6 \checkmark$$
 
-> [!example]- ❌ Ejemplo 9 — $\forall\exists$ Falsa
+> [!example] ❌ Ejemplo 9 — $\forall\exists$ Falsa
 > 
 > La proposición:
 > 
@@ -269,7 +269,7 @@
 > 
 > No existe $y$ que satisfaga la ecuación cuando $x = -7$. ❌
 
-> [!example]- ❌ Ejemplo 10 — $\exists\forall$ Falsa
+> [!example] ❌ Ejemplo 10 — $\exists\forall$ Falsa
 > 
 > La proposición:
 > 
@@ -283,7 +283,7 @@
 > 
 > Por lo tanto la proposición es **falsa**. ❌
 
-> [!example]- ✅ Ejemplo 11 — $\exists\exists$ Verdadera
+> [!example] ✅ Ejemplo 11 — $\exists\exists$ Verdadera
 > 
 > La proposición:
 > 

@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Por qué necesitamos reglas cuantificadas?
+> [!info] 💡 ¿Por qué necesitamos reglas cuantificadas?
 > 
 > Cuando las proposiciones involucran cuantificadores $\forall$ y $\exists$, las reglas proposicionales no son suficientes. Necesitamos reglas que permitan **pasar entre lo universal y lo particular**, y entre lo existencial y lo concreto.
 > 
@@ -17,7 +17,7 @@
 
 ## 📋 Tabla de Reglas para Cuantificadores
 
-> [!note]- 📖 Definición — Reglas de inferencia cuantificadas
+> [!note] 📖 Definición — Reglas de inferencia cuantificadas
 > 
 > | Regla | Nombre |
 > |---|---|
@@ -25,7 +25,7 @@
 > | $P(d),\ \text{para toda } d \in D \Rightarrow \forall x \in D : P(x)$ | **Generalización Universal** |
 > | $\exists x \in D : P(x) \Rightarrow P(d),\ \text{para alguna } d \in D$ | **Particularización Existencial** |
 > | $P(d),\ \text{para alguna } d \in D \Rightarrow \exists x \in D : P(x)$ | **Generalización Existencial** |
-![ChatGPT Image 2 jun 2026, 01_40_53 1.png](/img/user/Contenido%20Extra/Figuras/ChatGPT%20Image%202%20jun%202026,%2001_40_53%201.png)
+![ChatGPT Image 2 jun 2026, 01_40_53 1.png](/img/user/Universidad/Figuras/ChatGPT%20Image%202%20jun%202026,%2001_40_53%201.png)
 
 ---
 
@@ -33,7 +33,7 @@
 
 ### 1 — Particularización Universal
 
-> [!tip]- ⚙️ Descripción
+> [!tip] ⚙️ Descripción
 > 
 > Si $\forall x \in D : P(x)$ es verdadera, entonces $P(x)$ es verdadera para **cada** $x$ en el dominio de discurso $D$. En particular, si $d \in D$ entonces $P(d)$ es verdadera.
 > 
@@ -45,7 +45,7 @@
 
 ### 2 — Generalización Universal
 
-> [!tip]- ⚙️ Descripción
+> [!tip] ⚙️ Descripción
 > 
 > Si $P(d)$ es verdadera para **todo** $d \in D$ (sin imponer restricciones especiales sobre $d$), entonces $\forall x \in D : P(x)$ es verdadera.
 > 
@@ -57,7 +57,7 @@
 
 ### 3 — Particularización Existencial
 
-> [!tip]- ⚙️ Descripción
+> [!tip] ⚙️ Descripción
 > 
 > Si $\exists x \in D : P(x)$ es verdadera, podemos dar nombre a ese elemento y llamarlo $d$.
 > 
@@ -67,7 +67,7 @@
 
 ### 4 — Generalización Existencial
 
-> [!tip]- ⚙️ Descripción
+> [!tip] ⚙️ Descripción
 > 
 > Si existe un elemento concreto $d \in D$ tal que $P(d)$ es verdadera, entonces existe al menos un $x$ en $D$ que cumple $P$.
 > 
@@ -77,7 +77,7 @@
 
 ## 📝 Ejemplos
 
-> [!example]- 📝 Ejemplo 1 — Argumento con cuantificadores y reglas proposicionales
+> [!example] 📝 Ejemplo 1 — Argumento con cuantificadores y reglas proposicionales
 > 
 > Demuestre que el siguiente argumento es válido:
 > 
@@ -113,7 +113,7 @@
 
 ## 🏋️ Ejercicios Propuestos
 
-> [!question]- 📋 Ejercicios de la clase
+> [!question] 📋 Ejercicios de la clase
 > 
 > Determine la validez de los siguientes argumentos:
 > 
@@ -127,7 +127,7 @@
 
 ## 📊 Comparación de las 4 Reglas
 
-> [!success]- 🗂️ Resumen rápido
+> [!success] 🗂️ Resumen rápido
 > 
 > | Regla | Dirección | Cuantificador | Uso típico |
 > |---|---|---|---|

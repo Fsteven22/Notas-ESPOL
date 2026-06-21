@@ -20,7 +20,7 @@
 
 ### 📖 Historical Context
 
-> [!note]- Development of Capitalization Rules
+> [!note] Development of Capitalization Rules
 > 
 > **Ancient origins (3000 BC - 800 AD):**
 > 
@@ -56,7 +56,7 @@
 
 ### 1. ✅ Beginning of Sentences
 
-> [!success]- Rule 1: First Word of Every Sentence
+> [!success] Rule 1: First Word of Every Sentence
 > 
 > **Always capitalize the first word of a sentence.**
 > 
@@ -101,7 +101,7 @@
 
 ### 2. 👤 The Pronoun "I"
 
-> [!success]- Rule 2: Always Capitalize "I"
+> [!success] Rule 2: Always Capitalize "I"
 > 
 > **The pronoun "I" is ALWAYS capitalized, no matter where it appears in the sentence.**
 > 
@@ -148,7 +148,7 @@
 
 ### 3. 🏷️ Proper Nouns
 
-> [!success]- Rule 3: Names of Specific People, Places, and Things
+> [!success] Rule 3: Names of Specific People, Places, and Things
 > 
 > **Definition:** A proper noun names a SPECIFIC person, place, organization, or thing. Always capitalize proper nouns.
 > 
@@ -244,7 +244,7 @@
 
 ### 4. 📅 Days, Months, and Holidays
 
-> [!success]- Rule 4: Calendar Terms
+> [!success] Rule 4: Calendar Terms
 > 
 > **Days of the week:**
 > 
@@ -307,7 +307,7 @@
 
 ### 5. 🏛️ Languages, Nationalities, and Religions
 
-> [!success]- Rule 5: Cultural and Linguistic Terms
+> [!success] Rule 5: Cultural and Linguistic Terms
 > 
 > **Languages:**
 > 
@@ -368,7 +368,7 @@
 
 ### 6. 📚 Titles of Works
 
-> [!success]- Rule 6: Books, Movies, Songs, and Other Creative Works
+> [!success] Rule 6: Books, Movies, Songs, and Other Creative Works
 > 
 > **General rule: Capitalize the first word, last word, and all important words.**
 > 
@@ -447,7 +447,7 @@
 
 ### 7. 🎓 Titles and Positions
 
-> [!success]- Rule 7: Professional and Social Titles
+> [!success] Rule 7: Professional and Social Titles
 > 
 > **Titles BEFORE names: Capitalize**
 > 
@@ -521,7 +521,7 @@
 
 ### 8. 🗺️ Geographic Terms
 
-> [!success]- Rule 8: Compass Directions and Regions
+> [!success] Rule 8: Compass Directions and Regions
 > 
 > **Specific regions (proper nouns): Capitalize**
 > 
@@ -570,7 +570,7 @@
 
 ### 9. 📖 Quotations
 
-> [!success]- Rule 9: First Word of Direct Quotes
+> [!success] Rule 9: First Word of Direct Quotes
 > 
 > **Capitalize the first word of a direct quotation when it's a complete sentence:**
 > 
@@ -611,7 +611,7 @@
 
 ### 10. 🔤 Acronyms and Initialisms
 
-> [!success]- Rule 10: Abbreviations Made from First Letters
+> [!success] Rule 10: Abbreviations Made from First Letters
 > 
 > **Most acronyms: All capitals**
 > 
@@ -656,7 +656,7 @@
 
 ## ⚠️ Common Capitalization Mistakes
 
-> [!warning]- Errors to Avoid
+> [!warning] Errors to Avoid
 > 
 > **Mistake 1: Capitalizing common nouns**
 > 
@@ -729,7 +729,7 @@
 
 ## 💡 Special Cases and Exceptions
 
-> [!info]- Advanced Capitalization Rules
+> [!info] Advanced Capitalization Rules
 > 
 > **1. After colons:**
 > 
@@ -805,7 +805,7 @@
 
 ## 🎯 Practice Exercises
 
-> [!example]- Exercise 1: Correct the Capitalization
+> [!example] Exercise 1: Correct the Capitalization
 > 
 > **Fix the capitalization errors in these sentences:**
 > 
@@ -837,7 +837,7 @@
 > 10. Doctor Smith said, "The test results are good."
 > ```
 
-> [!example]- Exercise 2: Capitalize Titles Correctly
+> [!example] Exercise 2: Capitalize Titles Correctly
 > 
 > **Capitalize these titles properly:**
 > 
@@ -865,7 +865,7 @@
 > 8. The Hunger Games
 > ```
 
-> [!example]- Exercise 3: True or False
+> [!example] Exercise 3: True or False
 > 
 > **Decide if the capitalization is correct:**
 > 
@@ -897,7 +897,7 @@
 
 ## 📊 Quick Reference Chart
 
-> [!note]- Capitalization At-a-Glance
+> [!note] Capitalization At-a-Glance
 > 
 > |What to Capitalize|Examples|What NOT to Capitalize|Examples|
 > |---|---|---|---|
@@ -920,7 +920,7 @@
 
 ## 🔗 Referencias y Conexiones
 
-> [!quote]- Enlaces Conceptuales
+> [!quote] Enlaces Conceptuales
 > 
 > **📖 Fundamentos previos necesarios:**
 > 
@@ -1037,7 +1037,7 @@
 
 ## 📖 GLOSSARY - GLOSARIO
 
-> [!note]- Essential Vocabulary (English → Spanish)
+> [!note] Essential Vocabulary (English → Spanish)
 > 
 > ### Capitalization Terms:
 > 
@@ -1197,7 +1197,7 @@
 
 ## 🎓 Study Tips and Memory Aids
 
-> [!tip]- How to Master Capitalization
+> [!tip] How to Master Capitalization
 > 
 > **1. The "MINT" acronym for always capitalize:**
 > 
@@ -1260,7 +1260,7 @@
 
 ## ✅ Self-Check Quiz
 
-> [!example]- Final Assessment
+> [!example] Final Assessment
 > 
 > **Part 1: Fix ALL capitalization errors:**
 > 
@@ -1322,7 +1322,7 @@
 
 ## 📊 Summary Chart
 
-> [!success]- Complete Capitalization Guide
+> [!success] Complete Capitalization Guide
 > 
 > **ALWAYS CAPITALIZE:**
 > 
@@ -1360,7 +1360,7 @@
 
 ## 💪 Final Encouragement
 
-> [!quote]- You've Got This!
+> [!quote] You've Got This!
 > 
 > **Key takeaways:**
 > 
@@ -1397,7 +1397,7 @@
 
 ## 🎯 Quick Reference Card (Print/Save This!)
 
-> [!info]- One-Page Summary
+> [!info] One-Page Summary
 > 
 > ```
 > ═══════════════════════════════════════════════════

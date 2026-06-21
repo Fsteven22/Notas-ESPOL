@@ -20,7 +20,7 @@
 
 ### 📖 Cultural Context
 
-> [!note]- Greetings Across English-Speaking Cultures
+> [!note] Greetings Across English-Speaking Cultures
 > 
 > **United States:**
 > 
@@ -56,7 +56,7 @@
 
 ### 🕐 Greetings by Time of Day
 
-> [!success]- Formal Time-Based Greetings
+> [!success] Formal Time-Based Greetings
 > 
 > **Good morning** /ɡʊd ˈmɔːrnɪŋ/
 > 
@@ -130,7 +130,7 @@
 
 ### 💬 General Greetings (Any Time)
 
-> [!important]- Informal and Casual Greetings
+> [!important] Informal and Casual Greetings
 > 
 > **Hello** /həˈloʊ/ or /hɛˈloʊ/
 > 
@@ -220,7 +220,7 @@
 
 ### 👥 Asking "How Are You?"
 
-> [!important]- Different Ways to Ask About Someone's Well-being
+> [!important] Different Ways to Ask About Someone's Well-being
 > 
 > **How are you?** /haʊ ɑːr juː/
 > 
@@ -306,7 +306,7 @@
 
 ### 👤 Introducing Yourself
 
-> [!success]- How to Introduce Yourself Properly
+> [!success] How to Introduce Yourself Properly
 > 
 > **Basic self-introduction structure:**
 > 
@@ -392,7 +392,7 @@
 
 ### 🔄 Asking Someone's Name
 
-> [!important]- Different Ways to Ask for a Name
+> [!important] Different Ways to Ask for a Name
 > 
 > **Formal ways:**
 > 
@@ -450,7 +450,7 @@
 
 ### 👥 Introducing Others
 
-> [!success]- How to Introduce Two People
+> [!success] How to Introduce Two People
 > 
 > **Formal introductions:**
 > 
@@ -509,7 +509,7 @@
 
 ### 🎭 Common Polite Phrases
 
-> [!important]- Essential Polite Expressions
+> [!important] Essential Polite Expressions
 > 
 > **After being introduced:**
 > 
@@ -553,7 +553,7 @@
 
 ### 🙏 Thank You and Responses
 
-> [!success]- Ways to Say Thank You
+> [!success] Ways to Say Thank You
 > 
 > **Saying thank you:**
 > 
@@ -602,7 +602,7 @@
 
 ### 😊 Excuse Me and Sorry
 
-> [!warning]- When and How to Apologize
+> [!warning] When and How to Apologize
 > 
 > **"Excuse me" /ɪkˈskjuːz miː/**
 > 
@@ -673,7 +673,7 @@
 
 ### 🚪 Farewell Expressions
 
-> [!success]- Different Ways to Say Goodbye
+> [!success] Different Ways to Say Goodbye
 > 
 > **Formal farewells:**
 > 
@@ -749,7 +749,7 @@
 
 ## 🎯 Practice Dialogues
 
-> [!example]- Dialogue 1: Meeting Someone for the First Time (Formal)
+> [!example] Dialogue 1: Meeting Someone for the First Time (Formal)
 > 
 > **Situation:** Business conference
 > 
@@ -777,7 +777,7 @@
 > Person B: Thank you. You too!
 > ```
 
-> [!example]- Dialogue 2: Meeting Someone for the First Time (Informal)
+> [!example] Dialogue 2: Meeting Someone for the First Time (Informal)
 > 
 > **Situation:** Party with friends
 > 
@@ -809,7 +809,7 @@
 > Person A: See ya!
 > ```
 
-> [!example]- Dialogue 3: Greeting a Colleague
+> [!example] Dialogue 3: Greeting a Colleague
 > 
 > **Situation:** Office, morning
 > 
@@ -836,7 +836,7 @@
 > Person B: Thank you! See you later!
 > ```
 
-> [!example]- Dialogue 4: Introducing Two People
+> [!example] Dialogue 4: Introducing Two People
 > 
 > **Situation:** Social gathering
 > 
@@ -872,7 +872,7 @@
 
 ## 📝 Common Mistakes to Avoid
 
-> [!warning]- Typical Errors for Spanish Speakers
+> [!warning] Typical Errors for Spanish Speakers
 > 
 > **Mistake 1: Using "Good night" as a greeting**
 > 
@@ -957,7 +957,7 @@
 
 ## 🎓 Practice Exercises
 
-> [!example]- Exercise 1: Choose the Correct Greeting
+> [!example] Exercise 1: Choose the Correct Greeting
 > 
 > **Select the appropriate greeting for each situation:**
 > 
@@ -1007,7 +1007,7 @@
 >    (Casual, appropriate for close friends)
 > ```
 
-> [!example]- Exercise 2: Complete the Dialogue
+> [!example] Exercise 2: Complete the Dialogue
 > 
 > **Fill in the blanks with appropriate phrases:**
 > 
@@ -1059,7 +1059,7 @@
 > B: You too, goodbye!
 > ```
 
-> [!example]- Exercise 3: Correct the Mistakes
+> [!example] Exercise 3: Correct the Mistakes
 > 
 > **Identify and correct the errors in these conversations:**
 > 
@@ -1110,7 +1110,7 @@
 >    (Don't translate "De nada" literally!)
 > ```
 
-> [!example]- Exercise 4: Match the Situations
+> [!example] Exercise 4: Match the Situations
 > 
 > **Match each phrase with the correct situation:**
 > 
@@ -1144,7 +1144,7 @@
 > 34. E - "How have you been?"
 > ```
 
-> [!example]- Exercise 5: Formal or Informal?
+> [!example] Exercise 5: Formal or Informal?
 > 
 > **Mark each phrase as F (Formal) or I (Informal):**
 > 
@@ -1184,7 +1184,7 @@
 
 ## 🌍 Regional Variations
 
-> [!info]- Greetings Around the English-Speaking World
+> [!info] Greetings Around the English-Speaking World
 > 
 > **United States:**
 > 
@@ -1274,7 +1274,7 @@
 
 ## 💡 Cultural Tips
 
-> [!tip]- Important Cultural Considerations
+> [!tip] Important Cultural Considerations
 > 
 > **1. Personal Space:**
 > 
@@ -1360,7 +1360,7 @@
 
 ## 🎬 Real-Life Scenarios
 
-> [!example]- Scenario 1: At a Job Interview
+> [!example] Scenario 1: At a Job Interview
 > 
 > **Situation:** First impression is crucial
 > 
@@ -1390,7 +1390,7 @@
 > ✓ Keep answers professional but friendly
 > ```
 
-> [!example]- Scenario 2: First Day of School/Work
+> [!example] Scenario 2: First Day of School/Work
 > 
 > **Situation:** Meeting new classmates/colleagues
 > 
@@ -1419,7 +1419,7 @@
 > You: See you later! Thanks!
 > ```
 
-> [!example]- Scenario 3: At a Social Event
+> [!example] Scenario 3: At a Social Event
 > 
 > **Situation:** Networking or party
 > 
@@ -1461,7 +1461,7 @@
 
 ## 📚 Useful Phrases for Specific Situations
 
-> [!success]- Phone Conversations
+> [!success] Phone Conversations
 > 
 > **Answering the phone:**
 > 
@@ -1501,7 +1501,7 @@
 > ✓ "Catch you later!"
 > ```
 
-> [!success]- Email Greetings
+> [!success] Email Greetings
 > 
 > **Opening an email:**
 > 
@@ -1542,7 +1542,7 @@
 
 ## 🔗 Referencias y Conexiones
 
-> [!quote]- Enlaces Conceptuales
+> [!quote] Enlaces Conceptuales
 > 
 > **📜 Fundación previa:**
 > 
@@ -1639,7 +1639,7 @@
 
 ## 📖 GLOSSARY - GLOSARIO
 
-> [!note]- Essential Vocabulary (English → Spanish)
+> [!note] Essential Vocabulary (English → Spanish)
 > 
 > ### Greetings and Farewells:
 > 
@@ -1798,7 +1798,7 @@
 
 ## 🎓 Quick Reference Card
 
-> [!tip]- Cheat Sheet: Everyday Greetings
+> [!tip] Cheat Sheet: Everyday Greetings
 > 
 > **Morning (6 AM - 12 PM):**
 > 

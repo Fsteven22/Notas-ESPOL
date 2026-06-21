@@ -20,7 +20,7 @@
 
 ### 📖 Why Pronouns Are Important
 
-> [!note]- The Foundation of Natural Communication
+> [!note] The Foundation of Natural Communication
 > 
 > **Pronouns make speech natural:**
 > 
@@ -65,7 +65,7 @@
 
 ### Complete List
 
-> [!success]- Subject Pronouns Chart
+> [!success] Subject Pronouns Chart
 > 
 > **All subject pronouns:**
 > 
@@ -98,7 +98,7 @@
 
 ### Detailed Usage
 
-> [!important]- "I" - First Person Singular
+> [!important] "I" - First Person Singular
 > 
 > **Always capitalized!**
 > 
@@ -119,7 +119,7 @@
 > In English you MUST say "I am a student"
 > ```
 
-> [!important]- "You" - Second Person (Singular AND Plural)
+> [!important] "You" - Second Person (Singular AND Plural)
 > 
 > **One word for all situations!**
 > 
@@ -145,7 +145,7 @@
 > • "Both of you are late." (exactly two people)
 > ```
 
-> [!important]- "He" - Third Person Masculine Singular
+> [!important] "He" - Third Person Masculine Singular
 > 
 > **Only for MALE people:**
 > 
@@ -168,7 +168,7 @@
 > Pronunciation: /hiː/ (long "ee" sound)
 > ```
 
-> [!important]- "She" - Third Person Feminine Singular
+> [!important] "She" - Third Person Feminine Singular
 > 
 > **Only for FEMALE people:**
 > 
@@ -196,7 +196,7 @@
 > Pronunciation: /ʃiː/ (long "ee" sound)
 > ```
 
-> [!important]- "It" - Third Person Neuter Singular
+> [!important] "It" - Third Person Neuter Singular
 > 
 > **For things, animals, and concepts:**
 > 
@@ -228,7 +228,7 @@
 > • "My cat is cute. She is fluffy." (female cat)
 > ```
 
-> [!important]- "We" - First Person Plural
+> [!important] "We" - First Person Plural
 > 
 > **The speaker + other people:**
 > 
@@ -250,7 +250,7 @@
 > (Unlike Spanish nosotros/nosotras)
 > ```
 
-> [!important]- "They" - Third Person Plural
+> [!important] "They" - Third Person Plural
 > 
 > **Multiple people, things, or animals:**
 > 
@@ -283,7 +283,7 @@
 
 ### Complete List
 
-> [!success]- Object Pronouns Chart
+> [!success] Object Pronouns Chart
 > 
 > **All object pronouns:**
 > 
@@ -316,7 +316,7 @@
 
 ### Subject vs Object Comparison
 
-> [!important]- Critical Differences
+> [!important] Critical Differences
 > 
 > **Complete comparison table:**
 > 
@@ -359,7 +359,7 @@
 
 ### Detailed Usage
 
-> [!example]- Object Pronouns in Action
+> [!example] Object Pronouns in Action
 > 
 > **After verbs (Direct object):**
 > 
@@ -412,7 +412,7 @@
 
 ### Complete List
 
-> [!success]- Possessive Adjectives Chart
+> [!success] Possessive Adjectives Chart
 > 
 > **All possessive adjectives:**
 > 
@@ -448,7 +448,7 @@
 
 ### Key Characteristics
 
-> [!important]- Important Rules
+> [!important] Important Rules
 > 
 > **Rule 1: No gender agreement**
 > 
@@ -506,7 +506,7 @@
 
 ### Usage Examples
 
-> [!example]- Possessive Adjectives in Context
+> [!example] Possessive Adjectives in Context
 > 
 > **With body parts:**
 > 
@@ -563,7 +563,7 @@
 
 ### Complete List
 
-> [!success]- Possessive Pronouns Chart
+> [!success] Possessive Pronouns Chart
 > 
 > **All possessive pronouns:**
 > 
@@ -598,7 +598,7 @@
 
 ### Adjective vs Pronoun Comparison
 
-> [!important]- Critical Distinction
+> [!important] Critical Distinction
 > 
 > **Possessive Adjective + Noun vs Possessive Pronoun:**
 > 
@@ -637,7 +637,7 @@
 
 ### Usage Examples
 
-> [!example]- Possessive Pronouns in Action
+> [!example] Possessive Pronouns in Action
 > 
 > **Showing ownership:**
 > 
@@ -684,7 +684,7 @@
 
 ### Complete List
 
-> [!success]- Reflexive Pronouns Chart
+> [!success] Reflexive Pronouns Chart
 > 
 > **All reflexive pronouns:**
 > 
@@ -714,7 +714,7 @@
 
 ### Usage
 
-> [!important]- When to Use Reflexive Pronouns
+> [!important] When to Use Reflexive Pronouns
 > 
 > **1. Reflexive actions (subject = object):**
 > 
@@ -769,7 +769,7 @@
 
 ## ⚠️ Common Mistakes
 
-> [!warning]- Typical Errors for Spanish Speakers
+> [!warning] Typical Errors for Spanish Speakers
 > 
 > **Mistake 1: Omitting subject pronouns**
 > 
@@ -875,7 +875,7 @@
 
 ## 🎯 Practice Exercises
 
-> [!example]- Exercise 1: Subject Pronouns
+> [!example] Exercise 1: Subject Pronouns
 > 
 > **Replace the nouns with subject pronouns:**
 > 
@@ -903,7 +903,7 @@
 > 8. It
 > ```
 
-> [!example]- Exercise 2: Object Pronouns
+> [!example] Exercise 2: Object Pronouns
 > 
 > **Fill in with the correct object pronoun:**
 > 
@@ -931,7 +931,7 @@
 > 8. you
 > ```
 
-> [!example]- Exercise 3: Possessive Adjectives
+> [!example] Exercise 3: Possessive Adjectives
 > 
 > **Complete with the correct possessive adjective:**
 > 
@@ -959,7 +959,7 @@
 > 8. our
 > ```
 
-> [!example]- Exercise 4: Possessive Pronouns
+> [!example] Exercise 4: Possessive Pronouns
 > 
 > **Replace with possessive pronouns:**
 > 
@@ -987,7 +987,7 @@
 > 8. yours
 > ```
 
-> [!example]- Exercise 5: Mixed Pronouns
+> [!example] Exercise 5: Mixed Pronouns
 > 
 > **Choose the correct pronoun:**
 > 
@@ -1019,7 +1019,7 @@
 > 10. its (possessive, no apostrophe)
 > ```
 
-> [!example]- Exercise 6: Correct the Mistakes
+> [!example] Exercise 6: Correct the Mistakes
 > 
 > **Find and correct the errors:**
 > 
@@ -1062,7 +1062,7 @@
 > 8. My mom gave the gift to her.
 > ```
 
-> [!example]- Exercise 7: Translation Practice
+> [!example] Exercise 7: Translation Practice
 > 
 > **Translate to English:**
 > 
@@ -1109,7 +1109,7 @@
 
 ## 📊 Complete Pronoun Reference Table
 
-> [!tip]- Master Chart: All Pronouns at a Glance
+> [!tip] Master Chart: All Pronouns at a Glance
 > 
 > **Complete pronoun system:**
 > 
@@ -1150,7 +1150,7 @@
 
 ## 💬 Real-Life Dialogues
 
-> [!example]- Dialogue 1: At School
+> [!example] Dialogue 1: At School
 > 
 > ```
 > Student A: Is this your book?
@@ -1180,7 +1180,7 @@
 >            that you're coming.
 > ```
 
-> [!example]- Dialogue 2: Lost and Found
+> [!example] Dialogue 2: Lost and Found
 > 
 > ```
 > Person A: Excuse me, is this phone yours?
@@ -1206,7 +1206,7 @@
 > Person D: I will. Thanks again. You're very kind.
 > ```
 
-> [!example]- Dialogue 3: Family Discussion
+> [!example] Dialogue 3: Family Discussion
 > 
 > ```
 > Mom: Whose shoes are these in the living room?
@@ -1235,7 +1235,7 @@
 >      Let's all keep our belongings in their proper places.
 > ```
 
-> [!example]- Dialogue 4: Shopping Together
+> [!example] Dialogue 4: Shopping Together
 > 
 > ```
 > Friend A: I like this jacket. What do you think?
@@ -1274,7 +1274,7 @@
 
 ## 🌍 Special Cases and Advanced Usage
 
-> [!info]- Singular "They" (Modern Usage)
+> [!info] Singular "They" (Modern Usage)
 > 
 > **Gender-neutral pronoun:**
 > 
@@ -1296,7 +1296,7 @@
 > This usage is becoming standard in modern English!
 > ```
 
-> [!info]- "One" as Impersonal Pronoun
+> [!info] "One" as Impersonal Pronoun
 > 
 > **Formal/General statements:**
 > 
@@ -1316,7 +1316,7 @@
 > • "You never know what might happen."
 > ```
 
-> [!info]- Pronoun Order in Sentences
+> [!info] Pronoun Order in Sentences
 > 
 > **Multiple pronouns together:**
 > 
@@ -1343,7 +1343,7 @@
 
 ## 🔗 Referencias y Conexiones
 
-> [!quote]- Enlaces Conceptuales
+> [!quote] Enlaces Conceptuales
 > 
 > **📜 Fundación previa:**
 > 
@@ -1446,7 +1446,7 @@
 
 ## 📖 GLOSSARY - GLOSARIO
 
-> [!note]- Essential Vocabulary (English → Spanish)
+> [!note] Essential Vocabulary (English → Spanish)
 > 
 > ### Pronoun Types - Tipos de Pronombres:
 > 
@@ -1565,7 +1565,7 @@
 
 ## 🎓 Quick Reference Card
 
-> [!tip]- Cheat Sheet: Pronouns
+> [!tip] Cheat Sheet: Pronouns
 > 
 > **Subject vs Object:**
 > 

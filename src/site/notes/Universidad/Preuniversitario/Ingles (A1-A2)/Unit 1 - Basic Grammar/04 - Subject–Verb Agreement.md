@@ -21,7 +21,7 @@
 
 ### 📖 Historical Context
 
-> [!note]- Development of Subject–Verb Agreement
+> [!note] Development of Subject–Verb Agreement
 > 
 > **Old English period (450-1100 AD):**
 > 
@@ -72,7 +72,7 @@
 
 ### 🔵 The Fundamental Rule
 
-> [!success]- Singular and Plural Agreement
+> [!success] Singular and Plural Agreement
 > 
 > **The core principle:**
 > 
@@ -152,7 +152,7 @@
 
 ### 🔴 The Verb "TO BE"
 
-> [!important]- Complete Conjugation of "BE"
+> [!important] Complete Conjugation of "BE"
 > 
 > **Present tense:**
 > 
@@ -221,7 +221,7 @@
 
 ### 🟡 Modal Verbs and Auxiliaries
 
-> [!info]- Agreement with Helper Verbs
+> [!info] Agreement with Helper Verbs
 > 
 > **Modal verbs (NEVER change form):**
 > 
@@ -272,7 +272,7 @@
 
 ### 📝 Compound Subjects
 
-> [!warning]- Special Rules for Multiple Subjects
+> [!warning] Special Rules for Multiple Subjects
 > 
 > **Rule 1: AND = Plural verb**
 > 
@@ -325,7 +325,7 @@
 
 ### 🔢 Indefinite Pronouns
 
-> [!important]- Agreement with Indefinite Pronouns
+> [!important] Agreement with Indefinite Pronouns
 > 
 > **Always SINGULAR (use IS/WAS/VERB+S):**
 > 
@@ -382,7 +382,7 @@
 
 ### 👥 Collective Nouns
 
-> [!note]- Groups as Singular or Plural
+> [!note] Groups as Singular or Plural
 > 
 > **Common collective nouns:**
 > 
@@ -434,7 +434,7 @@
 
 ### 📊 Special Subjects
 
-> [!warning]- Tricky Agreement Situations
+> [!warning] Tricky Agreement Situations
 > 
 > **1. Subjects with prepositional phrases:**
 > 
@@ -527,7 +527,7 @@
 
 ## 🎯 Practice Exercises
 
-> [!example]- Exercise 1: Choose the Correct Verb
+> [!example] Exercise 1: Choose the Correct Verb
 > 
 > **Select is/are, was/were, or the correct verb form:**
 > 
@@ -569,7 +569,7 @@
 > 30. are (both = always plural)
 > ```
 
-> [!example]- Exercise 2: Correct the Errors
+> [!example] Exercise 2: Correct the Errors
 > 
 > **Each sentence has an agreement error. Fix it:**
 > 
@@ -611,7 +611,7 @@
 > 60. She doesn't like coffee.
 > ```
 
-> [!example]- Exercise 3: Fill in the Blanks
+> [!example] Exercise 3: Fill in the Blanks
 > 
 > **Complete with the correct form of the verb in parentheses:**
 > 
@@ -653,7 +653,7 @@
 > 90. is (agrees with first subject: teacher)
 > ```
 
-> [!example]- Exercise 4: Real-World Application
+> [!example] Exercise 4: Real-World Application
 > 
 > **Translate and check agreement:**
 > 
@@ -708,7 +708,7 @@
 
 ## 💡 Common Mistakes and Tips
 
-> [!warning]- Errores Comunes para Hispanohablantes
+> [!warning] Errores Comunes para Hispanohablantes
 > 
 > **Error 1: Confundir el patrón español con el inglés**
 > 
@@ -785,7 +785,7 @@
 > Estas palabras son SIEMPRE plurales en inglés
 > ```
 
-> [!tip]- Consejos y Trucos de Memoria
+> [!tip] Consejos y Trucos de Memoria
 > 
 > **Tip 1: La regla "al revés"**
 > 
@@ -877,7 +877,7 @@
 
 ## 📚 Additional Practice Activities
 
-> [!example]- Exercise 5: Mixed Challenge
+> [!example] Exercise 5: Mixed Challenge
 > 
 > **Choose the correct verb form:**
 > 
@@ -919,7 +919,7 @@
 > 30. have (a number of = plural)
 > ```
 
-> [!example]- Exercise 6: Paragraph Correction
+> [!example] Exercise 6: Paragraph Correction
 > 
 > **Find and correct all 15 agreement errors in this paragraph:**
 > 
@@ -975,7 +975,7 @@
 > 45. everyone are → is (everyone = singular)
 > ```
 
-> [!example]- Exercise 7: Create Your Own Sentences
+> [!example] Exercise 7: Create Your Own Sentences
 > 
 > **Write correct sentences using these subjects:**
 > 
@@ -1011,7 +1011,7 @@
 
 ## 🎓 Summary - Resumen
 
-> [!summary]- Key Points to Remember
+> [!summary] Key Points to Remember
 > 
 > **Basic Rules:**
 > 
@@ -1097,7 +1097,7 @@
 
 ## 🔗 Referencias y Conexiones
 
-> [!quote]- Enlaces Conceptuales
+> [!quote] Enlaces Conceptuales
 > 
 > **📜 Base fundamental:**
 > 
@@ -1196,7 +1196,7 @@
 
 ## 📖 GLOSSARY - GLOSARIO
 
-> [!note]- Essential Vocabulary (English → Spanish)
+> [!note] Essential Vocabulary (English → Spanish)
 > 
 > ### Agreement Terms:
 > 
@@ -1323,7 +1323,7 @@
 
 ## 🎯 Quick Reference Chart
 
-> [!info]- Agreement At-a-Glance
+> [!info] Agreement At-a-Glance
 > 
 > **Present Simple Conjugation:**
 > 

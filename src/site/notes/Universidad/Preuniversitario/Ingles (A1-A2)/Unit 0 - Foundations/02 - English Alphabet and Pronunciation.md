@@ -20,7 +20,7 @@
 
 ### 📖 Historical Context
 
-> [!note]- Development of the English Alphabet
+> [!note] Development of the English Alphabet
 > 
 > **Ancient origins (1000 BC - 500 AD):**
 > 
@@ -57,7 +57,7 @@
 
 ### 📋 Complete Alphabet Chart
 
-> [!success]- Uppercase and Lowercase Forms
+> [!success] Uppercase and Lowercase Forms
 > 
 > **The complete alphabet:**
 > 
@@ -101,7 +101,7 @@
 
 ### 🔴 Vowels (5 letters)
 
-> [!important]- Complete Guide to Vowels
+> [!important] Complete Guide to Vowels
 > 
 > **The five vowel letters:**
 > 
@@ -167,7 +167,7 @@
 > • Beginning of a word: yes /jɛs/, yellow /ˈjɛloʊ/
 > ```
 
-> [!example]- Vowel Examples in Words
+> [!example] Vowel Examples in Words
 > 
 > **Short vowels:**
 > 
@@ -209,7 +209,7 @@
 
 ### 🔵 Consonants (21 letters)
 
-> [!important]- Complete Guide to Consonants
+> [!important] Complete Guide to Consonants
 > 
 > **The 21 consonant letters:**
 > 
@@ -270,7 +270,7 @@
 > /θ/ - /ð/ (tongue-teeth): think - this
 > ```
 
-> [!success]- Consonants by Place of Articulation
+> [!success] Consonants by Place of Articulation
 > 
 > **Lips (Bilabial):**
 > 
@@ -336,7 +336,7 @@
 
 ### 📌 The International Phonetic Alphabet (IPA)
 
-> [!info]- Understanding IPA Symbols
+> [!info] Understanding IPA Symbols
 > 
 > **Why IPA is important:**
 > 
@@ -398,7 +398,7 @@
 
 ### ⚠️ Difficult Sounds for Spanish Speakers
 
-> [!warning]- Challenging English Sounds
+> [!warning] Challenging English Sounds
 > 
 > **1. The TH sounds (/θ/ and /ð/) - NO existe en español:**
 > 
@@ -517,7 +517,7 @@
 
 ## 📝 Spelling vs. Pronunciation
 
-> [!warning]- Why English Spelling Is Complicated
+> [!warning] Why English Spelling Is Complicated
 > 
 > **The problem:**
 > 
@@ -597,7 +597,7 @@
 
 ## 🎯 Practice Exercises
 
-> [!example]- Exercise 1: Identify Vowels and Consonants
+> [!example] Exercise 1: Identify Vowels and Consonants
 > 
 > **Mark each letter as V (vowel) or C (consonant):**
 > 
@@ -619,7 +619,7 @@
 > 10. S = C   10. L = C    15. G = C    20. B = C
 > ```
 
-> [!example]- Exercise 2: Voiced vs Voiceless
+> [!example] Exercise 2: Voiced vs Voiceless
 > 
 > **Identify if the consonant sound is voiced (VD) or voiceless (VL):**
 > 
@@ -646,7 +646,7 @@
 > 25. VL (voiceless)   10. VD (voiced)
 > ```
 
-> [!example]- Exercise 3: Pronunciation Practice
+> [!example] Exercise 3: Pronunciation Practice
 > 
 > **Practice these minimal pairs (words that differ by only one sound):**
 > 
@@ -676,7 +676,7 @@
 
 ## 🔗 Referencias y Conexiones
 
-> [!quote]- Enlaces Conceptuales
+> [!quote] Enlaces Conceptuales
 > 
 > **📜 Continuación inmediata:**
 > 
@@ -711,7 +711,7 @@
 
 ## 📖 GLOSSARY - GLOSARIO
 
-> [!note]- Essential Vocabulary (English → Spanish)
+> [!note] Essential Vocabulary (English → Spanish)
 > 
 > ### Alphabet Terms:
 > 

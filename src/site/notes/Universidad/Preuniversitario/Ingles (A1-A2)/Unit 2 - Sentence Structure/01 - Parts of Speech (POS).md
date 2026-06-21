@@ -18,7 +18,7 @@
 
 ### 📖 Historical Context
 
-> [!note]- Development of Parts of Speech Classification
+> [!note] Development of Parts of Speech Classification
 > 
 > **Ancient origins (500 BC - 100 AD):**
 > 
@@ -48,7 +48,7 @@
 
 ### 1. 🎬 VERB
 
-> [!success]- Complete Guide to Verbs
+> [!success] Complete Guide to Verbs
 > 
 > **Definition:** A verb is a word that expresses an action, occurrence, or state of being.
 > 
@@ -89,7 +89,7 @@
 > Future perfect: I will have walked
 > ```
 
-> [!example]- Verb Examples in Sentences
+> [!example] Verb Examples in Sentences
 > 
 > **Action verbs:**
 > 
@@ -146,7 +146,7 @@
 >   (might be = helping verbs, waiting = main verb)
 > ```
 
-> [!tip]- How to Identify Verbs
+> [!tip] How to Identify Verbs
 > 
 > **Test 1: The "action or state" test**
 > 
@@ -189,7 +189,7 @@
 
 ### 2. 📦 NOUN
 
-> [!success]- Complete Guide to Nouns
+> [!success] Complete Guide to Nouns
 > 
 > **Definition:** A noun is a word that names a person, place, thing, or idea.
 > 
@@ -246,7 +246,7 @@
 > team, family, class, audience, government
 > ```
 
-> [!example]- Noun Examples in Sentences
+> [!example] Noun Examples in Sentences
 > 
 > **Common nouns:**
 > 
@@ -320,7 +320,7 @@
 > • John (subject) gave Mary (indirect object) a gift (direct object).
 > ```
 
-> [!tip]- How to Identify Nouns
+> [!tip] How to Identify Nouns
 > 
 > **Test 1: Can you put "a/an" or "the" before it?**
 > 
@@ -375,7 +375,7 @@
 
 ### 3. 🎨 ADJECTIVE
 
-> [!success]- Complete Guide to Adjectives
+> [!success] Complete Guide to Adjectives
 > 
 > **Definition:** An adjective is a word that describes or modifies a noun or pronoun. It tells us more about the qualities, characteristics, or features of something.
 > 
@@ -443,7 +443,7 @@
 > • John is the tallest student in class. (superlative)
 > ```
 
-> [!example]- Adjective Examples in Sentences
+> [!example] Adjective Examples in Sentences
 > 
 > **Descriptive adjectives:**
 > 
@@ -531,7 +531,7 @@
 >   (highest = superlative)
 > ```
 
-> [!tip]- How to Identify Adjectives
+> [!tip] How to Identify Adjectives
 > 
 > **Test 1: Does it answer questions about a noun?**
 > 
@@ -591,7 +591,7 @@
 
 ### 4. 🔢 DETERMINER / QUANTIFIER
 
-> [!success]- Complete Guide to Determiners and Quantifiers
+> [!success] Complete Guide to Determiners and Quantifiers
 > 
 > **Definition:** **Determiners** are words placed before nouns to clarify what the noun refers to. **Quantifiers** are a type of determiner that specify the quantity or amount of something.
 > 
@@ -676,7 +676,7 @@
 > another, other, such, what, which, whose
 > ```
 
-> [!example]- Determiner and Quantifier Examples in Sentences
+> [!example] Determiner and Quantifier Examples in Sentences
 > 
 > **Articles:**
 > 
@@ -781,7 +781,7 @@
 >   (second = ordinal number)
 > ```
 
-> [!tip]- How to Identify Determiners and Quantifiers
+> [!tip] How to Identify Determiners and Quantifiers
 > 
 > **Test 1: Position before nouns**
 > 
@@ -833,7 +833,7 @@
 > Both: some, any, all → some books/water ✓
 > ```
 
-> [!warning]- Common Mistakes with Determiners and Quantifiers
+> [!warning] Common Mistakes with Determiners and Quantifiers
 > 
 > **Mistake 1: Using articles incorrectly**
 > 
@@ -875,7 +875,7 @@
 
 ### 5. ⚡ ADVERB
 
-> [!success]- Complete Guide to Adverbs
+> [!success] Complete Guide to Adverbs
 > 
 > **Definition:** An adverb is a word that modifies (describes) a verb, an adjective, or another adverb. Adverbs often answer the questions: How? When? Where? How much? How often?
 > 
@@ -950,7 +950,7 @@
 > • Maybe we can help.
 > ```
 
-> [!example]- Adverb Examples in Sentences
+> [!example] Adverb Examples in Sentences
 > 
 > **Modifying verbs (most common):**
 > 
@@ -1016,7 +1016,7 @@
 > Order: Manner → Place → Time
 > ```
 
-> [!tip]- How to Identify Adverbs
+> [!tip] How to Identify Adverbs
 > 
 > **Test 1: Does it answer these questions?**
 > 
@@ -1072,7 +1072,7 @@
 > ```
 
 
-> [!warning]- Common Mistakes with Adverbs
+> [!warning] Common Mistakes with Adverbs
 > 
 > **Mistake 1: Confusing adjectives and adverbs**
 > 
@@ -1119,7 +1119,7 @@
 
 ### 6. 👤 PRONOUN
 
-> [!success]- Complete Guide to Pronouns
+> [!success] Complete Guide to Pronouns
 > 
 > **Definition:** A pronoun is a word that replaces a noun to avoid repetition. Pronouns refer to people, places, things, or ideas that have already been mentioned or are understood from context.
 > 
@@ -1200,7 +1200,7 @@
 > • Nobody knows the answer.
 > ```
 
-> [!example]- Pronoun Examples in Sentences
+> [!example] Pronoun Examples in Sentences
 > 
 > **Personal pronouns (subject):**
 > 
@@ -1293,7 +1293,7 @@
 >   (nobody = no person)
 > ```
 
-> [!tip]- How to Identify Pronouns
+> [!tip] How to Identify Pronouns
 > 
 > **Test 1: Can it replace a noun?**
 > 
@@ -1343,7 +1343,7 @@
 > Give it to me. (it, me = object pronouns)
 > ```
 
-> [!warning]- Common Mistakes with Pronouns
+> [!warning] Common Mistakes with Pronouns
 > 
 > **Mistake 1: Confusing subject and object pronouns**
 > 
@@ -1389,7 +1389,7 @@
 
 ### 7. 🔗 PREPOSITION
 
-> [!success]- Complete Guide to Prepositions
+> [!success] Complete Guide to Prepositions
 > 
 > **Definition:** A preposition is a word that shows the relationship between a noun (or pronoun) and other words in a sentence. Prepositions usually indicate location, direction, time, or manner.
 > 
@@ -1450,7 +1450,7 @@
 > • She's afraid of dogs.
 > ```
 
-> [!example]- Preposition Examples in Sentences
+> [!example] Preposition Examples in Sentences
 > 
 > **Prepositions of place:**
 > 
@@ -1540,7 +1540,7 @@
 >   (after the meeting = tells when)
 > ```
 
-> [!tip]- How to Identify Prepositions
+> [!tip] How to Identify Prepositions
 > 
 > **Test 1: Does it show a relationship?**
 > 
@@ -1588,7 +1588,7 @@
 > good at, interested in, afraid of, proud of
 > ```
 
-> [!warning]- Common Mistakes with Prepositions
+> [!warning] Common Mistakes with Prepositions
 > 
 > **Mistake 1: Wrong preposition of time**
 > 
@@ -1638,7 +1638,7 @@
 
 ### 8. 🔄 CONJUNCTION (Connectors, Linking Words, Transitional Words)
 
-> [!success]- Complete Guide to Conjunctions
+> [!success] Complete Guide to Conjunctions
 > 
 > **Definition:** A conjunction is a word that connects words, phrases, or clauses. Conjunctions help create complex sentences and show relationships between ideas.
 > 
@@ -1695,7 +1695,7 @@
 > • It's raining; therefore, bring an umbrella.
 > ```
 
-> [!example]- Conjunction Examples in Sentences
+> [!example] Conjunction Examples in Sentences
 > 
 > **Coordinating conjunctions:**
 > 
@@ -1783,7 +1783,7 @@
 >   (if = condition, and = adds information)
 > ```
 
-> [!tip]- How to Identify Conjunctions
+> [!tip] How to Identify Conjunctions
 > 
 > **Test 1: Does it connect elements?**
 > 
@@ -1833,7 +1833,7 @@
 > (Note: requires semicolon or period before it)
 > ```
 
-> [!warning]- Common Mistakes with Conjunctions
+> [!warning] Common Mistakes with Conjunctions
 > 
 > **Mistake 1: Comma splices**
 > 
@@ -1881,7 +1881,7 @@
 
 ### 9. 🎉 INTERJECTION
 
-> [!success]- Complete Guide to Interjections
+> [!success] Complete Guide to Interjections
 > 
 > **Definition:** An interjection is a word or phrase that expresses strong emotion or sudden feeling. Interjections are independent of the sentence structure and are usually followed by an exclamation mark or comma.
 > 
@@ -1959,7 +1959,7 @@
 > • Hmm... Let me think.
 > ```
 
-> [!example]- Interjection Examples in Sentences
+> [!example] Interjection Examples in Sentences
 > 
 > **Expressing strong emotion:**
 > 
@@ -2013,7 +2013,7 @@
 > • Wow! The view is incredible. (interjection + sentence)
 > ```
 
-> [!tip]- How to Identify Interjections
+> [!tip] How to Identify Interjections
 > 
 > **Test 1: Does it express emotion?**
 > 
@@ -2064,7 +2064,7 @@
 
 ## 📊 Summary Table of Parts of Speech
 
-> [!note]- Quick Reference Guide
+> [!note] Quick Reference Guide
 > 
 > |Part of Speech|Function|Examples|Question Answered|
 > |---|---|---|---|
@@ -2081,7 +2081,7 @@
 ---
 ## 🔍 Words That Can Be Multiple Parts of Speech
 
-> [!important]- Context Determines Part of Speech
+> [!important] Context Determines Part of Speech
 > 
 > **Many English words can function as different parts of speech depending on how they're used in a sentence.**
 > 
@@ -2167,7 +2167,7 @@
 >      (down = thing, in sports context)
 > ```
 
-> [!example]- More Context-Dependent Examples
+> [!example] More Context-Dependent Examples
 > 
 > **"can"**
 > 
@@ -2231,7 +2231,7 @@
 
 ## 🎭 Practical Exercises
 
-> [!example]- Exercise 1: Identify the Part of Speech
+> [!example] Exercise 1: Identify the Part of Speech
 > 
 > **Identify the underlined word's part of speech:**
 > 
@@ -2261,7 +2261,7 @@
 > 10. Adverb (describes how he works)
 > ```
 
-> [!example]- Exercise 2: Multiple Parts of Speech
+> [!example] Exercise 2: Multiple Parts of Speech
 > 
 > **Identify the part of speech for the word "light" in each sentence:**
 > 
@@ -2279,7 +2279,7 @@
 > 4. Adverb (describes how to travel)
 > ```
 
-> [!example]- Exercise 3: Fill in the Blanks
+> [!example] Exercise 3: Fill in the Blanks
 > 
 > **Choose the correct part of speech to complete each sentence:**
 > 
@@ -2311,7 +2311,7 @@
 
 ## 💡 Tips for Learning Parts of Speech
 
-> [!tip]- Study Strategies
+> [!tip] Study Strategies
 > 
 > **1. Learn by function, not just definition:**
 > 
@@ -2383,7 +2383,7 @@
 
 ## 🔗 Connection to Sentence Structure
 
-> [!note]- How Parts of Speech Build Sentences
+> [!note] How Parts of Speech Build Sentences
 > 
 > **Basic sentence patterns using parts of speech:**
 > 
@@ -2456,7 +2456,7 @@
 
 ## 📝 Advanced Concepts
 
-> [!success]- Word Classes and Subcategories
+> [!success] Word Classes and Subcategories
 > 
 > **Content words vs. Function words:**
 > 
@@ -2504,7 +2504,7 @@
 > These lists are relatively stable over time.
 > ```
 
-> [!note]- Grammatical vs. Lexical Categories
+> [!note] Grammatical vs. Lexical Categories
 > 
 > **Lexical categories** (main content):
 > 
@@ -2537,7 +2537,7 @@
 
 ## 🌍 Parts of Speech Across Languages
 
-> [!info]- Comparison with Spanish
+> [!info] Comparison with Spanish
 > 
 > **Similar parts of speech exist in Spanish and English:**
 > 
@@ -2593,7 +2593,7 @@
 
 ## 📚 Etymology and Word Formation
 
-> [!note]- How Words Change Parts of Speech
+> [!note] How Words Change Parts of Speech
 > 
 > **Adding suffixes can change part of speech:**
 > 
@@ -2650,7 +2650,7 @@
 
 ## 🎯 Final Review: The 8 Parts of Speech
 
-> [!summary]- Complete Overview
+> [!summary] Complete Overview
 > 
 > |#|Part of Speech|Main Function|Key Question|Example|
 > |---|---|---|---|---|
@@ -2684,7 +2684,7 @@
 ---
 # 🔗 Referencias y Conexiones
 
-> [!quote]- Enlaces Conceptuales
+> [!quote] Enlaces Conceptuales
 > 
 > **📖 Fundamentos previos necesarios:**
 > 
@@ -2804,7 +2804,7 @@
 
 ## 📖 GLOSSARY - GLOSARIO
 
-> [!note]- Essential Vocabulary (English → Spanish)
+> [!note] Essential Vocabulary (English → Spanish)
 > 
 > ### Parts of Speech Terms:
 > 

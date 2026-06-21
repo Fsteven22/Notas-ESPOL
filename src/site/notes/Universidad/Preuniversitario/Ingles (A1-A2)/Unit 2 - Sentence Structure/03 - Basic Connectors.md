@@ -20,7 +20,7 @@
 
 ### 📖 Historical Context
 
-> [!note]- Development of English Connectors
+> [!note] Development of English Connectors
 > 
 > **Old English period (450-1100 AD):**
 > 
@@ -64,7 +64,7 @@
 
 ### ➕ Addition Connectors
 
-> [!success]- Adding Information
+> [!success] Adding Information
 > 
 > **AND - The most basic connector:**
 > 
@@ -168,7 +168,7 @@
 
 ### ⚡ Contrast Connectors
 
-> [!warning]- Showing Differences or Opposition
+> [!warning] Showing Differences or Opposition
 > 
 > **BUT - Basic contrast:**
 > 
@@ -283,7 +283,7 @@
 
 ### 🔄 Cause and Effect Connectors
 
-> [!important]- Showing Reasons and Results
+> [!important] Showing Reasons and Results
 > 
 > **BECAUSE - Gives reason:**
 > 
@@ -388,7 +388,7 @@
 
 ### 🔢 Sequence Connectors
 
-> [!info]- Showing Order and Time
+> [!info] Showing Order and Time
 > 
 > **FIRST / FIRSTLY - Starting point:**
 > 
@@ -494,7 +494,7 @@
 
 ### 💡 Example Connectors
 
-> [!note]- Giving Examples and Illustrations
+> [!note] Giving Examples and Illustrations
 > 
 > **FOR EXAMPLE / FOR INSTANCE - Introducing examples:**
 > 
@@ -552,7 +552,7 @@
 
 ### 🎯 Purpose Connectors
 
-> [!success]- Showing Purpose or Goal
+> [!success] Showing Purpose or Goal
 > 
 > **TO / IN ORDER TO - Expressing purpose:**
 > 
@@ -598,7 +598,7 @@
 
 ## 📝 Punctuation with Connectors
 
-> [!warning]- Correct Punctuation Rules
+> [!warning] Correct Punctuation Rules
 > 
 > **Coordinating conjunctions (FANBOYS: For, And, Nor, But, Or, Yet, So):**
 > 
@@ -657,7 +657,7 @@
 
 ## 🎯 Practice Exercises
 
-> [!example]- Exercise 1: Choose the Correct Connector
+> [!example] Exercise 1: Choose the Correct Connector
 > 
 > **Fill in with the appropriate connector:**
 > 
@@ -689,7 +689,7 @@
 > 10. Moreover (adding negative information)
 > ```
 
-> [!example]- Exercise 2: Combine Sentences
+> [!example] Exercise 2: Combine Sentences
 > 
 > **Use the connector in parentheses to combine the sentences:**
 > 
@@ -721,7 +721,7 @@
 > 10. She speaks English. She also speaks Spanish. / She speaks English and Spanish.
 > ```
 
-> [!example]- Exercise 3: Add Correct Punctuation
+> [!example] Exercise 3: Add Correct Punctuation
 > 
 > **Add commas, semicolons, or periods where needed:**
 > 
@@ -753,7 +753,7 @@
 > 10. He's rich, yet he's not happy.
 > ```
 
-> [!example]- Exercise 4: Identify the Relationship
+> [!example] Exercise 4: Identify the Relationship
 > 
 > **What relationship does the connector show?**
 > 
@@ -789,7 +789,7 @@
 
 ## 💡 Common Mistakes and Tips
 
-> [!warning]- Errores Comunes para Hispanohablantes
+> [!warning] Errores Comunes para Hispanohablantes
 > 
 > **Error 1: Confundir "because" y "because of"**
 > 
@@ -881,7 +881,7 @@
 > "So" = resultado o pregunta conversacional
 > ```
 
-> [!tip]- Consejos y Trucos de Memoria
+> [!tip] Consejos y Trucos de Memoria
 > 
 > **Tip 1: FANBOYS para coordinación**
 > 

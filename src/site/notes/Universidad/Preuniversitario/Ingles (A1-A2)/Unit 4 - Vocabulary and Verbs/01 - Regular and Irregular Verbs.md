@@ -19,7 +19,7 @@
 
 ### 📖 Historical Context
 
-> [!note]- Development of English Verb Forms
+> [!note] Development of English Verb Forms
 > 
 > **Old English period (450-1100 AD):**
 > 
@@ -51,7 +51,7 @@
 
 ### ✅ What Are Regular Verbs?
 
-> [!success]- Complete Guide to Regular Verbs
+> [!success] Complete Guide to Regular Verbs
 > 
 > **Definition:** Regular verbs form their past simple and past participle by adding **-ed** (or **-d** if the verb already ends in 'e') to the base form.
 > 
@@ -82,7 +82,7 @@
 
 ### 🔤 Spelling Rules for Regular Verbs
 
-> [!tip]- Rules for Adding -ed
+> [!tip] Rules for Adding -ed
 > 
 > **Rule 1: Standard verbs → add -ed**
 > 
@@ -146,7 +146,7 @@
 
 ### 🔊 Pronunciation of -ed Endings
 
-> [!important]- Three Ways to Pronounce -ed
+> [!important] Three Ways to Pronounce -ed
 > 
 > **Sound 1: /t/ (voiceless T sound)**
 > 
@@ -210,7 +210,7 @@
 
 ### 📋 Common Regular Verbs List
 
-> [!example]- Frequently Used Regular Verbs
+> [!example] Frequently Used Regular Verbs
 > 
 > **Daily activities:**
 > 
@@ -291,7 +291,7 @@
 
 ### 💡 Using Regular Verbs in Sentences
 
-> [!example]- Regular Verbs in Context
+> [!example] Regular Verbs in Context
 > 
 > **Present simple:**
 > 
@@ -364,7 +364,7 @@
 
 ### ❌ What Are Irregular Verbs?
 
-> [!warning]- Complete Guide to Irregular Verbs
+> [!warning] Complete Guide to Irregular Verbs
 > 
 > **Definition:** Irregular verbs do NOT form their past simple and past participle by adding -ed. Instead, they change in unpredictable ways that must be memorized.
 > 
@@ -414,7 +414,7 @@
 
 ### 📚 Essential Irregular Verbs - Grouped by Pattern
 
-> [!success]- Type 1: Same Form for All Three (Base = Past = Past Participle)
+> [!success] Type 1: Same Form for All Three (Base = Past = Past Participle)
 > 
 > **Pattern: No change**
 > 
@@ -452,7 +452,7 @@
 > • Present Perfect: It has always cost $50.
 > ```
 
-> [!success]- Type 2: Past Simple = Past Participle (Different from Base)
+> [!success] Type 2: Past Simple = Past Participle (Different from Base)
 > 
 > **Pattern: Two different forms**
 > 
@@ -548,7 +548,7 @@
 > • She has taught math for 10 years. (present perfect)
 > ```
 
-> [!success]- Type 3: All Three Forms Different
+> [!success] Type 3: All Three Forms Different
 > 
 > **Pattern: Three distinct forms**
 > 
@@ -642,7 +642,7 @@
 > • She has written many poems. (present perfect)
 > ```
 
-> [!success]- Type 4: Base Form = Past Participle (Different Past Simple)
+> [!success] Type 4: Base Form = Past Participle (Different Past Simple)
 > 
 > **Pattern: First and third forms are the same**
 > 
@@ -669,7 +669,7 @@
 
 ### 🎯 The Most Essential Irregular Verbs to Memorize First
 
-> [!important]- Top 50 Irregular Verbs (Priority List)
+> [!important] Top 50 Irregular Verbs (Priority List)
 > 
 > **These verbs are used constantly in everyday English. Master these first!**
 > 
@@ -732,7 +732,7 @@
 
 ### 💡 Memory Techniques for Irregular Verbs
 
-> [!tip]- Strategies to Remember Irregular Verbs
+> [!tip] Strategies to Remember Irregular Verbs
 > 
 > **Technique 1: Group by similar patterns**
 > 
@@ -813,7 +813,7 @@
 
 ### ⚠️ Common Mistakes with Irregular Verbs
 
-> [!warning]- Errors to Avoid
+> [!warning] Errors to Avoid
 > 
 > **Mistake 1: Adding -ed to irregular verbs**
 > 
@@ -865,7 +865,7 @@
 
 ## 🎓 Practice Exercises
 
-> [!example]- Exercise 1: Identify Regular or Irregular
+> [!example] Exercise 1: Identify Regular or Irregular
 > 
 > **Determine if each verb is regular (R) or irregular (I):**
 > 
@@ -897,7 +897,7 @@
 > 10. I (irregular)
 > ```
 
-> [!example]- Exercise 2: Write the Past Simple Form
+> [!example] Exercise 2: Write the Past Simple Form
 > 
 > **Complete with the correct past simple form:**
 > 
@@ -929,7 +929,7 @@
 > 10. thought (irregular: think → thought → thought)
 > ```
 
-> [!example]- Exercise 3: Write the Past Participle Form
+> [!example] Exercise 3: Write the Past Participle Form
 > 
 > **Complete with the correct past participle (for present perfect):**
 > 
@@ -961,7 +961,7 @@
 > 10. seen (irregular: see → saw → seen)
 > ```
 
-> [!example]- Exercise 4: Correct the Mistakes
+> [!example] Exercise 4: Correct the Mistakes
 > 
 > **Find and correct the verb errors:**
 > 
@@ -993,7 +993,7 @@
 > 10. They have come home. (plural subject needs "have")
 > ```
 
-> [!example]- Exercise 5: Fill in All Three Forms
+> [!example] Exercise 5: Fill in All Three Forms
 > 
 > **Complete the table:**
 > 
@@ -1021,7 +1021,7 @@
 > |choose|chose|chosen|elegir|
 > |put|put|put|poner|
 
-> [!example]- Exercise 6: Pronunciation Practice (-ed endings)
+> [!example] Exercise 6: Pronunciation Practice (-ed endings)
 > 
 > **Identify the -ed sound: /t/, /d/, or /ɪd/**
 > 
@@ -1057,7 +1057,7 @@
 
 ## 📊 Complete Irregular Verbs Reference Table
 
-> [!note]- Comprehensive List (Alphabetical)
+> [!note] Comprehensive List (Alphabetical)
 > 
 > |Base Form|Past Simple|Past Participle|Spanish|Pattern|
 > |---|---|---|---|---|
@@ -1208,7 +1208,7 @@
 
 ## 🎯 Special Cases and Exceptions
 
-> [!info]- Verbs That Can Be Regular OR Irregular
+> [!info] Verbs That Can Be Regular OR Irregular
 > 
 > **Some verbs accept both forms:**
 > 
@@ -1256,7 +1256,7 @@
 > • dived (regular) - British English
 > ```
 
-> [!warning]- Commonly Confused Irregular Verb Pairs
+> [!warning] Commonly Confused Irregular Verb Pairs
 > 
 > **1. LIE vs LAY**
 > 
@@ -1324,7 +1324,7 @@
 
 ## 💡 Tips for Mastery
 
-> [!tip]- Study Strategies for Long-Term Retention
+> [!tip] Study Strategies for Long-Term Retention
 > 
 > **1. The "3-5-7 Review Method"**
 > 
@@ -1390,7 +1390,7 @@
 
 ## 📝 Advanced Concepts
 
-> [!note]- Irregular Verbs in Different Tenses
+> [!note] Irregular Verbs in Different Tenses
 > 
 > **Present Perfect vs Past Simple:**
 > 
@@ -1427,7 +1427,7 @@
 > • By the time you arrive, we will have eaten.
 > ```
 
-> [!info]- Irregular Verbs in Passive Voice
+> [!info] Irregular Verbs in Passive Voice
 > 
 > **Formation: be + past participle**
 > 
@@ -1465,7 +1465,7 @@
 
 ## 🔗 Referencias y Conexiones
 
-> [!quote]- Enlaces Conceptuales
+> [!quote] Enlaces Conceptuales
 > 
 > **📖 Fundamentos previos necesarios:**
 > 
@@ -1574,7 +1574,7 @@
 
 ## 📖 GLOSSARY - GLOSARIO
 
-> [!note]- Essential Vocabulary (English → Spanish)
+> [!note] Essential Vocabulary (English → Spanish)
 > 
 > ### Verb Terminology:
 > 
@@ -1875,7 +1875,7 @@
 
 ## 🎓 Study Plan Suggestions
 
-> [!success]- 30-Day Irregular Verb Mastery Plan
+> [!success] 30-Day Irregular Verb Mastery Plan
 > 
 > **Week 1: The Essential 20 (Days 1-7)**
 > 
@@ -1953,7 +1953,7 @@
 > • Celebrate your progress!
 > ```
 
-> [!tip]- Daily Practice Routine (15 minutes)
+> [!tip] Daily Practice Routine (15 minutes)
 > 
 > **Morning (5 minutes):**
 > 
@@ -1983,7 +1983,7 @@
 
 ## 🎯 Quick Reference Cards
 
-> [!info]- Printable Study Cards Format
+> [!info] Printable Study Cards Format
 > 
 > **Card Set 1: Top 10 Most Common**
 > 
@@ -2036,7 +2036,7 @@
 
 ## 🌟 Success Checklist
 
-> [!success]- Self-Assessment Progress Tracker
+> [!success] Self-Assessment Progress Tracker
 > 
 > **Level 1: Beginner (Essential 20 verbs)**
 > 
@@ -2073,7 +2073,7 @@
 
 ## 📚 Additional Resources
 
-> [!info]- Recommended Learning Materials
+> [!info] Recommended Learning Materials
 > 
 > **Online Resources:**
 > 
@@ -2115,7 +2115,7 @@
 
 ## 💪 Motivation and Final Tips
 
-> [!quote]- Words of Encouragement
+> [!quote] Words of Encouragement
 > 
 > **Remember:**
 > 
@@ -2143,7 +2143,7 @@
 
 ## 🔚 Conclusion
 
-> [!success]- Summary of Key Points
+> [!success] Summary of Key Points
 > 
 > **What you've learned:**
 > 

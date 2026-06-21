@@ -21,7 +21,7 @@
 
 ### 📖 Historical Context
 
-> [!note]- Development of the Exclamation Mark
+> [!note] Development of the Exclamation Mark
 > 
 > **Ancient origins (100-800 AD):**
 > 
@@ -61,7 +61,7 @@
 
 ### 1️⃣ Strong Emotions
 
-> [!important]- Expressing Feelings Intensely
+> [!important] Expressing Feelings Intensely
 > 
 > **What emotions use exclamation marks?**
 > 
@@ -139,7 +139,7 @@
 > ✓ Fire!
 > ```
 
-> [!example]- Emotion Expression Examples
+> [!example] Emotion Expression Examples
 > 
 > **Everyday expressions:**
 > 
@@ -167,7 +167,7 @@
 
 ### 2️⃣ Commands and Urgent Instructions
 
-> [!important]- Strong Imperatives
+> [!important] Strong Imperatives
 > 
 > **Commands with exclamation marks vs. periods:**
 > 
@@ -218,7 +218,7 @@
 > ✓ Stop right there!
 > ```
 
-> [!example]- Command Examples in Context
+> [!example] Command Examples in Context
 > 
 > **Safety warnings:**
 > 
@@ -253,7 +253,7 @@
 
 ### 3️⃣ Interjections
 
-> [!important]- Exclamatory Words and Phrases
+> [!important] Exclamatory Words and Phrases
 > 
 > **What are interjections?**
 > 
@@ -319,7 +319,7 @@
 > ✓ Oh no!
 > ```
 
-> [!example]- Interjection Usage Examples
+> [!example] Interjection Usage Examples
 > 
 > **In sentences:**
 > 
@@ -346,7 +346,7 @@
 
 ### 4️⃣ Exclamatory Sentences
 
-> [!important]- "What" and "How" Exclamations
+> [!important] "What" and "How" Exclamations
 > 
 > **Structure of exclamatory sentences:**
 > 
@@ -397,7 +397,7 @@
 > ✓ How fast time goes!
 > ```
 
-> [!example]- Exclamatory Sentence Examples
+> [!example] Exclamatory Sentence Examples
 > 
 > **With "What":**
 > 
@@ -434,7 +434,7 @@
 
 ### 5️⃣ Emphasis in Statements
 
-> [!important]- Making Statements More Forceful
+> [!important] Making Statements More Forceful
 > 
 > **Regular statement vs. emphatic statement:**
 > 
@@ -475,7 +475,7 @@
 
 ## ⚠️ Common Mistakes with Exclamation Marks
 
-> [!warning]- Errors to Avoid
+> [!warning] Errors to Avoid
 > 
 > **1. Overuse (exclamation mark abuse!):**
 > 
@@ -577,7 +577,7 @@
 
 ## 🎯 Practice Exercises
 
-> [!example]- Exercise 1: Period, Question Mark, or Exclamation Mark?
+> [!example] Exercise 1: Period, Question Mark, or Exclamation Mark?
 > 
 > **Instructions:** Add the correct punctuation (. ? or !) to each sentence.
 > 
@@ -619,7 +619,7 @@
 > 30. The store opens at 9 AM. (statement)
 > ```
 
-> [!example]- Exercise 2: Appropriate or Inappropriate?
+> [!example] Exercise 2: Appropriate or Inappropriate?
 > 
 > **Instructions:** Decide if the exclamation mark is appropriate (✓) or inappropriate (✗).
 > 
@@ -666,7 +666,7 @@
 >     → According to the data, sales increased by 10%.
 > ```
 
-> [!example]- Exercise 3: Create Exclamatory Sentences
+> [!example] Exercise 3: Create Exclamatory Sentences
 > 
 > **Instructions:** Transform these statements into exclamatory sentences using "What" or "How".
 > 
@@ -722,7 +722,7 @@
 >    or: How amazing the view is!
 > ```
 
-> [!example]- Exercise 4: Fix the Exclamation Errors
+> [!example] Exercise 4: Fix the Exclamation Errors
 > 
 > **Instructions:** Correct the exclamation mark errors in these sentences.
 > 
@@ -771,7 +771,7 @@
 
 ## 💡 Style Tips and Advanced Usage
 
-> [!tip]- Writing Style Guidelines
+> [!tip] Writing Style Guidelines
 > 
 > **Context-appropriate usage:**
 > 
@@ -847,7 +847,7 @@
 
 ## 🌍 English vs. Spanish Exclamation Marks
 
-> [!warning]- Critical Differences for Spanish Speakers
+> [!warning] Critical Differences for Spanish Speakers
 > 
 > **Spanish uses inverted exclamation mark at the beginning:**
 > 
@@ -922,7 +922,7 @@
 
 ## 🔗 Referencias y Conexiones
 
-> [!quote]- Enlaces Conceptuales
+> [!quote] Enlaces Conceptuales
 > 
 > **Related punctuation marks:**
 > 
@@ -1004,7 +1004,7 @@
 
 ## 📖 GLOSSARY - GLOSARIO
 
-> [!note]- Essential Vocabulary (English → Spanish)
+> [!note] Essential Vocabulary (English → Spanish)
 > 
 > ### Exclamation Terms:
 > 

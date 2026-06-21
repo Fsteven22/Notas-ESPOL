@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 El proceso comunicativo como sistema
+> [!info] 💡 El proceso comunicativo como sistema
 > 
 > La comunicación no es un acto simple, sino un **proceso complejo** que involucra múltiples elementos interrelacionados. Para que la comunicación sea efectiva, todos estos componentes deben funcionar adecuadamente.
 > 
@@ -26,7 +26,7 @@
 
 ## 📊 Modelo clásico de la comunicación
 
-> [!note]- 📡 Esquema básico (Shannon y Weaver, 1948)
+> [!note] 📡 Esquema básico (Shannon y Weaver, 1948)
 > 
 > El modelo original de Shannon y Weaver fue desarrollado para telecomunicaciones, pero se adaptó a la comunicación humana:
 > 
@@ -54,7 +54,7 @@
 
 ### 1️⃣ Emisor (Fuente o Codificador)
 
-> [!example]- 👤 El que inicia la comunicación
+> [!example] 👤 El que inicia la comunicación
 > 
 > **Definición:** Persona, grupo u organización que genera y envía el mensaje. Es quien tiene una **intención comunicativa**.
 > 
@@ -109,7 +109,7 @@
 
 ### 2️⃣ Receptor (Destinatario o Decodificador)
 
-> [!example]- 👥 El que recibe e interpreta
+> [!example] 👥 El que recibe e interpreta
 > 
 > **Definición:** Persona, grupo u organización que **recibe y decodifica** el mensaje. No es un elemento pasivo, sino un participante activo que interpreta.
 > 
@@ -181,7 +181,7 @@
 
 ### 3️⃣ Mensaje
 
-> [!example]- 💬 El contenido comunicado
+> [!example] 💬 El contenido comunicado
 > 
 > **Definición:** Conjunto de **información, ideas, emociones o datos** que el emisor transmite al receptor. Es el "qué" de la comunicación.
 > 
@@ -279,7 +279,7 @@
 
 ### 4️⃣ Código
 
-> [!example]- 🔤 El sistema de signos
+> [!example] 🔤 El sistema de signos
 > 
 > **Definición:** Sistema de **signos y reglas** que permite codificar (emisor) y decodificar (receptor) el mensaje. Es el "lenguaje" compartido.
 > 
@@ -411,7 +411,7 @@
 
 ### 5️⃣ Canal
 
-> [!example]- 📡 El medio de transmisión
+> [!example] 📡 El medio de transmisión
 > 
 > **Definición:** Medio **físico o técnico** a través del cual viaja el mensaje del emisor al receptor. Es el "vehículo" del mensaje.
 > 
@@ -590,7 +590,7 @@
 
 ### 6️⃣ Contexto (Situación o Marco de referencia)
 
-> [!example]- 🌍 El entorno comunicativo
+> [!example] 🌍 El entorno comunicativo
 > 
 > **Definición:** Conjunto de **circunstancias** (físicas, sociales, culturales, temporales, psicológicas) que **rodean y afectan** el acto comunicativo.
 > 
@@ -746,7 +746,7 @@
 
 ### 7️⃣ Retroalimentación (Feedback)
 
-> [!example]- 🔄 La respuesta que cierra el ciclo
+> [!example] 🔄 La respuesta que cierra el ciclo
 > 
 > **Definición:** Respuesta del receptor que regresa al emisor, indicando cómo fue recibido e interpretado el mensaje. Convierte la comunicación de lineal en **circular**.
 > 
@@ -907,7 +907,7 @@
 
 ### 8️⃣ Ruido
 
-> [!example]- ⚠️ Las interferencias comunicativas
+> [!example] ⚠️ Las interferencias comunicativas
 > 
 > **Definición:** Cualquier **interferencia o perturbación** que distorsiona, obstaculiza o impide la transmisión efectiva del mensaje.
 > 
@@ -1074,7 +1074,7 @@
 
 ## 📊 Resumen visual
 
-> [!note]- 🎨 Diagrama integrador
+> [!note] 🎨 Diagrama integrador
 > 
 > ```
 >                    ┌─────────────────────────┐
@@ -1122,7 +1122,7 @@
 
 ## ✅ Resumen ejecutivo
 
-> [!summary]- 📝 Puntos clave
+> [!summary] 📝 Puntos clave
 > 
 > ### Los 8 elementos fundamentales:
 > 
@@ -1178,7 +1178,7 @@
 
 ## 🔗 Conexiones con otros temas
 
-> [!quote]- 🌐 Relaciones con el curso
+> [!quote] 🌐 Relaciones con el curso
 > 
 > **Este tema es fundamental para:**
 > 
@@ -1215,7 +1215,7 @@
 
 ## 📚 Referencias y profundización
 
-> [!tip]- 📖 Para saber más
+> [!tip] 📖 Para saber más
 > 
 > ### Textos fundamentales:
 > 

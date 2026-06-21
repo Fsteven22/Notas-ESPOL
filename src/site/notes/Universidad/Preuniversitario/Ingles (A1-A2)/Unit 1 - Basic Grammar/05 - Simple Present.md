@@ -20,7 +20,7 @@
 
 ### 📖 Historical Context
 
-> [!note]- Development of the Simple Present
+> [!note] Development of the Simple Present
 > 
 > **Old English period (450-1100 AD):**
 > 
@@ -72,7 +72,7 @@
 
 ### ✅ Affirmative Form
 
-> [!success]- How to Form Affirmative Sentences
+> [!success] How to Form Affirmative Sentences
 > 
 > **Basic structure:**
 > 
@@ -165,7 +165,7 @@
 
 ### ❌ Negative Form
 
-> [!warning]- How to Form Negative Sentences
+> [!warning] How to Form Negative Sentences
 > 
 > **Structure:**
 > 
@@ -235,7 +235,7 @@
 
 ### ❓ Question Form
 
-> [!info]- How to Form Questions
+> [!info] How to Form Questions
 > 
 > **Yes/No Questions:**
 > 
@@ -304,7 +304,7 @@
 
 ### 1️⃣ Habits and Routines
 
-> [!success]- Regular, Repeated Actions
+> [!success] Regular, Repeated Actions
 > 
 > **Main use:** Actions we do regularly or repeatedly
 > 
@@ -355,7 +355,7 @@
 
 ### 2️⃣ General Truths and Facts
 
-> [!info]- Permanent and Universal Facts
+> [!info] Permanent and Universal Facts
 > 
 > **For:** Things that are always true
 > 
@@ -382,7 +382,7 @@
 
 ### 3️⃣ Permanent Situations
 
-> [!note]- Long-lasting or Permanent States
+> [!note] Long-lasting or Permanent States
 > 
 > **For:** Situations that are stable and long-term
 > 
@@ -410,7 +410,7 @@
 
 ### 4️⃣ Schedules and Timetables
 
-> [!important]- Fixed Future Events
+> [!important] Fixed Future Events
 > 
 > **For:** Events on a fixed schedule (not personal plans)
 > 
@@ -436,7 +436,7 @@
 
 ### 5️⃣ Stative Verbs (Non-action Verbs)
 
-> [!warning]- Verbs Rarely Used in Continuous Form
+> [!warning] Verbs Rarely Used in Continuous Form
 > 
 > **Stative verbs:** Describe states, not actions - usually use simple present
 > 
@@ -496,7 +496,7 @@
 
 ## ⚖️ Simple Present vs. Present Continuous
 
-> [!important]- Key Differences
+> [!important] Key Differences
 > 
 > **SIMPLE PRESENT:**
 > 
@@ -557,7 +557,7 @@
 
 ## 🎯 Practice Exercises
 
-> [!example]- Exercise 1: Conjugate the Verbs
+> [!example] Exercise 1: Conjugate the Verbs
 > 
 > **Write the correct form of the verb for each subject:**
 > 
@@ -610,7 +610,7 @@
 > 16. watches
 > ```
 
-> [!example]- Exercise 2: Make Negative Sentences
+> [!example] Exercise 2: Make Negative Sentences
 > 
 > **Change to negative:**
 > 
@@ -642,7 +642,7 @@
 > 10. They are not students. / They aren't students.
 > ```
 
-> [!example]- Exercise 3: Make Questions
+> [!example] Exercise 3: Make Questions
 > 
 > **Form yes/no questions:**
 > 
@@ -674,7 +674,7 @@
 > 10. Am I late?
 > ```
 
-> [!example]- Exercise 4: WH- Questions
+> [!example] Exercise 4: WH- Questions
 > 
 > **Complete the questions:**
 > 
@@ -706,7 +706,7 @@
 > 10. What do you think?
 > ```
 
-> [!example]- Exercise 5: Choose Simple Present or Present Continuous
+> [!example] Exercise 5: Choose Simple Present or Present Continuous
 > 
 > **Fill in with the correct tense:**
 > 
@@ -752,7 +752,7 @@
 
 ## 💡 Common Mistakes and Tips
 
-> [!warning]- Errores Comunes para Hispanohablantes
+> [!warning] Errores Comunes para Hispanohablantes
 > 
 > **Error 1: Olvidar la -s con he/she/it**
 > 
@@ -834,7 +834,7 @@
 > • What are you doing? (en este momento)
 > ```
 
-> [!tip]- Consejos y Trucos de Memoria
+> [!tip] Consejos y Trucos de Memoria
 > 
 > **Tip 1: Memoriza "HE/SHE/IT + S"**
 > 
@@ -930,7 +930,7 @@
 
 ## 📚 Additional Practice Activities
 
-> [!example]- Exercise 6: Complete the Daily Routine
+> [!example] Exercise 6: Complete the Daily Routine
 > 
 > **Fill in with the correct form of the verb:**
 > 
@@ -960,7 +960,7 @@
 > read, go, don't sleep, am
 > ```
 
-> [!example]- Exercise 7: Correct the Errors
+> [!example] Exercise 7: Correct the Errors
 > 
 > **Each sentence has one error. Find and correct it:**
 > 
@@ -1012,7 +1012,7 @@
 > 20. He always goes to work by bus. (goes, not go)
 > ```
 
-> [!example]- Exercise 8: Translation Practice
+> [!example] Exercise 8: Translation Practice
 > 
 > **Translate from Spanish to English:**
 > 
@@ -1054,7 +1054,7 @@
 > 30. How much does it cost?
 > ```
 
-> [!example]- Exercise 9: Interview Questions
+> [!example] Exercise 9: Interview Questions
 > 
 > **Create questions using the simple present:**
 > 
@@ -1091,7 +1091,7 @@
 
 ## 🎓 Summary - Resumen
 
-> [!summary]- Key Points to Remember
+> [!summary] Key Points to Remember
 > 
 > **Form:**
 > 
@@ -1177,7 +1177,7 @@
 
 ## 🔗 Referencias y Conexiones
 
-> [!quote]- Enlaces Conceptuales
+> [!quote] Enlaces Conceptuales
 > 
 > **📜 Base fundamental:**
 > 
@@ -1275,7 +1275,7 @@
 
 ## 📖 GLOSSARY - GLOSARIO
 
-> [!note]- Essential Vocabulary (English → Spanish)
+> [!note] Essential Vocabulary (English → Spanish)
 > 
 > ### Tense Terms:
 > 
@@ -1455,7 +1455,7 @@
 
 ## 🎯 Quick Reference Chart
 
-> [!info]- Simple Present At-a-Glance
+> [!info] Simple Present At-a-Glance
 > 
 > **Conjugation Pattern:**
 > 

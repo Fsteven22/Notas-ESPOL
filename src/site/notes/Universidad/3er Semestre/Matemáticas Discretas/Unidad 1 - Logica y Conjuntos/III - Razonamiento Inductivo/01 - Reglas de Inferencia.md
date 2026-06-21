@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Qué es el razonamiento deductivo?
+> [!info] 💡 ¿Qué es el razonamiento deductivo?
 > 
 > El proceso de obtener conclusiones a partir de una secuencia de proposiciones se llama **razonamiento deductivo**.
 > 
@@ -23,7 +23,7 @@
 
 ## 📚 Argumentos y Validez
 
-> [!note]- 📖 Definición — Argumento válido e inválido
+> [!note] 📖 Definición — Argumento válido e inválido
 > 
 > Diremos que el argumento es **válido** si cada vez que $p_1, p_2, \ldots, p_n$ son verdaderas entonces $q$ también es verdadera. De lo contrario diremos que el argumento es **inválido**.
 > 
@@ -33,7 +33,7 @@
 > 
 > Si el argumento es válido, lo denotaremos $p_1, p_2, \ldots, p_n \Rightarrow q$. El símbolo $\Rightarrow$ se lee: **implica**.
 
-> [!warning]- ⚠️ Observación importante
+> [!warning] ⚠️ Observación importante
 > 
 > No se está afirmando que la conclusión es cierta; sólo se dice que si se garantiza la hipótesis, también se debe garantizar la conclusión.
 > 
@@ -43,7 +43,7 @@
 
 ## 📋 Tabla de Reglas de Inferencia
 
-> [!note]- 📖 Reglas fundamentales
+> [!note] 📖 Reglas fundamentales
 > 
 > | Regla de inferencia | Nombre |
 > |---|---|
@@ -55,7 +55,7 @@
 > | $p \vee q,\ \neg p \Rightarrow q$ | **Silogismo Disyuntivo** |
 > | $p \wedge q \Rightarrow p$ | **Simplificación** |
 > 
-![ChatGPT Image 2 jun 2026, 00_08_36.png](/img/user/Contenido%20Extra/Figuras/ChatGPT%20Image%202%20jun%202026,%2000_08_36.png)
+![ChatGPT Image 2 jun 2026, 00_08_36.png](/img/user/Universidad/Figuras/ChatGPT%20Image%202%20jun%202026,%2000_08_36.png)
 
 ---
 
@@ -63,7 +63,7 @@
 
 ### 1 — Modus Ponens
 
-> [!tip]- ⚙️ Descripción
+> [!tip] ⚙️ Descripción
 > 
 > Si $p$ es verdadera y $p$ implica $q$, entonces $q$ debe ser verdadera.
 > 
@@ -73,7 +73,7 @@
 
 ### 2 — Modus Tollens
 
-> [!tip]- ⚙️ Descripción
+> [!tip] ⚙️ Descripción
 > 
 > Si $p$ implica $q$ pero $q$ es falsa, entonces $p$ también debe ser falsa.
 > 
@@ -83,7 +83,7 @@
 
 ### 3 — Silogismo Hipotético
 
-> [!tip]- ⚙️ Descripción
+> [!tip] ⚙️ Descripción
 > 
 > Transitividad del condicional: si $p \to q$ y $q \to r$, entonces $p \to r$.
 > 
@@ -93,7 +93,7 @@
 
 ### 4 — Silogismo Disyuntivo
 
-> [!tip]- ⚙️ Descripción
+> [!tip] ⚙️ Descripción
 > 
 > Si tenemos $p \vee q$ y sabemos que $p$ es falsa, entonces $q$ debe ser verdadera.
 > 
@@ -103,7 +103,7 @@
 
 ### 5 — Suma (Adición)
 
-> [!tip]- ⚙️ Descripción
+> [!tip] ⚙️ Descripción
 > 
 > Si $p$ es verdadera, entonces $p \vee q$ es verdadera para cualquier $q$.
 > 
@@ -113,7 +113,7 @@
 
 ### 6 — Simplificación
 
-> [!tip]- ⚙️ Descripción
+> [!tip] ⚙️ Descripción
 > 
 > Si $p \wedge q$ es verdadera, entonces cada componente por separado también lo es.
 > 
@@ -123,7 +123,7 @@
 
 ### 7 — Conjunción
 
-> [!tip]- ⚙️ Descripción
+> [!tip] ⚙️ Descripción
 > 
 > Si $p$ y $q$ son verdaderas de forma independiente, entonces $p \wedge q$ también lo es.
 > 
@@ -133,7 +133,7 @@
 
 ## 📝 Ejemplos
 
-> [!example]- 📝 Ejemplo 1 — Verificar validez: Modus Tollens
+> [!example] 📝 Ejemplo 1 — Verificar validez: Modus Tollens
 > 
 > Determine si el argumento es válido:
 > 
@@ -145,7 +145,7 @@
 > 
 > El razonamiento es válido: $p \to q,\ \neg q \Rightarrow \neg p$. $\blacksquare$
 
-> [!example]- 📝 Ejemplo 2 — Argumento inválido (Falacia)
+> [!example] 📝 Ejemplo 2 — Argumento inválido (Falacia)
 > 
 > Determine la validez del argumento:
 > 
@@ -159,7 +159,7 @@
 > 
 > > El argumento es **inválido**. Esta es la falacia de **negación del antecedente**. $\blacksquare$
 
-> [!example]- 📝 Ejemplo 3 — Cadena de inferencia con De Morgan
+> [!example] 📝 Ejemplo 3 — Cadena de inferencia con De Morgan
 > 
 > Determine la validez del argumento:
 > 
@@ -175,7 +175,7 @@
 > 
 > Esto es, $p \to q \wedge r,\ \neg q \vee \neg r \Rightarrow \neg p$. El argumento es **válido**. $\blacksquare$
 
-> [!example]- 📝 Ejemplo 4 — Demostración paso a paso
+> [!example] 📝 Ejemplo 4 — Demostración paso a paso
 > 
 > Demostrar la validez del siguiente razonamiento:
 > 
@@ -199,7 +199,7 @@
 
 ## ⚠️ Falacias Comunes
 
-> [!warning]- 🚫 Errores de razonamiento frecuentes
+> [!warning] 🚫 Errores de razonamiento frecuentes
 > 
 > Las siguientes **no son** reglas de inferencia válidas:
 > 

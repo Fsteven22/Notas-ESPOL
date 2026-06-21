@@ -7,7 +7,7 @@
 
 ## 🎯 Introducción
 
-> [!info]- 💡 ¿Para qué usamos el lenguaje?
+> [!info] 💡 ¿Para qué usamos el lenguaje?
 > 
 > El lenguaje no es solo una herramienta para transmitir información. Lo usamos con **múltiples propósitos**: expresar emociones, persuadir, establecer contacto, jugar con palabras, reflexionar sobre el propio lenguaje, y más.
 > 
@@ -31,7 +31,7 @@
 
 ## 👤 Modelo de Roman Jakobson (1960)
 
-> [!note]- 📊 El modelo clásico de las seis funciones
+> [!note] 📊 El modelo clásico de las seis funciones
 > 
 > Roman Jakobson, lingüista ruso, propuso que cada **elemento de la comunicación** corresponde a una **función específica** del lenguaje.
 > 
@@ -72,7 +72,7 @@
 
 ### 1️⃣ Función Referencial (Informativa o Representativa)
 
-> [!example]- 📋 Transmitir información objetiva
+> [!example] 📋 Transmitir información objetiva
 > 
 > **Definición:** Se centra en el **contexto** o referente. Su propósito es transmitir información **objetiva** sobre la realidad, hechos, datos o conceptos.
 > 
@@ -145,7 +145,7 @@
 
 ### 2️⃣ Función Emotiva (Expresiva o Sintomática)
 
-> [!example]- ❤️ Expresar emociones y sentimientos
+> [!example] ❤️ Expresar emociones y sentimientos
 > 
 > **Definición:** Se centra en el **emisor**. Su propósito es manifestar los **sentimientos, emociones, estados de ánimo u opiniones** del hablante.
 > 
@@ -229,7 +229,7 @@
 
 ### 3️⃣ Función Conativa (Apelativa o Directiva)
 
-> [!example]- 🎯 Influir en el receptor
+> [!example] 🎯 Influir en el receptor
 > 
 > **Definición:** Se centra en el **receptor**. Su propósito es provocar una **reacción, respuesta o comportamiento** en el destinatario: que haga algo, piense algo, sienta algo.
 > 
@@ -341,7 +341,7 @@
 
 ### 4️⃣ Función Fática (o de Contacto)
 
-> [!example]- 📞 Establecer y mantener comunicación
+> [!example] 📞 Establecer y mantener comunicación
 > 
 > **Definición:** Se centra en el **canal**. Su propósito es **iniciar, mantener, interrumpir o finalizar** la comunicación, verificando que el canal funcione correctamente.
 > 
@@ -596,7 +596,7 @@
 
 ## 🔄 Funciones en combinación
 
-> [!note]- 🎭 Raramente aparecen aisladas
+> [!note] 🎭 Raramente aparecen aisladas
 > 
 > En la **comunicación real**, los mensajes suelen cumplir **varias funciones simultáneamente**, aunque generalmente una predomina.
 > 
@@ -736,7 +736,7 @@
 
 ## 🎯 Aplicaciones prácticas
 
-> [!success]- 🛠️ Usar las funciones estratégicamente
+> [!success] 🛠️ Usar las funciones estratégicamente
 > 
 > ### Según tu objetivo comunicativo:
 > 
@@ -847,7 +847,7 @@
 
 ## 🎓 Ejercicios prácticos
 
-> [!example]- 💪 Para desarrollar habilidades
+> [!example] 💪 Para desarrollar habilidades
 > 
 > ### Ejercicio 1: Identificar función predominante
 > 
@@ -1003,7 +1003,7 @@
 
 ## 📊 Cuadro comparativo completo
 
-> [!note]- 📋 Resumen visual de las seis funciones
+> [!note] 📋 Resumen visual de las seis funciones
 > 
 > |Función|Elemento|Propósito|Ejemplo|Contexto típico|
 > |---|---|---|---|---|
@@ -1040,7 +1040,7 @@
 
 ## ✅ Resumen ejecutivo
 
-> [!summary]- 📝 Puntos esenciales
+> [!summary] 📝 Puntos esenciales
 > 
 > ### Las 6 funciones del lenguaje (Jakobson):
 > 
@@ -1092,7 +1092,7 @@
 
 ## 🔗 Conexiones con otros temas
 
-> [!quote]- 🌐 Relaciones interdisciplinarias
+> [!quote] 🌐 Relaciones interdisciplinarias
 > 
 > **Este tema se relaciona con:**
 > 
@@ -1130,7 +1130,7 @@
 
 ## 📚 Profundización y referencias
 
-> [!tip]- 📖 Para saber más
+> [!tip] 📖 Para saber más
 > 
 > ### Textos fundamentales:
 > 
@@ -1187,7 +1187,7 @@
 
 ## 🎨 Actividades creativas
 
-> [!example]- 🎭 Para practicar de forma lúdica
+> [!example] 🎭 Para practicar de forma lúdica
 > 
 > ### Actividad 1: El teléfono descompuesto de funciones
 > 
@@ -1302,7 +1302,7 @@
 
 ## 💡 Casos de estudio interesantes
 
-> [!note]- 🔍 Análisis de comunicación real
+> [!note] 🔍 Análisis de comunicación real
 > 
 > ### Caso 1: Discurso "I Have a Dream" (Martin Luther King Jr.)
 > 
@@ -1399,7 +1399,7 @@
 
 ## 🧩 Mapa conceptual
 
-> [!note]- 🗺️ Visualización integrada
+> [!note] 🗺️ Visualización integrada
 > 
 > ```
 >                    FUNCIONES DEL LENGUAJE
@@ -1444,7 +1444,7 @@
 
 ## 🎯 Autoevaluación final
 
-> [!example]- ✅ Verifica tu comprensión
+> [!example] ✅ Verifica tu comprensión
 > 
 > ### Test de comprensión:
 > 

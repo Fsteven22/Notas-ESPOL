@@ -20,7 +20,7 @@
 
 ### 📖 Historical Context
 
-> [!note]- Development of the Comma
+> [!note] Development of the Comma
 > 
 > **Ancient Greek period (400 BC):**
 > 
@@ -95,7 +95,7 @@
 
 ### 1️⃣ Items in a Series (Lists)
 
-> [!success]- Separating Three or More Items
+> [!success] Separating Three or More Items
 > 
 > **Rule:** Use commas to separate three or more items (words, phrases, or clauses) in a series.
 > 
@@ -170,7 +170,7 @@
 
 ### 2️⃣ Compound Sentences (Two Independent Clauses)
 
-> [!success]- Joining Complete Thoughts with Coordinating Conjunctions
+> [!success] Joining Complete Thoughts with Coordinating Conjunctions
 > 
 > **Rule:** Use a comma before coordinating conjunctions (FANBOYS: for, and, nor, but, or, yet, so) when joining two independent clauses.
 > 
@@ -259,7 +259,7 @@
 
 ### 3️⃣ Introductory Elements
 
-> [!info]- Phrases and Clauses at the Beginning of Sentences
+> [!info] Phrases and Clauses at the Beginning of Sentences
 > 
 > **Rule:** Use a comma after introductory words, phrases, or clauses that come before the main clause.
 > 
@@ -341,7 +341,7 @@
 
 ### 4️⃣ Nonessential (Nonrestrictive) Elements
 
-> [!warning]- Information That Can Be Removed Without Changing Core Meaning
+> [!warning] Information That Can Be Removed Without Changing Core Meaning
 > 
 > **Rule:** Use commas to set off nonessential information - details that add extra information but aren't necessary to identify the subject.
 > 
@@ -445,7 +445,7 @@
 
 ### 5️⃣ Direct Address and Tag Questions
 
-> [!note]- Speaking Directly to Someone
+> [!note] Speaking Directly to Someone
 > 
 > **Direct address (vocatives):**
 > 
@@ -517,7 +517,7 @@
 
 ### 6️⃣ Dates, Addresses, and Numbers
 
-> [!important]- Formatting Conventions
+> [!important] Formatting Conventions
 > 
 > **Dates:**
 > 
@@ -607,7 +607,7 @@
 
 ### 7️⃣ Coordinate Adjectives
 
-> [!success]- Multiple Adjectives Describing the Same Noun
+> [!success] Multiple Adjectives Describing the Same Noun
 > 
 > **Rule:** Use commas between coordinate adjectives (adjectives that equally modify a noun).
 > 
@@ -699,7 +699,7 @@
 
 ### 8️⃣ Quotations and Dialogue
 
-> [!info]- Direct Speech and Quotes
+> [!info] Direct Speech and Quotes
 > 
 > **Rule:** Use commas to introduce or interrupt quotations.
 > 
@@ -773,7 +773,7 @@
 
 ## ⚠️ Common Comma Mistakes
 
-> [!warning]- Errors to Avoid
+> [!warning] Errors to Avoid
 > 
 > **1. Comma splice (joining two sentences with only a comma):**
 > 
@@ -892,7 +892,7 @@
 
 ## 🎯 Special Cases and Advanced Rules
 
-> [!note]- Less Common but Important Rules
+> [!note] Less Common but Important Rules
 > 
 > **Contrasting elements:**
 > 
@@ -974,7 +974,7 @@
 
 ## 📚 Practice Exercises
 
-> [!example]- Exercise 1: Add Commas to Lists
+> [!example] Exercise 1: Add Commas to Lists
 > 
 > **Add commas where needed:**
 > 
@@ -1006,7 +1006,7 @@
 > 10. The recipe requires flour, sugar, eggs, and butter.
 > ```
 
-> [!example]- Exercise 2: Compound Sentences
+> [!example] Exercise 2: Compound Sentences
 > 
 > **Add commas where needed. If no comma is needed, write "correct":**
 > 
@@ -1048,7 +1048,7 @@
 > 30. The sun was shining, and the birds were singing.
 > ```
 
-> [!example]- Exercise 3: Introductory Elements
+> [!example] Exercise 3: Introductory Elements
 > 
 > **Add commas where needed:**
 > 
@@ -1090,7 +1090,7 @@
 > 60. First, mix all the ingredients together.
 > ```
 
-> [!example]- Exercise 4: Essential vs Nonessential Elements
+> [!example] Exercise 4: Essential vs Nonessential Elements
 > 
 > **Add commas where needed. Mark "correct" if no commas needed:**
 > 
@@ -1132,7 +1132,7 @@
 > 90. My sister, who is a teacher, lives in Cuenca. (nonessential)
 > ```
 
-> [!example]- Exercise 5: Direct Address and Tag Questions
+> [!example] Exercise 5: Direct Address and Tag Questions
 > 
 > **Add commas where needed:**
 > 
@@ -1174,7 +1174,7 @@
 > 120. My dear friend, I need your help.
 > ```
 
-> [!example]- Exercise 6: Dates, Addresses, and Numbers
+> [!example] Exercise 6: Dates, Addresses, and Numbers
 > 
 > **Add commas where needed:**
 > 
@@ -1206,7 +1206,7 @@
 > 140. The year 2025 is going to be great. (correct - no comma)
 > ```
 
-> [!example]- Exercise 7: Coordinate Adjectives
+> [!example] Exercise 7: Coordinate Adjectives
 > 
 > **Add commas where needed. Mark "correct" if no comma needed:**
 > 
@@ -1248,7 +1248,7 @@
 > 170. Correct (age + color - not coordinate)
 > ```
 
-> [!example]- Exercise 8: Quotations
+> [!example] Exercise 8: Quotations
 > 
 > **Add commas (and other punctuation) where needed:**
 > 
@@ -1280,7 +1280,7 @@
 > 190. She said, "I don't understand."
 > ```
 
-> [!example]- Exercise 9: Find and Correct Errors
+> [!example] Exercise 9: Find and Correct Errors
 > 
 > **Each sentence has comma errors. Correct them:**
 > 
@@ -1322,7 +1322,7 @@
 > 220. When I arrived home, everyone was sleeping. (comma after clause, not after "arrived")
 > ```
 
-> [!example]- Exercise 10: Mixed Practice
+> [!example] Exercise 10: Mixed Practice
 > 
 > **Add all necessary commas:**
 > 
@@ -1378,7 +1378,7 @@
 
 ## 💡 Tips for Spanish Speakers
 
-> [!warning]- Errores Comunes para Hispanohablantes
+> [!warning] Errores Comunes para Hispanohablantes
 > 
 > **Error 1: Traducir el uso de comas del español directamente**
 > 
@@ -1455,7 +1455,7 @@
 > En inglés: número primero, luego calle
 > ```
 
-> [!tip]- Consejos y Trucos de Memoria
+> [!tip] Consejos y Trucos de Memoria
 > 
 > **Tip 1: FANBOYS para oraciones compuestas**
 > 
@@ -1559,7 +1559,7 @@
 
 ## 🎓 Summary - Resumen 
 
-> [!summary]- Reglas Principales
+> [!summary] Reglas Principales
 > 
 > **Las 8 reglas esenciales:**
 > 
@@ -1625,7 +1625,7 @@
 
 ## 🔗 Related Notes and Connections
 
-> [!quote]- Enlaces Conceptuales
+> [!quote] Enlaces Conceptuales
 > 
 > **Base fundamental para puntuación:**
 > 
@@ -1776,7 +1776,7 @@
 
 ## 📖 GLOSSARY - GLOSARIO
 
-> [!note]- Essential Vocabulary (English → Spanish)
+> [!note] Essential Vocabulary (English → Spanish)
 > 
 > ### Punctuation Terms:
 > 
@@ -1972,7 +1972,7 @@
 
 ## 🎯 Quick Reference Chart
 
-> [!info]- Comma Rules At-a-Glance
+> [!info] Comma Rules At-a-Glance
 > 
 > **When to USE commas:**
 > 
@@ -2033,7 +2033,7 @@
 
 ## 📝 Style Guide Notes
 
-> [!important]- American vs British Usage
+> [!important] American vs British Usage
 > 
 > **Main differences:**
 > 

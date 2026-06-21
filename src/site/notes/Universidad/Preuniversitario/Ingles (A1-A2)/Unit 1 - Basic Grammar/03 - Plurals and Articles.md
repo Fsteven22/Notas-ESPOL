@@ -20,7 +20,7 @@
 
 ### 📖 Historical Context
 
-> [!note]- Development of Plurals and Articles
+> [!note] Development of Plurals and Articles
 > 
 > **Old English period (450-1100 AD):**
 > 
@@ -59,7 +59,7 @@
 
 ### 🔵 Regular Plurals
 
-> [!success]- Standard Plural Formation Rules
+> [!success] Standard Plural Formation Rules
 > 
 > **Rule 1: Add -s to most nouns**
 > 
@@ -185,7 +185,7 @@
 
 ### 🔴 Irregular Plurals
 
-> [!warning]- Irregular Plural Patterns
+> [!warning] Irregular Plural Patterns
 > 
 > **Type 1: Vowel change (Old English plurals)**
 > 
@@ -302,7 +302,7 @@
 
 ### ⚠️ Special Cases and Exceptions
 
-> [!important]- Uncountable Nouns and Special Plurals
+> [!important] Uncountable Nouns and Special Plurals
 > 
 > **Uncountable nouns (no plural form):**
 > 
@@ -383,7 +383,7 @@
 
 ### 🎯 When to Use "THE"
 
-> [!success]- Complete Guide to "THE"
+> [!success] Complete Guide to "THE"
 > 
 > **Rule 1: Specific, known items**
 > 
@@ -503,7 +503,7 @@
 
 ### 🚫 When NOT to Use "THE"
 
-> [!warning]- When to Omit "THE"
+> [!warning] When to Omit "THE"
 > 
 > **No "the" with:**
 > 
@@ -604,7 +604,7 @@
 
 ### 📌 Basic Rules for A/AN
 
-> [!info]- Understanding A and AN
+> [!info] Understanding A and AN
 > 
 > **The fundamental rule:**
 > 
@@ -648,7 +648,7 @@
 
 ### 🎯 When to Use A/AN
 
-> [!success]- Complete A/AN Usage Guide
+> [!success] Complete A/AN Usage Guide
 > 
 > **1. First mention (introducing something new):**
 > 
@@ -708,7 +708,7 @@
 
 ### 🚫 When NOT to Use A/AN
 
-> [!warning]- When to Omit A/AN
+> [!warning] When to Omit A/AN
 > 
 > **1. With plural nouns:**
 > 
@@ -745,7 +745,7 @@
 
 ## 🎯 Practice Exercises
 
-> [!example]- Exercise 1: Form the Plurals
+> [!example] Exercise 1: Form the Plurals
 > 
 > **Write the correct plural form:**
 > 
@@ -787,7 +787,7 @@
 > 30. fish (or fishes)
 > ```
 
-> [!example]- Exercise 2: Choose A or AN
+> [!example] Exercise 2: Choose A or AN
 > 
 > **Fill in with "a" or "an":**
 > 
@@ -829,7 +829,7 @@
 > 60. a year (consonant sound "yeer")
 > ```
 
-> [!example]- Exercise 3: Use THE or No Article
+> [!example] Exercise 3: Use THE or No Article
 > 
 > **Fill in with "the" or leave blank (Ø):**
 > 
@@ -871,7 +871,7 @@
 > 90. The (specific)
 > ```
 
-> [!example]- Exercise 4: Correct the Errors
+> [!example] Exercise 4: Correct the Errors
 > 
 > **Find and correct the mistakes:**
 > 
@@ -907,7 +907,7 @@
 
 ## 🔗 Referencias y Conexiones
 
-> [!quote]- Enlaces Conceptuales
+> [!quote] Enlaces Conceptuales
 > 
 > **📜 Base fundamental:**
 > 
@@ -982,7 +982,7 @@
 
 ## 📖 GLOSSARY - GLOSARIO
 
-> [!note]- Essential Vocabulary (English → Spanish)
+> [!note] Essential Vocabulary (English → Spanish)
 > 
 > ### Plural Terms:
 > 
@@ -1062,7 +1062,7 @@
 
 ## 💡 Common Mistakes and Tips
 
-> [!warning]- Errores Comunes para Hispanohablantes
+> [!warning] Errores Comunes para Hispanohablantes
 > 
 > **Error 1: Usar "the" con nombres de países**
 > 
@@ -1159,7 +1159,7 @@
 > PERO: "The music at the party was great." (música específica)
 > ```
 
-> [!tip]- Consejos y Trucos de Memoria
+> [!tip] Consejos y Trucos de Memoria
 > 
 > **Tip 1: Regla del sonido para A/AN**
 > 
@@ -1256,7 +1256,7 @@
 
 ## 📚 Additional Practice Activities
 
-> [!example]- Exercise 5: Real-World Application
+> [!example] Exercise 5: Real-World Application
 > 
 > **Translate these sentences paying attention to plurals and articles:**
 > 
@@ -1307,7 +1307,7 @@
 >     (country name = no article, but "a country")
 > ```
 
-> [!example]- Exercise 6: Fill in the Blank Story
+> [!example] Exercise 6: Fill in the Blank Story
 > 
 > **Complete with the correct article (a/an/the) or leave blank (Ø):**
 > 
@@ -1345,7 +1345,7 @@
 > I've ever eaten!
 > ```
 
-> [!example]- Exercise 7: Error Correction Challenge
+> [!example] Exercise 7: Error Correction Challenge
 > 
 > **Each sentence has 1-2 errors. Find and correct them:**
 > 
@@ -1420,7 +1420,7 @@
 
 ## 🎓 Summary - Resumen
 
-> [!summary]- Key Points to Remember
+> [!summary] Key Points to Remember
 > 
 > **Plurals - Puntos Clave:**
 > 

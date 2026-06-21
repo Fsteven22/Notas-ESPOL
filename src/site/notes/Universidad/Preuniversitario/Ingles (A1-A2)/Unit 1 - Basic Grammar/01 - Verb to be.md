@@ -20,7 +20,7 @@
 
 ### 📖 Why Is "to be" So Important?
 
-> [!note]- The Foundation of English Grammar
+> [!note] The Foundation of English Grammar
 > 
 > **"To be" is used constantly:**
 > 
@@ -66,7 +66,7 @@
 
 ### Full Forms
 
-> [!success]- Complete Conjugation (Affirmative)
+> [!success] Complete Conjugation (Affirmative)
 > 
 > **The three forms: am, is, are**
 > 
@@ -134,7 +134,7 @@
 
 ### Contractions (Shortened Forms)
 
-> [!important]- Common Contractions
+> [!important] Common Contractions
 > 
 > **Positive contractions:**
 > 
@@ -206,7 +206,7 @@
 
 ### Full Negative Forms
 
-> [!success]- Complete Negative Conjugation
+> [!success] Complete Negative Conjugation
 > 
 > **Pattern: Subject + am/is/are + NOT**
 > 
@@ -239,7 +239,7 @@
 
 ### Negative Contractions
 
-> [!important]- Shortened Negative Forms
+> [!important] Shortened Negative Forms
 > 
 > **Two ways to contract negatives:**
 > 
@@ -326,7 +326,7 @@
 
 ### Yes/No Questions
 
-> [!success]- Forming Yes/No Questions
+> [!success] Forming Yes/No Questions
 > 
 > **Pattern: Am/Is/Are + Subject + ?**
 > 
@@ -391,7 +391,7 @@
 
 ### Short Answers
 
-> [!important]- How to Answer Yes/No Questions
+> [!important] How to Answer Yes/No Questions
 > 
 > **Affirmative short answers:**
 > 
@@ -461,7 +461,7 @@
 
 ### WH- Questions
 
-> [!success]- Information Questions
+> [!success] Information Questions
 > 
 > **Pattern: WH- word + am/is/are + subject + ?**
 > 
@@ -564,7 +564,7 @@
 
 ### 1. Identity and Occupation
 
-> [!example]- Identifying People and Things
+> [!example] Identifying People and Things
 > 
 > **Names and identity:**
 > 
@@ -598,7 +598,7 @@
 
 ### 2. Descriptions and Characteristics
 
-> [!example]- Describing People and Things
+> [!example] Describing People and Things
 > 
 > **Physical descriptions:**
 > 
@@ -634,7 +634,7 @@
 
 ### 3. Location (Where)
 
-> [!example]- Expressing Location
+> [!example] Expressing Location
 > 
 > **Places:**
 > 
@@ -667,7 +667,7 @@
 
 ### 4. States and Feelings
 
-> [!example]- Expressing States and Emotions
+> [!example] Expressing States and Emotions
 > 
 > **Emotions:**
 > 
@@ -712,7 +712,7 @@
 
 ### 5. Age
 
-> [!example]- Expressing Age
+> [!example] Expressing Age
 > 
 > **Pattern: Subject + be + number + years old**
 > 
@@ -738,7 +738,7 @@
 
 ### 6. Nationality and Origin
 
-> [!example]- Expressing Nationality and Origin
+> [!example] Expressing Nationality and Origin
 > 
 > **Nationality:**
 > 
@@ -768,7 +768,7 @@
 
 ### 7. Time and Dates
 
-> [!example]- Expressing Time and Dates
+> [!example] Expressing Time and Dates
 > 
 > **Time:**
 > 
@@ -809,7 +809,7 @@
 
 ### 8. Weather
 
-> [!example]- Talking About Weather
+> [!example] Talking About Weather
 > 
 > **Pattern: It + be + adjective/weather condition**
 > 
@@ -835,7 +835,7 @@
 
 ## ⚠️ Common Mistakes
 
-> [!warning]- Typical Errors for Spanish Speakers
+> [!warning] Typical Errors for Spanish Speakers
 > 
 > **Mistake 1: Omitting the subject**
 > 
@@ -940,7 +940,7 @@
 
 ## 🎯 Practice Exercises
 
-> [!example]- Exercise 1: Fill in the Correct Form
+> [!example] Exercise 1: Fill in the Correct Form
 > 
 > **Complete with am, is, or are:**
 > 
@@ -972,7 +972,7 @@
 > 10. are
 > ```
 
-> [!example]- Exercise 2: Make Negative Sentences
+> [!example] Exercise 2: Make Negative Sentences
 > 
 > **Change to negative:**
 > 
@@ -1015,7 +1015,7 @@
 > 8. I'm not hungry. / I am not hungry.
 > ```
 
-> [!example]- Exercise 3: Make Questions
+> [!example] Exercise 3: Make Questions
 > 
 > **Change to yes/no questions:**
 > 
@@ -1058,7 +1058,7 @@
 > 8. Are you tired?
 > ```
 
-> [!example]- Exercise 4: Short Answers
+> [!example] Exercise 4: Short Answers
 > 
 > **Answer these questions:**
 > 
@@ -1101,7 +1101,7 @@
 > 8. No, I'm not.
 > ```
 
-> [!example]- Exercise 5: WH- Questions
+> [!example] Exercise 5: WH- Questions
 > 
 > **Complete with the correct question word:**
 > 
@@ -1144,7 +1144,7 @@
 > 8. How
 > ```
 
-> [!example]- Exercise 6: Correct the Mistakes
+> [!example] Exercise 6: Correct the Mistakes
 > 
 > **Find and correct the errors:**
 > 
@@ -1187,7 +1187,7 @@
 > 8. I am a student.
 > ```
 
-> [!example]- Exercise 7: Translation Practice
+> [!example] Exercise 7: Translation Practice
 > 
 > **Translate to English:**
 > 
@@ -1236,7 +1236,7 @@
 
 ### Affirmative Forms (Past)
 
-> [!success]- Past Tense Conjugation
+> [!success] Past Tense Conjugation
 > 
 > **Only two forms: was, were**
 > 
@@ -1276,7 +1276,7 @@
 
 ### Negative Forms (Past)
 
-> [!important]- Past Negative
+> [!important] Past Negative
 > 
 > **Full forms:**
 > 
@@ -1315,7 +1315,7 @@
 
 ### Questions (Past)
 
-> [!success]- Past Questions
+> [!success] Past Questions
 > 
 > **Yes/No questions:**
 > 
@@ -1366,7 +1366,7 @@
 
 ## 💬 Real-Life Dialogues
 
-> [!example]- Dialogue 1: Meeting Someone New
+> [!example] Dialogue 1: Meeting Someone New
 > 
 > ```
 > A: Hi! I'm Maria. What's your name?
@@ -1401,7 +1401,7 @@
 > A: You too! See you around!
 > ```
 
-> [!example]- Dialogue 2: At a Doctor's Office
+> [!example] Dialogue 2: At a Doctor's Office
 > 
 > ```
 > Doctor: Good morning! How are you today?
@@ -1435,7 +1435,7 @@
 > Patient: Thank you, doctor!
 > ```
 
-> [!example]- Dialogue 3: Describing Yourself
+> [!example] Dialogue 3: Describing Yourself
 > 
 > ```
 > Interviewer: Tell me about yourself.
@@ -1473,7 +1473,7 @@
 
 ## 🎓 There is / There are
 
-> [!info]- Using "There is" and "There are"
+> [!info] Using "There is" and "There are"
 > 
 > **Structure for existence:**
 > 
@@ -1561,7 +1561,7 @@
 
 ## 🔗 Referencias y Conexiones
 
-> [!quote]- Enlaces Conceptuales
+> [!quote] Enlaces Conceptuales
 > 
 > **📜 Fundación previa:**
 > 
@@ -1677,7 +1677,7 @@
 
 ## 📖 GLOSSARY - GLOSARIO
 
-> [!note]- Essential Vocabulary (English → Spanish)
+> [!note] Essential Vocabulary (English → Spanish)
 > 
 > ### Verb Forms - Formas del Verbo:
 > 
@@ -1847,7 +1847,7 @@
 
 ## 🎓 Quick Reference Card
 
-> [!tip]- Cheat Sheet: Verb "to be"
+> [!tip] Cheat Sheet: Verb "to be"
 > 
 > **Present Simple:**
 > 

@@ -19,7 +19,7 @@
 
 ### 📖 Historical Context
 
-> [!note]- Development of Sentence Analysis
+> [!note] Development of Sentence Analysis
 > 
 > **Ancient origins (500 BC - 100 AD):**
 > 
@@ -61,7 +61,7 @@
 
 ### Overview
 
-> [!success]- Subject and Predicate: The Core of Every Sentence
+> [!success] Subject and Predicate: The Core of Every Sentence
 > 
 > **Every complete sentence MUST have:**
 > 
@@ -106,7 +106,7 @@
 
 ## 👤 THE SUBJECT
 
-> [!success]- Complete Guide to Subjects
+> [!success] Complete Guide to Subjects
 > 
 > **Definition:** The subject is the person, place, thing, or idea that the sentence is about. It tells us who or what performs the action or is being described.
 > 
@@ -175,7 +175,7 @@
 > (You = implied subject)
 > ```
 
-> [!example]- Subject Examples in Different Positions
+> [!example] Subject Examples in Different Positions
 > 
 > **Subject at the beginning (most common):**
 > 
@@ -231,7 +231,7 @@
 >   (The keys = subject, NOT "my pocket")
 > ```
 
-> [!tip]- How to Identify the Subject
+> [!tip] How to Identify the Subject
 > 
 > **Method 1: Ask "Who?" or "What?"**
 > 
@@ -288,7 +288,7 @@
 > (your coffee = subject, NOT "here")
 > ```
 
-> [!warning]- Common Mistakes with Subjects
+> [!warning] Common Mistakes with Subjects
 > 
 > **Mistake 1: Confusing the subject with objects in prepositional phrases**
 > 
@@ -348,7 +348,7 @@
 
 ## 🎬 THE PREDICATE
 
-> [!success]- Complete Guide to Predicates
+> [!success] Complete Guide to Predicates
 > 
 > **Definition:** The predicate is the part of the sentence that tells what the subject does or is. It always contains a verb and provides information about the subject.
 > 
@@ -405,7 +405,7 @@
 > (reads books and writes stories in his free time = compound predicate)
 > ```
 
-> [!example]- Predicate Examples in Sentences
+> [!example] Predicate Examples in Sentences
 > 
 > **Simple predicates (verb phrases):**
 > 
@@ -465,7 +465,7 @@
 >   (flew away but returned later = compound predicate)
 > ```
 
-> [!tip]- How to Identify the Predicate
+> [!tip] How to Identify the Predicate
 > 
 > **Method 1: Find the verb first**
 > 
@@ -521,7 +521,7 @@
 
 ### Direct Objects
 
-> [!success]- Understanding Direct Objects
+> [!success] Understanding Direct Objects
 > 
 > **Definition:** A direct object is a noun or pronoun that receives the action of the verb. It answers the question "What?" or "Whom?" after the verb.
 > 
@@ -559,7 +559,7 @@
 > • Direct objects are NEVER in prepositional phrases
 > ```
 
-> [!example]- Direct Object Examples
+> [!example] Direct Object Examples
 > 
 > ```
 > • She writes letters every week.
@@ -580,7 +580,7 @@
 
 ### Indirect Objects
 
-> [!success]- Understanding Indirect Objects
+> [!success] Understanding Indirect Objects
 > 
 > **Definition:** An indirect object is a noun or pronoun that tells TO WHOM or FOR WHOM the action is done. It appears between the verb and the direct object.
 > 
@@ -614,7 +614,7 @@
 > She told us the story. = She told the story to us.
 > ```
 
-> [!example]- Indirect Object Examples
+> [!example] Indirect Object Examples
 > 
 > ```
 > • The teacher gave the students homework.
@@ -635,7 +635,7 @@
 
 ### Subject Complements
 
-> [!success]- Understanding Subject Complements
+> [!success] Understanding Subject Complements
 > 
 > **Definition:** A subject complement is a word or phrase that follows a linking verb and describes or renames the subject.
 > 
@@ -676,7 +676,7 @@
 > become, grow, remain, stay
 > ```
 
-> [!example]- Subject Complement Examples
+> [!example] Subject Complement Examples
 > 
 > **Predicate nominatives:**
 > 
@@ -709,7 +709,7 @@
 
 ### Object Complements
 
-> [!success]- Understanding Object Complements
+> [!success] Understanding Object Complements
 > 
 > **Definition:** An object complement is a word or phrase that follows and modifies or refers to the direct object. It completes the meaning of the direct object.
 > 
@@ -745,7 +745,7 @@
 > (interesting = describes "the book")
 > ```
 
-> [!example]- Object Complement Examples
+> [!example] Object Complement Examples
 > 
 > ```
 > • They named their son Thomas.
@@ -768,7 +768,7 @@
 
 ## 📝 Sentence Patterns
 
-> [!note]- Five Basic Sentence Patterns in English
+> [!note] Five Basic Sentence Patterns in English
 > 
 > **Pattern 1: S + V (Subject + Verb)**
 > 
@@ -830,7 +830,7 @@
 > • Less common pattern
 > ```
 
-> [!example]- Identifying Sentence Patterns
+> [!example] Identifying Sentence Patterns
 > 
 > **Practice identifying patterns:**
 > 
@@ -864,7 +864,7 @@
 
 ## 🎯 Complete Sentence Analysis
 
-> [!example]- Step-by-Step Sentence Breakdown
+> [!example] Step-by-Step Sentence Breakdown
 > 
 > **Example 1: Simple sentence**
 > 
@@ -946,7 +946,7 @@
 
 ## ⚠️ Common Errors in Sentence Structure
 
-> [!warning]- Sentence Fragments and Run-ons
+> [!warning] Sentence Fragments and Run-ons
 > 
 > **Sentence fragments** (incomplete sentences):
 > 
@@ -1000,7 +1000,7 @@
 > ✓ She is smart. She works hard.
 > ```
 
-> [!warning]- Subject-Verb Agreement Errors
+> [!warning] Subject-Verb Agreement Errors
 > 
 > ```
 > ✗ The students is here.
@@ -1023,7 +1023,7 @@
 
 ## 🎭 Types of Sentences by Structure
 
-> [!note]- Four Types of Sentence Structures
+> [!note] Four Types of Sentence Structures
 > 
 > **1. Simple sentence** (one independent clause):
 > 
@@ -1072,7 +1072,7 @@
 
 ## 🎯 Practice Exercises
 
-> [!example]- Exercise 1: Identify Subject and Predicate
+> [!example] Exercise 1: Identify Subject and Predicate
 > 
 > **Identify the complete subject and complete predicate:**
 > 
@@ -1101,7 +1101,7 @@
    Predicate: needs repairs
 > ```
 
-> [!example]- Exercise 2: Identify Sentence Components
+> [!example] Exercise 2: Identify Sentence Components
 > 
 > **Identify: Subject (S), Verb (V), Direct Object (DO), Indirect Object (IO), Subject Complement (SC)**
 > 
@@ -1142,7 +1142,7 @@
 >    Pattern: S + V + DO + OC
 > ```
 
-> [!example]- Exercise 3: Correct the Errors
+> [!example] Exercise 3: Correct the Errors
 > 
 > **Fix the sentence fragments and run-on sentences:**
 > 
@@ -1193,7 +1193,7 @@
 >    ✓ My favorite subject is math. It's very interesting.
 > ```
 
-> [!example]- Exercise 4: Identify Sentence Patterns
+> [!example] Exercise 4: Identify Sentence Patterns
 > 
 > **Identify which of the 5 basic patterns each sentence follows:**
 > 
@@ -1238,7 +1238,7 @@
 
 ## 🔍 Advanced Sentence Analysis
 
-> [!success]- Analyzing Complex Sentences
+> [!success] Analyzing Complex Sentences
 > 
 > **Understanding independent and dependent clauses:**
 > 
@@ -1311,7 +1311,7 @@
 > • Tell me where you live. (functions as direct object)
 > ```
 
-> [!example]- Complex Sentence Analysis Examples
+> [!example] Complex Sentence Analysis Examples
 > 
 > **Example 1:**
 > 
@@ -1398,7 +1398,7 @@
 
 ## 🎭 Types of Sentences by Purpose
 
-> [!note]- Four Types of Sentences by Function
+> [!note] Four Types of Sentences by Function
 > 
 > **1. Declarative sentences** (make statements):
 > 
@@ -1463,7 +1463,7 @@
 > or is an emphatic statement
 > ```
 
-> [!example]- Sentence Type Examples and Conversion
+> [!example] Sentence Type Examples and Conversion
 > 
 > **Converting between sentence types:**
 > 
@@ -1508,7 +1508,7 @@
 
 ## 📊 Sentence Diagramming Basics
 
-> [!tip]- Visual Representation of Sentence Structure
+> [!tip] Visual Representation of Sentence Structure
 > 
 > **Basic diagram structure:**
 > 
@@ -1568,7 +1568,7 @@
 
 ## 💡 Tips for Building Better Sentences
 
-> [!tip]- Sentence Construction Strategies
+> [!tip] Sentence Construction Strategies
 > 
 > **1. Vary sentence length:**
 > 
@@ -1671,7 +1671,7 @@
 
 ## 🌍 Sentence Structure Across Languages
 
-> [!info]- Comparison with Spanish
+> [!info] Comparison with Spanish
 > 
 > **Word order differences:**
 > 
@@ -1756,7 +1756,7 @@
 
 ## 🎯 Advanced Practice
 
-> [!example]- Exercise 5: Complex Sentence Analysis
+> [!example] Exercise 5: Complex Sentence Analysis
 > 
 > **Analyze these complex sentences. Identify all clauses and their components:**
 > 
@@ -1834,7 +1834,7 @@
 >    Pattern: Noun clause + linking verb + noun clause
 > ```
 
-> [!example]- Exercise 6: Sentence Building
+> [!example] Exercise 6: Sentence Building
 > 
 > **Build sentences using the specified patterns:**
 > 
@@ -1872,7 +1872,7 @@
 
 ## 📖 Summary Chart
 
-> [!note]- Quick Reference: Sentence Components
+> [!note] Quick Reference: Sentence Components
 > 
 > |Component|Definition|Example|How to Find|
 > |---|---|---|---|
@@ -1892,7 +1892,7 @@
 
 ## 🎓 Common Challenges for Spanish Speakers
 
-> [!warning]- Specific Difficulties When Learning English Sentence Structure
+> [!warning] Specific Difficulties When Learning English Sentence Structure
 > 
 > **Challenge 1: Subject pronoun omission**
 > 
@@ -2001,7 +2001,7 @@
 
 ## 💡 Tips for Mastery
 
-> [!tip]- Strategies to Master Sentence Structure
+> [!tip] Strategies to Master Sentence Structure
 > 
 > **1. Always identify the verb first:**
 > 
@@ -2128,7 +2128,7 @@
 
 ## 🎯 Real-World Applications
 
-> [!example]- Using Sentence Structure Knowledge in Practice
+> [!example] Using Sentence Structure Knowledge in Practice
 > 
 > **1. In academic writing:**
 > 
@@ -2206,7 +2206,7 @@
 
 ## 📚 Additional Practice Resources
 
-> [!tip]- Where to Practice More
+> [!tip] Where to Practice More
 > 
 > **Online resources:**
 > 
@@ -2260,7 +2260,7 @@
 
 ## 🎓 Summary: Key Takeaways
 
-> [!summary]- Essential Points to Remember
+> [!summary] Essential Points to Remember
 > 
 > **1. Every complete sentence needs:**
 > 
@@ -2334,7 +2334,7 @@
 
 ## 🎯 Final Practice Test
 
-> [!example]- Comprehensive Review Exercise
+> [!example] Comprehensive Review Exercise
 > 
 > **Part A: Identify all sentence components**
 > 
@@ -2376,7 +2376,7 @@
 > 20. Stop that immediately!
 > ```
 
-> [!note]- Answer Key
+> [!note] Answer Key
 > 
 > **Part A Answers:**
 > 
@@ -2465,7 +2465,7 @@
 ---
 # 🔗 Referencias y Conexiones
 
-> [!quote]- Enlaces Conceptuales
+> [!quote] Enlaces Conceptuales
 > 
 > **📖 Fundamentos previos necesarios:**
 > 
@@ -2618,7 +2618,7 @@
 > ```
 ## 📖 GLOSSARY - GLOSARIO
 
-> [!note]- Essential Vocabulary (English → Spanish)
+> [!note] Essential Vocabulary (English → Spanish)
 > 
 > ### Sentence Structure Terms:
 > 
