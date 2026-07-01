@@ -55,8 +55,6 @@
 > 
 > **(b) ¿Es $f$ sobreyectiva?**
 > 
-> **Sí**, $f$ es sobreyectiva sobre $[0, \infty)$.
-> 
 > Sea $y \in [0, \infty)$ arbitrario. Debemos hallar $x \in \mathbb{R}$ tal que $f(x) = y$:
 > 
 > $$(x+1)^2 + 1 = y \implies (x+1)^2 = y - 1 \implies x = -1 + \sqrt{y-1}$$
@@ -159,15 +157,9 @@
 > 
 > **Inyectividad:**
 > 
-> **No** es inyectiva. Buscamos un contraejemplo resolviendo $g(x_1) = g(x_2)$ con $x_1 \neq x_2$:
+> **No** es inyectiva. Buscamos un contraejemplo fijando $g(x) = 4$ y resolviendo:
 > 
-> $$\frac{x_1^2 - 5}{x_1 - 2} = \frac{x_2^2 - 5}{x_2 - 2}$$
-> 
-> Cruzando: $(x_1^2-5)(x_2-2) = (x_2^2-5)(x_1-2)$, que simplifica a:
-> 
-> $$x_1^2 x_2 - 2x_1^2 - x_2 x_1^2 + \cdots \implies (x_1^2 - x_2^2) - 5(x_1 - x_2) - 2(x_1^2 - x_2^2)/(x_1-x_2)\cdots$$
-> 
-> Más directo: fijamos $g(x) = 4$ y resolvemos $x^2 - 5 = 4(x-2) \implies x^2 - 4x + 3 = 0 \implies (x-1)(x-3)=0$.
+> $$x^2 - 5 = 4(x-2) \implies x^2 - 4x + 3 = 0 \implies (x-1)(x-3)=0$$
 > 
 > Contraejemplo: $x_1 = 1$ y $x_2 = 3$ (ambos $\neq 2$, luego en el dominio):
 > 
@@ -232,7 +224,7 @@
 > 
 > **Enunciado:** $A = \{2,3,5,6,9,15\}$, $R = \{(x,y) \in A \times A \mid y \text{ es múltiplo de } x\}$.
 > 
-> **(a) Pares de $R$:**
+> Primero determinamos los pares de $R$:
 > 
 > | $x$ | Múltiplos de $x$ en $A$ | Pares |
 > |---|---|---|
@@ -245,7 +237,57 @@
 > 
 > $$R = \{(2,2),(2,6),(3,3),(3,6),(3,9),(3,15),(5,5),(5,15),(6,6),(9,9),(15,15)\}$$
 > 
+> **(a) Diagrama sagital de $R$:**
+> 
+> El diagrama sagital tiene dos copias del conjunto $A$ (dominio a la izquierda, codominio a la derecha), con flechas de $x$ a $y$ para cada $(x,y) \in R$:
+> 
+> ```mermaid
+> graph LR
+>   subgraph Dominio
+>     a2[2]
+>     a3[3]
+>     a5[5]
+>     a6[6]
+>     a9[9]
+>     a15[15]
+>   end
+>   subgraph Codominio
+>     b2[2]
+>     b3[3]
+>     b5[5]
+>     b6[6]
+>     b9[9]
+>     b15[15]
+>   end
+>   a2 --> b2
+>   a2 --> b6
+>   a3 --> b3
+>   a3 --> b6
+>   a3 --> b9
+>   a3 --> b15
+>   a5 --> b5
+>   a5 --> b15
+>   a6 --> b6
+>   a9 --> b9
+>   a15 --> b15
+> ```
+> 
 > **(b) Digrafo:** Nodos: 2, 3, 5, 6, 9, 15. Aristas reflexivas en todos; aristas adicionales: $2\to6$, $3\to6$, $3\to9$, $3\to15$, $5\to15$.
+> 
+> ```mermaid
+> graph TD
+>   2 --> 2
+>   3 --> 3
+>   5 --> 5
+>   6 --> 6
+>   9 --> 9
+>   15 --> 15
+>   2 --> 6
+>   3 --> 6
+>   3 --> 9
+>   3 --> 15
+>   5 --> 15
+> ```
 > 
 > **(c) Matriz relativa al orden $2,3,5,6,9,15$:**
 > 
@@ -331,7 +373,9 @@
 > 
 > $$M_R = \begin{pmatrix} 0&1&0&1&0&1&0 \\ 0&0&1&0&1&0&1 \\ 0&0&0&1&0&1&0 \\ 0&0&0&0&1&0&1 \\ 0&0&0&0&0&1&0 \\ 0&0&0&0&0&0&1 \\ 0&0&0&0&0&0&0 \end{pmatrix}$$
 > 
-> **(b) Propiedades:**
+> **(b) Digrafo:** Nodos: 1, 2, 3, 4, 5, 6, 7. No hay lazos reflexivos (pues $a < a$ es imposible). Las aristas van siempre de un nodo impar a uno par mayor, o de uno par a uno impar mayor: $1\to2$, $1\to4$, $1\to6$, $2\to3$, $2\to5$, $2\to7$, $3\to4$, $3\to6$, $4\to5$, $4\to7$, $5\to6$, $6\to7$.
+> 
+> **(c) Propiedades:**
 > 
 > - **No reflexiva:** $a < a$ es falso, nunca $(a,a) \in R$
 > - **No simétrica:** $(1,2) \in R$ pero $(2,1) \notin R$ (pues $2 < 1$ es falso)
@@ -360,12 +404,20 @@
 > 
 > $$R = \{(-2,-2),(4,-2),(4,4)\}$$
 > 
+> **Diagrama sagital:** Flechas: $-2 \to -2$, $4 \to -2$, $4 \to 4$.
+> 
+> **Matriz (orden $-2, 3, 4, 5$):**
+> 
+> $$M_R = \begin{pmatrix} 1&0&0&0 \\ 0&0&0&0 \\ 1&0&1&0 \\ 0&0&0&0 \end{pmatrix}$$
+> 
+> (filas = $x$, columnas = $y$, orden: $-2, 3, 4, 5$)
+> 
 > **(b) Propiedades:**
 > 
 > - **No reflexiva:** $(3,3) \notin R$, $(5,5) \notin R$
 > - **No simétrica:** $(4,-2) \in R$ pero $(-2,4) \notin R$
 > - **Antisimétrica:** ✓ No hay pares $(a,b)$ y $(b,a)$ con $a\neq b$ ambos en $R$
-> - **No transitiva:** La relación es muy pequeña; no hay cadena $xRy$, $yRz$ con $x\neq z$ que incumplan
+> - **Transitiva:** ✓ Las únicas cadenas posibles son: $(-2,-2)(-2,?)$ — habría que tener $(-2,y)\in R$ para algún $y$, pero el único par con $x=-2$ es $(-2,-2)$, y $(-2,-2) \in R$ ✓. Para $4$: $(4,-2)$ y $(-2,-2) \in R$ exige $(4,-2) \in R$ ✓. $(4,4)$ y $(4,-2),(4,4) \in R$ exigen $(4,-2),(4,4) \in R$ ✓. No hay cadena que incumpla la transitividad.
 
 > [!example] 📝 Ejercicio 14 — Composición de relaciones $R_1 \circ R_2$ y $R_2 \circ R_1$
 > 
@@ -394,7 +446,7 @@
 > 
 > $$R_2 \circ R_1 = \{(1,1),(1,2),(3,4),(4,1),(4,2)\}$$
 > 
-> **2. Ejemplos de relaciones en $\{1,2,3,4\}$ con propiedades específicas:**
+> **Ejemplos de relaciones en $\{1,2,3,4\}$ con propiedades específicas:**
 > 
 > **(a) Reflexiva, simétrica, no transitiva:**
 > $$R = \{(1,1),(2,2),(3,3),(4,4),(1,2),(2,1),(2,3),(3,2)\}$$
@@ -506,6 +558,26 @@
 > **Enunciado:** $X = \{\text{Brasil, Argentina, Uruguay, Canadá, Estados Unidos, Costa Rica, México, Ecuador}\}$. $\alpha R \beta \iff |\alpha| \geq |\beta|$.
 > 
 > Longitudes: Brasil=6, Argentina=9, Uruguay=7, Canadá=6, EstadosUnidos=13, CostaRica=9, México=6, Ecuador=7.
+> 
+> **(a) Diagrama sagital de $R$:**
+> 
+> $\alpha R \beta$ cuando $|\alpha| \geq |\beta|$. Agrupando por longitud:
+> 
+> | Longitud | Países |
+> |---|---|
+> | 13 | Estados Unidos |
+> | 9 | Argentina, Costa Rica |
+> | 7 | Uruguay, Ecuador |
+> | 6 | Brasil, Canadá, México |
+> 
+> Cada país apunta a todos los países cuya longitud es $\leq$ a la suya. En el diagrama sagital, el dominio y el codominio son ambos $X$, con flecha de $\alpha$ a $\beta$ si $|\alpha| \geq |\beta|$:
+> 
+> - **Estados Unidos (13):** apunta a todos los 8 países.
+> - **Argentina, Costa Rica (9):** apuntan a todos excepto Estados Unidos.
+> - **Uruguay, Ecuador (7):** apuntan a Uruguay, Ecuador, Brasil, Canadá, México (y a sí mismos).
+> - **Brasil, Canadá, México (6):** apuntan solo a Brasil, Canadá y México (longitud 6).
+> 
+> (Todos los países también se apuntan a sí mismos por reflexividad.)
 > 
 > **(b) Propiedades:**
 > 

@@ -17,10 +17,10 @@
 >
 > ```mermaid
 > graph LR
->     A[Fuente<br/>de Voltaje 🔋] -->|+| B[Conductor]
+>     A[Fuente<br/>de Voltaje 🔋] -->| Positivo | B[Conductor]
 >     B --> C[Elemento<br/>Pasivo]
 >     C --> D[Conductor]
->     D -->|-| A
+>     D -->|Negativo| A
 >
 >     style A fill:#fff4e1
 >     style B fill:#e1f5ff
