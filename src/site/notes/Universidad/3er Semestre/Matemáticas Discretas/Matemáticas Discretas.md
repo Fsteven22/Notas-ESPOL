@@ -33,10 +33,10 @@
 
 ## Unidad IV — Recurrencia y Algoritmos *(7h)*
 
-- [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/01 - Pseudocódigo y Algoritmos\|01 - Pseudocódigo y Algoritmos]]
-- [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/02 - Análisis de Algoritmos\|02 - Análisis de Algoritmos]]
-- [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/03 - Relaciones de Recurrencia\|03 - Relaciones de Recurrencia]]
-- [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/04 - Recurrencia Homogénea\|04 - Recurrencia Homogénea]]
+- [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/03 - Pseudocódigo y Algoritmos\|03 - Pseudocódigo y Algoritmos]]
+- [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/04 - Análisis de Algoritmos\|04 - Análisis de Algoritmos]]
+- [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/01 - Relaciones de Recurrencia\|01 - Relaciones de Recurrencia]]
+- [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/02 - Recurrencia Homogénea\|02 - Recurrencia Homogénea]]
 
 ## Unidad V — Grafos y Árboles *(12h)*
 
