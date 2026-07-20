@@ -17,7 +17,7 @@
 > 
 > La corriente fluye de **Ánodo → Cátodo** en polarización directa (sentido convencional = flujo de huecos).
 
-![ChatGPT Image 20 jun 2026, 21_36_55.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2020%20jun%202026,%2021_36_55.png)
+![ChatGPT Image 14 jul 2026, 21_25_28.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2014%20jul%202026,%2021_25_28.png)
 
 ---
 
@@ -224,7 +224,7 @@ mindmap
 > [!quote] 🔗 Conexiones
 > 
 > - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/01 - Semiconductores y Bandas de Energía\|01 - Semiconductores y Bandas de Energía]] — fundamento de la unión P-N.
-> - [[03 - Transistor BJT\|03 - Transistor BJT]] — dos uniones P-N combinadas forman el transistor.
+> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/03 - Transistor BJT\|03 - Transistor BJT]] — dos uniones P-N combinadas forman el transistor.
 
 ---
 

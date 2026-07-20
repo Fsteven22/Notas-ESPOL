@@ -22,6 +22,8 @@
 >     style E fill:#e1ffe1
 > ```
 
+![ChatGPT Image 14 jul 2026, 21_17_54.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2014%20jul%202026,%2021_17_54.png)
+
 ---
 
 ## 🗂️ Tabla de Equivalencia: Dígito Octal ↔ 3 Bits

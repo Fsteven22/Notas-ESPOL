@@ -11,7 +11,7 @@
 > El **pseudocódigo** es una forma de describir algoritmos usando una sintaxis simplificada, independiente de cualquier lenguaje de programación. Permite razonar sobre la lógica de un algoritmo antes de preocuparse por los detalles de implementación.
 > 
 > - Sirve como **puente** entre la idea matemática de un algoritmo y su implementación real en código.
-> - Es la base para poder **analizar la complejidad** de un algoritmo (ver [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/04 - Análisis de Algoritmos\|04 - Análisis de Algoritmos]]).
+> - Es la base para poder **analizar la complejidad** de un algoritmo.
 > - Un buen algoritmo debe cumplir ciertas propiedades formales, sin importar en qué lenguaje se termine escribiendo.
 > 
 > **Analogía del mundo real:**

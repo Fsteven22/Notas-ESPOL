@@ -98,6 +98,8 @@
 > |**Semiconductor Ge**|$0.67\text{ eV}$|Más fácil de excitar que el Si|
 > |**Conductor**|$\approx 0$|Bandas solapadas, electrones libres siempre|
 
+![ChatGPT Image 14 jul 2026, 21_37_00.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2014%20jul%202026,%2021_37_00.png)
+
 ---
 
 ## 🔩 Tipos de Semiconductores
@@ -205,7 +207,7 @@ mindmap
 > Esta nota es la base conceptual para:
 > 
 > - [[02 - El Diodo (Unión P-N)\|02 - El Diodo (Unión P-N)]] — la unión de un material tipo P con uno tipo N.
-> - [[03 - Transistor BJT\|03 - Transistor BJT]] — dispositivo de tres terminales formado por dos uniones P-N.
+> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/03 - Transistor BJT\|03 - Transistor BJT]] — dispositivo de tres terminales formado por dos uniones P-N.
 
 ---
 

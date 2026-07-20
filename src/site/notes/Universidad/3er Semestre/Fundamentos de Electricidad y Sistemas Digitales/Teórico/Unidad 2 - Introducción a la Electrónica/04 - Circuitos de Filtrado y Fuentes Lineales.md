@@ -35,6 +35,25 @@
 
 ---
 
+## 🔄 El Transformador
+
+> [!note] 🔄 Rol del transformador en la fuente lineal
+> 
+> Es la primera etapa: adapta el voltaje de la red (110V o 220V) a un nivel más bajo, adecuado para el circuito que se va a alimentar, y **aísla eléctricamente** la carga de la red — protección importante en caso de falla.
+> 
+> $$\frac{V_p}{V_s} = \frac{N_p}{N_s}$$
+> 
+> Donde $V_p, N_p$ son voltaje y número de vueltas del primario, y $V_s, N_s$ los del secundario.
+> 
+> |Tipo de transformador|Uso en la fuente lineal|
+> |---|---|
+> |**Simple (2 terminales en secundario)**|Alimenta un rectificador de media onda o un puente de diodos|
+> |**Con derivación central (center-tap)**|Alimenta un rectificador de onda completa de 2 diodos|
+> 
+> > 📌 El voltaje pico que llega al rectificador es $V_m = \sqrt{2}\cdot V_{s(rms)}$, ya que el transformador entrega un valor RMS pero el rectificador y el filtro trabajan con el valor pico de la onda.
+
+---
+
 ## 🔌 Rectificación
 
 > [!note] 🔌 Rectificador de media onda
@@ -48,7 +67,7 @@
 >     style B fill:#fff4e1
 > ```
 > 
-> $$V_{DC} = \frac{V_m}{\pi} \approx 0.318, V_m$$
+> $$V_{DC} = \frac{V_m}{\pi} \approx 0.318 \times V_m$$
 > 
 > - Frecuencia de rizado = frecuencia de línea ($f$).
 > - Poco eficiente: se desperdicia medio ciclo completo.
@@ -69,7 +88,7 @@
 > - $PIV = V_m$ (mejor que el center-tap).
 > - Es la configuración más común en la práctica.
 > 
-> $$V_{DC} = \frac{2V_m}{\pi} \approx 0.636, V_m$$
+> $$V_{DC} = \frac{2V_m}{\pi} \approx 0.636 \times V_m$$
 > 
 > - Frecuencia de rizado = $2f$ (el doble de la línea).
 
@@ -79,7 +98,7 @@
 > |---|---|---|---|
 > |**N.º de diodos**|1|2|4|
 > |**Transformador**|Simple|Con derivación central|Simple|
-> |**$V_{DC}$**|$0.318,V_m$|$0.636,V_m$|$0.636,V_m$|
+> |**$V_{DC}$**|$0.318 V_m$|$0.636 V_m$|$0.636 V_m$|
 > |**Frecuencia de rizado**|$f$|$2f$|$2f$|
 > |**PIV del diodo**|$V_m$|$2V_m$|$V_m$|
 > |**Eficiencia**|Baja|Alta|Alta|
@@ -119,6 +138,18 @@
 > [!warning] ⚠️ Error común
 > 
 > Olvidar que $f$ en la fórmula del rizado es la **frecuencia de rizado**, no la frecuencia de la red. Usar $f_{línea}$ en vez de $2f_{línea}$ en un rectificador de onda completa da un rizado calculado el doble de grande del real.
+
+---
+
+## 🛡️ El Regulador (adelanto)
+
+> [!note] 🛡️ ¿Qué hace, sin entrar en el cómo?
+> 
+> Después del filtro, el voltaje ya es CD pero todavía **varía** — cambia si la carga consume más o menos corriente, o si el voltaje de línea fluctúa. El **regulador** es la etapa final: se encarga de tomar ese voltaje variable y entregar un voltaje de salida **fijo y seguro** para los demás componentes del circuito, sin importar esas variaciones.
+> 
+> > 📌 El detalle de cómo lo logra (Zener, transistor en serie, IC 78xx/79xx) es justamente el tema "Uso de reguladores en fuentes lineales" tendrá su propia nota. 
+
+![ChatGPT Image 14 jul 2026, 21_31_07.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2014%20jul%202026,%2021_31_07.png)
 
 ---
 
@@ -175,8 +206,10 @@
 > [!note] 🎯 Nivel Básico
 > 
 > - [ ] Identifico las 4 etapas de una fuente lineal y su orden.
+> - [ ] Calculo el voltaje de secundario de un transformador dada su relación de vueltas.
 > - [ ] Distingo un rectificador de media onda de uno de onda completa por su circuito.
 > - [ ] Sé qué hace un capacitor de filtro en el circuito.
+> - [ ] Explico en una frase qué función cumple el regulador, sin necesidad de conocer su circuito interno todavía.
 
 > [!note] 🎯 Nivel Intermedio
 > 
@@ -197,6 +230,9 @@
 ```mermaid
 mindmap
   root((Filtrado y<br/>Fuentes Lineales))
+    Transformador
+      Relación de vueltas
+      Aislamiento galvánico
     Rectificación
       Media onda
       Onda completa center-tap

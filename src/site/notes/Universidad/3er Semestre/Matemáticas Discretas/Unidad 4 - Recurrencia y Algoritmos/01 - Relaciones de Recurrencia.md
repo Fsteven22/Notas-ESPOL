@@ -11,7 +11,7 @@
 > Una **relación de recurrencia** describe una sucesión definiendo cada término en función de los términos anteriores. En vez de dar una fórmula directa, se da una "receta" que construye el término $n$ a partir de sus predecesores.
 > 
 > - Permiten **modelar procesos que evolucionan paso a paso**: interés compuesto, poblaciones, algoritmos recursivos.
-> - Son la base matemática detrás del análisis de algoritmos recursivos (ver [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/04 - Análisis de Algoritmos\|04 - Análisis de Algoritmos]]).
+> - Son la base matemática detrás del análisis de algoritmos recursivos.
 > - Toda relación de recurrencia necesita **condiciones iniciales** para quedar completamente determinada.
 > 
 > **Analogía del mundo real:**
