@@ -9,7 +9,7 @@
 
 > [!info] ⚙️ ¿Qué es el transistor?
 > 
-> El **transistor BJT (Bipolar Junction Transistor)** es un elemento semiconductor de tres terminales formado por dos uniones P-N (ver [[02 - El Diodo (Unión P-N)\|02 - El Diodo (Unión P-N)]]). Puede operar como **interruptor (switch)** o como **amplificador de señal**.
+> El **transistor BJT (Bipolar Junction Transistor)** es un elemento semiconductor de tres terminales formado por dos uniones P-N (ver [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/02 - El Diodo - Unión P-N\|02 - El Diodo - Unión P-N]]). Puede operar como **interruptor (switch)** o como **amplificador de señal**.
 > 
 > |Terminal|Símbolo|Función|
 > |---|---|---|
@@ -224,7 +224,7 @@ mindmap
 
 > [!quote] 🔗 Conexiones
 > 
-> - [[02 - El Diodo (Unión P-N)\|02 - El Diodo (Unión P-N)]] — el transistor BJT combina dos uniones P-N.
+> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/02 - El Diodo - Unión P-N\|02 - El Diodo - Unión P-N]] — el transistor BJT combina dos uniones P-N.
 > - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/01 - Semiconductores y Bandas de Energía\|01 - Semiconductores y Bandas de Energía]] — base física de las regiones N y P.
 
 ---

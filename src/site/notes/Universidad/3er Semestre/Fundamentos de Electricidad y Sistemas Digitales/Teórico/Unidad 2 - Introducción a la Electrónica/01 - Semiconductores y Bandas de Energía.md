@@ -206,7 +206,7 @@ mindmap
 > 
 > Esta nota es la base conceptual para:
 > 
-> - [[02 - El Diodo (Unión P-N)\|02 - El Diodo (Unión P-N)]] — la unión de un material tipo P con uno tipo N.
+> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/02 - El Diodo - Unión P-N\|02 - El Diodo - Unión P-N]] — la unión de un material tipo P con uno tipo N.
 > - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/03 - Transistor BJT\|03 - Transistor BJT]] — dispositivo de tres terminales formado por dos uniones P-N.
 
 ---

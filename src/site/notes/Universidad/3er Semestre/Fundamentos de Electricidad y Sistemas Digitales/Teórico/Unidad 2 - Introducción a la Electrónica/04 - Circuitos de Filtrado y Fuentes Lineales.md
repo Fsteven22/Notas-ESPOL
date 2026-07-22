@@ -35,6 +35,60 @@
 
 ---
 
+## 🎛️ Filtros: Concepto General y Clasificación por Frecuencia
+
+> [!info] 🎛️ ¿Qué es un filtro?
+> 
+> Un **filtro** es un elemento que atenúa o discrimina una gama de frecuencias de una señal eléctrica que lo atraviesa, modificando su amplitud ($A$) y/o su fase ($\Phi$). Pueden ser **pasivos** (solo R, L, C) o **activos** (incluyen elementos activos como amplificadores operacionales).
+> 
+> Cada circuito de filtrado tiene una **función de transferencia** que relaciona el voltaje de salida con el de entrada; la forma de esa función y sus parámetros determinan la respuesta en frecuencia del filtro.
+> 
+> Según la banda de frecuencias que dejan pasar, se clasifican en cuatro tipos:
+
+> [!note] 🔉 Pasa bajo (LPF - Low Pass Filter)
+> 
+> Deja pasar las frecuencias por debajo de la frecuencia de corte $f_c$ y atenúa las superiores.
+> 
+> $$\frac{V_o}{V_{in}} = \frac{\omega_c}{s+\omega_c}$$
+> 
+> $$\omega_c = \frac{1}{RC} \qquad \omega_c = \frac{R}{L} \qquad \omega = 2\pi f$$
+> 
+> Circuito RC (R en serie, C a tierra en la salida) o circuito RL (L en serie, R a tierra en la salida).
+
+> [!note] 🔊 Pasa alto (HPF - High Pass Filter)
+> 
+> Deja pasar las frecuencias por encima de $f_c$ y atenúa las inferiores.
+> 
+> $$\frac{V_o}{V_{in}} = \frac{s}{s+\omega_c}$$
+> 
+> $$\omega_c = \frac{1}{RC} \qquad \omega_c = \frac{R}{L}$$
+> 
+> Circuito RC (C en serie, R a tierra en la salida) o circuito RL (R en serie, L a tierra en la salida) — es el complemento del LPF.
+
+> [!note] 📶 Pasa banda (BPF - Band Pass Filter)
+> 
+> Deja pasar solo una banda de frecuencias entre $\omega_1$ y $\omega_2$, atenuando tanto las bajas como las altas fuera de ese rango.
+> 
+> $$\omega_1 = \frac{1}{R_1 C_1} \qquad \omega_2 = \frac{1}{R_2 C_2}$$
+> 
+> Se puede armar en cascada combinando un HPF (define $\omega_1$) seguido de un LPF (define $\omega_2$).
+
+> [!note] 🚫 Rechaza banda (Notch)
+> 
+> Es el opuesto al BPF: atenúa fuertemente una banda estrecha alrededor de una frecuencia central $f_{NOTCH}$ (por ejemplo, para eliminar el ruido de 60 Hz de la red eléctrica) y deja pasar el resto del espectro.
+
+> [!success] 📊 Resumen de filtros pasivos
+> 
+> |Tipo|Deja pasar|Atenúa|Parámetro clave|
+> |---|---|---|---|
+> |**LPF**|$f < f_c$|$f > f_c$|$\omega_c = 1/RC$|
+> |**HPF**|$f > f_c$|$f < f_c$|$\omega_c = 1/RC$|
+> |**BPF**|$\omega_1 < f < \omega_2$|Fuera de la banda|$\omega_1, \omega_2$|
+> |**Notch**|Todo excepto $f_{NOTCH}$|$f \approx f_{NOTCH}$|$f_{NOTCH}$|
+> 📌 El **filtro capacitivo** de una fuente lineal (visto más abajo) es, en esencia, una aplicación de un LPF: busca dejar pasar la componente CD y atenuar la componente de rizado (AC) de alta frecuencia relativa.
+
+---
+
 ## 🔄 El Transformador
 
 > [!note] 🔄 Rol del transformador en la fuente lineal
@@ -58,7 +112,7 @@
 
 > [!note] 🔌 Rectificador de media onda
 > 
-> El circuito más simple: un solo diodo en serie con la carga (ver [[02 - El Diodo (Unión P-N)\|02 - El Diodo (Unión P-N)]]). Solo deja pasar el semiciclo positivo (o negativo, según orientación) de la señal de entrada.
+> El circuito más simple: un solo diodo en serie con la carga (ver [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/02 - El Diodo - Unión P-N\|02 - El Diodo - Unión P-N]]). Solo deja pasar el semiciclo positivo (o negativo, según orientación) de la señal de entrada.
 > 
 > ```mermaid
 > graph LR
@@ -82,15 +136,19 @@
 > - Usa 2 diodos y un transformador con toma central.
 > - $PIV = 2V_m$ (el doble que en media onda).
 > 
-> **Puente de diodos (bridge):**
+> **Puente de diodos (bridge), también llamado Puente de Graetz:**
 > 
 > - Usa 4 diodos, sin necesidad de derivación central.
 > - $PIV = V_m$ (mejor que el center-tap).
 > - Es la configuración más común en la práctica.
+> - En el semiciclo positivo conducen 2 diodos (p. ej. D1 y D3) y en el negativo los otros 2 (D2 y D4), de modo que la carga siempre recibe corriente en el mismo sentido.
 > 
 > $$V_{DC} = \frac{2V_m}{\pi} \approx 0.636 \times V_m$$
 > 
 > - Frecuencia de rizado = $2f$ (el doble de la línea).
+>     
+> 
+> > 📌 Diodos rectificadores comerciales típicos para esta configuración: **1N4007** (1 A, hasta 1000 V pol. inversa) y **1N5408** (3 A, hasta 700 V pol. inversa) — la elección depende de la corriente de carga esperada.
 
 > [!success] 📊 Comparación de rectificadores
 > 
@@ -147,7 +205,7 @@
 > 
 > Después del filtro, el voltaje ya es CD pero todavía **varía** — cambia si la carga consume más o menos corriente, o si el voltaje de línea fluctúa. El **regulador** es la etapa final: se encarga de tomar ese voltaje variable y entregar un voltaje de salida **fijo y seguro** para los demás componentes del circuito, sin importar esas variaciones.
 > 
-> > 📌 El detalle de cómo lo logra (Zener, transistor en serie, IC 78xx/79xx) es justamente el tema "Uso de reguladores en fuentes lineales" tendrá su propia nota. 
+> > 📌 El detalle de cómo lo logra (Zener, transistor en serie, IC 78xx/79xx, LM317/LM337) se desarrolla en [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/05 - Reguladores en Fuentes Lineales\|05 - Reguladores en Fuentes Lineales]].
 
 ![ChatGPT Image 14 jul 2026, 21_31_07.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2014%20jul%202026,%2021_31_07.png)
 
@@ -169,7 +227,7 @@
 >     style E fill:#e1f5ff
 > ```
 > 
-> > 📌 La etapa de **regulación** (Zener, serie o IC) es un tema aparte — ver nota correspondiente al tema "Uso de reguladores en fuentes lineales".
+> > 📌 La etapa de **regulación** (Zener, serie o IC) es un tema aparte — ver [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/05 - Reguladores en Fuentes Lineales\|05 - Reguladores en Fuentes Lineales]].
 
 ---
 
@@ -230,18 +288,23 @@
 ```mermaid
 mindmap
   root((Filtrado y<br/>Fuentes Lineales))
+    Filtros por frecuencia
+      LPF
+      HPF
+      BPF
+      Notch
     Transformador
       Relación de vueltas
       Aislamiento galvánico
     Rectificación
       Media onda
       Onda completa center-tap
-      Puente de diodos
+      Puente de diodos - Graetz
     Filtro capacitivo
       Voltaje de rizado Vr
       Vdc aproximado
     Siguiente tema
-      Uso de reguladores
+      Reguladores en serie
 ```
 
 ---
@@ -256,10 +319,10 @@ mindmap
 
 > [!quote] 🔗 Conexiones
 > 
-> - [[02 - El Diodo (Unión P-N)\|02 - El Diodo (Unión P-N)]] — el rectificador es una aplicación directa del diodo en polarización directa/inversa.
+> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/02 - El Diodo - Unión P-N\|02 - El Diodo - Unión P-N]] — el rectificador es una aplicación directa del diodo en polarización directa/inversa.
 > - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/01 - Semiconductores y Bandas de Energía\|01 - Semiconductores y Bandas de Energía]] — fundamento físico de los diodos usados en la rectificación.
-> - Tema siguiente de la unidad — "Uso de reguladores en fuentes lineales" (Zener, serie con transistor, IC 78xx/79xx): pendiente de crear cuando se vea en clase.
+> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/05 - Reguladores en Fuentes Lineales\|05 - Reguladores en Fuentes Lineales]] — tema siguiente de la unidad: reguladores en serie fijos (78xx/79xx) y ajustables (LM317/LM337/LM137).
 
 ---
 
-**Tags:** #fuentesLineales #rectificacion #filtroCapacitivo #EYAG1037 #FESD #ESPOL #unidad2
+**Tags:** #fuentesLineales #rectificacion #filtroCapacitivo #filtros #EYAG1037 #FESD #ESPOL #unidad2
