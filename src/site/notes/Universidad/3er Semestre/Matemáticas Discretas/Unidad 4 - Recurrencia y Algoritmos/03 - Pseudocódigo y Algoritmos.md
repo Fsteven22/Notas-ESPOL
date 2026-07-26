@@ -6,201 +6,313 @@
 
 ## 🎯 Introducción
 
-> [!info] 💡 ¿Por qué escribir en pseudocódigo?
+> [!info] 💡 ¿Por qué usar seudocódigo?
 > 
-> El **pseudocódigo** es una forma de describir algoritmos usando una sintaxis simplificada, independiente de cualquier lenguaje de programación. Permite razonar sobre la lógica de un algoritmo antes de preocuparse por los detalles de implementación.
+> El **seudocódigo** describe algoritmos con una sintaxis parecida a la de un lenguaje de programación, pero sin las reglas estrictas de ninguno en particular. Aunque el lenguaje común a veces basta para describir un algoritmo, se prefiere el seudocódigo por su **precisión, estructura y universalidad**: no depende de un lenguaje de programación específico, así que cualquiera con base en programación puede leerlo.
 > 
-> - Sirve como **puente** entre la idea matemática de un algoritmo y su implementación real en código.
-> - Es la base para poder **analizar la complejidad** de un algoritmo.
-> - Un buen algoritmo debe cumplir ciertas propiedades formales, sin importar en qué lenguaje se termine escribiendo.
-> 
-> **Analogía del mundo real:**
-> 
-> El pseudocódigo es como los planos de una casa: no es la casa terminada (el código real), pero captura toda la estructura y lógica necesaria para construirla en cualquier lenguaje.
+> - Esta nota cubre la **sintaxis básica** (asignación, `if`, `while`, `for`, funciones) y la noción formal de **algoritmo**.
+> - Se conecta con [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/04 - Análisis de Algoritmos I - Fundamentos y Funciones Matemáticas\|04 - Análisis de Algoritmos I - Fundamentos y Funciones Matemáticas]] y [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/05 - Análisis de Algoritmos II - Pseudocódigo y Tiempo Real\|05 - Análisis de Algoritmos II - Pseudocódigo y Tiempo Real]], donde estos mismos algoritmos se analizan para obtener sus cotas asintóticas.
 > 
 > ```mermaid
 > graph TD
->     A[Pseudocódigo y<br/>Algoritmos] --> B[Sintaxis Básica<br/>y Asignación]
->     A --> C[Estructuras<br/>Condicionales]
->     A --> D[Estructuras<br/>Cíclicas]
->     A --> E[Definición Formal<br/>de Algoritmo]
->     A --> F[Funciones y<br/>Ejemplos]
-> 
->     B --> G["= asignación<br/>== igualdad"]
->     C --> H["if / if-else"]
->     D --> I["while / for"]
->     E --> J[7 características<br/>fundamentales]
+>     A[Pseudocódigo y Algoritmos] --> B[Sintaxis básica<br/>asignación, if, comentarios]
+>     A --> C[Concepto de<br/>Algoritmo]
+>     A --> D[Funciones y<br/>return]
+>     A --> E[Estructuras de<br/>control: while, for]
+>     A --> F[Ejemplos clásicos]
 > 
 >     style B fill:#e1f5ff
 >     style C fill:#e1ffe1
 >     style D fill:#fff4e1
 >     style E fill:#f5e1ff
->     style F fill:#ffe1e8
+>     style F fill:#ffe1e1
 > ```
+
+---
+
+## 🔵 Elementos Básicos del Seudocódigo
+
+> [!note] 🔵 Asignación (`=`) vs. Igualdad (`==`)
 > 
-> |Tema|Idea central|
+> El signo `=` denota el **operador de asignación**. En seudocódigo,
+> 
+> $$x = y$$
+> 
+> significa "copia el valor de $y$ en $x$" — el valor de $y$ **no cambia** al ejecutar esto. Para comparar dos valores se usa en cambio `==` (igual a).
+> 
+> **Operadores disponibles:**
+> 
+> |Tipo|Operadores|
 > |---|---|
-> |**Asignación vs igualdad**|<code>=</code> asigna, <code>==</code> compara|
-> |**Condicionales**|`if`, `if-else`|
-> |**Ciclos**|`while` (condición), `for` (rango conocido)|
-> |**Algoritmo**|Debe cumplir 7 características: entrada, salida, precisión, determinismo, finitud, corrección, generalidad|
-> |**Funciones**|Reciben parámetros y devuelven resultado con `return`|
+> |Aritméticos|$+,\ -,\ *,\ /$|
+> |Relacionales|$==$ (igual a), $\neq$ (no igual a), $<, >, \leq, \geq$|
+> |Lógicos|$\land$ (y), $\lor$ (o), $\neg$ (no)|
+
+> [!example]- 🟢 Ejemplo — diferencia entre `=` y `==`
+> 
+> Sea $x=5$, $y=10$, $z=15$. Para el segmento:
+> 
+> ```
+> if (y == x)
+>     z = x
+> y = z
+> ```
+> 
+> Como $y==x$ es **falso**, `z = x` no se ejecuta. Luego `y = z` sí se ejecuta, y $y$ pasa a valer $15$. Al final: $x=5$, y ambas $y$ y $z$ valen $15$.
+
+> [!note] 🔵 La instrucción `if` / `if-else`
+> 
+> ```
+> if (condición)
+>     acción
+> ```
+> 
+> Si la condición es verdadera se ejecuta la acción y el control pasa a la siguiente instrucción; si es falsa, la acción se omite. La forma `if-else` añade una rama alternativa:
+> 
+> ```
+> if (condición)
+>     acción1
+> else
+>     acción2
+> ```
+> 
+> Si la acción tiene varias instrucciones, se encierran entre llaves `{ }`. Los comentarios se escriben con `//` y se extienden hasta el final de la línea — **no se ejecutan**, solo documentan el código.
+
+> [!example]- 🟢 Ejemplo — `if-else` con múltiples instrucciones
+> 
+> Sea $x=5$, $y=10$, $z=15$. Para:
+> 
+> ```
+> if (y ≠ x)
+>     y = x
+> else
+>     z = x
+> a = z
+> ```
+> 
+> Como $y\neq x$ es cierto, se ejecuta `y = x` ($y$ pasa a $5$); `z = x` no se ejecuta. Luego `a = z` se ejecuta y $a$ queda en $15$. Al final: $x=y=5$, y $a=z=15$.
 
 ---
 
-## 🔵 Sintaxis Básica y Asignación
+## 🟢 ¿Qué es un Algoritmo?
 
-> [!note] 🔵 Asignación (<code>=</code>) vs. Igualdad Lógica (<code>==</code>)
+> [!note] 🟢 Definición
 > 
-> - **<code>=</code>** (asignación): guarda un valor en una variable. `x = 5` significa "x ahora vale 5".
->     
-> - **<code>==</code>** (igualdad lógica): compara dos valores y devuelve verdadero o falso, sin modificar nada. `x == 5` pregunta "¿x vale 5?".
->     
+> Un **algoritmo** es un método paso a paso para resolver un problema, generalmente pensado para ser ejecutado por una computadora.
 > 
-> > [!warning] 📌 Error común
-> > 
-> > Confundir <code>=</code> con <code>==</code> es una de las fuentes más frecuentes de errores al rastrear algoritmos a mano, especialmente dentro de condiciones (`if x = 5` no es lo mismo que `if x == 5`).
+> **Características típicas:**
+> 
+> |Característica|Significado|
+> |---|---|
+> |**Entrada**|Recibe datos de entrada|
+> |**Salida**|Produce una salida|
+> |**Precisión**|Los pasos están establecidos con precisión|
+> |**Determinismo**|Cada resultado intermedio depende únicamente de la entrada y de los pasos anteriores|
+> |**Carácter finito**|Termina tras un número finito de instrucciones|
+> |**Corrección**|La salida producida es correcta — resuelve el problema sin errores|
+> |**Generalidad**|Se aplica a un conjunto de entradas, no a un solo caso|
 
----
-
-## 🟢 Estructuras de Control Condicionales
-
-> [!tip] 🟢 `if` e `if - else`
+> [!example]- 🟢 Ejemplo — máximo de tres números (con rastreo)
 > 
-> ```
-> if condición:
->     # bloque A (se ejecuta si condición es verdadera)
-> else:
->     # bloque B (se ejecuta si condición es falsa)
-> ```
+> **Algoritmo** (encuentra el máximo entre $a$, $b$, $c$):
 > 
-> ```mermaid
-> graph TD
->     A[Evaluar condición] -->|Verdadera| B[Ejecutar bloque A]
->     A -->|Falsa| C[Ejecutar bloque B]
->     B --> D[Continuar]
->     C --> D
+> 1. $grande = a$
+> 2. Si $b > grande$, entonces $grande = b$
+> 3. Si $c > grande$, entonces $grande = c$
 > 
->     style A fill:#e1f5ff
->     style B fill:#e1ffe1
->     style C fill:#fff4e1
-> ```
-
----
-
-## 🟡 Estructuras de Control Cíclicas
-
-> [!tip] 🟡 `while` y `for`
+> **Rastreo** con $a=1,\ b=5,\ c=3$:
 > 
-> - `while`: repite mientras la condición sea verdadera. El número de iteraciones no siempre se conoce de antemano.
-> - `for`: repite un número determinado de veces, típicamente recorriendo un rango o colección.
-> 
-> ```
-> for i = 1 hasta n:
->     # bloque
-> 
-> while condición:
->     # bloque
-> ```
-> 
-> > [!example]- ¿Cuándo usar cada uno?
-> > 
-> > Usa `for` cuando sabes de antemano cuántas veces se repetirá algo (ej. recorrer una lista de tamaño $n$). Usa `while` cuando la repetición depende de una condición que puede cambiar de forma impredecible (ej. buscar hasta encontrar un valor).
-
----
-
-## 🔴 Definición de Algoritmos
-
-> [!note] 🔴 Las 7 características fundamentales
-> 
-> Un algoritmo formal debe cumplir con:
-> 
-> |#|Característica|Descripción|
+> |Línea|Acción|Valor de `grande`|
 > |---|---|---|
-> |1|**Entrada**|Recibe cero o más valores|
-> |2|**Salida**|Produce al menos un resultado|
-> |3|**Precisión**|Cada paso está definido sin ambigüedad|
-> |4|**Determinismo**|Mismos datos → mismos resultados, siempre|
-> |5|**Carácter finito**|Termina tras un número finito de pasos|
-> |6|**Corrección**|Resuelve correctamente el problema planteado|
-> |7|**Generalidad**|Aplica a toda una clase de problemas, no a un caso aislado|
+> |1|`grande = a`|1|
+> |2|$5>1$ es verdadero → `grande = b`|5|
+> |3|$3>5$ es falso → sin cambio|5|
+> 
+> Al final, `grande = 5`, el mayor entre $a, b, c$.
 
 ---
 
-## 🟣 Funciones y Ejemplos Prácticos
+## 🟡 Funciones en Seudocódigo
 
-> [!tip] 🟣 Parámetros y `return`
+> [!note] 🟡 Sintaxis de una función
 > 
-> - **Parámetros**: valores de entrada que recibe una función para operar.
-> - `return`: entrega el resultado y **termina** la ejecución de la función en ese punto.
+> ```
+> nombre_función(parámetros separados por comas) {
+>     código para realizar cálculos
+> }
+> ```
 > 
-> ---
+> - `return x` termina la función y regresa el valor de $x$ a quien la invocó.
+> - `return` (sin valor) simplemente termina la función.
+> - Si no hay instrucción `return`, la función termina justo antes de la llave de cierre.
+
+> [!example]- 🟢 Ejemplo — máximo y mínimo de tres números en seudocódigo
 > 
-> ### 🧮 Ejemplo — Prueba de primalidad
+> ```
+> Entrada: a, b, c
+> Salida: x (el mayor de a, b y c)
+> max1(a, b, c){
+>     x = a
+>     if (b > x)        // si b es mayor que x, se actualiza x
+>         x = b
+>     if (c > x)        // si c es mayor que x, se actualiza x
+>         x = c
+> }
+> ```
 > 
-> > ```
-> > función esPrimo(n):
-> >     si n < 2:
-> >         return falso
-> >     para i = 2 hasta raiz(n):
-> >         si n % i == 0:
-> >             return falso
-> >     return verdadero
-> > ```
+> El mínimo es análogo, solo invirtiendo las comparaciones:
+> 
+> ```
+> Entrada: a, b, c
+> Salida: x (el menor de a, b y c)
+> menor(a, b, c){
+>     x = a
+>     if (b < x)
+>         x = b
+>     if (c < x)
+>         x = c
+>     return x
+> }
+> ```
+
+---
+
+## 🔴 Estructuras de Control: `while` y `for`
+
+> [!note] 🔴 El ciclo `while`
+> 
+> ```
+> while (condición)
+>     acción
+> ```
+> 
+> Mientras la condición sea verdadera, se ejecuta la acción y la secuencia se repite; en cuanto la condición se vuelve falsa, el control pasa a la instrucción siguiente.
+
+> [!example]- 🟢 Ejemplo — máximo de una sucesión con `while`
+> 
+> ```
+> Entrada: s, n
+> Salida: grande (el mayor valor en la sucesión s)
+> grande = s1
+> i = 2
+> while (i ≤ n){
+>     if (si > grande)
+>         grande = si
+>     i = i + 1
+> }
+> ```
+> 
+> La idea: recorrer toda la sucesión guardando en `grande` el valor más alto encontrado hasta el momento.
+
+> [!note] 🔴 El ciclo `for`
+> 
+> ```
+> for var = inicio to límite
+>     acción
+> ```
+> 
+> La acción se ejecuta una vez por cada valor de `var` desde `inicio` hasta `límite`. El mismo algoritmo de arriba, reescrito con `for`:
+> 
+> ```
+> Entrada: s, n
+> Salida: grande (el mayor valor en la sucesión s)
+> grande = s1
+> for i = 2 to n
+>     if (si > grande)
+>         grande = si
+> ```
+
+---
+
+## 🎓 Ejemplos Avanzados: Cuantificadores Lógicos
+
+> [!example] 🟢 Valor lógico de $\forall x: P(x)$
+> 
+> Sea $P$ una función proposicional cuyo dominio de discurso son $d_1,\dots,d_n$:
+> 
+> ```
+> Entrada: d1, ..., dn
+> Salida: valor lógico
+> for i = 1 to n
+>     if (¬P(di))
+>         return falsa
+> return verdadera
+> ```
+
+> [!question] 📋 Ejercicios propuestos (mismos que en clase)
+> 
+> **1.** Diseñe un algoritmo que determine el valor lógico de $\exists x: P(x)$.
+> 
+> **2.** Para $P(x,y)$ con dominio los pares $(d_i,d_j)$, ya vimos el algoritmo de doble ciclo para $\forall x,\forall y: P(x,y)$:
+> 
+> ```
+> for i = 1 to n
+>     for j = 1 to n
+>         if (¬P(di, dj))
+>             return falsa
+> return verdadera
+> ```
+> 
+> Diseñe algoritmos análogos para $\forall x,\exists y: P(x,y)$ y para $\exists x,\forall y: P(x,y)$.
+> 
+> > [!tip]- 💡 Pista
 > > 
-> > **Rastreo con $n=7$:** $i$ recorre desde $2$ hasta $\sqrt{7}\approx 2{,}6$, es decir solo $i=2$. Como $7 % 2 \neq 0$, el ciclo termina sin encontrar divisor → `return verdadero`.
-> 
-> ### 🧮 Ejemplo — Máximo de una sucesión
-> 
-> > ```
-> > función maximo(lista):
-> >     max = lista[0]
-> >     para cada x en lista:
-> >         si x > max:
-> >             max = x
-> >     return max
-> > ```
-> > 
-> > **Rastreo con `[3, 7, 2, 9, 4]`:** `max` inicia en $3$, luego se actualiza a $7$, se mantiene en $7$ frente a $2$, se actualiza a $9$, se mantiene frente a $4$ → `return 9`.
+> > Para $\exists x: P(x)$, basta con invertir la lógica del algoritmo de $\forall$: buscar un $d_i$ que sí cumpla $P(d_i)$ y regresar verdadero apenas se encuentre uno; si se recorre todo sin éxito, regresar falso. Para $\forall x,\exists y$ y $\exists x,\forall y$, la clave está en **dónde** se anida la búsqueda de "al menos uno" dentro del ciclo de "todos".
 
 ---
 
-## 📊 Resumen Visual
+## 🧮 Otros Algoritmos Clásicos
 
-```mermaid
-mindmap
-  root((Pseudocódigo y<br/>Algoritmos))
-    Sintaxis
-      = asignación
-      == igualdad lógica
-    Condicionales
-      if
-      if - else
-    Ciclos
-      while: condición
-      for: rango conocido
-    Definición de Algoritmo
-      Entrada y Salida
-      Precisión y Determinismo
-      Finitud, Corrección, Generalidad
-    Funciones
-      Parámetros
-      return
-      Ejemplos: primalidad, máximo
-```
+> [!example]- 🟢 Prueba de primalidad
+> 
+> Determina si $n>1$ es primo o compuesto. Si es compuesto, regresa un divisor $d$ con $2\leq d\leq\sqrt{n}$; si es primo, regresa $0$.
+> 
+> ```
+> Entrada: n
+> Salida: d o 0
+> primalidad(n){
+>     for d = 2 to ⌊√n⌋
+>         if (n mod d == 0)
+>             return d
+>     return 0
+> }
+> ```
+
+> [!example]- 🟢 Conversión de base $b$ a decimal
+> 
+> Convierte la cadena $c = c_n c_{n-1}\cdots c_1 c_0$ (dígitos en base $b$) a su valor decimal.
+> 
+> ```
+> Entrada: c, n, b
+> Salida: val_dec
+> base_b_a_dec(c, n, b){
+>     val_dec = 0
+>     potencia = 1
+>     for i = 0 to n{
+>         val_dec = val_dec + ci * potencia
+>         potencia = potencia * b
+>     }
+>     return val_dec
+> }
+> ```
 
 ---
+
+## 🔗 Conexiones
+
+> [!note] 📋 Temas relacionados
+> 
+> - [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/04 - Análisis de Algoritmos I - Fundamentos y Funciones Matemáticas\|04 - Análisis de Algoritmos I - Fundamentos y Funciones Matemáticas]] — cómo obtener cotas asintóticas a partir de una fórmula ya dada.
+> - [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/05 - Análisis de Algoritmos II - Pseudocódigo y Tiempo Real\|05 - Análisis de Algoritmos II - Pseudocódigo y Tiempo Real]] — cómo obtener esas mismas cotas contando operaciones directamente sobre este seudocódigo, incluyendo los algoritmos recursivos.
 
 ## 📚 Referencias
 
 > [!quote] 📖 Fuentes consultadas
 > 
-> [1] E. Pineda, _Pseudocódigo y diseño de algoritmos_, clase MATG1051, ESPOL, 2026.
+> [1] E. Pineda, _Pseudocódigo y Algoritmos_, clase MATG1051, ESPOL, jul. 2026.
 > 
 > [2] K. H. Rosen, _Discrete Mathematics and Its Applications_, 8th ed. New York, USA: McGraw-Hill, 2019, pp. 173–184.
-> 
-> [3] R. Johnsonbaugh, _Discrete Mathematics_, 8th ed. Hoboken, NJ, USA: Pearson, 2018, pp. 240–248.
 
 ---
 
-**Tags:** #pseudocodigo #algoritmos #estructurascondicionales #estructurasciclicas #funciones #MATG1051 #unidad4 #ESPOL
+**Tags:** #pseudocodigo #algoritmos #estructurasdecontrol #MATG1051 #unidad4 #ESPOL

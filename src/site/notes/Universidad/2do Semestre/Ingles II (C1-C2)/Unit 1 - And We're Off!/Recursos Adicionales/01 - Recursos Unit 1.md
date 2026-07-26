@@ -76,7 +76,7 @@
 > | Archivo | Descripción |
 > |---|---|
 > | [Academic Post KYdA.pdf](/img/user/Universidad/2do%20Semestre/Ingles%20II%20(C1-C2)/Unit%201%20-%20And%20We're%20Off!/Recursos%20Adicionales/Academic%20Post%20KYdA.pdf) | Instrucciones y requisitos de la tarea |
-> | [Feedback code.png](/img/user/Universidad/2do%20Semestre/Ingles%20II%20(C1-C2)/Unit%201%20-%20And%20We're%20Off!/Recursos%20Adicionales/Feedback%20code.png) | Código de corrección usado por el profesor para el feedback escrito |
+> | [[Feedback code.png\|Feedback code.png]] | Código de corrección usado por el profesor para el feedback escrito |
 
 ---
 
