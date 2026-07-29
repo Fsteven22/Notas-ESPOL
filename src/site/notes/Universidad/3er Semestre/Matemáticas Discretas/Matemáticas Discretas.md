@@ -40,9 +40,9 @@
 
 ## Unidad V — Grafos y Árboles *(12h)*
 
-- [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/01 - Grafos y Subgrafos\|01 - Grafos y Subgrafos]]
-- [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/02 - Árboles y Expansión Mínima\|02 - Árboles y Expansión Mínima]]
-- [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/03 - Algoritmos de Ruta\|03 - Algoritmos de Ruta]]
+- [[01 - Grafos y Subgrafos\|01 - Grafos y Subgrafos]]
+- [[02 - Árboles y Expansión Mínima\|02 - Árboles y Expansión Mínima]]
+- [[03 - Algoritmos de Ruta\|03 - Algoritmos de Ruta]]
 
 ## Unidad VI — Lenguajes y Autómatas *(4h)*
 
