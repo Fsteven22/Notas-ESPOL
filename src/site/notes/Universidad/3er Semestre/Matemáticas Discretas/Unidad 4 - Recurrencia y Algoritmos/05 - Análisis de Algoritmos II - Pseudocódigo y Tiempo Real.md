@@ -14,11 +14,13 @@
 > graph TD
 >     A[Análisis desde<br/>Pseudocódigo] --> B[Mejor, peor y<br/>caso promedio]
 >     A --> C[Contar operaciones<br/>en bucles anidados]
+>     A --> F[Ramificaciones,<br/>cortes y bloques]
 >     A --> D[Algoritmos<br/>recursivos]
 >     A --> E[De Θ a<br/>tiempo real]
 > 
 >     style B fill:#e1f5ff
 >     style C fill:#e1ffe1
+>     style F fill:#ffe1f5
 >     style D fill:#fff4e1
 >     style E fill:#f5e1ff
 > ```
@@ -185,12 +187,13 @@
 > 
 > En los Ejemplos II y III, la variable que se divide entre 2 arrancaba exactamente en $n$. En los talleres es común que arranque en otra expresión que depende de $n$ — como $\lfloor 7\sqrt{n}\rfloor$ o $\lfloor\log(5n)\rfloor$. La buena noticia: **el método es el mismo**, usando el lema del piso ($\lfloor x\rfloor=\Theta(x)$, ver [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/04 - Análisis de Algoritmos I - Fundamentos y Funciones Matemáticas\|04 - Análisis de Algoritmos I - Fundamentos y Funciones Matemáticas]]) para reemplazar la expresión inicial por algo más simple.
 > 
-> Lo único que hay que identificar es **cuál de los dos patrones** aplica:
+> Lo único que hay que identificar es **cuál de los tres patrones** aplica:
 > 
 > |Patrón|¿Cómo es el ciclo interno?|Resultado|
 > |---|---|---|
 > |**Patrón A** (como el Ejemplo III)|Corre un rango **fijo**, independiente de la variable que se reduce|$t(n) = (\text{rango fijo})\times\log(\text{valor inicial})$|
 > |**Patrón B** (como el Ejemplo II)|Corre **hasta la misma variable** que se está reduciendo|$t(n) = \Theta(\text{valor inicial})$ (suma geométrica)|
+> |**Patrón C** (nuevo)|**No hay** ciclo interno — solo una instrucción suelta dentro del `while`|$t(n) = \Theta(\log(\text{valor inicial}))$ (el número de iteraciones del `while`, sin multiplicar por nada)|
 
 > [!example] 🟢 Ejemplo — Patrón A con valor inicial $\lfloor7\sqrt{n}\rfloor$ (Taller III, ejercicio 2)
 > 
@@ -237,12 +240,137 @@
 > **Paso 2 — suma geométrica (Patrón B):** igual que en el Ejemplo II, el total de operaciones es a lo sumo $k_0+\frac{k_0}{2}+\frac{k_0}{4}+\cdots\leq 2k_0$, y al menos $k_0$ (la primera iteración ya aporta $k_0$). Entonces $t(n)=\Theta(k_0)$.
 > 
 > **Conclusión:** $t(n) = \Theta(k_0) = \Theta(\log n)$.
+
+> [!example]- 🟢 Ejemplo — Patrón C con valor inicial $3n^2$ (Lección III, ejercicio 4)
 > 
-> > [!tip]- 💡 Receta resumida
+> ```
+> i = 3n²
+> while (i ≥ 1){
+>     x = x + 1
+>     i = ⌊i/2⌋
+> }
+> ```
+> 
+> Aquí no hay ningún `for` — el cuerpo del `while` es una sola instrucción suelta. Eso significa que **cada vez que se entra al `while`, se ejecuta exactamente una operación**, así que el total de operaciones **es** el número de veces que se entra al `while`, sin ningún ciclo interno que multiplique.
+> 
+> **Paso 1 — el valor inicial:** $V=3n^2$ (ya es un entero, no hace falta el lema del piso aquí).
+> 
+> **Paso 2 — contar iteraciones:** igual que en los otros patrones, si $2^{k-1}\leq V<2^k$, se entra al `while` exactamente $k$ veces, con $k=\Theta(\log V)$.
+> 
+> **Paso 3 — traducir a $\log n$:** como $3n^2$ es una potencia de $n$ (con constante y exponente), $\log(3n^2)=\Theta(\log n)$.
+> 
+> **Conclusión:** $t(n) = k = \Theta(\log n)$.
+> 
+> > [!tip]- 💡 Comparación directa: por qué el Patrón C es "más simple" que A y B
 > > 
-> > 1. Identifica el valor inicial $V(n)$ de la variable que se divide entre 2, y simplifícalo con el lema del piso (ignora el $\lfloor\cdot\rfloor$, trabaja directo con lo de adentro).
-> > 2. Mira si el ciclo interno depende de esa misma variable (**Patrón B** → $t(n)=\Theta(V(n))$) o corre un rango fijo (**Patrón A** → $t(n) = (\text{rango})\times\Theta(\log V(n))$).
-> > 3. Si necesitas $\log V(n)$, recuerda: si $V(n)$ es $n$ o una potencia/raíz de $n$, $\log V(n)=\Theta(\log n)$ (las constantes y exponentes no afectan el orden); si $V(n)$ ya es del tipo $\log n$, ese paso no aplica — $V(n)$ mismo ya es $\Theta(\log n)$, como en el ejemplo B de arriba.
+> > En A y B, el `for` interno **multiplica** el trabajo de cada iteración del `while` — por eso A termina con un producto ($\text{rango}\times\log V$) y B con una suma geométrica que colapsa al valor inicial. En C no hay nada que multiplicar: cada iteración del `while` cuesta $\Theta(1)$, así que el total es literalmente "cuántas veces entré al `while`" — ni más ni menos. Es el caso más simple de los tres, y suele aparecer cuando el ejercicio quiere probar que entiendes que $\log$ es, en el fondo, "cuántas veces puedo dividir esto entre 2".
+
+> [!tip]- 💡 Receta resumida (actualizada con los tres patrones)
+> 
+> 1. Identifica el valor inicial $V(n)$ de la variable que se divide entre 2, y simplifícalo con el lema del piso si hace falta (ignora el $\lfloor\cdot\rfloor$, trabaja directo con lo de adentro).
+> 2. Mira qué hace el cuerpo del `while`:
+>    - ¿Hay un `for` que depende de esa misma variable? → **Patrón B**, $t(n)=\Theta(V(n))$.
+>    - ¿Hay un `for` con un rango fijo (no depende de la variable)? → **Patrón A**, $t(n)=(\text{rango})\times\Theta(\log V(n))$.
+>    - ¿No hay `for`, solo una instrucción suelta? → **Patrón C**, $t(n)=\Theta(\log V(n))$.
+> 3. Si necesitas $\log V(n)$ (patrones A o C), recuerda: si $V(n)$ es $n$ o una potencia/raíz de $n$, $\log V(n)=\Theta(\log n)$; si $V(n)$ ya es del tipo $\log n$, ese paso no aplica — $V(n)$ mismo ya es $\Theta(\log n)$.
+
+---
+
+## 🔀 Ramificaciones, Cortes Anticipados y Bloques Combinados
+
+> [!info] 💡 De qué trata esta sección
+> 
+> Hasta ahora cada ejemplo tenía una sola estructura (un ciclo, o un `while` que se reduce). Aquí se combinan piezas: `if`/`else` anidados, ciclos que terminan antes de tiempo (`return`), y varios bloques distintos uno tras otro — el tipo de algoritmo "integrador" que junta todo lo anterior en un solo ejercicio.
+
+### `if`/`else` anidados
+
+> [!note] 📋 La regla: solo se ejecuta una rama, nunca ambas
+> 
+> A diferencia de los bloques secuenciales (que se suman), en una ramificación **nunca se suman las dos ramas** — el algoritmo elige una y ejecuta solo esa. Para el peor caso, te quedas con la rama más cara en cada nivel; para el mejor caso, con la más barata.
+
+> [!example] 🟢 Ejemplo — dos niveles de `if`/`else`
+> 
+> ```
+> if (cond1):
+>     if (cond2):
+>         for i = 1 to n
+>             for j = 1 to n
+>                 x = x + 1        // Θ(n²)
+>     else:
+>         for i = 1 to n
+>             x = x + 1            // Θ(n)
+> else:
+>     x = x + 1                     // Θ(1)
+> ```
+> 
+> El árbol de posibilidades tiene tres hojas: $\Theta(n^2)$, $\Theta(n)$, $\Theta(1)$. **Peor caso:** la hoja más cara → $\mathcal{O}(n^2)$. **Mejor caso:** la hoja más barata → $\Omega(1)$. No hay una única $\Theta$ para "el algoritmo en general" a menos que se especifique de qué caso se habla — igual que con la búsqueda secuencial al inicio de esta nota.
+
+### Cortes anticipados (`return` dentro de ciclos anidados)
+
+> [!example] 🟢 Ejemplo — buscar un par repetido
+> 
+> ```
+> for i = 1 to n:
+>     for j = 1 to n:
+>         if (a[i] == a[j]):
+>             return verdadero
+> return falso
+> ```
+> 
+> **Mejor caso:** los dos primeros elementos ya coinciden → una sola comparación → $\Theta(1)$.
+> 
+> **Peor caso:** nunca hay coincidencia → se recorre el doble ciclo completo → $\Theta(n^2)$ (regla del producto de siempre, sin ningún corte).
+> 
+> El `return` no cambia **cómo** se analiza el ciclo anidado — sigue siendo la regla del producto para el peor caso. Solo agranda la brecha posible entre mejor y peor caso: cuanto más adentro esté el `return` respecto a los ciclos, más grande esa brecha.
+
+### Varios bloques secuenciales, incluyendo uno recursivo
+
+> [!note] 📋 La regla de la suma, con más de dos piezas
+> 
+> $$\mathcal{O}(f_1(n)) + \mathcal{O}(f_2(n)) + \cdots + \mathcal{O}(f_k(n)) = \mathcal{O}\big(\max(f_1(n),\ldots,f_k(n))\big)$$
+> 
+> Si uno de los bloques es una llamada recursiva, primero se obtiene su complejidad con las herramientas de la sección "Algoritmos Recursivos" (desenrollando, o por niveles) — y **después** se suma como cualquier otro bloque.
+
+> [!example] 🟢 Ejemplo integrador — tres bloques distintos en secuencia
+> 
+> ```
+> for i = 1 to n
+>     x = x + 1                    // Bloque 1: Θ(n)
+> 
+> if (n > 10):
+>     for i = 1 to n
+>         for j = 1 to n
+>             x = x + 1             // Bloque 2 (peor caso): Θ(n²)
+> else:
+>     x = x + 1                     // Bloque 2 (mejor caso): Θ(1)
+> 
+> for i = 1 to log(n)
+>     x = x + 1                    // Bloque 3: Θ(log n)
+> ```
+> 
+> **Peor caso de cada bloque:** $\Theta(n)$, $\mathcal{O}(n^2)$, $\Theta(\log n)$. Sumando y quedándose con el que domina:
+> 
+> $$\Theta(n) + \mathcal{O}(n^2) + \Theta(\log n) = \mathcal{O}(n^2)$$
+
+### 🪤 Casos trampa: cuando la comparación visual engaña
+
+> [!warning] ⚠️ Regla para no caer
+> 
+> **Cualquier potencia positiva de $n$ le gana a cualquier potencia de $\log n$**, sin importar qué tan chica sea esa potencia: $\log n = o(n^\varepsilon)$ para todo $\varepsilon>0$ (la notación $o$ minúscula significa "crece estrictamente más despacio que"). La trampa más común es comparar $n\log n$ contra $n^{1{,}5}$ — visualmente parecen similares, pero:
+> 
+> $$n^{1{,}5} = n\cdot n^{0{,}5} \qquad\text{mientras que}\qquad n\log n = n\cdot\log n$$
+> 
+> Como $\log n$ pierde contra **cualquier** raíz (por chiquita que sea), $n\log n = o(n^{1{,}5})$ — $n^{1{,}5}$ gana, aunque no sea obvio a simple vista.
+
+> [!example]- 🟢 Ejemplo con trampa incluida
+> 
+> ```
+> for i=1 to n: for j=1 to n: x=x+1              // Θ(n²)
+> mergesort(arr, n)                                // Θ(n log n)
+> for i=1 to n: for j=1 to sqrt(n): x=x+1         // Θ(n^1.5)
+> ```
+> 
+> Tres bloques: $n^2$, $n\log n$, $n^{1{,}5}$. Ordenando de mayor a menor: $n^2 > n^{1{,}5} > n\log n$ (el $n^2$ le gana a cualquier potencia menor, y $n^{1{,}5}$ le gana a $n\log n$ por la regla de arriba). Resultado final, sin caer en la trampa: $\Theta(n^2)$.
 
 ---
 
