@@ -46,9 +46,9 @@
 
 ## Unidad VI — Lenguajes y Autómatas *(4h)*
 
-- [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 6 - Lenguajes y Autómatas/01 - Circuitos Secuenciales\|01 - Circuitos Secuenciales]]
-- [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 6 - Lenguajes y Autómatas/02 - Autómata de Estado Finito\|02 - Autómata de Estado Finito]]
-- [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 6 - Lenguajes y Autómatas/03 - Lenguajes y Gramáticas\|03 - Lenguajes y Gramáticas]]
+- [[01 - Circuitos Secuenciales\|01 - Circuitos Secuenciales]]
+- [[02 - Autómata de Estado Finito\|02 - Autómata de Estado Finito]]
+- [[03 - Lenguajes y Gramáticas\|03 - Lenguajes y Gramáticas]]
 
 ---
 
