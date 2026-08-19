@@ -296,6 +296,8 @@
 > }
 > ```
 
+![ChatGPT Image 18 ago 2026, 20_24_30.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2020_24_30.png)
+
 ---
 
 ## 🔗 Conexiones

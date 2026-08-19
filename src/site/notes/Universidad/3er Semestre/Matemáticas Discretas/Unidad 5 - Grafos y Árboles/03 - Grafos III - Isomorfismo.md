@@ -156,6 +156,8 @@
 > 
 > Se aplica la misma estrategia de 4 pasos del Ejercicio 1. La diferencia clave suele estar en un invariante más fino (como el número de triángulos) cuando el número de vértices, aristas y la secuencia de grados coinciden entre ambos candidatos — por eso el curso recalca revisar ciclos de longitud 3 y 4 antes de intentar construir la biyección.
 
+![ChatGPT Image 18 ago 2026, 18_13_08.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2018_13_08.png)
+
 ---
 
 ## 📊 Tabla Comparativa: Herramientas para Isomorfismo

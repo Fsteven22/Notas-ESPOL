@@ -309,6 +309,8 @@
 > 
 > > [!tip]- 💡 Dirac es un caso particular de Ore Si todos los vértices tienen grado $\geq n/2$ (Dirac), entonces cualquier par $u,v$ suma $\geq n$ (Ore). Por eso Dirac se puede deducir de Ore, pero no al revés — Ore es más general.
 
+![ChatGPT Image 18 ago 2026, 18_00_05.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2018_00_05.png)
+
 ---
 
 ## 📊 Tabla Comparativa: Euler vs. Hamilton

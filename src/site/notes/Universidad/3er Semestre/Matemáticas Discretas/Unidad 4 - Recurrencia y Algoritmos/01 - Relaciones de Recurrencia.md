@@ -159,6 +159,8 @@
 > |4|15|
 > |10|1023|
 
+![ChatGPT Image 18 ago 2026, 20_16_45.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2020_16_45.png)
+
 ---
 
 ## 📊 Resumen Visual

@@ -332,6 +332,8 @@
 > 
 > Nótese que "$c_1$ agranda / $c_2$ achica" sigue siendo la misma lógica de siempre — lo único distinto es que, al ser $f(n)$ decreciente, "más grande" para el numerador y "más chico" para el denominador todavía producen una cota superior, exactamente como en el ejercicio 4.
 
+![ChatGPT Image 18 ago 2026, 20_42_23.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2020_42_23.png)
+
 ---
 
 ## ➡️ Continúa en la Nota II

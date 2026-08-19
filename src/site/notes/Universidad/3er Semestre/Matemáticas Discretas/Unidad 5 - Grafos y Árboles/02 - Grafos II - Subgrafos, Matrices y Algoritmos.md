@@ -66,7 +66,8 @@
 > 
 > Sea $G$ un grafo y $v$ un vértice en $G$. El subgrafo $G'$ de $G$ que consiste en **todas** las aristas y vértices de $G$ que están contenidos en trayectorias que comienzan en $v$ se llama la **componente** de $G$ que contiene a $v$.
 > 
-> > [!success] ✅ Relación entre conexidad y componentes $G$ es **conexo** si y solo si $G$ posee **una sola componente**.
+> > [!success] ✅ Relación entre conexidad y componentes:
+> > $G$ es **conexo** si y solo si $G$ posee **una sola componente**.
 
 > [!example]- 🟢 Ejemplo 2 — Grafo disconexo y sus componentes
 > 
@@ -206,6 +207,8 @@
 > **Resultado final:** $L(z) = 5$.
 > 
 > > [!tip]- 💡 Idea central del algoritmo Dijkstra es **goloso** (greedy): en cada paso, fija la distancia del vértice más cercano ya conocido, y usa esa distancia fija para intentar **mejorar** (relajar) las distancias de sus vecinos. Una vez que un vértice sale de $T$, su distancia ya no cambia — por eso el algoritmo requiere pesos positivos.
+
+![ChatGPT Image 18 ago 2026, 18_08_27.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2018_08_27.png)
 
 ---
 

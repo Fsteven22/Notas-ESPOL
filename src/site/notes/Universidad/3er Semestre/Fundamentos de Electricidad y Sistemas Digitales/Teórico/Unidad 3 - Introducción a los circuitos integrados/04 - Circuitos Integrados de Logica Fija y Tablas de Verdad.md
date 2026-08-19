@@ -127,6 +127,8 @@
 > |**2**|Aplicar una tercera NAND a las entradas invertidas: $S = NAND(\overline{A}, \overline{B})$|
 > |**3**|Verificación: $NAND(\overline{A},\overline{B}) = \overline{\overline{A}\cdot\overline{B}} = A + B$ (por la ley de De Morgan) ✅|
 
+![ChatGPT Image 18 ago 2026, 21_08_17.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2021_08_17.png)
+
 ---
 
 ## ✅ Metas de Aprendizaje

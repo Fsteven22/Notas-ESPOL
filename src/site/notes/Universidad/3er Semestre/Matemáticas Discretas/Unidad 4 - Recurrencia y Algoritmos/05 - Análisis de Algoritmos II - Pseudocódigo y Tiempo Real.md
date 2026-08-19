@@ -535,6 +535,8 @@
 > 
 > A partir de $n\approx50$, un algoritmo $\Theta(2^n)$ ya es impracticable; los algoritmos $\Theta(n!)$ se vuelven inviables incluso antes. Esta es la razón práctica detrás de todo el trabajo de las dos notas: **la notación asintótica predice, sin ejecutar nada, si un algoritmo será usable para el tamaño de entrada que te interesa.**
 
+![ChatGPT Image 18 ago 2026, 20_44_56.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2020_44_56.png)
+
 ---
 
 ## 🔗 Conexiones

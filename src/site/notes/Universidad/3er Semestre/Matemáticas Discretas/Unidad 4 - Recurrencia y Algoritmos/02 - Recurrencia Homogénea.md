@@ -135,6 +135,8 @@
 > > 
 > > $$\boxed{a_n = 3^n + 2n\cdot 3^n}$$
 
+![ChatGPT Image 18 ago 2026, 20_21_32.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2020_21_32.png)
+
 ---
 
 ## 📊 Resumen Visual

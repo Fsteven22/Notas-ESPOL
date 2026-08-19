@@ -184,6 +184,8 @@
 >
 > Es decir, "A en lógica positiva (activo en alto)" es la misma señal física que "$\overline{A}$ en lógica negativa (activo en bajo)". Esto permite, por ejemplo, leer una compuerta AND con salida negada como si fuera una OR en lógica negativa — el circuito físico no cambia, cambia la interpretación.
 
+![ChatGPT Image 18 ago 2026, 21_14_00.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2021_14_00.png)
+
 ---
 
 ## 🏠 Ejemplo de Aplicación: Sistema de Alarma
