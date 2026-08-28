@@ -28,7 +28,13 @@
 >     style A fill:#1e3a5f,color:#fff
 >     style B fill:#e1f5ff
 >     style C fill:#f5e1ff
-> ```
+> 
+    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style D fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style E fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
 
 ---
 
@@ -36,7 +42,7 @@
 
 > [!note] 📋 Definición 1 — Grafo no dirigido
 > 
-> Un **grafo (no dirigido)** $G$ consiste en un conjunto $V$ de **vértices** (o nodos) y un conjunto $E$ de **aristas**, tal que cada arista $e \in E$ se asocia con un **par no ordenado** de vértices.
+> Un **grafo (no dirigido)** $G$ consiste en un [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/04 - Cardinalidad y Leyes de Cardinalidad\|Cardinalidad]] $V$ de **vértices** (o nodos) y un conjunto $E$ de **aristas**, tal que cada arista $e \in E$ se asocia con un **par no ordenado** de vértices.
 > 
 > Si existe una arista única $e$ asociada con los vértices $u, v \in V$, se escribe:
 > 
@@ -56,7 +62,7 @@
 
 > [!tip] 🖥️ Diferencia clave para programar
 > 
-> En un grafo no dirigido, la arista ${u,v}$ es equivalente a ${v,u}$ — si $u$ es adyacente a $v$, la relación es simétrica. En un digrafo, $(u,v) \neq (v,u)$: la arista tiene una dirección específica. Esto importa mucho al elegir la estructura de datos (lista/matriz de adyacencia simétrica vs. no simétrica).
+> En un grafo no dirigido, la arista ${u,v}$ es equivalente a ${v,u}$ — si $u$ es adyacente a $v$, la [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/02 - Relaciones\|relación]] es simétrica. En un digrafo, $(u,v) \neq (v,u)$: la arista tiene una dirección específica. Esto importa mucho al elegir la estructura de datos (lista/matriz de adyacencia simétrica vs. no simétrica).
 
 ---
 
@@ -84,7 +90,7 @@
 > - Un vértice que **no incide** en ninguna arista se llama **vértice aislado**.
 > - Un grafo **sin lazos ni aristas paralelas** se llama **grafo simple**.
 
-> [!example]- 🟢 Ejemplo 1 — Identificando lazos, aristas paralelas y vértices aislados
+> [!example] 🟢 Ejemplo 1 — Identificando lazos, aristas paralelas y vértices aislados
 > 
 > ```mermaid
 > graph LR
@@ -107,7 +113,7 @@
 
 > [!note] 📋 Definición 5 — Trayectoria (ruta)
 > 
-> Sean $u$ y $v$ vértices en un grafo. Una **trayectoria o ruta** de $u$ a $v$ de longitud $n$ es una sucesión alternante de $n+1$ vértices y $n$ aristas que comienza en $v_0 = u$ y termina en $v_n = v$:
+> Sean $u$ y $v$ vértices en un grafo. Una **trayectoria o ruta** de $u$ a $v$ de longitud $n$ es una [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/04 - Sucesiones y Cadenas\|sucesión]] alternante de $n+1$ vértices y $n$ aristas que comienza en $v_0 = u$ y termina en $v_n = v$:
 > 
 > $$(v_0, e_1, v_1, e_2, v_2, \ldots, v_{n-1}, e_n, v_n)$$
 > 
@@ -121,7 +127,7 @@
 > 
 > El **grafo completo** sobre $n$ vértices, denotado $K_n$, es el grafo simple con $n$ vértices en el que hay una arista entre **cada par de vértices distintos**.
 
-> [!example]- 🟢 Ejemplo 2 — $K_4$
+> [!example] 🟢 Ejemplo 2 — $K_4$
 > 
 > ```mermaid
 > graph LR
@@ -131,7 +137,11 @@
 >     v2 --- v3
 >     v2 --- v4
 >     v3 --- v4
-> ```
+> 
+    style v1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style v2 fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style v3 fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style v4 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
 > 
 > $K_4$ tiene $4$ vértices y $\binom{4}{2} = 6$ aristas — todos los pares están conectados.
 
@@ -143,7 +153,7 @@
 > - $V_1 \cup V_2 = V$
 > - cada arista en $E$ es incidente sobre un vértice en $V_1$ y un vértice en $V_2$
 
-> [!example]- 🟢 Ejemplo 3 — Grafo bipartito vs. no bipartito
+> [!example] 🟢 Ejemplo 3 — Grafo bipartito vs. no bipartito
 > 
 > **Bipartito** (con $V_1 = {v_1, v_2, v_3}$, $V_2 = {v_4, v_5}$):
 > 
@@ -153,7 +163,12 @@
 >     v1 --- v5
 >     v2 --- v4
 >     v3 --- v5
-> ```
+> 
+    style v1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style v2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style v3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style v4 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style v5 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
 > 
 > **No bipartito** (contiene un ciclo de longitud impar):
 > 
@@ -164,7 +179,12 @@
 >     v3 --- v4
 >     v4 --- v5
 >     v5 --- v1
-> ```
+> 
+    style v1 fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style v2 fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style v3 fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style v4 fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style v5 fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px```
 > 
 > $K_4$ tampoco es bipartito — inténtalo probar por qué.
 
@@ -199,7 +219,7 @@
 > - Un **ciclo simple** es un ciclo de $v$ a $v$ en el que no hay vértices repetidos, excepto por el inicio y el fin que coinciden.
 > - El **grado** de un vértice $v$, denotado $\delta(v)$, es el número de aristas que inciden en $v$ (**los lazos se cuentan doble**).
 
-> [!example]- 🟢 Ejemplo 4 — Trayectorias, ciclos y grados
+> [!example] 🟢 Ejemplo 4 — Trayectorias, ciclos y grados
 > 
 > ```mermaid
 > graph LR
@@ -249,7 +269,11 @@
 >     B --- C
 >     B --- D((D))
 >     C --- D
-> ```
+> 
+    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style D fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
 > 
 > Al modelar el problema como grafo (vértices = regiones de tierra, aristas = puentes), se reduce a encontrar un **ciclo de Euler**. Como algunos vértices tienen grado impar, **el problema no tiene solución** — este fue precisamente el resultado que Euler demostró.
 
@@ -263,7 +287,7 @@
 > - Un **ciclo hamiltoniano** es un ciclo simple que pasa por **todos** los vértices de $G$.
 > - Un grafo que contiene un ciclo hamiltoniano se llama **grafo hamiltoniano**.
 
-> [!example]- 🟢 Ejemplo 5 — Ciclo hamiltoniano
+> [!example] 🟢 Ejemplo 5 — Ciclo hamiltoniano
 > 
 > ```mermaid
 > graph LR
@@ -273,7 +297,12 @@
 >     v2 --- v5
 >     v3 --- v4
 >     v3 --- v5
-> ```
+> 
+    style v1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style v2 fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style v3 fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style v4 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style v5 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
 > 
 > El ciclo $(v_1, v_2, v_5, v_3, v_4, v_1)$ es un **ciclo hamiltoniano** — pasa por todos los vértices exactamente una vez y regresa al inicio. El grafo tiene además varios caminos hamiltonianos posibles.
 
@@ -309,7 +338,7 @@
 > 
 > > [!tip]- 💡 Dirac es un caso particular de Ore Si todos los vértices tienen grado $\geq n/2$ (Dirac), entonces cualquier par $u,v$ suma $\geq n$ (Ore). Por eso Dirac se puede deducir de Ore, pero no al revés — Ore es más general.
 
-![ChatGPT Image 18 ago 2026, 18_00_05.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2018_00_05.png)
+!ChatGPT Image 18 ago 2026, 18_00_05.png
 
 ---
 
@@ -343,6 +372,13 @@ graph TD
     I --> J{"¿Cumple Dirac u Ore?"}
     J -->|Sí| K["Garantizado que existe ✅"]
     J -->|No| L["No hay garantía —<br/>revisar caso por caso"]
+    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B fill:#E65100,color:#FFFFFF,stroke:#FFB74D,stroke-width:1px
+    style C fill:#E65100,color:#FFFFFF,stroke:#FFB74D,stroke-width:1px
+    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style E fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style I fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style J fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
 ```
 
 ---
@@ -361,10 +397,18 @@ graph TD
     B --> I["Recorridos"]
     I --> J["Euler: todas las aristas"]
     I --> K["Hamilton: todos los vértices"]
+    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style D fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style E fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style G fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style H fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style I fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style J fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style K fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
 
-    style A fill:#1e3a5f,color:#fff
-    style B fill:#e1f5ff
-    style I fill:#f5e1ff
 ```
 
 ---
@@ -395,7 +439,7 @@ graph TD
 > 
 > **9.** Diseña un grafo conexo con exactamente 2 vértices de grado impar y explica (sin demostrarlo formalmente) por qué tiene un **camino** de Euler pero no un **ciclo** de Euler.
 
-> [!success]- ✅ Respuestas
+> [!success] ✅ Respuestas
 > 
 > **1.** $\delta(a)=\delta(b)=\delta(c)=\delta(d)=2$ (cada vértice incide en exactamente 2 aristas del ciclo).
 > 
@@ -448,7 +492,7 @@ graph TD
 > 
 > - [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/02 - Grafos II - Subgrafos, Matrices y Algoritmos\|02 - Grafos II - Subgrafos, Matrices y Algoritmos]] — continuación: subgrafos, componentes, matrices y algoritmos de rutas
 > - [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/03 - Grafos III - Isomorfismo\|03 - Grafos III - Isomorfismo]] — cuándo dos grafos comparten exactamente la misma estructura
-> - [[Sucesiones y Cadenas\|Sucesiones y Cadenas]] — la notación de sucesiones se usa para indexar vértices y aristas
+> - Sucesiones y Cadenas — la notación de sucesiones se usa para indexar vértices y aristas
 
 ---
 

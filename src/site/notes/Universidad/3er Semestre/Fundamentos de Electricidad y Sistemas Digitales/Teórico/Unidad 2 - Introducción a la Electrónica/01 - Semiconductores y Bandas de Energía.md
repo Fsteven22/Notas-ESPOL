@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/universidad/3er-semestre/fundamentos-de-electricidad-y-sistemas-digitales/teorico/unidad-2-introduccion-a-la-electronica/01-semiconductores-y-bandas-de-energia/","dg-note-properties":{}}
 ---
 
+
 # ⚡ Semiconductores y Bandas de Energía
 
 ## 🎯 Introducción
@@ -128,19 +129,15 @@
 >     style D fill:#ffe1e1
 >     style E fill:#e1ffe1
 > ```
-
+> 
 > [!tip] 🔴 Material Tipo N
 > 
 > Se dopa con impurezas **pentavalentes** (5 electrones de valencia) como Antimonio (Sb) o Fósforo (P).
 > 
 > - El quinto electrón queda libre — no forma enlace covalente.
->     
 > - **Portador mayoritario:** electrones libres (carga negativa).
->     
 > - **Portador minoritario:** huecos.
->     
 > - Cuando el electrón extra abandona el átomo donador, ese átomo queda con carga positiva neta.
->     
 > 
 > > 📌 El material tipo N es eléctricamente neutro en conjunto — los iones positivos fijos compensan los electrones libres.
 
@@ -149,11 +146,8 @@
 > Se dopa con impurezas **trivalentes** (3 electrones de valencia) como Boro (B) o Galio (Ga).
 > 
 > - Solo forma 3 de los 4 enlaces necesarios — queda una **vacancia o hueco**.
->     
 > - **Portador mayoritario:** huecos (carga positiva).
->     
 > - **Portador minoritario:** electrones.
->     
 > 
 > > 💡 **Analogía del hueco:** es como un asiento vacío en un bus. El asiento no se mueve, pero cuando alguien lo ocupa deja otro vacío — la "ausencia" se desplaza.
 
@@ -192,6 +186,25 @@ mindmap
 
 ---
 
+## Metas de Aprendizaje
+
+> [!note] Nivel Basico
+> - [ ] Defino semiconductor y distingo conductor vs semiconductor vs aislante por resistividad y Eg.
+> - [ ] Explico banda de valencia, conduccion y band gap (Si 1.1 eV, Ge 0.67 eV) con diagrama.
+> - [ ] Distingo silicio intrinseco (puro) vs extrinseco (dopado) y por que aumenta la conductividad.
+
+> [!note] Nivel Intermedio
+> - [ ] Diferencio tipo N (donadores P/Sb, electrones mayoritarios) y tipo P (aceptores B/Ga, huecos).
+> - [ ] Calculo R = delta·l/A y comparo conductividades de Cu, Ge, Si, mica.
+> - [ ] Justifico por que el material dopado sigue neutro pese a tener portadores libres.
+
+> [!note] Nivel Avanzado
+> - [ ] Relaciono coeficiente negativo de temperatura con liberacion de portadores.
+> - [ ] Predigo portador mayoritario/minoritario y el ion fijo tras el dopaje.
+> - [ ] Conecto bandas y dopaje con la futura union P-N y el BJT.
+
+---
+
 > [!quote] 📖 Fuentes consultadas
 > 
 > [1] A. Sedra y K. Smith, _Microelectronic Circuits_, 7th ed. New York, USA: Oxford University Press, 2015, pp. 139–220.
@@ -208,6 +221,11 @@ mindmap
 > 
 > - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/02 - El Diodo - Unión P-N\|02 - El Diodo - Unión P-N]] — la unión de un material tipo P con uno tipo N.
 > - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/03 - Transistor BJT\|03 - Transistor BJT]] — dispositivo de tres terminales formado por dos uniones P-N.
+
+
+> [!quote] 🔗 Conexiones
+> - Siguiente: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/02 - El Diodo - Unión P-N\|02 - El Diodo - Unión P-N]] — union P-N
+> - Luego: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/03 - Transistor BJT\|03 - Transistor BJT]] y [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/04 - Circuitos de Filtrado y Fuentes Lineales\|04 - Circuitos de Filtrado y Fuentes Lineales]]
 
 ---
 

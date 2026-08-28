@@ -8,7 +8,7 @@
 
 > [!info] 💡 ¿Por qué árboles _binarios_ específicamente?
 > 
-> Los árboles binarios son el caso particular más usado en cómputo: cada vértice tiene **como máximo dos hijos**. Esta restricción, lejos de ser una limitación, es lo que permite construir algoritmos de búsqueda extremadamente eficientes (búsqueda binaria en forma de árbol) y sistemas de codificación óptimos (Huffman).
+> Los árboles binarios son el caso particular más usado en cómputo: cada [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/01 - Grafos I - Conceptos Básicos y Recorridos\|vértice]] tiene **como máximo dos hijos**. Esta restricción, lejos de ser una limitación, es lo que permite construir algoritmos de búsqueda extremadamente eficientes (búsqueda binaria en forma de árbol) y sistemas de codificación óptimos (Huffman).
 > 
 > **Importancia histórica:** Los árboles binarios de búsqueda se popularizaron en los años 60 como estructura de datos fundamental; David Huffman publicó su algoritmo de codificación en 1952, mientras era estudiante de doctorado en el MIT, resolviendo un problema abierto por su profesor Robert Fano.
 > 
@@ -26,7 +26,14 @@
 >     style A fill:#1e3a5f,color:#fff
 >     style D fill:#f5e1ff
 >     style E fill:#e1f5ff
-> ```
+> 
+    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style D fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style E fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style G fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style H fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
 
 ---
 
@@ -70,7 +77,7 @@
 
 > [!info] 🔗 Conexión con Computación y Sociedad
 > 
-> Este tema **ya lo trabajaste** en Computación y Sociedad, en la nota [[Universidad/2do Semestre/Computación y Sociedad/Unidad 3 - Representación de la información/II - Compresión de Datos/04 - Códigos Prefijos y Huffman Encoding\|04 - Códigos Prefijos y Huffman Encoding]] (Unidad 3 → II - Compresión de Datos). Ahí lo viste desde la perspectiva de compresión de datos; aquí lo retomamos desde la perspectiva formal de teoría de grafos, viendo el código Huffman como lo que realmente es: **un árbol binario completo con raíz**.
+> Este tema **ya lo trabajaste** en Computación y Sociedad, en la nota 04 - Códigos Prefijos y Huffman Encoding (Unidad 3 → II - Compresión de Datos). Ahí lo viste desde la perspectiva de compresión de datos; aquí lo retomamos desde la perspectiva formal de teoría de grafos, viendo el código Huffman como lo que realmente es: **un árbol binario completo con raíz**.
 > 
 > Si ya tienes esa nota escrita, vale la pena que revises ambas notas juntas — son el mismo objeto matemático visto desde dos ángulos distintos del pénsum.
 
@@ -98,7 +105,7 @@
 
 > [!note] 📋 Algoritmo para construir un código Huffman óptimo
 > 
-> **Entrada:** una sucesión de $n$ frecuencias, $n \geq 2$. **Salida:** un árbol con raíz que define un código Huffman óptimo.
+> **Entrada:** una [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/04 - Sucesiones y Cadenas\|sucesión]] de $n$ frecuencias, $n \geq 2$. **Salida:** un árbol con raíz que define un código Huffman óptimo.
 > 
 > $$huffman(f, n)$$
 > 
@@ -186,7 +193,7 @@
 > 
 > No confundas "entreorden" con "el orden en que fueron insertados los datos". El **entreorden** de un árbol de búsqueda binaria siempre produce los datos en **orden alfabético/numérico ascendente**, sin importar en qué orden se insertaron originalmente — esa es justamente la propiedad que lo hace útil.
 
-![ChatGPT Image 18 ago 2026, 19_13_53.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2019_13_53.png)
+!ChatGPT Image 18 ago 2026, 19_13_53.png
 
 ---
 
@@ -205,10 +212,16 @@ graph TD
     I --> J["Preorden: Raíz-Izq-Der"]
     I --> K["Entreorden: Izq-Raíz-Der"]
     I --> L["Postorden: Izq-Der-Raíz"]
+    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style E fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style G fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style I fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style J fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style K fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style L fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
 
-    style A fill:#1e3a5f,color:#fff
-    style F fill:#f5e1ff
-    style H fill:#e1f5ff
 ```
 
 ---
@@ -226,11 +239,11 @@ graph TD
     Q3 -->|Liberar memoria / evaluar postfijo| Post["Postorden"]
     Q3 -->|Obtener datos ordenados| In["Entreorden"]
 
-    style BST fill:#e1f5ff
-    style Huffman fill:#f5e1ff
-    style Pre fill:#e1ffe1
-    style In fill:#e1ffe1
-    style Post fill:#e1ffe1
+    style BST fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
+    style Huffman fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
+    style Pre fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
+    style In fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
+    style Post fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
 ```
 
 ---
@@ -322,8 +335,8 @@ graph TD
 > [!quote] 🔗 Notas relacionadas
 > 
 > - [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/04 - Árboles I - Conceptos Básicos y Árboles de Expansión\|04 - Árboles I - Conceptos Básicos y Árboles de Expansión]] — fundamentos de árboles, terminología, árboles de expansión y algoritmos BFS/DFS/Prim que preceden a esta nota.
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 3 - Representación de la información/II - Compresión de Datos/04 - Códigos Prefijos y Huffman Encoding\|04 - Códigos Prefijos y Huffman Encoding]] — la nota de Computación y Sociedad donde viste Huffman por primera vez, desde la perspectiva de compresión de datos. Vale la pena revisarlas juntas.
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 3 - Representación de la información/II - Compresión de Datos/03 - Run Length Encoding\|03 - Run Length Encoding]] — otra técnica de compresión de la misma unidad de Computación y Sociedad, útil para contrastar con Huffman (RLE comprime por repetición, Huffman por frecuencia).
+> - 04 - Códigos Prefijos y Huffman Encoding — la nota de Computación y Sociedad donde viste Huffman por primera vez, desde la perspectiva de compresión de datos. Vale la pena revisarlas juntas.
+> - 03 - Run Length Encoding — otra técnica de compresión de la misma unidad de Computación y Sociedad, útil para contrastar con Huffman (RLE comprime por repetición, Huffman por frecuencia).
 
 ---
 

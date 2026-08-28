@@ -16,90 +16,101 @@
 > 
 > **Analogía del mundo real:**
 > 
-> Los números primos son como los elementos de la tabla periódica: así como toda molécula está formada por elementos puros combinados, todo número entero mayor que 1 está formado por primos multiplicados. Y así como un elemento no se puede descomponer en algo más simple, un primo no tiene divisores propios.
+> Imagina que quieres repartir $72$ caramelos en grupos iguales. ¿En cuántos grupos diferentes puedes hacerlo sin que sobre ninguno? Eso es divisibilidad: $72$ es divisible por $1, 2, 3, 4, 6, 8, 9, 12, 18, 24, 36, 72$ — exactamente $12$ formas.
 > 
 > ```mermaid
 > graph TD
->     A[Teoría de Números] --> B[Divisibilidad]
->     A --> C[Números Primos]
->     A --> D[Teorema Fundamental<br/>de la Aritmética]
-> 
->     B --> E["Definición d|n"]
->     B --> F[Propiedades<br/>de divisibilidad]
->     C --> G[Primo vs Compuesto]
->     C --> H[Test de primalidad<br/>d ≤ √n]
->     D --> I[Factorización prima<br/>única]
->     D --> J[MCD via<br/>factorización]
+>     A[Divisibilidad y Numeros Primos] --> B[Divisibilidad]
+>     A --> C[Numeros Primos]
+>     A --> D[Teorema Fundamental de la Aritmetica]
+>     A --> E[Infinitud de Primos]
+>     B --> B1["d n = d q"]
+>     B --> B2["Propiedades: d m mas menos n"]
+>     C --> C1["m > 1 con divisores 1 y m"]
+>     C --> C2["Test: probar hasta raiz n"]
+>     D --> D1["Factorizacion unica en primos"]
+>     E --> E1["Demostracion por contradiction"]
 > 
 >     style B fill:#e1f5ff
 >     style C fill:#e1ffe1
 >     style D fill:#fff4e1
+>     style E fill:#f5e1ff
+> 
+    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style C1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style D1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style E fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style E1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
+> 
+> |Concepto|Fórmula clave|
+> |---|---|
+> |**Divisibilidad**|$d \mid n \iff n = d \cdot q,\ q \in \mathbb{Z}$|
+> |**Primo**|Divisores de $m > 1$: solo $1$ y $m$|
+> |**Test primalidad**|Probar divisores hasta $\lfloor\sqrt{n}\rfloor$|
+> |**TFA**|$n = p_1^{a_1} \cdot p_2^{a_2} \cdots p_k^{a_k}$, única|
+
+---
+
+## 🧠 El truco de examen (léelo antes que todo lo demás)
+
+> [!important] 🧠 Así se identifican primos sin morir en el intento
+> 
+> Olvídate un momento de las definiciones formales. Para saber si un número $n$ es primo:
+> 
+> 1. Calcula $\lfloor\sqrt{n}\rfloor$.
+> 2. Revisa si algún número de $2$ hasta $\lfloor\sqrt{n}\rfloor$ divide a $n$.
+> 3. Si **ninguno** divide → es primo. Si alguno divide → es compuesto.
+> 
+> **Ejemplo con 91:**
+> 
+> ```
+> √91 ≈ 9.54 → revisar 2, 3, 4, 5, 6, 7, 8, 9
+> 91 ÷ 7 = 13  ← ¡encontrado!
+> → 91 NO es primo (91 = 7 × 13)
 > ```
 > 
-> |Concepto|Descripción|
-> |---|---|
-> |**Divisibilidad**|$d \mid n$ si existe $q \in \mathbb{Z}$ tal que $n = d \cdot q$|
-> |**Número primo**|Entero $m > 1$ cuyos únicos divisores positivos son $1$ y $m$|
-> |**TFA**|Todo entero $> 1$ se factoriza como producto de primos de forma única|
+> No necesitas factorizar todo ni listar todos los divisores. Solo "sube desde 2 hasta $\lfloor\sqrt{n}\rfloor$ y detente si encuentras uno".
+> 
+> **Analogía para recordarlo:** imagina que $n$ es una puerta cerrada con llave. No necesitas probar todas las llaves del mundo — solo las que caben en la cerradura (hasta $\sqrt{n}$). Si ninguna abre, la puerta es "primo".
 
 ---
 
 ## 🔵 Divisibilidad
 
-> [!tip] 🧠 En una frase
-> 
-> "$d \mid n$" solo significa **"n se puede repartir en $d$ en partes exactamente iguales, sin que sobre nada"**. Si al dividir $n \div d$ el residuo es 0, entonces $d$ divide a $n$. Eso es todo — el símbolo raro y la palabra "cociente" son solo el nombre formal de algo que ya sabes hacer desde niño.
-> 
-> Truco para no confundirte con el símbolo: $d \mid n$ se lee de izquierda a derecha como "$d$ reparte a $n$" (no al revés).
-
-> [!note] 🔵 Definición, notación y ejemplos
+> [!note] 📋 Definición
 > 
 > **Definición.** Sean $n, d$ números enteros con $d \neq 0$. Diremos que $d$ **divide** a $n$, o que $n$ es **divisible** para $d$, si existe un entero $q$ tal que:
 > 
 > $$\boxed{n = d \cdot q}$$
 > 
 > - $q$ se llama **cociente**
->     
 > - $n$ se llama **múltiplo** de $d$
->     
 > - $d$ se llama **divisor** o **factor** de $n$
->     
-> - Notación: $d \mid n$ — se lee _"d divide a n"_
->     
-> 
-> > ⚠️ No confundir $d \mid n$ (divisibilidad) con $d/n$ (fracción). Son notaciones distintas.
+> - Notación: $d \mid n$ — se lee *"d divide a n"*
 > 
 > ---
 > 
-> ### 📌 Ejemplo base
+> ### 📌 Ejemplos
 > 
-> Como $72 = 6 \cdot 12$, tenemos $6 \mid 72$ donde $12$ es el cociente y $6$ el factor. También $12 \mid 72$ donde $6$ es el cociente y $12$ el divisor.
+> > |Operación|¿Divide?|Razón|
+> > |---|---|---|
+> > |$6 \mid 72$|✅|$72 = 6 \cdot 12$|
+> > |$-8 \mid 24$|✅|$24 = (-8) \cdot (-3)$|
+> > |$6 \mid 21$|❌|$21 = 6 \cdot 3 + 3$ (residuo ≠ 0)|
 > 
-> ---
-> 
-> ### 🧮 Ejemplos resueltos
-> 
-> **¿24 es divisible para $-8$?**
-> 
-> > $24 = (-8) \cdot (-3)$, existe $q = -3 \in \mathbb{Z}$. Por tanto $-8 \mid 24$. ✅
-> 
-> **¿Qué enteros $k$ dividen al cero?**
-> 
-> > Para cualquier $k \neq 0$: $0 = k \cdot 0$, es decir $q = 0 \in \mathbb{Z}$. **Todo entero no nulo divide a $0$**. ✅
-> 
-> **¿$6 \mid 21$?**
-> 
-> > $21 = 6 \cdot 3 + 3$. No existe $q \in \mathbb{Z}$ tal que $21 = 6q$ exactamente. Por tanto $6 \nmid 21$. ❌
-> 
-> **¿Cuáles son los factores (divisores) de $-28$?**
-> 
-> > $-28 = (\pm 1)(\mp 28) = (\pm 2)(\mp 14) = (\pm 4)(\mp 7)$ Los divisores de $-28$ son: $\pm 1,\ \pm 2,\ \pm 4,\ \pm 7,\ \pm 14,\ \pm 28$
+> > 💡 Para cualquier $k \neq 0$: $0 = k \cdot 0$, es decir $q = 0 \in \mathbb{Z}$. Todo entero no nulo divide a cero.
 
 ---
 
 ## 🟢 Propiedades de la Divisibilidad
 
-> [!tip] 🟢 Teorema — Propiedades básicas
+> [!note] 📋 Teorema — Propiedades básicas
 > 
 > **Teorema.** Sean $m, n$ y $d$ enteros:
 > 
@@ -112,26 +123,12 @@
 > ### 📐 Demostración de (2)
 > 
 > > Por hipótesis existen $q_1, q_2 \in \mathbb{Z}$ tal que $n = d \cdot q_1$ y $m = d \cdot q_2$. Entonces: $$m - n = d \cdot q_2 - d \cdot q_1 = d(q_2 - q_1) = d \cdot q$$ haciendo $q = q_2 - q_1 \in \mathbb{Z}$. Por lo tanto $d \mid m - n$. $\blacksquare$
-> 
-> ### 📐 Demostración de (3)
-> 
-> > Por hipótesis existe $q_1 \in \mathbb{Z}$ tal que $n = d \cdot q_1$. Entonces: $$m \cdot n = m \cdot d \cdot q_1 = d(m \cdot q_1) = d \cdot q$$ haciendo $q = m \cdot q_1 \in \mathbb{Z}$. Por lo tanto $d \mid m \cdot n$. $\blacksquare$
-> 
-> ---
-> 
-> ### 🧮 Ejercicios
-> 
-> 4. Sean $a, b, c \in \mathbb{Z}$. Demuestre que si $a \mid b$ y $b \mid c$, entonces $a \mid c$.
-> 5. Pruebe que para todo par de enteros positivos $a$ y $b$: si $a \mid b$, entonces $a \leq b$.
-> 6. Determine todos los divisores de $1$.
 
 ---
 
 ## 🟡 Números Primos y Compuestos
 
-> [!tip] 🟡 Definición de primo y compuesto
-> 
-> Dado cualquier entero $m \neq 0$, es claro que $m = m \cdot 1$, así $1 \mid m$ y $m \mid m$. Esto es, $1$ y $m$ siempre dividen a $m$.
+> [!note] 📋 Definición
 > 
 > **Definición.** Diremos que un entero $m > 1$ es **primo** si sus únicos divisores positivos son $1$ y $m$. En caso contrario, diremos que $m$ es **compuesto**.
 > 
@@ -139,12 +136,12 @@
 > 
 > ### 📌 Ejemplos
 > 
-> |Número|Clasificación|Razón|
-> |---|---|---|
-> |$2$|Primo|El único primo par|
-> |$17$|Primo|Sus únicos divisores positivos son $1$ y $17$|
-> |$72$|Compuesto|Divisores: $2,3,4,6,8,9,12,18,24,36,72$|
-> |$1$|Ninguno|Por definición se requiere $m > 1$|
+> > |Número|Clasificación|Razón|
+> > |---|---|---|
+> > |$2$|Primo|El único primo par|
+> > |$17$|Primo|Sus únicos divisores positivos son $1$ y $17$|
+> > |$72$|Compuesto|Divisores: $2,3,4,6,8,9,12,18,24,36,72$|
+> > |$1$|Ninguno|Por definición se requiere $m > 1$|
 > 
 > Los primeros números primos son: $2,\ 3,\ 5,\ 7,\ 11,\ 13,\ 17,\ 19,\ 23,\ \ldots$
 
@@ -152,17 +149,7 @@
 
 ## 🔍 Test de Primalidad
 
-> [!tip] 🧠 ¿Por qué solo hasta $\sqrt{n}$? — la razón simple
-> 
-> Los divisores de un número siempre vienen **en parejas** que se multiplican entre sí para dar $n$ (por ejemplo, en $36$: $2\times18$, $3\times12$, $4\times9$, $6\times6$). En cada pareja, uno de los dos números es $\leq \sqrt{n}$ y el otro es $\geq \sqrt{n}$ — no pueden ser ambos mayores que $\sqrt{n}$ (porque su producto se pasaría de $n$), ni ambos menores.
-> 
-> Entonces: si revisas todos los candidatos del 2 hasta $\sqrt{n}$ y ninguno divide a $n$, es imposible que exista un divisor "pareja" más grande que se te haya escapado — porque su pareja pequeña ya la habrías encontrado. Por eso basta con probar hasta $\lfloor\sqrt{n}\rfloor$.
-> 
-> **Truco práctico:** para saber si $n$ es primo, solo pregúntate "¿es divisible por 2, 3, 5, 7, 11...?" hasta que el divisor que estés probando, multiplicado por sí mismo, supere a $n$. Ahí puedes parar.
-
-> [!note] 🔍 Teorema — Cota $\sqrt{n}$ para divisores
-> 
-> Si $n, d$ son enteros positivos y $d \mid n$, entonces $1 \leq d \leq n$. Por lo tanto $2, 3, \ldots, n-1$ son candidatos a divisores propios de $n$.
+> [!note] 📋 Teorema — Cota $\sqrt{n}$ para divisores
 > 
 > **Teorema.** Un entero positivo $n > 1$ es **compuesto** si y sólo si tiene un divisor $d$ con:
 > 
@@ -172,42 +159,11 @@
 > 
 > ---
 > 
-> ### 📐 Demostración (idea clave)
-> 
-> $(\Leftarrow)$ Si $n$ tiene divisor $d$ con $2 \leq d \leq \sqrt{n}$, ese divisor es distinto de $1$ y $n$, luego $n$ es compuesto.
-> 
-> $(\Rightarrow)$ Si $n$ es compuesto, existe divisor $d_1$ con $2 \leq d_1 < n$.
-> 
-> - Si $d_1 \leq \sqrt{n}$: tomamos $d = d_1$. ✅
-> - Si $d_1 > \sqrt{n}$: como $d_1 \mid n$ existe $q$ con $n = d_1 \cdot q$. Si $q > \sqrt{n}$ entonces $n = d_1 q > \sqrt{n}\cdot\sqrt{n} = n$, contradicción. Por tanto $q \leq \sqrt{n}$ y tomamos $d = q$. ✅
-> 
-> En cualquier caso existe divisor $d$ con $2 \leq d \leq \sqrt{n}$. $\blacksquare$
-> 
-> ---
-> 
-> ### ⚙️ Procedimiento
-> 
-> ```mermaid
-> graph TD
->     P1[1️⃣ Calcular ⌊√n⌋] --> P2
->     P2[2️⃣ Probar divisibilidad<br/>para d = 2, 3, ..., ⌊√n⌋] --> P3
->     P3{¿Algún d divide a n?}
->     P3 -->|Sí| P4[n es COMPUESTO<br/>d es un factor]
->     P3 -->|No| P5[n es PRIMO ✅]
-> 
->     style P1 fill:#e1f5ff
->     style P2 fill:#e1f5ff
->     style P4 fill:#ffe1e1
->     style P5 fill:#e1ffe1
-> ```
-> 
-> ---
-> 
 > ### 🧮 Ejemplos resueltos
 > 
 > **¿Es primo 47?**
 > 
-> > $\lfloor\sqrt{47}\rfloor = 6$. Revisamos $d \in {2, 3, 4, 5, 6}$: ninguno divide a $47$. Por tanto **47 es primo**. ✅
+> > $\lfloor\sqrt{47}\rfloor = 6$. Revisamos $d \in \{2, 3, 4, 5, 6\}$: ninguno divide a $47$. Por tanto **47 es primo**. ✅
 > 
 > **Determinar si 53, 85 y 91 son primos:**
 > 
@@ -219,13 +175,9 @@
 
 ## 🏛️ Teorema Fundamental de la Aritmética
 
-> [!important] 🏛️ TFA — Existencia y unicidad de la factorización prima
+> [!important] 🏛️ TFA
 > 
 > **Teorema (TFA).** Cualquier entero mayor que $1$ se puede factorizar como producto de primos. Más aún, si los primos se escriben en orden no decreciente, la factorización es **única**.
-> 
-> Simbólicamente: si $$n = p_1 \cdot p_2 \cdots p_i \quad \text{con } p_1 \leq p_2 \leq \cdots \leq p_i$$ y también $$n = q_1 \cdot q_2 \cdots q_j \quad \text{con } q_1 \leq q_2 \leq \cdots \leq q_j$$ entonces $i = j$ y $p_k = q_k$ para todo $k = 1, \ldots, i$.
-> 
-> A los $p_i$ los llamamos **factores primos** de $n$.
 > 
 > ---
 > 
@@ -233,17 +185,25 @@
 > 
 > **Factorización de 84:**
 > 
-> > $$84 = 4 \cdot 21 = 2 \cdot 2 \cdot 3 \cdot 7 = 2^2 \cdot 3 \cdot 7$$ Factores primos de $84$: $2,\ 3,\ 7$.
+> > $$84 = 4 \cdot 21 = 2 \cdot 2 \cdot 3 \cdot 7 = 2^2 \cdot 3 \cdot 7$$
 > 
 > **Factorización de 72:**
 > 
-> > $$72 = 8 \cdot 9 = 2^3 \cdot 3^2$$ Factores primos de $72$: $2,\ 3$.
+> > $$72 = 8 \cdot 9 = 2^3 \cdot 3^2$$
+> 
+> ---
+> 
+> ### 🧮 Ejemplo resuelto — Factorizar 180
+> 
+> > $$180 = 2 \cdot 90 = 2^2 \cdot 45 = 2^2 \cdot 3^2 \cdot 5$$
+> > 
+> > Verificación: $2^2 \cdot 3^2 \cdot 5 = 4 \cdot 9 \cdot 5 = 180$ ✓
 
 ---
 
 ## ♾️ Infinitud de los Primos
 
-> [!abstract] ♾️ Teorema — Hay infinitos números primos
+> [!abstract] 📋 Teorema
 > 
 > **Teorema.** El conjunto de números primos es infinito.
 > 
@@ -251,67 +211,46 @@
 > 
 > ### 📐 Demostración (por contradicción)
 > 
-> > Supongamos que los primos son finitos: $p_1, p_2, \ldots, p_k$. Definimos: $$m = p_1 \cdot p_2 \cdots p_k + 1, \qquad n = p_1 \cdot p_2 \cdots p_k$$ Como $m > p_i$ para todo $i$, $m$ no puede ser primo, así que es compuesto. Existe entonces $p_j$ que divide a $m$. Pero $p_j$ también divide a $n$. Por la propiedad de la divisibilidad: $$p_j \mid m - n = 1$$ lo que contradice que $p_j \geq 2$ sea primo. $\blacksquare$
+> > Supongamos que los primos son finitos: $p_1, p_2, \ldots, p_k$. Definimos: $$m = p_1 \cdot p_2 \cdots p_k + 1$$ Como $m > p_i$ para todo $i$, $m$ no puede ser primo, así que es compuesto. Existe entonces $p_j$ que divide a $m$. Pero $p_j$ también divide a $p_1 \cdot p_2 \cdots p_k$. Por la propiedad de la divisibilidad: $$p_j \mid m - p_1 \cdot p_2 \cdots p_k = 1$$ lo que contradice que $p_j \geq 2$ sea primo. $\blacksquare$
 > 
 > ---
 > 
-> ### 💡 Consecuencias para la Criptografía
+> ### 📌 Ejemplo ilustrativo
 > 
-> |Consecuencia|Aplicación|
-> |---|---|
-> |Existen primos arbitrariamente grandes|Se generan claves seguras y únicas|
-> |No se pueden probar todos|Ningún atacante puede romper la seguridad por fuerza bruta|
-> |RSA usa $n = p \cdot q$ con $p, q$ primos grandes|La dificultad de factorizar $n$ garantiza la seguridad|
-> |TFA garantiza representación única|La información se codifica con factorizaciones únicas|
-> 
-> ---
-> 
-> ### 📌 Números de Euclides
-> 
-> Usando la construcción de la demostración:
-> 
-> |Producto $+ 1$|Resultado|¿Primo?|
-> |---|---|---|
-> |$2 \cdot 3 + 1$|$7$|✅ Primo|
-> |$2 \cdot 3 \cdot 5 + 1$|$31$|✅ Primo|
-> |$2 \cdot 3 \cdot 5 \cdot 7 + 1$|$211$|✅ Primo|
-> |$2 \cdot 3 \cdot 5 \cdot 7 \cdot 11 + 1$|$2311$|✅ Primo|
-> |$2 \cdot 3 \cdot 5 \cdot 7 \cdot 11 \cdot 13 + 1$|$30031 = 59 \cdot 509$|❌ Compuesto|
-> |$2 \cdot 3 \cdot 5 \cdot 7 \cdot 11 \cdot 13 \cdot 17 + 1$|$510511 = 19 \cdot 26869$|❌ Compuesto|
-> 
-> Los compuestos de esta forma se llaman **Números de Euclides**. Si existen infinitos es un **problema abierto** en matemáticas.
+> > Supongamos que los primos son solo $\{2, 3, 5\}$. Entonces: $$m = 2 \cdot 3 \cdot 5 + 1 = 31$$ $31$ no es divisible por $2$ (residuo $1$), ni por $3$ (residuo $1$), ni por $5$ (residuo $1$). O $31$ es primo (¡nuevo primo!), o tiene un factor primo que no estaba en la lista. En ambos casos, la lista original estaba incompleta.
 
 ---
 
 ## 📊 Resumen Visual
 
 ```mermaid
-mindmap
-  root((Divisibilidad y<br/>Números Primos))
-    Divisibilidad
-      d|n ↔ n = d·q
-      Múltiplo / divisor / factor
-      Si d|n y d|m → d|m±n
-      Si d|n → d|m·n
-    Números Primos
-      m > 1 con divisores solo 1 y m
-      Primeros: 2,3,5,7,11,13...
-      1 NO es primo
-    Test de Primalidad
-      Calcular ⌊√n⌋
-      Revisar d = 2,...,⌊√n⌋
-      Si ninguno divide → primo
-    TFA
-      Todo n > 1 = producto de primos
-      Factorización única si orden no decreciente
-      Factores primos de n
-    Infinitud de Primos
-      Demostración por contradicción
-      Números de Euclides
-      Aplicación en RSA y criptografía
-    MCD via TFA
-      Tomar mínimos exponentes
-      mcd · mcm = m · n
+graph TD
+    root["Divisibilidad y Numeros Primos"] --> B[Divisibilidad]
+    root --> C[Numeros Primos]
+    root --> D[TFA]
+    root --> E[Infinitud]
+    B --> B1["d | n = d q"]
+    B --> B2["Multiplo / divisor / factor"]
+    B --> B3["Si d|n y d|m entonces d|m mas menos n"]
+    C --> C1["m > 1 con divisores solo 1 y m"]
+    C --> C2["Test: probar hasta raiz n"]
+    D --> D1["Todo n > 1 = producto de primos"]
+    D --> D2["Factorizacion unica"]
+    E --> E1["Demostracion por contradiction"]
+    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style C1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style D1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style D2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style E fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style E1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style root fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+
 ```
 
 ---
@@ -323,9 +262,30 @@ mindmap
 > [1] E. Pineda, _Elementos de teoría de números_, clase MATG1051, ESPOL, 2025.
 > 
 > [2] K. H. Rosen, _Discrete Mathematics and Its Applications_, 8th ed. New York, USA: McGraw-Hill, 2019, pp. 253–290.
-> 
-> [3] R. Johnsonbaugh, _Discrete Mathematics_, 8th ed. Hoboken, NJ, USA: Pearson, 2018, pp. 195–230.
 
 ---
 
-**Tags:** #divisibilidad #primos #TFA #factorizacion #MCD #teoria-de-numeros #MATG1051 #unidad3 #ESPOL
+## Metas de Aprendizaje
+
+> [!note] Nivel Básico
+> - [ ] Defino divisibilidad y uso notación a | b.
+> - [ ] Identifico números primos usando criba de Eratóstenes.
+> - [ ] Descompongo un número en factores primos.
+
+> [!note] Nivel Intermedio
+> - [ ] Aplico el teorema fundamental de la aritmética.
+> - [ ] Calculo el número de divisores de un entero.
+> - [ ] Uso propiedades de primos para resolver problemas de divisibilidad.
+
+> [!note] Nivel Avanzado
+> - [ ] Resuelvo problemas de distribución de primos.
+> - [ ] Analizo algoritmos de primalidad y su complejidad.
+
+---
+
+> [!quote] 🔗 Conexiones
+> - Siguiente: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/02 - MCD, MCM y Algoritmo de Euclides\|02 - MCD, MCM y Algoritmo de Euclides]] — divisores comunes
+> - Relacionado: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/03 - Criterios de Divisibilidad y Sistemas de Numeración\|03 - Criterios de Divisibilidad y Sistemas de Numeración]]
+> - Aplicación: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/06 - Teorema del Binomio y Principio del Palomar\|06 - Teorema del Binomio y Principio del Palomar]]
+
+**Tags:** #divisibilidad #primos #TFA #factorizacion #teoria-de-numeros #MATG1051 #unidad3

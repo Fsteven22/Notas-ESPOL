@@ -145,7 +145,7 @@
 > 
 > Como $V \neq F$, las expresiones **no son equivalentes**. ❌
 
-> [!note] 📋 La equivalencia lógica es una relación de equivalencia
+> [!note] 📋 La equivalencia lógica es una [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/03 - Propiedades y Equivalencia\|relación de equivalencia]]
 > 
 > La relación $P \equiv Q$ sobre el conjunto de todas las formas proposicionales cumple:
 > 
@@ -192,8 +192,8 @@ graph LR
     C -->|"Ley 3"| D[...]
     D -->|"Ley n"| E[Expresión final ✅]
 
-    style A fill:#1e3a5f,color:#fff
-    style E fill:#2d6a4f,color:#fff
+    style A fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style E fill:#1B5E20,color:#FFFFFF,stroke:#A5D6A7,stroke-width:1px
 ```
 
 ---

@@ -13,12 +13,12 @@
 > |---|---|---|
 > |1.1|Proposiciones, tablas de verdad y circuitos|1–6|
 > |1.2|Condicionales y equivalencia lógica|7–12|
-> |1.3|Demostraciones e inducción matemática|15–22|
+> |1.3|Demostraciones e [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/III - Razonamiento Inductivo/03 - Inducción Matemática\|inducción matemática]]|15–22|
 > |1.4|Conjuntos, operaciones y demostraciones|23–28|
 
 ---
 
-<iframe src="/img/user/Universidad/3er%20Semestre/Matem%C3%A1ticas%20Discretas/Unidad%200%20-%20Guias%20y%20Ejercicios/GU%C3%8DA%201%20DE%20PROBLEMAS%20MD%20(1).pdf" width="100%" height="900px" title="GUÍA 1 DE PROBLEMAS MD (1).pdf" style="border:1px solid #ccc;"></iframe>
+!GUÍA 1 DE PROBLEMAS MD (1).pdf
 
 ## 🔌 1.1 — Proposiciones, Tablas de Verdad y Circuitos
 
@@ -174,7 +174,7 @@
 > 
 > $$\equiv (p \land \neg q) \lor (r \land \neg p) \lor q \lor r$$
 > 
-> **Paso 5:** Reagrupamos estratégicamente (ley conmutativa):
+> **Paso 5:** Reagrupamos estratégicamente ([[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/03 - Leyes de Conjuntos\|ley conmutativa]]):
 > 
 > $$\equiv (p \land \neg q) \lor q \lor (r \land \neg p) \lor r$$
 > 
@@ -402,7 +402,7 @@
 > |---|---|---|
 > |1|$e$|Premisa 4|
 > |2|$e \to \neg p$|Premisa 3|
-> |3|$\neg p$|Modus Ponens (1, 2)|
+> |3|$\neg p$|[[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/III - Razonamiento Inductivo/01 - Reglas de Inferencia\|Modus Ponens]] (1, 2)|
 > |4|$\neg b \lor p$|Premisa 5|
 > |5|$\neg b$|Resolución (3, 4): de $\neg p$ y $\neg b \lor p$ → $\neg b$|
 > |6|$v \to b$|Premisa 2|
@@ -517,7 +517,7 @@
 
 ## 🔢 1.3 — Demostraciones e Inducción Matemática
 
-> [!example] 📝 Ejercicio 13 — Cuantificadores en $\mathbb{R} \times \mathbb{R}$
+> [!example] 📝 Ejercicio 13 — [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/II - Álgebra Proposicional/02 - Cuantificadores\|Cuantificadores]] en $\mathbb{R} \times \mathbb{R}$
 > 
 > **Dominio:** $\mathbb{R} \times \mathbb{R}$
 > 
@@ -760,11 +760,11 @@
 > 
 > Como $\dfrac{(k+1)(k-2)}{2} = \dfrac{(k+1)((k+1)-3)}{2}$, que es exactamente la fórmula para $n = k+1$. $\blacksquare$
 > 
-> ![Pasted image 20260613145551.png](/img/user/Universidad/Figuras/Pasted%20image%2020260613145551.png)
+> !Pasted image 20260613145551.png
 > 
-> ![Pasted image 20260613145600.png](/img/user/Universidad/Figuras/Pasted%20image%2020260613145600.png)
+> !Pasted image 20260613145600.png
 > 
-> ![Pasted image 20260613145618.png](/img/user/Universidad/Figuras/Pasted%20image%2020260613145618.png)
+> !Pasted image 20260613145618.png
 > 
 >
 > >[!note] 📌 Nota — Lo que muestran las imágenes

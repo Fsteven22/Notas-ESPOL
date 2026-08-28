@@ -8,10 +8,10 @@
 
 > [!info] 💡 ¿Por qué son útiles las relaciones de recurrencia?
 > 
-> Una **relación de recurrencia** describe una sucesión definiendo cada término en función de los términos anteriores. En vez de dar una fórmula directa, se da una "receta" que construye el término $n$ a partir de sus predecesores.
+> Una **[[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/02 - Relaciones\|relación]] de recurrencia** describe una [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/04 - Sucesiones y Cadenas\|sucesión]] definiendo cada término en [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/01 - Funciones\|función]] de los términos anteriores. En vez de dar una fórmula directa, se da una "receta" que construye el término $n$ a partir de sus predecesores.
 > 
 > - Permiten **modelar procesos que evolucionan paso a paso**: interés compuesto, poblaciones, algoritmos recursivos.
-> - Son la base matemática detrás del análisis de algoritmos recursivos.
+> - Son la base matemática detrás del [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/04 - Análisis de Algoritmos I - Fundamentos y Funciones Matemáticas\|análisis de algoritmos]] recursivos.
 > - Toda relación de recurrencia necesita **condiciones iniciales** para quedar completamente determinada.
 > 
 > **Analogía del mundo real:**
@@ -38,7 +38,15 @@
 >     style G fill:#e1ffe1
 >     style H fill:#fff4e1
 >     style I fill:#f5e1ff
-> ```
+> 
+    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style E fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style G fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style H fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style I fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
 > 
 > |Tema|Idea central|
 > |---|---|
@@ -159,28 +167,42 @@
 > |4|15|
 > |10|1023|
 
-![ChatGPT Image 18 ago 2026, 20_16_45.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2020_16_45.png)
+!ChatGPT Image 18 ago 2026, 20_16_45.png
 
 ---
 
 ## 📊 Resumen Visual
 
 ```mermaid
-mindmap
-  root((Relaciones de<br/>Recurrencia))
-    Concepto
-      aₙ en función de predecesores
-      Requiere condiciones iniciales
-    Sucesiones Clásicas
-      Fibonacci: fₙ = fₙ₋₁ + fₙ₋₂
-      Interés compuesto: Aₙ = 1,12·Aₙ₋₁
-    Método Iterativo
-      Sustitución repetida
-      Detectar patrón
-      Generalizar fórmula explícita
-    Torre de Hanoi
-      cₙ = 2cₙ₋₁ + 1
-      Solución óptima: cₙ = 2ⁿ - 1
+graph TD
+    A["Relaciones de Recurrencia"] --> B["Concepto"]
+    A --> C["Sucesiones Clasicas"]
+    A --> D["Metodo Iterativo"]
+    A --> E["Torre de Hanoi"]
+    B --> B1["an en funcion de predecesores"]
+    B --> B2["Requiere condiciones iniciales"]
+    C --> C1["Fibonacci: fn = fn-1 + fn-2"]
+    C --> C2["Interes compuesto: An = 1.12 An-1"]
+    D --> D1["Sustitucion repetida"]
+    D --> D2["Detectar patron"]
+    D --> D3["Generalizar formula explicita"]
+    E --> E1["cn = 2cn-1 + 1"]
+    E --> E2["Solucion optima: cn = 2n - 1"]
+    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style C1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style D1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style D2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style D3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style E fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style E1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style E2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+
 ```
 
 ---
@@ -196,5 +218,29 @@ mindmap
 > [3] R. Johnsonbaugh, _Discrete Mathematics_, 8th ed. Hoboken, NJ, USA: Pearson, 2018, pp. 380–388.
 
 ---
+
+
+## Metas de Aprendizaje
+
+> [!note] Nivel Básico
+> - [ ] Defino una relación de recurrencia a partir de un problema.
+> - [ ] Escribo los primeros términos dados la recurrencia y condiciones iniciales.
+> - [ ] Identifico recurrencias lineales de primer y segundo orden.
+
+> [!note] Nivel Intermedio
+> - [ ] Resuelvo recurrencias lineales con constantes por sustitución iterativa.
+> - [ ] Construyo la solución homogénea y particular.
+> - [ ] Aplico recurrencias a problemas de conteo (torres de Hanoi, Fibonacci).
+
+> [!note] Nivel Avanzado
+> - [ ] Resuelvo recurrencias no lineales usando transformaciones.
+> - [ ] Aplico el método generador de funciones a recurrencias complejas.
+> - [ ] Analizo el comportamiento asintótico de recurrencias.
+
+
+> [!quote] 🔗 Conexiones
+> - Previo: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/III - Razonamiento Inductivo/03 - Inducción Matemática\|03 - Inducción Matemática]] — inducción para probar recurrencias
+> - Siguiente: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/02 - Recurrencia Homogénea\|02 - Recurrencia Homogénea]] — solución por ecuaciones características
+> - Relacionado: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/03 - Pseudocódigo y Algoritmos\|03 - Pseudocódigo y Algoritmos]] — recursión en algoritmos
 
 **Tags:** #recurrencia #relacionesderecurrencia #fibonacci #interescompuesto #torredehanoi #metodoiterativo #MATG1051 #unidad4 #ESPOL

@@ -258,13 +258,13 @@ graph TD
     A --> E["p ⊻ q  Disyunción Exclusiva<br/>(binario)"]
     A --> F["p → q  Condicional<br/>(binario)"]
     A --> G["p ↔ q  Bicondicional<br/>(binario)"]
+    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style D fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style E fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style G fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
 
-    style B fill:#ffe1e1
-    style C fill:#e1f5ff
-    style D fill:#e1ffe1
-    style E fill:#fff4e1
-    style F fill:#f5e1ff
-    style G fill:#e1fff5
 ```
 
 | Conectivo            | Símbolo               | Nombre               | Falso cuando...              |
@@ -338,7 +338,7 @@ graph TD
 >     Equivalente a decir que $P \leftrightarrow Q$ es una **tautología**.
 
 > [!success] 📋 Principales Equivalencias Lógicas
-> ![Pasted image 20260517162520.png](/img/user/Universidad/Figuras/Pasted%20image%2020260517162520.png)
+> !Pasted image 20260517162520.png
 > **Leyes de identidad:**
 > 
 > |Ley|Expresión|
@@ -389,7 +389,7 @@ graph TD
 > |Distributiva $\vee$ sobre $\wedge$|$p \vee (q \wedge r) \equiv (p \vee q) \wedge (p \vee r)$|
 > |Distributiva $\wedge$ sobre $\vee$|$p \wedge (q \vee r) \equiv (p \wedge q) \vee (p \wedge r)$|
 > 
-> **Leyes de De Morgan:**
+> **[[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/II - Álgebra Proposicional/01 - Algebra de Proposiciones\|Leyes de De Morgan]]:**
 > 
 > |Ley|Expresión|
 > |---|---|
@@ -451,7 +451,7 @@ graph TD
 > |**NAND**|$\neg(p \wedge q)$|AND con círculo|Falso solo si ambas entradas son 1|
 > |**NOR**|$\neg(p \vee q)$|OR con círculo|Verdadero solo si ambas entradas son 0|
 > 
-![ChatGPT Image 20 may 2026, 13_02_00.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2020%20may%202026,%2013_02_00.png)
+!ChatGPT Image 20 may 2026, 13_02_00.png
 
 > [!example] 🧮 Tablas de Verdad de Compuertas
 > 
@@ -510,7 +510,7 @@ graph TD
 > q ───────────┘          ├──[ AND ]──→ Salida
 > r ──────────────────────┘
 > ```
-> ![ChatGPT Image 20 may 2026, 13_05_26.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2020%20may%202026,%2013_05_26.png)
+> !ChatGPT Image 20 may 2026, 13_05_26.png
 > 
 > |$p$|$q$|$r$|$\neg p$|$\neg p \vee q$|$(\neg p \vee q) \wedge r$|
 > |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -549,33 +549,59 @@ graph TD
 ## 📊 Resumen Visual
 
 ```mermaid
-mindmap
-  root((Lógica<br/>Proposicional))
-    Proposiciones
-      Atómicas
-      Variables proposicionales
-      Valor lógico V/F
-    Conectivos Lógicos
-      Negación NOT
-      Conjunción AND
-      Disyunción OR
-      Disyunción Exclusiva XOR
-      Condicional IF-THEN
-      Bicondicional IFF
-    Tablas de Verdad
-      Precedencia de operadores
-      2^n filas para n variables
-      Verificar equivalencias
-    Propiedades
-      Tautologías
-      Contradicciones
-      Equivalencias lógicas
-      Leyes De Morgan
-    Circuitos Combinatorios
-      Compuertas NOT AND OR XOR
-      NAND NOR
-      Medio Sumador
-      Expresiones a circuitos
+graph TD
+    A["Logica Proposicional"] --> B["Proposiciones"]
+    A --> C["Conectivos Logicos"]
+    A --> D["Tablas de Verdad"]
+    A --> E["Propiedades"]
+    A --> F["Circuitos Combinatorios"]
+    B --> B1["Atomicas"]
+    B --> B2["Variables proposicionales"]
+    B --> B3["Valor logico V/F"]
+    C --> C1["Negacion NOT"]
+    C --> C2["Conjuncion AND"]
+    C --> C3["Disyuncion OR"]
+    C --> C4["Disyuncion Exclusiva XOR"]
+    C --> C5["Condicional IF-THEN"]
+    C --> C6["Bicondicional IFF"]
+    D --> D1["Precedencia de operadores"]
+    D --> D2["2^n filas para n variables"]
+    D --> D3["Verificar equivalencias"]
+    E --> E1["Tautologias"]
+    E --> E2["Contradicciones"]
+    E --> E3["Equivalencias logicas"]
+    E --> E4["Leyes De Morgan"]
+    F --> F1["Compuertas NOT AND OR XOR"]
+    F --> F2["NAND NOR"]
+    F --> F3["Medio Sumador"]
+    F --> F4["Expresiones a circuitos"]
+    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style C1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C4 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C5 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C6 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style D1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style D2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style D3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style E fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style E1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style E2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style E3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style E4 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style F fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style F1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style F2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style F3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style F4 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+
 ```
 
 ---

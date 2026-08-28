@@ -50,7 +50,7 @@ Los coeficientes $\binom{n}{k}$ ya aparecieron como número de combinaciones. Aq
 > > 
 > > Al expandir $(a+b)^n = (a+b)(a+b)\cdots(a+b)$, cada término $a^{n-k}b^k$ aparece tantas veces como formas hay de elegir **en cuáles** de los $n$ factores tomamos $b$ (y en los restantes tomamos $a$). Esa cantidad es exactamente $\binom{n}{k}$.
 
-> [!example]- 📝 Ejemplo — Expansión de $(2x - 5y)^6$
+> [!example] 📝 Ejemplo — Expansión de $(2x - 5y)^6$
 > 
 > Aplicamos el teorema con $a = 2x$, $b = -5y$, $n = 6$:
 > 
@@ -82,7 +82,7 @@ Los coeficientes $\binom{n}{k}$ ya aparecieron como número de combinaciones. Aq
 > 
 > > [!abstract]- Demostración Aplicamos el teorema binomial con $a = b = 1$: $$2^n = (1+1)^n = \sum_{k=0}^{n}\binom{n}{k} 1^{n-k} 1^k = \sum_{k=0}^{n}\binom{n}{k} \quad \blacksquare$$
 > 
-> **Interpretación:** La suma de los subconjuntos de tamaño 0, 1, 2, ..., $n$ de un conjunto de $n$ elementos es igual al total de subconjuntos: $2^n$. Esto es consistente con lo visto en el principio de la multiplicación.
+> **Interpretación:** La suma de los subconjuntos de tamaño 0, 1, 2, ..., $n$ de un [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/04 - Cardinalidad y Leyes de Cardinalidad\|Cardinalidad]] de $n$ elementos es igual al total de subconjuntos: $2^n$. Esto es consistente con lo visto en el principio de la multiplicación.
 
 > [!note] 📋 Identidad de Pascal
 > 
@@ -171,7 +171,7 @@ Los coeficientes $\binom{n}{k}$ ya aparecieron como número de combinaciones. Aq
 > 
 > El principio **solo garantiza la existencia** del objeto buscado. No dice cómo encontrarlo ni cuántos hay con esa propiedad. Para aplicarlo, debemos decidir qué objetos hacen el papel de **palomas** y qué objetos el papel de **palomares**.
 
-> [!example]- 📝 Ejemplo 1 — Nombres duplicados
+> [!example] 📝 Ejemplo 1 — Nombres duplicados
 > 
 > **Se sabe que 14 personas tienen nombres de pila de entre {Alicia, María, Luis, Carlos} y apellidos de entre {López, Macías, Moreira}. Demuestre que al menos dos personas tienen el mismo nombre completo.**
 > 
@@ -192,11 +192,11 @@ Los coeficientes $\binom{n}{k}$ ya aparecieron como número de combinaciones. Aq
 > 
 > Es decir, algún valor de $Y$ tiene **al menos $k$ preimágenes** en $X$.
 
-> [!tip]- 💡 ¿Por qué $\lceil n/m \rceil$?
+> [!tip] 💡 ¿Por qué $\lceil n/m \rceil$?
 > 
 > Si ningún palomar tuviera $k$ palomas, cada uno tendría a lo más $k-1$. El total sería a lo sumo $m(k-1) < n$ palomas (por la definición de techo), contradicción. $\blacksquare$
 
-> [!example]- 📝 Ejemplo 2 — Tres personas con el mismo nombre
+> [!example] 📝 Ejemplo 2 — Tres personas con el mismo nombre
 > 
 > **26 personas con nombres de pila de entre {Alfredo, Julio, Mario, Kevin} y apellidos de entre {Domínguez, Galarza, Gaibor}. Demuestre que al menos 3 personas tienen el mismo nombre completo.**
 > 
@@ -207,7 +207,7 @@ Los coeficientes $\binom{n}{k}$ ya aparecieron como número de combinaciones. Aq
 > 
 > Por el principio del palomar generalizado, algún nombre se asigna a al menos **3 personas**. $\blacksquare$
 
-> [!example]- 📝 Ejemplo 3 — Jugadores de basketball
+> [!example] 📝 Ejemplo 3 — Jugadores de basketball
 > 
 > **12 jugadores (numerados 1–12) colocados alrededor del cuadro central. Demuestre que hay 3 jugadores consecutivos cuya suma es al menos 20.**
 > 
@@ -249,12 +249,36 @@ Los coeficientes $\binom{n}{k}$ ya aparecieron como número de combinaciones. Aq
 > 
 > **5.** Demuestre que entre 5 puntos enteros en el plano, siempre hay dos cuyo punto medio también tiene coordenadas enteras.
 
-> [!success]- ✅ Respuestas
+> [!success] ✅ Respuestas
 > 
 > **4.** $n=12$ palomares (meses). Queremos $k=3$: $\lceil n/12 \rceil = 3 \Rightarrow n > 24$, entonces se necesitan al menos $\mathbf{25}$ personas.
 > 
 > **5.** El punto medio de $(x_1,y_1)$ y $(x_2,y_2)$ tiene coordenadas enteras $\iff$ $x_1+x_2$ y $y_1+y_2$ son pares $\iff$ $x_1,x_2$ tienen la misma paridad **y** $y_1,y_2$ tienen la misma paridad. Las paridades posibles de un punto son: (par,par), (par,impar), (impar,par), (impar,impar) → 4 categorías. Con 5 puntos, por el palomar, al menos 2 comparten categoría, y ese par tiene punto medio entero. $\blacksquare$
 
 ---
+
+
+## Metas de Aprendizaje
+
+> [!note] Nivel Básico
+> - [ ] Expando (a+b)^n usando el teorema del binomio.
+> - [ ] Identifico coeficientes binomiales en el triángulo de Pascal.
+> - [ ] Aplico el principio del palomar para probar existencia.
+
+> [!note] Nivel Intermedio
+> - [ ] Resuelvo problemas de conteo usando coeficientes binomiales.
+> - [ ] Aplico el principio del palomar generalizado a problemas de distribución.
+> - [ ] Uso identidades binomiales para simplificar sumatorias.
+
+> [!note] Nivel Avanzado
+> - [ ] Resuelvo identidades binomiales usando el método combinatorio.
+> - [ ] Aplico el principio del palomar a problemas de complejidad computacional.
+> - [ ] Conecto el teorema del binomio con distribuciones de probabilidad.
+
+
+> [!quote] 🔗 Conexiones
+> - Previo: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/05 - Permutaciones y Combinaciones\|05 - Permutaciones y Combinaciones]] — combinaciones
+> - Relacionado: 04 - Recurrencia y Algoritmos — relación con recurrencias
+> - Aplicación: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/01 - Grafos I - Conceptos Básicos y Recorridos\|01 - Grafos I - Conceptos Básicos y Recorridos]]
 
 **Tags:** #matematicas-discretas #conteo #teorema-binomial #identidades #pascal #palomar #combinatoria #MATG1051

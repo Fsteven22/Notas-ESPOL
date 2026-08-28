@@ -30,7 +30,9 @@
 >     style C fill:#e1f5ff
 >     style F fill:#e1ffe1
 >     style G fill:#fff4e1
-> ```
+> 
+    style C fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style E fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
 > 
 > |Tema|Idea central|
 > |---|---|
@@ -45,11 +47,11 @@
 
 > [!note] 🔵 Homogénea vs. No Homogénea
 > 
-> Una relación lineal de orden $k$ con coeficientes constantes tiene la forma:
+> Una [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/02 - Relaciones\|relación]] lineal de orden $k$ con coeficientes constantes tiene la forma:
 > 
 > - **Homogénea**: $$a_n = c_1 a_{n-1} + c_2 a_{n-2} + \cdots + c_k a_{n-k}$$
 >     
-> - **No homogénea** (incluye un término independiente $f(n)$ que no depende de la sucesión): $$a_n = c_1 a_{n-1} + c_2 a_{n-2} + \cdots + c_k a_{n-k} + f(n)$$
+> - **No homogénea** (incluye un término independiente $f(n)$ que no depende de la [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/04 - Sucesiones y Cadenas\|sucesión]]): $$a_n = c_1 a_{n-1} + c_2 a_{n-2} + \cdots + c_k a_{n-k} + f(n)$$
 >     
 > 
 > > [!example]- Ejemplo de cada tipo
@@ -77,7 +79,7 @@
 > 
 > > [!warning] 📌 Por qué funciona
 > > 
-> > Si $t^n$ es solución de la recurrencia, cualquier combinación lineal $b\cdot r_1^n + c\cdot r_2^n$ de dos soluciones también lo es (la recurrencia es lineal). Por eso las raíces de la ecuación característica generan toda la familia de soluciones.
+> > Si $t^n$ es solución de la recurrencia, cualquier [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/05 - Permutaciones y Combinaciones\|combinación]] lineal $b\cdot r_1^n + c\cdot r_2^n$ de dos soluciones también lo es (la recurrencia es lineal). Por eso las raíces de la ecuación característica generan toda la familia de soluciones.
 
 ---
 
@@ -135,26 +137,38 @@
 > > 
 > > $$\boxed{a_n = 3^n + 2n\cdot 3^n}$$
 
-![ChatGPT Image 18 ago 2026, 20_21_32.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2020_21_32.png)
+!ChatGPT Image 18 ago 2026, 20_21_32.png
 
 ---
 
 ## 📊 Resumen Visual
 
 ```mermaid
-mindmap
-  root((Recurrencia<br/>Homogénea))
-    Clasificación
-      Homogénea: sin término independiente
-      No homogénea: con término independiente f de n
-    Ecuación Característica
-      t² - c₁t - c₂ = 0
-      Se obtiene proponiendo aₙ = tⁿ
-    Raíces Distintas
-      aₙ = b·r₁ⁿ + c·r₂ⁿ
-    Raíz Doble
-      aₙ = b·rⁿ + c·n·rⁿ
-      Factor n por independencia lineal
+graph TD
+    A["Recurrencia Homogenea"] --> B["Clasificacion"]
+    A --> C["Ecuacion Caracteristica"]
+    A --> D["Raices Distintas"]
+    A --> E["Raiz Doble"]
+    B --> B1["Homogenea: sin termino independiente"]
+    B --> B2["No homogenea: con termino independiente f de n"]
+    C --> C1["t2 - c1 t - c2 = 0"]
+    C --> C2["Se obtiene proponiendo an = tn"]
+    D --> D1["an = b r1n + c r2n"]
+    E --> E1["an = b rn + c n rn"]
+    E --> E2["Factor n por independencia lineal"]
+    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style C1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style D1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style E fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style E1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style E2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+
 ```
 
 ---
@@ -170,5 +184,29 @@ mindmap
 > [3] R. Johnsonbaugh, _Discrete Mathematics_, 8th ed. Hoboken, NJ, USA: Pearson, 2018, pp. 389–397.
 
 ---
+
+
+## Metas de Aprendizaje
+
+> [!note] Nivel Básico
+> - [ ] Escribo la ecuación característica de una recurrencia homogénea.
+> - [ ] Resuelvo recurrencias con raíces reales distintas.
+> - [ ] Aplico condiciones iniciales para encontrar constantes.
+
+> [!note] Nivel Intermedio
+> - [ ] Resuelvo recurrencias con raíces repetidas (caso especial).
+> - [ ] Resuelvo recurrencias con raíces complejas.
+> - [ ] Verifico la solución sustituyendo en la recurrencia original.
+
+> [!note] Nivel Avanzado
+> - [ ] Resuelvo sistemas de recurrencias acopladas.
+> - [ ] Aplico transformadas Z a recurrencias lineales.
+> - [ ] Analizo estabilidad de recurrencias según las raíces características.
+
+
+> [!quote] 🔗 Conexiones
+> - Previo: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/01 - Relaciones de Recurrencia\|01 - Relaciones de Recurrencia]] — definición
+> - Relacionado: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/04 - Análisis de Algoritmos I - Fundamentos y Funciones Matemáticas\|04 - Análisis de Algoritmos I - Fundamentos y Funciones Matemáticas]] — complejidad
+> - Aplicación: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/05 - Análisis de Algoritmos II - Pseudocódigo y Tiempo Real\|05 - Análisis de Algoritmos II - Pseudocódigo y Tiempo Real]]
 
 **Tags:** #recurrencia #recurrenciahomogenea #ecuacioncaracteristica #raicesdistintas #raizdoble #MATG1051 #unidad4 #ESPOL

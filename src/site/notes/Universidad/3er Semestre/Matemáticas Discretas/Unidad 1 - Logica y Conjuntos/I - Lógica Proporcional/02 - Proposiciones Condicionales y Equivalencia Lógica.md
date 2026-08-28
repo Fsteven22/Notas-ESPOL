@@ -238,7 +238,7 @@
 > |Distributiva $\vee$ sobre $\wedge$|$p \vee (q \wedge r) \equiv (p \vee q) \wedge (p \vee r)$|
 > |Distributiva $\wedge$ sobre $\vee$|$p \wedge (q \vee r) \equiv (p \wedge q) \vee (p \wedge r)$|
 > 
-> ### Leyes de De Morgan
+> ### [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/II - Álgebra Proposicional/01 - Algebra de Proposiciones\|Leyes de De Morgan]]
 > 
 > |Ley|Expresión|
 > |---|---|
@@ -328,7 +328,7 @@
 > |Nombre|Expresión|
 > |---|---|
 > |Tercio excluido|$p \vee \neg p$|
-> |Modus Ponens|$(p \wedge (p \rightarrow q)) \rightarrow q$|
+> |[[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/III - Razonamiento Inductivo/01 - Reglas de Inferencia\|Modus Ponens]]|$(p \wedge (p \rightarrow q)) \rightarrow q$|
 > |Modus Tollens|$(\neg q \wedge (p \rightarrow q)) \rightarrow \neg p$|
 > |Silogismo hipotético|$((p \rightarrow q) \wedge (q \rightarrow r)) \rightarrow (p \rightarrow r)$|
 > |Adición|$p \rightarrow (p \vee q)$|
@@ -382,14 +382,21 @@ graph TD
     D --> D1["p → q ≡ ¬p ∨ q"]
     D --> D2["¬(p → q) ≡ p ∧ ¬q"]
     D --> D3["p ↔ q ≡ (p→q) ∧ (q→p)"]
+    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B4 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style C1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style D1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style D2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style D3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
 
-    style A fill:#e1f5ff
-    style C1 fill:#ffe1e1
-    style C2 fill:#ffe1e1
-    style C3 fill:#e1ffe1
-    style D1 fill:#fff4e1
-    style D2 fill:#fff4e1
-    style D3 fill:#fff4e1
 ```
 
 ---
@@ -397,26 +404,43 @@ graph TD
 ## 📊 Resumen de Equivalencias Clave
 
 ```mermaid
-mindmap
-  root((Equivalencia<br/>Lógica))
-    Condicional
-      p→q ≡ ¬p∨q
-      ¬(p→q) ≡ p∧¬q
-      Contrarrecíproco
-        p→q ≡ ¬q→¬p
-      Recíproco
-        q→p NO equiv.
-    Bicondicional
-      p↔q ≡ (p→q)∧(q→p)
-    Leyes De Morgan
-      ¬(p∨q) ≡ ¬p∧¬q
-      ¬(p∧q) ≡ ¬p∨¬q
-    Tautologías
-      p∨¬p siempre V
-      Modus Ponens
-      Modus Tollens
-    Contradicciones
-      p∧¬p siempre F
+graph TD
+    A["Equivalencia Logica"] --> B["Condicional"]
+    A --> C["Bicondicional"]
+    A --> D["Leyes De Morgan"]
+    A --> E["Tautologias"]
+    A --> F["Contradicciones"]
+    B --> B1["p->q = no p o q"]
+    B --> B2["no p->q = p y no q"]
+    B --> B3["Contrarreciproco"]
+    B --> B4["Reciproco: q->p NO equiv"]
+    B3 --> B31["p->q = no q -> no p"]
+    C --> C1["p<->q = p->q y q->p"]
+    D --> D1["no p o q = no p y no q"]
+    D --> D2["no p y q = no p o no q"]
+    E --> E1["p o no p siempre V"]
+    E --> E2["Modus Ponens"]
+    E --> E3["Modus Tollens"]
+    F --> F1["p y no p siempre F"]
+    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B3 fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style B31 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B4 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style C1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style D1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style D2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style E fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style E1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style E2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style E3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style F fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style F1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+
 ```
 
 ---

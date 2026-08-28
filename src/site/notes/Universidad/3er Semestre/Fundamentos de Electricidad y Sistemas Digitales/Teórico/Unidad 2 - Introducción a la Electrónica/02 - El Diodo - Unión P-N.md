@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/universidad/3er-semestre/fundamentos-de-electricidad-y-sistemas-digitales/teorico/unidad-2-introduccion-a-la-electronica/02-el-diodo-union-p-n/","dg-note-properties":{}}
 ---
 
+
 # 🔌 El Diodo — Unión P-N
 
 ## 🎯 Introducción
@@ -42,17 +43,11 @@
 > **Efecto:**
 > 
 > - La región de vaciamiento se **ensancha**.
->     
 > - La barrera de potencial aumenta.
->     
 > - $I_{mayoritarios} = 0$ — los portadores mayoritarios no pueden cruzar.
->     
 > - Solo circula una corriente mínima de saturación inversa $I_S$ (del orden de $\mu A$), causada por portadores minoritarios activados térmicamente.
->     
 > 
 > > 📌 $I_S$ del silicio es mucho menor que $I_S$ del germanio — el Si es mejor para bloquear corriente inversa.
-> 
-> Además existe una **corriente superficial de fuga** ($I_{sup\ fuga}$) dependiente de la polarización.
 
 > [!warning] ⚡ Polarización directa
 > 
@@ -152,47 +147,25 @@
 > |**7**|$I_{R_3} = \dfrac{4\text{ V}}{1\text{ k}\Omega} = 4\text{ mA}$ → corriente que pasa por $R_3$|
 > 
 > > 📌 Verificación: el ánodo está a $4\text{ V}$ y el cátodo también (cortocircuito ideal) → polarización directa confirmada ✅
-> 
-> **Circuito (c):** $V_S = 12\text{ V}$, $R = 2\text{ k}\Omega$, diodo ideal, $R_L = 1\text{ k}\Omega$.
-> 
-> |Paso|Acción|
-> |---|---|
-> |**1**|Polarización directa → diodo = cortocircuito|
-> |**2**|$I = \dfrac{12}{2000 + 1000} = 4\text{ mA}$|
-> |**3**|$V_{R_L} = 4\text{ mA} \times 1\text{ k}\Omega = 4\text{ V}$|
 
-> [!example]- ✏️ Ejercicio 1b — Mismos circuitos con segunda aproximación ($V_D = 0.7\text{ V}$)
-> 
-> Con la **segunda aproximación**, el diodo en directa se modela como una fuente de $0.7\text{ V}$ en serie (no como cortocircuito). En inversa sigue siendo circuito abierto.
-> 
-> **Circuito (a) — 2ª aprox:** $V_S = 10\text{ V}$, diodo Si, $R_L = 1\text{ k}\Omega$.
-> 
-> |Paso|Acción|
-> |---|---|
-> |**1**|$V_S > V_{umbral}$ → diodo conduce|
-> |**2**|$V_D = 0.7\text{ V}$ (caída fija en directa)|
-> |**3**|$V_{R_L} = V_S - V_D = 10 - 0.7 = 9.3\text{ V}$|
-> |**4**|$I_L = \dfrac{9.3}{1000} = 9.3\text{ mA}$|
-> 
-> **Circuito (b) — 2ª aprox:** $V_S = 36\text{ V}$, $R_1 = 6\text{ k}\Omega$, $R_2 = 3\text{ k}\Omega$, $R_3 = 1\text{ k}\Omega$.
-> 
-> |Paso|Acción|
-> |---|---|
-> |**1**|Diodo conduce → reemplazar por fuente de $0.7\text{ V}$|
-> |**2**|$R_{2\|3} = 0.75\text{ k}\Omega$ (igual que antes)|
-> |**3**|$V_{disponible} = 36 - 0.7 = 35.3\text{ V}$|
-> |**4**|$I_{total} = \dfrac{35.3}{6750} \approx 5.23\text{ mA}$|
-> |**5**|$V_{R_{2\|3}} = 5.23\text{ mA} \times 750\ \Omega \approx 3.92\text{ V}$|
-> 
-> **Circuito (c) — 2ª aprox:** $V_S = 12\text{ V}$, $R = 2\text{ k}\Omega$, $R_L = 1\text{ k}\Omega$.
-> 
-> |Paso|Acción|
-> |---|---|
-> |**1**|$V_{disponible} = 12 - 0.7 = 11.3\text{ V}$|
-> |**2**|$I = \dfrac{11.3}{3000} \approx 3.77\text{ mA}$|
-> |**3**|$V_{R_L} = 3.77\text{ mA} \times 1\text{ k}\Omega \approx 3.77\text{ V}$|
-> 
-> > 📌 **Comparación clave:** la diferencia entre modelo ideal y 2ª aproximación es pequeña cuando $V_S \gg 0.7\text{ V}$, pero se vuelve significativa en circuitos de bajo voltaje.
+---
+
+## Metas de Aprendizaje
+
+> [!note] Nivel Basico
+> - [ ] Describo la union P-N, la region de vaciamiento y Vbarrera (0.7 V Si, 0.3 V Ge).
+> - [ ] Distingo polarizacion directa (vaciamiento se reduce, conduce) vs inversa (se ensancha, Is).
+> - [ ] Identifico anodo (P) y catodo (N) y el sentido convencional de corriente.
+
+> [!note] Nivel Intermedio
+> - [ ] Interpreto la curva I-V en sus 3 zonas (directa exponencial, inversa ~-Is, ruptura) y ubico Zener.
+> - [ ] Aplico modelo ideal (0 V) y 2a aproximacion (0.7 V) para calcular IL en un circuito con diodo.
+> - [ ] Diferencio diodo rectificador, Zener, LED y varicap por aplicacion.
+
+> [!note] Nivel Avanzado
+> - [ ] Resuelvo un circuito con 2-3 resistencias y diodo determinando si conduce antes de calcular.
+> - [ ] Justifico por que Is(Si) << Is(Ge) y que implica en bloqueo inverso.
+> - [ ] Predigo el comportamiento en ruptura y por que solo el Zener esta disenado para operar ahi.
 
 ---
 
@@ -218,13 +191,17 @@ mindmap
 > [1] A. Sedra y K. Smith, _Microelectronic Circuits_, 7th ed. New York, USA: Oxford University Press, 2015, pp. 139–220.
 > 
 > [2] R. L. Boylestad y L. Nashelsky, _Electrónica: Teoría de Circuitos y Dispositivos Electrónicos_, 10th ed. México: Pearson, 2009, pp. 1–80.
-> 
-> [5] Ph.D. Carlos Salazar López, _Clase 1 — Diodos_, EYAG1037. Guayaquil, Ecuador: ESPOL — FIEC, 2026.
 
 > [!quote] 🔗 Conexiones
 > 
 > - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/01 - Semiconductores y Bandas de Energía\|01 - Semiconductores y Bandas de Energía]] — fundamento de la unión P-N.
 > - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/03 - Transistor BJT\|03 - Transistor BJT]] — dos uniones P-N combinadas forman el transistor.
+
+
+> [!quote] 🔗 Conexiones
+> - Previo: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/01 - Semiconductores y Bandas de Energía\|01 - Semiconductores y Bandas de Energía]] — base fisica
+> - Siguiente: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/03 - Transistor BJT\|03 - Transistor BJT]] — dos uniones P-N
+> - Adelante: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/06 - Ruido Electrónico e Interferencia\|06 - Ruido Electrónico e Interferencia]] y [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/04 - Circuitos de Filtrado y Fuentes Lineales\|04 - Circuitos de Filtrado y Fuentes Lineales]]
 
 ---
 

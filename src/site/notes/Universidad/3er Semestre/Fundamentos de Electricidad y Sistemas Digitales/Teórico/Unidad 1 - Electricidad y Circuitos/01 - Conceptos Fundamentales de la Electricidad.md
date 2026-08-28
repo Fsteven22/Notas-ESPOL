@@ -286,6 +286,25 @@ mindmap
 
 ---
 
+## ✅ Metas de Aprendizaje
+
+> [!note] 🎯 Nivel Basico
+> - [ ] Explico que es la carga electrica y su unidad (culombio) y calculo Q = n·e.
+> - [ ] Distingo voltaje, corriente y resistencia con sus unidades (V, A, ohm) y la analogia hidraulica.
+> - [ ] Enuncio la Ley de Coulomb y predigo si la fuerza es atractiva o repulsiva segun el signo.
+
+> [!note] 🎯 Nivel Intermedio
+> - [ ] Calculo la fuerza entre dos cargas puntuales con F = Ke·|q1·q2|/r2 y el campo E = Ke·Q/r2.
+> - [ ] Diferencio energia potencial U, potencial V y diferencia de potencial deltaV = W/q.
+> - [ ] Explico la direccion de las lineas de campo y que es un campo uniforme entre placas paralelas.
+
+> [!note] 🎯 Nivel Avanzado
+> - [ ] Resuelvo un problema completo que combine Coulomb, campo y potencial en un sistema de cargas.
+> - [ ] Relaciono I = Q/t con el flujo de electrones y distingo DC vs AC en aplicaciones reales.
+> - [ ] Justifico la diferencia entre electronica y electricidad segun su enfoque y componentes.
+
+---
+
 ## 📚 Referencias
 
 > [!quote] 📖 Fuentes consultadas
@@ -299,6 +318,10 @@ mindmap
 > [4] C. K. Alexander y M. N. O. Sadiku, _Fundamentals of Electric Circuits_, 6th ed. New York, USA: McGraw-Hill, 2016, pp. 1–38.
 > 
 > [5] R. L. Boylestad, _Introductory Circuit Analysis_, 13th ed. Hoboken, NJ, USA: Pearson, 2016, pp. 1–55.
+
+> [!quote] 🔗 Conexiones
+> - Siguiente: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 1 - Electricidad y Circuitos/02 - Principios de Generacion de Energia Electrica\|02 - Principios de Generacion de Energia Electrica]] — de la carga al generador
+> - Relacionado: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 1 - Electricidad y Circuitos/03 - Elementos Basicos de un Circuito Electrico\|03 - Elementos Basicos de un Circuito Electrico]] y [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 1 - Electricidad y Circuitos/05 - Leyes de Ohm y Kirchhoff\|05 - Leyes de Ohm y Kirchhoff]] — aplicas Coulomb y campo en circuitos
 
 ---
 

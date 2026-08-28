@@ -56,7 +56,7 @@
 > > 
 > > **Demostración:** Por el principio de la multiplicación: $n$ opciones para la 1ª posición, $n-1$ para la 2ª, ..., $1$ para la última. $\blacksquare$
 
-> [!example]- 📝 Ejemplo 1 — Subcadena fija (DEF juntas en orden)
+> [!example] 📝 Ejemplo 1 — Subcadena fija (DEF juntas en orden)
 > 
 > **¿Cuántas permutaciones de ABCDEF contienen la subcadena DEF?**
 > 
@@ -64,7 +64,7 @@
 > 
 > $$4! = \mathbf{24}$$
 
-> [!example]- 📝 Ejemplo 2 — Subcadena en cualquier orden
+> [!example] 📝 Ejemplo 2 — Subcadena en cualquier orden
 > 
 > **¿Cuántas permutaciones de ABCDEF contienen D, E, F juntas en cualquier orden?**
 > 
@@ -73,7 +73,7 @@
 > 
 > $$4! \cdot 3! = 24 \cdot 6 = \mathbf{144}$$
 
-> [!example]- 📝 Ejemplo 3 — Mesa circular
+> [!example] 📝 Ejemplo 3 — Mesa circular
 > 
 > **¿De cuántas maneras se pueden sentar 6 personas alrededor de una mesa circular?**
 > 
@@ -102,7 +102,7 @@
 > - Permutación de $n$: ordena **todos** los elementos → $n!$
 > - Permutación $r$ de $n$: ordena solo **$r$ de los $n$** → $P(n,r) = \dfrac{n!}{(n-r)!}$
 
-> [!example]- 📝 Ejemplo — 2-arreglos de {a,b,c}
+> [!example] 📝 Ejemplo — 2-arreglos de {a,b,c}
 > 
 > Las permutaciones 2 de ${a,b,c}$ son (el orden importa, $ab \neq ba$):
 > 
@@ -110,13 +110,13 @@
 > 
 > $$P(3,2) = \frac{3!}{(3-2)!} = \frac{6}{1} = 6 \checkmark$$
 
-> [!example]- 📝 Ejemplo — Cargos directivos
+> [!example] 📝 Ejemplo — Cargos directivos
 > 
 > **¿De cuántas maneras se puede elegir presidente, vicepresidente, secretario y tesorero de un grupo de 9 personas?**
 > 
 > El orden importa (los cargos son distintos). Es un 4-arreglo de 9: $$P(9, 4) = 9 \cdot 8 \cdot 7 \cdot 6 = \mathbf{3024}$$
 
-> [!example]- 📝 Ejemplo — Ingleses y franceses en fila
+> [!example] 📝 Ejemplo — Ingleses y franceses en fila
 > 
 > **¿De cuántas maneras pueden hacer fila 6 ingleses y 3 franceses si ningún par de franceses puede estar adyacente?**
 > 
@@ -146,13 +146,13 @@
 
 > [!note] 📋 Definición — Permutación con repetición
 > 
-> Dada una sucesión de $n$ elementos con $k_1$ objetos del tipo 1, $k_2$ del tipo 2, ..., $k_r$ del tipo $r$ (donde $n = k_1 + k_2 + \cdots + k_r$), el número de **ordenamientos distintos** es:
+> Dada una [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/04 - Sucesiones y Cadenas\|sucesión]] de $n$ elementos con $k_1$ objetos del tipo 1, $k_2$ del tipo 2, ..., $k_r$ del tipo $r$ (donde $n = k_1 + k_2 + \cdots + k_r$), el número de **ordenamientos distintos** es:
 > 
 > $$\frac{n!}{k_1!, k_2!, \cdots, k_r!}$$
 > 
 > Se divide por los factoriales de las multiplicidades para eliminar los ordenamientos repetidos.
 
-> [!example]- 📝 Ejemplo — Letras de MATEMATICA
+> [!example] 📝 Ejemplo — Letras de MATEMATICA
 > 
 > **¿Cuántas cadenas distintas se pueden formar con las letras de MATEMATICA?**
 > 
@@ -170,7 +170,7 @@
 > 
 > $$\frac{10!}{2!\cdot 3!\cdot 2!\cdot 1!\cdot 1!\cdot 1!} = \frac{3{,}628{,}800}{2 \cdot 6 \cdot 2} = \mathbf{151{,}200}$$
 
-> [!example]- 📝 Ejemplo — Distribución de libros
+> [!example] 📝 Ejemplo — Distribución de libros
 > 
 > **¿De cuántas maneras se pueden dividir 8 libros entre Brenda (4), Samuel (2) y Mariana (2)?**
 > 
@@ -199,11 +199,11 @@
 > |Fórmula|$\dfrac{n!}{(n-r)!}$|$\dfrac{n!}{(n-r)!,r!}$|
 > |Ejemplo con $n=4, r=2$|$4\cdot3=12$|$\dfrac{4\cdot3}{2}=6$|
 
-> [!example]- 📝 Ejemplo — Manos de póquer
+> [!example] 📝 Ejemplo — Manos de póquer
 > 
 > **1. ¿Cuántas manos de 5 cartas hay en una baraja de 52?**
 > 
-> El orden no importa (una mano es un conjunto de cartas): $$\binom{52}{5} = \frac{52!}{47!\cdot 5!} = \mathbf{2{,}598{,}960}$$
+> El orden no importa (una mano es un [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/01 - Conjuntos, Cardinalidad y Subconjuntos\|conjunto]] de cartas): $$\binom{52}{5} = \frac{52!}{47!\cdot 5!} = \mathbf{2{,}598{,}960}$$
 > 
 > **2. ¿Cuántas manos tienen todas las cartas del mismo palo (color)?**
 > 
@@ -221,7 +221,7 @@
 > 
 > $$13 \cdot 12 \cdot \binom{4}{3} \cdot \binom{4}{2} = 13 \cdot 12 \cdot 4 \cdot 6 = \mathbf{3744}$$
 
-> [!example]- 📝 Ejemplo — Rutas en tablero $n \times n$
+> [!example] 📝 Ejemplo — Rutas en tablero $n \times n$
 > 
 > **¿Cuántas rutas hay de la esquina inferior izquierda a la superior derecha de un tablero $n \times n$, moviéndose solo a la derecha (D) o hacia arriba (A)?**
 > 
@@ -255,7 +255,7 @@
 > 
 > > [!abstract] Teorema El número de combinaciones con repetición de $n$ tipos tomados de $r$ en $r$ es: $$\binom{n+r-1}{r} = \binom{n+r-1}{n-1}$$
 
-> [!example]- 📝 Ejemplo — Combinaciones con rep. de {a,b,c}
+> [!example] 📝 Ejemplo — Combinaciones con rep. de {a,b,c}
 > 
 > Las combinaciones con repetición de ${a,b,c}$ tomadas de 2 en 2 ($n=3$, $r=2$):
 > 
@@ -263,7 +263,7 @@
 > 
 > $$\binom{3+2-1}{2} = \binom{4}{2} = \mathbf{6} \checkmark$$
 
-> [!example]- 📝 Ejemplo — Pelotas de colores
+> [!example] 📝 Ejemplo — Pelotas de colores
 > 
 > **Hay 4 pilas (roja, azul, verde, blanca) con al menos 9 pelotas cada una.**
 > 
@@ -277,7 +277,7 @@
 > 
 > $$\binom{4+5-1}{5} = \binom{8}{5} = \binom{8}{3} = \mathbf{56}$$
 
-> [!example]- 📝 Ejemplo — Soluciones enteras no negativas
+> [!example] 📝 Ejemplo — Soluciones enteras no negativas
 > 
 > **¿Cuántas soluciones en enteros no negativos tiene $x_1 + x_2 + x_3 = 12$?**
 > 
@@ -312,7 +312,7 @@
 > 
 > **4.** ¿Cuántas soluciones enteras no negativas tiene $x_1 + x_2 + x_3 + x_4 = 10$?
 
-> [!success]- ✅ Respuestas
+> [!success] ✅ Respuestas
 > 
 > **1.** CÁLCULO tiene 7 letras: C×2, Á×1, L×2, U×1, O×1. Total: $\dfrac{7!}{2!\cdot2!} = \dfrac{5040}{4} = \mathbf{1260}$.
 > 
@@ -323,5 +323,29 @@
 > **4.** Con $n=4$ variables y $r=10$: $\binom{10+4-1}{10} = \binom{13}{3} = \mathbf{286}$.
 
 ---
+
+
+## Metas de Aprendizaje
+
+> [!note] Nivel Básico
+> - [ ] Calculo permutaciones P(n,r) = n!/(n-r)!
+> - [ ] Calculo combinaciones C(n,r) = n!/(r!(n-r)!).
+> - [ ] Distinguo cuándo importa el orden (permutación) vs cuándo no (combinación).
+
+> [!note] Nivel Intermedio
+> - [ ] Resuelvo problemas de permutaciones con elementos repetidos.
+> - [ ] Aplico combinaciones con restricciones (selección sin reemplazo).
+> - [ ] Uso identidades de Pascal para simplificar cálculos.
+
+> [!note] Nivel Avanzado
+> - [ ] Resuelvo problemas de distribución de objetos en categorías.
+> - [ ] Aplico el principio de inclusión-exclusión a permutaciones con restricciones.
+> - [ ] Conecto combinaciones con el triángulo de Pascal y el teorema del binomio.
+
+
+> [!quote] 🔗 Conexiones
+> - Previo: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/04 - Principios de Multiplicación y Suma\|04 - Principios de Multiplicación y Suma]] — fundamentos
+> - Siguiente: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/06 - Teorema del Binomio y Principio del Palomar\|06 - Teorema del Binomio y Principio del Palomar]]
+> - Relacionado: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/04 - Cardinalidad y Leyes de Cardinalidad\|04 - Cardinalidad y Leyes de Cardinalidad]]
 
 **Tags:** #matematicas-discretas #conteo #permutaciones #combinaciones #combinatoria #MATG1051

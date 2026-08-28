@@ -35,7 +35,16 @@
 >     style G fill:#fff4e1
 >     style H fill:#e1ffe1
 >     style I fill:#f5e1ff
-> ```
+> 
+    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style D fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style E fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style G fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style H fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style I fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
 > 
 > |Concepto|Fórmula clave|
 > |---|---|
@@ -70,7 +79,7 @@
 > 
 > $$\text{mcd}(360,156) = 12$$
 > 
-> No necesitas factorizar nada ni buscar primos. Solo "divide, toma el residuo, baja una fila, repite". Es exactamente el mismo procedimiento que verás abajo en "⚙️ Algoritmo de Euclides", solo que aquí está sin el lenguaje formal de $n = dq+r$.
+> No necesitas factorizar nada ni buscar primos. Solo "divide, toma el residuo, baja una fila, repite". Es exactamente el mismo procedimiento que verás abajo en "⚙️ Algoritmo de Euclides", solo que aquí está sin el [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 6 - Lenguajes y Autómatas/02 - Autómatas de Estado Finito - Diseño y Aceptación de Cadenas\|lenguaje formal]] de $n = dq+r$.
 > 
 > **Analogía para recordarlo:** imagina una regla de 360cm y otra de 156cm, y quieres la regla más chica posible que mida un número exacto de veces a ambas. La regla chica "cabe" un par de veces en la grande y sobra un pedazo (eso es la división). Repites el mismo juego con ese pedazo sobrante y la regla anterior. Cuando ya no sobra nada, la última medida que usaste es tu respuesta.
 
@@ -207,7 +216,7 @@
 > 
 > ### Principio del Buen Orden
 > 
-> **Teorema.** Todo conjunto no vacío de enteros no negativos tiene un elemento mínimo.
+> **Teorema.** Todo [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/04 - Cardinalidad y Leyes de Cardinalidad\|Cardinalidad]] no vacío de enteros no negativos tiene un elemento mínimo.
 > 
 > Este axioma es equivalente a los principios de inducción y es la base teórica del Algoritmo de la División.
 > 
@@ -265,7 +274,9 @@
 >     style P2 fill:#e1f5ff
 >     style P4 fill:#e1ffe1
 >     style P5 fill:#fff4e1
-> ```
+> 
+    style P2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style P5 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
 > 
 > ---
 > 
@@ -332,30 +343,45 @@
 ## 📊 Resumen Visual
 
 ```mermaid
-mindmap
-  root((MCD, MCM y<br/>Euclides))
-    MCD
-      Divisor común más grande
-      Factorización: mínimos exponentes
-      Algoritmo de Euclides
-      
-    MCM
-      Múltiplo común más pequeño
-      Factorización: máximos exponentes
-      
-    Algoritmo de Euclides
-      
-      Divisiones sucesivas
-      Termina cuando r = 0
-      Eficiente para números grandes
-    Algoritmo de la División
-      n = d·q + r con 0 ≤ r < d
-      Cociente q y residuo r únicos
-      n mod d = r
-    Principio del Buen Orden
-      Todo subconjunto no vacío de ℕ tiene mínimo
-      Base del Algoritmo de la División
-      Equivalente a inducción
+graph TD
+    A["MCD, MCM y Euclides"] --> B["MCD"]
+    A --> C["MCM"]
+    A --> D["Algoritmo de Euclides"]
+    A --> E["Algoritmo de la Division"]
+    A --> F["Principio del Buen Orden"]
+    B --> B1["Divisor comun mas grande"]
+    B --> B2["Factorizacion: minimos exponentes"]
+    C --> C1["Multiplo comun mas pequeno"]
+    C --> C2["Factorizacion: maximos exponentes"]
+    D --> D1["Divisiones sucesivas"]
+    D --> D2["Termina cuando r = 0"]
+    D --> D3["Eficiente para numeros grandes"]
+    E --> E1["n = d q + r con 0 <= r < d"]
+    E --> E2["Cociente q y residuo r unicos"]
+    E --> E3["n mod d = r"]
+    F --> F1["Todo subconjunto no vacio tiene minimo"]
+    F --> F2["Base del Algoritmo de la Division"]
+    F --> F3["Equivalente a induccion"]
+    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style C1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style D1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style D2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style D3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style E fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style E1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style E2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style E3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style F fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style F1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style F2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style F3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+
 ```
 
 ---
@@ -371,5 +397,29 @@ mindmap
 > [3] R. Johnsonbaugh, _Discrete Mathematics_, 8th ed. Hoboken, NJ, USA: Pearson, 2018, pp. 231–255.
 
 ---
+
+
+## Metas de Aprendizaje
+
+> [!note] Nivel Básico
+> - [ ] Calculo MCD y MCM de dos números por descomposición en primos.
+> - [ ] Aplico el algoritmo de Euclides para hallar MCD.
+> - [ ] Verifico que MCD(a,b) × LCM(a,b) = a × b.
+
+> [!note] Nivel Intermedio
+> - [ ] Uso el algoritmo de Euclides extendido para hallar coeficientes de Bézout.
+> - [ ] Resuelvo ecuaciones diofantineas lineales ax + by = c.
+> - [ ] Calculo MCD y MCM de más de dos números.
+
+> [!note] Nivel Avanzado
+> - [ ] Aplico el algoritmo de Euclides extendido para calcular inversos modulares.
+> - [ ] Resuelvo sistemas de congruencias usando el teorema chino del residuo.
+> - [ ] Analizo la complejidad temporal del algoritmo de Euclides.
+
+
+> [!quote] 🔗 Conexiones
+> - Previo: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/01 - Divisibilidad y Números Primos\|01 - Divisibilidad y Números Primos]] — divisibilidad
+> - Siguiente: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/03 - Criterios de Divisibilidad y Sistemas de Numeración\|03 - Criterios de Divisibilidad y Sistemas de Numeración]]
+> - Relacionado: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/04 - Principios de Multiplicación y Suma\|04 - Principios de Multiplicación y Suma]] — conteo
 
 **Tags:** #MCD #MCM #euclides #algoritmo #division #modulo #factorizacion #teoria-de-numeros #MATG1051 #unidad3 #ESPOL

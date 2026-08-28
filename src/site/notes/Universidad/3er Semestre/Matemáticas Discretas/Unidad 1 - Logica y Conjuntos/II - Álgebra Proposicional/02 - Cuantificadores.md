@@ -313,11 +313,16 @@ graph TD
     B --> H[Cuantificadores Anidados]
     C --> H
     H --> I[∀∀ ∀∃ ∃∀ ∃∃]
+    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style E fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style G fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style H fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style I fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
     
-    style A fill:#1e3a5f,color:#fff
-    style B fill:#2d6a4f,color:#fff
-    style C fill:#6a2d2d,color:#fff
-    style H fill:#4a2d6a,color:#fff
 ```
 
 ---

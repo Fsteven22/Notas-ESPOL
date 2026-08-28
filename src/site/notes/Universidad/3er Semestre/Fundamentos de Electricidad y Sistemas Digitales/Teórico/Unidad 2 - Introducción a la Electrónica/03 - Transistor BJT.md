@@ -16,7 +16,7 @@
 > |**Base (B)**|Control|Controla la corriente de colector|
 > |**Colector (C)**|Principal|Por donde entra la corriente principal|
 > |**Emisor (E)**|Salida|Por donde sale la corriente total|
-> 
+
 ---
 
 ## 🧠 ¿Cómo funciona, en palabras simples?
@@ -32,13 +32,13 @@
 > - Cuánto abras la llave (cuánto $I_B$ metas) determina cuánta agua pasa (cuánto $I_C$ circula) — eso es **amplificar**.
 > - Si cierras la llave del todo, no pasa agua (**corte**). Si la abres al máximo, pasa todo lo que la tubería permite (**saturación**).
 > 
-> > 💡 En una unión (Emisor-Base) el transistor está "abierto" a propósito (como un diodo en directa) para que la corriente entre; en la otra unión (Base-Colector) está "cerrado" a propósito (como un diodo en inversa) para que la corriente no se escape por ahí, sino que sea "succionada" hacia el Colector. Esa combinación es lo que le da al transistor su capacidad de control.
+> > 💡 En una unión (Emisor-Base) el transistor está "abierto" a propósito (como un diodo en directa) para que la corriente entre; en la otra unión (Base-Colector) está "cerrado" a propósito (como un diodo en inversa) para que la corriente no se escape por ahí, sino que sea "succionada" hacia el Colector.
 
 ---
 
 ## 🔀 Estructura NPN vs PNP
 
-> [!note] 🔀 Dos "sabores" del mismo dispositivo
+> [!note] 🔀 Dos sabores del mismo dispositivo
 > 
 > El NPN y el PNP funcionan bajo el mismo principio (una corriente pequeña de base controla una corriente grande), pero con los materiales y las corrientes invertidas entre sí.
 > 
@@ -54,8 +54,6 @@
 > 
 > - **NPN:** "**N**ot **P**ointing i**N**" → la flecha **no apunta hacia adentro** (sale de la base).
 > - **PNP:** la flecha **sí apunta hacia adentro** (entra hacia la base).
-> 
-> > 📌 Lo importante conceptualmente: en ambos, la unión Emisor-Base siempre está en directa (para que fluya la corriente de control) y la unión Base-Colector siempre está en inversa (para que el colector "atrape" esa corriente en vez de dejarla pasar directo a la base). Lo único que cambia entre NPN y PNP es el sentido de las corrientes y las polaridades de voltaje necesarias para lograrlo.
 
 ---
 
@@ -63,13 +61,13 @@
 
 > [!note] 📐 Ecuaciones base
 > 
-> En números: toda la corriente que entra por el Emisor sale repartida entre Base y Colector. Y mientras el transistor está "amplificando" (región activa), la corriente de Colector es simplemente $\beta$ veces la de Base — así de directo es el control.
+> En números: toda la corriente que entra por el Emisor sale repartida entre Base y Colector. Y mientras el transistor está "amplificando" (región activa), la corriente de Colector es simplemente beta veces la de Base.
 > 
 > $$\boxed{I_E = I_C + I_B} \quad \text{(siempre — KCL)}$$
 > 
-> $$\boxed{I_C = \beta \cdot I_B} \quad \text{(solo en zona activa)}$$
+> $$\boxed{I_C = beta \cdot I_B} \quad \text{(solo en zona activa)}$$
 > 
-> Donde $\beta$ es la **ganancia de corriente** (típicamente entre 20 y 500).
+> Donde beta es la **ganancia de corriente** (típicamente entre 20 y 500).
 
 ---
 
@@ -81,9 +79,9 @@
 > 
 > ```mermaid
 > graph TD
->     A{Estado del<br/>transistor} --> B[CORTE<br/>Ib = 0<br/>Ic ≈ 0<br/>Vce = Vcc]
->     A --> C[ACTIVA<br/>Ic = β·Ib<br/>Vce variable]
->     A --> D[SATURACIÓN<br/>Ic = Icmáx<br/>Vce ≈ 0]
+>     A{Estado del<br/>transistor} --> B[CORTE<br/>Ib = 0<br/>Ic ~ 0<br/>Vce = Vcc]
+>     A --> C[ACTIVA<br/>Ic = beta·Ib<br/>Vce variable]
+>     A --> D[SATURACION<br/>Ic = Icmax<br/>Vce ~ 0]
 > 
 >     B --> B1[Switch ABIERTO]
 >     C --> C1[AMPLIFICADOR]
@@ -100,8 +98,8 @@
 > |Región|Condición|$I_C$|$V_{CE}$|Uso|
 > |---|---|---|---|---|
 > |**Corte**|$I_B = 0$|$\approx 0$|$V_{CC}$|Switch abierto|
-> |**Activa**|$I_B > 0$, sin saturar|$\beta \cdot I_B$|Variable|Amplificador|
-> |**Saturación**|$I_B$ suficientemente grande|$I_{C_{máx}}$|$\approx 0$|Switch cerrado|
+> |**Activa**|$I_B > 0$, sin saturar|$beta \cdot I_B$|Variable|Amplificador|
+> |**Saturación**|$I_B$ suficientemente grande|$I_{C_{max}}$|$\approx 0$|Switch cerrado|
 
 ---
 
@@ -111,13 +109,13 @@
 > 
 > ```mermaid
 > graph TD
->     P1[1️⃣ Asumir región activa<br/>Ic = β·Ib] --> P2
->     P2[2️⃣ Calcular Ib<br/>con KVL en malla de base] --> P3
->     P3[3️⃣ Calcular Ic = β·Ib] --> P4
->     P4[4️⃣ Calcular Vce<br/>con KVL en malla de colector] --> P5
->     P5{¿Vce > Vce_sat?}
->     P5 -->|Sí| P6[✅ Región ACTIVA confirmada]
->     P5 -->|No| P7[❌ Transistor en SATURACIÓN<br/>Vce = Vce_sat]
+>     P1[1 Asumir region activa<br/>Ic = beta·Ib] --> P2
+>     P2[2 Calcular Ib<br/>con KVL en malla de base] --> P3
+>     P3[3 Calcular Ic = beta·Ib] --> P4
+>     P4[4 Calcular Vce<br/>con KVL en malla de colector] --> P5
+>     P5{Vce > Vce_sat?}
+>     P5 -->|Si| P6[Region ACTIVA confirmada]
+>     P5 -->|No| P7[Transistor en SATURACION<br/>Vce = Vce_sat]
 > 
 >     style P1 fill:#e1f5ff
 >     style P2 fill:#e1ffe1
@@ -131,67 +129,34 @@
 > 
 > - $V_{BEON}$: tensión base-emisor en conducción ($\approx 0.7\text{ V}$ para Si)
 > - $V_{CEsat}$: tensión colector-emisor en saturación ($\approx 0.2\text{ V}$)
-> - $\beta$: ganancia de corriente
+> - beta: ganancia de corriente
 
 > [!tip] 📌 Regla práctica para forzar saturación
 > 
 > Para garantizar que el transistor entre en saturación, la corriente de base debe cumplir:
 > 
-> $$I_B \geq \frac{I_{C(sat)}}{\beta_{forzada}}$$
+> $$I_B >= \frac{I_{C(sat)}}{beta_{forzada}}$$
 > 
-> Donde $\beta_{forzada}$ es un valor reducido (entre 5 y 10) que introduce un **margen de seguridad** — asegura saturación incluso con variaciones de $\beta$ entre transistores.
-> 
-> **Procedimiento:**
-> 
-> |Paso|Acción|
-> |---|---|
-> |**1**|Calcular $I_{C(sat)} = \dfrac{V_{CC} - V_{CEsat}}{R_C}$ (o $R_C + R_E$ si hay emisor)|
-> |**2**|Elegir $\beta_{forzada}$ entre 5 y 10|
-> |**3**|Calcular $I_{B(min)} = \dfrac{I_{C(sat)}}{\beta_{forzada}}$|
-> |**4**|Verificar que el $I_B$ real del circuito sea $\geq I_{B(min)}$|
-> 
-> > 📌 Si usas $\beta_{forzada} = \beta_{real}$ del transistor, estás justo en el límite — cualquier variación podría sacar al transistor de saturación. Por eso se usa un $\beta_{forzada}$ menor.
-
-![ChatGPT Image 20 jun 2026, 21_58_10.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2020%20jun%202026,%2021_58_10.png)
+> Donde $beta_{forzada}$ es un valor reducido (entre 5 y 10) que introduce un **margen de seguridad**.
 
 ---
 
-## 🧪 Ejercicios Prácticos
+## Metas de Aprendizaje
 
-> [!example]- ✏️ Ejercicio 2 — Análisis de transistor (Problema 3.1)
-> 
-> **Dato:** $V_{CC} = 5\text{ V}$, $V_{EE} = -10\text{ V}$, $R_C = 8\text{ k}\Omega$, $R_B = 5\text{ k}\Omega$, $V_{BB} = 1\text{ V}$, $V_{BEON} = 0.7\text{ V}$, $V_{CEsat} = 0.2\text{ V}$, $\beta = 10$.
-> 
-> **Encontrar:** $I_C$ y $V_{CE}$. Indicar región de operación.
-> 
-> |Paso|Acción|
-> |---|---|
-> |**1**|Asumir región activa|
-> |**2**|KVL malla de base: $V_{BB} = I_B \cdot R_B + V_{BEON}$|
-> |**3**|$I_C = \beta \cdot I_B$|
-> |**4**|KVL malla de colector → $V_{CE}$|
-> |**5**|Si $V_{CE} > V_{CEsat}$ → activa ✅; si no → saturación|
+> [!note] Nivel Basico
+> - [ ] Identifico terminales B, C, E y leo la flecha del simbolo para distinguir NPN vs PNP.
+> - [ ] Escribo IE = IC + IB y en activa IC = beta·IB con beta tipico 20-500.
+> - [ ] Distingo corte (IB=0, switch abierto), activa (amplificador) y saturacion (VCE 0.2 V, switch cerrado).
 
-> [!example]- ✏️ Ejercicio 3 — Verificar saturación (Problema 3.2)
-> 
-> **Dato:** $V_{CC} = 10\text{ V}$, $R_B = 200\text{ k}\Omega$, $R_C = 2\text{ k}\Omega$, $R_E = 1\text{ k}\Omega$, $V_{CESAT} = 0.2\text{ V}$, $\beta = 100$, $V_{BE} = 0.7\text{ V}$.
-> 
-> |Paso|Acción|
-> |---|---|
-> |**1**|Calcular $I_B$ desde la malla de base|
-> |**2**|$I_{C_{activa}} = \beta \cdot I_B$|
-> |**3**|$I_{C_{sat}} = \dfrac{V_{CC} - V_{CEsat}}{R_C + R_E}$|
-> |**4**|Si $I_{C_{activa}} > I_{C_{sat}}$ → transistor en **saturación** ✅|
+> [!note] Nivel Intermedio
+> - [ ] Aplico la metodologia de 5 pasos (asumir activa -> KVL base -> IC -> KVL colector -> verificar VCE).
+> - [ ] Calculo ICsat = (VCC-VCEsat)/(RC+RE) y verifico si ICactiva > ICsat para declarar saturacion.
+> - [ ] Aplico la regla de saturacion forzada con beta forzada 5-10 para garantizar margen.
 
-> [!example]- ✏️ Ejercicio 4 — Tensión de entrada para saturación (Problema 3.3)
-> 
-> **Dato:** $V_{CC} = 10\text{ V}$, $R = R_C = R_E$, $V_{BEON} = 0.7\text{ V}$, $V_{CEsat} = 0.2\text{ V}$, $\beta = 300$.
-> 
-> |Paso|Acción|
-> |---|---|
-> |**1**|$I_{C_{sat}} = \dfrac{V_{CC} - V_{CEsat}}{2R}$|
-> |**2**|$I_{B_{min}} = \dfrac{I_{C_{sat}}}{\beta}$|
-> |**3**|KVL malla de base → despejar $V_{IN}$|
+> [!note] Nivel Avanzado
+> - [ ] Diseno la RB o VIN minima para forzar saturacion dado VCC, RC, RE y beta.
+> - [ ] Justifico por que la union EB debe estar en directa y BC en inversa para amplificar.
+> - [ ] Predigo el modo de un BJT en un circuito mixto y uso la analogia de la llave de agua.
 
 ---
 
@@ -200,18 +165,18 @@
 ```mermaid
 mindmap
   root((Transistor BJT))
-    Analogía llave de agua
+    Analogia llave de agua
       Ib abre o cierra
       Ic fluye controlado
     Base Colector Emisor
     NPN vs PNP
-      Flecha del símbolo
-      Polaridades típicas
+      Flecha del simbolo
+      Polaridades tipicas
     Ie = Ic + Ib
-    Ic = β·Ib activa
+    Ic = beta·Ib activa
     Corte switch abierto
     Activa amplificador
-    Saturación switch cerrado
+    Saturacion switch cerrado
 ```
 
 ---
@@ -219,13 +184,17 @@ mindmap
 > [!quote] 📖 Fuentes consultadas
 > 
 > [1] A. Sedra y K. Smith, _Microelectronic Circuits_, 7th ed. New York, USA: Oxford University Press, 2015, pp. 139–220.
-> 
-> [3] A. R. Hambley, _Electrical Engineering: Principles and Applications_, 7th ed. Hoboken, NJ, USA: Pearson, 2018, pp. 440–510.
 
 > [!quote] 🔗 Conexiones
 > 
 > - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/02 - El Diodo - Unión P-N\|02 - El Diodo - Unión P-N]] — el transistor BJT combina dos uniones P-N.
 > - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/01 - Semiconductores y Bandas de Energía\|01 - Semiconductores y Bandas de Energía]] — base física de las regiones N y P.
+
+
+> [!quote] 🔗 Conexiones
+> - Previo: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/02 - El Diodo - Unión P-N\|02 - El Diodo - Unión P-N]] y [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/01 - Semiconductores y Bandas de Energía\|01 - Semiconductores y Bandas de Energía]]
+> - Siguiente: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/04 - Circuitos de Filtrado y Fuentes Lineales\|04 - Circuitos de Filtrado y Fuentes Lineales]] — donde el BJT conmuta
+> - Adelante: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/02 - Aplicaciones de los OPAMs - Minimización de Ruido\|02 - Aplicaciones de los OPAMs - Minimización de Ruido]]
 
 ---
 

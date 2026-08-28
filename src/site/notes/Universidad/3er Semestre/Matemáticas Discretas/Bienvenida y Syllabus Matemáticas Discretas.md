@@ -34,7 +34,7 @@
 >
 > | # | Capacidad |
 > |---|---|
-> | 1 | Utilizar reglas de inferencia y métodos de demostración para validar argumentos |
+> | 1 | Utilizar [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/III - Razonamiento Inductivo/01 - Reglas de Inferencia\|reglas de inferencia]] y métodos de demostración para validar argumentos |
 > | 2 | Aplicar técnicas de conteo para resolver problemas de naturaleza discreta |
 > | 3 | Aplicar conceptos de teoría de conjuntos, grafos y números en estructuras discretas |
 > | 4 | Utilizar algoritmos, grafos y redes para la resolución de problemas discretos |
@@ -101,14 +101,14 @@
 > |---|---|
 > | 1.1 | Proposiciones, conectivos lógicos, tablas de verdad, propiedades y circuitos combinatorios |
 > | 1.2 | Proposiciones condicionales y equivalencia lógica |
-> | 1.3 | Demostraciones por métodos directo, indirecto, resolución e inducción matemática |
-> | 1.4 | Conjunto, subconjunto, producto cartesiano, conjunto potencia, cardinalidad y operaciones |
+> | 1.3 | Demostraciones por métodos directo, indirecto, resolución e [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/III - Razonamiento Inductivo/03 - Inducción Matemática\|inducción matemática]] |
+> | 1.4 | Conjunto, subconjunto, [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/01 - Conjuntos, Cardinalidad y Subconjuntos\|producto cartesiano]], conjunto potencia, cardinalidad y operaciones |
 
 > [!example] 🟢 Unidad II — Funciones, Sucesiones y Relaciones *(5h)*
 >
 > | # | Subunidad |
 > |---|---|
-> | 2.1 | Funciones inyectiva, sobreyectiva, composición de funciones e inversa, aplicaciones |
+> | 2.1 | Funciones inyectiva, sobreyectiva, [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/01 - Funciones\|composición de funciones]] e inversa, aplicaciones |
 > | 2.2 | Relaciones, representación, matriz y digrafo de una relación |
 > | 2.3 | Propiedades, relaciones de equivalencia y de orden parcial |
 > | 2.4 | Sucesiones y cadenas, representación y tipos de sucesiones, notación sigma y producto |
@@ -117,26 +117,26 @@
 >
 > | # | Subunidad |
 > |---|---|
-> | 3.1 | Divisibilidad, algoritmo de la división, números primos y teorema fundamental de la aritmética |
-> | 3.2 | Máximo común divisor (mcd) y mínimo común múltiplo (mcm), sistemas de numeración |
+> | 3.1 | Divisibilidad, algoritmo de la división, números primos y [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/01 - Divisibilidad y Números Primos\|01 - Divisibilidad y Números Primos]] |
+> | 3.2 | [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/02 - MCD, MCM y Algoritmo de Euclides\|Máximo común divisor]] (mcd) y mínimo común múltiplo (mcm), sistemas de numeración |
 > | 3.3 | Principios de la multiplicación y de la suma |
 > | 3.4 | Principio de las casillas, permutaciones y combinaciones |
-> | 3.5 | Combinaciones generalizadas y teorema del binomio |
+> | 3.5 | Combinaciones generalizadas y [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/06 - Teorema del Binomio y Principio del Palomar\|teorema del binomio]] |
 
 > [!example] 🔴 Unidad IV — Relaciones de Recurrencia y Algoritmos *(7h)*
 >
 > | # | Subunidad |
 > |---|---|
 > | 4.1 | Pseudocódigo, algoritmos numéricos simples, promedio, mínimo y máximo |
-> | 4.2 | Análisis de algoritmos, tiempo del mejor caso, peor caso y caso promedio |
+> | 4.2 | Análisis de algoritmos, tiempo del mejor caso, [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/04 - Análisis de Algoritmos I - Fundamentos y Funciones Matemáticas\|peor caso]] y caso promedio |
 > | 4.3 | Relaciones de recurrencia, aplicaciones a problemas discretos |
-> | 4.4 | Resolución de relaciones de recurrencia homogénea de segundo orden |
+> | 4.4 | Resolución de relaciones de [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/02 - Recurrencia Homogénea\|recurrencia homogénea]] de segundo orden |
 
 > [!example] 🟣 Unidad V — Teoría de Grafos, Árboles y Aplicaciones *(12h)*
 >
 > | # | Subunidad |
 > |---|---|
-> | 5.1 | Grafos, subgrafos, isomorfismo de grafos, rutas y ciclos de Euler y Hamilton, grafos ponderados |
+> | 5.1 | Grafos, subgrafos, [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/03 - Grafos III - Isomorfismo\|isomorfismo de grafos]], rutas y ciclos de Euler y Hamilton, grafos ponderados |
 > | 5.2 | Árboles y caracterización, árboles de expansión mínima y binarios, recorridos |
 > | 5.3 | Algoritmo de la ruta más corta, algoritmo del mínimo peso |
 
@@ -145,7 +145,7 @@
 > | # | Subunidad |
 > |---|---|
 > | 6.1 | Circuitos secuenciales y máquinas de estado finito |
-> | 6.2 | Autómata de estado finito, diagrama de transición, cadena de aceptación |
+> | 6.2 | [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 6 - Lenguajes y Autómatas/02 - Autómatas de Estado Finito - Diseño y Aceptación de Cadenas\|Autómata de estado finito]], [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 6 - Lenguajes y Autómatas/01 - Máquinas de Estado Finito - Definición y Estructura\|diagrama de transición]], cadena de aceptación |
 > | 6.3 | Lenguaje, gramáticas, notación Backus-Naur Form (BNF) |
 
 ---

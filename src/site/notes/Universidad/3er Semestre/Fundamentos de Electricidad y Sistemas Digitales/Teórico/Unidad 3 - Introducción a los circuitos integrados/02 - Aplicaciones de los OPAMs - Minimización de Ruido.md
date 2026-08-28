@@ -131,6 +131,71 @@
 
 ---
 
+## 📋 Ejercicios de la Tarea Autónoma #2 (Análisis Cuantitativo de Redes de OPAMs)
+
+> [!info] 💡 Un tipo de ejercicio distinto: análisis de red, no solo concepto
+>
+> Los ejercicios anteriores de esta nota trabajan el **concepto** de cada configuración (para qué sirve frente al ruido). La Tarea Autónoma #2 exige además la **habilidad de análisis de circuitos**: aplicar $V_+\approx V_-$ e $I_+=I_-=0$ (ver diapositiva "Aspectos prácticos del Op-Amp", Sesión 12) para resolver redes de OPAMs en cascada con valores de resistencia concretos — la misma habilidad que evaluará el examen, según lo señalado en clase.
+
+> [!example]- ✏️ Ejercicio 1 — Amplificador inversor con red de realimentación en T
+>
+> **Circuito:** $V_i$ a través de $R_1$ hacia la entrada inversora del OPAM. Realimentación en forma de **T**: $R_2$ desde la salida del nodo intermedio hasta la entrada inversora, $R_3$ del nodo intermedio a tierra, y $R_4$ del nodo intermedio hasta $V_o$.
+>
+> |Paso|Acción|
+> |---|---|
+> |**1**|Nodo inversor es tierra virtual ($V_-=0$). Toda la corriente que entra por $R_1$ ($i=V_i/R_1$) debe salir hacia el nodo intermedio $X$ a través de $R_2$ (no entra corriente al OPAM).|
+> |**2**|KCL en el nodo inversor: $\dfrac{V_i}{R_1}+\dfrac{V_X}{R_2}=0 \Rightarrow V_X=-\dfrac{R_2}{R_1}V_i$|
+> |**3**|KCL en el nodo intermedio $X$ (conectado a $R_2$, $R_3$ a tierra, y $R_4$ a $V_o$): $\dfrac{V_X}{R_2}+\dfrac{V_X}{R_3}+\dfrac{V_X-V_o}{R_4}=0$|
+> |**4**|Despejando: $V_o = V_X\left(1+\dfrac{R_4}{R_2}+\dfrac{R_4}{R_3}\right)$|
+> |**5**|Sustituyendo $V_X$ del paso 2:|
+>
+> $$\boxed{\dfrac{V_o}{V_i} = -\dfrac{R_2}{R_1}\left(1+\dfrac{R_4}{R_2}+\dfrac{R_4}{R_3}\right)}$$
+>
+> > 📌 Esta red en T logra **ganancias altas** sin necesitar una resistencia de realimentación físicamente enorme — muy usado cuando $R_2$ tendría que ser poco práctica de conseguir o generaría demasiado ruido térmico por su valor elevado.
+
+> [!example]- ✏️ Ejercicio 2a — Diferencial de dos etapas (dos OPAMs)
+>
+> **Circuito:** Primera etapa (U1): $V_2$ a través de una resistencia $R$ hacia la entrada inversora, con realimentación $R$ (mismo valor) — inversor de ganancia unitaria. Segunda etapa (U2): suma inversora de $V_1$ (a través de $R_1$) y la salida de U1 (a través de otra $R_1$), con realimentación $R_2$.
+>
+> |Paso|Acción|
+> |---|---|
+> |**1**|Primera etapa (inversor, ganancia $-R/R=-1$): $V_{U1} = -V_2$|
+> |**2**|Segunda etapa (sumador inversor con dos entradas, ambas por $R_1$, realimentación $R_2$): $V_o = -\dfrac{R_2}{R_1}(V_1+V_{U1})$|
+> |**3**|Sustituyendo $V_{U1}=-V_2$: $V_o = -\dfrac{R_2}{R_1}(V_1-V_2)$|
+>
+> $$\boxed{V_o = \dfrac{R_2}{R_1}(V_2-V_1)}$$
+>
+> > 📌 Es el clásico **amplificador diferencial de dos OPAMs**: la primera etapa invierte una de las entradas para que la segunda pueda sumarlas y obtener la resta con una sola resistencia de ganancia ($R_2/R_1$) en vez de dos resistencias emparejadas como en el diferencial de un solo OPAM.
+
+> [!warning] ⚠️ Ejercicio 2b — Pendiente de verificar topología
+>
+> El circuito de la Figura 3 (dos etapas con $V_1$ y $V_2$ conectadas cerca de las entradas no inversoras) no se pudo reconstruir con certeza a partir del archivo — las conexiones exactas de $R_2$, $R_1$ y $R_3$ en cada nodo no son legibles de forma confiable. **Antes de dar por válida cualquier fórmula, confírmame la conexión exacta** (qué resistencia va a qué pin de cada OPAM) y lo resuelvo con el mismo detalle que los demás.
+
+> [!warning] ⚠️ Ejercicio 3 — Pendiente de verificar topología
+>
+> El circuito de tres etapas (U1:A, U1:B, U2:A) con $V_1=6\text{V}$, $V_2=11\text{V}$ y la incógnita $V_3$ tiene varias resistencias con etiquetas repetidas ($R_2$ aparece dos veces, con valores distintos posiblemente para realimentación y para polarización) que no pude distinguir con certeza en la imagen. El método general es:
+>
+> 1. Identificar la configuración de cada etapa (sumador inversor, inversor simple, etc.) según qué resistencias llegan a cada entrada inversora.
+> 2. Resolver la salida de cada etapa en función de la anterior, igual que en el Ejercicio 2a.
+> 3. Igualar la expresión final a $V_o=5.7\text{ V}$ y despejar $V_3$.
+>
+> **Confírmame qué resistencia conecta a qué pin** (especialmente las dos etiquetadas $R_2$, y a qué nodo llega $R_4$) y calculo el valor exacto de $V_3$.
+
+> [!example]- ✏️ Ejercicio 4 — Cascada de inversor simple + sumador inversor
+>
+> **Circuito:** Primera etapa: $V_{s1}$ a través de $2R$ hacia la entrada inversora, realimentación $R$ — inversor de ganancia $-R/2R=-1/2$. Segunda etapa: suma inversora de la salida de la primera etapa (a través de $2R$) y $V_{s2}$ (a través de $0.5R$), con realimentación $2R$.
+>
+> |Paso|Acción|
+> |---|---|
+> |**1**|Primera etapa (inversor, ganancia $-R/2R=-0.5$): $V_{etapa1} = -0.5\,V_{s1}$|
+> |**2**|Segunda etapa (sumador inversor): $V_{out} = -\dfrac{2R}{2R}V_{etapa1} - \dfrac{2R}{0.5R}V_{s2} = -V_{etapa1}-4V_{s2}$|
+> |**3**|Sustituyendo $V_{etapa1}$: $V_{out} = 0.5\,V_{s1} - 4\,V_{s2}$|
+> |**4**|Con $V_{s1}=5\text{ V}$, $V_{s2}=2.5\text{ V}$: $V_{out} = 0.5(5) - 4(2.5) = 2.5 - 10$|
+>
+> $$\boxed{V_{out} = -7.5\text{ V}}$$
+
+---
+
 ## ✅ Metas de Aprendizaje
 
 > [!note] 🎯 Nivel Básico
@@ -149,6 +214,7 @@
 > 
 > - [ ] Diseño una cadena de acondicionamiento de señal (buffer + diferencial/instrumentación + filtro activo) para un sensor ruidoso dado.
 > - [ ] Justifico la elección entre comparador simple y con histéresis según el nivel de ruido esperado en la señal de entrada.
+> - [ ] Resuelvo redes de OPAMs en cascada (2 o 3 etapas) aplicando $V_+\approx V_-$ e $I_+=I_-=0$ nodo por nodo, identificando la configuración de cada etapa.
 
 ---
 
@@ -171,6 +237,10 @@ mindmap
     Comparador con histeresis
       Schmitt trigger
       Inmunidad a ruido cerca del umbral
+    Analisis de redes en cascada
+      Red en T
+      Diferencial de 2 OPAMs
+      Sumador inversor multi-etapa
 ```
 
 ---
@@ -182,13 +252,17 @@ mindmap
 > [2] R. L. Boylestad y L. Nashelsky, _Electrónica: Teoría de Circuitos y Dispositivos Electrónicos_, 10th ed. México: Pearson, 2009.
 > 
 > [3] Fco. Javier Hernández Canals, _Amplificador Operacional — Ejercicios Resueltos_ (guía de ejercicios: seguidor de tensión, amplificador diferencial, amplificador de instrumentación, comparador con histéresis).
+>
+> [4] Ing. Adriana Aguirre Alonso, _Tarea Autónoma #2 — Amplificadores Operacionales_, EYAG1037, FIEC-ESPOL, I PAO 2026.
 
 > [!quote] 🔗 Conexiones
 > 
 > - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/06 - Ruido Electrónico e Interferencia\|06 - Ruido Electrónico e Interferencia]] — el concepto de rechazo de modo común anticipado ahí se desarrolla aquí con el amplificador diferencial.
 > - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/04 - Circuitos de Filtrado y Fuentes Lineales\|04 - Circuitos de Filtrado y Fuentes Lineales]] — los filtros pasivos LPF/HPF se retoman aquí en su versión activa con OPAM.
 > - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/01 - Introducción a los Circuitos Integrados No Programables\|01 - Introducción a los Circuitos Integrados No Programables]] — el OPAM como ejemplo central de CI no programable.
-> - Siguiente nota (Unidad 3, punto 3): Aplicaciones de 555 / ADC / PWM.
+> - Siguiente nota: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/03 - Configuraciones Lineales Básicas del OPAM\|03 - Configuraciones Lineales Básicas del OPAM]] — inversores, sumadores y convertidores (base del PDF EjREsAmpOp).
+> - Luego: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/04 - Integrador, Derivador y Circuitos No Lineales\|04 - Integrador, Derivador y Circuitos No Lineales]] y [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/05 - Ejercicios Resueltos y de Oposición\|05 - Ejercicios Resueltos y de Oposición]] — completan el PDF.
+> - Después: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/06 - Aplicaciones de Integrados 555 - ADC - PWM\|06 - Aplicaciones de Integrados 555 - ADC - PWM]] — acondicionamiento con 555/ADC/PWM.
 
 ---
 

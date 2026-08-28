@@ -155,7 +155,7 @@
 > |**OR**|7432|$F = A + B$|Suma — 1 si A **o** B (o ambas) son 1|
 > |**NOT**|7404|$F = \overline{A}$|Negación — invierte el valor|
 >
-> > 🔗 Las compuertas derivadas (**NAND, NOR, XOR, XNOR**) junto con sus tablas de verdad completas y los CI comerciales de la familia 74xx ya están documentadas en detalle en [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/04 - Circuitos Integrados de Logica Fija y Tablas de Verdad\|04 - Circuitos Integrados de Logica Fija y Tablas de Verdad]] (Unidad 3) — no se repiten aquí para evitar duplicidad.
+> > 🔗 Las compuertas derivadas (**NAND, NOR, XOR, XNOR**) junto con sus tablas de verdad completas y los CI comerciales de la familia 74xx ya están documentadas en detalle en [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/07 - Circuitos Integrados de Logica Fija y Tablas de Verdad\|07 - Circuitos Integrados de Logica Fija y Tablas de Verdad]] (Unidad 3) — no se repiten aquí para evitar duplicidad.
 
 > [!warning] ⚠️ Error común
 >
@@ -334,8 +334,8 @@ mindmap
 
 > [!quote] 🔗 Conexiones
 >
-> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/04 - Circuitos Integrados de Logica Fija y Tablas de Verdad\|04 - Circuitos Integrados de Logica Fija y Tablas de Verdad]] — tablas de verdad completas de AND/OR/NAND/NOR/XOR/XNOR y CI comerciales de la familia 74xx (Unidad 3).
-> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/03 - Aplicaciones de Integrados 555 - ADC - PWM\|03 - Aplicaciones de Integrados 555 - ADC - PWM]] — el ADC como aplicación directa de la conversión analógico→binario vista aquí (Unidad 3).
+> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/07 - Circuitos Integrados de Logica Fija y Tablas de Verdad\|07 - Circuitos Integrados de Logica Fija y Tablas de Verdad]] — tablas de verdad completas de AND/OR/NAND/NOR/XOR/XNOR y CI comerciales de la familia 74xx (Unidad 3).
+> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/06 - Aplicaciones de Integrados 555 - ADC - PWM\|06 - Aplicaciones de Integrados 555 - ADC - PWM]] — el ADC como aplicación directa de la conversión analógico→binario vista aquí (Unidad 3).
 > - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/01 - Introducción a los Circuitos Integrados No Programables\|01 - Introducción a los Circuitos Integrados No Programables]] — clasificación de CI digitales/analógicos/mixtos (Unidad 3).
 > - Próxima nota (Unidad 4, punto 2): Solución de problemas con circuitos electrónicos digitales — profundiza en operaciones binarias, complemento a base 2, minterms/maxterms y las formas canónicas SOP/POS.
 

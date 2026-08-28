@@ -18,11 +18,11 @@
 
 ---
 
-<iframe src="/img/user/Universidad/3er%20Semestre/Matem%C3%A1ticas%20Discretas/Unidad%200%20-%20Guias%20y%20Ejercicios/Gu%C3%ADa%20de%20problemas%202%20MD.pdf" width="100%" height="900px" title="Guía de problemas 2 MD.pdf" style="border:1px solid #ccc;"></iframe>
+!Guía de problemas 2 MD.pdf
 
 ## 🔢 2.1 — Funciones Inyectiva, Sobreyectiva, Composición e Inversa
 
-> [!example] 📝 Ejercicio 1 — Función estrictamente creciente implica inyectividad
+> [!example] 📝 Ejercicio 1 — [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/01 - Funciones\|Función]] estrictamente creciente implica inyectividad
 > 
 > **Enunciado:** Sea $f : X \subseteq \mathbb{R} \to \mathbb{R}$. Demuestre que si $f$ es estrictamente creciente, entonces $f$ es inyectiva.
 > 
@@ -220,7 +220,7 @@
 
 ## 🔗 2.2 — Relaciones, Representación, Matriz y Digrafo
 
-> [!example] 📝 Ejercicio 9 — Relación "múltiplo" sobre $\{2,3,5,6,9,15\}$
+> [!example] 📝 Ejercicio 9 — [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/02 - Relaciones\|Relación]] "múltiplo" sobre $\{2,3,5,6,9,15\}$
 > 
 > **Enunciado:** $A = \{2,3,5,6,9,15\}$, $R = \{(x,y) \in A \times A \mid y \text{ es múltiplo de } x\}$.
 > 
@@ -239,7 +239,7 @@
 > 
 > **(a) Diagrama sagital de $R$:**
 > 
-> El diagrama sagital tiene dos copias del conjunto $A$ (dominio a la izquierda, codominio a la derecha), con flechas de $x$ a $y$ para cada $(x,y) \in R$:
+> El diagrama sagital tiene dos copias del [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/04 - Cardinalidad y Leyes de Cardinalidad\|Cardinalidad]] $A$ (dominio a la izquierda, codominio a la derecha), con flechas de $x$ a $y$ para cada $(x,y) \in R$:
 > 
 > ```mermaid
 > graph LR
@@ -327,7 +327,7 @@
 > 
 > **Enunciado:** $X = \{4,5,7,8\}$, $xRy \iff (3y \bmod x) > 1$.
 > 
-> **(a) Cálculo de todos los pares:** Evaluamos $3y \bmod x$ para cada combinación:
+> **(a) Cálculo de todos los pares:** Evaluamos $3y \bmod x$ para cada [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/05 - Permutaciones y Combinaciones\|combinación]]:
 > 
 > | $(x,y)$ | $3y$ | $3y \bmod x$ | $> 1$? |
 > |---|---|---|---|
@@ -483,7 +483,7 @@
 > 
 > $R$ es **orden parcial** sobre $X$. $\blacksquare$
 
-> [!example] 📝 Ejercicio 16 — Divisibilidad es orden parcial sobre $\mathbb{N}$
+> [!example] 📝 Ejercicio 16 — [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/01 - Divisibilidad y Números Primos\|Divisibilidad]] es orden parcial sobre $\mathbb{N}$
 > 
 > **Enunciado:** $X = \mathbb{N}$, $aRb \iff a \mid b$. Demuestre que $R$ es orden parcial.
 > 
@@ -495,7 +495,7 @@
 > 
 > $R$ es **orden parcial** sobre $\mathbb{N}$. $\blacksquare$
 
-> [!example] 📝 Ejercicio 17 — $ARB \iff A \cup Y = B \cup Y$ es relación de equivalencia
+> [!example] 📝 Ejercicio 17 — $ARB \iff A \cup Y = B \cup Y$ es [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/03 - Propiedades y Equivalencia\|relación de equivalencia]]
 > 
 > **Enunciado:** $X = \{1,2,3,4,5\}$, $Y = \{3,4\}$, relación $R$ sobre $\mathcal{P}(X)$: $ARB \iff A \cup Y = B \cup Y$.
 > 
@@ -633,7 +633,7 @@
 
 ## ∑ 2.4 — Sucesiones, Notación Sigma y Producto
 
-> [!example] 📝 Ejercicio 22 — Sucesión $s_n = 2^n + 4 \cdot 3^n$
+> [!example] 📝 Ejercicio 22 — [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/04 - Sucesiones y Cadenas\|Sucesión]] $s_n = 2^n + 4 \cdot 3^n$
 > 
 > **Enunciado:** $s_n = 2^n + 4 \cdot 3^n$, $n \geq 0$.
 > 

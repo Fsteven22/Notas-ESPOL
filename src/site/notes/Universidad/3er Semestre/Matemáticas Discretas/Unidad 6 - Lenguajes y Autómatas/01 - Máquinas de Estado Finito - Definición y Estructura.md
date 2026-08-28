@@ -62,7 +62,7 @@
 >
 > **Observación:** el retraso unitario permite almacenar información del instante anterior — es el bloque más simple que introduce "memoria" en un sistema digital.
 
-> [!example]- 🟢 Ejemplo — Retraso unitario aplicado a una secuencia
+> [!example] 🟢 Ejemplo — Retraso unitario aplicado a una secuencia
 >
 > Sea la entrada en tiempos consecutivos:
 >
@@ -125,7 +125,7 @@
 > | 1 | 1 | 0 | 0 | 1 |
 > | 1 | 1 | 1 | 1 | 1 |
 
-> [!example]- 🟢 Ejemplo — Suma en serie de $010$ y $011$
+> [!example] 🟢 Ejemplo — Suma en serie de $010$ y $011$
 >
 > Tomamos $x = 010$, $y = 011$. Los bits se leen de derecha a izquierda:
 >
@@ -150,10 +150,10 @@
 > $$M = (I, O, S, f, g, \sigma)$$
 >
 > donde:
-> 1. $I$ es un conjunto finito de **símbolos de entrada**.
+> 1. $I$ es un [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/04 - Cardinalidad y Leyes de Cardinalidad\|Cardinalidad]] finito de **símbolos de entrada**.
 > 2. $O$ es un conjunto finito de **símbolos de salida**.
 > 3. $S$ es un conjunto finito de **estados**.
-> 4. $f : S \times I \to S$ es la **función de siguiente estado**.
+> 4. $f : S \times I \to S$ es la **[[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/01 - Funciones\|función]] de siguiente estado**.
 > 5. $g : S \times I \to O$ es la **función de salida**.
 > 6. $\sigma \in S$ es el **estado inicial**.
 
@@ -170,7 +170,7 @@
 >
 > **Lectura dinámica:** si la máquina está en el estado $s$ y lee la entrada $i$, entonces pasa al estado $f(s,i)$ y produce la salida $g(s,i)$.
 
-> [!example]- 🟢 Ejemplo — Máquina de estado finito con dos estados
+> [!example] 🟢 Ejemplo — Máquina de estado finito con dos estados
 >
 > Sea $I=\{a,b\}$, $O=\{0,1\}$, $S=\{\sigma_0,\sigma_1\}$, con:
 >
@@ -191,7 +191,7 @@
 
 > [!note] 📋 Definición — Diagrama de transición
 >
-> Sea $M=(I,O,S,f,g,\sigma)$ una máquina de estado finito. El **diagrama de transición** de $M$ es un digrafo cuyos vértices son los estados de $S$. Hay una arista dirigida de $s_1$ a $s_2$ con etiqueta $i/o$ si
+> Sea $M=(I,O,S,f,g,\sigma)$ una máquina de estado finito. El **diagrama de transición** de $M$ es un digrafo cuyos vértices son los estados de $S$. Hay una [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/01 - Grafos I - Conceptos Básicos y Recorridos\|arista]] dirigida de $s_1$ a $s_2$ con etiqueta $i/o$ si
 >
 > $$f(s_1,i)=s_2 \quad \text{y} \quad g(s_1,i)=o$$
 >
@@ -223,7 +223,7 @@
 >
 > Una máquina de estado finito puede verse como una computadora sencilla: inicia en $\sigma$, lee una cadena sobre $I$, y produce una cadena de salida sobre $O$.
 
-> [!example]- 🟢 Ejemplo — Salida para la cadena $aababba$
+> [!example] 🟢 Ejemplo — Salida para la cadena $aababba$
 >
 > Usando la máquina de dos estados anterior:
 >
@@ -292,10 +292,10 @@ graph TD
     C -->|"No, depende de<br/>una historia más compleja"| E["¿La salida es un<br/>símbolo de un conjunto O?"]
     E -->|"Sí"| F["Máquina de estado finito<br/>M = (I,O,S,f,g,σ)"]
     E -->|"No, solo quiero saber<br/>si la cadena es válida"| G["Autómata de estado finito<br/>(ver nota relacionada)"]
-    style B fill:#e1f5ff
-    style D fill:#e1f5ff
-    style F fill:#1e3a5f,color:#fff
-    style G fill:#f5e1ff
+    style B fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
+    style D fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
+    style F fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style G fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
 ```
 
 ---
@@ -335,7 +335,7 @@ graph TD
 > 2. Explica con tus propias palabras la diferencia entre $f$ y $g$ en $M=(I,O,S,f,g,\sigma)$.
 > 3. Dado el retraso unitario, si la entrada es $(x_0,\ldots,x_3)=(0,1,1,0)$ y $x_{-1}=1$, calcula la salida $(x_{-1},\ldots,x_2)$.
 
-> [!success]- ✅ Respuestas Nivel 1
+> [!success] ✅ Respuestas Nivel 1
 >
 > **1.** Partiendo de $\sigma_0$: $b\to 1/\sigma_1$, $b\to 0/\sigma_1$, $a\to 1/\sigma_1$, $b\to 0/\sigma_1$, $a\to 1/\sigma_1$. Salida: $10101$.
 >
@@ -351,7 +351,7 @@ graph TD
 > 5. Dibuja el diagrama de transición para una MEF con $I=\{0,1\}$, $O=\{0,1\}$, $S=\{P,I\}$ (paridad par/impar de unos leídos) donde $g$ emite el bit de paridad actual en cada paso.
 > 6. Explica por qué el sumador en serie solo necesita dos estados y no, por ejemplo, cuatro.
 
-> [!success]- ✅ Respuestas Nivel 2
+> [!success] ✅ Respuestas Nivel 2
 >
 > **4.** $x=101$, $y=110$ (leídos de derecha a izquierda): $(x_0,y_0)=(1,0)$, $(x_1,y_1)=(0,1)$, $(x_2,y_2)=(1,1)$, $(0,0)$ final.
 >
@@ -376,7 +376,7 @@ graph TD
 > 8. Demuestra que, para cualquier máquina de estado finito $M=(I,O,S,f,g,\sigma)$ y cualquier cadena $\alpha$ de longitud $n$, la cadena de salida correspondiente tiene también longitud $n$ (usa la definición recursiva de $\sigma_i$ y $y_i$).
 > 9. Extiende el sumador en serie para que también detecte **overflow** (acarreo final distinto de cero cuando se asume que el resultado debe caber en $N$ bits). ¿Cuántos estados necesitarías como mínimo y qué información debe distinguir cada uno?
 
-> [!success]- ✅ Respuestas Nivel 3
+> [!success] ✅ Respuestas Nivel 3
 >
 > **7.** Es el mismo diseño del Ejercicio 5: el XOR acumulado *es* la paridad de unos vistos. Basta con 2 estados porque el conjunto de historias posibles se puede particionar en exactamente dos clases de equivalencia (paridad par / impar) tales que dos historias en la misma clase producen siempre el mismo comportamiento futuro — este es precisamente el criterio para decidir cuántos estados necesita una MEF.
 >

@@ -31,7 +31,7 @@
 
 > [!note] 📋 Regla rápida
 > 
-> Si $p(n) = a_k n^k + a_{k-1}n^{k-1} + \cdots + a_0$ con $a_k \neq 0$, entonces $p(n) = \Theta(n^k)$: el grado del polinomio determina directamente la cota estrecha. Para una **función racional** $\dfrac{p(n)}{q(n)}$, se comparan los grados de numerador y denominador: $\Theta!\left(n^{\deg p - \deg q}\right)$.
+> Si $p(n) = a_k n^k + a_{k-1}n^{k-1} + \cdots + a_0$ con $a_k \neq 0$, entonces $p(n) = \Theta(n^k)$: el [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/01 - Grafos I - Conceptos Básicos y Recorridos\|grado]] del polinomio determina directamente la cota estrecha. Para una **[[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/01 - Funciones\|función]] racional** $\dfrac{p(n)}{q(n)}$, se comparan los grados de numerador y denominador: $\Theta!\left(n^{\deg p - \deg q}\right)$.
 > 
 > Este atajo basta para responder rápido, pero cuando el ejercicio pide **"estudiar" o "demostrar"** la función, hay que exhibir $c_1$, $c_2$ y $n_0$ explícitos (ver técnica abajo).
 
@@ -93,7 +93,7 @@
 > 
 > El atajo del grado dominante te da la respuesta rápido, pero **demostrarla** — que es como se resuelven estos ejercicios en realidad — exige el mismo procedimiento de tres pasos cada vez: (1) exhibir una cota superior $c_1g(n)$, (2) exhibir una cota inferior $c_2g(n)$, (3) si ambas usan la misma $g(n)$, concluir $\Theta(g(n))$.
 
-> [!success]- ✅ 1. $f(n)=-4n^3+n^2-5n \implies \Theta(n^3)$
+> [!success] ✅ 1. $f(n)=-4n^3+n^2-5n \implies \Theta(n^3)$
 > 
 > El coeficiente líder es negativo, así que trabajamos con $|f(n)|$.
 > 
@@ -113,7 +113,7 @@
 > 
 > **Conclusión:** $3n^3\leq|f(n)|\leq9n^3,\ \forall n\geq1 \implies f(n)=\Theta(n^3)$. $\blacksquare$
 
-> [!tip]- 💡 Los "trucos" detrás del ejercicio 1, paso a paso
+> [!tip] 💡 Los "trucos" detrás del ejercicio 1, paso a paso
 > 
 > Demostrar formalmente la complejidad de un algoritmo consiste en acotar la función entre dos extremos: una cota superior (el peor escenario, $\mathcal{O}$) y una cota inferior (el mejor escenario, $\Omega$). Así se llega a cada constante del ejercicio anterior.
 > 
@@ -143,7 +143,7 @@
 > 
 > Este mismo patrón de "agrandar quitando restas / homogeneizando potencias hacia arriba" y "achicar quitando sumas / homogeneizando potencias hacia abajo" es el que se reutiliza en los ejercicios 2, 3 y 4.
 
-> [!success]- ✅ 2. $f(n)=-\frac{5}{3}n^2+7n+8 \implies \Theta(n^2)$
+> [!success] ✅ 2. $f(n)=-\frac{5}{3}n^2+7n+8 \implies \Theta(n^2)$
 > 
 > **Cota superior:** por la desigualdad del triángulo,
 > 
@@ -161,7 +161,7 @@
 > 
 > **Conclusión:** $n^2\leq|f(n)|\leq\frac{50}{3}n^2,\ \forall n\geq12 \implies f(n)=\Theta(n^2)$. $\blacksquare$
 
-> [!tip]- 💡 Los "trucos" detrás del ejercicio 2, paso a paso
+> [!tip] 💡 Los "trucos" detrás del ejercicio 2, paso a paso
 > 
 > **① ¿Por qué $\frac{50}{3}n^2$ en la cota superior?**
 > 
@@ -173,7 +173,7 @@
 > 
 > **③ Conclusión:** $n^2\leq|f(n)|\leq\frac{50}{3}n^2$ para $n\geq12$ atrapa a $f(n)$ entre dos funciones de orden $n^2$ → $\Theta(n^2)$.
 
-> [!success]- ✅ 3. $f(n)=\frac{3}{4}n^3-4n^2-7n \implies \Theta(n^3)$
+> [!success] ✅ 3. $f(n)=\frac{3}{4}n^3-4n^2-7n \implies \Theta(n^3)$
 > 
 > **Cota superior:** para $n\geq1$: $4n^2+7n\leq11n^2\leq11n^3$, entonces:
 > 
@@ -189,7 +189,7 @@
 > 
 > **Conclusión:** $\frac12n^3\leq f(n)\leq12n^3,\ \forall n\geq20 \implies f(n)=\Theta(n^3)$. $\blacksquare$
 
-> [!tip]- 💡 Los "trucos" detrás del ejercicio 3, paso a paso
+> [!tip] 💡 Los "trucos" detrás del ejercicio 3, paso a paso
 > 
 > **① ¿Por qué $12n^3$ en la cota superior?**
 > 
@@ -201,7 +201,7 @@
 > 
 > **③ Conclusión:** $\frac12n^3\leq f(n)\leq12n^3$ para $n\geq20$ → $\Theta(n^3)$.
 
-> [!success]- ✅ 4. $f(n)=\dfrac{5n^3+3\log n}{2+7n} \implies \Theta(n^2)$
+> [!success] ✅ 4. $f(n)=\dfrac{5n^3+3\log n}{2+7n} \implies \Theta(n^2)$
 > 
 > Para funciones racionales, la dirección de la desigualdad se invierte entre numerador y denominador: agrandar el numerador exige achicar el denominador, y viceversa.
 > 
@@ -227,7 +227,7 @@
 > 
 > **Conclusión:** $\frac{5}{9}n^2\leq f(n)\leq\frac{8}{7}n^2,\ \forall n\geq1 \implies f(n)=\Theta(n^2)$. $\blacksquare$
 
-> [!tip]- 💡 Los "trucos" detrás del ejercicio 4, paso a paso
+> [!tip] 💡 Los "trucos" detrás del ejercicio 4, paso a paso
 > 
 > Este caso es distinto a los tres anteriores porque $f(n)$ es una **fracción** $\dfrac{p(n)}{q(n)}$, no un polinomio. En una fracción, agrandar y achicar se comportan al revés en numerador y denominador: una fracción crece si el numerador crece **o** si el denominador se achica, y viceversa.
 > 
@@ -263,7 +263,7 @@
 > 
 > Es decir, $\lfloor x\rfloor$ nunca supera a $x$, y nunca es menor que $x-1$ — la diferencia siempre es menor que $1$, sin importar qué tan grande sea $x$. Por eso, **para efectos de $\mathcal{O}, \Omega, \Theta$, puedes tratar $\lfloor x\rfloor$ como si fuera $x$**: $\lfloor x\rfloor = \Theta(x)$ siempre que $x$ crezca (el mismo argumento aplica al techo $\lceil x\rceil$, con $x\leq\lceil x\rceil<x+1$).
 
-> [!example]- 🟢 Por qué esa diferencia de "menos de 1" nunca importa para $\Theta$
+> [!example] 🟢 Por qué esa diferencia de "menos de 1" nunca importa para $\Theta$
 > 
 > ¿Cambia el resultado si en vez de $\sqrt{n}$ tu algoritmo usa $\lfloor\sqrt{n}\rfloor$? No. Con $x=\sqrt{n}$: $\sqrt{n}-1 < \lfloor\sqrt{n}\rfloor \leq \sqrt{n}$. La cota superior da $\lfloor\sqrt{n}\rfloor=\mathcal{O}(\sqrt{n})$ de inmediato. Para la cota inferior, con $n\geq4$ se cumple $\sqrt{n}-1\geq\frac{1}{2}\sqrt{n}$ (verifica con $n=4$: $2-1=1\geq1$ ✅), entonces $\lfloor\sqrt{n}\rfloor=\Omega(\sqrt{n})$.
 > 
@@ -284,7 +284,7 @@
 > 
 > Cada parte usa $c_1$, $c_2$, $n_0$ explícitos, igual que los ejercicios anteriores.
 
-> [!success]- ✅ (a) $f(n) = 2n^4 - 100n^3 + 50,\ \forall n\geq1 \implies \Theta(n^4)$
+> [!success] ✅ (a) $f(n) = 2n^4 - 100n^3 + 50,\ \forall n\geq1 \implies \Theta(n^4)$
 > 
 > **La trampa:** el $-100n^3$ tiene un coeficiente mucho más grande que el $2$ de $2n^4$. La intuición ingenua diría que "domina", pero el **grado** manda, no el coeficiente — el atajo de polinomios lo garantiza. Lo que sí cambia es **cuánto tarda** ($n_0$) en verse esa dominancia.
 > 
@@ -296,7 +296,7 @@
 > 
 > El $n_0=100$ (mucho más grande que el $n_0=1$ del ejercicio 1) es precisamente el "precio" de tener un coeficiente tan grande en el término de menor grado: el $n^4$ necesita crecer más para superarlo, pero **tarde o temprano lo hace**, y eso es todo lo que $\Theta$ exige.
 
-> [!success]- ✅ (b) $f(n) = 5\lfloor\sqrt{n}\rfloor - 3,\ \forall n\geq1 \implies \Theta(\sqrt{n})$
+> [!success] ✅ (b) $f(n) = 5\lfloor\sqrt{n}\rfloor - 3,\ \forall n\geq1 \implies \Theta(\sqrt{n})$
 > 
 > Esta es la aplicación directa del lema $\sqrt{n}-1<\lfloor\sqrt{n}\rfloor\leq\sqrt{n}$ dentro de una prueba completa, en vez de solo invocarlo.
 > 
@@ -308,7 +308,7 @@
 > 
 > La diferencia clave con los ejercicios 1–4: aquí el $-1$ del lema del piso se propaga como una constante extra ($-8$ en vez de $-3$) dentro de la cota inferior, pero como es solo una constante (no cambia con $n$), termina absorbida por el mismo tipo de argumento de siempre — solo hay que cargarla con cuidado en el álgebra.
 
-> [!success]- ✅ (c) $f(n) = n^2\log n + 3n,\ \forall n\geq2 \implies \Theta(n^2\log n)$
+> [!success] ✅ (c) $f(n) = n^2\log n + 3n,\ \forall n\geq2 \implies \Theta(n^2\log n)$
 > 
 > **La novedad:** la función de comparación $g(n)=n^2\log n$ **no es una potencia pura de $n$** — es un polinomio multiplicado por un logaritmo. Esto es muy común en análisis de algoritmos (ordenamientos basados en comparación, heapify, etc.), y se cubrirá con más detalle en la Nota II. Aquí basta con saber tratar $\log n$ como "otra variable" que crece, sin necesidad de acotarla por una potencia de $n$.
 > 
@@ -320,7 +320,7 @@
 > 
 > Se empieza en $n_0=2$ (no $n=1$) solo porque en $n=1$ se tendría $\log 1=0$, un caso degenerado donde "$\log n$ crece" todavía no aplica — pero la definición formal permite ignorar una cantidad finita de valores de $n$, así que esto no rompe nada.
 
-> [!success]- ✅ (d) $f(n) = \dfrac{4n+7}{n^2-1},\ \forall n\geq2 \implies \Theta!\left(\dfrac{1}{n}\right)$
+> [!success] ✅ (d) $f(n) = \dfrac{4n+7}{n^2-1},\ \forall n\geq2 \implies \Theta!\left(\dfrac{1}{n}\right)$
 > 
 > **La novedad:** en el ejercicio 4, el numerador tenía **mayor** grado que el denominador ($n^3$ vs $n$) y la función crecía. Aquí es al revés — el denominador ($n^2$) tiene mayor grado que el numerador ($n$) — así que $f(n)$ **decrece** a medida que $n$ crece. El atajo de la sección de funciones racionales lo predice: $\Theta(n^{\deg p-\deg q})=\Theta(n^{1-2})=\Theta(n^{-1})=\Theta(1/n)$.
 > 
@@ -332,7 +332,7 @@
 > 
 > Nótese que "$c_1$ agranda / $c_2$ achica" sigue siendo la misma lógica de siempre — lo único distinto es que, al ser $f(n)$ decreciente, "más grande" para el numerador y "más chico" para el denominador todavía producen una cota superior, exactamente como en el ejercicio 4.
 
-![ChatGPT Image 18 ago 2026, 20_42_23.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2020_42_23.png)
+!ChatGPT Image 18 ago 2026, 20_42_23.png
 
 ---
 
@@ -360,5 +360,23 @@
 > [3] R. Johnsonbaugh, _Discrete Mathematics_, 8th ed. Hoboken, NJ, USA: Pearson, 2018, pp. 249–268.
 
 ---
+
+
+## Metas de Aprendizaje
+
+> [!note] Nivel Básico
+> - [ ] Defino notación O, Ω y Θ para complejidad temporal.
+> - [ ] Clasifico algoritmos en O(1), O(log n), O(n), O(n log n), O(n²).
+> - [ ] Cuento operaciones básicas para determinar la complejidad.
+
+> [!note] Nivel Intermedio
+> - [ ] Aplico reglas de la O grande (suma, producto, composición).
+> - [ ] Comparo funciones usando límites (regla de L'Hôpital para complejidad).
+> - [ ] Analizo la complejidad de algoritmos con ciclos anidados.
+
+> [!note] Nivel Avanzado
+> - [ ] Determino la complejidad exacta de algoritmos recursivos usando recurrencias.
+> - [ ] Aplico teorema maestro para análisis de divide y vencerás.
+> - [ ] Analizo complejidad espacial junto con la temporal.
 
 **Tags:** #analisisdealgoritmos #notacionasintotica #bigO #complejidad #MATG1051 #unidad4 #ESPOL

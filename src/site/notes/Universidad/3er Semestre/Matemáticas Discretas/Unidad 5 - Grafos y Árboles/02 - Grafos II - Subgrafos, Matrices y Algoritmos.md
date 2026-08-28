@@ -27,7 +27,12 @@
 >     style A fill:#1e3a5f,color:#fff
 >     style C fill:#e1f5ff
 >     style D fill:#f5e1ff
-> ```
+> 
+    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style E fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
 
 ---
 
@@ -41,9 +46,9 @@
 > 
 > b) Para cada arista $e \in E'$, si $e$ incide en $v'$ y en $w'$, entonces $v', w' \in V'$.
 > 
-> > [!warning] ⚠️ La condición (b) es la que suele fallar No basta con tomar cualquier subconjunto de aristas: si una arista está en $E'$, **ambos** vértices que toca deben estar en $V'$. No puedes "recortar" una arista dejando uno de sus extremos afuera.
+> > [!warning] ⚠️ La condición (b) es la que suele fallar No basta con tomar cualquier [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/01 - Conjuntos, Cardinalidad y Subconjuntos\|subconjunto]] de aristas: si una arista está en $E'$, **ambos** vértices que toca deben estar en $V'$. No puedes "recortar" una arista dejando uno de sus extremos afuera.
 
-> [!example]- 🟢 Ejemplo 1 — Un subgrafo válido
+> [!example] 🟢 Ejemplo 1 — Un subgrafo válido
 > 
 > Grafo original $G$ con vértices ${v_1,\ldots,v_8}$ y aristas ${e_1,\ldots,e_{11}}$. Un subgrafo $G'$ válido puede tomar solo algunas aristas y sus vértices incidentes, por ejemplo:
 > 
@@ -66,10 +71,10 @@
 > 
 > Sea $G$ un grafo y $v$ un vértice en $G$. El subgrafo $G'$ de $G$ que consiste en **todas** las aristas y vértices de $G$ que están contenidos en trayectorias que comienzan en $v$ se llama la **componente** de $G$ que contiene a $v$.
 > 
-> > [!success] ✅ Relación entre conexidad y componentes:
+> > [!success] ✅ [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/02 - Relaciones\|Relación]] entre conexidad y componentes:
 > > $G$ es **conexo** si y solo si $G$ posee **una sola componente**.
 
-> [!example]- 🟢 Ejemplo 2 — Grafo disconexo y sus componentes
+> [!example] 🟢 Ejemplo 2 — Grafo disconexo y sus componentes
 > 
 > ```mermaid
 > graph LR
@@ -78,7 +83,12 @@
 >     v3 --- v1
 >     v4["v4 (aislado)"]
 >     v5 --- v6
-> ```
+> 
+    style v1 fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style v2 fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style v3 fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style v5 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style v6 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
 > 
 > Este grafo **no es conexo**: tiene 3 componentes:
 > 
@@ -118,7 +128,7 @@
 > 
 > Si $G$ tiene $m$ vértices y $n$ aristas, fijado un orden para ambos conjuntos, la **matriz de incidencia** es la matriz de orden $m \times n$ cuya componente $ij$ es $1$ si la arista $j$ incide en el vértice $i$, y $0$ en caso contrario.
 
-> [!example]- 🟢 Ejemplo 3 — Matrices de adyacencia e incidencia
+> [!example] 🟢 Ejemplo 3 — Matrices de adyacencia e incidencia
 > 
 > Para un grafo $G$ con $V={v_1,\ldots,v_5}$ y $E={e_1,\ldots,e_7}$:
 > 
@@ -136,11 +146,11 @@
 > 
 > Si los vértices son ciudades y los pesos son distancias, el problema consiste en encontrar la ruta más corta que visite cada ciudad exactamente una vez, comenzando y terminando en la misma ciudad.
 
-> [!example]- 🟢 Ejemplo 4 — Resolviendo un TSP pequeño
+> [!example] 🟢 Ejemplo 4 — Resolviendo un TSP pequeño
 > 
 > En un grafo con vértices $a,b,c,d$ y pesos $2,3,2,3,11,11$ entre los distintos pares, el ciclo $(a,b,c,d,a)$ resulta ser un ciclo de Hamilton de **longitud 10**, y **resuelve** el problema del agente viajero para ese grafo.
 
-> [!example]- 🟢 Ejemplo 5 — Ejercicio resuelto: verificación por cotas mínimas
+> [!example] 🟢 Ejemplo 5 — Ejercicio resuelto: verificación por cotas mínimas
 > 
 > **Problema:** Demostrar que el ciclo $(e,c,d,b,a,e)$ es solución al TSP en un grafo de 5 vértices con pesos de aristas: $ab=4, ac=7, ad=6, ae=5, bc=5, bd=8, be=6, cd=3, ce=7, de=4$.
 > 
@@ -150,7 +160,7 @@
 > 
 > Los pesos mínimos disponibles en todo el grafo son: $3, 4, 4, 5, 5$.
 > 
-> En el vértice $d$ inciden aristas de peso $3, 4, 5$ — no se puede usar menos que eso en $d$. Las opciones mínimas posibles para todo el ciclo, revisando también qué incide en $a$ y $b$ (pesos $4,5,6$), llevan a que la combinación mínima alcanzable es $3,4,4,5,7$.
+> En el vértice $d$ inciden aristas de peso $3, 4, 5$ — no se puede usar menos que eso en $d$. Las opciones mínimas posibles para todo el ciclo, revisando también qué incide en $a$ y $b$ (pesos $4,5,6$), llevan a que la [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/05 - Permutaciones y Combinaciones\|combinación]] mínima alcanzable es $3,4,4,5,7$.
 > 
 > Estos son precisamente los pesos de las aristas del ciclo $(e,c,d,b,a,e)$, con **longitud total 23**.
 > 
@@ -169,7 +179,7 @@
 > - **Entrada:** un grafo conexo ponderado con pesos positivos; vértices $a$ y $z$.
 > - **Salida:** $L(z)$, la longitud de la ruta más corta de $a$ a $z$.
 
-> [!tip] 🖥️ Pseudocódigo de Dijkstra
+> [!tip] 🖥️ [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/03 - Pseudocódigo y Algoritmos\|Pseudocódigo]] de Dijkstra
 > 
 > ```
 > dijkstra(w, a, z, L) {
@@ -190,7 +200,7 @@
 > 
 > > [!warning] ⚠️ Requisito de pesos positivos Dijkstra **solo funciona correctamente con pesos positivos**. Si el grafo tiene pesos negativos, el algoritmo puede dar resultados incorrectos — para esos casos se necesita otro algoritmo (como Bellman-Ford, fuera del alcance de esta nota).
 
-> [!example]- 🟢 Ejemplo 6 — Aplicando Dijkstra paso a paso
+> [!example] 🟢 Ejemplo 6 — Aplicando Dijkstra paso a paso
 > 
 > Grafo con vértices $a,b,f,d,c,g,z$ y pesos: $ab=2, af=1, bd=2, bc=4, fc=5, fg=6, dc=1, dz=7, cg=3, gz=1$ (valores ilustrativos según el grafo del curso).
 > 
@@ -208,7 +218,7 @@
 > 
 > > [!tip]- 💡 Idea central del algoritmo Dijkstra es **goloso** (greedy): en cada paso, fija la distancia del vértice más cercano ya conocido, y usa esa distancia fija para intentar **mejorar** (relajar) las distancias de sus vecinos. Una vez que un vértice sale de $T$, su distancia ya no cambia — por eso el algoritmo requiere pesos positivos.
 
-![ChatGPT Image 18 ago 2026, 18_08_27.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2018_08_27.png)
+!ChatGPT Image 18 ago 2026, 18_08_27.png
 
 ---
 
@@ -238,6 +248,12 @@ graph TD
     G --> H{"¿Pocos vértices<br/>(grafo pequeño)?"}
     H -->|Sí| I["Explorar ciclos de Hamilton<br/>y comparar longitudes"]
     H -->|No| J["Usar cotas mínimas o<br/>heurísticas (no exacto)"]
+    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B fill:#E65100,color:#FFFFFF,stroke:#FFB74D,stroke-width:1px
+    style C fill:#E65100,color:#FFFFFF,stroke:#FFB74D,stroke-width:1px
+    style D fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style G fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style H fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
 ```
 
 ---
@@ -255,10 +271,16 @@ graph TD
     A --> H["Algoritmos"]
     H --> I["Agente Viajero (TSP)"]
     H --> J["Dijkstra"]
+    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style D fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style E fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style G fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style H fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style I fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style J fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
 
-    style A fill:#1e3a5f,color:#fff
-    style E fill:#e1f5ff
-    style H fill:#f5e1ff
 ```
 
 ---
@@ -285,11 +307,11 @@ graph TD
 > 
 > **7.** Demuestra el corolario (número par de vértices de grado impar) a partir del Teorema de la suma de grados, sin usar el argumento intuitivo — hazlo formalmente separando la suma en vértices de grado par e impar.
 > 
-> **8.** En un TSP con $n$ vértices, ¿cuántos ciclos de Hamilton distintos existen en el peor caso (grafo completo $K_n$), sin contar reflexiones ni rotaciones como distintos? Explica por qué la fuerza bruta se vuelve impráctica rápidamente.
+> **8.** En un TSP con $n$ vértices, ¿cuántos ciclos de Hamilton distintos existen en el [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/04 - Análisis de Algoritmos I - Fundamentos y Funciones Matemáticas\|peor caso]] (grafo completo $K_n$), sin contar reflexiones ni rotaciones como distintos? Explica por qué la fuerza bruta se vuelve impráctica rápidamente.
 > 
 > **9.** Explica por qué Dijkstra falla si se permite un peso negativo en una arista — construye un ejemplo pequeño (3 vértices) donde el algoritmo dé un resultado incorrecto.
 
-> [!success]- ✅ Respuestas
+> [!success] ✅ Respuestas
 > 
 > **1.** Por el teorema de suma de grados, $\sum \delta(v_i) = 2m = 2(7) = 14$.
 > 
@@ -342,7 +364,7 @@ graph TD
 > 
 > - [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/01 - Grafos I - Conceptos Básicos y Recorridos\|01 - Grafos I - Conceptos Básicos y Recorridos]] — fundamentos previos: definiciones, tipos de grafos, Euler y Hamilton
 > - [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/03 - Grafos III - Isomorfismo\|03 - Grafos III - Isomorfismo]] — usa la matriz de adyacencia definida aquí para caracterizar isomorfismo
-> - [[Sucesiones y Cadenas\|Sucesiones y Cadenas]] — la notación de sumatoria $\sum$ se reutiliza en el Teorema de suma de grados
+> - Sucesiones y Cadenas — la notación de sumatoria $\sum$ se reutiliza en el Teorema de suma de grados
 
 ---
 

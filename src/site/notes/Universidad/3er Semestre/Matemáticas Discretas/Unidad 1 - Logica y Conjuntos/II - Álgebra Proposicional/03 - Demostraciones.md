@@ -304,7 +304,7 @@ La lógica es simétrica a la del máximo: en cada caso, al restar $|x-y|$ en lu
 
 ## 🔗 Base Lógica de cada Técnica
 
-> [!note] 📋 Fundamento en el álgebra de proposiciones
+> [!note] 📋 Fundamento en el [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/II - Álgebra Proposicional/01 - Algebra de Proposiciones\|álgebra de proposiciones]]
 > 
 > Cada técnica se apoya en una equivalencia lógica ya demostrada:
 > 
@@ -333,10 +333,13 @@ graph TD
     D --> G
     E --> G
     F --> G
+    style B fill:#E65100,color:#FFFFFF,stroke:#FFB74D,stroke-width:1px
+    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style E fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style F fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style G fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
 
-    style A fill:#1e3a5f,color:#fff
-    style B fill:#4a2d6a,color:#fff
-    style G fill:#2d6a4f,color:#fff
 ```
 
 ---

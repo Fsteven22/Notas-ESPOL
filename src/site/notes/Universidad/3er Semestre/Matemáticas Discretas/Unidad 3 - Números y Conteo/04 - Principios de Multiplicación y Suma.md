@@ -8,7 +8,7 @@
 
 > [!info] 💡 ¿Qué son los métodos de conteo?
 > 
-> Los **métodos de conteo** permiten determinar cuántos elementos tiene un conjunto o cuántas formas existen de realizar una tarea, **sin listarlos todos**. Los dos principios fundamentales son:
+> Los **métodos de conteo** permiten determinar cuántos elementos tiene un [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/01 - Conjuntos, Cardinalidad y Subconjuntos\|conjunto]] o cuántas formas existen de realizar una tarea, **sin listarlos todos**. Los dos principios fundamentales son:
 > 
 > ```mermaid
 > graph TD
@@ -23,7 +23,14 @@
 >     style C fill:#f5e1ff
 >     style F fill:#e1ffe1
 >     style G fill:#ffe1e1
-> ```
+> 
+    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style E fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style G fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
 
 ---
 
@@ -48,11 +55,11 @@
 > 
 > Cuando la tarea se realiza **en etapas** y hay que completar **todas** las etapas. La palabra clave es **"y"**: elegir A **y** luego B **y** luego C.
 
-> [!example]- 📝 Ejemplo 1 — Cadenas sin repetición
+> [!example] 📝 Ejemplo 1 — Cadenas sin repetición
 > 
 > **¿Cuántas cadenas de longitud 4 se pueden formar con las letras ABCDE sin repeticiones?**
 > 
-> Construimos la cadena en 4 pasos sucesivos:
+> Construimos la [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/04 - Sucesiones y Cadenas\|cadena]] en 4 pasos sucesivos:
 > 
 > |Posición|Opciones disponibles|Razón|
 > |---|---|---|
@@ -63,7 +70,7 @@
 > 
 > Por el principio de la multiplicación: $$5 \cdot 4 \cdot 3 \cdot 2 = 120$$
 
-> [!example]- 📝 Ejemplo 2 — Número de subconjuntos
+> [!example] 📝 Ejemplo 2 — Número de subconjuntos
 > 
 > **Pruebe que un conjunto ${x_1, \ldots, x_n}$ de $n$ elementos tiene $2^n$ subconjuntos.**
 > 
@@ -75,7 +82,7 @@
 > > 
 > > Este resultado explica por qué $\displaystyle\sum_{k=0}^{n}\binom{n}{k} = 2^n$: cada subconjunto tiene exactamente un tamaño $k$, y los subconjuntos de tamaño $k$ son $\binom{n}{k}$.
 
-> [!example]- 📝 Ejemplo 3 — Torres en tablero de ajedrez
+> [!example] 📝 Ejemplo 3 — Torres en tablero de ajedrez
 > 
 > **¿De cuántas maneras pueden colocarse una torre blanca y una torre negra de modo que se ataquen?**
 > 
@@ -106,7 +113,7 @@
 > 
 > Cuando la tarea se divide en **casos mutuamente excluyentes** y basta con realizar **uno** de los casos. La palabra clave es **"o"**: elegir de A **o** de B **o** de C.
 
-> [!example]- 📝 Ejemplo 4 — Comité con restricción de presidente
+> [!example] 📝 Ejemplo 4 — Comité con restricción de presidente
 > 
 > **Un comité de 6 personas (Alicia, Benjamín, Consuelo, Adolfo, Eduardo, Francisco) debe elegir presidente, secretario y tesorero. ¿De cuántas maneras si Alicia o Benjamín debe ser el presidente?**
 > 
@@ -117,7 +124,7 @@
 > 
 > Como los casos son disjuntos (no puede haber dos presidentes), por el principio de la suma: $$20 + 20 = \mathbf{40} \text{ posibilidades}$$
 
-> [!example]- 📝 Ejemplo 5 — Eduardo ocupa un puesto
+> [!example] 📝 Ejemplo 5 — Eduardo ocupa un puesto
 > 
 > **¿De cuántas maneras si Eduardo debe ocupar uno de los tres puestos?**
 > 
@@ -143,7 +150,7 @@ En la práctica, la mayoría de los problemas requieren **ambos principios** jun
 > 2. Dentro de cada caso, identificar si hay **pasos** (→ multiplicación entre pasos).
 > 3. Combinar: $\text{Total} = \sum_{\text{casos}} \prod_{\text{pasos}}$
 
-> [!example]- 📝 Ejemplo 6 — Contraseñas con restricción
+> [!example] 📝 Ejemplo 6 — Contraseñas con restricción
 > 
 > **¿Cuántas contraseñas de exactamente 3 caracteres se pueden formar con letras {A,B,C} y dígitos {1,2}, si el primero debe ser letra o el último debe ser dígito?** (sin repetición)
 > 
@@ -168,10 +175,10 @@ graph LR
     Q -->|"Pasos sucesivos (todos)"| M["Principio de la<br/>MULTIPLICACIÓN<br/>n₁ · n₂ · … · nₜ"]
     Q -->|"Casos excluyentes (uno)"| S["Principio de la<br/>SUMA<br/>n₁ + n₂ + … + nₜ"]
     Q -->|"Mezcla"| C["Suma de productos<br/>∑ ∏ nᵢⱼ"]
-    style P fill:#1e3a5f,color:#fff
-    style M fill:#e1f5ff
-    style S fill:#f5e1ff
-    style C fill:#ffe8c0
+    style P fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style M fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
+    style S fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
+    style C fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
 ```
 
 ||Multiplicación|Suma|
@@ -195,7 +202,7 @@ graph LR
 > 
 > **4.** ¿Cuántas cadenas binarias (de 0s y 1s) de longitud 5 empiezan con 1 **o** terminan con 0?
 
-> [!success]- ✅ Respuestas
+> [!success] ✅ Respuestas
 > 
 > **1.** Letras: $26 \cdot 25 \cdot 24$. Dígitos: $10 \cdot 9 \cdot 8$. Total: $26 \cdot 25 \cdot 24 \cdot 10 \cdot 9 \cdot 8 = 11{,}232{,}000$.
 > 
@@ -206,5 +213,29 @@ graph LR
 > **4.** Empiezan con 1: $2^4 = 16$. Terminan con 0: $2^4 = 16$. Empiezan con 1 Y terminan con 0: $2^3 = 8$. Por inclusión-exclusión: $16 + 16 - 8 = \mathbf{24}$.
 
 ---
+
+
+## Metas de Aprendizaje
+
+> [!note] Nivel Básico
+> - [ ] Aplico el principio de multiplicación para contar secuencias de eventos.
+> - [ ] Aplico el principio de suma para contar eventos mutuamente excluyentes.
+> - [ ] Distinguo cuándo usar multiplicación vs suma.
+
+> [!note] Nivel Intermedio
+> - [ ] Resuelvo problemas de conteo con restricciones (permutaciones con repetición).
+> - [ ] Aplico complemento para contar mediante la contrapositiva.
+> - [ ] Combino ambos principios en problemas de múltiples pasos.
+
+> [!note] Nivel Avanzado
+> - [ ] Resuelvo problemas de conteo con sobrerrepresentación (balls and bins).
+> - [ ] Aplico principios a problemas de programación (backtracking).
+> - [ ] Analizo la relación entre conteo y probabilidad.
+
+
+> [!quote] 🔗 Conexiones
+> - Previo: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/03 - Criterios de Divisibilidad y Sistemas de Numeración\|03 - Criterios de Divisibilidad y Sistemas de Numeración]]
+> - Siguiente: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/05 - Permutaciones y Combinaciones\|05 - Permutaciones y Combinaciones]] — conteo avanzado
+> - Relacionado: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/04 - Cardinalidad y Leyes de Cardinalidad\|04 - Cardinalidad y Leyes de Cardinalidad]] — inclusión-exclusión
 
 **Tags:** #matematicas-discretas #conteo #combinatoria #principio-multiplicacion #principio-suma #MATG1051

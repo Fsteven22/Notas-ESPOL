@@ -31,7 +31,7 @@
 
 > [!note] 🔵 Definiciones
 > 
-> Si la entrada de un algoritmo es un conjunto de $n$ elementos, se dice que el **tamaño de la entrada** es $n$.
+> Si la entrada de un algoritmo es un [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/04 - Cardinalidad y Leyes de Cardinalidad\|Cardinalidad]] de $n$ elementos, se dice que el **tamaño de la entrada** es $n$.
 > 
 > - **Tiempo del mejor caso:** el tiempo _mínimo_ necesario para entradas de tamaño $n$.
 > - **Tiempo del peor caso:** el tiempo _máximo_ necesario para entradas de tamaño $n$.
@@ -39,7 +39,7 @@
 
 > [!example] 🟢 Ejemplo — búsqueda secuencial
 > 
-> Encuentra una clave en una sucesión ${s_n}$ de $n$ términos:
+> Encuentra una clave en una [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/04 - Sucesiones y Cadenas\|sucesión]] ${s_n}$ de $n$ términos:
 > 
 > ```
 > Entrada: clave, n
@@ -69,11 +69,11 @@
 > 
 > **Conclusión:** el tiempo del caso promedio es $f(n) = \Theta(n)$.
 
-> [!tip]- 💡 De dónde salen $n^2$ y $n^2/4$
+> [!tip] 💡 De dónde salen $n^2$ y $n^2/4$
 > 
 > Ambas cotas de $1+2+\cdots+n$ vienen de tratar la suma como un polinomio en $n$ (exactamente el trabajo de la nota anterior), no de una fórmula nueva:
 > 
-> - La suma exacta es $\frac{n(n+1)}{2}$, que es $\Theta(n^2)$ por el atajo de polinomios (grado 2, coeficiente líder $\frac12$).
+> - La suma exacta es $\frac{n(n+1)}{2}$, que es $\Theta(n^2)$ por el atajo de polinomios ([[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/01 - Grafos I - Conceptos Básicos y Recorridos\|grado]] 2, coeficiente líder $\frac12$).
 > - $1+2+\cdots+n\leq n^2$: cada uno de los $n$ términos es a lo sumo $n$, así que la suma completa es a lo sumo $n\cdot n=n^2$ — el mismo truco de "homogeneizar" de la nota anterior, pero aplicado término a término en vez de a una fórmula cerrada.
 > - $1+2+\cdots+n\geq n^2/4$: al menos la mitad de los términos (del $\lceil n/2\rceil$ al $n$) valen $\geq n/2$, así que la suma es al menos $\frac{n}{2}\cdot\frac{n}{2}=\frac{n^2}{4}$.
 > 
@@ -99,7 +99,7 @@
 > 
 > $$f(n) = 1+2+\cdots+n = \Theta(n^2)$$
 
-> [!example]- 🟢 Ejemplo II — `while` que divide entre 2, con `for` interno de tamaño $j$
+> [!example] 🟢 Ejemplo II — `while` que divide entre 2, con `for` interno de tamaño $j$
 > 
 > ```
 > j = n
@@ -122,7 +122,7 @@
 > 
 > **Conclusión:** $t(n) = \Theta(n)$.
 
-> [!example]- 🟢 Ejemplo III — mismo `while`, pero el ciclo interno corre de $1$ a $n$ (no a $j$)
+> [!example] 🟢 Ejemplo III — mismo `while`, pero el ciclo interno corre de $1$ a $n$ (no a $j$)
 > 
 > ```
 > i = n
@@ -139,13 +139,13 @@
 > 
 > **Paso inductivo:** si $2^{k}\leq n<2^{k+1}$, se entra una vez con $i=n$ (ejecutando la instrucción $n$ veces), luego $i=\lfloor n/2\rfloor$ cae en el rango $2^{k-1}\leq i<2^k$, y por hipótesis inductiva el resto ejecuta $kn$ veces más. En total $t(n)=n+kn=(k+1)n$, que es exactamente la fórmula para el rango $2^k\leq n<2^{k+1}$.
 > 
-> **De la relación con $k$ a Θ(n log n):** de $2^{k-1}\leq n<2^k$ se sigue $k-1\leq \log n<k$, y para $n\geq2$ ($\log n\geq1$):
+> **De la [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/02 - Relaciones\|relación]] con $k$ a Θ(n log n):** de $2^{k-1}\leq n<2^k$ se sigue $k-1\leq \log n<k$, y para $n\geq2$ ($\log n\geq1$):
 > 
 > $$n\log n < nk \leq 2n\log n, \quad \forall n\geq2$$
 > 
 > **Conclusión:** $t(n) = \Theta(n\log n)$.
 
-> [!tip]- 💡 Los dos saltos lógicos del Ejemplo III
+> [!tip] 💡 Los dos saltos lógicos del Ejemplo III
 > 
 > **① Por qué la inducción prueba $t(n)=kn$ y no solo lo sugiere:**
 > 
@@ -155,7 +155,7 @@
 > 
 > De $2^{k-1}\leq n<2^k$ se aplica $\log$ (creciente, preserva las desigualdades) a los tres lados: $k-1\leq\log n<k$. Esto encierra a $k$ entre $\log n$ y $\log n+1$ — una diferencia de **como mucho 1**, sin importar qué tan grande sea $n$ (el mismo tipo de argumento que el lema del piso de la nota anterior). Multiplicando por $n$ y usando $\log n\geq1$ (válido para $n\geq2$) para poder comparar $\log n$ y $\log n+1$ con múltiplos simples de $\log n$: $$n\log n < nk \leq n(\log n+1) \leq n\log n+n\log n = 2n\log n$$ (la última desigualdad usa $n\leq n\log n$ para $n\geq2$). De ahí sale directamente el sándwich $n\log n<t(n)\leq2n\log n$, es decir $\Theta(n\log n)$ — sin necesidad de adivinar la constante, sale sola del álgebra.
 
-> [!example]- 🟢 Ejemplo IV — `for` anidado con límite $\lfloor i/2\rfloor$
+> [!example] 🟢 Ejemplo IV — `for` anidado con límite $\lfloor i/2\rfloor$
 > 
 > ```
 > for i = 1 to n
@@ -173,7 +173,7 @@
 > 
 > **Conclusión:** $t(n) = \Theta(n^2)$.
 
-> [!tip]- 💡 Por qué la cota se separa en par/impar
+> [!tip] 💡 Por qué la cota se separa en par/impar
 > 
 > La fórmula cerrada de $t(n)$ no es una sola expresión en $n$ — depende de si $n$ es par o impar ($t(2k)=k^2$ vs $t(2k+1)=k(k+1)$), porque el límite del ciclo interno es $\lfloor i/2\rfloor$, que redondea distinto según la paridad de $i$. Por eso la prueba revisa ambos casos por separado en vez de una sola cadena de desigualdades como en los ejemplos anteriores — pero el objetivo es el mismo: en cada caso, acotar la fórmula cerrada (en términos de $k$) por arriba y por abajo con expresiones en $n=2k$ o $n=2k+1$, y verificar que ambas caen en $\Theta(n^2)$.
 > 
@@ -218,7 +218,7 @@
 > 
 > **Conclusión:** $t(n) = kn = \Theta(n)\cdot\Theta(\log n) = \Theta(n\log n)$.
 
-> [!example]- 🟢 Ejemplo — Patrón B con valor inicial $\lfloor\log(5n)\rfloor$ (Taller III, ejercicio 3)
+> [!example] 🟢 Ejemplo — Patrón B con valor inicial $\lfloor\log(5n)\rfloor$ (Taller III, ejercicio 3)
 > 
 > ```
 > k = ⌊log(5n)⌋
@@ -241,7 +241,7 @@
 > 
 > **Conclusión:** $t(n) = \Theta(k_0) = \Theta(\log n)$.
 
-> [!example]- 🟢 Ejemplo — Patrón C con valor inicial $3n^2$ (Lección III, ejercicio 4)
+> [!example] 🟢 Ejemplo — Patrón C con valor inicial $3n^2$ (Lección III, ejercicio 4)
 > 
 > ```
 > i = 3n²
@@ -265,7 +265,7 @@
 > > 
 > > En A y B, el `for` interno **multiplica** el trabajo de cada iteración del `while` — por eso A termina con un producto ($\text{rango}\times\log V$) y B con una suma geométrica que colapsa al valor inicial. En C no hay nada que multiplicar: cada iteración del `while` cuesta $\Theta(1)$, así que el total es literalmente "cuántas veces entré al `while`" — ni más ni menos. Es el caso más simple de los tres, y suele aparecer cuando el ejercicio quiere probar que entiendes que $\log$ es, en el fondo, "cuántas veces puedo dividir esto entre 2".
 
-> [!tip]- 💡 Receta resumida (actualizada con los tres patrones)
+> [!tip] 💡 Receta resumida (actualizada con los tres patrones)
 > 
 > 1. Identifica el valor inicial $V(n)$ de la variable que se divide entre 2, y simplifícalo con el lema del piso si hace falta (ignora el $\lfloor\cdot\rfloor$, trabaja directo con lo de adentro).
 > 2. Mira qué hace el cuerpo del `while`:
@@ -303,7 +303,7 @@
 >     x = x + 1                     // Θ(1)
 > ```
 > 
-> El árbol de posibilidades tiene tres hojas: $\Theta(n^2)$, $\Theta(n)$, $\Theta(1)$. **Peor caso:** la hoja más cara → $\mathcal{O}(n^2)$. **Mejor caso:** la hoja más barata → $\Omega(1)$. No hay una única $\Theta$ para "el algoritmo en general" a menos que se especifique de qué caso se habla — igual que con la búsqueda secuencial al inicio de esta nota.
+> El [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/04 - Árboles I - Conceptos Básicos y Árboles de Expansión\|árbol]] de posibilidades tiene tres hojas: $\Theta(n^2)$, $\Theta(n)$, $\Theta(1)$. **Peor caso:** la hoja más cara → $\mathcal{O}(n^2)$. **Mejor caso:** la hoja más barata → $\Omega(1)$. No hay una única $\Theta$ para "el algoritmo en general" a menos que se especifique de qué caso se habla — igual que con la búsqueda secuencial al inicio de esta nota.
 
 ### Cortes anticipados (`return` dentro de ciclos anidados)
 
@@ -362,7 +362,7 @@
 > 
 > Como $\log n$ pierde contra **cualquier** raíz (por chiquita que sea), $n\log n = o(n^{1{,}5})$ — $n^{1{,}5}$ gana, aunque no sea obvio a simple vista.
 
-> [!example]- 🟢 Ejemplo con trampa incluida
+> [!example] 🟢 Ejemplo con trampa incluida
 > 
 > ```
 > for i=1 to n: for j=1 to n: x=x+1              // Θ(n²)
@@ -378,7 +378,7 @@
 
 > [!note] 🔴 Definición
 > 
-> Una **función recursiva** es una función que se invoca a sí misma. Un **algoritmo recursivo** es aquel que contiene una función recursiva.
+> Una **[[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/01 - Funciones\|función]] recursiva** es una función que se invoca a sí misma. Un **algoritmo recursivo** es aquel que contiene una función recursiva.
 
 > [!example] 🟢 Ejemplo — factorial y su correctitud
 > 
@@ -401,7 +401,7 @@
 > 
 > Por inducción, $\text{factorial}(n)=n!$ para todo $n\geq0$. $\blacksquare$
 
-> [!example]- 🟢 Ejemplo — la caminata del robot (conexión con Fibonacci)
+> [!example] 🟢 Ejemplo — la caminata del robot (conexión con Fibonacci)
 > 
 > Un robot da pasos de $1$ o $2$ metros. Sea $walk(n)$ el número de formas de caminar $n$ metros. Si el primer paso es de $1$ metro, quedan $walk(n-1)$ formas de completar el resto; si es de $2$ metros, quedan $walk(n-2)$. Por el principio de la suma:
 > 
@@ -425,7 +425,7 @@
 
 > [!question] 📋 Por qué esta sección
 > 
-> Los dos ejemplos de arriba (factorial y la caminata del robot) solo demuestran **correctitud**: que el algoritmo calcula lo que dice calcular. No dicen nada sobre **cuánto tarda**. Para eso hace falta plantear una relación de recurrencia distinta — una para el **tiempo** $T(n)$, no para el resultado — y resolverla "desenrollándola" (sustituyendo repetidamente hasta encontrar el patrón). Es el mismo espíritu de las secciones anteriores (contar operaciones, reconocer si el patrón es A o B), aplicado ahora a llamadas recursivas en vez de iteraciones de un `while`. Para la versión formal de resolver recurrencias (ecuación característica, etc.), ver [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/01 - Relaciones de Recurrencia\|01 - Relaciones de Recurrencia]].
+> Los dos ejemplos de arriba (factorial y la caminata del robot) solo demuestran **correctitud**: que el algoritmo calcula lo que dice calcular. No dicen nada sobre **cuánto tarda**. Para eso hace falta plantear una relación de recurrencia distinta — una para el **tiempo** $T(n)$, no para el resultado — y resolverla "desenrollándola" (sustituyendo repetidamente hasta encontrar el patrón). Es el mismo espíritu de las secciones anteriores (contar operaciones, reconocer si el patrón es A o B), aplicado ahora a llamadas recursivas en vez de iteraciones de un `while`. Para la versión formal de resolver recurrencias ([[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/02 - Recurrencia Homogénea\|ecuación característica]], etc.), ver [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/01 - Relaciones de Recurrencia\|01 - Relaciones de Recurrencia]].
 
 > [!tip] 📌 El método: desenrollar la recurrencia
 > 
@@ -434,11 +434,11 @@
 > 3. Encuentra el $k$ en el que se llega al caso base, y sustitúyelo de vuelta.
 > 4. El resultado es una fórmula cerrada para $T(n)$; conviértela a $\Theta$ con las mismas herramientas de siempre.
 
-> [!success]- ✅ (a) Recursión lineal — $\text{factorial}(n)$: $T(n)=T(n-1)+c,\ T(0)=c \implies \Theta(n)$
+> [!success] ✅ (a) Recursión lineal — $\text{factorial}(n)$: $T(n)=T(n-1)+c,\ T(0)=c \implies \Theta(n)$
 > 
 > Cada llamada hace trabajo constante ($c$: la multiplicación y la comparación) más **una** llamada recursiva sobre $n-1$. Desenrollando: $$T(n) = T(n-1)+c = T(n-2)+2c = T(n-3)+3c = \cdots = T(n-k)+kc$$ Se llega al caso base cuando $n-k=0$, es decir $k=n$: $$T(n) = T(0)+nc = c+nc = (n+1)c$$ → $T(n)=\Theta(n)$: una sola cadena de $n$ llamadas, cada una con trabajo constante, es asintóticamente igual a un solo `for` de $n$ iteraciones (Ejemplo I de esta nota).
 
-> [!success]- ✅ (b) Recursión que se divide entre 2 — búsqueda binaria: $T(n)=T(\lfloor n/2\rfloor)+c,\ T(1)=c \implies \Theta(\log n)$
+> [!success] ✅ (b) Recursión que se divide entre 2 — búsqueda binaria: $T(n)=T(\lfloor n/2\rfloor)+c,\ T(1)=c \implies \Theta(\log n)$
 > 
 > ```
 > buscar(n){
@@ -449,7 +449,7 @@
 > 
 > Por el lema del piso (nota anterior), $\lfloor n/2\rfloor=\Theta(n/2)$, así que para el análisis asintótico se puede trabajar directamente con $n/2$. Desenrollando: $$T(n) = T(n/2)+c = T(n/4)+2c = T(n/8)+3c = \cdots = T(n/2^k)+kc$$ Se llega al caso base cuando $n/2^k=1$, es decir $k=\log n$: $$T(n) = T(1)+c\log n = c+c\log n$$ → $T(n)=\Theta(\log n)$. Nótese el paralelo exacto con el Patrón B de la sección anterior: "dividir entre 2 y trabajar $\Theta(1)$ en cada nivel" da $\Theta(\log(\text{valor inicial}))$, sea eso una iteración de `while` o una llamada recursiva.
 
-> [!success]- ✅ (c) Doble recursión — $\text{caminatas}(n)$: $T(n)=T(n-1)+T(n-2)+c \implies$ exponencial, **no** $\Theta(n)$
+> [!success] ✅ (c) Doble recursión — $\text{caminatas}(n)$: $T(n)=T(n-1)+T(n-2)+c \implies$ exponencial, **no** $\Theta(n)$
 > 
 > A diferencia de (a) y (b), aquí cada llamada se **ramifica en dos**, así que desenrollar no da una sola cadena — da un árbol que se duplica en cada nivel. No hace falta la fórmula exacta (eso requiere la ecuación característica de [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/01 - Relaciones de Recurrencia\|01 - Relaciones de Recurrencia]]) para ver que es exponencial:
 > 
@@ -459,7 +459,7 @@
 > 
 > **Conclusión:** $T(n)$ queda atrapado entre dos exponenciales, $(\sqrt2)^n$ y $2^n$ — genuinamente exponencial, no lineal ni logarítmico (el valor exacto es $\Theta(\varphi^n)$ con $\varphi\approx1{,}618$, la razón áurea, resolviendo la recurrencia formalmente). Esta es la razón concreta detrás de la tabla de "Por qué importa" más abajo: cada llamada extra que se ramifica duplica aproximadamente el trabajo, y eso se vuelve impracticable mucho antes que cualquier $\Theta(n^k)$.
 
-> [!success]- ✅ (d) Divide y vencerás con combinación lineal — estilo _merge sort_: $T(n)=2T(n/2)+n,\ T(1)=c \implies \Theta(n\log n)$
+> [!success] ✅ (d) Divide y vencerás con [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/05 - Permutaciones y Combinaciones\|combinación]] lineal — estilo _merge sort_: $T(n)=2T(n/2)+n,\ T(1)=c \implies \Theta(n\log n)$
 > 
 > ```
 > combinar(n){
@@ -535,7 +535,7 @@
 > 
 > A partir de $n\approx50$, un algoritmo $\Theta(2^n)$ ya es impracticable; los algoritmos $\Theta(n!)$ se vuelven inviables incluso antes. Esta es la razón práctica detrás de todo el trabajo de las dos notas: **la notación asintótica predice, sin ejecutar nada, si un algoritmo será usable para el tamaño de entrada que te interesa.**
 
-![ChatGPT Image 18 ago 2026, 20_44_56.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2020_44_56.png)
+!ChatGPT Image 18 ago 2026, 20_44_56.png
 
 ---
 
@@ -560,5 +560,23 @@
 > [4] R. Johnsonbaugh, _Discrete Mathematics_, 8th ed. Hoboken, NJ, USA: Pearson, 2018, pp. 249–268.
 
 ---
+
+
+## Metas de Aprendizaje
+
+> [!note] Nivel Básico
+> - [ ] Analizo algoritmos de búsqueda lineal y binaria.
+> - [ ] Analizo algoritmos de ordenamiento (bubble, selection, insertion).
+> - [ ] Determino peor caso, mejor caso y caso promedio.
+
+> [!note] Nivel Intermedio
+> - [ ] Analizo algoritmos de ordenamiento eficientes (merge sort, quicksort).
+> - [ ] Comparo algoritmos de ordenamiento por complejidad.
+> - [ ] Identifico el caso promedio y su relación con el peor caso.
+
+> [!note] Nivel Avanzado
+> - [ ] Analizo algoritmos de grafos (BFS, DFS) y su complejidad.
+> - [ ] Aplico análisis amortizado a estructuras de datos (pilas, colas).
+> - [ ] Resuelvo problemas de diseño de algoritmos óptimos.
 
 **Tags:** #analisisdealgoritmos #notacionasintotica #recursion #tiemporeal #MATG1051 #unidad4 #ESPOL

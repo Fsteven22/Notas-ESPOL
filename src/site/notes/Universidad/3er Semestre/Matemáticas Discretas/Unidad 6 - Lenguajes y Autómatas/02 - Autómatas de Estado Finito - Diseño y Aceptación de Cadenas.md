@@ -52,15 +52,15 @@
 > $$A = (I, S, f, \mathcal{A}, \sigma)$$
 >
 > donde:
-> 1. $I$ es un conjunto finito de **símbolos de entrada**.
+> 1. $I$ es un [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/04 - Cardinalidad y Leyes de Cardinalidad\|Cardinalidad]] finito de **símbolos de entrada**.
 > 2. $S$ es un conjunto finito de **estados**.
-> 3. $f : S \times I \to S$ es la **función de transición**.
+> 3. $f : S \times I \to S$ es la **[[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/01 - Funciones\|función]] de transición**.
 > 4. $\mathcal{A} \subseteq S$ es el **conjunto de estados aceptantes**.
 > 5. $\sigma \in S$ es el **estado inicial**.
 >
 > **Nota de notación:** se usa $\mathcal{A}$ (caligráfica) para el conjunto de estados aceptantes y $A$ para el autómata mismo — no confundir ambos símbolos.
 
-> [!example]- 🟢 Ejemplo — Autómata con $\mathcal{A} = \{\sigma_1, \sigma_2\}$
+> [!example] 🟢 Ejemplo — Autómata con $\mathcal{A} = \{\sigma_1, \sigma_2\}$
 >
 > Sea $I=\{a,b\}$, $S=\{\sigma_0,\sigma_1,\sigma_2\}$, con:
 >
@@ -119,7 +119,7 @@
 > 3. Seguir la transición indicada por cada símbolo.
 > 4. Aceptar si el estado final es aceptante.
 
-> [!example]- 🟢 Ejemplo — Autómata que acepta cadenas con al menos dos $b$ consecutivos al final
+> [!example] 🟢 Ejemplo — Autómata que acepta cadenas con al menos dos $b$ consecutivos al final
 >
 > Sea $I=\{a,b\}$, $S=\{\sigma_0,\sigma_1,\sigma_2\}$, $\mathcal{A}=\{\sigma_2\}$, $\sigma=\sigma_0$, con:
 >
@@ -175,7 +175,7 @@
 
 ## 🎨 Ejemplos de Diseño
 
-> [!example]- 🟢 Diseño 1 — Cadenas que no contienen $a$
+> [!example] 🟢 Diseño 1 — Cadenas que no contienen $a$
 >
 > Diseñar un autómata sobre $I=\{a,b\}$ que acepte exactamente las cadenas que **no** contienen símbolos $a$.
 >
@@ -192,7 +192,7 @@
 >     style a fill:#f5e1ff
 > ```
 
-> [!example]- 🟢 Diseño 2 — Número impar de símbolos $a$
+> [!example] 🟢 Diseño 2 — Número impar de símbolos $a$
 >
 > Diseñar un autómata sobre $I=\{a,b\}$ que acepte exactamente las cadenas con un número **impar** de símbolos $a$.
 >
@@ -222,7 +222,7 @@
 > | **Conjunto de salida $O$** | Cualquier conjunto finito | Restringido a $\{0,1\}$ (o se omite) |
 > | **Pregunta que responde** | ¿Qué salida se produce en cada paso? | ¿Se acepta o rechaza la cadena completa? |
 > | **Elemento distintivo** | Función de salida $g$ | Conjunto de estados aceptantes $\mathcal{A}$ |
-> | **Diagrama** | Etiquetas $i/o$ en cada arista | Solo etiqueta $i$; aceptantes con doble círculo |
+> | **Diagrama** | Etiquetas $i/o$ en cada [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/01 - Grafos I - Conceptos Básicos y Recorridos\|arista]] | Solo etiqueta $i$; aceptantes con doble círculo |
 > | **Ejemplo típico** | Sumador en serie | Validador de patrones (regex) |
 
 ---
@@ -239,9 +239,9 @@ graph TD
     F --> G["Probar con cadenas de ejemplo:<br/>¿aceptadas y rechazadas son correctas?"]
     G -->|"No"| B
     G -->|"Sí"| H["Autómata completo"]
-    style A fill:#1e3a5f,color:#fff
-    style H fill:#e1ffe1
-    style G fill:#f5e1ff
+    style A fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style H fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
+    style G fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
 ```
 
 ---
@@ -277,7 +277,7 @@ graph TD
 > 2. Explica la diferencia entre la notación $A$ (el autómata) y $\mathcal{A}$ (el conjunto de estados aceptantes).
 > 3. ¿Cuál es la condición exacta para que la cadena nula $\lambda$ sea aceptada por un autómata?
 
-> [!success]- ✅ Respuestas Nivel 1
+> [!success] ✅ Respuestas Nivel 1
 >
 > **1.** $\varepsilon$: se queda en $E$ (0 símbolos $a$, número par) → $E \notin \mathcal{A}$ → **rechazada**. $a$: pasa de $E$ a $O$ → $O \in \mathcal{A}$ → **aceptada**. $bba$: $E\to E\to E \to O$ → **aceptada** (una sola $a$, número impar).
 >
@@ -293,7 +293,7 @@ graph TD
 > 5. Diseña un autómata sobre $\{0,1\}$ que acepte exactamente las cadenas que terminan en $1$ (propón estados, estado inicial, estados de aceptación y dibuja el diagrama).
 > 6. Diseña un autómata sobre $\{a,b\}$ que acepte exactamente las cadenas que contienen al menos una $a$.
 
-> [!success]- ✅ Respuestas Nivel 2
+> [!success] ✅ Respuestas Nivel 2
 >
 > **4.** $abab$: tiene dos $a$ (par) → **rechazada**. $aaab$: tiene tres $a$ (impar) → **aceptada**. $bbbabb$: tiene una $a$ (impar) → **aceptada**.
 >
@@ -318,7 +318,7 @@ graph TD
 > 8. Construye la tabla de transición completa del autómata que acepta cadenas sin símbolos $a$ (Diseño 1), y demuestra formalmente (por inducción sobre la longitud de $\alpha$) que la trayectoria de cualquier cadena con al menos una $a$ termina en el estado $A$.
 > 9. Un autómata debe aceptar cadenas binarias que representen múltiplos de 3 (leyendo el bit más significativo primero). Plantea qué información debe recordar cada estado (pista: piensa en el residuo módulo 3) y cuántos estados mínimos se necesitan.
 
-> [!success]- ✅ Respuestas Nivel 3
+> [!success] ✅ Respuestas Nivel 3
 >
 > **7.** Se necesitan 3 estados: $Q_0$ (el sufijo leído hasta ahora no coincide con ningún prefijo de "$ab$"), $Q_1$ (el último símbolo fue $a$, posible inicio de "$ab$"), $Q_2$ (los últimos dos símbolos fueron exactamente "$ab$", **aceptante**). Transiciones: $f(Q_0,a)=Q_1$, $f(Q_0,b)=Q_0$, $f(Q_1,a)=Q_1$, $f(Q_1,b)=Q_2$, $f(Q_2,a)=Q_1$, $f(Q_2,b)=Q_0$. Estado inicial $Q_0$; $\mathcal{A}=\{Q_2\}$.
 >

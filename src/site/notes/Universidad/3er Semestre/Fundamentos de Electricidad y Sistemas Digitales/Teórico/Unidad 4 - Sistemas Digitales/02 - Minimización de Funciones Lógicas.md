@@ -158,7 +158,7 @@ graph TD
 
 > [!info] 💡 ¿Por qué usar una sola familia de compuertas?
 > 
-> Como ya viste en [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/04 - Circuitos Integrados de Logica Fija y Tablas de Verdad\|04 - Circuitos Integrados de Logica Fija y Tablas de Verdad]] (Unidad 3), NAND y NOR son **funcionalmente completas**: cualquier función booleana puede construirse usando únicamente una de ellas. Esto simplifica el inventario de CI necesarios en un diseño real (menos referencias distintas que comprar, almacenar y soldar).
+> Como ya viste en [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/07 - Circuitos Integrados de Logica Fija y Tablas de Verdad\|07 - Circuitos Integrados de Logica Fija y Tablas de Verdad]] (Unidad 3), NAND y NOR son **funcionalmente completas**: cualquier función booleana puede construirse usando únicamente una de ellas. Esto simplifica el inventario de CI necesarios en un diseño real (menos referencias distintas que comprar, almacenar y soldar).
 
 > [!success] 📊 Equivalencias: NOT, AND y OR con NAND / NOR únicamente
 > 
@@ -292,7 +292,7 @@ mindmap
 > [!quote] 🔗 Conexiones
 > 
 > - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 4 - Sistemas Digitales/01 - Introducción a la Electrónica Digital\|01 - Introducción a la Electrónica Digital]] — tema previo de la unidad: sistemas de numeración, tablas de verdad y lógica positiva/negativa/mixta.
-> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/04 - Circuitos Integrados de Logica Fija y Tablas de Verdad\|04 - Circuitos Integrados de Logica Fija y Tablas de Verdad]] — compuertas lógicas y la propiedad de completitud funcional de NAND/NOR (Unidad 3).
+> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/07 - Circuitos Integrados de Logica Fija y Tablas de Verdad\|07 - Circuitos Integrados de Logica Fija y Tablas de Verdad]] — compuertas lógicas y la propiedad de completitud funcional de NAND/NOR (Unidad 3).
 > - Próxima nota (Unidad 4, punto 4): Circuitos integrados programables.
 
 ---

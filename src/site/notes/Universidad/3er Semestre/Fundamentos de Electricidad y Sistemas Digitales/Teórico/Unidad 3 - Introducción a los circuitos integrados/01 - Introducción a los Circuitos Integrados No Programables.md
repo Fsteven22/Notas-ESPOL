@@ -100,8 +100,11 @@
 > |Próxima nota|CI protagonista|Función|
 > |---|---|---|
 > |**02 — Aplicaciones de los OPAMs**|Amplificador operacional|Minimización de ruido (amplificador diferencial, seguidor de tensión, filtros activos)|
-> |**03 — Aplicaciones de 555 / ADC / PWM**|Temporizador 555, convertidores ADC, generación de PWM|Acondicionamiento de señales|
-> |**04 — Lógica fija**|Compuertas lógicas (familias 74xx/40xx)|Circuitos combinacionales y tablas de verdad|
+> |**03 — Configuraciones Lineales Básicas del OPAM**|Amplificador operacional|Inversor, no inversor, sumadores, eliminación de DC, convertidores V-I/I-V|
+> |**04 — Integrador, Derivador y No Lineales**|Amplificador operacional|Integrador, derivador, comparadores, rectificadores, log/antilog|
+> |**05 — Ejercicios Resueltos y de Oposición**|Amplificador operacional|Análisis nodal, Thevenin y problemas de oposición|
+> |**06 — Aplicaciones de 555 / ADC / PWM**|Temporizador 555, convertidores ADC, generación de PWM|Acondicionamiento de señales|
+> |**07 — Lógica fija**|Compuertas lógicas (familias 74xx/40xx)|Circuitos combinacionales y tablas de verdad|
 
 ![ChatGPT Image 22 jul 2026, 13_19_52.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2022%20jul%202026,%2013_19_52.png)
 

@@ -9,7 +9,7 @@
 
 > [!info] 💡 ¿Qué estudia la cardinalidad?
 >
-> La **cardinalidad** no solo nos dice cuántos elementos tiene un conjunto: también nos permite *calcular* el tamaño de conjuntos formados por operaciones (unión, intersección, diferencia) sin tener que listar todos sus elementos. Es la herramienta clave para los problemas de conteo con diagramas de Venn.
+> La **cardinalidad** no solo nos dice cuántos elementos tiene un [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/01 - Conjuntos, Cardinalidad y Subconjuntos\|conjunto]]: también nos permite *calcular* el tamaño de conjuntos formados por operaciones (unión, intersección, diferencia) sin tener que listar todos sus elementos. Es la herramienta clave para los problemas de conteo con diagramas de Venn.
 >
 > ```mermaid
 > graph TD
@@ -43,7 +43,7 @@
 > | $\{\emptyset\}$ | 1 | El vacío usado como elemento |
 > | $U$ (universal) | $n$ | Depende del contexto del problema |
 
-> [!tip]- 💡 Observación — Elementos repetidos no se cuentan doble
+> [!tip] 💡 Observación — Elementos repetidos no se cuentan doble
 >
 > Los conjuntos no tienen elementos repetidos. Si se escribe $A = \{1, 2, 2, 3\}$, en realidad $A = \{1, 2, 3\}$ y $|A| = 3$, no 4.
 
@@ -102,7 +102,7 @@
 
 ---
 
-## 🗺️ Las 4 Regiones del Diagrama de Venn (2 conjuntos)
+## 🗺️ Las 4 Regiones del [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/02 - Operaciones y Diagramas de Venn\|Diagrama de Venn]] (2 conjuntos)
 
 > [!note] 🗺️ Regiones del diagrama de Venn con 2 conjuntos
 >
@@ -313,7 +313,7 @@
 
 > [!example] 📝 Ejercicio Resuelto 4 — Ley de la diferencia
 >
-> **Problema:** Sea $|A| = 15$, $|B| = 10$, $|A \cap B| = 4$. Calcula $|A - B|$, $|B - A|$ y $|A \triangle B|$ (diferencia simétrica).
+> **Problema:** Sea $|A| = 15$, $|B| = 10$, $|A \cap B| = 4$. Calcula $|A - B|$, $|B - A|$ y $|A \triangle B|$ (diferencia [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/02 - Relaciones\|simétrica]]).
 >
 > **Solución:**
 >
@@ -413,13 +413,37 @@ graph TD
     C --> I["Verificar: suma de regiones = U"]
     H --> I
 
-    style A fill:#1e3a5f,color:#fff
-    style C fill:#e1f5ff
-    style D fill:#e1ffe1
-    style E fill:#fff4e1
-    style I fill:#ffe1e1
+    style A fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style C fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
+    style D fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
+    style E fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
+    style I fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
 ```
 
 ---
+
+
+## Metas de Aprendizaje
+
+> [!note] Nivel Básico
+> - [ ] Calculo |A ∪ B| usando el principio de inclusión-exclusión para 2 conjuntos.
+> - [ ] Extiendo la inclusión-exclusión a 3 conjuntos.
+> - [ ] Determino cardinalidad de diferencias y complementos.
+
+> [!note] Nivel Intermedio
+> - [ ] Resuelvo problemas de conteo usando inclusión-exclusión generalizada.
+> - [ ] Aplico cardinalidad a problemas de encuestas y grupos superpuestos.
+> - [ ] Calculo cardinalidad de productos cartesianos |A × B|.
+
+> [!note] Nivel Avanzado
+> - [ ] Resuelvo problemas complejos de conteo con 4 o más conjuntos.
+> - [ ] Aplico el principio de inclusión-exclusión a problemas de probabilidad.
+> - [ ] Combino cardinalidad con principios de multiplicación y suma.
+
+
+> [!quote] 🔗 Conexiones
+> - Previo: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/03 - Leyes de Conjuntos\|03 - Leyes de Conjuntos]] — leyes
+> - Relacionado: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/04 - Principios de Multiplicación y Suma\|04 - Principios de Multiplicación y Suma]] — principios de conteo
+> - Relacionado: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/05 - Permutaciones y Combinaciones\|05 - Permutaciones y Combinaciones]] — conteo avanzado
 
 **Tags:** #matematicas-discretas #conjuntos #cardinalidad #inclusion-exclusion #venn #MATG1051

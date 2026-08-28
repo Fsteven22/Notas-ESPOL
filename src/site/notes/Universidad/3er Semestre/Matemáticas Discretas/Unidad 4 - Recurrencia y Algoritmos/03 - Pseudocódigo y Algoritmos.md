@@ -48,7 +48,7 @@
 > |Relacionales|$==$ (igual a), $\neq$ (no igual a), $<, >, \leq, \geq$|
 > |Lógicos|$\land$ (y), $\lor$ (o), $\neg$ (no)|
 
-> [!example]- 🟢 Ejemplo — diferencia entre `=` y `==`
+> [!example] 🟢 Ejemplo — diferencia entre `=` y `==`
 > 
 > Sea $x=5$, $y=10$, $z=15$. Para el segmento:
 > 
@@ -78,7 +78,7 @@
 > 
 > Si la acción tiene varias instrucciones, se encierran entre llaves `{ }`. Los comentarios se escriben con `//` y se extienden hasta el final de la línea — **no se ejecutan**, solo documentan el código.
 
-> [!example]- 🟢 Ejemplo — `if-else` con múltiples instrucciones
+> [!example] 🟢 Ejemplo — `if-else` con múltiples instrucciones
 > 
 > Sea $x=5$, $y=10$, $z=15$. Para:
 > 
@@ -110,9 +110,9 @@
 > |**Determinismo**|Cada resultado intermedio depende únicamente de la entrada y de los pasos anteriores|
 > |**Carácter finito**|Termina tras un número finito de instrucciones|
 > |**Corrección**|La salida producida es correcta — resuelve el problema sin errores|
-> |**Generalidad**|Se aplica a un conjunto de entradas, no a un solo caso|
+> |**Generalidad**|Se aplica a un [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/04 - Cardinalidad y Leyes de Cardinalidad\|Cardinalidad]] de entradas, no a un solo caso|
 
-> [!example]- 🟢 Ejemplo — máximo de tres números (con rastreo)
+> [!example] 🟢 Ejemplo — máximo de tres números (con rastreo)
 > 
 > **Algoritmo** (encuentra el máximo entre $a$, $b$, $c$):
 > 
@@ -134,7 +134,7 @@
 
 ## 🟡 Funciones en Seudocódigo
 
-> [!note] 🟡 Sintaxis de una función
+> [!note] 🟡 Sintaxis de una [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/01 - Funciones\|función]]
 > 
 > ```
 > nombre_función(parámetros separados por comas) {
@@ -146,7 +146,7 @@
 > - `return` (sin valor) simplemente termina la función.
 > - Si no hay instrucción `return`, la función termina justo antes de la llave de cierre.
 
-> [!example]- 🟢 Ejemplo — máximo y mínimo de tres números en seudocódigo
+> [!example] 🟢 Ejemplo — máximo y mínimo de tres números en seudocódigo
 > 
 > ```
 > Entrada: a, b, c
@@ -188,7 +188,7 @@
 > 
 > Mientras la condición sea verdadera, se ejecuta la acción y la secuencia se repite; en cuanto la condición se vuelve falsa, el control pasa a la instrucción siguiente.
 
-> [!example]- 🟢 Ejemplo — máximo de una sucesión con `while`
+> [!example] 🟢 Ejemplo — máximo de una [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/04 - Sucesiones y Cadenas\|sucesión]] con `while`
 > 
 > ```
 > Entrada: s, n
@@ -224,7 +224,7 @@
 
 ---
 
-## 🎓 Ejemplos Avanzados: Cuantificadores Lógicos
+## 🎓 Ejemplos Avanzados: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/II - Álgebra Proposicional/02 - Cuantificadores\|Cuantificadores]] Lógicos
 
 > [!example] 🟢 Valor lógico de $\forall x: P(x)$
 > 
@@ -263,7 +263,7 @@
 
 ## 🧮 Otros Algoritmos Clásicos
 
-> [!example]- 🟢 Prueba de primalidad
+> [!example] 🟢 Prueba de primalidad
 > 
 > Determina si $n>1$ es primo o compuesto. Si es compuesto, regresa un divisor $d$ con $2\leq d\leq\sqrt{n}$; si es primo, regresa $0$.
 > 
@@ -278,7 +278,7 @@
 > }
 > ```
 
-> [!example]- 🟢 Conversión de base $b$ a decimal
+> [!example] 🟢 Conversión de base $b$ a decimal
 > 
 > Convierte la cadena $c = c_n c_{n-1}\cdots c_1 c_0$ (dígitos en base $b$) a su valor decimal.
 > 
@@ -296,7 +296,7 @@
 > }
 > ```
 
-![ChatGPT Image 18 ago 2026, 20_24_30.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2020_24_30.png)
+!ChatGPT Image 18 ago 2026, 20_24_30.png
 
 ---
 
@@ -316,5 +316,23 @@
 > [2] K. H. Rosen, _Discrete Mathematics and Its Applications_, 8th ed. New York, USA: McGraw-Hill, 2019, pp. 173–184.
 
 ---
+
+
+## Metas de Aprendizaje
+
+> [!note] Nivel Básico
+> - [ ] Leo y escribo pseudocódigo para algoritmos secuenciales.
+> - [ ] Identifico estructuras de control (if, while, for, repeat).
+> - [ ] Trazeo la ejecución de un algoritmo paso a paso.
+
+> [!note] Nivel Intermedio
+> - [ ] Diseño algoritmos que resuelven problemas de búsqueda y ordenamiento.
+> - [ ] Identifico recursión en pseudocódigo y la expreso como recurrencia.
+> - [ ] Comparo algoritmos iterativos vs recursivos para el mismo problema.
+
+> [!note] Nivel Avanzado
+> - [ ] Diseño algoritmos divide y vencerás y expreso su recurrencia.
+> - [ ] Analizo la corrección de algoritmos usando invariantes.
+> - [ ] Optimizo algoritmos eliminando llamadas recursivas innecesarias.
 
 **Tags:** #pseudocodigo #algoritmos #estructurasdecontrol #MATG1051 #unidad4 #ESPOL

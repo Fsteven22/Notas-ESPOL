@@ -8,7 +8,7 @@
 
 > [!info] 💡 ¿Qué son los árboles y por qué importan?
 > 
-> Un **árbol** es el tipo de grafo más simple que sigue siendo útil: conexo, sin ciclos, y con una trayectoria única entre cualquier par de vértices. Esa simplicidad es justamente lo que los hace poderosos.
+> Un **árbol** es el tipo de [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/01 - Grafos I - Conceptos Básicos y Recorridos\|grafo]] más simple que sigue siendo útil: conexo, sin ciclos, y con una trayectoria única entre cualquier par de vértices. Esa simplicidad es justamente lo que los hace poderosos.
 > 
 > **Importancia histórica:** Arthur Cayley los estudió formalmente en 1857 para contar isómeros de hidrocarburos saturados en química orgánica — el primer uso serio de teoría de grafos aplicada. Gustav Kirchhoff los usó unos años antes para analizar circuitos eléctricos (leyes de Kirchhoff), sentando las bases de lo que hoy es la teoría de árboles de expansión.
 > 
@@ -28,7 +28,17 @@
 >     style A fill:#1e3a5f,color:#fff
 >     style C fill:#e1f5ff
 >     style G fill:#f5e1ff
-> ```
+> 
+    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style D fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style E fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style G fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style H fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style I fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style J fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
 
 ---
 
@@ -56,7 +66,14 @@
 >     v2 --> v5((v5))
 >     v3 --> v6((v6))
 >     v3 --> v7((v7))
-> ```
+> 
+    style v1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style v2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style v3 fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style v4 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style v5 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style v6 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style v7 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
 > 
 > - $v_1$ está en el **nivel 0**
 > - $v_2$ y $v_3$ están en el **nivel 1**
@@ -102,7 +119,7 @@
 > - Si $x$ y $y$ son hijos de $z$, $x$ y $y$ son **hermanos**.
 > - Si $x$ no tiene hijos, $x$ es un **vértice terminal** (u **hoja**).
 > - Si $x$ no es un vértice terminal, $x$ es un **vértice interno** (o **rama**).
-> - El **subárbol de $T$ con raíz en $x$** es el grafo con conjunto de vértices $V$ = $x$ junto con los descendientes de $x$, y conjunto de aristas $E$ = las aristas en una trayectoria simple de $x$ a algún vértice en $V$.
+> - El **subárbol de $T$ con raíz en $x$** es el grafo con [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/04 - Cardinalidad y Leyes de Cardinalidad\|Cardinalidad]] de vértices $V$ = $x$ junto con los descendientes de $x$, y conjunto de aristas $E$ = las aristas en una trayectoria simple de $x$ a algún vértice en $V$.
 
 > [!example] 📝 Ejemplo 3 — Árbol genealógico de los dioses griegos
 > 
@@ -216,9 +233,9 @@
 > |**Forma del árbol resultante**|Tiende a ser más "ancho" y de menor altura|Tiende a ser más "profundo" y angosto|
 > |**Otro nombre**|—|Búsqueda de regreso / backtracking|
 
-> [!tip]- 🖥️ Aplicación en programación
+> [!tip] 🖥️ Aplicación en programación
 > 
-> En código, **BFS** se implementa con una **cola**: se procesan los vértices en el orden en que se descubrieron. **DFS** se implementa con una **pila** (o de forma más natural, con **recursión**), ya que "retroceder al padre" es exactamente lo que hace una pila de llamadas cuando una función recursiva termina. Ambos algoritmos son la base de recorridos de árboles en estructuras de datos (`árbol.bfs()`, `árbol.dfs()`) y de búsqueda en grafos en general (por ejemplo, para encontrar componentes conexas o detectar ciclos).
+> En código, **BFS** se implementa con una **cola**: se procesan los vértices en el orden en que se descubrieron. **DFS** se implementa con una **pila** (o de forma más natural, con **recursión**), ya que "retroceder al padre" es exactamente lo que hace una pila de llamadas cuando una [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/01 - Funciones\|función]] recursiva termina. Ambos algoritmos son la base de recorridos de árboles en estructuras de datos (`árbol.bfs()`, `árbol.dfs()`) y de búsqueda en grafos en general (por ejemplo, para encontrar componentes conexas o detectar ciclos).
 
 ---
 
@@ -252,7 +269,7 @@
 > > 
 > > La versión simple de Prim (revisando todas las aristas en cada paso) tiene complejidad $O(n^2)$, adecuada para grafos densos. Con una cola de prioridad (heap), se puede optimizar a $O(m \log n)$, mejor para grafos dispersos. Es uno de los algoritmos "greedy" (voraz) más citados en cursos de estructuras de datos, junto con el algoritmo de Kruskal (que en vez de crecer desde un vértice, ordena todas las aristas por peso y las va agregando si no forman ciclo).
 
-![ChatGPT Image 18 ago 2026, 18_29_57.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2018_29_57.png)
+!ChatGPT Image 18 ago 2026, 18_29_57.png
 
 ---
 
@@ -267,10 +284,12 @@ graph TD
     C --> F[Árbol de expansión válido]
     D --> F
     E --> G[Árbol de expansión MÍNIMA]
+    style C fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style D fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style E fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style G fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
 
-    style A fill:#1e3a5f,color:#fff
-    style E fill:#f5e1ff
-    style G fill:#e1ffe1
 ```
 
 ---
@@ -287,10 +306,10 @@ graph TD
     Q3 -->|Profundidad| DFS["Usar DFS"]
     Q2 -->|Sí, y quiero el costo mínimo| Prim["Usar algoritmo de Prim"]
 
-    style NoTree fill:#ffe1e1
-    style BFS fill:#e1f5ff
-    style DFS fill:#e1f5ff
-    style Prim fill:#f5e1ff
+    style NoTree fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
+    style BFS fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
+    style DFS fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
+    style Prim fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
 ```
 
 ---
@@ -319,11 +338,11 @@ graph TD
 > 
 > **8.** Dado un grafo conexo con un ciclo de longitud 4 donde todas las aristas tienen el mismo peso, ¿cuántos árboles de expansión mínima distintos existen? Generaliza tu respuesta para un ciclo de longitud $n$.
 > 
-> **9.** Diseña (en pseudocódigo o descripción) una modificación del algoritmo de Prim que, además de encontrar el árbol de expansión mínima, calcule su peso total sin necesidad de un segundo recorrido.
+> **9.** Diseña (en [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/03 - Pseudocódigo y Algoritmos\|pseudocódigo]] o descripción) una modificación del algoritmo de Prim que, además de encontrar el árbol de expansión mínima, calcule su peso total sin necesidad de un segundo recorrido.
 
 > [!success] ✅ Respuestas
 > 
-> **1.** $v_2$ está en el nivel 2 (raíz = nivel 0, $v_1$ = nivel 1, $v_2$ = nivel 2). Sí, $v_2$ es descendiente de $r$ porque $r$ es ancestro de $v_1$, que a su vez es ancestro de $v_2$ — la relación ancestro/descendiente es transitiva a lo largo de la trayectoria.
+> **1.** $v_2$ está en el nivel 2 (raíz = nivel 0, $v_1$ = nivel 1, $v_2$ = nivel 2). Sí, $v_2$ es descendiente de $r$ porque $r$ es ancestro de $v_1$, que a su vez es ancestro de $v_2$ — la [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/02 - Relaciones\|relación]] ancestro/descendiente es transitiva a lo largo de la trayectoria.
 > 
 > **2.** $9 - 1 = 8$ aristas, por el teorema de caracterización (condición c).
 > 

@@ -72,7 +72,7 @@
 > [!quote] 🔗 Conexiones
 > 
 > - [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 3 - What's It Worth/Recursos Adicionales/The Canterville Ghost/Capítulo III - The Canterville Ghost\|Capítulo III - The Canterville Ghost]]
-> - [[Capítulo V - The Canterville Ghost\|Capítulo V - The Canterville Ghost]]
+> - [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 4 - Going Glocal/Recursos Adicionales/The Canterville Ghost/Capítulo V - The Canterville Ghost\|Capítulo V - The Canterville Ghost]]
 
 ---
 

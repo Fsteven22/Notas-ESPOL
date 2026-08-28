@@ -21,7 +21,12 @@
 >     style A fill:#e1f5ff
 >     style B fill:#1e3a5f,color:#fff
 >     style F fill:#f5e1ff
-> ```
+> 
+    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style E fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
 
 ---
 
@@ -178,7 +183,7 @@
 
 ## 🔄 Recurrencias
 
-> [!note] 🔄 Definición — Relación de Recurrencia
+> [!note] 🔄 Definición — [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/01 - Relaciones de Recurrencia\|Relación de Recurrencia]]
 > 
 > Una **relación de recurrencia** para una sucesión $\{s_n\}$ es una ecuación que expresa $s_n$ en términos de uno o más términos anteriores de la misma sucesión.
 > 
@@ -315,12 +320,18 @@ graph TD
     C --> I["Longitud |α|"]
     C --> J[Concatenación αβ]
     C --> K["Cadena nula λ"]
+    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style D fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style E fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style G fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style H fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style I fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style J fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style K fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
 
-    style A fill:#1e3a5f,color:#fff
-    style B fill:#e1f5ff
-    style C fill:#f5e1ff
-    style F fill:#e1ffe1
-    style G fill:#e1ffe1
 ```
 
 ---

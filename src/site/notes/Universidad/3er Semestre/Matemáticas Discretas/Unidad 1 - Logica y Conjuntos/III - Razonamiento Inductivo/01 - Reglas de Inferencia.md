@@ -55,7 +55,7 @@
 > | $p \vee q,\ \neg p \Rightarrow q$ | **Silogismo Disyuntivo** |
 > | $p \wedge q \Rightarrow p$ | **Simplificación** |
 > 
-![ChatGPT Image 2 jun 2026, 00_08_36.png](/img/user/Universidad/Figuras/ChatGPT%20Image%202%20jun%202026,%2000_08_36.png)
+!ChatGPT Image 2 jun 2026, 00_08_36.png
 
 ---
 
@@ -214,28 +214,32 @@
 
 ```mermaid
 graph TD
-    A[Premisas conocidas] --> B{¿Qué regla aplica?}
-
-    B --> C[Modus Ponens<br/>p, p→q ⊢ q]
-    B --> D[Modus Tollens<br/>¬q, p→q ⊢ ¬p]
-    B --> E[Sil. Hipotético<br/>p→q, q→r ⊢ p→r]
-    B --> F[Sil. Disyuntivo<br/>p∨q, ¬p ⊢ q]
-    B --> G[Adición / Simplificación<br/>/ Conjunción]
-
-    C --> H[✅ Nueva proposición derivada]
+    A[Premisas conocidas] --> B{Que regla aplica?}
+    B --> C["Modus Ponens: p, p->q |= q"]
+    B --> D["Modus Tollens: no q, p->q |= no p"]
+    B --> E["Sil. Hipotetico: p->q, q->r |= p->r"]
+    B --> F["Sil. Disyuntivo: p o q, no p |= q"]
+    B --> G["Adicion / Simplificacion / Union"]
+    C --> H[Nueva proposicion derivada]
     D --> H
     E --> H
     F --> H
     G --> H
-
-    H --> I{¿Es la conclusión?}
-    I -- Sí --> J[✅ Argumento válido]
-    I -- No --> B
-
-    style A fill:#1e3a5f,color:#fff
-    style B fill:#4a2d6a,color:#fff
-    style J fill:#2d6a4f,color:#fff
+    H --> I{Es la conclusion?}
+    I -->|Si| J[Argumento valido]
+    I -->|No| B
+    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B fill:#E65100,color:#FFFFFF,stroke:#FFB74D,stroke-width:1px
+    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style E fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style F fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style G fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style H fill:#1B5E20,color:#FFFFFF,stroke:#A5D6A7,stroke-width:1px
+    style I fill:#E65100,color:#FFFFFF,stroke:#FFB74D,stroke-width:1px
+    style J fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
 ```
+
 
 ---
 

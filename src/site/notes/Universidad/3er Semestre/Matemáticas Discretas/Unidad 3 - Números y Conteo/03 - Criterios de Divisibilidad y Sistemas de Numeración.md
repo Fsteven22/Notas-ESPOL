@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/universidad/3er-semestre/matematicas-discretas/unidad-3-numeros-y-conteo/03-criterios-de-divisibilidad-y-sistemas-de-numeracion/","dg-note-properties":{}}
 ---
 
-# 🔣 Criterios de Divisibilidad y Sistemas de Numeración
+# 🔣 Criterios de [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/01 - Divisibilidad y Números Primos\|Divisibilidad]] y Sistemas de Numeración
 
 ## 🎯 Introducción
 
@@ -38,7 +38,16 @@
 >     style G fill:#e1ffe1
 >     style H fill:#e1ffe1
 >     style I fill:#fff4e1
-> ```
+> 
+    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style D fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style E fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style G fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style H fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style I fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
 > 
 > |Tema|Idea central|
 > |---|---|
@@ -171,7 +180,9 @@
 >     style P2 fill:#e1f5ff
 >     style P5 fill:#e1ffe1
 >     style P4 fill:#fff4e1
-> ```
+> 
+    style P2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style P4 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
 > 
 > **Ejemplo — decimal 146 a binario:**
 > 
@@ -246,29 +257,49 @@
 ## 📊 Resumen Visual
 
 ```mermaid
-mindmap
-  root((Criterios y<br/>Numeración))
-    Criterios de Divisibilidad
-      Por 3: suma de dígitos div. por 3
-      Por 9: suma de dígitos div. por 9
-      Por 2: último dígito par
-      Por 5: último dígito 0 o 5
-      Demostración: descomposición posicional
-    Sistemas de Numeración
-      Base b: dígitos 0 a b-1
-      Binario base 2
-      Decimal base 10
-      Hexadecimal base 16
-      A=10, B=11, C=12, D=13, E=14, F=15
-    Conversión a Decimal
-      Σ dᵢ · bⁱ
-      Evaluar directamente
-    Conversión desde Decimal
-      Divisiones sucesivas entre b
-      Residuos de abajo hacia arriba
-    Número de bits
-      2ᵏ ≤ n < 2ᵏ⁺¹
-      Bits = ⌊1 + log₂ n⌋
+graph TD
+    A["Criterios y Numeracion"] --> B["Criterios de Divisibilidad"]
+    A --> C["Sistemas de Numeracion"]
+    A --> D["Conversion a Decimal"]
+    A --> E["Conversion desde Decimal"]
+    A --> F["Numero de bits"]
+    B --> B1["Por 3: suma de digitos div por 3"]
+    B --> B2["Por 9: suma de digitos div por 9"]
+    B --> B3["Por 2: ultimo digito par"]
+    B --> B4["Por 5: ultimo digito 0 o 5"]
+    B --> B5["Demostracion: descomposicion posicional"]
+    C --> C1["Base b: digitos 0 a b-1"]
+    C --> C2["Binario base 2"]
+    C --> C3["Decimal base 10"]
+    C --> C4["Hexadecimal base 16"]
+    D --> D1["Suma de di por b elevado a i"]
+    D --> D2["Evaluar directamente"]
+    E --> E1["Divisiones sucesivas entre b"]
+    E --> E2["Residuos de abajo hacia arriba"]
+    F --> F1["2k <= n < 2k+1"]
+    F --> F2["Bits = 1 + log2 n"]
+    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B4 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style B5 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style C1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C4 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style D1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style D2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style E fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style E1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style E2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style F fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style F1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style F2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+
 ```
 
 ---
@@ -284,5 +315,29 @@ mindmap
 > [3] R. Johnsonbaugh, _Discrete Mathematics_, 8th ed. Hoboken, NJ, USA: Pearson, 2018, pp. 195–200.
 
 ---
+
+
+## Metas de Aprendizaje
+
+> [!note] Nivel Básico
+> - [ ] Aplico criterios de divisibilidad para 2, 3, 5, 9 y 11.
+> - [ ] Convierto números entre decimal, binario, octal y hexadecimal.
+> - [ ] Realizo operaciones básicas en sistema binario.
+
+> [!note] Nivel Intermedio
+> - [ ] Uso criterios de divisibilidad para simplificar cálculos.
+> - [ ] Convierto fracciones decimales a representación binaria.
+> - [ ] Analizo ventajas de diferentes bases para computación.
+
+> [!note] Nivel Avanzado
+> - [ ] Resuelvo problemas de representación en bases arbitrarias.
+> - [ ] Aplico aritmética modular a sistemas de numeración.
+> - [ ] Analizo el impacto de la precisión finita en computación.
+
+
+> [!quote] 🔗 Conexiones
+> - Previo: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/02 - MCD, MCM y Algoritmo de Euclides\|02 - MCD, MCM y Algoritmo de Euclides]]
+> - Relacionado: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/04 - Principios de Multiplicación y Suma\|04 - Principios de Multiplicación y Suma]]
+> - Aplicación: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/03 - Pseudocódigo y Algoritmos\|03 - Pseudocódigo y Algoritmos]] — representación binaria
 
 **Tags:** #divisibilidad #criterios #binario #hexadecimal #decimal #bases #numeracion #conversion #teoria-de-numeros #MATG1051 #unidad3 #ESPOL

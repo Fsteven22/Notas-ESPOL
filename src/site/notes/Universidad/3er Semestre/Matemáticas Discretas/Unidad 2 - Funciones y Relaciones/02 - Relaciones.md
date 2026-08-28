@@ -7,7 +7,7 @@
 
 > [!info] 💡 ¿Qué es una relación?
 > 
-> Una **relación** es una generalización de las funciones: también es un subconjunto del producto cartesiano X × Y, pero **sin** la restricción de unicidad. Permite asociar un elemento de X con cero, uno o varios elementos de Y. Toda función es una relación, pero no toda relación es una función.
+> Una **relación** es una generalización de las funciones: también es un subconjunto del [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/01 - Conjuntos, Cardinalidad y Subconjuntos\|producto cartesiano]] X × Y, pero **sin** la restricción de unicidad. Permite asociar un elemento de X con cero, uno o varios elementos de Y. Toda función es una relación, pero no toda relación es una función.
 > 
 > ```mermaid
 > graph LR
@@ -16,7 +16,9 @@
 >     style A fill:#ffe1e1
 >     style B fill:#e1ffe1
 >     style C fill:#fff4e1
-> ```
+> 
+    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
 
 ---
 
@@ -90,74 +92,7 @@
 > > Antes de calcular la matriz se debe fijar un orden en los elementos de X e Y. Si cambia el orden, cambia la matriz.
 
 ---
-## 🔢 Matriz de la Relación
 
-> [!note] 🔢 Definición — Matriz de la Relación
-> 
-> Sea R una relación de X en Y, con $X = \{x_1, x_2, \ldots, x_m\}$ e $Y = \{y_1, y_2, \ldots, y_n\}$ en algún orden fijo. La **matriz de la relación** $M_R$ es la matriz booleana $m \times n$ definida por:
-> 
-> $$[M_R]_{ij} = \begin{cases} 1 & \text{si } x_i R\, y_j \\ 0 & \text{si } x_i \not R\, y_j \end{cases}$$
-> 
-> > [!warning]- ⚠️ El orden importa
-> > 
-> > $M_R$ depende del orden elegido para los elementos de $X$ e $Y$. Si se cambia el orden, la matriz cambia. Por eso siempre se debe indicar explícitamente el orden usado.
-
-> [!example] 📝 Ejemplo — Construcción de la matriz
-> 
-> Sean $X = \{2, 3, 4, 8\}$, $Y = \{3, 4, 5, 6, 7\}$ y $R$ dada por **$xRy$ si $x \mid y$** (x divide a y):
-> 
-> $$R = \{(2,4),(2,6),(3,3),(3,6),(4,4)\}$$
-> 
-> Con los elementos en el orden dado (filas = X, columnas = Y):
-> 
-> $$M_R = \begin{pmatrix} 0&1&0&1&0 \\ 1&0&0&1&0 \\ 0&1&0&0&0 \\ 0&0&0&0&0 \end{pmatrix}$$
-> 
-> **Lectura:** la fila del 2 tiene 1s en las columnas del 4 y del 6, porque $2 \mid 4$ y $2 \mid 6$. La fila del 8 es toda ceros porque 8 no divide a ningún elemento de $Y$.
-
----
-
-> [!note] 🔢 Propiedades desde la Matriz (relación sobre X)
-> 
-> Cuando $R \subseteq X \times X$, la matriz $M_R$ es **cuadrada** y se puede leer directamente cada propiedad:
-> 
-> | Propiedad | Condición en $M_R$ |
-> |---|---|
-> | **Reflexiva** | Todos los elementos de la diagonal principal son 1 |
-> | **Simétrica** | $M_R = M_R^T$ (la matriz es igual a su transpuesta) |
-> | **Antisimétrica** | Si $[M_R]_{ij} = 1$ con $i \neq j$, entonces $[M_R]_{ji} = 0$ |
-> | **Transitiva** | Si $[M_R^2]_{ij} > 0$, entonces $[M_R]_{ij} = 1$ |
-> 
-> > [!tip]- 💡 Transitividad y producto booleano
-> > 
-> > Para verificar transitividad se usa el **producto booleano** $M_R \odot M_R$: en lugar de suma y multiplicación normales, se usa OR ($+$) y AND ($\cdot$). R es transitiva si y solo si $M_R \odot M_R \leq M_R$ (es decir, todo 1 en el producto también es 1 en $M_R$).
-
-> [!example] 📝 Ejemplo — Propiedades desde la matriz
-> 
-> Sea $X = \{1, 3, 4\}$ y $R_1 = \{(1,1),(1,3),(3,1),(3,3),(4,4)\}$:
-> 
-> $$M_{R_1} = \begin{pmatrix} 1&1&0 \\ 1&1&0 \\ 0&0&1 \end{pmatrix}$$
-> 
-> - **Reflexiva ✅:** diagonal = $(1, 1, 1)$, todos 1.
-> - **Simétrica ✅:** $M_{R_1} = M_{R_1}^T$ (el 1 en posición $(1,2)$ tiene su par en $(2,1)$).
-> - **Antisimétrica ❌:** hay un 1 en $(1,2)$ y también en $(2,1)$ con $1 \neq 3$.
-> - **Transitiva ✅:** no hay ningún par de 1s consecutivos que no tenga su "atajo" directo.
-
-> [!tip] 💡 Relación entre representaciones
-> 
-> Las tres representaciones de una relación son equivalentes y se puede pasar de una a otra:
-> 
-> ```mermaid
-> graph LR
->     A["Conjunto de pares\n{(x,y) ∈ R}"] <--> B["Matriz M_R\n(booleana)"]
->     B <--> C["Diagrama sagital\n/ Digrafo"]
->     A <--> C
->     style A fill:#e1f5ff
->     style B fill:#ffe1e1
->     style C fill:#e1ffe1
-> ```
----
-
----
 ## 🔁 Relación Inversa y Composición
 
 > [!note] 🔁 Definición 10 — Relación Inversa
@@ -234,7 +169,13 @@
 >     4 --> y4
 >     style X fill:#e1f5ff
 >     style Y fill:#ffe1e1
-> ```
+> 
+    style 2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style 3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style 4 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style y3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style y4 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style y6 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
 > 
 > El 8 no tiene ninguna flecha saliente porque ningún elemento de Y es múltiplo de 8. El 5 y el 7 no reciben flechas porque ningún elemento de X los divide.
 
@@ -398,13 +339,18 @@ graph TD
     H --> H2[Simétrica]
     H --> H3[Antisimétrica]
     H --> H4[Transitiva]
+    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style C fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style D fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style E fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style G fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style H fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style H1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style H2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style H3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    style H4 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
 
-    style A fill:#1e3a5f,color:#fff
-    style H fill:#fff4e1
-    style H1 fill:#e1f5ff
-    style H2 fill:#e1ffe1
-    style H3 fill:#ffe1e1
-    style H4 fill:#f5e1ff
 ```
 
 ---

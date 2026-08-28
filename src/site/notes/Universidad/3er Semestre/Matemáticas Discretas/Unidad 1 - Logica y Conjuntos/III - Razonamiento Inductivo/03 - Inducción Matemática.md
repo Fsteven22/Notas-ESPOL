@@ -111,7 +111,7 @@
 
 ---
 
-## 🧮 Definición Auxiliar — Función Piso
+## 🧮 Definición Auxiliar — [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/01 - Funciones\|Función Piso]]
 
 > [!note] 📖 Definición — Función Piso $\lfloor x \rfloor$
 > 
@@ -179,7 +179,7 @@
 > | **Uso** | Basta con el paso anterior | Se necesitan varios predecesores |
 > | **Ejemplos típicos** | Fórmulas de sumas, potencias | Recursiones, secuencias tipo $C_{\lfloor n/2 \rfloor}$ |
 > | **Equivalencia** | Ambas son lógicamente equivalentes | ✅ |
-> ![file_00000000f17c71fba96939a05e098492.png](/img/user/Universidad/Figuras/file_00000000f17c71fba96939a05e098492.png)
+> !file_00000000f17c71fba96939a05e098492.png
 
 ---
 
@@ -231,10 +231,15 @@ graph TD
     F --> I
     G --> I
     H --> I
+    style B fill:#E65100,color:#FFFFFF,stroke:#FFB74D,stroke-width:1px
+    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style E fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style F fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style G fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style H fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
+    style I fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
 
-    style A fill:#1e3a5f,color:#fff
-    style B fill:#4a2d6a,color:#fff
-    style I fill:#2d6a4f,color:#fff
 ```
 
 ---
