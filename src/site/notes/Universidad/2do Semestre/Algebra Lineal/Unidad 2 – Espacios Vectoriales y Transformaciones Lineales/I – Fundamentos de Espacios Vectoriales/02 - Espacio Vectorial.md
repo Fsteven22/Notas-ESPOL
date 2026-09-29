@@ -597,7 +597,7 @@
 > 
 > Ambos siempre son subespacios de V
 > ```
-
+>
 > [!example] Ejemplos de Subespacios **Ejemplo 1: Rectas por el origen en ℝ²**
 > 
 > ```
@@ -714,7 +714,7 @@
 > 
 > Es decir, todo vector de V es combinación lineal de v₁, ..., vₖ
 > ```
-
+>
 > [!example] Ejemplos de Combinaciones Lineales **Ejemplo 1: En ℝ²**
 > 
 > ```
@@ -816,7 +816,7 @@
 > 3. El sistema homogéneo [v₁ ... vₖ]c = 0 tiene 
 >    soluciones no triviales
 > ```
-
+>
 > [!example] Ejemplos de (In)dependencia Lineal **Ejemplo 1: Vectores estándar en ℝ³**
 > 
 > ```
@@ -974,7 +974,7 @@
 > El único vector es 0, que no puede estar en ninguna base
 > (pues {0} es linealmente dependiente)
 > ```
-
+>
 > [!example] Bases Estándar y Dimensiones **Base estándar de ℝⁿ:**
 > 
 > ```
@@ -1027,7 +1027,7 @@
 > C([a,b]):        dim = ∞
 > ℓ²:              dim = ∞
 > ```
-
+>
 > [!example] Encontrar Bases y Dimensiones **Ejemplo 1: Subespacio de ℝ³**
 > 
 > ```
@@ -1192,7 +1192,7 @@
 > 
 > Todo espacio de dimensión n es "esencialmente" ℝⁿ
 > ```
-
+>
 > [!example] Ejemplos de Coordenadas **Ejemplo 1: Base estándar de ℝ³**
 > 
 > ```

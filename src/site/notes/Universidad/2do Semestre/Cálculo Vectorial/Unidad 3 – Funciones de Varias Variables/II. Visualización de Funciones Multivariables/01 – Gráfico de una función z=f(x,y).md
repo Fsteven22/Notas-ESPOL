@@ -151,7 +151,7 @@
 > - Energía potencial de un oscilador armónico
 > - Superficie de un líquido girando
 > - Reflector parabólico
-
+>
 > [!example] 📝 Ejemplo 2: Paraboloide hacia abajo
 > 
 > **Función:** $z = 4 - x^2 - y^2$
@@ -179,7 +179,7 @@
 > - $z = 3$: círculo $x^2 + y^2 = 1$
 > - $z = 0$: círculo $x^2 + y^2 = 4$
 > - $z = -5$: círculo $x^2 + y^2 = 9$
-
+>
 > [!example] 📝 Ejemplo 3: Paraboloide Elíptico
 > 
 > **Función:** $z = x^2 + 4y^2$
@@ -212,7 +212,7 @@
 > - No depende de $x$ ni de $y$
 > 
 > **Interpretación:** Superficie plana a 5 unidades del suelo.
-
+>
 > [!example] 📝 Ejemplo 5: Plano Inclinado
 > 
 > **Función:** $z = 2x + 3y + 1$
@@ -255,7 +255,7 @@
 > - En $z = k$ (donde $k > 0$): $k = x^2$ → $x = \pm\sqrt{k}$ (dos rectas paralelas al eje $y$)
 > 
 > **Visualización:** La parábola $z = x^2$ se "barre" a lo largo del eje $y$.
-
+>
 > [!example] 📝 Ejemplo 7: Cilindro Circular
 > 
 > **Función:** $x^2 + y^2 = 4$ (técnicamente no es función de la forma $z=f(x,y)$)
@@ -384,7 +384,7 @@
 > - **Rango:** $[-1, 1]$
 > 
 > **Forma:** Superficie ondulatoria como una "chapa ondulada".
-
+>
 > [!example] 📝 Ejemplo 12: Superficie Ondulada en Dos Direcciones
 > 
 > **Función:** $z = \sin(x) + \cos(y)$
@@ -401,7 +401,7 @@
 > - Patrones de interferencia
 > - Ondas en agua
 > - Membranas vibrantes
-
+>
 > [!example] 📝 Ejemplo 13: Onda Radial
 > 
 > **Función:** $z = \sin(\sqrt{x^2 + y^2})$
@@ -442,7 +442,7 @@
 > - Distribución normal bidimensional (estadística)
 > - Densidad de probabilidad
 > - Función de difusión
-
+>
 > [!example] 📝 Ejemplo 15: Crecimiento Exponencial
 > 
 > **Función:** $z = e^{x+y}$
@@ -791,7 +791,7 @@
 > b) $y = 0$: $z = x^2$ → **Parábola** hacia arriba en plano $xz$
 > 
 > c) $x = 1$: $z = 1 - y^2$ → **Parábola** hacia abajo, vértice en $(1,0,1)$
-
+>
 > [!success] 🔑 Respuestas Ejercicios Intermedios
 > 
 > **4a) Análisis completo de $z = 16 - x^2 - y^2$:**

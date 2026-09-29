@@ -727,7 +727,7 @@ mindmap
 >     [0  2  1]
 >     [0  0  2]
 > ```
-
+>
 > [!example] 💪 Ejercicio 2: Aplicación a Fibonacci
 > 
 > **Problema:** Usar diagonalización para encontrar fórmula cerrada de Fibonacci.

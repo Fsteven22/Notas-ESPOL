@@ -62,7 +62,7 @@
 > **Consecuencia importante:**
 > 
 > Si $W$ es subespacio de $V$, entonces $W$ es **automáticamente** un espacio vectorial con las operaciones heredadas de $V$.
-
+>
 > [!tip] ✅ Criterio del Subespacio (Versión Compacta)
 > 
 > **Teorema:** Un subconjunto no vacío $W \subseteq V$ es un subespacio si y solo si:
@@ -401,7 +401,7 @@
 > - $(1, 1) = (1, 0) + (0, 1) \notin W_1 \cup W_2$ ✗
 > 
 > $$\boxed{W_1 \cup W_2 \text{ NO es subespacio en general}}$$
-
+>
 > [!note] 🟡 Teorema 2: Caracterización por Combinaciones Lineales
 > 
 > **Teorema:** $W$ es subespacio de $V$ si y solo si $W$ contiene todas las combinaciones lineales de sus elementos.
@@ -443,7 +443,7 @@
 > 1. $\text{span}{\vec{v}_1, \ldots, \vec{v}_k}$ es **siempre un subespacio**
 > 2. Es el **subespacio más pequeño** que contiene a $\vec{v}_1, \ldots, \vec{v}_k$
 > 3. Si $W = \text{span}{\vec{v}_1, \ldots, \vec{v}_k}$, decimos que ${\vec{v}_1, \ldots, \vec{v}_k}$ **genera** o **engendra** a $W$
-
+>
 > [!tip] ✅ Teorema: El Span es un Subespacio
 > 
 > **Teorema:** Para cualquier conjunto de vectores ${\vec{v}_1, \ldots, \vec{v}_k} \subseteq V$:
@@ -505,7 +505,7 @@
 > $$W = \text{span}\left{\begin{pmatrix} 1 \ 2 \end{pmatrix}\right}$$
 > 
 > **Interpretación:** Agregar vectores dependientes no "expande" el span.
-
+>
 > [!example] 📍 Ejemplo 7: Span en $\mathbb{R}^3$
 > 
 > **a) Span de un vector (recta)**
@@ -537,7 +537,7 @@
 > - 1 vector independiente → recta (dimensión 1)
 > - 2 vectores independientes → plano (dimensión 2)
 > - 3 vectores independientes → todo $\mathbb{R}^3$ (dimensión 3)
-
+>
 > [!example] 📍 Ejemplo 8: Span en Polinomios
 > 
 > Sea $P_2$ el espacio de polinomios de grado ≤ 2.
@@ -635,7 +635,7 @@
 > ---
 > 
 > **Interpretación geométrica:** Los subespacios son "complementarios" y no se "traslapan" (excepto en el origen).
-
+>
 > [!example] 📍 Ejemplo 10: Suma Directa
 > 
 > **a) En $\mathbb{R}^2$**
@@ -718,7 +718,7 @@
 > ### Método 4: Como Núcleo o Imagen
 > 
 > Si $W$ es el núcleo o imagen de una transformación lineal, entonces es subespacio (tema futuro).
-
+>
 > [!warning] ⚠️ Trampas Comunes
 > 
 > ### ❌ Errores Frecuentes
@@ -830,7 +830,7 @@
 > b) $\text{span}\left{\begin{pmatrix} 1 \ 0 \ 1 \end{pmatrix}, \begin{pmatrix} 0 \ 1 \ 1 \end{pmatrix}\right}$
 > 
 > c) $\text{span}{1, x, x^2}$ en $P_3$
-
+>
 > [!example] 💪 Práctica Nivel Intermedio
 > 
 > **4. Verificar subespacios de matrices:**
@@ -868,7 +868,7 @@
 > a) Si $W_1 \subseteq W_2$, entonces $W_1 \cap W_2 = W_1$ y $W_1 + W_2 = W_2$
 > 
 > b) $(W_1 + W_2) + W_3 = W_1 + (W_2 + W_3)$ (asociatividad)
-
+>
 > [!example] 💪 Práctica Nivel Avanzado
 > 
 > **8. Problemas teóricos:**
@@ -962,7 +962,7 @@
 > **3a)** $\text{span}\left{\begin{pmatrix} 1 \ 2 \end{pmatrix}\right} = \left{\begin{pmatrix} t \ 2t \end{pmatrix} : t \in \mathbb{R}\right}$
 > 
 > **Interpretación:** La recta $y = 2x$
-
+>
 > [!success] 🔑 Respuestas Ejercicios Intermedios
 > 
 > **4a)** Matrices con traza cero
@@ -1015,7 +1015,7 @@
 > **Intersección:** $W_1 \cap W_2 = {p(x) : p(0) = 0 \text{ y } p(1) = 0}$
 > 
 > Ejemplo: $p(x) = x(x-1) = x^2 - x$
-
+>
 > [!success] 🔑 Respuestas Ejercicios Avanzados
 > 
 > **9)** Complemento ortogonal
@@ -1586,7 +1586,7 @@
 > Demuestra que si $W_1$ y $W_2$ son subespacios de $V$ con $W_1 \cup W_2$ también subespacio, entonces $W_1 \subseteq W_2$ o $W_2 \subseteq W_1$.
 > 
 > **Hint:** Usa contradicción. Supón que existen $\vec{w}_1 \in W_1 \setminus W_2$ y $\vec{w}_2 \in W_2 \setminus W_1$.
-
+>
 > [!example] 📝 Problemas de Cálculo
 > 
 > **Problema 4:** Encontrar intersección y suma

@@ -29,7 +29,7 @@
 > - $A$: Área de la sección transversal (m²)
 > - $v$: Velocidad del fluido (m/s)
 > - Subíndices 1, 2: Diferentes puntos del conducto
-
+>
 > [!note]+ Interpretación Física
 > 
 > ### 📊 Relación Área-Velocidad
@@ -76,7 +76,7 @@ graph LR
 > |$P$|**Presión estática**|Energía de presión|Pa (N/m²)|
 > |$\frac{1}{2}\rho v^2$|**Presión dinámica**|Energía cinética|Pa|
 > |$\rho g h$|**Presión hidrostática**|Energía potencial|Pa|
-
+>
 > [!warning]+ Condiciones de Validez
 > 
 > - ⚠️ **Fluido incompresible**: $\rho$ = constante
@@ -128,7 +128,7 @@ graph LR
 >     style E fill:#ffd93d,stroke:#fd7e14,color:#000
 >     style F fill:#96ceb4,stroke:#198754,color:#fff
 > ```
-
+>
 > [!tip]+ Formas Alternativas de Bernoulli
 > 
 > ### 📏 Diferentes Expresiones
@@ -150,7 +150,7 @@ graph LR
 > - Velocidad en manguera: $v_1 = 1$ m/s
 > 
 > **Solución usando Continuidad:** $$A_1 v_1 = A_2 v_2$$ $$\pi r_1^2 v_1 = \pi r_2^2 v_2$$ $$v_2 = v_1 \left(\frac{r_1}{r_2}\right)^2 = 1 \times \left(\frac{1}{0.25}\right)^2 = 16 \text{ m/s}$$
-
+>
 > [!example]+ Problema 2: Tanque con Orificio
 > 
 > ### 🪣 Teorema de Torricelli
@@ -208,7 +208,7 @@ graph LR
 > - **L**ínea de corriente considerada
 > - **L**ey de conservación aplicada
 > - **I**ncompresible el fluido
-
+>
 > [!study]+ Estrategia de Resolución: Método PASOS
 > 
 > ### 📝 Protocolo de Análisis
@@ -274,7 +274,7 @@ graph LR
 > - [[Densidad y Caudal\|Densidad y Caudal]]
 > - [[Ecuación de Continuidad\|Ecuación de Continuidad]]
 > - [[El medidor de Venturi\|El medidor de Venturi]]
-
+>
 > [!success]+ Para Profundizar
 > 
 > - [[Flujo Turbulento vs Laminar\|Flujo Turbulento vs Laminar]]

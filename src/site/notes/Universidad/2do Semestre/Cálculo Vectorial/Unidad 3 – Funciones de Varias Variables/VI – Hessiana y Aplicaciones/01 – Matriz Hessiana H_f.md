@@ -1024,7 +1024,7 @@ n = \det(H_f)$$
 > c) $H_f = \begin{pmatrix} 1 & 2 \ 2 & 1 \end{pmatrix}$
 > 
 > d) $H_f = \begin{pmatrix} 0 & 1 \ 1 & 0 \end{pmatrix}$
-
+>
 > [!example] 💪 Práctica Nivel Intermedio
 > 
 > **4. Funciones en tres variables:**
@@ -1076,7 +1076,7 @@ n = \det(H_f)$$
 > c) ¿Qué dice el criterio de la segunda derivada?
 > 
 > d) Analizar directamente la función para clasificar el punto
-
+>
 > [!example] 💪 Práctica Nivel Avanzado
 > 
 > **8. Optimización con restricciones:**
@@ -1216,7 +1216,7 @@ n = \det(H_f)$$
 > $$D = 0 \cdot 0 - 1^2 = -1 < 0$$
 > 
 > **Conclusión:** **Punto de silla** ✓
-
+>
 > [!success] 🔑 Respuestas Ejercicios Intermedios
 > 
 > **4a)** $f(x,y,z) = x^2 + 2y^2 + 3z^2 + xy - xz$
@@ -1377,7 +1377,7 @@ n = \det(H_f)$$
 > La función cambia de signo en diferentes direcciones.
 > 
 > **Conclusión:** $(0,0)$ es un **punto de silla** ✓
-
+>
 > [!success] 🔑 Respuestas Ejercicios Avanzados
 > 
 > **8a)** Multiplicadores de Lagrange:

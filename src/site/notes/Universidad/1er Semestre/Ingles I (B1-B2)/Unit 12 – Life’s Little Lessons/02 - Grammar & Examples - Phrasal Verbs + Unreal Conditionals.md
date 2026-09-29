@@ -153,7 +153,7 @@
 > ✅ I heard somebody outside
 > ✅ Somebody told me you were looking for me
 > ```
-
+>
 > [!example] 📦 SOMETHING (algo)
 > 
 > **Uso:**
@@ -184,7 +184,7 @@
 > ✅ I think something is broken
 > ✅ There's something I feel bad about
 > ```
-
+>
 > [!tip] 📍 SOMEWHERE (en algún lugar)
 > 
 > **Uso:**
@@ -286,7 +286,7 @@
 > ✅ Anyone would feel bad about this
 >    (Cualquiera se sentiría mal por esto)
 > ```
-
+>
 > [!example] 📦 ANYTHING (algo/nada - en preguntas/negativos)
 > 
 > **En preguntas:**
@@ -345,7 +345,7 @@
 > ✅ Anything is possible
 >    (Cualquier cosa es posible)
 > ```
-
+>
 > [!tip] 📍 ANYWHERE (en algún/ningún lugar)
 > 
 > **En preguntas:**
@@ -460,7 +460,7 @@
 > 
 > El tag question es POSITIVO porque nobody ya es negativo
 > ```
-
+>
 > [!example] 📦 NOTHING (nada)
 > 
 > **Uso básico:**
@@ -509,7 +509,7 @@
 > I didn't see anything = I saw nothing (mismo significado)
 > There wasn't anything = There was nothing (mismo significado)
 > ```
-
+>
 > [!tip] 📍 NOWHERE (en ningún lugar)
 > 
 > **Uso:**
@@ -574,7 +574,7 @@
 > ✅ Everyone brought their lunch
 > ✅ Everybody did their best
 > ```
-
+>
 > [!example] 📦 EVERYTHING (todo)
 > 
 > **Uso:**
@@ -604,7 +604,7 @@
 > ✅ Everything is ready (NOT: Everything are ready)
 > ✅ Everything looks good (NOT: Everything look good)
 > ```
-
+>
 > [!tip] 📍 EVERYWHERE (en todas partes)
 > 
 > **Uso:**
@@ -813,7 +813,7 @@
 > Reported: He says he's tired
 > (No cambies porque "says" es presente)
 > ```
-
+>
 > [!success] 👤 Cambios de Pronombres y Posesivos
 > 
 > **Regla:** Los pronombres cambian según la perspectiva.
@@ -848,7 +848,7 @@
 > 
 > Direct: "You should pick up the broken glass" Reported: She told me I should pick up the broken glass ↑ ↑ She I not you
 > ```
-
+>
 > [!tip] 📅 Cambios de Expresiones de Tiempo y Lugar
 > 
 > **Cuando reportas algo que se dijo en el pasado, las expresiones de tiempo y lugar también cambian:**
@@ -1077,7 +1077,7 @@
 > > 8. **nowhere** (no place)
 > > 9. **Everyone / Everybody** (all people)
 > > 10. **anywhere** (negative)
-
+>
 > [!example] ✏️ Exercise 2: Reported Speech - Transform
 > 
 > **Change from Direct to Reported Speech:**
@@ -1118,7 +1118,7 @@
 > > 6. She said **(that) she couldn't find her keys anywhere**
 > > 7. He told me **(that) everyone made / makes mistakes**
 > > 8. She said **(that) she had left the lights on the previous night / the night before**
-
+>
 > [!note] ✏️ Exercise 3: SAID vs TOLD
 > 
 > **Choose SAID or TOLD and complete the sentence:**

@@ -22,7 +22,7 @@
 >
 >**Símbolo:** γ (gamma) o σ (sigma)
 >**Unidades SI:** N/m = J/m²
-
+>
 >[!info] 🔬 **Origen Molecular**
 >En el interior del líquido, cada molécula está rodeada por otras moléculas y las fuerzas de atracción se equilibran. En la superficie, las moléculas tienen menos vecinos, creando un desbalance de fuerzas hacia el interior del líquido.
 >
@@ -61,7 +61,7 @@
 >- **Impurezas:** Surfactantes reducen γ
 >- **Presión:** Efecto mínimo en líquidos
 >- **Naturaleza química:** Polaridad molecular
-
+>
 >[!tip] 🌡️ **Dependencia con la Temperatura**
 >La tensión superficial generalmente disminuye linealmente con la temperatura:
 >$$\gamma(T) = \gamma_0 - k(T - T_0)$$
@@ -133,7 +133,7 @@ Esta es la forma más fundamental, donde el trabajo infinitesimal para crear ár
 >**Casos especiales:**
 >- **Agua en vidrio:** θ ≈ 0°, cos θ ≈ 1 (asciende)
 >- **Mercurio en vidrio:** θ ≈ 140°, cos θ < 0 (desciende)
-
+>
 >[!example] 🫧 **Formación de Burbujas y Gotas**
 >**Burbujas de jabón:**
 >- **Una superficie:** $$\Delta P = \frac{2\gamma}{R}$$
@@ -143,7 +143,7 @@ Esta es la forma más fundamental, donde el trabajo infinitesimal para crear ár
 >- Forma esférica para minimizar energía superficial
 >- Radio de curvatura relacionado con presión interna
 >- Deformación por resistencia del aire al caer
-
+>
 >[!example] 🌊 **Ondas Capilares**
 >Ondas en la superficie de líquidos donde la tensión superficial es la fuerza restauradora dominante.
 >
@@ -190,7 +190,7 @@ Esta es la forma más fundamental, donde el trabajo infinitesimal para crear ár
 >**4. Método de la placa de Wilhelmy:**
 >- Medir fuerza sobre placa parcialmente sumergida
 >- $$\gamma = \frac{F}{P\cos\theta}$$ donde P es el perímetro
-
+>
 >[!example] 🏭 **Aplicaciones Industriales**
 >
 >**Detergentes y surfactantes:**
@@ -236,7 +236,7 @@ Esta es la forma más fundamental, donde el trabajo infinitesimal para crear ár
 >$$h = \frac{2 \times 0.0728 \times \cos(0°)}{1000 \times 9.81 \times 0.0005}$$
 >
 >$$h = \frac{2 \times 0.0728 \times 1}{4.905} = \frac{0.1456}{4.905} = 0.0297 \text{ m} = 2.97 \text{ cm}$$
-
+>
 >[!example] 💡 **Problema 2: Presión en Burbuja de Jabón**
 >Una burbuja de jabón tiene un diámetro de 4 cm. Si la tensión superficial del agua jabonosa es 0.025 N/m, ¿cuál es la presión manométrica dentro de la burbuja?
 >
@@ -247,7 +247,7 @@ Esta es la forma más fundamental, donde el trabajo infinitesimal para crear ár
 >Radio: $$R = \frac{d}{2} = \frac{0.04}{2} = 0.02 \text{ m}$$
 >
 >$$\Delta P = \frac{4 \times 0.025}{0.02} = \frac{0.1}{0.02} = 5 \text{ Pa}$$
-
+>
 >[!example] 💡 **Problema 3: Fuerza en Interfase**
 >¿Qué fuerza se necesita para desprender una lámina rectangular de 5 cm × 2 cm de la superficie del agua? (γ = 0.0728 N/m)
 >

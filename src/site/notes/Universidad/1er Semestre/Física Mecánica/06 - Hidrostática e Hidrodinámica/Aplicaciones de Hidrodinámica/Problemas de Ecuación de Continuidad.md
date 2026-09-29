@@ -6,7 +6,7 @@
 # Problemas de Ecuación de Continuidad
 
 > [!quote] "Lo que entra debe salir: la ecuación de continuidad es el reflejo matemático de que la masa no se crea ni se destruye en el flujo." 💧
-
+>
 > [!info] La ecuación de continuidad expresa la conservación de masa en fluidos en movimiento. Es fundamental para analizar el comportamiento de fluidos en tuberías, canales, boquillas y cualquier sistema donde el área transversal cambie a lo largo del flujo.
 
 ## 🔧 Conceptos Fundamentales
@@ -36,7 +36,7 @@
 > |Velocidad media|v = Q/A|m/s|
 > |Caudal másico|ṁ = ρ × Q|kg/s|
 > |Área|A = Q/v|m²|
-
+>
 > [!tip] **Tipos de Secciones Transversales** 🔄
 > 
 > ### Geometrías Comunes:
@@ -54,7 +54,7 @@
 > - **Estrechamiento**: A₂ < A₁ → v₂ > v₁
 > - **Ensanchamiento**: A₂ > A₁ → v₂ < v₁
 > - **Factor de contracción**: v₂/v₁ = A₁/A₂
-
+>
 > [!warning] **Aplicaciones Típicas** 🚿
 > 
 > ### Sistemas con Cambio de Sección:
@@ -69,7 +69,7 @@
 > - **Cavitación**: Baja presión en secciones estrechas
 > - **Turbulencia**: Cambios bruscos de sección
 > - **Pérdidas de energía**: Fricción y separación
-
+>
 > [!success] 🔗 Metodología de Resolución
 > 
 > ```mermaid
@@ -87,7 +87,7 @@
 >     style E fill:#fce4ec
 >     style F fill:#f1f8e9
 > ```
-
+>
 > [!note] **Fórmulas Clave** 📐
 > 
 > ### Ecuación Básica:
@@ -163,7 +163,7 @@
 > - v₂ = Q/A₂ = 0.0628/0.00785 = **8 m/s**
 > 
 > **Verificación**: v₂/v₁ = (D₁/D₂)² = (20/10)² = 4 ✓
-
+>
 > [!example] **Problema 2: Sistema de Tuberías Ramificadas** 🌿
 > 
 > ### Enunciado:
@@ -205,7 +205,7 @@
 > 
 > - A₀ = π(0.15)² = 0.0707 m²
 > - **v₀ = Q₀/A₀ = 0.25/0.0707 = 3.54 m/s**
-
+>
 > [!example] **Problema 3: Boquilla Variable** 💨
 > 
 > ### Enunciado:
@@ -245,7 +245,7 @@
 > **A**rea pequeña → **V**elocidad alta **A**rea grande → velocidad **N**ormal (baja)
 > 
 > **Regla del Producto Constante**: A₁v₁ = A₂v₂ = constante
-
+>
 > [!tip] **Analogía del Río** 🏞️
 > 
 > - **Río ancho** (A grande) → agua **lenta** (v pequeña)
@@ -314,7 +314,7 @@
 > - Concepto de densidad y fluidos incompresibles
 > - Caudal y velocidad media
 > - Principio de conservación de masa
-
+>
 > [!note] **Temas Relacionados**
 > 
 > - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrodinámica/Viscosidad y Número de Reynolds\|Viscosidad y Número de Reynolds]] - Caracterización del flujo
@@ -328,7 +328,7 @@
 # Problemas del Tubo de Venturi
 
 >[!quote] "El tubo de Venturi es la sinfonía perfecta entre continuidad y energía: donde el fluido acelera, la presión disminuye, creando una danza hidrodinámica que podemos medir y controlar." 🎼
-
+>
 > [!info] El tubo de Venturi, inventado por Giovanni Battista Venturi en 1797, es un dispositivo fundamental para medir el caudal de fluidos basado en la aplicación simultánea del principio de Bernoulli y la ecuación de continuidad. Su diseño ingenioso convierte las variaciones de presión en información precisa sobre el flujo, siendo esencial en aplicaciones industriales y de laboratorio.
 
 ## 🌀 Fundamentos Teóricos
@@ -364,7 +364,7 @@
 > |Presión|P₂ < P₁|Aumento de velocidad (Bernoulli)|
 > |Caudal|Q = constante|Conservación de masa|
 > |Energía|Conversión P↔K|Intercambio presión-velocidad|
-
+>
 > [!tip] **Coeficientes de Corrección** 🔧
 > 
 > ### Coeficiente de Descarga (Cd):
@@ -393,7 +393,7 @@
 > - Superficie lisa: Mayor Cd
 > - Rugosidad: Reduce Cd
 > - Transiciones suaves: Mejor desempeño
-
+>
 > [!warning] **Tipos de Venturi y Variaciones** ⚡
 > 
 > ### Clasificación por Construcción:
@@ -419,7 +419,7 @@
 > - **Venturi de bajo β**: Alta sensibilidad
 > - **Venturi de flujo reverso**: Bidireccional
 > - **Micro-venturi**: Aplicaciones de laboratorio
-
+>
 >[!success] 🔗 Funcionamiento del Tubo de Venturi
 > 
 > ```mermaid
@@ -441,7 +441,7 @@
 >     style C fill:#e1f5fe
 >     style J fill:#f3e5f5
 > ```
-
+>
 > [!note] **Relaciones Fundamentales** 📊
 > 
 > ### Ecuación de Velocidades:
@@ -540,7 +540,7 @@
 > **c) Pérdida de carga permanente**:
 > - ΔP_pérdida = (1 - Cd²) × ΔP = (1 - 0.98²) × 30,870 = 1,242 Pa
 > - h_pérdida = ΔP_pérdida/(ρg) = 1,242/(1000×9.81) = 0.127 m
-
+>
 > [!example] **Problema 2: Venturi para Gas Natural** ⛽
 > 
 > ### Enunciado:
@@ -572,7 +572,7 @@
 > - Re₂ = 942,545 > 2×10⁴ ✓
 > - Es válido usar Cd = 0.96 constante
 > - El flujo está en régimen turbulento desarrollado
-
+>
 > [!example] **Problema 3: Diseño de Venturi para Aplicación Específica** 🎯
 > 
 > ### Enunciado:
@@ -613,7 +613,7 @@
 > **N**iveles de presión diferentes (**N**ozzle pressure drop)
 > **T**ubo mide caudal por ΔP (**T**ube measures flow)
 > **U**sa Bernoulli y continuidad (**U**ses both principles)
-
+>
 > [!info] **Reglas Nemotécnicas Adicionales** 🎯
 > 
 > ### "BETA-CHICA": **BETA** **CHICA** da mayor diferencia

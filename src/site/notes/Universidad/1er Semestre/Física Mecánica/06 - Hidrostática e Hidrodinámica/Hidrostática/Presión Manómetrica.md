@@ -6,7 +6,7 @@
 # Presión Manométrica
 
 >[!quote] *"En el mundo de la ingeniería y la física aplicada, no medimos la presión absoluta que incluye el peso invisible de toda la atmósfera. Medimos la diferencia, la presión que excede lo normal, la presión manométrica: el verdadero indicador de las fuerzas adicionales que actúan en nuestros sistemas."*
-
+>
 > [!info]+ Definición Fundamental 📏
 > La **presión manométrica** (P_man) es la **diferencia entre la presión absoluta en un punto y la presión atmosférica local**. Es la presión que miden la mayoría de instrumentos de medición como manómetros, ya que toman como referencia la presión atmosférica.
 > 
@@ -18,7 +18,7 @@
 > - P_man = Presión manométrica
 > - P_abs = Presión absoluta total
 > - P_atm = Presión atmosférica (≈ 101,325 Pa al nivel del mar)
-
+>
 > [!note] Fundamento Teórico y Tipos de Presión 📊
 > ### Clasificación de Presiones
 > ```mermaid
@@ -45,7 +45,7 @@
 > - **P_abs = P_atm + P_man** (cuando P_man > 0)
 > - **P_abs = P_atm - |P_man|** (cuando P_man < 0, vacío)
 > - **P_man = 0** significa que la presión es igual a la atmosférica
-
+>
 > [!tip] Instrumentos de Medición 🔬
 > ### Tipos de Manómetros
 > | Tipo | Principio | Aplicación | Rango Típico |
@@ -71,7 +71,7 @@
 >     style E fill:#e8f5e8
 >     style G fill:#ffcdd2
 > ```
-
+>
 > [!example] Cálculos y Ejemplos Prácticos 🧮
 > ### Ejemplo 1: Manómetro en U con Mercurio
 > **Problema:** Un manómetro en U conectado a un tanque muestra una diferencia de altura de mercurio de 25 cm. ¿Cuál es la presión manométrica del gas?
@@ -112,7 +112,7 @@
 > 
 > Porcentaje de vacío = |P_man|/P_atm × 100% = 30/101.325 × 100% = 29.6%
 > ```
-
+>
 > [!abstract] Aplicaciones Prácticas 🏗️
 > ### En Sistemas de Fluidos
 > - **🚰 Sistemas de agua potable**: Control de presión en tuberías
@@ -147,7 +147,7 @@
 > - **🔧 Simplicidad instrumental**: Manómetros más simples y económicos
 > - **📊 Relevancia operacional**: Mide la presión "útil" del sistema
 > - **⚖️ Comparación directa**: Fácil interpretación para operadores
-
+>
 > [!warning] Consideraciones y Limitaciones ⚠️
 > ### Factores que Afectan la Medición
 > - **🏔️ Altitud**: P_atm varía con la elevación (≈ -12 Pa/m)
@@ -165,7 +165,7 @@
 > - **💥 Sobrepresión**: Puede dañar equipos o causar accidentes
 > - **🌪️ Vacío excesivo**: Puede colapsar recipientes no diseñados
 > - **🔧 Mantenimiento**: Instrumentos requieren calibración regular
-
+>
 > [!summary]+ Fórmulas y Conversiones Clave 📊
 > ### Ecuaciones Fundamentales
 > ```
@@ -190,7 +190,7 @@
 > Agua:        P_man = 9,807 × h_m Pa
 > Aceite:      P_man = ρ_aceite × 9.8 × h Pa
 > ```
-
+>
 > [!brain]+ Técnica de Memorización: MANÓMETRO 🧠
 > **M** - Mide diferencia con atmósfera
 > **A** - Atmosférica es la referencia
@@ -201,7 +201,7 @@
 > **T** - Total (absoluta) incluye atmósfera
 > **R** - Relativa al nivel del mar
 > **O** - Operacional y práctica medición
-
+>
 > [!success] Puntos Clave para Recordar 🎯
 > 1. **📏 Referencia atmosférica**: P_man = P_abs - P_atm
 > 2. **🔄 Signo importa**: Positiva (sobrepresión), negativa (vacío)
@@ -226,7 +226,7 @@
 > - [[Presión y Densidad 1\|Presión y Densidad 1]]
 > - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Fuerzas y Diagramas de Cuerpo Libre\|Fuerzas y Diagramas de Cuerpo Libre]]
 > - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Equilibrio\|Equilibrio]]
-
+>
 > [!tip] Continuación del Tema
 > - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrodinámica/Viscosidad y Número de Reynolds\|Viscosidad y Número de Reynolds]]
 > - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrodinámica/Ecuación de Continuidad y Bernoulli\|Ecuación de Continuidad y Bernoulli]]

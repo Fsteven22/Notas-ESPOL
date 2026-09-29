@@ -15,7 +15,7 @@
 > - Aproximaciones de funciones cerca del origen
 > 
 > 🔑 **Estos límites NO se pueden obtener por sustitución directa** porque dan formas indeterminadas $\frac{0}{0}$
-
+>
 > [!warning] ⚠️ Formas Indeterminadas Trigonométricas Al sustituir $x = 0$ directamente:
 > 
 > - $\frac{\sin 0}{0} = \frac{0}{0}$ (indeterminada)
@@ -85,7 +85,7 @@ graph TD
 > **Con múltiplos:** $$\lim_{x \to 0} \frac{\sin(ax)}{x} = a \quad \text{(usando sustitución } u = ax\text{)}$$
 > 
 > **Con funciones:** $$\lim_{x \to a} \frac{\sin(f(x))}{f(x)} = 1 \quad \text{si } \lim_{x \to a} f(x) = 0$$
-
+>
 > [!example] 🎯 Ejemplos Prácticos
 > 
 > **Ejemplo 1: Con múltiplo** $$\lim_{x \to 0} \frac{\sin(3x)}{x}$$
@@ -154,7 +154,7 @@ graph TD
 > **Demostración:** $$\frac{1-\cos x}{x^2} = \frac{1-\cos x}{x} \cdot \frac{1}{x} = \frac{\sin^2 x}{x(1+\cos x)} \cdot \frac{1}{x} = \frac{\sin x}{x} \cdot \frac{\sin x}{x} \cdot \frac{1}{1+\cos x}$$
 > 
 > $$\lim_{x \to 0} 1 \cdot 1 \cdot \frac{1}{2} = \frac{1}{2}$$
-
+>
 > [!example] 🎨 Ejemplos con 1-cos x
 > 
 > **Ejemplo 1: Forma básica** $$\lim_{x \to 0} \frac{1-\cos(2x)}{x}$$
@@ -186,7 +186,7 @@ graph TD
 > **Demostración:** $$\frac{\tan x}{x} = \frac{\sin x}{\cos x} \cdot \frac{1}{x} = \frac{\sin x}{x} \cdot \frac{1}{\cos x}$$
 > 
 > $$\lim_{x \to 0} \frac{\sin x}{x} \cdot \frac{1}{\cos x} = 1 \cdot \frac{1}{1} = 1$$
-
+>
 > [!example] 📝 Ejemplos con Tangente
 > 
 > **Ejemplo 1:** $$\lim_{x \to 0} \frac{\tan(4x)}{x} = 4$$
@@ -408,7 +408,7 @@ flowchart TD
 > |**Forma básica**|$\lim_{x \to \infty} \left(1 + \frac{1}{x}\right)^x = e$|$x \to +\infty$|
 > |**Forma generalizada**|$\lim_{x \to 0} (1 + x)^{\frac{1}{x}} = e$|$x \to 0$|
 > |**Con función**|$\lim_{x \to a} \left(1 + \frac{f(x)}{g(x)}\right)^{h(x)} = e^{\lim_{x \to a} \frac{f(x) \cdot h(x)}{g(x)}}$|Cuando $\frac{f(x)}{g(x)} \to 0$ y $h(x) \to \infty$|
-
+>
 > [!warning] ⚠️ **Cuidado con las Formas** El límite fundamental solo se aplica cuando:
 > 
 > - La base tiende a $1$
@@ -466,7 +466,7 @@ flowchart TD
 > ### Fórmula General:
 > 
 > $$\lim_{x \to a} \left(1 + f(x)\right)^{g(x)} = e^{\lim_{x \to a} f(x) \cdot g(x)}$$ **Condición:** $f(x) \to 0$ y $g(x) \to \infty$
-
+>
 > [!info] 📝 **Ejemplo 1: Límite Fundamental Clásico**
 > 
 > Calcular $\lim_{x \to \infty} \left(1 + \frac{3}{x}\right)^{2x}$
@@ -477,7 +477,7 @@ flowchart TD
 > 2. **Reescribir:** $f(x) = \frac{3}{x} \to 0$ y $g(x) = 2x \to \infty$
 > 3. **Aplicar fórmula:** $e^{\lim_{x \to \infty} \frac{3}{x} \cdot 2x} = e^{\lim_{x \to \infty} 6} = e^6$
 > 4. **Resultado:** $\lim_{x \to \infty} \left(1 + \frac{3}{x}\right)^{2x} = e^6$
-
+>
 > [!info] 📝 **Ejemplo 2: Con Transformación Algebraica**
 > 
 > Calcular $\lim_{x \to \infty} \left(\frac{x+2}{x-1}\right)^x$
@@ -503,7 +503,7 @@ flowchart TD
 > 
 > - $0^0$: Se convierte en $0 \cdot (-\infty)$ → Reescribir como $\frac{\ln f}{\frac{1}{g}}$ (forma $\frac{-\infty}{\infty}$)
 > - $\infty^0$: Se convierte en $\infty \cdot 0$ → Reescribir como $\frac{\ln f}{\frac{1}{g}}$ (forma $\frac{\infty}{\infty}$)
-
+>
 > [!info] 📝 **Ejemplo 3: Forma $0^0$**
 > 
 > Calcular $\lim_{x \to 0^+} x^x$
@@ -516,7 +516,7 @@ flowchart TD
 > 4. **Reescribir:** $\lim_{x \to 0^+} \frac{\ln x}{\frac{1}{x}}$ (forma $\frac{-\infty}{\infty}$)
 > 5. **L'Hôpital:** $\lim_{x \to 0^+} \frac{\frac{1}{x}}{-\frac{1}{x^2}} = \lim_{x \to 0^+} (-x) = 0$
 > 6. **Resultado:** $\lim_{x \to 0^+} x^x = e^0 = 1$
-
+>
 > [!info] 📝 **Ejemplo 4: Forma $\infty^0$**
 > 
 > Calcular $\lim_{x \to \infty} x^{1/x}$
@@ -540,7 +540,7 @@ flowchart TD
 > |$\lim_{x \to 0} \left(\cos x\right)^{1/x^2}$|$e^{-1/2}$|Expansión de Taylor + Límite fundamental|
 > |$\lim_{x \to 0} \left(1 + \sin x\right)^{1/x}$|$e$|Sustitución directa|
 > |$\lim_{x \to 0} \left(\frac{\sin x}{x}\right)^{1/x^2}$|$e^{-1/6}$|Taylor + Método logarítmico|
-
+>
 > [!info] 📝 **Ejemplo 5: Con Función Trigonométrica**
 > 
 > Calcular $\lim_{x \to 0} (1 + \tan x)^{1/x}$
@@ -609,7 +609,7 @@ flowchart TD
 > - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/V – Formas Indeterminadas/01 - Formas Indeterminadas\|01 - Formas Indeterminadas]] - Herramienta para formas indeterminadas
 > - [[Serie de Taylor\|Serie de Taylor]] - Para aproximaciones de funciones
 > - [[Función Exponencial\|Función Exponencial]] - Propiedades de $e^x$ y $a^x$
-
+>
 > [!info] 📖 **Notas Recomendadas para Complementar**
 > 
 > ### Prerrequisitos:
@@ -625,7 +625,7 @@ flowchart TD
 > - [[Interés Compuesto Continuo\|Interés Compuesto Continuo]] - Aplicación práctica del número $e$
 > - [[Ecuaciones Diferenciales\|Ecuaciones Diferenciales]] - Donde aparecen naturalmente
 > - [[Análisis Asintótico\|Análisis Asintótico]] - Comportamiento a largo plazo
-
+>
 > [!tip] 🧠 **Técnica de Estudio: "LOG-E" (Logaritmo-Exponencial)**
 > 
 > ### Mnemotecnia para Límites Exponenciales:
@@ -667,7 +667,7 @@ flowchart TD
 > Forma $\frac{-\infty}{\infty}$, aplicamos L'Hôpital: $$= \lim_{x \to 0^+} \frac{1/x}{-1/x^2} = \lim_{x \to 0^+} (-x) = 0$$
 > 
 > **Interpretación geométrica:** 🎯 La función $f(x) = x \ln x$ se aproxima suavemente al origen por la derecha
-
+>
 > [!info] 📊 Límite Principal 2
 > 
 > ### $\lim_{x \to \infty} \frac{\ln x}{x} = 0$
@@ -708,7 +708,7 @@ flowchart TD
 > 4. **Factorial**: $x!$ 🚀
 > 
 > **Regla nemotécnica:** "**L**ento **P**aso **E**xplosivo **F**antástico"
-
+>
 > [!tip] 🔍 Propiedades Importantes
 > 
 > ### Límites relacionados:

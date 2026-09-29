@@ -69,7 +69,7 @@
 > 
 > - $df = \nabla f \cdot d\mathbf{r}$ donde $d\mathbf{r} = (dx, dy, dz)$
 > - $df = \sum_{i=1}^n \frac{\partial f}{\partial x_i}dx_i$
-
+>
 > [!note] 🎯 Interpretación Geométrica de la Diferencial
 > 
 > ### En dos variables
@@ -346,7 +346,7 @@
 > - La Hessiana captura toda la información sobre la **curvatura** de $f$
 > - Generaliza la segunda derivada $f''(x)$ de una variable
 > - Es fundamental para clasificar **puntos críticos**
-
+>
 > [!note] 📊 Interpretación Geométrica
 > 
 > ### Analogía con una variable
@@ -1444,7 +1444,7 @@
 > a) $f(x,y) = \sqrt{x^2 + y^2}$ cerca de $(3, 4)$ para estimar $f(3.1, 3.9)$
 > 
 > b) $f(x,y) = e^{xy}$ cerca de $(0, 0)$ para estimar $f(0.1, 0.1)$
-
+>
 > [!example] 💪 Práctica Nivel Intermedio
 > 
 > **4. Clasificar puntos críticos:**
@@ -1470,7 +1470,7 @@
 > a) Encontrar las dimensiones de la caja rectangular de volumen máximo que se puede inscribir en una esfera de radio $R$.
 > 
 > b) Minimizar $f(x,y) = x^2 + 2y^2 + 2xy + 2x - 3y$
-
+>
 > [!example] 💪 Práctica Nivel Avanzado
 > 
 > **7. Tres variables:**
@@ -1530,7 +1530,7 @@
 > **Valor exacto:** $\sqrt{(3.1)^2 + (3.9)^2} = \sqrt{9.61 + 15.21} = \sqrt{24.82} \approx 4.982$
 > 
 > ¡Excelente aproximación!
-
+>
 > [!success] 🔑 Respuestas Ejercicios Intermedios
 > 
 > **4a)** $f(x,y) = x^2 + xy + y^2 - 3x - 6y$
@@ -1573,7 +1573,7 @@
 > $$\det(H) = 8 - 4 = 4 > 0, \quad f_{xx} = 2 > 0$$
 > 
 > $$\boxed{\text{Mínimo en } \left(-\frac{7}{2}, \frac{5}{2}\right)}$$
-
+>
 > [!success] 🔑 Respuestas Ejercicios Avanzados
 > 
 > **7a)** $f(x,y,z) = x^2 + y^2 + z^2 + 2xy - 4z$

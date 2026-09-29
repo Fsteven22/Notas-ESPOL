@@ -151,7 +151,7 @@
 > - g = sin(x), g' = cos(x)
 > 
 > f'(x) = 2x · sin(x) + x² · cos(x)
-
+>
 > [!example] 💡 **Problema 2: Regla de la Cadena** Derivar: h(x) = sin(x³ + 2x)
 > 
 > **Solución:** h'(x) = cos(x³ + 2x) · (3x² + 2)
@@ -590,12 +590,12 @@ mindmap
 > - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/II - Reglas de Derivación/01 - Reglas Fundamentales de Derivación\|01 - Reglas Fundamentales de Derivación]] - Métodos eficientes
 > - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/II - Reglas de Derivación/02 - Regla de la Cadena\|Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/II - Reglas de Derivación/02 - Regla de la Cadena]] - Extensión para funciones compuestas
 > 
-
+>
 >[!success] 📖 Para Profundizar
 > - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/I - Fundamentos Teóricos/02 - Interpretación Geométrica de la Derivada\|02 - Interpretación Geométrica de la Derivada]] - Análisis detallado de no derivabilidad
 > - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/I - Fundamentos Teóricos/03 - Derivabilidad y Continuidad\|03 - Derivabilidad y Continuidad]] - Relaciones teóricas
-
-
+>
+>
 > [!NOTE] 🎯 Aplicaciones Inmediatas
 > 
 > - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 04 - Aplicaciones de la Derivada/III - Razones de Cambio/02 - Razones de Cambio Relacionadas\|02 - Razones de Cambio Relacionadas]] - Problemas dinámicos

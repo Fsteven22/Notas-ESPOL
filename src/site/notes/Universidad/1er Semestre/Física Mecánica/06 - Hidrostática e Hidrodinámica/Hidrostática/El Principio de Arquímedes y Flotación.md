@@ -36,7 +36,7 @@
 > - **Centro de carena**: Centro geométrico del volumen sumergido
 > - **Centro de gravedad**: Centro de masa del objeto
 > - **Estabilidad**: Depende de la posición relativa entre ambos centros
-
+>
 > [!warning]+ Condiciones de Aplicación
 > 
 > - ⚠️ **Fluido en reposo**: Sin corrientes significativas
@@ -83,7 +83,7 @@ flowchart TD
 > **Para flotación en equilibrio:** $W = E$ $mg = \rho_f \cdot g \cdot V_{sumergido}$ $\rho_c \cdot V_c \cdot g = \rho_f \cdot g \cdot V_{sumergido}$
 > 
 > **Fracción sumergida:** $\frac{V_{sumergido}}{V_{total}} = \frac{\rho_c}{\rho_f}$
-
+>
 > [!abstract]+ Densidades Relativas
 > 
 > ### 🔍 Tabla de Densidades Comunes
@@ -153,7 +153,7 @@ flowchart TD
 > **Fracción sumergida:** $\frac{V_{sumergido}}{V} = \frac{\rho_{hielo}}{\rho_{mar}} = \frac{917}{1025} = 0.895$
 > 
 > **Resultado**: 89.5% sumergido, 10.5% visible
-
+>
 > [!example]+ Problema Resuelto: Densimetría
 > 
 > ### ⚗️ Medición de Densidades
@@ -174,7 +174,7 @@ flowchart TD
 > - **E**quilibrio determina flotación
 > - **K**ilogramo de fluido desalojado
 > - **A**plicado en centro de carena
-
+>
 > [!study]+ Método Visual: Diagrama de Fuerzas
 > 
 > ### 📊 Estrategia de Resolución
@@ -214,7 +214,7 @@ flowchart TD
 > - [[Fuerzas y Equilibrio\|Fuerzas y Equilibrio]]
 > - [[Presión en Fluidos\|Presión en Fluidos]]
 > - [[Centro de Masa\|Centro de Masa]]
-
+>
 > [!success]+ Para Profundizar
 > 
 > - [[Estabilidad Naval\|Estabilidad Naval]]

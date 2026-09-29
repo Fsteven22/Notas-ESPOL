@@ -16,7 +16,7 @@
 >$$\int_a^b f(x) dx \leq \int_a^b g(x) dx$$
 >
 >**Interpretación**: "La integral de la función menor es menor o igual que la integral de la función mayor"
-
+>
 >[!warning] ⚠️ **Condiciones Necesarias**
 >- Ambas funciones deben ser **integrables** en $[a,b]$
 >- La desigualdad $f(x) \leq g(x)$ debe cumplirse para **todo** $x \in [a,b]$
@@ -139,7 +139,7 @@ flowchart TD
 >
 >donde $0 < L < \infty$, entonces:
 >- $\int_a^b f(x) dx$ y $\int_a^b g(x) dx$ **convergen o divergen juntas**
-
+>
 >[!info] 🎯 **Casos Especiales del Límite**
 >- Si $L = 0$ y $\int_a^b g(x) dx$ converge → $\int_a^b f(x) dx$ converge
 >- Si $L = \infty$ y $\int_a^b g(x) dx$ diverge → $\int_a^b f(x) dx$ diverge

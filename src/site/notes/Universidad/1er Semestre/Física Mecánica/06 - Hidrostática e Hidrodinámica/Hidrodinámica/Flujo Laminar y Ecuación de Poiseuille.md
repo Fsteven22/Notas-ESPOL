@@ -25,7 +25,7 @@
 > - $u_{max}$: Velocidad máxima en el centro (m/s)
 > - $R$: Radio del conducto (m)
 > - $r$: Distancia radial desde el centro (m)
-
+>
 > [!abstract]+ Perfil Parabólico Visual
 > 
 > ### 📊 Distribución de Velocidades
@@ -63,7 +63,7 @@
 > - $\Delta P$: Diferencia de presión (Pa)
 > - $\mu$: Viscosidad dinámica (Pa·s)
 > - $L$: Longitud del tubo (m)
-
+>
 > [!warning]+ Condiciones de Validez
 > 
 > - ⚠️ **Flujo completamente desarrollado**: Entrada estabilizada
@@ -84,7 +84,7 @@
 > **Velocidad máxima:** $$v_{max} = 2\bar{v} = \frac{\Delta P \cdot R^2}{4 \mu L}$$
 > 
 > **Gradiente de presión:** $$\frac{dP}{dx} = -\frac{32 \mu \bar{v}}{D^2}$$
-
+>
 > [!tip]+ Factor de Fricción para Flujo Laminar
 > 
 > ### 🔧 Coeficiente de Pérdidas
@@ -129,7 +129,7 @@
 > $$Re = \frac{\rho \bar{v} D}{\mu} = \frac{1000 \times 0.78 \times 0.0005}{1.0 \times 10^{-3}} = 390 < 2300$$ ✅
 > 
 > **Caudal usando Poiseuille:** $$Q = \frac{\pi D^4 \Delta P}{128 \mu L} = \frac{\pi \times (0.0005)^4 \times 1000}{128 \times 1.0 \times 10^{-3} \times 0.01}$$ $$Q = 1.53 \times 10^{-7} \text{ m³/s} = 0.153 \text{ ml/s}$$
-
+>
 > [!example]+ Problema 2: Pérdida de Presión
 > 
 > ### 🏭 Aplicación Industrial
@@ -216,7 +216,7 @@
 > - **L**ongitud en el denominador (mayor L → menor Q)
 > - **L**ineal la relación presión-caudal
 > - **E**stabilizado el flujo completamente
-
+>
 > [!study]+ Método ANALIZAR para Problemas
 > 
 > ### 📋 Protocolo Sistemático
@@ -270,7 +270,7 @@
 > - [[Esfuerzos Cortantes en Fluidos\|Esfuerzos Cortantes en Fluidos]]
 > - [[Gradientes de Velocidad\|Gradientes de Velocidad]]
 > - [[Balance de Fuerzas\|Balance de Fuerzas]]
-
+>
 > [!success]+ Para Profundizar
 > 
 > - [[Flujo Turbulento en Tuberías\|Flujo Turbulento en Tuberías]]

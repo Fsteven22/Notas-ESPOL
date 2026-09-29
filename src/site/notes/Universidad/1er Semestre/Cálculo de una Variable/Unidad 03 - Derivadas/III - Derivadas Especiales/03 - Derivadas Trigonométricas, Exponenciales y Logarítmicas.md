@@ -37,7 +37,7 @@
 > **Regla**: Girando en sentido horario:
 > - $\sin(x) \rightarrow \cos(x) \rightarrow -\sin(x) \rightarrow -\cos(x) \rightarrow \sin(x)$
 > - Cada derivada es la siguiente función en el círculo
-
+>
 > [!example] 🧠 Mnemotecnia: "SOCOTA" (Signos)
 > **S**eno → **O**k (positivo)
 > **C**oseno → **O**puesta (negativo)  
@@ -46,7 +46,7 @@
 > **Para las recíprocas, recuerda**: "Las CO-funciones son negativas"
 > - $\cot(x) \rightarrow -\csc^2(x)$ (negativo)
 > - $\csc(x) \rightarrow -\csc(x)\cot(x)$ (negativo)
-
+>
 > [!note] 📝 Técnica Visual: "PAREJAS BAILANDO"
 > - **Pareja 1**: $\sin$ y $\cos$ se turnan (uno se convierte en el otro)
 > - **Pareja 2**: $\tan$ y $\sec$ bailan juntos ($\tan \rightarrow \sec^2$, $\sec \rightarrow \sec \tan$)
@@ -93,7 +93,7 @@ flowchart LR
 > - Función externa: $\sin(u)$ → derivada: $\cos(u)$
 > - Función interna: $u = 3x$ → derivada: $3$
 > - **Resultado**: $\frac{d}{dx}[\sin(3x)] = \cos(3x) \cdot 3 = 3\cos(3x)$
-
+>
 > [!example] 🔢 Ejemplo 2: Composición Más Compleja
 > **Resolver**: $\frac{d}{dx}[\tan(x^2 + 1)]$
 > 
@@ -101,7 +101,7 @@ flowchart LR
 > - Función externa: $\tan(u)$ → derivada: $\sec^2(u)$
 > - Función interna: $u = x^2 + 1$ → derivada: $2x$
 > - **Resultado**: $\frac{d}{dx}[\tan(x^2 + 1)] = \sec^2(x^2 + 1) \cdot 2x = 2x\sec^2(x^2 + 1)$
-
+>
 > [!example] 🔢 Ejemplo 3: Producto de Funciones Trigonométricas
 > **Resolver**: $\frac{d}{dx}[\sin(x)\cos(x)]$
 > 
@@ -109,7 +109,7 @@ flowchart LR
 > - $\frac{d}{dx}[\sin(x)\cos(x)] = \sin'(x)\cos(x) + \sin(x)\cos'(x)$
 > - $= \cos(x)\cos(x) + \sin(x)(-\sin(x))$
 > - $= \cos^2(x) - \sin^2(x) = \cos(2x)$
-
+>
 > [!example] 🔢 Ejemplo 4: Función Trigonométrica Elevada a una Potencia
 > **Resolver**: $\frac{d}{dx}[\sin^3(x)]$
 > 
@@ -180,7 +180,7 @@ flowchart LR
 > ### Error 3: No Aplicar Regla de la Cadena
 > ❌ **Incorrecto**: $\frac{d}{dx}[\sin(3x)] = \cos(3x)$  
 > ✅ **Correcto**: $\frac{d}{dx}[\sin(3x)] = 3\cos(3x)$
-
+>
 > [!tip] 💡 Estrategias de Verificación
 > 1. **Método del círculo**: Usa el círculo trigonométrico mental
 > 2. **Verificación numérica**: Prueba con valores específicos
@@ -303,13 +303,13 @@ flowchart LR
 > ### Para Logarítmicos:
 > - **$\ln(x)$**: "Uno sobre x" (reciproco simple)
 > - **$\log_a(x)$**: "Necesita dividir por su ADN" (dividir por $\ln(a)$)
-
+>
 > [!example] 🧠 Método Visual: "La Pareja Inversa"
 > Imagina que exponencial y logaritmo son pareja de baile:
 > - **Exponencial**: Crece rápidamente hacia arriba (derivada es ella misma)
 > - **Logarítmo**: Crece lentamente (derivada es $1/x$, cada vez más pequeña)
 > - Cuando se combinan: "Se ayudan mutuamente" (regla de la cadena)
-
+>
 > [!note] 📝 Técnica del "ADN Logarítmico"
 > Toda base $a \neq e$ necesita su "ADN" que es $\ln(a)$:
 > - **Exponencial**: $a^x$ → $a^x \ln(a)$ (multiplica por ADN)
@@ -346,7 +346,7 @@ flowchart TD
 > $\frac{d}{dx}[e^x] = e^x$
 > 
 > **Característica especial**: $e^x$ es la única función que es igual a su derivada.
-
+>
 > [!example] 🔢 Ejemplo 2: Exponencial con Base Diferente
 > **Resolver**: $\frac{d}{dx}[2^x]$
 > 
@@ -354,13 +354,13 @@ flowchart TD
 > $\frac{d}{dx}[2^x] = 2^x \ln(2)$
 > 
 > **Verificación**: $\ln(2) \approx 0.693$, por lo que la derivada crece más lento que $e^x$.
-
+>
 > [!example] 🔢 Ejemplo 3: Logaritmo Natural
 > **Resolver**: $\frac{d}{dx}[\ln(x)]$
 > 
 > **Solución directa**:
 > $\frac{d}{dx}[\ln(x)] = \frac{1}{x}$, para $x > 0$
-
+>
 > [!example] 🔢 Ejemplo 4: Logaritmo con Base Diferente
 > **Resolver**: $\frac{d}{dx}[\log_{10}(x)]$
 > 
@@ -380,7 +380,7 @@ flowchart TD
 > 
 > **Solución**:
 > $\frac{d}{dx}[e^{3x^2 + 1}] = e^{3x^2 + 1} \cdot 6x = 6xe^{3x^2 + 1}$
-
+>
 > [!example] 🔢 Ejemplo 6: Logaritmo Compuesto
 > **Resolver**: $\frac{d}{dx}[\ln(x^2 + 5x)]$
 > 
@@ -390,7 +390,7 @@ flowchart TD
 > 
 > **Solución**:
 > $\frac{d}{dx}[\ln(x^2 + 5x)] = \frac{1}{x^2 + 5x} \cdot (2x + 5) = \frac{2x + 5}{x^2 + 5x}$
-
+>
 > [!example] 🔢 Ejemplo 7: Exponencial con Base Variable
 > **Resolver**: $\frac{d}{dx}[3^{x^2}]$
 > 
@@ -407,7 +407,7 @@ flowchart TD
 > 2. Derivar implícitamente: $\frac{1}{y} \frac{dy}{dx} = h'(x) \ln(g(x)) + h(x) \frac{g'(x)}{g(x)}$
 > 3. Despejar: $\frac{dy}{dx} = y \left[ h'(x) \ln(g(x)) + h(x) \frac{g'(x)}{g(x)} \right]$
 > 4. Sustituir $y$: $\frac{dy}{dx} = [g(x)]^{h(x)} \left[ h'(x) \ln(g(x)) + h(x) \frac{g'(x)}{g(x)} \right]$
-
+>
 > [!example] 🔢 Ejemplo de Derivación Logarítmica
 > **Resolver**: $\frac{d}{dx}[x^x]$
 > 
@@ -446,7 +446,7 @@ flowchart TD
 > $P'(t) = 1000 \cdot e^{0.05t} \cdot 0.05 = 50e^{0.05t}$
 > 
 > **Interpretación**: La tasa de crecimiento es proporcional a la población actual.
-
+>
 > [!example] 💰 Interés Compuesto Continuo
 > **Problema**: Una inversión crece según $A(t) = 5000e^{0.06t}$. 
 > ¿Cuál es la tasa de crecimiento después de 10 años?
@@ -498,7 +498,7 @@ flowchart TD
 > ### Error 4: Confundir $x^n$ con $n^x$
 > ❌ **Confusión**: $\frac{d}{dx}[x^3] = 3^x \ln(3)$
 > ✅ **Correcto**: $\frac{d}{dx}[x^3] = 3x^2$ y $\frac{d}{dx}[3^x] = 3^x \ln(3)$
-
+>
 > [!tip] 💡 Estrategias Anti-Error
 > 
 > 1. **Identifica la base**: ¿Es $e$ o otra base?
@@ -519,7 +519,7 @@ flowchart TD
 > **Derivadas**:
 > - $\frac{d}{dx}[\sinh(x)] = \cosh(x)$
 > - $\frac{d}{dx}[\cosh(x)] = \sinh(x)$
-
+>
 > [!example] 🔢 Logaritmo de Valor Absoluto
 > **Para funciones que pueden ser negativas**:
 > 

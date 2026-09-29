@@ -149,7 +149,7 @@
 > **CONDICIÓN DE EXISTENCIA:**
 >
 > $$\boxed{T^{-1} \text{ existe} \iff T \text{ es biyectiva (isomorfismo)}}$$
-
+>
 > [!important] Transformación Invertible
 > **DEFINICIÓN (Transformación Invertible):**
 >
@@ -167,7 +167,7 @@
 > 5. $\text{nullity}(T) = 0$ y $\text{rank}(T) = \dim(W)$
 > 6. $T$ transforma bases en bases
 > 7. Si $T$ está representada por matriz $A$ (cuadrada), entonces $\det(A) \neq 0$
-
+>
 > [!important] Propiedades Fundamentales de la Inversa
 > **TEOREMA (Propiedades de T⁻¹):**
 >
@@ -276,7 +276,7 @@
 > $$S = S \circ \text{Id}_W = S \circ (T \circ T^{-1}) = (S \circ T) \circ T^{-1} = \text{Id}_V \circ T^{-1} = T^{-1}$$ ✓
 >
 > **Q.E.D.**
-
+>
 > [!success] Teorema de Composición de Inversas
 > **TEOREMA 2: Inversa de una composición** ⭐
 >
@@ -319,7 +319,7 @@
 > Para transformaciones invertibles $T_1, T_2, \ldots, T_n$:
 >
 > $$\boxed{(T_n \circ \cdots \circ T_2 \circ T_1)^{-1} = T_1^{-1} \circ T_2^{-1} \circ \cdots \circ T_n^{-1}}$$
-
+>
 > [!success] Teorema de Representación Matricial
 > **TEOREMA 3: Matriz de la inversa** ⭐⭐
 >
@@ -360,7 +360,7 @@
 > Para matrices cuadradas:
 >
 > $$\boxed{T \text{ invertible} \iff \det([T]) \neq 0}$$
-
+>
 > [!success] Teorema del Grupo Lineal General
 > **TEOREMA 4: GL(V) como grupo** ⭐
 >
@@ -574,7 +574,7 @@
 > $$\text{nullity}(T) = 1 \neq 0$$
 >
 > Por tanto $T$ no es inyectiva ⇒ no invertible ✓
-
+>
 > [!example] Inversas de Composiciones
 > **EJEMPLO 4: Composición de rotaciones**
 >
@@ -654,7 +654,7 @@
 > $$[T \circ S] \cdot [(T \circ S)^{-1}] = \begin{bmatrix} 2 & 0 \\ 0 & -2 \end{bmatrix}\begin{bmatrix} 1/2 & 0 \\ 0 & -1/2 \end{bmatrix}$$
 >
 > $$= \begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix} = I$$ ✓
-
+>
 > [!example] Aplicaciones Prácticas
 > **EJEMPLO 6: Cambio de coordenadas**
 >

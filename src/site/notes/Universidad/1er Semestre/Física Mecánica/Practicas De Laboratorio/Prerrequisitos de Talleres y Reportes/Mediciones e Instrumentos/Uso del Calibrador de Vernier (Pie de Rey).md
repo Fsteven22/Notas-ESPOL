@@ -6,7 +6,7 @@
 # Uso del Calibrador de Vernier (Pie de Rey)
 
 > [!quote] "La precisión en la medición es el primer paso hacia la excelencia científica; el vernier es tu aliado en esta búsqueda." 📏
-
+>
 > [!info] El calibrador de Vernier, también conocido como pie de rey o calibre, es un instrumento de medición de alta precisión utilizado para medir dimensiones internas, externas, profundidades y alturas. Su invención revolucionó las mediciones mecánicas al permitir lecturas con precisión de hasta 0.02 mm o incluso 0.01 mm.
 
 ## 🔧 Anatomía del Calibrador
@@ -37,7 +37,7 @@
 > - 10, 20 o 50 divisiones según la precisión
 > - Permite lecturas fraccionarias
 > - Precisión típica: 0.1 mm, 0.05 mm o 0.02 mm
-
+>
 > [!tip] **Tipos de Calibradores** 🌊
 > 
 > ### Según su Precisión:
@@ -63,7 +63,7 @@
 > - ✅ Función de cero relativo
 > - ❌ Requiere batería
 > - ❌ Más sensible a interferencias
-
+>
 > [!warning] **Principio del Vernier** ⚡
 > 
 > ### Fundamento Físico:
@@ -87,7 +87,7 @@
 > - **50 divisiones del vernier** = **49 mm de la escala principal**
 > - **1 división del vernier** = **49/50 mm = 0.98 mm**
 > - **Diferencia** = 1.0 - 0.98 = **0.02 mm** ← Esta es la precisión
-
+>
 > [!success] 🔗 Método de Lectura (Vernier 0.1 mm)
 > 
 > ```mermaid
@@ -105,7 +105,7 @@
 >     style E fill:#fce4ec
 >     style F fill:#f1f8e9
 > ```
-
+>
 > [!note] **Procedimiento de Lectura Paso a Paso** 📝
 > 
 > ### Para Vernier de 0.1 mm (10 divisiones):
@@ -163,7 +163,7 @@
 > - ❌ Apretar demasiado las mordazas
 > - ❌ Medir superficies rugosas o sucias
 > - ❌ Inclinar el calibrador durante la medición
-
+>
 > [!tip] **Mediciones Internas** 📊
 > 
 > ### Procedimiento:
@@ -187,7 +187,7 @@
 > - Las mordazas internas son más frágiles
 > - Requiere mayor cuidado en el manejo
 > - La presión excesiva puede deformar piezas delgadas
-
+>
 > [!tip] **Medición de Profundidades** 📏
 > 
 > ### Procedimiento:
@@ -227,7 +227,7 @@
 > ### Expresión Final:
 > 
 > **Diámetro = 15.4 ± 0.05 mm** (incertidumbre = precisión/2)
-
+>
 > [!example] **Ejemplo 2: Lectura de Vernier 0.02 mm** 🔍
 > 
 > ### Situación:
@@ -248,7 +248,7 @@
 > ### Verificación:
 > 
 > La línea 35 en un vernier de 50 divisiones corresponde a 35/50 = 0.70 mm ✓
-
+>
 > [!example] **Ejemplo 3: Medición Interna** 🕳️
 > 
 > ### Problema:
@@ -279,7 +279,7 @@
 > [!tip] **Mnemotecnia: "CLAVE"** 🎯
 > 
 > **C**ero del vernier en escala principal **L**eer número completo anterior **A**ñadir coincidencia del vernier **V**erificar resultado coherente **E**xpresar con incertidumbre apropiada
-
+>
 > [!tip] **Reglas de Oro para el Vernier** 📏
 > 
 > 1. **Siempre verificar el cero** antes de medir
@@ -299,7 +299,7 @@
 > 4. **Suma incorrecta**: Olvidar sumar las dos partes de la lectura
 > 5. **Precisión errónea**: Usar decimales incorrectos según el tipo de vernier
 > 6. **Cero mal ajustado**: No verificar que las mordazas cerradas den 0.00
-
+>
 > [!warning] **Cuidados del Instrumento** 🛠️
 > 
 > ### Mantenimiento Preventivo:
@@ -377,7 +377,7 @@
 > - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Mediciones e Instrumentos/Mediciones Fundamentales\|Mediciones Fundamentales]] - Base conceptual
 > - **Aritmética básica**: Suma, multiplicación decimal
 > - **Conceptos de precisión**: Diferencia entre exactitud y precisión
-
+>
 > [!note] **Temas Siguientes**
 > 
 > - [[Micrómetro\|Micrómetro]] - Instrumento de mayor precisión

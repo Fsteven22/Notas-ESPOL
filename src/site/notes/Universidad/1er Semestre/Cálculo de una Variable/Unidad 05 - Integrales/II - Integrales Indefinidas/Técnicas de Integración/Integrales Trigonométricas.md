@@ -41,7 +41,7 @@ flowchart TD
 > - $\int \sin^3(x) \cos^2(x) , dx = \int (1-\cos^2(x))\cos^2(x)\sin(x) , dx$
 > - $= \int (1-u^2)u^2(-du) = -\int (u^2 - u^4) , du$
 > - $= -\left(\frac{u^3}{3} - \frac{u^5}{5}\right) + C = -\frac{\cos^3(x)}{3} + \frac{\cos^5(x)}{5} + C$
-
+>
 > [!example] 🔢 Ejemplo 2: Ambos Exponentes Pares **Resolver**: $\int \sin^2(x) \cos^2(x) , dx$
 > 
 > **Solución**:
@@ -79,7 +79,7 @@ flowchart TD
 > - $\int \tan^3(x)(1+\tan^2(x))\sec^2(x) , dx = \int u^3(1+u^2) , du$
 > - $= \int (u^3 + u^5) , du = \frac{u^4}{4} + \frac{u^6}{6} + C$
 > - $= \frac{\tan^4(x)}{4} + \frac{\tan^6(x)}{6} + C$
-
+>
 > [!example] 🔢 Ejemplo 4: Tangente Impar, Secante Impar **Resolver**: $\int \tan^3(x) \sec(x) , dx$
 > 
 > **Solución**:
@@ -140,7 +140,7 @@ flowchart TD
 > - $\sin(3x)\cos(5x) = \frac{1}{2}[\sin(8x) + \sin(-2x)] = \frac{1}{2}[\sin(8x) - \sin(2x)]$
 > - $\int \frac{1}{2}[\sin(8x) - \sin(2x)] , dx = \frac{1}{2}\left[-\frac{\cos(8x)}{8} + \frac{\cos(2x)}{2}\right] + C$
 > - $= -\frac{\cos(8x)}{16} + \frac{\cos(2x)}{4} + C$
-
+>
 > [!example] 🔢 Ejemplo 6: Producto Seno-Seno **Resolver**: $\int \sin(2x) \sin(4x) , dx$
 > 
 > **Solución**:
@@ -166,7 +166,7 @@ flowchart TD
 > - $dx = \frac{2}{1+t^2} dt$
 > 
 > **Cuándo usar**: Integrales racionales en funciones trigonométricas que no se resuelven por otros métodos.
-
+>
 > [!example] 🔢 Ejemplo 7: Sustitución de Weierstrass **Resolver**: $\int \frac{1}{2 + \cos(x)} , dx$
 > 
 > **Solución**:
@@ -223,7 +223,7 @@ flowchart TD
 > |$\csc^2(x)$|$-\cot(x) + C$|
 > |$\sec(x)\tan(x)$|$\sec(x) + C$|
 > |$\csc(x)\cot(x)$|$-\csc(x) + C$|
-
+>
 > [!info] 📋 Integrales de Potencias Comunes
 > 
 > |Función|Integral|
@@ -276,7 +276,7 @@ flowchart TD
 > - **No comprobar la respuesta** derivando el resultado
 > - **Olvidar la constante de integración**
 > - **No simplificar la respuesta final**
-
+>
 > [!tip] 💡 Estrategias de Éxito
 > 
 > ### Antes de Empezar
@@ -310,7 +310,7 @@ flowchart TD
 > - $\int \sin^4(x)(1-\sin^2(x))\cos(x) , dx = \int u^4(1-u^2) , du$
 > - $= \int (u^4 - u^6) , du = \frac{u^5}{5} - \frac{u^7}{7} + C$
 > - $= \frac{\sin^5(x)}{5} - \frac{\sin^7(x)}{7} + C$
-
+>
 > [!example] 🔢 Ejemplo 9: Reducción de Potencia **Resolver**: $\int \cos^4(x) , dx$
 > 
 > **Solución usando identidades**:

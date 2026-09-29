@@ -84,9 +84,9 @@ flowchart LR
 ### 🎭 Identidades de Ángulo Doble y Mitad
 
 > [!info] ⚡ Ángulo Doble **Expansión hacia ángulos simples:** $$\sin(2x) = 2\sin x \cos x$$ $$\cos(2x) = \cos^2 x - \sin^2 x = 2\cos^2 x - 1 = 1 - 2\sin^2 x$$ $$\tan(2x) = \frac{2\tan x}{1 - \tan^2 x}$$
-
+>
 > [!info] 🔄 Ángulo Mitad **Reducción hacia ángulos dobles:** $$\sin^2\left(\frac{x}{2}\right) = \frac{1 - \cos x}{2}$$ $$\cos^2\left(\frac{x}{2}\right) = \frac{1 + \cos x}{2}$$ $$\tan^2\left(\frac{x}{2}\right) = \frac{1 - \cos x}{1 + \cos x}$$
-
+>
 > [!example] 🌟 Ejemplo Combinado: Integral Compleja **Integral:** $\int \sin^2(x)\cos^2(x) , dx$
 > 
 > **Estrategia múltiple:**
@@ -172,7 +172,7 @@ graph TD
 > [!success] 💎 Identidades Menos Conocidas **Para potencias altas:** $$\sin^4 x = \frac{3 - 4\cos(2x) + \cos(4x)}{8}$$ $$\cos^4 x = \frac{3 + 4\cos(2x) + \cos(4x)}{8}$$
 > 
 > **Para productos de tres factores:** $$\sin A \sin B \sin C = \frac{1}{4}[\sin(A+B-C) + \sin(B+C-A) + \sin(C+A-B) - \sin(A+B+C)]$$
-
+>
 > [!warning] ⚠️ Errores Comunes a Evitar
 > 
 > **❌ Error frecuente:** Confundir signos en identidades

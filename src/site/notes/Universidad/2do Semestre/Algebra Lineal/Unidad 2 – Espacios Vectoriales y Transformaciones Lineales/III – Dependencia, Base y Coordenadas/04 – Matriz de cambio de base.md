@@ -68,7 +68,7 @@
 > - $\mathcal{C} \leftarrow \mathcal{B}$ se lee "de $\mathcal{B}$ a $\mathcal{C}$"
 > - La flecha apunta hacia donde QUEREMOS llegar
 > - Multiplica coordenadas en $\mathcal{B}$ para obtener coordenadas en $\mathcal{C}$
-
+>
 > [!warning] ⚠️ Dirección de la Flecha
 > 
 > **CUIDADO:** La notación puede confundir.
@@ -270,7 +270,7 @@
 >     
 > 
 > **Ventaja:** Un solo proceso de eliminación.
-
+>
 > [!example] 📝 Ejemplo Completo
 > 
 > $$\mathcal{B} = \left\{\begin{bmatrix} 1 \\ 2 \end{bmatrix}, \begin{bmatrix} 3 \\ 4 \end{bmatrix}\right\}, \quad \mathcal{C} = \left\{\begin{bmatrix} 1 \\ 1 \end{bmatrix}, \begin{bmatrix} 1 \\ -1 \end{bmatrix}\right\}$$
@@ -423,7 +423,7 @@
 > 
 > **Ventaja:** Una multiplicación matricial por vértice
 > ### Aplicación 3: Procesamiento de Señales
-
+>
 > [!example] 📡 Análisis Tiempo-Frecuencia
 > 
 > **Bases en procesamiento de señales:**
@@ -503,7 +503,7 @@
 > **Propiedad especial:** Si ambas bases son ortonormales:
 > 
 > $$P^{-1} = P^T \quad \text{(matriz ortogonal)}$$
-
+>
 > [!example] 📝 Rotación en $\mathbb{R}^2$
 > 
 > **Base canónica:** $$\mathcal{E} = \left\{\begin{bmatrix} 1 \\ 0 \end{bmatrix}, \begin{bmatrix} 0 \\ 1 \end{bmatrix}\right\}$$
@@ -566,7 +566,7 @@
 > ```
 > 
 > **Cuándo usar:** Cuando las bases NO son canónicas y es más fácil invertir que resolver sistemas
-
+>
 > [!example] 📝 Ejemplo
 > 
 > $$\mathcal{B} = \left\{\begin{bmatrix} 1 \\ 2 \end{bmatrix}, \begin{bmatrix} 3 \\ 5 \end{bmatrix}\right\}, \quad \mathcal{C} = \left\{\begin{bmatrix} 2 \\ 1 \end{bmatrix}, \begin{bmatrix} 1 \\ 1 \end{bmatrix}\right\}$$
@@ -1612,7 +1612,7 @@
 > [[1. 0.]
 >  [0. 1.]]
 > ```
-
+>
 > [!example] 🖥️ Ejemplo con Bases Ortonormales
 > 
 > ```python
@@ -1654,7 +1654,7 @@
 > print(f"En base rotada: {u_B}")
 > print(f"Norma preservada: ||u_E|| = {np.linalg.norm(u_E):.4f}, ||u_B|| = {np.linalg.norm(u_B):.4f}")
 > ```
-
+>
 > [!example] 🖥️ Aplicación: Diagonalización
 > 
 > ```python
@@ -1818,7 +1818,7 @@
 > - $O(n)$: Matrices ortogonales (bases ortonormales)
 > - $SO(n)$: Matrices ortogonales con $\det = 1$ (rotaciones)
 > - $U(n)$: Matrices unitarias (espacios complejos)
-
+>
 > [!note] 🎓 Relación con Isomorfismos
 > 
 > ### Cambio de Base como Isomorfismo
@@ -1845,7 +1845,7 @@
 > 
 > - Arriba: quedarse en $V$ (identidad)
 > - Abajo: $\mathcal{B} \to \mathbb{R}^n \to \mathbb{R}^n$ vía $P$
-
+>
 > [!note] 🎓 Invariantes bajo Cambio de Base
 > 
 > ### Propiedades que NO Cambian

@@ -6,7 +6,7 @@
 # Problemas con aceleraciones (tangencial y centrípeta) 
 
 > [!quote] "En el movimiento circular, la aceleración no solo cambia la rapidez, sino que también mantiene la curvatura del camino; entender sus componentes es dominar la danza entre velocidad y dirección." 🌀
-
+>
 > [!info] En el movimiento circular, la aceleración total se descompone en dos componentes fundamentales: la aceleración tangencial, que modifica la magnitud de la velocidad, y la aceleración centrípeta, que cambia constantemente la dirección del movimiento. Comprender estas componentes es esencial para analizar sistemas rotacionales complejos como ruedas, engranajes, satélites y máquinas rotativas.
 
 ## 🎯 Tipos de Aceleración en Movimiento Circular
@@ -33,7 +33,7 @@
 > - aₜ = r × α
 > - aₜ = dv/dt
 > - α = aₜ/r
-
+>
 > [!tip] **Aceleración Centrípeta (aₓ)** 🎪
 > 
 > ### Características Principales:
@@ -56,7 +56,7 @@
 > - aₓ = ω²r
 > - aₓ = 4π²r/T²
 > - aₓ = (2πr/T)²/r
-
+>
 > [!warning] **Aceleración Total (a)** ⚡
 > 
 > ### Características Principales:
@@ -70,7 +70,7 @@
 > - **Movimiento circular uniforme**: aₜ = 0, a = aₓ
 > - **Arranque desde reposo**: aₜ ≠ 0, aₓ = 0 (inicialmente)
 > - **Movimiento general**: aₜ ≠ 0, aₓ ≠ 0
-
+>
 > [!success] 🔗 Relaciones Fundamentales
 > 
 > ```mermaid
@@ -88,7 +88,7 @@
 >     style E fill:#fce4ec
 >     style F fill:#f1f8e9
 > ```
-
+>
 > [!note] **Relaciones Matemáticas** 📐
 > 
 > ### Para Aceleración Tangencial:
@@ -154,7 +154,7 @@
 > **Paso 4: Aceleración total** |a| = √(aₜ² + aₓ²) = √(0.6² + 10.8²) = **10.82 m/s²**
 > 
 > **Ángulo**: θ = arctan(aₜ/aₓ) = arctan(0.6/10.8) = **3.18°**
-
+>
 > [!example] **Problema 2: Satélite en Órbita** 🛰️
 > 
 > ### Enunciado:
@@ -174,7 +174,7 @@
 > **Aceleración total**: |a| = √(0.5² + 8.04²) = **8.06 m/s²**
 > 
 > **Interpretación**: La aceleración está dominada por la componente centrípeta.
-
+>
 > [!example] **Problema 3: Punto en Disco Rotatorio** 💿
 > 
 > ### Enunciado:
@@ -199,7 +199,7 @@
 ## 🧮 Técnicas de Memorización
 
 > [!tip] **Mnemotecnia: "TANC"** 🎵 **T**angencial → **A**ltera magnitud **A**ngular → **N**o cambia dirección **N**ormal (centrípeta) → **C**ambia dirección constantemente **C**entrípeta → **C**entro siempre apunta
-
+>
 > [!tip] **Regla Visual: "Reloj de Aceleraciones"** 🕐
 > 
 > - **12:00** → aₓ (hacia centro)

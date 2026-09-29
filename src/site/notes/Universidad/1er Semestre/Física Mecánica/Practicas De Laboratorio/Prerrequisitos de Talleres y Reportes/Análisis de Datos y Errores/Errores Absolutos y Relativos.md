@@ -6,7 +6,7 @@
 # Errores Absolutos y Relativos
 
 > [!quote] "El error no está en equivocarse, sino en no saber cuánto nos equivocamos." 🎯
-
+>
 > [!info] Toda medición experimental contiene inevitablemente cierto grado de incertidumbre. Los errores absolutos y relativos son herramientas fundamentales para cuantificar y comparar la precisión de nuestras mediciones, permitiéndonos evaluar la confiabilidad de nuestros resultados experimentales.
 
 ## 🔧 Conceptos Fundamentales
@@ -30,7 +30,7 @@
 > - **Error relativo**: Es **adimensional** (número puro)
 > - **Error porcentual**: Se expresa en **porcentaje (%)**
 > - **Signo del error**: Positivo si se sobrestima, negativo si se subestima
-
+>
 > [!tip] **Tipos de Errores** 🌊
 > 
 > ### Clasificación por Origen:
@@ -63,7 +63,7 @@
 > |**Pequeño**|1-5%|✅ Bueno|Experimentos de laboratorio|
 > |**Moderado**|5-10%|⚠️ Aceptable|Mediciones técnicas|
 > |**Grande**|> 10%|❌ Inaceptable|Requiere mejora del método|
-
+>
 > [!warning] **Fórmulas Fundamentales** ⚡
 > 
 > ### Error Absoluto:
@@ -89,7 +89,7 @@
 > **Como fracción**: u_r = u / x_promedio
 > 
 > **Como porcentaje**: u_% = (u / x_promedio) × 100%
-
+>
 > [!success] 🔗 Proceso de Análisis de Errores
 > 
 > ```mermaid
@@ -109,7 +109,7 @@
 >     style F fill:#f1f8e9
 >     style G fill:#e0f2f1
 > ```
-
+>
 > [!note] **Métodos de Cálculo** 📝
 > 
 > ### Para Medición Única:
@@ -194,7 +194,7 @@
 > - **Subestimación** de 1.5 cm (error negativo)
 > - **Error relativo del 1.0%** (aceptable para mediciones con regla)
 > - **Posible causa**: Paralaje, deformación de la regla, error de lectura
-
+>
 > [!example] **Ejemplo 2: Múltiples Mediciones** 🔢
 > 
 > ### Situación:
@@ -226,7 +226,7 @@
 > ### Resultado Final:
 > 
 > **T = (2.002 ± 0.011) s** con error relativo de **0.1%**
-
+>
 > [!example] **Ejemplo 3: Comparación de Instrumentos** 🔍
 > 
 > ### Situación:
@@ -266,7 +266,7 @@
 > 
 > **M**edición vs valor verdadero **E**rror absoluto = diferencia  
 > **D**ividir entre verdadero **I**rrelativo = sin unidades **R**esultado en porcentaje × 100
-
+>
 > [!tip] **Reglas Prácticas** 📏
 > 
 > ### Para Error Relativo:
@@ -376,7 +376,7 @@
 > - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Mediciones e Instrumentos/Mediciones Fundamentales\|Mediciones Fundamentales]] - Conceptos básicos
 > - **Estadística básica**: Promedio, desviación estándar
 > - **Álgebra**: Operaciones con decimales y porcentajes
-
+>
 > [!note] **Temas Siguientes**
 > 
 > - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis de Datos y Errores/Incertidumbres Experimentales\|Incertidumbres Experimentales]] - Propagación de errores

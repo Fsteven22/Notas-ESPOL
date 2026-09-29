@@ -266,7 +266,7 @@ graph TD
 > **Verificación:** Fórmula del cilindro: $V = \pi r^2 h = \pi(2)^2(3) = 12\pi$ ✅
 > 
 > **Respuesta:** $V = 12\pi$ unidades cúbicas
-
+>
 > [!example] 📝 Ejemplo 2: Cilindro con Tapa Parabólica
 > 
 > **Problema:**
@@ -309,7 +309,7 @@ graph TD
 > $$= [4\theta]_0^{2\pi} = 8\pi$$
 > 
 > **Respuesta:** $V = 8\pi$ unidades cúbicas
-
+>
 > [!example] 📝 Ejemplo 3: Cono (entre superficies)
 > 
 > **Problema:**
@@ -354,7 +354,7 @@ graph TD
 > $$= \int_0^{2\pi} \frac{4}{3},d\theta = \frac{4}{3} \cdot 2\pi = \frac{8\pi}{3}$$
 > 
 > **Respuesta:** $V = \frac{8\pi}{3}$ unidades cúbicas
-
+>
 > [!example] 📝 Ejemplo 4: Masa con Densidad Variable
 > 
 > **Problema:**

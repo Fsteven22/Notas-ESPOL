@@ -6,7 +6,7 @@
 # Incertidumbres Experimentales
 
 > [!quote] "La incertidumbre no es ignorancia, sino conocimiento preciso de lo que no podemos conocer con exactitud." 🔍
-
+>
 > [!info] Las incertidumbres experimentales describen el rango de valores dentro del cual esperamos que se encuentre el valor verdadero de una magnitud. Cuando combinamos mediciones para calcular resultados indirectos, las incertidumbres se propagan siguiendo reglas matemáticas específicas que nos permiten estimar la confiabilidad del resultado final.
 
 ## 🔧 Conceptos Fundamentales
@@ -28,7 +28,7 @@
 > - **Incertidumbre relativa**: Adimensional (u/x = 0.02 = 2%)
 > - **Nivel de confianza**: Generalmente 68% (1σ) o 95% (2σ)
 > - **Distribución**: Asumimos distribución normal para la mayoría de casos
-
+>
 > [!tip] **Fuentes de Incertidumbre** 🌊
 > 
 > ### Instrumentales:
@@ -62,7 +62,7 @@
 > - **Masa del hilo**: Despreciada en péndulo
 > - **Deformación**: En mediciones de sólidos
 > - **Fricción**: En experimentos de mecánica
-
+>
 > [!warning] **Propagación de Incertidumbres** ⚡
 > 
 > ### Reglas Fundamentales:
@@ -101,7 +101,7 @@
 > |z = x²|u_z = 2|x|
 > |z = √x|u_z = u_x/(2√x)|Reduce incertidumbre relativa|
 > |z = ln(x)|u_z = u_x/x|Incertidumbre relativa se conserva|
-
+>
 > [!success] 🔗 Proceso de Análisis de Incertidumbres
 > 
 > ```mermaid
@@ -121,7 +121,7 @@
 >     style F fill:#f1f8e9
 >     style G fill:#e0f2f1
 > ```
-
+>
 > [!note] **Método de Derivadas Parciales** 📝
 > 
 > ### Fundamento Matemático:
@@ -217,7 +217,7 @@
 > ### Resultado Final:
 > 
 > **v = (8.00 ± 0.13) m/s** con incertidumbre relativa de 1.6%
-
+>
 > [!example] **Ejemplo 2: Área de un Círculo** 🔵
 > 
 > ### Situación:
@@ -249,7 +249,7 @@
 > ### Resultado Final:
 > 
 > **A = (86.3 ± 1.6) cm²** con incertidumbre relativa de 1.9%
-
+>
 > [!example] **Ejemplo 3: Densidad (Función Compuesta)** ⚖️
 > 
 > ### Situación:
@@ -292,7 +292,7 @@
 > [!tip] **Mnemotecnia: "SUMAR"** 🎯
 > 
 > **S**uma cuadrática para suma/resta **U**sa relativas para producto/división **M**ultiplica por |n| para potencias **A**plica derivadas para funciones complejas **R**edondea apropiadamente el resultado
-
+>
 > [!tip] **Reglas Rápidas de Propagación** 📏
 > 
 > ### Jerarquía de Operaciones:
@@ -424,7 +424,7 @@
 > - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis de Datos y Errores/Errores Absolutos y Relativos\|Errores Absolutos y Relativos]] - Base conceptual
 > - **Cálculo diferencial**: Derivadas parciales básicas
 > - **Álgebra**: Operaciones con radicales
-
+>
 > [!note] **Temas Siguientes**
 > 
 > - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Herramientas Matemáticas/Derivadas Parciales\|Derivadas Parciales]] - Matemáticas para propagación

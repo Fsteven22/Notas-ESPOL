@@ -314,7 +314,7 @@ graph LR
 > $$\text{Área bajo } f = 12 = 4 \times 3 = f_{prom} \times (b-a)$$
 > 
 > **Respuesta:** $f_{prom} = 4$ alcanzado en $c = 1.5$
-
+>
 > [!example] 📝 Ejemplo 2: Función Cuadrática
 > 
 > **Problema:**
@@ -351,7 +351,7 @@ graph LR
 > El TVM no garantiza unicidad, ¡puede haber múltiples puntos!
 > 
 > **Respuesta:** $f_{prom} = 1$, alcanzado en $c = -1$ y $c = 1$
-
+>
 > [!example] 📝 Ejemplo 3: Función Trigonométrica
 > 
 > **Problema:**
@@ -389,7 +389,7 @@ graph LR
 > Como $0.69 \in [0, \pi]$, el TVM se verifica. ✅
 > 
 > **Respuesta:** $f_{prom} = \frac{2}{\pi}$
-
+>
 > [!example] 📝 Ejemplo 4: Función Exponencial
 > 
 > **Problema:**
@@ -463,7 +463,7 @@ graph LR
 > - $(0.75, 2)$ ✅
 > 
 > **Respuesta:** $f_{prom} = 1.5$
-
+>
 > [!example] 📝 Ejemplo 6: Región Triangular
 > 
 > **Problema:**
@@ -503,7 +503,7 @@ graph LR
 > $$f_{prom} = \frac{1/3}{1/2} = \frac{1}{3} \cdot \frac{2}{1} = \frac{2}{3}$$
 > 
 > **Respuesta:** $f_{prom} = \frac{2}{3}$
-
+>
 > [!example] 📝 Ejemplo 7: Región Circular
 > 
 > **Problema:**
@@ -568,7 +568,7 @@ graph LR
 > **Interpretación:**
 > 
 > Aunque la temperatura varía de 100°C (en $x=0$) a 50°C (en $x=10$), la temperatura promedio es aproximadamente 83.33°C.
-
+>
 > [!success] ⚡ Aplicación 2: Valor RMS (Root Mean Square)
 > 
 > **Concepto:**
@@ -592,7 +592,7 @@ graph LR
 > $$= I_0 \sqrt{\frac{1}{T} \cdot \frac{T}{2}} = \frac{I_0}{\sqrt{2}}$$
 > 
 > **Resultaconocido:**
-
+>
 > Para corriente alterna con amplitud $I_0 = 170$ A:
 > 
 > $$I_{RMS} = \frac{170}{\sqrt{2}} \approx 120 \text{ A}$$
@@ -600,7 +600,7 @@ graph LR
 > **Interpretación:**
 > 
 > El valor RMS es la corriente continua equivalente que produciría la misma potencia disipada.
-
+>
 > [!success] 🌾 Aplicación 3: Densidad Poblacional
 > 
 > **Problema:**
@@ -628,7 +628,7 @@ graph LR
 > **Interpretación:**
 > 
 > Aunque la densidad varía desde 5000 en el centro hasta ~1839 en el borde, la densidad promedio es aproximadamente 6321 personas/km².
-
+>
 > [!success] 🏔️ Aplicación 4: Altura Promedio del Terreno
 > 
 > **Problema:**

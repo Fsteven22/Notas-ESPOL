@@ -70,7 +70,7 @@ graph TD
 > **1. Definir variables:** x = largo, y = ancho **2. Función objetivo:** A(x,y) = xy (maximizar área) **3. Restricción:** 2x + 2y = 20 → x + y = 10 **4. Despejar:** y = 10 - x **5. Sustituir:** A(x) = x(10-x) = 10x - x² **6. Dominio:** 0 < x < 10 (dimensiones positivas) **7. Derivar:** A'(x) = 10 - 2x **8. Punto crítico:** 10 - 2x = 0 → x = 5 **9. Calcular y:** y = 10 - 5 = 5 **10. Verificar:** A''(x) = -2 < 0 → Máximo
 > 
 > **Respuesta:** Cuadrado de 5×5 unidades
-
+>
 > [!example] Problema: Minimización de Distancia **Enunciado:** Encontrar el punto de la recta x + y = 1 más cercano al origen.
 > 
 > **Solución:**
@@ -284,7 +284,7 @@ flowchart LR
 > [!tip] Concepto de Curvas de Nivel Las **curvas de nivel** de f(x,y) = c son conjuntos donde la función tiene valor constante.
 > 
 > **En el punto óptimo:** La curva de nivel de la función objetivo es **tangente** a la curva de restricción.
-
+>
 > [!warning] Condición de Tangencia Dos curvas son tangentes cuando tienen la **misma recta tangente**, lo que ocurre cuando sus **vectores normales son paralelos**.
 > 
 > **Vector normal a f(x,y) = c:** ∇f = (∂f/∂x, ∂f/∂y) **Vector normal a g(x,y) = 0:** ∇g = (∂g/∂x, ∂g/∂y)
@@ -390,7 +390,7 @@ graph TD
 ## Técnicas de Estudio Efectivas 🧠
 
 > [!tip] Mnemotecnia: "LAGRANGE" **L**ocaliza la función objetivo y restricciones **A**naliza si usar sustitución o Lagrange **G**radientes: calcula ∇f y ∇g **R**esuelve el sistema ∇f = λ∇g **A**plica la restricción g = 0 **N**aturaleza: verifica si es máximo o mínimo **G**eometría: interpreta el resultado **E**valúa el significado de λ
-
+>
 > [!tip] Método de Decisión: "SUSTLAG" **SU**stitución si:
 > 
 > - **S**imple despeje de la restricción
@@ -451,13 +451,13 @@ graph TD
 ## Referencias 🔗
 
 > [!quote] [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 04 - Aplicaciones de la Derivada/II - Optimización/01 - Problemas de Optimización\|01 - Problemas de Optimización]] Métodos generales sin restricciones y modelado
-
+>
 > [!quote] [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 04 - Aplicaciones de la Derivada/I - Análisis de Funciones/01 - Análisis Completo de Funciones\|01 - Análisis Completo de Funciones]] Herramientas para verificar naturaleza de extremos
-
+>
 > [!quote] [[Gradiente y Derivadas Direccionales\|Gradiente y Derivadas Direccionales]] Fundamentos vectoriales del método de Lagrange
-
+>
 > [!quote] [[Aplicaciones de Derivadas\|Aplicaciones de Derivadas]] Contexto más amplio de optimización aplicada
-
+>
 > [!quote] [[Cálculo de Varias Variables\|Cálculo de Varias Variables]] Extensión completa del método de Lagrange
 
 

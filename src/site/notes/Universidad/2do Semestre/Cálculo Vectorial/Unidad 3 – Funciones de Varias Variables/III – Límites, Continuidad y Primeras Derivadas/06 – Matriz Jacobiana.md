@@ -912,7 +912,7 @@
 > b) $\vec{F}(x,y) = \begin{bmatrix} x + y \ x - y \end{bmatrix}$
 > 
 > c) $\vec{F}(x,y) = \begin{bmatrix} x\cos\theta - y\sin\theta \ x\sin\theta + y\cos\theta \end{bmatrix}$ (rotación por ángulo $\theta$)
-
+>
 > [!example] 💪 Práctica Nivel Intermedio
 > 
 > **4. Regla de la cadena:**
@@ -950,7 +950,7 @@
 > b) Usar la Jacobiana para aproximar $\vec{F}(0.1, 0.1)$
 > 
 > c) Comparar con el valor exacto
-
+>
 > [!example] 💪 Práctica Nivel Avanzado
 > 
 > **7. Teorema de la función inversa:**
@@ -1044,7 +1044,7 @@
 > $$\det(J_{\vec{F}}) = \cos^2\theta + \sin^2\theta = 1$$
 > 
 > Las rotaciones preservan áreas.
-
+>
 > [!success] 🔑 Respuestas Ejercicios Intermedios
 > 
 > **5b)** Coordenadas elípticas:
@@ -1077,7 +1077,7 @@
 > $$\vec{F}(0.1, 0.1) = \begin{bmatrix} e^{0.2} \ \sin(0.1)\cos(0.1) \end{bmatrix} \approx \begin{bmatrix} 1.2214 \ 0.0995 \end{bmatrix}$$
 > 
 > Error pequeño, la aproximación es buena cerca del origen.
-
+>
 > [!success] 🔑 Respuestas Ejercicios Avanzados
 > 
 > **7.** $\vec{F}(x,y) = \begin{bmatrix} x^2 - y^2 \ 2xy \end{bmatrix}$

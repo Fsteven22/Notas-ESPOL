@@ -6,7 +6,7 @@
 # Incertidumbres (Absoluta, Relativa y Porcentual)
 
 > [!quote] "La incertidumbre no es signo de debilidad en la ciencia; es la honestidad que distingue el conocimiento verdadero de la simple especulación." 📏
-
+>
 > [!info] La incertidumbre cuantifica nuestra confianza en una medición, indicando el rango dentro del cual esperamos que se encuentre el valor verdadero. Existen tres formas fundamentales de expresar incertidumbres: absoluta (en las mismas unidades), relativa (como fracción adimensional) y porcentual (como porcentaje). Cada forma tiene ventajas específicas según el contexto y aplicación.
 
 ## 🔧 Conceptos Fundamentales
@@ -35,7 +35,7 @@
 > |Absoluta|Δx|Mismas que x|±0.2 cm|Rango de ±0.2 cm alrededor del valor|
 > |Relativa|δx = Δx/x|Adimensional|0.013|1.3% de incertidumbre|
 > |Porcentual|ε% = (Δx/x)×100%|%|1.3%|Error de 1.3 por cada 100 unidades|
-
+>
 > [!tip] **Incertidumbre Absoluta (Δx)** 📏
 > 
 > ### Características:
@@ -87,7 +87,7 @@
 > - No permite comparación entre magnitudes diferentes
 > - Dependiente de la escala de medición
 > - Puede ser engañosa sin contexto del valor medido
-
+>
 > [!warning] **Incertidumbre Relativa (δx)** 📈
 > 
 > ### Características:
@@ -133,7 +133,7 @@
 > - Multímetro: ±0.5% de lectura
 > - Termómetro: ±0.1% de escala completa
 > - Manómetro: ±0.25% del valor medido
-
+>
 > [!success] **Incertidumbre Porcentual (ε%)** 📊
 > 
 > ### Características:
@@ -201,7 +201,7 @@
 > 7. **Relativa**: δx = Δx/x
 > 8. **Porcentual**: ε% = δx × 100%
 > 9. **Verifica** coherencia entre las tres formas
-
+>
 > [!tip] **Diagrama de Conversiones** 🔄
 > 
 > ```
@@ -267,7 +267,7 @@
 > - **Absoluta**: L = (127.4 ± 0.5) mm
 > - **Relativa**: δ = 0.0039
 > - **Porcentual**: ε% = 0.39%
-
+>
 > [!example] **Problema 2: Medición de Masa Precisión** ⚖️
 > 
 > ### Enunciado:
@@ -314,7 +314,7 @@
 > - **Porcentual**: ε% = 0.02% (excelente calidad)
 > 
 > **Interpretación**: La medición tiene muy alta precisión (0.02%) debido al instrumento de alta resolución y múltiples mediciones.
-
+>
 > [!example] **Problema 3: Comparación de Métodos** 🔬
 > 
 > ### Enunciado:
@@ -366,7 +366,7 @@
 > 
 > **A**bsoluta → **A**compaña con unidades, **A**bsoluto en magnitud **R**elativa → **R**azón sin unidades, para **R**elaconar precisiones  
 > **P**orcentual → **P**or ciento, **P**resentación popular e intuitiva
-
+>
 > [!tip] **Regla de los Ceros** 🔢
 > 
 > - **Absoluta**: Mantén las unidades originales
@@ -495,7 +495,7 @@
 > - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Conocimientos Previos a las Prácticas\|Conocimientos Previos a las Prácticas]] - Conceptos básicos
 > - **Aritmética básica**: Operaciones con decimales y porcentajes
 > - **Estadística elemental**: Concepto de media y desviación
-
+>
 > [!note] **Temas Avanzados**
 > 
 > - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis de Datos y Errores/Incertidumbres Experimentales\|Incertidumbres Experimentales]] - Propagación de incertidumbres
@@ -546,7 +546,7 @@
 > - Incertidumbre de la media calculada
 > - Disminuye con el número de mediciones (√n)
 > - Fundamental para expresar la confiabilidad del resultado
-
+>
 > [!tip] **Fórmulas Estadísticas Fundamentales** 🧮
 > 
 > ### 1. Incertidumbre Tipo A (Estadística):
@@ -590,7 +590,7 @@
 > 
 > - Indica la variabilidad relativa de las mediciones
 > - Útil para comparar dispersión entre diferentes magnitudes
-
+>
 > [!warning] **Incertidumbres Tipo B (Sistemáticas)** ⚙️
 > 
 > ### Fuentes Principales:
@@ -706,7 +706,7 @@
 > - Factor ≈ 1.7: Para 3 fuentes iguales
 > - Factor ≈ 2.0: Para 4 fuentes iguales
 > - Factor > 2.0: Análisis muy conservador
-
+>
 > [!tip] **Criterios de Selección de Método** 🎯
 > 
 > ### Método RSS (Recomendado):
@@ -815,7 +815,7 @@
 > |Máximo|±0.001 g|0.000066|0.0066%|
 > 
 > **Factor conservadurismo**: 0.001/0.0007 = 1.43
-
+>
 > [!example] **Ejemplo Práctico: Control de Calidad** 🏭
 > 
 > ### Situación:

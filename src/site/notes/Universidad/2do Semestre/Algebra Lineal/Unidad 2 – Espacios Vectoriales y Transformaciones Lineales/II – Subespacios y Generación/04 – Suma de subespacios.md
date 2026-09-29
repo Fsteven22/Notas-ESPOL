@@ -66,7 +66,7 @@
 > - $\text{span}(U \cup W)$ - generado por la unión
 > - $U \oplus W$ - suma directa (caso especial)
 > - $\langle U, W \rangle$ - subespacio generado
-
+>
 > [!warning] ⚠️ Diferencia con Unión
 > 
 > **CUIDADO:** $U + W \neq U \cup W$ en general
@@ -79,7 +79,7 @@
 > - $U + W = \mathbb{R}^2$ (todo el plano)
 > 
 > **Regla:** La unión NO es subespacio (no cerrada bajo suma)
-
+>
 > [!example] 📝 Ejemplos Básicos
 > 
 > **1. Rectas en $\mathbb{R}^2$:**
@@ -148,7 +148,7 @@
 > 
 > - Suma directa: los subespacios son "independientes"
 > - No directa: hay "solapamiento" entre subespacios
-
+>
 > [!tip] 🛠️ Cómo Verificar Suma Directa
 > 
 > **Método 1:** Verificar $U \cap W = {\vec{0}}$
@@ -206,7 +206,7 @@
 > |**$U \subseteq W$**|$\dim(U + W) = \dim(W)$|Recta en plano|
 > |**$U = W$**|$\dim(U + W) = \dim(U)$|Mismo subespacio|
 > |**Máxima intersección**|$\dim(U \cap W) = \min(\dim U, \dim W)$|Un subespacio contiene al otro|
-
+>
 > [!example] 📝 Ejemplo de Cálculo Detallado
 > 
 > En $\mathbb{R}^4$:

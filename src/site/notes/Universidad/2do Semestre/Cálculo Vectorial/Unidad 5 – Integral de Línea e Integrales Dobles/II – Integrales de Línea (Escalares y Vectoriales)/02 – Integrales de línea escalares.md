@@ -584,7 +584,7 @@ graph TB
 > |---|---|
 > |Esquina en punto P|Dividir curva en P|
 > |Cada lado es suave|Parametrizar por separado |
-
+>
 > | Verificar continuidad | r₁(b) = r₂(a) en unión | | Cálculo | Sumar integrales |
 
 ---

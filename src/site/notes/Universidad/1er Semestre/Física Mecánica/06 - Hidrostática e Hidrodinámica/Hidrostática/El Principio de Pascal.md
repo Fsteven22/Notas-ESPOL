@@ -29,7 +29,7 @@
 > 
 > - F₁, F₂: Fuerzas aplicadas
 > - A₁, A₂: Áreas de aplicación
-
+>
 > [!warning]+ Condiciones de Validez
 > 
 > - ⚠️ **Fluido incompresible**: Densidad constante
@@ -92,7 +92,7 @@ graph TD
 > ```
 > 
 > Por tanto: **P = constante** en toda dirección horizontal
-
+>
 > [!abstract]+ Principio de Conservación
 > 
 > ### 🔄 Conservación de la Energía
@@ -136,7 +136,7 @@ graph TD
 > - **I**ncompresible el fluido
 > - **Ó**mnidireccional la transmisión
 > - **N**o hay pérdidas
-
+>
 > [!study]+ Método de Estudio: Casos Prácticos
 > 
 > ### 📚 Estrategia 3-2-1
@@ -163,7 +163,7 @@ graph TD
 > - [[Propiedades de los Fluidos\|Propiedades de los Fluidos]]
 > - [[Estática de Fluidos\|Estática de Fluidos]]
 > - [[Unidades de Presión\|Unidades de Presión]]
-
+>
 > [!success]+ Para Profundizar
 > 
 > - [[Hidrodinámica - Ecuación de Bernoulli\|Hidrodinámica - Ecuación de Bernoulli]]

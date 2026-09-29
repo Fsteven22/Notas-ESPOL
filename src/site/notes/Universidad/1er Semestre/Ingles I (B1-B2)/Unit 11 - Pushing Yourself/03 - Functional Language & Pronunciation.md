@@ -81,7 +81,7 @@
 > ✅ My goal is to start my own company
 > ✅ I'm aiming to change careers next year
 > ```
-
+>
 > [!tip] 🔥 Talking About Your Progress
 > 
 > **Positive progress:**
@@ -121,7 +121,7 @@
 > ✅ It's harder than I thought, but I won't give up
 > ✅ I'm finding it difficult to balance work and study
 > ```
-
+>
 > [!example] 💭 Expressing Determination & Persistence
 > 
 > **Strong commitment expressions:**
@@ -211,7 +211,7 @@
 > |"I can't do this"|**Yes, you can! I've seen what you're capable of**|
 > |"I'm tired"|**Take a break, but don't quit. You've got this**|
 > |"I keep failing"|**Failure is part of learning. Keep trying!**|
-
+>
 > [!success] 🎯 Giving Advice with Conditionals
 > 
 > **Using "If I were you" (Second Conditional):**
@@ -262,7 +262,7 @@
 > ✅ You might want to think about taking a course
 > ✅ It could be useful to set a deadline
 > ```
-
+>
 > [!tip] 🌟 Motivational Phrases (Like a Coach!)
 > 
 > **Power phrases for motivation:**
@@ -361,7 +361,7 @@
 > ✅ She wants to set UP her own business
 >                   ↑ UP
 > ```
-
+>
 > [!example] 🔗 Linking & Connected Speech
 > 
 > **Linking consonant to vowel:**
@@ -404,7 +404,7 @@
 > |got to|gotta|You gotta keep trying|
 > 
 > **⚠️ Use in speaking, not formal writing!**
-
+>
 > [!tip] 🎯 Intonation for Encouragement
 > 
 > **Rising intonation = Encouraging / Enthusiastic:**
@@ -504,7 +504,7 @@
 > 4. I'm pushing myself to _________________________
 > 5. The most challenging thing I'm working on is _________________________
 > ```
-
+>
 > [!tip] 🎤 Drill 2: Encouraging a Friend
 > 
 > **Scenario: Your friend wants to give up on learning guitar**
@@ -542,7 +542,7 @@
 > |Someone struggling with a diet|___________________________|
 > |Classmate failing a difficult subject|___________________________|
 > |Colleague thinking of abandoning a project|___________________________|
-
+>
 > [!example] 🎤 Drill 3: Responding to Challenges
 > 
 > **Practice responding naturally to these statements:**

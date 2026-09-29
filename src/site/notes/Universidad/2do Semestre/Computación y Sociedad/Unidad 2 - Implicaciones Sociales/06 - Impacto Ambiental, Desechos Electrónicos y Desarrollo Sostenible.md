@@ -42,7 +42,7 @@
 > |**Valor económico de los materiales**|Estimado en $57 mil millones USD anuales desperdiciados|
 > 
 > > ⚠️ El resto — más del 80% — termina en vertederos, incineradoras o es exportado informalmente hacia países en desarrollo.
-
+>
 > [!note] 📱 Composición de un teléfono móvil descartado
 > 
 > Un teléfono promedio contiene materiales tanto valiosos como peligrosos:
@@ -56,7 +56,7 @@
 > |**No especificado / compuestos**|~10%|Mezcla de adhesivos, soldaduras y materiales difíciles de separar|
 > 
 > > 💡 El 10% no especificado refleja la complejidad real de la composición — los fabricantes no divulgan todos los materiales, lo que dificulta el reciclaje eficiente.
-
+>
 > [!danger] ☠️ Componentes peligrosos
 > 
 > Muchos dispositivos electrónicos contienen **metales pesados y sustancias tóxicas** que, al ser descartados de forma inadecuada, contaminan suelo, agua y aire:
@@ -68,7 +68,7 @@
 > |**Cadmio (Cd)**|Baterías recargables, circuitos|Daño renal, carcinógeno|
 > |**Cromo hexavalente**|Recubrimientos metálicos|Carcinógeno, daño al ADN|
 > |**Retardantes de llama bromados**|Carcasas plásticas, placas|Disruptores endocrinos, tóxicos al incinerar|
-
+>
 > [!warning] 🚢 El flujo global de e-waste
 > 
 > Una fracción importante de los desechos electrónicos generados en países desarrollados es **exportada hacia Asia y América Latina**, muchas veces de forma ilegal o bajo etiquetas engañosas como "donaciones" o "equipos usados".
@@ -105,7 +105,7 @@
 > |**Videoconferencias en lugar de viajes**|Reducir emisiones de CO2 asociadas a viajes de negocios mediante reuniones virtuales|
 > |**Reparación en lugar de sustitución**|Extender la vida útil de los dispositivos — repararlos en vez de descartarlos al primer fallo|
 > |**Diseño para el desmontaje**|Fabricar equipos que puedan desarmarse fácilmente para recuperar materiales al final de su vida|
-
+>
 > [!important] 🔄 Economía Circular aplicada a la tecnología
 > 
 > El modelo tradicional es **lineal**: extraer → fabricar → usar → descartar. La **Economía Circular** propone cerrar ese ciclo:
@@ -136,7 +136,7 @@
 > |**Reutilizar**|Donar equipos funcionales, mercado de segunda mano|
 > |**Reparar**|Talleres de reparación, derecho a reparar (_Right to Repair_)|
 > |**Reciclar**|Entregar en puntos de acopio certificados para recuperar materiales|
-
+>
 > [!tip] 🇪🇨 Iniciativas en Ecuador
 > 
 > Ecuador cuenta con programas concretos para la gestión de e-waste:
@@ -179,7 +179,7 @@
 >     style SO fill:#fff4e1
 >     style EC2 fill:#f5e1ff
 > ```
-
+>
 > [!note] 🎯 Los 17 Objetivos de Desarrollo Sostenible (ODS) — ONU 2030
 > 
 > En 2015, la ONU aprobó la **Agenda 2030** con 17 ODS como hoja de ruta global para erradicar la pobreza, proteger el planeta y garantizar prosperidad para todos.

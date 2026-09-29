@@ -6,7 +6,7 @@
 # Problemas con rozamiento
 
 > [!quote] "La fricción no es solo una resistencia al movimiento, es la fuerza que permite caminar, frenar y mantenernos en pie; sin ella, el mundo sería un lugar imposible de habitar." 🌪️
-
+>
 > [!info] El rozamiento o fricción es una fuerza que se opone al movimiento relativo entre superficies en contacto. Esta fuerza fundamental en la mecánica determina desde la capacidad de un vehículo para frenar hasta la estabilidad de objetos en superficies inclinadas. Comprender sus tipos, características y aplicaciones es esencial para resolver problemas de dinámica y diseñar sistemas mecánicos eficientes.
 
 ## 🎯 Tipos de Rozamiento
@@ -33,7 +33,7 @@
 > - **Autoajustable**: Se adapta a la fuerza aplicada
 > - **Valor máximo**: fₛ,máx = μₛN
 > - **Siempre menor o igual**: fₛ ≤ μₛN
-
+>
 > [!tip] **Rozamiento Cinético (fₖ)** 🏃‍♂️
 > 
 > ### Características Principales:
@@ -54,7 +54,7 @@
 > 
 > - fₖ = μₖN
 > - μₖ = fₖ/N (coeficiente de fricción cinética)
-
+>
 > [!warning] **Rozamiento por Rodadura (fᵣ)** 🎳
 > 
 > ### Características Principales:
@@ -69,7 +69,7 @@
 > - **Típicamente**: μᵣ << μₖ < μₛ
 > - **Ejemplo**: μᵣ ≈ 0.01, μₖ ≈ 0.3, μₛ ≈ 0.5
 > - **Ventaja**: Por eso usamos ruedas en lugar de arrastrar
-
+>
 > [!success] 🔗 Factores que Afectan la Fricción
 > 
 > ```mermaid
@@ -93,7 +93,7 @@
 >     style C fill:#e8f5e8
 >     style D fill:#fff3e0
 > ```
-
+>
 > [!note] **Leyes de la Fricción** 📐
 > 
 > ### Ley de Amontons-Coulomb:
@@ -157,7 +157,7 @@
 > **Paso 3: Análisis con F = 25 N** Como F > fₛ,máx, hay deslizamiento fₖ = μₖN = 0.3 × 49 = 14.7 N
 > 
 > **Paso 4: Aceleración** ΣF = ma → 25 - 14.7 = 5a a = 10.3/5 = **2.06 m/s²**
-
+>
 > [!example] **Problema 2: Plano Inclinado con Fricción** 🏔️
 > 
 > ### Enunciado:
@@ -178,7 +178,7 @@
 > **Análisis estático**: Como fₛ,máx > mg sin30°, **NO se desliza**
 > 
 > **Si hay movimiento** (μₖ = 0.4): fₖ = 0.4 × 16.97 = 6.79 N ma = mg sin30° - fₖ = 9.8 - 6.79 = 3.01 N a = 3.01/2 = **1.51 m/s²**
-
+>
 > [!example] **Problema 3: Sistema con Polea y Fricción** 🔗
 > 
 > ### Enunciado:
@@ -209,7 +209,7 @@
 ## 🧮 Técnicas de Memorización
 
 > [!tip] **Mnemotecnia: "SECA"** 🏜️ **S**tático → **E**spera movimiento **E**stático → **C**oeficiente mayor **C**inético → **A**cción en movimiento **A**plicada → siempre menor que estática
-
+>
 > [!tip] **Regla Visual: "Semáforo de Fricción"** 🚦
 > 
 > - **🔴 ROJO (Estático)**: PARA - Máxima resistencia

@@ -21,7 +21,7 @@
 > - $\dot{f}(a)$ (notación de Newton para tiempo)
 > 
 > **Interpretación del cociente:** 🔍 $$\frac{f(a+h) - f(a)}{h} = \frac{\text{Cambio en } f}{\text{Cambio en } x} = \text{Razón de cambio promedio}$$
-
+>
 > [!info] 📊 Formas Alternativas de la Definición
 > 
 > ### Variaciones equivalentes del límite
@@ -36,7 +36,7 @@
 > **Condición de existencia:** El límite debe existir y ser finito ✅
 > 
 > **Mnemotecnia:** "**C**ambio **D**ividido **T**iende = **CDT** (Cociente Diferencial al Tendiente)"
-
+>
 > [!warning] ⚠️ Formas Indeterminadas en Derivadas
 > 
 > ### Resolución de indeterminaciones
@@ -78,7 +78,7 @@
 > 2. **Punto móvil:** $Q = (a+h, f(a+h))$ en la curva
 > 3. **Recta secante:** Pasa por $P$ y $Q$
 > 4. **Límite:** Cuando $h \to 0$, $Q \to P$ y la secante se convierte en **tangente**
-
+>
 > [!tip] 🎯 Pendiente de Rectas Secantes
 > 
 > ### Análisis del comportamiento límite
@@ -95,7 +95,7 @@
 > |$h = 0$|Razón instantánea|Tangente 🎯|
 > 
 > **Visualización del concepto:** La derivada es la "mejor aproximación lineal" de la función cerca del punto
-
+>
 > [!warning] 🚫 Casos Especiales Geométricos
 > 
 > ### Situaciones donde no existe la derivada
@@ -136,7 +136,7 @@
 > - **Velocidad vs tiempo:** $v'(t) = $ aceleración instantánea $(m/s^2)$
 > - **Temperatura vs altura:** $T'(h) = $ gradiente térmico $(°C/m)$
 > - **Costo vs producción:** $C'(x) = $ costo marginal $($/unidad)$
-
+>
 > [!info] 🔬 Aplicaciones en Ciencias
 > 
 > ### Contextos específicos de razones de cambio
@@ -151,7 +151,7 @@
 > |**Medicina**|Dosis $D(m)$|Masa corporal $m$|Sensibilidad $D'(m)$ 💊|
 > 
 > **Regla mnemotécnica:** "**F**ísica **Q**uímica **E**conomía **B**iología **M**edicina = **FQEBM**"
-
+>
 > [!warning] 📈 Interpretación de Signos
 > 
 > ### Significado del signo de la derivada
@@ -195,7 +195,7 @@
 > - **Punto de tangencia:** $(a, f(a))$
 > - **Pendiente:** $m = f'(a)$
 > - **Ordenada al origen:** $b = f(a) - a \cdot f'(a)$
-
+>
 > [!info] 🎯 Construcción Paso a Paso
 > 
 > ### Algoritmo para encontrar la recta tangente
@@ -215,7 +215,7 @@
 > - **Pendiente:** $f'(2) = 4$
 > - **Ecuación:** $y - 4 = 4(x - 2)$
 > - **Simplificado:** $y = 4x - 4$
-
+>
 > [!warning] 🔍 Recta Normal
 > 
 > ### Perpendicular a la tangente
@@ -237,7 +237,7 @@
 > |Pendiente $m$|Pendiente $-\frac{1}{m}$|Producto = $-1$ ⊥|
 > |Horizontal|Vertical|Perpendiculares 📐|
 > |Vertical|Horizontal|Perpendiculares 📐|
-
+>
 > [!info] 🎨 Aplicaciones Geométricas
 > 
 > ### Usos prácticos de la recta tangente

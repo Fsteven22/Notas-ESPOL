@@ -107,7 +107,7 @@
 > • X es el conjunto subyacente
 > • d es la métrica sobre X
 > ```
-
+>
 > [!example] Verificación de Axiomas
 > 
 > **Ejemplo: Métrica euclidiana en ℝ**
@@ -171,7 +171,7 @@
 > • Induce la topología usual de ℝⁿ
 > • Proviene de un producto interno: d(x,y) = ||x - y||₂
 > ```
-
+>
 > [!example] Ejemplos Numéricos
 > 
 > **En ℝ:**
@@ -238,7 +238,7 @@
 > • Distancia euclidiana: √13 ≈ 3.606
 > • Distancia del taxi: 3 + 2 = 5
 > ```
-
+>
 > [!example] Ejemplos de Métrica del Taxi
 > 
 > **En ℝ²:**
@@ -305,7 +305,7 @@
 >                     = max{3, 4}
 >                     = 4
 > ```
-
+>
 > [!example] Comparación de las Tres Métricas
 > 
 > **Mismo ejemplo con las tres métricas:**
@@ -377,7 +377,7 @@
 >              Como al menos uno de d(x,y) o d(y,z) es 1,
 >              la suma es ≥ 1 ✓
 > ```
-
+>
 > [!example] Ejemplos de Métrica Discreta
 > 
 > **En cualquier conjunto:**
@@ -483,7 +483,7 @@
 > • Las bolas abiertas son conjuntos abiertos
 > • Las bolas cerradas son conjuntos cerrados
 > ```
-
+>
 > [!example] Ejemplos de Bolas
 > 
 > **En ℝ con métrica euclidiana:**
@@ -729,7 +729,7 @@
 >    Es una "métrica ponderada" (weighted metric)
 >    Todos los axiomas se verifican ✓
 > ```
-
+>
 > [!example] Ejercicio 2: Calcular Distancias
 > 
 > **Instrucciones:** Calcula las distancias indicadas.
@@ -761,7 +761,7 @@
 > Observación: d∞ ≤ d₂ ≤ d₁
 >              4 ≤ 5 ≤ 7 ✓
 > ```
-
+>
 > [!example] Ejercicio 3: Bolas en Diferentes Métricas
 > 
 > **Instrucciones:** Describe las bolas unitarias en ℝ² con centro en el origen.
@@ -794,7 +794,7 @@
 >      B∞ (cuadrado) contiene B₂ (círculo)
 >      B₂ (círculo) contiene B₁ (diamante) en su interior
 > ```
-
+>
 > [!example] Ejercicio 4: Métrica Discreta
 > 
 > **Instrucciones:** En X = {a, b, c, d} con métrica discreta d.
@@ -877,7 +877,7 @@
 > ✗ Diferentes formas de bolas
 > ✗ Diferentes tasas de convergencia
 > ```
-
+>
 > [!tip] Completitud
 > 
 > **Sucesión de Cauchy:**
@@ -915,7 +915,7 @@
 > 
 > Ejemplo: ℝ es la completación de ℚ
 > ```
-
+>
 > [!tip] Isometrías
 > 
 > **Definición:**

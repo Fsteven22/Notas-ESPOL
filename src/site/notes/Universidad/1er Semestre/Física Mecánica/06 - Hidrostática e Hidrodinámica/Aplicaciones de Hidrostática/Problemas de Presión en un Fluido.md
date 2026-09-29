@@ -6,7 +6,7 @@
 # Problemas de Presión en un Fluido
 
 > [!quote] "En las profundidades silenciosas de los océanos, cada metro de descenso es un testimonio del peso invisible que la naturaleza acumula gota a gota." 🌊
-
+>
 > [!info] La presión en los fluidos es una magnitud fundamental que describe cómo se distribuye la fuerza por unidad de área en un medio continuo. La comprensión de la presión hidrostática es esencial para el diseño de estructuras subacuáticas, sistemas de distribución de fluidos, y una amplia gama de aplicaciones en ingeniería civil, naval y mecánica.
 
 ## 🎯 Conceptos Fundamentales
@@ -34,7 +34,7 @@
 > - **Independiente de la forma** del recipiente
 > - **Actúa perpendicular** a cualquier superficie
 > - **Aumenta linealmente** con la profundidad
-
+>
 > [!tip] **Tipos de Presión** 🔍
 > 
 > ### **Presión Absoluta (P)**:
@@ -54,7 +54,7 @@
 > - Diferencia de presión entre dos puntos
 > - ΔP = P₂ - P₁ = ρg(h₂ - h₁)
 > - Útil para calcular diferencias de nivel
-
+>
 > [!warning] **Propiedades de los Fluidos** 📊
 > 
 > ### Densidades Típicas (a 20°C, 1 atm):
@@ -74,7 +74,7 @@
 > - **Nivel del mar**: 101,325 Pa = 1.01325 bar
 > - **Variación con altura**: ~1% por cada 100 m
 > - **Equivalencia**: 10.33 m de columna de agua
-
+>
 > [!success] 🌊 Distribución de Presión Hidrostática
 > 
 > ```mermaid
@@ -93,7 +93,7 @@
 >     style D fill:#81d4fa
 >     style E fill:#4fc3f7
 > ```
-
+>
 > [!note] **Relaciones Matemáticas** 📐
 > 
 > ### Gradiente de Presión:
@@ -164,7 +164,7 @@
 > **c) Presión adicional**: ΔP = ρgh = 2.01 MPa (igual a la presión manométrica)
 > 
 > **Interpretación**: La presión a 200 m es aproximadamente 21 veces la presión atmosférica.
-
+>
 > [!example] **Problema 2: Tanque con Múltiples Fluidos** 🪣
 > 
 > ### Enunciado:
@@ -187,7 +187,7 @@
 > **c) Fondo del tanque** (profundidad = 2 + 3 + 0.5 = 5.5 m): P₃ = P₂ + ρ₃gh₃ = 146,426 + 13600 × 9.81 × 0.5 = 213,134 Pa = 213.1 kPa
 > 
 > **Verificación**: P₃ = P₀ + ρ₁gh₁ + ρ₂gh₂ + ρ₃gh₃ = 213.1 kPa ✓
-
+>
 > [!example] **Problema 3: Manómetro en U** 📏
 > 
 > ### Enunciado:
@@ -213,7 +213,7 @@
 > **c) Tipo de presión**: La presión manométrica es negativa, indicando que el gas está a **presión negativa** (vacío parcial).
 > 
 > **Equivalencia**: 33.4 kPa corresponde a 25 cm de columna de mercurio.
-
+>
 > [!example] **Problema 4: Presión en Diferentes Planetas** 🪐
 > 
 > ### Enunciado:

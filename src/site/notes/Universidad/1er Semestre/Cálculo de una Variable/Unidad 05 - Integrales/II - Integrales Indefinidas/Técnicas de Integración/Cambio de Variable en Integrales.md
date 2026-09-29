@@ -55,7 +55,7 @@ flowchart TD
 > - $u = x^2 + 1$
 > - $du = 2x , dx$
 > - $\int u^3 , du = \frac{u^4}{4} + C = \frac{(x^2 + 1)^4}{4} + C$
-
+>
 > [!example] 🔢 Ejemplo 2: Exponencial **Resolver**: $\int 3x^2 e^{x^3} , dx$
 > 
 > **Solución**:
@@ -63,7 +63,7 @@ flowchart TD
 > - $u = x^3$
 > - $du = 3x^2 , dx$
 > - $\int e^u , du = e^u + C = e^{x^3} + C$
-
+>
 > [!example] 🔢 Ejemplo 3: Logarítmica **Resolver**: $\int \frac{6x}{x^2 + 1} , dx$
 > 
 > **Solución**:
@@ -80,7 +80,7 @@ flowchart TD
 > - Verificar que la derivada esté presente (o sea múltiplo)
 > - No confundir los límites en integrales definidas
 > - Recordar sustituir de vuelta la variable original
-
+>
 > [!tip] 💡 Estrategias
 > 
 > - Buscar funciones compuestas $f(g(x))$
@@ -184,7 +184,7 @@ flowchart TD
 > - $\int \frac{2\cos(t) , dt}{2\cos(t)} = \int dt = t + C$
 > - $t = \arcsin\left(\frac{x}{2}\right)$
 > - **Resultado**: $\arcsin\left(\frac{x}{2}\right) + C$
-
+>
 > [!example] 🔢 Ejemplo 2: Caso $\sqrt{a^2 + x^2}$ **Resolver**: $\int \frac{dx}{x^2 + 9}$
 > 
 > **Solución**:
@@ -194,7 +194,7 @@ flowchart TD
 > - $\int \frac{3\sec^2(t) , dt}{9\sec^2(t)} = \frac{1}{3}\int dt = \frac{t}{3} + C$
 > - $t = \arctan\left(\frac{x}{3}\right)$
 > - **Resultado**: $\frac{1}{3}\arctan\left(\frac{x}{3}\right) + C$
-
+>
 > [!example] 🔢 Ejemplo 3: Caso $\sqrt{x^2 - a^2}$ **Resolver**: $\int \frac{\sqrt{x^2 - 1}}{x} , dx$
 > 
 > **Solución**:

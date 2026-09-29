@@ -98,7 +98,7 @@
 > - Interpretadores y compiladores
 > - Ambientes de programación
 > - Conceptos y propiedades de los algoritmos
-
+>
 > [!abstract] Módulo 2 — Tipos de datos, operadores, cadenas, listas y aleatoriedad *(3h)*
 >
 > - Tipos de datos primitivos
@@ -109,7 +109,7 @@
 > - Cadena de caracteres y operaciones
 > - Aleatoriedad
 > - Propiedades de listas, indexación, slicing y funciones básicas
-
+>
 > [!abstract] Módulo 3 — Funciones *(6h)*
 >
 > - Paradigma divide y vencerás
@@ -118,19 +118,19 @@
 > - Paso de parámetros por referencia, valor y retorno de valores
 > - Alcance de variables
 > - Modularización
-
+>
 > [!abstract] Módulo 4 — Estructuras de Control *(4h)*
 >
 > - Estructuras de control condicionales
 > - Estructuras de control iterativas
 > - Sentencias anidadas
-
+>
 > [!abstract] Módulo 5 — Diccionarios *(4h)*
 >
 > - Características de las colecciones
 > - Tipos de colecciones
 > - Operaciones con colecciones
-
+>
 > [!abstract] Módulo 6 — Pandas *(7h)*
 >
 > - Arreglos N-Dimensionales (NumPy)
@@ -138,7 +138,7 @@
 > - Extracción de datos de diferentes fuentes
 > - Exportación de datos
 > - Visualización básica de datos
-
+>
 > [!abstract] Módulo General — Funciones Especiales *(4h)*
 >
 > - Conceptos básicos de archivos

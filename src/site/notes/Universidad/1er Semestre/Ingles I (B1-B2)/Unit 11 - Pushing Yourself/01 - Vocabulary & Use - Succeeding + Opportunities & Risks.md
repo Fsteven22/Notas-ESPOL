@@ -114,7 +114,7 @@ graph TD
 >     style G fill:#ffe1e1
 >     style H fill:#e1f5ff
 > ```
-
+>
 > [!success] 🎯 Frases Comunes con Vocabulario de Éxito
 > 
 > **Succeed/Success:**
@@ -237,7 +237,7 @@ graph TD
 >     style I fill:#ccffcc
 >     style J fill:#ffcccc
 > ```
-
+>
 > [!tip] 🎯 Frases para Analizar Decisiones
 > 
 > **Talking about advantages:**

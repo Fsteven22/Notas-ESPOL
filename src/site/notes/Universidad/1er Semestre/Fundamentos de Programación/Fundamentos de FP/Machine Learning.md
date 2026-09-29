@@ -7,7 +7,7 @@
 
 [!quote]- Cita Inspiradora
 > *"El aprendizaje automático no es magia; es tecnología. Pero aplicada correctamente, puede parecer mágica."* - Andrew Ng
-
+>
 > [!info] ## ¿Qué es Machine Learning? 🧠
 El Machine Learning (ML) o Aprendizaje Automático es una rama de la inteligencia artificial que permite a las computadoras aprender y tomar decisiones basadas en datos, sin ser programadas explícitamente para cada tarea específica.
 
@@ -690,7 +690,7 @@ graph TD
 ## ¿Qué es la Gestión de Proyectos? 🎯
 
 > [!info] **Definición** La gestión de proyectos es la aplicación de conocimientos, habilidades, herramientas y técnicas para ejecutar proyectos de manera efectiva y eficiente. Es el arte de dirigir y coordinar recursos humanos y materiales durante la vida de un proyecto, utilizando técnicas modernas de gestión para lograr objetivos predefinidos de alcance, costo, tiempo, calidad y satisfacción de los participantes.
-
+>
 > [!tip] **Características de un Proyecto** ✨
 > 
 > - **Temporal**: Tiene un inicio y fin definidos
@@ -745,7 +745,7 @@ graph TD
 > - Análisis Costo-Beneficio
 > - Benchmarking
 > - Entrevistas con stakeholders
-
+>
 > [!tip] **Fase 2: Planificación** 📋
 > 
 > ### Componentes del Plan:
@@ -786,7 +786,7 @@ graph TD
 >     style E fill:#fff3e0
 >     style F fill:#fff3e0
 > ```
-
+>
 > [!info] **Fase 3: Ejecución** ⚡
 > 
 > ### Actividades Principales:
@@ -804,7 +804,7 @@ graph TD
 > - Adquisición y desarrollo del equipo
 > - Gestión de las comunicaciones
 > - Gestión del involucramiento de stakeholders
-
+>
 > [!warning] **Fase 4: Monitoreo y Control** 📊
 > 
 > ### Indicadores Clave de Rendimiento (KPIs):
@@ -843,7 +843,7 @@ graph TD
 >     style F fill:#ffcc99
 >     style G fill:#ff9999
 > ```
-
+>
 > [!tip] **Fase 5: Cierre** 🎯
 > 
 > ### Actividades de Cierre:
@@ -884,7 +884,7 @@ graph TD
 > - Poca flexibilidad para cambios
 > - Entrega tardía de valor
 > - Riesgo alto si los requisitos cambian
-
+>
 > [!tip] **Metodologías Ágiles** 🔄
 > 
 > ### Principios Fundamentales:
@@ -919,7 +919,7 @@ graph TD
 > - **Product Owner**: Define qué se construye
 > - **Scrum Master**: Facilita el proceso
 > - **Development Team**: Construye el producto
-
+>
 > [!warning] **Metodologías Híbridas** ⚖️
 > 
 > ### Cuándo Usar Cada Enfoque:
@@ -1132,7 +1132,7 @@ graph TD
 > - La claridad de propósito puede superar cualquier obstáculo técnico
 > - El liderazgo dual (administrativo-técnico) puede ser muy efectivo
 > - Los proyectos complejos requieren enfoques múltiples y paralelos
-
+>
 > [!warning] **Caso de Fracaso: Berlin Brandenburg Airport** ✈️
 > 
 > **Factores del Fracaso:**
@@ -1166,7 +1166,7 @@ graph TD
 > - **NPV** (Net Present Value): Valor presente neto
 > - **Payback Period**: Tiempo de recuperación
 > - **Business Value Delivered**: Valor entregado al negocio
-
+>
 > [!info] **KPIs Cualitativos** 🎯
 > 
 > ### **Satisfacción de Stakeholders:**
@@ -1238,6 +1238,7 @@ graph TD
 ---
 
 **Tags:** #gestión-proyectos #planificación #metodologías #scrum #agile #waterfall #liderazgo #stakeholders #riesgos #pmbok #prince2 #kanban #gantt #recursos #presupuesto #cronograma #calidad #comunicación #equipos #deliverables #kpis #roi #change-management #estimación #valor-ganado
+
 
 </div></div>
  - Manejar proyectos de ML efectivamente
@@ -1379,7 +1380,7 @@ graph TD
 # Design Thinking
 
 > [!quote] "El pensamiento de diseño es una disciplina que usa la sensibilidad y métodos del diseñador para emparejar las necesidades de las personas con lo que es tecnológicamente factible." - Tim Brown, IDEO
-
+>
 > [!abstract]- ## 🎨 Definición y Concepto Central **Design Thinking** es una metodología de innovación centrada en las personas que integra las necesidades humanas, las posibilidades tecnológicas y los requerimientos para el éxito empresarial. Se basa en la lógica, imaginación, intuición y razonamiento sistémico para explorar posibilidades y crear resultados deseables.
 > 
 > ### 🧠 Principios Fundamentales
@@ -1389,7 +1390,7 @@ graph TD
 > - **Experimentación**: Prototipado rápido y aprendizaje iterativo
 > - **Optimismo**: Creencia en que todo problema tiene solución
 > - **Enfoque humano**: Las personas como centro del proceso de innovación
-
+>
 > [!process]- ## 🔄 Las 5 Etapas del Design Thinking
 > 
 > ```mermaid
@@ -1422,7 +1423,7 @@ graph TD
 > |**💡 Idear**|Generar soluciones|Brainstorming, SCAMPER, mind mapping|Portfolio diverso de ideas creativas|
 > |**🛠️ Prototipar**|Materializar ideas|Mockups, storyboards, role playing|Representaciones tangibles de conceptos|
 > |**🧪 Testear**|Validar soluciones|Testing usuarios, feedback loops, métricas|Aprendizajes para siguientes iteraciones|
-
+>
 > [!lightbulb]- ## 💡 Herramientas y Técnicas Específicas
 > 
 > ### 🎯 Fase de Empatización
@@ -1461,7 +1462,7 @@ graph TD
 >      Provocaciones
 >      Analogías
 > ```
-
+>
 > [!warning]- ## ⚠️ Retos y Limitaciones del Design Thinking
 > 
 > ### 🚧 Desafíos Comunes en la Implementación
@@ -1481,7 +1482,7 @@ graph TD
 > |Prototipado inadecuado|Definir nivel de fidelidad según objetivo|
 > |Falta diversidad|Equipos multidisciplinarios + inclusión intencional|
 > |Resistencia organizacional|Champions internos + casos de éxito graduales|
-
+>
 > [!rocket]- ## 🚀 Aplicaciones del Design Thinking
 > 
 > ### 🎓 En Contextos Educativos
@@ -1503,7 +1504,7 @@ graph TD
 > - **Innovación social**: Soluciones para desafíos comunitarios
 > - **Políticas públicas**: Servicios gubernamentales más efectivos
 > - **Sostenibilidad**: Diseño de soluciones ambientalmente responsables
-
+>
 > [!note]- ## 📝 Conexión con Análisis y Resolución de Problemas (ARP)
 > 
 > ### 🔗 Integración Curricular
@@ -1547,7 +1548,7 @@ graph TD
 > - Desarrollar competencias de facilitación de talleres
 > - Crear portfolio de herramientas y técnicas especializadas
 > - Evaluar impacto y efectividad de soluciones diseñadas
-
+>
 > [!lightbulb]- ## 💡 Técnica de Estudio Específica: Método IDEO-Learn
 > 
 > ### 🔍 Estructura IDEO-Learn para Design Thinking
@@ -1564,9 +1565,9 @@ graph TD
 > - **Figma**: Herramientas de prototipado digital
 > - **Design Kit de IDEO**: Metodologías y casos de estudio
 > - **Portfolios de innovación**: Documentación de procesos y resultados
-
+>
 > [!books]- ## 📚 Referencias y Profundización
-
+>
 > [!quote]- ### Referencias Académicas
 > 
 > - Brown, T. (2019). _Change by Design: How Design Thinking Transforms Organizations_. Harper Business.
@@ -1601,6 +1602,7 @@ graph TD
 > - _Próximamente: Carpeta completa de ARP con técnicas avanzadas, casos prácticos y herramientas especializadas_
 
 #design-thinking #innovación #creatividad #resolución-problemas #metodología #user-centered-design #prototipado #empatía #ideación #ARP #pensamiento-de-diseño
+
 
 </div></div>
  - Enfoque centrado en problemas
@@ -2132,7 +2134,7 @@ graph TD
 > * **Gestión de Proyectos**: Ofrece herramientas visuales para gestionar tareas, errores y discusiones.
 > 
 > ---
-
+>
 > [!success]- ## ⚙️ Características Clave de GitHub
 > 
 > |Característica|Descripción y Utilidad|
@@ -2144,7 +2146,7 @@ graph TD
 > |**Gists**|Una forma de compartir fragmentos de código o notas rápidas sin necesidad de crear un repositorio completo.|
 > 
 > ---
-
+>
 > [!tip]- ## 🚀 El Rol de GitHub en el Ecosistema de Conocimiento
 > 
 > Más allá del código, GitHub se ha convertido en una herramienta invaluable para la gestión del conocimiento personal.
@@ -2154,7 +2156,7 @@ graph TD
 > 3.  **Portafolio Público**: Tus notas, proyectos y conocimientos pueden ser un portafolio público. Puedes usar GitHub Pages para convertir un repositorio de notas en un sitio web público, mostrando tu trabajo y tu forma de pensar.
 > 
 > ---
-
+>
 > [!example]- **Ejemplo Práctico de un Flujo de Trabajo con Obsidian**
 > **Objetivo:** Sincronizar tu vault de Obsidian con GitHub y hacer un "commit" de tus notas.
 > 
@@ -2165,7 +2167,7 @@ graph TD
 > > **Importante:** Recuerda añadir el archivo `.obsidian/workspace` a tu `.gitignore` para no subir la configuración de la interfaz a GitHub.
 > 
 > ---
-
+>
 > [!link]- **🔗 Notas Relacionadas y Prerrequisitos**
 > 
 > ### Prerrequisitos
@@ -2181,6 +2183,7 @@ graph TD
 > ---
 > 
 > #git #github #controlDeVersiones #codigo #desarrollo #proyectos #tecnologia #conocimiento
+
 
 </div></div>
  - Control de versiones para proyectos

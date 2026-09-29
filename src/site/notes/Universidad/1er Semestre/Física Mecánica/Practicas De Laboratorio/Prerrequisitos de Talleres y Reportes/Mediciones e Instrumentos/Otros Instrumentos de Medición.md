@@ -6,7 +6,7 @@
 # Otros Instrumentos de Medición
 
 > [!quote] "Un científico es tan bueno como sus instrumentos; conocerlos es dominar la precisión." 🔧
-
+>
 > [!info] Además del calibrador de Vernier, el laboratorio de física mecánica utiliza diversos instrumentos especializados para medir diferentes magnitudes. Cada instrumento tiene características únicas de precisión, rango de medición y aplicaciones específicas. Conocer sus capacidades y limitaciones es fundamental para seleccionar la herramienta apropiada y obtener resultados confiables.
 
 ## 🔧 Instrumentos de Longitud
@@ -42,7 +42,7 @@
 > - Escala lineal: 8.5 mm
 > - Escala circular: 0.23 mm
 > - **Total**: 8.73 mm
-
+>
 > [!tip] **Regla Graduada** 🌊
 > 
 > ### Tipos Comunes:
@@ -116,7 +116,7 @@
 > - **Humedad**: Absorción de agua por materiales higroscópicos
 > - **Electricidad estática**: Atracción/repulsión de objetos
 > - **Vibración**: Movimientos del edificio o equipos cercanos
-
+>
 > [!tip] **Balanza de Brazos** 📊
 > 
 > ### Principio de Funcionamiento:
@@ -186,7 +186,7 @@
 > - **Caída libre**: Usar fotoceldas si es posible
 > - **Movimiento en plano inclinado**: Definir puntos claros
 > - **Oscilaciones**: Contar múltiples ciclos
-
+>
 > [!success] 🔗 Selección del Cronómetro Apropiado
 > 
 > ```mermaid
@@ -274,7 +274,7 @@
 > - Histéresis del resorte
 > - Deriva con la temperatura
 > - Fatiga del material con el uso
-
+>
 > [!tip] **Transportador** 📏
 > 
 > ### Medición de Ángulos:
@@ -430,7 +430,7 @@
 > - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Mediciones e Instrumentos/Mediciones Fundamentales\|Mediciones Fundamentales]] - Base conceptual
 > - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Sistema de unidades
 > - **Conocimientos básicos**: Manejo cuidadoso de equipos
-
+>
 > [!note] **Temas Siguientes**
 > 
 > - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Presentación de Resultados/Cifras Significativas\|Cifras Significativas]] - Expresión correcta de resultados

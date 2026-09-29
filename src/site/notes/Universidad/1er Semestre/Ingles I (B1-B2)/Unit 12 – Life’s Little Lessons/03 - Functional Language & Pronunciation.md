@@ -121,7 +121,7 @@
 > • My biggest goal is...
 > • I've set a goal to...
 > ```
-
+>
 > [!tip] 🔥 Talking About Progress & Effort
 > 
 > **Describing your effort:**
@@ -167,7 +167,7 @@
 > ✅ Nothing will stand in my way
 > ✅ I'm 100% focused on this
 > ```
-
+>
 > [!example] 💬 Natural Conversation Examples
 > 
 > **Conversation 1: Talking about a personal goal**
@@ -272,7 +272,7 @@
 > ✅ Why don't you ask for help?
 > ✅ Why don't you give it one more shot?
 > ```
-
+>
 > [!tip] 🌟 More Ways to Encourage
 > 
 > **Recognizing effort:**
@@ -318,7 +318,7 @@
 > ✅ That's amazing!
 > ✅ You deserve this!
 > ```
-
+>
 > [!example] 💬 Advice & Encouragement Dialogues
 > 
 > **Dialogue 1: Friend feeling discouraged**
@@ -407,7 +407,7 @@
 > ✅ SET it up (not set it UP)
 > ✅ WORK it out (not work it OUT)
 > ```
-
+>
 > [!tip] 🔗 Linking in Functional Phrases
 > 
 > **What is linking?**
@@ -457,7 +457,7 @@
 > 4. Set_up_a goal → "Se-tu-pa-goal"
 > 5. Find_out_about_it → "Fin-dou-ta-bou-tit"
 > ```
-
+>
 > [!success] 🎯 Intonation Patterns
 > 
 > **Rising intonation (questions & uncertainty):**
@@ -554,7 +554,7 @@
 > ❌ I wish I would be confident
 > ✅ I wish I were confident
 > ```
-
+>
 > [!example] 💬 Natural Ways to Express Regret
 > 
 > **Soft regrets:**
@@ -627,7 +627,7 @@
 > 9. I refuse to give up on my dream of studying abroad
 > 10. I've made progress in my pronunciation and confidence
 > ```
-
+>
 > [!success] 🎤 Drill 2: Giving Encouragement
 > 
 > **Scenario: Your friend says these things. Respond!**
@@ -654,7 +654,7 @@
 > - Enthusiastic: "Keep going! You've got this!"
 > - Calm/supportive: "I know it's hard, but don't give up"
 > - Motivating: "Think how proud you'll be when you succeed!"
-
+>
 > [!example] 🎤 Drill 3: Wishes & Hypotheticals
 > 
 > **Complete these sentences about yourself:**
@@ -768,7 +768,7 @@
 > pushing yourself, you can achieve more than 
 > you think."
 > ```
-
+>
 > [!success] 🌟 Situation 2: Encouraging a Colleague
 > 
 > **Your colleague is struggling with a project:**
@@ -796,7 +796,7 @@
 > - If I were you, I'd...
 > - You've got this
 > - Keep going
-
+>
 > [!example] 🌟 Situation 3: Talking About Personal Goals
 > 
 > **Casual conversation at a coffee break:**

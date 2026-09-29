@@ -106,7 +106,7 @@
 > > 3. **would have** ✅ (Third conditional - past unreal)
 > > 4. **Learning new skills while starting** ✅
 > > 5. **"If I were you, I would take that risk"** / Take risks and push yourself toward your dreams ✅
-
+>
 > [!example] 📚 Reading 2: "The Power of Not Giving Up"
 > 
 > **Pre-reading: Think about these questions**
@@ -167,7 +167,7 @@
 > - **reframe** = _____________
 > - **feedback** = _____________
 > - **overwhelmed** = _____________
-
+>
 > [!tip] 📚 Reading 3: Short Motivational Quotes - Analysis
 > 
 > **Analyze these quotes using Unit 11 grammar:**
@@ -309,7 +309,7 @@
 > - [ ] Checked spelling and grammar
 > - [ ] Used functional language naturally
 > - [ ] Made it personal and authentic
-
+>
 > [!success] ✏️ Writing Task 2: Your Current Goals
 > 
 > **Instructions:**
@@ -373,7 +373,7 @@
 > _I'm working on improving my speaking skills every day. I'm trying to watch English content without subtitles, and I'm pushing myself to think in English instead of translating. Every day, I study for at least 30 minutes._
 > 
 > _The biggest challenge is finding time to practice. Sometimes I wish I had more hours in the day. If I had a native English speaker to practice with regularly, I would improve much faster..._
-
+>
 > [!tip] ✏️ Writing Task 3: Letter of Encouragement
 > 
 > **Scenario:**
@@ -500,7 +500,7 @@
 > **Delivery tips:**
 > 
 > ✅ Speak clearly and not too fast ✅ Make eye contact (if presenting to someone) ✅ Use hand gestures for emphasis ✅ Show emotion (passion about your goals!) ✅ Pause after important points
-
+>
 > [!example] 🎤 Speaking Task 2: Role-Play Conversations
 > 
 > **Role-play 1: Encouraging a Friend**
@@ -573,7 +573,7 @@
 > - Switch roles and do it again
 > - Try to speak for at least 2 minutes each
 > - Use natural pronunciation and intonation
-
+>
 > [!success] 🎤 Speaking Task 3: Discussion Questions
 > 
 > **Discuss these questions with a partner or record yourself answering:**
@@ -886,7 +886,7 @@
 > **If you checked 15-19 items:** 👍 **Good progress! Review weak areas.**
 > 
 > **If you checked less than 15:** 📚 **Go back and practice more.**
-
+>
 > [!quote] 💭 Reflection Questions
 > 
 > **Take a moment to reflect on your learning:**

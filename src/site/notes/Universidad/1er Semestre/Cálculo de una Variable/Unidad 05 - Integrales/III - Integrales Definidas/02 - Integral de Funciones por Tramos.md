@@ -9,7 +9,7 @@
 
 > [!info] 💡 Concepto Fundamental
 > Una **función por tramos** (o función definida a trozos) es una función que se define mediante diferentes expresiones en diferentes intervalos de su dominio. La integración de estas funciones requiere dividir el intervalo de integración según los puntos donde cambia la definición de la función.
-
+>
 > [!tip] 🎯 ¿Por qué son importantes?
 > - Modelan **situaciones reales** con comportamientos diferentes en distintos rangos
 > - Aparecen en **física** (leyes que cambian según condiciones)
@@ -77,7 +77,7 @@ mindmap
 > \vdots & \vdots \\
 > f_n(x) & \text{si } x \in [x_{n-1}, x_n]
 > \end{cases}$$
-
+>
 > [!warning] ⚠️ Elementos clave
 > - **Puntos de ruptura**: $x_1, x_2, \ldots, x_{n-1}$ donde cambia la definición
 > - **Intervalos**: Cada tramo tiene su propia expresión
@@ -95,7 +95,7 @@ mindmap
 > $$\int_a^b f(x) \, dx = \sum_{i=1}^{n} \int_{x_{i-1}}^{x_i} f_i(x) \, dx$$
 > 
 > donde $f_i(x)$ es la expresión de $f(x)$ en el intervalo $[x_{i-1}, x_i]$.
-
+>
 > [!info] 🔍 Condiciones de Aplicabilidad
 > 1. **Cada tramo** debe ser **integrable** (generalmente continuo)
 > 2. **Número finito** de puntos de ruptura en cualquier intervalo cerrado
@@ -145,7 +145,7 @@ mindmap
 > **Paso 5**: Evaluar límites
 > $$= \left(0 - \left(-\frac{4}{2}\right)\right) + \left(\frac{9}{2} - 0\right)$$
 > $$= 2 + \frac{9}{2} = \frac{13}{2}$$
-
+>
 > [!example] 🎯 Ejemplo 2: Función Escalón Modificada
 > **Evaluar**: $\int_{0}^{4} f(x) \, dx$ donde:
 > $$f(x) = \begin{cases}
@@ -170,7 +170,7 @@ mindmap
 > $$= \frac{1}{3} + 4 + \left(12 - \frac{21}{2}\right)$$
 > $$= \frac{1}{3} + 4 + \frac{24 - 21}{2} = \frac{1}{3} + 4 + \frac{3}{2}$$
 > $$= \frac{2 + 24 + 9}{6} = \frac{35}{6}$$
-
+>
 > [!example] 🎯 Ejemplo 3: Función Trigonométrica Por Tramos
 > **Evaluar**: $\int_{0}^{2\pi} g(x) \, dx$ donde:
 > $$g(x) = \begin{cases}
@@ -189,7 +189,7 @@ mindmap
 > **Paso 4**: Evaluar
 > $$= [-\cos x]_{0}^{\pi} + 0$$
 > $$= (-\cos \pi - (-\cos 0)) = -(-1) - (-1) = 1 + 1 = 2$$
-
+>
 > [!example] 🎯 Ejemplo 4: Función Cuadrática Por Tramos
 > **Evaluar**: $\int_{-1}^{2} h(x) \, dx$ donde:
 > $$h(x) = \begin{cases}
@@ -280,7 +280,7 @@ mindmap
 > - Comprueba que la suma de intervalos cubra todo $[a,b]$
 > - Verifica el comportamiento esperado (monotonía, signos)
 > - Usa métodos alternativos cuando sea posible
-
+>
 > [!tip] 💡 Trucos y Técnicas Especiales
 > 
 > **Para funciones simétricas**:
@@ -352,7 +352,7 @@ graph TD
 > **5. Errores aritméticos en la suma final**
 > - ❌ Sumar incorrectamente los resultados parciales
 > - ✅ Verificar cada suma parcial antes del resultado final
-
+>
 > [!tip] 💡 Mejores Prácticas
 > 
 > **Organización sistemática**:
@@ -385,7 +385,7 @@ graph TD
 > - **Controladores**: Diferentes estrategias según el error
 > - **Saturación**: Sistemas con límites operativos
 > - **Histéresis**: Comportamiento dependiente de la historia
-
+>
 > [!note] 💰 Aplicaciones en Economía
 > 
 > **Funciones de Costo**:
@@ -396,7 +396,7 @@ graph TD
 > **Demanda y Oferta**:
 > - **Precios con descuentos**: Diferentes precios por cantidad
 > - **Mercados segmentados**: Comportamiento diferente por segmento
-
+>
 > [!note] 🔬 Aplicaciones en Física
 > 
 > **Mecánica**:

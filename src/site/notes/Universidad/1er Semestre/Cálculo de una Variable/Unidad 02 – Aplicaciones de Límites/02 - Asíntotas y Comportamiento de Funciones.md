@@ -44,7 +44,7 @@
 > |**Bifurcado**|$L_1$|$L_2$|Dos: $y = L_1$, $y = L_2$ ↔️|
 > |**Parcial**|$L$|$\pm\infty$|Una: $y = L$ (solo un lado) ⚡|
 > |**Explosivo**|$\pm\infty$|$\pm\infty$|Ninguna 💥|
-
+>
 > [!warning] 🔍 Técnicas para Encontrar Asíntotas Horizontales
 > 
 > ### Análisis según el tipo de función
@@ -64,7 +64,7 @@
 > 
 > - $\lim_{x \to \pm\infty} \frac{\sin x}{x} = 0$ → $y = 0$
 > - $\sin x$, $\cos x$ no tienen asíntotas (oscilan)
-
+>
 > [!tip] 🎯 Ejemplos Paso a Paso
 > 
 > ### Casos representativos
@@ -113,7 +113,7 @@
 > - Logaritmos de expresiones que tienden a 0⁺
 > - Tangentes en múltiplos impares de $\frac{\pi}{2}$
 > - Raíces con exponentes negativos
-
+>
 > [!info] 🕵️ Algoritmo de Búsqueda
 > 
 > ### Pasos sistemáticos para encontrar asíntotas verticales
@@ -131,7 +131,7 @@
 > - **Discontinuidades evitables:** No generan asíntotas verticales
 > - **Funciones definidas por partes:** Verificar cada rama
 > - **Composiciones:** Analizar función interna y externa por separado
-
+>
 > [!tip] 🎪 Ejemplos Detallados
 > 
 > ### Análisis completo de casos típicos
@@ -178,7 +178,7 @@
 > 1. Si existe asíntota horizontal → No hay oblicua
 > 2. Si no existe asíntota horizontal → Buscar oblicua
 > 3. Una función puede tener máximo una asíntota oblicua por cada dirección ($+\infty$ y $-\infty$)
-
+>
 > [!warning] 🎯 Proceso de Cálculo
 > 
 > ### Algoritmo paso a paso
@@ -196,7 +196,7 @@
 > - Si $m = 0$: Tenemos asíntota horizontal $y = b$
 > - Si $m = \pm\infty$: No hay asíntota oblicua
 > - Si $b = \pm\infty$: No hay asíntota oblicua
-
+>
 > [!tip] 🔬 Ejemplos Completos
 > 
 > ### Análisis detallado de funciones

@@ -6,7 +6,7 @@
 # Cifras Significativas
 
 > [!quote] "La precisión en la medición no es solo una cuestión de instrumentos, sino de entender qué significa realmente cada dígito." 🔢
-
+>
 > [!info] Las cifras significativas son un concepto fundamental en física experimental que permite expresar correctamente la precisión de las mediciones y cálculos. Representan todos los dígitos que se conocen con certeza más el primer dígito incierto. Su manejo adecuado es esencial para la presentación honesta de resultados experimentales y evita la falsa impresión de precisión excesiva.
 
 ## 🎯 Conceptos Fundamentales
@@ -40,7 +40,7 @@
 > 
 > Última cifra significativa = posición de la incertidumbre
 > ```
-
+>
 > [!tip] **Reglas para Identificar Cifras Significativas** 🔍
 > 
 > ### Regla 1: Dígitos No Nulos
@@ -83,7 +83,7 @@
 > |**12.00**|4|Con punto decimal, todos significativos|
 > |**1200**|2 o 4|Sin punto decimal, ambiguo|
 > |**1200.**|4|Con punto decimal, todos significativos|
-
+>
 > [!warning] **Casos Especiales y Ambigüedades** ⚠️
 > 
 > ### Números Enteros sin Punto Decimal:
@@ -178,7 +178,7 @@
 > + 1.2 × 10¹   (unidades) ← menos preciso
 > = 345 + 12 = 357 → 3.6 × 10² (redondeado a unidades)
 > ```
-
+>
 > [!tip] **Multiplicación y División** ✖️➗
 > 
 > ### Regla Principal:
@@ -226,7 +226,7 @@
 > 
 > π no limita porque es una constante exacta
 > ```
-
+>
 > [!note] **Potencias y Raíces** 🔺
 > 
 > ### Regla:
@@ -263,7 +263,7 @@
 > → mantisa .754 debe tener 3 cifras significativas
 > → resultado: -3.75
 > ```
-
+>
 > [!example] **Cálculos Complejos** 🧮
 > 
 > ### Estrategia General:
@@ -370,7 +370,7 @@
 > 1.2350 redondeado a 3 cifras → 1.24 (no 1.2)
 > 15.00 redondeado a 2 cifras → 15. o 1.5 × 10¹
 > ```
-
+>
 > [!warning] **Errores Comunes en Redondeo** ⚠️
 > 
 > ### Error 1: Redondeo Prematuro
@@ -447,7 +447,7 @@
 > Medición: 45.678 ± 1.23
 > Reporte: 45.7 ± 1.2
 > ```
-
+>
 > [!tip] **Cálculos de Propagación de Errores** 📐
 > 
 > ### Mantenimiento de Dígitos:
@@ -488,7 +488,7 @@
 > A = 103.501 ± 1.31 → A = 104 ± 1 cm²
 > (redondeado según la incertidumbre)
 > ```
-
+>
 > [!example] **Ejemplo: Densidad de un Material** ⚖️
 > 
 > ### Problema Experimental:
@@ -585,7 +585,7 @@
 > Incertidumbre: ±0.2°C (estimación razonable)
 > Cifras significativas: 3
 > ```
-
+>
 > [!warning] **Errores Comunes con Instrumentos** ⚠️
 > 
 > ### Error 1: Cifras Falsas
@@ -661,7 +661,7 @@
 > # Ejemplo
 > round_to_n(12.3456, 3)  # → 12.3
 > ```
-
+>
 > [!tip] **Presentación en Informes** 📄
 > 
 > ### Formato Recomendado:

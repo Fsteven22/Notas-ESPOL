@@ -276,7 +276,7 @@ graph TD
 > - **I**terar: practicar constantemente
 > - **G**rupo: aprender en comunidad
 > - **O**rganizar: documentar tu progreso
-
+>
 > [!warning]+ **Errores Comunes de Principiantes**
 > 
 > - ❌ Querer resolver problemas complejos desde el inicio
@@ -332,7 +332,7 @@ graph TD
 > - [[Algoritmos Fundamentales\|Algoritmos Fundamentales]] - Soluciones optimizadas
 > - [[Universidad/2do Semestre/Programación orientada a objetos/Programación Orientada a Objetos\|Programación Orientada a Objetos]] - Modelado del mundo real
 > - [[Bases de Datos\|Bases de Datos]] - Gestión de información
-
+>
 > [!success]+ **Proyecto Práctico: Tu Primer Programa**
 > 
 > ### 🎯 Organizador de Tareas Diarias

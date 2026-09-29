@@ -906,7 +906,7 @@ mindmap
 >                          [1 ]  [0 ]
 >                          [0 ]  [1 ]
 > ```
-
+>
 > [!example] 💪 Ejercicio 2: Proyección Ortogonal
 > 
 > **Problema:** Encontrar la proyección ortogonal de $\mathbf{v} = \begin{pmatrix} 3 \ 4 \ 5 \end{pmatrix}$ sobre $W = \text{gen}\left{\begin{pmatrix} 1 \ 0 \ 0 \end{pmatrix}, \begin{pmatrix} 0 \ 1 \ 0 \end{pmatrix}\right}$ (el plano $xy$).
@@ -966,7 +966,7 @@ mindmap
 > La proyección de (3,4,5) sobre el plano xy es (3,4,0)
 > La componente perpendicular es (0,0,5) hacia arriba
 > ```
-
+>
 > [!example] 💪 Ejercicio 3: Complemento del Espacio Columna
 > 
 > **Problema:** Sea $A = \begin{pmatrix} 1 & 2 \ 3 & 6 \ 0 & 0 \end{pmatrix}$.

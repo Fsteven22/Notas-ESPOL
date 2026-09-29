@@ -131,7 +131,7 @@
 > $$[\vec{u}]_{\mathcal{E}} = \begin{bmatrix} 3 \ -2 \end{bmatrix}$$
 > 
 > **Observación:** Con la base canónica, las coordenadas coinciden con los componentes del vector. Por eso es la base más "natural".
-
+>
 > [!example] 📝 Base No Canónica
 > 
 > **Base alternativa:**
@@ -160,7 +160,7 @@
 > $$\frac{1}{2}\begin{bmatrix} 1 \ 1 \end{bmatrix} + \frac{5}{2}\begin{bmatrix} 1 \ -1 \end{bmatrix} = \begin{bmatrix} 1/2 + 5/2 \ 1/2 - 5/2 \end{bmatrix} = \begin{bmatrix} 3 \ -2 \end{bmatrix}$$ ✓
 > 
 > **Importante:** Mismo vector, diferentes coordenadas según la base.
-
+>
 > [!example] 📝 Base con Vectores Ortogonales
 > 
 > **Base ortogonal:**
@@ -218,7 +218,7 @@
 > **Verificación:**
 > 
 > $$2\begin{bmatrix} 1 \ 0 \ 0 \end{bmatrix} + 1\begin{bmatrix} 1 \ 1 \ 0 \end{bmatrix} + 2\begin{bmatrix} 1 \ 1 \ 1 \end{bmatrix} = \begin{bmatrix} 2+1+2 \ 0+1+2 \ 0+0+2 \end{bmatrix} = \begin{bmatrix} 5 \ 3 \ 2 \end{bmatrix}$$ ✓
-
+>
 > [!example] 📝 Base con Estructura Especial
 > 
 > **Base:**
@@ -258,7 +258,7 @@
 > $$[p]_{\mathcal{E}} = \begin{bmatrix} 3 \ 5 \ -2 \end{bmatrix}$$
 > 
 > **Nota:** Los coeficientes del polinomio son directamente las coordenadas en la base canónica.
-
+>
 > [!example] 📝 Base No Canónica
 > 
 > **Base alternativa:**
@@ -288,7 +288,7 @@
 > **Verificación:**
 > 
 > $$-2(1) + 7(1+x) + (-2)(1+x+x^2)$$ $$= -2 + 7 + 7x - 2 - 2x - 2x^2$$ $$= 3 + 5x - 2x^2$$ ✓
-
+>
 > [!example] 📝 Base de Lagrange
 > 
 > **Base de Lagrange para puntos $x = 0, 1, 2$:**
@@ -330,7 +330,7 @@
 > $$[A]_{\mathcal{E}} = \begin{bmatrix} 3 \ -1 \ 2 \ 5 \end{bmatrix}$$
 > 
 > **Nota:** Las matrices se "vectorizan" listando sus entradas en orden (fila por fila).
-
+>
 > [!example] 📝 Base de Matrices Simétricas y Antisimétricas
 > 
 > **Base alternativa:**
@@ -407,7 +407,7 @@
 > - Tedioso para dimensiones altas
 > - Propenso a errores aritméticos
 > - No es sistemático
-
+>
 > [!example] 📝 Ejemplo Completo
 > 
 > **Base en $\mathbb{R}^3$:**
@@ -471,7 +471,7 @@
 > 
 > - Requiere conocimiento de matrices
 > - Más cálculos para problemas pequeños
-
+>
 > [!example] 📝 Ejemplo con Matriz Aumentada
 > 
 > **Base en $\mathbb{R}^3$:**
@@ -511,7 +511,7 @@
 > **Verificación:**
 > 
 > $$0\begin{bmatrix} 1 \ 0 \ 1 \end{bmatrix} + 1\begin{bmatrix} 0 \ 1 \ 1 \end{bmatrix} + 2\begin{bmatrix} 1 \ 1 \ 0 \end{bmatrix} = \begin{bmatrix} 0+0+2 \ 0+1+2 \ 0+1+0 \end{bmatrix} = \begin{bmatrix} 2 \ 3 \ 1 \end{bmatrix}$$ ✓
-
+>
 > [!example] 📝 Múltiples Vectores Simultáneamente
 > 
 > **Base:** $\mathcal{B} = \left\{\begin{bmatrix} 1 \ 1 \end{bmatrix}, \begin{bmatrix} 1 \ -1 \end{bmatrix}\right\}$
@@ -565,7 +565,7 @@
 > ---
 > 
 > **Ventaja:** No requiere resolver sistemas de ecuaciones.
-
+>
 > [!example] 📝 Con Base Ortogonal
 > 
 > **Base ortogonal en $\mathbb{R}^3$:**
@@ -587,7 +587,7 @@
 > **Verificación:**
 > 
 > $$4\begin{bmatrix} 1 \ 0 \ 0 \end{bmatrix} + 3\begin{bmatrix} 0 \ 2 \ 0 \end{bmatrix} + 3\begin{bmatrix} 0 \ 0 \ 3 \end{bmatrix} = \begin{bmatrix} 4 \ 6 \ 9 \end{bmatrix}$$ ✓
-
+>
 > [!example] 📝 Con Base Ortonormal
 > 
 > **Base ortonormal en $\mathbb{R}^2$:**
@@ -642,7 +642,7 @@
 >     
 > 3. La función preserva todas las operaciones lineales
 >     
-
+>
 > [!example] 📝 Verificación Numérica
 > 
 > **Base:** $\mathcal{B} = \left\{\begin{bmatrix} 1 \ 1 \end{bmatrix}, \begin{bmatrix} 1 \ -1 \end{bmatrix}\right\}$
@@ -728,7 +728,7 @@
 > $$[c_1\vec{v}_1 + \cdots + c_n\vec{v}_n]_{\mathcal{B}} = \begin{bmatrix} c_1 \ \vdots \ c_n \end{bmatrix}$$
 > 
 > (Directamente los coeficientes)
-
+>
 > [!example] 📝 Coordenadas de la Base
 > 
 > **Base en $\mathbb{R}^2$:** $\mathcal{B} = \left\{\begin{bmatrix} 2 \ 1 \end{bmatrix}, \begin{bmatrix} -1 \ 1 \end{bmatrix}\right\}$
@@ -770,7 +770,7 @@
 > ---
 > 
 > **Consecuencia práctica:** Para verificar independencia lineal de vectores en $V$, basta verificar independencia de sus coordenadas en $\mathbb{R}^n$.
-
+>
 > [!example] 📝 Verificación de Independencia
 > 
 > **En $P_2$, base canónica** $\mathcal{E} = {1, x, x^2}$
@@ -875,7 +875,7 @@
 > $$[\vec{u}]_{\mathcal{B}} = \begin{bmatrix} 3 \ 3 \end{bmatrix}$$
 > 
 > **Interpretación:** El mismo vector $\vec{u}$ tiene coordenadas $(6, 9)$ en base canónica pero coordenadas $(3, 3)$ en base $\mathcal{B}$.
-
+>
 > [!example] 📝 Cambio entre Bases No Canónicas
 > 
 > **Base 1:**

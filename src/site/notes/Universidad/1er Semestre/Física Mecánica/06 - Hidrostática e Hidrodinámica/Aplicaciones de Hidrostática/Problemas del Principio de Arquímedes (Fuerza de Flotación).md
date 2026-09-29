@@ -6,7 +6,7 @@
 # Problemas del Principio de Arquímedes (Fuerza de Flotación)
 
 > [!quote] "¡Eureka! Cuando un cuerpo se sumerge en un fluido, no solo desplaza volumen, sino que despierta una fuerza ancestral que sostiene océanos, hace flotar continentes de acero y permite que la vida dance sobre las aguas." 🌊
-
+>
 > [!info] El Principio de Arquímedes es uno de los descubrimientos más elegantes de la física clásica. Establece que todo cuerpo sumergido en un fluido experimenta una fuerza de empuje vertical hacia arriba igual al peso del fluido desplazado. Este principio fundamental explica la flotación y es esencial en el diseño naval, la aerostática y numerosas aplicaciones en ingeniería.
 
 ## 🎯 Conceptos Fundamentales
@@ -34,7 +34,7 @@
 > - **Punto de aplicación**: Centro de flotación (centroide del volumen desplazado)
 > - **Magnitud**: Independiente del material del cuerpo
 > - **Dependencia**: Solo del fluido y volumen desplazado
-
+>
 > [!tip] **Condiciones de Equilibrio** ⚖️
 > 
 > ### **Flotación Estable** (Objeto flota):
@@ -60,7 +60,7 @@
 > - **ρo**: Densidad del objeto
 > - **Vo**: Volumen total del objeto
 > - **Vd**: Volumen sumergido
-
+>
 > [!warning] **Análisis de Flotación** 🚢
 > 
 > ### Fracción Sumergida:
@@ -80,7 +80,7 @@
 > - **Centro de flotación**: Centroide del volumen sumergido
 > - **Centro de gravedad**: Centroide de la masa del objeto
 > - **Estabilidad**: Depende de la posición relativa de ambos centros
-
+>
 > [!success] ⚖️ Equilibrio de Fuerzas en Flotación
 > 
 > ```mermaid
@@ -103,7 +103,7 @@
 >     style C fill:#c8e6c9
 >     style F fill:#fff3e0
 > ```
-
+>
 > [!note] **Relaciones Matemáticas Avanzadas** 📐
 > 
 > ### Peso Aparente:
@@ -191,7 +191,7 @@
 > **d) Peso aparente**: Wap = W - E = 52.97 - 52.97 = 0 N (flota libremente)
 > 
 > **Verificación**: Fracción sumergida = 9/15 = 0.6 = 600/1000 ✓
-
+>
 > [!example] **Problema 2: Iceberg en el Océano** 🧊
 > 
 > ### Enunciado:
@@ -218,7 +218,7 @@
 > **Verificación**: Vemerso + Vsumergido = 8000 + 70,431 = 78,431 m³ ✓
 > 
 > **Dato curioso**: Solo ~10% de un iceberg es visible, de ahí la expresión "la punta del iceberg".
-
+>
 > [!example] **Problema 3: Barco de Carga** 🚢
 > 
 > ### Enunciado:
@@ -252,7 +252,7 @@
 > **d) Capacidad adicional**: Calado disponible = 8 - 4.5 = 3.5 m Volumen disponible = 3.5 × 2000 = 7000 m³ Masa adicional = 7000 × 1000 = 7×10⁶ kg = 7000 t
 > 
 > **Respuesta**: Sí, puede cargar 7000 t adicionales (más que las 2000 t solicitadas).
-
+>
 > [!example] **Problema 4: Densidad por Flotación** ⚗️
 > 
 > ### Enunciado:
@@ -395,7 +395,7 @@
 # Problemas del Principio de Arquímedes con Múltiples Fluidos
 
 > [!quote] "En la complejidad de los fluidos estratificados reside la belleza de la física: cada interfaz cuenta una historia de densidades y fuerzas en equilibrio." 🌊
-
+>
 > [!info] Los problemas con múltiples fluidos representan una extensión fascinante del Principio de Arquímedes, donde objetos flotan o se sumergen en sistemas de fluidos inmiscibles con diferentes densidades. Estos casos requieren análisis cuidadoso de las fuerzas de empuje en cada interfaz y cálculos de presión manométrica en sistemas estratificados.
 
 ## 🔬 Fundamentos Teóricos
@@ -417,7 +417,7 @@
 > ### Condición de Flotación:
 > 
 > $$\sum F_y = 0 \rightarrow W = E_{total}$$ $$mg = \sum_{i=1}^{n} \rho_i \cdot g \cdot V_i$$
-
+>
 > [!tip] **Presión en Sistemas Estratificados** 📊
 > 
 > ### Presión Manométrica por Capas:
@@ -438,7 +438,7 @@
 > |Interfaz 1-2|$P_{12} = \rho_1 gh_1$|
 > |Fluido 2|$P_2 = \rho_1 gh_1 + \rho_2 gh_2$|
 > |Interfaz 2-3|$P_{23} = \rho_1 gh_1 + \rho_2 gh_2$|
-
+>
 > [!warning] **Configuraciones Típicas** 🧪
 > 
 > ### Sistemas Comunes:
@@ -531,7 +531,7 @@
 > **c) Presión manométrica:**
 > 
 > En el fondo del aceite: P₁ = 800 × 9.8 × 0.05 = 392 Pa En el fondo del agua: P₂ = 392 + 1000 × 9.8 × 0.08 = 1176 Pa
-
+>
 > [!example] **Problema 2: Densidad Desconocida** 🔍
 > 
 > ### Enunciado:
@@ -562,7 +562,7 @@
 > Peso: W = ρ_objeto × g × V = 955 × 9.8 × 5.236×10⁻⁴ = 4.90 N Empuje: E = (850×0.3 + 1000×0.7) × 9.8 × 5.236×10⁻⁴ = 4.90 N
 > 
 > F_neta = W - E = 0 N (equilibrio) ✓
-
+>
 > [!example] **Problema 3: Sistema Complejo con Cuatro Fluidos** 🌈
 > 
 > ### Enunciado:
@@ -612,7 +612,7 @@
 > - **Estable**: Centro de empuje por encima del centro de masa
 > - **Inestable**: Centro de empuje por debajo del centro de masa
 > - **Neutro**: Centros coinciden
-
+>
 > [!warning] **Método de las Presiones Equivalentes** 📈
 > 
 > ### Para Sistemas Complejos:

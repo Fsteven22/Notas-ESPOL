@@ -102,7 +102,7 @@ graph LR
 > |**pure + material**|pure leather, pure silk|
 > |**natural + material**|natural stone, natural wood|
 > |**recycled + material**|recycled plastic, recycled metal|
-
+>
 > [!success] 🎨 Características de Materiales (Adjectives)
 > 
 > **Propiedades físicas:**
@@ -218,7 +218,7 @@ graph LR
 > ✅ Designers design new models every year.
 > ✅ Factories produce millions of units.
 > ```
-
+>
 > [!tip] 🚚 Verbos de Distribución
 > 
 > **Verbos del proceso de distribución:**

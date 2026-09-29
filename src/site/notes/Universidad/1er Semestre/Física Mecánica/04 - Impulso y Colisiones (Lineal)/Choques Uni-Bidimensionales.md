@@ -8,7 +8,7 @@
 ## 🎯 Contexto Fundamental
 
 > [!info] 📖 Definición General Un **choque** es una interacción entre dos o más objetos en la que se intercambian momentum y posiblemente energía en un tiempo muy corto. Los choques son eventos fundamentales en mecánica que permiten aplicar los principios de conservación de manera directa y observable.
-
+>
 > [!important] 🔬 Características Distintivas
 > 
 > - ⏱️ **Duración extremadamente corta**: Las fuerzas actúan durante intervalos de tiempo mínimos
@@ -189,7 +189,7 @@ graph TB
 > 
 > - v₁f = 0 m/s (la primera bola para)
 > - v₂f = 3 m/s (la segunda adquiere toda la velocidad)
-
+>
 > [!note] 📝 Interpretación Física **Caso especial de masas iguales:** En choques elásticos entre objetos de **masas iguales**, donde uno está inicialmente en reposo:
 > 
 > - El objeto en movimiento **se detiene completamente**
@@ -295,7 +295,7 @@ flowchart TD
 > **4. Conservación del momentum en eje Y:** $$m_1v_{1y,i} + m_2v_{2y,i} = m_1v_{1y,f} + m_2v_{2y,f}$$ $$0.5 \times 0 + 0.5 \times 0 = 0.5 \times 1.414 + 0.5 \times v_{2y,f}$$ $$0 = 0.707 + 0.5v_{2y,f}$$ $$v_{2y,f} = -1.414 \text{ m/s}$$
 > 
 > **5. Magnitud y dirección de la velocidad final:** $$|\vec{v}_{2f}| = \sqrt{v_{2x,f}^2 + v_{2y,f}^2} = \sqrt{(2.586)^2 + (-1.414)^2} = 2.95 \text{ m/s}$$ $$\theta = \arctan\left(\frac{v_{2y,f}}{v_{2x,f}}\right) = \arctan\left(\frac{-1.414}{2.586}\right) = -28.7°$$
-
+>
 > [!note] 📝 Interpretación del Resultado
 > 
 > - **Magnitud**: La segunda bola se mueve a 2.95 m/s
@@ -386,14 +386,14 @@ graph TB
 > 3. 🔄 **Simetría**: Aprovechar simetrías del problema cuando existan
 > 4. 🧮 **Software**: Usar herramientas computacionales para casos complejos
 > 5. 📏 **Aproximaciones**: Identificar cuándo usar modelos simplificados
-
+>
 > [!success] ✅ Verificaciones Importantes
 > 
 > - **Unidades**: Todas las magnitudes deben ser consistentes
 > - **Sentido físico**: Los resultados deben ser razonables
 > - **Límites**: Comprobar casos extremos (masas muy diferentes)
 > - **Conservación**: Verificar que se cumplan todas las leyes aplicables
-
+>
 > [!warning] ❌ Errores Frecuentes
 > 
 > - Confundir tipos de choques y sus propiedades

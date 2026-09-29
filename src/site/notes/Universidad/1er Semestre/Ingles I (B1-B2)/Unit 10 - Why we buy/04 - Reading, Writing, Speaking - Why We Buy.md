@@ -81,7 +81,7 @@
 > So why do we buy what we buy? It's a combination of quality, brand trust, personal values, and marketing influence. Understanding these factors can help us become smarter, more conscious consumers.
 > 
 > ---
-
+>
 > [!note] 🔍 Reading Comprehension Questions
 > 
 > **Level 1: Basic Understanding**
@@ -171,7 +171,7 @@
 > > 3. **Personal response - sample ranking:**
 > >     - 1. Quality, 2. Price, 3. Design, 4. Sustainability, 5. Brand
 > >     - (Accept any order with justification)
-
+>
 > [!tip] 📚 Vocabulary from Reading
 > 
 > **Key terms to extract:**
@@ -290,7 +290,7 @@
 > ☐ 80-100 words
 > ☐ Checked spelling and grammar
 > ```
-
+>
 > [!note] 📝 Writing Task 2: Product Review
 > 
 > **Assignment:**
@@ -465,7 +465,7 @@
 > > It was a classic case of good marketing winning over 
 > > actual need!"
 > > ```
-
+>
 > [!tip] 🎯 Speaking Task: Product Recommendation
 > 
 > **Task:**
@@ -547,7 +547,7 @@
 > > ☐ 1-2 minutes long
 > > ☐ Eye contact and clear pronunciation
 > > ```
-
+>
 > [!note] 🤝 Pair/Group Discussion Activities
 > 
 > **Activity 1: Debate - Quality vs Price**

@@ -6,7 +6,7 @@
 # Asíntotas en Integrales Definidas
 
 >[!quote] *"Las asíntotas en integrales definidas revelan los secretos del comportamiento límite de las funciones. Cuando una función se acerca a sus fronteras—ya sea el infinito o una discontinuidad vertical—la integral definida nos muestra si el área bajo la curva permanece finita o se escapa hacia el infinito, convirtiendo integrales ordinarias en extraordinarias integrales impropias."*
-
+>
 > [!info]+ Definiciones Fundamentales 📏
 > ### Asíntotas y su Impacto en Integrales
 > Una **asíntota** es una línea recta que una función se aproxima pero nunca toca. En integrales definidas, las asíntotas crean **situaciones especiales** que transforman integrales propias en **integrales impropias**.
@@ -18,7 +18,7 @@
 > 
 > ### Transformación a Integral Impropia
 > $$\int_a^b f(x)dx \rightarrow \text{Integral Impropia cuando hay asíntotas en }[a,b]$$
-
+>
 > [!note] Clasificación de Asíntotas en Integrales 📊
 > ```mermaid
 > graph TB
@@ -45,7 +45,7 @@
 >     style L fill:#f3e5f5
 >     style M fill:#e0f2f1
 > ```
-
+>
 > [!tip] Asíntotas Verticales en Integrales 🔬
 > ### Caso 1: Asíntota en un Extremo
 > **Si $f(x)$ tiene asíntota vertical en $x = b$:**
@@ -69,7 +69,7 @@
 > 
 > ### Caso 3: Múltiples Asíntotas
 > **Si hay asíntotas en varios puntos, cada segmento debe analizarse por separado**
-
+>
 > [!example] Asíntotas Horizontales y Oblicuas 🧮
 > ### Asíntotas Horizontales: $y = L$
 > **Cuando $\lim_{x \to \infty} f(x) = L \neq 0$:**
@@ -102,7 +102,7 @@
 > Como f(x) → 1/2 ≠ 0, necesitamos analizar más cuidadosamente:
 > ∫₁^∞ x/[√(x² + x) + x] dx converge (puede demostrarse)
 > ```
-
+>
 > [!abstract] Análisis Detallado con Ejemplos Prácticos 📚
 > ### Ejemplo 1: Asíntota Vertical en Extremo
 > **Analizar:** $\int_0^{\pi/2} \tan(x)dx$
@@ -149,7 +149,7 @@
 > 
 > Aunque ∫₁^∞ sin(x)/x² dx converge, la integral total diverge
 > ```
-
+>
 > [!success] Estrategias de Análisis 🎯
 > ### Metodología de Identificación
 > ```mermaid
@@ -185,7 +185,7 @@
 > 7. **Aplicar criterios de convergencia** apropiados
 > 8. **Evaluar límites** cuidadosamente
 > 9. **Verificar resultado** con análisis gráfico si es posible
-
+>
 > [!warning] Errores Comunes y Precauciones ⚠️
 > ### Errores Frecuentes
 > - **🔍 No identificar asíntotas en el interior**: Verificar todo el intervalo [a,b]
@@ -205,7 +205,7 @@
 > - **📏 Funciones racionales**: Analizar grados del numerador y denominador
 > - **🔢 Funciones logarítmicas**: Crecimiento lento puede engañar
 > - **💫 Funciones exponenciales**: Crecimiento rápido vs decaimiento
-
+>
 > [!summary]+ Tabla de Referencia Rápida 📋
 > ### Tipos de Asíntotas y Consecuencias
 > | Tipo de Asíntota | Ubicación | Transformación | Análisis Requerido |
@@ -226,7 +226,7 @@
 > arctan(x):      Asíntotas horizontales en y = ±π/2
 > 1/√(1-x²):      Asíntotas verticales en x = ±1
 > ```
-
+>
 > [!brain]+ Técnica de Memorización: ASÍNTOTAS 🧠
 > **A** - Analizar discontinuidades primero
 > **S** - Separar intervalos con asíntotas múltiples
@@ -237,7 +237,7 @@
 > **T** - Testing con criterios de convergencia
 > **A** - Aproximación gráfica ayuda visualizar
 > **S** - Siempre verificar resultado final
-
+>
 > [!success] Puntos Clave para Recordar 🎯
 > 1. **🔍 Identificación completa**: Buscar todas las asíntotas en [a,b]
 > 2. **⚡ Transformación automática**: Asíntotas → integrales impropias
@@ -264,7 +264,7 @@
 > - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/IV - Integrales Impropias y Avanzadas/01 - Integrales Impropias\|01 - Integrales Impropias]]
 > - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/IV – Al infinito y sucesiones/Límites Infinitos y al Infinito/01 - Límites al Infinito y Sucesiones\|01 - Límites al Infinito y Sucesiones]]
 > - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 02 – Aplicaciones de Límites/01 - Continuidad y Límites\|01 - Continuidad y Límites]]
-
+>
 > [!tip] Continuación del Tema
 > - [[Criterios de Convergencia y Divergencia - Integrales Impropias\|Criterios de Convergencia y Divergencia - Integrales Impropias]]
 > - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/V - Otras Técnicas/01 - Integración Numérica\|01 - Integración Numérica]]

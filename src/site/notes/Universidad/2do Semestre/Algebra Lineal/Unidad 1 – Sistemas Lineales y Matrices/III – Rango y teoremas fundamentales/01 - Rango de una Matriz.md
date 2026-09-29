@@ -167,7 +167,7 @@
 > **Resultado:** rango(A) = 3
 > 
 > **Interpretación:** La matriz tiene rango completo (máximo posible para 3×3)
-
+>
 > [!example] 🎯 Ejemplo 2: Matriz 3×3 con Rango 2
 > 
 > **Matriz B:**
@@ -217,7 +217,7 @@
 > - Solo 2 filas son linealmente independientes
 > - La segunda fila original es múltiplo de la primera (2×R₁)
 > - Los vectores fila generan un plano en ℝ³
-
+>
 > [!example] 🎯 Ejemplo 3: Matriz 3×4 Rectangular
 > 
 > **Matriz C:**
@@ -259,7 +259,7 @@
 > - De 3 filas, solo 2 son independientes
 > - La matriz tiene 4 columnas pero rango 2
 > - Hay redundancia en la información
-
+>
 > [!example] 🎯 Ejemplo 4: Matriz con Rango 1
 > 
 > **Matriz D:**

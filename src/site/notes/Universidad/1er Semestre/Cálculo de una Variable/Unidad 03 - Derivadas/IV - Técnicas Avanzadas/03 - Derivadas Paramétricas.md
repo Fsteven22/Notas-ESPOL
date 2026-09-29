@@ -62,7 +62,7 @@ flowchart TD
 > Derivando implícitamente: $1 = \frac{2y}{4}\frac{dy}{dx} = \frac{y}{2}\frac{dy}{dx}$
 > 
 > Por tanto: $\frac{dy}{dx} = \frac{2}{y} = \frac{2}{2t} = \frac{1}{t}$ ✅
-
+>
 > [!example] 🔢 Ejemplo 2: Círculo Paramétrico
 > **Encontrar** $\frac{dy}{dx}$ para: $x = r\cos(t)$, $y = r\sin(t)$
 > 
@@ -146,7 +146,7 @@ flowchart TD
 > Donde:
 > - $f'(t) = \frac{dx}{dt}$, $f''(t) = \frac{d^2x}{dt^2}$
 > - $g'(t) = \frac{dy}{dt}$, $g''(t) = \frac{d^2y}{dt^2}$
-
+>
 > [!example] 🔢 Ejemplo 6: Segunda Derivada Directa
 > **Encontrar** $\frac{d^2y}{dx^2}$ para: $x = t^3$, $y = t^2$
 > 
@@ -172,7 +172,7 @@ flowchart TD
 > **Punto Singular**: Ambas derivadas son cero
 > - $\frac{dx}{dt} = 0$ y $\frac{dy}{dt} = 0$ simultáneamente
 > - Requiere análisis con L'Hôpital o derivadas superiores
-
+>
 > [!example] 🔢 Ejemplo 7: Análisis de Singularidades
 > **Analizar**: $x = t^3 - 3t$, $y = t^2$
 > 
@@ -199,7 +199,7 @@ flowchart TD
 > $$L = \int_{t_1}^{t_2} \sqrt{\left(\frac{dx}{dt}\right)^2 + \left(\frac{dy}{dt}\right)^2} \, dt$$
 > 
 > **Conexión con derivadas**: La derivada nos da la pendiente, pero para longitud necesitamos la "velocidad" total del movimiento
-
+>
 > [!example] 🔢 Ejemplo 8: Longitud del Círculo
 > **Calcular** la longitud de un semicírculo: $x = r\cos(t)$, $y = r\sin(t)$, $t \in [0, \pi]$
 > 
@@ -214,7 +214,7 @@ flowchart TD
 > $$A = \int_{t_1}^{t_2} y \frac{dx}{dt} \, dt$$
 > 
 > **Condición**: La curva no debe intersectarse a sí misma en el intervalo
-
+>
 > [!example] 🔢 Ejemplo 9: Área de un Lazo
 > **Calcular** el área encerrada por: $x = t - \sin(t)$, $y = 1 - \cos(t)$, $t \in [0, 2\pi]$ (cicloide)
 > 
@@ -241,7 +241,7 @@ flowchart TD
 > ### Errores en Derivadas Superiores
 > - **Usar fórmulas incorrectas**: No aplicar correctamente la regla del cociente
 > - **No simplificar adecuadamente**: Dejar expresiones innecesariamente complicadas
-
+>
 > [!tip] 💡 Estrategias de Éxito
 > 
 > ### Verificación

@@ -6,7 +6,7 @@
 # Longitud de Curva
 
 >[!quote] *"La geometría se revela en el movimiento: cada curva traza una historia en el espacio, y su longitud es la medida de ese viaje infinitesimal. Desde el arco más simple hasta las espirales más complejas, la longitud de curva transforma el análisis diferencial en un instrumento de medición geométrica."*
-
+>
 > [!info]+ Definiciones Fundamentales 📏
 > ### Longitud de Arco
 > La **longitud de arco** de una curva es la distancia medida a lo largo de la curva entre dos puntos específicos.
@@ -21,7 +21,7 @@
 > 
 > ### Curva Rectificable
 > Una curva es **rectificable** si su longitud es finita, es decir, si la integral de longitud de arco converge.
-
+>
 > [!note] Clasificación de Representaciones de Curvas 📐
 > ### Tipos de Parametrizaciones
 > ```mermaid
@@ -44,7 +44,7 @@
 >     style D fill:#e8eaf6
 >     style E fill:#f3e5f5
 > ```
-
+>
 > [!tip]+ Fórmulas para Diferentes Representaciones 🔬
 > ### 1. Forma Paramétrica
 > **Para $\mathbf{r}(t) = (x(t), y(t))$ con $t \in [a,b]$:**
@@ -65,7 +65,7 @@
 > **Para $\mathbf{r}(t) = (x(t), y(t), z(t))$ con $t \in [a,b]$:**
 > 
 > $$L = \int_a^b \sqrt{\left(\frac{dx}{dt}\right)^2 + \left(\frac{dy}{dt}\right)^2 + \left(\frac{dz}{dt}\right)^2} \, dt = \int_a^b \|\mathbf{r}'(t)\| \, dt$$
-
+>
 > [!example] Ejemplos Clásicos y Cálculos Paso a Paso 📚
 > ### Ejemplo 1: Semicírculo
 > **Curva:** Semicírculo superior de radio $R$: $x^2 + y^2 = R^2$, $y \geq 0$
@@ -112,7 +112,7 @@
 > L = a[(θ/2)√(θ²+1) + (1/2)ln|θ + √(θ²+1)|]₀^{2π}
 > L = a[π√(4π²+1) + (1/2)ln(2π + √(4π²+1))]
 > ```
-
+>
 > [!abstract] Métodos de Integración para Longitud de Arco 🧮
 > ### Técnicas Comunes
 > 
@@ -148,7 +148,7 @@
 >     style E fill:#c8e6c9
 >     style F fill:#c8e6c9
 > ```
-
+>
 > [!success] Aplicaciones y Contextos Físicos 🌍
 > ### Aplicaciones en Física
 > 
@@ -177,7 +177,7 @@
 > **3. Cartografía**
 > - Medición de distancias reales en mapas
 > - Cálculo de longitudes de ríos y costas
-
+>
 > [!warning] Consideraciones Importantes y Errores Comunes ⚠️
 > ### Condiciones para la Existencia
 > 
@@ -200,7 +200,7 @@
 > - **Puntos de cúspide**: Donde la derivada no existe
 > - **Curvas con auto-intersecciones**: Pueden requerir partición del dominio
 > - **Parametrizaciones no regulares**: Donde $\mathbf{r}'(t) = 0$
-
+>
 > [!brain]+ Técnica de Memorización: CURVARC 🧠
 > **C** - Calcular la derivada de cada componente
 > **U** - Usar la fórmula apropiada según la representación
@@ -209,7 +209,7 @@
 > **A** - Aplicar técnicas de integración apropiadas
 > **R** - Revisar la convergencia de la integral
 > **C** - Comprobar el resultado con casos conocidos
-
+>
 > [!summary]+ Tabla Resumen de Fórmulas 📋
 > ### Fórmulas Principales
 > | Representación | Forma | Fórmula de Longitud | Mejor Uso |
@@ -228,7 +228,7 @@
 > Catenaria:      y = a cosh(x/a), integrable exactamente
 > Espiral:        Depende del tipo, generalmente compleja
 > ```
-
+>
 > [!success] Puntos Clave para Recordar 🎯
 > 1. **📐 Elemento diferencial**: $ds = ||\mathbf{r}'(t)|| \, dt$ es fundamental
 > 2. **🔧 Elección de parametrización**: Puede simplificar enormemente el cálculo
@@ -255,7 +255,7 @@
 > - [[Técnicas de Integración\|Técnicas de Integración]]
 > - [[Coordenadas Polares\|Coordenadas Polares]]
 > - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/IV - Integrales Impropias y Avanzadas/02 - Criterios de Convergencia y Divergencia\|02 - Criterios de Convergencia y Divergencia]]
-
+>
 > [!tip] Continuación del Tema
 > - [[Área de Superficies de Revolución\|Área de Superficies de Revolución]]
 > - [[Integrales de Línea\|Integrales de Línea]]
@@ -269,7 +269,7 @@
 # 📏 Longitud de Arco con Integrales
 
 > [!info] 💡 **Concepto Central** La longitud de arco es la medida de la distancia a lo largo de una curva entre dos puntos. A diferencia de la distancia en línea recta, considera toda la curvatura del camino. Se calcula mediante integrales definidas que suman infinitos segmentos infinitesimales de la curva.
-
+>
 > [!tip] 🎯 **Idea Fundamental** Imaginemos una curva como una sucesión de segmentos rectos muy pequeños. La longitud total es la suma de todos estos segmentos. Cuando el tamaño tiende a cero, obtenemos la integral que representa la longitud exacta.
 
 ## 📐 Fórmula Fundamental para y = f(x)
@@ -308,7 +308,7 @@
 > - $\frac{dy}{dx} = f'(x)$: pendiente de la tangente
 > - $\sqrt{1 + [f'(x)]^2}$: factor de corrección por curvatura
 > - Límites $[a,b]$: intervalo de integración
-
+>
 > [!warning] ⚠️ **Condiciones de Validez**
 > 
 > - $f(x)$ debe ser **continua** en $[a,b]$
@@ -710,7 +710,7 @@
 > Encuentra la longitud de $y = \ln(\cos x)$ entre $x = 0$ y $x = \pi/4$.
 > 
 > **Pista**: $f'(x) = -\tan x$, entonces $1 + [f'(x)]^2 = \sec^2 x$
-
+>
 > [!example] 🧩 **Problema 2: Parametrización inteligente**
 > 
 > Para la astroide $x^{2/3} + y^{2/3} = a^{2/3}$, usa la parametrización: $x = a\cos^3 t, y = a\sin^3 t$

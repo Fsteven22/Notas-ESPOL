@@ -61,7 +61,7 @@
 > - "El vector $\vec{w}$ se expresa como combinación lineal de ${\vec{v}_1, \ldots, \vec{v}_k}$"
 > - "El vector $\vec{w}$ está en el span de ${\vec{v}_1, \ldots, \vec{v}_k}$"
 > - "$\vec{w} \in \text{span}{\vec{v}_1, \ldots, \vec{v}_k}$"
-
+>
 > [!note] 🎯 Interpretación Geométrica
 > 
 > ### En $\mathbb{R}^2$
@@ -343,7 +343,7 @@
 > Si cada $\vec{v}_i$ es combinación lineal de ${\vec{w}_1, \ldots, \vec{w}_m}$, entonces cualquier combinación lineal de ${\vec{v}_1, \ldots, \vec{v}_k}$ también es combinación lineal de ${\vec{w}_1, \ldots, \vec{w}_m}$.
 > 
 > **En símbolos:** $\text{span}{\vec{v}_1, \ldots, \vec{v}_k} \subseteq \text{span}{\vec{w}_1, \ldots, \vec{w}_m}$
-
+>
 > [!note] 🟡 Teorema: Equivalencia con Span
 > 
 > **Teorema:** Un vector $\vec{w}$ es combinación lineal de ${\vec{v}_1, \ldots, \vec{v}_k}$ si y solo si:
@@ -452,7 +452,7 @@
 > $$2\begin{pmatrix} 1 \ 2 \ 1 \end{pmatrix} + 1\begin{pmatrix} 2 \ 1 \ 0 \end{pmatrix} + 1\begin{pmatrix} 1 \ 1 \ 1 \end{pmatrix} = \begin{pmatrix} 2+2+1 \ 4+1+1 \ 2+0+1 \end{pmatrix} = \begin{pmatrix} 5 \ 7 \ 3 \end{pmatrix}$$ ✓
 > 
 > $$\boxed{\vec{w} = 2\vec{v}_1 + \vec{v}_2 + \vec{v}_3}$$
-
+>
 > [!example] 📍 Ejemplo 7: Caso sin Solución
 > 
 > **Pregunta:** ¿Es $\vec{w} = \begin{pmatrix} 1 \ 2 \ 3 \end{pmatrix}$ combinación lineal de:
@@ -484,7 +484,7 @@
 > $\vec{v}_1$ y $\vec{v}_2$ solo generan el plano $xy$ (donde $z = 0$).
 > 
 > El vector $\vec{w}$ tiene $z = 3 \neq 0$, por lo que no está en ese plano.
-
+>
 > [!example] 📍 Ejemplo 8: Infinitas Soluciones
 > 
 > **Pregunta:** ¿Es $\vec{w} = \begin{pmatrix} 3 \ 6 \end{pmatrix}$ combinación lineal de:
@@ -572,7 +572,7 @@
 >     
 > 3. **Rango:** $\text{rango}(A) = \dim(\text{Col}(A))$ = dimensión del espacio generado por las columnas
 >     
-
+>
 > [!example] 📍 Ejemplo 9: Interpretación Matricial
 > 
 > **Sistema:** $A\vec{x} = \vec{b}$ donde
@@ -886,7 +886,7 @@
 > ---
 > 
 > **Nota:** Este método solo funciona si $A$ es invertible (vectores linealmente independientes).
-
+>
 > [!example] 📍 Ejemplo 10: Usando Inversa
 > 
 > **Expresar $\vec{w} = \begin{pmatrix} 7 \ 11 \end{pmatrix}$ como combinación de:**
@@ -1011,7 +1011,7 @@
 > b) ¿Todo vector en $\mathbb{R}^3$ es combinación de $\begin{pmatrix} 1 \ 0 \ 0 \end{pmatrix}$ y $\begin{pmatrix} 0 \ 1 \ 0 \end{pmatrix}$?
 > 
 > c) ¿El vector cero es siempre combinación lineal de cualquier conjunto de vectores?
-
+>
 > [!example] 💪 Práctica Nivel Intermedio
 > 
 > **4. Sistemas con parámetros:**
@@ -1053,7 +1053,7 @@
 > a) ¿Es $\begin{pmatrix} 1 & 2 \ 2 & 4 \end{pmatrix}$ combinación de matrices simétricas $\begin{pmatrix} 1 & 0 \ 0 & 0 \end{pmatrix}$ y $\begin{pmatrix} 0 & 1 \ 1 & 0 \end{pmatrix}$?
 > 
 > b) Encuentra todas las matrices $2 \times 2$ que son combinación de $\begin{pmatrix} 1 & 0 \ 0 & -1 \end{pmatrix}$ y $\begin{pmatrix} 0 & 1 \ 1 & 0 \end{pmatrix}$
-
+>
 > [!example] 💪 Práctica Nivel Avanzado
 > 
 > **9. Problemas teóricos:**
@@ -1139,7 +1139,7 @@
 > Sí, porque cualquier $\begin{pmatrix} a \ b \end{pmatrix} = a\begin{pmatrix} 1 \ 0 \end{pmatrix} + b\begin{pmatrix} 0 \ 1 \end{pmatrix}$
 > 
 > $$\boxed{\text{SÍ, estos vectores generan todo } \mathbb{R}^2}$$
-
+>
 > [!success] 🔑 Respuestas Ejercicios Intermedios
 > 
 > **4a)** ¿Para qué $k$ es $\begin{pmatrix} k \ 2k \end{pmatrix}$ combinación de $\begin{pmatrix} 1 \ 2 \end{pmatrix}$ y $\begin{pmatrix} 2 \ 3 \end{pmatrix}$?
@@ -1187,7 +1187,7 @@
 > - Constante: $c_1 = 1$ ✓
 > 
 > $$\boxed{\text{SÍ: } p(x) = 1 \cdot q(x) + 2 \cdot r(x)}$$
-
+>
 > [!success] 🔑 Respuestas Ejercicios Avanzados
 > 
 > **9a)** Demostración de transitividad

@@ -366,7 +366,7 @@ graph TB
 >     style A fill:#e1f5ff
 >     style B fill:#ffe1f5
 > ```
-
+>
 > [!example] 🔢 Ejemplo 2: $\mathbb{R}^4 \cong M_{2 \times 2}(\mathbb{R})$
 > 
 > **Espacios:**
@@ -394,7 +394,7 @@ graph TB
 > **Verificación de linealidad:**
 > 
 > $$\begin{align} T(\alpha(a_1, b_1, c_1, d_1) + \beta(a_2, b_2, c_2, d_2)) &= T((\alpha a_1 + \beta a_2, \ldots)) \ &= \begin{pmatrix} \alpha a_1 + \beta a_2 & \alpha b_1 + \beta b_2 \ \alpha c_1 + \beta c_2 & \alpha d_1 + \beta d_2 \end{pmatrix} \ &= \alpha \begin{pmatrix} a_1 & b_1 \ c_1 & d_1 \end{pmatrix} + \beta \begin{pmatrix} a_2 & b_2 \ c_2 & d_2 \end{pmatrix} \ &= \alpha T(a_1, b_1, c_1, d_1) + \beta T(a_2, b_2, c_2, d_2) \quad ✓ \end{align}$$
-
+>
 > [!example] 🔢 Ejemplo 3: $\mathcal{P}_n(\mathbb{R}) \cong \mathbb{R}^{n+1}$
 > 
 > **Espacios:**
@@ -485,7 +485,7 @@ graph TB
 >     style E fill:#fff4e1
 >     style F fill:#e1ffe1
 > ```
-
+>
 > [!example] 📐 Ejemplo: Coordenadas en $\mathcal{P}_2(\mathbb{R})$
 > 
 > **Espacio:** $V = \mathcal{P}_2(\mathbb{R})$
@@ -569,7 +569,7 @@ graph TB
 > 2. $(P_{\mathcal{C} \leftarrow \mathcal{B}})^{-1} = P_{\mathcal{B} \leftarrow \mathcal{C}}$
 > 3. $P_{\mathcal{B} \leftarrow \mathcal{B}} = I_n$ (identidad)
 > 4. $P_{\mathcal{A} \leftarrow \mathcal{C}} = P_{\mathcal{A} \leftarrow \mathcal{B}} \cdot P_{\mathcal{B} \leftarrow \mathcal{C}}$ (transitividad)
-
+>
 > [!example] 🎯 Ejemplo Completo: Cambio de Base en $\mathbb{R}^2$
 > 
 > **Bases:**

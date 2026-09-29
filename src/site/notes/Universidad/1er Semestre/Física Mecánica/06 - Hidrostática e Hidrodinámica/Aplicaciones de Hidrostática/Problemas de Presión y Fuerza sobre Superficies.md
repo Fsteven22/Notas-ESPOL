@@ -6,7 +6,7 @@
 # Problemas de Presión y Fuerza sobre Superficies
 
 > [!quote] "La presión es la huella que deja la fuerza sobre cada centímetro cuadrado; entender esta relación es dominar los fluidos en equilibrio." 💧
-
+>
 > [!info] La presión en fluidos actúa perpendicular a cualquier superficie sumergida, creando fuerzas que dependen tanto de la profundidad como del área de contacto. Estos problemas son fundamentales para entender fenómenos desde la presión atmosférica hasta el diseño de presas y submarinos.
 
 ## 🔧 Conceptos Fundamentales
@@ -29,7 +29,7 @@
 > |Dependiente de profundidad|P aumenta linealmente con h|P = P₀ + ρgh|
 > |Independiente de forma|Solo depende de h vertical|Igual P a misma profundidad|
 > |Transmisión total|Principio de Pascal|ΔP se transmite íntegramente|
-
+>
 > [!tip] **Tipos de Presión** 🌊
 > 
 > ### Clasificación:
@@ -45,7 +45,7 @@
 > - **Submarinos**: Presión absoluta crítica
 > - **Manómetros**: Presión manométrica
 > - **Altimetría**: Variación de presión atmosférica
-
+>
 > [!warning] **Fuerza sobre Superficies Sumergidas** ⚡
 > 
 > ### Para Superficies Horizontales:
@@ -64,7 +64,7 @@
 > 
 > - **Componente normal**: F_n = ρg × h̄ × A
 > - **Centro de presión**: h_cp = h_c + I_c/(h_c × A)
-
+>
 > [!success] 🔗 Métodos de Resolución
 > 
 > ```mermaid
@@ -82,7 +82,7 @@
 >     style E fill:#fce4ec
 >     style F fill:#f1f8e9
 > ```
-
+>
 > [!note] **Fórmulas Clave** 📐
 > 
 > ### Presión:
@@ -160,7 +160,7 @@
 > - Momento de inercia: I_c = (b × h³)/12 = (2 × 3³)/12 = 4.5 m⁴
 > - h_cp = h̄ + I_c/(h̄ × A) = 5.5 + 4.5/(5.5 × 6) = 5.5 + 0.136 = 5.636m
 > - **El centro de presión está 0.136m por debajo del centroide**
-
+>
 > [!example] **Problema 2: Tanque con Superficie Inclinada** 📐
 > 
 > ### Enunciado:
@@ -186,7 +186,7 @@
 > 
 > - Presión en el centroide: P̄ = ρgh̄ = 1000 × 9.8 × 2 = 19,600 Pa
 > - **Fuerza normal: F = P̄ × A = 19,600 × 6 = 117,600 N = 117.6 kN**
-
+>
 > [!example] **Problema 3: Presión sobre Superficie Curva** 🌙
 > 
 > ### Enunciado:
@@ -218,7 +218,7 @@
 > [!tip] **Mnemotecnia: "PROF"** 🎯
 > 
 > **P**rofundidad del centroide → Presión media **R**esultante = Presión × Área **O**rientación perpendicular a superficie **F**uerza actúa en centro de presión (no centroide)
-
+>
 > [!tip] **Regla de los Tercios** 📏
 > 
 > Para superficies rectangulares verticales:
@@ -284,7 +284,7 @@
 > - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Sistema de unidades
 > - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Conocimientos Previos a las Prácticas\|Conocimientos Previos a las Prácticas]] - Conceptos básicos
 > - **Matemáticas**: Cálculo integral, centroides y momentos de inercia
-
+>
 > [!note] **Temas Avanzados**
 > 
 > - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrostática/Módulo Volumétrico\|Módulo Volumétrico]] - Compresibilidad de fluidos

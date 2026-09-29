@@ -6,7 +6,7 @@
 # Módulo 6.4: Limpieza de Datos
 
 > [!quote] "Los datos sucios son como diamantes en bruto: requieren paciencia, técnica y precisión para revelar su verdadero valor." 💎
-
+>
 > [!info] La limpieza de datos es una etapa fundamental en cualquier proyecto de análisis. Los datos del mundo real raramente vienen perfectos: tienen valores faltantes, duplicados, tipos incorrectos y inconsistencias. Este módulo te enseñará las técnicas esenciales para transformar datos "sucios" en información confiable y lista para el análisis.
 
 ## 📋 Objetivos del Módulo
@@ -34,7 +34,7 @@
 > - **Inconsistencias** en formato y nomenclatura
 > - **Outliers** y valores imposibles
 > - **Codificaciones mixtas** (0/1 vs Si/No)
-
+>
 > [!example] **Dataset de Ejemplo: Titanic** 🚢
 > 
 > Trabajaremos con el famoso dataset del Titanic, que presenta múltiples desafíos reales:
@@ -90,7 +90,7 @@
 > print("Análisis de valores faltantes:")
 > print(analizar_nulos(titanic))
 > ```
-
+>
 > [!info] **Métodos de Detección** 🔎
 > 
 > ### Funciones Principales:
@@ -152,7 +152,7 @@
 > 
 > print(f"Columnas restantes: {list(titanic_limpio.columns)}")
 > ```
-
+>
 > [!tip] **Opción 2: Imputación con `.fillna()`** 🔧
 > 
 > ### Estrategias por Tipo de Variable:
@@ -196,7 +196,7 @@
 > # Interpolación lineal para series temporales
 > titanic_limpio['columna'].interpolate(method='linear', inplace=True)
 > ```
-
+>
 > [!example] **Ejemplo Completo: Estrategia Híbrida** 🎯
 > 
 > ```python
@@ -252,7 +252,7 @@
 > print("Ejemplos de duplicados:")
 > print(filas_duplicadas)
 > ```
-
+>
 > [!tip] **Eliminación Inteligente de Duplicados** 🧹
 > 
 > ```python
@@ -320,7 +320,7 @@
 >     if columna in titanic_limpio.columns:
 >         titanic_limpio[columna] = titanic_limpio[columna].map(mapeo)
 > ```
-
+>
 > [!example] **Funciones Personalizadas con `.apply()`** ⚙️
 > 
 > ### Categorización Automática:
@@ -386,7 +386,7 @@
 > print(f"Pasajeros de clase premium: {len(pasajeros_premium)}")
 > print(f"Desde puertos principales: {len(desde_puertos_principales)}")
 > ```
-
+>
 > [!example] **Búsquedas en Texto con `.str`** 🔤
 > 
 > ```python
@@ -401,7 +401,7 @@
 > 
 > # Encontrar pasajeros con iniciales en el nombre
 > con_iniciales = titanic_limpio[titanic_limpio['name'].str.contains(r'\b[A-Z]\.
-
+>
 > [!warning] **Query Avanzado** 🔍
 > 
 > ```python
@@ -599,7 +599,7 @@
 > assert df_limpio.isnull().sum().sum() == 0, "¡Aún hay valores nulos!"
 > assert df_limpio.duplicated().sum() == 0, "¡Aún hay duplicados!"
 > ```
-
+>
 > [!tip] **Mejores Prácticas** ⭐
 > 
 > ### 1. **Trabajar con Copias**
@@ -651,13 +651,14 @@
 >     # Pistas:
 >     # - La edad puede imputarse por título y clase
 >     # - El puerto de embarque
-> ```, na=False)]
+> ```
+, na=False)]
 > 
 > print(f"Pasajeros con títulos nobles: {len(apellidos_nobles)}")
 > print(f"Nombres muy largos: {len(nombres_largos)}")
 > print(f"Con iniciales: {len(con_iniciales)}")
 > ```
-
+>
 > [!warning] **Query Avanzado** 🔍
 > 
 > {{CODE_BLOCK_18}}
@@ -689,7 +690,7 @@
 > ### 3. **No Validar Después de Limpiar**
 > 
 > {{CODE_BLOCK_23}}
-
+>
 > [!tip] **Mejores Prácticas** ⭐
 > 
 > ### 1. **Trabajar con Copias**

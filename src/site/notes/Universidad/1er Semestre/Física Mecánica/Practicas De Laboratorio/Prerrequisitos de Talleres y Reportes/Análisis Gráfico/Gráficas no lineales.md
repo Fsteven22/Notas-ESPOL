@@ -6,7 +6,7 @@
 # Gráficas No Lineales
 
 > [!quote] "La naturaleza rara vez es lineal: las gráficas no lineales revelan la verdadera complejidad y belleza de los fenómenos físicos." 📈
-
+>
 > [!info] Las gráficas no lineales son fundamentales para analizar la mayoría de los fenómenos físicos reales. Mientras que las relaciones lineales proporcionan una base sólida, la naturaleza exhibe comportamientos exponenciales, parabólicos, hiperbólicos y de otros tipos no lineales. Dominar el reconocimiento de patrones y las técnicas de análisis para estas gráficas es esencial para la física experimental moderna.
 
 ## 🔍 Identificación de Patrones
@@ -65,7 +65,7 @@
 > |**Parabólica (abajo)**|∩-shape|Cóncava abajo|Máximo en el vértice|
 > |**Hiperbólica**|Curva asintótica|Variable|Tiende a asíntotas|
 > |**Logarítmica**|Crecimiento saturado|Cóncava abajo|Crecimiento lento|
-
+>
 > [!tip] **Estrategias de Identificación** 🎯
 > 
 > ### Método Sistemático:
@@ -203,7 +203,7 @@
 > τ = 1/b
 > Tiempo para que y cambie por un factor e
 > ```
-
+>
 > [!success] 🔬 Aplicaciones Físicas Exponenciales
 > 
 > ```mermaid
@@ -230,7 +230,7 @@
 >     style F fill:#f1f8e9
 >     style G fill:#e0f2f1
 > ```
-
+>
 > [!example] **Análisis de Gráficas Exponenciales** 📊
 > 
 > ### Ejemplo: Descarga de un Capacitor
@@ -307,7 +307,7 @@
 > ### Interpretación Física:
 > 
 > **Constante de tiempo**: τ = RC = 1.04 s **Vida media**: t₁/₂ = ln(2)·τ = 0.72 s **Significado**: El voltaje se reduce a 1/e ≈ 37% cada 1.04 s
-
+>
 > [!warning] **Precauciones en Análisis Exponencial** ⚠️
 > 
 > ### Errores Comunes:
@@ -417,7 +417,7 @@
 > Foco: (0, 1/4a)
 > Directriz: y = -1/4a
 > ```
-
+>
 > [!tip] **Aplicaciones Físicas Parabólicas** 🌍
 > 
 > ### Fenómenos Físicos Comunes:
@@ -483,7 +483,7 @@
 > - Simetría aproximada alrededor de un eje vertical
 > - Cambio de curvatura constante
 > - Aceleración/desaceleración constante en sistemas mecánicos
-
+>
 > [!success] 🔧 Análisis de Gráficas Parabólicas
 > 
 > ```mermaid
@@ -508,7 +508,7 @@
 >     style C fill:#fff3e0
 >     style D fill:#e8f5e8
 > ```
-
+>
 > [!example] **Ejemplo: Análisis de Movimiento Parabólico** 🎯
 > 
 > ### Experimento: Lanzamiento de Proyectil
@@ -600,7 +600,7 @@
 > ### Análisis de Calidad:
 > 
 > **Coeficiente de determinación**: R² = 0.9990 **Residuos máximos**: ±0.02 m **Conclusión**: Excelente ajuste parabólico, confirma teoría
-
+>
 > [!warning] **Cuidados en Análisis Parabólico** 📋
 > 
 > ### Problemas Comunes:
@@ -711,7 +711,7 @@
 > y = a/x es simétrica respecto al origen (rotación 180°)
 > y = a/x² es simétrica respecto al eje y
 > ```
-
+>
 > [!success] 🌌 Aplicaciones Físicas Hiperbólicas
 > 
 > ```mermaid
@@ -738,7 +738,7 @@
 >     style F fill:#f1f8e9
 >     style G fill:#e0f2f1
 > ```
-
+>
 > [!tip] **Técnicas de Análisis Hiperbólico** 🔬
 > 
 > ### Identificación Visual:
@@ -813,7 +813,7 @@
 > Buscar valores donde y → ±∞
 > Resolver denominador = 0
 > ```
-
+>
 > [!example] **Ejemplo: Ley de Gravitación Universal** 🌍
 > 
 > ### Experimento: Fuerza vs Distancia
@@ -899,7 +899,7 @@
 > - R² = 0.9998 (correlación casi perfecta)
 > - Intercepto ≈ 0 (consistente con teoría)
 > - Linealización perfecta confirma ley 1/r²
-
+>
 > [!warning] **Precauciones en Análisis Hiperbólico** ⚠️
 > 
 > ### Problemas Experimentales:
@@ -1003,7 +1003,7 @@
 > y = a(1-e^(-bx)) →  ln(a/(a-y)) vs x  
 > y = ax^n + b     →  Ajuste no lineal directo
 > ```
-
+>
 > [!success] 🔧 Proceso Sistemático de Análisis
 > 
 > ```mermaid
@@ -1108,7 +1108,7 @@
 > Frecuencia natural amortiguada: ω = 3.14 rad/s
 > Tiempo de relajación: τ = 1/γ = 1.89 s
 > ```
-
+>
 > [!example] **Estudio de Caso: Ley de Enfriamiento de Newton** 🌡️
 > 
 > ### Experimento: Enfriamiento de Agua Caliente
@@ -1246,7 +1246,7 @@
 > - Preferir modelo más simple que explique datos
 > - Evitar sobreajuste con muchos parámetros
 > - Capacidad predictiva sobre complejidad
-
+>
 > [!warning] **Errores Comunes en Selección de Modelos** ❌
 > 
 > ### Problemas Frecuentes:

@@ -1005,7 +1005,7 @@
 > c) $f(x,y) = \sqrt{x^2 + y^2}$
 > 
 > d) $f(x,y) = \frac{x-y}{x+y}$
-
+>
 > [!example] 💪 Práctica Nivel Intermedio
 > 
 > **4. Funciones por casos:**
@@ -1039,7 +1039,7 @@
 > **6. Aplicación a optimización:**
 > 
 > Verificar que $f(x,y) = x^3 - 3xy^2$ es C¹ y encontrar todos los puntos críticos (donde $\nabla f = \vec{0}$).
-
+>
 > [!example] 💪 Práctica Nivel Avanzado
 > 
 > **7. Teoría:**
@@ -1135,7 +1135,7 @@
 > Derivadas no existen en $(0,0)$
 > 
 > $$f \in C^1(\mathbb{R}^2 \setminus {(0,0)})$$
-
+>
 > [!success] 🔑 Respuestas Ejercicios Intermedios
 > 
 > **4a)** $f(x,y) = \begin{cases} xy & x \geq 0 \ 0 & x < 0 \end{cases}$
@@ -1183,7 +1183,7 @@
 > Si $y = 0$: $3x^2 = 0$ ⇒ $x = 0$
 > 
 > **Único punto crítico:** $(0,0)$
-
+>
 > [!success] 🔑 Respuestas Ejercicios Avanzados
 > 
 > **7c)** Si $\nabla f = \vec{0}$ en todo punto:

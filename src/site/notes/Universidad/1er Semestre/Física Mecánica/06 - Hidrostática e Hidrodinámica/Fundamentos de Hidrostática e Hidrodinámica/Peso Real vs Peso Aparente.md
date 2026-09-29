@@ -6,7 +6,7 @@
 # Peso Real vs Peso Aparente
 
 >[!quote] _"Cuando un objeto se sumerge en un fluido, experimenta una ilusión de ligereza. Esta aparente pérdida de peso no es magia, sino la manifestación directa del principio de Arquímedes, donde las fuerzas de flotación revelan la danza invisible entre la gravedad y la densidad."_
-
+>
 > [!info]+ Definiciones Fundamentales ⚖️
 > 
 > ### Peso Real (W_real)
@@ -20,7 +20,7 @@
 > El **peso aparente** es el peso que percibimos o medimos cuando el objeto está sumergido en un fluido. Es el resultado de la **interacción entre el peso real y la fuerza de flotación**.
 > 
 > **W_aparente = W_real - F_flotación** **W_aparente = m × g - ρ_fluido × V_sumergido × g**
-
+>
 > [!note] Fundamento Físico - Principio de Arquímedes 🌊
 > 
 > ### Base Teórica
@@ -55,7 +55,7 @@
 >     style I fill:#e0f2f1
 >     style K fill:#fce4ec
 > ```
-
+>
 > [!tip] Casos y Situaciones 🔬
 > 
 > ### Clasificación por Densidad Relativa
@@ -80,7 +80,7 @@
 >     style C fill:#fff3e0
 >     style E fill:#e8f5e8
 > ```
-
+>
 > [!example] Ejemplos Prácticos y Cálculos 🧮
 > 
 > ### Ejemplo 1: Piedra en el Agua
@@ -127,7 +127,7 @@
 > ```
 > 
 > **Resultado:** 60% del bloque está bajo el agua, 40% emerge
-
+>
 > [!abstract] Aplicaciones Prácticas 🏗️
 > 
 > ### En la Industria y Tecnología
@@ -159,7 +159,7 @@
 >       Análisis de tejidos
 >       Implantes biomédicos
 > ```
-
+>
 > [!warning] Factores que Afectan la Medición ⚠️
 > 
 > ### Variables del Fluido
@@ -181,7 +181,7 @@
 > - **🏃 Movimiento relativo**: Efectos dinámicos vs estáticos
 > - **📏 Precisión instrumental**: Limitaciones de medición
 > - **🌊 Turbulencia**: Fluctuaciones en la fuerza de flotación
-
+>
 > [!summary]+ Fórmulas y Relaciones Clave 📊
 > 
 > ### Ecuaciones Fundamentales
@@ -206,9 +206,9 @@
 > Fracción sumergida = V_sumergido/V_total = ρ_objeto/ρ_fluido
 > Fracción emergente = 1 - ρ_objeto/ρ_fluido
 > ```
-
+>
 > [!brain]+ Técnica de Memorización: FLOTAR 🧠 **F** - Flotación reduce el peso aparente **L** - Líquido ejerce fuerza hacia arriba **O** - Objeto desplaza su propio volumen **T** - Todo sumergido siente menos peso **A** - Arquímedes explica la diferencia **R** - Real menos flotación igual aparente
-
+>
 > [!success] Puntos Clave para Recordar 🎯
 > 
 > 1. **⚖️ Peso real constante**: No cambia con el medio circundante
@@ -236,7 +236,7 @@
 > - [[Obsidian/Universidad/Física Mecanica/Notas nuevas/06 - Hidrostática e hidrodinámica/Presión y Densidad\|Obsidian/Universidad/Física Mecanica/Notas nuevas/06 - Hidrostática e hidrodinámica/Presión y Densidad]]
 > - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Fuerzas y Diagramas de Cuerpo Libre\|Fuerzas y Diagramas de Cuerpo Libre]]
 > - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]]
-
+>
 > [!tip] Continuación del Tema
 > 
 > - [[El Principio de Arquímedes y Flotación 1\|El Principio de Arquímedes y Flotación 1]]

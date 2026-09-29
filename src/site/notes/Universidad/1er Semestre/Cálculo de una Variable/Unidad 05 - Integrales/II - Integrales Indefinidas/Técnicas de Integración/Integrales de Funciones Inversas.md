@@ -46,7 +46,7 @@ flowchart TD
 > - $\frac{d}{dx}[\arccos(x)] = -\frac{1}{\sqrt{1-x^2}}$
 > 
 > **Identidad útil**: $\arcsin(x) + \arccos(x) = \frac{\pi}{2}$
-
+>
 > [!example] 🔢 Ejemplo 1: Integral de Arcoseno **Resolver**: $\int \arcsin(x) , dx$
 > 
 > **Solución**:
@@ -57,7 +57,7 @@ flowchart TD
 > - Para la segunda integral: $w = 1-x^2 \Rightarrow dw = -2x , dx$
 > - $\int \frac{x}{\sqrt{1-x^2}} , dx = -\frac{1}{2} \int w^{-1/2} dw = -\sqrt{w} = -\sqrt{1-x^2}$
 > - **Resultado**: $\int \arcsin(x) , dx = x\arcsin(x) + \sqrt{1-x^2} + C$
-
+>
 > [!example] 🔢 Ejemplo 2: Integral de Arcocoseno **Resolver**: $\int \arccos(x) , dx$
 > 
 > **Solución**:
@@ -76,7 +76,7 @@ flowchart TD
 > - $\frac{d}{dx}[\text{arccot}(x)] = -\frac{1}{1+x^2}$
 > 
 > **Identidad útil**: $\arctan(x) + \text{arccot}(x) = \frac{\pi}{2}$
-
+>
 > [!example] 🔢 Ejemplo 3: Integral de Arcotangente **Resolver**: $\int \arctan(x) , dx$
 > 
 > **Solución**:
@@ -94,7 +94,7 @@ flowchart TD
 > 
 > - $\frac{d}{dx}[\text{arcsec}(x)] = \frac{1}{|x|\sqrt{x^2-1}}$ para $|x| > 1$
 > - $\frac{d}{dx}[\text{arccsc}(x)] = -\frac{1}{|x|\sqrt{x^2-1}}$ para $|x| > 1$
-
+>
 > [!example] 🔢 Ejemplo 4: Integral de Arcosecante **Resolver**: $\int \text{arcsec}(x) , dx$ para $x > 1$
 > 
 > **Solución**:
@@ -190,7 +190,7 @@ flowchart TD
 > |$\text{arccot}(x)$|$x\text{arccot}(x) + \frac{1}{2}\ln(1+x^2) + C$|
 > |$\text{arcsec}(x)$|$x\text{arcsec}(x) - \ln\|x + \sqrt{x^2-1}\| + C$|
 > |$\text{arccsc}(x)$|$x\text{arccsc}(x) + \ln\|x + \sqrt{x^2-1}\| + C$|
-
+>
 > [!info] 📋 Integrales con Productos Simples
 > 
 > |Función|Integral|
@@ -221,7 +221,7 @@ flowchart TD
 > - **Verificar el dominio** antes de aplicar fórmulas
 > - **Considerar el signo** en las derivadas con valor absoluto
 > - **Simplificar usando identidades** antes de integrar cuando sea posible
-
+>
 > [!tip] 💡 Estrategias de Éxito
 > 
 > ### Preparación

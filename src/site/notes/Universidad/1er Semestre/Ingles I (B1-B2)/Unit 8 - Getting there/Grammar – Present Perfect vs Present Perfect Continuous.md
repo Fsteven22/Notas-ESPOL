@@ -967,7 +967,7 @@
 > 10. has been raining (evidence visible now)
 > ```
 >
-
+>
 > [!example] Exercise 2: Correct the Mistakes
 >
 > **Find and correct the errors:**
@@ -1021,7 +1021,7 @@
 > ```
 >
 > 
-
+>
 > [!example] Exercise 3: Complete the Conversations
 >
 > **Fill in the blanks with the correct form:**
@@ -1080,7 +1080,7 @@
 > ```
 >
 > 
-
+>
 > [!example] Exercise 4: Rewrite Using the Other Tense
 >
 > **Change the tense while keeping similar meaning (when possible):**
@@ -1116,7 +1116,7 @@
 > ```
 >
 > 
-
+>
 > [!example] Exercise 5: Choose and Explain
 >
 > **Choose the better option and explain why:**
@@ -1163,7 +1163,7 @@
 > ```
 >
 > 
-
+>
 > [!example] Exercise 6: Translate from Spanish
 >
 > **Translate these sentences, choosing the correct tense:**
@@ -1217,7 +1217,7 @@
 > ```
 >
 > 
-
+>
 > [!example] Exercise 7: Present Perfect Simple or Continuous? Context Matters
 >
 > **Read the situation and choose the appropriate tense:**
@@ -1384,7 +1384,7 @@
 > | Emphasis on process, not result | They have been building a house | for, all day |
 > | Temporary situation | I have been feeling tired lately | lately, recently, these days |
 > | Repeated actions over time | He has been calling me daily | lately, recently |
-
+>
 > [!tip] Signal Words Comparison
 >
 > **Words that suggest PRESENT PERFECT SIMPLE:**
@@ -1498,7 +1498,7 @@
 >   → Common with "lately/recently"
 >   → Often with longer durations
 > ```
-
+>
 > [!important] Result vs Process: The Core Distinction
 >
 > **Understanding the fundamental difference:**
@@ -1603,7 +1603,7 @@
 >
 > **📖 Fundamentos previos necesarios:**
 >
-> **[[Universidad/Preuniversitario/Ingles (A1-A2)/Unit 4 - Vocabulary and Verbs/01 - Regular and Irregular Verbs\|01 - Regular and Irregular Verbs]]**
+> **[[Universidad/Preuniversitario/MOOC - Ingles (A1 - A2)/Unit 4 - Vocabulary and Verbs/01 - Regular and Irregular Verbs\|01 - Regular and Irregular Verbs]]**
 >
 > ```
 > Conexión CRÍTICA: Debes dominar los verbos irregulares primero
@@ -1980,7 +1980,7 @@
 > • Write essay using both tenses correctly
 > • Self-evaluate progress and identify next steps
 > ```
-
+>
 > [!tip] Daily Practice Routine (20 minutes)
 > 
 > **Morning (7 minutes):**

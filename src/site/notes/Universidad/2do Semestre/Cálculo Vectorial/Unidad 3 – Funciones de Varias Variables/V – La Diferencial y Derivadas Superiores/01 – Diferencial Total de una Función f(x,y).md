@@ -1032,7 +1032,7 @@
 > $f(2.01, 2.98) \approx 13 - 0.08 = 12.92$
 > 
 > Valor real: $(2.01)^2 + (2.98)^2 = 4.0401 + 8.8804 = 12.9205$ ✓
-
+>
 > [!success] 🔑 Respuestas Ejercicios Intermedios
 > 
 > **4a)** Área del triángulo: $A = \frac{1}{2}bh$

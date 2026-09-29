@@ -8,7 +8,7 @@
 ## 📋 Información General
 
 > [!info] 📌 **Definición** Un giroscopio es un dispositivo mecánico que utiliza la conservación del momento angular para mantener su orientación en el espacio. En esta práctica utilizamos un **giroscopio de tres ejes** que consta de un disco de giro y un eje que pasa por el centro del disco.
-
+>
 > [!tip] 🎯 **Objetivos de la Práctica**
 > 
 > - **Comprobar experimentalmente el fenómeno de precesión**

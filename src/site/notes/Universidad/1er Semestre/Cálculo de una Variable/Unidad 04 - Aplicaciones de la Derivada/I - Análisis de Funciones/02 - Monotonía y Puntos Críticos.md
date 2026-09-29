@@ -28,7 +28,7 @@
 > - **Monótonamente creciente:** $f(x_1) \leq f(x_2)$ cuando $x_1 < x_2$
 > 
 > **Interpretación gráfica:** La función "sube" de izquierda a derecha
-
+>
 > [!success] ✅ Función Decreciente **Una función $f$ es decreciente en un intervalo $I$ si:**
 > 
 > $$\text{Para todo } x_1, x_2 \in I \text{ con } x_1 < x_2 \text{, se cumple } f(x_1) \geq f(x_2)$$

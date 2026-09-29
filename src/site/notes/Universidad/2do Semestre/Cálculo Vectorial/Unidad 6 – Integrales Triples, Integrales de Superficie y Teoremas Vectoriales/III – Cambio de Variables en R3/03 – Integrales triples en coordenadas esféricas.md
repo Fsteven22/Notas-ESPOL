@@ -293,7 +293,7 @@ graph TD
 > **Verificación:** Fórmula conocida: $V = \frac{4}{3}\pi a^3$ ✅
 > 
 > **Respuesta:** $V = \frac{4\pi a^3}{3}$ unidades cúbicas
-
+>
 > [!example] 📝 Ejemplo 2: Hemisferio Superior
 > 
 > **Problema:**
@@ -330,7 +330,7 @@ graph TD
 > **Verificación:** Mitad de la esfera: $\frac{1}{2} \cdot \frac{4\pi R^3}{3} = \frac{2\pi R^3}{3}$ ✅
 > 
 > **Respuesta:** $V = \frac{2\pi R^3}{3}$ unidades cúbicas
-
+>
 > [!example] 📝 Ejemplo 3: Casquete Esférico
 > 
 > **Problema:**
@@ -367,7 +367,7 @@ graph TD
 > **Interpretación:** Diferencia de volúmenes de esferas ✅
 > 
 > **Respuesta:** $V = \frac{4\pi(b^3 - a^3)}{3}$ unidades cúbicas
-
+>
 > [!example] 📝 Ejemplo 4: Cono dentro de Esfera
 > 
 > **Problema:**
@@ -412,7 +412,7 @@ graph TD
 > $$= \frac{8}{3}\left(1 - \frac{\sqrt{2}}{2}\right) \cdot 2\pi = \frac{16\pi}{3}\left(1 - \frac{\sqrt{2}}{2}\right)$$
 > 
 > **Respuesta:** $V = \frac{16\pi}{3}\left(1 - \frac{\sqrt{2}}{2}\right) = \frac{16\pi(2-\sqrt{2})}{6} = \frac{8\pi(2-\sqrt{2})}{3}$ unidades cúbicas
-
+>
 > [!example] 📝 Ejemplo 5: Masa con Densidad Radial
 > 
 > **Problema:**
@@ -553,7 +553,7 @@ graph TD
 > Coordenada $z$ del centro de masa:
 > 
 > $$\bar{z} = \frac{1}{M} \iiint_E z \c\rho_{masa},dV = \frac{1}{M} \iiint_E (\rho\cos\phi) \rho_{masa} \cdot \rho^2\sin\phi,d\rho,d\theta,d\phi$$
-
+>
 > ---
 > 
 > **2. Momento de inercia**

@@ -43,7 +43,7 @@
 > - Es la **desigualdad de posibilidades** que existen para acceder a la información, al conocimiento y la educación mediante las TIC.
 > - **No se relaciona solamente con aspectos exclusivamente de carácter tecnológico.**
 > - Refleja la combinación de **factores socioeconómicos** y en particular de limitaciones y **falta de infraestructura** de telecomunicaciones e informática.
-
+>
 > [!tip] 💡 ¿Solo entregar computadoras reduce la brecha?
 > 
 > No es suficiente. Existen otras barreras:

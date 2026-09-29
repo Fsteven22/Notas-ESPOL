@@ -101,7 +101,7 @@
 > |This [product] is made of + material. It's + adj + and + adj|This backpack is made of polyester. It's light and waterproof|
 > |It's + % + material, so it's + characteristic|It's 100% wool, so it's very warm|
 > |Made of + material + with + detail|Made of leather with metal details|
-
+>
 > [!success] 🎨 Describing Characteristics
 > 
 > **Frases para características físicas:**
@@ -180,7 +180,7 @@
 > ✅ The bottle is made of stainless steel. 
 >    It's very durable and keeps drinks cold for 24 hours.
 > ```
-
+>
 > [!tip] 🌍 Describing Origin & Production
 > 
 > **Frases para el origen:**
@@ -291,7 +291,7 @@
 > ✅ Products are delivered worldwide
 > ✅ It's transported by sea
 > ```
-
+>
 > [!success] 🌱 Sustainability & Quality Language
 > 
 > **Frases sobre sostenibilidad:**
@@ -401,7 +401,7 @@
 > Shop: Yes, shipping is free on orders over $50. 
 >       Otherwise, it's $5.
 > ```
-
+>
 > [!tip] 🌍 Import/Export Language
 > 
 > **Frases sobre comercio internacional:**
@@ -492,7 +492,7 @@
 > dis-TRIB-ute       (tap on TRIB)
 > de-LIV-er-y        (tap on LIV)
 > ```
-
+>
 > [!success] 🔗 Linking & Connected Speech
 > 
 > **Linking en frases comunes:**
@@ -540,7 +540,7 @@
 > Written:    It is very durable and strong
 > Natural:    /ɪtsˈveri djʊərəblənd strɒŋ/
 > ```
-
+>
 > [!tip] 🎯 Intonation Patterns
 > 
 > **Describing products (falling intonation):**

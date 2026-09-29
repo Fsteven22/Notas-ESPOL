@@ -276,7 +276,7 @@
 > 
 > - x + y = 1 + 2 = 3 ✓
 > - 2x - y = 2(1) - 2 = 0 ✓
-
+>
 > [!example] 🟢 Ejemplo 2: Sistema Incompatible
 > 
 > **Sistema:** $$\begin{cases} x + y = 1 \ x + y = 2 \end{cases}$$
@@ -326,7 +326,7 @@
 > - x + y = 1 es una recta
 > - x + y = 2 es otra recta paralela desplazada
 > - Nunca se cortan → sin solución
-
+>
 > [!example] 🟢 Ejemplo 3: Compatible Indeterminado
 > 
 > **Sistema:** $$\begin{cases} x + 2y = 4 \ 2x + 4y = 8 \end{cases}$$
@@ -464,7 +464,7 @@
 > ```
 > 
 > **Solución: (x, y, z) = (5/7, 13/7, 24/7)**
-
+>
 > [!example] 🟡 Ejemplo 5: Sistema 3×3 Compatible Indeterminado
 > 
 > **Sistema:** $$\begin{cases} x + y + z = 1 \ 2x + 2y + 2z = 2 \ 3x + 3y + 3z = 3 \end{cases}$$
@@ -515,7 +515,7 @@
 > $$\begin{pmatrix} x \ y \ z \end{pmatrix} = \begin{pmatrix} 1 \ 0 \ 0 \end{pmatrix} + \lambda \begin{pmatrix} -1 \ 1 \ 0 \end{pmatrix} + \mu \begin{pmatrix} -1 \ 0 \ 1 \end{pmatrix}$$
 > 
 > **Interpretación:** La solución es un plano en ℝ³
-
+>
 > [!example] 🟡 Ejemplo 6: Sistema 3×3 Incompatible
 > 
 > **Sistema:** $$\begin{cases} x + y + z = 1 \ 2x + 2y + 2z = 2 \ 3x + 3y + 3z = 5 \end{cases}$$
@@ -666,7 +666,7 @@
 > |---|---|---|
 > |a ≠ 5|Compatible Determinado|(0, 1, 0)|
 > |a = 5|Compatible Indeterminado|(λ, 1-2λ, λ)|
-
+>
 > [!example] 🔴 Ejemplo 8: Sistema con Dos Parámetros
 > 
 > **Sistema:** $$\begin{cases} x + y + z = a \ x + 2y + 4z = b \ 2x + 3y + 5z = 3 \end{cases}$$
@@ -750,7 +750,7 @@
 > 
 > Solución: (x,y,z) = (2λ, 1-3λ, λ), λ ∈ ℝ
 > ```
-
+>
 > [!example] 🔴 Ejemplo 9: Discusión Completa con Parámetro
 > 
 > **Sistema:** $$\begin{cases} x + y + z = 1 \ 2x + ay + 2z = 3 \ x + y + az = 2 \end{cases}$$
@@ -1946,7 +1946,7 @@
 > **Conclusión:** Sistema Compatible Determinado
 > 
 > Las corrientes tienen valores únicos determinados.
-
+>
 > [!example] 🏗️ Estructuras y Estática
 > 
 > **Análisis de armaduras (Método de los Nudos):**
@@ -1982,7 +1982,7 @@
 > **Análisis:** Sistema subdeterminado (2 ecuaciones, 3 incógnitas)
 > 
 > Si agregamos condición de apoyo o material, se vuelve determinado.
-
+>
 > [!example] 🔬 Balances de Materia (Ingeniería Química)
 > 
 > **Balance de masa en proceso continuo:**
@@ -2047,7 +2047,7 @@
 > Si det(I - A) ≠ 0 → Sistema Compatible Determinado
 > 
 > Solución única: x = (I - A)⁻¹d
-
+>
 > [!example] 💹 Optimización de Portafolios
 > 
 > **Asignación de inversiones con restricciones:**
@@ -2279,7 +2279,7 @@
 > 
 > - 2×2: Rectas que se cortan (CD), coinciden (CI), o son paralelas (I)
 > - 3×3: Planos que se cortan en punto (CD), recta (CI), o no se cortan (I)
-
+>
 > [!summary] 📋 Tabla de Decisión Rápida
 > 
 > ### Algoritmo de Clasificación
@@ -2680,7 +2680,7 @@
 > - [[Pseudoinversa de Moore-Penrose\|Pseudoinversa de Moore-Penrose]] - Soluciones generalizadas
 > - [[Programación Lineal\|Programación Lineal]] - Factibilidad de restricciones
 > - [[Teoremas de Existencia y Unicidad\|Teoremas de Existencia y Unicidad]] - Ecuaciones diferenciales
-
+>
 > [!info] 📚 Temas Avanzados Relacionados
 > 
 > **Para profundizar después de dominar este tema:**

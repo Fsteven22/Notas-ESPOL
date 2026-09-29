@@ -8,7 +8,7 @@
 ## 🧠 Contexto Fundamental
 
 > [!info] 📖 Definición General El **momentum lineal** (o cantidad de movimiento) es una propiedad vectorial fundamental que describe la "inercia en movimiento" de un objeto. Representa la tendencia de un cuerpo en movimiento a mantener su estado de movimiento, siendo directamente proporcional tanto a su masa como a su velocidad.
-
+>
 > [!important] 🏛️ Principio de Conservación El **principio de conservación del momentum** es una de las leyes de conservación más fundamentales de la física, aplicable desde partículas subatómicas hasta sistemas galácticos. Es esencial para analizar colisiones, explosiones y cualquier interacción entre cuerpos.
 
 ```mermaid
@@ -289,7 +289,7 @@ graph TB
 > **2. Sustituir valores conocidos:** $$10,000 \times 2.5 + 5,000 \times 0 = (10,000 + 5,000)v_f$$ $$25,000 = 15,000 \times v_f$$
 > 
 > **3. Resolver para velocidad final:** $$v_f = \frac{25,000}{15,000} = 1.67 \text{ m/s}$$
-
+>
 > [!note] 📝 Análisis Energético **Energía cinética inicial:** $$K_i = \frac{1}{2}(10,000)(2.5)^2 = 31,250 \text{ J}$$
 > 
 > **Energía cinética final:** $$K_f = \frac{1}{2}(15,000)(1.67)^2 = 20,917 \text{ J}$$
@@ -317,7 +317,7 @@ graph TB
 > **2. Conservación del momentum:** $$P_{inicial} = P_{final}$$ $$0 = m_1v_{1f} + m_2v_{2f}$$
 > 
 > **3. Despejar velocidad del hombre:** $$v_{1f} = -\frac{m_2v_{2f}}{m_1} = -\frac{0.2 \times 10}{80} = -0.025 \text{ m/s}$$
-
+>
 > [!tip] 💡 Interpretación Física
 > 
 > - **Signo negativo**: Movimiento en dirección opuesta a la pelota
@@ -375,7 +375,7 @@ mindmap
 > 4. 📊 **Aplicar conservación** por componentes (x, y, z)
 > 5. 🧮 **Resolver sistema** de ecuaciones
 > 6. ✅ **Verificar resultados** física y matemáticamente
-
+>
 > [!success] ✅ Estrategias Efectivas
 > 
 > - **Diagramas**: Usar esquemas de antes/después para visualizar
@@ -383,7 +383,7 @@ mindmap
 > - **Unidades**: Verificar consistencia en todos los cálculos
 > - **Casos límite**: Comprobar con masas muy diferentes o velocidades extremas
 > - **Simetría**: Aprovechar simetrías del problema cuando existan
-
+>
 > [!warning] ❌ Errores Frecuentes
 > 
 > - Confundir momentum con energía cinética

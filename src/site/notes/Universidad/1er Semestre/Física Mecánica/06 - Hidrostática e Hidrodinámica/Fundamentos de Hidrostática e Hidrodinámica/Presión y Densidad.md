@@ -20,7 +20,7 @@
 > - ρ (rho) = densidad (kg/m³)
 > - m = masa (kg)
 > - V = volumen (m³)
-
+>
 > [!example] 📊 **Densidades Comunes**
 > 
 > |Sustancia|Densidad (kg/m³)|Densidad (g/cm³)|
@@ -55,7 +55,7 @@
 > Volumen:     V = m/ρ
 > Masa:        m = ρ × V
 > ```
-
+>
 > [!example] Aplicación Práctica 🧮
 > 
 > ### Ejemplo Rápido
@@ -76,7 +76,7 @@
 > - ⚖️ Determinar peso aparente vs peso real
 > - 🚢 Analizar condiciones de flotación
 > - 📏 Resolver problemas de equilibrio en fluidos
-
+>
 > [!tip] Conexión con Otros Conceptos 🔗
 > 
 > ### En Problemas de Flotación
@@ -101,7 +101,7 @@
 > - P = presión (Pa = N/m²)
 > - F = fuerza (N)
 > - A = área (m²)
-
+>
 > [!info] 📏 **Unidades de Presión**
 > 
 > - **Pascal (Pa)**: Unidad del SI
@@ -148,7 +148,7 @@ graph TD
 > [!note] 📐 **Principio de Pascal** La presión aplicada a un fluido confinado se transmite uniformemente en todas las direcciones.
 > 
 > **Aplicación**: Sistemas hidráulicos, frenos de automóviles, prensas hidráulicas.
-
+>
 > [!note] 🌍 **Presión Atmosférica**
 > 
 > - **Valor estándar**: 101,325 Pa = 1 atm

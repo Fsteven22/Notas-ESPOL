@@ -227,7 +227,7 @@
 > - Let me find out more information
 > - They found out how to succeed
 > ```
-
+>
 > [!tip] 🔥 Más Phrasal Verbs para Pushing Yourself
 > 
 > **6. GET OVER - Superar (algo difícil)**
@@ -373,7 +373,7 @@
 > En conversación informal, algunos nativos usan "was", 
 > pero "were" es siempre correcto y más formal.
 > ```
-
+>
 > [!example] 💡 Ejemplos con Unit 11 Vocabulary
 > 
 > **Talking about goals:**
@@ -430,7 +430,7 @@
 > |If I were + adjective, I would + verb|If I were confident, I would apply|
 > |If I + past verb, I would + verb|If I tried harder, I would succeed|
 > |If I were you, I would + verb|If I were you, I would take the risk|
-
+>
 > [!success] 🔄 Negative & Questions
 > 
 > **Forma negativa:**
@@ -540,7 +540,7 @@
 > ✅ I wish she were more supportive
 > ✅ I wish they would help me
 > ```
-
+>
 > [!tip] 🎯 IF ONLY (más enfático que "I wish")
 > 
 > **IF ONLY = I wish (pero más dramático/enfático)**
@@ -570,7 +570,7 @@
 > |**Arrepentimiento**|If only I hadn't given up!|
 > |**Deseo fuerte**|If only I were braver!|
 > |**Situación dramática**|If only things were different!|
-
+>
 > [!example] 🗣️ I wish + WOULD (para comportamientos que queremos cambiar)
 > 
 > **I wish + would** (para acciones/comportamientos de OTROS o situaciones)

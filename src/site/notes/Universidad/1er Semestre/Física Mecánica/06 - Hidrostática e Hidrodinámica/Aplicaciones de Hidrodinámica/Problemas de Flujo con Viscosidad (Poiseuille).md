@@ -6,7 +6,7 @@
 # Problemas de Flujo con Viscosidad (Poiseuille)
 
 > [!quote] "La viscosidad es la resistencia silenciosa que gobierna el mundo real; sin ella, Bernoulli sería rey, pero con ella, Poiseuille revela la verdad del flujo." 🌊
-
+>
 > [!info] El flujo con viscosidad introduce efectos de fricción que Bernoulli no considera. La ecuación de Poiseuille describe el flujo laminar viscoso en tuberías, fundamental para entender desde la circulación sanguínea hasta el transporte de petróleo en oleoductos.
 
 ## 🔧 Conceptos Fundamentales
@@ -37,7 +37,7 @@
 > - **Flujo laminar**: Perfil parabólico
 > - **Flujo turbulento**: Perfil más plano
 > - **Velocidad máxima**: En el centro del tubo
-
+>
 > [!tip] **Ecuación de Poiseuille** 🧪
 > 
 > ### Para Tubo Circular:
@@ -60,7 +60,7 @@
 > - **D**: Diámetro del tubo [m]
 > - **μ**: Viscosidad dinámica [Pa·s]
 > - **L**: Longitud del tubo [m]
-
+>
 > [!warning] **Número de Reynolds** ⚡
 > 
 > ### Definición:
@@ -80,7 +80,7 @@
 > |Laminar|Ordenado, predecible|∝ v¹|
 > |Transición|Inestable, variable|Variable|
 > |Turbulento|Caótico, mezclado|∝ v²|
-
+>
 > [!success] 🔗 Resistencia Hidráulica
 > 
 > ```mermaid
@@ -100,7 +100,7 @@
 >     style D fill:#e8f5e8
 >     style G fill:#fce4ec
 > ```
-
+>
 > [!note] **Analogía con Circuitos Eléctricos** ⚡
 > 
 > ### Resistencia Hidráulica:
@@ -194,7 +194,7 @@
 > **Como Re = 17.6 << 2,100, el flujo es LAMINAR** ✓
 > 
 > La aplicación de Poiseuille es válida.
-
+>
 > [!example] **Problema 2: Sistema de Tuberías en Serie** 🔗
 > 
 > ### Enunciado:
@@ -229,7 +229,7 @@
 > **ΔP_total = ΔP₁ + ΔP₂ = 635 + 1,210 = 1,845 kPa**
 > 
 > **Observación**: La tubería más estrecha (menor D) tiene mayor resistencia y mayor caída de presión.
-
+>
 > [!example] **Problema 3: Flujo Sanguíneo (Aplicación Biomédica)** ❤️
 > 
 > ### Enunciado:
@@ -279,7 +279,7 @@
 > [!tip] **Mnemotecnia: "RADIO"** 🎯
 > 
 > **R**⁴ en el numerador → **R**adio a la cuarta potencia es clave **A**umento de radio → **D**ismunuye resistencia enormemente **D**iámetro doble → resistencia 1/16 (porque R⁴) **I**nverso de viscosidad → más viscoso, menos caudal **O**hm hidráulico → ΔP = R × Q
-
+>
 > [!tip] **Regla del Radio** 📏
 > 
 > **"El radio gobierna"**: Si R se duplica, Q aumenta 16 veces
@@ -360,7 +360,7 @@
 > - Concepto de viscosidad y esfuerzo cortante
 > - Perfiles de velocidad en flujo laminar
 > - Analogías con circuitos eléctricos
-
+>
 > [!note] **Temas Avanzados**
 > 
 > - **Flujo no newtoniano**: Fluidos complejos

@@ -6,7 +6,7 @@
 # Integrales en Coordenadas Polares
 
 >[!quote] *"Cuando las curvas danzan en círculos y espirales, el lenguaje cartesiano se vuelve torpe. Las coordenadas polares nos ofrecen la gracia natural para describir el mundo circular, transformando integrales complejas en elegantes expresiones radiales."*
-
+>
 > [!info]+ Fundamentos de Coordenadas Polares 🌀
 > ### Sistema de Coordenadas Polares
 > Un punto en el plano se describe mediante:
@@ -28,7 +28,7 @@
 > 
 > ### Jacobiano de la Transformación
 > **$$J = \left|\frac{\partial(x,y)}{\partial(r,\theta)}\right| = \begin{vmatrix} \cos\theta & -r\sin\theta \\ \sin\theta & r\cos\theta \end{vmatrix} = r$$**
-
+>
 > [!note] Elemento Diferencial de Área 📐
 > ### Deducción del Elemento de Área
 > ```mermaid
@@ -60,7 +60,7 @@
 > 
 > **Por tanto:**
 > $$dA = \text{anchura} \times \text{altura} = dr \times (r \cdot d\theta) = r \, dr \, d\theta$$
-
+>
 > [!tip] Integral Doble en Coordenadas Polares 🔄
 > ### Fórmula General
 > **Para una función $f(x,y) = f(r\cos\theta, r\sin\theta) = g(r,\theta)$:**
@@ -83,7 +83,7 @@
 > $$R = \{(r,\theta) : \alpha \leq \theta \leq \beta, \, 0 \leq r \leq R\}$$
 > 
 > **$$\iint_R f(x,y) \, dA = \int_{\alpha}^{\beta} \int_0^R g(r,\theta) \cdot r \, dr \, d\theta$$**
-
+>
 > [!example] Cálculo de Áreas con Sectores Circulares 📊
 > ### Ejemplo 1: Área de un Círculo
 > **Región:** $x^2 + y^2 \leq a^2$
@@ -127,7 +127,7 @@
 > 
 > = π(r₂² - r₁²)
 > ```
-
+>
 > [!abstract] Ejemplos de Integrales con Funciones 🧮
 > ### Ejemplo 4: Integral de $f(x,y) = x^2 + y^2$ sobre un Círculo
 > **Región:** $x^2 + y^2 \leq R^2$
@@ -166,7 +166,7 @@
 > 
 > = ∫₀^{2π} 8/3 dθ = (8/3) × 2π = 16π/3
 > ```
-
+>
 > [!success] Casos Especiales y Técnicas Avanzadas 🎯
 > ### Regiones con Simetría Radial
 > **Para funciones que dependen solo de $r$:**
@@ -186,7 +186,7 @@
 > | Rosa 4 pétalos | $r = a\cos(2\theta)$ | $[0, 2\pi]$ |
 > | Espiral | $r = a\theta$ | $[0, n\pi]$ |
 > | Lemniscata | $r^2 = a^2\cos(2\theta)$ | $[-\pi/4, \pi/4] \cup [3\pi/4, 5\pi/4]$ |
-
+>
 > [!warning] Errores Comunes y Precauciones ⚠️
 > ### Errores Frecuentes
 > 
@@ -219,7 +219,7 @@
 > - ✅ ¿Los límites de $r$ dependen correctamente de $\theta$?
 > - ✅ ¿El rango de $\theta$ cubre toda la región una vez?
 > - ✅ ¿Verifiqué la simetría de la región?
-
+>
 > [!brain]+ Estrategia de Resolución: POLAR 🧠
 > **P** - **Problema**: Identificar si coordenadas polares simplifican
 > **O** - **Origen**: Colocar el origen estratégicamente  
@@ -232,7 +232,7 @@
 > 2. **📐 Funciones** que involucran $x^2 + y^2$
 > 3. **🌀 Curvas** definidas naturalmente en polares
 > 4. **⚡ Integrales** que se simplifican con la transformación
-
+>
 > [!summary]+ Fórmulas Clave y Resultados Importantes 📋
 > ### Fórmulas Fundamentales
 > 
@@ -254,7 +254,7 @@
 > ∬ (x²+y²) dA sobre círculo R:     I = πR⁴/2
 > ∬ e^{-(x²+y²)} dA sobre ℝ²:      I = π
 > ```
-
+>
 > [!success] Conexiones y Aplicaciones 🔗
 > ### Aplicaciones Físicas
 > - **🌡️ Distribuciones de temperatura** con simetría radial
@@ -287,7 +287,7 @@
 > - [[Funciones Trigonométricas\|Funciones Trigonométricas]]
 > - [[Límites y Continuidad\|Límites y Continuidad]]
 > - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/IV - Integrales Impropias y Avanzadas/02 - Criterios de Convergencia y Divergencia\|02 - Criterios de Convergencia y Divergencia]]
-
+>
 > [!tip] Continuación del Tema
 > - [[Coordenadas Cilíndricas y Esféricas\|Coordenadas Cilíndricas y Esféricas]]
 > - [[Integrales de Línea\|Integrales de Línea]]

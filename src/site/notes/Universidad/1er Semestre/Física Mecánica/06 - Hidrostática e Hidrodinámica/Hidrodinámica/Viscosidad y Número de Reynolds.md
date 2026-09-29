@@ -33,7 +33,7 @@
 > 
 > - $\nu$: Viscosidad cinemática (m²/s)
 > - $\rho$: Densidad del fluido (kg/m³)
-
+>
 > [!note]+ Unidades de Viscosidad
 > 
 > ### 📏 Sistemas de Unidades
@@ -101,7 +101,7 @@
 > - $D$: Longitud característica (m)
 > - $\mu$: Viscosidad dinámica (Pa·s)
 > - $\nu$: Viscosidad cinemática (m²/s)
-
+>
 > [!tip]+ Interpretación Física
 > 
 > ### ⚖️ Balance de Fuerzas
@@ -170,7 +170,7 @@
 > **Cálculo:** $$Re = \frac{vD}{\nu} = \frac{2 \times 0.05}{1.0 \times 10^{-6}} = 100,000$$
 > 
 > **Resultado**: Re > 4000 → **Flujo Turbulento**
-
+>
 > [!example]+ Problema: Flujo de Miel
 > 
 > ### 🍯 Cálculo con Fluido Viscoso
@@ -231,7 +231,7 @@
 > - **O**rdenado si laminar, caótico si turbulento
 > - **S**uperficie determina esfuerzo cortante
 > - **O**bstáculos afectan la longitud característica
-
+>
 > [!study]+ Método de Análisis: EVALUAR
 > 
 > ### 📋 Protocolo de Cálculo
@@ -282,7 +282,7 @@
 > - [[Esfuerzos Cortantes\|Esfuerzos Cortantes]]
 > - [[Gradientes de Velocidad\|Gradientes de Velocidad]]
 > - [[Conceptos de Densidad\|Conceptos de Densidad]]
-
+>
 > [!success]+ Para Profundizar
 > 
 > - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrodinámica/Flujo Laminar y Ecuación de Poiseuille\|Flujo Laminar y Ecuación de Poiseuille]]

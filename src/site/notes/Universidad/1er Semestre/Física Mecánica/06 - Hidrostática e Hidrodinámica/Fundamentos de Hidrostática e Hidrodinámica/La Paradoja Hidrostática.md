@@ -37,7 +37,7 @@
 > - **Intuición fallida**: Creemos que más líquido = más presión
 > - **Realidad física**: Solo importa la altura de la columna
 > - **Principio subyacente**: La presión se transmite por igual (Pascal)
-
+>
 > [!warning]+ Condiciones de Aplicación
 > 
 > - ⚠️ **Fluido incompresible**: Densidad constante
@@ -80,7 +80,7 @@
 > **Fuerza sobre el fondo:** $F = P \times A_{fondo} = (\rho g h + P_0) \times A_{fondo}$
 > 
 > **Componente hidrostática:** $F_{hidrostática} = \rho g h \times A_{fondo}$
-
+>
 > [!abstract]+ Casos Específicos
 > 
 > ### 📊 Comparación Cuantitativa
@@ -128,7 +128,7 @@
 > ```
 > 
 > **Observación**: A pesar de contener volúmenes muy diferentes, el agua alcanza el mismo nivel en ambos brazos.
-
+>
 > [!experiment]+ Laboratorio: Presión vs Forma
 > 
 > ### 🔬 Experiencia Cuantitativa
@@ -217,7 +217,7 @@
 > - **U**niforme la densidad
 > - **R**ecipiente no importa forma
 > - **A**plicable solo en hidrostática
-
+>
 > [!study]+ Método de Resolución de Problemas
 > 
 > ### 📝 Estrategia Paso a Paso
@@ -246,7 +246,7 @@
 > **Solución**: $P = P_0 + \rho g h = 101,325 + (1000)(9.8)(3) = 130,725 \text{ Pa}$
 > 
 > **Resultado**: La presión es la misma independientemente del tanque considerado.
-
+>
 > [!example]+ Problema Resuelto: Torre de Agua
 > 
 > ### 🗼 Cálculo de Presión de Servicio
@@ -279,7 +279,7 @@
 > - [[Densidad y Peso Específico\|Densidad y Peso Específico]]
 > - [[Equilibrio de Fluidos\|Equilibrio de Fluidos]]
 > - [[Principio de Pascal\|Principio de Pascal]]
-
+>
 > [!success]+ Para Profundizar
 > 
 > - [[Hidrostática Avanzada\|Hidrostática Avanzada]]

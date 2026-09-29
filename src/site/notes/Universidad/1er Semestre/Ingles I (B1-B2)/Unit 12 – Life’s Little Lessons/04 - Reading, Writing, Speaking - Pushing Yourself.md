@@ -110,7 +110,7 @@
 > ✅ turning point = moment when everything changed
 > ✅ pay off = produce good results
 > ```
-
+>
 > [!tip] 📚 Reading Text 2: "The Risk That Changed My Life"
 > 
 > **Pre-reading task:**
@@ -180,7 +180,7 @@
 > > **Risk/Opportunity vocabulary:**
 > > 
 > > - take that risk, pursue, disadvantages, guarantee,Options, rewards, chance
-
+>
 > [!example] 📰 Reading Text 3: "Small Steps, Big Results"
 > 
 > ### Small Steps, Big Results
@@ -300,7 +300,7 @@
 > ✅ Is my essay well-organized with clear paragraphs?
 > ✅ Did I check for grammar and spelling errors?
 > ```
-
+>
 > [!success] ✅ Sample Essay (Model Answer)
 > 
 > ### Learning to Speak in Public
@@ -318,7 +318,7 @@
 > **Why this essay works:**
 > 
 > ✅ Clear structure (intro, challenge, result) ✅ Phrasal verbs: set up, give up, kept going, worked on, found out ✅ Second conditional: "if I gave up, I would never improve" ✅ Unit 11 vocabulary: goal, challenging, overcome, obstacles, confidence, achieve ✅ Personal and authentic ✅ Good conclusion with advice
-
+>
 > [!tip] 📝 Writing Task 2: Goal-Setting Paragraph
 > 
 > **Topic:** Describe a goal you're currently working on
@@ -381,7 +381,7 @@
 > 
 > 
 > ```
-
+>
 > [!example] 📝 Writing Task 3: Advice Letter
 > 
 > **Situation:** Your friend sent you this message:
@@ -529,7 +529,7 @@
 > ✅ Did I make eye contact?
 > ✅ Did I speak confidently?
 > ```
-
+>
 > [!success] 🎤 Speaking Activity 2: Paired Discussion
 > 
 > **Task:** Discuss these questions with a partner (15-20 minutes total)
@@ -592,7 +592,7 @@
 > ✅ What would you do differently now?
 > ✅ That's interesting! Why do you think that?
 > ```
-
+>
 > [!tip] 🎤 Speaking Activity 3: Role-Play Scenarios
 > 
 > **Scenario 1: The Motivational Coach**
@@ -672,7 +672,7 @@
 > • Share lessons learned
 > • Give practical advice
 > ```
-
+>
 > [!example] 🎤 Speaking Activity 4: Debate
 > 
 > **Motion:** "Taking big risks is necessary for success"

@@ -6,7 +6,7 @@
 # Tabla de Derivadas Básicas 
 
 > [!quote] _"Las fórmulas de derivación son herramientas esenciales que todo estudiante de cálculo debe dominar. Esta tabla de referencia rápida complementa el estudio teórico profundo, proporcionando acceso inmediato a las fórmulas fundamentales necesarias para resolver problemas de derivación."_
-
+>
 > [!info]+ Propósito de esta Referencia 📚
 > 
 > ### Complemento a tus Estudios de Derivadas
@@ -22,14 +22,14 @@
 > - **Funciones trigonométricas**: $\sin x$, $\cos x$, $\tan x$, $\cot x$, $\sec x$, $\csc x$
 > - **Operador derivada**: $D_x f(x)$ o $f'(x)$
 > - **Notación de Leibniz**: $\frac{dy}{dx}$
-
+>
 > [!summary]+ Tabla de Derivadas Básicas 📋
 > 
 > ### Las 13 Fórmulas Fundamentales
 > ![Pasted image 20250824170857.png](/img/user/Universidad/Figuras/Pasted%20image%2020250824170857.png)
 > 
 > _Esta tabla contiene las reglas de derivación esenciales que debes memorizar. Cada fórmula representa la derivada directa de las funciones elementales más importantes en cálculo diferencial._
-
+>
 > [!tip] Fórmulas Organizadas por Categoría 🔢
 > 
 > ### Funciones Algebraicas
@@ -51,7 +51,7 @@
 > ### Funciones Trigonométricas Recíprocas
 > 
 > **12.** $D_x(\sec x) = \sec x \tan x$ **13.** $D_x(\csc x) = -\csc x \cot x$
-
+>
 > [!example] Reglas de Combinación (Referencia Rápida) ⚡
 > 
 > ### Reglas Fundamentales para Funciones Compuestas
@@ -63,7 +63,7 @@
 > **Regla del Cociente:** $$D_x\left[\frac{f(x)}{g(x)}\right] = \frac{f'(x) \cdot g(x) - f(x) \cdot g'(x)}{[g(x)]^2}$$
 > 
 > **Regla de la Cadena:** $$D_x[f(g(x))] = f'(g(x)) \cdot g'(x)$$
-
+>
 > [!note] Casos Especiales Importantes 📝
 > 
 > ### Extensiones Útiles de las Fórmulas Básicas
@@ -83,7 +83,7 @@
 > - $D_x(\sin(ax)) = a\cos(ax)$
 > - $D_x(\cos(ax)) = -a\sin(ax)$
 > - $D_x(\tan(ax)) = a\sec^2(ax)$
-
+>
 > [!success] Ejemplos Rápidos de Aplicación 🚀
 > 
 > ### Casos Comunes que Aparecen Frecuentemente
@@ -108,9 +108,9 @@
 > f(x) = x² sin x
 > f'(x) = 2x sin x + x² cos x  (regla del producto)
 > ```
-
+>
 > [!brain]+ Estrategia de Memorización: TABLA 🧠 **T** - **Tipo**: Identifica la función (algebraica, exponencial, logarítmica, trigonométrica) **A** - **Aplica**: Usa la fórmula directa correspondiente **B** - **Busca**: Composición de funciones (cadena) **L** - **Linealiza**: Separa sumas y diferencias **A** - **Ajusta**: Simplifica el resultado final
-
+>
 > [!warning] Conexión con tus Otras Notas 🔗
 > 
 > ### Cómo usar esta referencia junto con tus estudios
@@ -129,7 +129,7 @@
 > 2. **Visualizar geométricamente** → Tu nota de interpretación geométrica
 > 3. **Memorizar fórmulas** → Esta tabla de referencia
 > 4. **Aplicar en problemas** → Combinando teoría con fórmulas
-
+>
 > [!info] Relación con Integrales 🔄
 > 
 > ### Teorema Fundamental del Cálculo
@@ -145,7 +145,7 @@
 > - $D_x(x^2) = 2x$ ↔ $\int 2x , dx = x^2 + C$
 > - $D_x(\sin x) = \cos x$ ↔ $\int \cos x , dx = \sin x + C$
 > - $D_x(e^x) = e^x$ ↔ $\int e^x , dx = e^x + C$
-
+>
 > [!success] Puntos Clave para Recordar 🎯
 > 
 > 1. **📋 Referencia rápida**: Esta tabla es para consulta inmediata durante problemas
@@ -173,7 +173,7 @@
 > - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/I - Fundamentos Teóricos/03 - Derivabilidad y Continuidad\|03 - Derivabilidad y Continuidad]] - Conceptos fundamentales
 > - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/I - Fundamentos Teóricos/01 - Derivada y Definición Formal\|01 - Derivada y Definición Formal]] - Demostraciones rigurosas
 > - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/I - Fundamentos Teóricos/02 - Interpretación Geométrica de la Derivada\|02 - Interpretación Geométrica de la Derivada]] - Significado visual
-
+>
 > [!tip] Continuación del Tema
 > 
 > - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/II - Integrales Indefinidas/Integrales Notables (Fórmulas Directas)\|Integrales Notables (Fórmulas Directas)]] - Operación inversa

@@ -65,7 +65,7 @@
 > - $f(a, b) = a^2 + b^2$
 > 
 > **Interpretación geométrica:** Esta función representa la **distancia al cuadrado** desde el punto $(x,y)$ al origen $(0,0)$.
-
+>
 > [!example] 📝 Ejemplo 2: Temperatura en una Placa
 > 
 > **Función:** $T(x,y) = 100 - x^2 - 2y^2$
@@ -83,7 +83,7 @@
 > - $T(2,2) = 100 - 4 - 8 = 88°C$
 > 
 > **Observación:** La temperatura disminuye más rápido en la dirección $y$ que en $x$ (coeficiente 2 vs 1).
-
+>
 > [!example] 📝 Ejemplo 3: Función de Tres Variables
 > 
 > **Función:** $f(x,y,z) = x^2 + y^2 + z^2$
@@ -101,7 +101,7 @@
 > - $f(1,1,1) = 3$
 > 
 > **Aplicación física:** Si $f$ representa el potencial gravitatorio, entonces puntos equidistantes del origen tienen el mismo potencial (superficies equipotenciales esféricas).
-
+>
 > [!example] 📝 Ejemplo 4: Índice de Masa Corporal (IMC)
 > 
 > **Función:** $\text{IMC}(m, h) = \frac{m}{h^2}$
@@ -121,7 +121,7 @@
 > - IMC < 18.5: Bajo peso
 > - 18.5 ≤ IMC < 25: Normal
 > - IMC ≥ 25: Sobrepeso
-
+>
 > [!example] 📝 Ejemplo 5: Volumen de un Cilindro
 > 
 > **Función:** $V(r, h) = \pi r^2 h$
@@ -210,7 +210,7 @@
 > - $\vec{F}(2,3) = \langle -3, 2 \rangle$
 > 
 > **Interpretación física:** Este campo vectorial representa una **rotación antihoraria** alrededor del origen. Imagina un fluido girando.
-
+>
 > [!example] 📝 Ejemplo 2: Curva Parametrizada ($\mathbb{R} \to \mathbb{R}^2$)
 > 
 > **Función:** $\vec{r}(t) = \langle \cos(t), \sin(t) \rangle$
@@ -230,7 +230,7 @@
 > **Interpretación geométrica:** La función traza el **círculo unitario** en sentido antihorario conforme $t$ aumenta.
 > 
 > **Verificación:** $$x^2 + y^2 = \cos^2(t) + \sin^2(t) = 1$$
-
+>
 > [!example] 📝 Ejemplo 3: Hélice en el Espacio ($\mathbb{R} \to \mathbb{R}^3$)
 > 
 > **Función:** $\vec{r}(t) = \langle \cos(t), \sin(t), t \rangle$
@@ -253,7 +253,7 @@
 > - **Resultado:** Una espiral ascendente (hélice)
 > 
 > **Aplicación:** Modelo del resorte, escalera de caracol, ADN.
-
+>
 > [!example] 📝 Ejemplo 4: Campo Gravitatorio ($\mathbb{R}^3 \to \mathbb{R}^3$)
 > 
 > **Función:** $$\vec{F}(x,y,z) = -\frac{GM}{(x^2+y^2+z^2)^{3/2}}\langle x, y, z \rangle$$
@@ -275,7 +275,7 @@
 > - Es proporcional a la masa $M$
 > 
 > **Interpretación física:** Describe el campo gravitatorio creado por un objeto masivo en el origen.
-
+>
 > [!example] 📝 Ejemplo 5: Campo de Velocidades ($\mathbb{R}^2 \to \mathbb{R}^2$)
 > 
 > **Función:** $\vec{v}(x,y) = \langle 2y, -x \rangle$
@@ -289,7 +289,7 @@
 > - En $(2,3)$: $\vec{v}(2,3) = \langle 6, -2 \rangle$
 > 
 > **Aplicación:** Modelar corrientes de agua, viento, campos eléctricos.
-
+>
 > [!example] 📝 Ejemplo 6: Transformación Lineal ($\mathbb{R}^2 \to \mathbb{R}^2$)
 > 
 > **Función:** $\vec{T}(x,y) = \langle 2x + y, x - 3y \rangle$

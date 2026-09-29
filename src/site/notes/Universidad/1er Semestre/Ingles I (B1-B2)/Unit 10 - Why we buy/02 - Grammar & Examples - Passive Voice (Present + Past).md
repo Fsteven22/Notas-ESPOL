@@ -97,7 +97,7 @@
 > ✅ The products are shipped worldwide.
 > ✅ Bananas are exported to Europe.
 > ```
-
+>
 > [!note] 🔍 Cuándo OMITIR "by + agent"
 > 
 > **Casos donde NO usamos "by":**
@@ -129,7 +129,7 @@
 >     style C fill:#e1ffe1
 >     style D fill:#ffe1e1
 > ```
-
+>
 > [!success] 🎨 Negative & Questions
 > 
 > **Forma negativa:**
@@ -231,7 +231,7 @@
 > |**in 2020**|This model was produced in 2020|
 > |**two days ago**|The order was shipped two days ago|
 > |**on Monday**|The products were transported on Monday|
-
+>
 > [!tip] 🔄 Active to Passive Transformation
 > 
 > **Paso a paso:**
@@ -283,7 +283,7 @@
 > Passive:  My bike was stolen last night.
 >           (no "by someone" - desconocido/no relevante)
 > ```
-
+>
 > [!success] 🎨 Negative & Questions (Past)
 > 
 > **Forma negativa:**

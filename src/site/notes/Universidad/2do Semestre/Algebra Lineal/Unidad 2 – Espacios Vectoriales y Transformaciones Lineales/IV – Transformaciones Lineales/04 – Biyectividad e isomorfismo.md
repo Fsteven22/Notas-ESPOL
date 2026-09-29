@@ -130,7 +130,7 @@
 > - Todas las operaciones se preservan
 > - No se pierde ni se añade información
 > - Los espacios son "algebraicamente idénticos"
-
+>
 > [!important] Espacios Isomorfos **DEFINICIÓN (Espacios Isomorfos):**
 > 
 > Dos espacios vectoriales $V$ y $W$ son **isomorfos** (notación: $V \cong W$) si existe al menos un isomorfismo $T: V \to W$.
@@ -148,7 +148,7 @@
 > **CONSECUENCIA:**
 > 
 > El isomorfismo divide todos los espacios vectoriales en **clases de equivalencia**. Espacios en la misma clase son "esencialmente iguales".
-
+>
 > [!important] Transformación Inversa **DEFINICIÓN (Transformación Inversa):**
 > 
 > Si $T: V \to W$ es un isomorfismo, su **transformación inversa** $T^{-1}: W \to V$ está definida por:
@@ -233,7 +233,7 @@
 > Si $S'$ también satisface las condiciones: $$S' = S' \circ \text{Id}_W = S' \circ (T \circ S) = (S' \circ T) \circ S = \text{Id}_V \circ S = S$$ ✓
 > 
 > **Q.E.D.**
-
+>
 > [!success] Teorema Fundamental de Clasificación **TEOREMA 2: Clasificación dimensional** ⭐⭐⭐
 > 
 > Sean $V$ y $W$ espacios vectoriales de dimensión finita sobre el mismo campo $\mathbb{F}$.
@@ -307,7 +307,7 @@
 > Todo espacio vectorial de dimensión $n$ sobre $\mathbb{F}$ es isomorfo a $\mathbb{F}^n$:
 > 
 > $$\boxed{\dim_{\mathbb{F}}(V) = n \implies V \cong \mathbb{F}^n}$$
-
+>
 > [!success] Teorema de Preservación de Propiedades **TEOREMA 3: Los isomorfismos preservan estructura**
 > 
 > Sea $T: V \to W$ isomorfismo. Entonces $T$ preserva:
@@ -352,7 +352,7 @@
 > **(7):** $T|_U: U \to T(U)$ es isomorfismo, por tanto preserva dimensión ✓
 > 
 > **(8):** $T(\vec{0}) = T(0 \cdot \vec{v}) = 0 \cdot T(\vec{v}) = \vec{0}$ ✓
-
+>
 > [!success] Teoremas de Isomorfismo de Noether **PRIMER TEOREMA DE ISOMORFISMO:** ⭐⭐⭐
 > 
 > Sea $T: V \to W$ transformación lineal. Entonces:

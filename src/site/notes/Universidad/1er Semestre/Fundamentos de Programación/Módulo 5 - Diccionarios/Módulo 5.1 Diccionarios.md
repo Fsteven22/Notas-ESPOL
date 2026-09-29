@@ -8,7 +8,7 @@
 ## 🎯 Introducción y Conceptos Fundamentales
 
 > [!info] 💡 **¿Qué son los Diccionarios?** Los diccionarios en Python son estructuras de datos que almacenan información en **pares clave-valor**. Son como una agenda telefónica 📞 donde cada nombre (clave) tiene asociado un número (valor). Representan una de las herramientas más poderosas para organizar y acceder a datos de forma eficiente.
-
+>
 > [!tip] ✨ **Características Principales**
 > 
 > - **Mutables**: Puedes modificar, añadir o eliminar elementos después de su creación
@@ -64,7 +64,7 @@
 > print(persona.get("telefono"))  # ✅ None (sin error)
 > print(persona.get("pais", "Desconocido"))  # ✅ Valor por defecto
 > ```
-
+>
 > [!tip] ➕ **Añadir y Modificar Elementos**
 > 
 > ```python
@@ -76,7 +76,7 @@
 > 
 > # Resultado: {'nombre': 'Ana', 'edad': 31, 'telefono': '555-1234'}
 > ```
-
+>
 > [!note] 🗑️ **Eliminar Elementos**
 > 
 > **Con `del` (eliminación permanente):**
@@ -112,7 +112,7 @@
 > # Acceso seguro
 > telefono = contactos.get('Carlos', 'No encontrado')
 > ```
-
+>
 > [!warning] 🐌 **Búsqueda por Valor (Lenta - Requiere Iteración)**
 > 
 > ```python
@@ -207,7 +207,7 @@ graph TD
 > contacto_eliminado = agenda.pop("Juan", "No encontrado")
 > print(f"Contacto eliminado: {contacto_eliminado}")
 > ```
-
+>
 > [!example] 🛒 **Inventario de Tienda**
 > 
 > ```python
@@ -231,7 +231,7 @@ graph TD
 > # Añadir nuevo producto
 > inventario["peras"] = 30
 > ```
-
+>
 > [!example] 🎓 **Sistema de Calificaciones**
 > 
 > ```python

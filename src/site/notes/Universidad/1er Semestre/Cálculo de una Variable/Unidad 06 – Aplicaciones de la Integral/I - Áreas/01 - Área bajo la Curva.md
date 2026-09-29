@@ -310,7 +310,7 @@ flowchart TD
 > [!tip] 🎓 **Mnemotecnia GRAFO para Área bajo la Curva**
 > 
 > **G**raficar la función y la región **R**econocer si el área es positiva, negativa o mixta **A**plicar el Teorema Fundamental del Cálculo **F**ormular la integral definida $\int_a^b f(x)dx$ **O**btener el resultado y verificar
-
+>
 > [!success] 📋 Desarrollo Detallado del Método GRAFO
 > ### 
 > 
@@ -411,7 +411,7 @@ flowchart TD
 > - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/04 - Teorema Fundamental del Cálculo\|04 - Teorema Fundamental del Cálculo]] - Herramienta principal de evaluación
 > - [[Propiedades de la Integral Definida\|Propiedades de la Integral Definida]] - Herramientas para simplificar cálculos
 > - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/III - Integrales Definidas/01 - Métodos de Integración Definida\|01 - Métodos de Integración Definida]] - Técnicas para evaluación
-
+>
 > [!NOTE] 📖 Para Profundizar
 > 
 > 

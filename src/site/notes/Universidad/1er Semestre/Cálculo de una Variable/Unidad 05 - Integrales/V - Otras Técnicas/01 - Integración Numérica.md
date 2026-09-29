@@ -17,7 +17,7 @@
 >3. **Funciones muy complejas**: Donde la antiderivada existe pero es extremadamente complicada
 >4. **Verificación de resultados**: Confirmar cálculos analíticos
 >5. **Aplicaciones en ingeniería**: Cuando se requiere rapidez sobre precisión exacta
-
+>
 >[!tip] 💡 **Ventajas de la Integración Numérica**
 >- **Universalidad**: Funciona con cualquier función continua
 >- **Flexibilidad**: Se adapta a datos tabulados
@@ -154,7 +154,7 @@ flowchart TD
 >$$S_n = \frac{h}{3}\left[f(x_0) + 4f(x_1) + 2f(x_2) + 4f(x_3) + \cdots + 2f(x_{n-2}) + 4f(x_{n-1}) + f(x_n)\right]$$
 >
 >**Patrón de coeficientes**: $1, 4, 2, 4, 2, \ldots, 2, 4, 1$
-
+>
 >[!info] 🧮 **Deducción del Método**
 >Se basa en aproximar $f(x)$ por polinomios de grado 2 en cada par de intervalos:
 >- Toma tres puntos consecutivos: $(x_i, f(x_i))$, $(x_{i+1}, f(x_{i+1}))$, $(x_{i+2}, f(x_{i+2}))$
@@ -240,7 +240,7 @@ flowchart TD
 >**P**recisión: estimar error según el método usado
 >**E**rror: comparar con valor exacto si está disponible
 >**Z**ona de validez: verificar condiciones del método
-
+>
 > [!summary] ### 📋 Desarrollo Detallado del Método TRAPEZ
 > 
 > 

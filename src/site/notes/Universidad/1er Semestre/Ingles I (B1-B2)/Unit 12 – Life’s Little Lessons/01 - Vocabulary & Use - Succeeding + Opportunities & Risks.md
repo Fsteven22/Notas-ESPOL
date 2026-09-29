@@ -121,7 +121,7 @@
 > damaged = broken but maybe repairable
 > destroyed = completely ruined, can't be fixed
 > ```
-
+>
 > [!success] 😬 Responsibility & Feelings (What You Do After)
 > 
 > **Expressing responsibility and reactions:**
@@ -196,7 +196,7 @@
 > • forget to turn off = leave on
 > • forget to close = leave open
 > ```
-
+>
 > [!tip] 🔄 Complete Accident Scenarios
 > 
 > **Scenario 1: Kitchen Accident**
@@ -360,7 +360,7 @@
 > small = pequeño (normal)
 > tiny = diminuto (extremo)
 > ```
-
+>
 > [!example] 😱😄 Emotional Extremes
 > 
 > **Extreme emotion adjectives:**
@@ -455,7 +455,7 @@
 > • Often for impressive sights/performances
 > • magnificent view/building/performance
 > ```
-
+>
 > [!success] ⚖️ Regular vs Extreme - Comparison Chart
 > 
 > **Understanding the scale:**
@@ -626,7 +626,7 @@
 > • The fire completely destroyed the warehouse
 > • The earthquake destroyed the entire city
 > ```
-
+>
 > [!example] 🎯 Common Collocations - Extremes
 > 
 > **Temperature extremes:**
@@ -753,7 +753,7 @@
 > ✅ I'll replace it
 > ✅ I'll be more careful next time
 > ```
-
+>
 > [!tip] 🗣️ Model Sentences - Extreme Reactions
 > 
 > **Expressing strong feelings:**
@@ -859,7 +859,7 @@
 > > 6. **pick up**
 > > 7. **left** ... **on**
 > > 8. **damaged**
-
+>
 > [!example] ✏️ Exercise 2: Extreme Adjectives
 > 
 > **Replace the underlined word with an extreme adjective:**
@@ -887,7 +887,7 @@
 > > 6. **freezing**
 > > 7. **enormous**
 > > 8. **miserable**
-
+>
 > [!tip] ✏️ Exercise 3: Complete the Dialogue
 > 
 > **Fill in the gaps with appropriate vocabulary:**

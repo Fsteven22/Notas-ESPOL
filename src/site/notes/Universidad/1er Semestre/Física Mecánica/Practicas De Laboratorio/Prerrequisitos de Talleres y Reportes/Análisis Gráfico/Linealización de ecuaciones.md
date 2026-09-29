@@ -6,7 +6,7 @@
 # Linealización de Ecuaciones
 
 > [!quote] "Convertir lo complejo en simple: la linealización transforma curvas intrincadas en rectas comprensibles, revelando la esencia matemática oculta." 📐
-
+>
 > [!info] La linealización de ecuaciones es una técnica fundamental en física experimental que permite convertir relaciones no lineales en formas lineales mediante transformaciones matemáticas apropiadas. Esta herramienta es esencial para determinar parámetros físicos, validar teorías y extraer información cuantitativa de datos experimentales de manera eficiente usando técnicas de regresión lineal.
 
 ## 🔧 Métodos de Linealización
@@ -53,7 +53,7 @@
 > |Identificación visual clara|Pérdida de intuición física|
 > |Cálculo directo de parámetros|Restricciones en el dominio|
 > |Propagación de errores conocida|Algunos datos pueden no ser transformables|
-
+>
 > [!success] 🎯 Clasificación de Métodos de Linealización
 > 
 > ```mermaid
@@ -89,7 +89,7 @@
 >     style E fill:#fce4ec
 >     style F fill:#f1f8e9
 > ```
-
+>
 > [!tip] **Selección del Método Apropiado** 🎯
 > 
 > ### Estrategia Sistemática:
@@ -132,7 +132,7 @@
 > |Hipérbola|y → ∞ cuando x → 0|1/y vs x o y vs 1/x|
 > |Curva de saturación|y → constante|Múltiples opciones según contexto|
 > |Oscilaciones|Periódico|Transformaciones trigonométricas|
-
+>
 > [!example] **Ejemplo: Selección de Método** 🔍
 > 
 > ### Datos Experimentales Misteriosos:
@@ -229,7 +229,7 @@
 > ln(a^n) = n·ln(a)
 > ln(e^x) = x
 > ```
-
+>
 > [!warning] **Precauciones con Transformación Logarítmica** ⚠️
 > 
 > ### Restricciones Importantes:
@@ -267,7 +267,7 @@
 > Necesidad de transformación inversa para interpretación
 > Propagación de incertidumbres más compleja
 > ```
-
+>
 > [!success] 🔬 Aplicaciones Físicas de Transformación Logarítmica
 > 
 > ```mermaid
@@ -303,7 +303,7 @@
 >     style B fill:#f3e5f5
 >     style C fill:#fff3e0
 > ```
-
+>
 > [!example] **Ejemplo Detallado: Decaimiento Radiactivo** ☢️
 > 
 > ### Situación Experimental:
@@ -386,7 +386,7 @@
 > ```
 > 
 > **Calidad del ajuste**: R² = 0.9994 (excelente)
-
+>
 > [!example] **Ejemplo: Ley de Potencia - Escalamiento** 🔬
 > 
 > ### Situación: Relación Área-Volumen
@@ -499,7 +499,7 @@
 > Transformación: y vs √x
 > Variable transformada: X = √x (x ≥ 0)
 > ```
-
+>
 > [!tip] **Aplicaciones Físicas de Transformaciones de Potencias** 🌍
 > 
 > ### Fenómenos Comunes:
@@ -553,7 +553,7 @@
 > Si m, r constantes: F = (m/r)v²
 > Linealización: F vs v²
 > ```
-
+>
 > [!example] **Ejemplo: Análisis del Péndulo Simple** ⏰
 > 
 > ### Situación Experimental:
@@ -630,7 +630,7 @@
 > - R² = 0.9996 (excelente linealidad)
 > - Intercepto ≈ 0 (consistente con teoría)
 > - Residuos sin patrón sistemático
-
+>
 > [!warning] **Cuidados en Transformaciones de Potencias** ⚠️
 > 
 > ### Problemas Comunes:
@@ -729,7 +729,7 @@
 > - Evaluar discrepancias dentro de incertidumbres
 > - Analizar posibles fuentes de error sistemático
 > ```
-
+>
 > [!success] 🔍 Proceso de Análisis Sistemático
 > 
 > ```mermaid
@@ -758,7 +758,7 @@
 >     style K fill:#e8f5e8
 >     style H fill:#ffebee
 > ```
-
+>
 > [!tip] **Interpretación de Parámetros Linealizados** 🎯
 > 
 > ### Transformación Inversa:
@@ -822,7 +822,7 @@
 > Y = y² → σ_y ≈ σ_Y/(2y)
 > Y = √y → σ_y ≈ 2√y · σ_Y
 > ```
-
+>
 > [!warning] **Problemas en el Análisis de Datos Linealizados** ⚠️
 > 
 > ### Errores de Interpretación:
@@ -877,7 +877,7 @@
 > Ejemplo: Tomar valor absoluto antes de ln puede ocultar signos
 > Solución: Preservar toda la información relevante
 > ```
-
+>
 > [!example] **Ejemplo Integral: Absorción de Luz (Ley de Beer-Lambert)** 🔬
 > 
 > ### Situación Experimental:
@@ -981,7 +981,7 @@
 > - **I₀ = 100.0 ± 1.5 W/m²**
 > - **μ = 0.402 ± 0.008 cm⁻¹**
 > - **Ecuación**: I = 100.0·e^(-0.402x)
-
+>
 > [!example] **Estudio Comparativo: Múltiples Transformaciones** 📊
 > 
 > ### Situación: Datos con Patrón Incierto
@@ -1100,7 +1100,7 @@
 > |**Simplicidad**|0.2|7|6|8|4|
 > |**Predictiva**|0.1|8|7|6|6|
 > |**Total**|-|8.0|7.1|6.7|5.9|
-
+>
 > [!tip] **Validación Cruzada y Robustez** ✅
 > 
 > ### Técnicas de Validación:
@@ -1147,7 +1147,7 @@
 > Error de validación cruzada ≈ Error de entrenamiento → Buena generalización
 > Error de validación >> Error de entrenamiento → Sobreajuste
 > ```
-
+>
 > [!warning] **Errores Graves en Linealización** 🚫
 > 
 > ### Errores Conceptuales:
@@ -1350,7 +1350,7 @@
 > - k ≈ 0.09 min⁻¹
 > - T₀ ≈ 80°C
 > - Tiempo de relajación τ = 1/k ≈ 11 min
-
+>
 > [!example] **Problema Avanzado: Comparación de Modelos** 🏆
 > 
 > ### Situación:
@@ -1469,7 +1469,7 @@
 > Método 2: Transformación fase-amplitud
 > Encontrar máximos y mínimos para determinar A, C
 > ```
-
+>
 > [!tip] **Estrategias para Modelos Complejos** 🎛️
 > 
 > ### Enfoque Jerárquico:
@@ -1520,7 +1520,7 @@
 > Aplicar linealización a cada segmento independientemente
 > Verificar continuidad en las fronteras
 > ```
-
+>
 > [!example] **Ejemplo: Crecimiento Logístico** 🌱
 > 
 > ### Situación: Crecimiento de Población con Saturación
@@ -1605,7 +1605,7 @@
 > t=25 días: P_predicho = 100/(1+8.85e^(-0.121×25)) = 91.7  
 >           P_observado = 92 → Error = 0.3% ✓
 > ```
-
+>
 > [!warning] **Limitaciones y Problemas Avanzados** ⚠️
 > 
 > ### Limitaciones Fundamentales:
@@ -1756,7 +1756,7 @@
 > 7. Validación y comparación teórica
 > 8. Limitaciones y recomendaciones
 > ```
-
+>
 > [!tip] **Consejos Prácticos Avanzados** 💡
 > 
 > ### Para Estudiantes:

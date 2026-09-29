@@ -6,7 +6,7 @@
 # Integrales Notables (Fórmulas Directas)
 
 > [!quote] _"Las integrales notables son los cimientos del cálculo integral. Como herramientas fundamentales, nos permiten resolver de manera directa una amplia gama de funciones sin recurrir a técnicas complejas de integración. Dominar estas fórmulas es esencial para construir el conocimiento integral más avanzado."_
-
+>
 > [!info]+ Concepto Fundamental 📚
 > 
 > ### ¿Qué son las Integrales Notables?
@@ -22,7 +22,7 @@
 > ### Principio de Linealidad
 > 
 > **$$\int [af(x) + bg(x)]dx = a\int f(x)dx + b\int g(x)dx$$**
-
+>
 > [!tip] Integrales Algebraicas Básicas 🔢
 > 
 > ### 1. Integral de una Constante
@@ -69,7 +69,7 @@
 > En ambos casos: d/dx[ln|x|] = 1/x
 > Por tanto: ∫(1/x)dx = ln|x| + C
 > ```
-
+>
 > [!example] Integrales Exponenciales 📈
 > 
 > ### 4. Integral de e^x
@@ -103,7 +103,7 @@
 > 
 > - $\int 2^x dx = \frac{2^x}{\ln 2} + C$
 > - $\int 10^x dx = \frac{10^x}{\ln 10} + C$
-
+>
 > [!success] Integrales Trigonométricas Básicas 📐
 > 
 > ### 6. Integral del Seno
@@ -149,7 +149,7 @@
 > d/dx[-cot x] = d/dx[-cos x/sen x] = csc^2 x
 > Por tanto: ∫csc^2 x dx = -cot x + C
 > ```
-
+>
 > [!abstract] Integrales Trigonométricas con Tangente y Cotangente 📊
 > 
 > ### 10. Integral del Producto Secante-Tangente
@@ -202,7 +202,7 @@
 > Sea u = sen x, entonces du = cos x dx
 > ∫cot x dx = ∫(1/u) du = ln|u| + C = ln|sen x| + C
 > ```
-
+>
 > [!note] Integrales Logarítmicas de Funciones Trigonométricas 📝
 > 
 > ### 14. Integral de la Secante
@@ -236,7 +236,7 @@
 > 
 > ∫csc x dx = ∫(1/u) du = ln|u| + C = ln|csc x - cot x| + C
 > ```
-
+>
 > [!tip] Integrales que Resultan en Funciones Trigonométricas Inversas 🔄
 > 
 > ### 16. Integral Arcoseno
@@ -281,7 +281,7 @@
 > d/dx[1/a · arccos(a/|x|)] = (1/a) · (-1)/√(1-(a/x)^2) · (-a/x^2)
 >                           = 1/(x√(x^2-a^2))
 > ```
-
+>
 > [!example] Integrales Hiperbólicas 🌊
 > 
 > ### 19. Integral del Seno Hiperbólico
@@ -309,7 +309,7 @@
 > 
 > Por tanto: ∫cosh x dx = senh x + C
 > ```
-
+>
 > [!warning] Casos Especiales y Observaciones Importantes ⚠️
 > 
 > ### Restricciones y Dominios
@@ -333,7 +333,7 @@
 >                   = F(x) + C₁ + G(x) + C₂
 >                   = F(x) + G(x) + C  (donde C = C₁ + C₂)
 > ```
-
+>
 > [!success] Ejemplos de Aplicación Práctica 📚
 > 
 > ### Ejemplo 1: Combinación Lineal
@@ -375,16 +375,16 @@
 >                  = (4/3)x^(3/2) + (3/2)x^(-2) + C
 >                  = (4/3)x√x + 3/(2x²) + C
 > ```
-
+>
 > [!brain]+ Técnica de Memorización: INTEGRAL 🧠 **I** - Identificar el tipo de función (algebraica, trigonométrica, exponencial) **N** - Nombrar la fórmula correspondiente **T** - Transformar si es necesario (factores constantes) **E** - Evaluar usando la fórmula directa **G** - Garantizar que se incluya la constante C **R** - Revisar el resultado derivando **A** - Aplicar restricciones del dominio si existen **L** - Limpiar la expresión final
-
+>
 > [!summary]+ Tabla de Referencias Rápidas 📋
 > 
 > ### Las 20 Integrales Notables Fundamentales
 ![bc93763d-46e7-4187-9f53-1bd5847dcd28 1.jpg](/img/user/Universidad/Figuras/bc93763d-46e7-4187-9f53-1bd5847dcd28%201.jpg)
 >
 > _Esta tabla contiene las fórmulas directas más importantes para la integración inmediata. Cada fórmula representa una antiderivada que debe memorizarse para resolver integrales de manera eficiente._
-
+>
 > [!info] Estrategias de Resolución 🎯
 > 
 > ### Pasos para Resolver Integrales Notables
@@ -408,7 +408,7 @@
 > 
 > - Derivar el resultado para comprobar
 > - Verificar restricciones del dominio
-
+>
 > [!success] Puntos Clave para Recordar 🎯
 > 
 > 1. **📝 Constante C**: Siempre incluir en integrales indefinidas
@@ -436,7 +436,7 @@
 > - [[Reglas de Derivación\|Reglas de Derivación]]
 > - [[Funciones Elementales\|Funciones Elementales]]
 > - [[Límites de Funciones\|Límites de Funciones]]
-
+>
 > [!tip] Continuación del Tema
 > 
 > - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/II - Integrales Indefinidas/Técnicas de Integración/Cambio de Variable en Integrales\|Cambio de Variable en Integrales]]

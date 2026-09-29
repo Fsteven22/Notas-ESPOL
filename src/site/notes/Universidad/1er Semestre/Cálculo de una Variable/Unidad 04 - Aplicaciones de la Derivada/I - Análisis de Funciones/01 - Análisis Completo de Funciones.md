@@ -84,7 +84,7 @@ graph TD
 > 1. Encontrar valores que hacen **f(x) → ±∞**
 > 2. Verificar que **x = a** no esté en el dominio
 > 3. Calcular límites laterales
-
+>
 > [!example] Ejemplo: f(x) = 1/(x-2)
 > 
 > - x = 2 no está en el dominio
@@ -101,7 +101,7 @@ graph TD
 > - Si grado(P) < grado(Q) → y = 0
 > - Si grado(P) = grado(Q) → y = coef. principal P / coef. principal Q
 > - Si grado(P) > grado(Q) → No hay asíntota horizontal
-
+>
 > [!example] Ejemplo: f(x) = (2x+1)/(x-3)
 > 
 > - Grados iguales: grado = 1
@@ -118,7 +118,7 @@ graph TD
 > - b = lim[x→±∞] [f(x) - mx]
 > 
 > **Asíntota oblicua: y = mx + b**
-
+>
 > [!example] Ejemplo: f(x) = (x² + 1)/x = x + 1/x
 > 
 > - m = lim[x→±∞] (x² + 1)/(x²) = 1
@@ -170,7 +170,7 @@ flowchart TD
 > [!tip] Procedimiento **Evaluar f(0)** si 0 está en el dominio
 > 
 > **Punto de intersección: (0, f(0))**
-
+>
 > [!warning] Casos Especiales
 > 
 > - Si x = 0 no está en el dominio → **No hay intersección con eje y**
@@ -181,7 +181,7 @@ flowchart TD
 > [!tip] Procedimiento **Resolver f(x) = 0**
 > 
 > **Puntos de intersección: (x₁, 0), (x₂, 0), ..., (xₙ, 0)**
-
+>
 > [!info] Interpretación
 > 
 > - También llamados **ceros** o **raíces** de la función
@@ -361,7 +361,7 @@ graph TD
 
 > [!tip] Mnemotecnia: "DACIA-GRAPH" **D**ominio y rango **A**síntotas  
 > **C**eros (intersecciones con eje x) **I**ntersección con eje y **A**nálisis de derivadas (crecimiento y concavidad) **G**ráfica final **R**evisión y puntos adicionales **A**justes finales **P**resentación limpia **H**abilidades de verificación
-
+>
 > [!tip] Método de las "5W + 1H"
 > 
 > - **What** (Qué): ¿Qué tipo de función es?
@@ -370,7 +370,7 @@ graph TD
 > - **Why** (Por qué): ¿Por qué tiene esas características?
 > - **Who** (Quién): ¿Qué elementos intervienen? (derivadas, límites)
 > - **How** (Cómo): ¿Cómo construir la gráfica?
-
+>
 > [!summary] ### Tabla de Referencia Rápida
 >
 > 
@@ -414,13 +414,13 @@ graph TD
 ## Referencias 🔗
 
 > [!quote] [[Límites y Continuidad\|Límites y Continuidad]] Fundamentos para entender asíntotas y comportamiento
-
+>
 > [!quote] [[Primera Derivada y Monotonía\|Primera Derivada y Monotonía]] Análisis de crecimiento y puntos críticos
-
+>
 > [!quote] [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 04 - Aplicaciones de la Derivada/I - Análisis de Funciones/03 - Concavidad y Puntos de Inflexión\|03 - Concavidad y Puntos de Inflexión]] Segunda derivada y curvatura de funciones
-
+>
 > [!quote] [[Optimización de Funciones\|Optimización de Funciones]] Aplicaciones prácticas del análisis completo
-
+>
 > [!quote] [[Funciones Racionales\|Funciones Racionales]] Casos específicos y técnicas especializadas
 
 

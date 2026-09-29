@@ -50,7 +50,7 @@ flowchart TD
 > - $\frac{dy}{dx} = y\left[\frac{f_1'}{f_1} + \frac{f_2'}{f_2} + \frac{f_3'}{f_3} + \cdots + \frac{f_n'}{f_n}\right]$
 > 
 > **Ventaja**: Un solo término elegante vs. n términos complicados
-
+>
 > [!example] 🔢 Ejemplo 1: Producto de Múltiples Funciones
 > **Encontrar**: $\frac{d}{dx}\left[x^2(x+1)^3\sqrt{x-2}\right]$ para $x > 2$
 > 
@@ -109,7 +109,7 @@ flowchart TD
 > - Sea $y = x^x$, entonces $\ln y = x \ln x$
 > - $\frac{1}{y}\frac{dy}{dx} = \ln x + 1$
 > - **Resultado**: $\frac{dy}{dx} = x^x(\ln x + 1)$
-
+>
 > [!example] 🔢 Ejemplo 4: Base y Exponente Variables
 > **Encontrar**: $\frac{d}{dx}[(x^2+1)^{\sin x}]$
 > 
@@ -204,7 +204,7 @@ flowchart TD
 > - **Sin logaritmos**: ¡Imposible con reglas básicas!
 > - **Con logaritmos**: $\ln y = \sin x \cdot \ln x$, derivar con regla del producto
 > - **Posibilidad**: De imposible a rutinario
-
+>
 > [!example] 🔢 Ejemplo 5: Múltiples Raíces
 > **Encontrar**: $\frac{d}{dx}\left[\frac{\sqrt[3]{x^2+1}\sqrt{x-1}}{\sqrt[4]{x+3}}\right]$ para $x > 1$
 > 
@@ -227,7 +227,7 @@ flowchart TD
 > - **$0^0$, $\infty^0$, $1^\infty$**: Formas indeterminadas
 > - **Bases negativas**: Análisis especial requerido
 > - **Cambios de signo**: Análisis por intervalos
-
+>
 > [!tip] 💡 Estrategias de Éxito
 > 
 > ### Reconocimiento de Patrones

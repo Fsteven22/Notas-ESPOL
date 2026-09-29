@@ -198,7 +198,7 @@ mindmap
 > - **I**nteractuar con la comunidad
 > - **C**comentar tu código siempre
 > - **A**plicar lo aprendido en proyectos reales
-
+>
 > [!warning]+ **Errores Comunes de Principiantes**
 > 
 > - ❌ No practicar regularmente
@@ -246,7 +246,7 @@ mindmap
 > - [[Manejo de Archivos\|Manejo de Archivos]] - Lectura y escritura
 > - [[APIs y Requests\|APIs y Requests]] - Comunicación con servicios web
 > - [[Bases de Datos con Python\|Bases de Datos con Python]] - SQLite, PostgreSQL
-
+>
 > [!success]+ **Proyecto Práctico Sugerido**
 > 
 > ### 🎯 Tu Primera Aplicación: Calculadora Personal
