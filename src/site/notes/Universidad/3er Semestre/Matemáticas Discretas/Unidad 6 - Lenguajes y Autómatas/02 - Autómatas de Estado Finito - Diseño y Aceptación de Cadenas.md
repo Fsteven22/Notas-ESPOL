@@ -20,13 +20,10 @@
 > ```mermaid
 > graph TD
 >     A["Autómata de estado finito"] --> B["Lee una cadena α"]
->     B --> C["Sigue la trayectoria<br/>de estados"]
->     C --> D{"¿Termina en estado<br/>de aceptación?"}
+>     B --> C["Sigue la trayectoria de estados"]
+>     C --> D{"¿Termina en estado de aceptación?"}
 >     D -->|"Sí"| E["α es ACEPTADA"]
 >     D -->|"No"| F["α es RECHAZADA"]
->     style A fill:#1e3a5f,color:#fff
->     style E fill:#e1ffe1
->     style F fill:#ffe1e1
 > ```
 
 ---
@@ -87,10 +84,6 @@
 >     s1 -->|"a"| s2(("((σ₂))"))
 >     s2 -->|"a"| s2
 >     s2 -->|"b"| s0
->     style start fill:#fff,stroke:#fff
->     style s0 fill:#1e3a5f,color:#fff
->     style s1 fill:#e1f5ff
->     style s2 fill:#f5e1ff,stroke-width:3px
 > ```
 >
 > **Lectura:** este diagrama acepta cadenas cuya trayectoria termina en $\sigma_1$ o $\sigma_2$ — es decir, cadenas cuyos últimos dos símbolos leídos no son ambos $b$ consecutivos, equivalentemente, cadenas que **no terminan en al menos dos símbolos $b$ consecutivos**.
@@ -187,9 +180,6 @@
 >     na -->|"b"| na
 >     na -->|"a"| a(("A"))
 >     a -->|"a, b"| a
->     style start fill:#fff,stroke:#fff
->     style na fill:#1e3a5f,color:#fff,stroke-width:3px
->     style a fill:#f5e1ff
 > ```
 
 > [!example] 🟢 Diseño 2 — Número impar de símbolos $a$
@@ -205,9 +195,6 @@
 >     e -->|"a"| o(("((O))"))
 >     o -->|"b"| o
 >     o -->|"a"| e
->     style start fill:#fff,stroke:#fff
->     style e fill:#1e3a5f,color:#fff
->     style o fill:#f5e1ff,stroke-width:3px
 > ```
 
 ---
@@ -231,17 +218,14 @@
 
 ```mermaid
 graph TD
-    A["¿Cuál es el lenguaje<br/>(conjunto de cadenas) a reconocer?"] --> B["Identificar la información<br/>mínima relevante del pasado"]
-    B --> C["Definir los estados S<br/>(uno por cada 'clase de historia')"]
+    A["¿Cuál es el lenguaje (conjunto de cadenas) a reconocer?"] --> B["Identificar la información mínima relevante del pasado"]
+    B --> C["Definir los estados S (uno por cada 'clase de historia')"]
     C --> D["Elegir estado inicial σ"]
     D --> E["Marcar estados aceptantes 𝒜"]
     E --> F["Definir f para cada (estado, símbolo)"]
-    F --> G["Probar con cadenas de ejemplo:<br/>¿aceptadas y rechazadas son correctas?"]
+    F --> G["Probar con cadenas de ejemplo: ¿aceptadas y rechazadas son correctas?"]
     G -->|"No"| B
     G -->|"Sí"| H["Autómata completo"]
-    style A fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style H fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
-    style G fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
 ```
 
 ---

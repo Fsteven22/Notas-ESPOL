@@ -46,7 +46,7 @@
 > | Op-Amp | LM358 (U1, U2) |
 > | Resistencias | R1=10 KΩ, R2=10 KΩ, R3=10 KΩ, R4=1 KΩ |
 > | Capacitor | C1=10 nF |
-
+>
 > [!note] 📦 Procedimiento 2 — Acondicionador de Señal
 >
 > | Material | Especificación |
@@ -69,7 +69,7 @@
 > |**No inversor**|$V_o/V_{in} = 1 + R_F/R_1$|En fase, ganancia ≥ 1|
 > |**Sumador inversor**|$V_o = -R_F(R_1^{-1}v_1 + R_2^{-1}v_2 + \ldots)$|Suma ponderada invertida|
 > |**Restador**|$V_o = (R_4/(R_3+R_4))((R_1+R_2)/R_1)v_2 - (R_2/R_1)v_1$|Si R4=R2 y R1=R3, resta directa|
-
+>
 > [!note] 🟢 Filtros pasivos RC
 >
 > **Filtro pasa alto** — permite frecuencias mayores a $f_L$:
@@ -94,7 +94,7 @@
 > 4. Variar frecuencia desde 10 KHz hasta 1 MHz.
 > 5. Conectar puntas del osciloscopio en nodos "Vsum" y "Vo".
 > 6. Completar la tabla.
-
+>
 > [!note] 📊 Tabla 2 — Respuesta del filtro
 >
 > |Frecuencia ruido|$V_{o(pp)}$|$V_{sum(pp)}$|Ganancia normalizada ($V_o/V_{sum}$)|Ganancia (dB)|$V_{sum}$ (DC)|$V_o$ (DC)|
@@ -103,7 +103,7 @@
 > |50 KHz| | | | | | |
 > |100 KHz| | | | | | |
 > |1 MHz| | | | | | |
-
+>
 > [!question]- ❓ Análisis
 >
 > - ¿Qué tipo de filtro se está utilizando y cuál es su frecuencia de corte?
@@ -120,7 +120,7 @@
 > 2. Fuente DC dual ±15 V.
 > 3. Ajustar potenciómetro R6 para obtener salida en rango -5 V a 5 V cuando el transmisor trabaje en 0 V a 10 V.
 > 4. Completar la tabla.
-
+>
 > [!note] 📊 Tabla 1 — Acondicionador
 >
 > |$V_{in}$|$V_o$|
@@ -133,7 +133,7 @@
 > |7 V| |
 > |8 V| |
 > |10 V|5 V|
-
+>
 > [!question]- ❓ Análisis
 >
 > - ¿A cuánto se debe ajustar R6 para cumplir las especificaciones?
@@ -162,17 +162,17 @@
 > - [ ] Identifico las entradas (+) y (-) del LM358 y verifico la conexión correcta en el montaje.
 > - [ ] Uso fuente dual ±15 V para alimentar el OPAMP y verifico los voltajes con el multimetro.
 > - [ ] Calculo $f_c = 1/(2\pi RC)$ con los valores R y C del filtro y la comparo con la frecuencia medida.
-
+>
 > [!note] Nivel Intermedio
 > - [ ] Observo en el osciloscopio cómo el filtro atenúa frecuencias altas de ruido en Vo vs Vsum.
 > - [ ] Calculo la ganancia en dB usando $20 \cdot \log(V_o/V_{sum})$ y la registro en la tabla.
 > - [ ] Ajusto el potenciómetro R6 del acondicionador para mapear 0–10 V a -5 V a +5 V.
-
+>
 > [!note] Nivel Avanzado
 > - [ ] Verifico la linealidad de la función de transferencia del acondicionador con al menos 5 puntos.
 > - [ ] Dibujo la gráfica Vo vs Vin e identifico pendiente y punto medio.
 > - [ ] Explico por qué el voltaje DC persiste en todo el barrido de frecuencia del filtro.
-
+>
 > [!quote] 🔗 Conexiones
 > - Teoría: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/02 - Aplicaciones de los OPAMs - Minimización de Ruido\|02 - Aplicaciones de los OPAMs - Minimización de Ruido]], [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/03 - Configuraciones Lineales Básicas del OPAM\|03 - Configuraciones Lineales Básicas del OPAM]] y [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/04 - Integrador, Derivador y Circuitos No Lineales\|04 - Integrador, Derivador y Circuitos No Lineales]]
 > - Previa: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Practico/Practicas del Laboratorio/Práctica 4 FESD/Práctica 4 — Fuentes Lineales\|Práctica 4 — Fuentes Lineales]]

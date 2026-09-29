@@ -13,17 +13,11 @@
 
 ```mermaid
 graph LR
-    U1[U1: Lógica y Conjuntos<br/>13 notas] --> U2[U2: Funciones y Relaciones<br/>5 notas]
-    U2 --> U3[U3: Números y Conteo<br/>6 notas]
-    U3 --> U4[U4: Recurrencia y Algoritmos<br/>5 notas]
-    U4 --> U5[U5: Grafos y Árboles<br/>5 notas]
-    U5 --> U6[U6: Lenguajes y Autómatas<br/>2 notas]
-    style U1 fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
-    style U2 fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
-    style U3 fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
-    style U4 fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
-    style U5 fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
-    style U6 fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
+    U1[U1: Lógica y Conjuntos 13 notas] --> U2[U2: Funciones y Relaciones 5 notas]
+    U2 --> U3[U3: Números y Conteo 6 notas]
+    U3 --> U4[U4: Recurrencia y Algoritmos 5 notas]
+    U4 --> U5[U5: Grafos y Árboles 5 notas]
+    U5 --> U6[U6: Lenguajes y Autómatas 2 notas]
 ```
 
 ---
@@ -113,8 +107,12 @@ graph LR
 ## 📂 Ejercicios y Guías
 
 > [!note] Guías de Ejercicios
-> - [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/Guía de Problemas 1 — Ejercicios Resueltos\|Guía 1]]
+> - [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/Guía de Problemas 1 - Ejercicios Resueltos\|Guía 1]]
 > - [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/Guía de Problemas 2 - Ejercicios Resueltos\|Guía 2]]
+> - [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/Guía de Problemas 3 - Ejercicios Resueltos\|Guía 3]]
+> - [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/Guía de Problemas 4 - Ejercicios Resueltos\|Guía 4]]
+> - [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/Guía de Problemas 5 - Ejercicios Resueltos\|Guía 5]]
+> - [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 6 - Lenguajes y Autómatas/Guía de Problemas 6 - Ejercicios Resueltos\|Guía 6]]
 
 ---
 

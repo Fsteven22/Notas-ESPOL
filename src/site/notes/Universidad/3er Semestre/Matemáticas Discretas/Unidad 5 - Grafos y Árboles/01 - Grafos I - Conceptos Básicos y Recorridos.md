@@ -25,16 +25,8 @@
 >     B --> D["Tipos: simples, completos, bipartitos, ponderados"]
 >     B --> E["Recorridos: Euler y Hamilton"]
 >     B --> F["Conectividad"]
->     style A fill:#1e3a5f,color:#fff
->     style B fill:#e1f5ff
->     style C fill:#f5e1ff
 > 
-    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style D fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style E fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
+> ```
 
 ---
 
@@ -138,10 +130,7 @@
 >     v2 --- v4
 >     v3 --- v4
 > 
-    style v1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style v2 fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style v3 fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style v4 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
+> ```
 > 
 > $K_4$ tiene $4$ vértices y $\binom{4}{2} = 6$ aristas — todos los pares están conectados.
 
@@ -164,11 +153,7 @@
 >     v2 --- v4
 >     v3 --- v5
 > 
-    style v1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style v2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style v3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style v4 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style v5 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
+> ```
 > 
 > **No bipartito** (contiene un ciclo de longitud impar):
 > 
@@ -180,11 +165,7 @@
 >     v4 --- v5
 >     v5 --- v1
 > 
-    style v1 fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style v2 fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style v3 fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style v4 fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style v5 fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px```
+> ```
 > 
 > $K_4$ tampoco es bipartito — inténtalo probar por qué.
 
@@ -270,10 +251,7 @@
 >     B --- D((D))
 >     C --- D
 > 
-    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style D fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
+> ```
 > 
 > Al modelar el problema como grafo (vértices = regiones de tierra, aristas = puentes), se reduce a encontrar un **ciclo de Euler**. Como algunos vértices tienen grado impar, **el problema no tiene solución** — este fue precisamente el resultado que Euler demostró.
 
@@ -298,11 +276,7 @@
 >     v3 --- v4
 >     v3 --- v5
 > 
-    style v1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style v2 fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style v3 fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style v4 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style v5 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
+> ```
 > 
 > El ciclo $(v_1, v_2, v_5, v_3, v_4, v_1)$ es un **ciclo hamiltoniano** — pasa por todos los vértices exactamente una vez y regresa al inicio. El grafo tiene además varios caminos hamiltonianos posibles.
 
@@ -338,7 +312,7 @@
 > 
 > > [!tip]- 💡 Dirac es un caso particular de Ore Si todos los vértices tienen grado $\geq n/2$ (Dirac), entonces cualquier par $u,v$ suma $\geq n$ (Ore). Por eso Dirac se puede deducir de Ore, pero no al revés — Ore es más general.
 
-!ChatGPT Image 18 ago 2026, 18_00_05.png
+![ChatGPT Image 18 ago 2026, 18_00_05.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2018_00_05.png)
 
 ---
 
@@ -361,24 +335,17 @@
 
 ```mermaid
 graph TD
-    A["¿Qué necesito recorrer?"] --> B{"¿Todas las ARISTAS<br/>una sola vez?"}
-    A --> C{"¿Todos los VÉRTICES<br/>una sola vez?"}
+    A["¿Qué necesito recorrer?"] --> B{"¿Todas las ARISTAS una sola vez?"}
+    A --> C{"¿Todos los VÉRTICES una sola vez?"}
     B --> D["Buscar ciclo/camino de EULER"]
-    D --> E{"¿Grafo conexo y<br/>todos los grados pares?"}
+    D --> E{"¿Grafo conexo y todos los grados pares?"}
     E -->|Sí| F["Existe ciclo de Euler ✅"]
-    E -->|No, pero exactamente<br/>2 vértices de grado impar| G["Existe camino de Euler<br/>(no ciclo)"]
+    E -->|No, pero exactamente 2 vértices de grado impar| G["Existe camino de Euler (no ciclo)"]
     E -->|No| H["No existe recorrido de Euler ❌"]
     C --> I["Buscar ciclo/camino de HAMILTON"]
     I --> J{"¿Cumple Dirac u Ore?"}
     J -->|Sí| K["Garantizado que existe ✅"]
-    J -->|No| L["No hay garantía —<br/>revisar caso por caso"]
-    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B fill:#E65100,color:#FFFFFF,stroke:#FFB74D,stroke-width:1px
-    style C fill:#E65100,color:#FFFFFF,stroke:#FFB74D,stroke-width:1px
-    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style E fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style I fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style J fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    J -->|No| L["No hay garantía — revisar caso por caso"]
 ```
 
 ---
@@ -397,17 +364,6 @@ graph TD
     B --> I["Recorridos"]
     I --> J["Euler: todas las aristas"]
     I --> K["Hamilton: todos los vértices"]
-    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style D fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style E fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style G fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style H fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style I fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style J fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style K fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
 
 ```
 

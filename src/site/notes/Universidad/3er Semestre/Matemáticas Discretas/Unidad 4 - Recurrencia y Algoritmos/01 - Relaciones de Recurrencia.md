@@ -20,33 +20,18 @@
 > 
 > ```mermaid
 > graph TD
->     A[Relación de Recurrencia] --> B[Concepto y<br/>Condiciones Iniciales]
->     A --> C[Modelado de<br/>Sucesiones Clásicas]
->     A --> D[Método Iterativo<br/>de Resolución]
+>     A[Relación de Recurrencia] --> B[Concepto y Condiciones Iniciales]
+>     A --> C[Modelado de Sucesiones Clásicas]
+>     A --> D[Método Iterativo de Resolución]
 >     A --> E[Torre de Hanoi]
 > 
->     C --> F[Fibonacci<br/>fₙ = fₙ₋₁ + fₙ₋₂]
->     C --> G[Interés Compuesto<br/>Aₙ = 1,12·Aₙ₋₁]
->     D --> H[Fórmula explícita<br/>por sustitución]
->     E --> I[cₙ = 2cₙ₋₁ + 1<br/>solución: 2ⁿ - 1]
+>     C --> F[Fibonacci fₙ = fₙ₋₁ + fₙ₋₂]
+>     C --> G[Interés Compuesto Aₙ = 1,12·Aₙ₋₁]
+>     D --> H[Fórmula explícita por sustitución]
+>     E --> I[cₙ = 2cₙ₋₁ + 1 solución: 2ⁿ - 1]
 > 
->     style B fill:#e1f5ff
->     style C fill:#e1ffe1
->     style D fill:#fff4e1
->     style E fill:#f5e1ff
->     style F fill:#e1ffe1
->     style G fill:#e1ffe1
->     style H fill:#fff4e1
->     style I fill:#f5e1ff
 > 
-    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style E fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style G fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style H fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style I fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
+> ```
 > 
 > |Tema|Idea central|
 > |---|---|
@@ -110,17 +95,13 @@
 > 
 > ```mermaid
 > graph TD
->     P1["1️⃣ Escribir aₙ en función<br/>de aₙ₋₁"] --> P2
->     P2["2️⃣ Sustituir aₙ₋₁ por su<br/>propia expresión"] --> P3
->     P3["3️⃣ Repetir la sustitución<br/>varias veces"] --> P4
->     P4{"¿Se reconoce<br/>el patrón?"}
+>     P1["1️⃣ Escribir aₙ en función de aₙ₋₁"] --> P2
+>     P2["2️⃣ Sustituir aₙ₋₁ por su propia expresión"] --> P3
+>     P3["3️⃣ Repetir la sustitución varias veces"] --> P4
+>     P4{"¿Se reconoce el patrón?"}
 >     P4 -->|No| P3
->     P4 -->|Sí| P5["4️⃣ Generalizar en<br/>función de n ✅"]
+>     P4 -->|Sí| P5["4️⃣ Generalizar en función de n ✅"]
 > 
->     style P1 fill:#e1f5ff
->     style P2 fill:#e1f5ff
->     style P3 fill:#fff4e1
->     style P5 fill:#e1ffe1
 > ```
 > 
 > ### 🧮 Ejemplo resuelto — interés compuesto
@@ -167,7 +148,7 @@
 > |4|15|
 > |10|1023|
 
-!ChatGPT Image 18 ago 2026, 20_16_45.png
+![ChatGPT Image 18 ago 2026, 20_16_45.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2020_16_45.png)
 
 ---
 
@@ -188,20 +169,6 @@ graph TD
     D --> D3["Generalizar formula explicita"]
     E --> E1["cn = 2cn-1 + 1"]
     E --> E2["Solucion optima: cn = 2n - 1"]
-    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style C1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style D1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style D2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style D3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style E fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style E1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style E2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
 
 ```
 

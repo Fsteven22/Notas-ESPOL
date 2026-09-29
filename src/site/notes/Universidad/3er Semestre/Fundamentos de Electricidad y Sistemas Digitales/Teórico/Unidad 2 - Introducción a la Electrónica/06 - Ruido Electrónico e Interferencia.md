@@ -38,15 +38,15 @@
 > Donde $k$ = constante de Boltzmann ($1.38\times10^{-23}$ J/K), $T$ = temperatura absoluta (K), $R$ = resistencia (Ω), $B$ = ancho de banda (Hz).
 > 
 > > 📌 A mayor resistencia, mayor temperatura o mayor ancho de banda de trabajo, mayor ruido térmico — por eso los circuitos de bajo ruido buscan resistencias pequeñas y anchos de banda acotados al mínimo necesario.
-
+>
 > [!note] 🎯 Ruido de disparo (Shot noise)
 > 
 > Aparece en uniones semiconductoras (diodos, transistores) por la naturaleza discreta de los portadores de carga al cruzar una barrera de potencial (como la unión P-N vista en [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/02 - El Diodo - Unión P-N\|02 - El Diodo - Unión P-N]]). Es proporcional a la raíz de la corriente CD que atraviesa el dispositivo.
-
+>
 > [!note] 🔀 Ruido flicker (ruido 1/f)
 > 
 > Predomina a bajas frecuencias y es característico de los semiconductores; su densidad de potencia decrece aproximadamente de forma inversamente proporcional a la frecuencia. Es relevante en instrumentación de precisión donde se trabaja con señales de CD o muy baja frecuencia.
-
+>
 > [!success] 📊 Comparación de ruido interno
 > 
 > |Tipo|Origen|Depende de|Relevante en|
@@ -97,7 +97,7 @@
 > |**Cable trenzado (twisted pair)**|Par de conductores entrelazados|Cancela el acoplamiento inductivo entre ambos conductores|
 > 
 > > 📌 Muchas de estas técnicas ya las conoces de unidades anteriores: el diodo Zener regulador de [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/05 - Reguladores en Fuentes Lineales\|05 - Reguladores en Fuentes Lineales]] y el filtro capacitivo de la fuente lineal cumplen, de hecho, una función de reducción de ruido además de su función original.
-
+>
 > [!note] 🔁 Adelanto: rechazo de modo común
 > 
 > Una de las técnicas más potentes contra el ruido —sobre todo el que se acopla igual a dos líneas de señal— es amplificar solo la **diferencia** entre dos entradas y rechazar lo que sea común a ambas (modo común). Esto se logra con un **amplificador diferencial** basado en amplificadores operacionales, tema que se profundiza en la Unidad 3 (Aplicaciones de los OPAMs — Minimización de ruido).
@@ -128,13 +128,13 @@
 > - [ ] Distingo ruido electrónico (interno) de interferencia electromagnética (externa).
 > - [ ] Nombro los tres tipos principales de ruido interno: térmico, shot y flicker.
 > - [ ] Identifico los cuatro modos de acoplamiento de interferencia: conducido, capacitivo, inductivo y radiado.
-
+>
 > [!note] 🎯 Nivel Intermedio
 > 
 > - [ ] Calculo el voltaje de ruido térmico dado $R$, $T$ y $B$.
 > - [ ] Relaciono cada técnica de mitigación (desacople, blindaje, twisted pair, optoacoplador, TVS) con el tipo de acoplamiento que combate.
 > - [ ] Explico por qué el filtro capacitivo y el regulador Zener, vistos antes, también actúan como mitigadores de ruido.
-
+>
 > [!note] 🎯 Nivel Avanzado
 > 
 > - [ ] Propongo una estrategia de mitigación completa para un circuito expuesto a varios tipos de interferencia simultáneamente.
@@ -176,7 +176,7 @@ mindmap
 > [2] R. L. Boylestad y L. Nashelsky, _Electrónica: Teoría de Circuitos y Dispositivos Electrónicos_, 10th ed. México: Pearson, 2009.
 > 
 > [3] A. R. Hambley, _Electrical Engineering: Principles and Applications_, 7th ed. Hoboken, NJ, USA: Pearson, 2018 — sección de compatibilidad electromagnética y técnicas de blindaje.
-
+>
 > [!quote] 🔗 Conexiones
 > 
 > - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/04 - Circuitos de Filtrado y Fuentes Lineales\|04 - Circuitos de Filtrado y Fuentes Lineales]] — el filtro capacitivo y los conceptos de LPF/HPF ya vistos son la base de varias técnicas de mitigación de ruido.

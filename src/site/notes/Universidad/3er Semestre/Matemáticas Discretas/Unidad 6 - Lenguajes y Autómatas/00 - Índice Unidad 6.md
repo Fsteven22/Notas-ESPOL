@@ -12,8 +12,9 @@
 
 | Nota                                                                                                                                                                                                                      | Actualizado | Salientes | Entrantes |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | --------- | --------- |
-| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 6 - Lenguajes y Autómatas/01 - Máquinas de Estado Finito - Definición y Estructura\|01 — Máquinas de Estado Finito — Definición y Estructura]]                 | 2026-08-28  | 5         | 3         |
-| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 6 - Lenguajes y Autómatas/02 - Autómatas de Estado Finito - Diseño y Aceptación de Cadenas\|02 — Autómatas de Estado Finito — Diseño y Aceptación de Cadenas]] | 2026-08-28  | 4         | 3         |
+| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 6 - Lenguajes y Autómatas/01 - Máquinas de Estado Finito - Definición y Estructura\|01 — Máquinas de Estado Finito — Definición y Estructura]]                 | 2026-09-08  | 5         | 5         |
+| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 6 - Lenguajes y Autómatas/02 - Autómatas de Estado Finito - Diseño y Aceptación de Cadenas\|02 — Autómatas de Estado Finito — Diseño y Aceptación de Cadenas]] | 2026-09-08  | 5         | 5         |
+| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 6 - Lenguajes y Autómatas/Guía de Problemas 6 - Ejercicios Resueltos\|Guía de Problemas 6 — Ejercicios Resueltos]]                                             | 2026-09-08  | 4         | 0         |
 
 { .block-language-dataview}
 
@@ -47,11 +48,23 @@
     - [ ] Demuestro formalmente por inducción propiedades sobre trayectorias y aceptación.
     - [ ] Determino el número **mínimo** de estados necesarios para un lenguaje dado, justificando por qué no se puede usar menos.
     - [ ] Conecto el concepto de autómata con su aplicación real en expresiones regulares y analizadores léxicos.
+# [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 6 - Lenguajes y Autómatas/Guía de Problemas 6 - Ejercicios Resueltos\|Guía de Problemas 6 - Ejercicios Resueltos]]
+
+    - [ ] Distingo $f$ (siguiente estado) de $g$ (salida) y leo una tabla $S \backslash I$ fila por fila.
+    - [ ] Trazo la trayectoria de una cadena corta y decido aceptación según el estado final.
+    - [ ] Sé cuándo se acepta la cadena vacía $\varepsilon$ (sólo si el inicial es aceptante).
+    - [ ] Diseño autómatas de 2–3 estados (paridad, terminar en un símbolo, contener un símbolo).
+    - [ ] Calculo la salida de una MEF para una cadena dada con tabla paso a paso.
+    - [ ] Trazo sumas en serie con acarreo, incluyendo el paso extra de drenado.
+    - [ ] Diseño autómatas de sufijo y subcadena ($ab$, $abb$) con el número mínimo de estados.
+    - [ ] Describo con precisión el lenguaje de un autómata dado, con contraejemplos testigo.
+    - [ ] Justifico cuántos estados mínimos necesita un sistema (acarreo, paridad, residuos).
 
 { .block-language-dataview}
 
 ## ⚠️ Notas huérfanas (sin enlaces entrantes)
 
+- [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 6 - Lenguajes y Autómatas/Guía de Problemas 6 - Ejercicios Resueltos\|Guía de Problemas 6 - Ejercicios Resueltos]]
 
 { .block-language-dataview}
 

@@ -39,7 +39,7 @@
 > |**sin**|pecado|
 > |**to weep**|llorar (de forma intensa/profunda)|
 > |**forgiveness**|perdón|
-
+>
 > [!tip]- 💡 El cambio de tono narrativo
 > 
 > Este capítulo funciona como bisagra entre la primera mitad cómica de la obra y su segunda mitad más solemne. La amabilidad genuina de Virginia contrasta fuertemente con el pragmatismo frío de su padre y las bromas de sus hermanos — es ella quien logra ver al fantasma no como una amenaza ni un juguete, sino como un alma verdaderamente sufriente.
@@ -77,7 +77,7 @@
 > [!quote] 📖 Referencias
 > 
 > [1] Wilde, Oscar. _The Canterville Ghost_. 1887. (Obra de dominio público).
-
+>
 > [!quote] 🔗 Conexiones
 > 
 > - [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 4 - Going Glocal/Recursos Adicionales/The Canterville Ghost/Capítulo IV - The Canterville Ghost\|Capítulo IV - The Canterville Ghost]]

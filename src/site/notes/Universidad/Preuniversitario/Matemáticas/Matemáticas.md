@@ -6,61 +6,47 @@
 
 > [!info] 👋 Sobre estas notas
 > 
-> Notas de **Matemáticas Preuniversitarias** de ESPOL, organizadas por tema. Cubre desde lógica proposicional hasta sistemas de ecuaciones avanzados.
+> Notas de **Matemáticas Preuniversitarias** de ESPOL, organizadas por unidad. Cubre desde lógica proposicional hasta sistemas de ecuaciones avanzados.
 > 
 > |Dato|Detalle|
 > |---|---|
 > |**Nivel**|Preuniversitario|
 > |**Institución**|ESPOL|
 > |**Autor**|Steven Sánchez|
+
 ## 🗺️ Contenido
 
-> [!tip] 📂 Temas disponibles
+> [!tip] 📂 Unidades disponibles
 > 
 > ```mermaid
 > graph LR
->     A[📐 Matemáticas] --> B[Lógica y<br>Conjuntos]
->     A --> C[Números y<br>Funciones]
->     A --> D[Geometría]
->     A --> E[Álgebra<br>Avanzada]
-> 
->     B --> B1[01 - Lógica proposicional]
->     B --> B2[02 - Conjuntos]
->     C --> C1[03 - Números Reales]
->     C --> C2[04 - Funciones de Variable Real]
->     C --> C3[05 - Trigonometría]
->     D --> D1[07 - Geometría Plana]
->     D --> D2[08 - Geometría del Espacio]
->     D --> D3[10 - Geometría Analítica]
->     D --> D4[11 - Coordenadas Polares]
->     E --> E1[06 - Matrices y Sistemas de Ecuaciones]
->     E --> E2[09 - Números Complejos]
->     E --> E3[12 - Sistemas de Ecuaciones e Inecuaciones Avanzados]
-> 
->     style B fill:#e1f5ff
->     style C fill:#e1ffe1
->     style D fill:#fff4e1
->     style E fill:#ffe1f5
+>     A[Matematicas Pre] --> B[U1 Logica y Conjuntos]
+>     A --> C[U2 Numeros Reales]
+>     A --> D[U3 Funciones y Trigonometria]
+>     A --> E[U4 Matrices y Sistemas]
+>     A --> F[U5 Geometria]
+>     A --> G[U6 Complejos y Polares]
 > ```
 
 ---
 
-## 📚 Temas
+## 📚 Unidades
 
-|#|Tema|Estado|
-|---|---|---|
-|**01**|[[01 - Lógica proposicional\|Lógica Proposicional]]|✅ Disponible|
-|**02**|[[02 - Conjuntos\|Conjuntos]]|✅ Disponible|
-|**03**|[[03 - Números Reales\|Números Reales]]|✅ Disponible|
-|**04**|[[04 - Funciones de Variable Real\|Funciones de Variable Real]]|✅ Disponible|
-|**05**|[[05 - Trigonometría\|Trigonometría]]|✅ Disponible|
-|**06**|[[06 - Matrices y Sistemas de Ecuaciones\|Matrices y Sistemas de Ecuaciones]]|✅ Disponible|
-|**07**|[[07 - Geometría Plana\|Geometría Plana]]|✅ Disponible|
-|**08**|[[08 - Geometría del Espacio\|Geometría del Espacio]]|✅ Disponible|
-|**09**|[[09 - Números Complejos\|Números Complejos]]|✅ Disponible|
-|**10**|[[10 - Geometría Analítica\|Geometría Analítica]]|✅ Disponible|
-|**11**|[[11 - Coordenadas Polares\|Coordenadas Polares]]|✅ Disponible|
-|**12**|[[12 - Sistemas de Ecuaciones e Inecuaciones Avanzados\|Sistemas de Ecuaciones e Inecuaciones Avanzados]]|✅ Disponible|
+> [!note] 📄 Mapa de unidades
+> 
+> | # | Unidad | Temas |
+> |---|---|---|
+> | 01 | **Unidad 1 - Lógica y Conjuntos** | I - Lógica proposicional, II - Conjuntos |
+> | 02 | **Unidad 2 - Números Reales** | I - Números Reales |
+> | 03 | **Unidad 3 - Funciones y Trigonometría** | I - Funciones de Variable Real, II - Trigonometría |
+> | 04 | **Unidad 4 - Matrices y Sistemas** | I - Matrices y Sistemas de Ecuaciones, II - Sistemas Avanzados |
+> | 05 | **Unidad 5 - Geometría** | I - Geometría Plana, II - Geometría del Espacio, III - Geometría Analítica |
+> | 06 | **Unidad 6 - Complejos y Polares** | I - Números Complejos, II - Coordenadas Polares |
+
+---
+
+> [!quote] 🔗 Conexiones
+> - [[Universidad/Preuniversitario/Matemáticas/Bienvenida Matemáticas\|Bienvenida Matemáticas]]
 
 ---
 

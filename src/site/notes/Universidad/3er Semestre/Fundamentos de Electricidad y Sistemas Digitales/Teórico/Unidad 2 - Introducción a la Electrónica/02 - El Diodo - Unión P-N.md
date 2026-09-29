@@ -48,7 +48,7 @@
 > - Solo circula una corriente mínima de saturación inversa $I_S$ (del orden de $\mu A$), causada por portadores minoritarios activados térmicamente.
 > 
 > > 📌 $I_S$ del silicio es mucho menor que $I_S$ del germanio — el Si es mejor para bloquear corriente inversa.
-
+>
 > [!warning] ⚡ Polarización directa
 > 
 > Se conecta el terminal positivo de la fuente al ánodo (P) y el negativo al cátodo (N).
@@ -91,7 +91,7 @@
 > - **Zona directa:** para $V_D > V_{umbral}$, la corriente crece exponencialmente.
 > - **Zona inversa:** corriente prácticamente nula ($\approx -I_S$).
 > - **Zona de ruptura:** si $V_{inv}$ supera $V_{ruptura}$, la corriente inversa crece bruscamente — destructivo en diodos normales, intencional en Zener.
-
+>
 > [!tip] 🔧 Modelos de aproximación del diodo
 > 
 > Para análisis de circuitos se usan modelos simplificados:
@@ -156,12 +156,12 @@
 > - [ ] Describo la union P-N, la region de vaciamiento y Vbarrera (0.7 V Si, 0.3 V Ge).
 > - [ ] Distingo polarizacion directa (vaciamiento se reduce, conduce) vs inversa (se ensancha, Is).
 > - [ ] Identifico anodo (P) y catodo (N) y el sentido convencional de corriente.
-
+>
 > [!note] Nivel Intermedio
 > - [ ] Interpreto la curva I-V en sus 3 zonas (directa exponencial, inversa ~-Is, ruptura) y ubico Zener.
 > - [ ] Aplico modelo ideal (0 V) y 2a aproximacion (0.7 V) para calcular IL en un circuito con diodo.
 > - [ ] Diferencio diodo rectificador, Zener, LED y varicap por aplicacion.
-
+>
 > [!note] Nivel Avanzado
 > - [ ] Resuelvo un circuito con 2-3 resistencias y diodo determinando si conduce antes de calcular.
 > - [ ] Justifico por que Is(Si) << Is(Ge) y que implica en bloqueo inverso.
@@ -191,13 +191,13 @@ mindmap
 > [1] A. Sedra y K. Smith, _Microelectronic Circuits_, 7th ed. New York, USA: Oxford University Press, 2015, pp. 139–220.
 > 
 > [2] R. L. Boylestad y L. Nashelsky, _Electrónica: Teoría de Circuitos y Dispositivos Electrónicos_, 10th ed. México: Pearson, 2009, pp. 1–80.
-
+>
 > [!quote] 🔗 Conexiones
 > 
 > - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/01 - Semiconductores y Bandas de Energía\|01 - Semiconductores y Bandas de Energía]] — fundamento de la unión P-N.
 > - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/03 - Transistor BJT\|03 - Transistor BJT]] — dos uniones P-N combinadas forman el transistor.
-
-
+>
+>
 > [!quote] 🔗 Conexiones
 > - Previo: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/01 - Semiconductores y Bandas de Energía\|01 - Semiconductores y Bandas de Energía]] — base fisica
 > - Siguiente: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/03 - Transistor BJT\|03 - Transistor BJT]] — dos uniones P-N

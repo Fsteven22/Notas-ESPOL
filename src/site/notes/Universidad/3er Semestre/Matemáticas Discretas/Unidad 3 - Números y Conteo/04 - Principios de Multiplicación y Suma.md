@@ -14,23 +14,12 @@
 > graph TD
 >     A[Métodos de Conteo] --> B[Principio de la Multiplicación]
 >     A --> C[Principio de la Suma]
->     B --> D["Tarea en pasos SUCESIVOS<br/>(se hacen todos)"]
->     C --> E["Tarea en casos EXCLUYENTES<br/>(se hace uno u otro)"]
+>     B --> D["Tarea en pasos SUCESIVOS (se hacen todos)"]
+>     C --> E["Tarea en casos EXCLUYENTES (se hace uno u otro)"]
 >     D --> F["n₁ · n₂ · … · nₜ"]
 >     E --> G["n₁ + n₂ + … + nₜ"]
->     style A fill:#1e3a5f,color:#fff
->     style B fill:#e1f5ff
->     style C fill:#f5e1ff
->     style F fill:#e1ffe1
->     style G fill:#ffe1e1
 > 
-    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style E fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style G fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
+> ```
 
 ---
 
@@ -172,13 +161,9 @@ En la práctica, la mayoría de los problemas requieren **ambos principios** jun
 ```mermaid
 graph LR
     P["Problema de conteo"] --> Q{¿Tipo de tarea?}
-    Q -->|"Pasos sucesivos (todos)"| M["Principio de la<br/>MULTIPLICACIÓN<br/>n₁ · n₂ · … · nₜ"]
-    Q -->|"Casos excluyentes (uno)"| S["Principio de la<br/>SUMA<br/>n₁ + n₂ + … + nₜ"]
-    Q -->|"Mezcla"| C["Suma de productos<br/>∑ ∏ nᵢⱼ"]
-    style P fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style M fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
-    style S fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
-    style C fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
+    Q -->|"Pasos sucesivos (todos)"| M["Principio de la MULTIPLICACIÓN n₁ · n₂ · … · nₜ"]
+    Q -->|"Casos excluyentes (uno)"| S["Principio de la SUMA n₁ + n₂ + … + nₜ"]
+    Q -->|"Mezcla"| C["Suma de productos ∑ ∏ nᵢⱼ"]
 ```
 
 ||Multiplicación|Suma|

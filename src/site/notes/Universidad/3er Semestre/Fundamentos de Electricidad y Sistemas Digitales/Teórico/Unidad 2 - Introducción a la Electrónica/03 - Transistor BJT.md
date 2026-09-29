@@ -130,7 +130,7 @@
 > - $V_{BEON}$: tensión base-emisor en conducción ($\approx 0.7\text{ V}$ para Si)
 > - $V_{CEsat}$: tensión colector-emisor en saturación ($\approx 0.2\text{ V}$)
 > - beta: ganancia de corriente
-
+>
 > [!tip] 📌 Regla práctica para forzar saturación
 > 
 > Para garantizar que el transistor entre en saturación, la corriente de base debe cumplir:
@@ -147,12 +147,12 @@
 > - [ ] Identifico terminales B, C, E y leo la flecha del simbolo para distinguir NPN vs PNP.
 > - [ ] Escribo IE = IC + IB y en activa IC = beta·IB con beta tipico 20-500.
 > - [ ] Distingo corte (IB=0, switch abierto), activa (amplificador) y saturacion (VCE 0.2 V, switch cerrado).
-
+>
 > [!note] Nivel Intermedio
 > - [ ] Aplico la metodologia de 5 pasos (asumir activa -> KVL base -> IC -> KVL colector -> verificar VCE).
 > - [ ] Calculo ICsat = (VCC-VCEsat)/(RC+RE) y verifico si ICactiva > ICsat para declarar saturacion.
 > - [ ] Aplico la regla de saturacion forzada con beta forzada 5-10 para garantizar margen.
-
+>
 > [!note] Nivel Avanzado
 > - [ ] Diseno la RB o VIN minima para forzar saturacion dado VCC, RC, RE y beta.
 > - [ ] Justifico por que la union EB debe estar en directa y BC en inversa para amplificar.
@@ -184,13 +184,13 @@ mindmap
 > [!quote] 📖 Fuentes consultadas
 > 
 > [1] A. Sedra y K. Smith, _Microelectronic Circuits_, 7th ed. New York, USA: Oxford University Press, 2015, pp. 139–220.
-
+>
 > [!quote] 🔗 Conexiones
 > 
 > - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/02 - El Diodo - Unión P-N\|02 - El Diodo - Unión P-N]] — el transistor BJT combina dos uniones P-N.
 > - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/01 - Semiconductores y Bandas de Energía\|01 - Semiconductores y Bandas de Energía]] — base física de las regiones N y P.
-
-
+>
+>
 > [!quote] 🔗 Conexiones
 > - Previo: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/02 - El Diodo - Unión P-N\|02 - El Diodo - Unión P-N]] y [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/01 - Semiconductores y Bandas de Energía\|01 - Semiconductores y Bandas de Energía]]
 > - Siguiente: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/04 - Circuitos de Filtrado y Fuentes Lineales\|04 - Circuitos de Filtrado y Fuentes Lineales]] — donde el BJT conmuta

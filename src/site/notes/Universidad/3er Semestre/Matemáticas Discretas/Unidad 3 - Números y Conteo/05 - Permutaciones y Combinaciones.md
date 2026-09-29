@@ -12,18 +12,13 @@
 > 
 > ```mermaid
 > graph TD
->     A["Selección de r elementos<br/>de n disponibles"] --> B{¿Importa el orden?}
+>     A["Selección de r elementos de n disponibles"] --> B{¿Importa el orden?}
 >     B -->|Sí| C[PERMUTACIÓN]
 >     B -->|No| D[COMBINACIÓN]
 >     C --> E["P(n,r) = n! / (n-r)!"]
 >     D --> F["C(n,r) = n! / ((n-r)! r!)"]
->     C --> G["Con repetición:<br/>n! / (k₁! k₂! … kᵣ!)"]
->     D --> H["Con repetición:<br/>C(n+r-1, r)"]
->     style A fill:#1e3a5f,color:#fff
->     style C fill:#e1f5ff
->     style D fill:#f5e1ff
->     style G fill:#e1ffe1
->     style H fill:#ffe1e1
+>     C --> G["Con repetición: n! / (k₁! k₂! … kᵣ!)"]
+>     D --> H["Con repetición: C(n+r-1, r)"]
 > ```
 
 ---
