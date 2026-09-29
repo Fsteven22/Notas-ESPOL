@@ -133,7 +133,7 @@
 > 3. Electric cars are not __________________ — they're becoming more common every year. *(on the way out / trending)*
 > 4. Sustainable fashion is __________________ — it's not going anywhere. *(here to stay / catching on)*
 > 5. The practice of writing letters by hand is slowly __________________ . *(dying out / being trendy)*
-
+>
 > [!success] ✅ Respuestas — Ejercicio 1
 >
 > 1. come back into fashion
@@ -153,7 +153,7 @@
 > 8. Minimalist design has been __________________ for a few years now.
 > 9. Check what's __________________ on Twitter before you post anything.
 > 10. She always wears the most __________________ outfits to class.
-
+>
 > [!success] ✅ Respuestas — Ejercicio 2
 >
 > 6. trendy *(moda general, no solo hoy)*
@@ -176,7 +176,7 @@
 > 4. __________________ the pasta to remove the water.
 > 5. Add the pasta to the pan and __________________ everything together.
 > 6. Before serving, __________________ some parmesan cheese on top.
-
+>
 > [!success] ✅ Respuestas — Ejercicio 3
 >
 > 1. Boil
@@ -197,7 +197,7 @@
 > 13. Ese estilo de ropa pasó de moda hace años.
 > 14. El tema del cambio climático es tendencia en Twitter hoy.
 > 15. Marinamos la carne toda la noche antes de asarla a la parrilla.
-
+>
 > [!success] ✅ Respuestas — Ejercicio 4
 >
 > 11. Social media is here to stay.

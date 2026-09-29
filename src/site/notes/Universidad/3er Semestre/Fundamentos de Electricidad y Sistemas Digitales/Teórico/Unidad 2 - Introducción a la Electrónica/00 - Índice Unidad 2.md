@@ -11,12 +11,12 @@
 
 | Nota                                                                                                                                                                                                                           | Actualizado | Salientes | Entrantes |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- | --------- | --------- |
-| [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/01 - Semiconductores y Bandas de Energía\|01 — Semiconductores y Bandas de Energía]]           | 2026-08-26  | 7         | 7         |
-| [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/02 - El Diodo - Unión P-N\|02 — El Diodo — Unión P-N]]                                         | 2026-08-26  | 9         | 9         |
-| [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/03 - Transistor BJT\|03 — Transistor BJT]]                                                     | 2026-08-26  | 7         | 6         |
-| [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/04 - Circuitos de Filtrado y Fuentes Lineales\|04 — Circuitos de Filtrado y Fuentes Lineales]] | 2026-07-22  | 7         | 12        |
-| [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/05 - Reguladores en Fuentes Lineales\|05 — Reguladores en Fuentes Lineales]]                   | 2026-08-26  | 7         | 6         |
-| [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/06 - Ruido Electrónico e Interferencia\|06 — Ruido Electrónico e Interferencia]]               | 2026-08-26  | 8         | 5         |
+| [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/01 - Semiconductores y Bandas de Energía\|01 — Semiconductores y Bandas de Energía]]           | 2026-09-05  | 7         | 7         |
+| [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/02 - El Diodo - Unión P-N\|02 — El Diodo — Unión P-N]]                                         | 2026-09-05  | 9         | 9         |
+| [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/03 - Transistor BJT\|03 — Transistor BJT]]                                                     | 2026-09-05  | 7         | 6         |
+| [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/04 - Circuitos de Filtrado y Fuentes Lineales\|04 — Circuitos de Filtrado y Fuentes Lineales]] | 2026-09-05  | 7         | 12        |
+| [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/05 - Reguladores en Fuentes Lineales\|05 — Reguladores en Fuentes Lineales]]                   | 2026-09-05  | 7         | 6         |
+| [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/06 - Ruido Electrónico e Interferencia\|06 — Ruido Electrónico e Interferencia]]               | 2026-09-05  | 8         | 5         |
 
 { .block-language-dataview}
 

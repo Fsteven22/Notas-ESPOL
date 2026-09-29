@@ -12,9 +12,9 @@
 ## 🔍 Contexto y Definición
 
 > [!info] 💡 ¿Qué es un Giroscopio? Un **giroscopio** es un sistema rotatorio que consiste en un rotor (disco o rueda) que gira rápidamente alrededor de un eje. Debido a su alto momento angular, el giroscopio resiste cambios en la orientación de su eje de rotación, exhibiendo propiedades de estabilidad y el fenómeno de precesión.
-
+>
 > [!note] 🌀 Definición de Precesión La **precesión** es el movimiento lento del eje de rotación de un objeto cuando un torque externo actúa sobre él. En lugar de caer en la dirección del torque, el eje gira describiendo un cono alrededor de la dirección del torque aplicado.
-
+>
 > [!warning] ⚠️ Comportamiento Contraintuitivo La precesión desafía la intuición: cuando aplicas una fuerza lateral a un giroscopio girando, **NO** se mueve en la dirección de la fuerza, sino **perpendicular** a ella. Este comportamiento es fundamental en navegación, estabilización y muchas aplicaciones tecnológicas.
 
 ---
@@ -52,7 +52,7 @@
 > ### Relación Clave
 > 
 > **A mayor velocidad de rotación del giroscopio ($\omega$), menor velocidad de precesión ($\Omega$)**
-
+>
 > [!tip] 🎯 Interpretación Física El torque no cambia la **magnitud** del momento angular, sino su **dirección**. Este cambio direccional continuo es lo que produce el movimiento de precesión.
 
 ---
@@ -74,7 +74,7 @@
 >    style D fill:#fff3e0
 >    style G fill:#c8e6c9
 > ```
-
+>
 > [!note] 📐 Diagrama Vectorial En un giroscopio típico:
 > 
 > - **$\vec{L}$** apunta a lo largo del eje de rotación (regla de la mano derecha)
@@ -101,7 +101,7 @@
 > - Si $\omega$ es grande → $\Omega$ es pequeña (precesión lenta)
 > - Si $\omega$ es pequeña → $\Omega$ es grande (precesión rápida)
 > - Si $\omega = 0$ → El giroscopio simplemente cae
-
+>
 > [!example] 🚲 Ejemplo 2: Estabilidad de la Bicicleta
 > 
 > **📋 Situación:** Las ruedas de una bicicleta actúan como giroscopios que proporcionan estabilidad.
@@ -117,7 +117,7 @@
 > 
 > - Velocidad mayor → Mayor estabilidad giroscópica
 > - Velocidad menor → Más difícil mantener equilibrio
-
+>
 > [!example] 🌍 Ejemplo 3: Precesión de la Tierra
 > 
 > **📋 Situación:** La Tierra precesa como un giroscopio gigante debido a fuerzas gravitacionales del Sol y la Luna.
@@ -133,7 +133,7 @@
 > 
 > - Momento angular terrestre: $L \approx 7 \times 10^{33} \text{ kg·m}^2/\text{s}$
 > - Ángulo de precesión: ~23.5° (inclinación del eje terrestre)
-
+>
 > [!example] 🚁 Ejemplo 4: Helicópteros y Efecto Giroscópico
 > 
 > **📋 Situación:** El rotor principal de un helicóptero crea efectos giroscópicos que afectan el control.
@@ -167,7 +167,7 @@
 > - **Aplicación:** Cámaras, plataformas, vehículos
 > - **Principio:** Resistencia al cambio de orientación
 > - **Resultado:** Eliminación de vibraciones y movimientos no deseados
-
+>
 > [!note] 📱 Tecnología Moderna
 > 
 > ### MEMS (Microelectromechanical Systems)
@@ -199,7 +199,7 @@
 > **📊 Resultado:** $$\Omega = \frac{\tau}{L} = \frac{2.94}{1.0} = 2.94 \text{ rad/s}$$
 > 
 > **Interpretación:** El eje precesa a 2.94 rad/s ≈ 28 rpm, que es mucho más lento que la rotación del disco (100 rad/s ≈ 955 rpm).
-
+>
 > [!note] 📊 Dependencia de Variables
 > 
 > |Variable|Efecto en $\Omega$|Explicación|
@@ -242,7 +242,7 @@
 >      Smartphones
 >      Drones
 > ```
-
+>
 > [!tip] 🎯 Estrategias de Comprensión
 > 
 > 1. **Visualiza** los vectores: $\vec{L}$, $\vec{\tau}$, y $\vec{\Omega}$ son perpendiculares entre sí
@@ -270,7 +270,7 @@
 > - **Procedimiento:** Lanzar peonza y observar precesión al desacelerarse
 > - **Observación:** Precesión se acelera conforme la peonza se desacelera
 > - **Explicación:** $\Omega = \tau/(I\omega)$ - menor $\omega$ implica mayor $\Omega$
-
+>
 > [!warning] ⚠️ Conceptos Erróneos Comunes
 > 
 > - **ERROR:** "El giroscopio desafía la gravedad"
@@ -304,7 +304,7 @@
 >     
 > - > [[Mecánica Celeste\|Mecánica Celeste]] - Precesión de planetas y satélites
 >     
-
+>
 > [!quote] 📖 Material de Referencia
 > 
 > - > Tutorial: Giroscopios y precesión.pdf

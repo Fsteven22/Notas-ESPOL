@@ -240,7 +240,7 @@ graph TB
 > **Conclusión:** ✅ **El rectángulo de área máxima con perímetro 20m es un cuadrado de 5m × 5m**
 > 
 > (Nota: λ = 5/2 = 2.5, aunque su valor específico no siempre es importante)
-
+>
 > [!example] 🎨 Ejemplo Detallado: Optimización Geométrica
 > 
 > **Problema:**
@@ -333,7 +333,7 @@ graph TB
 > $$\begin{cases} f_x = \lambda g_x \\ f_y = \lambda g_y \\ f_z = \lambda g_z \\ g(x,y,z) = c \end{cases}$$
 > 
 > Son **4 ecuaciones con 4 incógnitas** (x, y, z, λ)
-
+>
 > [!example] 📦 Ejemplo: Caja con Restricción de Área
 > 
 > **Problema:**
@@ -415,7 +415,7 @@ graph TB
 > $$\begin{cases} f_x = \lambda_1 g_{1x} + \lambda_2 g_{2x} \ f_y = \lambda_1 g_{1y} + \lambda_2 g_{2y} \ f_z = \lambda_1 g_{1z} + \lambda_2 g_{2z} \ g_1(x,y,z) = c_1 \ g_2(x,y,z) = c_2 \end{cases}$$
 > 
 > Son **5 ecuaciones con 5 incógnitas** (x, y, z, λ₁, λ₂)
-
+>
 > [!example] 🌟 Ejemplo: Dos Restricciones
 > 
 > **Problema:**
@@ -618,7 +618,7 @@ graph TB
 > Si minimizas material con volumen fijo c:
 > 
 > - λ indica cuánto material adicional necesitas por unidad adicional de volumen
-
+>
 > [!example] 📊 Ejemplo de Interpretación
 > 
 > En el problema de producción anterior:

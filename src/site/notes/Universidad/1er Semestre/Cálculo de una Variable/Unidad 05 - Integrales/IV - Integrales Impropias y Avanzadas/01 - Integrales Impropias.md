@@ -14,7 +14,7 @@
 > - **Combinación de ambas** situaciones
 > 
 > Se evalúan como **límites de integrales definidas** para determinar si **convergen** o **divergen**.
-
+>
 > [!tip] 🎯 ¿Por qué son importantes?
 > - Permiten calcular **áreas infinitas** bajo curvas
 > - Fundamentales en **análisis de series** y **transformadas**
@@ -84,7 +84,7 @@ mindmap
 > **Caso 3**: Ambos límites infinitos
 > $$\int_{-\infty}^{\infty} f(x) dx = \int_{-\infty}^c f(x) dx + \int_c^{\infty} f(x) dx$$
 > donde $c$ es cualquier número real, y **ambas integrales deben converger**.
-
+>
 > [!example] 🧪 **Ejemplo Tipo I - Convergente**
 > **Evaluar**: $\int_1^{\infty} \frac{1}{x^2} dx$
 > 
@@ -95,7 +95,7 @@ mindmap
 > $$= 0 + 1 = 1$$
 > 
 > **Conclusión**: La integral **converge** a 1.
-
+>
 > [!example] 🧪 **Ejemplo Tipo I - Divergente**
 > **Evaluar**: $\int_1^{\infty} \frac{1}{x} dx$
 > 
@@ -123,7 +123,7 @@ mindmap
 > Si $f(x)$ tiene discontinuidad infinita en $x = c$ donde $a < c < b$:
 > $$\int_a^b f(x) dx = \int_a^c f(x) dx + \int_c^b f(x) dx$$
 > donde **ambas integrales deben converger**.
-
+>
 > [!example] 🧪 **Ejemplo Tipo II - Convergente**
 > **Evaluar**: $\int_0^1 \frac{1}{\sqrt{x}} dx$
 > 
@@ -136,7 +136,7 @@ mindmap
 > $$= 2 - 0 = 2$$
 > 
 > **Conclusión**: La integral **converge** a 2.
-
+>
 > [!example] 🧪 **Ejemplo Tipo II - Divergente**
 > **Evaluar**: $\int_0^1 \frac{1}{x} dx$
 > 
@@ -175,7 +175,7 @@ mindmap
 > **I** - **Integra** la función (encuentra la antiderivada)
 > **T** - **Toma** el límite hacia el valor problemático
 > **E** - **Evalúa** si converge o diverge
-
+>
 > [!tip] 💡 **Reglas Nemotécnicas Rápidas**
 > 
 > **Para $\int_1^{\infty} \frac{1}{x^p} dx$**:
@@ -200,7 +200,7 @@ mindmap
 > **Para integrales del Tipo I**:
 > - Si $\int_a^{\infty} g(x) dx$ **converge**, entonces $\int_a^{\infty} f(x) dx$ **converge**
 > - Si $\int_a^{\infty} f(x) dx$ **diverge**, entonces $\int_a^{\infty} g(x) dx$ **diverge**
-
+>
 > [!example] 🧪 **Ejemplo de Comparación Directa**
 > **Evaluar**: $\int_1^{\infty} \frac{1}{x^2 + 1} dx$
 > 
@@ -215,7 +215,7 @@ mindmap
 > Sean $f(x)$ y $g(x)$ funciones positivas. Si:
 > $$\lim_{x \to \infty} \frac{f(x)}{g(x)} = L$$
 > donde $0 < L < \infty$, entonces $\int_a^{\infty} f(x) dx$ y $\int_a^{\infty} g(x) dx$ tienen el **mismo comportamiento de convergencia**.
-
+>
 > [!example] 🧪 **Ejemplo de Comparación Límite**
 > **Evaluar**: $\int_1^{\infty} \frac{2x + 1}{x^3 - x + 1} dx$
 > 
@@ -269,7 +269,7 @@ mindmap
 > 
 > Como $\lim_{t \to \infty} te^{-at} = 0$ y $\lim_{t \to \infty} e^{-at} = 0$ (para $a > 0$):
 > $$= 0 - 0 + \frac{1}{a^2} = \frac{1}{a^2}$$
-
+>
 > [!example] 🎯 **Ejemplo 2: Integral Tipo II**
 > **Evaluar**: $\int_0^4 \frac{1}{\sqrt{4-x}} dx$
 > 
@@ -283,7 +283,7 @@ mindmap
 > $$= \lim_{t \to 4^-} [2u^{1/2}]_{4-t}^{4}$$
 > $$= \lim_{t \to 4^-} (2\sqrt{4} - 2\sqrt{4-t})$$
 > $$= 4 - 0 = 4$$
-
+>
 > [!example] 🎯 **Ejemplo 3: Integral Mixta**
 > **Evaluar**: $\int_0^{\infty} \frac{1}{\sqrt{x}(1+x)} dx$
 > 
@@ -313,7 +313,7 @@ mindmap
 >   $$\int_0^{\infty} \lambda e^{-\lambda x} dx = 1$$
 > - **Distribución Normal**: $f(x) = \frac{1}{\sigma\sqrt{2\pi}} e^{-\frac{(x-\mu)^2}{2\sigma^2}}$
 >   $$\int_{-\infty}^{\infty} f(x) dx = 1$$
-
+>
 > [!note] 🔬 **Aplicaciones en Física**
 > **Transformadas de Laplace**:
 > $$\mathcal{L}\{f(t)\} = \int_0^{\infty} f(t) e^{-st} dt$$
@@ -321,7 +321,7 @@ mindmap
 > **Energía de una partícula**:
 > $$E = \int_0^{\infty} \frac{1}{2}mv^2 \rho(v) dv$$
 > donde $\rho(v)$ es la distribución de velocidades.
-
+>
 > [!note] 🎵 **Aplicaciones en Análisis de Fourier**
 > **Transformada de Fourier**:
 > $$\hat{f}(\omega) = \int_{-\infty}^{\infty} f(t) e^{-i\omega t} dt$$
@@ -353,7 +353,7 @@ mindmap
 > 
 > **Paso 6**: **Calcular** los límites
 > - Determinar si existen (convergencia) o no (divergencia)
-
+>
 > [!warning] ⚠️ **Errores Comunes y Cómo Evitarlos**
 > 
 > **Error 1**: No identificar todas las impropiedades

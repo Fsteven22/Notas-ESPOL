@@ -55,7 +55,7 @@
 > |**skeptical**|escéptico|
 > |**murder**|asesinato|
 > |**to remove**|quitar / eliminar|
-
+>
 > [!tip]- 💡 Nota sobre el humor de Oscar Wilde
 > 
 > Todo el capítulo se construye sobre una **ironía central**: los americanos, orgullosos de su modernidad, tratan un problema sobrenatural con productos comerciales (el quitamanchas), como si un fantasma centenario pudiera resolverse con un producto de limpieza. Esta mezcla de lo gótico con lo cotidiano/comercial es la base del humor satírico de Wilde en toda la obra.
@@ -87,7 +87,7 @@
 > [!quote] 📖 Referencias
 > 
 > [1] Wilde, Oscar. _The Canterville Ghost_. 1887. (Obra de dominio público).
-
+>
 > [!quote] 🔗 Conexiones
 > 
 > - [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 3 - What's It Worth/Recursos Adicionales/The Canterville Ghost/Capítulo II - The Canterville Ghost\|Capítulo II - The Canterville Ghost]]

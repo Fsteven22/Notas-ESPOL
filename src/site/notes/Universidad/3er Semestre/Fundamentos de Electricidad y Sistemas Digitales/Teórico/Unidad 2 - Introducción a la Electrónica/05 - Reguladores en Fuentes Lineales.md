@@ -75,7 +75,7 @@
 > - $C_{in}$ (típico 0.1 µF) a la entrada.
 > - $C_O$ (típico 1.0 µF) a la salida, para estabilidad.
 > - $R_1$ suele fijarse en un valor pequeño (p. ej. 240 Ω) y $R_2$ es la resistencia (o potenciómetro) que define el voltaje deseado.
-
+>
 > [!success] 📊 Fijos vs. ajustables
 > 
 > |Característica|78xx/79xx (fijos)|LM317/LM337/LM137 (ajustables)|
@@ -111,13 +111,13 @@
 > - [ ] Explico qué función cumple el regulador dentro de la fuente lineal.
 > - [ ] Distingo un regulador fijo (78xx/79xx) de uno ajustable (LM317/LM337/LM137).
 > - [ ] Identifico los terminales típicos de un regulador de 3 pines (entrada, tierra/ajuste, salida).
-
+>
 > [!note] 🎯 Nivel Intermedio
 > 
 > - [ ] Calculo $R_2$ dado $R_1$ y el $V_O$ deseado en un LM317 (o viceversa).
 > - [ ] Explico para qué sirven los capacitores de entrada y salida en estos reguladores.
 > - [ ] Sé cuándo usar 79xx/LM337/LM137 en vez de 78xx/LM317 (tensiones negativas).
-
+>
 > [!note] 🎯 Nivel Avanzado
 > 
 > - [ ] Comparo el criterio de selección entre un regulador fijo y uno ajustable para un diseño dado.
@@ -152,13 +152,13 @@ mindmap
 > [2] R. L. Boylestad y L. Nashelsky, _Electrónica: Teoría de Circuitos y Dispositivos Electrónicos_, 10th ed. México: Pearson, 2009, pp. 81–130.
 > 
 > [3] A. R. Hambley, _Electrical Engineering: Principles and Applications_, 7th ed. Hoboken, NJ, USA: Pearson, 2018, pp. 510–540.
-
+>
 > [!quote] 🔗 Conexiones
 > 
 > - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/04 - Circuitos de Filtrado y Fuentes Lineales\|04 - Circuitos de Filtrado y Fuentes Lineales]] — etapas previas de la fuente lineal (transformador, rectificador, filtro capacitivo) que entregan el voltaje que este regulador estabiliza.
 > - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/02 - El Diodo - Unión P-N\|02 - El Diodo - Unión P-N]] — el diodo Zener, mencionado como alternativa sencilla de regulación, es una aplicación de la unión PN en polarización inversa.
-
-
+>
+>
 > [!quote] 🔗 Conexiones
 > - Previo: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/04 - Circuitos de Filtrado y Fuentes Lineales\|04 - Circuitos de Filtrado y Fuentes Lineales]] — rizado que regula
 > - Siguiente: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/06 - Ruido Electrónico e Interferencia\|06 - Ruido Electrónico e Interferencia]] — lo que filtra

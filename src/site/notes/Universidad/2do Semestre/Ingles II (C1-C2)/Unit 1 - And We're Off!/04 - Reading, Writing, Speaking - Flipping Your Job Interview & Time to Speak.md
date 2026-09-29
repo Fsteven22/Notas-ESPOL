@@ -143,7 +143,7 @@
 > [!note] 🗣️ Roleplay de entrevista de trabajo
 > 
 > En la sección **1.5 Time to Speak** se practica una entrevista de trabajo en grupos. Las frases útiles están divididas en tres etapas que siguen el flujo natural del roleplay.
-
+>
 > [!info]- 📋 Escenario del roleplay
 > 
 > El libro usa el puesto de **Tour Guide (full-time)** como escenario base. La empresa busca un/a guía local para trabajar con visitantes internacionales, organizando tours a pie y en bus.
@@ -215,7 +215,7 @@
 > - Una frase de **desacuerdo** o matiz con algún aspecto.
 > - Una frase de **apreciación** hacia el autor.
 > - Al menos un uso de **a bit** o **a little** para suavizar una crítica.
-
+>
 > [!success] ✅ Modelo de respuesta — Ejercicio 1
 > 
 > _I completely agree with the idea that interviews should be a two-way conversation. You make a valid argument about the importance of asking questions. That said, I find some of the advice a little idealistic for recent graduates who may not feel confident challenging an employer. Overall, though, this was really eye-opening. Thank you for sharing this fresh perspective on job searching._
@@ -238,7 +238,7 @@
 > > - **Persona A (entrevistador):** Prepara 3 preguntas usando las frases de la etapa _Present_.
 > > - **Persona B (candidato):** Prepara tu perfil (experiencia, fortalezas, motivación) y haz al menos 2 preguntas sobre la empresa.
 > > - **Persona C (observador, opcional):** Al final, usa las frases de la etapa _Agree_ para evaluar al candidato y al empleador.
-
+>
 > [!success] ✅ Guía de evaluación — Ejercicio 2
 > 
 > |Etapa|Lo que debes verificar|
@@ -260,7 +260,7 @@
 > 18. En el pasado, he trabajado como guía turístico voluntario durante dos veranos.
 > 19. ¿Por qué estás interesado en este puesto en particular?
 > 20. Todos estuvimos de acuerdo en que la candidata más fuerte fue María — estudió turismo y habla tres idiomas.
-
+>
 > [!success] ✅ Respuestas — Ejercicio 3
 > 
 > 21. _I completely agree with the idea that candidates should also evaluate companies._

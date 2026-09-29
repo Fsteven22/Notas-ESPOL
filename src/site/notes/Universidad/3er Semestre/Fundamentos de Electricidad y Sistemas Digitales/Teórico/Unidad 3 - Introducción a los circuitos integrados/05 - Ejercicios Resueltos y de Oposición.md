@@ -23,7 +23,7 @@
 >     C --> E[Rin = Vin/Iin]
 >     C --> F[Thevenin visto<br/>desde la fuente]
 > ```
-
+>
 > [!note] 🧭 Cómo usar esta nota
 >
 > Cada ejercicio trae: **enunciado → hipótesis → pasos numerados → resultado encuadrado**. Si solo buscas la fórmula, ve al recuadro final; si quieres el razonamiento, sigue los pasos.
@@ -49,7 +49,7 @@
 > [!example] ✏️ Enunciado
 >
 > OPAM ideal no saturado. Resistencias: $5\text{ k}$ (entrada $V_1$ al nodo inversor), $10\text{ k}$ (realimentación nodo $X$ al inversor), $2\text{ k}$ (de nodo $X$ a $V_2$), $1\text{ k}$ (de nodo $X$ a masa). Hallar $V_2/V_1$.
-
+>
 > [!success] 📊 Solución (PDF p.28-29, con KCL en $X$)
 >
 > |Paso|Acción|
@@ -71,7 +71,7 @@
 > [!example] ✏️ Enunciado
 >
 > Circuito de 2 OPAMs (?) con $v_s=\sin 100t$, resistencias $50$, $100$, $30$, $20$ Ω. Determinar $v_1$ (salida del primer inversor) y $v_2$ (?) — PDF usa $R2$ y $R1$.
-
+>
 > [!success] 📊 Solución
 >
 > |Paso|Acción|
@@ -92,7 +92,7 @@
 > [!example] ✏️ Enunciado
 >
 > Fuente $9$ V por $4\Omega$ al nodo $C$. Nodo $C$ conectado a masa por $3\Omega$ y $6\Omega$ en paralelo, y al OPAM (inversor con $5\Omega$ y $10\Omega$). Hallar $v_C,i_1,R_{in},v_2,i_4$.
-
+>
 > [!success] 📊 Solución (PDF p.33-34 + Thevenin)
 >
 > |Paso|Acción|
@@ -115,7 +115,7 @@
 > [!example] ✏️ Enunciado
 >
 > Fuente $21$ V por $3\text{ k}$ al nodo $C$. $C$ a masa por $6\text{ k}$ y $8\text{ k}$, y al OPAM inversor ($3\text{ k}$ entrada, $5\text{ k}$ realimentación). Hallar $v_C,i_1,v_2,R_{in}$.
-
+>
 > [!success] 📊 Solución
 >
 > |Paso|Acción|
@@ -136,7 +136,7 @@
 > [!example] ✏️ Enunciado
 >
 > Dos OPAMs: primero sumador inversor de $v_1,v_2$ (?) hacia nodo intermedio, segundo inversor con $R_1$. Hallar $v_o$ en función de $v_1,v_2$.
-
+>
 > [!success] 📊 Solución
 >
 > Etapas identificadas en p.40:
@@ -152,7 +152,7 @@
 > [!example] ✏️ Enunciado
 >
 > $v_1$ a $V_+$, $v_2$ a $V_+$ del segundo OPAM con divisor $R_1,R_2$. Hallar $v_o$.
-
+>
 > [!success] 📊 Solución
 >
 > $$v_3 = \left(1+\frac{R_2}{R_1}\right)v_1$$
@@ -165,7 +165,7 @@
 > [!example] ✏️ Enunciado
 >
 > $R_1=4.7\text{ k}$, $R_2=10\text{ k}$, $v_i=-0.4\text{ V}$ (a $V_+$). Hallar $v_o$.
-
+>
 > [!success] 📊 Solución
 >
 > $$v_o = \left(1+\frac{10}{4.7}\right)(-0.4)=3.127\times(-0.4)=-1.25\text{ V}$$
@@ -181,7 +181,7 @@
 > [!example] ✏️ Enunciado (Murcia 04)
 >
 > Inversor diseñado para ganancia $-4$ ($R_1=10\text{ k}$, $R_2=40\text{ k}$). Fuente $v_s$ por $R_s=5\text{ k}$ al nodo inversor, carga $R_L=5\text{ k}$ a masa en la salida. Hallar: a) $v_i(v_s)$, b) $v_o(v_s)$, c) $I_L(v_s)$.
-
+>
 > [!success] 📊 Solución
 >
 > |Inciso|Paso|Resultado|
@@ -195,7 +195,7 @@
 > [!example] ✏️ Enunciado (Valladolid 96)
 >
 > Dibujar $v_s$ y hallar $R$ en sumador inversor con $V_1,V_2$ y $R$ en no inversora.
-
+>
 > [!success] 📊 Solución
 >
 > $$v_s = -2V_1 -4V_2$$
@@ -206,7 +206,7 @@
 > [!example] ✏️ Enunciado (MEC 94)
 >
 > Instrumentación con $R_1=20\text{ k}$, $R_2=R_3=10\text{ k}$, $\pm12$ V. Hallar $v_o(v_1,v_2)$.
-
+>
 > [!success] 📊 Solución
 >
 > Fórmula general instrumentación: $v_o = \frac{R_3}{R_1}\left(1+\frac{2R_2}{R_1}\right)(v_2-v_1)$? En PDF con $R_3$ como $R_{diff}$:
@@ -220,7 +220,7 @@
 > [!example] ✏️ Enunciado (Extremadura 00)
 >
 > $I_1=2\text{ mA}$, $I_L=7\text{ mA}$, $R_1=2\text{ k}$, $R_3=2\text{ k}$. Hallar $R_2$.
-
+>
 > [!success] 📊 Solución
 >
 > Por KCL y ganancia de intensidad $A_i=1+R_2/R_1$:
@@ -238,13 +238,13 @@
 >
 > - [ ] Aplico $V_+\approx V_-$ y $I\approx0$ sin dudar.
 > - [ ] Escribo KCL en el nodo inversor y despejo $V_o$.
-
+>
 > [!note] 🎯 Nivel Intermedio
 >
 > - [ ] Calculo $R_{in}=V_s/I_1$ y $V_C$ en nodos intermedios.
 > - [ ] Aplico Thevenin visto desde la fuente para simplificar la red de entrada.
 > - [ ] Resuelvo sumadores e instrumentación con la fórmula directa.
-
+>
 > [!note] 🎯 Nivel Avanzado
 >
 > - [ ] Resuelvo cualquier red del PDF (incluidas las 3 etapas de la Tarea #2 en [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/02 - Aplicaciones de los OPAMs - Minimización de Ruido\|02 - Aplicaciones de los OPAMs - Minimización de Ruido]]) nodo por nodo sin memorizar fórmulas.
@@ -281,7 +281,7 @@ mindmap
 > [1] Fco. Javier Hernández Canals, _Amplificador Operacional — Ejercicios Resueltos_, pp. 27-44 y 60-68 (EjREsAmpOp.pdf) — todos los cálculos y figuras.
 > [2] Ing. Adriana Aguirre Alonso, _Tarea Autónoma #2 — Amplificadores Operacionales_, EYAG1037, 2026 (referencia cruzada con [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/02 - Aplicaciones de los OPAMs - Minimización de Ruido\|02 - Aplicaciones de los OPAMs - Minimización de Ruido]]).
 > [3] A. Sedra y K. Smith, _Microelectronic Circuits_, 7th ed., cap. 2 — método nodal para OPAM ideal.
-
+>
 > [!quote] 🔗 Conexiones
 >
 > - Base teórica: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/03 - Configuraciones Lineales Básicas del OPAM\|03 - Configuraciones Lineales Básicas del OPAM]] y [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/04 - Integrador, Derivador y Circuitos No Lineales\|04 - Integrador, Derivador y Circuitos No Lineales]] — fórmulas usadas aquí.

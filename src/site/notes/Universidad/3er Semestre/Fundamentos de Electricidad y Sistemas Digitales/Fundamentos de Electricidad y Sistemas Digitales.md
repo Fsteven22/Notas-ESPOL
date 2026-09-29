@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universidad/3er-semestre/fundamentos-de-electricidad-y-sistemas-digitales/fundamentos-de-electricidad-y-sistemas-digitales/","title":"Fundamentos de Electricidad y Sistemas Digitales — EYAG1037","tags":["FESD","EYAG1037","ESPOL","indice","MOC"],"dg-note-properties":{"title":"Fundamentos de Electricidad y Sistemas Digitales — EYAG1037","description":"Notas completas de FESD (ESPOL) — 4 unidades","tags":["FESD","EYAG1037","ESPOL","indice","MOC"]}}
+{"dg-publish":true,"permalink":"/universidad/3er-semestre/fundamentos-de-electricidad-y-sistemas-digitales/fundamentos-de-electricidad-y-sistemas-digitales/","title":"Fundamentos de Electricidad y Sistemas Digitales — EYAG1037","tags":["FESD","EYAG1037","ESPOL","indice","mapa-de-contenido"],"dg-note-properties":{"title":"Fundamentos de Electricidad y Sistemas Digitales — EYAG1037","description":"Notas completas de FESD (ESPOL) — 4 unidades","tags":["FESD","EYAG1037","ESPOL","indice","mapa-de-contenido"]}}
 ---
 
 
@@ -71,20 +71,20 @@ graph TD
 ## 🧪 Práctico y Laboratorio
 
 > [!note] Fundamentos
-> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Practico/Fundamentos del Laboratorio/Equipos del Laboratorio — FESD\|Equipos del Laboratorio]]
-
+> - [[Equipos del Laboratorio - FESD\|Equipos del Laboratorio]]
+>
 > [!note] Prácticas
-> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Practico/Practicas del Laboratorio/Práctica 1 FESD/Práctica 1 — Manejo de Equipos del Laboratorio\|Práctica 1 — Manejo de Equipos]]
-> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Practico/Practicas del Laboratorio/Práctica 2 FESD/Práctica 2 — Ley de Ohm y Kirchhoff\|Práctica 2 — Ohm y Kirchhoff]]
-> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Practico/Practicas del Laboratorio/Práctica 3 FESD/Práctica 3 — Diodos y Transistores\|Práctica 3 — Diodos y Transistores]]
-> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Practico/Practicas del Laboratorio/Práctica 4 FESD/Práctica 4 — Fuentes Lineales\|Práctica 4 — Fuentes Lineales]]
-> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Practico/Practicas del Laboratorio/Práctica 5 FESD/Práctica 5 — Filtros Activos\|Práctica 5 — Filtros Activos]]
-> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Practico/Practicas del Laboratorio/Práctica 6 FESD/Práctica 6 — Logica Combinatoria y Arduino\|Práctica 6 — Lógica y Arduino]]
+> - [[Práctica 1 - Manejo de Equipos del Laboratorio\|Práctica 1 — Manejo de Equipos]]
+> - [[Práctica 2 - Ley de Ohm y Kirchhoff\|Práctica 2 — Ohm y Kirchhoff]]
+> - [[Práctica 3 - Diodos y Transistores\|Práctica 3 — Diodos y Transistores]]
+> - [[Práctica 4 - Fuentes Lineales\|Práctica 4 — Fuentes Lineales]]
+> - [[Práctica 5 - Filtros Activos\|Práctica 5 — Filtros Activos]]
+> - [[Práctica 6 - Logica Combinatoria y Arduino\|Práctica 6 — Lógica y Arduino]]
 
 ---
 
 > [!quote] 🔗 Navegación
 > - Syllabus: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Bienvenida y Syllabus FESD\|Bienvenida y Syllabus FESD]]
-> - Índices: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 1 - Electricidad y Circuitos/00 - Índice Unidad 1\|00 - Índice Unidad 1]] · [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/00 - Índice Unidad 2\|00 - Índice Unidad 2]] · [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/00 - Índice Unidad 3\|00 - Índice Unidad 3]] · [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 4 - Sistemas Digitales/00 - Índice Unidad 4\|00 - Índice Unidad 4]]
+> - Índices: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 1 - Electricidad y Circuitos/00 - Índice Unidad 1\|Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 1 - Electricidad y Circuitos/00 - Índice Unidad 1]] · [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/00 - Índice Unidad 2\|Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/00 - Índice Unidad 2]] · [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/00 - Índice Unidad 3\|Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/00 - Índice Unidad 3]] · [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 4 - Sistemas Digitales/00 - Índice Unidad 4\|Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 4 - Sistemas Digitales/00 - Índice Unidad 4]]
 
-**Tags:** #FESD #EYAG1037 #ESPOL #indice #MOC
+**Tags:** #FESD #EYAG1037 #ESPOL #indice #mapa-de-contenido

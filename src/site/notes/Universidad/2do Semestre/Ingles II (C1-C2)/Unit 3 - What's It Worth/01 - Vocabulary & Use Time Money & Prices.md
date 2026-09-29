@@ -148,7 +148,7 @@
 > 3. There's always a __________________ between earning more money and having free time. _(trade-off / worth / income)_
 > 4. Finding a good __________________ between work and personal life is essential for well-being. _(balance / boost / cost)_
 > 5. Better access to healthcare can __________________ the standard of living for entire communities. _(raise / spend / charge)_
-
+>
 > [!success] ✅ Respuestas — Ejercicio 1
 > 
 > 6. cost of living
@@ -168,7 +168,7 @@
 > 8. She decided to invest ________ a better computer for her work.
 > 9. Take advantage ________ the promotion before it expires.
 > 10. How much do you spend ________ transport every month?
-
+>
 > [!success] ✅ Respuestas — Ejercicio 2
 > 
 > 11. for
@@ -188,7 +188,7 @@
 > 13. That hotel charges $500 a night for a basic room. → It's completely __________________.
 > 14. My phone has lasted 4 years with no problems. → It was __________________.
 > 15. The buyer offered $50 and the seller accepted immediately. → They __________________ a fair price.
-
+>
 > [!success] ✅ Respuestas — Ejercicio 3
 > 
 > 16. rip-off
@@ -208,7 +208,7 @@
 > 18. Aproveché la oferta y compré el curso con un 50% de descuento.
 > 19. Es difícil encontrar un equilibrio entre los estudios y el trabajo.
 > 20. Me cobraron $15 extra por el envío sin avisarme antes.
-
+>
 > [!success] ✅ Respuestas — Ejercicio 4
 > 
 > 21. _The cost of living in Guayaquil has increased a lot in recent years._

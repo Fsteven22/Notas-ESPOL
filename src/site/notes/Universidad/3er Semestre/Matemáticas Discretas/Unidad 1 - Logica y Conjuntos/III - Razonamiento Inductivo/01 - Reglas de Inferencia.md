@@ -55,7 +55,7 @@
 > | $p \vee q,\ \neg p \Rightarrow q$ | **Silogismo Disyuntivo** |
 > | $p \wedge q \Rightarrow p$ | **Simplificación** |
 > 
-!ChatGPT Image 2 jun 2026, 00_08_36.png
+![ChatGPT Image 2 jun 2026, 00_08_36.png](/img/user/Universidad/Figuras/ChatGPT%20Image%202%20jun%202026,%2000_08_36.png)
 
 ---
 
@@ -228,16 +228,6 @@ graph TD
     H --> I{Es la conclusion?}
     I -->|Si| J[Argumento valido]
     I -->|No| B
-    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B fill:#E65100,color:#FFFFFF,stroke:#FFB74D,stroke-width:1px
-    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style E fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style F fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style G fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style H fill:#1B5E20,color:#FFFFFF,stroke:#A5D6A7,stroke-width:1px
-    style I fill:#E65100,color:#FFFFFF,stroke:#FFB74D,stroke-width:1px
-    style J fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
 ```
 
 

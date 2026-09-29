@@ -60,7 +60,7 @@ flowchart TD
 > - $\frac{dy}{dx} = \frac{1}{f'(y)} = \frac{1}{e^y} = \frac{1}{x}$
 > 
 > **Resultado**: $\frac{d}{dx}[\ln(x)] = \frac{1}{x}$ ✅
-
+>
 > [!example] 🔢 Ejemplo 2: Derivada de $\log_a(x)$
 > **Encontrar**: $\frac{d}{dx}[\log_a(x)]$ donde $a > 0, a \neq 1$
 > 
@@ -87,7 +87,7 @@ flowchart TD
 > - $\cos(y) = \sqrt{1 - x^2}$ (positivo en el rango)
 > 
 > **Resultado**: $\frac{d}{dx}[\arcsin(x)] = \frac{1}{\sqrt{1-x^2}}$ ✅
-
+>
 > [!example] 🔢 Ejemplo 4: Derivada de $\arctan(x)$
 > **Encontrar**: $\frac{d}{dx}[\arctan(x)]$
 > 
@@ -181,7 +181,7 @@ flowchart TD
 > - $\frac{d}{dx}[\arcsin(2x)] = \frac{1}{\sqrt{1-(2x)^2}} \cdot 2 = \frac{2}{\sqrt{1-4x^2}}$
 > 
 > **Dominio**: $1-4x^2 > 0 \Rightarrow x \in (-\frac{1}{2}, \frac{1}{2})$
-
+>
 > [!example] 🔢 Ejemplo 8: Función Inversa Compuesta
 > **Encontrar**: $\frac{d}{dx}[\ln(\sin(x))]$
 > 
@@ -225,7 +225,7 @@ flowchart TD
 > - **Comprobar dominios**: Donde la derivada está definida
 > - **Verificar continuidad**: En los extremos del dominio
 > - **Usar calculadora**: Para valores numéricos específicos
-
+>
 > [!tip] 💡 Estrategias de Éxito
 > 
 > ### Reconocimiento de Patrones

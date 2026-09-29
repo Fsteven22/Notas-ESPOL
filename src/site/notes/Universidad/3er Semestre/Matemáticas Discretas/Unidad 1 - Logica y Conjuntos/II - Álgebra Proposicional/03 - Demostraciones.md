@@ -322,23 +322,17 @@ La lógica es simétrica a la del máximo: en cada caso, al restar $|x-y|$ en lu
 
 ```mermaid
 graph TD
-    A[Teorema a demostrar<br/>p → q] --> B{¿Qué estrategia?}
+    A[Teorema a demostrar p → q] --> B{¿Qué estrategia?}
 
-    B --> C[Prueba Directa<br/>Suponer p, concluir q]
-    B --> D[Por Contradicción<br/>Suponer p ∧ ¬q, llegar a r ∧ ¬r]
-    B --> E[Por Contrarrecíproco<br/>Suponer ¬q, concluir ¬p]
-    B --> F[Por Casos<br/>p₁∨p₂∨...∨pₙ → demostrar cada caso]
+    B --> C[Prueba Directa Suponer p, concluir q]
+    B --> D[Por Contradicción Suponer p ∧ ¬q, llegar a r ∧ ¬r]
+    B --> E[Por Contrarrecíproco Suponer ¬q, concluir ¬p]
+    B --> F[Por Casos p₁∨p₂∨...∨pₙ → demostrar cada caso]
 
     C --> G[✅ Demostración completa]
     D --> G
     E --> G
     F --> G
-    style B fill:#E65100,color:#FFFFFF,stroke:#FFB74D,stroke-width:1px
-    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style E fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style F fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style G fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
 
 ```
 

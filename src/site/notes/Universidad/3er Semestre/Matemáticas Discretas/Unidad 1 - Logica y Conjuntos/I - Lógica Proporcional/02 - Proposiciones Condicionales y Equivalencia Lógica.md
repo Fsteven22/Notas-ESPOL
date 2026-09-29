@@ -79,15 +79,11 @@
 > 
 > ```mermaid
 > graph LR
->     A["p → q<br/>(Original)"] <-->|"≡"| B["¬q → ¬p<br/>(Contrarrecíproco)"]
->     C["q → p<br/>(Recíproco)"] <-->|"≡"| D["¬p → ¬q<br/>(Inverso)"]
+>     A["p → q (Original)"] <-->|"≡"| B["¬q → ¬p (Contrarrecíproco)"]
+>     C["q → p (Recíproco)"] <-->|"≡"| D["¬p → ¬q (Inverso)"]
 >     A -.-|"≢"| C
 >     A -.-|"≢"| D
 >     
->     style A fill:#e1f5ff
->     style B fill:#e1f5ff
->     style C fill:#fff4e1
->     style D fill:#fff4e1
 > ```
 > 
 > > ✅ El original y su contrarrecíproco son **lógicamente equivalentes**.  
@@ -366,7 +362,7 @@
 
 ```mermaid
 graph TD
-    A["Proposición Condicional<br/>p → q"] --> B["Formas lingüísticas<br/>equivalentes"]
+    A["Proposición Condicional p → q"] --> B["Formas lingüísticas equivalentes"]
     A --> C["Proposiciones derivadas"]
     A --> D["Equivalencias lógicas"]
 
@@ -375,27 +371,13 @@ graph TD
     B --> B3["q necesario para p"]
     B --> B4["p suficiente para q"]
 
-    C --> C1["Recíproco: q → p<br/>❌ No equiv. al original"]
-    C --> C2["Inverso: ¬p → ¬q<br/>❌ No equiv. al original"]
-    C --> C3["Contrarrecíproco: ¬q → ¬p<br/>✅ Equiv. al original"]
+    C --> C1["Recíproco: q → p ❌ No equiv. al original"]
+    C --> C2["Inverso: ¬p → ¬q ❌ No equiv. al original"]
+    C --> C3["Contrarrecíproco: ¬q → ¬p ✅ Equiv. al original"]
 
     D --> D1["p → q ≡ ¬p ∨ q"]
     D --> D2["¬(p → q) ≡ p ∧ ¬q"]
     D --> D3["p ↔ q ≡ (p→q) ∧ (q→p)"]
-    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B4 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style C1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style D1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style D2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style D3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
 
 ```
 
@@ -422,24 +404,6 @@ graph TD
     E --> E2["Modus Ponens"]
     E --> E3["Modus Tollens"]
     F --> F1["p y no p siempre F"]
-    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B3 fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style B31 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B4 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style C1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style D1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style D2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style E fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style E1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style E2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style E3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style F fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style F1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
 
 ```
 

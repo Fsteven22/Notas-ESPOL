@@ -751,7 +751,7 @@ graph LR
 > - Azul: Clases auxiliares
 > - Amarillo: Interfaces
 > - Rojo: Clases abstractas
-
+>
 > [!warning] ⚠️ Errores Comunes
 > 
 > **❌ Evitar:**

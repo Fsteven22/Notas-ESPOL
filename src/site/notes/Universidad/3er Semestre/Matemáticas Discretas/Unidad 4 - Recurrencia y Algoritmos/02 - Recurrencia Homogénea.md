@@ -20,19 +20,15 @@
 > 
 > ```mermaid
 > graph TD
->     A[Recurrencia lineal<br/>de orden 2] --> B{¿Homogénea?}
->     B -->|Sí| C[Ecuación característica<br/>t² - c₁t - c₂ = 0]
->     B -->|No| D[Términos independientes<br/>fuera de este alcance]
+>     A[Recurrencia lineal de orden 2] --> B{¿Homogénea?}
+>     B -->|Sí| C[Ecuación característica t² - c₁t - c₂ = 0]
+>     B -->|No| D[Términos independientes fuera de este alcance]
 >     C --> E{Tipo de raíces}
 >     E -->|Distintas r₁ ≠ r₂| F[aₙ = b·r₁ⁿ + c·r₂ⁿ]
 >     E -->|Raíz doble r| G[aₙ = b·rⁿ + c·n·rⁿ]
 > 
->     style C fill:#e1f5ff
->     style F fill:#e1ffe1
->     style G fill:#fff4e1
 > 
-    style C fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style E fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
+> ```
 > 
 > |Tema|Idea central|
 > |---|---|
@@ -137,7 +133,7 @@
 > > 
 > > $$\boxed{a_n = 3^n + 2n\cdot 3^n}$$
 
-!ChatGPT Image 18 ago 2026, 20_21_32.png
+![ChatGPT Image 18 ago 2026, 20_21_32.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2020_21_32.png)
 
 ---
 
@@ -156,18 +152,6 @@ graph TD
     D --> D1["an = b r1n + c r2n"]
     E --> E1["an = b rn + c n rn"]
     E --> E2["Factor n por independencia lineal"]
-    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style C1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style D1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style E fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style E1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style E2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
 
 ```
 

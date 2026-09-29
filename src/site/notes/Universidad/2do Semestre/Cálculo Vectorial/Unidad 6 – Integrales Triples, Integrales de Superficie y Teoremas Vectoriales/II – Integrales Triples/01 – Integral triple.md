@@ -413,7 +413,7 @@ graph TB
 > 3. Paraboloide: z = x² + y², z ≤ h
 >    Cilíndricas: z = r², 0 ≤ r ≤ √h, 0 ≤ θ ≤ 2π
 > ```
-
+>
 > [!example] 📝 Ejemplo: Cilindro con Densidad Variable
 > 
 > **Problema:** Calcular la masa de un cilindro sólido de radio $a$ y altura $h$ con densidad $\rho(x,y,z) = z\sqrt{x^2+y^2}$.
@@ -531,7 +531,7 @@ graph TB
 > 4. Casquete esférico: a ≤ √(x²+y²+z²) ≤ b
 >    Esféricas: a ≤ ρ ≤ b, 0 ≤ φ ≤ π, 0 ≤ θ ≤ 2π
 > ```
-
+>
 > [!example] 📝 Ejemplo: Volumen de Esfera
 > 
 > **Problema:** Calcular el volumen de una esfera de radio $a$.
@@ -567,7 +567,7 @@ graph TB
 > 
 > Respuesta: V = 4πa³/3 ✓ (fórmula conocida)
 > ```
-
+>
 > [!example] 📝 Ejemplo: Masa de Hemisferio
 > 
 > **Problema:** Calcular la masa del hemisferio superior $x^2+y^2+z^2 \leq a^2$, $z \geq 0$ con densidad $\rho(x,y,z) = z$.
@@ -847,7 +847,7 @@ mindmap
 > 
 > Respuesta: V = 64π/3 unidades cúbicas
 > ```
-
+>
 > [!example] 💪 Ejercicio 2: Esfera con Densidad
 > 
 > **Problema:** Una esfera de radio $a$ tiene densidad $\delta(x,y,z) = k\sqrt{x^2+y^2+z^2}$ donde $k$ es constante. Calcular su masa total.

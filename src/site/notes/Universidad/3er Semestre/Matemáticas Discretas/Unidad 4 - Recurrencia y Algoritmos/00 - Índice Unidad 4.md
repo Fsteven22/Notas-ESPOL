@@ -12,11 +12,12 @@
 
 | Nota                                                                                                                                                                                                                               | Actualizado | Salientes | Entrantes |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | --------- | --------- |
-| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/01 - Relaciones de Recurrencia\|01 — Relaciones de Recurrencia]]                                                                           | 2026-08-28  | 7         | 5         |
-| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/02 - Recurrencia Homogénea\|02 — Recurrencia Homogénea]]                                                                                   | 2026-08-28  | 7         | 3         |
-| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/03 - Pseudocódigo y Algoritmos\|03 — Pseudocódigo y Algoritmos]]                                                                           | 2026-08-28  | 7         | 7         |
-| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/04 - Análisis de Algoritmos I - Fundamentos y Funciones Matemáticas\|04 — Análisis de Algoritmos I — Fundamentos y Funciones Matemáticas]] | 2026-08-28  | 7         | 7         |
-| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/05 - Análisis de Algoritmos II - Pseudocódigo y Tiempo Real\|05 — Análisis de Algoritmos II — Pseudocódigo y Tiempo Real]]                 | 2026-08-28  | 17        | 5         |
+| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/01 - Relaciones de Recurrencia\|01 — Relaciones de Recurrencia]]                                                                           | 2026-09-10  | 8         | 6         |
+| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/02 - Recurrencia Homogénea\|02 — Recurrencia Homogénea]]                                                                                   | 2026-09-08  | 8         | 5         |
+| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/03 - Pseudocódigo y Algoritmos\|03 — Pseudocódigo y Algoritmos]]                                                                           | 2026-09-08  | 9         | 8         |
+| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/04 - Análisis de Algoritmos I - Fundamentos y Funciones Matemáticas\|04 — Análisis de Algoritmos I — Fundamentos y Funciones Matemáticas]] | 2026-09-08  | 8         | 9         |
+| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/05 - Análisis de Algoritmos II - Pseudocódigo y Tiempo Real\|05 — Análisis de Algoritmos II — Pseudocódigo y Tiempo Real]]                 | 2026-09-08  | 18        | 6         |
+| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/Guía de Problemas 4 - Ejercicios Resueltos\|Guía de Problemas 4 — Ejercicios Resueltos]]                                                   | 2026-09-08  | 7         | 0         |
 
 { .block-language-dataview}
 
@@ -77,11 +78,23 @@
     - [ ] Analizo algoritmos de grafos (BFS, DFS) y su complejidad.
     - [ ] Aplico análisis amortizado a estructuras de datos (pilas, colas).
     - [ ] Resuelvo problemas de diseño de algoritmos óptimos.
+# [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/Guía de Problemas 4 - Ejercicios Resueltos\|Guía de Problemas 4 - Ejercicios Resueltos]]
+
+    - [ ] Escribo pseudocódigo que cuenta divisores, busca la última ocurrencia y verifica función y sobreyectividad con una matriz.
+    - [ ] Aplico la definición de $O$ y $\Theta$ con constantes $C$ y $k_0$ explícitas.
+    - [ ] Planteo la recurrencia de la escalera y de poblaciones con crecimiento porcentual.
+    - [ ] Resuelvo recurrencias lineales de orden 2 con la ecuación característica y aplico condiciones iniciales.
+    - [ ] Resuelvo la recurrencia no homogénea $c_n = 3c_{n-1} - 2c_{n-2} + 4$ con solución particular.
+    - [ ] Cuento operaciones en lazos con $\lfloor \sqrt{n} \rfloor$, halvings y dobles lazos con raíz.
+    - [ ] Demuestro fórmulas explícitas por inducción fuerte, como $x_n = 2n - 1$.
+    - [ ] Acoto sumas con integrales para probar $\Theta(n^3)$ en el doble lazo con $\lfloor \sqrt{i} \rfloor$.
+    - [ ] Combino recurrencia homogénea y particular para modelos con término $80n$ y factor $1{,}3$.
 
 { .block-language-dataview}
 
 ## ⚠️ Notas huérfanas (sin enlaces entrantes)
 
+- [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/Guía de Problemas 4 - Ejercicios Resueltos\|Guía de Problemas 4 - Ejercicios Resueltos]]
 
 { .block-language-dataview}
 

@@ -23,15 +23,9 @@
 >     A --> C["Relación de equivalencia"]
 >     A --> D["Invariantes"]
 >     D --> E["Descartar isomorfismo rápido"]
->     A --> F["Certificar isomorfismo:<br/>construir biyección"]
->     style A fill:#1e3a5f,color:#fff
->     style D fill:#e1f5ff
+>     A --> F["Certificar isomorfismo: construir biyección"]
 > 
-    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style E fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
+> ```
 
 ---
 
@@ -161,7 +155,7 @@
 > 
 > Se aplica la misma estrategia de 4 pasos del Ejercicio 1. La diferencia clave suele estar en un invariante más fino (como el número de triángulos) cuando el número de vértices, aristas y la secuencia de grados coinciden entre ambos candidatos — por eso el curso recalca revisar ciclos de longitud 3 y 4 antes de intentar construir la biyección.
 
-!ChatGPT Image 18 ago 2026, 18_13_08.png
+![ChatGPT Image 18 ago 2026, 18_13_08.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2018_13_08.png)
 
 ---
 
@@ -183,18 +177,16 @@
 
 ```mermaid
 graph TD
-    A["¿G1 y G2 son isomorfos?"] --> B{"¿|V1| = |V2| y<br/>|E1| = |E2|?"}
+    A["¿G1 y G2 son isomorfos?"] --> B{"¿|V1| = |V2| y |E1| = |E2|?"}
     B -->|No| C["No son isomorfos ❌"]
-    B -->|Sí| D{"¿Coinciden las<br/>secuencias de grados?"}
+    B -->|Sí| D{"¿Coinciden las secuencias de grados?"}
     D -->|No| C
-    D -->|Sí| E{"¿Coinciden invariantes<br/>finos (triángulos, ciclos)?"}
+    D -->|Sí| E{"¿Coinciden invariantes finos (triángulos, ciclos)?"}
     E -->|No| C
-    E -->|Sí| F["Intentar construir<br/>biyección f explícita"]
-    F --> G{"¿f preserva todas<br/>las adyacencias?"}
+    E -->|Sí| F["Intentar construir biyección f explícita"]
+    F --> G{"¿f preserva todas las adyacencias?"}
     G -->|Sí| H["Son isomorfos ✅"]
-    G -->|No| I["Probar otra f o<br/>buscar invariante más fino"]
-    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style G fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    G -->|No| I["Probar otra f o buscar invariante más fino"]
 ```
 
 ---
@@ -205,16 +197,10 @@ graph TD
 graph TD
     A["Grafos III — Isomorfismo"] --> B["Definición: f, g biyectivas"]
     A --> C["Relación de equivalencia"]
-    A --> D["Teorema: matrices de<br/>adyacencia iguales"]
+    A --> D["Teorema: matrices de adyacencia iguales"]
     A --> E["Invariantes"]
     E --> F["|V|, |E|, grados, ciclos"]
-    A --> G["Estrategia: descartar<br/>rápido, certificar con biyección"]
-    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style D fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style E fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style G fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    A --> G["Estrategia: descartar rápido, certificar con biyección"]
 
 ```
 

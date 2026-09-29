@@ -38,7 +38,7 @@
 > |**humiliated**|humillado|
 > |**to rattle**|traquetear / hacer ruido metálico|
 > |**unfazed**|impasible / no perturbado|
-
+>
 > [!tip]- 💡 El choque cultural como motor del humor
 > 
 > Este capítulo profundiza la ironía central de la obra: el fantasma representa la **tradición gótica europea** (terror, historia, superstición), mientras que Mr. Otis representa el **pragmatismo americano moderno** (soluciones prácticas para todo, incluso lo sobrenatural). El choque entre ambos mundos, más que dar miedo, genera comedia.
@@ -70,7 +70,7 @@
 > [!quote] 📖 Referencias
 > 
 > [1] Wilde, Oscar. _The Canterville Ghost_. 1887. (Obra de dominio público).
-
+>
 > [!quote] 🔗 Conexiones
 > 
 > - [[Capítulo I - The Canterville Ghost\|Capítulo I - The Canterville Ghost]]

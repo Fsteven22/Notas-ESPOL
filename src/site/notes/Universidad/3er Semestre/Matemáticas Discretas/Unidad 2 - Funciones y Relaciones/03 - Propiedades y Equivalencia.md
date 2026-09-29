@@ -19,16 +19,8 @@
 >     A --> E[Transitiva]
 >     B & C & E --> F[Relación de Equivalencia]
 >     B & D & E --> G[Relación de Orden Parcial]
->     style F fill:#e1f5ff
->     style G fill:#ffe1e1
->     style A fill:#1e3a5f,color:#fff
 > 
-    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style D fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style E fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style G fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
+> ```
 
 ---
 
@@ -203,16 +195,6 @@ graph TD
     G --> H[Partición de X]
     H --> I[Teorema 2: toda partición genera equivalencia]
     H --> J[Teorema 3: toda equivalencia genera partición]
-    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style D fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style E fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style F fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style G fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style H fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style I fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style J fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
 
 ```
 

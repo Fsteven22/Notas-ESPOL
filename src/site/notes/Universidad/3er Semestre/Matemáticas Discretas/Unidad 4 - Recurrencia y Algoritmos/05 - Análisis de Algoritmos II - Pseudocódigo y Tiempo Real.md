@@ -12,17 +12,12 @@
 > 
 > ```mermaid
 > graph TD
->     A[Análisis desde<br/>Pseudocódigo] --> B[Mejor, peor y<br/>caso promedio]
->     A --> C[Contar operaciones<br/>en bucles anidados]
->     A --> F[Ramificaciones,<br/>cortes y bloques]
->     A --> D[Algoritmos<br/>recursivos]
->     A --> E[De Θ a<br/>tiempo real]
+>     A[Análisis desde Pseudocódigo] --> B[Mejor, peor y caso promedio]
+>     A --> C[Contar operaciones en bucles anidados]
+>     A --> F[Ramificaciones, cortes y bloques]
+>     A --> D[Algoritmos recursivos]
+>     A --> E[De Θ a tiempo real]
 > 
->     style B fill:#e1f5ff
->     style C fill:#e1ffe1
->     style F fill:#ffe1f5
->     style D fill:#fff4e1
->     style E fill:#f5e1ff
 > ```
 
 ---
@@ -535,7 +530,7 @@
 > 
 > A partir de $n\approx50$, un algoritmo $\Theta(2^n)$ ya es impracticable; los algoritmos $\Theta(n!)$ se vuelven inviables incluso antes. Esta es la razón práctica detrás de todo el trabajo de las dos notas: **la notación asintótica predice, sin ejecutar nada, si un algoritmo será usable para el tamaño de entrada que te interesa.**
 
-!ChatGPT Image 18 ago 2026, 20_44_56.png
+![ChatGPT Image 18 ago 2026, 20_44_56.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2020_44_56.png)
 
 ---
 

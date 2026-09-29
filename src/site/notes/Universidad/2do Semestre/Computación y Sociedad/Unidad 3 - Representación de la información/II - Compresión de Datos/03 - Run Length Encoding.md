@@ -34,7 +34,7 @@
 > $$(\text{valor}, \text{cantidad de repeticiones})$$
 > 
 > Por ejemplo, la secuencia `AAAABBBCCDAA` tiene las corridas: `AAAA` (4 A's), `BBB` (3 B's), `CC` (2 C's), `D` (1 D), `AA` (2 A's). Nota que las dos corridas de `A` son **distintas** porque no son consecutivas entre sí — están separadas por otros caracteres.
-
+>
 > [!note] 📋 Notación común de RLE
 > 
 > Existen varias formas de escribir el resultado de RLE; en clase probablemente viste alguna de estas:
@@ -68,7 +68,7 @@
 > $$12W\ 1B\ 12W\ 3B\ 24W\ 1B\ 14W$$
 > 
 > **Resultado:** la secuencia original tiene 67 caracteres; la versión codificada tiene 7 pares (14 símbolos si cuentas número + letra) — una reducción considerable, típica del comportamiento de RLE en datos con muchas repeticiones consecutivas.
-
+>
 > [!example]- 🟢 Ejemplo paso a paso: calcular el ahorro de bits con RLE
 > 
 > Secuencia: `AAAAAAAABBBBBBBBBBCCCC` (22 caracteres).
@@ -94,7 +94,7 @@
 > Si los datos **no tienen repeticiones consecutivas** (por ejemplo, `ABCABCABC`), RLE puede terminar generando un resultado más grande que el original, porque cada "corrida" de longitud 1 todavía necesita guardar el par (valor, cantidad) — dos símbolos en vez de uno.
 > 
 > Ejemplo: `ABCABCABC` (9 caracteres) se convertiría en `1A1B1C1A1B1C1A1B1C` (18 símbolos) — el doble de tamaño.
-
+>
 > [!warning] ⚠️ No confundir "corrida" con "aparición total"
 > 
 > Un error común es contar cuántas veces aparece un carácter **en todo el texto**, en vez de solo en su corrida consecutiva actual. En `AABAA`, la `A` aparece 4 veces en total, pero forma **dos corridas distintas**: `AA` (2) y `AA` (2), separadas por la `B`. RLE nunca junta corridas no consecutivas.
@@ -137,19 +137,19 @@ graph TD
 > 1. Codifica con RLE la secuencia: `MMMMMOOOOP`
 > 2. ¿Cuántas corridas tiene la secuencia `XXYYYXX`? Escríbelas.
 > 3. ¿Por qué RLE es especialmente efectivo para imágenes con grandes áreas de un solo color?
-
+>
 > [!question] 🟨 Nivel 2 — Intermedio
 > 
 > 4. Codifica con RLE la secuencia: `ZZZZWWWWWWZZZZZZZZWW`
 > 5. Una secuencia de 40 caracteres tiene 5 corridas. Si cada par (valor, cantidad) ocupa 16 bits y el original ocupa 320 bits en ASCII, calcula el porcentaje de ahorro de bits.
 > 6. Explica por qué la secuencia `ABABABAB` sería un mal caso de uso para RLE.
-
+>
 > [!question] 🟥 Nivel 3 — Avanzado
 > 
 > 7. Dada la secuencia comprimida `5A2B7C1D3A`, reconstruye la secuencia original y calcula su longitud.
 > 8. Una imagen en blanco y negro de 100 píxeles tiene 3 corridas: 60 blancos, 5 negros, 35 blancos. Compara el tamaño en bits usando RLE (cada par ocupa 9 bits: 1 bit color + 8 bits cantidad) contra guardar cada píxel individualmente (1 bit por píxel). ¿RLE conviene aquí?
 > 9. Diseña una secuencia de 12 caracteres donde RLE NO logre ningún ahorro de espacio (es decir, el tamaño comprimido sea igual o mayor al original). Justifica tu respuesta.
-
+>
 > [!success]- ✅ Respuestas
 > 
 > **Nivel 1:**
@@ -171,13 +171,13 @@ graph TD
 > - [ ] Puedo identificar las corridas (runs) de una secuencia de datos.
 > - [ ] Puedo codificar una secuencia simple usando RLE.
 > - [ ] Entiendo por qué RLE funciona bien con repeticiones consecutivas largas.
-
+>
 > [!success] ✅ Nivel Intermedio
 > 
 > - [ ] Puedo calcular el porcentaje de ahorro de bits al aplicar RLE.
 > - [ ] Puedo identificar cuándo una secuencia es un mal caso de uso para RLE.
 > - [ ] Puedo comparar RLE con Keyword Encoding según el tipo de datos.
-
+>
 > [!success] ✅ Nivel Avanzado
 > 
 > - [ ] Puedo reconstruir la secuencia original a partir de su versión codificada con RLE.
@@ -191,7 +191,7 @@ graph TD
 > [!quote] 📖 Fuentes consultadas
 > 
 > [1] Material de clase — Unidad 3: Representación de la información, Computación y Sociedad.
-
+>
 > [!quote] 🔗 Conexiones
 > 
 > - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 3 - Representación de la información/II - Compresión de Datos/02 - Keyword Encoding y ASCII\|02 - Keyword Encoding y ASCII]] — otro algoritmo de compresión sin pérdida, con enfoque en palabras frecuentes en vez de corridas consecutivas.

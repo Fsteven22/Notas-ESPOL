@@ -617,7 +617,7 @@ mindmap
 >     }
 > }
 > ```
-
+>
 > [!example] 🎯 Práctica 2: Jerarquía de Empleados
 > 
 > ```java

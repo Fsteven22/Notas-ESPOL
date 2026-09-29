@@ -33,7 +33,7 @@
 > - 🚗 Dos autos que viajan en sentidos opuestos
 > - 🚂 Trenes que parten de estaciones diferentes
 > - 👥 Dos personas caminando una hacia la otra
-
+>
 > [!warning] 🏃‍♂️ **Persecución y Alcance** **Situación:** Un móvil **persigue** a otro que tiene ventaja inicial
 > 
 > ```mermaid
@@ -49,7 +49,7 @@
 > - 👮‍♂️ Policía persiguiendo a un ladrón
 > - 🐆 Depredador cazando presa
 > - 🚗 Auto rápido alcanzando auto lento
-
+>
 > [!note] 🔄 **Encuentro Cíclico** **Situación:** Móviles en trayectorias circulares o que se encuentran periódicamente
 > 
 > **Ejemplos típicos:**
@@ -127,7 +127,7 @@
 > **Posición de encuentro:** $$x = 80 \times 2 = 160 \text{ km}$$ (desde la ciudad A)
 > 
 > **Respuesta:** Se encuentran a las 2 horas, a 160 km de la ciudad A.
-
+>
 > [!example] 👮‍♂️ **Ejemplo 2: Persecución con Ventaja Inicial** **Problema:** Un ladrón huye en auto a 60 km/h. Después de 15 minutos, la policía sale en persecución a 90 km/h. ¿Cuánto tiempo perseguirá la policía al ladrón?
 > 
 > **Solución:**

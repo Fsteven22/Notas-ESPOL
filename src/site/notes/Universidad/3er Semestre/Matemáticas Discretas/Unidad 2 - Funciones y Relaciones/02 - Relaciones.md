@@ -13,12 +13,8 @@
 > graph LR
 >     A["Relación R ⊆ X × Y"] --> B["Función f : X → Y"]
 >     B --> C["Restricción: unicidad"]
->     style A fill:#ffe1e1
->     style B fill:#e1ffe1
->     style C fill:#fff4e1
 > 
-    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
+> ```
 
 ---
 
@@ -167,15 +163,8 @@
 >     3 --> y3
 >     3 --> y6
 >     4 --> y4
->     style X fill:#e1f5ff
->     style Y fill:#ffe1e1
 > 
-    style 2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style 3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style 4 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style y3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style y4 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style y6 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
+> ```
 > 
 > El 8 no tiene ninguna flecha saliente porque ningún elemento de Y es múltiplo de 8. El 5 y el 7 no reciben flechas porque ningún elemento de X los divide.
 
@@ -339,17 +328,6 @@ graph TD
     H --> H2[Simétrica]
     H --> H3[Antisimétrica]
     H --> H4[Transitiva]
-    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style D fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style E fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style G fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style H fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style H1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style H2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style H3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style H4 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
 
 ```
 

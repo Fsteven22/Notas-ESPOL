@@ -170,7 +170,7 @@
 > 4. She decided to study abroad.
 > 5. Although he tried very hard.
 > 6. My professor explained the assignment clearly.
-
+>
 > [!success] ✅ Respuestas — Ejercicio 1
 >
 > | # | Respuesta | Por qué |
@@ -181,7 +181,7 @@
 > | 4 | ✅ Completa | Sujeto (*She*) + verbo (*decided*) + idea completa |
 > | 5 | ❌ Incompleta | Cláusula dependiente — *although* introduce un contraste pero no hay cláusula principal |
 > | 6 | ✅ Completa | Sujeto (*My professor*) + verbo (*explained*) + idea completa |
-
+>
 > [!example] ✏️ Ejercicio 2 — Independent o Dependent?
 >
 > Clasifica cada cláusula como independiente (I) o dependiente (D):
@@ -194,7 +194,7 @@
 > 6. Because he forgot his homework.
 > 7. The coffee is too hot.
 > 8. Unless you study harder.
-
+>
 > [!success] ✅ Respuestas — Ejercicio 2
 >
 > | # | Cláusula | Tipo | Por qué |

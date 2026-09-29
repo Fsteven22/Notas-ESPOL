@@ -1622,7 +1622,7 @@ graph TB
 > ¿Es una relación implícita?
 > SÍ → Método 4: Diferencial Total
 > ```
-
+>
 > [!warning] ## 🚨 Errores Comunes y Cómo Evitarlos
 > 
 > 
@@ -1918,7 +1918,7 @@ graph TB
 > > 
 > > Siempre escribir explícitamente el signo de cada término
 > 
-
+>
 > [!example] 💪 Práctica Completa con Soluciones Detalladas
 > ### **Nivel 1 - Básico:** 🟢
 > 

@@ -58,7 +58,7 @@
 > Establecen los **requisitos de accesibilidad que debe cumplir el contenido web** para que pueda ser utilizado por todas las personas, con o sin discapacidad, de forma autónoma o mediante productos de apoyo tecnológico.
 > 
 > 🔗 https://www.w3.org/TR/WCAG20/
-
+>
 > [!tip] 🕰️ Versiones de WCAG
 > 
 > WCAG ha evolucionado en varias versiones. El material del curso y el reglamento ecuatoriano se basan específicamente en **WCAG 2.0**.
@@ -70,7 +70,7 @@
 > |**WCAG 2.2**|5 oct. 2023|13|87 (+9, -1 obsoleto)|Foco visible, tamaño de objetivos táctiles|
 > 
 > > 📌 Las versiones son **retrocompatibles**: cumplir WCAG 2.2 implica cumplir automáticamente 2.1 y 2.0. Por eso, aunque existan versiones más nuevas, el contenido de esta nota se centra en **WCAG 2.0**, que es el estándar exigido legalmente en Ecuador.
-
+>
 > [!important] 🌐 El acrónimo POUR
 > 
 > En inglés, los 4 principios de WCAG forman el acrónimo **POUR**:
@@ -81,7 +81,7 @@
 > |**O**perable|Operable|¿Puede el usuario interactuar con el contenido?|
 > |**U**nderstandable|Comprensible|¿Puede el usuario entender el contenido y su funcionamiento?|
 > |**R**obust|Robusto|¿Funciona el contenido en distintos navegadores y tecnologías de apoyo, presentes y futuras?|
-
+>
 > [!note] 🏆 Niveles de conformidad WCAG
 > 
 > WCAG define tres niveles de conformidad que indican qué tan accesible es un sitio web. Cada nivel es **acumulativo**: para alcanzar AA hay que cumplir también todos los criterios de A.
@@ -230,7 +230,7 @@
 > |**8 de agosto de 2020**|Plazo límite: todos los sitios web ecuatorianos que presten un **servicio público** deben ser accesibles bajo **WCAG 2.0 nivel AA** (4 años de plazo desde la vigencia)|
 > 
 > 🔗 http://accesibilidadweb.dlsi.ua.es/?menu=ecuador
-
+>
 > [!info] 📐 Alcance y mecanismo de cumplimiento
 > 
 > - **Aplica a:** contenidos web publicados en sitios del **sector público y privado** que presten servicios públicos.

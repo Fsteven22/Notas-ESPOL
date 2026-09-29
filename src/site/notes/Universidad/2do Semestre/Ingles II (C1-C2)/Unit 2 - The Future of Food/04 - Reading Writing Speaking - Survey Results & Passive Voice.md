@@ -243,7 +243,7 @@
 > 3. The results __________________ that awareness of nutrition has increased. *(suggest / are suggested)*
 > 4. __________________ , younger participants were more likely to check calories. *(Interestingly / However but)*
 > 5. __________________ respondents said the labels were confusing. *(A significant proportion of / Many of all the)*
-
+>
 > [!success] ✅ Respuestas — Ejercicio 1
 >
 > 1. The survey revealed that
@@ -263,7 +263,7 @@
 > 8. They have published the survey results online.
 > 9. Scientists will analyze the data next year.
 > 10. The government introduced new food labeling laws.
-
+>
 > [!success] ✅ Respuestas — Ejercicio 2
 >
 > 6. *The study **was conducted** by researchers in 2023.*
@@ -283,7 +283,7 @@
 > 13. *The data has been collecting over six months.*
 > 14. *New labels will introduced next year.*
 > 15. *Participants were ask to complete a questionnaire.*
-
+>
 > [!success] ✅ Respuestas — Ejercicio 3
 >
 > 11. ~~was~~ → **were** — *The results **were** found.*
@@ -303,7 +303,7 @@
 > 18. *She's going to barbecue the meat.*
 > 19. *This bottle of oil is almost empty.*
 > 20. *It's not important.*
-
+>
 > [!success] ✅ Respuestas — Ejercicio 4
 >
 > 16. *"I **wanna** try the new restaurant."*

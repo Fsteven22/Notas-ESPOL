@@ -140,7 +140,7 @@
 >    
 >   ✗ NO INYECTIVA: v₁ ≠ v₂ pero T(v₁) = T(v₂)
 > ```
-
+>
 > [!important] Sobreyectividad (Onto) **DEFINICIÓN (Sobreyectividad):**
 > 
 > Una transformación lineal $T: V \to W$ es **sobreyectiva** (u onto) si:
@@ -184,7 +184,7 @@
 >    
 >   ✗ NO SOBREYECTIVA: Existen w sin preimagen
 > ```
-
+>
 > [!important] Biyectividad (Isomorfismo) **DEFINICIÓN (Biyectividad):**
 > 
 > Una transformación lineal $T: V \to W$ es **biyectiva** si es:

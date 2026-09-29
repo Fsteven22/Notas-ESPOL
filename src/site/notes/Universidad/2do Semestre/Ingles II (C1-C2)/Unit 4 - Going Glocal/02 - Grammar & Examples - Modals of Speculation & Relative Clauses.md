@@ -37,7 +37,7 @@
 > [!note] 🔮 Definición — ¿Qué es especular con modales?
 > 
 > **Especular** (_speculate_) es expresar una opinión sobre algo que **no sabes con certeza absoluta**, basándote en la evidencia disponible. En inglés, el grado de certeza se marca con el **modal** que elijas — no es lo mismo decir _"it must be true"_ que _"it might be true"_.
-
+>
 > [!note] 📋 Las tres reglas básicas
 > 
 > |Nivel de certeza|Modal(es) a usar|Ejemplo|
@@ -45,7 +45,7 @@
 > |**No estás seguro de que algo sea verdad**|`might`, `could`, `may`|_It might be a sponsorship deal._|
 > |**Estás seguro de que algo ES verdad**|`must`|_If it's three times the price, it must be real._|
 > |**Estás seguro de que algo NO es verdad**|`can't`, `must not`|_If teams don't have sponsors, they can't be taken seriously._|
-
+>
 > [!warning] ⚠️ Error común — No uses "can" para especular
 > 
 > `can` (afirmativo) **no se usa** para especulación — solo se usa `can't` en su forma negativa.
@@ -55,7 +55,7 @@
 > |_They **can** be the best soccer team this season._|_They **might** be the best soccer team this season._|
 > 
 > Esta es una de las reglas de "accuracy check" que el libro marca explícitamente: `can` funciona para hablar de habilidad o posibilidad general, pero **no** para especular sobre si algo es probablemente cierto en este momento.
-
+>
 > [!example]- 🟢 Ejemplos del libro (contexto: marketing deportivo)
 > 
 > - _You **might** think that the money comes from ticket sales._ (no estás seguro de lo que piensa el lector)
@@ -86,21 +86,21 @@
 > |**which**|cosas|
 > |**where**|lugares|
 > |**that**|personas o cosas (uso más informal, común en habla cotidiana)|
-
+>
 > [!note] 📋 Cláusulas de sujeto vs. cláusulas de objeto
 > 
 > |Tipo|¿Qué rol cumple el pronombre relativo?|Estructura|
 > |---|---|---|
 > |**Subject relative clause**|El pronombre relativo **es el sujeto** de la cláusula|pronombre relativo + **verbo**|
 > |**Object relative clause**|El pronombre relativo **es el objeto** de la cláusula|pronombre relativo + **sustantivo/pronombre** + verbo|
-
+>
 > [!tip]- 💡 Truco para identificar el tipo
 > 
 > Pregúntate: _¿qué viene inmediatamente después del pronombre relativo?_
 > 
 > - Si viene un **verbo** directamente → es cláusula de **sujeto** (el pronombre relativo hace el trabajo del sujeto).
 > - Si viene un **sustantivo o pronombre** (alguien/algo que hace la acción) antes del verbo → es cláusula de **objeto**.
-
+>
 > [!example]- 🟢 Ejemplos del libro (contexto: historias virales)
 > 
 > **Subject relative clause:** _Murtaza was an Afghani boy **who made** a copy of his hero Lionel Messi's jersey out of a plastic bag._ → `who` es el sujeto de `made`; justo después va el verbo.
@@ -108,7 +108,7 @@
 > **Object relative clause:** _The internet is full of viral stories – stories **that we see** and share, and then others reshare and reshare._ → `that` es el objeto de `see`; justo después va el sujeto (`we`) y luego el verbo.
 > 
 > **Cláusula de lugar (where):** _It went viral and changed Murtaza's life. He got to travel to Qatar **where his dreams came true**._ → `where` introduce información extra sobre un lugar (Qatar).
-
+>
 > [!warning] ⚠️ Cuándo se puede omitir el pronombre relativo
 > 
 > En las cláusulas de **objeto**, el pronombre relativo (`that`, `which`, `who`) muchas veces se puede omitir sin cambiar el significado: _stories we see and share_ (sin `that`) sigue siendo correcto. En las cláusulas de **sujeto**, el pronombre relativo **nunca** se omite, porque es indispensable como sujeto gramatical de la cláusula.
@@ -174,7 +174,7 @@ graph TD
 > **2.** Identifica el pronombre relativo correcto: _That's the boy __________ (who / which) became famous online._
 > 
 > **3.** ¿Sujeto u objeto? _"the jersey that he made"_ — ¿qué tipo de cláusula relativa es?
-
+>
 > [!success]- ✅ Respuestas — Nivel 1
 > 
 > **1.** can't
@@ -192,7 +192,7 @@ graph TD
 > **2.** Une las dos oraciones con una cláusula relativa: _"Murtaza was a boy. The boy loved Lionel Messi."_
 > 
 > **3.** Reescribe omitiendo el pronombre relativo si es posible: _"The stories that we see online are often about ordinary people."_
-
+>
 > [!success]- ✅ Respuestas — Nivel 2
 > 
 > **1.** might / may / could
@@ -210,7 +210,7 @@ graph TD
 > **2.** Escribe una mini-historia (3-4 oraciones) sobre alguien que se volvió viral, usando al menos una subject relative clause, una object relative clause y una cláusula con `where`.
 > 
 > **3.** Explica con tus propias palabras por qué `can` no funciona para especulación, pero `can't` sí.
-
+>
 > [!success]- ✅ Guía de respuesta — Nivel 3
 > 
 > Respuestas abiertas. Se espera uso correcto y variado de los modales según su nivel de certeza, y cláusulas relativas gramaticalmente completas (con o sin pronombre omitido según corresponda).
@@ -224,13 +224,13 @@ graph TD
 > - [ ] Distingo las tres categorías de certeza (`might/may/could`, `must`, `can't/must not`).
 > - [ ] Reconozco los pronombres relativos `who`, `which`, `where`.
 > - [ ] Identifico si una cláusula relativa es de sujeto u objeto.
-
+>
 > [!success] ✅ Nivel Intermedio
 > 
 > - [ ] Evito el error de usar `can` para especular.
 > - [ ] Sé cuándo puedo omitir el pronombre relativo (solo en cláusulas de objeto).
 > - [ ] Formo oraciones con `where` para dar información extra sobre lugares.
-
+>
 > [!success] ✅ Nivel Avanzado
 > 
 > - [ ] Combino modals of speculation con relative clauses en una misma oración de forma natural.
@@ -242,7 +242,7 @@ graph TD
 > [!quote] 📖 Referencias
 > 
 > [1] _Keynote Upper-Intermediate_, National Geographic Learning / Cengage, Student's Book, Unit 4: Going Glocal, pp. 34–37.
-
+>
 > [!quote] 🔗 Conexiones
 > 
 > - [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 4 - Going Glocal/01 - Vocabulary & Use - Advertising & Media People\|01 - Vocabulary & Use - Advertising & Media People]]

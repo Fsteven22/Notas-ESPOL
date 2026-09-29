@@ -25,20 +25,8 @@
 >     G --> H["Búsqueda a lo ancho (BFS)"]
 >     G --> I["Búsqueda a profundidad (DFS)"]
 >     G --> J["Árbol de expansión mínima (Prim)"]
->     style A fill:#1e3a5f,color:#fff
->     style C fill:#e1f5ff
->     style G fill:#f5e1ff
 > 
-    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style D fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style E fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style G fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style H fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style I fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style J fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
+> ```
 
 ---
 
@@ -67,13 +55,7 @@
 >     v3 --> v6((v6))
 >     v3 --> v7((v7))
 > 
-    style v1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style v2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style v3 fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style v4 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style v5 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style v6 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style v7 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
+> ```
 > 
 > - $v_1$ está en el **nivel 0**
 > - $v_2$ y $v_3$ están en el **nivel 1**
@@ -269,7 +251,7 @@
 > > 
 > > La versión simple de Prim (revisando todas las aristas en cada paso) tiene complejidad $O(n^2)$, adecuada para grafos densos. Con una cola de prioridad (heap), se puede optimizar a $O(m \log n)$, mejor para grafos dispersos. Es uno de los algoritmos "greedy" (voraz) más citados en cursos de estructuras de datos, junto con el algoritmo de Kruskal (que en vez de crecer desde un vértice, ordena todas las aristas por peso y las va agregando si no forman ciclo).
 
-!ChatGPT Image 18 ago 2026, 18_29_57.png
+![ChatGPT Image 18 ago 2026, 18_29_57.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2018_29_57.png)
 
 ---
 
@@ -284,11 +266,6 @@ graph TD
     C --> F[Árbol de expansión válido]
     D --> F
     E --> G[Árbol de expansión MÍNIMA]
-    style C fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style D fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style E fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style G fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
 
 ```
 
@@ -306,10 +283,6 @@ graph TD
     Q3 -->|Profundidad| DFS["Usar DFS"]
     Q2 -->|Sí, y quiero el costo mínimo| Prim["Usar algoritmo de Prim"]
 
-    style NoTree fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
-    style BFS fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
-    style DFS fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
-    style Prim fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
 ```
 
 ---

@@ -124,7 +124,7 @@ graph TD
 > - Límite de estabilidad: CG en el perímetro del triángulo
 > 
 > **Aplicación práctica:** Distribución de peso en mesas, sillas, estructuras
-
+>
 > [!tip] 🚶 Ejemplo: Equilibrio Humano **Situación:** Persona inclinándose
 > 
 > **Análisis:**

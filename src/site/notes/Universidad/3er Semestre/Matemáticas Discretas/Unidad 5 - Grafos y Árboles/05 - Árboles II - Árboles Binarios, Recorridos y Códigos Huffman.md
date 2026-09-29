@@ -23,17 +23,8 @@
 >     E --> F[Preorden]
 >     E --> G[Entreorden]
 >     E --> H[Postorden]
->     style A fill:#1e3a5f,color:#fff
->     style D fill:#f5e1ff
->     style E fill:#e1f5ff
 > 
-    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style D fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style E fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style G fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style H fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
+> ```
 
 ---
 
@@ -117,13 +108,13 @@
 
 > [!example] 📝 Ejemplo 3 — Construcción paso a paso
 > 
-> Dadas las frecuencias de los caracteres $!, @, \sharp, $, %$: $2, 3, 7, 8, 12$.
+> Dadas las frecuencias de los caracteres $!, @, \sharp, \$, \%$: $2, 3, 7, 8, 12$.
 > 
 > El algoritmo combina repetidamente las **dos frecuencias más pequeñas**:
 > 
 > $$2,3,7,8,12 ;\to; 5,7,8,12 ;\to; 8,12,12 ;\to; 12,20$$
 > 
-> Luego se reconstruye el árbol **hacia atrás**, sustituyendo cada frecuencia combinada por el subárbol correspondiente, hasta llegar al árbol final donde las hojas son los caracteres $!, @, \sharp, $, %$ con sus longitudes de código determinadas por su profundidad en el árbol (los más frecuentes, como $%=12$, quedan más cerca de la raíz — código más corto).
+> Luego se reconstruye el árbol **hacia atrás**, sustituyendo cada frecuencia combinada por el subárbol correspondiente, hasta llegar al árbol final donde las hojas son los caracteres $!, @, \sharp, \$, \%$ con sus longitudes de código determinadas por su profundidad en el árbol (los más frecuentes, como $\% = 12$, quedan más cerca de la raíz — código más corto).
 > 
 > > [!tip]- 💡 Un código Huffman óptimo no es único
 > > 
@@ -193,7 +184,7 @@
 > 
 > No confundas "entreorden" con "el orden en que fueron insertados los datos". El **entreorden** de un árbol de búsqueda binaria siempre produce los datos en **orden alfabético/numérico ascendente**, sin importar en qué orden se insertaron originalmente — esa es justamente la propiedad que lo hace útil.
 
-!ChatGPT Image 18 ago 2026, 19_13_53.png
+![ChatGPT Image 18 ago 2026, 19_13_53.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2019_13_53.png)
 
 ---
 
@@ -212,15 +203,6 @@ graph TD
     I --> J["Preorden: Raíz-Izq-Der"]
     I --> K["Entreorden: Izq-Raíz-Der"]
     I --> L["Postorden: Izq-Der-Raíz"]
-    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style E fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style G fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style I fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style J fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style K fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style L fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
 
 ```
 
@@ -239,11 +221,6 @@ graph TD
     Q3 -->|Liberar memoria / evaluar postfijo| Post["Postorden"]
     Q3 -->|Obtener datos ordenados| In["Entreorden"]
 
-    style BST fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
-    style Huffman fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
-    style Pre fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
-    style In fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
-    style Post fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
 ```
 
 ---

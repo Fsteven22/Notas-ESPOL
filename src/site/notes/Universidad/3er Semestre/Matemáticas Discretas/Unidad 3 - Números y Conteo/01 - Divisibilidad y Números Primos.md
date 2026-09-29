@@ -31,22 +31,8 @@
 >     D --> D1["Factorizacion unica en primos"]
 >     E --> E1["Demostracion por contradiction"]
 > 
->     style B fill:#e1f5ff
->     style C fill:#e1ffe1
->     style D fill:#fff4e1
->     style E fill:#f5e1ff
 > 
-    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style C1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style D1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style E fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style E1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
+> ```
 > 
 > |Concepto|Fórmula clave|
 > |---|---|
@@ -237,19 +223,6 @@ graph TD
     D --> D1["Todo n > 1 = producto de primos"]
     D --> D2["Factorizacion unica"]
     E --> E1["Demostracion por contradiction"]
-    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style C1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style D1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style D2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style E fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style E1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style root fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
 
 ```
 

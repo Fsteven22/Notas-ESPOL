@@ -62,7 +62,7 @@
 > Las familias **TTL** y **CMOS** operan a 5 V. Si el voltaje supera 5 V, se dañan los transistores internos. Si está por debajo del umbral lógico, el IC no reconoce la señal.
 >
 > Se usa un **Zener 1N4733A** (5.1 V) para regular y proteger las entradas lógicas, asegurando que las señales acondicionadas no sobrepasen el voltaje de operación seguro.
-
+>
 > [!note] 🟢 Compuertas lógicas
 >
 > |Compuerta|IC|Función|Salida|
@@ -70,7 +70,7 @@
 > |**NOT**|74LS04|Inversión|$A'$|
 > |**AND**|74LS08|Conjunción|$A \cdot B$|
 > |**OR**|74HC32|Disyunción|$A + B$|
-
+>
 > [!note] 🟡 Comparador con LM358
 >
 > Los potenciometros RV1 (70%) y RV3 (30%) establecen umbrales de referencia con fuente de 12 V:
@@ -88,7 +88,7 @@
 > 1. Diseñar bloque comparador con LM358.
 > 2. Ajustar RV1 al 70% y RV3 al 30%.
 > 3. Observar activación de salidas según la señal Vacond.
-
+>
 > [!question]- ❓ Análisis
 >
 > - **Función del Zener 1N4733A:** regula y fija el voltaje a máximo 5.1 V. Protege las entradas lógicas de sobrevoltaje.
@@ -103,7 +103,7 @@
 > 1. Armar circuito con compuertas 74LS04, 74LS08, 74HC32.
 > 2. Implementar la función lógica $F = A' + (B \cdot C)$.
 > 3. Verificar con tabla de verdad.
-
+>
 > [!note] 📊 Tabla de verdad
 >
 > |A|B|C|F|
@@ -116,7 +116,7 @@
 > |1|0|1|0|
 > |1|1|0|0|
 > |1|1|1|1|
-
+>
 > [!note] 🔵 Simplificación
 >
 > - **SOP:** $F = A'B'C' + A'B'C + A'BC' + A'BC + ABC$
@@ -132,7 +132,7 @@
 > 1. Conectar sensor analógico al pin A0 del Arduino.
 > 2. Conectar LEDs a pines digitales 7 (rojo), 5 (amarillo), 3 (verde).
 > 3. Subir código y observar comportamiento en Monitor Serial.
-
+>
 > [!note] 📐 Código Arduino
 >
 > ```cpp
@@ -171,7 +171,7 @@
 >   }
 > }
 > ```
-
+>
 > [!question] ❓ Funciones clave de Arduino
 >
 > |Función|Descripción|
@@ -216,17 +216,17 @@
 > - [ ] Identifico los integrados 74LS04, 74LS08 y 74HC32 y verifico sus pines VCC y GND en el datasheet.
 > - [ ] Acondiciono una señal analógica a 0–5 V usando Zener 1N4733A para proteger las entradas lógicas.
 > - [ ] Implemento la función lógica $F = A' + (B \cdot C)$ con compuertas NOT, AND y OR.
-
+>
 > [!note] Nivel Intermedio
 > - [ ] Verifico la tabla de verdad midiendo voltajes en las salidas de cada compuerta.
 > - [ ] Uso el mapa de Karnaugh para simplificar una función booleana y la comparo con la implementación física.
 > - [ ] Programo el Arduino para leer un sensor analógico con `analogRead()` y mapear el valor a un rango útil.
-
+>
 > [!note] Nivel Avanzado
 > - [ ] Controlo 3 LEDs (rojo, amarillo, verde) con `digitalWrite()` según rangos del sensor.
 > - [ ] Uso `Serial.println()` para enviar datos al Monitor Serial y graficar el comportamiento del sensor.
 > - [ ] Comparo ventajas y desventajas de controlar con compuertas lógicas vs Arduino en una aplicación real.
-
+>
 > [!quote] 🔗 Conexiones
 > - Teoría: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 4 - Sistemas Digitales/01 - Introducción a la Electrónica Digital\|01 - Introducción a la Electrónica Digital]], [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 4 - Sistemas Digitales/02 - Minimización de Funciones Lógicas\|02 - Minimización de Funciones Lógicas]] y [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/07 - Circuitos Integrados de Logica Fija y Tablas de Verdad\|07 - Circuitos Integrados de Logica Fija y Tablas de Verdad]]
 > - Previa: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Practico/Practicas del Laboratorio/Práctica 5 FESD/Práctica 5 — Filtros Activos\|Práctica 5 — Filtros Activos]]

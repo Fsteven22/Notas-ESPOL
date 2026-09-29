@@ -6,7 +6,7 @@
 # Problemas con Poleas y Sistemas de Cuerdas
 
 > [!quote] "Las poleas transforman la dirección y magnitud de las fuerzas, creando sistemas mecánicos donde la geometría define el equilibrio." 🔄
-
+>
 > [!info] Los problemas con poleas y sistemas de cuerdas representan aplicaciones fundamentales del equilibrio estático, donde las fuerzas se redistribuyen a través de cuerdas inextensibles y poleas que pueden ser fijas, móviles, o tener masa propia. Estos sistemas requieren análisis cuidadoso de las tensiones, considerando las restricciones geométricas y las condiciones de equilibrio.
 
 ## 🔄 Tipos de Poleas y Sistemas
@@ -33,7 +33,7 @@
 > 
 > - **En la polea**: R₁ + R₂ + \vec{T}₁ + \vec{T}₂ = 0
 > - **En la cuerda**: |T₁| = |T₂| = T
-
+>
 > [!tip] **Polea Móvil (Ideal)** 🔄
 > 
 > ### Características:
@@ -53,7 +53,7 @@
 > ### Equilibrio de la Polea Móvil:
 > 
 > ΣF↑ = 2T - W = 0 → **T = W/2**
-
+>
 > [!warning] **Polea con Masa** ⚖️
 > 
 > ### Consideraciones Adicionales:
@@ -74,7 +74,7 @@
 > - Equilibrio vertical: T₁ + T₂ - W - Wₚ = 0
 > - Si cuerda continua: T₁ = T₂ = T
 > - Resultado: 2T = W + Wₚ → **T = (W + Wₚ)/2**
-
+>
 > [!success] 🔗 Configuraciones de Sistemas
 > 
 > ```mermaid
@@ -98,7 +98,7 @@
 >     style C fill:#fff3e0
 >     style D fill:#e8f5e8
 > ```
-
+>
 > [!note] **Restricciones Geométricas** 📐
 > 
 > ### Cuerdas Inextensibles:
@@ -158,7 +158,7 @@
 > 13. Plantea sistema de ecuaciones
 > 14. Resuelve para encontrar tensiones y reacciones
 > 15. Verifica coherencia física de resultados
-
+>
 > [!tip] **Técnicas Especializadas** 🔧
 > 
 > ### **Método del Cuerpo Libre**:
@@ -208,7 +208,7 @@
 > Sea Δm la masa adicional en m₁: (m₁ + Δm)g = m₂g (10 + Δm)(9.8) = 15(9.8) 10 + Δm = 15 **Δm = 5 kg**
 > 
 > **Tensión en equilibrio**: T = 15(9.8) = **147 N**
-
+>
 > [!example] **Problema 2: Sistema con Polea Móvil** 🏋️
 > 
 > ### Enunciado:
@@ -230,7 +230,7 @@
 > **Ventaja mecánica**: VM = W/F = 196/98 = **2**
 > 
 > **Verificación**: La polea móvil multiplica la fuerza por 2, permitiendo levantar 196 N con solo 98 N.
-
+>
 > [!example] **Problema 3: Sistema con Polea de Masa** ⚖️
 > 
 > ### Enunciado:
@@ -257,7 +257,7 @@
 > **Interpretación**: El sistema NO puede estar en equilibrio estático con estas masas. La masa m₂ es mayor, por lo que el sistema tendrá aceleración angular.
 > 
 > **Para equilibrio estático**: Se necesitaría m₁ = m₂, entonces: **T₁ = T₂ = mg** (donde m sería la masa común)
-
+>
 > [!example] **Problema 4: Sistema Combinado (Atwood Modificado)** 🔗
 > 
 > ### Enunciado:
@@ -289,7 +289,7 @@
 > **Alternativa**: Cambiar m₂ para θ = 30°: m₁g = m₂g sen(30°) 6 = m₂(0.5) **m₂ = 12 kg** (masa necesaria para equilibrio)
 > 
 > **Tensión en equilibrio**: T = 58.8 N
-
+>
 > [!example] **Problema 5: Polipasto (Sistema de Poleas Múltiples)** 🏗️
 > 
 > ### Enunciado:
@@ -358,7 +358,7 @@
 > - **Poleas fijas**: No afectan VM, solo dirigen
 > - **Poleas móviles**: Cada una multiplica VM por 2
 > - **VM_total = ∏VM_individual**
-
+>
 > [!tip] **Relaciones Geométricas** 📐
 > 
 > ### Para Cuerdas Inextensibles:

@@ -15,17 +15,12 @@
 > 
 > ```mermaid
 > graph TD
->     A[Pseudocódigo y Algoritmos] --> B[Sintaxis básica<br/>asignación, if, comentarios]
->     A --> C[Concepto de<br/>Algoritmo]
->     A --> D[Funciones y<br/>return]
->     A --> E[Estructuras de<br/>control: while, for]
+>     A[Pseudocódigo y Algoritmos] --> B[Sintaxis básica asignación, if, comentarios]
+>     A --> C[Concepto de Algoritmo]
+>     A --> D[Funciones y return]
+>     A --> E[Estructuras de control: while, for]
 >     A --> F[Ejemplos clásicos]
 > 
->     style B fill:#e1f5ff
->     style C fill:#e1ffe1
->     style D fill:#fff4e1
->     style E fill:#f5e1ff
->     style F fill:#ffe1e1
 > ```
 
 ---
@@ -224,7 +219,7 @@
 
 ---
 
-## 🎓 Ejemplos Avanzados: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/II - Álgebra Proposicional/02 - Cuantificadores\|Cuantificadores]] Lógicos
+## 🎓 Ejemplos Avanzados: [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/02 - Cuantificadores\|Cuantificadores]] Lógicos
 
 > [!example] 🟢 Valor lógico de $\forall x: P(x)$
 > 
@@ -296,7 +291,7 @@
 > }
 > ```
 
-!ChatGPT Image 18 ago 2026, 20_24_30.png
+![ChatGPT Image 18 ago 2026, 20_24_30.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2020_24_30.png)
 
 ---
 

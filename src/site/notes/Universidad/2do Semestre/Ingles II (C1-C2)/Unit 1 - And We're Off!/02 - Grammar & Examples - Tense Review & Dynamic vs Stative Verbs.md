@@ -233,7 +233,7 @@
 > 3. They __________________ (already finished / have already finished) the report.
 > 4. He __________________ (reads / is reading) the newspaper every morning — it's his routine.
 > 5. We __________________ (have been waiting / waited) for two hours and they still haven't arrived.
-
+>
 > [!success] ✅ Respuestas — Ejercicio 1
 > 
 > 6. **has worked** _(Present Perfect — "since" indica duración desde el pasado hasta el presente)_
@@ -253,7 +253,7 @@
 > 8. They **are having** dinner at the moment.
 > 9. He **is believing** everything she says.
 > 10. We **are thinking** of moving to a new city.
-
+>
 > [!success] ✅ Respuestas — Ejercicio 2
 > 
 > 11. ❌ Estativo (S) → _I **know** the answer to that question._ (_know_ = comprensión; no va en continuo)
@@ -273,7 +273,7 @@
 > 13. _We were waiting for the bus when it starts to rain._
 > 14. _He has been working here in 2018._
 > 15. _They are knowing each other since university._
-
+>
 > [!success] ✅ Respuestas — Ejercicio 3
 > 
 > 16. ❌ → _I **saw** that movie last Friday._ _(Simple Past — "last Friday" es un tiempo específico del pasado, no va con Present Perfect)_

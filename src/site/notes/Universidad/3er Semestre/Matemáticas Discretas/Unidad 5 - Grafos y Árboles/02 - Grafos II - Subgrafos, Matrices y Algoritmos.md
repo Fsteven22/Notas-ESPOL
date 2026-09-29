@@ -24,15 +24,8 @@
 >     A --> D["Algoritmos"]
 >     D --> E["Agente Viajero (TSP)"]
 >     D --> F["Dijkstra (ruta más corta)"]
->     style A fill:#1e3a5f,color:#fff
->     style C fill:#e1f5ff
->     style D fill:#f5e1ff
 > 
-    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style E fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
+> ```
 
 ---
 
@@ -84,11 +77,7 @@
 >     v4["v4 (aislado)"]
 >     v5 --- v6
 > 
-    style v1 fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style v2 fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style v3 fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style v5 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style v6 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
+> ```
 > 
 > Este grafo **no es conexo**: tiene 3 componentes:
 > 
@@ -218,7 +207,7 @@
 > 
 > > [!tip]- 💡 Idea central del algoritmo Dijkstra es **goloso** (greedy): en cada paso, fija la distancia del vértice más cercano ya conocido, y usa esa distancia fija para intentar **mejorar** (relajar) las distancias de sus vecinos. Una vez que un vértice sale de $T$, su distancia ya no cambia — por eso el algoritmo requiere pesos positivos.
 
-!ChatGPT Image 18 ago 2026, 18_08_27.png
+![ChatGPT Image 18 ago 2026, 18_08_27.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2018_08_27.png)
 
 ---
 
@@ -239,21 +228,15 @@
 
 ```mermaid
 graph TD
-    A["¿Qué problema tengo?"] --> B{"¿Busco la ruta más corta<br/>ENTRE DOS vértices?"}
-    A --> C{"¿Busco visitar TODOS<br/>los vértices al menor costo?"}
-    B --> D{"¿Todos los pesos<br/>son positivos?"}
+    A["¿Qué problema tengo?"] --> B{"¿Busco la ruta más corta ENTRE DOS vértices?"}
+    A --> C{"¿Busco visitar TODOS los vértices al menor costo?"}
+    B --> D{"¿Todos los pesos son positivos?"}
     D -->|Sí| E["Usar Dijkstra"]
-    D -->|No| F["Necesitas otro algoritmo<br/>(ej. Bellman-Ford)"]
-    C --> G["Es un problema de<br/>Agente Viajero (TSP)"]
-    G --> H{"¿Pocos vértices<br/>(grafo pequeño)?"}
-    H -->|Sí| I["Explorar ciclos de Hamilton<br/>y comparar longitudes"]
-    H -->|No| J["Usar cotas mínimas o<br/>heurísticas (no exacto)"]
-    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B fill:#E65100,color:#FFFFFF,stroke:#FFB74D,stroke-width:1px
-    style C fill:#E65100,color:#FFFFFF,stroke:#FFB74D,stroke-width:1px
-    style D fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style G fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style H fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    D -->|No| F["Necesitas otro algoritmo (ej. Bellman-Ford)"]
+    C --> G["Es un problema de Agente Viajero (TSP)"]
+    G --> H{"¿Pocos vértices (grafo pequeño)?"}
+    H -->|Sí| I["Explorar ciclos de Hamilton y comparar longitudes"]
+    H -->|No| J["Usar cotas mínimas o heurísticas (no exacto)"]
 ```
 
 ---
@@ -271,15 +254,6 @@ graph TD
     A --> H["Algoritmos"]
     H --> I["Agente Viajero (TSP)"]
     H --> J["Dijkstra"]
-    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style D fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style E fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style G fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style H fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style I fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style J fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
 
 ```
 

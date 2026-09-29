@@ -8,7 +8,7 @@
 ## 🧠 Contexto Fundamental
 
 > [!info] 📖 Definición Los **diagramas de energía** son herramientas gráficas que permiten analizar el movimiento de un objeto en sistemas donde solo actúan **fuerzas conservativas**. Al graficar la energía potencial en función de la posición, podemos determinar de manera intuitiva el movimiento, energía cinética, puntos de retorno y posiciones de equilibrio.
-
+>
 >[!success] **Aplicaciones principales:**
 >- 🎯 Análisis de movimiento oscilatorio
 >- 🚀 Predicción de trayectorias
@@ -51,9 +51,9 @@ graph LR
 ### 📐 Ecuaciones Clave
 
 > [!note] 📝 Conservación de Energía Mecánica **Energía total mecánica:** $$E = K + U = \text{constante}$$
-
+>
 > [!tip] 💡 Energía Cinética desde el Diagrama **Energía cinética:** $$K = E - U$$ _La energía cinética es la distancia vertical entre la línea de energía total y la curva de energía potencial_
-
+>
 > [!warning] ⚠️ Relación Fuerza-Potencial **Fuerza conservativa:** $$F_x = -\frac{dU}{dx}$$ _La fuerza es el **negativo** de la pendiente de la curva de energía potencial_
 
 ---

@@ -209,7 +209,7 @@
 > 6. I am ***studying*** for my exam.
 > 7. She suggested ***leaving*** early.
 > 8. The kids are ***playing*** in the park.
-
+>
 > [!success] ✅ Respuestas — Ejercicio 1
 >
 > | # | Respuesta | Por qué |
@@ -222,7 +222,7 @@
 > | 6 | **PP** | *am studying* forma el Present Continuous — parte del verbo |
 > | 7 | **G** | Objeto del verbo *suggested* — actúa como sustantivo |
 > | 8 | **PP** | *are playing* forma el Present Continuous — parte del verbo |
-
+>
 > [!example] ✏️ Ejercicio 2 — Completa con la conjunción FANBOYS correcta
 >
 > Elige la conjunción más apropiada para cada oración (*for, and, nor, but, or, yet, so*):
@@ -234,7 +234,7 @@
 > 5. I wanted to travel, ________ I had no money.
 > 6. She was nervous, ________ she had practiced many times.
 > 7. He left early, ________ he had an appointment.
-
+>
 > [!success] ✅ Respuestas — Ejercicio 2
 >
 > | # | Conjunción | Por qué |
@@ -246,7 +246,7 @@
 > | 5 | **but** | Contraste directo entre querer y no poder |
 > | 6 | **yet** | Contraste — estaba nerviosa a pesar de haber practicado |
 > | 7 | **for** | Explica la razón de salir temprano |
-
+>
 > [!example] ✏️ Ejercicio 3 — Neither … nor o NOR con inversión?
 >
 > Completa cada oración usando el patrón correcto de NOR:
@@ -255,7 +255,7 @@
 > 9. He didn't apologize, ________ ________ he explain his behavior.
 > 10. ________ the manager ________ the employees were informed.
 > 11. I am not tired, ________ ________ I hungry.
-
+>
 > [!success] ✅ Respuestas — Ejercicio 3
 >
 > | # | Respuesta | Patrón usado |

@@ -956,7 +956,7 @@
 > En el punto $(1, -1)$.
 > 
 > b) $f(x,y) = \begin{cases} \frac{\sin(x^2 + y^2)}{x^2 + y^2} & \text{si } (x,y) \neq (0,0) \ k & \text{si } (x,y) = (0,0) \end{cases}$
-
+>
 > [!example] 💪 Práctica Nivel Intermedio
 > 
 > **4. Verificar continuidad en el origen:**
@@ -984,7 +984,7 @@
 > b) $f(x,y) = xy$ en el rectángulo $[0,1] \times [0,2]$
 > 
 > c) $f(x,y) = e^{-(x^2+y^2)}$ en $\mathbb{R}^2$ (¿se aplica el TVE?)
-
+>
 > [!example] 💪 Práctica Nivel Avanzado
 > 
 > **7. Problemas conceptuales:**
@@ -1088,7 +1088,7 @@
 > $$\lim_{(x,y) \to (0,0)} \frac{\sin(x^2 + y^2)}{x^2 + y^2} = 1$$
 > 
 > Para continuidad: $k = 1$ ✓
-
+>
 > [!success] 🔑 Respuestas Ejercicios Intermedios
 > 
 > **4a)** $f(x,y) = \begin{cases} \frac{xy^2}{x^2 + y^4} & \text{si } (x,y) \neq (0,0) \ 0 & \text{si } (x,y) = (0,0) \end{cases}$
@@ -1151,7 +1151,7 @@
 > 
 > - La temperatura en una placa debe ser continua (no hay saltos instantáneos)
 > - $T(x,y)$ continua garantiza transiciones su aves de temperatura
-
+>
 > - Importante para análisis térmico y conducción de calor
 > 
 > **Campos de fuerza:**

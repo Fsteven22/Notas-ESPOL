@@ -33,7 +33,7 @@
 > [!info] 🔧 ¿Qué es el 555?
 > 
 > El **555** es un circuito integrado clásico de temporización, formado internamente por dos comparadores, un flip-flop SR y un transistor de descarga. Se alimenta con un rango amplio de voltaje (típicamente 4.5 V a 16 V) y puede operar en tres configuraciones principales: **astable** (oscilador libre), **monoestable** (disparado por pulso único) y **biestable** (flip-flop SR sin temporización).
-
+>
 > [!note] 🔁 Modo Astable (oscilador)
 > 
 > Genera una onda cuadrada continua sin necesidad de señal de disparo externa. Se configura con dos resistencias ($R_1$, $R_2$) y un capacitor ($C$).
@@ -45,7 +45,7 @@
 > Donde $D$ es el **ciclo de trabajo (duty cycle)**, siempre mayor a 50 % en la configuración clásica de 3 pines externos (se puede bajar de 50 % agregando un diodo en paralelo con $R_2$).
 > 
 > - Usos: generación de reloj para lógica digital, parpadeo de LEDs, tonos audibles, base de tiempo para otros circuitos.
-
+>
 > [!note] ⚡ Modo Monoestable (disparado)
 > 
 > Genera un único pulso de duración fija cada vez que recibe un flanco de disparo en el pin _Trigger_. Se configura con una resistencia $R$ y un capacitor $C$.
@@ -53,7 +53,7 @@
 > $$t = 1.1, R, C$$
 > 
 > - Usos: temporizadores de retardo, anti-rebote (debounce) de pulsadores, generación de pulsos de ancho controlado a partir de un evento.
-
+>
 > [!note] 🔒 Modo Biestable (Flip-Flop SR)
 >
 > A diferencia de los otros dos modos, el biestable **no usa red RC de temporización** — no hay condensadores ni resistencias que definan tiempos. Su comportamiento depende exclusivamente de dos entradas digitales, y el circuito se comporta como un **flip-flop Set-Reset (latch SR)**: permanece indefinidamente en uno de dos estados estables (salida ALTA o BAJA) hasta que una señal externa lo obliga a cambiar.
@@ -79,7 +79,7 @@
 > ```
 >
 > > 📌 Es, en esencia, una **memoria de 1 bit**: no mide tiempo, solo recuerda cuál de los dos botones se presionó por última vez.
-
+>
 > [!success] 📊 Astable vs. Monoestable vs. Biestable
 > 
 > |Característica|Astable|Monoestable|Biestable|
@@ -90,7 +90,7 @@
 > |**Disparo externo**|No requerido|Requerido (flanco en _Trigger_)|Requerido en dos pines (_Trigger_ = SET, _Reset_ = RESET)|
 > |**Pin Threshold (6)**|Conectado a la red RC|Conectado a la red RC|Conectado directamente a tierra|
 > |**Aplicación típica**|Osciladores, generación de PWM|Retardos, antirrebote|Memorias de 1 bit, interruptores ON/OFF, antirrebote por enclavamiento|
-
+>
 > [!example]- 🟢 Ejemplo — Demostración del 555 en modo biestable (Tarea Autónoma #2)
 >
 > **Circuito:** $V_{CC}=+5$ a $+15$ V. Pin 4 (Reset) y Pin 2 (Trigger) cada uno con su propia resistencia pull-up de $10\text{ k}\Omega$ hacia $V_{CC}$, y su propio pulsador hacia tierra. Pin 6 (Threshold) y Pin 5 (Control Voltage) conectados directamente a tierra a través de un capacitor de $0.01\ \mu F$ (filtrado de ruido, sin función de temporización). Pin 7 (Discharge) sin conectar. Salida (Pin 3) hacia un LED con resistencia limitadora de $470\ \Omega$.
@@ -158,7 +158,7 @@
 >     style C fill:#e1f5ff
 >     style D fill:#e1ffe1
 > ```
-
+>
 > [!note] 🎯 Resolución y LSB
 > 
 > La **resolución** $n$ (en bits) determina cuántos niveles discretos puede representar el conversor:
@@ -170,7 +170,7 @@
 > Donde $LSB$ (bit menos significativo) es el menor cambio de voltaje que el ADC puede distinguir, y $V_{ref}$ es el voltaje de referencia del conversor.
 > 
 > > 📌 A mayor número de bits, mayor precisión, pero también mayor tiempo de conversión y complejidad del circuito.
-
+>
 > [!note] ⏱️ Muestreo y Teorema de Nyquist
 > 
 > Para no perder información de la señal original, la frecuencia de muestreo $f_s$ debe cumplir:
@@ -178,7 +178,7 @@
 > $$f_s > 2 f_{max}$$
 > 
 > Donde $f_{max}$ es la componente de mayor frecuencia presente en la señal analógica. Si no se cumple, ocurre **aliasing**: frecuencias altas se "disfrazan" de frecuencias bajas falsas en la señal digitalizada.
-
+>
 > [!success] 📊 Tipos comunes de ADC
 > 
 > |Tipo|Principio|Velocidad|Complejidad|
@@ -203,7 +203,7 @@
 > |**1**|$f = \dfrac{1.44}{(R_1+2R_2)C} = \dfrac{1.44}{(1000+20000)\times 0.1\times10^{-6}} \approx 686\text{ Hz}$|
 > |**2**|$D = \dfrac{R_1+R_2}{R_1+2R_2} = \dfrac{1000+10000}{1000+20000} \approx 0.524 ;(52.4%)$|
 > |**3**|Conclusión: oscilador de ~686 Hz con duty cycle cercano al 50% , útil como reloj o tono audible|
-
+>
 > [!example]- ✏️ Ejercicio 2 — Resolución de un ADC
 > 
 > **Dato:** ADC de $n = 10$ bits, $V_{ref} = 5\text{ V}$.
@@ -213,7 +213,7 @@
 > |**1**|Niveles $= 2^{10} = 1024$|
 > |**2**|$LSB = \dfrac{5}{1024} \approx 4.88\text{ mV}$|
 > |**3**|Conclusión: el ADC puede distinguir cambios de voltaje de aproximadamente 4.88 mV; una señal de entrada de 2.5 V se codificaría como el código digital $512$ (a mitad de escala)|
-
+>
 > [!example]- ✏️ Ejercicio 3 — Secuencia de estados de un 555 biestable
 >
 > **Dato:** Un 555 en modo biestable parte con la salida en BAJO. Se presiona Trigger, luego (sin tocar Reset) se vuelve a presionar Trigger, y finalmente se presiona Reset.
@@ -237,14 +237,14 @@
 > - [ ] Explico qué representa el ciclo de trabajo (duty cycle) en una señal PWM.
 > - [ ] Describo en una frase qué hace un ADC y por qué es necesario entre el mundo analógico y el digital.
 > - [ ] Identifico qué pines del 555 funcionan como SET y RESET en modo biestable.
-
+>
 > [!note] 🎯 Nivel Intermedio
 > 
 > - [ ] Calculo $f$ y $D$ de un 555 astable dados $R_1$, $R_2$ y $C$.
 > - [ ] Calculo $t$ de un 555 monoestable dados $R$ y $C$.
 > - [ ] Calculo la resolución (LSB) de un ADC dado su número de bits y $V_{ref}$.
 > - [ ] Explico por qué el modo biestable no necesita red RC de temporización, a diferencia de los otros dos modos.
-
+>
 > [!note] 🎯 Nivel Avanzado
 > 
 > - [ ] Diseño un 555 astable para cumplir una frecuencia y duty cycle objetivo.
@@ -292,7 +292,7 @@ mindmap
 > [4] A. R. Hambley, _Electrical Engineering: Principles and Applications_, 7th ed. Hoboken, NJ, USA: Pearson, 2018, pp. 610–640.
 >
 > [5] Cajape R., Sánchez F., Terán E., Vega A., _Tarea Autónoma #2 — Demostración 555 Biestable_, EYAG1037, FIEC-ESPOL, I PAO 2026.
-
+>
 > [!quote] 🔗 Conexiones
 > 
 > - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/02 - Aplicaciones de los OPAMs - Minimización de Ruido\|02 - Aplicaciones de los OPAMs - Minimización de Ruido]] → [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/03 - Configuraciones Lineales Básicas del OPAM\|03 - Configuraciones Lineales Básicas del OPAM]] → [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/04 - Integrador, Derivador y Circuitos No Lineales\|04 - Integrador, Derivador y Circuitos No Lineales]] → [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/05 - Ejercicios Resueltos y de Oposición\|05 - Ejercicios Resueltos y de Oposición]] — bloque completo de OPAMs del PDF EjREsAmpOp.

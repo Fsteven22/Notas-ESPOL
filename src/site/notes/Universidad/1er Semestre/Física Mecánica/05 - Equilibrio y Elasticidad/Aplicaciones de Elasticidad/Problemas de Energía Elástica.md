@@ -6,7 +6,7 @@
 # Problemas de Energía Elástica
 
 > [!quote] "La energía elástica es la memoria silenciosa de la materia; cada deformación guarda la historia de las fuerzas que la crearon, esperando el momento perfecto para liberarse." 🔋
-
+>
 > [!info] La energía elástica representa la capacidad de un material deformado para realizar trabajo al regresar a su forma original. Este concepto es fundamental en el análisis de sistemas mecánicos, desde resortes simples hasta estructuras complejas, y constituye un puente esencial entre la mecánica de sólidos y la conservación de energía.
 
 ## 🎯 Conceptos Fundamentales
@@ -30,7 +30,7 @@
 > Trabajo aplicado = Energía almacenada (región elástica)
 > W = U = ∫F dx = ∫σ dε · V
 > ```
-
+>
 > [!tip] **Energía en Diferentes Tipos de Deformación** 🔧
 > 
 > ### **Tracción/Compresión Uniaxial**:
@@ -66,7 +66,7 @@
 > - T: Torque aplicado
 > - G: Módulo de rigidez
 > - J: Momento polar de inercia
-
+>
 > [!warning] **Densidad de Energía de Deformación** 📊
 > 
 > ### Definición:
@@ -83,7 +83,7 @@
 > ### Para Estado Multiaxial:
 > 
 > **u = ½·[σ₁·ε₁ + σ₂·ε₂ + σ₃·ε₃ + τ₁₂·γ₁₂ + τ₂₃·γ₂₃ + τ₁₃·γ₁₃]**
-
+>
 > [!success] 🔄 Métodos de Cálculo de Energía Elástica
 > 
 > ```mermaid
@@ -105,7 +105,7 @@
 >     style C fill:#fff3e0
 >     style D fill:#e8f5e8
 > ```
-
+>
 > [!note] **Relaciones Energéticas Fundamentales** 📐
 > 
 > ### Para Elementos Estructurales:
@@ -195,7 +195,7 @@
 > **c) Trabajo adicional**: U₂ = ½·k·x₂² = ½·500·(0.12)² = 3.6 J W_adicional = U₂ - U₁ = 3.6 - 1.6 = 2.0 J
 > 
 > **Verificación**: W = ∫F dx = ∫₀.₀₈^₀.₁² 500x dx = 250[x²]₀.₀₈^₀.₁² = 2.0 J ✓
-
+>
 > [!example] **Problema 2: Barra en Tracción** 📏
 > 
 > ### Enunciado:
@@ -220,7 +220,7 @@
 > **c) Alargamiento**: δ = F·L/(E·A) = 15,000·2/(200×10⁹·3.14×10⁻⁴) = 0.478 mm
 > 
 > **Verificación**: U = ½·F·δ = ½·15,000·0.478×10⁻³ = 3.58 J ✓
-
+>
 > [!example] **Problema 3: Viga en Flexión** 🏗️
 > 
 > ### Enunciado:
@@ -248,7 +248,7 @@
 > U = (P²·L³)/(48·E·I) = (20,000)²·(4)³/(48·30×10⁹·4.5×10⁻⁴) = 395 J
 > 
 > **b) Deflexión máxima (Teorema de Castigliano)**: δₘₐₓ = ∂U/∂P = (P·L³)/(24·E·I) = 20,000·(4)³/(24·30×10⁹·4.5×10⁻⁴) = 39.5 mm
-
+>
 > [!example] **Problema 4: Sistema de Resortes** 🔗
 > 
 > ### Enunciado:

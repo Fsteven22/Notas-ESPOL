@@ -1811,7 +1811,7 @@ graph TB
 >       ∇×F = 0
 >       Usar siempre
 > ```
-
+>
 > **Ejemplo comparativo:**
 > 
 > **Problema:** ∫C F·dr donde F(x,y) = (2xy, x²) De (0,0) a (2,3) por y = (3/4)x²

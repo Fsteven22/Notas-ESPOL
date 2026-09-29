@@ -139,7 +139,7 @@
 > - Podemos usar $D_{\vec{u}}f = \nabla f \cdot \vec{u}$ con confianza
 > - El plano tangente existe en todo punto
 > - La regla de la cadena funciona
-
+>
 > [!example] 📝 Contraejemplo 1: Derivadas Existen pero NO es Diferenciable
 > 
 > **Función:**
@@ -193,7 +193,7 @@
 > - Función diferenciable: ❌
 > 
 > **Moraleja:** Existencia de derivadas parciales NO implica diferenciabilidad.
-
+>
 > [!example] 📝 Contraejemplo 2: Función NO C¹
 > 
 > **Función:**
@@ -310,7 +310,7 @@
 > - El teorema **no aplica** en el origen
 > - De hecho, múltiples valores de $\theta$ dan el mismo punto $(0,0)$
 > - No hay inversa única en el origen
-
+>
 > [!example] 📝 Ejemplo 2: Función Compleja
 > 
 > **Función:** $\vec{F}(x,y) = \begin{bmatrix} x^2 - y^2 \ 2xy \end{bmatrix}$ (corresponde a $f(z) = z^2$ en el plano complejo)
@@ -339,7 +339,7 @@
 > $$J_{\vec{G}}(1,0) = \begin{bmatrix} 1/2 & 0 \ 0 & 1/2 \end{bmatrix}$$
 > 
 > **Interpretación:** Localmente cerca de $(1,0)$, la inversa es aproximadamente $(x,y) \mapsto (x/2, y/2)$ más términos de orden superior.
-
+>
 > [!example] 📝 Ejemplo 3: Transformación NO Invertible
 > 
 > **Función:**
@@ -576,7 +576,7 @@
 > - $F_x(1,0) = 2 \neq 0$ ✅
 > - ¡Podemos despejar $x$ como función de $y$!
 > - $x = \sqrt{1-y^2}$ cerca de $y=0$
-
+>
 > [!example] 📝 Ejemplo 2: Superficie en 3D
 > 
 > **Ecuación:** $$F(x,y,z) = x^2 + y^2 + z^2 - z = 0$$
@@ -629,7 +629,7 @@
 > $$g_x(0,0) = -\frac{0}{1} = 0, \quad g_y(0,0) = -\frac{0}{1} = 0$$
 > 
 > El plano tangente en $(0,0,1)$ es horizontal: $z = 1$.
-
+>
 > [!example] 📝 Ejemplo 3: Sistema de Ecuaciones
 > 
 > **Sistema:**
@@ -952,7 +952,7 @@
 > b) $x^3 + y^3 = 6xy$ en el punto $(1, 1)$ (si es posible)
 > 
 > c) $\sin(xy) + \cos(x+y) = 1$ en el punto $(0, 0)$
-
+>
 > [!example] 💪 Práctica Nivel Intermedio
 > 
 > **4. Teorema de la función inversa:**
@@ -988,7 +988,7 @@
 > b) ¿Podemos despejar $(y, z)$ en función de $x$ cerca de este punto?
 > 
 > c) Calcular la Jacobiana de la función implícita
-
+>
 > [!example] 💪 Práctica Nivel Avanzado
 > 
 > **7. Demostración:**
@@ -1084,7 +1084,7 @@
 > En $(3,4)$:
 > 
 > $$\boxed{\frac{dy}{dx} = -\frac{3}{4}}$$
-
+>
 > [!success] 🔑 Respuestas Ejercicios Intermedios
 > 
 > **4a)** $\vec{F}(x,y) = \begin{bmatrix} x + y \ xy \end{bmatrix}$
@@ -1132,7 +1132,7 @@
 > $\vec{F}(2,1,0) = \begin{bmatrix} 5 - 9 \ 3 - 3 \end{bmatrix}$ tampoco.
 > 
 > Solución correcta: buscar puntos que satisfagan ambas ecuaciones.
-
+>
 > [!success] 🔑 Respuestas Ejercicios Avanzados
 > 
 > **9a)** $\vec{F}(x,y) = \begin{bmatrix} x^2 - y^2 \ 2xy \end{bmatrix}$

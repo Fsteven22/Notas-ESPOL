@@ -80,7 +80,7 @@
 > |**6 — Indulgencia vs Restricción (IVR)**|Grado en que las personas controlan sus impulsos y deseos|**Restricción**: supresión de gratificaciones, normas sociales estrictas|**Indulgencia**: libre expresión de emociones, disfrute de la vida, tiempo libre valorado|
 > 
 > > 💡 **Aplicación a medios sociales**: Una cultura con alto **individualismo** tiende a usar redes para construir marca personal (LinkedIn, Instagram). Una cultura **colectivista** las usa para coordinar grupos y movimientos (WhatsApp familiar, protestas organizadas). Una sociedad con alta **evasión de incertidumbre** puede resistir más las redes sociales por miedo a la exposición de datos personales.
-
+>
 > [!note] 🌐 Colectivismo en acción — Medios sociales como herramienta colectiva
 > 
 > Los medios sociales también pueden fomentar el **colectivismo**:

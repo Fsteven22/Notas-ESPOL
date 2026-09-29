@@ -254,7 +254,7 @@ graph TB
 > ```
 > 
 > **⚠️ Importante:** Si defines **cualquier** constructor, Java **NO** crea el constructor por defecto automáticamente.
-
+>
 > [!example] 🎨 Constructor Parametrizado
 > 
 > Permite crear objetos con valores iniciales específicos.
@@ -302,7 +302,7 @@ graph TB
 >     }
 > }
 > ```
-
+>
 > [!example] 🔗 Sobrecarga de Constructores
 > 
 > Tener **múltiples constructores** con diferentes parámetros en la misma clase.
@@ -784,7 +784,7 @@ mindmap
 >     }
 > }
 > ```
-
+>
 > [!example] 🎯 Práctica 2: Clase Empleado
 > 
 > ```java

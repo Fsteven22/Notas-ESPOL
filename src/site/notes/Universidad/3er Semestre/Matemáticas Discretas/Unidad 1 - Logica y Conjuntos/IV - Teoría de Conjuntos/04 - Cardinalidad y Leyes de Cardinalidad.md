@@ -18,10 +18,6 @@
 >     A --> D[Principio de Inclusión-Exclusión]
 >     A --> E[Problemas con Diagramas de Venn]
 >
->     style B fill:#e1f5ff
->     style C fill:#e1ffe1
->     style D fill:#fff4e1
->     style E fill:#f5e1ff
 > ```
 
 ---
@@ -120,6 +116,28 @@
 > > La suma de las 4 regiones siempre debe ser $\lvert U \rvert$:
 > >
 > > $$(\lvert A\rvert - \lvert A \cap B\rvert) + (\lvert B\rvert - \lvert A \cap B\rvert) + \lvert A \cap B\rvert + (\lvert U\rvert - \lvert A \cup B\rvert) = \lvert U\rvert$$
+>
+> **Mapa visual — las 4 regiones particionan el universo:**
+>
+> ```mermaid
+> graph TD
+>     U["Universo U"] --> SA["Solo A"]
+>     U --> SB["Solo B"]
+>     U --> AB["Ambos"]
+>     U --> N["Ninguno"]
+>     SA --> F1["A menos interseccion"]
+>     SB --> F2["B menos interseccion"]
+>     AB --> F3["Interseccion"]
+>     N --> F4["U menos union"]
+>     F1 --> T["Suma total = U"]
+>     F2 --> T
+>     F3 --> T
+>     F4 --> T
+> ```
+>
+> **Diagrama de Venn real** (con los valores del Ejercicio 1: 22 solo M, 14 solo F, 8 ambos, 6 ninguno):
+>
+> ![venn-2-conjuntos.png](/img/user/Universidad/Figuras/venn-2-conjuntos.png)
 
 ---
 
@@ -147,6 +165,26 @@
 > > $$\lvert(A \cap B) \text{ solo}\rvert = \lvert A \cap B\rvert - \lvert A \cap B \cap C\rvert$$
 > > 
 > > Porque $\lvert A \cap B\rvert$ incluye a los que están en los tres; hay que restarlos.
+>
+> **Mapa visual — las 8 regiones en 3 niveles:**
+>
+> ```mermaid
+> graph TD
+>     U["Universo U"] --> L1["Exactamente 1"]
+>     U --> L2["Exactamente 2"]
+>     U --> L3["Los 3"]
+>     U --> L0["Ninguno"]
+>     L1 --> A["Solo A"]
+>     L1 --> B["Solo B"]
+>     L1 --> C["Solo C"]
+>     L2 --> AB["A y B solo"]
+>     L2 --> AC["A y C solo"]
+>     L2 --> BC["B y C solo"]
+> ```
+>
+> **Diagrama de Venn real** (con los valores del Ejercicio 2 de deportes: 23, 18, 13, 10, 7, 5, 5, 19 ninguno):
+>
+> ![venn-3-conjuntos.png](/img/user/Universidad/Figuras/venn-3-conjuntos.png)
 
 
 ---
@@ -413,11 +451,6 @@ graph TD
     C --> I["Verificar: suma de regiones = U"]
     H --> I
 
-    style A fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style C fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
-    style D fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
-    style E fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
-    style I fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
 ```
 
 ---

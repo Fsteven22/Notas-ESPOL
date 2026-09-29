@@ -199,7 +199,7 @@
 > **Situación 2:** Prestaste el laptop de un amigo y se te cayó, rompiéndole la pantalla. a) _I'm sorry about that._ b) _Oops, my bad._ c) _I feel awful about it. I'll pay to have it fixed, I promise._
 > 
 > **Situación 3:** Olvidaste el cumpleaños de un familiar cercano. a) _I'm really sorry — I completely forgot. I should have been more careful._ b) _Oops, my bad._ c) _Let's just move on._
-
+>
 > [!success] ✅ Respuestas — Ejercicio 1
 > 
 > 1. b) _Oops, my bad!_ — error menor, tono informal
@@ -217,7 +217,7 @@
 > 6. "Is there __________________ I can do to make it up to you?"
 > 7. "I just did the __________________ thing — I sent your private message to the wrong group."
 > 8. "I had no idea it would cause so much __________________ ."
-
+>
 > [!success] ✅ Respuestas — Ejercicio 2
 > 
 > 9. can't tell you
@@ -237,7 +237,7 @@
 > **Situación B:** Tu amigo accidentalmente rayó tu teléfono pero ofrece pagar la reparación. a) _We all make mistakes. Don't beat yourself up about it._ b) _Let's just move on — I don't care at all._ c) _Honestly, it's the worst thing anyone has ever done to me._
 > 
 > **Situación C:** Un colega llegó tarde a una reunión importante pero se disculpa sinceramente. a) _Honestly, it's fine. Let's get started._ b) _Don't beat yourself up — it was no big deal at all._ c) _These things happen, but don't let it happen again._
-
+>
 > [!success] ✅ Respuestas — Ejercicio 3
 > 
 > A) b — reconoce el error, acepta la solución, no dramatiza B) a — empático, alivia la culpa, tono amigable C) a o c — ambas son válidas; _a_ es más suave, _c_ cierra con un límite claro
@@ -255,7 +255,7 @@
 > 13. _standard_ pronunciado como "es-tandard"
 > 14. _store_ pronunciado como "stor"
 > 15. _still_ pronunciado como "es-till"
-
+>
 > [!success] ✅ Respuestas — Ejercicio 4
 > 
 > 16. ❌ — debe ser "stress" sin "es-"

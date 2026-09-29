@@ -22,29 +22,15 @@
 > graph TD
 >     A[Dos enteros m y n] --> B[MCD]
 >     A --> C[MCM]
->     B --> D[Divisor común<br/>más grande]
->     C --> E[Múltiplo común<br/>más pequeño]
->     B --> F[Método 1:<br/>Factorización prima<br/>mínimos exponentes]
->     B --> G[Método 2:<br/>Algoritmo de Euclides<br/>divisiones sucesivas]
->     C --> H[Factorización prima<br/>máximos exponentes]
->     C --> I[Relación con MCD:<br/>mcd · mcm = m · n]
+>     B --> D[Divisor común más grande]
+>     C --> E[Múltiplo común más pequeño]
+>     B --> F[Método 1: Factorización prima mínimos exponentes]
+>     B --> G[Método 2: Algoritmo de Euclides divisiones sucesivas]
+>     C --> H[Factorización prima máximos exponentes]
+>     C --> I[Relación con MCD: mcd · mcm = m · n]
 > 
->     style B fill:#e1f5ff
->     style C fill:#e1ffe1
->     style F fill:#e1f5ff
->     style G fill:#fff4e1
->     style H fill:#e1ffe1
->     style I fill:#f5e1ff
 > 
-    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style D fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style E fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style G fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style H fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style I fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
+> ```
 > 
 > |Concepto|Fórmula clave|
 > |---|---|
@@ -270,13 +256,8 @@
 >     P3 -->|No| P5["Nuevo par: (b, r)"]
 >     P5 --> P2
 > 
->     style P1 fill:#e1f5ff
->     style P2 fill:#e1f5ff
->     style P4 fill:#e1ffe1
->     style P5 fill:#fff4e1
 > 
-    style P2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style P5 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
+> ```
 > 
 > ---
 > 
@@ -306,15 +287,12 @@
 > 
 > ```mermaid
 > graph TD
->     A[Calcular mcd o mcm] --> B{¿Números<br/>pequeños?}
->     B -->|Sí| C[Inspección directa<br/>o factorización]
->     B -->|No| D{¿Solo MCD<br/>o también MCM?}
->     D -->|Solo MCD| E[Algoritmo de Euclides<br/>más eficiente]
->     D -->|Ambos| F[Factorización prima<br/>luego mcd·mcm = m·n]
+>     A[Calcular mcd o mcm] --> B{¿Números pequeños?}
+>     B -->|Sí| C[Inspección directa o factorización]
+>     B -->|No| D{¿Solo MCD o también MCM?}
+>     D -->|Solo MCD| E[Algoritmo de Euclides más eficiente]
+>     D -->|Ambos| F[Factorización prima luego mcd·mcm = m·n]
 > 
->     style C fill:#e1ffe1
->     style E fill:#e1f5ff
->     style F fill:#fff4e1
 > ```
 
 ---
@@ -362,25 +340,6 @@ graph TD
     F --> F1["Todo subconjunto no vacio tiene minimo"]
     F --> F2["Base del Algoritmo de la Division"]
     F --> F3["Equivalente a induccion"]
-    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style C1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style D1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style D2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style D3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style E fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style E1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style E2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style E3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style F fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style F1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style F2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style F3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
 
 ```
 

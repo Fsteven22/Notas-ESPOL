@@ -21,8 +21,6 @@
 > ```mermaid
 > graph LR
 >     A["Dominio X"] -->|"f(x)"| B["Codominio Y"]
->     style A fill:#e1f5ff
->     style B fill:#ffe1e1
 > ```
 
 ---
@@ -378,19 +376,6 @@ graph TD
     C --> C2["∀y ∈ Y, ∃x : f(x)=y"]
     D --> D1[Inyectiva + Sobreyectiva]
     F --> F2[Teorema: invertible ⟺ biyectiva]
-    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style C1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style D1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style E fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style F fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style F2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style G fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
 
 ```
 

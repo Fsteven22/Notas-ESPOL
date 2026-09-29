@@ -196,7 +196,7 @@
 > 3. This bag is ________ heavy to carry on a long trip.
 > 4. Is the hotel room big ________ for four people?
 > 5. She isn't experienced ________ to manage the whole team alone.
-
+>
 > [!success] ✅ Respuestas — Ejercicio 1
 > 
 > 6. _The price is **too** high **to** buy._
@@ -216,7 +216,7 @@
 > 8. _The apartment is enough big for two people._
 > 9. _She's too enough qualified for the position._
 > 10. _We don't have enough of money to invest._
-
+>
 > [!success] ✅ Respuestas — Ejercicio 2
 > 
 > 11. ~~time enough~~ → **enough time** — _I don't have **enough time** to finish by Friday._
@@ -236,7 +236,7 @@
 > 13. That restaurant is ________ the best in the city. _(sin comparación posible)_
 > 14. My current salary is ________ enough to save for a house in this city. _(muy lejos de suficiente)_
 > 15. Version 2.0 of the app is ________ smoother than the beta. _(diferencia grande, informal)_
-
+>
 > [!success] ✅ Respuestas — Ejercicio 3
 > 
 > 16. much / far / significantly
@@ -256,7 +256,7 @@
 > 18. _This is the worst deal I've ever seen._ → _(by far)_
 > 19. _That price is not enough._ → _(nowhere near)_
 > 20. _The quality is higher in handmade products._ → _(significantly)_
-
+>
 > [!success] ✅ Respuestas — Ejercicio 4
 > 
 > 21. _This version is **a whole lot** better than the last one._

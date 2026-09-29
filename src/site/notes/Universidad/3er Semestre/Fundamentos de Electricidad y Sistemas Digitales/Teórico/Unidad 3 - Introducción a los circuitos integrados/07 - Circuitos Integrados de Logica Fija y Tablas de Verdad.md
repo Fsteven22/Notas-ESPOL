@@ -25,7 +25,7 @@
 > [!info] 🔲 Álgebra de Boole y compuertas
 > 
 > Cada compuerta implementa una operación booleana. Su comportamiento se describe completamente mediante una **tabla de verdad**, que enumera todas las combinaciones posibles de entrada y la salida correspondiente.
-
+>
 > [!note] 📋 Tabla de verdad — Compuertas de 2 entradas
 > 
 > |A|B|AND|OR|NAND|NOR|XOR|XNOR|
@@ -40,7 +40,7 @@
 > - **NAND / NOR**: negación de AND / OR — son **funcionalmente completas** (cualquier función booleana puede construirse solo con NAND, o solo con NOR).
 > - **XOR** ($A \oplus B$): salida 1 si las entradas son diferentes.
 > - **XNOR**: negación de XOR — salida 1 si las entradas son iguales.
-
+>
 > [!note] 🚫 NOT (inversor)
 > 
 > Única compuerta de una sola entrada: invierte el valor lógico.
@@ -57,7 +57,7 @@
 > [!info] ⚙️ ¿Por qué existen distintas familias?
 > 
 > Las compuertas se fabrican con distintas tecnologías de transistores, lo que da lugar a **familias lógicas** con diferentes características eléctricas. Las dos más relevantes históricamente son **TTL** (transistores bipolares) y **CMOS** (transistores de efecto de campo).
-
+>
 > [!success] 📊 Comparación TTL vs. CMOS
 > 
 > |Característica|TTL (serie 74xx)|CMOS (serie 40xx / 74HCxx)|
@@ -85,7 +85,7 @@
 > |**7486**|4× XOR de 2 entradas|4|
 > 
 > > 📌 Estos encapsulados suelen venir en formato DIP de 14 pines, con pines de alimentación ($V_{CC}$, GND) compartidos entre todas las compuertas internas.
-
+>
 > [!note] 🧩 Funcionalidad completa con NAND/NOR
 > 
 > Cualquier función booleana puede implementarse usando **únicamente** compuertas NAND (o únicamente NOR), ya que a partir de ellas se pueden construir NOT, AND, OR y las demás:
@@ -116,7 +116,7 @@
 > |1|1|1|1|0|1|
 > 
 > > 📌 $S$ es 1 en 5 de las 8 combinaciones posibles — este tipo de tabla es el punto de partida para simplificar la función con Karnaugh o álgebra de Boole (ver [[Unidad 4 - Fundamentos de sistemas digitales\|Unidad 4 - Fundamentos de sistemas digitales]]).
-
+>
 > [!example]- ✏️ Ejercicio 2 — Circuito construido solo con NAND
 > 
 > **Dato:** Implementar $S = A + B$ (OR) usando únicamente compuertas NAND.
@@ -138,13 +138,13 @@
 > - [ ] Construyo la tabla de verdad de las compuertas básicas (AND, OR, NOT, NAND, NOR, XOR, XNOR).
 > - [ ] Identifico la diferencia general entre lógica fija y lógica programable.
 > - [ ] Reconozco algunos CI comerciales de la familia 74xx y su función.
-
+>
 > [!note] 🎯 Nivel Intermedio
 > 
 > - [ ] Construyo la tabla de verdad de una función booleana compuesta con varias entradas.
 > - [ ] Comparo las familias TTL y CMOS en términos de voltaje, consumo y velocidad.
 > - [ ] Explico por qué NAND y NOR son compuertas funcionalmente completas.
-
+>
 > [!note] 🎯 Nivel Avanzado
 > 
 > - [ ] Implemento una función booleana dada usando únicamente compuertas NAND (o NOR).
@@ -184,7 +184,7 @@ mindmap
 > [2] R. L. Boylestad y L. Nashelsky, _Electrónica: Teoría de Circuitos y Dispositivos Electrónicos_, 10th ed. México: Pearson, 2009, pp. 800–830.
 > 
 > [3] Texas Instruments, _SN74HC00 Quad 2-Input NAND Gate Datasheet_, 2015.
-
+>
 > [!quote] 🔗 Conexiones
 > 
 > - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/06 - Aplicaciones de Integrados 555 - ADC - PWM\|06 - Aplicaciones de Integrados 555 - ADC - PWM]] — tema previo de la unidad.

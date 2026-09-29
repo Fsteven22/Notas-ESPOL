@@ -231,7 +231,7 @@
 >    a) *Oh, okay then.*
 >    b) *Coming right up!*
 >    c) *Wait a moment, please.*
-
+>
 > [!success] ✅ Respuestas — Ejercicio 1
 >
 > 1. a) *I'll pass, but thank you.* *(educado y apropiado para contexto formal)*
@@ -256,7 +256,7 @@
 > *(Más tarde, otro invitado:)*
 > **A:** Would you like more juice?
 > **B:** No, __________________ .
-
+>
 > [!success] ✅ Respuestas — Ejercicio 2
 >
 > - *Can I get you a refill?*
@@ -276,7 +276,7 @@
 > | /aɪ/ (ai) | /iː/ (i larga) | /eɪ/ (ei) |
 > |---|---|---|
 > | | | |
-
+>
 > [!success] ✅ Respuestas — Ejercicio 3
 >
 > | /aɪ/ (ai) | /iː/ (i larga) | /eɪ/ (ei) |
@@ -294,7 +294,7 @@
 > 13. *Wait, is that steak?* → **wait** / **steak** → ¿mismo sonido?
 > 14. *It's time to eat.* → **time** / **eat** → ¿mismo sonido?
 > 15. *A great plate of food.* → **great** / **plate** → ¿mismo sonido?
-
+>
 > [!success] ✅ Respuestas — Ejercicio 4
 >
 > 11. ✅ Mismo — ambas tienen /aɪ/

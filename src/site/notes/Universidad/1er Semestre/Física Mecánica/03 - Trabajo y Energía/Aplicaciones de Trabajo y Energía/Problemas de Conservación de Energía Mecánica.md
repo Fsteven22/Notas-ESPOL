@@ -6,7 +6,7 @@
 # Problemas de Conservación de Energía Mecánica
 
 > [!quote] "La energía no se crea ni se destruye, solo se transforma; en cada problema de conservación encontramos la poesía del movimiento convertida en matemáticas." ⚡
-
+>
 > [!info] La conservación de la energía mecánica es uno de los principios más poderosos de la física, permitiendo resolver problemas complejos de movimiento sin necesidad de analizar fuerzas. Cuando solo actúan fuerzas conservativas, la energía mecánica total del sistema permanece constante, transformándose entre energía cinética y potencial.
 
 ## ⚖️ Fundamentos de la Conservación
@@ -29,7 +29,7 @@
 > |---|---|---|
 > |Conservativas|✅ Sí|Gravitatoria, elástica, eléctrica|
 > |No conservativas|❌ No|Fricción, resistencia del aire|
-
+>
 > [!tip] **Condiciones para Aplicar Conservación** 🎯
 > 
 > ### Requisitos Esenciales:
@@ -45,7 +45,7 @@
 > - **Con fuerzas externas**: E_inicial + W_externo = E_final
 > - **Sistemas con resortes**: Incluir E_p elástica
 > - **Movimiento circular**: Considerar fuerza centrípeta
-
+>
 > [!warning] **Tipos de Energía Potencial** 🏔️
 > 
 > ### Energía Potencial Gravitatoria:
@@ -59,7 +59,7 @@
 > - **Resorte ideal**: E_p = ½kx²
 > - **Deformación**: x medida desde posición natural
 > - **Siempre positiva**: independiente del sentido
-
+>
 > [!success] 🔗 Estrategia de Resolución
 > 
 > ```mermaid
@@ -79,7 +79,7 @@
 >     style F fill:#fff8e1
 >     style G fill:#f1f8e9
 > ```
-
+>
 > [!note] **Ecuaciones Fundamentales** 📐
 > 
 > ### Conservación General:
@@ -157,7 +157,7 @@
 > - mg(20) = ½m(10)² + mgh
 > - 20g = 50 + gh
 > - **h = (20g - 50)/g = 14.9 m**
-
+>
 > [!example] **Problema 2: Péndulo Simple** 🕰️
 > 
 > ### Enunciado:
@@ -184,7 +184,7 @@
 > - 2 + 9.8 = 9.8×2(1 - cosθ_máx)
 > - cosθ_máx = 1 - 11.8/19.6 = 0.398
 > - **θ_máx = 66.5°**
-
+>
 > [!example] **Problema 3: Sistema Resorte-Masa** 🔗
 > 
 > ### Enunciado:
@@ -200,7 +200,7 @@
 > **Conservación**: 9 = 4.9h **h = 9/4.9 = 1.84 m**
 > 
 > **Distancia sobre la rampa**: d = h/sin30° = 1.84/0.5 = 3.68 m
-
+>
 > [!example] **Problema 4: Montaña Rusa** 🎢
 > 
 > ### Enunciado:
@@ -230,7 +230,7 @@
 > 
 > **G**ravitatoria - mgh para altura **R**esorte - ½kx² para deformación  
 > **A**ltura - siempre respecto a referencia **V**elocidad - ½mv² para movimiento **E**nergía - se conserva sin fricción
-
+>
 > [!tip] **Regla de los Estados** 🔄
 > 
 > - **Estado 1**: Donde conoces más datos

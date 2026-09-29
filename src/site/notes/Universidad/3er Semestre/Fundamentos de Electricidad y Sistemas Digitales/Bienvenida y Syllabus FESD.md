@@ -96,14 +96,14 @@
 > 4. Circuitos con elementos básicos en serie, paralelo y mixtos
 > 5. Leyes fundamentales para análisis de circuitos (Ohm, Kirchhoff)
 > 6. Teoremas para análisis de circuitos (Divisores de voltaje y corriente, Superposición)
-
+>
 > [!abstract] Unidad 2 — Introducción a la electrónica (6 h)
 >
 > 1. Introducción a la electrónica y semiconductores (Diodos, Transistores)
 > 2. Circuitos básicos de filtrado y aplicaciones con fuentes lineales
 > 3. Aplicaciones de semiconductores para minimización de ruido electrónico
 > 4. Uso de reguladores en fuentes lineales
-
+>
 > [!abstract] Unidad 3 — Introducción a los circuitos integrados (6 h) — **actualizada**
 >
 > 1. Introducción a los circuitos integrados no programables
@@ -113,7 +113,7 @@
 > 5. Ejercicios Resueltos y de Oposición — nodal/Thevenin + 4 oposiciones ⭐
 > 6. Aplicaciones de integrados 555 / ADC / PWM (Acondicionamiento de señales)
 > 7. Circuitos integrados de lógica fija y tablas de verdad
-
+>
 > [!abstract] Unidad 4 — Fundamentos de sistemas digitales (8 h)
 >
 > 1. Introducción a la electrónica digital (Codificación y álgebra de Bool)
@@ -198,10 +198,10 @@
 >     ├── 📄 Equipos del Laboratorio — FESD.md
 >     └── 📁 Practicas del Laboratorio/
 > ```
-
+>
 > [!quote] 🔗 Conexiones
 > - Entrada principal: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Fundamentos de Electricidad y Sistemas Digitales\|Fundamentos de Electricidad y Sistemas Digitales]] — landing con Dataview de toda la materia
-> - Unidades: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 1 - Electricidad y Circuitos/00 - Índice Unidad 1\|00 - Índice Unidad 1]] · [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/00 - Índice Unidad 2\|00 - Índice Unidad 2]] · [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/00 - Índice Unidad 3\|00 - Índice Unidad 3]] · [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 4 - Sistemas Digitales/00 - Índice Unidad 4\|00 - Índice Unidad 4]]
+> - Unidades: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 1 - Electricidad y Circuitos/00 - Índice Unidad 1\|Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 1 - Electricidad y Circuitos/00 - Índice Unidad 1]] · [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/00 - Índice Unidad 2\|Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/00 - Índice Unidad 2]] · [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/00 - Índice Unidad 3\|Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/00 - Índice Unidad 3]] · [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 4 - Sistemas Digitales/00 - Índice Unidad 4\|Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 4 - Sistemas Digitales/00 - Índice Unidad 4]]
 
 ---
 

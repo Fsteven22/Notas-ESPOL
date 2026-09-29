@@ -38,7 +38,7 @@
 > |**to backfire**|salir mal / tener el efecto contrario al esperado|
 > |**humiliation**|humillación|
 > |**to soak**|empapar / mojar por completo|
-
+>
 > [!tip]- 💡 La inversión de roles como recurso cómico
 > 
 > Este capítulo consolida el recurso narrativo central de la obra: **invertir las expectativas del género gótico clásico**. En vez de que el fantasma sea la fuente de terror, se convierte en la víctima cómica de las bromas de unos niños — un giro que Wilde usa para satirizar tanto las historias de fantasmas tradicionales como el carácter "imperturbable" de los americanos modernos.
@@ -70,7 +70,7 @@
 > [!quote] 📖 Referencias
 > 
 > [1] Wilde, Oscar. _The Canterville Ghost_. 1887. (Obra de dominio público).
-
+>
 > [!quote] 🔗 Conexiones
 > 
 > - [[Capítulo I - The Canterville Ghost\|Capítulo I - The Canterville Ghost]]

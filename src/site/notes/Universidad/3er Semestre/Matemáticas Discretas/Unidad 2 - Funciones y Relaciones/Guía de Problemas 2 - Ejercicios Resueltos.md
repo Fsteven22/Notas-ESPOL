@@ -18,11 +18,11 @@
 
 ---
 
-!Guía de problemas 2 MD.pdf
+![Guía de problemas 2 MD.pdf](/img/user/Universidad/3er%20Semestre/Matem%C3%A1ticas%20Discretas/Unidad%200%20-%20Guias%20y%20Ejercicios/Gu%C3%ADa%20de%20problemas%202%20MD.pdf)
 
 ## 🔢 2.1 — Funciones Inyectiva, Sobreyectiva, Composición e Inversa
 
-> [!example] 📝 Ejercicio 1 — [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/01 - Funciones\|Función]] estrictamente creciente implica inyectividad
+> [!example]- 📝 Ejercicio 1 — [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/01 - Funciones\|Función]] estrictamente creciente implica inyectividad
 > 
 > **Enunciado:** Sea $f : X \subseteq \mathbb{R} \to \mathbb{R}$. Demuestre que si $f$ es estrictamente creciente, entonces $f$ es inyectiva.
 > 
@@ -37,7 +37,7 @@
 > 
 > En ambos casos, $x_1 \neq x_2 \Rightarrow f(x_1) \neq f(x_2)$, que es el contrarrecíproco de la inyectividad. Por tanto $f$ es inyectiva. $\blacksquare$
 
-> [!example] 📝 Ejercicio 2 — Análisis de $f(x) = x^2 + 2x + 2$ con codominio $[0, \infty)$
+> [!example]- 📝 Ejercicio 2 — Análisis de $f(x) = x^2 + 2x + 2$ con codominio $[0, \infty)$
 > 
 > **Enunciado:** Sea $f : \mathbb{R} \to [0, \infty)$ con $f(x) = x^2 + 2x + 2$.
 > 
@@ -68,7 +68,7 @@
 > 
 > **Conclusión:** $f$ no es inyectiva, no es sobreyectiva, y por tanto **no es biyectiva**. $\blacksquare$
 
-> [!example] 📝 Ejercicio 3 — $f(x) = \dfrac{2x-3}{x+2}$ es biyectiva
+> [!example]- 📝 Ejercicio 3 — $f(x) = \dfrac{2x-3}{x+2}$ es biyectiva
 > 
 > **Enunciado:** Sea $f : \mathbb{R} - \{-2\} \to \mathbb{R} - \{2\}$ con $f(x) = \dfrac{2x-3}{x+2}$. Demuestre que $f$ es biyectiva.
 > 
@@ -102,7 +102,7 @@
 > 
 > **Conclusión:** $f$ es inyectiva y sobreyectiva, por tanto es **biyectiva**. $\blacksquare$
 
-> [!example] 📝 Ejercicio 4 — Demostración: $\left\lfloor \dfrac{n+1}{2} \right\rfloor = \left\lceil \dfrac{n}{2} \right\rceil$
+> [!example]- 📝 Ejercicio 4 — Demostración: $\left\lfloor \dfrac{n+1}{2} \right\rfloor = \left\lceil \dfrac{n}{2} \right\rceil$
 > 
 > **Enunciado:** Demuestre que para toda $n \in \mathbb{N}$, $\left\lfloor \dfrac{n+1}{2} \right\rfloor = \left\lceil \dfrac{n}{2} \right\rceil$.
 > 
@@ -126,7 +126,7 @@
 > 
 > En ambos casos la igualdad se cumple. $\blacksquare$
 
-> [!example] 📝 Ejercicio 5 — $f(n) = \left\lceil \dfrac{n^2}{n-1} \right\rceil$ es biyectiva
+> [!example]- 📝 Ejercicio 5 — $f(n) = \left\lceil \dfrac{n^2}{n-1} \right\rceil$ es biyectiva
 > 
 > **Enunciado:** Sean $A = \{n \in \mathbb{N} : n \geq 2\}$, $B = \{n \in \mathbb{N} : n \geq 4\}$ y $f : A \to B$ con $f(n) = \left\lceil \dfrac{n^2}{n-1} \right\rceil$.
 > 
@@ -151,7 +151,7 @@
 > 
 > **Conclusión:** $f$ es **biyectiva**. $\blacksquare$
 
-> [!example] 📝 Ejercicio 6 — Análisis de $g(x) = \dfrac{x^2 - 5}{x - 2}$
+> [!example]- 📝 Ejercicio 6 — Análisis de $g(x) = \dfrac{x^2 - 5}{x - 2}$
 > 
 > **Enunciado:** Sea $g : \mathbb{R} - \{2\} \to \mathbb{R}$ con $g(x) = \dfrac{x^2 - 5}{x - 2}$. Determine si $g$ es inyectiva, sobreyectiva o biyectiva.
 > 
@@ -179,7 +179,7 @@
 > 
 > **Conclusión:** $g$ es sobreyectiva pero **no** inyectiva, por tanto **no es biyectiva**. $\blacksquare$
 
-> [!example] 📝 Ejercicio 7 — Composición de inyectivas es inyectiva
+> [!example]- 📝 Ejercicio 7 — Composición de inyectivas es inyectiva
 > 
 > **Enunciado:** Sean $f : A \mapsto B$ y $g : C \mapsto A$ inyectivas. Demuestre que $h(x) = f(g(x))$ es inyectiva.
 > 
@@ -193,7 +193,7 @@
 > 
 > Por tanto $h(x_1) = h(x_2) \Rightarrow x_1 = x_2$, es decir $h$ es **inyectiva**. $\blacksquare$
 
-> [!example] 📝 Ejercicio 8 — $f(A) \cap f(B) = f(A \cap B)$ para $f$ inyectiva
+> [!example]- 📝 Ejercicio 8 — $f(A) \cap f(B) = f(A \cap B)$ para $f$ inyectiva
 > 
 > **Enunciado:** Sea $f : X \mapsto Y$ inyectiva y $f(\mathcal{S}) = \{y \in Y \mid y = f(x),\ \text{para algún}\ x \in \mathcal{S}\}$. Demuestre que $f(A) \cap f(B) = f(A \cap B)$.
 > 
@@ -220,7 +220,7 @@
 
 ## 🔗 2.2 — Relaciones, Representación, Matriz y Digrafo
 
-> [!example] 📝 Ejercicio 9 — [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/02 - Relaciones\|Relación]] "múltiplo" sobre $\{2,3,5,6,9,15\}$
+> [!example]- 📝 Ejercicio 9 — [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/02 - Relaciones\|Relación]] "múltiplo" sobre $\{2,3,5,6,9,15\}$
 > 
 > **Enunciado:** $A = \{2,3,5,6,9,15\}$, $R = \{(x,y) \in A \times A \mid y \text{ es múltiplo de } x\}$.
 > 
@@ -276,17 +276,17 @@
 > 
 > ```mermaid
 > graph TD
->   2 --> 2
->   3 --> 3
->   5 --> 5
->   6 --> 6
->   9 --> 9
->   15 --> 15
->   2 --> 6
->   3 --> 6
->   3 --> 9
->   3 --> 15
->   5 --> 15
+>   n2[2] --> n2
+>   n3[3] --> n3
+>   n5[5] --> n5
+>   n6[6] --> n6
+>   n9[9] --> n9
+>   n15[15] --> n15
+>   n2 --> n6
+>   n3 --> n6
+>   n3 --> n9
+>   n3 --> n15
+>   n5 --> n15
 > ```
 > 
 > **(c) Matriz relativa al orden $2,3,5,6,9,15$:**
@@ -302,7 +302,7 @@
 > 
 > $R$ es un **orden parcial** sobre $A$. $\blacksquare$
 
-> [!example] 📝 Ejercicio 10 — Relación $a \leq b$ y $b - a \leq 3$ sobre $\{1,2,3,4,5,6\}$
+> [!example]- 📝 Ejercicio 10 — Relación $a \leq b$ y $b - a \leq 3$ sobre $\{1,2,3,4,5,6\}$
 > 
 > **Enunciado:** $A = \{1,2,3,4,5,6\}$, $aRb \iff a \leq b$ y $b - a \leq 3$.
 > 
@@ -323,7 +323,7 @@
 > 
 > **(c) Digrafo:** Nodos del 1 al 6 con aristas reflexivas y aristas hacia adelante para diferencias $\leq 3$.
 
-> [!example] 📝 Ejercicio 11 — Relación $xRy \iff (3y \bmod x) > 1$ sobre $\{4,5,7,8\}$
+> [!example]- 📝 Ejercicio 11 — Relación $xRy \iff (3y \bmod x) > 1$ sobre $\{4,5,7,8\}$
 > 
 > **Enunciado:** $X = \{4,5,7,8\}$, $xRy \iff (3y \bmod x) > 1$.
 > 
@@ -361,7 +361,7 @@
 > - **No antisimétrica:** $(4,5) \in R$ y $(5,4) \in R$ con $4 \neq 5$
 > - **No transitiva:** $(7,4) \in R$ y $(4,5) \in R$ pero $(7,5) \notin R$
 
-> [!example] 📝 Ejercicio 12 — Relación $a < b$ y $a+b$ impar sobre $\{1,2,3,4,5,6,7\}$
+> [!example]- 📝 Ejercicio 12 — Relación $a < b$ y $a+b$ impar sobre $\{1,2,3,4,5,6,7\}$
 > 
 > **Enunciado:** $C = \{1,2,3,4,5,6,7\}$, $aRb \iff a < b$ y $a+b$ es impar.
 > 
@@ -382,7 +382,7 @@
 > - **Antisimétrica:** ✓ Si $aRb$ entonces $a < b$, luego no puede ser $b < a$, así que $bRa$ es imposible
 > - **Transitiva:** ✗ $(1,2) \in R$ y $(2,3) \in R$, pero $1+3=4$ es par, entonces $(1,3) \notin R$
 
-> [!example] 📝 Ejercicio 13 — Relación "$-y$ divide a $8-3x$" sobre $\{-2,3,4,5\}$
+> [!example]- 📝 Ejercicio 13 — Relación "$-y$ divide a $8-3x$" sobre $\{-2,3,4,5\}$
 > 
 > **Enunciado:** $X = \{-2,3,4,5\}$, $xRy \iff -y \mid (8 - 3x)$.
 > 
@@ -419,7 +419,7 @@
 > - **Antisimétrica:** ✓ No hay pares $(a,b)$ y $(b,a)$ con $a\neq b$ ambos en $R$
 > - **Transitiva:** ✓ Las únicas cadenas posibles son: $(-2,-2)(-2,?)$ — habría que tener $(-2,y)\in R$ para algún $y$, pero el único par con $x=-2$ es $(-2,-2)$, y $(-2,-2) \in R$ ✓. Para $4$: $(4,-2)$ y $(-2,-2) \in R$ exige $(4,-2) \in R$ ✓. $(4,4)$ y $(4,-2),(4,4) \in R$ exigen $(4,-2),(4,4) \in R$ ✓. No hay cadena que incumpla la transitividad.
 
-> [!example] 📝 Ejercicio 14 — Composición de relaciones $R_1 \circ R_2$ y $R_2 \circ R_1$
+> [!example]- 📝 Ejercicio 14 — Composición de relaciones $R_1 \circ R_2$ y $R_2 \circ R_1$
 > 
 > **Enunciado:** $R_1 = \{(1,1),(1,2),(3,4),(4,2)\}$, $R_2 = \{(1,1),(2,1),(3,1),(4,4),(2,2)\}$.
 > 
@@ -468,7 +468,7 @@
 
 ## ⚖️ 2.3 — Propiedades, Relaciones de Equivalencia y Orden Parcial
 
-> [!example] 📝 Ejercicio 15 — $ARB \iff A \cap B = A$ es orden parcial
+> [!example]- 📝 Ejercicio 15 — $ARB \iff A \cap B = A$ es orden parcial
 > 
 > **Enunciado:** $X$ = todos los subconjuntos no vacíos de $U$. $ARB \iff A \cap B = A$. Demuestre que $R$ es orden parcial.
 > 
@@ -483,7 +483,7 @@
 > 
 > $R$ es **orden parcial** sobre $X$. $\blacksquare$
 
-> [!example] 📝 Ejercicio 16 — [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/01 - Divisibilidad y Números Primos\|Divisibilidad]] es orden parcial sobre $\mathbb{N}$
+> [!example]- 📝 Ejercicio 16 — [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/01 - Divisibilidad y Números Primos\|Divisibilidad]] es orden parcial sobre $\mathbb{N}$
 > 
 > **Enunciado:** $X = \mathbb{N}$, $aRb \iff a \mid b$. Demuestre que $R$ es orden parcial.
 > 
@@ -495,7 +495,7 @@
 > 
 > $R$ es **orden parcial** sobre $\mathbb{N}$. $\blacksquare$
 
-> [!example] 📝 Ejercicio 17 — $ARB \iff A \cup Y = B \cup Y$ es [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/03 - Propiedades y Equivalencia\|relación de equivalencia]]
+> [!example]- 📝 Ejercicio 17 — $ARB \iff A \cup Y = B \cup Y$ es [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/03 - Propiedades y Equivalencia\|relación de equivalencia]]
 > 
 > **Enunciado:** $X = \{1,2,3,4,5\}$, $Y = \{3,4\}$, relación $R$ sobre $\mathcal{P}(X)$: $ARB \iff A \cup Y = B \cup Y$.
 > 
@@ -519,7 +519,7 @@
 > 
 > $$[C] = \{\{1\},\ \{1,3\},\ \{1,4\},\ \{1,3,4\}\}$$
 
-> [!example] 📝 Ejercicio 18 — Cadenas de longitud 3 con dígitos 2 y 3
+> [!example]- 📝 Ejercicio 18 — Cadenas de longitud 3 con dígitos 2 y 3
 > 
 > **Enunciado:** $X$ = cadenas de longitud 3 con dígitos 2 y 3. $\alpha R \beta \iff$ producto de dígitos de $\alpha$ = producto de dígitos de $\beta$.
 > 
@@ -553,7 +553,7 @@
 > 
 > Clase de equivalencia de $323$: $[323] = \{233, 323, 332\}$ (producto = 18).
 
-> [!example] 📝 Ejercicio 19 — Relación por longitud de nombre de país
+> [!example]- 📝 Ejercicio 19 — Relación por longitud de nombre de país
 > 
 > **Enunciado:** $X = \{\text{Brasil, Argentina, Uruguay, Canadá, Estados Unidos, Costa Rica, México, Ecuador}\}$. $\alpha R \beta \iff |\alpha| \geq |\beta|$.
 > 
@@ -590,7 +590,7 @@
 > 
 > **(d) ¿Relación de equivalencia?** No, pues no es simétrica.
 
-> [!example] 📝 Ejercicio 20 — Misma ciudad → equivalencia
+> [!example]- 📝 Ejercicio 20 — Misma ciudad → equivalencia
 > 
 > **Enunciado:** $X = \{\text{San Francisco, Pittsburg, Chicago, San Diego, Filadelfia, Los Ángeles}\}$. $xRy \iff x$ e $y$ están en el mismo estado.
 > 
@@ -612,7 +612,7 @@
 > $$[\text{Pittsburg}] = \{\text{Pittsburg, Filadelfia}\}$$
 > $$[\text{Chicago}] = \{\text{Chicago}\}$$
 
-> [!example] 📝 Ejercicio 21 — $(a,b)R(c,d) \iff ad = bc$ es equivalencia
+> [!example]- 📝 Ejercicio 21 — $(a,b)R(c,d) \iff ad = bc$ es equivalencia
 > 
 > **Enunciado:** $X = \{1,...,10\}$, $(a,b)R(c,d) \iff ad = bc$. Demuestre que $R$ es relación de equivalencia.
 > 
@@ -633,7 +633,7 @@
 
 ## ∑ 2.4 — Sucesiones, Notación Sigma y Producto
 
-> [!example] 📝 Ejercicio 22 — [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/04 - Sucesiones y Cadenas\|Sucesión]] $s_n = 2^n + 4 \cdot 3^n$
+> [!example]- 📝 Ejercicio 22 — [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/04 - Sucesiones y Cadenas\|Sucesión]] $s_n = 2^n + 4 \cdot 3^n$
 > 
 > **Enunciado:** $s_n = 2^n + 4 \cdot 3^n$, $n \geq 0$.
 > 
@@ -665,7 +665,7 @@
 > 
 > $$= 2^n + 4 \cdot 3^n = s_n \quad \blacksquare$$
 
-> [!example] 📝 Ejercicio 23 — Demostración: $\prod_{k=1}^{n}(1+2k) = \dfrac{(2n+1)!}{2^n n!}$
+> [!example]- 📝 Ejercicio 23 — Demostración: $\prod_{k=1}^{n}(1+2k) = \dfrac{(2n+1)!}{2^n n!}$
 > 
 > **Demostración por inducción:**
 > 
@@ -689,7 +689,7 @@
 > 
 > $$= \frac{(2m+3)!}{2^m m! \cdot 2(m+1)} = \frac{(2(m+1)+1)!}{2^{m+1}(m+1)!} \quad \blacksquare$$
 
-> [!example] 📝 Ejercicio 24 — Demostración: $\prod_{k=2}^{n}\left(1 - \dfrac{1}{k^2}\right) = \dfrac{n+1}{2n}$
+> [!example]- 📝 Ejercicio 24 — Demostración: $\prod_{k=2}^{n}\left(1 - \dfrac{1}{k^2}\right) = \dfrac{n+1}{2n}$
 > 
 > **Demostración por inducción** ($n \geq 2$):
 > 
@@ -705,7 +705,7 @@
 > 
 > $$= \frac{m+1}{2m} \cdot \frac{m(m+2)}{(m+1)^2} = \frac{m(m+2)}{2m(m+1)} = \frac{m+2}{2(m+1)} \quad \blacksquare$$
 
-> [!example] 📝 Ejercicio 25 — Demostración: $\sum_{k=1}^{n} \dfrac{k}{(k+1)!} = 1 - \dfrac{1}{(n+1)!}$
+> [!example]- 📝 Ejercicio 25 — Demostración: $\sum_{k=1}^{n} \dfrac{k}{(k+1)!} = 1 - \dfrac{1}{(n+1)!}$
 > 
 > **Demostración por inducción:**
 > 
@@ -723,7 +723,7 @@
 > 
 > $$= 1 - \frac{m+2}{(m+2)!} + \frac{m+1}{(m+2)!} = 1 - \frac{1}{(m+2)!} \quad \blacksquare$$
 
-> [!example] 📝 Ejercicio 26 — Demostración: $\sum_{k=1}^{n} k \cdot k! = (n+1)! - 1$
+> [!example]- 📝 Ejercicio 26 — Demostración: $\sum_{k=1}^{n} k \cdot k! = (n+1)! - 1$
 > 
 > **Demostración por inducción:**
 > 
@@ -737,7 +737,7 @@
 > 
 > $$= (m+1)!(1 + m+1) - 1 = (m+1)!(m+2) - 1 = (m+2)! - 1 \quad \blacksquare$$
 
-> [!example] 📝 Ejercicio 27 — Demostración: $\sum_{i=1}^{n}\sum_{j=1}^{n}(i-j)^2 = \dfrac{n^2(n^2-1)}{6}$
+> [!example]- 📝 Ejercicio 27 — Demostración: $\sum_{i=1}^{n}\sum_{j=1}^{n}(i-j)^2 = \dfrac{n^2(n^2-1)}{6}$
 > 
 > **Desarrollo de la doble suma:**
 > 
@@ -761,7 +761,7 @@
 > 
 > $$= \frac{n^2(n+1)}{6}(4n+2-3n-3) = \frac{n^2(n+1)(n-1)}{6} = \frac{n^2(n^2-1)}{6} \quad \blacksquare$$
 
-> [!example] 📝 Ejercicio 28 — Criterio de divisibilidad por 9
+> [!example]- 📝 Ejercicio 28 — Criterio de divisibilidad por 9
 > 
 > **Enunciado:** $(a_i)_{i\in\mathbb{N}}$ sucesión de enteros.
 > 
@@ -806,5 +806,66 @@
 > Por el literal (a), $\displaystyle\sum_{i=1}^{n}(10^{n-i}-1)a_i$ es múltiplo de 9. Por hipótesis, $\displaystyle\sum_{i=1}^{n}a_i$ es múltiplo de 9. Luego $A$ es suma de dos múltiplos de 9, por tanto $9 \mid A$. $\blacksquare$
 
 ---
+
+> [!summary] 📋 Resumen
+> - Inyectividad con contraejemplos o implicación $f(x_1) = f(x_2) \Rightarrow x_1 = x_2$, y sobreyectividad despejando preimágenes o analizando el rango real (Ej. 1–6).
+> - Composición de funciones y de relaciones calculada por tabla de intermedios $b$, con verificación de inyectividad heredada (Ej. 7–8, 14).
+> - Representación de relaciones con diagrama sagital, matriz y digrafo para leer pares y detectar propiedades a simple vista (Ej. 9–13).
+> - Propiedades reflexiva, simétrica, antisimétrica y transitiva para clasificar relaciones en equivalencia u orden parcial y hallar clases (Ej. 15–21).
+> - Notación sigma y producto con inducción, doble suma y aritmética modular para sucesiones y criterios de divisibilidad (Ej. 22–28).
+
+## ✅ Metas de Aprendizaje
+
+> [!note] 🎯 Nivel Básico
+> - [ ] Decido si una función es inyectiva con un contraejemplo o con álgebra directa.
+> - [ ] Construyo la matriz y el digrafo de una relación finita dada por regla.
+> - [ ] Calculo términos de sucesiones y desarrollo sumas sigma y productos simples.
+
+> [!note] 🎯 Nivel Intermedio
+> - [ ] Demuestro sobreyectividad hallando la preimagen y verificando su existencia en el dominio.
+> - [ ] Verifico las cuatro propiedades de una relación y la clasifico como equivalencia u orden.
+> - [ ] Calculo composiciones $R_1 \circ R_2$ y $R_2 \circ R_1$ con tabla de elementos intermedios.
+
+> [!note] 🎯 Nivel Avanzado
+> - [ ] Estructuro demostraciones por inducción para identidades con sigma, producto y divisibilidad.
+> - [ ] Hallo clases de equivalencia describiendo el conjunto exacto que cumple la condición.
+> - [ ] Combino funciones, relaciones y sucesiones para modelar problemas nuevos sin guía.
+
+## 📊 Resumen Visual
+
+```mermaid
+graph TD
+    R["Guia 2 Funciones y Relaciones"]
+    R --> A["Funciones"]
+    R --> B["Relaciones"]
+    R --> C["Equivalencia y orden"]
+    R --> D["Sucesiones"]
+    A --> A1["Inyectiva"]
+    A --> A2["Sobreyectiva"]
+    A --> A3["Composicion de funciones"]
+    B --> B1["Matriz"]
+    B --> B2["Digrafo"]
+    B --> B3["Composicion de relaciones"]
+    C --> C1["Reflexiva simetrica"]
+    C --> C2["Antisimetrica transitiva"]
+    C --> C3["Clases"]
+    D --> D1["Sigma y producto"]
+    D --> D2["Induccion"]
+    D --> D3["Divisibilidad"]
+```
+
+> [!quote] 📖 Fuentes
+> - Guía original: [[Guía de problemas 2 MD.pdf]] en Unidad 0 - Guias y Ejercicios.
+> - K. H. Rosen, _Discrete Mathematics and Its Applications_, 8th ed., McGraw-Hill, 2019.
+> - R. Johnsonbaugh, _Discrete Mathematics_, 8th ed., Pearson, 2017.
+
+> [!quote] 🔗 Conexiones
+> - Funciones: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/01 - Funciones\|01 - Funciones]] — base de los Ej. 1–8.
+> - Relaciones: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/02 - Relaciones\|02 - Relaciones]] — base de los Ej. 9–14.
+> - Equivalencia y orden: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/03 - Propiedades y Equivalencia\|03 - Propiedades y Equivalencia]] — base de los Ej. 15–21.
+> - Sucesiones: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/04 - Sucesiones y Cadenas\|04 - Sucesiones y Cadenas]] — base de los Ej. 22–28.
+> - Conteo: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/05 - Permutaciones y Combinaciones\|05 - Permutaciones y Combinaciones]] — técnica afín al conteo de pares en Ej. 11.
+> - Divisibilidad: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/01 - Divisibilidad y Números Primos\|01 - Divisibilidad y Números Primos]] — base del criterio del Ej. 28.
+> - Anterior: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/Guía de Problemas 1 - Ejercicios Resueltos\|Guía de Problemas 1 - Ejercicios Resueltos]] — lógica, conjuntos e inducción.
 
 **Tags:** #matematicas-discretas #guia-problemas #funciones #relaciones #sucesiones #induccion #demostraciones #MATG1051

@@ -192,8 +192,6 @@ graph LR
     C -->|"Ley 3"| D[...]
     D -->|"Ley n"| E[Expresión final ✅]
 
-    style A fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style E fill:#1B5E20,color:#FFFFFF,stroke:#A5D6A7,stroke-width:1px
 ```
 
 ---

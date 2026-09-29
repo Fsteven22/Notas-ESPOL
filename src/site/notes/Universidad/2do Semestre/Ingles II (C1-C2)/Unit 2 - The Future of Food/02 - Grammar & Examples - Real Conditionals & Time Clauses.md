@@ -179,7 +179,7 @@
 > 3. *If I forget my umbrella, I always get wet.*
 > 4. *If the restaurant gets good reviews, it will become very popular.*
 > 5. *If you freeze meat, it lasts much longer.*
-
+>
 > [!success] ✅ Respuestas — Ejercicio 1
 >
 > 1. Zero Conditional *(ley científica)*
@@ -199,7 +199,7 @@
 > 8. If water __________________ (reach) 0°C, it freezes.
 > 9. Call me if you __________________ (need) help with the recipe.
 > 10. If the trend __________________ (continue), prices will go up.
-
+>
 > [!success] ✅ Respuestas — Ejercicio 2
 >
 > 6. don't rinse
@@ -219,7 +219,7 @@
 > 13. *After she will finish cooking, we'll eat.*
 > 14. *I'll text you when I will get home.*
 > 15. *As soon as the oil will heat up, add the garlic.*
-
+>
 > [!success] ✅ Respuestas — Ejercicio 3
 >
 > 11. ~~will be~~ → **is** — *When the pasta **is** ready, I'll drain it.*
@@ -239,7 +239,7 @@
 > 18. I'll go to the market. / You tell me what you need. *(if — final)*
 > 19. We'll start the barbecue. / The guests arrive. *(when — final)*
 > 20. She might try the new restaurant. / It gets good reviews. *(if — inicio)*
-
+>
 > [!success] ✅ Respuestas — Ejercicio 4
 >
 > 16. *After you finish chopping, add everything to the pan.*

@@ -40,7 +40,7 @@
 > [!note] 🤲 Contexto — Tres situaciones cotidianas
 > 
 > La sección **6.3** presenta tres micro-situaciones sociales: ceder un asiento en el transporte público, compartir un paraguas bajo la lluvia, y ayudar a un vecino con las manos llenas de bolsas. A partir de estos diálogos se trabaja el vocabulario para **ofrecer, rechazar y aceptar** ayuda de forma natural y educada.
-
+>
 > [!note] 📋 Las tres funciones
 > 
 > |Función|Expresiones|
@@ -48,11 +48,11 @@
 > |**Making offers**|Would you like (to sit down)? / Let me (share my umbrella with you). / Let me give you a hand with that. / Can I help you with anything else?|
 > |**Refusing offers**|I'm OK. Thanks anyway. / You don't have to do that. / I can manage. / Nope, it's all good.|
 > |**Accepting offers**|OK then, thanks. / That's very kind of you. / Thanks, I really appreciate it.|
-
+>
 > [!example]- 🟢 Ejemplo del libro (resumen de un diálogo)
 > 
 > Un vecino ofrece ayudar a otro con sus compras. La persona ayudada primero rechaza cortésmente diciendo que puede sola, pero el vecino insiste amablemente señalando que sus manos se ven muy llenas, ofreciéndose de nuevo. Al final, la persona acepta con gratitud, agradeciendo el gesto, y el vecino pregunta si necesita ayuda con algo más, a lo que ella responde que ya está todo bien.
-
+>
 > [!tip]- 💡 Insider English — "I insist"
 > 
 > La frase **"I insist"** es una forma educada de mostrarle a alguien que **no vas a cambiar de opinión** — se usa típicamente para reforzar una oferta después de que la otra persona la rechazó una primera vez.
@@ -67,11 +67,11 @@
 > 
 > - **I'm sorry to have to ask, but is it OK if...?**
 > - **I don't mean to be rude, but would you mind...?**
-
+>
 > [!tip]- 💡 Insider English — Cut the line / Jump the line
 > 
 > Cuando alguien que está al final de una fila de personas no quiere esperar y se mueve hacia el frente sin permiso, se dice que **"cuts the line"** o **"jumps the line"** — la situación típica que motiva este tipo de petición incómoda hacia un desconocido.
-
+>
 > [!example]- 🟢 Ejemplo de aplicación
 > 
 > *"I'm sorry to have to ask, but could you move over? It's difficult for me to sit in the middle with all these bags."* — nota cómo la petición incómoda (pedirle a alguien que se mueva) se suaviza con la disculpa inicial antes de formular el pedido concreto.
@@ -85,11 +85,11 @@
 > En español, los sonidos /b/ y /v/ tienden a pronunciarse de forma muy similar (o incluso igual, según el dialecto). En inglés, en cambio, son sonidos **claramente distintos**: /b/ es un sonido oclusivo (los labios se cierran completamente), mientras que /v/ es un sonido fricativo (el labio inferior toca los dientes superiores, sin cerrar del todo).
 > 
 > Ejemplos guía del libro: **umbrella** (/b/) vs. **conversation** (/v/).
-
+>
 > [!warning] ⚠️ Este ejercicio requiere el audio del libro
 > 
 > El ejercicio de práctica (audio 1.59) pide identificar quién pronuncia correctamente el sonido /b/ o /v/ en palabras como *umbrella, conversation, have, terrible, give, problem*. **No incluyo aquí las respuestas** porque dependen del audio original. Te recomiendo escucharlo y completar la tabla — si me compartes las respuestas después, las agrego a esta nota.
-
+>
 > [!tip]- 🖥️ Truco para practicar
 > 
 > Para /b/: junta los labios completamente antes de soltar el sonido (como al decir "boca" en español). Para /v/: apoya el labio inferior contra los dientes superiores, sin llegar a cerrar la boca, y deja salir el aire con una vibración suave — es el mismo movimiento que harías para /f/, pero con las cuerdas vocales activas.
@@ -101,13 +101,13 @@
 > [!note] 🎧 Cómo se conectan palabras en inglés fluido
 > 
 > En inglés hablado, cuando una palabra **termina en un sonido /i/** (como *we, the, me, she*) y la siguiente palabra **empieza con una vocal**, los hablantes suelen insertar un pequeño sonido de conexión /j/ (parecido a la "y" del español) entre ambas, para que la transición suene fluida.
-
+>
 > [!example]- 🟢 Ejemplos del libro
 > 
 > - *Today, we're going to Portland, Oregon, to hear about **the** ˘ **Intersection** Repair project.* → "the" + "Intersection" se conectan con /j/.
 > - *And how was **the** ˘ **experience**?* → "the" + "experience" se conectan con /j/.
 > - *Kids, **the** ˘ **unemployed**, **the** ˘ **elderly** – everyone just did whatever they could to help out.* → dos conexiones con /j/: "the" + "unemployed" y "the" + "elderly".
-
+>
 > [!tip]- 💡 Ejercicio de identificación (mi mejor interpretación)
 > 
 > Para el ejercicio 4.2B (identificar qué palabras se conectan con /j/):
@@ -116,7 +116,7 @@
 > 2. *"**Me** ˘ **and** my friends all worked on the project."* → "me" (termina en /i/) + "and" (empieza con vocal) se conectan con /j/.
 > 
 > Esta identificación se basa en aplicar la regla fonética explicada en el libro, no en escuchar el audio — probablemente coincide, pero verifícalo si tienes duda.
-
+>
 > [!note] 📋 Regla para completar el enunciado del libro
 > 
 > *"A /j/ sound is often used to connect two words when the first word **ends** in an /i/ sound and the second word starts with a **vowel**."*
@@ -176,7 +176,7 @@ graph TD
 > **2.** Completa: *"That's very __________ of you."* (amable)
 > 
 > **3.** ¿Qué frase usarías para insistir en una oferta después de que la rechazaron?
-
+>
 > [!success]- ✅ Respuestas — Nivel 1
 > 
 > **1.** Refusing an offer
@@ -194,7 +194,7 @@ graph TD
 > **2.** Suaviza esta petición usando la estrategia de "imposing on somebody": *"Can you turn down the music?"*
 > 
 > **3.** Identifica el sonido de conexión: *"She and I worked together."* — ¿qué dos palabras se conectan con /j/?
-
+>
 > [!success]- ✅ Respuestas — Nivel 2
 > 
 > **1.** *"Let me give you a hand with those bags."*
@@ -212,7 +212,7 @@ graph TD
 > **2.** Piensa en una situación real donde tuviste que "imponerte" pidiendo algo incómodo a un desconocido, y escribe cómo lo dirías usando las fórmulas de esta nota.
 > 
 > **3.** Practica en voz alta 5 palabras con /b/ y 5 con /v/, prestando atención consciente a la posición de tus labios.
-
+>
 > [!success]- ✅ Guía de respuesta — Nivel 3
 > 
 > Respuestas abiertas. Se espera en la pregunta 1 el uso de al menos una frase de cada categoría (offer, refuse, insist, accept) en un orden lógico.
@@ -225,12 +225,12 @@ graph TD
 > - [ ] Reconozco las frases para ofrecer, rechazar y aceptar ayuda.
 > - [ ] Entiendo la función de "I insist" y cuándo usarla.
 > - [ ] Reconozco la estrategia de "imposing on somebody".
-
+>
 > [!success] ✅ Nivel Intermedio
 > - [ ] Suavizo una petición incómoda usando las fórmulas correctas.
 > - [ ] Distingo /b/ de /v/ al pronunciar palabras clave.
 > - [ ] Identifico conexiones con /j/ entre palabras aplicando la regla fonética.
-
+>
 > [!success] ✅ Nivel Avanzado
 > - [ ] Manejo una conversación completa de ofrecer/rechazar/aceptar ayuda de forma fluida y natural.
 > - [ ] Pido algo incómodo a un desconocido con tacto, usando el registro adecuado.
@@ -241,7 +241,7 @@ graph TD
 > [!quote] 📖 Referencias
 > 
 > [1] _Keynote Upper-Intermediate_, National Geographic Learning / Cengage, Student's Book, Unit 6: Community Action, pp. 58–61.
-
+>
 > [!quote] 🔗 Conexiones
 > 
 > - [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 6 - Community Action/01 - Vocabulary & Use - Discussing Good Works & Describing Good Deeds\|01 - Vocabulary & Use - Discussing Good Works & Describing Good Deeds]]

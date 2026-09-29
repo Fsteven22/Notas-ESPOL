@@ -72,12 +72,6 @@
 >     A --> F[Unidad V\nGrafos y Árboles]
 >     A --> G[Unidad VI\nLenguajes y Autómatas]
 >
->     style B fill:#e1f5ff
->     style C fill:#e1ffe1
->     style D fill:#fff4e1
->     style E fill:#ffe1e1
->     style F fill:#f0e1ff
->     style G fill:#e1fff4
 > ```
 >
 > | Unidad | Tema | Horas |

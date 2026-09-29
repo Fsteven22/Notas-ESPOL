@@ -19,9 +19,6 @@
 >     B --> F["Identidad de Pascal"]
 >     C --> G["Versión 1: existencia de colisión"]
 >     C --> H["Versión 2: cuántas colisiones mínimo"]
->     style A fill:#1e3a5f,color:#fff
->     style B fill:#e1f5ff
->     style C fill:#f5e1ff
 > ```
 
 ---

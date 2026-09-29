@@ -38,7 +38,7 @@
 > - 🐆 Depredador cazando presa
 > - 🚗 Auto rápido alcanzando auto lento
 > - 🏃‍♂️ Corredor alcanzando a otro en pista
-
+>
 > [!warning] 🚀 **Persecución con Aceleración** **Situación:** El perseguidor acelera desde reposo o velocidad inicial menor
 > 
 > ```mermaid
@@ -56,7 +56,7 @@
 > - ✈️ Caza interceptando bombardero
 > - 🚂 Tren expreso alcanzando tren local
 > - 🚴‍♂️ Ciclista acelerando para alcanzar pelotón
-
+>
 > [!note] ⏰ **Persecución con Retardo Temporal** **Situación:** El perseguidor sale después que el objetivo
 > 
 > **Casos típicos:**
@@ -66,7 +66,7 @@
 > - 🚁 Helicóptero de rescate siguiendo embarcación
 > 
 > **Característica:** Combina ventaja espacial y temporal
-
+>
 > [!abstract] 🎯 **Persecución Interceptiva** **Situación:** El perseguidor toma una ruta directa hacia donde estará el objetivo
 > 
 > **Aplicaciones:**
@@ -74,7 +74,7 @@
 > - 🚀 Misiles interceptores
 > - ⚽ Portero anticipando trayectoria del balón
 > - 🐕 Perro corriendo hacia donde llegará la pelota
-
+>
 > [!note] 🚌 **Problemas de Alcance (Caso Especial)** **Situación:** Similar a persecución, pero el móvil más rápido **sale después** que el más lento desde el **mismo punto**
 > 
 > ```mermaid
@@ -199,7 +199,7 @@
 > - Ladrón: $x_2 = 10 + 60 \times \frac{1}{3} = 10 + 20 = 30$ km ✓
 > 
 > **Respuesta:** La policía perseguirá durante 20 minutos y alcanzará al ladrón a 30 km del punto de partida policial.
-
+>
 > [!example] 🏎️ **Ejemplo 2: Persecución con Aceleración** **Problema:** Un auto deportivo (inicialmente en reposo) persigue a un auto que pasa por su lado a 20 m/s constante. El deportivo acelera a 4 m/s². ¿Cuándo y dónde alcanzará al auto en movimiento?
 > 
 > **Solución:**
@@ -228,7 +228,7 @@
 > **Velocidad del deportivo en el alcance:** $$v_1 = a_1 t = 4 \times 10 = 40 \text{ m/s}$$
 > 
 > **Respuesta:** El auto deportivo alcanzará al objetivo a los 10 segundos, a 200 m del punto de partida. En ese momento, el deportivo viajará a 40 m/s.
-
+>
 > [!example] 🚌 **Ejemplo 3: Problema de Alcance** **Problema:** Un bus sale de la estación a 60 km/h. 10 minutos después sale un auto a 90 km/h desde la misma estación. ¿Cuándo alcanzará el auto al bus y a qué distancia de la estación?
 > 
 > **Solución:**
@@ -304,7 +304,7 @@
 > - Distancia a recorrer = ventaja inicial + circunferencia
 > - Velocidad relativa constante en pista cerrada
 > - Múltiples alcances posibles (cada vuelta)
-
+>
 > [!note] 🎯 **Persecución Interceptiva** **Situación:** El perseguidor se dirige hacia donde estará el objetivo, no donde está
 > 
 > **Método:**
@@ -314,7 +314,7 @@
 > 3. Resolver sistema de ecuaciones simultáneas
 > 
 > **Ejemplo:** Portero atajando penal, misil interceptor
-
+>
 > [!warning] ⚡ **Persecución con Cambio de Velocidad** **Situación:** Las velocidades cambian durante la persecución
 > 
 > **Análisis por tramos:**

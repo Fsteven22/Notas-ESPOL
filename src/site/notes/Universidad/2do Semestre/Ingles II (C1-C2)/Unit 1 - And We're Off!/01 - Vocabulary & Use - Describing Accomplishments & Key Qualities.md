@@ -110,7 +110,7 @@
 > |**qualified**|**qualifications**|Tener las credenciales o habilidades requeridas para algo.|
 > |**reliable**|**reliability**|La consistencia de cumplir lo que se promete.|
 > |**determined**|**determination**|La persistencia activa frente a dificultades.|
-
+>
 > [!warning] ⚠️ Errores comunes con estas palabras
 > 
 > |❌ Incorrecto|✅ Correcto|Explicación|
@@ -138,7 +138,7 @@
 > 3. It's not enough to start something — you need to __________________ until the end. _(follow through on it / look back on it / tell a joke)_
 > 4. She didn't let her early failures stop her. She knew she had to __________________ to reach the next level. _(push herself / work with her hands / run a marathon)_
 > 5. Better training helped the whole team __________________ and perform at a higher level. _(reach their potential / set a goal / get a lot of likes)_
-
+>
 > [!success] ✅ Respuestas — Ejercicio 1
 > 
 > 6. face her fear
@@ -158,7 +158,7 @@
 > 8. His __________________ for the project impressed everyone on the team. _(enthusiastic / enthusiasm)_
 > 9. Being __________________ is essential in design roles. _(creative / creativity)_
 > 10. The manager appreciated her __________________ to succeed despite the obstacles. _(determined / determination)_
-
+>
 > [!success] ✅ Respuestas — Ejercicio 2
 > 
 > 11. ambition _(sustantivo — después de "great")_
@@ -178,7 +178,7 @@
 > 13. El candidato ideal debe tener experiencia y ser creativo.
 > 14. Me enorgullece haber roto el récord del equipo.
 > 15. Necesitas salir de tu zona de confort para crecer profesionalmente.
-
+>
 > [!success] ✅ Respuestas — Ejercicio 3
 > 
 > 16. _I set a goal for myself to become fluent in English before graduating._

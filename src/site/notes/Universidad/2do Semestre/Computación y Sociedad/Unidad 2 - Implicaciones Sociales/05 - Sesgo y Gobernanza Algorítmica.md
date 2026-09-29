@@ -68,7 +68,7 @@
 > |**Resultado**|Microsoft retiró Tay y lo desconectó|
 > 
 > > ⚠️ **Lección**: Un sistema de IA sin control sobre la calidad de sus datos de entrada puede ser manipulado activamente. El sesgo no siempre es accidental — puede ser inducido.
-
+>
 > [!example] 🏥 St. George's Hospital — Sesgo en admisiones médicas (1970s–1988)
 > 
 > El **Hospital St. George's** en Londres usó un algoritmo computarizado para preseleccionar candidatos a su escuela de medicina desde los años 70 hasta **1988**, cuando fue descubierto y auditado.
@@ -87,7 +87,7 @@
 > |**Impacto**|Cientos de candidatos rechazados injustamente durante años|
 > 
 > > 💡 Este es uno de los primeros casos documentados de **discriminación algorítmica institucionalizada** — el sistema automatizó y escondió el sesgo humano, dándole apariencia de objetividad.
-
+>
 > [!example] 📷 Reconocimiento facial — Google y Facebook (2015–2019)
 > 
 > Múltiples sistemas de reconocimiento facial desplegados por empresas tecnológicas mostraron tasas de error significativamente más altas en personas de piel oscura, especialmente mujeres negras.
@@ -102,7 +102,7 @@
 > |**MIT Media Lab (estudio)**|Tasa de error en clasificación de género: 0.8% en hombres de piel clara, 34.7% en mujeres de piel oscura|2018|
 > 
 > **Causa común**: Conjuntos de entrenamiento compuestos mayoritariamente por rostros de personas blancas de género masculino.
-
+>
 > [!example] 💬 Sesgos de género en Procesamiento de Lenguaje Natural
 > 
 > Los modelos de lenguaje entrenados con texto humano absorben y amplifican los estereotipos de género presentes en ese texto.
@@ -153,7 +153,7 @@
 >     style H fill:#f5e1ff
 >     style L fill:#ffe1e1
 > ```
-
+>
 > [!note] 🔧 Principios de la Gobernanza Algorítmica
 > 
 > |Principio|Descripción|Ejemplo de aplicación|
@@ -164,7 +164,7 @@
 > |**Rendición de cuentas**|Siempre debe haber un responsable humano o institucional identificable por las decisiones del sistema|No es aceptable decir "fue el algoritmo" para evadir responsabilidad|
 > |**Factor humano**|En decisiones de alto impacto (salud, justicia, empleo), debe haber revisión humana obligatoria|Un juez, no solo un algoritmo, debe sentenciar a una persona|
 > |**No discriminación**|Los sistemas no deben producir resultados sistemáticamente peores para grupos protegidos|Revisión estadística de tasas de error por género, etnia, edad|
-
+>
 > [!warning] ⚖️ Marco legal y regulación emergente
 > 
 > |Regulación|Ámbito|Qué establece|

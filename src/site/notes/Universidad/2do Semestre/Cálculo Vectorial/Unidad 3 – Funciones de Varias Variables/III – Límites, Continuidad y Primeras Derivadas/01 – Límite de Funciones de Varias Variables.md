@@ -435,7 +435,7 @@
 > $$|r(\cos^3\theta + \sin^3\theta)| \leq 2r \to 0 \text{ cuando } r \to 0$$
 > 
 > **Conclusión:** $$\boxed{\lim_{(x,y) \to (0,0)} \frac{x^3 + y^3}{x^2 + y^2} = 0}$$
-
+>
 > [!example] 📝 Ejemplo 12: Límite que Depende del Camino
 > 
 > $$\lim_{(x,y) \to (0,0)} \frac{x^2y}{x^4 + y^2}$$
@@ -449,7 +449,7 @@
 > **Conclusión:** Por el eje X y Y obtenemos 0, pero por la parábola obtenemos $\frac{1}{2}$.
 > 
 > $$\boxed{\text{El límite NO existe}}$$
-
+>
 > [!example] 📝 Ejemplo 13: Límite Trigonométrico
 > 
 > $$\lim_{(x,y) \to (0,0)} \frac{\sin(x^2 + y^2)}{x^2 + y^2}$$
@@ -463,7 +463,7 @@
 > Conocemos el límite fundamental: $$\lim_{u \to 0} \frac{\sin(u)}{u} = 1$$
 > 
 > Por lo tanto: $$\boxed{\lim_{(x,y) \to (0,0)} \frac{\sin(x^2 + y^2)}{x^2 + y^2} = 1}$$
-
+>
 > [!example] 📝 Ejemplo 14: Límite Exponencial
 > 
 > $$\lim_{(x,y) \to (0,0)} \frac{e^{x+y} - 1}{x + y}$$
@@ -477,7 +477,7 @@
 > Usamos el límite fundamental: $$\lim_{u \to 0} \frac{e^u - 1}{u} = 1$$
 > 
 > **Respuesta:** $\boxed{1}$
-
+>
 > [!example] 📝 Ejemplo 15: Límite con Valor Absoluto
 > 
 > $$\lim_{(x,y) \to (0,0)} \frac{|xy|}{\sqrt{x^2 + y^2}}$$
@@ -586,7 +586,7 @@
 > Para límites en el origen: $$\begin{cases} x = \rho\sin\phi\cos\theta \ y = \rho\sin\phi\sin\theta \ z = \rho\cos\phi \ \rho = \sqrt{x^2 + y^2 + z^2} \end{cases}$$
 > 
 > Cuando $(x,y,z) \to (0,0,0)$: $\rho \to 0$
-
+>
 > [!example] 📝 Ejemplo 17: Límite en Tres Variables
 > 
 > $$\lim_{(x,y,z) \to (0,0,0)} \frac{xyz}{x^2 + y^2 + z^2}$$
@@ -604,7 +604,7 @@
 > $$|f| \leq \rho \to 0$$
 > 
 > **Conclusión:** $$\boxed{\lim_{(x,y,z) \to (0,0,0)} \frac{xyz}{x^2 + y^2 + z^2} = 0}$$
-
+>
 > [!example] 📝 Ejemplo 18: Límite en 3D que NO Existe
 > 
 > $$\lim_{(x,y,z) \to (0,0,0)} \frac{x^2 + y^2}{x^2 + y^2 + z^2}$$
@@ -651,7 +651,7 @@
 > - ¿La expresión depende del ángulo $\theta$ en polares?
 > - ¿Todos los términos tienden a cero suficientemente rápido?
 > - ¿Las cotas son correctas?
-
+>
 > [!tip] 🎯 Errores Comunes a Evitar
 > 
 > ❌ **Error 1:** Confiar solo en los ejes coordenados
@@ -677,7 +677,7 @@
 > ❌ **Error 6:** Confundir $\to$ con $=$
 > 
 > - $\lim_{(x,y) \to (0,0)} f(x,y)$ no requiere que $f(0,0)$ esté definida
-
+>
 > [!tip] 🔍 Caminos Útiles para Probar
 > 
 > |Tipo de Camino|Ecuación|Cuándo Usar|
@@ -732,7 +732,7 @@
 > $$\lim_{(x,y) \to (0,0)} (\sqrt{x^2 + y^2 + 1} + 1) = \sqrt{0 + 0 + 1} + 1 = 2$$
 > 
 > **Respuesta:** $\boxed{2}$
-
+>
 > [!example] 📝 Ejemplo 20: Límite Logarítmico
 > 
 > $$\lim_{(x,y) \to (0,0)} \frac{\ln(1 + x^2 + y^2)}{x^2 + y^2}$$
@@ -746,7 +746,7 @@
 > Usamos el límite fundamental: $$\lim_{u \to 0} \frac{\ln(1 + u)}{u} = 1$$
 > 
 > Por lo tanto: $$\boxed{\lim_{(x,y) \to (0,0)} \frac{\ln(1 + x^2 + y^2)}{x^2 + y^2} = 1}$$
-
+>
 > [!example] 📝 Ejemplo 21: Límite con Sen y Cos
 > 
 > $$\lim_{(x,y) \to (0,0)} \frac{1 - \cos(x^2 + y^2)}{x^2 + y^2}$$
@@ -770,7 +770,7 @@
 > $$\frac{\sin^2(u)}{u} = \sin(u) \cdot \frac{\sin(u)}{u} \to 0 \cdot 1 = 0$$
 > 
 > **Respuesta:** $\boxed{0}$
-
+>
 > [!example] 📝 Ejemplo 22: Límite Exponencial Complejo
 > 
 > $$\lim_{(x,y) \to (0,0)} \frac{e^{xy} - 1 - xy}{x^2y^2}$$
@@ -790,7 +790,7 @@
 > Cuando $(x,y) \to (0,0)$:
 > 
 > $$\boxed{\lim_{(x,y) \to (0,0)} \frac{e^{xy} - 1 - xy}{x^2y^2} = \frac{1}{2}}$$
-
+>
 > [!example] 📝 Ejemplo 23: Límite que Requiere Análisis Cuidadoso
 > 
 > $$\lim_{(x,y) \to (0,0)} \frac{x^3 - y^3}{x^2 + y^2}$$
@@ -812,7 +812,7 @@
 > $$|f| \leq 2r \to 0$$
 > 
 > **Conclusión:** $$\boxed{\lim_{(x,y) \to (0,0)} \frac{x^3 - y^3}{x^2 + y^2} = 0}$$
-
+>
 > [!example] 📝 Ejemplo 24: Límite con Raíces
 > 
 > $$\lim_{(x,y) \to (0,0)} \frac{xy}{\sqrt{x^2 + y^2}}$$
@@ -830,7 +830,7 @@
 > Como ambos lados tienden a 0:
 > 
 > $$\boxed{\lim_{(x,y) \to (0,0)} \frac{xy}{\sqrt{x^2 + y^2}} = 0}$$
-
+>
 > [!example] 📝 Ejemplo 25: Un Límite Tramposo
 > 
 > $$\lim_{(x,y) \to (0,0)} \frac{x^2y}{x^4 + 3y^2}$$
@@ -882,7 +882,7 @@
 > b) $\lim_{(x,y) \to (0,0)} (x^2 + y^2)\ln(x^2 + y^2)$
 > 
 > c) $\lim_{(x,y) \to (0,0)} \frac{x^4 + y^4}{x^2 + y^2}$
-
+>
 > [!example] 💪 Práctica Nivel Intermedio
 > 
 > **4. Límites con indeterminaciones:**
@@ -916,7 +916,7 @@
 > b) $f(x,y) = \frac{x^2y}{x^4 + y^2}$
 > 
 > c) $f(x,y) = \frac{xy}{x + y}$
-
+>
 > [!example] 💪 Práctica Nivel Avanzado
 > 
 > **7. Límites desafiantes:**
@@ -1014,7 +1014,7 @@
 > $$\frac{r^2}{r} = r \to 0$$
 > 
 > **Respuesta:** $\boxed{0}$
-
+>
 > [!success] 🔑 Respuestas Ejercicios Intermedios
 > 
 > **4a)** $\lim_{(x,y) \to (0,0)} \frac{x^2y}{x^4 + y^2}$
@@ -1079,7 +1079,7 @@
 > **Límite iterado 2:** $$\lim_{y \to 0} \left[\lim_{x \to 0} \frac{x^2 - y^2}{x^2 + y^2}\right] = \lim_{y \to 0} \frac{-y^2}{y^2} = -1$$
 > 
 > Los límites iterados son **diferentes**, y ya sabemos que el límite doble **NO existe**.
-
+>
 > [!success] 🔑 Respuestas Ejercicios Avanzados
 > 
 > **7a)** $\lim_{(x,y) \to (0,0)} \frac{x^3 + y^3}{x^2 + xy + y^2}$

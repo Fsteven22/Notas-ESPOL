@@ -20,34 +20,18 @@
 > 
 > ```mermaid
 > graph TD
->     A[Representación de Enteros] --> B[Criterios de<br/>Divisibilidad]
->     A --> C[Sistemas de<br/>Numeración]
+>     A[Representación de Enteros] --> B[Criterios de Divisibilidad]
+>     A --> C[Sistemas de Numeración]
 > 
->     B --> D[Divisible por 3 y 9<br/>suma de dígitos]
->     B --> E[Divisible por 2 y 5<br/>último dígito]
->     C --> F[Base 2: binario<br/>dígitos 0,1]
->     C --> G[Base 10: decimal<br/>dígitos 0–9]
->     C --> H[Base 16: hexadecimal<br/>dígitos 0–9, A–F]
->     C --> I[Conversión entre bases<br/>divisiones sucesivas]
+>     B --> D[Divisible por 3 y 9 suma de dígitos]
+>     B --> E[Divisible por 2 y 5 último dígito]
+>     C --> F[Base 2: binario dígitos 0,1]
+>     C --> G[Base 10: decimal dígitos 0–9]
+>     C --> H[Base 16: hexadecimal dígitos 0–9, A–F]
+>     C --> I[Conversión entre bases divisiones sucesivas]
 > 
->     style B fill:#e1f5ff
->     style C fill:#e1ffe1
->     style D fill:#e1f5ff
->     style E fill:#e1f5ff
->     style F fill:#e1ffe1
->     style G fill:#e1ffe1
->     style H fill:#e1ffe1
->     style I fill:#fff4e1
 > 
-    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style D fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style E fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style G fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style H fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style I fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
+> ```
 > 
 > |Tema|Idea central|
 > |---|---|
@@ -169,20 +153,15 @@
 > 
 > ```mermaid
 > graph TD
->     P1["1️⃣ Dividir n entre b<br/>anotar residuo r₀"] --> P2
->     P2["2️⃣ Dividir cociente entre b<br/>anotar residuo r₁"] --> P3
+>     P1["1️⃣ Dividir n entre b anotar residuo r₀"] --> P2
+>     P2["2️⃣ Dividir cociente entre b anotar residuo r₁"] --> P3
 >     P3{¿Cociente = 0?}
 >     P3 -->|No| P4["Continuar dividiendo"]
 >     P4 --> P2
->     P3 -->|Sí| P5["Leer residuos<br/>de abajo hacia arriba ✅"]
+>     P3 -->|Sí| P5["Leer residuos de abajo hacia arriba ✅"]
 > 
->     style P1 fill:#e1f5ff
->     style P2 fill:#e1f5ff
->     style P5 fill:#e1ffe1
->     style P4 fill:#fff4e1
 > 
-    style P2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style P4 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px```
+> ```
 > 
 > **Ejemplo — decimal 146 a binario:**
 > 
@@ -241,15 +220,11 @@
 > 
 > ```mermaid
 > graph LR
->     A[Número en base b] -->|Evaluación directa<br/>Σ dᵢ · bⁱ| B[Decimal]
->     B -->|Divisiones sucesivas<br/>residuos de abajo arriba| A
+>     A[Número en base b] -->|Evaluación directa Σ dᵢ · bⁱ| B[Decimal]
+>     B -->|Divisiones sucesivas residuos de abajo arriba| A
 >     C[Binario] -->|Agrupar de 4 en 4| D[Hexadecimal]
->     D -->|Expandir cada dígito<br/>en 4 bits| C
+>     D -->|Expandir cada dígito en 4 bits| C
 > 
->     style A fill:#e1f5ff
->     style B fill:#e1ffe1
->     style C fill:#fff4e1
->     style D fill:#f5e1ff
 > ```
 
 ---
@@ -278,27 +253,6 @@ graph TD
     E --> E2["Residuos de abajo hacia arriba"]
     F --> F1["2k <= n < 2k+1"]
     F --> F2["Bits = 1 + log2 n"]
-    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B4 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B5 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style C1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C4 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style D1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style D2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style E fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style E1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style E2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style F fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style F1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style F2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
 
 ```
 

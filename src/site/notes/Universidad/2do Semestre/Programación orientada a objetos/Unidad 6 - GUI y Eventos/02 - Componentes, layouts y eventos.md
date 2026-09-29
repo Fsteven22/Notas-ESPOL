@@ -514,7 +514,7 @@
 > - ✅ Grupos de botones pequeños
 > - ❌ Formularios (usar GridLayout)
 > - ❌ Diseños complejos
-
+>
 > [!success] 🧭 BorderLayout - Cinco Regiones
 > 
 > ```java
@@ -561,7 +561,7 @@
 > JLabel estado = new JLabel("Listo");
 > frame.add(estado, BorderLayout.SOUTH);
 > ```
-
+>
 > [!success] 🔲 GridLayout - Cuadrícula Uniforme
 > 
 > ```java
@@ -648,7 +648,7 @@
 > btn.setAlignmentX(Component.CENTER_ALIGNMENT);
 > // LEFT_ALIGNMENT, CENTER_ALIGNMENT, RIGHT_ALIGNMENT
 > ```
-
+>
 > [!success] 🔧 GridBagLayout - Control Total
 > 
 > ```java
@@ -828,7 +828,7 @@
 >     }
 > });
 > ````
-
+>
 > [!example] 🖱️ MouseListener - Eventos del Mouse
 > 
 > **Métodos de la interfaz:**
@@ -896,7 +896,7 @@
 >     }
 > });
 > ```
-
+>
 > [!example] ⌨️ KeyListener - Eventos del Teclado
 > 
 > **Métodos:**
@@ -939,7 +939,7 @@
 >     }
 > });
 > ```
-
+>
 > [!example] 🔄 Otros Listeners Comunes
 > 
 > **ItemListener - Cambios de selección:**

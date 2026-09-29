@@ -44,7 +44,7 @@
 > - El **48%** siente la necesidad de contestar inmediatamente mensajes o alertas de redes sociales
 > - Entre adolescentes, estas cifras suben al **50%** y **72%** respectivamente
 > - El **75%** de padres afirma que discute con sus hijos por el uso de móviles
-
+>
 > [!note] 🧍 Efectos físicos — Ergonomía y uso del móvil
 > 
 > El uso prolongado e inadecuado de dispositivos móviles tiene consecuencias físicas documentadas:
@@ -57,7 +57,7 @@
 > |**Síndrome del túnel carpiano**|El uso repetitivo del pulgar para escribir en pantallas táctiles genera inflamación en tendones de muñeca y mano|
 > 
 > > ⚠️ La OMS reconoce la postura derivada del uso de móviles como un problema de salud pública emergente, especialmente en adolescentes con esqueletos en desarrollo.
-
+>
 > [!note] 🎓 En la educación
 > 
 > La tecnología ha transformado el acceso al conocimiento:
@@ -68,14 +68,14 @@
 > - Plataformas como Coursera
 > 
 > Sin embargo, sin acceso o sin alfabetismo digital, estas herramientas **aumentan la brecha** en lugar de reducirla.
-
+>
 > [!note] 💳 En transacciones y comercio
 > 
 > - Banca en línea
 > - Compras digitales
 > - Comercio electrónico y marketing digital
 > - Plataformas como Uber/Cabify, Yelp, TripAdvisor, Netflix, LinkedIn, Pinterest, Tinder, Waze
-
+>
 > [!note] 🗳️ En la política
 > 
 > - El **67%** de los estadounidenses obtiene sus noticias a través de redes sociales
@@ -135,7 +135,7 @@
 > |**Aplicaciones de meditación**|Patrones de estrés, frecuencia de uso, estado emocional declarado|
 > |**Apps de nutrición**|Ingesta calórica, macronutrientes, hábitos alimenticios|
 > |**GPS y mapas**|Rutinas de movimiento, lugares frecuentados, tiempos de traslado|
-
+>
 > [!warning] 🔒 Implicaciones de privacidad
 > 
 > La acumulación de datos personales del cuerpo y comportamiento plantea preguntas importantes:

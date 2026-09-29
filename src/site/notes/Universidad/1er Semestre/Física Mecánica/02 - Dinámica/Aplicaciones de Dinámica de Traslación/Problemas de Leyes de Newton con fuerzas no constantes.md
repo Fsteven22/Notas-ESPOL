@@ -6,7 +6,7 @@
 # Problemas de Leyes de Newton con fuerzas no constantes
 
 > [!quote] "Cuando las fuerzas varían con el tiempo, la posición o la velocidad, la naturaleza revela su cara más compleja: cada instante cuenta una historia diferente en la ecuación del movimiento." 🌊
-
+>
 > [!info] Los problemas con fuerzas no constantes representan el siguiente nivel en la comprensión de la dinámica, donde la segunda ley de Newton se convierte en una ecuación diferencial que relaciona fuerzas variables con el movimiento. Estas situaciones aparecen constantemente en la naturaleza: desde la resistencia del aire que depende de la velocidad, hasta fuerzas elásticas proporcionales al desplazamiento, o fuerzas que varían periódicamente con el tiempo. Dominar estos problemas es esencial para entender sistemas oscilatorios, caída con resistencia del aire, y movimientos bajo fuerzas complejas.
 
 ## 🎯 Tipos de Fuerzas No Constantes
@@ -35,7 +35,7 @@
 > 2. **v(t) = ∫a(t)dt + C₁**: Integrar para velocidad
 > 3. **x(t) = ∫v(t)dt + C₂**: Integrar para posición
 > 4. **Aplicar condiciones iniciales**: Determinar constantes
-
+>
 > [!tip] **Fuerzas Dependientes de la Posición F(x)** 📍
 > 
 > ### Características Principales:
@@ -68,7 +68,7 @@
 > 
 > - ½mv² + U(x) = E (constante)
 > - Útil cuando F es conservativa
-
+>
 > [!warning] **Fuerzas Dependientes de la Velocidad F(v)** 🌪️
 > 
 > ### Características Principales:
@@ -97,7 +97,7 @@
 > - Cuando ma = 0: F_resistencia + mg = 0
 > - v_terminal = √(mg/c) para resistencia cuadrática
 > - v_terminal = mg/b para resistencia lineal
-
+>
 > [!success] 🔗 Métodos de Solución para Fuerzas Variables
 > 
 > ```mermaid
@@ -126,7 +126,7 @@
 >     style D fill:#fff3e0
 >     style E fill:#fce4ec
 > ```
-
+>
 > [!note] **Ecuaciones Diferenciales Fundamentales** 📐
 > 
 > ### Para F = F(t):
@@ -214,7 +214,7 @@
 > b) **Posición**: x(3) = (5/6)(3)³ = (5/6)(27) = **22.5 m**
 > 
 > c) **Potencia**: P = F·v = F(3)·v(3) = (10×3)×(22.5) = **675 W**
-
+>
 > [!example] **Problema 2: Fuerza Elástica (Dependiente de Posición)** 🌸
 > 
 > ### Enunciado:
@@ -236,7 +236,7 @@
 > **Paso 3: Velocidad en x = 0.05 m** 1 = ½(0.5)v² + ½(200)(0.05)² 1 = 0.25v² + 0.25 0.75 = 0.25v² v² = 3 **v = 1.73 m/s**
 > 
 > **Verificación**: Usando ω = √(k/m) = √(200/0.5) = 20 rad/s vₘₐₓ = ωA = 20(0.1) = 2 m/s ✓
-
+>
 > [!example] **Problema 3: Resistencia del Aire (Dependiente de Velocidad)** 🪂
 > 
 > ### Enunciado:
@@ -272,7 +272,7 @@
 ## 🧮 Técnicas de Memorización
 
 > [!tip] **Mnemotecnia: "VARIA"** 🎭 **V**ariable identificada **A**nálisis del problema **R**elación diferencial **I**ntegración apropiada **A**plicación de condiciones
-
+>
 > [!tip] **Regla de Dependencias: "TXV"** 📊
 > 
 > - **T**iempo → Integración **D**irecta

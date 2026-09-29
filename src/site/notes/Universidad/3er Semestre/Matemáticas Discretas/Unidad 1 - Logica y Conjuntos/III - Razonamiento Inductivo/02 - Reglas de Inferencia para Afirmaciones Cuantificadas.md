@@ -9,7 +9,7 @@
 
 > [!info] 💡 ¿Por qué necesitamos reglas cuantificadas?
 > 
-> Cuando las proposiciones involucran [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/II - Álgebra Proposicional/02 - Cuantificadores\|cuantificadores]] $\forall$ y $\exists$, las reglas proposicionales no son suficientes. Necesitamos reglas que permitan **pasar entre lo universal y lo particular**, y entre lo existencial y lo concreto.
+> Cuando las proposiciones involucran [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/02 - Cuantificadores\|cuantificadores]] $\forall$ y $\exists$, las reglas proposicionales no son suficientes. Necesitamos reglas que permitan **pasar entre lo universal y lo particular**, y entre lo existencial y lo concreto.
 > 
 > Estas reglas combinan naturalmente con las reglas proposicionales para construir argumentos más complejos.
 
@@ -25,7 +25,7 @@
 > | $P(d),\ \text{para toda } d \in D \Rightarrow \forall x \in D : P(x)$ | **Generalización Universal** |
 > | $\exists x \in D : P(x) \Rightarrow P(d),\ \text{para alguna } d \in D$ | **Particularización Existencial** |
 > | $P(d),\ \text{para alguna } d \in D \Rightarrow \exists x \in D : P(x)$ | **Generalización Existencial** |
-!ChatGPT Image 2 jun 2026, 01_40_53 1.png
+![ChatGPT Image 2 jun 2026, 01_40_53 1.png](/img/user/Universidad/Figuras/ChatGPT%20Image%202%20jun%202026,%2001_40_53%201.png)
 
 ---
 
@@ -142,19 +142,15 @@
 
 ```mermaid
 graph TD
-    A[Proposición universal<br/>∀x ∈ D : P x] -->|Particularización Universal| B[P d , para d ∈ D específico]
+    A[Proposición universal ∀x ∈ D : P x] -->|Particularización Universal| B[P d , para d ∈ D específico]
     C[P d , para todo d ∈ D arbitrario] -->|Generalización Universal| D[∀x ∈ D : P x]
 
-    E[Proposición existencial<br/>∃x ∈ D : P x] -->|Particularización Existencial| F[P d , para algún d ∈ D]
+    E[Proposición existencial ∃x ∈ D : P x] -->|Particularización Existencial| F[P d , para algún d ∈ D]
     G[P d , para algún d concreto] -->|Generalización Existencial| H[∃x ∈ D : P x]
 
-    B --> I[Combinar con reglas<br/>proposicionales]
+    B --> I[Combinar con reglas proposicionales]
     F --> I
     I --> J[✅ Conclusión]
-    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style I fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style J fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
 
 ```
 

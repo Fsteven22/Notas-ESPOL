@@ -6,7 +6,7 @@
 # Problemas de Estabilidad
 
 > [!quote] "La estabilidad no se trata solo de fuerzas equilibradas, sino de mantener ese equilibrio ante las perturbaciones del mundo real." ⚖️
-
+>
 > [!info] Los problemas de estabilidad van más allá del simple equilibrio estático, analizando la capacidad de un sistema para mantener su configuración de equilibrio o retornar a ella ante pequeñas perturbaciones. Involucran el análisis crítico de momentos de torsión, líneas de acción del peso, condiciones de vuelco y deslizamiento, determinando los límites de operación segura de estructuras y objetos.
 
 ## ⚖️ Tipos de Estabilidad
@@ -34,7 +34,7 @@
 > - Péndulo en posición vertical inferior
 > - Cono apoyado en su base
 > - Vaso sobre mesa (dentro de los límites)
-
+>
 > [!tip] **Estabilidad Inestable** ❌
 > 
 > ### Características:
@@ -55,7 +55,7 @@
 > - Péndulo invertido
 > - Cono apoyado en su vértice
 > - Objeto al borde del vuelco
-
+>
 > [!warning] **Estabilidad Neutral** ➡️
 > 
 > ### Características:
@@ -76,7 +76,7 @@
 > - Sistemas de transporte (rodillos)
 > - Mecanismos de posicionamiento
 > - Elementos de rotación libre
-
+>
 > [!success] 🔗 Factores que Afectan la Estabilidad
 > 
 > ```mermaid
@@ -107,7 +107,7 @@
 >     style C fill:#fff3e0
 >     style D fill:#e8f5e8
 > ```
-
+>
 > [!note] **Condiciones de Vuelco** 🔄
 > 
 > ### Análisis de Vuelco:
@@ -172,7 +172,7 @@
 > 13. Comparar con criterios de diseño
 > 14. Proponer modificaciones si es necesario
 > 15. Documentar condiciones límite de operación
-
+>
 > [!tip] **Técnicas Especializadas** 🔧
 > 
 > ### **Método Gráfico de Estabilidad**:
@@ -242,7 +242,7 @@
 > Como f_necesaria > f_disponible: **FS = 392/1527 = 0.26 < 1**
 > 
 > **Resultado**: **INESTABLE** - la escalera resbalará
-
+>
 > [!example] **Problema 2: Caja sobre Camión en Curva** 🚛
 > 
 > ### Enunciado:
@@ -287,7 +287,7 @@
 > **Respuesta**: **El deslizamiento ocurre primero**
 > 
 > La caja resbalará antes de volcarse, lo cual es preferible para la seguridad.
-
+>
 > [!example] **Problema 3: Torre con Carga de Viento** 🗼
 > 
 > ### Enunciado:
@@ -322,7 +322,7 @@
 > **Condición límite**: M_estab = M_vuelco 220,500 = F_max × 20 **F_max = 11,025 N**
 > 
 > **Verificación**: Con F_max, el FS = 1.0 (vuelco inminente)
-
+>
 > [!example] **Problema 4: Automóvil en Pendiente** 🚗
 > 
 > ### Enunciado:
@@ -366,7 +366,7 @@
 > **El ángulo crítico es θ = 35.0°** (deslizamiento)
 > 
 > El automóvil deslizará antes de volcarse, lo cual es el comportamiento deseado para la seguridad.
-
+>
 > [!example] **Problema 5: Grúa con Carga Variable** 🏗️
 > 
 > ### Enunciado:
@@ -422,7 +422,7 @@
 > - Evitar frecuencias de resonancia
 > - Considerar espectros de respuesta
 > - Incluir efectos de segundo orden
-
+>
 > [!tip] **Estabilidad de Sistemas Articulados** 🔗
 > 
 > ### Análisis de Pandeo:
@@ -442,7 +442,7 @@
 > - Análisis lineal de estabilidad
 > - Análisis no-lineal geométrico
 > - Análisis post-crítico
-
+>
 > [!tip] **Optimización de Estabilidad** 📈
 > 
 > ### Estrategias de Mejora:

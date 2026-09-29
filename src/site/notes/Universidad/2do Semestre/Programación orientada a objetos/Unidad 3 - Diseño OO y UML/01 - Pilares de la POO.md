@@ -229,7 +229,7 @@ graph TB
 > // Salario: $3500
 > // Bono: $500
 > ```
-
+>
 > [!warning] ⚠️ Puntos Importantes
 > 
 > **1. Java solo permite herencia simple:**
@@ -355,7 +355,7 @@ graph TB
 > // Michi: ¡Miau!
 > // Toby: ¡Guau!
 > ```
-
+>
 > [!success] 🚀 Ventajas del Polimorfismo
 > 
 > **1. Código extensible sin modificar existente:**
@@ -559,7 +559,7 @@ graph TB
 > Nadador n = new Pato();
 > n.nadar();  // El pato nada
 > ```
-
+>
 > [!info] 📊 Clase Abstracta vs Interface
 > 
 > |Aspecto|Clase Abstracta|Interface|

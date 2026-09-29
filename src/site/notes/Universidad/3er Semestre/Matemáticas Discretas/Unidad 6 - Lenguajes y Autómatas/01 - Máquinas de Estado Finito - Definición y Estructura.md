@@ -22,14 +22,10 @@
 > ```mermaid
 > graph TD
 >     A["Sistema secuencial"] --> B["Entrada actual"]
->     A --> C["Estado interno<br/>(memoria finita)"]
+>     A --> C["Estado interno (memoria finita)"]
 >     B --> D["Nueva salida"]
 >     C --> D
 >     C --> E["Nuevo estado"]
->     style A fill:#1e3a5f,color:#fff
->     style C fill:#f5e1ff
->     style D fill:#e1ffe1
->     style E fill:#e1f5ff
 > ```
 
 ---
@@ -57,7 +53,6 @@
 > ```mermaid
 > graph LR
 >     A["x_t"] --> B["Retraso"] --> C["x_{t-1}"]
->     style B fill:#1e3a5f,color:#fff
 > ```
 >
 > **Observación:** el retraso unitario permite almacenar información del instante anterior — es el bloque más simple que introduce "memoria" en un sistema digital.
@@ -95,15 +90,13 @@
 >
 > ```mermaid
 > graph LR
->     xt["x_t"] --> S["Sumador<br/>completo"]
+>     xt["x_t"] --> S["Sumador completo"]
 >     yt["y_t"] --> S
 >     ct1["c_{t-1}"] --> S
 >     S --> zt["z_t"]
 >     S --> ct["c_t"]
 >     ct --> R["Retraso"]
 >     R --> ct1
->     style S fill:#1e3a5f,color:#fff
->     style R fill:#f5e1ff
 > ```
 >
 > El **sumador completo** calcula el bit de suma $z_t$ y el nuevo acarreo $c_t$. El **retraso** guarda $c_t$ para usarlo como $c_{t-1}$ en el siguiente instante — esto es exactamente lo que le da "memoria" al sumador.
@@ -206,9 +199,6 @@
 >     s0 -->|"b/1"| s1(("σ₁"))
 >     s1 -->|"a/1"| s1
 >     s1 -->|"b/0"| s1
->     style start fill:#fff,stroke:#fff
->     style s0 fill:#1e3a5f,color:#fff
->     style s1 fill:#f5e1ff
 > ```
 
 ---
@@ -260,9 +250,6 @@
 >     c -->|"00/1"| nc
 >     c -->|"01/0, 10/0"| c
 >     c -->|"11/1"| c
->     style start fill:#fff,stroke:#fff
->     style nc fill:#1e3a5f,color:#fff
->     style c fill:#f5e1ff
 > ```
 >
 > La salida de cada transición es el bit de suma; el nuevo estado indica si queda acarreo para el siguiente paso.
@@ -286,16 +273,12 @@
 
 ```mermaid
 graph TD
-    A["¿La salida depende solo<br/>de la entrada actual?"] -->|"Sí"| B["Circuito combinacional"]
-    A -->|"No"| C["¿Necesito registrar<br/>solo el símbolo anterior?"]
+    A["¿La salida depende solo de la entrada actual?"] -->|"Sí"| B["Circuito combinacional"]
+    A -->|"No"| C["¿Necesito registrar solo el símbolo anterior?"]
     C -->|"Sí"| D["Retraso unitario"]
-    C -->|"No, depende de<br/>una historia más compleja"| E["¿La salida es un<br/>símbolo de un conjunto O?"]
-    E -->|"Sí"| F["Máquina de estado finito<br/>M = (I,O,S,f,g,σ)"]
-    E -->|"No, solo quiero saber<br/>si la cadena es válida"| G["Autómata de estado finito<br/>(ver nota relacionada)"]
-    style B fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
-    style D fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
-    style F fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style G fill:#37474F,color:#FFFFFF,stroke:#90A4AE,stroke-width:1px
+    C -->|"No, depende de una historia más compleja"| E["¿La salida es un símbolo de un conjunto O?"]
+    E -->|"Sí"| F["Máquina de estado finito M = (I,O,S,f,g,σ)"]
+    E -->|"No, solo quiero saber si la cadena es válida"| G["Autómata de estado finito (ver nota relacionada)"]
 ```
 
 ---

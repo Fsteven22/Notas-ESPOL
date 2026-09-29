@@ -252,18 +252,12 @@
 
 ```mermaid
 graph TD
-    A[Conectivos Lógicos] --> B["¬p  Negación<br/>(unitario)"]
-    A --> C["p ∨ q  Disyunción<br/>(binario)"]
-    A --> D["p ∧ q  Conjunción<br/>(binario)"]
-    A --> E["p ⊻ q  Disyunción Exclusiva<br/>(binario)"]
-    A --> F["p → q  Condicional<br/>(binario)"]
-    A --> G["p ↔ q  Bicondicional<br/>(binario)"]
-    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style D fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style E fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style G fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
+    A[Conectivos Lógicos] --> B["¬p  Negación (unitario)"]
+    A --> C["p ∨ q  Disyunción (binario)"]
+    A --> D["p ∧ q  Conjunción (binario)"]
+    A --> E["p ⊻ q  Disyunción Exclusiva (binario)"]
+    A --> F["p → q  Condicional (binario)"]
+    A --> G["p ↔ q  Bicondicional (binario)"]
 
 ```
 
@@ -338,7 +332,7 @@ graph TD
 >     Equivalente a decir que $P \leftrightarrow Q$ es una **tautología**.
 
 > [!success] 📋 Principales Equivalencias Lógicas
-> !Pasted image 20260517162520.png
+> ![Pasted image 20260517162520.png](/img/user/Universidad/Figuras/Pasted%20image%2020260517162520.png)
 > **Leyes de identidad:**
 > 
 > |Ley|Expresión|
@@ -426,14 +420,10 @@ graph TD
 > 
 > ```mermaid
 > graph LR
->     A[Proposiciones<br/>Lógicas] -->|Se implementan como| B[Compuertas<br/>Lógicas]
->     B -->|Se combinan en| C[Circuitos<br/>Combinatorios]
->     C -->|Se aplican en| D[Computadoras<br/>y Electrónica]
+>     A[Proposiciones Lógicas] -->|Se implementan como| B[Compuertas Lógicas]
+>     B -->|Se combinan en| C[Circuitos Combinatorios]
+>     C -->|Se aplican en| D[Computadoras y Electrónica]
 >     
->     style A fill:#e1f5ff
->     style B fill:#fff4e1
->     style C fill:#e1ffe1
->     style D fill:#f5e1ff
 > ```
 
 ### 🔌 Compuertas Lógicas Básicas
@@ -451,7 +441,7 @@ graph TD
 > |**NAND**|$\neg(p \wedge q)$|AND con círculo|Falso solo si ambas entradas son 1|
 > |**NOR**|$\neg(p \vee q)$|OR con círculo|Verdadero solo si ambas entradas son 0|
 > 
-!ChatGPT Image 20 may 2026, 13_02_00.png
+![ChatGPT Image 20 may 2026, 13_02_00.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2020%20may%202026,%2013_02_00.png)
 
 > [!example] 🧮 Tablas de Verdad de Compuertas
 > 
@@ -510,7 +500,7 @@ graph TD
 > q ───────────┘          ├──[ AND ]──→ Salida
 > r ──────────────────────┘
 > ```
-> !ChatGPT Image 20 may 2026, 13_05_26.png
+> ![ChatGPT Image 20 may 2026, 13_05_26.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2020%20may%202026,%2013_05_26.png)
 > 
 > |$p$|$q$|$r$|$\neg p$|$\neg p \vee q$|$(\neg p \vee q) \wedge r$|
 > |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -575,32 +565,6 @@ graph TD
     F --> F2["NAND NOR"]
     F --> F3["Medio Sumador"]
     F --> F4["Expresiones a circuitos"]
-    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style C1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C4 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C5 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C6 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style D1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style D2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style D3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style E fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style E1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style E2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style E3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style E4 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style F fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style F1 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style F2 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style F3 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style F4 fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
 
 ```
 

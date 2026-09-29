@@ -12,11 +12,11 @@
 
 | Nota                                                                                                                                                                           | Actualizado | Salientes | Entrantes |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- | --------- | --------- |
-| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/01 - Funciones\|01 — Funciones]]                                                         | 2026-08-28  | 1         | 12        |
-| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/02 - Relaciones\|02 — Relaciones]]                                                       | 2026-08-28  | 1         | 10        |
-| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/03 - Propiedades y Equivalencia\|03 — Propiedades y Equivalencia]]                       | 2026-08-28  | 0         | 5         |
-| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/04 - Sucesiones y Cadenas\|04 — Sucesiones y Cadenas]]                                   | 2026-08-28  | 1         | 13        |
-| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/Guía de Problemas 2 - Ejercicios Resueltos\|Guía de Problemas 2 — Ejercicios Resueltos]] | 2026-08-27  | 7         | 1         |
+| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/01 - Funciones\|01 — Funciones]]                                                         | 2026-09-08  | 1         | 13        |
+| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/02 - Relaciones\|02 — Relaciones]]                                                       | 2026-09-08  | 1         | 10        |
+| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/03 - Propiedades y Equivalencia\|03 — Propiedades y Equivalencia]]                       | 2026-09-08  | 0         | 5         |
+| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/04 - Sucesiones y Cadenas\|04 — Sucesiones y Cadenas]]                                   | 2026-09-08  | 1         | 13        |
+| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/Guía de Problemas 2 - Ejercicios Resueltos\|Guía de Problemas 2 — Ejercicios Resueltos]] | 2026-09-08  | 16        | 2         |
 
 { .block-language-dataview}
 
@@ -27,6 +27,17 @@
     - [1] = {x ∈ X : xR₁1} = {1, 3}  (porque 1R₁1 y 3R₁1)
     - [3] = {x ∈ X : xR₁3} = {1, 3} = [1]  (misma clase)
     - [4] = {x ∈ X : xR₁4} = {4}
+# [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/Guía de Problemas 2 - Ejercicios Resueltos\|Guía de Problemas 2 - Ejercicios Resueltos]]
+
+    - [ ] Decido si una función es inyectiva con un contraejemplo o con álgebra directa.
+    - [ ] Construyo la matriz y el digrafo de una relación finita dada por regla.
+    - [ ] Calculo términos de sucesiones y desarrollo sumas sigma y productos simples.
+    - [ ] Demuestro sobreyectividad hallando la preimagen y verificando su existencia en el dominio.
+    - [ ] Verifico las cuatro propiedades de una relación y la clasifico como equivalencia u orden.
+    - [ ] Calculo composiciones $R_1 \circ R_2$ y $R_2 \circ R_1$ con tabla de elementos intermedios.
+    - [ ] Estructuro demostraciones por inducción para identidades con sigma, producto y divisibilidad.
+    - [ ] Hallo clases de equivalencia describiendo el conjunto exacto que cumple la condición.
+    - [ ] Combino funciones, relaciones y sucesiones para modelar problemas nuevos sin guía.
 
 { .block-language-dataview}
 

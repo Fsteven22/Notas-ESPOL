@@ -13,7 +13,7 @@
 > - 🌙 **Sostiene la Luna** en su trayectoria terrestre
 > - 🏃‍♂️ **Nos mantiene pegados** al suelo
 > - ⭐ **Rige el cosmos** entero a gran escala
-
+>
 > [!abstract] Principio Universal Esta ley se aplica a **todas las masas** en el universo, desde partículas microscópicas hasta galaxias enteras, siendo una de las **cuatro fuerzas fundamentales** de la naturaleza.
 
 ```mermaid
@@ -48,7 +48,7 @@ graph TD
 > |Masas|$m_1, m_2$|kg|Masas de los objetos interactuantes ⚖️|
 > |Distancia|$r$|m|Entre centros de masa 📏|
 > |Aceleración gravitacional|$g$|$9.8 \text{ m/s}^2$|En superficie terrestre 🌍|
-
+>
 > [!warning] Punto Importante La distancia $r$ se mide entre los **centros de masa** de los objetos, no entre sus superficies. Para objetos esféricos, esto simplifica considerablemente los cálculos.
 
 ---
@@ -198,7 +198,7 @@ graph LR
 > - Masa de la Tierra: $M_{🌍} = 5.972 \times 10^{24}$ kg
 > - Distancia promedio: $r = 1.496 \times 10^{11}$ m (1 UA)
 > - Constante: $G = 6.674 \times 10^{-11} \frac{\text{N} \cdot \text{m}^2}{\text{kg}^2}$
-
+>
 > [!note] Desarrollo del Cálculo **Aplicando la fórmula:** $$F_g = G \frac{M_{☀️} \times M_{🌍}}{r^2}$$
 > 
 > **Sustituyendo valores:** $$F_g = (6.674 \times 10^{-11}) \frac{(1.989 \times 10^{30})(5.972 \times 10^{24})}{(1.496 \times 10^{11})^2}$$
@@ -295,7 +295,7 @@ flowchart TB
 > - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Principios de Conservación de la Energía\|Principios de Conservación de la Energía]] - Naturaleza de la gravedad
 > - `[[Principio de Superposición]]` - Múltiples masas
 > 
-
+>
 >[!question] Para Profundizar
 > 
 > ### 🔬 Temas Avanzados

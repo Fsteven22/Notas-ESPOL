@@ -480,7 +480,7 @@ mindmap
 > |**Tuvalu / Kiribati**|Océano Pacífico, islas de baja altitud|Naciones insulares que literalmente desaparecerán bajo el mar si el nivel oceánico sigue subiendo por el cambio climático|
 > |**Sub-Sahara africana**|África al sur del desierto del Sahara|Región de ~50 países con los indicadores de desarrollo más bajos del mundo en casi todos los ODS|
 > |**África Subsahariana**|Mismo concepto que Sub-Sahara|Se usan indistintamente para referirse a la misma región geográfica|
-
+>
 > [!info] 💻 Tecnologías y Conceptos Técnicos
 > 
 > |Término|Explicación simple|

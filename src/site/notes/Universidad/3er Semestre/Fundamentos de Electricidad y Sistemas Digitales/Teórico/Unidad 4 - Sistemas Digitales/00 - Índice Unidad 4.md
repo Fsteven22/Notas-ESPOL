@@ -11,8 +11,8 @@
 
 | Nota                                                                                                                                                                                                          | Actualizado | Salientes | Entrantes |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | --------- | --------- |
-| [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 4 - Sistemas Digitales/01 - Introducción a la Electrónica Digital\|01 — Introducción a la Electrónica Digital]] | 2026-08-26  | 5         | 4         |
-| [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 4 - Sistemas Digitales/02 - Minimización de Funciones Lógicas\|02 — Minimización de Funciones Lógicas]]         | 2026-08-26  | 5         | 2         |
+| [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 4 - Sistemas Digitales/01 - Introducción a la Electrónica Digital\|01 — Introducción a la Electrónica Digital]] | 2026-09-05  | 5         | 4         |
+| [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 4 - Sistemas Digitales/02 - Minimización de Funciones Lógicas\|02 — Minimización de Funciones Lógicas]]         | 2026-09-05  | 5         | 2         |
 
 { .block-language-dataview}
 

@@ -40,7 +40,7 @@
 > - 🚂 Tren con tramos urbanos y rurales
 > - 🚴‍♂️ Ciclista en terreno variado (llano, subida, bajada)
 > - ✈️ Vuelo con diferentes velocidades por altitud
-
+>
 > [!warning] 🧩 **Movimiento con Datos Incompletos** **Situación:** Faltan algunos datos en ciertos tramos, se deben calcular
 > 
 > **Casos típicos:**
@@ -51,13 +51,13 @@
 > - **Mixto:** Diferentes datos faltantes por tramo
 > 
 > **Estrategia:** Usar $d = vt$ en cada tramo para completar datos
-
+>
 > [!note] ⏱️ **Problemas de Velocidad Media** **Situación:** Calcular la velocidad promedio real del viaje completo
 > 
 > **⚠️ Advertencia crítica:** $$\bar{v} = \frac{d_{total}}{t_{total}} \neq \frac{v_1 + v_2 + ... + v_n}{n}$$
 > 
 > La velocidad media **NO es** el promedio aritmético de las velocidades
-
+>
 > [!abstract] 🔄 **Viajes de Ida y Vuelta** **Situación especial:** Recorrido del mismo trayecto a velocidades diferentes
 > 
 > **Casos comunes:**
@@ -115,7 +115,7 @@
 > |**Distancia total**|$d_{total} = \sum d_i$|Suma de todos los tramos|
 > |**Tiempo total**|$t_{total} = \sum t_i$|Suma de todos los tiempos|
 > |**Velocidad media**|$\bar{v} = \frac{d_{total}}{t_{total}}$|**NO** es promedio aritmético|
-
+>
 > [!note] 🔢 **Velocidad Media Armónica (Caso Especial)** **Cuándo usarla:** Cuando se recorren **distancias iguales** a velocidades diferentes
 > 
 > **Fórmula general:** $$\bar{v}_{armónica} = \frac{n}{\frac{1}{v_1} + \frac{1}{v_2} + ... + \frac{1}{v_n}}$$
@@ -165,7 +165,7 @@
 > - **c) Velocidad media:** 60 km/h
 > 
 > **Verificación:** Promedio aritmético = $\frac{60+80+40}{3} = 60$ km/h (coincide por casualidad)
-
+>
 > [!example] 🔄 **Ejemplo 2: Ida y Vuelta con Velocidades Diferentes** **Problema:** Un auto va de la ciudad A a la B (180 km) a 90 km/h. Al regresar por la misma ruta lo hace a 60 km/h. Calcular la velocidad media del viaje completo.
 > 
 > **Solución:**
@@ -280,7 +280,7 @@
 > - Afecta significativamente la velocidad media
 > 
 > **Ejemplo:** Autobús urbano con paradas frecuentes
-
+>
 > [!note] ⛽ **Problemas de Consumo Combinado** **Extensión:** Combinar tiempo-distancia con consumo de combustible
 > 
 > **Variables adicionales:**
@@ -290,7 +290,7 @@
 > - Costo por tramo
 > 
 > **Aplicación:** Planificación de viajes largos
-
+>
 > [!tip] 🚴‍♂️ **Deportes y Rendimiento** **Aplicación:** Análisis de rendimiento atlético por segmentos
 > 
 > **Métricas útiles:**

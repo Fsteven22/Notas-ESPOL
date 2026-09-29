@@ -120,7 +120,7 @@
 > |_gym_|/ɪ/|"yim" — i corta, cerrada|
 > |_happy_|/iː/|"háp-ee" — ee larga al final|
 > |_my_|/aɪ/|"mai" — diptongo ai|
-
+>
 > [!tip] 💡 Tip de pronunciación para hispanohablantes
 > 
 > El error más frecuente es pronunciar la Y inicial en inglés como el sonido fuerte /ʝ/ del español rioplatense (como la "ll" argentina) en lugar del sonido suave /j/. En inglés estándar americano y británico, la Y inicial **siempre es suave**, casi como si deslizaras la voz antes de la vocal.
@@ -148,7 +148,7 @@
 > > **David:** Yeah, __________________ — back at ESPOL in Guayaquil!
 > > 
 > > **Ana:** __________________ , David! How long have you been working here?
-
+>
 > [!success] ✅ Respuestas — Ejercicio 1
 > 
 > > **Carlos:** Hey Ana, _let me introduce you to_ my colleague David. He just joined the team.
@@ -172,7 +172,7 @@
 > |Sonido /j/|Sonido /ɪ/|Sonido /iː/|Sonido /aɪ/|
 > |---|---|---|---|
 > |(inicio)|(medio)|(final bisílaba)|(final monosílaba)|
-
+>
 > [!success] ✅ Respuestas — Ejercicio 2
 > 
 > |Sonido /j/|Sonido /ɪ/|Sonido /iː/|Sonido /aɪ/|
@@ -193,7 +193,7 @@
 > 17. Alguien intenta presentarte a una persona con quien ya trabajas desde hace dos años. ¿Cómo respondes?
 > 18. Entras a una nueva empresa el primer día. Ves a alguien que parece también ser nuevo. ¿Cómo empiezas la conversación?
 > 19. En una reunión, no estás seguro si dos de tus colegas ya se conocen. ¿Qué preguntas antes de presentarlos?
-
+>
 > [!success] ✅ Respuestas — Ejercicio 3
 > 
 > 16. _Let me introduce you to [name]. / Have you met [name]?_

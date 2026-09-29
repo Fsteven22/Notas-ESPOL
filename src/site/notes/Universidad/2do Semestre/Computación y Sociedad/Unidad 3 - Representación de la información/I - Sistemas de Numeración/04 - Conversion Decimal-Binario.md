@@ -36,7 +36,7 @@
 > | **2** | Anotar el **cociente** y el **resto** de la operación |
 > | **3** | Repetir con el cociente hasta llegar a 0 |
 > | **4** | Leer la lista de restos **de abajo hacia arriba** |
-
+>
 > [!example] ✏️ Ejemplo — Convertir 28₁₀ a binario
 >
 > $$
@@ -60,7 +60,7 @@
 > [!note] ➕ Suma de potencias de 2
 >
 > Cada bit multiplica la potencia de 2 correspondiente a su posición (empezando en $2^0$ desde la derecha), y se suman todos los productos donde el bit es 1.
-
+>
 > [!example] ✏️ Ejemplo — Convertir 1101011001010100₂ a decimal
 >
 > Posiciones (de izquierda a derecha, de la 15 a la 0):
@@ -90,7 +90,7 @@
 > |---|---|
 > |**Entera**|Divisiones sucesivas entre 2 (igual que antes)|
 > |**Fraccionaria**|Multiplicaciones sucesivas por 2: en cada paso se toma la **parte entera** del resultado como el siguiente bit, y se continúa con la parte fraccionaria restante|
-
+>
 > [!example] ✏️ Ejemplo — Convertir 42.375₁₀ a binario con 3 dígitos de precisión
 >
 > **Parte entera (42):**
@@ -119,7 +119,7 @@
 > → $0.375_{10} \approx 0.011_2$
 >
 > $$\boxed{42.375_{10} = 101010.011_2}$$
-
+>
 > [!danger] ⚠️ Sobre la precisión
 >
 > No todas las fracciones decimales tienen una representación binaria **exacta y finita** (igual que $1/3$ no tiene representación decimal exacta). Por eso los ejercicios piden una **cantidad específica de dígitos de precisión**: el resultado puede ser una aproximación truncada, no necesariamente exacto.
@@ -133,7 +133,7 @@
 > Mismo principio que la conversión entera, pero la parte después del punto usa **potencias negativas de 2**:
 >
 > $$2^{-1} = 0.5 \qquad 2^{-2} = 0.25 \qquad 2^{-3} = 0.125 \qquad \dots$$
-
+>
 > [!example] ✏️ Ejemplo — Convertir 1100101.110₂ a decimal
 >
 > $$1\times2^6 + 1\times2^5 + 0\times2^4 + 0\times2^3 + 1\times2^2 + 0\times2^1 + 1\times2^0 + 1\times2^{-1} + 1\times2^{-2} + 0\times2^{-3}$$
@@ -151,7 +151,7 @@
 > - $153.78_{10}$ con precisión de 4 dígitos
 > - $294.13_{10}$ con precisión de 4 dígitos
 > - $147.21_{10}$ con precisión de 5 dígitos
-
+>
 > [!example] ✏️ Convertir a decimal
 >
 > - $1111010100.0101001_2$

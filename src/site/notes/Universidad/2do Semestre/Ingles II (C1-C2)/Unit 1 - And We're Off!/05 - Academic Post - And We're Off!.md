@@ -174,7 +174,7 @@
 > - Haga referencia a Lizzy y a Paul.
 > - Siga la estructura de las 5 partes en el mismo orden.
 > - Use frases del banco de Useful Phrases.
-
+>
 > [!tip]- 💡 Modelo de respuesta — Academic Post completo
 > 
 > El siguiente es un modelo de respuesta para que puedas comparar con el tuyo:
@@ -182,7 +182,7 @@
 > _In my view, both factors are important, but good study habits ultimately determine success at university. One key reason for this is that self-discipline allows students to manage their time and workload independently, regardless of the teacher they have. For example, students with strong routines tend to perform consistently across all subjects. While Lizzy is right that supportive teachers can make a significant difference, their impact is limited if a student lacks basic study skills. I strongly agree with Paul's perspective, and I would add that habits like reviewing notes daily and setting weekly goals are especially effective. Overall, I am convinced that academic success is built on personal discipline first._
 > 
 > _(Aproximadamente 115 palabras)_
-
+>
 > [!success] ✅ Guía de autoevaluación
 > 
 > Antes de entregar tu Academic Post, verifica esta lista:

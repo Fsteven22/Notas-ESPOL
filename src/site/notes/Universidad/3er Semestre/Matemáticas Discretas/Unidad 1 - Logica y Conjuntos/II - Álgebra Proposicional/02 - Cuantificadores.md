@@ -304,8 +304,8 @@ graph TD
     A[Funciones Proposicionales] --> B[Cuantificador Universal ∀]
     A --> C[Cuantificador Existencial ∃]
     
-    B --> D["∀x∈D: P(x)<br/>Verdadera si P(x) V para todo x<br/>Falsa si hay un contraejemplo"]
-    C --> E["∃x∈D: P(x)<br/>Verdadera si P(x) V para algún x<br/>Falsa si P(x) F para todo x"]
+    B --> D["∀x∈D: P(x) Verdadera si P(x) V para todo x Falsa si hay un contraejemplo"]
+    C --> E["∃x∈D: P(x) Verdadera si P(x) V para algún x Falsa si P(x) F para todo x"]
     
     D --> F["Negación: ∃x∈D: ¬P(x)"]
     E --> G["Negación: ∀x∈D: ¬P(x)"]
@@ -313,15 +313,6 @@ graph TD
     B --> H[Cuantificadores Anidados]
     C --> H
     H --> I[∀∀ ∀∃ ∃∀ ∃∃]
-    style A fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style B fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style C fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style D fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style E fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style F fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style G fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
-    style H fill:#283593,color:#FFFFFF,stroke:#9FA8DA,stroke-width:1px
-    style I fill:#1565C0,color:#FFFFFF,stroke:#90CAF9,stroke-width:1px
     
 ```
 

@@ -17,7 +17,7 @@
 > - La segunda derivada es **positiva**: f''(x) > 0
 > - Cualquier recta secante queda por **encima** de la curva
 > - Los puntos se alejan de la tangente hacia arriba
-
+>
 > [!tip] Concavidad Hacia Abajo (Cóncava Abajo) ⬇️
 > 
 > - La gráfica tiene forma de "∩" (U invertida)
@@ -107,7 +107,7 @@ graph LR
 ### Condiciones para Puntos de Inflexión
 
 > [!warning] Condición Necesaria **f''(x) = 0** o **f''(x) no existe**
-
+>
 > [!warning] Condición Suficiente La segunda derivada debe **cambiar de signo** al pasar por el punto candidato.
 
 ### Proceso para Encontrar Puntos de Inflexión
@@ -155,13 +155,13 @@ flowchart LR
 ## Técnicas de Estudio Efectivas 🧠
 
 > [!tip] Mnemotecnia: "COCA-COLA" **CO**ncavidad **C**on **A**rriba → f''(x) > 0 (forma de **C**opa) **CO**ncavidad **L**leva **A**bajo → f''(x) < 0 (**L**oma invertida)
-
+>
 > [!tip] Método de Estudio: Regla de las Manos ✋
 > 
 > - **Mano derecha hacia arriba** (dedos apuntan arriba) = Cóncava arriba
 > - **Mano izquierda hacia abajo** (dedos apuntan abajo) = Cóncava abajo
 > - **Punto donde cambias de mano** = Punto de inflexión
-
+>
 > [!summary] ### Tabla Resumen para Memorizar
 > 
 > 
@@ -181,7 +181,7 @@ flowchart LR
 > - f''(x) = 0 → x = 0
 > - Cambio de signo: (-,0,+)
 > - **Punto de inflexión: (0,0)**
-
+>
 > [!example] Ejemplo 2: f(x) = x⁴
 > 
 > - f'(x) = 4x³
@@ -274,9 +274,9 @@ graph TD
 ## Referencias 🔗
 
 > [!quote] [[Criterios de Optimización\|Criterios de Optimización]] Aprende sobre máximos y mínimos usando derivadas
-
+>
 > [!quote] [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 04 - Aplicaciones de la Derivada/I - Análisis de Funciones/01 - Análisis Completo de Funciones\|01 - Análisis Completo de Funciones]] Estudio completo del comportamiento de funciones
-
+>
 > [!quote] [[Aplicaciones de Derivadas\|Aplicaciones de Derivadas]] Casos prácticos del uso de derivadas en problemas reales
 
 

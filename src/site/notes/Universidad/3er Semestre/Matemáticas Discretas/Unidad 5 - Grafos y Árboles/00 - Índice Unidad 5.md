@@ -10,14 +10,14 @@
 
 ## 📑 Notas de la Unidad
 
-| Nota                                                                                                                                                                                                                                                                               | Actualizado | Salientes | Entrantes |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | --------- | --------- |
-| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/01 - Grafos I - Conceptos Básicos y Recorridos\|01 — Grafos I — Conceptos Básicos y Recorridos]]                                                                                                   | 2026-08-28  | 5         | 10        |
-| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/02 - Grafos II - Subgrafos, Matrices y Algoritmos\|02 — Grafos II — Subgrafos, Matrices y Algoritmos]]                                                                                             | 2026-08-28  | 8         | 4         |
-| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/03 - Grafos III - Isomorfismo\|03 — Grafos III — Isomorfismo]]                                                                                                                                     | 2026-08-28  | 7         | 4         |
-| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/04 - Árboles I - Conceptos Básicos y Árboles de Expansión\|04 — Árboles I — Conceptos Básicos y Árboles de Expansión]]                                                                             | 2026-08-28  | 9         | 4         |
-| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/05 - Árboles II - Árboles Binarios, Recorridos y Códigos Huffman\|05 — Árboles II — Árboles Binarios, Recorridos y Códigos Huffman]]                                                               | 2026-08-30  | 3         | 3         |
-| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/05 - Árboles II - Árboles Binarios, Recorridos y Códigos Huffman (conflict 2026-08-28-01-49-06)\|05 — Árboles II — Árboles Binarios, Recorridos y Códigos Huffman (conflict 2026-08-28-01-49-06)]] | 2026-08-06  | 4         | 0         |
+| Nota                                                                                                                                                                                                                 | Actualizado | Salientes | Entrantes |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | --------- | --------- |
+| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/01 - Grafos I - Conceptos Básicos y Recorridos\|01 — Grafos I — Conceptos Básicos y Recorridos]]                                     | 2026-09-08  | 6         | 12        |
+| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/02 - Grafos II - Subgrafos, Matrices y Algoritmos\|02 — Grafos II — Subgrafos, Matrices y Algoritmos]]                               | 2026-09-08  | 9         | 5         |
+| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/03 - Grafos III - Isomorfismo\|03 — Grafos III — Isomorfismo]]                                                                       | 2026-09-08  | 8         | 6         |
+| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/04 - Árboles I - Conceptos Básicos y Árboles de Expansión\|04 — Árboles I — Conceptos Básicos y Árboles de Expansión]]               | 2026-09-08  | 10        | 4         |
+| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/05 - Árboles II - Árboles Binarios, Recorridos y Códigos Huffman\|05 — Árboles II — Árboles Binarios, Recorridos y Códigos Huffman]] | 2026-09-08  | 4         | 4         |
+| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/Guía de Problemas 5 - Ejercicios Resueltos\|Guía de Problemas 5 — Ejercicios Resueltos]]                                             | 2026-09-08  | 15        | 0         |
 
 { .block-language-dataview}
 
@@ -79,19 +79,6 @@
     - [ ] Puedo demostrar propiedades de árboles usando el teorema de caracterización (por ejemplo, unicidad del árbol de expansión de un árbol).
     - [ ] Puedo razonar sobre cuántos árboles de expansión mínima distintos existen en casos con pesos repetidos.
     - [ ] Puedo comparar y elegir el algoritmo adecuado (BFS, DFS o Prim) según el objetivo del problema.
-# [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/05 - Árboles II - Árboles Binarios, Recorridos y Códigos Huffman (conflict 2026-08-28-01-49-06)\|05 - Árboles II - Árboles Binarios, Recorridos y Códigos Huffman (conflict 2026-08-28-01-49-06)]]
-
-    - [ ] Puedo definir árbol binario y árbol binario completo, y distinguirlos con ejemplos.
-    - [ ] Puedo aplicar la fórmula $2i+1$ vértices totales / $i+1$ terminales en un árbol binario completo.
-    - [ ] Puedo identificar y ejecutar manualmente los recorridos preorden, entreorden y postorden en un árbol pequeño.
-    - [ ] Puedo construir un árbol de búsqueda binaria insertando datos en un orden dado.
-    - [ ] Puedo usar el recorrido entreorden para extraer datos ordenados de un árbol de búsqueda binaria.
-    - [ ] Puedo construir paso a paso un árbol Huffman a partir de una tabla de frecuencias.
-    - [ ] Puedo decodificar una cadena de bits usando un árbol Huffman dado.
-    - [ ] Puedo demostrar propiedades estructurales de árboles binarios completos (por ejemplo, paridad del número de vértices).
-    - [ ] Puedo reconstruir un árbol binario a partir de dos de sus recorridos (por ejemplo, preorden + entreorden).
-    - [ ] Puedo explicar por qué un código Huffman óptimo no es necesariamente único, y en qué casos ocurren empates.
-    - [ ] Puedo conectar la representación de árboles Huffman con lo visto en Computación y Sociedad, explicando la relación en mis propias palabras.
 # [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/05 - Árboles II - Árboles Binarios, Recorridos y Códigos Huffman\|05 - Árboles II - Árboles Binarios, Recorridos y Códigos Huffman]]
 
     - [ ] Puedo definir árbol binario y árbol binario completo, y distinguirlos con ejemplos.
@@ -105,12 +92,23 @@
     - [ ] Puedo reconstruir un árbol binario a partir de dos de sus recorridos (por ejemplo, preorden + entreorden).
     - [ ] Puedo explicar por qué un código Huffman óptimo no es necesariamente único, y en qué casos ocurren empates.
     - [ ] Puedo conectar la representación de árboles Huffman con lo visto en Computación y Sociedad, explicando la relación en mis propias palabras.
+# [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/Guía de Problemas 5 - Ejercicios Resueltos\|Guía de Problemas 5 - Ejercicios Resueltos]]
+
+    - [ ] Explicar con mis palabras los teoremas de Dirac, Ore y Euler (conexidad + paridad)
+    - [ ] Verificar a mano los grados y la lista de aristas del Ejercicio 3
+        - [ ] Reproducir el argumento de imposibilidad del ciclo de Hamilton
+    - [ ] Ejecutar BFS, DFS, Prim y Dijkstra sin mirar la solución
+    - [ ] Trazar los árboles de expansión de los Ejercicios 5 y 6 desde otro vértice inicial
+        - [ ] Comparar el orden de descubrimiento obtenido con el de la guía
+    - [ ] Resolver un TSP y un Dijkstra con pesos nuevos inventados por mí
+    - [ ] Demostrar el Ejercicio 4 por contradicción sin consultar los casos
+        - [ ] Construir un contraejemplo tipo Ejercicio 2 para otra afirmación falsa
 
 { .block-language-dataview}
 
 ## ⚠️ Notas huérfanas (sin enlaces entrantes)
 
-- [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/05 - Árboles II - Árboles Binarios, Recorridos y Códigos Huffman (conflict 2026-08-28-01-49-06)\|05 - Árboles II - Árboles Binarios, Recorridos y Códigos Huffman (conflict 2026-08-28-01-49-06)]]
+- [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/Guía de Problemas 5 - Ejercicios Resueltos\|Guía de Problemas 5 - Ejercicios Resueltos]]
 
 { .block-language-dataview}
 
