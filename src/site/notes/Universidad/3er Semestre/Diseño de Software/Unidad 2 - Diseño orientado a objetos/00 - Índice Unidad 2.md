@@ -17,7 +17,7 @@
 
 > [!quote] 🔗 Conexiones
 > - Mapa de contenido: [[Universidad/3er Semestre/Diseño de Software/Diseño de Software\|Diseño de Software]]
-> - Anterior: [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/00 - Índice Unidad 1\|00 - Índice Unidad 1]]
+> - Anterior: [[Universidad/2do Semestre/Comunicación/Unidad 1 - Comunicación efectiva/00 - Índice Unidad 1\|00 - Índice Unidad 1]]
 > - Siguiente: [[Universidad/2do Semestre/Comunicación/Unidad 3 - Redacción/00 - Índice Unidad 3\|00 - Índice Unidad 3]]
 
 ---

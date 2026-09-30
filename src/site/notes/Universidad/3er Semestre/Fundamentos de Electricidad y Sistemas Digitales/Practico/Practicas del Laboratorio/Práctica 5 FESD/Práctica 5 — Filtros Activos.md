@@ -180,4 +180,9 @@
 
 ---
 
+---
+
+## 📎 Guía oficial (Garden)
+
+[[PRÁCTICA # 5FUNCIONAMIENTO DE FILTROS ACTIVOS.pdf\|PRÁCTICA # 5FUNCIONAMIENTO DE FILTROS ACTIVOS.pdf]]
 **Tags:** #practica #laboratorio #EYAG1037 #FESD #ESPOL #unidad3 #OPAMP #filtro #LM358

@@ -108,4 +108,10 @@ graph TD
 
 ---
 
+## 📎 Presentación base (Garden)
+
+<iframe src="/img/user/Universidad/2do%20Semestre/Ingles%20II%20(C1-C2)/Unit%200%20-%20Preliminar/Hardware%20vs%20Software%20(Dark%20Tech%20Edition).pdf" width="100%" height="900px" title="Hardware vs Software (Dark Tech Edition).pdf" style="border:1px solid #ccc;"></iframe>
+
+---
+
 **Tags:** #english #speaking #hardware #software #script #FIEC

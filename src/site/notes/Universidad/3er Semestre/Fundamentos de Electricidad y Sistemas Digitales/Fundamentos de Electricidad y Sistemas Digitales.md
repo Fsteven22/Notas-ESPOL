@@ -71,15 +71,15 @@ graph TD
 ## 🧪 Práctico y Laboratorio
 
 > [!note] Fundamentos
-> - [[Equipos del Laboratorio - FESD\|Equipos del Laboratorio]]
+> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Practico/Fundamentos del Laboratorio/Equipos del Laboratorio - FESD\|Equipos del Laboratorio]]
 >
 > [!note] Prácticas
-> - [[Práctica 1 - Manejo de Equipos del Laboratorio\|Práctica 1 — Manejo de Equipos]]
-> - [[Práctica 2 - Ley de Ohm y Kirchhoff\|Práctica 2 — Ohm y Kirchhoff]]
-> - [[Práctica 3 - Diodos y Transistores\|Práctica 3 — Diodos y Transistores]]
-> - [[Práctica 4 - Fuentes Lineales\|Práctica 4 — Fuentes Lineales]]
-> - [[Práctica 5 - Filtros Activos\|Práctica 5 — Filtros Activos]]
-> - [[Práctica 6 - Logica Combinatoria y Arduino\|Práctica 6 — Lógica y Arduino]]
+> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Practico/Practicas del Laboratorio/Práctica 1 FESD/Práctica 1 — Manejo de Equipos del Laboratorio\|Práctica 1 — Manejo de Equipos]]
+> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Practico/Practicas del Laboratorio/Práctica 2 FESD/Práctica 2 — Ley de Ohm y Kirchhoff\|Práctica 2 — Ohm y Kirchhoff]]
+> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Practico/Practicas del Laboratorio/Práctica 3 FESD/Práctica 3 — Diodos y Transistores\|Práctica 3 — Diodos y Transistores]]
+> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Practico/Practicas del Laboratorio/Práctica 4 FESD/Práctica 4 — Fuentes Lineales\|Práctica 4 — Fuentes Lineales]]
+> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Practico/Practicas del Laboratorio/Práctica 5 FESD/Práctica 5 — Filtros Activos\|Práctica 5 — Filtros Activos]]
+> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Practico/Practicas del Laboratorio/Práctica 6 FESD/Práctica 6 — Logica Combinatoria y Arduino\|Práctica 6 — Lógica y Arduino]]
 
 ---
 

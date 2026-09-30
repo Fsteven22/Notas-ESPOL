@@ -23,6 +23,12 @@
 
 ---
 
+## 📎 Documento oficial (Garden)
+
+<iframe src="/img/user/Universidad/2do%20Semestre/Computaci%C3%B3n%20y%20Sociedad/SPA-Syllabus-COMPUTACI%C3%93N_Y_SOCIEDAD.pdf" width="100%" height="900px" title="SPA-Syllabus-COMPUTACIÓN_Y_SOCIEDAD.pdf" style="border:1px solid #ccc;"></iframe>
+
+---
+
 ## 🎯 Objetivos del Curso
 
 > [!note] 📌 ¿Qué vamos a lograr?

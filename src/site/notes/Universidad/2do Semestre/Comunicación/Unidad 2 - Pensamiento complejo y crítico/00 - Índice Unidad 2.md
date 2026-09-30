@@ -5,29 +5,17 @@
 
 # 🗺️ Unidad 2 — Pensamiento complejo y crítico — Índice
 
-> [!info] ℹ️ Índice auto-actualizable con Dataview
-> Esta nota lista automáticamente todas las notas de esta unidad. No necesitas editarla al agregar una nueva: aparece sola al guardarla.
+> [!info] ℹ️ Índice manual
+> Se actualiza a mano para que funcione igual en Obsidian y en Digital Garden.
 
 ## 📑 Notas de la Unidad
 
-| Nota | Actualizado |
-| ---- | ----------- |
-
-{ .block-language-dataview}
-
-## ✅ Avance — Metas de Aprendizaje
-
-
-{ .block-language-dataview}
-
-## ⚠️ Notas huérfanas (sin enlaces entrantes)
-
-
-{ .block-language-dataview}
+- [[Universidad/2do Semestre/Comunicación/Unidad 2 - Pensamiento complejo y crítico/01 - Pensamiento complejo vs pensamiento lineal\|01 - Pensamiento complejo vs pensamiento lineal]]
+- [[Universidad/2do Semestre/Comunicación/Unidad 2 - Pensamiento complejo y crítico/02 - Pensamiento crítico y perfil prosumidor\|02 - Pensamiento crítico y perfil prosumidor]]
 
 > [!quote] 🔗 Conexiones
 > - Mapa de contenido: [[Universidad/2do Semestre/Comunicación/Comunicación\|Comunicación]]
-> - Anterior: [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/00 - Índice Unidad 1\|00 - Índice Unidad 1]]
+> - Anterior: [[Universidad/2do Semestre/Comunicación/Unidad 1 - Comunicación efectiva/00 - Índice Unidad 1\|00 - Índice Unidad 1]]
 > - Siguiente: [[Universidad/2do Semestre/Comunicación/Unidad 3 - Redacción/00 - Índice Unidad 3\|00 - Índice Unidad 3]]
 
 ---

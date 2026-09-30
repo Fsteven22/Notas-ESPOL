@@ -208,9 +208,14 @@
 > [!quote] 🔗 Conexiones
 > - Teoría: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 1 - Electricidad y Circuitos/05 - Leyes de Ohm y Kirchhoff\|05 - Leyes de Ohm y Kirchhoff]], [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 1 - Electricidad y Circuitos/04 - Circuitos en Serie Paralelo y Mixtos\|04 - Circuitos en Serie Paralelo y Mixtos]] y [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 1 - Electricidad y Circuitos/06 - Teoremas de Analisis de Circuitos\|06 - Teoremas de Analisis de Circuitos]]
 > - Previa: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Practico/Practicas del Laboratorio/Práctica 1 FESD/Práctica 1 — Manejo de Equipos del Laboratorio\|Práctica 1 — Manejo de Equipos del Laboratorio]]
-> - Equipos: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Practico/Fundamentos del Laboratorio/Equipos del Laboratorio — FESD\|Equipos del Laboratorio — FESD]]
+> - Equipos: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Practico/Fundamentos del Laboratorio/Equipos del Laboratorio - FESD\|Equipos del Laboratorio - FESD]]
 > - Siguiente: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Practico/Practicas del Laboratorio/Práctica 3 FESD/Práctica 3 — Diodos y Transistores\|Práctica 3 — Diodos y Transistores]]
 
 ---
 
+---
+
+## 📎 Guía oficial (Garden)
+
+<iframe src="/img/user/Universidad/3er%20Semestre/Fundamentos%20de%20Electricidad%20y%20Sistemas%20Digitales/Practico/Practicas%20del%20Laboratorio/Pr%C3%A1ctica%202%20FESD/Pr%C3%A1ctica%202%20Ley%20de%20Ohm%20y%20Leyes%20de%20Kirchof.pdf" width="100%" height="900px" title="Práctica 2 Ley de Ohm y Leyes de Kirchof.pdf" style="border:1px solid #ccc;"></iframe>
 **Tags:** #practica #laboratorio #EYAG1037 #FESD #ESPOL #unidad1 #leyDeOhm #kirchhoff

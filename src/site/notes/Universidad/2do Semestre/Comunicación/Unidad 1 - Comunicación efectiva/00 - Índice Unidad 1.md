@@ -5,25 +5,13 @@
 
 # 🗺️ Unidad 1 — Comunicación efectiva — Índice
 
-> [!info] ℹ️ Índice auto-actualizable con Dataview
-> Esta nota lista automáticamente todas las notas de esta unidad. No necesitas editarla al agregar una nueva: aparece sola al guardarla.
+> [!info] ℹ️ Índice manual
+> Se actualiza a mano para que funcione igual en Obsidian y en Digital Garden.
 
 ## 📑 Notas de la Unidad
 
-| Nota | Actualizado |
-| ---- | ----------- |
-
-{ .block-language-dataview}
-
-## ✅ Avance — Metas de Aprendizaje
-
-
-{ .block-language-dataview}
-
-## ⚠️ Notas huérfanas (sin enlaces entrantes)
-
-
-{ .block-language-dataview}
+- [[Universidad/2do Semestre/Comunicación/Unidad 1 - Comunicación efectiva/01 - Escucha activa, empatía y barreras\|01 - Escucha activa, empatía y barreras]]
+- [[Universidad/2do Semestre/Comunicación/Unidad 1 - Comunicación efectiva/02 - Comunicación grupal y estratégica\|02 - Comunicación grupal y estratégica]]
 
 > [!quote] 🔗 Conexiones
 > - Mapa de contenido: [[Universidad/2do Semestre/Comunicación/Comunicación\|Comunicación]]

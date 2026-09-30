@@ -5,25 +5,14 @@
 
 # 🗺️ Unidad 4 — Comportamiento comunicacional — Índice
 
-> [!info] ℹ️ Índice auto-actualizable con Dataview
-> Esta nota lista automáticamente todas las notas de esta unidad. No necesitas editarla al agregar una nueva: aparece sola al guardarla.
+> [!info] ℹ️ Índice manual
+> Se actualiza a mano para que funcione igual en Obsidian y en Digital Garden.
 
 ## 📑 Notas de la Unidad
 
-| Nota | Actualizado |
-| ---- | ----------- |
-
-{ .block-language-dataview}
-
-## ✅ Avance — Metas de Aprendizaje
-
-
-{ .block-language-dataview}
-
-## ⚠️ Notas huérfanas (sin enlaces entrantes)
-
-
-{ .block-language-dataview}
+- [[Universidad/2do Semestre/Comunicación/Unidad 4 - Comportamiento comunicacional/01 - Argumentación efectiva, convencer vs persuadir\|01 - Argumentación efectiva, convencer vs persuadir]]
+- [[Universidad/2do Semestre/Comunicación/Unidad 4 - Comportamiento comunicacional/02 - Storytelling para comunicar ciencia\|02 - Storytelling para comunicar ciencia]]
+- [[Universidad/2do Semestre/Comunicación/Unidad 4 - Comportamiento comunicacional/03 - Voz, cuerpo, formatos y práctica TED\|03 - Voz, cuerpo, formatos y práctica TED]]
 
 > [!quote] 🔗 Conexiones
 > - Mapa de contenido: [[Universidad/2do Semestre/Comunicación/Comunicación\|Comunicación]]

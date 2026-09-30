@@ -5,25 +5,14 @@
 
 # 🗺️ Unidad 3 — Redacción — Índice
 
-> [!info] ℹ️ Índice auto-actualizable con Dataview
-> Esta nota lista automáticamente todas las notas de esta unidad. No necesitas editarla al agregar una nueva: aparece sola al guardarla.
+> [!info] ℹ️ Índice manual
+> Se actualiza a mano para que funcione igual en Obsidian y en Digital Garden.
 
 ## 📑 Notas de la Unidad
 
-| Nota | Actualizado |
-| ---- | ----------- |
-
-{ .block-language-dataview}
-
-## ✅ Avance — Metas de Aprendizaje
-
-
-{ .block-language-dataview}
-
-## ⚠️ Notas huérfanas (sin enlaces entrantes)
-
-
-{ .block-language-dataview}
+- [[Universidad/2do Semestre/Comunicación/Unidad 3 - Redacción/01 - Texto expositivo, claridad y APA\|01 - Texto expositivo, claridad y APA]]
+- [[Universidad/2do Semestre/Comunicación/Unidad 3 - Redacción/02 - Informes técnicos y ejecutivos, síntesis y paráfrasis\|02 - Informes técnicos y ejecutivos, síntesis y paráfrasis]]
+- [[Universidad/2do Semestre/Comunicación/Unidad 3 - Redacción/03 - IA ética y prompts para redacción\|03 - IA ética y prompts para redacción]]
 
 > [!quote] 🔗 Conexiones
 > - Mapa de contenido: [[Universidad/2do Semestre/Comunicación/Comunicación\|Comunicación]]

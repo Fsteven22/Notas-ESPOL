@@ -5,109 +5,18 @@
 
 # 🗺️ Unidad 3 — Números y Conteo — Índice
 
-> [!info] ℹ️ Índice auto-actualizable con Dataview
-> Esta nota lista automáticamente todas las notas de esta unidad. No necesitas editarla al agregar una nueva: aparece sola al guardarla.
+> [!info] ℹ️ Índice manual
+> Se actualiza a mano para que funcione igual en Obsidian y en Digital Garden.
 
 ## 📑 Notas de la Unidad
 
-| Nota                                                                                                                                                                                                 | Actualizado | Salientes | Entrantes |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | --------- | --------- |
-| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/01 - Divisibilidad y Números Primos\|01 — Divisibilidad y Números Primos]]                                           | 2026-09-09  | 3         | 7         |
-| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/02 - MCD, MCM y Algoritmo de Euclides\|02 — MCD, MCM y Algoritmo de Euclides]]                                       | 2026-09-09  | 5         | 5         |
-| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/03 - Criterios de Divisibilidad y Sistemas de Numeración\|03 — Criterios de Divisibilidad y Sistemas de Numeración]] | 2026-09-08  | 4         | 5         |
-| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/04 - Principios de Multiplicación y Suma\|04 — Principios de Multiplicación y Suma]]                                 | 2026-09-08  | 5         | 6         |
-| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/05 - Permutaciones y Combinaciones\|05 — Permutaciones y Combinaciones]]                                             | 2026-09-09  | 5         | 9         |
-| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/06 - Teorema del Binomio y Principio del Palomar\|06 — Teorema del Binomio y Principio del Palomar]]                 | 2026-09-09  | 3         | 6         |
-| [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/Guía de Problemas 3 - Ejercicios Resueltos\|Guía de Problemas 3 — Ejercicios Resueltos]]                             | 2026-09-08  | 16        | 0         |
-
-{ .block-language-dataview}
-
-## ✅ Avance — Metas de Aprendizaje
-
-# [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/01 - Divisibilidad y Números Primos\|01 - Divisibilidad y Números Primos]]
-
-    - [ ] Defino divisibilidad y uso notación a | b.
-    - [ ] Identifico números primos usando criba de Eratóstenes.
-    - [ ] Descompongo un número en factores primos.
-    - [ ] Aplico el teorema fundamental de la aritmética.
-    - [ ] Calculo el número de divisores de un entero.
-    - [ ] Uso propiedades de primos para resolver problemas de divisibilidad.
-    - [ ] Resuelvo problemas de distribución de primos.
-    - [ ] Analizo algoritmos de primalidad y su complejidad.
-# [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/02 - MCD, MCM y Algoritmo de Euclides\|02 - MCD, MCM y Algoritmo de Euclides]]
-
-    - [ ] Calculo MCD y MCM de dos números por descomposición en primos.
-    - [ ] Aplico el algoritmo de Euclides para hallar MCD.
-    - [ ] Verifico que MCD(a,b) × LCM(a,b) = a × b.
-    - [ ] Uso el algoritmo de Euclides extendido para hallar coeficientes de Bézout.
-    - [ ] Resuelvo ecuaciones diofantineas lineales ax + by = c.
-    - [ ] Calculo MCD y MCM de más de dos números.
-    - [ ] Aplico el algoritmo de Euclides extendido para calcular inversos modulares.
-    - [ ] Resuelvo sistemas de congruencias usando el teorema chino del residuo.
-    - [ ] Analizo la complejidad temporal del algoritmo de Euclides.
-# [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/03 - Criterios de Divisibilidad y Sistemas de Numeración\|03 - Criterios de Divisibilidad y Sistemas de Numeración]]
-
-    - [ ] Aplico criterios de divisibilidad para 2, 3, 5, 9 y 11.
-    - [ ] Convierto números entre decimal, binario, octal y hexadecimal.
-    - [ ] Realizo operaciones básicas en sistema binario.
-    - [ ] Uso criterios de divisibilidad para simplificar cálculos.
-    - [ ] Convierto fracciones decimales a representación binaria.
-    - [ ] Analizo ventajas de diferentes bases para computación.
-    - [ ] Resuelvo problemas de representación en bases arbitrarias.
-    - [ ] Aplico aritmética modular a sistemas de numeración.
-    - [ ] Analizo el impacto de la precisión finita en computación.
-# [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/04 - Principios de Multiplicación y Suma\|04 - Principios de Multiplicación y Suma]]
-
-    - [ ] Aplico el principio de multiplicación para contar secuencias de eventos.
-    - [ ] Aplico el principio de suma para contar eventos mutuamente excluyentes.
-    - [ ] Distinguo cuándo usar multiplicación vs suma.
-    - [ ] Resuelvo problemas de conteo con restricciones (permutaciones con repetición).
-    - [ ] Aplico complemento para contar mediante la contrapositiva.
-    - [ ] Combino ambos principios en problemas de múltiples pasos.
-    - [ ] Resuelvo problemas de conteo con sobrerrepresentación (balls and bins).
-    - [ ] Aplico principios a problemas de programación (backtracking).
-    - [ ] Analizo la relación entre conteo y probabilidad.
-# [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/05 - Permutaciones y Combinaciones\|05 - Permutaciones y Combinaciones]]
-
-    - [ ] Calculo permutaciones P(n,r) = n!/(n-r)!
-    - [ ] Calculo combinaciones C(n,r) = n!/(r!(n-r)!).
-    - [ ] Distinguo cuándo importa el orden (permutación) vs cuándo no (combinación).
-    - [ ] Resuelvo problemas de permutaciones con elementos repetidos.
-    - [ ] Aplico combinaciones con restricciones (selección sin reemplazo).
-    - [ ] Uso identidades de Pascal para simplificar cálculos.
-    - [ ] Resuelvo problemas de distribución de objetos en categorías.
-    - [ ] Aplico el principio de inclusión-exclusión a permutaciones con restricciones.
-    - [ ] Conecto combinaciones con el triángulo de Pascal y el teorema del binomio.
-# [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/06 - Teorema del Binomio y Principio del Palomar\|06 - Teorema del Binomio y Principio del Palomar]]
-
-    - [ ] Expando (a+b)^n usando el teorema del binomio.
-    - [ ] Identifico coeficientes binomiales en el triángulo de Pascal.
-    - [ ] Aplico el principio del palomar para probar existencia.
-    - [ ] Resuelvo problemas de conteo usando coeficientes binomiales.
-    - [ ] Aplico el principio del palomar generalizado a problemas de distribución.
-    - [ ] Uso identidades binomiales para simplificar sumatorias.
-    - [ ] Resuelvo identidades binomiales usando el método combinatorio.
-    - [ ] Aplico el principio del palomar a problemas de complejidad computacional.
-    - [ ] Conecto el teorema del binomio con distribuciones de probabilidad.
-# [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/Guía de Problemas 3 - Ejercicios Resueltos\|Guía de Problemas 3 - Ejercicios Resueltos]]
-
-    - [ ] Aplicar criterios de divisibilidad (3, 9) y congruencias simples (Ej. 1–6).
-    - [ ] Factorizar $a^n \pm b^n$ y calcular mcd/mcm pequeños (Ej. 7–9).
-    - [ ] Usar principios de suma y producto en conteos directos (Ej. 14–16).
-    - [ ] Ejecutar el algoritmo de Euclides completo y obtener el mcm (Ej. 12–13).
-    - [ ] Contar comités y equipos con restricciones "exactamente / al menos" (Ej. 19–20, 23).
-    - [ ] Aplicar bloques y casillas en ordenamientos con restricciones (Ej. 21–22).
-    - [ ] Combinar estrellas y barras con inclusión–exclusión (Ej. 29, 31).
-    - [ ] Detectar y refutar identidades falsas con contraejemplos (Ej. 27).
-    - [ ] Redactar pruebas por palomar con doble conteo (Ej. 24–25).
-
-{ .block-language-dataview}
-
-## ⚠️ Notas huérfanas (sin enlaces entrantes)
-
+- [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/01 - Divisibilidad y Números Primos\|01 - Divisibilidad y Números Primos]]
+- [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/02 - MCD, MCM y Algoritmo de Euclides\|02 - MCD, MCM y Algoritmo de Euclides]]
+- [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/03 - Criterios de Divisibilidad y Sistemas de Numeración\|03 - Criterios de Divisibilidad y Sistemas de Numeración]]
+- [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/04 - Principios de Multiplicación y Suma\|04 - Principios de Multiplicación y Suma]]
+- [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/05 - Permutaciones y Combinaciones\|05 - Permutaciones y Combinaciones]]
+- [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/06 - Teorema del Binomio y Principio del Palomar\|06 - Teorema del Binomio y Principio del Palomar]]
 - [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/Guía de Problemas 3 - Ejercicios Resueltos\|Guía de Problemas 3 - Ejercicios Resueltos]]
-
-{ .block-language-dataview}
 
 ## 📊 Mapa de conexiones
 

@@ -24,6 +24,12 @@
 
 ---
 
+## 📎 Documento oficial (Garden)
+
+<iframe src="/img/user/Universidad/2do%20Semestre/Programaci%C3%B3n%20orientada%20a%20objetos/SPA-Syllabus-PROGRAMACI%C3%93N_ORIENTADA_A_OBJETOS.pdf" width="100%" height="900px" title="SPA-Syllabus-PROGRAMACIÓN_ORIENTADA_A_OBJETOS.pdf" style="border:1px solid #ccc;"></iframe>
+
+---
+
 ## 🎯 Objetivos del Curso
 
 > [!note] 📌 ¿Qué vamos a lograr?

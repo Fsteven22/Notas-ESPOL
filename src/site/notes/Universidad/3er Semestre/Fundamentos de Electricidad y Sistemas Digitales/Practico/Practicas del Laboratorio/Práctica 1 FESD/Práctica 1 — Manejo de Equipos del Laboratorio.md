@@ -147,4 +147,9 @@
 
 ---
 
+---
+
+## 📎 Guía oficial (Garden)
+
+<iframe src="/img/user/Universidad/3er%20Semestre/Fundamentos%20de%20Electricidad%20y%20Sistemas%20Digitales/Practico/Practicas%20del%20Laboratorio/Pr%C3%A1ctica%201%20FESD/PR%C3%81CTICA%201%20FESD%20GU%C3%8DA.pdf" width="100%" height="900px" title="PRÁCTICA 1 FESD GUÍA.pdf" style="border:1px solid #ccc;"></iframe>
 **Tags:** #practica #laboratorio #EYAG1037 #FESD #ESPOL #unidad1 #multimetro #osciloscopio #fuenteDC

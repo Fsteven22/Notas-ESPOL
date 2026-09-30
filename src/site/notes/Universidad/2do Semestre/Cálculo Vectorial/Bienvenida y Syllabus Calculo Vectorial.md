@@ -25,6 +25,12 @@
 
 ---
 
+## 📎 Documento oficial (Garden)
+
+<iframe src="/img/user/Universidad/2do%20Semestre/C%C3%A1lculo%20Vectorial/SPA-SyllabusEUR_ACE-MATG1046.pdf" width="100%" height="900px" title="SPA-SyllabusEUR_ACE-MATG1046.pdf" style="border:1px solid #ccc;"></iframe>
+
+---
+
 ## 🎯 Objetivos del Curso
 
 > [!note] 📌 ¿Qué vamos a lograr?

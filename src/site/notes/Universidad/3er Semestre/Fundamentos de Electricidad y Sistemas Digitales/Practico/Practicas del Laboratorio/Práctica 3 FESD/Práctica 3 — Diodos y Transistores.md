@@ -183,4 +183,9 @@
 
 ---
 
+---
+
+## 📎 Guía oficial (Garden)
+
+[[Práctica #3 Funcionamiento de Diodos y Transistores.pdf\|Práctica #3 Funcionamiento de Diodos y Transistores.pdf]]
 **Tags:** #practica #laboratorio #EYAG1037 #FESD #ESPOL #unidad2 #diodo #BJT #transistor

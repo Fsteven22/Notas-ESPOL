@@ -25,6 +25,12 @@
 
 ---
 
+## 📎 Official Document (Garden)
+
+<iframe src="/img/user/Universidad/2do%20Semestre/Ingles%20II%20(C1-C2)/SPA-SyllabusEUR_ACE-IDIG1007.pdf" width="100%" height="900px" title="SPA-SyllabusEUR_ACE-IDIG1007.pdf" style="border:1px solid #ccc;"></iframe>
+
+---
+
 ## 🎯 Course Objectives
 
 > [!note] 📌 What will we achieve?

@@ -25,6 +25,12 @@
 
 ---
 
+## 📎 Documento oficial (Garden)
+
+<iframe src="/img/user/Universidad/2do%20Semestre/Algebra%20Lineal/SPA-SyllabusEUR_ACE-MATG1049.pdf" width="100%" height="900px" title="SPA-SyllabusEUR_ACE-MATG1049.pdf" style="border:1px solid #ccc;"></iframe>
+
+---
+
 ## 🎯 Objetivos del Curso
 
 > [!note] 📌 ¿Qué vamos a lograr?

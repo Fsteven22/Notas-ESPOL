@@ -171,4 +171,9 @@
 
 ---
 
+---
+
+## 📎 Guía oficial (Garden)
+
+[[Práctica # 4Funcionamiento de Fuentes Lineales.pdf\|Práctica # 4Funcionamiento de Fuentes Lineales.pdf]]
 **Tags:** #practica #laboratorio #EYAG1037 #FESD #ESPOL #unidad2 #fuentesLineales #LM7805 #rectificador

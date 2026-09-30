@@ -36,6 +36,12 @@
 > | [Habits and States in the Present and Past.pdf](/img/user/Universidad/2do%20Semestre/Ingles%20II%20(C1-C2)/Unit%201%20-%20And%20We're%20Off!/Recursos%20Adicionales/Habits%20and%20States%20in%20the%20Present%20and%20Past.pdf) | Archivo | Presentación del profesor — hábitos y estados en presente y pasado |
 > | [SUMMARY OF TENSES- form-use-signal words-1.pdf](/img/user/Universidad/2do%20Semestre/Ingles%20II%20(C1-C2)/Unit%201%20-%20And%20We're%20Off!/Recursos%20Adicionales/SUMMARY%20OF%20TENSES-%20form-use-signal%20words-1.pdf) | Archivo | Resumen completo de tiempos verbales con forma, uso y signal words |
 
+## 📎 Gramática publicada (Garden)
+
+<iframe src="/img/user/Universidad/2do%20Semestre/Ingles%20II%20(C1-C2)/Unit%201%20-%20And%20We're%20Off!/Recursos%20Adicionales/Habits%20and%20States%20in%20the%20Present%20and%20Past.pdf" width="100%" height="900px" title="Habits and States in the Present and Past.pdf" style="border:1px solid #ccc;"></iframe>
+
+<iframe src="/img/user/Universidad/2do%20Semestre/Ingles%20II%20(C1-C2)/Unit%201%20-%20And%20We're%20Off!/Recursos%20Adicionales/SUMMARY%20OF%20TENSES-%20form-use-signal%20words-1.pdf" width="100%" height="900px" title="SUMMARY OF TENSES- form-use-signal words-1.pdf" style="border:1px solid #ccc;"></iframe>
+
 ---
 
 ## 🎧 Listening
@@ -77,6 +83,12 @@
 > |---|---|
 > | [Academic Post KYdA.pdf](/img/user/Universidad/2do%20Semestre/Ingles%20II%20(C1-C2)/Unit%201%20-%20And%20We're%20Off!/Recursos%20Adicionales/Academic%20Post%20KYdA.pdf) | Instrucciones y requisitos de la tarea |
 > | [[Feedback code.png\|Feedback code.png]] | Código de corrección usado por el profesor para el feedback escrito |
+
+## 📎 Academic Post publicado (Garden)
+
+<iframe src="/img/user/Universidad/2do%20Semestre/Ingles%20II%20(C1-C2)/Unit%201%20-%20And%20We're%20Off!/Recursos%20Adicionales/Academic%20Post%20KYdA.pdf" width="100%" height="900px" title="Academic Post KYdA.pdf" style="border:1px solid #ccc;"></iframe>
+
+> [!warning] ⚠️ `Feedback code.png` no existe en la carpeta (link roto original): súbelo para publicarlo.
 
 ---
 

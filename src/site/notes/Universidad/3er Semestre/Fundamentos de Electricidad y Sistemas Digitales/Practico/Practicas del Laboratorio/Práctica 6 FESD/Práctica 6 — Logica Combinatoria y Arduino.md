@@ -230,8 +230,13 @@
 > [!quote] 🔗 Conexiones
 > - Teoría: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 4 - Sistemas Digitales/01 - Introducción a la Electrónica Digital\|01 - Introducción a la Electrónica Digital]], [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 4 - Sistemas Digitales/02 - Minimización de Funciones Lógicas\|02 - Minimización de Funciones Lógicas]] y [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/07 - Circuitos Integrados de Logica Fija y Tablas de Verdad\|07 - Circuitos Integrados de Logica Fija y Tablas de Verdad]]
 > - Previa: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Practico/Practicas del Laboratorio/Práctica 5 FESD/Práctica 5 — Filtros Activos\|Práctica 5 — Filtros Activos]]
-> - Equipos: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Practico/Fundamentos del Laboratorio/Equipos del Laboratorio — FESD\|Equipos del Laboratorio — FESD]]
+> - Equipos: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Practico/Fundamentos del Laboratorio/Equipos del Laboratorio - FESD\|Equipos del Laboratorio - FESD]]
 
 ---
 
+---
+
+## 📎 Guía oficial (Garden)
+
+<iframe src="/img/user/Universidad/3er%20Semestre/Fundamentos%20de%20Electricidad%20y%20Sistemas%20Digitales/Practico/Practicas%20del%20Laboratorio/Pr%C3%A1ctica%206%20FESD/Practica__6_FESD.pdf" width="100%" height="900px" title="Practica__6_FESD.pdf" style="border:1px solid #ccc;"></iframe>
 **Tags:** #practica #laboratorio #EYAG1037 #FESD #ESPOL #unidad4 #logica #Arduino #compuertas
