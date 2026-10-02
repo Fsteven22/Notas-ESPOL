@@ -12,16 +12,17 @@
 > | Dato | Detalle |
 > |---|---|
 > | **Materia** | Diseño de Software |
-> | **Código** | CCPG1042 (base provisional — syllabus oficial del docente pendiente) |
-> | **Semestre** | 3ro |
+> | **Código** | CCPG1042 |
+> | **Semestre** | 3ro · PAO 2026-2 |
 > | **Créditos** | 3.8 ECTS |
 > | **Horas semanales** | 2h docencia + 2h prácticas + 2h autónomas |
+> | **Horario** | Lun y Mié — Par 01: 13:00-14:50 · Par 03: 15:00-16:45 (CL lunes, talleres miércoles) |
 > | **Prerrequisito** | Programación Orientada a Objetos |
-> | **Coordinador** | David Alonso Jurado Mosquera |
-> | **Syllabus base** | 📎 [SPA-SyllabusEUR_ACE-CCPG1042.pdf](/img/user/Universidad/3er%20Semestre/Dise%C3%B1o%20de%20Software/Unidad%200%20-%20Guias%20y%20Ejercicios/SPA-SyllabusEUR_ACE-CCPG1042.pdf) (EUR-ACE, vigente) |
+> | **Docente** | MSc. David Jurado (djurado@espol.edu.ec, djurado@fiec.espol.edu.ec) — oficina por Teams |
+> | **Syllabus base** | 📎 [SPA-SyllabusEUR_ACE-CCPG1042.pdf](/img/user/Universidad/3er%20Semestre/Dise%C3%B1o%20de%20Software/Unidad%200%20-%20Guias%20y%20Ejercicios/SPA-SyllabusEUR_ACE-CCPG1042.pdf) (EUR-ACE) |
+> | **Políticas oficiales** | 📎 [01aPoliticasCurso-2026-2.pdf](/img/user/Universidad/3er%20Semestre/Dise%C3%B1o%20de%20Software/Unidad%200%20-%20Guias%20y%20Ejercicios/01aPoliticasCurso-2026-2.pdf) |
+> | **Deck Semana 1** | 📎 [01bDisenoSoftware.pdf](/img/user/Universidad/3er%20Semestre/Dise%C3%B1o%20de%20Software/Unidad%200%20-%20Guias%20y%20Ejercicios/01bDisenoSoftware.pdf) |
 > | **Enlaces Aula Virtual** | 🔗 [[Universidad/3er Semestre/Diseño de Software/Unidad 0 - Guias y Ejercicios/Enlaces del Aula Virtual\|Enlaces del Aula Virtual]] |
->
-> > ⚠️ El docente aún no entrega el syllabus oficial. Todo lo aquí armado usa el EUR-ACE CCPG1042 como base y se ajustará cuando llegue el oficial.
 
 ---
 
@@ -44,10 +45,26 @@
 
 ## 📋 Evaluación
 
-> [!warning] 📊 Métodos (según EUR-ACE)
+> [!warning] 📊 Evaluación oficial (políticas 2026-2)
 >
-> - Exámenes, Lecciones, Tareas, Proyectos, Participación, Laboratorio/Experimental
-> - *Ponderaciones exactas pendientes del syllabus oficial del docente.*
+> **Teórico (EHD):** Examen 50% + Tareas 35% (con coevaluación) + Controles de lectura 15%. 3ra evaluación = 100% examen.
+> **Práctico (EHP):** Talleres 100% (grupos con presentes, hasta 4).
+> **Lecciones:** 2 en papel reemplazan el examen parcial — 19-oct y 4-nov.
+> **Final/mejoramiento:** lunes de semana de exámenes, 14:00-15:30, Aula A107.
+>
+> **Reglas:** 40% faltas reprueba · celular guardado · puntualidad 10 min · deshonestidad = cero · tareas/talleres solo por AV · auto-registro de grupos.
+>
+> **Plan semanal oficial (S1-S14):**
+>
+> | Sem | Tema | Sem | Tema |
+> |---|---|---|---|
+> | 1 | Políticas + Intro | 8 | Repaso patrones |
+> | 2 | Paradigmas | 9 | Patrones comportamiento |
+> | 3 | SOLID | 10 | JUnit5 |
+> | 4 | UML casos + clases | 11 | Smells |
+> | 5 | UML secuencias | 12-13 | Refactoring 1 y 2 |
+> | 6 | Patrones creacionales | 14 | Entrega continua / DevOps |
+> | 7 | Patrones estructurales | — | — |
 
 ---
 
@@ -88,10 +105,12 @@
 > **Obligatoria:**
 > - [1] R. Pressman, B. Maxim, *Software Engineering: A Practitioner's Approach*, 9th ed. → `01_Software Engineering...pdf`
 >
-> **Adicional:**
+> **Adicional (docente):**
 > - [2] P. Stevens, *Using UML*, 2nd ed. → `02_Using UML...pdf`
 > - [3] A. Shalloway, J. Trott, *Design Patterns Explained*, 2nd ed. → `03_Design patterns explained...pdf`
 > - [4] M. Fowler, *Refactoring*, 2nd ed. → `04_Refactoring...2nd Edition...pdf`
+> - [5] E. Gamma et al., *Design Patterns (GoF)*, 1st ed., 1994.
+> - [6] C. Otero, *Software Engineering Design: Theory and Practice*, 2012.
 
 ---
 
@@ -104,8 +123,8 @@
 > ├── 📄 Diseño de Software.md (mapa de contenido)
 > ├── 📄 Bienvenida y Syllabus Diseño de Software.md  ← estás aquí
 > ├── 📁 Unidad 0 - Guias y Ejercicios/
-> │   ├── 2 syllabus PDF + 4 libros + Técnicas de estudio.pdf
-> │   └── 📄 Enlaces del Aula Virtual.md
+> │   ├── syllabus EUR-ACE + políticas oficiales + deck S1 + 4 libros
+> │   └── 📄 Enlaces del Aula Virtual.md (incl. video del docente)
 > ├── 📁 Unidad 1 - Introducción al diseño/
 > ├── 📁 Unidad 2 - Diseño orientado a objetos/
 > ├── 📁 Unidad 3 - Patrones de diseño/

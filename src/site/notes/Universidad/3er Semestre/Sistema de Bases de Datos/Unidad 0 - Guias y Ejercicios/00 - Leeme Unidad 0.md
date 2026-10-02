@@ -18,6 +18,10 @@
 
 <iframe src="/img/user/Universidad/3er%20Semestre/Sistema%20de%20Bases%20de%20Datos/Unidad%200%20-%20Guias%20y%20Ejercicios/unidad1.3-1.5.pdf" width="100%" height="900px" title="unidad1.3-1.5.pdf" style="border:1px solid #ccc;"></iframe>
 
+## 📕 Libro (solo local, no se publica)
+
+- `Database Systems - Design, Implementation, and Management (9th Edition).pdf` (Coronel-Morris, 15.9MB) — lectura asignada cap. 4 §§4.1.3–4.1.7. No se embarca por copyright; consulta local.
+
 ---
 
 **Tags:** #TICG1018 #unidad0 #recursos

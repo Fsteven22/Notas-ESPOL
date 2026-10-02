@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universidad/3er-semestre/sistema-de-bases-de-datos/unidad-1-modelos-de-datos-y-er/01-dato-informacion-y-modelos-de-datos/","tags":["TICG1018","unidad1","datos","modelos"],"dg-note-properties":{"tags":["TICG1018","unidad1","datos","modelos"]}}
+{"dg-publish":true,"permalink":"/universidad/3er-semestre/sistema-de-bases-de-datos/unidad-1-modelos-de-datos-y-er/01-dato-informacion-y-modelos-de-datos/","tags":["TICG1018","unidad1","datos","modelos","historia"],"dg-note-properties":{"tags":["TICG1018","unidad1","datos","modelos","historia"]}}
 ---
 
 
@@ -7,33 +7,24 @@
 
 ## 🎯 Introducción
 
-> [!info] 💡 ¿Por Qué no Guardar Todo en Archivos?
+> [!info] 💡 ¿Por Qué Modelar Antes de Guardar?
 >
-> Un **dato** es un valor crudo ("19"); la **información** es el dato con contexto ("19 estudiantes aprobaron"). Los **sistemas de archivos** guardan datos, pero las **bases de datos** administran información con estructura, relaciones y restricciones.
+> Todo sistema que uses — Aula Virtual, banca móvil, el inventario de una tienda — vive sobre un modelo decidido antes de escribir código. Equivocarse ahí cuesta reescrituras (los egipcios en papiros del 2000 a.C. ya registraban; el medio cambió, el costo de no modelar no). Esta nota responde qué se guarda, cómo se organiza y cómo evolucionó esa respuesta en 60 años.
 >
-> **Analogía del mundo real:** Piensa en una tienda:
->
-> - **Archivos sueltos** → Cuaderno por mes: para saber stock cruzas 12 cuadernos a mano (redundancia, inconsistencia)
-> - **Base de datos** → Un sistema donde stock, ventas y clientes se conectan (1 cambio, todo coherente)
-> - **Historia real** → Egipcios en papiros (2000 a.C.): el medio cambia, la necesidad de registrar no
-> - **Tu proyecto** → Sin modelo, tu app es un cuaderno digital con los mismos vicios
->
-> | Razón | Archivos Tradicionales | Base de Datos |
-> |---|---|---|
-> | **Redundancia** | Mismo dato en N archivos | Definido una vez |
-> | **Consistencia** | Se desincroniza | Restricciones la garantizan |
-> | **Acceso** | Programas a medida | Lenguaje común (SQL) |
-> | **Escala** | Colapsa con usuarios | Concurrente y segura |
+> **¿Dónde se usa?**
+> - **Diseño de BD:** todo sistema (notas 02-03, proyecto del curso).
+> - **Migraciones:** pasar de Excel/archivos a tablas sin perder nada.
+> - **Lección 1 (13-oct):** dato vs información + archivos vs BD, seguro evaluado.
 
 ```mermaid
 graph TB
-    A[Dato crudo] --> B{¿Contexto?}
-    B --> C[❌ Sin contexto]
-    B --> D[✅ Con modelo]
+    A[Dato crudo] --> B{¿Contexto + estructura?}
+    B --> C[❌ Archivos sueltos]
+    B --> D[✅ Modelo de datos]
 
-    C --> C1[Archivos sueltos]
-    C --> C2[Redundancia]
-    C --> C3[Inconsistencia]
+    C --> C1[Redundancia]
+    C --> C2[Inconsistencia]
+    C --> C3[Programas a medida]
 
     D --> D1[Estructura + relaciones]
     D --> D2[Restricciones]
@@ -45,120 +36,147 @@ graph TB
 
 ---
 
-## 🧵 Modelar: del Mundo Real a la Estructura
+## 📋 Definiciones Formales
 
-### 🎭 Qué es un Modelo de Datos
-
-> [!note] 🎨 Representación Gráfica del Problema
+> [!note] 📋 Definición — Dato, Información, Modelo
 >
-> Un **modelo de datos** organiza los datos de forma lógica y estructurada: define estructura, relaciones, restricciones y transformaciones. Es iterativo (se refina) y es el lenguaje común entre roles (cliente, analista, dev).
+> - **Dato:** valor crudo sin contexto (ej. "19", "Irene").
+> - **Información:** dato interpretado en contexto (ej. "19 estudiantes aprobaron SBD").
+> - **Modelo de datos:** representación lógica y estructurada que define estructura, relaciones, restricciones y transformaciones. Es iterativo y es el lenguaje común entre cliente, analista y dev.
 >
-> **Por qué importa (diapositiva 3, unidad1.3-1.5):**
->
-> - Cubre los requerimientos de la aplicación desde el diseño
-> - Minimiza cambios continuos, redundancia y problemas de acceso
-> - Sin buen diseño no hay hardware ni UI que salve el desempeño
+> **Por qué importa (diapositivas):** cubre requerimientos desde el diseño; minimiza cambios continuos, redundancia y problemas de acceso; sin buen diseño no hay hardware ni UI que salve el desempeño.
 >
 > ```mermaid
 > graph LR
->     U[Mundo real<br/>Estudiantes, Materias] --> M[Modelo<br/>entidades + relaciones]
->     M --> B[BD implementada]
+>     D["Dato: 19"] --> C["Información:<br/>19 aprobados"]
+>     C --> M["Modelo:<br/>tabla ESTUDIANTE"]
+>     style M fill:#e1ffe1
+> ```
+
+> [!note] 📋 Definición — Sistema de Archivos vs Base de Datos
 >
->     style M fill:#e1f5ff
+> | Aspecto | Archivos Tradicionales | Base de Datos |
+> |---|---|---|
+> | **Redundancia** | Mismo dato en N archivos | Definido una vez |
+> | **Consistencia** | Se desincroniza | Restricciones la garantizan |
+> | **Acceso** | Programas a medida | Lenguaje común (SQL) |
+> | **Escala** | Colapsa con usuarios | Concurrente y segura |
+>
+> **Historia real:** egipcios en papiros (2000 a.C.) — el medio cambia, la necesidad de registrar no.
+
+---
+
+## 🧵 Evolución de los Modelos (Coronel cap. 2)
+
+> [!note] 📋 Un Modelo por Época
+>
+> | Generación | Época | Modelo | Idea |
+> |---|---|---|---|
+> | Archivos | 1960s-70s | VSAM, planos | Registros, no relaciones |
+> | Segunda | 1970s | **Jerárquico** (IMS, Apollo 1969) | Árbol invertido: un padre, N hijos |
+> | Segunda | 1970s | **Red** (ADABAS, IDS-II) | Grafo multipadre + schema/subschema/DML/DDL |
+> | Tercera | 1970s-hoy | **Relacional** (Codd 1970) | Tablas + SQL declarativo |
+> | Tercera | 1976-hoy | **ER** (Chen) | El plano gráfico del relacional |
+> | Cuarta | 1980s-hoy | **OO / Objeto-Relacional** | Objetos con métodos; tipos extensibles |
+> | Siguiente | Hoy-futuro | **XML, híbridas, nube** | No estructurado + servicios |
+>
+> **Detalles que evalúan:** el jerárquico duplica lo compartido; la red murió por falta de consultas ad hoc; Codd publicó en CACM (junio 1970); M:N existe en conceptual pero no va al relacional.
+>
+> ```mermaid
+> graph TB
+>     A[Archivos] --> B[Jerárquico/Red]
+>     B --> C[Relacional + ER]
+>     C --> D[Objetos / O-R]
+>     D --> E[XML + Nube]
+>     style C fill:#e1ffe1
 > ```
 
 ---
 
-## ⚠️ Problemas Comunes y Soluciones
+## 🛠️ Método: Del Enunciado al Modelo
 
-> [!danger] ❌ Error: Confundir Dato con Información
+> [!note] 📋 Procedimiento General
 >
-> **Síntomas:** diseñas tablas que guardan todo pero no responden ninguna pregunta del negocio.
+> 1. Subraya sustantivos (candidatos a entidad) y verbos (candidatos a relación).
+> 2. Pregunta por cada tabla futura: "¿qué decisión se toma con esto?" (sin pregunta, no hay tabla).
+> 3. Dibuja ERD con claves desde el día 1.
+> 4. Traduce a tablas y verifica con las reglas de negocio.
+> 5. Itera: el modelo se refina, no nace perfecto.
 >
-> **Solución:**
->
-> - Antes de cada tabla pregunta: "¿qué decisión se toma con esto?" (como en SBD: Irene dicta SBD1 — ¿quién toma qué?)
-> - Si no hay pregunta, no hay tabla todavía
-
----
-
-## 🎯 Mejores Prácticas
-
-> [!tip] 🏆 Checklist de Modelado
->
-> **1. Modela la empresa, no los formularios**
->
-> - Estudiantes, Profesores, Materias existen aunque cambie la pantalla
->
-> **2. Itera el modelo con las reglas de negocio**
->
-> - Cada regla ("un estudiante toma N materias") debe verse en el diagrama
->
-> **3. Lección 1 (13-oct): archivos vs BD + dato vs información**
->
-> - Lleva 2 ejemplos propios de redundancia en archivos
+> **Principio clave:** modela lo permanente (Estudiantes, Materias), no los formularios — las pantallas cambian, el negocio no.
 
 ---
 
-## 📊 Resumen Visual
+## 🎨 Ejemplo Trabajado
 
-```mermaid
-mindmap
-  root((Modelos))
-    Dato/Info
-      Crudo
-      Contexto
-    Archivos
-      Redundancia
-      Inconsistencia
-    BD
-      Estructura
-      Restricciones
-```
+> [!example] 🟢 Mini-caso SBD
+>
+> Enunciado: *"Irene dicta SBD1; cada estudiante toma varias materias."*
+>
+> | Paso | Resultado |
+> |---|---|
+> | Sustantivos | Irene→PROFESOR, SBD1→MATERIA, estudiante→ESTUDIANTE |
+> | Verbos | *dicta*, *toma* |
+> | Claves | carnet, código |
+> | Clasificación | PROFESOR–MATERIA 1:M; ESTUDIANTE–MATERIA M:N (pide intermedia) |
 
-> [!success] 🔍 Comparación Final
+---
+
+## 📋 Tabla Comparativa: Archivos vs BD
+
+> [!note] 📋 Diferencias Clave
 >
 > | Aspecto | Archivos | BD Modelada |
 > |---|---|---|
-> | **Preguntas** | ❌ A mano | ✅ SQL |
-> | **Cambios** | Riesgo total | Controlados |
-> | **Uso Recomendado** | Logs simples | ✅ **Todo sistema** |
+> | **Preguntas** | A mano, programa por reporte | SQL declarativo |
+> | **Cambios** | Riesgo total | Localizados y trazables |
+> | **Diseño previo** | Ninguno | ERD primero |
+> | **Cuándo usar** | Logs simples | Todo sistema |
 
 ---
 
-## 🚀 Próximos Pasos
+## ⚠️ Errores Comunes y Principios Lógicos
 
-> [!quote] 🌟 Continuando
+> [!warning] ⚠️ Errores Frecuentes
 >
-> **Has aprendido:**
->
-> ✅ Dato vs información con historia real
-> ✅ Archivos vs BD y el costo de no modelar
-> ✅ Modelo como lenguaje común e iterativo
->
-> **Próximo tema:**
->
-> | Tema | Qué verás | Por qué importa |
-> |---|---|---|
-> | **Entidades, atributos y relaciones** | ER + reglas de negocio | El vocabulario del diagrama |
+> - **Modelar pantallas, no el negocio:** al cambiar la UI muere la BD — modela entidades permanentes.
+> - **Tabla sin pregunta:** si ningún reporte/decisión la usa, sobra (todavía).
+> - **Confundir dato con información:** guardar todo sin contexto es archivar, no diseñar.
+> - **Saltarse el ERD:** ir directo a tablas garantiza N:M olvidadas y FKs inventadas.
 
 ---
 
-## 🔗 Seguir estudiando
+## 🎯 Metas de Aprendizaje
 
-> [!info] 📚 Seguir estudiando
+> [!note] 📋 Nivel Básico
 >
-> - Mapa de contenido: [[Universidad/3er Semestre/Sistema de Bases de Datos/Sistema de Bases de Datos\|Sistema de Bases de Datos]]
-> - Índice Unidad 1: [[Universidad/3er Semestre/Sistema de Bases de Datos/Unidad 1 - Modelos de Datos y ER/00 - Índice Unidad 1\|00 - Índice Unidad 1]]
-> - Siguiente: [[Universidad/3er Semestre/Sistema de Bases de Datos/Unidad 1 - Modelos de Datos y ER/02 - Entidades, atributos, relaciones y reglas de negocio\|02 - Entidades, atributos, relaciones y reglas de negocio]]
-> - Syllabus: [[Universidad/3er Semestre/Sistema de Bases de Datos/Bienvenida y Syllabus Sistema de Bases de Datos\|Bienvenida y Syllabus Sistema de Bases de Datos]]
+> - [ ] Defino dato, información y modelo sin mirar.
+> - [ ] Explico archivos vs BD con 3 diferencias y 1 ejemplo propio.
+> - [ ] Ubico los 6 modelos en su generación con un ejemplo cada uno.
+
+> [!note] 📋 Nivel Intermedio
+>
+> - [ ] Aplico el método de 5 pasos a un enunciado nuevo.
+> - [ ] Justifico por qué ganó el relacional (SQL + independencia).
+> - [ ] Detecto qué modelo pide un caso dado.
+
+---
 
 ## 📚 Referencias
 
-> [!quote] 📖 Fuentes
+> [!quote] 📖 Fuentes Consultadas
 >
-> - Diapositivas BD01 (Irene Cheung, PAO 2026-2): dato, información, archivos vs BD.
-> - `BD01 Introducción_datamodel.pdf` + `BD01 Introducción-1.pdf`.
+> - Diapositivas BD01 (Irene Cheung) + `BD01 Introducción_datamodel.pdf`.
+> - C. Coronel, S. Morris, *Database Systems*, 9th ed., cap. 2 §§2.5.1–2.5.7.
+
+---
+
+## 🔗 Conexiones
+
+> [!quote] 🔗 Notas Relacionadas
+>
+> - [[Universidad/3er Semestre/Sistema de Bases de Datos/Unidad 1 - Modelos de Datos y ER/02 - Entidades, atributos, claves y relaciones\|02 - Entidades, atributos, claves y relaciones]] — el vocabulario para dibujar lo de aquí.
+> - Ver también [[Universidad/3er Semestre/Sistema de Bases de Datos/Unidad 1 - Modelos de Datos y ER/03 - Modelo relacional, ERM y casos Tiny College\|03 - Modelo relacional, ERM y casos Tiny College]] para la traducción a tablas.
 
 ---
 

@@ -79,7 +79,7 @@ graph TB
 > | Deshacer último commit local | `git reset --soft HEAD~1` |
 > | Ver historia legible | `git log --oneline --graph -10` |
 >
-> Profundiza con tus enlaces guardados: [Video YouTube — Git (desde 1:30)](https://www.youtube.com/watch?v=4XpnKHJAok8&t=1m30s) y [Git: cómo gestionar y cuidar nuestro código](https://www.enmilocalfunciona.io/git-como-gestionar-y-cuidar-nuestro-codigo/) — ambos en [[Universidad/3er Semestre/Diseño de Software/Unidad 0 - Guias y Ejercicios/Enlaces del Aula Virtual\|Enlaces del Aula Virtual]].
+> Profundiza con tus enlaces guardados: [Video YouTube — Git (desde 1:30)](https://www.youtube.com/watch?v=4XpnKHJAok8&t=1m30s), [Git: cómo gestionar y cuidar nuestro código](https://www.enmilocalfunciona.io/git-como-gestionar-y-cuidar-nuestro-codigo/) y [Resolución de conflictos en GitHub — David Jurado](https://www.youtube.com/watch?v=H34vxQeQkgg) — todos en [[Universidad/3er Semestre/Diseño de Software/Unidad 0 - Guias y Ejercicios/Enlaces del Aula Virtual\|Enlaces del Aula Virtual]].
 
 ### 🔍 Buenas Prácticas que Evalúan Colaboración
 
@@ -185,7 +185,7 @@ mindmap
 > [!quote] 📖 Fuentes
 >
 > - R. Pressman, B. Maxim, *Software Engineering: A Practitioner's Approach*, 9th ed., cap. 22 (SCM).
-> - [Git: cómo gestionar y cuidar nuestro código](https://www.enmilocalfunciona.io/git-como-gestionar-y-cuidar-nuestro-codigo/) + [Video YouTube — Git](https://www.youtube.com/watch?v=4XpnKHJAok8&t=1m30s) (enlaces del usuario).
+> - [Git: cómo gestionar y cuidar nuestro código](https://www.enmilocalfunciona.io/git-como-gestionar-y-cuidar-nuestro-codigo/) + [Video YouTube — Git](https://www.youtube.com/watch?v=4XpnKHJAok8&t=1m30s) + [Resolución de conflictos en GitHub — David Jurado](https://www.youtube.com/watch?v=H34vxQeQkgg) (enlaces del usuario y del docente).
 > - Sílabo CCPG1042, objetivo 4: control de versiones en entorno colaborativo.
 
 ---

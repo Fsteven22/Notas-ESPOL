@@ -8,6 +8,12 @@
 > [!info] ℹ️ Documentos publicados
 > Estos PDFs se publican en el Garden embebidos (`![[]]`): así el plugin los sube y se ven aquí mismo. Sin el `!`, el link quedaría roto.
 
+## 📎 Políticas oficiales y deck Semana 1 (docente)
+
+<iframe src="/img/user/Universidad/3er%20Semestre/Dise%C3%B1o%20de%20Software/Unidad%200%20-%20Guias%20y%20Ejercicios/01aPoliticasCurso-2026-2.pdf" width="100%" height="900px" title="01aPoliticasCurso-2026-2.pdf" style="border:1px solid #ccc;"></iframe>
+
+<iframe src="/img/user/Universidad/3er%20Semestre/Dise%C3%B1o%20de%20Software/Unidad%200%20-%20Guias%20y%20Ejercicios/01bDisenoSoftware.pdf" width="100%" height="900px" title="01bDisenoSoftware.pdf" style="border:1px solid #ccc;"></iframe>
+
 ## 📎 Syllabus y libros (<20MB)
 
 <iframe src="/img/user/Universidad/3er%20Semestre/Dise%C3%B1o%20de%20Software/Unidad%200%20-%20Guias%20y%20Ejercicios/SPA-SyllabusEUR_ACE-CCPG1042.pdf" width="100%" height="900px" title="SPA-SyllabusEUR_ACE-CCPG1042.pdf" style="border:1px solid #ccc;"></iframe>

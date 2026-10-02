@@ -16,6 +16,8 @@
 
 - [[Universidad/3er Semestre/Diseño de Software/Unidad 1 - Introducción al diseño/01 - Naturaleza del software y el diseño\|01 - Naturaleza del software y el diseño]]
 - [[Universidad/3er Semestre/Diseño de Software/Unidad 1 - Introducción al diseño/02 - Principios de diseño, cohesión y acoplamiento\|02 - Principios de diseño, cohesión y acoplamiento]]
+- [[Universidad/3er Semestre/Diseño de Software/Unidad 1 - Introducción al diseño/03 - Paradigmas de programación y diseño\|03 - Paradigmas de programación y diseño]]
+- [[Universidad/3er Semestre/Diseño de Software/Unidad 1 - Introducción al diseño/04 - Principios SOLID\|04 - Principios SOLID]]
 
 ---
 
@@ -47,6 +49,7 @@
 
 - [[Universidad/3er Semestre/Diseño de Software/Unidad 5 - Pruebas unitarias/01 - Pruebas unitarias con JUnit 5\|01 - Pruebas unitarias con JUnit 5]]
 - [[Universidad/3er Semestre/Diseño de Software/Unidad 5 - Pruebas unitarias/02 - Control de versiones con Git\|02 - Control de versiones con Git]]
+- [[Universidad/3er Semestre/Diseño de Software/Unidad 5 - Pruebas unitarias/03 - Entrega continua y DevOps\|03 - Entrega continua y DevOps]]
 
 ---
 

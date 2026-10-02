@@ -12,6 +12,7 @@
 
 - [[Universidad/3er Semestre/Diseño de Software/Unidad 5 - Pruebas unitarias/01 - Pruebas unitarias con JUnit 5\|01 - Pruebas unitarias con JUnit 5]]
 - [[Universidad/3er Semestre/Diseño de Software/Unidad 5 - Pruebas unitarias/02 - Control de versiones con Git\|02 - Control de versiones con Git]]
+- [[Universidad/3er Semestre/Diseño de Software/Unidad 5 - Pruebas unitarias/03 - Entrega continua y DevOps\|03 - Entrega continua y DevOps]]
 
 > [!quote] 🔗 Conexiones
 > - Mapa de contenido: [[Universidad/3er Semestre/Diseño de Software/Diseño de Software\|Diseño de Software]]

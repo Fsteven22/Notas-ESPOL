@@ -45,7 +45,21 @@ graph TB
 
 ---
 
-## 🧵 Estilos Arquitectónicos (Pressman cap. 10)
+## 🧵 Dos Niveles: Arquitectural vs Detallado (deck docente)
+
+> [!note] 🎨 Macro y Micro Diseño
+>
+> 1. **Arquitectural (alto nivel):** modelos macro de calidad y funciones, separado del bajo nivel. Decide despliegue físico, plataforma tecnológica, componentes estructurales, intercomunicación (protocolos), no funcionales (desempeño, seguridad, robustez, escalabilidad) y concurrencia.
+> 2. **Detallado:** refina la arquitectura hasta que está lista para construir: componentes → clases, interfaces implementadas, relaciones especificadas, patrones identificados y aplicados.
+>
+> | Nivel | Pregunta | Entregable |
+> |---|---|---|
+> | **Arquitectural** | ¿Qué piezas y cómo se hablan? | Diagrama de componentes + despliegue |
+> | **Detallado** | ¿Qué clases e interfaces exactas? | Diagrama de clases + contratos |
+>
+> **Regla del docente:** no se codifica lo que no pasó por ambos niveles.
+
+## 🧵 Estilos Arquitectónicos (Pressman cap. 10 + deck)
 
 ### 🎭 Catálogo Mínimo que Debes Dominar
 
@@ -63,11 +77,15 @@ graph TB
 > | Estilo | Idea | Úsalo cuando | Cuidado |
 > |---|---|---|---|
 > | **Capas** | UI → lógica → datos, cada capa solo habla con la de abajo | Proyecto de curso clásico, CRUD | No saltarse capas ("atajos") |
+> | **Centrada en datos** | Repositorio central que todos consultan/actualizan | Sistemas con dato compartido intenso | Cuello de botella en el repositorio |
+> | **Flujo de datos** | Entrada → etapas de transformación → salida | Compiladores, ETL, procesamiento | Acoplar etapas al dato, no entre sí |
 > | **Cliente-servidor** | Front pide, back responde por API | App + API REST | El contrato API es sagrado |
 > | **Microservicios** | Servicios pequeños e independientes | Escala y equipos grandes | Operación compleja (overkill en curso) |
 > | **Monolito modular** | Un despliegue, módulos internos claros | Proyecto semestral, equipo chico ✅ | Disciplina para no mezclar |
 > | **Tuberías y filtros** | Datos fluyen por etapas | Compiladores, ETL, procesamiento |
 > | **Eventos** | Componentes reaccionan a mensajes | Notificaciones, tiempo real |
+>
+> **Todo estilo tiene 4 partes (deck):** componentes que hacen el trabajo + conectores (comunicación/coordinación) + restricciones de integración + modelos semánticos para entender propiedades.
 >
 > **Recomendación para tu proyecto:** monolito modular en capas. Te da orden sin la operación de microservicios.
 
@@ -173,6 +191,7 @@ mindmap
 > [!quote] 📖 Fuentes
 >
 > - R. Pressman, B. Maxim, *Software Engineering: A Practitioner's Approach*, 9th ed., cap. 10.
+> - Deck docente 01bDisenoSoftware: dos niveles, qué decide cada uno, estilos (datos, flujo, capas).
 > - Sílabo CCPG1042, Unidad 2: diseño orientado a objetos (7h).
 
 ---

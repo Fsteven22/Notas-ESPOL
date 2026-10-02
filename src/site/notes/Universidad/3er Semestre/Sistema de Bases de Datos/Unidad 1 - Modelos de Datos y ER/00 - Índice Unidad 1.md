@@ -11,8 +11,8 @@
 ## 📑 Notas de la Unidad
 
 - [[Universidad/3er Semestre/Sistema de Bases de Datos/Unidad 1 - Modelos de Datos y ER/01 - Dato, información y modelos de datos\|01 - Dato, información y modelos de datos]]
-- [[Universidad/3er Semestre/Sistema de Bases de Datos/Unidad 1 - Modelos de Datos y ER/02 - Entidades, atributos, relaciones y reglas de negocio\|02 - Entidades, atributos, relaciones y reglas de negocio]]
-- [[Universidad/3er Semestre/Sistema de Bases de Datos/Unidad 1 - Modelos de Datos y ER/03 - Modelo relacional y modelo entidad-relación\|03 - Modelo relacional y modelo entidad-relación]]
+- [[Universidad/3er Semestre/Sistema de Bases de Datos/Unidad 1 - Modelos de Datos y ER/02 - Entidades, atributos, claves y relaciones\|02 - Entidades, atributos, claves y relaciones]]
+- [[Universidad/3er Semestre/Sistema de Bases de Datos/Unidad 1 - Modelos de Datos y ER/03 - Modelo relacional, ERM y casos Tiny College\|03 - Modelo relacional, ERM y casos Tiny College]]
 
 > [!quote] 🔗 Conexiones
 > - Mapa de contenido: [[Universidad/3er Semestre/Sistema de Bases de Datos/Sistema de Bases de Datos\|Sistema de Bases de Datos]]
