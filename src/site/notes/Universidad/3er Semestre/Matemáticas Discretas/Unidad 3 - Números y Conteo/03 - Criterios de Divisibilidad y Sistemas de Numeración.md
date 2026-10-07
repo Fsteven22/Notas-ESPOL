@@ -22,15 +22,12 @@
 > graph TD
 >     A[Representación de Enteros] --> B[Criterios de Divisibilidad]
 >     A --> C[Sistemas de Numeración]
-> 
 >     B --> D[Divisible por 3 y 9 suma de dígitos]
 >     B --> E[Divisible por 2 y 5 último dígito]
 >     C --> F[Base 2: binario dígitos 0,1]
 >     C --> G[Base 10: decimal dígitos 0–9]
 >     C --> H[Base 16: hexadecimal dígitos 0–9, A–F]
 >     C --> I[Conversión entre bases divisiones sucesivas]
-> 
-> 
 > ```
 > 
 > |Tema|Idea central|
@@ -159,8 +156,6 @@
 >     P3 -->|No| P4["Continuar dividiendo"]
 >     P4 --> P2
 >     P3 -->|Sí| P5["Leer residuos de abajo hacia arriba ✅"]
-> 
-> 
 > ```
 > 
 > **Ejemplo — decimal 146 a binario:**
@@ -224,7 +219,6 @@
 >     B -->|Divisiones sucesivas residuos de abajo arriba| A
 >     C[Binario] -->|Agrupar de 4 en 4| D[Hexadecimal]
 >     D -->|Expandir cada dígito en 4 bits| C
-> 
 > ```
 
 ---

@@ -24,7 +24,6 @@
 >     A --> D["Algoritmos"]
 >     D --> E["Agente Viajero (TSP)"]
 >     D --> F["Dijkstra (ruta más corta)"]
-> 
 > ```
 
 ---
@@ -76,7 +75,6 @@
 >     v3 --- v1
 >     v4["v4 (aislado)"]
 >     v5 --- v6
-> 
 > ```
 > 
 > Este grafo **no es conexo**: tiene 3 componentes:

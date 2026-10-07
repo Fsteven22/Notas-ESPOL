@@ -79,14 +79,11 @@
 >     A[Problema con Fuerzas No Conservativas] --> B[Identificar Fuerzas]
 >     B --> C[Fuerzas Conservativas]
 >     B --> D[Fuerzas No Conservativas]
->     
 >     C --> E[Calcular ΔE_potencial]
 >     D --> F[Calcular W_no_conservativo]
->     
 >     E --> G[Aplicar: E_inicial + W_no_cons = E_final]
 >     F --> G
 >     G --> H[Resolver para Incógnita]
->     
 >     style A fill:#e1f5fe
 >     style B fill:#f3e5f5
 >     style C fill:#e8f5e8

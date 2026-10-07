@@ -103,23 +103,18 @@
 > ```mermaid
 > graph TD
 >     A[Fuerza No Constante F] --> B{Tipo de Dependencia}
->     
 >     B -->|"F = F(t)"| C[Integración Directa]
 >     B -->|"F = F(x)"| D[Método Energético]
 >     B -->|"F = F(v)"| E[Separación de Variables]
->     
 >     C --> F["a = F(t)/m"]
 >     F --> G[v = ∫a dt]
 >     G --> H[x = ∫v dt]
->     
 >     D --> I[Conservación de Energía]
 >     I --> J["½mv² + U(x) = E"]
 >     J --> K["v = f(x)"]
->     
 >     E --> L["m dv/dt = F(v)"]
 >     L --> M[Separar variables]
 >     M --> N["∫dv/F(v) = ∫dt/m"]
->     
 >     style A fill:#e1f5fe
 >     style B fill:#f3e5f5
 >     style C fill:#e8f5e8

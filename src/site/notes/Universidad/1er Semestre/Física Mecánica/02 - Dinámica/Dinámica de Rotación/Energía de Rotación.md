@@ -78,7 +78,6 @@
 >    B --> D[🔄 Rotacional]
 >    C --> E[½Mv²]
 >    D --> F[½Iω²]
->    
 >    style A fill:#81c784
 >    style C fill:#64b5f6
 >    style D fill:#ffb74d

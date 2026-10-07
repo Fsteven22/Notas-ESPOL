@@ -68,7 +68,6 @@
 >     B -->|Derivada| C[Gráfica α-t]
 >     C -->|Integral| B
 >     B -->|Integral| A
->     
 >     style A fill:#e8f5e8
 >     style B fill:#fff2e8
 >     style C fill:#f0e8ff

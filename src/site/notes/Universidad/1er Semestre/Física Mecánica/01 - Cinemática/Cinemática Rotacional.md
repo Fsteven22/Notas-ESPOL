@@ -90,7 +90,6 @@
 >    C[θ posición angular] --> D[s = rθ arco recorrido]
 >    E[ω velocidad angular] --> F[v = rω velocidad tangencial]
 >    G[α aceleración angular] --> H[at = rα aceleración tangencial]
->    
 >    style A fill:#e1f5fe
 >    style B fill:#f3e5f5
 >    style C fill:#fff3e0

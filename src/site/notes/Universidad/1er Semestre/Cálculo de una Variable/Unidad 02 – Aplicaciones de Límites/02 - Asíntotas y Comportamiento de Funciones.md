@@ -247,33 +247,23 @@ flowchart TD
 
    
 > [!info] 🎨 Pasos para Construcción de Gráficas
-> 
 > ### Lista de verificación completa
-> 
 > **1. Análisis preliminar** 📋
-> 
 > - **Dominio:** ¿Dónde está definida la función?
 > - **Rango:** ¿Qué valores puede tomar?
 > - **Interceptos:** Con ejes $x$ e $y$
 > - **Simetrías:** Par, impar, periódica
-> 
 > **2. Comportamiento asintótico** 🎯
-> 
 > - **Asíntotas verticales:** Denominadores = 0, discontinuidades
 > - **Asíntotas horizontales:** Límites en $\pm\infty$
 > - **Asíntotas oblicuas:** Si no hay horizontales
-> 
 > **3. Análisis con derivadas** 📈
-> 
 > - **Primera derivada:** Crecimiento, decrecimiento, extremos
 > - **Segunda derivada:** Concavidad, puntos de inflexión
-> 
 > **4. Puntos especiales** ⭐
-> 
 > - **Máximos y mínimos locales:** $f'(x) = 0$
 > - **Puntos de inflexión:** $f''(x) = 0$ y cambio de signo
 > - **Puntos críticos:** Donde $f'$ no existe
-> 
 > |Aspecto|Herramienta|Información obtenida|
 > |---|---|---|
 > |**Dominio**|Análisis algebraico|Restricciones de $x$ 🔒|
@@ -284,37 +274,24 @@ flowchart TD
 > |**Inflexión**|$f''(x) = 0$|Cambios de concavidad 🔄|
 
 > [!warning] 🎪 Ejemplo Integrador Completo
-> 
 > ### Análisis de $f(x) = \frac{x^2}{x^2 - 4}$
-> 
 > **1. Dominio y puntos problemáticos:**
-> 
 > - Dominio: $\mathbb{R} \setminus {-2, 2}$
 > - Candidatos a asíntotas verticales: $x = -2, x = 2$
-> 
 > **2. Asíntotas verticales:**
-> 
 > - $\lim_{x \to 2^{\pm}} \frac{x^2}{x^2 - 4} = \lim_{x \to 2^{\pm}} \frac{4}{0^{\mp}} = \pm\infty$
 > - $\lim_{x \to (-2)^{\pm}} \frac{x^2}{x^2 - 4} = \lim_{x \to (-2)^{\pm}} \frac{4}{0^{\mp}} = \pm\infty$
 > - **Asíntotas verticales:** $x = -2$ y $x = 2$ ✅
-> 
 > **3. Asíntotas horizontales:**
-> 
 > - $\lim_{x \to \pm\infty} \frac{x^2}{x^2 - 4} = \lim_{x \to \pm\infty} \frac{1}{1 - \frac{4}{x^2}} = 1$
 > - **Asíntota horizontal:** $y = 1$ ✅
-> 
 > **4. Interceptos:**
-> 
 > - Con $y$: $f(0) = \frac{0}{-4} = 0$ → $(0,0)$
 > - Con $x$: $f(x) = 0$ → $x^2 = 0$ → $x = 0$ → $(0,0)$
-> 
 > **5. Simetría:**
-> 
 > - $f(-x) = \frac{(-x)^2}{(-x)^2 - 4} = \frac{x^2}{x^2 - 4} = f(x)$
 > - **Función par:** simétrica respecto al eje $y$ ✅
-> 
 > **6. Análisis con derivadas:** $f'(x) = \frac{2x(x^2 - 4) - x^2(2x)}{(x^2 - 4)^2} = \frac{-8x}{(x^2 - 4)^2}$
-> 
 > - $f'(x) = 0$ cuando $x = 0$ (mínimo local)
 > - $f'(x) > 0$ cuando $x < 0$ (creciente)
 > - $f'(x) < 0$ cuando $x > 0$ (decreciente)

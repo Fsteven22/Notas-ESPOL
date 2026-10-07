@@ -77,17 +77,13 @@
 >    A[Funciones Especiales] --> B[Exponenciales]
 >    A --> C[Logarítmicas]
 >    A --> D[Trigonométricas]
->    
 >    B --> E["(e^x)' = e^x"]
 >    B --> F["(a^x)' = a^x ln(a)"]
->    
 >    C --> G["(ln x)' = 1/x"]
 >    C --> H["(log_a x)' = 1/(x ln a)"]
->    
 >    D --> I["(sin x)' = cos x"]
 >    D --> J["(cos x)' = -sin x"]
 >    D --> K["(tan x)' = sec²x"]
->    
 >    style A fill:#e1f5fe
 >    style B fill:#f3e5f5
 >    style C fill:#fff3e0
@@ -270,7 +266,6 @@
 >     D --> E["m = [f(a+h) - f(a)]/h"]
 >     E --> F["Límite cuando h → 0"]
 >     F --> G["Pendiente tangente = f'(a)"]
->     
 >     style G fill:#45b7d1
 >     style F fill:#96ceb4
 > ```

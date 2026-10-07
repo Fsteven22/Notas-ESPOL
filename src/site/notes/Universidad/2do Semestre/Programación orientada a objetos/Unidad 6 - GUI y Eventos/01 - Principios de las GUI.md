@@ -22,7 +22,6 @@
 >     B -->|Eventos| C[Programa<br/>Java]
 >     C -->|Actualización| B
 >     B -->|Feedback visual| A
->     
 >     style A fill:#e1f5ff
 >     style B fill:#fff4e1
 >     style C fill:#e1ffe1
@@ -84,9 +83,7 @@
 >     B --> C1[JButton]
 >     B --> C2[JLabel]
 >     B --> C3[JTextField]
->     
 >     A --> D[JMenuBar<br/>Barra de menú]
->     
 >     style A fill:#e1f5ff
 >     style B fill:#fff4e1
 >     style C1 fill:#e1ffe1
@@ -236,7 +233,6 @@
 >     A --> D[GridLayout<br/>Cuadrícula]
 >     A --> E[BoxLayout<br/>Línea/Columna]
 >     A --> F[GridBagLayout<br/>Flexible complejo]
->     
 >     style B fill:#e1ffe1
 >     style C fill:#e1f5ff
 >     style D fill:#fff4e1
@@ -483,7 +479,6 @@
 >     A[Título grande] --> B[Subtítulo mediano]
 >     B --> C[Contenido normal]
 >     C --> D[Notas pequeñas]
->     
 >     style A fill:#e1f5ff,font-size:20px
 >     style B fill:#fff4e1,font-size:16px
 >     style C fill:#e1ffe1,font-size:14px
@@ -521,7 +516,6 @@
 >     participant B as Botón
 >     participant L as Listener
 >     participant P as Programa
->     
 >     U->>B: Click
 >     B->>L: actionPerformed()
 >     L->>P: Ejecutar código

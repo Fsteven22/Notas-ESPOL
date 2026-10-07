@@ -29,7 +29,6 @@
 >     E -->|Sí| F[Ejecutar catch<br/>Recuperarse]
 >     E -->|No| G[💥 Programa<br/>termina]
 >     F --> C
->     
 >     style C fill:#e1ffe1
 >     style F fill:#fff4e1
 >     style G fill:#ffe1e1
@@ -50,29 +49,24 @@
 >         +getMessage()
 >         +printStackTrace()
 >     }
->     
 >     class Error {
 >         <<Errores graves>>
 >         OutOfMemoryError
 >         StackOverflowError
 >     }
->     
 >     class Exception {
 >         <<Excepciones>>
 >         Recuperables
 >     }
->     
 >     class RuntimeException {
 >         <<No verificadas>>
 >         NullPointerException
 >         ArrayIndexOutOfBounds
 >     }
->     
 >     class IOException {
 >         <<Verificadas>>
 >         FileNotFoundException
 >     }
->     
 >     Throwable <|-- Error
 >     Throwable <|-- Exception
 >     Exception <|-- RuntimeException
@@ -187,7 +181,6 @@
 >     E -->|Sí| F[Ejecutar finally]
 >     E -->|No| G[Continuar programa]
 >     F --> G
->     
 >     style C fill:#e1ffe1
 >     style D fill:#fff4e1
 >     style F fill:#e1f5ff
@@ -415,11 +408,9 @@
 >     A[metodoA<br/>throws IOException] --> B[metodoB<br/>throws IOException]
 >     B --> C[metodoC<br/>throws IOException]
 >     C --> D[main<br/>try-catch]
->     
 >     D --> E{¿Manejada?}
 >     E -->|Sí| F[✅ Programa continúa]
 >     E -->|No| G[💥 Programa termina]
->     
 >     style F fill:#e1ffe1
 >     style G fill:#ffe1e1
 > ```

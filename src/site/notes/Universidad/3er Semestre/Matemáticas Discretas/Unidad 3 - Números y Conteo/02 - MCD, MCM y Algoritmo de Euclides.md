@@ -28,8 +28,6 @@
 >     B --> G[Método 2: Algoritmo de Euclides divisiones sucesivas]
 >     C --> H[Factorización prima máximos exponentes]
 >     C --> I[Relación con MCD: mcd · mcm = m · n]
-> 
-> 
 > ```
 > 
 > |Concepto|Fórmula clave|
@@ -255,8 +253,6 @@
 >     P3 -->|Sí| P4["mcd = b ✅"]
 >     P3 -->|No| P5["Nuevo par: (b, r)"]
 >     P5 --> P2
-> 
-> 
 > ```
 > 
 > ---
@@ -292,7 +288,6 @@
 >     B -->|No| D{¿Solo MCD o también MCM?}
 >     D -->|Solo MCD| E[Algoritmo de Euclides más eficiente]
 >     D -->|Ambos| F[Factorización prima luego mcd·mcm = m·n]
-> 
 > ```
 
 ---

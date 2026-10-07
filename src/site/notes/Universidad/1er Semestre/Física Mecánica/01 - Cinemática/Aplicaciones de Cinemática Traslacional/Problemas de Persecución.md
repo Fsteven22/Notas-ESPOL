@@ -263,12 +263,10 @@
 >         A[t=0: Objetivo tiene ventaja] --> B[Las pendientes indican velocidades]
 >         B --> C[Intersección = Alcance]
 >     end
->     
 >     subgraph "Persecución con Aceleración"
 >         D[Línea recta: Movimiento uniforme] --> E[Parábola: Movimiento acelerado]
 >         E --> F[Intersección: Momento de alcance]
 >     end
->     
 >     subgraph "Interpretación"
 >         G[Pendiente = Velocidad instantánea]
 >         H[Curvatura = Aceleración]

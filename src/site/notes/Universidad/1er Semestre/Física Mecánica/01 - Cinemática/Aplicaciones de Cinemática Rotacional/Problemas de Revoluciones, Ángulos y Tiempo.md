@@ -66,11 +66,9 @@
 > ```mermaid
 > graph TD
 >     A[Rotación Uniforme<br/>α = 0] --> B[θ = θ₀ + ωt<br/>ω = constante]
->     
 >     C[Rotación Uniformemente<br/>Acelerada] --> D[θ = θ₀ + ω₀t + ½αt²]
 >     C --> E[ω = ω₀ + αt]
 >     C --> F["ω² = ω₀² + 2α(θ-θ₀)"]
->     
 >     style A fill:#e8f5e8
 >     style C fill:#fff2e8
 >     style B fill:#f0f8ff

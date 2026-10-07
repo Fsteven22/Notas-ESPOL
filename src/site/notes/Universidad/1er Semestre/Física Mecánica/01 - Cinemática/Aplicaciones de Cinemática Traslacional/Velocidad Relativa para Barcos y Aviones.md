@@ -221,7 +221,6 @@
 >         B[Velocidad del Medio<br/>respecto a Tierra] --> C
 >         C --> D{Magnitud y Dirección}
 >     end
->     
 >     subgraph "Casos Especiales"
 >         E[Paralelo: v_total = v_veh ± v_medio]
 >         F["Perpendicular: v_total = √(v_veh² + v_medio²)"]

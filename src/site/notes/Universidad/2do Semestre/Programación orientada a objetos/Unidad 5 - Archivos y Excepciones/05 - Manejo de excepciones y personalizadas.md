@@ -24,7 +24,6 @@
 >     B -->|Sin manejo| C[💥 Programa termina<br/>Usuario frustrado]
 >     B -->|Con manejo| D[⚠️ Mensaje amigable<br/>Alternativas ofrecidas]
 >     D --> E[✅ Usuario satisfecho<br/>Continúa usando app]
->     
 >     style C fill:#ffe1e1
 >     style E fill:#e1ffe1
 > ```
@@ -151,10 +150,8 @@
 > ```mermaid
 > graph LR
 >     A[IOException<br/>Técnica] -->|Wrapping| B[ErrorAlmacenamientoException<br/>De negocio]
->     
 >     A --> C[❌ Usuario no entiende<br/>'FileNotFoundException']
 >     B --> D[✅ Usuario entiende<br/>'Error al guardar estudiante']
->     
 >     style A fill:#ffe1e1
 >     style B fill:#e1ffe1
 >     style C fill:#fff4e1
@@ -231,34 +228,26 @@
 > ```mermaid
 > classDiagram
 >     class Exception
->     
 >     class AplicacionException {
 >         <<Base de la aplicación>>
 >     }
->     
 >     class ErrorNegocioException {
 >         <<Errores de lógica>>
 >     }
->     
 >     class ErrorTecnicoException {
 >         <<Errores técnicos>>
 >     }
->     
 >     class SaldoInsuficienteException
 >     class CuentaBloqueadaException
 >     class LimiteExcedidoException
->     
 >     class ErrorConexionException
 >     class ErrorAlmacenamientoException
->     
 >     Exception <|-- AplicacionException
 >     AplicacionException <|-- ErrorNegocioException
 >     AplicacionException <|-- ErrorTecnicoException
->     
 >     ErrorNegocioException <|-- SaldoInsuficienteException
 >     ErrorNegocioException <|-- CuentaBloqueadaException
 >     ErrorNegocioException <|-- LimiteExcedidoException
->     
 >     ErrorTecnicoException <|-- ErrorConexionException
 >     ErrorTecnicoException <|-- ErrorAlmacenamientoException
 > ```
@@ -327,13 +316,10 @@
 > graph TD
 >     A{¿El llamador puede<br/>recuperarse?} --> B[¿Es un error<br/>de programación?]
 >     A --> C[¿Es una condición<br/>esperada de negocio?]
->     
 >     B -->|Sí| D[RuntimeException<br/>No verificada]
 >     C -->|Sí| E[Exception<br/>Verificada]
->     
 >     D --> F[Ejemplos:<br/>ArgumentoInvalidoException<br/>EstadoInvalidoException]
 >     E --> G[Ejemplos:<br/>SaldoInsuficienteException<br/>UsuarioNoEncontradoException]
->     
 >     style D fill:#ffe1e1
 >     style E fill:#e1ffe1
 > ```

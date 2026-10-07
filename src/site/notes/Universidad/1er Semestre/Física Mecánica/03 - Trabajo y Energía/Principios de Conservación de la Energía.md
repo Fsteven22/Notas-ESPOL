@@ -99,7 +99,6 @@
 >     participant B as 💥 Bala (v₀ = 300 m/s)
 >     participant T as 🌳 Tronco
 >     participant F as 🛑 Reposo (v = 0)
->     
 >     B->>T: Penetra 0.06 m
 >     T->>F: Fuerza de resistencia
 >     Note over B,F: W_neto = ΔK
@@ -266,11 +265,9 @@
 > sequenceDiagram
 >     participant I as 🏔️ Inicio (altura h)
 >     participant F as 🏁 Final (altura 0)
->     
 >     I->>I: K₀ = 0, U₀ = mgh
 >     I->>F: Conservación energía
 >     F->>F: K_f = ½mv², U_f = 0
->     
 >     Note over I,F: mgh = ½mv²
 > ```
 > 

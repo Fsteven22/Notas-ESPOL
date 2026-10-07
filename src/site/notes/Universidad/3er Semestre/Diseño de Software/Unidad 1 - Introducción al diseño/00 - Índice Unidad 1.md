@@ -14,6 +14,7 @@
 - [[Universidad/3er Semestre/Diseño de Software/Unidad 1 - Introducción al diseño/02 - Principios de diseño, cohesión y acoplamiento\|02 - Principios de diseño, cohesión y acoplamiento]]
 - [[Universidad/3er Semestre/Diseño de Software/Unidad 1 - Introducción al diseño/03 - Paradigmas de programación y diseño\|03 - Paradigmas de programación y diseño]]
 - [[Universidad/3er Semestre/Diseño de Software/Unidad 1 - Introducción al diseño/04 - Principios SOLID\|04 - Principios SOLID]]
+- [[Control 01 - Repaso Paradigmas\|Control 01 - Repaso Paradigmas]]
 
 > [!quote] 🔗 Conexiones
 > - Mapa de contenido: [[Universidad/3er Semestre/Diseño de Software/Diseño de Software\|Diseño de Software]]

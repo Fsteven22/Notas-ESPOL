@@ -80,7 +80,6 @@
 >     B --> E[Aceleración Total a]
 >     D --> E
 >     E -->|a = √(aₜ² + aₓ²)| F[Magnitud Total]
->     
 >     style A fill:#e1f5fe
 >     style B fill:#f3e5f5
 >     style C fill:#e8f5e8

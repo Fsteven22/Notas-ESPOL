@@ -70,7 +70,6 @@ graph LR
 >     B --> C[F(x) = x² + C]
 >     C --> D[Derivación]
 >     D --> A
->     
 >     style A fill:#ffe1e1
 >     style C fill:#e1ffe1
 >     style B fill:#fff4e1
@@ -128,7 +127,6 @@ graph LR
 >     D --> F[bG(x)]
 >     E --> G[aF(x) + bG(x) + C]
 >     F --> G
->     
 >     style A fill:#e1f5ff
 >     style B fill:#fff4e1
 >     style G fill:#e1ffe1
@@ -162,7 +160,6 @@ graph LR
 >     B --> D[C = 2: y = x² + 2]
 >     B --> E[C = -3: y = x² - 3]
 >     B --> F[C = k: y = x² + k]
->     
 >     style A fill:#ffe1e1
 >     style B fill:#fff4e1
 >     style C fill:#e1ffe1
@@ -230,10 +227,8 @@ graph LR
 > graph LR
 >     A[F(x) = x³] -->|Derivación| B[f(x) = 3x²]
 >     B -->|Integración| C[F(x) = x³ + C]
->     
 >     D[F(x) + C] -->|Derivación| E[f(x)]
 >     E -->|Integración| F[F(x) + C]
->     
 >     style A fill:#e1ffe1
 >     style B fill:#ffe1e1
 >     style C fill:#e1ffe1
@@ -289,13 +284,11 @@ graph LR
 >     B --> E[F₃(x) = x² - 3]
 >     B --> F[F₄(x) = x² + π]
 >     B --> G[Fₙ(x) = x² + C]
->     
 >     C -.-> H[Todas tienen<br/>la misma derivada]
 >     D -.-> H
 >     E -.-> H
 >     F -.-> H
 >     G -.-> H
->     
 >     style A fill:#ffe1e1
 >     style B fill:#fff4e1
 >     style G fill:#e1ffe1
@@ -342,7 +335,6 @@ graph LR
 >     D -->|No| E[Mantener C<br/>Solución general]
 >     D -->|Sí| F[Calcular C]
 >     F --> G[F(x) específica<br/>Solución particular]
->     
 >     style A fill:#ffe1e1
 >     style C fill:#fff4e1
 >     style E fill:#e1f5ff
@@ -382,13 +374,10 @@ graph LR
 > graph TD
 >     A[Integración] --> B[Indefinida<br/>∫f(x)dx]
 >     A --> C[Definida<br/>∫ₐᵇf(x)dx]
->     
 >     B --> D[Resultado:<br/>F(x) + C]
 >     C --> E[Resultado:<br/>Número]
->     
 >     D --> F[Antiderivada]
 >     E --> G[Área / Acumulación]
->     
 >     style A fill:#fff4e1
 >     style B fill:#ffe1e1
 >     style C fill:#e1ffe1
@@ -450,7 +439,6 @@ graph LR
 >     D --> F[d·A₂]
 >     E --> G[Resultado:<br/>c·A₁ + d·A₂]
 >     F --> G
->     
 >     style A fill:#e1f5ff
 >     style B fill:#fff4e1
 >     style G fill:#e1ffe1
@@ -491,10 +479,8 @@ graph LR
 >     A[∫ₐᵇf(x)dx] -->|Inverso| B[∫ᵇₐf(x)dx]
 >     A -->|Área| C[+ A]
 >     B -->|Área| D[- A]
->     
 >     E[∫ₐₐf(x)dx] --> F[Ancho = 0]
 >     F --> G[Área = 0]
->     
 >     style A fill:#e1ffe1
 >     style B fill:#ffe1e1
 >     style E fill:#fff4e1
@@ -530,7 +516,6 @@ graph LR
 >     B --> D[Área 2<br/>∫ᶜᵇf(x)dx]
 >     C --> E[Total = Área1 + Área2]
 >     D --> E
->     
 >     style A fill:#e1f5ff
 >     style B fill:#fff4e1
 >     style C fill:#ffe1e1
@@ -588,9 +573,7 @@ graph LR
 > ```mermaid
 > graph TD
 >     A["f(x) ≤ g(x)"] --> B["∫ₐᵇf(x)dx ≤ ∫ₐᵇg(x)dx"]
->     
 >     C["f(x) ≥ 0"] --> D["∫ₐᵇf(x)dx ≥ 0"]
->     
 >     E["m ≤ f(x) ≤ M"] --> F["m(b-a)0"]
 > ```
 > **Propiedad 3: Cotas para la integral**
@@ -641,11 +624,9 @@ graph LR
 > ```mermaid
 > graph TD
 >     A[∫ₐᵇf(x)dx] --> B{Signo de f(x)}
->     
 >     B -->|f(x) > 0| C[Área sobre eje<br/>Resultado: +]
 >     B -->|f(x) < 0| D[Área bajo eje<br/>Resultado: -]
 >     B -->|f(x) cambia| E[Área neta<br/>Suma algebraica]
->     
 >     style A fill:#e1f5ff
 >     style B fill:#fff4e1
 >     style C fill:#e1ffe1
@@ -725,15 +706,12 @@ graph LR
 > graph TD
 >     A[Teorema Fundamental<br/>del Cálculo] --> B[Primera Parte]
 >     A --> C[Segunda Parte]
->     
 >     B --> D[d/dx ∫ₐˣf(t)dt = f(x)]
 >     B --> E[La integral<br/>acumula]
 >     B --> F[La derivada<br/>extrae]
->     
 >     C --> G[∫ₐᵇf(x)dx = F(b)-F(a)]
 >     C --> H[Evaluar<br/>antiderivada]
 >     C --> I[Restar límites]
->     
 >     style A fill:#fff4e1
 >     style B fill:#e1ffe1
 >     style C fill:#e1f5ff
@@ -780,7 +758,6 @@ graph LR
 >     C --> D[Paso 3:<br/>Evaluar F(a)]
 >     D --> E[Paso 4:<br/>Calcular F(b) - F(a)]
 >     E --> F[Resultado final]
->     
 >     style A fill:#e1f5ff
 >     style B fill:#fff4e1
 >     style E fill:#ffe1e1

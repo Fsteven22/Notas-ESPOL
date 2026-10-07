@@ -20,7 +20,6 @@
 >     A --> D[Funciones y return]
 >     A --> E[Estructuras de control: while, for]
 >     A --> F[Ejemplos clásicos]
-> 
 > ```
 
 ---

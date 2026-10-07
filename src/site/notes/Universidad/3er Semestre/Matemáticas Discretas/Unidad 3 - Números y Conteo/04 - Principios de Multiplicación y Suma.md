@@ -18,7 +18,6 @@
 >     C --> E["Tarea en casos EXCLUYENTES (se hace uno u otro)"]
 >     D --> F["n₁ · n₂ · … · nₜ"]
 >     E --> G["n₁ + n₂ + … + nₜ"]
-> 
 > ```
 
 ---

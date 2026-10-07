@@ -79,7 +79,6 @@
 >     A --> D[U3 Patrones<br/>7h]
 >     A --> E[U4 Refactor<br/>5h]
 >     A --> F[U5 Pruebas<br/>4h]
->
 >     style B fill:#e1f5ff
 >     style C fill:#e1ffe1
 >     style D fill:#fff4e1

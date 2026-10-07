@@ -64,9 +64,7 @@
 >    B --> C[Q se acerca a P]
 >    C --> D[Secante se convierte en tangente]
 >    D --> E["Pendiente = f'(a)"]
->    
 >    F[Razón de cambio promedio] --> G[Razón de cambio instantánea]
->    
 >    style D fill:#4caf50,color:#fff
 >    style E fill:#4caf50,color:#fff
 >    style G fill:#ff9800,color:#fff

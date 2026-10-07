@@ -63,14 +63,11 @@
 >    B --> C[Posición: r_CM = Σm_i·r_i / M_total]
 >    B --> D[Velocidad: v_CM = P_total / M_total]
 >    B --> E[Aceleración: a_CM = ΣF_ext / M_total]
->    
 >    F[Fuerzas Externas] --> E
 >    G[Fuerzas Internas] -.-> H[No afectan al CM]
->    
 >    C --> I[Simplificación del Sistema]
 >    D --> I
 >    E --> I
->    
 >    I --> J[Análisis como Partícula Única]
 > ```
 
@@ -104,7 +101,6 @@
 >    C --> D[Calcular Masa Total M]
 >    D --> E[Aplicar Fórmula del CM]
 >    E --> F[Obtener r_CM]
->    
 >    G[Si se requiere] --> H[Calcular v_CM]
 >    H --> I[Calcular a_CM]
 > ```

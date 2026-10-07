@@ -17,10 +17,8 @@
 > graph TD
 >     A["Grammar & Examples<br/>Unit 4"] --> B["Modals of Speculation"]
 >     A --> C["Relative Clauses"]
-> 
 >     B --> D["must / might / may / could / can't"]
 >     C --> E["who · which · where<br/>subject vs. object"]
-> 
 >     style B fill:#e8eaf6
 >     style C fill:#e0f7fa
 > ```

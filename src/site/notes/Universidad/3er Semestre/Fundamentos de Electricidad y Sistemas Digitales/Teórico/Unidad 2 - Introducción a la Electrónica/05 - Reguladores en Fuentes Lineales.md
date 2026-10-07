@@ -14,7 +14,6 @@
 > graph LR
 >     A[V3: CD con<br/>rizado] --> B[Regulador]
 >     B --> C[Vs: CD estable<br/>a la carga]
-> 
 >     style A fill:#e1f5ff
 >     style B fill:#e1ffe1
 > ```
@@ -39,7 +38,6 @@
 >     A[Input] --> B[LM78XX]
 >     B --> C[Output]
 >     B --- D[GND]
-> 
 >     style B fill:#e1ffe1
 > ```
 > 
@@ -64,7 +62,6 @@
 >     B --> C[Vout]
 >     B --> D[Adjust] --> E[R2] --> F[GND]
 >     C --> G[R1] --> D
-> 
 >     style B fill:#e1ffe1
 > ```
 > 
@@ -162,7 +159,7 @@ mindmap
 > [!quote] 🔗 Conexiones
 > - Previo: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/04 - Circuitos de Filtrado y Fuentes Lineales\|04 - Circuitos de Filtrado y Fuentes Lineales]] — rizado que regula
 > - Siguiente: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/06 - Ruido Electrónico e Interferencia\|06 - Ruido Electrónico e Interferencia]] — lo que filtra
-> - Adelante: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Introducción a los circuitos integrados/01 - Introducción a los Circuitos Integrados No Programables\|01 - Introducción a los Circuitos Integrados No Programables]] — el 7805 como CI
+> - Adelante: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/01 - CI no programables\|01 - CI no programables]] — el 7805 como CI
 
 ---
 

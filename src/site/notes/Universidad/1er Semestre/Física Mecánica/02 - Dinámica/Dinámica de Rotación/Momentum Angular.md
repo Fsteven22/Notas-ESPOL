@@ -66,7 +66,6 @@
 >    D --> F[⚖️ Aplicar Segunda Ley Newton]
 >    E --> G[🔄 I₁ω₁ = I₂ω₂]
 >    F --> H[📈 τ = dL/dt]
->    
 >    style A fill:#e1f5fe
 >    style C fill:#c8e6c9
 >    style D fill:#ffcdd2
@@ -126,7 +125,6 @@
 >    B -->|Línea horizontal| C[✅ τ = 0, L conservado]
 >    B -->|Pendiente constante| D[⚖️ τ constante]
 >    B -->|Curva| E[📈 τ variable]
->    
 >    style C fill:#c8e6c9
 >    style D fill:#fff3e0
 >    style E fill:#ffcdd2

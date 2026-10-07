@@ -91,7 +91,6 @@
 >     D -->|4| E[Sistema de Ecuaciones]
 >     E -->|5| F[Resolución Matemática]
 >     F -->|6| G[Verificación Física]
->     
 >     style A fill:#e1f5fe
 >     style B fill:#f3e5f5
 >     style C fill:#fff3e0

@@ -63,18 +63,15 @@ graph TB
 >         P2[Proceso 2<br/>Word]
 >         P3[Proceso 3<br/>Tu App Java]
 >     end
->     
 >     subgraph "Proceso 3 - Tu App Java"
 >         T1[Hilo 1<br/>main]
 >         T2[Hilo 2<br/>UI]
 >         T3[Hilo 3<br/>Background]
 >         M[Memoria Compartida]
->         
 >         T1 -.-> M
 >         T2 -.-> M
 >         T3 -.-> M
 >     end
->     
 >     style P3 fill:#e1f5ff
 >     style M fill:#fff4e1
 > ```
@@ -166,7 +163,6 @@ graph TB
 >     participant JVM
 >     participant HU as Hilo Usuario
 >     participant HD as Hilo Daemon
->     
 >     JVM->>HU: start()
 >     JVM->>HD: start()
 >     HU->>HU: Trabajando...
@@ -587,11 +583,9 @@ graph TB
 >     A{¿Qué tipo de<br/>tarea?} --> B[Lógica inline<br/>simple]
 >     A --> C[Clase con<br/>estado complejo]
 >     A --> D[Método<br/>existente]
->     
 >     B --> E[✅ Lambda]
 >     C --> F[✅ Runnable]
 >     D --> G[✅ Referencia]
->     
 >     style E fill:#e1ffe1
 >     style F fill:#e1ffe1
 >     style G fill:#e1ffe1
@@ -777,11 +771,9 @@ graph TB
 >     B --> C[Dependen del SO]
 >     B --> D[Scheduler puede ignorarlas]
 >     B --> E[Comportamiento varía]
->     
 >     C --> F[Windows: 7 niveles]
 >     C --> G[Linux: diferentes políticas]
 >     C --> H[macOS: tiempo compartido]
->     
 >     style B fill:#ffe1e1
 > ```
 > 
@@ -927,14 +919,12 @@ graph TB
 >     participant H1 as Hilo 1
 >     participant M as Memoria (contador=5)
 >     participant H2 as Hilo 2
->     
 >     H1->>M: Leer valor (5)
 >     H2->>M: Leer valor (5)
 >     H1->>H1: Incrementar (5+1=6)
 >     H2->>H2: Incrementar (5+1=6)
 >     H1->>M: Escribir (6)
 >     H2->>M: Escribir (6) ⚠️ Sobrescribe
->     
 >     Note over M: Valor esperado: 7<br/>Valor real: 6<br/>Se perdió un incremento
 > ```
 > 
@@ -997,7 +987,6 @@ graph TB
 >     participant H1 as Hilo 1
 >     participant L as Lock (Monitor)
 >     participant H2 as Hilo 2
->     
 >     H1->>L: Solicitar lock
 >     L->>H1: Lock concedido ✅
 >     H2->>L: Solicitar lock
@@ -1098,7 +1087,6 @@ graph TB
 >     H1 -->|Espera| R2[Recurso 2]
 >     H2[Hilo 2] -->|Tiene| R2
 >     H2 -->|Espera| R1
->     
 >     style H1 fill:#ffe1e1
 >     style H2 fill:#ffe1e1
 >     style R1 fill:#fff4e1

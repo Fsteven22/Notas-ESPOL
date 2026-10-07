@@ -75,21 +75,15 @@
 >    A[Fuerza Aplicada F] --> B[Torque: tau = r × F]
 >    C[Brazo de Palanca r] --> B
 >    D[Ángulo theta] --> B
->    
 >    B --> E[tau = rF sin theta]
->    
 >    F[Casos Especiales] --> G[theta = 90°: tau = rF]
 >    F --> H[theta = 0°/180°: tau = 0]
->    
 >    B --> I[Segunda Ley Rotacional]
 >    I --> J[Suma tau = I alpha]
 >    J --> K[Aceleración Angular alpha]
->    
 >    L[Momento de Inercia I] --> J
->    
 >    B --> M[Trabajo Rotacional]
 >    M --> N[W = tau Delta theta]
->    
 >    B --> O[Potencia Rotacional]
 >    O --> P[P = tau omega]
 > ```
@@ -130,18 +124,14 @@
 >    B --> C[Identificar Fuerzas Aplicadas]
 >    C --> D[Medir Brazos de Palanca r]
 >    D --> E[Determinar Ángulos theta]
->    
 >    E --> F{¿Múltiples Fuerzas?}
 >    F -->|Una Fuerza| G[Calcular: tau = rF sin theta]
 >    F -->|Varias Fuerzas| H[Calcular: Suma de torques]
->    
 >    G --> I[Resultado Final]
 >    H --> I
->    
 >    I --> J{¿Análisis Dinámico?}
 >    J -->|Sí| K[Aplicar: Suma tau = I alpha]
 >    J -->|No| L[Análisis de Equilibrio]
->    
 >    K --> M[Encontrar alpha o I]
 >    L --> N[Suma tau = 0]
 > ```

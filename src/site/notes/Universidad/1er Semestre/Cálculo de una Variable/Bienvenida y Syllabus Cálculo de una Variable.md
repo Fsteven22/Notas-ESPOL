@@ -68,7 +68,6 @@
 >     A --> F[Unidad 4 Aplicaciones de la Derivada]
 >     A --> G[Unidad 5<br>Integrales]
 >     A --> H[Unidad 6<br>Aplicaciones de la Integral]
->
 >     style B fill:#e1f5ff
 >     style C fill:#e1ffe1
 >     style D fill:#fff4e1

@@ -47,16 +47,13 @@
 > flowchart TD
 >    A[Discontinuidad en x = a] --> B[Evitable/Removible]
 >    A --> C[No Evitable]
->    
 >    C --> D[Salto Finito]
 >    C --> E[Salto Infinito]
 >    C --> F[Esencial/Oscilante]
->    
 >    B --> G["límite existe pero ≠ f(a)"]
 >    D --> H["Límites laterales finitos pero distintos"]
 >    E --> I["Al menos un límite lateral infinito"]
 >    F --> J["Límite no existe por oscilación"]
->    
 >    style A fill:#f44336,color:#fff
 >    style B fill:#4caf50,color:#fff
 >    style C fill:#ff9800,color:#fff
@@ -123,11 +120,9 @@
 > graph LR
 >    A["f(a)"] --> B["k"] --> C["f(b)"]
 >    D[a] --> E[c] --> F[b]
->    
 >    A -.-> D
 >    B -.-> E
 >    C -.-> F
->    
 >    style B fill:#4caf50,color:#fff
 >    style E fill:#4caf50,color:#fff
 > ```

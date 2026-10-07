@@ -25,7 +25,6 @@
 >     G --> H["Búsqueda a lo ancho (BFS)"]
 >     G --> I["Búsqueda a profundidad (DFS)"]
 >     G --> J["Árbol de expansión mínima (Prim)"]
-> 
 > ```
 
 ---
@@ -54,7 +53,6 @@
 >     v2 --> v5((v5))
 >     v3 --> v6((v6))
 >     v3 --> v7((v7))
-> 
 > ```
 > 
 > - $v_1$ está en el **nivel 0**

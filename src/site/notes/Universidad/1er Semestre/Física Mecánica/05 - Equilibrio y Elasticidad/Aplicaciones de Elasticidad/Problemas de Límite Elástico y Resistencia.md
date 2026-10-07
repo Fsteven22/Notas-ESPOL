@@ -95,7 +95,6 @@
 >     C -->|Deformación Plástica| D[Región Plástica]
 >     D -->|σ = σᵤ| E[Resistencia Última]
 >     E -->|Fractura| F[Falla del Material]
->     
 >     style A fill:#e8f5e8
 >     style B fill:#e1f5fe
 >     style C fill:#fff3e0

@@ -71,31 +71,26 @@ graph TB
 >         +metodoPublico()
 >         // Puede contener:
 >     }
->     
 >     class ClaseInternaMiembro {
 >         <<Inner Class>>
 >         Accede a toda la clase externa
 >         Requiere instancia de externa
 >     }
->     
 >     class ClaseInternaLocal {
 >         <<Local Class>>
 >         Solo en método/bloque
 >         Variables finales/effectively final
 >     }
->     
 >     class ClaseAnonima {
 >         <<Anonymous Class>>
 >         Sin nombre explícito
 >         Implementa/extiende al vuelo
 >     }
->     
 >     class ClaseInternaEstatica {
 >         <<Static Nested Class>>
 >         No accede a instancia externa
 >         Funciona como clase normal
 >     }
->     
 >     ClaseExterna *-- ClaseInternaMiembro
 >     ClaseExterna *-- ClaseInternaLocal
 >     ClaseExterna *-- ClaseAnonima
@@ -122,16 +117,13 @@ graph TB
 >     participant M as Main/Cliente
 >     participant E as ClaseExterna
 >     participant I as ClaseInterna
->     
 >     M->>E: new ClaseExterna()
 >     E->>E: Constructor ejecutado
 >     Note over E: Instancia externa creada
->     
 >     M->>E: externa.new ClaseInterna()
 >     E->>I: Constructor ejecutado
 >     Note over I: Instancia interna creada
 >     Note over I: Tiene referencia a externa
->     
 >     M->>I: interna.metodo()
 >     I->>E: Accede a miembros privados
 >     E-->>I: Datos compartidos
@@ -191,11 +183,9 @@ graph TB
 >     A --> C[Requiere instancia<br/>de externa]
 >     A --> D[Puede tener cualquier<br/>modificador]
 >     A --> E[Referencia implícita<br/>Externa.this]
->     
 >     B --> B1[Atributos privados]
 >     B --> B2[Métodos privados]
 >     B --> B3[Otros miembros internos]
->     
 >     style A fill:#e1ffe1
 >     style B fill:#e1f5ff
 > ```
@@ -266,7 +256,6 @@ graph TB
 >     B --> C[3. Usar externa.new<br/>ClaseInterna]
 >     C --> D[4. Instancia interna<br/>creada]
 >     D --> E[5. Vinculada a<br/>instancia externa]
->     
 >     style A fill:#fff4e1
 >     style C fill:#e1f5ff
 >     style E fill:#e1ffe1
@@ -443,13 +432,10 @@ graph TB
 >     A --> C[No puede tener<br/>modificadores estáticos]
 >     A --> D[Scope limitado<br/>al bloque]
 >     A --> E[Acceso a miembros<br/>de la externa]
->     
 >     B --> B1[final String x]
 >     B --> B2[int y - no modificada]
->     
 >     C --> C1[❌ No static]
 >     C --> C2[❌ No public/private<br/>en la definición]
->     
 >     style A fill:#fff4e1
 >     style B fill:#ffe1e1
 > ```
@@ -581,7 +567,6 @@ graph TB
 >     B --> C[Llaves: cuerpo<br/>de la clase]
 >     C --> D[Implementar<br/>métodos]
 >     D --> E[Punto y coma<br/>final;]
->     
 >     style A fill:#fff4e1
 >     style C fill:#e1f5ff
 >     style E fill:#ffe1e1
@@ -796,12 +781,10 @@ graph TB
 >     A --> C[❌ Solo 1 interfaz/clase]
 >     A --> D[❌Sin constructor<br/>personalizado]
 > A --> E[❌ Dificulta debugging]
-> 
 > B --> B1[Cada uso requiere<br/>nueva declaración]
 > C --> C1[No múltiples interfaces]
 > D --> D1[Solo constructor<br/>de la clase padre]
 > E --> E1[Nombres autogenerados<br/>Clase$1, Clase$2...]
-> 
 > style A fill:#ffe1e1
 > ```
 > 
@@ -877,10 +860,8 @@ graph TB
 > graph LR
 >     A[Clase Interna<br/>Normal] --> B[Requiere instancia<br/>de externa]
 >     A --> C[Acceso total a<br/>miembros de instancia]
->     
 >     D[Clase Interna<br/>Estática] --> E[Independiente de<br/>instancia externa]
 >     D --> F[Solo miembros<br/>estáticos de externa]
->     
 >     style A fill:#e1ffe1
 >     style D fill:#f0e1ff
 > ```
@@ -948,12 +929,10 @@ graph TB
 >     participant E as ClaseExterna
 >     participant I as Interna Normal
 >     participant S as Interna Estática
->     
 >     Note over M,S: Clase Interna Normal
 >     M->>E: externa = new Externa()
 >     M->>I: externa.new Interna()
 >     Note over I: Vinculada a externa
->     
 >     Note over M,S: Clase Interna Estática
 >     M->>S: new Externa.Interna()
 >     Note over S: Completamente independiente
@@ -1171,16 +1150,12 @@ graph TB
 > graph TD
 >     A{¿Necesitas un<br/>nombre?} -->|No| B{¿Método simple?}
 >     A -->|Sí| C{¿Acceso a<br/>instancia externa?}
->     
 >     B -->|Sí - 1 método| D[✅ Clase Anónima]
 >     B -->|No - múltiples| E[✅ Clase Local]
->     
 >     C -->|Sí| F{¿Scope<br/>específico?}
 >     C -->|No| G[✅ Clase Interna<br/>Estática]
->     
 >     F -->|Método| E
 >     F -->|Clase completa| H[✅ Clase Interna<br/>Miembro]
->     
 >     style D fill:#ffe1f5
 >     style E fill:#fff4e1
 >     style G fill:#f0e1ff

@@ -17,7 +17,6 @@
 >     A --> F[Ramificaciones, cortes y bloques]
 >     A --> D[Algoritmos recursivos]
 >     A --> E[De Θ a tiempo real]
-> 
 > ```
 
 ---

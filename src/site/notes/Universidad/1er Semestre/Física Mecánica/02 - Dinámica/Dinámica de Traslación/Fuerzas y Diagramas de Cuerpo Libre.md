@@ -91,7 +91,6 @@
 >    E --> F[6. Agregar fuerzas de campo peso]
 >    F --> G[7. Etiquetar cada fuerza claramente]
 >    G --> H[8. Verificar que no falten fuerzas]
->    
 >    style A fill:#e1f5fe
 >    style B fill:#f3e5f5
 >    style C fill:#fff3e0

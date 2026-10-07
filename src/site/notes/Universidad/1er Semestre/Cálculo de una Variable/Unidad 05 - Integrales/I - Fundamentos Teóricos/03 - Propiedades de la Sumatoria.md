@@ -26,12 +26,9 @@
 >     A[Sumatoria: Σ] --> B[Límite Superior<br/>b]
 >     A --> C[Límite Inferior<br/>i = a]
 >     A --> D[Término General<br/>fi]
->     
 >     E[Interpretación] --> F[Suma desde i = a<br/>hasta i = b]
 >     F --> G[Incluye ambos extremos]
->     
 >     H[Ejemplo] --> I[Σi=1 to 5 i² = 1² + 2² + 3² + 4² + 5²<br/>= 1 + 4 + 9 + 16 + 25 = 55]
->     
 >     style A fill:#e8f5e8
 >     style B fill:#fff3e0
 >     style C fill:#e1f5fe
@@ -117,7 +114,6 @@
 >     A[Sumas de Riemann] --> B["∫f(x)dx = lim n→∞ Σ f(x)Δx"]
 >     C[Sucesiones] --> D[Convergencia de series infinitas]
 >     E[Análisis] --> F[Aproximaciones numéricas]
->     
 >     style A fill:#e8f5e8
 >     style C fill:#fff3e0
 >     style E fill:#e1f5fe

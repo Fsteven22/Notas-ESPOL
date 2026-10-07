@@ -23,7 +23,6 @@
 >     E --> F[Preorden]
 >     E --> G[Entreorden]
 >     E --> H[Postorden]
-> 
 > ```
 
 ---

@@ -19,7 +19,6 @@
 >     B -->|Externo<br/>al circuito| D[Interferencia EMI/RFI]
 >     C --> E[Señal degradada]
 >     D --> E
-> 
 >     style C fill:#fff4e1
 >     style D fill:#ffe1e1
 >     style E fill:#e1f5ff
@@ -69,7 +68,6 @@
 >     A --> C[Capacitivo<br/>campos eléctricos]
 >     A --> D[Inductivo<br/>campos magnéticos]
 >     A --> E[Radiado<br/>ondas electromagnéticas]
-> 
 >     style A fill:#ffe1e1
 > ```
 > 

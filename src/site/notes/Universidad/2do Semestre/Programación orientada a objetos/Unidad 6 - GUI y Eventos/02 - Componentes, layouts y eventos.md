@@ -16,11 +16,9 @@
 >     A[GUI Completa] --> B[🧩 COMPONENTES<br/>Qué mostrar]
 >     A --> C[📐 LAYOUTS<br/>Cómo organizarlo]
 >     A --> D[⚡ EVENTOS<br/>Qué hacer cuando...]
->     
 >     B --> B1[Botones, campos,<br/>etiquetas...]
 >     C --> C1[FlowLayout,<br/>BorderLayout...]
 >     D --> D1[Clicks, teclas,<br/>acciones...]
->     
 >     style B fill:#e1ffe1
 >     style C fill:#e1f5ff
 >     style D fill:#fff4e1
@@ -755,7 +753,6 @@
 >     participant C as Componente<br/>(Event Source)
 >     participant L as Listener<br/>(Event Listener)
 >     participant H as Handler<br/>(Tu código)
->     
 >     U->>C: Acción (click, tecla)
 >     C->>C: Crear Event Object
 >     C->>L: Notificar listeners

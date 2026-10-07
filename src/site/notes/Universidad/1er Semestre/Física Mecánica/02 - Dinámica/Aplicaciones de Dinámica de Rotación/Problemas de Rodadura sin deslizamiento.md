@@ -99,23 +99,17 @@
 >     A[Objeto Rodando] --> B[Fuerzas Externas]
 >     A --> C[Fuerzas de Contacto]
 >     A --> D[Movimiento Resultante]
->     
 >     B --> E[Peso Mg]
 >     B --> F[Fuerzas Aplicadas]
 >     B --> G[Componentes Gravitacionales]
->     
 >     C --> H[Normal N]
 >     C --> I[Fricción Estática f_s]
->     
 >     D --> J[Traslación CM]
 >     D --> K[Rotación sobre CM]
->     
 >     I --> L[Previene Deslizamiento]
 >     I --> M[Genera Torque]
->     
 >     J --> N[v_cm = ωR]
 >     K --> N
->     
 >     style A fill:#e1f5fe
 >     style B fill:#f3e5f5
 >     style C fill:#e8f5e8

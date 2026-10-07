@@ -9,7 +9,7 @@
 
 > [!info] 💡 ¿Por Qué Importa?
 >
-> (1-2 líneas: qué problema resuelve este tema.)
+> (Qué problema resuelve + dónde se evalúa/aplica. No adelantar definiciones.)
 >
 > **Analogía del mundo real:** (compara con algo cotidiano)
 >
@@ -30,6 +30,18 @@ graph TB
 
 ---
 
+## 📋 Definiciones Formales
+
+> [!note] 📋 Definición 1 — (Nombre)
+>
+> (Enunciado preciso con notación. Numerar para poder citarla desde otras notas.)
+>
+> [!note] 📋 Definición 2 — (Nombre)
+>
+> (Enunciado preciso. Solo numerar en notas teóricas; en aplicadas basta 1-2.)
+
+---
+
 ## 🧵 Desarrollo
 
 ### 🎭 (Subtema 1)
@@ -44,26 +56,64 @@ graph TB
 
 ---
 
-## ⚠️ Problemas Comunes y Soluciones
+## 🛠️ Método / Procedimiento
 
-> [!danger] ❌ Error: (nombre)
+> [!note] 📋 Procedimiento General
 >
-> **Síntomas:** (cómo se ve)
+> 1. (Paso verificable)
+> 2. (Paso verificable)
+> 3. (Criterio de salida: ¿cómo sé que quedó bien?)
 >
-> **Solución:**
->
-> - (paso 1)
-> - (paso 2)
+> **Principio clave:** (1 frase que resume el método.)
 
 ---
 
-## 🎯 Mejores Prácticas
+## 🎨 Ejemplos Trabajados
 
-> [!tip] 🏆 Checklist
+> [!example] 🟢 Ejemplo 1 — (Caso con datos concretos)
 >
-> **1. (Regla)**
+> | Paso | Acción |
+> |---|---|
+> | (paso) | (resultado) |
 >
-> - (detalle)
+> (Demostración completa paso a paso SOLO si el curso la exige; si no, resultado + 1 ejemplo.)
+
+---
+
+## 📋 Tablas Comparativas
+
+> [!note] 📋 (Nombre de la comparación)
+>
+> | Aspecto | Opción A | Opción B |
+> |---|---|---|
+> | (criterio) | (valor) | (valor) |
+
+---
+
+## ⚠️ Errores Comunes y Principios Lógicos
+
+> [!warning] ⚠️ Errores Frecuentes
+>
+> - **(Nombre del error):** síntoma → solución en 1 línea.
+> - **(Nombre del error):** síntoma → solución en 1 línea.
+
+---
+
+## 🎯 Metas de Aprendizaje
+
+> [!note] 📋 Nivel Básico
+>
+> - [ ] (Puedo definir / identificar sin mirar.)
+> - [ ] (Reconozco el concepto en un ejemplo.)
+
+> [!note] 📋 Nivel Intermedio
+>
+> - [ ] (Aplico el método a un caso nuevo.)
+> - [ ] (Comparo variantes y elijo bien.)
+
+> [!note] 📋 Nivel Avanzado
+>
+> - [ ] (Justifico decisiones / detecto errores en casos ajenos.)
 
 ---
 
@@ -108,13 +158,16 @@ mindmap
 >
 > - Mapa de contenido: [[<% tp.system.prompt("Nota mapa de contenido") %>\|<% tp.system.prompt("Nota mapa de contenido") %>]]
 > - Índice: [[<% tp.system.prompt("Nota índice de unidad") %>\|<% tp.system.prompt("Nota índice de unidad") %>]]
+> - Anterior: [[<% tp.system.prompt("Nota anterior (vacío si es la 1)") %>\|<% tp.system.prompt("Nota anterior (vacío si es la 1)") %>]]
+> - Siguiente: [[<% tp.system.prompt("Nota siguiente (vacío si es la última)") %>\|<% tp.system.prompt("Nota siguiente (vacío si es la última)") %>]]
 > - Syllabus: [[<% tp.system.prompt("Nota bienvenida/syllabus") %>\|<% tp.system.prompt("Nota bienvenida/syllabus") %>]]
+> - Base MOOC (si aplica): [[<% tp.system.prompt("Nota MOOC base (vacío si no aplica)") %>\|<% tp.system.prompt("Nota MOOC base (vacío si no aplica)") %>]]
 
 ## 📚 Referencias
 
-> [!quote] 📖 Fuentes
+> [!quote] 📖 Fuentes Consultadas
 >
-> - (Libro, cap. X / diapositiva docente / URL verificada)
+> - (Libro, cap. X §Y / diapositiva docente / URL verificada — citar exacto, no de memoria)
 
 ---
 

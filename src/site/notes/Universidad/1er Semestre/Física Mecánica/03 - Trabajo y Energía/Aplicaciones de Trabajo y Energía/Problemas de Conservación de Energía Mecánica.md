@@ -70,7 +70,6 @@
 >     D --> E[Aplicar Conservación: E₁ = E₂]
 >     E --> F[Resolver para la Incógnita]
 >     F --> G[Verificar Resultado Físicamente]
->     
 >     style A fill:#e1f5fe
 >     style B fill:#f3e5f5
 >     style C fill:#fff3e0

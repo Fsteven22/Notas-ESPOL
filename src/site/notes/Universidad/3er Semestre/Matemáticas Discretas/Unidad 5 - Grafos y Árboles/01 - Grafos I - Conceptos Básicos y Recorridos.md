@@ -25,7 +25,6 @@
 >     B --> D["Tipos: simples, completos, bipartitos, ponderados"]
 >     B --> E["Recorridos: Euler y Hamilton"]
 >     B --> F["Conectividad"]
-> 
 > ```
 
 ---
@@ -129,7 +128,6 @@
 >     v2 --- v3
 >     v2 --- v4
 >     v3 --- v4
-> 
 > ```
 > 
 > $K_4$ tiene $4$ vértices y $\binom{4}{2} = 6$ aristas — todos los pares están conectados.
@@ -152,7 +150,6 @@
 >     v1 --- v5
 >     v2 --- v4
 >     v3 --- v5
-> 
 > ```
 > 
 > **No bipartito** (contiene un ciclo de longitud impar):
@@ -164,7 +161,6 @@
 >     v3 --- v4
 >     v4 --- v5
 >     v5 --- v1
-> 
 > ```
 > 
 > $K_4$ tampoco es bipartito — inténtalo probar por qué.
@@ -250,7 +246,6 @@
 >     B --- C
 >     B --- D((D))
 >     C --- D
-> 
 > ```
 > 
 > Al modelar el problema como grafo (vértices = regiones de tierra, aristas = puentes), se reduce a encontrar un **ciclo de Euler**. Como algunos vértices tienen grado impar, **el problema no tiene solución** — este fue precisamente el resultado que Euler demostró.
@@ -275,7 +270,6 @@
 >     v2 --- v5
 >     v3 --- v4
 >     v3 --- v5
-> 
 > ```
 > 
 > El ciclo $(v_1, v_2, v_5, v_3, v_4, v_1)$ es un **ciclo hamiltoniano** — pasa por todos los vértices exactamente una vez y regresa al inicio. El grafo tiene además varios caminos hamiltonianos posibles.

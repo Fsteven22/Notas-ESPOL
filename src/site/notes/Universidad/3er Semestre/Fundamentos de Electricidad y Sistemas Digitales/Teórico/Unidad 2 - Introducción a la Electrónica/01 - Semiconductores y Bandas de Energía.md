@@ -20,7 +20,6 @@
 >     B --> D[Transistores]
 >     C --> C1[Rectificación<br/>Regulación<br/>Emisión de luz]
 >     D --> D1[Switch<br/>Amplificador]
-> 
 >     style B fill:#e1f5ff
 >     style C fill:#e1ffe1
 >     style D fill:#fff4e1
@@ -86,7 +85,6 @@
 >         C2[Se solapan]
 >         C3[Banda de valencia]
 >     end
-> 
 >     style A2 fill:#ffe1e1
 >     style B2 fill:#fff4e1
 >     style C2 fill:#e1ffe1
@@ -124,7 +122,6 @@
 >     A --> C[Extrínseco<br/>Dopado]
 >     C --> D[Tipo N<br/>Dopante: P o Sb<br/>Portador: e⁻]
 >     C --> E[Tipo P<br/>Dopante: B o Ga<br/>Portador: h⁺]
-> 
 >     style B fill:#e1f5ff
 >     style D fill:#ffe1e1
 >     style E fill:#e1ffe1

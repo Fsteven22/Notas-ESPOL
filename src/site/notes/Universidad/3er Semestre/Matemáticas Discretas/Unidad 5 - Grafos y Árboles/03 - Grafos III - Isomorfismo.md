@@ -24,7 +24,6 @@
 >     A --> D["Invariantes"]
 >     D --> E["Descartar isomorfismo rápido"]
 >     A --> F["Certificar isomorfismo: construir biyección"]
-> 
 > ```
 
 ---

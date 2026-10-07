@@ -26,8 +26,6 @@
 >     C --> E{Tipo de raíces}
 >     E -->|Distintas r₁ ≠ r₂| F[aₙ = b·r₁ⁿ + c·r₂ⁿ]
 >     E -->|Raíz doble r| G[aₙ = b·rⁿ + c·n·rⁿ]
-> 
-> 
 > ```
 > 
 > |Tema|Idea central|

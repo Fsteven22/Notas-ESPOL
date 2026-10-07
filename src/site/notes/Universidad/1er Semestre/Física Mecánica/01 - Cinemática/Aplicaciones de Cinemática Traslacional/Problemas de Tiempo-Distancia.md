@@ -210,13 +210,11 @@
 >         B --> C[Tramo 3: d₃, v₃, t₃]
 >         C --> D[Resultados Totales]
 >     end
->     
 >     subgraph "Verificaciones"
 >         E[Unidades Consistentes] --> F[Datos Completos]
 >         F --> G[Cálculo de v̄]
 >         G --> H{¿Es razonable?}
 >     end
->     
 >     style D fill:#90EE90
 >     style H fill:#FFB6C1
 > ```

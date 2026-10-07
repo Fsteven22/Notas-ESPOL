@@ -24,13 +24,10 @@
 >     A --> C[Modelado de Sucesiones Clásicas]
 >     A --> D[Método Iterativo de Resolución]
 >     A --> E[Torre de Hanoi]
-> 
 >     C --> F[Fibonacci fₙ = fₙ₋₁ + fₙ₋₂]
 >     C --> G[Interés Compuesto Aₙ = 1,12·Aₙ₋₁]
 >     D --> H[Fórmula explícita por sustitución]
 >     E --> I[cₙ = 2cₙ₋₁ + 1 solución: 2ⁿ - 1]
-> 
-> 
 > ```
 > 
 > |Tema|Idea central|
@@ -101,7 +98,6 @@
 >     P4{"¿Se reconoce el patrón?"}
 >     P4 -->|No| P3
 >     P4 -->|Sí| P5["4️⃣ Generalizar en función de n ✅"]
-> 
 > ```
 > 
 > ### 🧮 Ejemplo resuelto — interés compuesto

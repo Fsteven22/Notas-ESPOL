@@ -84,12 +84,10 @@
 >     A[Zona Elástica] -->|Límite de Proporcionalidad| B[Zona de Fluencia]
 >     B -->|Límite Elástico| C[Zona Plástica]
 >     C -->|Esfuerzo Máximo| D[Zona de Fractura]
->     
 >     A --> E[Ley de Hooke σ = E·ε]
 >     B --> F[Inicio de deformación permanente]
 >     C --> G[Deformación irreversible]
 >     D --> H[Ruptura del material]
->     
 >     style A fill:#e8f5e8
 >     style B fill:#fff3cd
 >     style C fill:#f8d7da

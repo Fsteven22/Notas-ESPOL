@@ -68,9 +68,7 @@
 >     A[Motor] -->|ω₁, T₁| B[Engranaje 1]
 >     B -->|Transmisión| C[Engranaje 2]
 >     C -->|ω₂, T₂| D[Carga]
->     
 >     E[Relación: i = ω₁/ω₂ = N₂/N₁ = T₂/T₁]
->     
 >     style A fill:#e8f5e8
 >     style B fill:#fff2e8
 >     style C fill:#fff2e8

@@ -157,7 +157,6 @@
 >         A1[t=0: xA=0, xB=d] --> B1[Las líneas se cruzan]
 >         B1 --> C1[t=encuentro: xA=xB]
 >     end
->     
 >     subgraph "Persecución"
 >         A2[t=0: Ventaja inicial] --> B2[Móvil rápido gana terreno]
 >         B2 --> C2[t=alcance: Posiciones iguales]

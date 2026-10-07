@@ -38,17 +38,13 @@
 >     A["Dos funciones f(x) y g(x)"] --> B["Encontrar intersecciones"]
 >     B --> C["f(x) = g(x)"]
 >     C --> D["Puntos de intersección: x₁, x₂, ..."]
->     
 >     D --> E["Dividir en intervalos"]
 >     E --> F["En cada intervalo: ¿f(x) ≥ g(x)?"]
->     
 >     F -->|Sí| G["A = ∫[f(x) - g(x)]dx"]
 >     F -->|No| H["A = ∫[g(x) - f(x)]dx"]
->     
 >     G --> I["Sumar áreas de todos los intervalos"]
 >     H --> I
 >     I --> J["Área total"]
->     
 >     style J fill:#45b7d1
 >     style I fill:#96ceb4
 > ```
@@ -148,20 +144,15 @@
 > ```mermaid
 > graph TD
 >     A["Región entre curvas"] --> B{"¿Cómo están definidas las funciones?"}
->     
 >     B -->|"y = f(x)"| C["Candidato: integrar respecto a x"]
 >     B -->|"x = g(y)"| D["Candidato: integrar respecto a y"]
 >     B -->|"Ambas formas"| E["Elegir la más simple"]
->     
 >     C --> F{"¿Muchos cruces horizontales?"}
 >     D --> G{"¿Muchos cruces verticales?"}
->     
 >     F -->|Sí| H["Considerar integración en y"]
 >     F -->|No| I["Integrar en x"]
->     
 >     G -->|Sí| J["Considerar integración en x"]
 >     G -->|No| K["Integrar en y"]
->     
 >     style I fill:#96ceb4
 >     style K fill:#96ceb4
 > ```

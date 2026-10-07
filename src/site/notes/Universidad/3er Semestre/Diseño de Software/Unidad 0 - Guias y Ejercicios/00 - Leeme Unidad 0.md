@@ -14,6 +14,8 @@
 
 <iframe src="/img/user/Universidad/3er%20Semestre/Dise%C3%B1o%20de%20Software/Unidad%200%20-%20Guias%20y%20Ejercicios/01bDisenoSoftware.pdf" width="100%" height="900px" title="01bDisenoSoftware.pdf" style="border:1px solid #ccc;"></iframe>
 
+<iframe src="/img/user/Universidad/3er%20Semestre/Dise%C3%B1o%20de%20Software/Unidad%200%20-%20Guias%20y%20Ejercicios/02bParadigmasDise%C3%B1o.pdf" width="100%" height="900px" title="02bParadigmasDiseño.pdf" style="border:1px solid #ccc;"></iframe>
+
 ## 📎 Syllabus y libros (<20MB)
 
 <iframe src="/img/user/Universidad/3er%20Semestre/Dise%C3%B1o%20de%20Software/Unidad%200%20-%20Guias%20y%20Ejercicios/SPA-SyllabusEUR_ACE-CCPG1042.pdf" width="100%" height="900px" title="SPA-SyllabusEUR_ACE-CCPG1042.pdf" style="border:1px solid #ccc;"></iframe>
@@ -27,6 +29,10 @@
 ## 📕 Libro pesado (71.6MB, supera el límite de 20MB del Garden)
 
 - `01_Software Engineering A Practitioners Approach (Roger S. Pressman Bruce R. Maxim) (z-lib.org).pdf` — no se puede embeber; conseguir link externo (Drive) o consultar local.
+
+## 📕 Clean Architecture — R. C. Martin (6.4MB, solo local por copyright)
+
+- `01(Robert C. Martin Series) Robert C. Martin - Clean Architecture_ A Craftsman's Guide to Software Structure and De.pdf` — lectura asignada Control 01: caps. 3, 4 y 6. Integrado en [[Universidad/3er Semestre/Diseño de Software/Unidad 1 - Introducción al diseño/03 - Paradigmas de programación y diseño\|U1-03]] y [[Unidad 1 - Introducción al diseño/Control 01 - Repaso Paradigmas|repaso].
 
 ---
 

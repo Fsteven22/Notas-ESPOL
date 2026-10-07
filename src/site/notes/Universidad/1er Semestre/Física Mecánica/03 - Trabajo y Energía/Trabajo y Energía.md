@@ -166,12 +166,10 @@
 >     participant N as 📏 Normal  
 >     participant G as 🌍 Gravedad
 >     participant Fr as 🔥 Fricción
->     
 >     F->>F: W_F = Fd cos 30° = +17.32 J
 >     N->>N: W_N = 0 J (θ = 90°)
 >     G->>G: W_g = 0 J (θ = 90°)
 >     Fr->>Fr: W_f = -55.86 J (θ = 180°)
->     
 >     Note over F,Fr: W_neto = -38.54 J
 > ```
 > 

@@ -78,7 +78,6 @@
 >     E -->|Elástica| F[Conserva K también]
 >     E -->|Inelástica| G[No conserva K]
 >     E -->|Perfectamente Inelástica| H[v₁f = v₂f]
->     
 >     style A fill:#e1f5fe
 >     style B fill:#f3e5f5
 >     style C fill:#fff3e0

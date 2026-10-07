@@ -69,7 +69,6 @@
 >    E --> F[🔗 Aplicar Condición: a = αR]
 >    F --> G[🧮 Resolver Sistema]
 >    G --> H[✅ Obtener a, f, etc.]
->    
 >    style A fill:#e1f5fe
 >    style H fill:#c8e6c9
 >    style F fill:#fff3e0
@@ -141,7 +140,6 @@
 >    E --> F[🔗 Usar Condición: v = ωR]
 >    F --> G[🧮 Resolver para Incógnita]
 >    G --> H[✅ Obtener v, h, etc.]
->    
 >    style A fill:#e1f5fe
 >    style H fill:#c8e6c9
 >    style F fill:#fff3e0

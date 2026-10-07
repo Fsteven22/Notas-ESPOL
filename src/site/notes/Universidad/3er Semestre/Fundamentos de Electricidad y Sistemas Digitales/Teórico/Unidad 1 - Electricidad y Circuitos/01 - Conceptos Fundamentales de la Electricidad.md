@@ -21,7 +21,6 @@
 >     A[Fuente de<br/>Energía 🔋] -->|Voltaje V| B[Conductor]
 >     B -->|Corriente I| C[Carga<br/>Resistiva]
 >     C -->|Retorno| A
-> 
 >     style A fill:#fff4e1
 >     style B fill:#e1f5ff
 >     style C fill:#e1ffe1
@@ -49,7 +48,6 @@
 >     A --> C[Electrones ⊖]
 >     B --> D[Protones ⊕]
 >     B --> E[Neutrones]
-> 
 >     style A fill:#f5e1ff
 >     style C fill:#e1f5ff
 >     style D fill:#ffe1e1
@@ -121,7 +119,6 @@
 > graph LR
 >     A[⊕ Carga +] -->|Repulsión| B[⊕ Carga +]
 >     C[⊕ Carga +] -->|Atracción| D[⊖ Carga −]
-> 
 >     style A fill:#ffe1e1
 >     style B fill:#ffe1e1
 >     style C fill:#ffe1e1
@@ -216,10 +213,8 @@
 > graph LR
 >     A[Corriente<br/>Eléctrica] --> B[DC<br/>Corriente Continua]
 >     A --> C[AC<br/>Corriente Alterna]
-> 
 >     B --> D[Flujo constante<br/>en un sentido]
 >     C --> E[Flujo que cambia<br/>de dirección periódicamente]
-> 
 >     style B fill:#e1f5ff
 >     style C fill:#fff4e1
 >     style D fill:#e1f5ff

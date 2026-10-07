@@ -71,11 +71,9 @@ graph TB
 >     EDT --> R[Renderizado]
 >     EDT --> L[Listeners]
 >     EDT --> A[Actualizaciones UI]
->     
 >     W1[Worker 1] -.No puede<br/>tocar UI.-> EDT
 >     W2[Worker 2] -.No puede<br/>tocar UI.-> EDT
 >     W3[Worker 3] -.No puede<br/>tocar UI.-> EDT
->     
 >     style EDT fill:#e1f5ff
 >     style W1 fill:#fff4e1
 >     style W2 fill:#fff4e1
@@ -218,7 +216,6 @@ graph TB
 >     participant U as Usuario
 >     participant EDT as Event Dispatch Thread
 >     participant UI as Interfaz
->     
 >     U->>EDT: Click en botón
 >     EDT->>EDT: Ejecutar listener
 >     Note over EDT: ⚠️ EDT bloqueado durante 5 segundos
@@ -259,14 +256,12 @@ graph TB
 > graph TB
 >     EDT[Event Dispatch Thread<br/>EDT]
 >     WT[Worker Thread<br/>Background]
->     
 >     EDT --> |1. execute| SW[SwingWorker]
 >     SW --> |2. doInBackground| WT
 >     WT --> |3. publish| EDT
 >     EDT --> |4. process| UI[Actualizar UI]
 >     WT --> |5. done| EDT
 >     EDT --> |6. get| Result[Obtener resultado]
->     
 >     style EDT fill:#e1f5ff
 >     style WT fill:#fff4e1
 >     style SW fill:#e1ffe1
@@ -370,17 +365,14 @@ graph TB
 >     participant UI as UI (EDT)
 >     participant SW as SwingWorker
 >     participant BG as Background Thread
->     
 >     UI->>SW: execute()
 >     SW->>BG: Iniciar doInBackground()
->     
 >     loop Procesamiento
 >         BG->>BG: Trabajo pesado
 >         BG->>SW: publish(datos)
 >         SW->>UI: process(datos)
 >         UI->>UI: Actualizar componentes
 >     end
->     
 >     BG->>SW: return resultado
 >     SW->>UI: done()
 >     UI->>SW: get()
@@ -564,7 +556,6 @@ graph TB
 >     WT[Worker Thread] -->|invokeLater| Q[Cola EDT]
 >     Q --> EDT[Event Dispatch Thread]
 >     EDT --> UI[Actualizar UI]
->     
 >     style WT fill:#fff4e1
 >     style EDT fill:#e1f5ff
 > ```
@@ -652,12 +643,10 @@ graph TB
 >     participant Q as Cola EDT
 >     participant EDT as Event Dispatch Thread
 >     participant UI as Componente UI
->     
 >     WT->>WT: Hacer trabajo
 >     WT->>Q: invokeLater(actualizar)
 >     Note over WT: ✅ Continúa inmediatamente
 >     WT->>WT: Más trabajo
->     
 >     EDT->>Q: Procesar cola
 >     Q->>EDT: Ejecutar actualizar
 >     EDT->>UI: Modificar componente
@@ -725,7 +714,6 @@ graph TB
 >     B -->|No| D{¿EDT ocupado?}
 >     D -->|Sí| E[⏳ Worker espera]
 >     D -->|No| F[✅ Ejecuta inmediatamente]
->     
 >     style C fill:#ffe1e1
 >     style E fill:#fff4e1
 >     style F fill:#e1ffe1
@@ -1197,7 +1185,6 @@ graph TB
 > sequenceDiagram
 >     participant EDT
 >     participant Q as Cola EDT
->     
 >     Note over EDT: EDT procesando evento
 >     EDT->>Q: invokeAndWait(tarea)
 >     Q->>Q: Encolar tarea
@@ -1579,13 +1566,10 @@ mindmap
 > graph TD
 >     A{¿Cuánto tarda<br/>la operación?} --> B[< 100ms]
 >     A --> C[> 100ms]
->     
 >     B --> D[✅ Ejecutar en EDT<br/>directamente]
 >     C --> E{¿Necesitas<br/>actualizar UI?}
->     
 >     E -->|Sí| F[✅ SwingWorker]
 >     E -->|No| G[⚠️ Thread simple<br/>+ invokeLater]
->     
 >     style D fill:#e1ffe1
 >     style F fill:#e1ffe1
 >     style G fill:#fff4e1

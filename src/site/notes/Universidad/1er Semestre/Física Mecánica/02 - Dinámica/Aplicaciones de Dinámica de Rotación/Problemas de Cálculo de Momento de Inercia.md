@@ -309,7 +309,6 @@
 >     D -->|4| E[Aplicar Steiner a cada uno]
 >     E -->|5| F[Sumar todos los momentos]
 >     F -->|6| G[Verificación física]
->     
 >     style A fill:#e1f5fe
 >     style B fill:#f3e5f5
 >     style C fill:#fff3e0
