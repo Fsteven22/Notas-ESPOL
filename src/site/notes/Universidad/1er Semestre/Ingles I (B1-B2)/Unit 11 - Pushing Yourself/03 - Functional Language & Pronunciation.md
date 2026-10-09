@@ -30,11 +30,9 @@
 >     A[Vocabulary] --> B[Grammar]
 >     B --> C[Functional Language]
 >     C --> D[Real Conversations]
->     
 >     C --> E[Talking about<br/>your goals]
 >     C --> F[Motivating<br/>others]
 >     C --> G[Sounding<br/>natural]
->     
 >     style C fill:#e1ffe1
 >     style D fill:#fff4e1
 >     style E fill:#e1f5ff
@@ -685,9 +683,7 @@ mindmap
 >     A[Vocabulary] --> B[Grammar]
 >     B --> C[Functional Language]
 >     C --> D[Reading/Writing/<br/>Speaking]
->     
 >     D --> E[REAL English<br/>Mastery]
->     
 >     style C fill:#e1ffe1
 >     style D fill:#fff4e1
 >     style E fill:#e1f5ff

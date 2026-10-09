@@ -149,27 +149,27 @@ graph TD
 
 > [!quote]+ Enlaces a Otras Notas
 > 
-> - [[Hidrostática - Fundamentos\|Hidrostática - Fundamentos]]
-> - [[Presión en Fluidos\|Presión en Fluidos]]
-> - [[Ecuación Fundamental de la Hidrostática\|Ecuación Fundamental de la Hidrostática]]
-> - [[Densidad y Peso Específico\|Densidad y Peso Específico]]
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrostática/El Principio de Arquímedes y Flotación\|El Principio de Arquímedes y Flotación]]
+> - [[Hidrostática - Fundamentos]]
+> - [[Presión en Fluidos]]
+> - [[Ecuación Fundamental de la Hidrostática]]
+> - [[Densidad y Peso Específico]]
+> - [[El Principio de Arquímedes y Flotación]]
 
 ## Notas Complementarias Recomendadas
 
 > [!info]+ Prerrequisitos
 > 
-> - [[Conceptos de Presión\|Conceptos de Presión]]
-> - [[Propiedades de los Fluidos\|Propiedades de los Fluidos]]
-> - [[Estática de Fluidos\|Estática de Fluidos]]
-> - [[Unidades de Presión\|Unidades de Presión]]
+> - [[Conceptos de Presión]]
+> - [[Propiedades de los Fluidos]]
+> - [[Estática de Fluidos]]
+> - [[Unidades de Presión]]
 >
 > [!success]+ Para Profundizar
 > 
-> - [[Hidrodinámica - Ecuación de Bernoulli\|Hidrodinámica - Ecuación de Bernoulli]]
-> - [[Aplicaciones Industriales de Pascal\|Aplicaciones Industriales de Pascal]]
-> - [[Sistemas Oleohidráulicos\|Sistemas Oleohidráulicos]]
-> - [[Transmisión de Potencia Hidráulica\|Transmisión de Potencia Hidráulica]]
+> - [[Hidrodinámica - Ecuación de Bernoulli]]
+> - [[Aplicaciones Industriales de Pascal]]
+> - [[Sistemas Oleohidráulicos]]
+> - [[Transmisión de Potencia Hidráulica]]
 
 ---
 

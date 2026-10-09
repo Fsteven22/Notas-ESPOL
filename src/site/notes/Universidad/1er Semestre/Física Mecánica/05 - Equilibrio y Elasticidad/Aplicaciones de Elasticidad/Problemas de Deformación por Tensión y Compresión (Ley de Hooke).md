@@ -322,19 +322,19 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Elasticidad\|Elasticidad]] - Fundamentos teóricos generales
-> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Equilibrio\|Equilibrio]] - Análisis de fuerzas y momentos
-> - [[Fundamentos de Física Mecánica\|Fundamentos de Física Mecánica]] - Base matemática
-> - [[Aplicaciones de Equilibrio\|Aplicaciones de Equilibrio]] - Casos prácticos
+> - [[Elasticidad]] - Fundamentos teóricos generales
+> - [[Equilibrio]] - Análisis de fuerzas y momentos
+> - [[Fundamentos de Física Mecánica]] - Base matemática
+> - [[Aplicaciones de Equilibrio]] - Casos prácticos
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para análisis de fuerzas en 3D
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Sistema de unidades
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Conocimientos Previos a las Prácticas\|Conocimientos Previos a las Prácticas]] - Conceptos básicos
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Fuerzas y Diagramas de Cuerpo Libre\|Fuerzas y Diagramas de Cuerpo Libre]] - Análisis de cargas
+> - [[Vectores]] - Para análisis de fuerzas en 3D
+> - [[Unidades y Magnitudes Físicas]] - Sistema de unidades
+> - [[Conocimientos Previos a las Prácticas]] - Conceptos básicos
+> - [[Fuerzas y Diagramas de Cuerpo Libre]] - Análisis de cargas
 
 ---
 

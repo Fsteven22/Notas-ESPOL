@@ -27,14 +27,11 @@
 > graph TD
 >     A[Talking about Goals] --> B[Phrasal Verbs]
 >     A --> C[Unreal Conditionals]
->     
 >     B --> D["I'm working on<br/>improving my skills"]
 >     C --> E["If I were braver,<br/>I would take more risks"]
->     
 >     D --> F[Real Actions]
 >     E --> F
 >     F --> G[Express yourself<br/>naturally about<br/>pushing yourself]
->     
 >     style B fill:#e1ffe1
 >     style C fill:#fff4e1
 >     style G fill:#e1f5ff
@@ -72,9 +69,7 @@
 > ```mermaid
 > graph LR
 >     A[VERB:<br/>give] --> B[Meaning:<br/>dar]
->     
 >     C[PHRASAL VERB:<br/>give + up] --> D[NEW Meaning:<br/>rendirse]
->     
 >     style A fill:#ffe1e1
 >     style C fill:#e1ffe1
 >     style D fill:#fff4e1
@@ -328,11 +323,8 @@
 > ```mermaid
 > graph LR
 >     A[IF clause<br/>Past Simple] --> B[Main clause<br/>would + base verb]
->     
 >     C["If I were rich"] --> D["I would travel the world"]
->     
 >     E[Hypothetical<br/>condition] --> F[Hypothetical<br/>result]
->     
 >     style A fill:#ffe1e1
 >     style B fill:#e1ffe1
 >     style C fill:#fff4e1
@@ -841,7 +833,6 @@ mindmap
 >     A[Vocabulary:<br/>Goals & Success] --> B[Grammar:<br/>Phrasal Verbs &<br/>Conditionals]
 >     B --> C[Functional Language:<br/>Motivation &<br/>Advice]
 >     C --> D[Real Use:<br/>Conversations<br/>about goals]
->     
 >     style A fill:#e1ffe1
 >     style B fill:#fff4e1
 >     style C fill:#e1f5ff

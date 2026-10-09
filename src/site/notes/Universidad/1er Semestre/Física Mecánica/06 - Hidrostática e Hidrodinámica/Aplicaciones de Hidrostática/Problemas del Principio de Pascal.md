@@ -99,15 +99,12 @@
 > graph TD
 >     A[Cilindro Maestro A₁] -->|Presión P| B[Fluido Hidráulico]
 >     B -->|Misma Presión P| C[Cilindro Esclavo A₂]
->     
 >     D[Fuerza F₁] --> A
 >     A -->|Desplazamiento d₁| E[Volumen V₁]
->     
 >     C --> F[Fuerza F₂ = F₁ × A₂/A₁]
 >     G[Desplazamiento d₂ = d₁ × A₁/A₂] --> C
 >     E -->|V₁ = V₂| H[Volumen V₂]
 >     H --> G
->     
 >     style A fill:#e3f2fd
 >     style B fill:#e8f5e8
 >     style C fill:#fff3e0
@@ -360,19 +357,19 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrostática/El Principio de Pascal\|El Principio de Pascal]] - Fundamentos teóricos
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Aplicaciones de Hidrostática/Problemas de Presión en un Fluido\|Problemas de Presión en un Fluido]] - Base hidrostática
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Fundamentos de Hidrostática e Hidrodinámica/Presión y Densidad\|Presión y Densidad]] - Propiedades de fluidos
-> - [[Fundamentos de Hidrostática e Hidrodinámica\|Fundamentos de Hidrostática e Hidrodinámica]] - Principios generales
+> - [[El Principio de Pascal]] - Fundamentos teóricos
+> - [[Problemas de Presión en un Fluido]] - Base hidrostática
+> - [[Presión y Densidad]] - Propiedades de fluidos
+> - [[Fundamentos de Hidrostática e Hidrodinámica]] - Principios generales
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Sistema de unidades
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para análisis de fuerzas
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Fuerzas y Diagramas de Cuerpo Libre\|Fuerzas y Diagramas de Cuerpo Libre]] - Equilibrio de fuerzas
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Trabajo y Energía\|Trabajo y Energía]] - Conservación de energía
+> - [[Unidades y Magnitudes Físicas]] - Sistema de unidades
+> - [[Vectores]] - Para análisis de fuerzas
+> - [[Fuerzas y Diagramas de Cuerpo Libre]] - Equilibrio de fuerzas
+> - [[Trabajo y Energía]] - Conservación de energía
 
 ---
 

@@ -208,11 +208,11 @@ flowchart LR
 
 > [!quote] 🔗 **Enlaces a Otras Notas**
 > 
-> - [[Principio de Arquímedes\|Principio de Arquímedes]] - Flotación y empuje
-> - [[Ecuación de Continuidad\|Ecuación de Continuidad]] - Conservación de masa en fluidos
-> - [[Principio de Bernoulli\|Principio de Bernoulli]] - Energía en fluidos en movimiento
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrostática/Tensión Superficial\|Tensión Superficial]] - Efectos de superficie en líquidos
-> - [[Viscosidad\|Viscosidad]] - Resistencia interna de fluidos
+> - [[Principio de Arquímedes]] - Flotación y empuje
+> - [[Ecuación de Continuidad]] - Conservación de masa en fluidos
+> - [[Principio de Bernoulli]] - Energía en fluidos en movimiento
+> - [[Tensión Superficial]] - Efectos de superficie en líquidos
+> - [[Viscosidad]] - Resistencia interna de fluidos
 
 ## Notas Recomendadas 📖
 
@@ -220,15 +220,15 @@ flowchart LR
 > 
 > ### Prerrequisitos:
 > 
-> - [[Vectores y Escalares\|Vectores y Escalares]] - Base matemática
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]] - Conceptos de fuerza
-> - [[Sistema Internacional de Unidades\|Sistema Internacional de Unidades]] - Unidades y conversiones
+> - [[Vectores y Escalares]] - Base matemática
+> - [[Leyes de Newton]] - Conceptos de fuerza
+> - [[Sistema Internacional de Unidades]] - Unidades y conversiones
 > 
 > ### Temas Complementarios:
 > 
-> - [[Manómetros y Barómetros\|Manómetros y Barómetros]] - Instrumentos de medición
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrostática/Teorema de los Vasos Comunicantes\|Teorema de los Vasos Comunicantes]] - Aplicaciones de presión hidrostática
-> - [[Prensa Hidráulica\|Prensa Hidráulica]] - Aplicaciones del principio de Pascal
+> - [[Manómetros y Barómetros]] - Instrumentos de medición
+> - [[Teorema de los Vasos Comunicantes]] - Aplicaciones de presión hidrostática
+> - [[Prensa Hidráulica]] - Aplicaciones del principio de Pascal
 
 ---
 

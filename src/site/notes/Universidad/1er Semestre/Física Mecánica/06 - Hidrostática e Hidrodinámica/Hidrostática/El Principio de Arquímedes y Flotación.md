@@ -126,11 +126,9 @@ flowchart TD
 >     A[Equilibrio de Flotación] --> B[Estable]
 >     A --> C[Inestable]  
 >     A --> D[Indiferente]
->     
 >     B --> B1[Centro de carena<br/>por encima del<br/>centro de gravedad]
 >     C --> C1[Centro de carena<br/>por debajo del<br/>centro de gravedad]
 >     D --> D1[Centros<br/>coincidentes]
->     
 >     style B fill:#96ceb4,stroke:#198754,color:#fff
 >     style C fill:#ff6b6b,stroke:#d63384,color:#fff
 >     style D fill:#ffd93d,stroke:#fd7e14,color:#fff
@@ -200,28 +198,28 @@ flowchart TD
 
 > [!quote]+ Enlaces a Otras Notas
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrostática/El Principio de Pascal\|El Principio de Pascal]]
-> - [[Presión Hidrostática\|Presión Hidrostática]]
-> - [[Densidad y Peso Específico\|Densidad y Peso Específico]]
-> - [[Equilibrio de Fluidos\|Equilibrio de Fluidos]]
-> - [[Hidrostática - Ecuación Fundamental\|Hidrostática - Ecuación Fundamental]]
+> - [[El Principio de Pascal]]
+> - [[Presión Hidrostática]]
+> - [[Densidad y Peso Específico]]
+> - [[Equilibrio de Fluidos]]
+> - [[Hidrostática - Ecuación Fundamental]]
 
 ## Notas Complementarias Recomendadas
 
 > [!info]+ Prerrequisitos
 > 
-> - [[Conceptos de Densidad\|Conceptos de Densidad]]
-> - [[Fuerzas y Equilibrio\|Fuerzas y Equilibrio]]
-> - [[Presión en Fluidos\|Presión en Fluidos]]
-> - [[Centro de Masa\|Centro de Masa]]
+> - [[Conceptos de Densidad]]
+> - [[Fuerzas y Equilibrio]]
+> - [[Presión en Fluidos]]
+> - [[Centro de Masa]]
 >
 > [!success]+ Para Profundizar
 > 
-> - [[Estabilidad Naval\|Estabilidad Naval]]
-> - [[Metacentro y Estabilidad\|Metacentro y Estabilidad]]
-> - [[Hidrodinámica Avanzada\|Hidrodinámica Avanzada]]
-> - [[Flotación de Cuerpos Irregulares\|Flotación de Cuerpos Irregulares]]
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrostática/Tensión Superficial\|Tensión Superficial]]
+> - [[Estabilidad Naval]]
+> - [[Metacentro y Estabilidad]]
+> - [[Hidrodinámica Avanzada]]
+> - [[Flotación de Cuerpos Irregulares]]
+> - [[Tensión Superficial]]
 
 ---
 

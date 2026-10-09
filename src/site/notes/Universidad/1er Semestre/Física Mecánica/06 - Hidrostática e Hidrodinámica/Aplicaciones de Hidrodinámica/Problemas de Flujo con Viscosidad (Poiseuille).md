@@ -93,7 +93,6 @@
 >     D --> G[Factor de Fricción f]
 >     E --> H[Coeficiente K]
 >     F --> I[Pérdidas Menores]
->     
 >     style A fill:#e1f5fe
 >     style B fill:#f3e5f5
 >     style C fill:#fff3e0
@@ -341,18 +340,18 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Aplicaciones de Hidrodinámica/Problemas de Ecuación de Bernoulli\|Problemas de Ecuación de Bernoulli]] - Flujo ideal sin viscosidad
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrodinámica/Viscosidad y Número de Reynolds\|Viscosidad y Número de Reynolds]] - Caracterización del flujo
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrodinámica/Flujo Laminar y Ecuación de Poiseuille\|Flujo Laminar y Ecuación de Poiseuille]] - Teoría fundamental
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Aplicaciones de Hidrodinámica/Problemas de Ecuación de Continuidad\|Problemas de Ecuación de Continuidad]] - Conservación de masa
-> - **Próximo tema**: [[Problemas de Flotabilidad en Fluidos en Movimiento\|Problemas de Flotabilidad en Fluidos en Movimiento]]
+> - [[Problemas de Ecuación de Bernoulli]] - Flujo ideal sin viscosidad
+> - [[Viscosidad y Número de Reynolds]] - Caracterización del flujo
+> - [[Flujo Laminar y Ecuación de Poiseuille]] - Teoría fundamental
+> - [[Problemas de Ecuación de Continuidad]] - Conservación de masa
+> - **Próximo tema**: [[Problemas de Flotabilidad en Fluidos en Movimiento]]
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Aplicaciones de Hidrodinámica/Problemas de Ecuación de Continuidad\|Problemas de Ecuación de Continuidad]] - Conservación de masa
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Fundamentos de Hidrostática e Hidrodinámica/Presión y Densidad\|Presión y Densidad]] - Propiedades de fluidos
+> - [[Problemas de Ecuación de Continuidad]] - Conservación de masa
+> - [[Presión y Densidad]] - Propiedades de fluidos
 > - **Matemáticas**: Cálculo diferencial, ecuaciones diferenciales básicas
 > 
 > ### **Conocimientos Previos**:

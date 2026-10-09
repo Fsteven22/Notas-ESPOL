@@ -130,7 +130,6 @@
 >     C --> G[🔒 Inmutabilidad]
 >     C --> H[⚡ Mejor rendimiento]
 >     C --> I[🗝️ Puede ser clave en dict]
->     
 >     style B fill:#e8f5e8
 >     style C fill:#fff3e0
 >     style D fill:#e3f2fd
@@ -299,12 +298,12 @@ graph TB
 
 > [!quote] 🔗 Enlaces a Otras Notas
 > 
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 2 - Tipos de datos, operadores, cadenas, listas y aleatoriedad/Módulo 2.1 Variables y Tipos de Datos\|Módulo 2.1 Variables y Tipos de Datos]] - Fundamentos de tipos de datos
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 4 - Estructuras de control/Módulo 4.3 Bucle While\|Módulo 4.3 Bucle While]] y [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 4 - Estructuras de control/Módulo 4.2 Iteradores for\|Módulo 4.2 Iteradores for]] - Iteración sobre listas y tuplas
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 5 - Diccionarios/Módulo 5.1 Diccionarios\|Módulo 5.1 Diccionarios]] - Estructura de datos clave-valor
-> - [[Comprensiones de Lista Python\|Comprensiones de Lista Python]] - Creación avanzada de listas
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 3 - Funciones/Módulo 3.1 Funciones\|Módulo 3.1 Funciones]] - Pasar listas y tuplas como parámetros
-> - [[Algoritmos de Ordenamiento\|Algoritmos de Ordenamiento]] - Uso de sort() y sorted()
+> - [[Módulo 2.1 Variables y Tipos de Datos]] - Fundamentos de tipos de datos
+> - [[Módulo 4.3 Bucle While]] y [[Módulo 4.2 Iteradores for]] - Iteración sobre listas y tuplas
+> - [[Módulo 5.1 Diccionarios]] - Estructura de datos clave-valor
+> - [[Comprensiones de Lista Python]] - Creación avanzada de listas
+> - [[Módulo 3.1 Funciones]] - Pasar listas y tuplas como parámetros
+> - [[Algoritmos de Ordenamiento]] - Uso de sort() y sorted()
 
 ## 🎯 Notas Recomendadas para Complementar
 
@@ -312,19 +311,19 @@ graph TB
 > 
 > ### 🔧 **Prerrequisitos**
 > 
-> - [[Variables Básicas Python\|Variables Básicas Python]]
-> - [[Operadores Python\|Operadores Python]]
-> - [[Strings y Indexación Python\|Strings y Indexación Python]]
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 4 - Estructuras de control/Módulo 4.1 Condicional\|Módulo 4.1 Condicional]]
+> - [[Variables Básicas Python]]
+> - [[Operadores Python]]
+> - [[Strings y Indexación Python]]
+> - [[Módulo 4.1 Condicional]]
 > 
 > ### 🔄 **Temas Relacionados**
 > 
-> - [[Sets en Python\|Sets en Python]] - Colecciones sin duplicados
-> - [[Diccionarios Python\|Diccionarios Python]] - Mapeo clave-valor
-> - [[Comprensiones Python\|Comprensiones Python]] - Sintaxis avanzada
-> - [[Iteradores y Generadores\|Iteradores y Generadores]] - Procesamiento eficiente
-> - [[Algoritmos de Búsqueda\|Algoritmos de Búsqueda]] - Encontrar elementos
-> - [[Programación Funcional Python\|Programación Funcional Python]] - map(), filter(), reduce()
+> - [[Sets en Python]] - Colecciones sin duplicados
+> - [[Diccionarios Python]] - Mapeo clave-valor
+> - [[Comprensiones Python]] - Sintaxis avanzada
+> - [[Iteradores y Generadores]] - Procesamiento eficiente
+> - [[Algoritmos de Búsqueda]] - Encontrar elementos
+> - [[Programación Funcional Python]] - map(), filter(), reduce()
 
 ## 🧠 Técnica de Estudio: L.I.S.T.A.S vs T.U.P.L.A.S
 

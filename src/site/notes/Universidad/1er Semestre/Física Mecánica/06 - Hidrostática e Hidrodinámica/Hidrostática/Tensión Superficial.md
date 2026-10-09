@@ -30,13 +30,10 @@
 >graph TD
 >    A[Molécula en el interior] --> B[Fuerzas balanceadas]
 >    C[Molécula en la superficie] --> D[Fuerzas desbalanceadas]
->    
 >    B --> E[Σ \vec{F} = 0]
 >    D --> F[Fuerza neta hacia el interior]
->    
 >    F --> G[Tendencia a minimizar área]
 >    G --> H[Tensión superficial]
->    
 >    style A fill:#e1f5fe
 >    style C fill:#f3e5f5
 >    style H fill:#fff3e0
@@ -262,27 +259,27 @@ Esta es la forma más fundamental, donde el trabajo infinitesimal para crear ár
 ## 🔍 Referencias y Conexiones
 
 >[!quote] 📚 **Referencias a otras notas**
->- [[Hidrostática e Hidrodinámica\|Hidrostática e Hidrodinámica]] - Contexto de mecánica de fluidos
->- [[Fuerzas Intermoleculares\|Fuerzas Intermoleculares]] - Origen microscópico del fenómeno
->- [[Termodinámica de Superficies\|Termodinámica de Superficies]] - Aspectos energéticos
->- [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrodinámica/Ecuación de Continuidad y Bernoulli\|Ecuación de Continuidad y Bernoulli]] - Flujo con efectos superficiales
->- [[Presión y Densidad 1\|Presión y Densidad 1]] - Conceptos fundamentales relacionados
+>- [[Hidrostática e Hidrodinámica]] - Contexto de mecánica de fluidos
+>- [[Fuerzas Intermoleculares]] - Origen microscópico del fenómeno
+>- [[Termodinámica de Superficies]] - Aspectos energéticos
+>- [[Ecuación de Continuidad y Bernoulli]] - Flujo con efectos superficiales
+>- [[Presión y Densidad 1]] - Conceptos fundamentales relacionados
 
 ## 📖 Notas Recomendadas para Complementar
 
 >[!info] 🎯 **Prerrequisitos y Temas Relacionados**
 >
 >**Prerrequisitos esenciales:**
->- [[Presión y Densidad 1\|Presión y Densidad 1]] - Conceptos fundamentales de fluidos
->- [[Fuerzas y Equilibrio\|Fuerzas y Equilibrio]] - Para análisis de fuerzas en superficies
->- [[Geometría\|Geometría]] - Para cálculos de áreas y volúmenes
->- [[Trigonometría\|Trigonometría]] - Para ángulos de contacto
+>- [[Presión y Densidad 1]] - Conceptos fundamentales de fluidos
+>- [[Fuerzas y Equilibrio]] - Para análisis de fuerzas en superficies
+>- [[Geometría]] - Para cálculos de áreas y volúmenes
+>- [[Trigonometría]] - Para ángulos de contacto
 >
 >**Temas complementarios:**
->- [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrostática/El Principio de Pascal\|El Principio de Pascal]] - Transmisión de presión en fluidos
->- [[El Principio de Arquímedes\|El Principio de Arquímedes]] - Flotación y empuje
->- [[Viscosidad\|Viscosidad]] - Otra propiedad importante de los fluidos
->- [[Termodinámica\|Termodinámica]] - Aspectos energéticos de las superficies
+>- [[El Principio de Pascal]] - Transmisión de presión en fluidos
+>- [[El Principio de Arquímedes]] - Flotación y empuje
+>- [[Viscosidad]] - Otra propiedad importante de los fluidos
+>- [[Termodinámica]] - Aspectos energéticos de las superficies
 
 ## 🔧 Técnicas Experimentales
 

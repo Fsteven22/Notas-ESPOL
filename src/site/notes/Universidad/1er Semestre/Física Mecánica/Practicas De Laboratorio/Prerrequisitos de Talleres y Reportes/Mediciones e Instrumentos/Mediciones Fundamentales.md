@@ -99,7 +99,6 @@
 >     D --> E[Leer Resultado]
 >     E --> F[Estimar Incertidumbre]
 >     F --> G[Expresar Resultado Final]
->     
 >     style A fill:#e1f5fe
 >     style B fill:#f3e5f5
 >     style C fill:#fff3e0
@@ -329,8 +328,8 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Sistema de unidades
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Conocimientos Previos a las Prácticas\|Conocimientos Previos a las Prácticas]] - Fundamentos básicos
+> - [[Unidades y Magnitudes Físicas]] - Sistema de unidades
+> - [[Conocimientos Previos a las Prácticas]] - Fundamentos básicos
 > - **Próximas notas**: Uso del calibrador de Vernier, Errores y incertidumbres
 
 ## 📚 Notas Recomendadas
@@ -343,9 +342,9 @@
 >
 > [!note] **Temas Siguientes**
 > 
-> - [[Uso del Calibrador de Vernier\|Uso del Calibrador de Vernier]] - Instrumento de precisión
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis de Datos y Errores/Errores Absolutos y Relativos\|Errores Absolutos y Relativos]] - Análisis de incertidumbres
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Presentación de Resultados/Cifras Significativas\|Cifras Significativas]] - Expresión de resultados
+> - [[Uso del Calibrador de Vernier]] - Instrumento de precisión
+> - [[Errores Absolutos y Relativos]] - Análisis de incertidumbres
+> - [[Cifras Significativas]] - Expresión de resultados
 
 ---
 

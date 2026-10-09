@@ -214,14 +214,12 @@
 >     A --> E[Absorción de Luz]
 >     A --> F[Crecimiento Poblacional]
 >     A --> G[Circuitos RC]
->     
 >     B --> B1["N(t) = N₀e^(-λt)"]
 >     C --> C1["V(t) = V₀e^(-t/RC)"]
 >     D --> D1["T(t) = T∞ + (T₀-T∞)e^(-kt)"]
 >     E --> E1["I = I₀e^(-μx)"]
 >     F --> F1["P(t) = P₀e^(rt)"]
 >     G --> G1["q(t) = q₀e^(-t/τ)"]
->     
 >     style A fill:#e1f5fe
 >     style B fill:#f3e5f5
 >     style C fill:#fff3e0
@@ -491,18 +489,14 @@
 >     A[Análisis Parabólico] --> B[Identificación Visual]
 >     A --> C[Linealización]
 >     A --> D[Ajuste Directo]
->     
 >     B --> B1[Forma de U o ∩]
 >     B --> B2[Un solo extremo]
 >     B --> B3[Simetría aparente]
->     
 >     C --> C1["y vs x²"]
 >     C --> C2["√y vs x (si y ≥ 0)"]
->     
 >     D --> D1[Regresión polinomial]
 >     D --> D2[Método de mínimos cuadrados]
 >     D --> D3[Forma de vértice]
->     
 >     style A fill:#e1f5fe
 >     style B fill:#f3e5f5
 >     style C fill:#fff3e0
@@ -722,14 +716,12 @@
 >     A --> E[Intensidad de Radiación]
 >     A --> F[Ley de Ohm Generalizada]
 >     A --> G[Dispersión de Partículas]
->     
 >     B --> B1["F = Gm₁m₂/r²"]
 >     C --> C1["F = kq₁q₂/r²"]
 >     D --> D1["PV = constante → P = k/V"]
 >     E --> E1["I = I₀/r²"]
 >     F --> F1["V = IR + r/I"]
 >     G --> G1["σ ∝ 1/E²"]
->     
 >     style A fill:#e1f5fe
 >     style B fill:#f3e5f5  
 >     style C fill:#fff3e0
@@ -1010,29 +1002,24 @@
 > graph TD
 >     A[Datos Experimentales] --> B[Inspección Visual]
 >     B --> C{¿Patrón Evidente?}
->     
 >     C -->|Lineal| D[Regresión Lineal Directa]
 >     C -->|Exponencial| E["Transformación ln(y) vs x"]
 >     C -->|Potencial| F["Transformación ln(y) vs ln(x)"]  
 >     C -->|Parabólico| G[Regresión Cuadrática o y vs x²]
 >     C -->|Hiperbólico| H[Transformación apropiada 1/x]
 >     C -->|Incierto| I[Pruebas Múltiples]
->     
 >     D --> J[Análisis de Residuos]
 >     E --> J
 >     F --> J  
 >     G --> J
 >     H --> J
 >     I --> J
->     
 >     J --> K{¿Ajuste Satisfactorio?}
 >     K -->|Sí| L[Interpretación Física]
 >     K -->|No| M[Modelo Más Complejo]
->     
 >     M --> N[Funciones Híbridas]
 >     M --> O[Análisis No Lineal]
 >     M --> P[Revisión de Datos]
->     
 >     style A fill:#e1f5fe
 >     style L fill:#e8f5e8
 >     style M fill:#ffebee
@@ -1348,11 +1335,11 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Gráficas Lineales\|Gráficas Lineales]] - Fundamento previo necesario
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Herramientas Matemáticas/Estadística Básica\|Estadística Básica]] - Base matemática
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis de Datos y Errores/Incertidumbres Experimentales\|Incertidumbres Experimentales]] - Análisis de errores
-> - [[Regresión No Lineal\|Regresión No Lineal]] - Técnicas avanzadas
-> - [[Análisis Dimensional\|Análisis Dimensional]] - Verificación física
+> - [[Gráficas Lineales]] - Fundamento previo necesario
+> - [[Estadística Básica]] - Base matemática
+> - [[Incertidumbres Experimentales]] - Análisis de errores
+> - [[Regresión No Lineal]] - Técnicas avanzadas
+> - [[Análisis Dimensional]] - Verificación física
 
 ## 🎯 Ejercicios y Problemas
 

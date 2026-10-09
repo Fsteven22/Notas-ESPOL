@@ -129,7 +129,63 @@
 > 
 > def validar_email(email):
 >     """Valida formato básico de email"""
->     patron = r'^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}
+>     patron = r'^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$'
+>     return re.match(patron, email) is not None
+> 
+> def validar_telefono(telefono):
+>     """Valida formato de teléfono (ej: +593-99-123-4567)"""
+>     # Eliminar espacios y guiones
+>     telefono_limpio = telefono.replace(' ', '').replace('-', '')
+>     
+>     # Verificar si empieza con + y el resto son dígitos
+>     if telefono_limpio.startswith('+'):
+>         return telefono_limpio[1:].isdigit() and len(telefono_limpio) >= 10
+>     
+>     # O si son solo dígitos
+>     return telefono_limpio.isdigit() and len(telefono_limpio) >= 9
+> 
+> def validar_cedula_ecuador(cedula):
+>     """Valida cédula ecuatoriana (10 dígitos)"""
+>     if not cedula.isdigit() or len(cedula) != 10:
+>         return False
+>     
+>     # Verificar provincia (primeros 2 dígitos)
+>     provincia = int(cedula[:2])
+>     if provincia < 1 or provincia > 24:
+>         return False
+>     
+>     # Algoritmo de verificación simplificado
+>     coeficientes = [2, 1, 2, 1, 2, 1, 2, 1, 2]
+>     suma = 0
+>     
+>     for i in range(9):
+>         digito = int(cedula[i]) * coeficientes[i]
+>         if digito > 9:
+>             digito -= 9
+>         suma += digito
+>     
+>     digito_verificador = (10 - (suma % 10)) % 10
+>     return digito_verificador == int(cedula[9])
+> 
+> def validar_contrasena(contrasena):
+>     """Valida fortaleza de contraseña"""
+>     if len(contrasena) < 8:
+>         return False, "Debe tener al menos 8 caracteres"
+>     
+>     if not any(c.isupper() for c in contrasena):
+>         return False, "Debe contener al menos una mayúscula"
+>     
+>     if not any(c.islower() for c in contrasena):
+>         return False, "Debe contener al menos una minúscula"
+>     
+>     if not any(c.isdigit() for c in contrasena):
+>         return False, "Debe contener al menos un número"
+>     
+>     if not any(c in "!@#$%^&*()_+-=[]{}|;:,.<>?" for c in contrasena):
+>         return False, "Debe contener al menos un carácter especial"
+>     
+>     return True, "Contraseña válida"
+> ```
 
 ## 🔄 Bucles de Validación Inteligentes
 
@@ -368,126 +424,6 @@ flowchart TD
 > ```python
 > entrada = entrada.strip().lower()  # Limpiar espacios y normalizar
 > ```
-
----
-
-## 📚 Referencias
-
-> [!quote] 🔗 Enlaces a Otras Notas
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo general - Funciones especiales/Funciones Built-in\|Funciones Built-in]] - Métodos isdigit(), isalpha(), etc.
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 4 - Estructuras de control/Módulo 4.2 Iteradores for\|Módulo 4.2 Iteradores for]] - Bucles para validación repetitiva
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 4 - Estructuras de control/Módulo 4.1 Condicional\|Módulo 4.1 Condicional]] - Lógica de validación
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 3 - Funciones/Módulo 3.1 Funciones\|Módulo 3.1 Funciones]] - Crear validadores personalizados
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 2 - Tipos de datos, operadores, cadenas, listas y aleatoriedad/Módulo 2.1 Variables y Tipos de Datos\|Módulo 2.1 Variables y Tipos de Datos]] - Conversiones seguras
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 4 - Estructuras de control/Módulo 4.3 Bucle While\|Módulo 4.3 Bucle While]] - Bucles de validación hasta condición
-
-## 🎓 Notas Recomendadas
-
-> [!note] 📖 Para Complementar tu Aprendizaje
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo general - Funciones especiales/Manejo de Errores con try, except, finally\|Manejo de Errores con try, except, finally]] - try/except para validación robusta
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo general - Funciones especiales/Expresiones Regulares (Regex)\|Expresiones Regulares (Regex)]] - Validación de patrones complejos
-> - [[Módulos datetime\|Módulos datetime]] - Validación de fechas
-> - [[Seguridad en Python\|Seguridad en Python]] - Buenas prácticas de seguridad
-> - [[Testing y Debugging\|Testing y Debugging]] - Probar funciones de validación
-> - [[Interfaces de Usuario\|Interfaces de Usuario]] - Validación en aplicaciones GUI
-
----
-
-**Tags:** #python #validacion #entrada-usuario #seguridad #robustez #input #isdigit #formato #verificacion #buenas-practicas #error-handling #user-experience
->     return re.match(patron, email) is not None
-> 
-> def validar_telefono(telefono):
->     """Valida formato de teléfono (ej: +593-99-123-4567)"""
->     # Eliminar espacios y guiones
->     telefono_limpio = telefono.replace(' ', '').replace('-', '')
->     
->     # Verificar si empieza con + y el resto son dígitos
->     if telefono_limpio.startswith('+'):
->         return telefono_limpio[1:].isdigit() and len(telefono_limpio) >= 10
->     
->     # O si son solo dígitos
->     return telefono_limpio.isdigit() and len(telefono_limpio) >= 9
-> 
-> def validar_cedula_ecuador(cedula):
->     """Valida cédula ecuatoriana (10 dígitos)"""
->     if not cedula.isdigit() or len(cedula) != 10:
->         return False
->     
->     # Verificar provincia (primeros 2 dígitos)
->     provincia = int(cedula[:2])
->     if provincia < 1 or provincia > 24:
->         return False
->     
->     # Algoritmo de verificación simplificado
->     coeficientes = [2, 1, 2, 1, 2, 1, 2, 1, 2]
->     suma = 0
->     
->     for i in range(9):
->         digito = int(cedula[i]) * coeficientes[i]
->         if digito > 9:
->             digito -= 9
->         suma += digito
->     
->     digito_verificador = (10 - (suma % 10)) % 10
->     return digito_verificador == int(cedula[9])
-> 
-> def validar_contrasena(contrasena):
->     """Valida fortaleza de contraseña"""
->     if len(contrasena) < 8:
->         return False, "Debe tener al menos 8 caracteres"
->     
->     if not any(c.isupper() for c in contrasena):
->         return False, "Debe contener al menos una mayúscula"
->     
->     if not any(c.islower() for c in contrasena):
->         return False, "Debe contener al menos una minúscula"
->     
->     if not any(c.isdigit() for c in contrasena):
->         return False, "Debe contener al menos un número"
->     
->     if not any(c in "!@#$%^&*()_+-=[]{}|;:,.<>?" for c in contrasena):
->         return False, "Debe contener al menos un carácter especial"
->     
->     return True, "Contraseña válida"
-> ```
-
-## 🔄 Bucles de Validación Inteligentes
-
-### Sistema de Validación con Reintentos
-
-> [!warning] 🔁 Bucles de Validación
-> {{CODE_BLOCK_9}}
-
-### Menú de Opciones con Validación
-
-> [!example] 📋 Sistema de Menús
-> {{CODE_BLOCK_10}}
-
-## 📊 Diagrama de Flujo de Validación
-
-{{CODE_BLOCK_11}}
-
-## 💻 Sistema Completo de Registro
-
-> [!example] 🎓 Caso Práctico Integral
-> {{CODE_BLOCK_12}}
-
-## 🛡️ Mejores Prácticas
-
-> [!warning] ⚠️ Consejos de Seguridad
-> 
-> **1. Nunca confíes en la entrada del usuario**
-> - Siempre valida antes de procesar
-> - Usa listas blancas en lugar de listas negras
-> 
-> **2. Proporciona mensajes de error claros**
-> {{CODE_BLOCK_13}}
-> 
-> **3. Limita los intentos de entrada**
-> {{CODE_BLOCK_14}}
-> 
-> **4. Sanitiza las entradas**
-> {{CODE_BLOCK_15}}
 
 ---
 

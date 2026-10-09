@@ -108,7 +108,6 @@ graph TD
 >     G --> C
 >     F --> H[Achieve Success]
 >     H --> I[Improve Further]
->     
 >     style A fill:#e1ffe1
 >     style D fill:#fff4e1
 >     style G fill:#ffe1e1
@@ -221,16 +220,13 @@ graph TD
 >     B --> D[Consider Disadvantages]
 >     B --> E[Assess Risks]
 >     B --> F[Identify Rewards]
->     
 >     C --> G[Make Decision]
 >     D --> G
 >     E --> G
 >     F --> G
->     
 >     G --> H{Result}
 >     H -->|Positive| I[Success!]
 >     H -->|Negative| J[Learn & Adjust]
->     
 >     style A fill:#e1ffe1
 >     style B fill:#fff4e1
 >     style G fill:#e1f5ff
@@ -748,7 +744,6 @@ mindmap
 >     A --> C[Grammar:<br/>Conditionals]
 >     B --> D[Real Use:<br/>Motivational<br/>Language]
 >     C --> D
->     
 >     style A fill:#e1ffe1
 >     style B fill:#fff4e1
 >     style C fill:#e1f5ff

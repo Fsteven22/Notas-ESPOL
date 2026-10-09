@@ -120,7 +120,6 @@
 >     D --> E[Simplificar expresión resultante]
 >     E --> F[Verificar dimensiones físicas]
 >     F --> G[Evaluar en punto específico si es necesario]
->     
 >     style A fill:#e1f5fe
 >     style B fill:#f3e5f5
 >     style C fill:#fff3e0
@@ -536,24 +535,24 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis de Datos y Errores/Incertidumbres Experimentales\|Incertidumbres Experimentales]] - Aplicación principal
-> - [[Análisis de Errores\|Análisis de Errores]] - Contexto experimental
-> - [[Universidad/2do Semestre/Cálculo Vectorial/Cálculo Vectorial\|Cálculo Vectorial]] - Extensiones matemáticas
-> - [[Optimización\|Optimización]] - Aplicaciones avanzadas
+> - [[Incertidumbres Experimentales]] - Aplicación principal
+> - [[Análisis de Errores]] - Contexto experimental
+> - [[Cálculo Vectorial]] - Extensiones matemáticas
+> - [[Optimización]] - Aplicaciones avanzadas
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Funciones de Varias Variables\|Funciones de Varias Variables]] - Concepto base
+> - [[Funciones de Varias Variables]] - Concepto base
 > - **Cálculo diferencial**: Derivadas ordinarias
 > - **Álgebra**: Operaciones básicas
 
 > [!note] **Temas Siguientes**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis de Datos y Errores/Incertidumbres Experimentales\|Incertidumbres Experimentales]] - Aplicación directa
-> - [[Análisis Gráfico\|Análisis Gráfico]] - Representación visual
-> - [[Optimización en Física\|Optimización en Física]] - Aplicaciones avanzadas
+> - [[Incertidumbres Experimentales]] - Aplicación directa
+> - [[Análisis Gráfico]] - Representación visual
+> - [[Optimización en Física]] - Aplicaciones avanzadas
 
 ---
 

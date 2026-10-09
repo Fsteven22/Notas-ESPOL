@@ -483,7 +483,6 @@
 >     G --> H
 >     H --> I[Detectar Outliers]
 >     I --> J[Reportar Resultados]
->     
 >     style A fill:#e1f5fe
 >     style B fill:#f3e5f5
 >     style C fill:#fff3e0
@@ -896,10 +895,10 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis de Datos y Errores/Incertidumbres Experimentales\|Incertidumbres Experimentales]] - Aplicación de estadística
-> - [[Análisis de Errores\|Análisis de Errores]] - Marco conceptual
-> - [[Regresión Lineal\|Regresión Lineal]] - Análisis de relaciones
-> - [[Pruebas de Hipótesis\|Pruebas de Hipótesis]] - Inferencia estadística
+> - [[Incertidumbres Experimentales]] - Aplicación de estadística
+> - [[Análisis de Errores]] - Marco conceptual
+> - [[Regresión Lineal]] - Análisis de relaciones
+> - [[Pruebas de Hipótesis]] - Inferencia estadística
 
 ## 📈 Extensiones Avanzadas
 
@@ -938,16 +937,16 @@
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Conceptos Básicos de Medición\|Conceptos Básicos de Medición]] - Fundamentos experimentales
+> - [[Conceptos Básicos de Medición]] - Fundamentos experimentales
 > - **Matemáticas**: Álgebra básica, funciones
 > - **Calculadora científica**: Operaciones estadísticas
 
 > [!note] **Temas Siguientes**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis de Datos y Errores/Incertidumbres Experimentales\|Incertidumbres Experimentales]] - Aplicación directa
-> - [[Regresión y Correlación\|Regresión y Correlación]] - Análisis de relaciones
-> - [[Pruebas de Hipótesis\|Pruebas de Hipótesis]] - Inferencia estadística
-> - [[Diseño de Experimentos\|Diseño de Experimentos]] - Planificación estadística
+> - [[Incertidumbres Experimentales]] - Aplicación directa
+> - [[Regresión y Correlación]] - Análisis de relaciones
+> - [[Pruebas de Hipótesis]] - Inferencia estadística
+> - [[Diseño de Experimentos]] - Planificación estadística
 
 ---
 

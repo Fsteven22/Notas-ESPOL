@@ -91,7 +91,6 @@
 >     G --> I
 >     H --> J[Flotabilidad Neta]
 >     I --> K[Velocidad Terminal]
->     
 >     style A fill:#e1f5fe
 >     style B fill:#f3e5f5
 >     style C fill:#fff3e0
@@ -343,19 +342,19 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrostática/El Principio de Arquímedes y Flotación\|El Principio de Arquímedes y Flotación]] - Fundamentos estáticos
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Aplicaciones de Hidrodinámica/Problemas de Ecuación de Bernoulli\|Problemas de Ecuación de Bernoulli]] - Efectos dinámicos
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Aplicaciones de Hidrodinámica/Problemas de Flujo con Viscosidad (Poiseuille)\|Problemas de Flujo con Viscosidad (Poiseuille)]] - Resistencia viscosa
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrodinámica/Viscosidad y Número de Reynolds\|Viscosidad y Número de Reynolds]] - Caracterización del flujo
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Aplicaciones de Cinemática Traslacional/Velocidad Relativa para Barcos y Aviones\|Velocidad Relativa para Barcos y Aviones]] - Cinemática relativa
+> - [[El Principio de Arquímedes y Flotación]] - Fundamentos estáticos
+> - [[Problemas de Ecuación de Bernoulli]] - Efectos dinámicos
+> - [[Problemas de Flujo con Viscosidad (Poiseuille)]] - Resistencia viscosa
+> - [[Viscosidad y Número de Reynolds]] - Caracterización del flujo
+> - [[Velocidad Relativa para Barcos y Aviones]] - Cinemática relativa
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrostática/El Principio de Arquímedes y Flotación\|El Principio de Arquímedes y Flotación]] - Empuje hidrostático
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Aplicaciones de Hidrodinámica/Problemas de Ecuación de Continuidad\|Problemas de Ecuación de Continuidad]] - Conservación de masa
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Descomposición de velocidades y fuerzas
+> - [[El Principio de Arquímedes y Flotación]] - Empuje hidrostático
+> - [[Problemas de Ecuación de Continuidad]] - Conservación de masa
+> - [[Vectores]] - Descomposición de velocidades y fuerzas
 > - **Física**: Dinámica, fuerzas y equilibrio
 > 
 > ### **Conocimientos Previos**:

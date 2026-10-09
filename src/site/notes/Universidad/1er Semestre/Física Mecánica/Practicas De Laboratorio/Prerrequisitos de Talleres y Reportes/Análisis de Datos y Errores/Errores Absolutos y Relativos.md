@@ -100,7 +100,6 @@
 >     D --> E[Evaluar Aceptabilidad]
 >     E --> F[Decidir: ¿Repetir o Aceptar?]
 >     F --> G[Expresar Resultado Final]
->     
 >     style A fill:#e1f5fe
 >     style B fill:#f3e5f5
 >     style C fill:#fff3e0
@@ -364,24 +363,24 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Mediciones e Instrumentos/Mediciones Fundamentales\|Mediciones Fundamentales]] - Base conceptual
-> - [[Uso del Calibrador de Vernier\|Uso del Calibrador de Vernier]] - Aplicación práctica
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis de Datos y Errores/Incertidumbres Experimentales\|Incertidumbres Experimentales]] - Análisis avanzado
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Presentación de Resultados/Cifras Significativas\|Cifras Significativas]] - Expresión correcta de resultados
+> - [[Mediciones Fundamentales]] - Base conceptual
+> - [[Uso del Calibrador de Vernier]] - Aplicación práctica
+> - [[Incertidumbres Experimentales]] - Análisis avanzado
+> - [[Cifras Significativas]] - Expresión correcta de resultados
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Mediciones e Instrumentos/Mediciones Fundamentales\|Mediciones Fundamentales]] - Conceptos básicos
+> - [[Mediciones Fundamentales]] - Conceptos básicos
 > - **Estadística básica**: Promedio, desviación estándar
 > - **Álgebra**: Operaciones con decimales y porcentajes
 >
 > [!note] **Temas Siguientes**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis de Datos y Errores/Incertidumbres Experimentales\|Incertidumbres Experimentales]] - Propagación de errores
-> - [[Tratamiento Estadístico de Datos\|Tratamiento Estadístico de Datos]] - Análisis avanzado
-> - [[Presentación de Resultados\|Presentación de Resultados]] - Reportes de laboratorio
+> - [[Incertidumbres Experimentales]] - Propagación de errores
+> - [[Tratamiento Estadístico de Datos]] - Análisis avanzado
+> - [[Presentación de Resultados]] - Reportes de laboratorio
 
 ---
 

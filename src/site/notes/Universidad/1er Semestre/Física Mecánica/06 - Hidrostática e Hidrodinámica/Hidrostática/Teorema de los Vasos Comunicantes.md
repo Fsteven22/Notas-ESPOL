@@ -26,9 +26,7 @@
 >     A[Recipiente 1<br/>P₁ = P₀ + ρgh₁] --> C[Conexión Basal]
 >     B[Recipiente 2<br/>P₂ = P₀ + ρgh₂] --> C
 >     D[Recipiente 3<br/>P₃ = P₀ + ρgh₃] --> C
->     
 >     C --> E[Equilibrio: h₁ = h₂ = h₃]
->     
 >     style A fill:#e1f5fe
 >     style B fill:#e1f5fe
 >     style D fill:#e1f5fe
@@ -144,24 +142,24 @@
 
 > [!quote] Notas Relacionadas
 > 
-> - [[Presión Hidrostática\|Presión Hidrostática]]
-> - [[Principio de Pascal\|Principio de Pascal]]
-> - [[Densidad de Fluidos\|Densidad de Fluidos]]
-> - [[Sistemas Hidráulicos\|Sistemas Hidráulicos]]
+> - [[Presión Hidrostática]]
+> - [[Principio de Pascal]]
+> - [[Densidad de Fluidos]]
+> - [[Sistemas Hidráulicos]]
 
 ## Notas Recomendadas
 
 > [!info] Prerrequisitos
 > 
-> - [[Conceptos Básicos de Fluidos\|Conceptos Básicos de Fluidos]]
-> - [[Presión y Fuerza\|Presión y Fuerza]]
-> - [[Densidad y Peso Específico\|Densidad y Peso Específico]]
+> - [[Conceptos Básicos de Fluidos]]
+> - [[Presión y Fuerza]]
+> - [[Densidad y Peso Específico]]
 >
 > [!tip] Continuación del Tema
 > 
-> - [[Principio de Arquímedes\|Principio de Arquímedes]]
-> - [[Ecuación de Continuidad\|Ecuación de Continuidad]]
-> - [[Teorema de Torricelli\|Teorema de Torricelli]]
+> - [[Principio de Arquímedes]]
+> - [[Ecuación de Continuidad]]
+> - [[Teorema de Torricelli]]
 
 ---
 

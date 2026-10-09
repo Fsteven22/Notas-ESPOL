@@ -29,13 +29,10 @@
 > graph TD
 >     A[Life's Little Lessons] --> B[Accidents Happen]
 >     A --> C[Strong Reactions]
->     
 >     B --> D[Accident Verbs:<br/>spill, slip, knock off]
 >     B --> E[Responsibility:<br/>blame, feel bad]
->     
 >     C --> F[Extreme Adjectives:<br/>exhausted, terrified]
 >     C --> G[Reactions:<br/>be mad at, feel awful]
->     
 >     style B fill:#ffe1e1
 >     style C fill:#e1f5ff
 >     style D fill:#fff4e1
@@ -992,7 +989,6 @@ mindmap
 >     A[Vocabulary:<br/>Accidents & Extremes] --> B[Grammar:<br/>Indefinite Pronouns &<br/>Reported Speech]
 >     B --> C[Functional Language:<br/>Reacting & Reporting]
 >     C --> D[Real Use:<br/>Tell stories about<br/>life's little lessons]
->     
 >     style A fill:#e1ffe1
 >     style B fill:#fff4e1
 >     style C fill:#e1f5ff

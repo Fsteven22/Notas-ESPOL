@@ -52,7 +52,6 @@
 >     B -->|f_s = μ_s N| C[Punto crítico]
 >     C -->|Fuerza continúa| D[Deslizamiento]
 >     D -->|f_k = μ_k N| E[Fricción constante]
->     
 >     style A fill:#e8f5e8
 >     style C fill:#fff3e0
 >     style E fill:#ffebee
@@ -90,19 +89,14 @@
 >     A --> C[Objetos en Plano Inclinado]
 >     A --> D[Escaleras y Estructuras]
 >     A --> E[Sistemas con Múltiples Contactos]
->     
 >     B --> B1[Fuerza horizontal aplicada]
 >     B --> B2[Múltiples objetos]
->     
 >     C --> C1[Ángulo crítico]
 >     C --> C2[Fuerza adicional]
->     
 >     D --> D1[Escaleras contra pared]
 >     D --> D2[Vigas con fricción]
->     
 >     E --> E1[Cajas apiladas]
 >     E --> E2[Sistemas articulados]
->     
 >     style A fill:#e1f5fe
 >     style B fill:#f3e5f5
 >     style C fill:#fff3e0
@@ -469,12 +463,12 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Equilibrio\|Equilibrio]] - Fundamentos de equilibrio estático
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Fuerzas y Diagramas de Cuerpo Libre\|Fuerzas y Diagramas de Cuerpo Libre]] - Técnicas de análisis
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Aplicaciones de Dinámica de Traslación/Problemas de Planos Inclinados\|Problemas de Planos Inclinados]] - Aplicaciones dinámicas
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Aplicaciones de Dinámica de Traslación/Problemas con rozamiento\|Problemas con rozamiento]] - Casos con movimiento
-> - [[Aplicaciones de Equilibrio\|Aplicaciones de Equilibrio]] - Ejercicios complementarios
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Interacciones y Fuerzas\|Interacciones y Fuerzas]] - Naturaleza de las fuerzas de contacto
+> - [[Equilibrio]] - Fundamentos de equilibrio estático
+> - [[Fuerzas y Diagramas de Cuerpo Libre]] - Técnicas de análisis
+> - [[Problemas de Planos Inclinados]] - Aplicaciones dinámicas
+> - [[Problemas con rozamiento]] - Casos con movimiento
+> - [[Aplicaciones de Equilibrio]] - Ejercicios complementarios
+> - [[Interacciones y Fuerzas]] - Naturaleza de las fuerzas de contacto
 
 ## 🔧 Formulario de Consulta Rápida
 

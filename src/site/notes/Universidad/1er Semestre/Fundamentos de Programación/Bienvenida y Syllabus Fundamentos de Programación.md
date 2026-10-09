@@ -68,7 +68,6 @@
 >     A --> F[Módulo 5\nDiccionarios]
 >     A --> G[Módulo 6\nPandas]
 >     A --> H[Módulo General\nFunciones Especiales]
->
 >     style B fill:#e1f5ff
 >     style C fill:#e1ffe1
 >     style D fill:#fff4e1

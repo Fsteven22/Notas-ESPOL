@@ -171,9 +171,9 @@
 >[!note] 🌐 **Relaciones Importantes**
 >
 >**Estructuras de Control:**
->- **[[Universidad/1er Semestre/Fundamentos de Programación/Módulo 4 - Estructuras de control/Módulo 4.1 Condicional\|Módulo 4.1 Condicional]]**: La condición del `while` usa lógica if/else
->- **[[Universidad/1er Semestre/Fundamentos de Programación/Módulo 4 - Estructuras de control/Módulo 4.2 Iteradores for\|Módulo 4.2 Iteradores for]]**: Comparación entre bucles definidos vs indefinidos
->- **[[Universidad/1er Semestre/Fundamentos de Programación/Módulo 3 - Funciones/Módulo 3.1 Funciones\|Módulo 3.1 Funciones]]**: Bucles dentro de funciones para procesamiento repetitivo
+>- **[[Módulo 4.1 Condicional]]**: La condición del `while` usa lógica if/else
+>- **[[Módulo 4.2 Iteradores for]]**: Comparación entre bucles definidos vs indefinidos
+>- **[[Módulo 3.1 Funciones]]**: Bucles dentro de funciones para procesamiento repetitivo
 >
 >**Aplicaciones Prácticas:**
 >- **Validación de entrada de usuario**
@@ -441,21 +441,21 @@ flowchart TD
 ## 🔗 Referencias
 
 >[!quote] **Notas Relacionadas**
->- [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 4 - Estructuras de control/Módulo 4.1 Condicional\|Módulo 4.1 Condicional]] - Lógica booleana usada en condiciones while
->- [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 4 - Estructuras de control/Módulo 4.2 Iteradores for\|Módulo 4.2 Iteradores for]] - Comparación entre tipos de bucles
->- [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 2 - Tipos de datos, operadores, cadenas, listas y aleatoriedad/Módulo 2.1 Variables y Tipos de Datos\|Módulo 2.1 Variables y Tipos de Datos]] - Tipos de datos en condiciones
->- [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 3 - Funciones/Módulo 3.1 Funciones\|Módulo 3.1 Funciones]] - Uso de while dentro de funciones
->- [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 2 - Tipos de datos, operadores, cadenas, listas y aleatoriedad/Módulo 2.3 Listas y Tuplas en Python\|Módulo 2.3 Listas y Tuplas en Python]] - Iteración sobre estructuras de datos
+>- [[Módulo 4.1 Condicional]] - Lógica booleana usada en condiciones while
+>- [[Módulo 4.2 Iteradores for]] - Comparación entre tipos de bucles
+>- [[Módulo 2.1 Variables y Tipos de Datos]] - Tipos de datos en condiciones
+>- [[Módulo 3.1 Funciones]] - Uso de while dentro de funciones
+>- [[Módulo 2.3 Listas y Tuplas en Python]] - Iteración sobre estructuras de datos
 
 ## 📚 Notas Recomendadas para Estudio
 
 >[!info] 📖 **Temas Complementarios**
->1. **[[Universidad/1er Semestre/Fundamentos de Programación/Módulo general - Funciones especiales/Manejo de Errores con try, except, finally\|Manejo de Errores con try, except, finally]]** - Try/except en bucles para robustez
->2. **[[Recursión vs Iteración\|Recursión vs Iteración]]** - Cuándo usar while vs funciones recursivas
->3. **[[Algoritmos de Búsqueda\|Algoritmos de Búsqueda]]** - While en búsqueda lineal y binaria
->4. **[[Procesamiento de Archivos\|Procesamiento de Archivos]]** - Lectura línea por línea con while
->5. **[[Concurrencia y Threads\|Concurrencia y Threads]]** - Bucles infinitos en programación concurrente
->6. **[[Optimización de Código\|Optimización de Código]]** - Eficiencia en bucles repetitivos
+>1. **[[Manejo de Errores con try, except, finally]]** - Try/except en bucles para robustez
+>2. **[[Recursión vs Iteración]]** - Cuándo usar while vs funciones recursivas
+>3. **[[Algoritmos de Búsqueda]]** - While en búsqueda lineal y binaria
+>4. **[[Procesamiento de Archivos]]** - Lectura línea por línea con while
+>5. **[[Concurrencia y Threads]]** - Bucles infinitos en programación concurrente
+>6. **[[Optimización de Código]]** - Eficiencia en bucles repetitivos
 
 ---
 

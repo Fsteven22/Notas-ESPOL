@@ -481,24 +481,24 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Tipos de Errores (Sistemáticos, Aleatorios y de Lectura)\|Tipos de Errores (Sistemáticos, Aleatorios y de Lectura)]] - Fundamentos de errores
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis de Datos y Errores/Incertidumbres Experimentales\|Incertidumbres Experimentales]] - Propagación y análisis avanzado
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Mediciones e Instrumentos/Mediciones Fundamentales\|Mediciones Fundamentales]] - Principios básicos de medición
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Mediciones e Instrumentos/Uso del Calibrador de Vernier (Pie de Rey)\|Uso del Calibrador de Vernier (Pie de Rey)]] - Técnicas específicas
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Mediciones e Instrumentos/Otros Instrumentos de Medición\|Otros Instrumentos de Medición]] - Características de precisión
+> - [[Tipos de Errores (Sistemáticos, Aleatorios y de Lectura)]] - Fundamentos de errores
+> - [[Incertidumbres Experimentales]] - Propagación y análisis avanzado
+> - [[Mediciones Fundamentales]] - Principios básicos de medición
+> - [[Uso del Calibrador de Vernier (Pie de Rey)]] - Técnicas específicas
+> - [[Otros Instrumentos de Medición]] - Características de precisión
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Sistema de unidades
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Conocimientos Previos a las Prácticas\|Conocimientos Previos a las Prácticas]] - Conceptos básicos
+> - [[Unidades y Magnitudes Físicas]] - Sistema de unidades
+> - [[Conocimientos Previos a las Prácticas]] - Conceptos básicos
 > - **Aritmética básica**: Operaciones con decimales y porcentajes
 > - **Estadística elemental**: Concepto de media y desviación
 >
 > [!note] **Temas Avanzados**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis de Datos y Errores/Incertidumbres Experimentales\|Incertidumbres Experimentales]] - Propagación de incertidumbres
+> - [[Incertidumbres Experimentales]] - Propagación de incertidumbres
 > - **Estadística inferencial**: Intervalos de confianza
 > - **Metrología**: Trazabilidad y calibración
 > - **Normas ISO/GUM**: Guías internacionales para incertidumbre

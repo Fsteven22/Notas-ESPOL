@@ -83,7 +83,6 @@
 >     F --> G[Aplicar Στ = 0]
 >     G --> H[Resolver Sistema de Ecuaciones]
 >     H --> I[Verificar Resultados]
->     
 >     style A fill:#e1f5fe
 >     style C fill:#f3e5f5
 >     style F fill:#fff3e0
@@ -386,12 +385,12 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Equilibrio\|Equilibrio]] - Fundamentos teóricos del equilibrio
-> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Centro de Gravedad (CG)\|Centro de Gravedad (CG)]] - Localización del centro de gravedad
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Torque y Equilibrio Rotacional\|Torque y Equilibrio Rotacional]] - Análisis detallado de torques
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Fuerzas y Diagramas de Cuerpo Libre\|Fuerzas y Diagramas de Cuerpo Libre]] - Técnicas de DCL
-> - [[Aplicaciones de Equilibrio\|Aplicaciones de Equilibrio]] - Ejercicios adicionales
-> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Elasticidad\|Elasticidad]] - Deformaciones en equilibrio
+> - [[Equilibrio]] - Fundamentos teóricos del equilibrio
+> - [[Centro de Gravedad (CG)]] - Localización del centro de gravedad
+> - [[Torque y Equilibrio Rotacional]] - Análisis detallado de torques
+> - [[Fuerzas y Diagramas de Cuerpo Libre]] - Técnicas de DCL
+> - [[Aplicaciones de Equilibrio]] - Ejercicios adicionales
+> - [[Elasticidad]] - Deformaciones en equilibrio
 
 ## 🔧 Formulario de Consulta Rápida
 

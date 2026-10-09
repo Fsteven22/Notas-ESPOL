@@ -417,10 +417,10 @@ graph TD
 
 > [!quote] 🔗 Enlaces a Otras Notas
 > 
-> - [[Python Basics\|Python Basics]] - Fundamentos de Python
-> - [[Data Types\|Data Types]] - Tipos de datos en Python
-> - [[Lists vs Arrays\|Lists vs Arrays]] - Comparación detallada
-> - [[Mathematical Operations\|Mathematical Operations]] - Operaciones matemáticas avanzadas
+> - [[Python Basics]] - Fundamentos de Python
+> - [[Data Types]] - Tipos de datos en Python
+> - [[Lists vs Arrays]] - Comparación detallada
+> - [[Mathematical Operations]] - Operaciones matemáticas avanzadas
 
 ---
 
@@ -430,17 +430,17 @@ graph TD
 > 
 > **Prerrequisitos:**
 > 
-> - [[Python Fundamentals\|Python Fundamentals]] - Sintaxis básica de Python
-> - [[Python Lists\|Python Lists]] - Manejo de listas en Python
-> - [[Basic Math Operations\|Basic Math Operations]] - Operaciones matemáticas básicas
+> - [[Python Fundamentals]] - Sintaxis básica de Python
+> - [[Python Lists]] - Manejo de listas en Python
+> - [[Basic Math Operations]] - Operaciones matemáticas básicas
 > 
 > **Para Profundizar:**
 > 
-> - [[NumPy Advanced Indexing\|NumPy Advanced Indexing]] - Indexación avanzada
-> - [[NumPy Broadcasting\|NumPy Broadcasting]] - Reglas de broadcasting
-> - [[Pandas Introduction\|Pandas Introduction]] - Siguiente paso: análisis de datos
-> - [[Matplotlib with NumPy\|Matplotlib with NumPy]] - Visualización de datos
-> - [[SciPy Overview\|SciPy Overview]] - Computación científica avanzada
+> - [[NumPy Advanced Indexing]] - Indexación avanzada
+> - [[NumPy Broadcasting]] - Reglas de broadcasting
+> - [[Pandas Introduction]] - Siguiente paso: análisis de datos
+> - [[Matplotlib with NumPy]] - Visualización de datos
+> - [[SciPy Overview]] - Computación científica avanzada
 
 ---
 

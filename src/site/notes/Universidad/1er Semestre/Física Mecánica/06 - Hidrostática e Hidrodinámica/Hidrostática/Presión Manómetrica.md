@@ -25,14 +25,11 @@
 > graph TB
 >     A[Presión Absoluta<br/>P_abs = P_atm + P_man] --> B[Presión Atmosférica<br/>P_atm ≈ 101.325 kPa]
 >     A --> C[Presión Manométrica<br/>P_man = P_abs - P_atm]
->     
 >     D[Casos Especiales] --> E[P_man > 0<br/>Presión Positiva<br/>Sobrepresión]
 >     D --> F[P_man = 0<br/>Presión Atmosférica<br/>Sin diferencia]
 >     D --> G[P_man < 0<br/>Presión Negativa<br/>Vacío Parcial]
->     
 >     H[Referencia] --> I[Vacío Absoluto<br/>P = 0 Pa<br/>Referencia teórica]
 >     H --> J[Nivel del Mar<br/>P_atm = 1 atm<br/>Referencia práctica]
->     
 >     style A fill:#e8f5e8
 >     style B fill:#e1f5fe
 >     style C fill:#fff3e0
@@ -61,10 +58,8 @@
 >     A[Recipiente con Gas<br/>Presión P_gas] --> B[Tubo en U<br/>con Mercurio]
 >     B --> C[Rama Abierta<br/>Presión Atmosférica]
 >     B --> D[Diferencia de Altura h]
->     
 >     E[Equilibrio de Presiones] --> F[P_gas = P_atm + ρ_Hg × g × h]
 >     F --> G[P_manométrica = ρ_Hg × g × h]
->     
 >     style A fill:#fff3e0
 >     style B fill:#e1f5fe
 >     style C fill:#f3e5f5
@@ -215,22 +210,22 @@
 ## Referencias
 
 > [!quote] Notas Relacionadas
-> - [[Presión y Densidad 1\|Presión y Densidad 1]]
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrostática/El Principio de Pascal\|El Principio de Pascal]]
-> - [[Principio de los Vasos Comunicantes\|Principio de los Vasos Comunicantes]]
-> - [[Módulo de Compresibilidad\|Módulo de Compresibilidad]]
+> - [[Presión y Densidad 1]]
+> - [[El Principio de Pascal]]
+> - [[Principio de los Vasos Comunicantes]]
+> - [[Módulo de Compresibilidad]]
 
 ## Notas Recomendadas
 
 > [!info] Prerrequisitos
-> - [[Presión y Densidad 1\|Presión y Densidad 1]]
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Fuerzas y Diagramas de Cuerpo Libre\|Fuerzas y Diagramas de Cuerpo Libre]]
-> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Equilibrio\|Equilibrio]]
+> - [[Presión y Densidad 1]]
+> - [[Fuerzas y Diagramas de Cuerpo Libre]]
+> - [[Equilibrio]]
 >
 > [!tip] Continuación del Tema
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrodinámica/Viscosidad y Número de Reynolds\|Viscosidad y Número de Reynolds]]
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrodinámica/Ecuación de Continuidad y Bernoulli\|Ecuación de Continuidad y Bernoulli]]
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrodinámica/Flujo Laminar y Ecuación de Poiseuille\|Flujo Laminar y Ecuación de Poiseuille]]
+> - [[Viscosidad y Número de Reynolds]]
+> - [[Ecuación de Continuidad y Bernoulli]]
+> - [[Flujo Laminar y Ecuación de Poiseuille]]
 
 ---
 

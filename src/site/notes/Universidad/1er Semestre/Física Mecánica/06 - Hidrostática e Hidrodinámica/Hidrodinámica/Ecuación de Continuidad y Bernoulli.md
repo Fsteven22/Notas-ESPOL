@@ -117,13 +117,10 @@ graph LR
 >     A[Energía Total del Fluido] --> B[Energía de Presión<br/>P]
 >     A --> C[Energía Cinética<br/>½ρv²]
 >     A --> D[Energía Potencial<br/>ρgh]
->     
 >     B --> E[Intercambio<br/>Energético]
 >     C --> E
 >     D --> E
->     
 >     E --> F[Conservación:<br/>E₁ = E₂]
->     
 >     style A fill:#4ecdc4,stroke:#20c997,color:#fff
 >     style E fill:#ffd93d,stroke:#fd7e14,color:#000
 >     style F fill:#96ceb4,stroke:#198754,color:#fff
@@ -259,29 +256,29 @@ graph LR
 
 > [!quote]+ Enlaces a Otras Notas
 > 
-> - [[El Principio de Arquímedes y Flotación 1\|El Principio de Arquímedes y Flotación 1]]
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrostática/El Principio de Pascal\|El Principio de Pascal]]
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrodinámica/Viscosidad y Número de Reynolds\|Viscosidad y Número de Reynolds]]
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrodinámica/Flujo Laminar y Ecuación de Poiseuille\|Flujo Laminar y Ecuación de Poiseuille]]
-> - [[Pérdidas de Carga en Tuberías\|Pérdidas de Carga en Tuberías]]
+> - [[El Principio de Arquímedes y Flotación 1]]
+> - [[El Principio de Pascal]]
+> - [[Viscosidad y Número de Reynolds]]
+> - [[Flujo Laminar y Ecuación de Poiseuille]]
+> - [[Pérdidas de Carga en Tuberías]]
 
 ## Notas Complementarias Recomendadas
 
 > [!info]+ Prerrequisitos
 > 
-> - [[Conceptos de Presión\|Conceptos de Presión]]
-> - [[Energía Cinética y Potencial\|Energía Cinética y Potencial]]
-> - [[Densidad y Caudal\|Densidad y Caudal]]
-> - [[Ecuación de Continuidad\|Ecuación de Continuidad]]
-> - [[El medidor de Venturi\|El medidor de Venturi]]
+> - [[Conceptos de Presión]]
+> - [[Energía Cinética y Potencial]]
+> - [[Densidad y Caudal]]
+> - [[Ecuación de Continuidad]]
+> - [[El medidor de Venturi]]
 >
 > [!success]+ Para Profundizar
 > 
-> - [[Flujo Turbulento vs Laminar\|Flujo Turbulento vs Laminar]]
-> - [[Pérdidas por Fricción\|Pérdidas por Fricción]]
-> - [[Bombas y Turbinas Hidráulicas\|Bombas y Turbinas Hidráulicas]]
-> - [[Mecánica de Fluidos Computacional\|Mecánica de Fluidos Computacional]]
-> - [[Aerodinámica Avanzada\|Aerodinámica Avanzada]]
+> - [[Flujo Turbulento vs Laminar]]
+> - [[Pérdidas por Fricción]]
+> - [[Bombas y Turbinas Hidráulicas]]
+> - [[Mecánica de Fluidos Computacional]]
+> - [[Aerodinámica Avanzada]]
 
 ---
 

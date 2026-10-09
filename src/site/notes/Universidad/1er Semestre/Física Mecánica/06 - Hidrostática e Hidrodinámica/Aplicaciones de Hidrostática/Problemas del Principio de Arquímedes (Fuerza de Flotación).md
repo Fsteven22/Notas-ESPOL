@@ -87,17 +87,13 @@
 > graph TD
 >     A[Objeto Flotando] --> B[Peso W = ρo·g·Vo]
 >     A --> C[Empuje E = ρf·g·Vd]
->     
 >     B -->|Hacia abajo| D[Centro de Gravedad]
 >     C -->|Hacia arriba| E[Centro de Flotación]
->     
 >     F[Equilibrio: E = W] --> G[ρo·Vo = ρf·Vd]
 >     G --> H[Fracción sumergida: Vd/Vo = ρo/ρf]
->     
 >     I[Casos] --> J[ρo < ρf: Flota]
 >     I --> K[ρo = ρf: Suspendido]
 >     I --> L[ρo > ρf: Se hunde]
->     
 >     style A fill:#e3f2fd
 >     style B fill:#ffcdd2
 >     style C fill:#c8e6c9
@@ -374,19 +370,19 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrostática/El Principio de Arquímedes y Flotación\|El Principio de Arquímedes y Flotación]] - Fundamentos teóricos
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Aplicaciones de Hidrostática/Problemas de Presión en un Fluido\|Problemas de Presión en un Fluido]] - Base hidrostática
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Fundamentos de Hidrostática e Hidrodinámica/Peso Real vs Peso Aparente\|Peso Real vs Peso Aparente]] - Conceptos relacionados
-> - [[Fundamentos de Hidrostática e Hidrodinámica\|Fundamentos de Hidrostática e Hidrodinámica]] - Principios generales
+> - [[El Principio de Arquímedes y Flotación]] - Fundamentos teóricos
+> - [[Problemas de Presión en un Fluido]] - Base hidrostática
+> - [[Peso Real vs Peso Aparente]] - Conceptos relacionados
+> - [[Fundamentos de Hidrostática e Hidrodinámica]] - Principios generales
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Sistema de unidades
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para análisis de fuerzas
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Fuerzas y Diagramas de Cuerpo Libre\|Fuerzas y Diagramas de Cuerpo Libre]] - Equilibrio de fuerzas
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Fundamentos de Hidrostática e Hidrodinámica/Presión y Densidad\|Presión y Densidad]] - Propiedades de fluidos
+> - [[Unidades y Magnitudes Físicas]] - Sistema de unidades
+> - [[Vectores]] - Para análisis de fuerzas
+> - [[Fuerzas y Diagramas de Cuerpo Libre]] - Equilibrio de fuerzas
+> - [[Presión y Densidad]] - Propiedades de fluidos
 
 ---
 
@@ -718,10 +714,10 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrostática/El Principio de Arquímedes y Flotación\|El Principio de Arquímedes y Flotación]] - Fundamentos teóricos
-> - [[Presión Manométrica\|Presión Manométrica]] - Cálculos de presión
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Fundamentos de Hidrostática e Hidrodinámica/Presión y Densidad\|Presión y Densidad]] - Propiedades de fluidos
-> - [[Hidrostática\|Hidrostática]] - Fundamentos de fluidos en reposo
+> - [[El Principio de Arquímedes y Flotación]] - Fundamentos teóricos
+> - [[Presión Manométrica]] - Cálculos de presión
+> - [[Presión y Densidad]] - Propiedades de fluidos
+> - [[Hidrostática]] - Fundamentos de fluidos en reposo
 
 ## 🧪 Experimentos Sugeridos
 

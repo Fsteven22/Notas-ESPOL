@@ -434,23 +434,23 @@ flowchart TD
 ## 📚 Referencias  
 
 > [!quote] 🔗 Enlaces a Otras Notas
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 2 - Tipos de datos, operadores, cadenas, listas y aleatoriedad/Módulo 2.1 Variables y Tipos de Datos\|Módulo 2.1 Variables y Tipos de Datos]] - Scope y tipos de variables
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 4 - Estructuras de control/Módulo 4.1 Condicional\|Módulo 4.1 Condicional]] - Lógica dentro de funciones
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 4 - Estructuras de control/Módulo 4.2 Iteradores for\|Módulo 4.2 Iteradores for]] - Bucles en funciones
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 4 - Estructuras de control/Módulo 4.3 Bucle While\|Módulo 4.3 Bucle While]] - Bucles de validación en funciones
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 2 - Tipos de datos, operadores, cadenas, listas y aleatoriedad/Módulo 2.3 Listas y Tuplas en Python\|Módulo 2.3 Listas y Tuplas en Python]] - Funciones que trabajan con listas
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo general - Funciones especiales/Funciones Built-in\|Funciones Built-in]] - Funciones predefinidas de Python
+> - [[Módulo 2.1 Variables y Tipos de Datos]] - Scope y tipos de variables
+> - [[Módulo 4.1 Condicional]] - Lógica dentro de funciones
+> - [[Módulo 4.2 Iteradores for]] - Bucles en funciones
+> - [[Módulo 4.3 Bucle While]] - Bucles de validación en funciones
+> - [[Módulo 2.3 Listas y Tuplas en Python]] - Funciones que trabajan con listas
+> - [[Funciones Built-in]] - Funciones predefinidas de Python
 
 ## 🎓 Notas Recomendadas
 
 > [!note] 📖 Para Complementar tu Aprendizaje
-> - [[Parámetros *args y **kwargs\|Parámetros *args y **kwargs]] - Argumentos variables
-> - [[Funciones Lambda\|Funciones Lambda]] - Funciones anónimas
-> - [[Decoradores\|Decoradores]] - Modificar comportamiento de funciones
-> - [[Módulos y Paquetes\|Módulos y Paquetes]] - Organizar funciones en archivos
-> - [[Universidad/2do Semestre/Programación orientada a objetos/Programación Orientada a Objetos\|Programación Orientada a Objetos]] - Métodos como funciones de clase
-> - [[Manejo de Excepciones\|Manejo de Excepciones]] - Control de errores en funciones
-> - [[Testing y Debugging\|Testing y Debugging]] - Probar y depurar funciones
+> - [[Parámetros *args y **kwargs]] - Argumentos variables
+> - [[Funciones Lambda]] - Funciones anónimas
+> - [[Decoradores]] - Modificar comportamiento de funciones
+> - [[Módulos y Paquetes]] - Organizar funciones en archivos
+> - [[Programación Orientada a Objetos]] - Métodos como funciones de clase
+> - [[Manejo de Excepciones]] - Control de errores en funciones
+> - [[Testing y Debugging]] - Probar y depurar funciones
 
 ---
 

@@ -26,15 +26,12 @@
 >     A[Section 1:<br/>Vocabulary] --> E[Section 4:<br/>Real Application]
 >     B[Section 2:<br/>Grammar] --> E
 >     C[Section 3:<br/>Functional Language] --> E
->     
 >     E --> F[Reading:<br/>Understand texts<br/>about success]
 >     E --> G[Writing:<br/>Express your<br/>experiences]
 >     E --> H[Speaking:<br/>Discuss goals<br/>& motivation]
->     
 >     F --> I[Real-world<br/>English mastery]
 >     G --> I
 >     H --> I
->     
 >     style A fill:#e1ffe1
 >     style B fill:#fff4e1
 >     style C fill:#e1f5ff
@@ -1210,7 +1207,6 @@ mindmap
 >     C --> D[Functions<br/>Practiced]
 >     D --> E[Skills<br/>Applied]
 >     E --> F[Confidence<br/>Achieved!]
->     
 >     style A fill:#e1ffe1
 >     style F fill:#ffd700
 > ```

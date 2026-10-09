@@ -867,30 +867,30 @@ graph TD
 > 
 > **Prerequisites (Prerrequisitos):**
 > 
-> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/I – Fundamentos del Espacio Tridimensional/02 - Vectores en R3\|02 - Vectores en R3]] - Fundamentos vectoriales
-> - [[03 - Aplicaciones geométricas básicas\|03 - Aplicaciones geométricas básicas]] - Geometría en 3D
-> - [[Cónicas\|Cónicas]] - Círculos, elipses, parábolas, hipérbolas en 2D
-> - [[Álgebra de ecuaciones cuadráticas\|Álgebra de ecuaciones cuadráticas]] - Formas canónicas
+> - [[02 - Vectores en R3]] - Fundamentos vectoriales
+> - [[03 - Aplicaciones geométricas básicas]] - Geometría en 3D
+> - [[Cónicas]] - Círculos, elipses, parábolas, hipérbolas en 2D
+> - [[Álgebra de ecuaciones cuadráticas]] - Formas canónicas
 > 
 > **Temas relacionados:**
 > 
-> - [[Coordenadas cilíndricas y esféricas\|Coordenadas cilíndricas y esféricas]] - Sistemas alternativos
-> - [[Ecuaciones de superficies\|Ecuaciones de superficies]] - Representaciones
-> - [[Curvas de nivel\|Curvas de nivel]] - Visualización 2D
-> - [[Gradiente y superficies de nivel\|Gradiente y superficies de nivel]] - Cálculo vectorial
+> - [[Coordenadas cilíndricas y esféricas]] - Sistemas alternativos
+> - [[Ecuaciones de superficies]] - Representaciones
+> - [[Curvas de nivel]] - Visualización 2D
+> - [[Gradiente y superficies de nivel]] - Cálculo vectorial
 > 
 > **Aplicaciones:**
 > 
-> - [[Optimización en superficies\|Optimización en superficies]] - Máximos y mínimos
-> - [[Integrales de superficie\|Integrales de superficie]] - Cálculo multivariable
-> - [[Campos vectoriales en superficies\|Campos vectoriales en superficies]] - Física matemática
-> - [[Geometría diferencial\|Geometría diferencial]] - Curvaturas
+> - [[Optimización en superficies]] - Máximos y mínimos
+> - [[Integrales de superficie]] - Cálculo multivariable
+> - [[Campos vectoriales en superficies]] - Física matemática
+> - [[Geometría diferencial]] - Curvaturas
 > 
 > **Temas siguientes:**
 > 
-> - [[05 - Superficies de revolución\|05 - Superficies de revolución]] - Rotación de curvas
-> - [[06 - Ecuaciones paramétricas de superficies\|06 - Ecuaciones paramétricas de superficies]] - Parametrización
-> - [[Topología de superficies\|Topología de superficies]] - Propiedades globales
+> - [[05 - Superficies de revolución]] - Rotación de curvas
+> - [[06 - Ecuaciones paramétricas de superficies]] - Parametrización
+> - [[Topología de superficies]] - Propiedades globales
 
 ---
 

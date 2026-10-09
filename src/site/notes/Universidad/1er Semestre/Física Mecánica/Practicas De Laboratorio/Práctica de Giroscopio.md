@@ -221,22 +221,22 @@ graph LR
 
 > [!quote] 🔗 **Enlaces a Otras Notas**
 > 
-> - [[Momento Angular y Conservación\|Momento Angular y Conservación]]
-> - [[Rotación de Cuerpos Rígidos\|Rotación de Cuerpos Rígidos]]
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Torque y Equilibrio Rotacional\|Torque y Equilibrio Rotacional]]
-> - [[Sistemas de Referencia Inerciales\|Sistemas de Referencia Inerciales]]
-> - [[Aplicaciones de la Mecánica Rotacional\|Aplicaciones de la Mecánica Rotacional]]
+> - [[Momento Angular y Conservación]]
+> - [[Rotación de Cuerpos Rígidos]]
+> - [[Torque y Equilibrio Rotacional]]
+> - [[Sistemas de Referencia Inerciales]]
+> - [[Aplicaciones de la Mecánica Rotacional]]
 
 ## 📖 Notas Recomendadas
 
 > [!tip] 📋 **Para Complementar el Estudio**
 > 
-> - [[Principio de Conservación del Momento Angular\|Principio de Conservación del Momento Angular]]
-> - [[Movimiento de Precesión en Trompos\|Movimiento de Precesión en Trompos]]
-> - [[Efectos Giroscópicos en Ingeniería\|Efectos Giroscópicos en Ingeniería]]
-> - [[Historia y Desarrollo del Giroscopio\|Historia y Desarrollo del Giroscopio]]
-> - [[Giroscopios Ópticos y Cuánticos\|Giroscopios Ópticos y Cuánticos]]
-> - [[Navegación Inercial\|Navegación Inercial]]
+> - [[Principio de Conservación del Momento Angular]]
+> - [[Movimiento de Precesión en Trompos]]
+> - [[Efectos Giroscópicos en Ingeniería]]
+> - [[Historia y Desarrollo del Giroscopio]]
+> - [[Giroscopios Ópticos y Cuánticos]]
+> - [[Navegación Inercial]]
 
 ---
 

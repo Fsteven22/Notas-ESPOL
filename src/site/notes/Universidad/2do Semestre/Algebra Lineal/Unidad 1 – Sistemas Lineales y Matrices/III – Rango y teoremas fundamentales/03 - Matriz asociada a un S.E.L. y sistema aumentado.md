@@ -271,13 +271,10 @@ graph TB
 >     A[Matriz Aumentada<br/>A|b] --> B[Operaciones elementales]
 >     B --> C[Eliminación Gaussiana]
 >     B --> D[Gauss-Jordan]
->     
 >     C --> E[Forma escalonada]
 >     D --> F[Forma escalonada reducida]
->     
 >     E --> G[Resolver sistema]
 >     F --> G
->     
 >     style A fill:#e1f5ff
 >     style G fill:#e1ffe1
 > ```
@@ -602,18 +599,14 @@ graph TB
 > ```mermaid
 > graph TD
 >     A[Sistema Ax = b] --> B{Comparar m y n}
->     
 >     B -->|m = n| C[Sistema Cuadrado]
 >     B -->|m < n| D[Subdeterminado]
 >     B -->|m > n| E[Sobredeterminado]
->     
 >     C --> F{det A ≠ 0?}
 >     F -->|Sí| G[Solución única<br/>x = A⁻¹b]
 >     F -->|No| H[Infinitas o ninguna]
->     
 >     D --> I[Infinitas soluciones<br/>o ninguna]
 >     E --> J[Generalmente<br/>sin solución exacta]
->     
 >     style C fill:#e1ffe1
 >     style D fill:#fff4e1
 >     style E fill:#ffe1e1
@@ -1225,16 +1218,12 @@ graph TB
 > ```mermaid
 > graph TB
 >     A[Sistema 3×3] --> B{¿Los planos<br/>se intersectan?}
->     
 >     B -->|Sí| C{¿En cuántos puntos?}
 >     B -->|No| D[Sin solución<br/>planos paralelos]
->     
 >     C -->|Uno| E[Solución única<br/>punto]
 >     C -->|Infinitos| F{¿Forma?}
->     
 >     F -->|Recta| G[Infinitas en recta]
 >     F -->|Plano| H[Infinitas en plano]
->     
 >     style E fill:#e1ffe1
 >     style D fill:#ffe1e1
 >     style G fill:#fff4e1

@@ -97,7 +97,6 @@
 >     C --> D[Buscar Coincidencia en Vernier]
 >     D --> E[Sumar: Principal + Vernier]
 >     E --> F[Verificar y Registrar]
->     
 >     style A fill:#e1f5fe
 >     style B fill:#f3e5f5
 >     style C fill:#fff3e0
@@ -365,24 +364,24 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Mediciones e Instrumentos/Mediciones Fundamentales\|Mediciones Fundamentales]] - Conceptos básicos de medición
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis de Datos y Errores/Errores Absolutos y Relativos\|Errores Absolutos y Relativos]] - Análisis de incertidumbres
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Presentación de Resultados/Cifras Significativas\|Cifras Significativas]] - Expresión de resultados
+> - [[Mediciones Fundamentales]] - Conceptos básicos de medición
+> - [[Errores Absolutos y Relativos]] - Análisis de incertidumbres
+> - [[Cifras Significativas]] - Expresión de resultados
 > - **Próximas notas**: Otros instrumentos de medición, Incertidumbres experimentales
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Mediciones e Instrumentos/Mediciones Fundamentales\|Mediciones Fundamentales]] - Base conceptual
+> - [[Mediciones Fundamentales]] - Base conceptual
 > - **Aritmética básica**: Suma, multiplicación decimal
 > - **Conceptos de precisión**: Diferencia entre exactitud y precisión
 >
 > [!note] **Temas Siguientes**
 > 
-> - [[Micrómetro\|Micrómetro]] - Instrumento de mayor precisión
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis de Datos y Errores/Incertidumbres Experimentales\|Incertidumbres Experimentales]] - Propagación de errores
-> - [[Problemas de Medición\|Problemas de Medición]] - Ejercicios aplicados
+> - [[Micrómetro]] - Instrumento de mayor precisión
+> - [[Incertidumbres Experimentales]] - Propagación de errores
+> - [[Problemas de Medición]] - Ejercicios aplicados
 
 ---
 

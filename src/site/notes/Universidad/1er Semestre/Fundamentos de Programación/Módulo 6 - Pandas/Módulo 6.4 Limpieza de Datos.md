@@ -400,7 +400,12 @@
 > import re
 > 
 > # Encontrar pasajeros con iniciales en el nombre
-> con_iniciales = titanic_limpio[titanic_limpio['name'].str.contains(r'\b[A-Z]\.
+> con_iniciales = titanic_limpio[titanic_limpio['name'].str.contains(r'\b[A-Z]\.$', na=False)]
+> 
+> print(f"Pasajeros con títulos nobles: {len(apellidos_nobles)}")
+> print(f"Nombres muy largos: {len(nombres_largos)}")
+> print(f"Con iniciales: {len(con_iniciales)}")
+> ```
 >
 > [!warning] **Query Avanzado** 🔍
 > 
@@ -652,68 +657,3 @@
 >     # - La edad puede imputarse por título y clase
 >     # - El puerto de embarque
 > ```
-, na=False)]
-> 
-> print(f"Pasajeros con títulos nobles: {len(apellidos_nobles)}")
-> print(f"Nombres muy largos: {len(nombres_largos)}")
-> print(f"Con iniciales: {len(con_iniciales)}")
-> ```
->
-> [!warning] **Query Avanzado** 🔍
-> 
-> {{CODE_BLOCK_18}}
-
-## 🧼 7. Pipeline Completo de Limpieza
-
-> [!success] **Función Integral de Limpieza** 🏭
-> 
-> {{CODE_BLOCK_19}}
-
-## 📊 8. Validación de la Limpieza
-
-> [!info] **Verificación de Calidad** ✅
-> 
-> {{CODE_BLOCK_20}}
-
-## ⚠️ Errores Comunes y Mejores Prácticas
-
-> [!warning] **Errores Frecuentes** 🚫
-> 
-> ### 1. **Eliminar Datos Sin Análisis Previo**
-> 
-> {{CODE_BLOCK_21}}
-> 
-> ### 2. **Imputación Ingenua**
-> 
-> {{CODE_BLOCK_22}}
-> 
-> ### 3. **No Validar Después de Limpiar**
-> 
-> {{CODE_BLOCK_23}}
->
-> [!tip] **Mejores Prácticas** ⭐
-> 
-> ### 1. **Trabajar con Copias**
-> 
-> {{CODE_BLOCK_24}}
-> 
-> ### 2. **Documentar Decisiones**
-> 
-> {{CODE_BLOCK_25}}
-> 
-> ### 3. **Preservar Datos Originales**
-> 
-> {{CODE_BLOCK_26}}
-
-## 🎯 Ejercicios Prácticos
-
-> [!example] **Ejercicio 1: Limpieza Completa del Titanic** 🚢
-> 
-> Implementa un pipeline personalizado que:
-> 
-> 1. Analice el patrón de valores faltantes
-> 2. Decida estrategias específicas por columna
-> 3. Cree nuevas variables derivadas
-> 4. Valide la calidad final
-> 
-> {{CODE_BLOCK_27}}

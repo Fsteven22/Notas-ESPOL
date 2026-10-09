@@ -35,11 +35,9 @@
 >     A[Pared del tubo<br/>v = 0] --> B[Perfil Parabólico]
 >     B --> C[Centro del tubo<br/>v = vmáx]
 >     B --> D[Velocidad promedio<br/>v̄ = vmáx/2]
->     
 >     E[Características] --> F[Sin mezclado<br/>entre capas]
 >     E --> G[Pérdidas mínimas<br/>por fricción]
 >     E --> H[Flujo predecible<br/>y estable]
->     
 >     style A fill:#ff6b6b,stroke:#d63384,color:#fff
 >     style C fill:#45b7d1,stroke:#0d6efd,color:#fff
 >     style D fill:#96ceb4,stroke:#198754,color:#fff
@@ -256,29 +254,29 @@
 
 > [!quote]+ Enlaces a Otras Notas
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrodinámica/Viscosidad y Número de Reynolds\|Viscosidad y Número de Reynolds]]
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrodinámica/Ecuación de Continuidad y Bernoulli\|Ecuación de Continuidad y Bernoulli]]
-> - [[Pérdidas de Carga en Tuberías\|Pérdidas de Carga en Tuberías]]
-> - [[Flujo en Conductos No Circulares\|Flujo en Conductos No Circulares]]
-> - [[Reología y Fluidos No Newtonianos\|Reología y Fluidos No Newtonianos]]
+> - [[Viscosidad y Número de Reynolds]]
+> - [[Ecuación de Continuidad y Bernoulli]]
+> - [[Pérdidas de Carga en Tuberías]]
+> - [[Flujo en Conductos No Circulares]]
+> - [[Reología y Fluidos No Newtonianos]]
 
 ## Notas Complementarias Recomendadas
 
 > [!info]+ Prerrequisitos
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrodinámica/Viscosidad y Número de Reynolds\|Viscosidad y Número de Reynolds]]
-> - [[Esfuerzos Cortantes en Fluidos\|Esfuerzos Cortantes en Fluidos]]
-> - [[Gradientes de Velocidad\|Gradientes de Velocidad]]
-> - [[Balance de Fuerzas\|Balance de Fuerzas]]
+> - [[Viscosidad y Número de Reynolds]]
+> - [[Esfuerzos Cortantes en Fluidos]]
+> - [[Gradientes de Velocidad]]
+> - [[Balance de Fuerzas]]
 >
 > [!success]+ Para Profundizar
 > 
-> - [[Flujo Turbulento en Tuberías\|Flujo Turbulento en Tuberías]]
-> - [[Pérdidas Singulares y Locales\|Pérdidas Singulares y Locales]]
-> - [[Redes de Tuberías\|Redes de Tuberías]]
-> - [[Bombas y Sistemas de Bombeo\|Bombas y Sistemas de Bombeo]]
-> - [[Transferencia de Calor en Flujo Laminar\|Transferencia de Calor en Flujo Laminar]]
-> - [[Microfluidica Avanzada\|Microfluidica Avanzada]]
+> - [[Flujo Turbulento en Tuberías]]
+> - [[Pérdidas Singulares y Locales]]
+> - [[Redes de Tuberías]]
+> - [[Bombas y Sistemas de Bombeo]]
+> - [[Transferencia de Calor en Flujo Laminar]]
+> - [[Microfluidica Avanzada]]
 
 ---
 

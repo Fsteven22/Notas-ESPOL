@@ -285,11 +285,11 @@ graph TD
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 2 - Tipos de datos, operadores, cadenas, listas y aleatoriedad/Módulo 2.1 Variables y Tipos de Datos\|Módulo 2.1 Variables y Tipos de Datos]] - Comprende qué tipos pueden ser claves
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 2 - Tipos de datos, operadores, cadenas, listas y aleatoriedad/Módulo 2.3 Listas y Tuplas en Python\|Módulo 2.3 Listas y Tuplas en Python]] - Comparación con estructuras ordenadas
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 4 - Estructuras de control/Módulo 4.1 Condicional\|Módulo 4.1 Condicional]] - Verificación de existencia de claves
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 3 - Funciones/Módulo 3.1 Funciones\|Módulo 3.1 Funciones]] - Pasar diccionarios como argumentos
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 5 - Diccionarios/Módulo 5.2 Iterar Diccionarios\|Módulo 5.2 Iterar Diccionarios]] - Siguiente tema del módulo
+> - [[Módulo 2.1 Variables y Tipos de Datos]] - Comprende qué tipos pueden ser claves
+> - [[Módulo 2.3 Listas y Tuplas en Python]] - Comparación con estructuras ordenadas
+> - [[Módulo 4.1 Condicional]] - Verificación de existencia de claves
+> - [[Módulo 3.1 Funciones]] - Pasar diccionarios como argumentos
+> - [[Módulo 5.2 Iterar Diccionarios]] - Siguiente tema del módulo
 
 ## 📚 Notas Recomendadas para Estudio
 
@@ -297,17 +297,17 @@ graph TD
 > 
 > **Prerrequisitos:**
 > 
-> - [[Variables en Python\|Variables en Python]] - Conceptos básicos de variables
-> - [[Tipos de Datos Básicos\|Tipos de Datos Básicos]] - String, int, float, bool
-> - [[Operadores de Comparación\|Operadores de Comparación]] - Para verificaciones
+> - [[Variables en Python]] - Conceptos básicos de variables
+> - [[Tipos de Datos Básicos]] - String, int, float, bool
+> - [[Operadores de Comparación]] - Para verificaciones
 > 
 > **Para Profundizar:**
 > 
-> - [[Módulo 5.2: Iteración de Diccionarios\|Módulo 5.2: Iteración de Diccionarios]] - Recorrer diccionarios
-> - [[Collections Module\|Collections Module]] - defaultdict, Counter, OrderedDict
-> - [[JSON y APIs\|JSON y APIs]] - Trabajo con datos web estructurados
-> - [[Manejo de Errores\|Manejo de Errores]] - Try/except con KeyError
-> - [[Universidad/2do Semestre/Programación orientada a objetos/Programación Orientada a Objetos\|Programación Orientada a Objetos]] - Modelado con diccionarios
+> - [[Módulo 5.2: Iteración de Diccionarios]] - Recorrer diccionarios
+> - [[Collections Module]] - defaultdict, Counter, OrderedDict
+> - [[JSON y APIs]] - Trabajo con datos web estructurados
+> - [[Manejo de Errores]] - Try/except con KeyError
+> - [[Programación Orientada a Objetos]] - Modelado con diccionarios
 
 ---
 

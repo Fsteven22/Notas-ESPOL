@@ -23,14 +23,14 @@
 
 ## Unidad 2 — Superficies y Coordenadas en R³
 
-- [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 2 – Superficies y Coordenadas en ℝ³/I – Superficies Fundamentales/01 - Superficies cuadráticas\|01 - Superficies cuadráticas]]
-- [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 2 – Superficies y Coordenadas en ℝ³/I – Superficies Fundamentales/02 - Superficies cilíndricas\|02 - Superficies cilíndricas]]
-- [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 2 – Superficies y Coordenadas en ℝ³/I – Superficies Fundamentales/03 - Superficies de revolución\|03 - Superficies de revolución]]
+- [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 2 - Superficies y Coordenadas/I – Superficies Fundamentales/01 - Superficies cuadráticas\|01 - Superficies cuadráticas]]
+- [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 2 - Superficies y Coordenadas/I – Superficies Fundamentales/02 - Superficies cilíndricas\|02 - Superficies cilíndricas]]
+- [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 2 - Superficies y Coordenadas/I – Superficies Fundamentales/03 - Superficies de revolución\|03 - Superficies de revolución]]
 - [[04 - Clasificación de superficies por secciones\|04 - Clasificación de superficies por secciones]]
-- [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 2 – Superficies y Coordenadas en ℝ³/II – Sistemas Alternativos de Coordenadas/01 - Coordenadas cilíndricas y esféricas\|01 - Coordenadas cilíndricas y esféricas]]
-- [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 2 – Superficies y Coordenadas en ℝ³/II – Sistemas Alternativos de Coordenadas/02 - Transformaciones entre Coordenadas\|02 - Transformaciones entre Coordenadas]]
+- [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 2 - Superficies y Coordenadas/II - Sistemas de Coordenadas/01 - Coordenadas cilíndricas y esféricas\|01 - Coordenadas cilíndricas y esféricas]]
+- [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 2 - Superficies y Coordenadas/II - Sistemas de Coordenadas/02 - Transformaciones entre Coordenadas\|02 - Transformaciones entre Coordenadas]]
 - [[03 - Representación gráfica de coordenadas cilíndricas\|03 - Representación gráfica de coordenadas cilíndricas]]
-- [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 2 – Superficies y Coordenadas en ℝ³/III – Aspectos Topológicos/01 - Nociones topológicas en Rⁿ\|01 - Nociones topológicas en Rⁿ]]
+- [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 2 - Superficies y Coordenadas/III – Aspectos Topológicos/01 - Nociones topológicas en Rⁿ\|01 - Nociones topológicas en Rⁿ]]
 
 ## Unidad 3 — Funciones de Varias Variables *(15h)*
 
@@ -48,9 +48,9 @@
 - [[06 - Matriz Jacobiana\|06 - Matriz Jacobiana]]
 - [[07 - Teoremas sobre Diferenciabilidad\|07 - Teoremas sobre Diferenciabilidad]]
 - [[01 - Gradiente y Derivadas Direccionales\|01 - Gradiente y Derivadas Direccionales]]
-- [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 3 – Funciones de Varias Variables/IV – Derivadas Direccionales y Reglas de Derivación/02 - Regla de la Cadena\|Universidad/2do Semestre/Cálculo Vectorial/Unidad 3 – Funciones de Varias Variables/IV – Derivadas Direccionales y Reglas de Derivación/02 - Regla de la Cadena]]
+- [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 3 – Funciones de Varias Variables/IV - Derivadas Direccionales/02 - Regla de la Cadena\|Universidad/2do Semestre/Cálculo Vectorial/Unidad 3 – Funciones de Varias Variables/IV - Derivadas Direccionales/02 - Regla de la Cadena]]
 - [[03 - Derivadas Implícitas\|03 - Derivadas Implícitas]]
-- [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 3 – Funciones de Varias Variables/IV – Derivadas Direccionales y Reglas de Derivación/04 - Teorema de la Función Implícita\|04 - Teorema de la Función Implícita]]
+- [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 3 – Funciones de Varias Variables/IV - Derivadas Direccionales/04 - Teorema de la Función Implícita\|04 - Teorema de la Función Implícita]]
 - [[05 - Derivadas de funciones compuestas en notación matricial\|05 - Derivadas de funciones compuestas en notación matricial]]
 - [[01 - Diferencial Total de una Función f(x,y)\|01 - Diferencial Total de una Función f(x,y)]]
 - [[02 - Diferencial de Orden Superior\|02 - Diferencial de Orden Superior]]
@@ -60,7 +60,7 @@
 
 ## Unidad 4 — Optimización *(5h)*
 
-- [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 4 - Optimización de Funciones Escalares de Varias Variables/I – Herramientas de Aproximación/01 - Polinomios de Taylor en Varias Variables\|01 - Polinomios de Taylor en Varias Variables]]
+- [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 4 - Optimización/I - Aproximación/01 - Polinomios de Taylor\|01 - Polinomios de Taylor]]
 - [[01 - Extremos Relativos de Funciones Multivariables\|01 - Extremos Relativos de Funciones Multivariables]]
 - [[02 - Teoremas de Existencia y Clasificación\|02 - Teoremas de Existencia y Clasificación]]
 - [[01 - Multiplicadores de Lagrange\|01 - Multiplicadores de Lagrange]]

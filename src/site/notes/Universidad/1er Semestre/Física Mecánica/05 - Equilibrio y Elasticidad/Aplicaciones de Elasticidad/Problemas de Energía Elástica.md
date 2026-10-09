@@ -344,18 +344,18 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Elasticidad\|Elasticidad]] - Fundamentos teóricos
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Trabajo y Energía\|Trabajo y Energía]] - Principios energéticos generales
-> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Aplicaciones de Elasticidad/Problemas de Deformación por Tensión y Compresión (Ley de Hooke)\|Problemas de Deformación por Tensión y Compresión (Ley de Hooke)]] - Casos básicos
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Principios de Conservación de la Energía\|Principios de Conservación de la Energía]] - Aplicación en sistemas mecánicos
+> - [[Elasticidad]] - Fundamentos teóricos
+> - [[Trabajo y Energía]] - Principios energéticos generales
+> - [[Problemas de Deformación por Tensión y Compresión (Ley de Hooke)]] - Casos básicos
+> - [[Principios de Conservación de la Energía]] - Aplicación en sistemas mecánicos
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para análisis de fuerzas y desplazamientos
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Sistema de unidades
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Trabajo y Energía\|Trabajo y Energía]] - Conceptos fundamentales de energía
+> - [[Vectores]] - Para análisis de fuerzas y desplazamientos
+> - [[Unidades y Magnitudes Físicas]] - Sistema de unidades
+> - [[Trabajo y Energía]] - Conceptos fundamentales de energía
 
 ---
 

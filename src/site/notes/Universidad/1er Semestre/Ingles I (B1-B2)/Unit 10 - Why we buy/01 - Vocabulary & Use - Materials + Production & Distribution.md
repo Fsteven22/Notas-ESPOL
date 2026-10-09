@@ -141,11 +141,9 @@ graph LR
 >     A[Product Description] --> B[Material]
 >     A --> C[Characteristic 1]
 >     A --> D[Characteristic 2]
->     
 >     B --> E[made of cotton]
 >     C --> F[very soft]
 >     D --> G[and comfortable]
->     
 >     style E fill:#e1ffe1
 >     style F fill:#fff4e1
 >     style G fill:#e1f5ff
@@ -188,7 +186,6 @@ graph LR
 >     B --> C[Pick/Harvest]
 >     C --> D[Process/Manufacture]
 >     D --> E[Product]
->     
 >     style A fill:#fff4e1
 >     style D fill:#e1ffe1
 >     style E fill:#e1f5ff
@@ -242,7 +239,6 @@ graph LR
 >     D --> E[Store]
 >     E --> F[Deliver]
 >     F --> G[Customer]
->     
 >     style A fill:#fff4e1
 >     style D fill:#e1f5ff
 >     style G fill:#e1ffe1
@@ -372,11 +368,9 @@ graph LR
 >     A[Product Description] --> B[Material]
 >     A --> C[Production]
 >     A --> D[Distribution]
->     
 >     B --> E["This jacket is made of<br/>waterproof polyester"]
 >     C --> F["It's manufactured in<br/>Vietnam using<br/>sustainable methods"]
 >     D --> G["We ship worldwide and<br/>deliver within 5-7 days"]
->     
 >     style E fill:#e1ffe1
 >     style F fill:#fff4e1
 >     style G fill:#e1f5ff
@@ -596,11 +590,9 @@ mindmap
 > graph LR
 >     A[Vocabulary:<br/>Materials &<br/>Verbs] --> B[Grammar:<br/>Passive Voice]
 >     B --> C[Real Use:<br/>Product<br/>Descriptions]
->     
 >     A -.->|Example| D["cotton, manufacture"]
 >     B -.->|Transform| E["is made of cotton"]
 >     C -.->|Apply| F["This shirt is made<br/>of cotton in India"]
->     
 >     style A fill:#e1ffe1
 >     style B fill:#fff4e1
 >     style C fill:#e1f5ff

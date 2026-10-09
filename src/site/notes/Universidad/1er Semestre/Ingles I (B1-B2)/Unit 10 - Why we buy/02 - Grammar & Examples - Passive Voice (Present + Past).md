@@ -30,11 +30,9 @@
 >     A[Active Voice] --> B[Subject<br/>WHO does it]
 >     B --> C[Verb]
 >     C --> D[Object<br/>WHAT receives]
->     
 >     E[Passive Voice] --> F[Subject<br/>WHAT receives]
 >     F --> G[be + past participle]
 >     G --> H[by + agent<br/>optional]
->     
 >     style A fill:#ffe1e1
 >     style E fill:#e1ffe1
 > ```
@@ -70,7 +68,6 @@
 >     C --> D[Add be:<br/>Shoes are...]
 >     D --> E[Past participle:<br/>Shoes are made]
 >     E --> F[Optional by:<br/>Shoes are made<br/>by them]
->     
 >     style A fill:#ffe1e1
 >     style E fill:#e1ffe1
 >     style F fill:#fff4e1
@@ -122,10 +119,8 @@
 >     A{¿Usar BY?} --> B{¿Es importante<br/>QUIÉN lo hizo?}
 >     B -->|Sí| C[✅ USE by + agent]
 >     B -->|No| D[❌ OMIT by + agent]
->     
 >     C --> E[This book was written<br/>by García Márquez]
 >     D --> F[Coffee is grown<br/>in Colombia]
->     
 >     style C fill:#e1ffe1
 >     style D fill:#ffe1e1
 > ```
@@ -204,10 +199,8 @@
 > graph LR
 >     A[Present Passive] --> B[is/are + PP]
 >     B --> C[General facts<br/>Current situations]
->     
 >     D[Past Passive] --> E[was/were + PP]
 >     E --> F[Completed actions<br/>Historical facts]
->     
 >     style B fill:#e1ffe1
 >     style E fill:#fff4e1
 > ```
@@ -243,7 +236,6 @@
 >     C --> D[Step 3: Change verb<br/>exported → was/were]
 >     D --> E[Step 4: Add past participle<br/>The bananas were exported]
 >     E --> F[Step 5: Add time<br/>The bananas were<br/>exported yesterday]
->     
 >     style A fill:#ffe1e1
 >     style E fill:#e1ffe1
 >     style F fill:#e1f5ff
@@ -381,13 +373,10 @@
 > graph TD
 >     A{¿Qué es más importante?} --> B[WHO does it]
 >     A --> C[WHAT receives it]
->     
 >     B --> D[Use ACTIVE]
 >     C --> E[Use PASSIVE]
->     
 >     D --> F[Example:<br/>Steve Jobs designed<br/>the iPhone]
 >     E --> G[Example:<br/>The iPhone was<br/>designed in 2007]
->     
 >     style D fill:#ffe1e1
 >     style E fill:#e1ffe1
 > ```
@@ -648,7 +637,6 @@ mindmap
 >     A[Vocabulary:<br/>Materials] --> B[Grammar:<br/>Passive Voice]
 >     B --> C[Functional Language:<br/>Real Descriptions]
 >     C --> D[Speaking:<br/>Natural Use]
->     
 >     style A fill:#e1ffe1
 >     style B fill:#fff4e1
 >     style C fill:#e1f5ff

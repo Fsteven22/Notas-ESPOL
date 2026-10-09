@@ -222,12 +222,12 @@ mindmap
 
 > [!quote]+ **Enlaces a Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 2 - Tipos de datos, operadores, cadenas, listas y aleatoriedad/Módulo 2.1 Variables y Tipos de Datos\|Módulo 2.1 Variables y Tipos de Datos]] - Fundamentos de almacenamiento
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 4 - Estructuras de control/Módulo 4.1 Condicional\|Módulo 4.1 Condicional]] - If, loops, funciones
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 3 - Funciones/Módulo 3.1 Funciones\|Módulo 3.1 Funciones]] - Modularización del código
-> - [[Librerías Estándar\|Librerías Estándar]] - Herramientas incluidas
-> - [[Entornos de Desarrollo\|Entornos de Desarrollo]] - IDEs y editores
-> - [[Debugging y Testing\|Debugging y Testing]] - Técnicas de depuración
+> - [[Módulo 2.1 Variables y Tipos de Datos]] - Fundamentos de almacenamiento
+> - [[Módulo 4.1 Condicional]] - If, loops, funciones
+> - [[Módulo 3.1 Funciones]] - Modularización del código
+> - [[Librerías Estándar]] - Herramientas incluidas
+> - [[Entornos de Desarrollo]] - IDEs y editores
+> - [[Debugging y Testing]] - Técnicas de depuración
 
 ## Notas Recomendadas para Complementar 📖
 
@@ -235,17 +235,17 @@ mindmap
 > 
 > ### 📋 Prerrequisitos
 > 
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Fundamentos de Programación\|Fundamentos de Programación]] - Conceptos básicos
-> - [[Lógica de Programación\|Lógica de Programación]] - Pensamiento algorítmico
-> - [[Sistemas Operativos Básicos\|Sistemas Operativos Básicos]] - Manejo de terminal
+> - [[Fundamentos de Programación]] - Conceptos básicos
+> - [[Lógica de Programación]] - Pensamiento algorítmico
+> - [[Sistemas Operativos Básicos]] - Manejo de terminal
 > 
 > ### 🎯 Siguientes Pasos
 > 
-> - [[Estructuras de Datos en Python\|Estructuras de Datos en Python]] - Listas, diccionarios, sets
-> - [[Universidad/2do Semestre/Programación orientada a objetos/Programación Orientada a Objetos\|Programación Orientada a Objetos]] - Classes y objetos
-> - [[Manejo de Archivos\|Manejo de Archivos]] - Lectura y escritura
-> - [[APIs y Requests\|APIs y Requests]] - Comunicación con servicios web
-> - [[Bases de Datos con Python\|Bases de Datos con Python]] - SQLite, PostgreSQL
+> - [[Estructuras de Datos en Python]] - Listas, diccionarios, sets
+> - [[Programación Orientada a Objetos]] - Classes y objetos
+> - [[Manejo de Archivos]] - Lectura y escritura
+> - [[APIs y Requests]] - Comunicación con servicios web
+> - [[Bases de Datos con Python]] - SQLite, PostgreSQL
 >
 > [!success]+ **Proyecto Práctico Sugerido**
 > 

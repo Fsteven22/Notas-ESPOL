@@ -67,7 +67,6 @@
 >     A --> E[Unit 10\nWhy We Buy]
 >     A --> F[Unit 11\nPushing Yourself]
 >     A --> G[Unit 12\nLife's Little Lessons]
->
 >     style B fill:#e1f5ff
 >     style C fill:#e1ffe1
 >     style D fill:#fff4e1

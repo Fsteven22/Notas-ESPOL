@@ -159,14 +159,11 @@
 >    A[Vectores en Cinemática] --> B[Posición]
 >    A --> C[Velocidad]
 >    A --> D[Aceleración]
->    
 >    B --> E["\vec{r}(t) = x(t)\hat{i} + y(t)\hat{j}"]
 >    C --> F["\vec{v} = d\vec{r}/dt"]
 >    D --> G["\vec{a} = d\vec{v}/dt = d²\vec{r}/dt²"]
->    
 >    H[Movimiento Proyectil] --> I["\vec{v}₀ = v₀cos(θ)\hat{i} + v₀sin(θ)\hat{j}"]
 >    H --> J["\vec{r}(t) = (v₀cos(θ)t)\hat{i} + (v₀sin(θ)t - ½gt²)\hat{j}"]
->    
 >    style A fill:#e1f5fe
 >    style H fill:#f3e5f5
 > ```
@@ -231,11 +228,11 @@
 
 > [!quote] 📚 **Referencias a otras notas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Fuerzas y Diagramas de Cuerpo Libre\|Fuerzas y Diagramas de Cuerpo Libre]] - Aplicación directa de vectores
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Traslacional\|Cinemática Traslacional]] - Vectores posición, velocidad, aceleración
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Rotacional\|Cinemática Rotacional]] - Vectores angulares y momento angular
-> - [[Trigonometría\|Trigonometría]] - Base para descomposición de vectores
-> - [[Producto Cruz\|Producto Cruz]] - Análisis profundo del producto vectorial
+> - [[Fuerzas y Diagramas de Cuerpo Libre]] - Aplicación directa de vectores
+> - [[Cinemática Traslacional]] - Vectores posición, velocidad, aceleración
+> - [[Cinemática Rotacional]] - Vectores angulares y momento angular
+> - [[Trigonometría]] - Base para descomposición de vectores
+> - [[Producto Cruz]] - Análisis profundo del producto vectorial
 
 ## 📖 Notas Recomendadas para Complementar
 
@@ -243,17 +240,17 @@
 > 
 > **Prerrequisitos esenciales:**
 > 
-> - [[Funciones Trigonométricas\|Funciones Trigonométricas]] - Para ángulos y componentes
-> - [[Álgebra\|Álgebra]] - Para operaciones algebraicas
-> - [[Geometría\|Geometría]] - Para interpretación geométrica
-> - [[Funciones\|Funciones]] - Para vectores como funciones del tiempo
+> - [[Funciones Trigonométricas]] - Para ángulos y componentes
+> - [[Álgebra]] - Para operaciones algebraicas
+> - [[Geometría]] - Para interpretación geométrica
+> - [[Funciones]] - Para vectores como funciones del tiempo
 > 
 > **Temas complementarios:**
 > 
-> - [[Campos Vectoriales\|Campos Vectoriales]] - Vectores que varían en el espacio
-> - [[Derivadas Vectoriales\|Derivadas Vectoriales]] - Tasas de cambio de vectores
-> - [[Integrales Vectoriales\|Integrales Vectoriales]] - Integración de campos vectoriales
-> - [[Transformaciones de Coordenadas\|Transformaciones de Coordenadas]] - Cambios entre sistemas
+> - [[Campos Vectoriales]] - Vectores que varían en el espacio
+> - [[Derivadas Vectoriales]] - Tasas de cambio de vectores
+> - [[Integrales Vectoriales]] - Integración de campos vectoriales
+> - [[Transformaciones de Coordenadas]] - Cambios entre sistemas
 
 ## 🔧 Herramientas de Verificación
 

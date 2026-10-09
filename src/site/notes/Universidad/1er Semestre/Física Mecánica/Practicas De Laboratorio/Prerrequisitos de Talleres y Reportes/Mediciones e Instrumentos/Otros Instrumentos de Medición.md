@@ -194,11 +194,9 @@
 >     A[¿Qué tiempo mides?] --> B{< 1 segundo}
 >     A --> C{1-10 segundos}
 >     A --> D{> 10 segundos}
->     
 >     B --> E[Fotocélula o<br/>Sistema automático]
 >     C --> F[Cronómetro digital<br/>Múltiples mediciones]  
 >     D --> G[Cronómetro manual<br/>Aceptable]
->     
 >     style A fill:#e1f5fe
 >     style B fill:#fff3e0
 >     style C fill:#fff3e0  
@@ -418,24 +416,24 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Mediciones e Instrumentos/Mediciones Fundamentales\|Mediciones Fundamentales]] - Conceptos básicos
-> - [[Uso del Calibrador de Vernier\|Uso del Calibrador de Vernier]] - Instrumento de precisión
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis de Datos y Errores/Errores Absolutos y Relativos\|Errores Absolutos y Relativos]] - Análisis de precisión
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis de Datos y Errores/Incertidumbres Experimentales\|Incertidumbres Experimentales]] - Propagación de errores
+> - [[Mediciones Fundamentales]] - Conceptos básicos
+> - [[Uso del Calibrador de Vernier]] - Instrumento de precisión
+> - [[Errores Absolutos y Relativos]] - Análisis de precisión
+> - [[Incertidumbres Experimentales]] - Propagación de errores
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Mediciones e Instrumentos/Mediciones Fundamentales\|Mediciones Fundamentales]] - Base conceptual
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Sistema de unidades
+> - [[Mediciones Fundamentales]] - Base conceptual
+> - [[Unidades y Magnitudes Físicas]] - Sistema de unidades
 > - **Conocimientos básicos**: Manejo cuidadoso de equipos
 >
 > [!note] **Temas Siguientes**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Presentación de Resultados/Cifras Significativas\|Cifras Significativas]] - Expresión correcta de resultados
-> - [[Calibración de Instrumentos\|Calibración de Instrumentos]] - Verificación de precisión
-> - [[Técnicas Experimentales\|Técnicas Experimentales]] - Métodos avanzados
+> - [[Cifras Significativas]] - Expresión correcta de resultados
+> - [[Calibración de Instrumentos]] - Verificación de precisión
+> - [[Técnicas Experimentales]] - Métodos avanzados
 
 ---
 

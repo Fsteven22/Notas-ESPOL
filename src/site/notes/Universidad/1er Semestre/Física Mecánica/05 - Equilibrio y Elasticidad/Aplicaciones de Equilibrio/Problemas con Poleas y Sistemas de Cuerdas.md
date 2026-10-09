@@ -82,17 +82,13 @@
 >     A[Sistema de Poleas] --> B[Poleas Fijas]
 >     A --> C[Poleas Móviles]
 >     A --> D[Sistemas Combinados]
->     
 >     B --> B1[Una Polea]
 >     B --> B2[Múltiples Poleas]
->     
 >     C --> C1[Una Polea Móvil]
 >     C --> C2[Polipastos]
->     
 >     D --> D1[Fijas + Móviles]
 >     D --> D2[Planos Inclinados]
 >     D --> D3[Masas Múltiples]
->     
 >     style A fill:#e1f5fe
 >     style B fill:#f3e5f5
 >     style C fill:#fff3e0
@@ -433,12 +429,12 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Equilibrio\|Equilibrio]] - Fundamentos de equilibrio estático
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Aplicaciones de Dinámica de Traslación/Problemas de Cuerdas y Poleas ideales\|Problemas de Cuerdas y Poleas ideales]] - Casos con movimiento
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Torque y Equilibrio Rotacional\|Torque y Equilibrio Rotacional]] - Análisis de poleas con masa
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Fuerzas y Diagramas de Cuerpo Libre\|Fuerzas y Diagramas de Cuerpo Libre]] - Técnicas de análisis
-> - [[Aplicaciones de Equilibrio\|Aplicaciones de Equilibrio]] - Ejercicios complementarios
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Segunda ley de Newton para Rotación\|Segunda ley de Newton para Rotación]] - Para poleas en movimiento
+> - [[Equilibrio]] - Fundamentos de equilibrio estático
+> - [[Problemas de Cuerdas y Poleas ideales]] - Casos con movimiento
+> - [[Torque y Equilibrio Rotacional]] - Análisis de poleas con masa
+> - [[Fuerzas y Diagramas de Cuerpo Libre]] - Técnicas de análisis
+> - [[Aplicaciones de Equilibrio]] - Ejercicios complementarios
+> - [[Segunda ley de Newton para Rotación]] - Para poleas en movimiento
 
 ## 🔧 Formulario de Consulta Rápida
 

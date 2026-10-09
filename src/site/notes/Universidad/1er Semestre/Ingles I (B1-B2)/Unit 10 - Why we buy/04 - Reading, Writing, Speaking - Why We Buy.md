@@ -25,15 +25,11 @@
 > ```mermaid
 > graph TD
 >     A[Vocabulary:<br/>Materials &<br/>Production] --> D[Reading:<br/>Articles about<br/>consumer behavior]
->     
 >     B[Grammar:<br/>Passive Voice] --> E[Writing:<br/>Product<br/>descriptions]
->     
 >     C[Functional<br/>Language] --> F[Speaking:<br/>Discussions &<br/>recommendations]
->     
 >     D --> G[Complete<br/>Communication]
 >     E --> G
 >     F --> G
->     
 >     style A fill:#e1ffe1
 >     style B fill:#fff4e1
 >     style C fill:#e1f5ff
@@ -226,7 +222,6 @@
 >     B --> C[Origin:<br/>Where's it made?]
 >     C --> D[Characteristics:<br/>Describe it]
 >     D --> E[Recommendation:<br/>Why buy it?]
->     
 >     style A fill:#e1ffe1
 >     style C fill:#fff4e1
 >     style E fill:#e1f5ff
@@ -315,7 +310,6 @@
 >     B --> C[Positives:<br/>What's good]
 >     C --> D[Negatives:<br/>What could improve]
 >     D --> E[Conclusion:<br/>Recommendation]
->     
 >     style A fill:#e1ffe1
 >     style C fill:#ccffcc
 >     style D fill:#ffcccc
@@ -490,7 +484,6 @@
 >     B --> C[Features:<br/>What makes it special?]
 >     C --> D[Benefits:<br/>Why it's useful]
 >     D --> E[Recommendation:<br/>Who should buy it?]
->     
 >     style A fill:#ffe1e1
 >     style C fill:#e1ffe1
 >     style E fill:#e1f5ff

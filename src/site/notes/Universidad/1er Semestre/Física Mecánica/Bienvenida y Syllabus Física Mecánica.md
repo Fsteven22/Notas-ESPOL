@@ -67,7 +67,6 @@
 >     A --> F[04 - Impulso y Colisiones]
 >     A --> G[05 - Equilibrio y Elasticidad]
 >     A --> H[06 - Hidrostática e\nHidrodinámica]
->
 >     style B fill:#e1f5ff
 >     style C fill:#e1ffe1
 >     style D fill:#fff4e1

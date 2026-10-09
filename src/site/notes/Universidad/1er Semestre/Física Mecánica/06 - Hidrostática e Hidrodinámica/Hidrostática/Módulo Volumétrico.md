@@ -35,10 +35,8 @@
 >     A[Módulo de Compresibilidad K] --> B[Compresibilidad β = 1/K]
 >     A --> C[Velocidad del Sonido<br/>v = √K/ρ]
 >     A --> D[Densidad del Material ρ]
->     
 >     E[Presión ΔP] --> A
 >     A --> F[Deformación Volumétrica<br/>ΔV/V₀]
->     
 >     style A fill:#e8f5e8
 >     style B fill:#fff3e0
 >     style C fill:#e1f5fe
@@ -186,24 +184,24 @@
 
 > [!quote] Notas Relacionadas
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Fundamentos de Hidrostática e Hidrodinámica/Presión y Densidad\|Presión y Densidad]]
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrostática/El Principio de Pascal\|El Principio de Pascal]]
-> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Elasticidad\|Elasticidad]]
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrodinámica/Ecuación de Continuidad y Bernoulli\|Ecuación de Continuidad y Bernoulli]]
+> - [[Presión y Densidad]]
+> - [[El Principio de Pascal]]
+> - [[Elasticidad]]
+> - [[Ecuación de Continuidad y Bernoulli]]
 
 ## Notas Recomendadas
 
 > [!info] Prerrequisitos
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Fundamentos de Hidrostática e Hidrodinámica/Presión y Densidad\|Presión y Densidad]]
-> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Elasticidad\|Elasticidad]]
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Trabajo y Energía\|Trabajo y Energía]]
+> - [[Presión y Densidad]]
+> - [[Elasticidad]]
+> - [[Trabajo y Energía]]
 >
 > [!tip] Continuación del Tema
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrodinámica/Viscosidad y Número de Reynolds\|Viscosidad y Número de Reynolds]]
-> - [[El Principio de Arquímedes y Flotación 1\|El Principio de Arquímedes y Flotación 1]]
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrodinámica/Flujo Laminar y Ecuación de Poiseuille\|Flujo Laminar y Ecuación de Poiseuille]]
+> - [[Viscosidad y Número de Reynolds]]
+> - [[El Principio de Arquímedes y Flotación 1]]
+> - [[Flujo Laminar y Ecuación de Poiseuille]]
 
 ---
 

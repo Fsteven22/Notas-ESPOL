@@ -166,19 +166,14 @@ graph TD
 > ```mermaid
 > graph TD
 >    A["👨‍💻 Programador"] --> B["🖥️ Ambiente de Desarrollo"]
->    
 >    B --> C["📝 Editor de Código"]
 >    B --> D["🔧 Compilador/Intérprete"]
->    
 >    C --> E["📄 Código Fuente"]
 >    E --> F["💻 Lenguaje de Programación"]
->    
 >    D --> G["⚙️ Proceso de Compilación"]
 >    G --> H["📦 Código Ejecutable"]
->    
 >    H --> I["📲 Instalación"]
 >    I --> J["👤 Usuario Final"]
->    
 >    style A fill:#e3f2fd
 >    style J fill:#e8f5e8
 >    style H fill:#fff3e0
@@ -302,12 +297,12 @@ graph TD
 
 > [!quote]+ **Enlaces a Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 1 - Introducción y Ambientes de Programación/Módulo 1.2 Introducción a Python\|Módulo 1.2 Introducción a Python]] - Primer lenguaje recomendado
-> - [[Algoritmos y Estructuras de Datos\|Algoritmos y Estructuras de Datos]] - Fundamentos lógicos
-> - [[Lógica de Programación\|Lógica de Programación]] - Pensamiento estructurado
-> - [[Metodologías de Desarrollo\|Metodologías de Desarrollo]] - Procesos de creación de software
-> - [[Resolución de Problemas\|Resolución de Problemas]] - Técnicas de análisis
-> - [[Herramientas de Desarrollo\|Herramientas de Desarrollo]] - IDEs y editores
+> - [[Módulo 1.2 Introducción a Python]] - Primer lenguaje recomendado
+> - [[Algoritmos y Estructuras de Datos]] - Fundamentos lógicos
+> - [[Lógica de Programación]] - Pensamiento estructurado
+> - [[Metodologías de Desarrollo]] - Procesos de creación de software
+> - [[Resolución de Problemas]] - Técnicas de análisis
+> - [[Herramientas de Desarrollo]] - IDEs y editores
 
 ## Notas Recomendadas para Complementar 📖
 
@@ -315,23 +310,23 @@ graph TD
 > 
 > ### 📋 Prerrequisitos Mentales
 > 
-> - [[Pensamiento Lógico\|Pensamiento Lógico]] - Base fundamental
-> - [[Matemáticas Básicas\|Matemáticas Básicas]] - Operaciones y lógica
-> - [[Resolución de Problemas\|Resolución de Problemas]] - Metodologías de análisis
+> - [[Pensamiento Lógico]] - Base fundamental
+> - [[Matemáticas Básicas]] - Operaciones y lógica
+> - [[Resolución de Problemas]] - Metodologías de análisis
 > 
 > ### 🎯 Primeros Pasos Técnicos
 > 
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 2 - Tipos de datos, operadores, cadenas, listas y aleatoriedad/Módulo 2.1 Variables y Tipos de Datos\|Módulo 2.1 Variables y Tipos de Datos]] - Almacenamiento de información
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 4 - Estructuras de control/Módulo 4.1 Condicional\|Módulo 4.1 Condicional]] - Decisiones y repeticiones
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 3 - Funciones/Módulo 3.1 Funciones\|Módulo 3.1 Funciones]] - Modularización de código
-> - [[Debugging\|Debugging]] - Encontrar y corregir errores
+> - [[Módulo 2.1 Variables y Tipos de Datos]] - Almacenamiento de información
+> - [[Módulo 4.1 Condicional]] - Decisiones y repeticiones
+> - [[Módulo 3.1 Funciones]] - Modularización de código
+> - [[Debugging]] - Encontrar y corregir errores
 > 
 > ### 🚀 Desarrollo Avanzado
 > 
-> - [[Estructuras de Datos\|Estructuras de Datos]] - Organización eficiente
-> - [[Algoritmos Fundamentales\|Algoritmos Fundamentales]] - Soluciones optimizadas
-> - [[Universidad/2do Semestre/Programación orientada a objetos/Programación Orientada a Objetos\|Programación Orientada a Objetos]] - Modelado del mundo real
-> - [[Bases de Datos\|Bases de Datos]] - Gestión de información
+> - [[Estructuras de Datos]] - Organización eficiente
+> - [[Algoritmos Fundamentales]] - Soluciones optimizadas
+> - [[Programación Orientada a Objetos]] - Modelado del mundo real
+> - [[Bases de Datos]] - Gestión de información
 >
 > [!success]+ **Proyecto Práctico: Tu Primer Programa**
 > 

@@ -37,16 +37,12 @@
 > graph TB
 >     A[Objeto Sumergido] --> B[Peso Real W↓<br/>m × g]
 >     A --> C[Fuerza de Flotación F↑<br/>ρ_fluido × V × g]
->     
 >     D[Resultado Neto] --> E[Peso Aparente<br/>W_aparente = W_real - F_flotación]
->     
 >     B --> D
 >     C --> D
->     
 >     F[En el Aire] --> G[W_aparente ≈ W_real<br/>Flotación despreciable]
 >     H[En el Agua] --> I[W_aparente < W_real<br/>Flotación significativa]
 >     J[Flotando] --> K[W_aparente = 0<br/>Flotación = Peso real]
->     
 >     style A fill:#e1f5fe
 >     style B fill:#ffcdd2
 >     style C fill:#c8e6c9
@@ -75,7 +71,6 @@
 >     A[Totalmente Sumergido] --> B[W_ap = W_real - ρ_f×V_total×g]
 >     C[Parcialmente Sumergido] --> D[W_ap = W_real - ρ_f×V_sumergido×g]
 >     E[En Equilibrio Flotando] --> F[W_ap = 0<br/>W_real = F_flotación]
->     
 >     style A fill:#e1f5fe
 >     style C fill:#fff3e0
 >     style E fill:#e8f5e8
@@ -224,24 +219,24 @@
 
 > [!quote] Notas Relacionadas
 > 
-> - [[El Principio de Arquímedes y Flotación 1\|El Principio de Arquímedes y Flotación 1]]
-> - [[Obsidian/Universidad/Física Mecanica/Notas nuevas/06 - Hidrostática e hidrodinámica/Presión y Densidad\|Obsidian/Universidad/Física Mecanica/Notas nuevas/06 - Hidrostática e hidrodinámica/Presión y Densidad]]
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Fuerzas y Diagramas de Cuerpo Libre\|Fuerzas y Diagramas de Cuerpo Libre]]
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]]
+> - [[El Principio de Arquímedes y Flotación 1]]
+> - [[Obsidian/Universidad/Física Mecanica/Notas nuevas/06 - Hidrostática e hidrodinámica/Presión y Densidad]]
+> - [[Fuerzas y Diagramas de Cuerpo Libre]]
+> - [[Leyes de Newton]]
 
 ## Notas Recomendadas
 
 > [!info] Prerrequisitos
 > 
-> - [[Obsidian/Universidad/Física Mecanica/Notas nuevas/06 - Hidrostática e hidrodinámica/Presión y Densidad\|Obsidian/Universidad/Física Mecanica/Notas nuevas/06 - Hidrostática e hidrodinámica/Presión y Densidad]]
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Fuerzas y Diagramas de Cuerpo Libre\|Fuerzas y Diagramas de Cuerpo Libre]]
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]]
+> - [[Obsidian/Universidad/Física Mecanica/Notas nuevas/06 - Hidrostática e hidrodinámica/Presión y Densidad]]
+> - [[Fuerzas y Diagramas de Cuerpo Libre]]
+> - [[Leyes de Newton]]
 >
 > [!tip] Continuación del Tema
 > 
-> - [[El Principio de Arquímedes y Flotación 1\|El Principio de Arquímedes y Flotación 1]]
-> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Centro de Gravedad (CG)\|Centro de Gravedad (CG)]]
-> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Equilibrio\|Equilibrio]]
+> - [[El Principio de Arquímedes y Flotación 1]]
+> - [[Centro de Gravedad (CG)]]
+> - [[Equilibrio]]
 
 ---
 

@@ -203,13 +203,13 @@
 >[!note] 🌐 **Relaciones Importantes**
 >
 >**Estructuras de Control:**
->- **[[Universidad/1er Semestre/Fundamentos de Programación/Módulo 4 - Estructuras de control/Módulo 4.3 Bucle While\|Módulo 4.3 Bucle While]]**: Condicionales repetitivas
->- **[[Universidad/1er Semestre/Fundamentos de Programación/Módulo 4 - Estructuras de control/Módulo 4.2 Iteradores for\|Módulo 4.2 Iteradores for]]**: Condiciones de parada en bucles
+>- **[[Módulo 4.3 Bucle While]]**: Condicionales repetitivas
+>- **[[Módulo 4.2 Iteradores for]]**: Condiciones de parada en bucles
 >- **Funciones**: Validación de parámetros de entrada
 >
 >**Tipos de Datos:**
->- **[[Universidad/1er Semestre/Fundamentos de Programación/Módulo 2 - Tipos de datos, operadores, cadenas, listas y aleatoriedad/Módulo 2.1 Variables y Tipos de Datos\|Módulo 2.1 Variables y Tipos de Datos]]**: Comparación de diferentes tipos
->- **[[Universidad/1er Semestre/Fundamentos de Programación/Módulo 2 - Tipos de datos, operadores, cadenas, listas y aleatoriedad/Módulo 2.2 Operaciones con Datos y Variables\|Módulo 2.2 Operaciones con Datos y Variables]]**: Operadores en condiciones
+>- **[[Módulo 2.1 Variables y Tipos de Datos]]**: Comparación de diferentes tipos
+>- **[[Módulo 2.2 Operaciones con Datos y Variables]]**: Operadores en condiciones
 >
 >**Aplicaciones Prácticas:**
 >- **Validación de entrada de usuario**
@@ -406,21 +406,21 @@ flowchart TD
 ## 🔗 Referencias
 
 >[!quote] **Notas Relacionadas**
->- [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 2 - Tipos de datos, operadores, cadenas, listas y aleatoriedad/Módulo 2.1 Variables y Tipos de Datos\|Módulo 2.1 Variables y Tipos de Datos]] - Tipos que se pueden comparar
->- [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 2 - Tipos de datos, operadores, cadenas, listas y aleatoriedad/Módulo 2.2 Operaciones con Datos y Variables\|Módulo 2.2 Operaciones con Datos y Variables]] - Operadores usados en condiciones
->- [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 4 - Estructuras de control/Módulo 4.3 Bucle While\|Módulo 4.3 Bucle While]] - Condicionales repetitivas  
->- [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 4 - Estructuras de control/Módulo 4.2 Iteradores for\|Módulo 4.2 Iteradores for]] - Uso de condicionales en bucles
->- [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 3 - Funciones/Módulo 3.1 Funciones\|Módulo 3.1 Funciones]] - Validación de parámetros y retorno condicional
+>- [[Módulo 2.1 Variables y Tipos de Datos]] - Tipos que se pueden comparar
+>- [[Módulo 2.2 Operaciones con Datos y Variables]] - Operadores usados en condiciones
+>- [[Módulo 4.3 Bucle While]] - Condicionales repetitivas  
+>- [[Módulo 4.2 Iteradores for]] - Uso de condicionales en bucles
+>- [[Módulo 3.1 Funciones]] - Validación de parámetros y retorno condicional
 
 ## 📚 Notas Recomendadas para Estudio
 
 >[!info] 📖 **Temas Complementarios**
->1. **[[Universidad/1er Semestre/Fundamentos de Programación/Módulo general - Funciones especiales/Manejo de Errores con try, except, finally\|Manejo de Errores con try, except, finally]]** - try/except como alternativa a if/else
->2. **[[Universidad/1er Semestre/Fundamentos de Programación/Módulo general - Funciones especiales/Expresiones Regulares (Regex)\|Expresiones Regulares (Regex)]]** - Validación avanzada de patrones
->3. **[[Funciones Lambda\|Funciones Lambda]]** - Condicionales en funciones de una línea
->4. **[[Estructuras de Datos Avanzadas\|Estructuras de Datos Avanzadas]]** - Uso de condicionales con listas/dict
->5. **[[Debugging y Testing\|Debugging y Testing]]** - Casos de prueba para lógica condicional
->6. **[[Algoritmos de Decisión\|Algoritmos de Decisión]]** - Árboles de decisión y lógica compleja
+>1. **[[Manejo de Errores con try, except, finally]]** - try/except como alternativa a if/else
+>2. **[[Expresiones Regulares (Regex)]]** - Validación avanzada de patrones
+>3. **[[Funciones Lambda]]** - Condicionales en funciones de una línea
+>4. **[[Estructuras de Datos Avanzadas]]** - Uso de condicionales con listas/dict
+>5. **[[Debugging y Testing]]** - Casos de prueba para lógica condicional
+>6. **[[Algoritmos de Decisión]]** - Árboles de decisión y lógica compleja
 
 ---
 

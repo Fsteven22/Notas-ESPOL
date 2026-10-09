@@ -22,12 +22,12 @@
 ## Unidad 2 — Espacios Vectoriales y Transformaciones Lineales *(14h)*
 
 - [[01 - Vectores en espacios vectoriales (definición y ejemplos)\|01 - Vectores en espacios vectoriales (definición y ejemplos)]]
-- [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 – Espacios Vectoriales y Transformaciones Lineales/I – Fundamentos de Espacios Vectoriales/02 - Espacio Vectorial\|02 - Espacio Vectorial]]
+- [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/I - Fundamentos/02 - Espacio Vectorial\|02 - Espacio Vectorial]]
 - [[03 - Operaciones en un espacio vectorial (conmutatividad, etc.)\|03 - Operaciones en un espacio vectorial (conmutatividad, etc.)]]
-- [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 – Espacios Vectoriales y Transformaciones Lineales/I – Fundamentos de Espacios Vectoriales/04 - Lema de Cancelación\|04 - Lema de Cancelación]]
+- [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/I - Fundamentos/04 - Lema de Cancelación\|04 - Lema de Cancelación]]
 - [[05 - Teoremas fundamentales del espacio vectorial\|05 - Teoremas fundamentales del espacio vectorial]]
-- [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 – Espacios Vectoriales y Transformaciones Lineales/I – Fundamentos de Espacios Vectoriales/06 - Operaciones No Convencionales\|06 - Operaciones No Convencionales]]
-- [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 – Espacios Vectoriales y Transformaciones Lineales/II – Subespacios y Generación/01 - Subespacios Vectoriales\|01 - Subespacios Vectoriales]]
+- [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/I - Fundamentos/06 - Operaciones No Convencionales\|06 - Operaciones No Convencionales]]
+- [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/II – Subespacios y Generación/01 - Subespacios Vectoriales\|01 - Subespacios Vectoriales]]
 - [[02 - Combinación lineal\|02 - Combinación lineal]]
 - [[03 - Espacio generado por un conjunto de vectores\|03 - Espacio generado por un conjunto de vectores]]
 - [[04 - Suma de subespacios\|04 - Suma de subespacios]]
@@ -39,11 +39,11 @@
 - [[04 - Matriz de cambio de base\|04 - Matriz de cambio de base]]
 - [[01 - Transformaciones lineales\|01 - Transformaciones lineales]]
 - [[02 - Núcleo e imagen de una transformación lineal\|02 - Núcleo e imagen de una transformación lineal]]
-- [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 – Espacios Vectoriales y Transformaciones Lineales/IV – Transformaciones Lineales/03 - Inyectividad y Sobreyectividad\|03 - Inyectividad y Sobreyectividad]]
+- [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/IV – Transformaciones Lineales/03 - Inyectividad y Sobreyectividad\|03 - Inyectividad y Sobreyectividad]]
 - [[04 - Biyectividad e isomorfismo\|04 - Biyectividad e isomorfismo]]
 - [[05 - Espacios isomorfos\|05 - Espacios isomorfos]]
 - [[06 - Inversa de una transformación lineal\|06 - Inversa de una transformación lineal]]
-- [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 – Espacios Vectoriales y Transformaciones Lineales/IV – Transformaciones Lineales/07 - Matriz de una Transformación Lineal\|07 - Matriz de una Transformación Lineal]]
+- [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/IV – Transformaciones Lineales/07 - Matriz de una Transformación Lineal\|07 - Matriz de una Transformación Lineal]]
 - [[08 - Teorema de la dimensión (Rango-Nulidad)\|08 - Teorema de la dimensión (Rango-Nulidad)]]
 
 ## Unidad 3 — Espacios con Producto Interno *(6h)*
@@ -60,8 +60,8 @@
 
 ## Unidad 4 — Valores y Vectores Propios *(9h)*
 
-- [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 – Espacios Vectoriales y Transformaciones Lineales/VI - Valores y Vectores propios/01 - Valores y Vectores propios\|01 - Valores y Vectores propios]]
-- [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 – Espacios Vectoriales y Transformaciones Lineales/VI - Valores y Vectores propios/02 - Polinomio Característico\|02 - Polinomio Característico]]
+- [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/VI - Valores y Vectores propios/01 - Valores y Vectores propios\|01 - Valores y Vectores propios]]
+- [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/VI - Valores y Vectores propios/02 - Polinomio Característico\|02 - Polinomio Característico]]
 - [[03 - Espacio propio y multiplicidades (MA y MG)\|03 - Espacio propio y multiplicidades (MA y MG)]]
 - [[05 - Matriz semejante\|05 - Matriz semejante]]
 - [[06 - Matriz diagonalizable\|06 - Matriz diagonalizable]]

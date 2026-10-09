@@ -138,7 +138,6 @@
 >     F --> G[Incluir Título Descriptivo]
 >     G --> H[Verificar Legibilidad]
 >     H --> I[Analizar e Interpretar]
->     
 >     style A fill:#e1f5fe
 >     style B fill:#f3e5f5
 >     style C fill:#fff3e0
@@ -1097,10 +1096,10 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Herramientas Matemáticas/Estadística Básica\|Estadística Básica]] - Fundamento matemático
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis de Datos y Errores/Incertidumbres Experimentales\|Incertidumbres Experimentales]] - Análisis de errores
-> - [[Regresión No Lineal\|Regresión No Lineal]] - Extensiones avanzadas
-> - [[Análisis de Datos\|Análisis de Datos]] - Marco general
+> - [[Estadística Básica]] - Fundamento matemático
+> - [[Incertidumbres Experimentales]] - Análisis de errores
+> - [[Regresión No Lineal]] - Extensiones avanzadas
+> - [[Análisis de Datos]] - Marco general
 
 ## 🎯 Ejercicios y Problemas
 
@@ -1153,16 +1152,16 @@
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Herramientas Matemáticas/Estadística Básica\|Estadística Básica]] - Media, desviación estándar
+> - [[Estadística Básica]] - Media, desviación estándar
 > - **Álgebra**: Ecuaciones lineales, sistemas
 > - **Geometría**: Conceptos de pendiente y ángulos
 >
 > [!note] **Temas Siguientes**
 > 
-> - [[Regresión No Lineal\|Regresión No Lineal]] - Modelos más complejos
-> - [[Análisis de Series Temporales\|Análisis de Series Temporales]] - Datos en función del tiempo
-> - [[Diseño de Experimentos\|Diseño de Experimentos]] - Planificación estadística
-> - [[Validación de Modelos\|Validación de Modelos]] - Verificación de hipótesis
+> - [[Regresión No Lineal]] - Modelos más complejos
+> - [[Análisis de Series Temporales]] - Datos en función del tiempo
+> - [[Diseño de Experimentos]] - Planificación estadística
+> - [[Validación de Modelos]] - Verificación de hipótesis
 
 ---
 

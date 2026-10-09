@@ -83,10 +83,8 @@
 >     B -->|Profundidad h₁| C[P = P₀ + ρgh₁]
 >     C -->|Profundidad h₂| D[P = P₀ + ρgh₂]
 >     D -->|Fondo h_max| E[P = P₀ + ρgh_max]
->     
 >     F[Presión] --> G[Aumenta Linealmente]
 >     G --> H[Gradiente: ρg]
->     
 >     style A fill:#e3f2fd
 >     style B fill:#e1f5fe
 >     style C fill:#b3e5fc
@@ -314,18 +312,18 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Fundamentos de Hidrostática e Hidrodinámica/Presión y Densidad\|Presión y Densidad]] - Fundamentos teóricos
-> - [[Fundamentos de Hidrostática e Hidrodinámica\|Fundamentos de Hidrostática e Hidrodinámica]] - Principios generales
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrostática/El Principio de Pascal\|El Principio de Pascal]] - Transmisión de presión
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrostática/Presión Manómetrica\|Presión Manómetrica]] - Medición de presiones
+> - [[Presión y Densidad]] - Fundamentos teóricos
+> - [[Fundamentos de Hidrostática e Hidrodinámica]] - Principios generales
+> - [[El Principio de Pascal]] - Transmisión de presión
+> - [[Presión Manómetrica]] - Medición de presiones
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Sistema de unidades
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para fuerzas y direcciones
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Fuerzas y Diagramas de Cuerpo Libre\|Fuerzas y Diagramas de Cuerpo Libre]] - Análisis de fuerzas
+> - [[Unidades y Magnitudes Físicas]] - Sistema de unidades
+> - [[Vectores]] - Para fuerzas y direcciones
+> - [[Fuerzas y Diagramas de Cuerpo Libre]] - Análisis de fuerzas
 
 ---
 

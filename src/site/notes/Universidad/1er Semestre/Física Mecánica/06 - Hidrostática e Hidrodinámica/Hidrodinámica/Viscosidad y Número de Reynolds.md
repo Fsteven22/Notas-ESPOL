@@ -54,18 +54,14 @@
 > graph TD
 >     A[Fluidos] --> B[Newtonianos]
 >     A --> C[No Newtonianos]
->     
 >     B --> D[Viscosidad constante<br/>τ ∝ du/dy]
 >     B --> E[Ejemplos:<br/>Agua, Aire, Aceites]
->     
 >     C --> F[Pseudoplásticos<br/>Adelgazantes]
 >     C --> G[Dilatantes<br/>Espesantes]
 >     C --> H[Plásticos<br/>Bingham]
->     
 >     F --> I[Pintura, Sangre<br/>μ disminuye con velocidad]
 >     G --> J[Almidón, Arena húmeda<br/>μ aumenta con velocidad]
 >     H --> K[Pasta dental, Lodo<br/>Requiere τ mínimo]
->     
 >     style B fill:#96ceb4,stroke:#198754,color:#fff
 >     style C fill:#ff6b6b,stroke:#d63384,color:#fff
 >     style D fill:#45b7d1,stroke:#0d6efd,color:#fff
@@ -268,28 +264,28 @@
 
 > [!quote]+ Enlaces a Otras Notas
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrodinámica/Ecuación de Continuidad y Bernoulli\|Ecuación de Continuidad y Bernoulli]]
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrodinámica/Flujo Laminar y Ecuación de Poiseuille\|Flujo Laminar y Ecuación de Poiseuille]]
-> - [[Pérdidas de Carga en Tuberías\|Pérdidas de Carga en Tuberías]]
-> - [[Transferencia de Calor en Fluidos\|Transferencia de Calor en Fluidos]]
-> - [[Capa Límite\|Capa Límite]]
+> - [[Ecuación de Continuidad y Bernoulli]]
+> - [[Flujo Laminar y Ecuación de Poiseuille]]
+> - [[Pérdidas de Carga en Tuberías]]
+> - [[Transferencia de Calor en Fluidos]]
+> - [[Capa Límite]]
 
 ## Notas Complementarias Recomendadas
 
 > [!info]+ Prerrequisitos
 > 
-> - [[Propiedades de los Fluidos\|Propiedades de los Fluidos]]
-> - [[Esfuerzos Cortantes\|Esfuerzos Cortantes]]
-> - [[Gradientes de Velocidad\|Gradientes de Velocidad]]
-> - [[Conceptos de Densidad\|Conceptos de Densidad]]
+> - [[Propiedades de los Fluidos]]
+> - [[Esfuerzos Cortantes]]
+> - [[Gradientes de Velocidad]]
+> - [[Conceptos de Densidad]]
 >
 > [!success]+ Para Profundizar
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrodinámica/Flujo Laminar y Ecuación de Poiseuille\|Flujo Laminar y Ecuación de Poiseuille]]
-> - [[Turbulencia y Modelos de Flujo\|Turbulencia y Modelos de Flujo]]
-> - [[Reología - Fluidos No Newtonianos\|Reología - Fluidos No Newtonianos]]
-> - [[Lubricación y Tribología\|Lubricación y Tribología]]
-> - [[Microfluidica\|Microfluidica]]
+> - [[Flujo Laminar y Ecuación de Poiseuille]]
+> - [[Turbulencia y Modelos de Flujo]]
+> - [[Reología - Fluidos No Newtonianos]]
+> - [[Lubricación y Tribología]]
+> - [[Microfluidica]]
 
 ---
 

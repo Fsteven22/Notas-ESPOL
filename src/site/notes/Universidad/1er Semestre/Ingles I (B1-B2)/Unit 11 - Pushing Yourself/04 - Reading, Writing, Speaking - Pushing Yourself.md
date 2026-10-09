@@ -31,9 +31,7 @@
 >     B --> C[Grammar:<br/>Phrasal Verbs &<br/>Conditionals]
 >     C --> D[Functional Language:<br/>Natural expressions]
 >     D --> E[REAL USE:<br/>Read, Write, Speak]
->     
 >     E --> F[Mastery!<br/>You can now discuss<br/>goals & motivation<br/>fluently]
->     
 >     style E fill:#ffe1e1
 >     style F fill:#e1ffe1
 > ```

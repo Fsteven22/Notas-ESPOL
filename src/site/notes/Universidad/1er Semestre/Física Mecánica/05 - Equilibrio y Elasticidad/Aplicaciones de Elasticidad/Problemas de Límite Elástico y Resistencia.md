@@ -301,18 +301,18 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Elasticidad\|Elasticidad]] - Fundamentos teóricos
-> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Aplicaciones de Elasticidad/Problemas de Deformación por Tensión y Compresión (Ley de Hooke)\|Problemas de Deformación por Tensión y Compresión (Ley de Hooke)]] - Aplicaciones básicas
-> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Aplicaciones de Elasticidad/Problemas de Deformación por Cortante (Esfuerzo Cortante)\|Problemas de Deformación por Cortante (Esfuerzo Cortante)]] - Esfuerzos tangenciales
-> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Aplicaciones de Elasticidad/Problemas Combinados de Tensión y Deformación\|Problemas Combinados de Tensión y Deformación]] - Casos complejos
+> - [[Elasticidad]] - Fundamentos teóricos
+> - [[Problemas de Deformación por Tensión y Compresión (Ley de Hooke)]] - Aplicaciones básicas
+> - [[Problemas de Deformación por Cortante (Esfuerzo Cortante)]] - Esfuerzos tangenciales
+> - [[Problemas Combinados de Tensión y Deformación]] - Casos complejos
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para análisis de fuerzas
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Sistema de unidades
-> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Equilibrio\|Equilibrio]] - Análisis de fuerzas en estructuras
+> - [[Vectores]] - Para análisis de fuerzas
+> - [[Unidades y Magnitudes Físicas]] - Sistema de unidades
+> - [[Equilibrio]] - Análisis de fuerzas en estructuras
 
 ---
 

@@ -66,13 +66,10 @@
 > graph TD
 >     A{Material Change?} --> B[No visible change]
 >     A --> C[Transformed/processed]
->     
 >     B --> D[Use MADE OF]
 >     C --> E[Use MADE FROM]
->     
 >     D --> F[Example:<br/>This table is made<br/>of wood]
 >     E --> G[Example:<br/>Paper is made<br/>from wood]
->     
 >     style D fill:#e1ffe1
 >     style E fill:#fff4e1
 > ```
@@ -153,12 +150,10 @@
 >     A[Material] --> B[Main<br/>Characteristic]
 >     B --> C[Additional<br/>Characteristic]
 >     C --> D[Benefit]
->     
 >     A -.-> E["It's made of cotton"]
 >     B -.-> F["It's very soft"]
 >     C -.-> G["and breathable"]
 >     D -.-> H["so it's perfect<br/>for summer"]
->     
 >     style E fill:#e1ffe1
 >     style F fill:#fff4e1
 >     style G fill:#e1f5ff
@@ -258,7 +253,6 @@
 >     C --> D[is tested/<br/>inspected]
 >     D --> E[is packaged]
 >     E --> F[is shipped]
->     
 >     style A fill:#fff4e1
 >     style C fill:#e1ffe1
 >     style F fill:#e1f5ff
@@ -472,11 +466,9 @@
 >     B --> C[Say it LOUDER]
 >     B --> D[Say it LONGER]
 >     B --> E[Say it HIGHER pitch]
->     
 >     C --> F[man-u-FAC-ture]
 >     D --> F
 >     E --> F
->     
 >     style B fill:#e1ffe1
 >     style F fill:#fff4e1
 > ```
@@ -586,7 +578,6 @@
 >     C[Yes/No Questions] --> D[↗ Rising]
 >     E[Wh- Questions] --> F[↘ Falling]
 >     G[Lists] --> H[↗ ↗ ↘]
->     
 >     style B fill:#e1ffe1
 >     style D fill:#fff4e1
 >     style F fill:#e1ffe1
@@ -759,7 +750,6 @@ mindmap
 >     A[Vocabulary] --> B[Grammar]
 >     B --> C[Functional<br/>Language]
 >     C --> D[Real Use:<br/>Reading/Writing/<br/>Speaking]
->     
 >     style A fill:#e1ffe1
 >     style B fill:#fff4e1
 >     style C fill:#e1f5ff

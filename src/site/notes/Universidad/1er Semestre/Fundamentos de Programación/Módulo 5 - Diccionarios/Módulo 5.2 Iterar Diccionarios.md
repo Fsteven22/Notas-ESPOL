@@ -376,11 +376,11 @@ graph TD
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 5 - Diccionarios/Módulo 5.1 Diccionarios\|Módulo 5.1 Diccionarios]] - Conceptos fundamentales
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 4 - Estructuras de control/Módulo 4.2 Iteradores for\|Módulo 4.2 Iteradores for]] - Fundamentos de iteración
-> - [[Comprensiones en Python\|Comprensiones en Python]] - Sintaxis avanzada
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo general - Funciones especiales/Funciones Built-in\|Funciones Built-in]] - enumerate, zip, sorted
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo general - Funciones especiales/Manejo de Errores con try, except, finally\|Manejo de Errores con try, except, finally]] - Iteración segura
+> - [[Módulo 5.1 Diccionarios]] - Conceptos fundamentales
+> - [[Módulo 4.2 Iteradores for]] - Fundamentos de iteración
+> - [[Comprensiones en Python]] - Sintaxis avanzada
+> - [[Funciones Built-in]] - enumerate, zip, sorted
+> - [[Manejo de Errores con try, except, finally]] - Iteración segura
 
 ## 📚 Notas Recomendadas para Estudio
 
@@ -388,18 +388,18 @@ graph TD
 > 
 > **Prerrequisitos:**
 > 
-> - [[Módulo 5.1: Diccionarios en Python\|Módulo 5.1: Diccionarios en Python]] - Creación y manipulación básica
-> - [[Bucles for en Python\|Bucles for en Python]] - Conceptos de iteración
-> - [[Variables y Desempaquetado\|Variables y Desempaquetado]] - Sintaxis de desempaquetado
+> - [[Módulo 5.1: Diccionarios en Python]] - Creación y manipulación básica
+> - [[Bucles for en Python]] - Conceptos de iteración
+> - [[Variables y Desempaquetado]] - Sintaxis de desempaquetado
 > 
 > **Para Profundizar:**
 > 
-> - [[Comprensiones Avanzadas\|Comprensiones Avanzadas]] - Dict/List/Set comprehensions
-> - [[Collections Module\|Collections Module]] - defaultdict, Counter para iteración especializada
-> - [[Algoritmos de Ordenamiento\|Algoritmos de Ordenamiento]] - Ordenar diccionarios por claves/valores
-> - [[Programación Funcional\|Programación Funcional]] - map(), filter(), reduce() con diccionarios
-> - [[Estructuras de Datos Avanzadas\|Estructuras de Datos Avanzadas]] - Diccionarios anidados y complejos
-> - [[Optimización de Código\|Optimización de Código]] - Técnicas de iteración eficiente
+> - [[Comprensiones Avanzadas]] - Dict/List/Set comprehensions
+> - [[Collections Module]] - defaultdict, Counter para iteración especializada
+> - [[Algoritmos de Ordenamiento]] - Ordenar diccionarios por claves/valores
+> - [[Programación Funcional]] - map(), filter(), reduce() con diccionarios
+> - [[Estructuras de Datos Avanzadas]] - Diccionarios anidados y complejos
+> - [[Optimización de Código]] - Técnicas de iteración eficiente
 
 ---
 

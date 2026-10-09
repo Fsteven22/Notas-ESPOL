@@ -112,7 +112,6 @@
 >     D --> E[Calcular Incertidumbre Combinada]
 >     E --> F[Expresar Resultado Final]
 >     F --> G[Verificar Coherencia]
->     
 >     style A fill:#e1f5fe
 >     style B fill:#f3e5f5
 >     style C fill:#fff3e0
@@ -412,24 +411,24 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis de Datos y Errores/Errores Absolutos y Relativos\|Errores Absolutos y Relativos]] - Conceptos fundamentales
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Herramientas Matemáticas/Derivadas Parciales\|Derivadas Parciales]] - Herramienta matemática
-> - [[Tratamiento Estadístico de Datos\|Tratamiento Estadístico de Datos]] - Análisis avanzado
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Presentación de Resultados/Cifras Significativas\|Cifras Significativas]] - Expresión de resultados
+> - [[Errores Absolutos y Relativos]] - Conceptos fundamentales
+> - [[Derivadas Parciales]] - Herramienta matemática
+> - [[Tratamiento Estadístico de Datos]] - Análisis avanzado
+> - [[Cifras Significativas]] - Expresión de resultados
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis de Datos y Errores/Errores Absolutos y Relativos\|Errores Absolutos y Relativos]] - Base conceptual
+> - [[Errores Absolutos y Relativos]] - Base conceptual
 > - **Cálculo diferencial**: Derivadas parciales básicas
 > - **Álgebra**: Operaciones con radicales
 >
 > [!note] **Temas Siguientes**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Herramientas Matemáticas/Derivadas Parciales\|Derivadas Parciales]] - Matemáticas para propagación
-> - [[Análisis Gráfico\|Análisis Gráfico]] - Representación de incertidumbres
-> - [[Reportes de Laboratorio\|Reportes de Laboratorio]] - Presentación de resultados
+> - [[Derivadas Parciales]] - Matemáticas para propagación
+> - [[Análisis Gráfico]] - Representación de incertidumbres
+> - [[Reportes de Laboratorio]] - Presentación de resultados
 
 ---
 

@@ -27,13 +27,10 @@
 > graph TD
 >     A[Telling Stories About<br/>Life's Little Lessons] --> B[Indefinite Pronouns]
 >     A --> C[Reported Speech]
->     
 >     B --> D["Someone spilled coffee"<br/>"I didn't see anyone"<br/>"Nothing was damaged"]
 >     C --> E["She said she was sorry"<br/>"He told me he felt bad"<br/>"They said it was an accident"]
->     
 >     D --> F[Tell complete stories<br/>about what happened]
 >     E --> F
->     
 >     style B fill:#e1ffe1
 >     style C fill:#fff4e1
 >     style F fill:#e1f5ff
@@ -1212,7 +1209,6 @@ mindmap
 >     A[Vocabulary:<br/>Accidents & Extremes] --> B[Grammar:<br/>Indefinite Pronouns &<br/>Reported Speech]
 >     B --> C[Functional Language:<br/>Reacting & Telling Stories]
 >     C --> D[Real Use:<br/>Share experiences<br/>and lessons]
->     
 >     style A fill:#e1ffe1
 >     style B fill:#fff4e1
 >     style C fill:#e1f5ff

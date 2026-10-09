@@ -56,15 +56,12 @@
 >     A["Paradoja Hidrostática"] --> B["Recipiente Cilíndrico"]
 >     A --> C["Recipiente Cónico"]
 >     A --> D["Recipiente con Estrechamiento"]
->     
 >     B --> B1["Volumen: πr²h<br/>Presión fondo: ρgh<br/>Fuerza total: πr²ρgh"]
 >     C --> C1["Volumen: ⅓πr²h<br/>Presión fondo: ρgh<br/>Fuerza total: πr²ρgh"]
 >     D --> D1["Volumen: Variable<br/>Presión fondo: ρgh<br/>Fuerza total: πr²ρgh"]
->     
 >     B1 --> E["MISMA PRESIÓN EN EL FONDO"]
 >     C1 --> E
 >     D1 --> E
->     
 >     style E fill:#96ceb4,stroke:#198754,color:#fff
 >     style A fill:#45b7d1,stroke:#0d6efd,color:#fff
 > ```
@@ -123,7 +120,6 @@
 >     B --> D[Mismo Nivel]
 >     C --> D
 >     D --> E[PARADOJA DEMOSTRADA]
->     
 >     style E fill:#ffd93d,stroke:#fd7e14,color:#fff
 > ```
 > 
@@ -265,28 +261,28 @@
 
 > [!quote]+ Enlaces a Otras Notas
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrostática/El Principio de Arquímedes y Flotación\|El Principio de Arquímedes y Flotación]]
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrostática/El Principio de Pascal\|El Principio de Pascal]]
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Fundamentos de Hidrostática e Hidrodinámica/Presión y Densidad\|Presión y Densidad]]
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrostática/Presión Manómetrica\|Presión Manómetrica]]
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrostática/Teorema de los Vasos Comunicantes\|Teorema de los Vasos Comunicantes]]
+> - [[El Principio de Arquímedes y Flotación]]
+> - [[El Principio de Pascal]]
+> - [[Presión y Densidad]]
+> - [[Presión Manómetrica]]
+> - [[Teorema de los Vasos Comunicantes]]
 
 ## Notas Complementarias
 
 > [!info]+ Prerrequisitos
 > 
-> - [[Conceptos de Presión\|Conceptos de Presión]]
-> - [[Densidad y Peso Específico\|Densidad y Peso Específico]]
-> - [[Equilibrio de Fluidos\|Equilibrio de Fluidos]]
-> - [[Principio de Pascal\|Principio de Pascal]]
+> - [[Conceptos de Presión]]
+> - [[Densidad y Peso Específico]]
+> - [[Equilibrio de Fluidos]]
+> - [[Principio de Pascal]]
 >
 > [!success]+ Para Profundizar
 > 
-> - [[Hidrostática Avanzada\|Hidrostática Avanzada]]
-> - [[Diseño de Sistemas Hidráulicos\|Diseño de Sistemas Hidráulicos]]
-> - [[Manometría\|Manometría]]
-> - [[Distribución de Presiones\|Distribución de Presiones]]
-> - [[Teorema de Stevin\|Teorema de Stevin]]
+> - [[Hidrostática Avanzada]]
+> - [[Diseño de Sistemas Hidráulicos]]
+> - [[Manometría]]
+> - [[Distribución de Presiones]]
+> - [[Teorema de Stevin]]
 
 ---
 

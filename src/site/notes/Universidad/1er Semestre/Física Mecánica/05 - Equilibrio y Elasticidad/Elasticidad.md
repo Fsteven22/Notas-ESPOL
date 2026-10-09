@@ -335,18 +335,18 @@ mindmap
 
 > [!quote] 🔗 Vínculos con Otros Temas de Mecánica
 > 
-> - [[Equilibrio Estático\|Equilibrio Estático]] - Análisis de fuerzas en estructuras deformables
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Trabajo y Energía\|Trabajo y Energía]] - Energía potencial elástica y transformaciones
-> - [[Oscilaciones\|Oscilaciones]] - Sistemas masa-resorte y movimiento armónico
-> - [[Fuerzas y DCL\|Fuerzas y DCL]] - Fuerzas de restitución elástica
-> - [[Segunda Ley de Newton\|Segunda Ley de Newton]] - Análisis dinámico de sistemas elásticos
+> - [[Equilibrio Estático]] - Análisis de fuerzas en estructuras deformables
+> - [[Trabajo y Energía]] - Energía potencial elástica y transformaciones
+> - [[Oscilaciones]] - Sistemas masa-resorte y movimiento armónico
+> - [[Fuerzas y DCL]] - Fuerzas de restitución elástica
+> - [[Segunda Ley de Newton]] - Análisis dinámico de sistemas elásticos
 >
 > [!quote] 🔗 Aplicaciones Avanzadas
 > 
-> - [[Mecánica de Materiales\|Mecánica de Materiales]] - Análisis de esfuerzos complejos
-> - [[Dinámica Estructural\|Dinámica Estructural]] - Vibraciones en sistemas elásticos
-> - [[Mecánica de Fracturas\|Mecánica de Fracturas]] - Límites de resistencia de materiales
-> - [[Análisis por Elementos Finitos\|Análisis por Elementos Finitos]] - Modelado computacional
+> - [[Mecánica de Materiales]] - Análisis de esfuerzos complejos
+> - [[Dinámica Estructural]] - Vibraciones en sistemas elásticos
+> - [[Mecánica de Fracturas]] - Límites de resistencia de materiales
+> - [[Análisis por Elementos Finitos]] - Modelado computacional
 
 ---
 

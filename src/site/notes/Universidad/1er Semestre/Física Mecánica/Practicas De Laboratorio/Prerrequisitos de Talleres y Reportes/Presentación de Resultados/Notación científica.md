@@ -123,7 +123,6 @@
 >     J --> K
 >     F --> K
 >     K --> L[Notación Científica Final]
->     
 >     style A fill:#e1f5fe
 >     style B fill:#f3e5f5
 >     style D fill:#fff3e0
@@ -641,11 +640,11 @@
 
 > [!quote] **Relación con Otros Temas**
 > 
-> - [[Logaritmos y Exponenciales\|Logaritmos y Exponenciales]] - Base matemática fundamental
-> - [[Análisis Dimensional\|Análisis Dimensional]] - Consistencia de unidades
-> - [[Gráficas Lineales\|Gráficas Lineales]] - Representación de datos experimentales
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis de Datos y Errores/Incertidumbres Experimentales\|Incertidumbres Experimentales]] - Propagación de errores
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Herramientas Matemáticas/Estadística Básica\|Estadística Básica]] - Análisis de datos científicos
+> - [[Logaritmos y Exponenciales]] - Base matemática fundamental
+> - [[Análisis Dimensional]] - Consistencia de unidades
+> - [[Gráficas Lineales]] - Representación de datos experimentales
+> - [[Incertidumbres Experimentales]] - Propagación de errores
+> - [[Estadística Básica]] - Análisis de datos científicos
 
 ## 🎯 Ejercicios y Problemas
 

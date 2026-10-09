@@ -197,19 +197,19 @@ flowchart TD
 ## 📚 Referencias
 
 > [!quote] 🔗 Enlaces Relacionados
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 4 - Estructuras de control/Módulo 4.1 Condicional\|Módulo 4.1 Condicional]] - Conceptos fundamentales
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 2 - Tipos de datos, operadores, cadenas, listas y aleatoriedad/Módulo 2.3 Listas y Tuplas en Python\|Módulo 2.3 Listas y Tuplas en Python]] - Trabajando con secuencias
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 2 - Tipos de datos, operadores, cadenas, listas y aleatoriedad/Módulo 2.2 Operaciones con Datos y Variables\|Módulo 2.2 Operaciones con Datos y Variables]] - Procesamiento de texto
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo general - Funciones especiales/Funciones Built-in\|Funciones Built-in]] - range(), enumerate() y más
+> - [[Módulo 4.1 Condicional]] - Conceptos fundamentales
+> - [[Módulo 2.3 Listas y Tuplas en Python]] - Trabajando con secuencias
+> - [[Módulo 2.2 Operaciones con Datos y Variables]] - Procesamiento de texto
+> - [[Funciones Built-in]] - range(), enumerate() y más
 
 ## 🎓 Notas Recomendadas
 
 > [!note] 📖 Para Complementar tu Aprendizaje
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo 4 - Estructuras de control/Módulo 4.3 Bucle While\|Módulo 4.3 Bucle While]] - Bucles con condiciones
-> - [[List Comprehensions\|List Comprehensions]] - Sintaxis avanzada para listas
-> - [[Iteradores y Generadores\|Iteradores y Generadores]] - Conceptos avanzados
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Módulo general - Funciones especiales/Manejo de Errores con try, except, finally\|Manejo de Errores con try, except, finally]] - Control de errores en bucles
-> - [[Algoritmos de Búsqueda\|Algoritmos de Búsqueda]] - Aplicaciones prácticas
+> - [[Módulo 4.3 Bucle While]] - Bucles con condiciones
+> - [[List Comprehensions]] - Sintaxis avanzada para listas
+> - [[Iteradores y Generadores]] - Conceptos avanzados
+> - [[Manejo de Errores con try, except, finally]] - Control de errores en bucles
+> - [[Algoritmos de Búsqueda]] - Aplicaciones prácticas
 
 ---
 
