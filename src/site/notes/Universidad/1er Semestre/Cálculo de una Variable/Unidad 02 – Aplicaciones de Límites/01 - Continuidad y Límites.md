@@ -251,12 +251,12 @@ graph TD
 
 > [!quote] Enlaces a otras notas
 > 
-> - [[Límites de Funciones\|Límites de Funciones]] - Base conceptual para continuidad
-> - [[Derivabilidad\|Derivabilidad]] - Relación entre continuidad y diferenciabilidad
-> - [[Teorema de Weierstrass\|Teorema de Weierstrass]] - Continuidad en compactos
-> - [[Topología\|Topología]] - Conceptos de abierto, cerrado y compacto
-> - [[Funciones Reales\|Funciones Reales]] - Propiedades generales de funciones
-> - [[Método de Bisección\|Método de Bisección]] - Aplicación computacional del TVI
+> - [[Límites de Funciones]] - Base conceptual para continuidad
+> - [[Derivabilidad]] - Relación entre continuidad y diferenciabilidad
+> - [[Teorema de Weierstrass]] - Continuidad en compactos
+> - [[Topología]] - Conceptos de abierto, cerrado y compacto
+> - [[Funciones Reales]] - Propiedades generales de funciones
+> - [[Método de Bisección]] - Aplicación computacional del TVI
 
 ## Notas Recomendadas
 
@@ -264,19 +264,19 @@ graph TD
 > 
 > **Prerrequisitos necesarios:**
 > 
-> - [[Límites Básicos\|Límites Básicos]] - Concepto de límite y límites laterales
-> - [[Dominio y Rango\|Dominio y Rango]] - Conceptos básicos de funciones
-> - [[Intervalos y Conjuntos\|Intervalos y Conjuntos]] - Notación de intervalos
-> - [[Desigualdades\|Desigualdades]] - Manipulación de desigualdades con valor absoluto
+> - [[Límites Básicos]] - Concepto de límite y límites laterales
+> - [[Dominio y Rango]] - Conceptos básicos de funciones
+> - [[Intervalos y Conjuntos]] - Notación de intervalos
+> - [[Desigualdades]] - Manipulación de desigualdades con valor absoluto
 > 
 > **Para profundizar:**
 > 
-> - [[Espacios Métricos\|Espacios Métricos]] - Generalización de continuidad uniforme
-> - [[Compacidad\|Compacidad]] - Teoremas de Heine-Borel y Heine-Cantor
-> - [[Conexidad\|Conexidad]] - Generalización del Teorema del Valor Intermedio
-> - [[Análisis Funcional\|Análisis Funcional]] - Continuidad en espacios más generales
-> - [[Ecuaciones Diferenciales\|Ecuaciones Diferenciales]] - TVI en existencia de soluciones
-> - [[Análisis Numérico\|Análisis Numérico]] - Algoritmos basados en continuidad
+> - [[Espacios Métricos]] - Generalización de continuidad uniforme
+> - [[Compacidad]] - Teoremas de Heine-Borel y Heine-Cantor
+> - [[Conexidad]] - Generalización del Teorema del Valor Intermedio
+> - [[Análisis Funcional]] - Continuidad en espacios más generales
+> - [[Ecuaciones Diferenciales]] - TVI en existencia de soluciones
+> - [[Análisis Numérico]] - Algoritmos basados en continuidad
 
 ---
 

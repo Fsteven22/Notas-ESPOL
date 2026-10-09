@@ -414,23 +414,23 @@ graph TD
 
 > [!quote] 📖 Notas relacionadas
 >
-> - [[Propiedades de la Integral Definida\|Propiedades de la Integral Definida]] - Aditividad respecto al intervalo
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/04 - Teorema Fundamental del Cálculo\|04 - Teorema Fundamental del Cálculo]] - Evaluación en cada tramo
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 06 – Aplicaciones de la Integral/I - Áreas/01 - Área bajo la Curva\|01 - Área bajo la Curva]] - Interpretación geométrica
+> - [[Propiedades de la Integral Definida]] - Aditividad respecto al intervalo
+> - [[04 - Teorema Fundamental del Cálculo]] - Evaluación en cada tramo
+> - [[01 - Área bajo la Curva]] - Interpretación geométrica
 
 ---
 
 ## 🔍 Notas Recomendadas
 
 > [!info] 📚 Para profundizar y complementar
-> - [[Continuidad y Discontinuidades\|Continuidad y Discontinuidades]] - Análisis de puntos de ruptura
-> - [[Funciones Especiales\|Funciones Especiales]] - Heaviside, Dirac, escalón
-> - [[Aplicaciones Geometricas\|Aplicaciones Geometricas]] - Problemas con condiciones variables
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/IV - Integrales Impropias y Avanzadas/01 - Integrales Impropias\|01 - Integrales Impropias]] - Cuando hay discontinuidades infinitas
-> - [[Métodos de Integració...\|Métodos de Integració...]] - Técnicas para cada tramo
-> - [[Transformadas\|Transformadas]] - Fourier y Laplace de funciones por tramos
-> - [[Ecuaciones Diferenciales\|Ecuaciones Diferenciales]] - Con coeficientes por tramos
-> - [[Fundamentos teóricos\|Fundamentos teóricos]] - Base teórica de integrabilidad
+> - [[Continuidad y Discontinuidades]] - Análisis de puntos de ruptura
+> - [[Funciones Especiales]] - Heaviside, Dirac, escalón
+> - [[Aplicaciones Geometricas]] - Problemas con condiciones variables
+> - [[01 - Integrales Impropias]] - Cuando hay discontinuidades infinitas
+> - [[Métodos de Integració...]] - Técnicas para cada tramo
+> - [[Transformadas]] - Fourier y Laplace de funciones por tramos
+> - [[Ecuaciones Diferenciales]] - Con coeficientes por tramos
+> - [[Fundamentos teóricos]] - Base teórica de integrabilidad
 
 ---
 

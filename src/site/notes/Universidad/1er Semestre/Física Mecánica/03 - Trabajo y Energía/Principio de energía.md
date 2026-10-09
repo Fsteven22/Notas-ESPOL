@@ -206,9 +206,9 @@
 
 > [!quote] Notas relacionadas
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Trabajo y Energía\|Trabajo y Energía]]
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Principios de Conservación de la Energía\|Principios de Conservación de la Energía]]
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]]
+> - [[Trabajo y Energía]]
+> - [[Principios de Conservación de la Energía]]
+> - [[Leyes de Newton]]
 
 ---
 

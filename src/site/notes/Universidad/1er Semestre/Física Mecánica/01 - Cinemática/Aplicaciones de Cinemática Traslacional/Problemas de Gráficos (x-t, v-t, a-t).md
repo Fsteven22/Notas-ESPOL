@@ -225,18 +225,18 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Traslacional\|Cinemática Traslacional]] - Fundamentos teóricos
-> - [[Ecuaciones de Movimiento\|Ecuaciones de Movimiento]] - Base matemática
-> - [[Análisis Vectorial\|Análisis Vectorial]] - Para movimiento en 2D y 3D
-> - [[Práctica de Velocidad Instantánea\|Práctica de Velocidad Instantánea]] - Aplicación experimental
+> - [[Cinemática Traslacional]] - Fundamentos teóricos
+> - [[Ecuaciones de Movimiento]] - Base matemática
+> - [[Análisis Vectorial]] - Para movimiento en 2D y 3D
+> - [[Práctica de Velocidad Instantánea]] - Aplicación experimental
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Manejo de magnitudes vectoriales
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Sistema de unidades
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Conocimientos Previos a las Prácticas\|Conocimientos Previos a las Prácticas]] - Conceptos básicos
+> - [[Vectores]] - Manejo de magnitudes vectoriales
+> - [[Unidades y Magnitudes Físicas]] - Sistema de unidades
+> - [[Conocimientos Previos a las Prácticas]] - Conceptos básicos
 
 ---
 

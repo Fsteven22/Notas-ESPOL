@@ -202,10 +202,10 @@ flowchart TD
 
 > [!quote] 📚 Notas Relacionadas
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/II - Integrales Indefinidas/Técnicas de Integración/Cambio de Variable en Integrales\|Cambio de Variable en Integrales]] - Técnica previa
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/II - Integrales Indefinidas/01 - Antiderivadas (Primitivas)\|01 - Antiderivadas (Primitivas)]] - Conceptos base
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/II - Integrales Indefinidas/Técnicas de Integración/Integrales Trigonométricas\|Integrales Trigonométricas]] - Técnica siguiente
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/II - Integrales Indefinidas/Técnicas de Integración/Integrales por Fracciones Parciales\|Integrales por Fracciones Parciales]] - Técnica complementaria
+> - [[Cambio de Variable en Integrales]] - Técnica previa
+> - [[01 - Antiderivadas (Primitivas)]] - Conceptos base
+> - [[Integrales Trigonométricas]] - Técnica siguiente
+> - [[Integrales por Fracciones Parciales]] - Técnica complementaria
 
 ## 📖 Notas Recomendadas
 

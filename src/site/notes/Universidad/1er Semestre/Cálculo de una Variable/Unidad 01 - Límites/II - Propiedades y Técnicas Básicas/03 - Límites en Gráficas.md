@@ -217,20 +217,20 @@ flowchart TD
 
 > [!quote] 🔗 Notas Relacionadas
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/I - Fundamentos del Límite/01 - Concepto y Definición Formal del Límite\|01 - Concepto y Definición Formal del Límite]] - Base conceptual
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/II - Propiedades y Técnicas Básicas/02 - Límites Laterales\|02 - Límites Laterales]] - Límites laterales
-> - [[Funciones y Continuidad\|Funciones y Continuidad]] - Tipos de discontinuidades
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 02 – Aplicaciones de Límites/02 - Asíntotas y Comportamiento de Funciones\|02 - Asíntotas y Comportamiento de Funciones]] - Comportamiento asintótico
+> - [[01 - Concepto y Definición Formal del Límite]] - Base conceptual
+> - [[02 - Límites Laterales]] - Límites laterales
+> - [[Funciones y Continuidad]] - Tipos de discontinuidades
+> - [[02 - Asíntotas y Comportamiento de Funciones]] - Comportamiento asintótico
 
 ## Notas Recomendadas 💡
 
 > [!note] 📖 Para Profundizar
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/II - Propiedades y Técnicas Básicas/01 - Propiedades y Teoremas de los Límites\|01 - Propiedades y Teoremas de los Límites]] - Cálculo algebraico
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/II - Propiedades y Técnicas Básicas/01 - Propiedades y Teoremas de los Límites\|01 - Propiedades y Teoremas de los Límites]] - Propiedades fundamentales
-> - [[Derivadas Geométricamente\|Derivadas Geométricamente]] - Interpretación de la pendiente
-> - [[Análisis Gráfico de Funciones\|Análisis Gráfico de Funciones]] - Técnicas avanzadas
-> - [[Software Matemático\|Software Matemático]] - Herramientas de graficación
+> - [[01 - Propiedades y Teoremas de los Límites]] - Cálculo algebraico
+> - [[01 - Propiedades y Teoremas de los Límites]] - Propiedades fundamentales
+> - [[Derivadas Geométricamente]] - Interpretación de la pendiente
+> - [[Análisis Gráfico de Funciones]] - Técnicas avanzadas
+> - [[Software Matemático]] - Herramientas de graficación
 
 ---
 

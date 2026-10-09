@@ -276,21 +276,21 @@ graph TB
 > 
 > ### Conceptos Fundamentales
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]] - Base teórica del impulso
-> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Momentum Lineal y Su Conservación\|Momentum Lineal y Su Conservación]] - Magnitud que cambia por impulso
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Trabajo y Energía\|Trabajo y Energía]] - Concepto análogo pero diferente
+> - [[Leyes de Newton]] - Base teórica del impulso
+> - [[Momentum Lineal y Su Conservación]] - Magnitud que cambia por impulso
+> - [[Trabajo y Energía]] - Concepto análogo pero diferente
 > 
 > ### Aplicaciones Directas
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Choques Uni-Bidimensionales\|Choques Uni-Bidimensionales]] - Aplicación práctica principal
-> - [[Centro de Masa\|Centro de Masa]] - Para sistemas de partículas
-> - [[Dinámica Rotacional\|Dinámica Rotacional]] - Extensión al momentum angular
+> - [[Choques Uni-Bidimensionales]] - Aplicación práctica principal
+> - [[Centro de Masa]] - Para sistemas de partículas
+> - [[Dinámica Rotacional]] - Extensión al momentum angular
 > 
 > ### Temas Avanzados
 > 
-> - [[Mecánica Lagrangiana\|Mecánica Lagrangiana]] - Formulación generalizada
-> - [[Relatividad Especial\|Relatividad Especial]] - Impulso a altas velocidades
-> - [[Mecánica de Fluidos\|Mecánica de Fluidos]] - Impulso en medios continuos
+> - [[Mecánica Lagrangiana]] - Formulación generalizada
+> - [[Relatividad Especial]] - Impulso a altas velocidades
+> - [[Mecánica de Fluidos]] - Impulso en medios continuos
 
 ---
 

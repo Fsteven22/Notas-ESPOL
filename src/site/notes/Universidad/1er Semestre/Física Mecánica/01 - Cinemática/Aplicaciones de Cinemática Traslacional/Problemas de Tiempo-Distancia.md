@@ -305,9 +305,9 @@
 
 > [!quote] 📚 **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Traslacional\|Cinemática Traslacional]] - Base teórica para cada tramo
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Aplicaciones de Cinemática Traslacional/Problemas de Persecución\|Problemas de Persecución]] - Para casos con móviles múltiples
-> - [[Análisis Gráfico del Movimiento\|Análisis Gráfico del Movimiento]] - Representación visual
+> - [[Cinemática Traslacional]] - Base teórica para cada tramo
+> - [[Problemas de Persecución]] - Para casos con móviles múltiples
+> - [[Análisis Gráfico del Movimiento]] - Representación visual
 
 
 ---

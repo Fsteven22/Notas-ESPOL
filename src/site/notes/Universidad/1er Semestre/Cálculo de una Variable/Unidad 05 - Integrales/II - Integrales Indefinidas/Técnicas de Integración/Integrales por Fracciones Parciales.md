@@ -56,10 +56,10 @@
 ```mermaid
 graph TD
     A[Factor del denominador] --> B{Tipo de factor}
-    B -->|Lineal simple| C["$\frac{A}{ax + b}$"]
-    B -->|Lineal repetido n veces| D["$\frac{A_1}{ax + b} + \frac{A_2}{(ax + b)^2} + ... + \frac{A_n}{(ax + b)^n}$"]
-    B -->|Cuadrático irreducible| E["$\frac{Ax + B}{ax^2 + bx + c}$"]
-    B -->|Cuadrático repetido n veces| F["$\frac{A_1x + B_1}{ax^2 + bx + c} + ... + \frac{A_nx + B_n}{(ax^2 + bx + c)^n}$"]
+    B -->|Lineal simple| C["$$\frac{A}{ax + b}$$"]
+    B -->|Lineal repetido n veces| D["$$\frac{A_1}{ax + b} + \frac{A_2}{(ax + b)^2} + ... + \frac{A_n}{(ax + b)^n}$$"]
+    B -->|Cuadrático irreducible| E["$$\frac{Ax + B}{ax^2 + bx + c}$$"]
+    B -->|Cuadrático repetido n veces| F["$$\frac{A_1x + B_1}{ax^2 + bx + c} + ... + \frac{A_nx + B_n}{(ax^2 + bx + c)^n}$$"]
 ```
 
 > [!tip] 🧩 **Paso 4: Resolver para las constantes**
@@ -149,8 +149,8 @@ flowchart LR
 
 ```mermaid
 graph LR
-    A["$f(x) = \frac{x+5}{x^2+x-2}$"] --> B["$\frac{-1}{x+2}$"]
-    A --> C["$\frac{2}{x-1}$"]
+    A["$$f(x) = \frac{x+5}{x^2+x-2}$$"] --> B["$$\frac{-1}{x+2}$$"]
+    A --> C["$$\frac{2}{x-1}$$"]
     B --> D["Integral: $-\ln|x+2|$"]
     C --> E["Integral: $2\ln|x-1|$"]
     D --> F[Resultado Final]
@@ -190,10 +190,10 @@ graph LR
 
 > [!quote] **Notas relacionadas**
 > 
-> - [[Integración por Sustitución\|Integración por Sustitución]] - Método alternativo para ciertas funciones racionales
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/II - Integrales Indefinidas/Técnicas de Integración/Integración por Partes\|Integración por Partes]] - Complementa cuando hay productos
-> - [[Factorización de Polinomios\|Factorización de Polinomios]] - Fundamento algebraico
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/II - Integrales Indefinidas/Técnicas de Integración/Integrales Trigonométricas\|Integrales Trigonométricas]] - Casos especiales de sustitución
+> - [[Integración por Sustitución]] - Método alternativo para ciertas funciones racionales
+> - [[Integración por Partes]] - Complementa cuando hay productos
+> - [[Factorización de Polinomios]] - Fundamento algebraico
+> - [[Integrales Trigonométricas]] - Casos especiales de sustitución
 
 ---
 
@@ -201,11 +201,11 @@ graph LR
 
 > [!note] 📖 **Para profundizar**
 > 
-> - [[Teorema Fundamental del Álgebra\|Teorema Fundamental del Álgebra]]
-> - [[Sistemas de Ecuaciones Lineales\|Sistemas de Ecuaciones Lineales]]
-> - [[Transformada de Laplace\|Transformada de Laplace]]
-> - [[Funciones Racionales y sus Propiedades\|Funciones Racionales y sus Propiedades]]
-> - [[Métodos de Integración - Resumen General\|Métodos de Integración - Resumen General]]
+> - [[Teorema Fundamental del Álgebra]]
+> - [[Sistemas de Ecuaciones Lineales]]
+> - [[Transformada de Laplace]]
+> - [[Funciones Racionales y sus Propiedades]]
+> - [[Métodos de Integración - Resumen General]]
 
 ---
 

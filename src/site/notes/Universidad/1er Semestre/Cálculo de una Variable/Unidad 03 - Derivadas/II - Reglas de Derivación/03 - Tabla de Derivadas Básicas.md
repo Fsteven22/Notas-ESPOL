@@ -161,23 +161,23 @@
 
 > [!quote] Notas Relacionadas
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/I - Fundamentos Teóricos/03 - Derivabilidad y Continuidad\|03 - Derivabilidad y Continuidad]]
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/I - Fundamentos Teóricos/01 - Derivada y Definición Formal\|01 - Derivada y Definición Formal]]
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/I - Fundamentos Teóricos/02 - Interpretación Geométrica de la Derivada\|02 - Interpretación Geométrica de la Derivada]]
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/II - Integrales Indefinidas/Integrales Notables (Fórmulas Directas)\|Integrales Notables (Fórmulas Directas)]]
+> - [[03 - Derivabilidad y Continuidad]]
+> - [[01 - Derivada y Definición Formal]]
+> - [[02 - Interpretación Geométrica de la Derivada]]
+> - [[Integrales Notables (Fórmulas Directas)]]
 
 ## Notas Recomendadas
 
 > [!info] Tus Notas de Derivadas
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/I - Fundamentos Teóricos/03 - Derivabilidad y Continuidad\|03 - Derivabilidad y Continuidad]] - Conceptos fundamentales
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/I - Fundamentos Teóricos/01 - Derivada y Definición Formal\|01 - Derivada y Definición Formal]] - Demostraciones rigurosas
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/I - Fundamentos Teóricos/02 - Interpretación Geométrica de la Derivada\|02 - Interpretación Geométrica de la Derivada]] - Significado visual
+> - [[03 - Derivabilidad y Continuidad]] - Conceptos fundamentales
+> - [[01 - Derivada y Definición Formal]] - Demostraciones rigurosas
+> - [[02 - Interpretación Geométrica de la Derivada]] - Significado visual
 >
 > [!tip] Continuación del Tema
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/II - Integrales Indefinidas/Integrales Notables (Fórmulas Directas)\|Integrales Notables (Fórmulas Directas)]] - Operación inversa
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 04 - Aplicaciones de la Derivada/II - Optimización/01 - Problemas de Optimización\|01 - Problemas de Optimización]]
+> - [[Integrales Notables (Fórmulas Directas)]] - Operación inversa
+> - [[01 - Problemas de Optimización]]
 
 ---
 

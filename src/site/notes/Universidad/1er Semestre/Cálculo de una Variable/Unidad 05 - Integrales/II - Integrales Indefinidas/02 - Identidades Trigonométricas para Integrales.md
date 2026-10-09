@@ -212,15 +212,15 @@ graph TD
 > 
 > **Prerrequisitos:**
 > 
-> - [[Identidades Trigonométricas Básicas\|Identidades Trigonométricas Básicas]] - Fundamento teórico
-> - [[Técnicas de Integración\|Técnicas de Integración]] - Métodos generales
-> - [[Sustitución Trigonométrica\|Sustitución Trigonométrica]] - Contexto más amplio
+> - [[Identidades Trigonométricas Básicas]] - Fundamento teórico
+> - [[Técnicas de Integración]] - Métodos generales
+> - [[Sustitución Trigonométrica]] - Contexto más amplio
 > 
 > **Aplicaciones posteriores:**
 > 
-> - [[Series de Fourier\|Series de Fourier]] - Análisis armónico
-> - [[Ecuaciones Diferenciales\|Ecuaciones Diferenciales]] - Soluciones trigonométricas
-> - [[Análisis Complejo\|Análisis Complejo]] - Funciones trigonométricas complejas
+> - [[Series de Fourier]] - Análisis armónico
+> - [[Ecuaciones Diferenciales]] - Soluciones trigonométricas
+> - [[Análisis Complejo]] - Funciones trigonométricas complejas
 
 ## 📖 Referencias y Estudio Complementario
 
@@ -228,11 +228,11 @@ graph TD
 > 
 > **Temas relacionados:**
 > 
-> 1. **[[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/II - Integrales Indefinidas/Técnicas de Integración/Integración por Partes\|Integración por Partes]]** - Combinación de técnicas
-> 2. **[[Fracciones Parciales\|Fracciones Parciales]]** - Para expresiones racionales
-> 3. **[[Completar el Cuadrado\|Completar el Cuadrado]]** - Preparación de formas estándar
+> 1. **[[Integración por Partes]]** - Combinación de técnicas
+> 2. **[[Fracciones Parciales]]** - Para expresiones racionales
+> 3. **[[Completar el Cuadrado]]** - Preparación de formas estándar
 > 
-> **Aplicaciones avanzadas:** 4. **[[Integrales Definidas\|Integrales Definidas]]** - Evaluación numérica 5. **[[Aplicaciones Físicas\|Aplicaciones Físicas]]** - Ondas y oscilaciones
+> **Aplicaciones avanzadas:** 4. **[[Integrales Definidas]]** - Evaluación numérica 5. **[[Aplicaciones Físicas]]** - Ondas y oscilaciones
 
 ---
 

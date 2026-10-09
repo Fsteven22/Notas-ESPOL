@@ -179,27 +179,27 @@
 
 > [!note] 🌐 Relaciones Conceptuales
 > 
-> ### [[Dinámica Rotacional\|Dinámica Rotacional]]
+> ### [[Dinámica Rotacional]]
 > 
 > - **Segunda Ley**: $\sum \tau = I\alpha$ (ecuación fundamental)
 > - El torque es la **causa** de la aceleración angular
 > 
-> ### [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Momento de Inercia\|Momento de Inercia]]
+> ### [[Momento de Inercia]]
 > 
 > - **Resistencia rotacional**: Relaciona torque con aceleración angular
 > - **Ecuación conjunta**: Mayor $I$ requiere mayor $\tau$ para misma $\alpha$
 > 
-> ### [[Trabajo y Energía Rotacional\|Trabajo y Energía Rotacional]]
+> ### [[Trabajo y Energía Rotacional]]
 > 
 > - **Trabajo rotacional**: $W = \tau \Delta\theta$
 > - **Potencia rotacional**: $P = \tau \omega$
 > 
-> ### [[Equilibrio Rotacional\|Equilibrio Rotacional]]
+> ### [[Equilibrio Rotacional]]
 > 
 > - **Condición**: $\sum \tau = 0$ (torques se cancelan)
 > - **Aplicación**: Balanzas, palancas, estructuras
 > 
-> ### [[Momento Angular\|Momento Angular]]
+> ### [[Momento Angular]]
 > 
 > - **Relación temporal**: $\tau = \frac{dL}{dt}$ (torque cambia momento angular)
 > - **Conservación**: Sin torque externo → $L$ constante
@@ -248,19 +248,19 @@
 > 
 > ### 🔗 Notas Relacionadas
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Momento de Inercia\|Momento de Inercia]]
-> - [[Momento Angular\|Momento Angular]]
-> - [[Equilibrio Rotacional\|Equilibrio Rotacional]]
-> - [[Trabajo y Energía Rotacional\|Trabajo y Energía Rotacional]]
-> - [[Palancas y Máquinas Simples\|Palancas y Máquinas Simples]]
-> - [[Producto Vectorial\|Producto Vectorial]]
+> - [[Momento de Inercia]]
+> - [[Momento Angular]]
+> - [[Equilibrio Rotacional]]
+> - [[Trabajo y Energía Rotacional]]
+> - [[Palancas y Máquinas Simples]]
+> - [[Producto Vectorial]]
 > 
 > ### 📖 Temas Avanzados
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Giroscopios y Precesión\|Giroscopios y Precesión]]
-> - [[Torque en Sistemas de Múltiples Cuerpos\|Torque en Sistemas de Múltiples Cuerpos]]
-> - [[Análisis de Estructuras\|Análisis de Estructuras]]
-> - [[Máquinas Rotativas\|Máquinas Rotativas]]t
+> - [[Giroscopios y Precesión]]
+> - [[Torque en Sistemas de Múltiples Cuerpos]]
+> - [[Análisis de Estructuras]]
+> - [[Máquinas Rotativas]]t
 ## Tags
 
 #fisica #mecanica #torque #momento-torsion #dinamica-roacional #equilibrio
@@ -447,12 +447,12 @@ graph TD
 
 > [!quote] 🔗 Enlaces a Otras Notas
 > 
-> - [[Momento de Torsión\|Momento de Torsión]]
-> - [[Dinámica Rotacional\|Dinámica Rotacional]]
-> - [[Estática\|Estática]]
-> - [[Fuerzas y Equilibrio\|Fuerzas y Equilibrio]]
-> - [[Diagramas de Cuerpo Libre\|Diagramas de Cuerpo Libre]]
-> - [[Centro de Masa\|Centro de Masa]]
+> - [[Momento de Torsión]]
+> - [[Dinámica Rotacional]]
+> - [[Estática]]
+> - [[Fuerzas y Equilibrio]]
+> - [[Diagramas de Cuerpo Libre]]
+> - [[Centro de Masa]]
 
 ---
 

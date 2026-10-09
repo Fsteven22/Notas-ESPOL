@@ -370,16 +370,16 @@ flowchart LR
 > [!quote] 📚 Notas Relacionadas
 > 
 > ### Prerequisitos
-> - [[Derivadas Básicas\|Derivadas Básicas]] - Base fundamental
-> - [[Regla del Producto\|Regla del Producto]] - Para la regla de Leibniz
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/II - Reglas de Derivación/02 - Regla de la Cadena\|Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/II - Reglas de Derivación/02 - Regla de la Cadena]] - Para composiciones complejas
-> - [[Factoriales y Combinaciones\|Factoriales y Combinaciones]] - Para fórmulas con combinatorios
+> - [[Derivadas Básicas]] - Base fundamental
+> - [[Regla del Producto]] - Para la regla de Leibniz
+> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/II - Reglas de Derivación/02 - Regla de la Cadena]] - Para composiciones complejas
+> - [[Factoriales y Combinaciones]] - Para fórmulas con combinatorios
 > 
 > ### Temas Relacionados
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/IV - Técnicas Avanzadas/03 - Derivadas Paramétricas\|03 - Derivadas Paramétricas]] 🔄 - Segunda derivada paramétrica
-> - [[Series de Taylor\|Series de Taylor]] - Usan todas las derivadas de orden superior
-> - [[Análisis de Funciones\|Análisis de Funciones]] - Concavidad y puntos de inflexión
-> - [[Optimización\|Optimización]] - Criterios de segunda derivada
+> - [[03 - Derivadas Paramétricas]] 🔄 - Segunda derivada paramétrica
+> - [[Series de Taylor]] - Usan todas las derivadas de orden superior
+> - [[Análisis de Funciones]] - Concavidad y puntos de inflexión
+> - [[Optimización]] - Criterios de segunda derivada
 > 
 > ### Aplicaciones Avanzadas
 > - **Ecuaciones Diferenciales** - Órdenes superiores frecuentes

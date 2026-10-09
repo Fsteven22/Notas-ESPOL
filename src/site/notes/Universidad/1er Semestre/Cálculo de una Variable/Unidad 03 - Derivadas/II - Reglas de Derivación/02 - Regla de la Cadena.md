@@ -187,14 +187,14 @@ flowchart TD
 > [!quote] 📚 Relaciones con Otros Conceptos
 > 
 > ### Hacia Adelante:
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/III - Derivadas Especiales/01 - Derivación Implícita\|01 - Derivación Implícita]] - Aplicación directa de la regla
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/II - Reglas de Derivación/01 - Reglas Fundamentales de Derivación\|01 - Reglas Fundamentales de Derivación]] - Combinación con otras reglas
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/I - Fundamentos Teóricos/02 - Interpretación Geométrica de la Derivada\|02 - Interpretación Geométrica de la Derivada]] - Significado geométrico
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/I - Fundamentos Teóricos/01 - Derivada y Definición Formal\|01 - Derivada y Definición Formal]] - Demostración formal
+> - [[01 - Derivación Implícita]] - Aplicación directa de la regla
+> - [[01 - Reglas Fundamentales de Derivación]] - Combinación con otras reglas
+> - [[02 - Interpretación Geométrica de la Derivada]] - Significado geométrico
+> - [[01 - Derivada y Definición Formal]] - Demostración formal
 > 
 > ### Hacia Adelante (Cálculo Integral):
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/II - Integrales Indefinidas/Técnicas de Integración/Cambio de Variable en Integrales\|Cambio de Variable en Integrales]] - Versión inversa para integración
-> - [[Integración por Sustitución\|Integración por Sustitución]] - Aplicación en sentido contrario
+> - [[Cambio de Variable en Integrales]] - Versión inversa para integración
+> - [[Integración por Sustitución]] - Aplicación en sentido contrario
 
 ## 🎲 Ejercicios de Práctica Graduados
 

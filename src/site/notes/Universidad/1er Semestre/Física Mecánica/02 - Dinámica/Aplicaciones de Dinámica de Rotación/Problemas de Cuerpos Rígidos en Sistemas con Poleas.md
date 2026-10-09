@@ -413,20 +413,20 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Dinámica de Rotación\|Dinámica de Rotación]] - Fundamentos teóricos
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Momento de Inercia\|Momento de Inercia]] - Cálculos detallados
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Torque y Equilibrio Rotacional\|Torque y Equilibrio Rotacional]] - Conceptos base
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Segunda ley de Newton para Rotación\|Segunda ley de Newton para Rotación]] - Ecuaciones fundamentales
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Aplicaciones de Dinámica de Traslación/Problemas de Cuerdas y Poleas ideales\|Problemas de Cuerdas y Poleas ideales]] - Casos simplificados
+> - [[Dinámica de Rotación]] - Fundamentos teóricos
+> - [[Momento de Inercia]] - Cálculos detallados
+> - [[Torque y Equilibrio Rotacional]] - Conceptos base
+> - [[Segunda ley de Newton para Rotación]] - Ecuaciones fundamentales
+> - [[Problemas de Cuerdas y Poleas ideales]] - Casos simplificados
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]] - Base de la dinámica
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Fuerzas y Diagramas de Cuerpo Libre\|Fuerzas y Diagramas de Cuerpo Libre]] - Análisis de fuerzas
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Manejo matemático
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Rotacional\|Cinemática Rotacional]] - Movimiento angular
+> - [[Leyes de Newton]] - Base de la dinámica
+> - [[Fuerzas y Diagramas de Cuerpo Libre]] - Análisis de fuerzas
+> - [[Vectores]] - Manejo matemático
+> - [[Cinemática Rotacional]] - Movimiento angular
 
 ---
 

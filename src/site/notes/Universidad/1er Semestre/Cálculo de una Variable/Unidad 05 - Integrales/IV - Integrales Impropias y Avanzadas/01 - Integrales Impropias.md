@@ -377,21 +377,21 @@ mindmap
 > [!quote] 📖 Notas relacionadas
 > 
 >
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/01 - Integral de Riemann\|01 - Integral de Riemann]] - Fundamento teórico de las integrales definidas
-> - [[Propiedades de la Integral Definida\|Propiedades de la Integral Definida]] - Propiedades fundamentales de integración
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/04 - Teorema Fundamental del Cálculo\|04 - Teorema Fundamental del Cálculo]] - Marco teórico principal
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/IV - Integrales Impropias y Avanzadas/03 - Teoremas de Comparación y Desigualdades\|03 - Teoremas de Comparación y Desigualdades]] - Criterios de convergencia
+> - [[01 - Integral de Riemann]] - Fundamento teórico de las integrales definidas
+> - [[Propiedades de la Integral Definida]] - Propiedades fundamentales de integración
+> - [[04 - Teorema Fundamental del Cálculo]] - Marco teórico principal
+> - [[03 - Teoremas de Comparación y Desigualdades]] - Criterios de convergencia
 
 ---
 
 ## 🔍 Notas Recomendadas
 
 > [!info] 📚 Para profundizar y complementar
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 06 – Aplicaciones de la Integral/I - Áreas/01 - Área bajo la Curva\|01 - Área bajo la Curva]] - Base conceptual de integrales definidas
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/III - Integrales Definidas/01 - Métodos de Integración Definida\|01 - Métodos de Integración Definida]] - Técnicas avanzadas de integración
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/V - Otras Técnicas/01 - Integración Numérica\|01 - Integración Numérica]] - Métodos computacionales
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/III - Integrales Definidas/03 - Teoremas Especiales para Integrales Definidas\|03 - Teoremas Especiales para Integrales Definidas]] - Técnicas especiales de evaluación
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/III - Integrales Definidas/03 - Teoremas Especiales para Integrales Definidas\|03 - Teoremas Especiales para Integrales Definidas]] - Teoremas fundamentales del cálculo
+> - [[01 - Área bajo la Curva]] - Base conceptual de integrales definidas
+> - [[01 - Métodos de Integración Definida]] - Técnicas avanzadas de integración
+> - [[01 - Integración Numérica]] - Métodos computacionales
+> - [[03 - Teoremas Especiales para Integrales Definidas]] - Técnicas especiales de evaluación
+> - [[03 - Teoremas Especiales para Integrales Definidas]] - Teoremas fundamentales del cálculo
 
 ## 🏷️ Tags
 

@@ -260,23 +260,23 @@
 
 > [!quote] 🔗 Links a Otras Notas
 > 
-> - > [[Dinámica Rotacional\|Dinámica Rotacional]] - Torque y momento de inercia
+> - > [[Dinámica Rotacional]] - Torque y momento de inercia
 >     
-> - > [[Física Mecanica/Notas antiguas/Dinámica Rotacional/Momento de Inercia\|Física Mecanica/Notas antiguas/Dinámica Rotacional/Momento de Inercia]] - Cálculo para diferentes formas
+> - > [[Física Mecanica/Notas antiguas/Dinámica Rotacional/Momento de Inercia]] - Cálculo para diferentes formas
 >     
-> - > [[Segunda Ley de Newton Rotacional\|Segunda Ley de Newton Rotacional]] - Fundamento teórico
+> - > [[Segunda Ley de Newton Rotacional]] - Fundamento teórico
 >     
-> - > [[Conservación del Momentum Lineal\|Conservación del Momentum Lineal]] - Analogía lineal
+> - > [[Conservación del Momentum Lineal]] - Analogía lineal
 >     
-> - > [[Energía Cinética Rotacional\|Energía Cinética Rotacional]] - Relación energética
+> - > [[Energía Cinética Rotacional]] - Relación energética
 >     
-> - > [[Giroscopios\|Giroscopios]] - Aplicación práctica
+> - > [[Giroscopios]] - Aplicación práctica
 >     
-> - > [[Impulso Angular\|Impulso Angular]] - Cambio de momento angular
+> - > [[Impulso Angular]] - Cambio de momento angular
 >     
-> - > [[Dinámica de Sistemas\|Dinámica de Sistemas]] - Sistemas multipartícula
+> - > [[Dinámica de Sistemas]] - Sistemas multipartícula
 >     
-> - > [[Mecánica Celeste\|Mecánica Celeste]] - Aplicaciones astronómicas
+> - > [[Mecánica Celeste]] - Aplicaciones astronómicas
 >     
 >
 > [!quote] 📖 Material de Referencia
@@ -416,11 +416,11 @@ graph LR
 
 > [!quote] 🔗 Enlaces a Otras Notas
 > 
-> - [[Conservación del Momentum Angular\|Conservación del Momentum Angular]]
-> - [[Dinámica Rotacional\|Dinámica Rotacional]]
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Momento de Inercia\|Momento de Inercia]]
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Torque y Equilibrio Rotacional\|Torque y Equilibrio Rotacional]]
-> - [[Impulso y Momentum Lineal\|Impulso y Momentum Lineal]]
+> - [[Conservación del Momentum Angular]]
+> - [[Dinámica Rotacional]]
+> - [[Momento de Inercia]]
+> - [[Torque y Equilibrio Rotacional]]
+> - [[Impulso y Momentum Lineal]]
 
 ---
 

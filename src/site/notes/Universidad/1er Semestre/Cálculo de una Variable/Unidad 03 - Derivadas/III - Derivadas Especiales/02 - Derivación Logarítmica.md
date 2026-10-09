@@ -276,16 +276,16 @@ flowchart TD
 > [!quote] 📚 Notas Relacionadas
 > 
 > ### Prerequisitos
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/II - Reglas de Derivación/02 - Regla de la Cadena\|Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/II - Reglas de Derivación/02 - Regla de la Cadena]] - Fundamental para derivación implícita
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/III - Derivadas Especiales/01 - Derivación Implícita\|01 - Derivación Implícita]] - Base teórica del método
-> - [[Propiedades de Logaritmos\|Propiedades de Logaritmos]] - Esencial para simplificación
-> - [[Regla del Producto y Cociente\|Regla del Producto y Cociente]] - Para comparar eficiencia
+> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/II - Reglas de Derivación/02 - Regla de la Cadena]] - Fundamental para derivación implícita
+> - [[01 - Derivación Implícita]] - Base teórica del método
+> - [[Propiedades de Logaritmos]] - Esencial para simplificación
+> - [[Regla del Producto y Cociente]] - Para comparar eficiencia
 > 
 > ### Temas Relacionados
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/II - Integrales Indefinidas/Técnicas de Integración/Integrales de Funciones Inversas\|Integrales de Funciones Inversas]] 🔄 - Conexión con casos complejos
-> - [[Funciones Exponenciales\|Funciones Exponenciales]] - Casos $a^{f(x)}$ y $f(x)^a$
-> - [[Límites Indeterminados\|Límites Indeterminados]] - Aplicación para formas $1^\infty$, $0^0$
-> - [[Optimización\|Optimización]] - Derivadas complejas en máximos/mínimos
+> - [[Integrales de Funciones Inversas]] 🔄 - Conexión con casos complejos
+> - [[Funciones Exponenciales]] - Casos $a^{f(x)}$ y $f(x)^a$
+> - [[Límites Indeterminados]] - Aplicación para formas $1^\infty$, $0^0$
+> - [[Optimización]] - Derivadas complejas en máximos/mínimos
 
 ## 📝 Ejercicios Recomendados
 

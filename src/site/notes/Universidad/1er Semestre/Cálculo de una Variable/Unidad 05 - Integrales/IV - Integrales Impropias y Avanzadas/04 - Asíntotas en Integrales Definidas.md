@@ -242,24 +242,24 @@
 ## Referencias
 
 > [!quote] Notas Relacionadas
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/IV - Integrales Impropias y Avanzadas/01 - Integrales Impropias\|01 - Integrales Impropias]]
-> - [[Criterios de Convergencia y Divergencia - Integrales Impropias\|Criterios de Convergencia y Divergencia - Integrales Impropias]]
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 02 – Aplicaciones de Límites/02 - Asíntotas y Comportamiento de Funciones\|02 - Asíntotas y Comportamiento de Funciones]]
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/IV – Al infinito y sucesiones/Límites Infinitos y al Infinito/01 - Límites al Infinito y Sucesiones\|01 - Límites al Infinito y Sucesiones]]
+> - [[01 - Integrales Impropias]]
+> - [[Criterios de Convergencia y Divergencia - Integrales Impropias]]
+> - [[02 - Asíntotas y Comportamiento de Funciones]]
+> - [[01 - Límites al Infinito y Sucesiones]]
 
 ## Notas Recomendadas
 
 > [!info] Prerrequisitos
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 02 – Aplicaciones de Límites/02 - Asíntotas y Comportamiento de Funciones\|02 - Asíntotas y Comportamiento de Funciones]]
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/IV - Integrales Impropias y Avanzadas/01 - Integrales Impropias\|01 - Integrales Impropias]]
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/IV – Al infinito y sucesiones/Límites Infinitos y al Infinito/01 - Límites al Infinito y Sucesiones\|01 - Límites al Infinito y Sucesiones]]
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 02 – Aplicaciones de Límites/01 - Continuidad y Límites\|01 - Continuidad y Límites]]
+> - [[02 - Asíntotas y Comportamiento de Funciones]]
+> - [[01 - Integrales Impropias]]
+> - [[01 - Límites al Infinito y Sucesiones]]
+> - [[01 - Continuidad y Límites]]
 >
 > [!tip] Continuación del Tema
-> - [[Criterios de Convergencia y Divergencia - Integrales Impropias\|Criterios de Convergencia y Divergencia - Integrales Impropias]]
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/V - Otras Técnicas/01 - Integración Numérica\|01 - Integración Numérica]]
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 04 - Aplicaciones de la Derivada/I - Análisis de Funciones/01 - Análisis Completo de Funciones\|01 - Análisis Completo de Funciones]]
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/IV - Integrales Impropias y Avanzadas/03 - Teoremas de Comparación y Desigualdades\|03 - Teoremas de Comparación y Desigualdades]]
+> - [[Criterios de Convergencia y Divergencia - Integrales Impropias]]
+> - [[01 - Integración Numérica]]
+> - [[01 - Análisis Completo de Funciones]]
+> - [[03 - Teoremas de Comparación y Desigualdades]]
 
 ---
 

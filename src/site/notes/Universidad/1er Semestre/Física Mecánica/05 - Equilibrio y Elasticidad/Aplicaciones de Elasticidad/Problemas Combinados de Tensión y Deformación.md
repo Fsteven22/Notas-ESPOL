@@ -108,17 +108,14 @@
 >     B --> C[Deformaciones Principales ε₁,ε₂,ε₃]
 >     C --> D[Deformación Volumétrica εv = ε₁+ε₂+ε₃]
 >     C --> E[Deformación Distorsional εd]
->     
 >     F[Módulos Elásticos] --> G[E - Módulo Young]
 >     F --> H[ν - Coeficiente Poisson]  
 >     F --> I[G - Módulo Cortante]
 >     F --> J[K - Módulo Volumétrico]
->     
 >     G --> C
 >     H --> C
 >     I --> E
 >     J --> D
->     
 >     style A fill:#e1f5fe
 >     style D fill:#f3e5f5
 >     style E fill:#fff3e0
@@ -423,20 +420,20 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Aplicaciones de Elasticidad/Problemas de Deformación por Tensión y Compresión (Ley de Hooke)\|Problemas de Deformación por Tensión y Compresión (Ley de Hooke)]] - Base fundamental
-> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Aplicaciones de Elasticidad/Problemas de Deformación por Cortante (Esfuerzo Cortante)\|Problemas de Deformación por Cortante (Esfuerzo Cortante)]] - Complemento esencial
-> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrostática/Módulo Volumétrico\|Módulo Volumétrico]] - Deformación volumétrica específica
-> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Elasticidad\|Elasticidad]] - Teoría general
-> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Equilibrio\|Equilibrio]] - Condiciones de balance
+> - [[Problemas de Deformación por Tensión y Compresión (Ley de Hooke)]] - Base fundamental
+> - [[Problemas de Deformación por Cortante (Esfuerzo Cortante)]] - Complemento esencial
+> - [[Módulo Volumétrico]] - Deformación volumétrica específica
+> - [[Elasticidad]] - Teoría general
+> - [[Equilibrio]] - Condiciones de balance
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para análisis tensorial
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Consistencia dimensional
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Fuerzas y Diagramas de Cuerpo Libre\|Fuerzas y Diagramas de Cuerpo Libre]] - Análisis de cargas
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Conocimientos Previos a las Prácticas\|Conocimientos Previos a las Prácticas]] - Fundamentos matemáticos
+> - [[Vectores]] - Para análisis tensorial
+> - [[Unidades y Magnitudes Físicas]] - Consistencia dimensional
+> - [[Fuerzas y Diagramas de Cuerpo Libre]] - Análisis de cargas
+> - [[Conocimientos Previos a las Prácticas]] - Fundamentos matemáticos
 
 ---
 

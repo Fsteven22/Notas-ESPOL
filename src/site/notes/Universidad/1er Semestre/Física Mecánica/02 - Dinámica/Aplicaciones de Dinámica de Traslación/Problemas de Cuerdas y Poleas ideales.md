@@ -348,18 +348,18 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Fuerzas y Diagramas de Cuerpo Libre\|Fuerzas y Diagramas de Cuerpo Libre]] - Base del análisis de fuerzas
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]] - Fundamentos dinámicos
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Aplicaciones de Dinámica de Traslación/Problemas de Planos Inclinados\|Problemas de Planos Inclinados]] - Sistemas en superficies inclinadas
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Trabajo y Energía\|Trabajo y Energía]] - Métodos energéticos alternativos
+> - [[Fuerzas y Diagramas de Cuerpo Libre]] - Base del análisis de fuerzas
+> - [[Leyes de Newton]] - Fundamentos dinámicos
+> - [[Problemas de Planos Inclinados]] - Sistemas en superficies inclinadas
+> - [[Trabajo y Energía]] - Métodos energéticos alternativos
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Análisis de fuerzas y direcciones
-> - [[Dinámica de Traslación\|Dinámica de Traslación]] - Segunda ley de Newton
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Traslacional\|Cinemática Traslacional]] - Relaciones entre posición, velocidad y aceleración
+> - [[Vectores]] - Análisis de fuerzas y direcciones
+> - [[Dinámica de Traslación]] - Segunda ley de Newton
+> - [[Cinemática Traslacional]] - Relaciones entre posición, velocidad y aceleración
 
 ---
 

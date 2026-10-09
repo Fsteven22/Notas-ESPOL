@@ -428,28 +428,28 @@ mindmap
 > 
 > ### Conceptos Fundamentales
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Impulso Lineal\|Impulso Lineal]] - Cambio de momentum por fuerzas externas
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]] - F = dp/dt como formulación general
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Trabajo y Energía\|Trabajo y Energía]] - Complemento energético al análisis dinámico
+> - [[Impulso Lineal]] - Cambio de momentum por fuerzas externas
+> - [[Leyes de Newton]] - F = dp/dt como formulación general
+> - [[Trabajo y Energía]] - Complemento energético al análisis dinámico
 > 
 > ### Aplicaciones Directas
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Choques Uni-Bidimensionales\|Choques Uni-Bidimensionales]] - Aplicación práctica principal del principio
-> - [[Centro de Masa\|Centro de Masa]] - Movimiento del punto representativo del sistema
-> - [[Dinámica de Sistemas\|Dinámica de Sistemas]] - Análisis de múltiples partículas
+> - [[Choques Uni-Bidimensionales]] - Aplicación práctica principal del principio
+> - [[Centro de Masa]] - Movimiento del punto representativo del sistema
+> - [[Dinámica de Sistemas]] - Análisis de múltiples partículas
 > 
 > ### Conceptos Relacionados
 > 
-> - [[Momento Angular\|Momento Angular]] - Análogo rotacional del Momentum lineal
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Principios de Conservación de la Energía\|Principios de Conservación de la Energía]] - Principio complementario
-> - [[Dinámica de Fluidos\|Dinámica de Fluidos]] - Momentum en medios continuos
+> - [[Momento Angular]] - Análogo rotacional del Momentum lineal
+> - [[Principios de Conservación de la Energía]] - Principio complementario
+> - [[Dinámica de Fluidos]] - Momentum en medios continuos
 > 
 > ### Temas Avanzados
 > 
-> - [[Mecánica Lagrangiana\|Mecánica Lagrangiana]] - Formulación generalizada
-> - [[Relatividad Especial\|Relatividad Especial]] - Momentum a altas velocidades
-> - [[Mecánica Cuántica\|Mecánica Cuántica]] - Momentum en escala microscópica
-> - [[Teoría de Campos\|Teoría de Campos]] - Momentum en sistemas continuos
+> - [[Mecánica Lagrangiana]] - Formulación generalizada
+> - [[Relatividad Especial]] - Momentum a altas velocidades
+> - [[Mecánica Cuántica]] - Momentum en escala microscópica
+> - [[Teoría de Campos]] - Momentum en sistemas continuos
 
 ---
 

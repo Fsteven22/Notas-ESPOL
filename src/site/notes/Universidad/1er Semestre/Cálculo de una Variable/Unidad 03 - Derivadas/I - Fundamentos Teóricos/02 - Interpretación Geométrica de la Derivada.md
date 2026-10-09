@@ -501,10 +501,10 @@ mindmap
 
 > [!quote] 📖 **Notas relacionadas**
 > 
-> - [[Límites y Continuidad\|Límites y Continuidad]] - Base teórica para la definición de derivada
-> - [[Definición de Derivada por Límites\|Definición de Derivada por Límites]] - Fundamento algebraico
-> - [[Reglas de Derivación\|Reglas de Derivación]] - Técnicas para calcular derivadas
-> - [[Funciones y sus Gráficas\|Funciones y sus Gráficas]] - Conocimiento previo de funciones
+> - [[Límites y Continuidad]] - Base teórica para la definición de derivada
+> - [[Definición de Derivada por Límites]] - Fundamento algebraico
+> - [[Reglas de Derivación]] - Técnicas para calcular derivadas
+> - [[Funciones y sus Gráficas]] - Conocimiento previo de funciones
 
 ---
 
@@ -512,14 +512,14 @@ mindmap
 
 > [!info] 📚 **Para profundizar y complementar**
 > 
-> - [[Aplicaciones de la Derivada\|Aplicaciones de la Derivada]] - Usos prácticos en optimización
-> - [[Análisis de Funciones con Derivadas\|Análisis de Funciones con Derivadas]] - Crecimiento, máximos y mínimos
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/IV - Técnicas Avanzadas/01 - Derivadas de Orden Superior\|01 - Derivadas de Orden Superior]] - Segunda derivada y concavidad
-> - [[Aproximaciones Lineales\|Aproximaciones Lineales]] - Uso de tangentes para aproximar funciones
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/V – Formas Indeterminadas/01 - Formas Indeterminadas\|01 - Formas Indeterminadas]] - Aplicación de derivadas en límites indeterminados
-> - [[Cinemática y Derivadas\|Cinemática y Derivadas]] - Aplicaciones físicas específicas
-> - [[Optimización en Economía\|Optimización en Economía]] - Aplicaciones en ciencias económicas
-> - [[Ecuaciones de Curvas Paramétricas\|Ecuaciones de Curvas Paramétricas]] - Tangentes en curvas paramétricas
+> - [[Aplicaciones de la Derivada]] - Usos prácticos en optimización
+> - [[Análisis de Funciones con Derivadas]] - Crecimiento, máximos y mínimos
+> - [[01 - Derivadas de Orden Superior]] - Segunda derivada y concavidad
+> - [[Aproximaciones Lineales]] - Uso de tangentes para aproximar funciones
+> - [[01 - Formas Indeterminadas]] - Aplicación de derivadas en límites indeterminados
+> - [[Cinemática y Derivadas]] - Aplicaciones físicas específicas
+> - [[Optimización en Economía]] - Aplicaciones en ciencias económicas
+> - [[Ecuaciones de Curvas Paramétricas]] - Tangentes en curvas paramétricas
 
 ---
 

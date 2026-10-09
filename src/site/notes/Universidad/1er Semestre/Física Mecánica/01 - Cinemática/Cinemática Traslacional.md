@@ -189,11 +189,11 @@
 
 > [!quote] 📚 **Referencias a otras notas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Rotacional\|Cinemática Rotacional]] - Movimiento angular, analogías
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para movimiento en 2D y 3D
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/I - Fundamentos Teóricos/01 - Derivada y Definición Formal\|01 - Derivada y Definición Formal]] - Definiciones de velocidad y aceleración
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/II - Integrales Indefinidas/01 - Antiderivadas (Primitivas)\|01 - Antiderivadas (Primitivas)]] - Para recuperar posición desde aceleración
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]] - Causas del movimiento (dinámica)
+> - [[Cinemática Rotacional]] - Movimiento angular, analogías
+> - [[Vectores]] - Para movimiento en 2D y 3D
+> - [[01 - Derivada y Definición Formal]] - Definiciones de velocidad y aceleración
+> - [[01 - Antiderivadas (Primitivas)]] - Para recuperar posición desde aceleración
+> - [[Leyes de Newton]] - Causas del movimiento (dinámica)
 
 ## 📖 Notas Recomendadas para Complementar
 
@@ -201,17 +201,17 @@
 > 
 > **Prerrequisitos esenciales:**
 > 
-> - [[Álgebra\|Álgebra]] - Manipulación de ecuaciones
-> - [[Funciones\|Funciones]] - Conceptos de función del tiempo
-> - [[Gráficas\|Gráficas]] - Interpretación de gráficas x-t, v-t, a-t
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para movimiento bidimensional
+> - [[Álgebra]] - Manipulación de ecuaciones
+> - [[Funciones]] - Conceptos de función del tiempo
+> - [[Gráficas]] - Interpretación de gráficas x-t, v-t, a-t
+> - [[Vectores]] - Para movimiento bidimensional
 > 
 > **Temas complementarios:**
 > 
-> - [[Movimiento Parabólico\|Movimiento Parabólico]] - Extensión 2D
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Fuerzas y Diagramas de Cuerpo Libre\|Fuerzas y Diagramas de Cuerpo Libre]] - Causas del movimiento
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Trabajo y Energía\|Trabajo y Energía]] - Enfoque energético del movimiento
-> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Momentum Lineal y Su Conservación\|Momentum Lineal y Su Conservación]] - Conservación en colisiones
+> - [[Movimiento Parabólico]] - Extensión 2D
+> - [[Fuerzas y Diagramas de Cuerpo Libre]] - Causas del movimiento
+> - [[Trabajo y Energía]] - Enfoque energético del movimiento
+> - [[Momentum Lineal y Su Conservación]] - Conservación en colisiones
 
 ## 🎮 Simulación Mental de Problemas
 
@@ -433,11 +433,11 @@
 
 > [!quote] 📚 **Referencias a otras notas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Rotacional\|Cinemática Rotacional]] - Movimiento angular, analogías
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para movimiento en 2D y 3D
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/I - Fundamentos Teóricos/01 - Derivada y Definición Formal\|01 - Derivada y Definición Formal]] - Definiciones de velocidad y aceleración
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/II - Integrales Indefinidas/01 - Antiderivadas (Primitivas)\|01 - Antiderivadas (Primitivas)]] - Para recuperar posición desde aceleración
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]] - Causas del movimiento (dinámica)
+> - [[Cinemática Rotacional]] - Movimiento angular, analogías
+> - [[Vectores]] - Para movimiento en 2D y 3D
+> - [[01 - Derivada y Definición Formal]] - Definiciones de velocidad y aceleración
+> - [[01 - Antiderivadas (Primitivas)]] - Para recuperar posición desde aceleración
+> - [[Leyes de Newton]] - Causas del movimiento (dinámica)
 
 ## 📖 Notas Recomendadas para Complementar
 
@@ -445,17 +445,17 @@
 > 
 > **Prerrequisitos esenciales:**
 > 
-> - [[Álgebra\|Álgebra]] - Manipulación de ecuaciones
-> - [[Funciones\|Funciones]] - Conceptos de función del tiempo
-> - [[Gráficas\|Gráficas]] - Interpretación de gráficas x-t, v-t, a-t
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para movimiento bidimensional
+> - [[Álgebra]] - Manipulación de ecuaciones
+> - [[Funciones]] - Conceptos de función del tiempo
+> - [[Gráficas]] - Interpretación de gráficas x-t, v-t, a-t
+> - [[Vectores]] - Para movimiento bidimensional
 > 
 > **Temas complementarios:**
 > 
-> - [[Movimiento Parabólico\|Movimiento Parabólico]] - Extensión 2D
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Fuerzas y Diagramas de Cuerpo Libre\|Fuerzas y Diagramas de Cuerpo Libre]] - Causas del movimiento
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Trabajo y Energía\|Trabajo y Energía]] - Enfoque energético del movimiento
-> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Momentum Lineal y Su Conservación\|Momentum Lineal y Su Conservación]] - Conservación en colisiones
+> - [[Movimiento Parabólico]] - Extensión 2D
+> - [[Fuerzas y Diagramas de Cuerpo Libre]] - Causas del movimiento
+> - [[Trabajo y Energía]] - Enfoque energético del movimiento
+> - [[Momentum Lineal y Su Conservación]] - Conservación en colisiones
 
 ## 🎮 Simulación Mental de Problemas
 

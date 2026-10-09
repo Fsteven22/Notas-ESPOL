@@ -404,26 +404,26 @@ flowchart TD
 
 ## Referencias 🔗
 
-> [!quote] [[Aplicaciones de Derivadas\|Aplicaciones de Derivadas]] Marco general de aplicaciones del cálculo diferencial
+> [!quote] [[Aplicaciones de Derivadas]] Marco general de aplicaciones del cálculo diferencial
 >
-> [!quote] [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/II - Reglas de Derivación/02 - Regla de la Cadena\|Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/II - Reglas de Derivación/02 - Regla de la Cadena]] Fundamento matemático de la derivación implícita
+> [!quote] [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/II - Reglas de Derivación/02 - Regla de la Cadena]] Fundamento matemático de la derivación implícita
 >
-> [!quote] [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/III - Derivadas Especiales/01 - Derivación Implícita\|01 - Derivación Implícita]] Técnicas para derivar ecuaciones no despejadas
+> [!quote] [[01 - Derivación Implícita]] Técnicas para derivar ecuaciones no despejadas
 >
-> [!quote] [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 04 - Aplicaciones de la Derivada/II - Optimización/01 - Problemas de Optimización\|01 - Problemas de Optimización]] Otros tipos de problemas aplicados de cálculo
+> [!quote] [[01 - Problemas de Optimización]] Otros tipos de problemas aplicados de cálculo
 >
-> [!quote] [[Modelado Matemático\|Modelado Matemático]] Principios para traducir problemas reales a matemáticas
+> [!quote] [[Modelado Matemático]] Principios para traducir problemas reales a matemáticas
 
 ## Notas Recomendadas para Complementar 📖
 
-- [[Cinemática\|Cinemática]] - Fundamentos físicos de velocidad y aceleración
-- [[Geometría Analítica\|Geometría Analítica]] - Relaciones geométricas fundamentales
-- [[Trigonometría\|Trigonometría]] - Para problemas con ángulos y rotación
-- [[Física General\|Física General]] - Contexto físico de las aplicaciones
-- [[Ecuaciones Diferenciales\|Ecuaciones Diferenciales]] - Modelado dinámico avanzado
-- [[Universidad/2do Semestre/Cálculo Vectorial/Cálculo Vectorial\|Cálculo Vectorial]] - Extensión a movimiento en múltiples dimensiones
-- [[Mecánica de Fluidos\|Mecánica de Fluidos]] - Aplicaciones específicas en flujos
-- [[Termodinámica\|Termodinámica]] - Relaciones entre variables de estado
+- [[Cinemática]] - Fundamentos físicos de velocidad y aceleración
+- [[Geometría Analítica]] - Relaciones geométricas fundamentales
+- [[Trigonometría]] - Para problemas con ángulos y rotación
+- [[Física General]] - Contexto físico de las aplicaciones
+- [[Ecuaciones Diferenciales]] - Modelado dinámico avanzado
+- [[Cálculo Vectorial]] - Extensión a movimiento en múltiples dimensiones
+- [[Mecánica de Fluidos]] - Aplicaciones específicas en flujos
+- [[Termodinámica]] - Relaciones entre variables de estado
 
 ---
 

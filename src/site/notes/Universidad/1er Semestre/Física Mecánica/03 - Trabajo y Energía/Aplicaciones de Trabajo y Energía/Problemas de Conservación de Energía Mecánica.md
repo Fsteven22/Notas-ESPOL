@@ -280,19 +280,19 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Trabajo y Energía\|Trabajo y Energía]] - Fundamentos teóricos
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Principios de Conservación de la Energía\|Principios de Conservación de la Energía]] - Base conceptual
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Diagramas de Energía\|Diagramas de Energía]] - Representación gráfica
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Potencia y Gradiente de Potencial\|Potencia y Gradiente de Potencial]] - Aplicaciones avanzadas
+> - [[Trabajo y Energía]] - Fundamentos teóricos
+> - [[Principios de Conservación de la Energía]] - Base conceptual
+> - [[Diagramas de Energía]] - Representación gráfica
+> - [[Potencia y Gradiente de Potencial]] - Aplicaciones avanzadas
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Traslacional\|Cinemática Traslacional]] - Conceptos de velocidad y aceleración
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]] - Fundamentos de fuerzas
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Manejo de magnitudes vectoriales
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Sistema de unidades
+> - [[Cinemática Traslacional]] - Conceptos de velocidad y aceleración
+> - [[Leyes de Newton]] - Fundamentos de fuerzas
+> - [[Vectores]] - Manejo de magnitudes vectoriales
+> - [[Unidades y Magnitudes Físicas]] - Sistema de unidades
 
 ---
 

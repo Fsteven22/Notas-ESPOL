@@ -206,9 +206,9 @@
 
 > [!quote] 📚 **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Traslacional\|Cinemática Traslacional]] - Conceptos base
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Aplicaciones de Cinemática Traslacional/Velocidad Relativa para Barcos y Aviones\|Velocidad Relativa para Barcos y Aviones]] - Marcos de referencia
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Traslacional#📈 Tipos de Movimiento Traslacional\|Cinemática Traslacional#📈 Tipos de Movimiento Traslacional]] - Con aceleración
+> - [[Cinemática Traslacional]] - Conceptos base
+> - [[Velocidad Relativa para Barcos y Aviones]] - Marcos de referencia
+> - [[Cinemática Traslacional#📈 Tipos de Movimiento Traslacional]] - Con aceleración
 
 ---
 
@@ -216,9 +216,9 @@
 
 > [!info] 🎓 **Conocimientos Previos Necesarios**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para sistemas de coordenadas
-> - [[Sistemas de Ecuaciones\|Sistemas de Ecuaciones]] - Álgebra necesaria
-> - [[Análisis Gráfico del Movimiento\|Análisis Gráfico del Movimiento]] - Representación visual
+> - [[Vectores]] - Para sistemas de coordenadas
+> - [[Sistemas de Ecuaciones]] - Álgebra necesaria
+> - [[Análisis Gráfico del Movimiento]] - Representación visual
 
 ---
 

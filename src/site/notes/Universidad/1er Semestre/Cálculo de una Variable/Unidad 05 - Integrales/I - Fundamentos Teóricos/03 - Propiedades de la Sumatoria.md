@@ -185,23 +185,23 @@
 ## Referencias
 
 > [!quote] Notas Relacionadas
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/IV – Al infinito y sucesiones/Límites Infinitos y al Infinito/01 - Límites al Infinito y Sucesiones\|01 - Límites al Infinito y Sucesiones]]
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/01 - Integral de Riemann\|01 - Integral de Riemann]]
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/04 - Teorema Fundamental del Cálculo\|04 - Teorema Fundamental del Cálculo]]
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/III - Integrales Definidas/01 - Métodos de Integración Definida\|01 - Métodos de Integración Definida]]
+> - [[01 - Límites al Infinito y Sucesiones]]
+> - [[01 - Integral de Riemann]]
+> - [[04 - Teorema Fundamental del Cálculo]]
+> - [[01 - Métodos de Integración Definida]]
 
 ## Notas Recomendadas
 
 > [!info] Prerrequisitos
-> - [[Variables y Tipos de Datos\|Variables y Tipos de Datos]] (conceptos de índices)
-> - [[Funciones\|Funciones]] (concepto de función)
+> - [[Variables y Tipos de Datos]] (conceptos de índices)
+> - [[Funciones]] (concepto de función)
 > - Álgebra básica
 >
 > [!tip] Continuación del Tema
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/IV – Al infinito y sucesiones/Límites Infinitos y al Infinito/01 - Límites al Infinito y Sucesiones\|01 - Límites al Infinito y Sucesiones]]
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/01 - Integral de Riemann\|01 - Integral de Riemann]]
-> - [[Series y Convergencia\|Series y Convergencia]]
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/V - Otras Técnicas/01 - Integración Numérica\|01 - Integración Numérica]]
+> - [[01 - Límites al Infinito y Sucesiones]]
+> - [[01 - Integral de Riemann]]
+> - [[Series y Convergencia]]
+> - [[01 - Integración Numérica]]
 
 ---
 

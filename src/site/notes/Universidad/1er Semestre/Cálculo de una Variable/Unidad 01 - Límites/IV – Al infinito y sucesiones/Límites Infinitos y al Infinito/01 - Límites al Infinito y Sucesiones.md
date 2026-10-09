@@ -198,27 +198,27 @@ flowchart TD
 
 > [!quote] 📚 **Referencias**
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/IV – Al infinito y sucesiones/Límites Infinitos y al Infinito/01 - Límites al Infinito y Sucesiones\|01 - Límites al Infinito y Sucesiones]] - Comportamiento cuando x tiende a infinito
-> - [[Asíntotas\|Asíntotas]] - Estudio completo de comportamiento asintótico
-> - [[Continuidad\|Continuidad]] - Relación con discontinuidades infinitas
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/II - Propiedades y Técnicas Básicas/02 - Límites Laterales\|02 - Límites Laterales]] - Herramienta fundamental para el análisis
-> - [[Funciones Racionales\|Funciones Racionales]] - Casos más comunes de límites infinitos
+> - [[01 - Límites al Infinito y Sucesiones]] - Comportamiento cuando x tiende a infinito
+> - [[Asíntotas]] - Estudio completo de comportamiento asintótico
+> - [[Continuidad]] - Relación con discontinuidades infinitas
+> - [[02 - Límites Laterales]] - Herramienta fundamental para el análisis
+> - [[Funciones Racionales]] - Casos más comunes de límites infinitos
 >
 > [!info] 📖 **Notas Recomendadas para Complementar**
 > 
 > ### Prerrequisitos:
 > 
-> - [[Definición de Límite\|Definición de Límite]] - Conceptos fundamentales
-> - [[Factorización de Polinomios\|Factorización de Polinomios]] - Técnica algebraica esencial
-> - [[Análisis de Signos\|Análisis de Signos]] - Para determinar comportamiento
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/II - Propiedades y Técnicas Básicas/02 - Límites Laterales\|02 - Límites Laterales]] - Base para límites infinitos
+> - [[Definición de Límite]] - Conceptos fundamentales
+> - [[Factorización de Polinomios]] - Técnica algebraica esencial
+> - [[Análisis de Signos]] - Para determinar comportamiento
+> - [[02 - Límites Laterales]] - Base para límites infinitos
 > 
 > ### Temas Relacionados:
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/V – Formas Indeterminadas/01 - Formas Indeterminadas\|01 - Formas Indeterminadas]] - Para formas indeterminadas
-> - [[Discontinuidades\|Discontinuidades]] - Clasificación completa
-> - [[Gráficas de Funciones\|Gráficas de Funciones]] - Interpretación visual
-> - [[Comportamiento Asintótico\|Comportamiento Asintótico]] - Análisis avanzado
+> - [[01 - Formas Indeterminadas]] - Para formas indeterminadas
+> - [[Discontinuidades]] - Clasificación completa
+> - [[Gráficas de Funciones]] - Interpretación visual
+> - [[Comportamiento Asintótico]] - Análisis avanzado
 >
 > [!tip] 🧠 **Técnica de Estudio: "FASE" (Factoriza-Analiza-Signos-Evalúa)**
 > 
@@ -374,25 +374,25 @@ flowchart TD
 
 > [!quote] 📚 **Referencias**
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/I - Fundamentos del Límite/01 - Concepto y Definición Formal del Límite\|01 - Concepto y Definición Formal del Límite]] - Fundamentos teóricos
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/II - Propiedades y Técnicas Básicas/02 - Límites Laterales\|02 - Límites Laterales]] - Para casos puntuales
-> - [[Asíntotas\|Asíntotas]] - Comportamiento gráfico completo
-> - [[Continuidad\|Continuidad]] - Relación con límites
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/I - Fundamentos Teóricos/01 - Derivada y Definición Formal\|01 - Derivada y Definición Formal]] - Aplicación en tasas de cambio
+> - [[01 - Concepto y Definición Formal del Límite]] - Fundamentos teóricos
+> - [[02 - Límites Laterales]] - Para casos puntuales
+> - [[Asíntotas]] - Comportamiento gráfico completo
+> - [[Continuidad]] - Relación con límites
+> - [[01 - Derivada y Definición Formal]] - Aplicación en tasas de cambio
 >
 > [!info] 📖 **Notas Recomendadas para Complementar**
 > 
 > ### Prerrequisitos:
 > 
-> - [[Funciones Polinómicas\|Funciones Polinómicas]] - Base algebraica necesaria
-> - [[Álgebra de Límites\|Álgebra de Límites]] - Propiedades operacionales
-> - [[Función Racional\|Función Racional]] - Características específicas
+> - [[Funciones Polinómicas]] - Base algebraica necesaria
+> - [[Álgebra de Límites]] - Propiedades operacionales
+> - [[Función Racional]] - Características específicas
 > 
 > ### Temas Relacionados:
 > 
-> - [[Límites Indeterminados\|Límites Indeterminados]] - Casos complejos
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/V – Formas Indeterminadas/01 - Formas Indeterminadas\|01 - Formas Indeterminadas]] - Herramienta avanzada
-> - [[Series Infinitas\|Series Infinitas]] - Comportamiento asintótico avanzado
+> - [[Límites Indeterminados]] - Casos complejos
+> - [[01 - Formas Indeterminadas]] - Herramienta avanzada
+> - [[Series Infinitas]] - Comportamiento asintótico avanzado
 >
 > [!tip] 🧠 **Técnica de Estudio: Mnemotecnia "GMD"**
 > 
@@ -432,7 +432,6 @@ flowchart TD
 > ```mermaid
 > graph LR
 >    A[a₁] --> B[a₂] --> C[a₃] --> D[...] --> E[aₙ] --> F[L]
->    
 >    style F fill:#4caf50,color:#fff
 >    style E fill:#81c784,color:#000
 >    style A fill:#ffcdd2,color:#000
@@ -484,10 +483,8 @@ flowchart TD
 >    A[Sucesión aₙ] --> D[Límite L]
 >    B[Sucesión bₙ] --> D
 >    C[Sucesión cₙ] --> D
->    
 >    A -.->|"≤"| B
 >    B -.->|"≤"| C
->    
 >    style D fill:#4caf50,color:#fff
 >    style B fill:#ffeb3b,color:#000
 >    style A fill:#2196f3,color:#fff
@@ -606,11 +603,11 @@ flowchart TD
 
 > [!quote] Enlaces a otras notas
 > 
-> - [[Límites de Funciones\|Límites de Funciones]] - Relación entre límites funcionales y sucesiones
-> - [[Series Numéricas\|Series Numéricas]] - Aplicación de sucesiones en series
-> - [[Continuidad\|Continuidad]] - Caracterización secuencial de continuidad
-> - [[Topología de los Reales\|Topología de los Reales]] - Conceptos de supremo e ínfimo
-> - [[Criterios de Convergencia\|Criterios de Convergencia]] - Herramientas avanzadas para series
+> - [[Límites de Funciones]] - Relación entre límites funcionales y sucesiones
+> - [[Series Numéricas]] - Aplicación de sucesiones en series
+> - [[Continuidad]] - Caracterización secuencial de continuidad
+> - [[Topología de los Reales]] - Conceptos de supremo e ínfimo
+> - [[Criterios de Convergencia]] - Herramientas avanzadas para series
 
 ## Notas Recomendadas 📚
 
@@ -618,18 +615,18 @@ flowchart TD
 > 
 > **Prerrequisitos necesarios:**
 > 
-> - [[Números Reales\|Números Reales]] - Propiedades de completitud
-> - [[Desigualdades\|Desigualdades]] - Manipulación de inecuaciones
-> - [[Límites Básicos\|Límites Básicos]] - Conceptos fundamentales
-> - [[Funciones Elementales\|Funciones Elementales]] - Para sucesiones definidas por funciones
+> - [[Números Reales]] - Propiedades de completitud
+> - [[Desigualdades]] - Manipulación de inecuaciones
+> - [[Límites Básicos]] - Conceptos fundamentales
+> - [[Funciones Elementales]] - Para sucesiones definidas por funciones
 > 
 > **Para profundizar:**
 > 
-> - [[Sucesiones de Cauchy\|Sucesiones de Cauchy]] - Caracterización alternativa de convergencia
-> - [[Límites Superior e Inferior\|Límites Superior e Inferior]] - Conceptos avanzados
-> - [[Compacidad\|Compacidad]] - Teorema de Bolzano-Weierstrass
-> - [[Espacios Métricos\|Espacios Métricos]] - Generalización de conceptos
-> - [[Análisis Real Avanzado\|Análisis Real Avanzado]] - Teoría completa de sucesiones
+> - [[Sucesiones de Cauchy]] - Caracterización alternativa de convergencia
+> - [[Límites Superior e Inferior]] - Conceptos avanzados
+> - [[Compacidad]] - Teorema de Bolzano-Weierstrass
+> - [[Espacios Métricos]] - Generalización de conceptos
+> - [[Análisis Real Avanzado]] - Teoría completa de sucesiones
 
 ---
 

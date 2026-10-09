@@ -343,19 +343,19 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Trabajo y Energía\|Trabajo y Energía]] - Conceptos fundamentales
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Aplicaciones de Trabajo y Energía/Problemas de Trabajo\|Problemas de Trabajo]] - Cálculo del trabajo
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Aplicaciones de Trabajo y Energía/Problemas de Conservación de Energía Mecánica\|Problemas de Conservación de Energía Mecánica]] - Caso ideal
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Principios de Conservación de la Energía\|Principios de Conservación de la Energía]] - Marco teórico general
+> - [[Trabajo y Energía]] - Conceptos fundamentales
+> - [[Problemas de Trabajo]] - Cálculo del trabajo
+> - [[Problemas de Conservación de Energía Mecánica]] - Caso ideal
+> - [[Principios de Conservación de la Energía]] - Marco teórico general
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]] - Análisis de fuerzas
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Traslacional\|Cinemática Traslacional]] - Conceptos de movimiento
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Descomposición de fuerzas
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Consistencia dimensional
+> - [[Leyes de Newton]] - Análisis de fuerzas
+> - [[Cinemática Traslacional]] - Conceptos de movimiento
+> - [[Vectores]] - Descomposición de fuerzas
+> - [[Unidades y Magnitudes Físicas]] - Consistencia dimensional
 
 ---
 

@@ -335,10 +335,10 @@
 
 > [!quote]  Notas relacionadas
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Trabajo y Energía\|Trabajo y Energía]]
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]]
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Fuerzas y Diagramas de Cuerpo Libre\|Fuerzas y Diagramas de Cuerpo Libre]]
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Principio de energía\|Principio de energía]]
+> - [[Trabajo y Energía]]
+> - [[Leyes de Newton]]
+> - [[Fuerzas y Diagramas de Cuerpo Libre]]
+> - [[Principio de energía]]
 
 ---
 

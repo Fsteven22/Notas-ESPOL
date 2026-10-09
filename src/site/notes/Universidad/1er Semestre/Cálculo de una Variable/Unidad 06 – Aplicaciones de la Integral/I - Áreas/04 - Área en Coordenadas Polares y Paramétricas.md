@@ -266,25 +266,25 @@
 
 ### 🔗 Temas Relacionados
 
-- [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 06 – Aplicaciones de la Integral/I - Áreas/02 - Área entre Curvas\|02 - Área entre Curvas]] - Concepto base en coordenadas rectangulares
-- [[Coordenadas Polares\|Coordenadas Polares]] - Sistema de coordenadas fundamental
-- [[Curvas Paramétricas\|Curvas Paramétricas]] - Representación paramétrica de curvas
-- [[Teorema de Green\|Teorema de Green]] - Método alternativo usando teoremas vectoriales
-- [[Transformaciones de Coordenadas\|Transformaciones de Coordenadas]] - Cambios entre sistemas
+- [[02 - Área entre Curvas]] - Concepto base en coordenadas rectangulares
+- [[Coordenadas Polares]] - Sistema de coordenadas fundamental
+- [[Curvas Paramétricas]] - Representación paramétrica de curvas
+- [[Teorema de Green]] - Método alternativo usando teoremas vectoriales
+- [[Transformaciones de Coordenadas]] - Cambios entre sistemas
 
 ### 📖 Para Profundizar
 
-- [[Integrales Dobles en Polares\|Integrales Dobles en Polares]] - Extensión a regiones más generales
-- [[Universidad/2do Semestre/Cálculo Vectorial/Cálculo Vectorial\|Cálculo Vectorial]] - Aplicaciones del teorema de Green
-- [[Geometría Diferencial\|Geometría Diferencial]] - Curvas en espacios más generales
-- [[Análisis Complejo\|Análisis Complejo]] - Representación de curvas usando números complejos
+- [[Integrales Dobles en Polares]] - Extensión a regiones más generales
+- [[Cálculo Vectorial]] - Aplicaciones del teorema de Green
+- [[Geometría Diferencial]] - Curvas en espacios más generales
+- [[Análisis Complejo]] - Representación de curvas usando números complejos
 
 ### 🎯 Aplicaciones
 
-- [[Centros de Masa en Polares\|Centros de Masa en Polares]] - Usando estas técnicas para centroides
-- [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Momento de Inercia\|Momento de Inercia]] - Aplicaciones en física e ingeniería
-- [[Diseño de Engranajes\|Diseño de Engranajes]] - Aplicaciones industriales de curvas especiales
-- [[Astronomía y Órbitas\|Astronomía y Órbitas]] - Cálculos orbitales usando coordenadas polares
+- [[Centros de Masa en Polares]] - Usando estas técnicas para centroides
+- [[Momento de Inercia]] - Aplicaciones en física e ingeniería
+- [[Diseño de Engranajes]] - Aplicaciones industriales de curvas especiales
+- [[Astronomía y Órbitas]] - Cálculos orbitales usando coordenadas polares
 
 ### 🏷️ Tags
 

@@ -241,10 +241,10 @@
 
 >[!quote] Notas relacionadas
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Principio de energía\|Principio de energía]]
-> - [[Teorema Trabajo-Energía Cinética\|Teorema Trabajo-Energía Cinética]]
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]]
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Fuerzas y Diagramas de Cuerpo Libre\|Fuerzas y Diagramas de Cuerpo Libre]]
+> - [[Principio de energía]]
+> - [[Teorema Trabajo-Energía Cinética]]
+> - [[Leyes de Newton]]
+> - [[Fuerzas y Diagramas de Cuerpo Libre]]
 
 ---
 

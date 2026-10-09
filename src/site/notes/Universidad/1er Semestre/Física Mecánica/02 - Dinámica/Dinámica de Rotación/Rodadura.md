@@ -249,23 +249,23 @@
 
 > [!quote] 🔗 Links a Otras Notas
 > 
-> - > [[Dinámica Lineal\|Dinámica Lineal]] - Segunda Ley de Newton
+> - > [[Dinámica Lineal]] - Segunda Ley de Newton
 >     
-> - > [[Dinámica Rotacional\|Dinámica Rotacional]] - Torque y momento de inercia
+> - > [[Dinámica Rotacional]] - Torque y momento de inercia
 >     
-> - > [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Rotacional\|Cinemática Rotacional]] - Relaciones angulares
+> - > [[Cinemática Rotacional]] - Relaciones angulares
 >     
-> - > [[Física Mecanica/Notas antiguas/Dinámica Rotacional/Momento de Inercia\|Física Mecanica/Notas antiguas/Dinámica Rotacional/Momento de Inercia]] - Valores para diferentes formas
+> - > [[Física Mecanica/Notas antiguas/Dinámica Rotacional/Momento de Inercia]] - Valores para diferentes formas
 >     
-> - > [[Fricción Estática\|Fricción Estática]] - Fuerza clave en rodadura
+> - > [[Fricción Estática]] - Fuerza clave en rodadura
 >     
-> - > [[Conservación de Energía\|Conservación de Energía]] - Fundamento del método energético
+> - > [[Conservación de Energía]] - Fundamento del método energético
 >     
-> - > [[Diagramas de Cuerpo Libre\|Diagramas de Cuerpo Libre]] - Análisis de fuerzas
+> - > [[Diagramas de Cuerpo Libre]] - Análisis de fuerzas
 >     
-> - > [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Trabajo y Energía\|Trabajo y Energía]] - Conceptos energéticos
+> - > [[Trabajo y Energía]] - Conceptos energéticos
 >     
-> - > [[Energía Cinética\|Energía Cinética]] - Traslacional y rotacional
+> - > [[Energía Cinética]] - Traslacional y rotacional
 >     
 >
 > [!quote] 📖 Material de Referencia

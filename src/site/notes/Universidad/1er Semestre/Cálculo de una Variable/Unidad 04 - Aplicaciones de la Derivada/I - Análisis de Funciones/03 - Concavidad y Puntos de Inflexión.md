@@ -273,11 +273,11 @@ graph TD
 
 ## Referencias 🔗
 
-> [!quote] [[Criterios de Optimización\|Criterios de Optimización]] Aprende sobre máximos y mínimos usando derivadas
+> [!quote] [[Criterios de Optimización]] Aprende sobre máximos y mínimos usando derivadas
 >
-> [!quote] [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 04 - Aplicaciones de la Derivada/I - Análisis de Funciones/01 - Análisis Completo de Funciones\|01 - Análisis Completo de Funciones]] Estudio completo del comportamiento de funciones
+> [!quote] [[01 - Análisis Completo de Funciones]] Estudio completo del comportamiento de funciones
 >
-> [!quote] [[Aplicaciones de Derivadas\|Aplicaciones de Derivadas]] Casos prácticos del uso de derivadas en problemas reales
+> [!quote] [[Aplicaciones de Derivadas]] Casos prácticos del uso de derivadas en problemas reales
 
 
 ---

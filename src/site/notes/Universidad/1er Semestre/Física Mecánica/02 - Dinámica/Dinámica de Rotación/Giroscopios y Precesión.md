@@ -285,23 +285,23 @@
 
 > [!quote] 🔗 Links a Otras Notas
 > 
-> - > [[Momento Angular\|Momento Angular]] - Concepto fundamental para giroscopios
+> - > [[Momento Angular]] - Concepto fundamental para giroscopios
 >     
-> - > [[Conservación del Momento Angular\|Conservación del Momento Angular]] - Principio base del comportamiento
+> - > [[Conservación del Momento Angular]] - Principio base del comportamiento
 >     
-> - > [[Dinámica Rotacional\|Dinámica Rotacional]] - Segunda Ley de Newton rotacional
+> - > [[Dinámica Rotacional]] - Segunda Ley de Newton rotacional
 >     
-> - > [[Producto Vectorial\|Producto Vectorial]] - Matemáticas de torque y momento angular
+> - > [[Producto Vectorial]] - Matemáticas de torque y momento angular
 >     
-> - > [[Física Mecanica/Notas antiguas/Dinámica Rotacional/Momento de Inercia\|Física Mecanica/Notas antiguas/Dinámica Rotacional/Momento de Inercia]] - Propiedad clave del rotor
+> - > [[Física Mecanica/Notas antiguas/Dinámica Rotacional/Momento de Inercia]] - Propiedad clave del rotor
 >     
-> - > [[Estabilidad de Sistemas\|Estabilidad de Sistemas]] - Aplicaciones de estabilización
+> - > [[Estabilidad de Sistemas]] - Aplicaciones de estabilización
 >     
-> - > [[Navegación Inercial\|Navegación Inercial]] - Aplicación tecnológica
+> - > [[Navegación Inercial]] - Aplicación tecnológica
 >     
-> - > [[MEMS\|MEMS]] - Giroscopios microscópicos modernos
+> - > [[MEMS]] - Giroscopios microscópicos modernos
 >     
-> - > [[Mecánica Celeste\|Mecánica Celeste]] - Precesión de planetas y satélites
+> - > [[Mecánica Celeste]] - Precesión de planetas y satélites
 >     
 >
 > [!quote] 📖 Material de Referencia

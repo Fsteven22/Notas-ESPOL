@@ -359,30 +359,30 @@ flowchart TD
 > 
 > ### 🔗 Notas Relacionadas
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/04 - Teorema Fundamental del Cálculo\|04 - Teorema Fundamental del Cálculo]] - Base teórica para todas las integrales definidas
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/III - Integrales Definidas/03 - Teoremas Especiales para Integrales Definidas\|03 - Teoremas Especiales para Integrales Definidas]] - Propiedades complementarias de integrales
-> - [[Propiedades de la Integral Definida\|Propiedades de la Integral Definida]] - Linealidad y aditividad
-> - [[Funciones Trigonométricas\|Funciones Trigonométricas]] - Ejemplos principales de funciones periódicas
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/01 - Integral de Riemann\|01 - Integral de Riemann]] - Definición formal subyacente
+> - [[04 - Teorema Fundamental del Cálculo]] - Base teórica para todas las integrales definidas
+> - [[03 - Teoremas Especiales para Integrales Definidas]] - Propiedades complementarias de integrales
+> - [[Propiedades de la Integral Definida]] - Linealidad y aditividad
+> - [[Funciones Trigonométricas]] - Ejemplos principales de funciones periódicas
+> - [[01 - Integral de Riemann]] - Definición formal subyacente
 > 
 > ### 📖 Para Profundizar
 > 
-> - [[Series de Fourier\|Series de Fourier]] - Aplicación directa de propiedades de simetría
-> - [[Análisis de Señales\|Análisis de Señales]] - Aplicaciones en ingeniería
-> - [[Funciones Especiales\|Funciones Especiales]] - Más ejemplos de funciones con simetrías
-> - [[Transformadas Integrales\|Transformadas Integrales]] - Uso avanzado de propiedades de simetría
+> - [[Series de Fourier]] - Aplicación directa de propiedades de simetría
+> - [[Análisis de Señales]] - Aplicaciones en ingeniería
+> - [[Funciones Especiales]] - Más ejemplos de funciones con simetrías
+> - [[Transformadas Integrales]] - Uso avanzado de propiedades de simetría
 > 
 > ### 🎯 Notas Recomendadas
 > 
-> - [[Métodos de Integración\|Métodos de Integración]] - Técnicas que se benefician de estas propiedades
-> - [[Aplicaciones Físicas de Integrales\|Aplicaciones Físicas de Integrales]] - Contexto real de funciones periódicas
-> - [[Geometría de Curvas\|Geometría de Curvas]] - Interpretación visual de simetrías
+> - [[Métodos de Integración]] - Técnicas que se benefician de estas propiedades
+> - [[Aplicaciones Físicas de Integrales]] - Contexto real de funciones periódicas
+> - [[Geometría de Curvas]] - Interpretación visual de simetrías
 > 
 > ### 🧮 Aplicaciones Especializadas
 > 
-> - [[Análisis Armónico\|Análisis Armónico]] - Estudio profundo de funciones periódicas
-> - [[Mecánica Ondulatoria\|Mecánica Ondulatoria]] - Física de sistemas periódicos
-> - [[Procesamiento de Señales Digitales\|Procesamiento de Señales Digitales]] - Aplicaciones computacionales
+> - [[Análisis Armónico]] - Estudio profundo de funciones periódicas
+> - [[Mecánica Ondulatoria]] - Física de sistemas periódicos
+> - [[Procesamiento de Señales Digitales]] - Aplicaciones computacionales
 > 
 
 ---
@@ -653,24 +653,24 @@ graph LR
 > 
 > ### 🔗 Notas Relacionadas
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/04 - Teorema Fundamental del Cálculo\|04 - Teorema Fundamental del Cálculo]] - Base teórica para la demostración
-> - [[Teorema del Valor Medio para Derivadas\|Teorema del Valor Medio para Derivadas]] - Teorema análogo para derivadas
-> - [[Propiedades de la Integral Definida\|Propiedades de la Integral Definida]] - Propiedades utilizadas en la demostración
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/01 - Integral de Riemann\|01 - Integral de Riemann]] - Definición formal de la integral
-> - [[Funciones Continuas\|Funciones Continuas]] - Condición necesaria para el teorema
+> - [[04 - Teorema Fundamental del Cálculo]] - Base teórica para la demostración
+> - [[Teorema del Valor Medio para Derivadas]] - Teorema análogo para derivadas
+> - [[Propiedades de la Integral Definida]] - Propiedades utilizadas en la demostración
+> - [[01 - Integral de Riemann]] - Definición formal de la integral
+> - [[Funciones Continuas]] - Condición necesaria para el teorema
 > 
 > ### 📖 Para Profundizar
 > 
-> - [[Teorema del Valor Intermedio\|Teorema del Valor Intermedio]] - Herramienta clave en la demostración
-> - [[Aplicaciones de Integrales en Física\|Aplicaciones de Integrales en Física]] - Uso del valor medio en problemas físicos
-> - [[Valor RMS y Aplicaciones Eléctricas\|Valor RMS y Aplicaciones Eléctricas]] - Aplicación específica del concepto
-> - [[Promedio de Funciones\|Promedio de Funciones]] - Interpretación estadística del valor medio
+> - [[Teorema del Valor Intermedio]] - Herramienta clave en la demostración
+> - [[Aplicaciones de Integrales en Física]] - Uso del valor medio en problemas físicos
+> - [[Valor RMS y Aplicaciones Eléctricas]] - Aplicación específica del concepto
+> - [[Promedio de Funciones]] - Interpretación estadística del valor medio
 > 
 > ### 🎯 Notas Recomendadas
 > 
-> - [[Interpretación Geométrica de Integrales\|Interpretación Geométrica de Integrales]] - Para visualizar mejor el concepto
-> - [[Métodos de Aproximación Numérica\|Métodos de Aproximación Numérica]] - Cálculo computacional de valores medios
-> - [[Funciones Periódicas y sus Propiedades\|Funciones Periódicas y sus Propiedades]] - Casos especiales del teorema
+> - [[Interpretación Geométrica de Integrales]] - Para visualizar mejor el concepto
+> - [[Métodos de Aproximación Numérica]] - Cálculo computacional de valores medios
+> - [[Funciones Periódicas y sus Propiedades]] - Casos especiales del teorema
 > 
 
 ---

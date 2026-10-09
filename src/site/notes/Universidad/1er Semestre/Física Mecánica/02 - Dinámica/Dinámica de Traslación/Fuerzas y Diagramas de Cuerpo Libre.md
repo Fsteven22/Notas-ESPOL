@@ -241,11 +241,11 @@
 
 > [!quote] 📚 **Referencias a otras notas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]] - Marco teórico fundamental
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Traslacional\|Cinemática Traslacional]] - Descripción del movimiento resultante
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Herramientas para descomposición de fuerzas
-> - [[Fricción\|Fricción]] - Análisis detallado de fuerzas de fricción
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Trabajo y Energía\|Trabajo y Energía]] - Enfoque energético de los mismos problemas
+> - [[Leyes de Newton]] - Marco teórico fundamental
+> - [[Cinemática Traslacional]] - Descripción del movimiento resultante
+> - [[Vectores]] - Herramientas para descomposición de fuerzas
+> - [[Fricción]] - Análisis detallado de fuerzas de fricción
+> - [[Trabajo y Energía]] - Enfoque energético de los mismos problemas
 
 ## 📖 Notas Recomendadas para Complementar
 
@@ -253,16 +253,16 @@
 > 
 > **Prerrequisitos esenciales:**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para descomposición y suma de fuerzas
-> - [[Trigonometría\|Trigonometría]] - Para componentes de fuerzas inclinadas
-> - [[Álgebra\|Álgebra]] - Para resolver sistemas de ecuaciones
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Traslacional\|Cinemática Traslacional]] - Conceptos de aceleración
+> - [[Vectores]] - Para descomposición y suma de fuerzas
+> - [[Trigonometría]] - Para componentes de fuerzas inclinadas
+> - [[Álgebra]] - Para resolver sistemas de ecuaciones
+> - [[Cinemática Traslacional]] - Conceptos de aceleración
 > 
 > **Temas complementarios:**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Momentum Lineal y Su Conservación\|Momentum Lineal y Su Conservación]] - Impulso y cambio de momentum
-> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Equilibrio\|Equilibrio]] - Casos especiales donde ΣF = 0
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Rodadura\|Rodadura]] - DCL para objetos que rotan
+> - [[Momentum Lineal y Su Conservación]] - Impulso y cambio de momentum
+> - [[Equilibrio]] - Casos especiales donde ΣF = 0
+> - [[Rodadura]] - DCL para objetos que rotan
 > 
 
 ## 🔧 Herramientas de Verificación

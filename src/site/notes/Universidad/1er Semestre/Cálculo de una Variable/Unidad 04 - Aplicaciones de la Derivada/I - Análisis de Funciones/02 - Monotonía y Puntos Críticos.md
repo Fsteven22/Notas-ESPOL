@@ -482,28 +482,28 @@ flowchart TD
 > 
 > **Prerrequisitos:**
 > 
-> - [[Derivadas\|Derivadas]] - Cálculo de la primera derivada
-> - [[Reglas de Derivación\|Reglas de Derivación]] - Técnicas de derivación
-> - [[Límites\|Límites]] - Comportamiento local de funciones
-> - [[Continuidad\|Continuidad]] - Base para aplicar teoremas
+> - [[Derivadas]] - Cálculo de la primera derivada
+> - [[Reglas de Derivación]] - Técnicas de derivación
+> - [[Límites]] - Comportamiento local de funciones
+> - [[Continuidad]] - Base para aplicar teoremas
 > 
 > **Temas relacionados:**
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 04 - Aplicaciones de la Derivada/I - Análisis de Funciones/03 - Concavidad y Puntos de Inflexión\|03 - Concavidad y Puntos de Inflexión]] - Segunda derivada
-> - [[Gráficas de Funciones\|Gráficas de Funciones]] - Representación visual
-> - [[Extremos Absolutos\|Extremos Absolutos]] - Valores máximos/mínimos globales
+> - [[03 - Concavidad y Puntos de Inflexión]] - Segunda derivada
+> - [[Gráficas de Funciones]] - Representación visual
+> - [[Extremos Absolutos]] - Valores máximos/mínimos globales
 > 
 > **Aplicaciones:**
 > 
-> - [[Optimización\|Optimización]] - Problemas de máximos y mínimos
-> - [[Análisis de Funciones\|Análisis de Funciones]] - Estudio completo
-> - [[Modelos Matemáticos\|Modelos Matemáticos]] - Aplicaciones en ciencias
+> - [[Optimización]] - Problemas de máximos y mínimos
+> - [[Análisis de Funciones]] - Estudio completo
+> - [[Modelos Matemáticos]] - Aplicaciones en ciencias
 > 
 > **Temas avanzados:**
 > 
-> - [[Análisis Convexo\|Análisis Convexo]] - Propiedades de convexidad
-> - [[Ecuaciones Diferenciales\|Ecuaciones Diferenciales]] - Sistemas dinámicos
-> - [[Cálculo de Variaciones\|Cálculo de Variaciones]] - Optimización funcional
+> - [[Análisis Convexo]] - Propiedades de convexidad
+> - [[Ecuaciones Diferenciales]] - Sistemas dinámicos
+> - [[Cálculo de Variaciones]] - Optimización funcional
 
 ---
 

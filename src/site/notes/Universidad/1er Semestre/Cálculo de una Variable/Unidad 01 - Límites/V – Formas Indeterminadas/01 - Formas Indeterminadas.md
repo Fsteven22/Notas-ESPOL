@@ -322,11 +322,11 @@ flowchart TD
 
 > [!quote] 🔗 Enlaces a Otras Notas
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/II - Propiedades y Técnicas Básicas/01 - Propiedades y Teoremas de los Límites\|01 - Propiedades y Teoremas de los Límites]] - Base teórica para entender por qué fallan
-> - [[Técnicas de Factorización\|Técnicas de Factorización]] - Herramientas algebraicas fundamentales
-> - [[Conjugados y Racionalización\|Conjugados y Racionalización]] - Técnicas específicas para radicales
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/V – Formas Indeterminadas/01 - Formas Indeterminadas\|01 - Formas Indeterminadas]] - Método alternativo para formas indeterminadas
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/III - Límites Especiales/01 - Límites Especiales\|01 - Límites Especiales]] - Casos especiales con funciones trigonométricas
+> - [[01 - Propiedades y Teoremas de los Límites]] - Base teórica para entender por qué fallan
+> - [[Técnicas de Factorización]] - Herramientas algebraicas fundamentales
+> - [[Conjugados y Racionalización]] - Técnicas específicas para radicales
+> - [[01 - Formas Indeterminadas]] - Método alternativo para formas indeterminadas
+> - [[01 - Límites Especiales]] - Casos especiales con funciones trigonométricas
 
 ## 📖 Notas Recomendadas para Estudio Complementario
 
@@ -334,13 +334,13 @@ flowchart TD
 > 
 > **Prerrequisitos:**
 > 
-> 1. **[[Álgebra de Polinomios\|Álgebra de Polinomios]]** - Factorización básica
-> 2. **[[Productos Notables\|Productos Notables]]** - Patrones algebraicos
-> 3. **[[Radicales y Conjugados\|Radicales y Conjugados]]** - Operaciones con raíces
+> 1. **[[Álgebra de Polinomios]]** - Factorización básica
+> 2. **[[Productos Notables]]** - Patrones algebraicos
+> 3. **[[Radicales y Conjugados]]** - Operaciones con raíces
 > 
-> **Temas Paralelos:** 4. **[[Gráficas y Discontinuidades\|Gráficas y Discontinuidades]]** - Interpretación visual 5. **[[Simplificación Algebraica\|Simplificación Algebraica]]** - Técnicas de reducción
+> **Temas Paralelos:** 4. **[[Gráficas y Discontinuidades]]** - Interpretación visual 5. **[[Simplificación Algebraica]]** - Técnicas de reducción
 > 
-> **Siguientes Pasos:** 6. **[[Otras Formas Indeterminadas\|Otras Formas Indeterminadas]]** - ∞/∞, 0·∞, etc. 7. **[[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/V – Formas Indeterminadas/01 - Formas Indeterminadas\|01 - Formas Indeterminadas]]** - Método sistemático 8. **[[Límites Trigonométricos Especiales\|Límites Trigonométricos Especiales]]** - Casos avanzados
+> **Siguientes Pasos:** 6. **[[Otras Formas Indeterminadas]]** - ∞/∞, 0·∞, etc. 7. **[[01 - Formas Indeterminadas]]** - Método sistemático 8. **[[Límites Trigonométricos Especiales]]** - Casos avanzados
 
 ## 🎯 Ejercicios de Práctica Estructurada
 
@@ -690,21 +690,21 @@ flowchart TD
 > 
 > **Prerrequisitos:**
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/II - Propiedades y Técnicas Básicas/01 - Propiedades y Teoremas de los Límites\|01 - Propiedades y Teoremas de los Límites]] - Base para casos simples
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/I - Fundamentos del Límite/01 - Concepto y Definición Formal del Límite\|01 - Concepto y Definición Formal del Límite]] - Fundamento teórico
-> - [[Desigualdades\|Desigualdades]] - Herramienta para acotar
+> - [[01 - Propiedades y Teoremas de los Límites]] - Base para casos simples
+> - [[01 - Concepto y Definición Formal del Límite]] - Fundamento teórico
+> - [[Desigualdades]] - Herramienta para acotar
 > 
 > **Temas relacionados:**
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/III - Límites Especiales/01 - Límites Especiales\|01 - Límites Especiales]] - Aplicaciones específicas
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 02 – Aplicaciones de Límites/01 - Continuidad y Límites\|01 - Continuidad y Límites]] - Conexión con funciones continuas
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/IV – Al infinito y sucesiones/Límites Infinitos y al Infinito/01 - Límites al Infinito y Sucesiones\|01 - Límites al Infinito y Sucesiones]] - Extensión del teorema
+> - [[01 - Límites Especiales]] - Aplicaciones específicas
+> - [[01 - Continuidad y Límites]] - Conexión con funciones continuas
+> - [[01 - Límites al Infinito y Sucesiones]] - Extensión del teorema
 > 
 > **Aplicaciones:**
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/V – Formas Indeterminadas/01 - Formas Indeterminadas\|01 - Formas Indeterminadas]] - Técnica alternativa
-> - [[Series de Taylor\|Series de Taylor]] - Desarrollo y acotaciones
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/IV - Integrales Impropias y Avanzadas/01 - Integrales Impropias\|01 - Integrales Impropias]] - Criterios de convergencia
+> - [[01 - Formas Indeterminadas]] - Técnica alternativa
+> - [[Series de Taylor]] - Desarrollo y acotaciones
+> - [[01 - Integrales Impropias]] - Criterios de convergencia
 
 ---
 
@@ -1000,12 +1000,12 @@ flowchart TD
 
 > [!quote] 🔗 Enlaces a Otras Notas
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/V – Formas Indeterminadas/01 - Formas Indeterminadas\|01 - Formas Indeterminadas]] - Métodos alternativos
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/I - Fundamentos Teóricos/01 - Derivada y Definición Formal\|01 - Derivada y Definición Formal]] - Herramienta fundamental para L'Hôpital
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/III - Límites Especiales/01 - Límites Especiales\|01 - Límites Especiales]] - Casos donde L'Hôpital no es necesario
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/IV – Al infinito y sucesiones/Límites Infinitos y al Infinito/01 - Límites al Infinito y Sucesiones\|01 - Límites al Infinito y Sucesiones]] - Contexto para formas ∞/∞
-> - [[Logaritmos y Exponenciales\|Logaritmos y Exponenciales]] - Para formas 0^0, 1^∞, ∞^0
-> - [[Series de Taylor\|Series de Taylor]] - Método alternativo para casos complejos
+> - [[01 - Formas Indeterminadas]] - Métodos alternativos
+> - [[01 - Derivada y Definición Formal]] - Herramienta fundamental para L'Hôpital
+> - [[01 - Límites Especiales]] - Casos donde L'Hôpital no es necesario
+> - [[01 - Límites al Infinito y Sucesiones]] - Contexto para formas ∞/∞
+> - [[Logaritmos y Exponenciales]] - Para formas 0^0, 1^∞, ∞^0
+> - [[Series de Taylor]] - Método alternativo para casos complejos
 
 ## 📖 Notas Recomendadas para Estudio Complementario
 
@@ -1013,13 +1013,13 @@ flowchart TD
 > 
 > **Prerrequisitos esenciales:**
 > 
-> 1. **[[Derivadas Básicas\|Derivadas Básicas]]** - Técnicas de derivación
-> 2. **[[Reglas de Derivación\|Reglas de Derivación]]** - Regla de la cadena, producto, cociente
-> 3. **[[Formas Indeterminadas\|Formas Indeterminadas]]** - Conceptos previos
+> 1. **[[Derivadas Básicas]]** - Técnicas de derivación
+> 2. **[[Reglas de Derivación]]** - Regla de la cadena, producto, cociente
+> 3. **[[Formas Indeterminadas]]** - Conceptos previos
 > 
-> **Temas paralelos:** 4. **[[Límites Fundamentales\|Límites Fundamentales]]** - Cuándo NO usar L'Hôpital 5. **[[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/I - Fundamentos Teóricos/03 - Derivabilidad y Continuidad\|03 - Derivabilidad y Continuidad]]** - Condiciones de aplicación
+> **Temas paralelos:** 4. **[[Límites Fundamentales]]** - Cuándo NO usar L'Hôpital 5. **[[03 - Derivabilidad y Continuidad]]** - Condiciones de aplicación
 > 
-> **Aplicaciones avanzadas:** 6. **[[Análisis de Funciones\|Análisis de Funciones]]** - Comportamiento asintótico 7. **[[Optimización\|Optimización]]** - Máximos y mínimos 8. **[[Series Infinitas\|Series Infinitas]]** - Criterios de convergencia
+> **Aplicaciones avanzadas:** 6. **[[Análisis de Funciones]]** - Comportamiento asintótico 7. **[[Optimización]]** - Máximos y mínimos 8. **[[Series Infinitas]]** - Criterios de convergencia
 
 ## 🎯 Ejercicios de Práctica Progresiva
 

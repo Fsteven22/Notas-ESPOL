@@ -174,27 +174,27 @@ graph TD
 
 > [!quote]+ **Enlaces a Notas Relacionadas**
 > 
-> - [[Integrales Definidas\|Integrales Definidas]] - Base matemática fundamental
-> - [[Aplicaciones de la Integral\|Aplicaciones de la Integral]] - Contexto más amplio
-> - [[Métodos de Integración\|Métodos de Integración]] - Técnicas necesarias para resolver
-> - [[Geometría Analítica\|Geometría Analítica]] - Para visualización espacial
-> - [[Funciones y sus Gráficas\|Funciones y sus Gráficas]] - Interpretación de las regiones
+> - [[Integrales Definidas]] - Base matemática fundamental
+> - [[Aplicaciones de la Integral]] - Contexto más amplio
+> - [[Métodos de Integración]] - Técnicas necesarias para resolver
+> - [[Geometría Analítica]] - Para visualización espacial
+> - [[Funciones y sus Gráficas]] - Interpretación de las regiones
 
 ## Notas Recomendadas para Complementar 📖
 
 > [!info]+ **Prerrequisitos Esenciales**
 > 
-> - [[Cálculo Diferencial\|Cálculo Diferencial]] - Derivadas y funciones
-> - [[Integrales Indefinidas\|Integrales Indefinidas]] - Antiderivadas básicas
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/04 - Teorema Fundamental del Cálculo\|04 - Teorema Fundamental del Cálculo]] - Conexión derivada-integral
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 06 – Aplicaciones de la Integral/I - Áreas/02 - Área entre Curvas\|02 - Área entre Curvas]] - Fundamentos de regiones
+> - [[Cálculo Diferencial]] - Derivadas y funciones
+> - [[Integrales Indefinidas]] - Antiderivadas básicas
+> - [[04 - Teorema Fundamental del Cálculo]] - Conexión derivada-integral
+> - [[02 - Área entre Curvas]] - Fundamentos de regiones
 > 
 > **Temas Complementarios**
 > 
-> - [[Coordenadas Polares\|Coordenadas Polares]] - Para casos más complejos
-> - [[Superficies de Revolución\|Superficies de Revolución]] - Extensión natural
-> - [[Momentos y Centros de Masa\|Momentos y Centros de Masa]] - Otras aplicaciones
-> - [[Longitud de Arco\|Longitud de Arco]] - Medidas en curvas
+> - [[Coordenadas Polares]] - Para casos más complejos
+> - [[Superficies de Revolución]] - Extensión natural
+> - [[Momentos y Centros de Masa]] - Otras aplicaciones
+> - [[Longitud de Arco]] - Medidas en curvas
 
 ---
 

@@ -373,10 +373,10 @@
 
 > [!quote] 📚 **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Aplicaciones de Cinemática Traslacional/Problemas de Encuentro\|Problemas de Encuentro]] - Casos donde no hay ventaja inicial
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Traslacional\|Cinemática Traslacional]] - Ecuaciones fundamentales
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Traslacional#📈 Tipos de Movimiento Traslacional\|Cinemática Traslacional#📈 Tipos de Movimiento Traslacional]] - Para casos con aceleración
-> - [[Análisis Gráfico del Movimiento\|Análisis Gráfico del Movimiento]] - Representación visual
+> - [[Problemas de Encuentro]] - Casos donde no hay ventaja inicial
+> - [[Cinemática Traslacional]] - Ecuaciones fundamentales
+> - [[Cinemática Traslacional#📈 Tipos de Movimiento Traslacional]] - Para casos con aceleración
+> - [[Análisis Gráfico del Movimiento]] - Representación visual
 
 ---
 #persecución #alcance #cinemática #movimiento-relativo #velocidad-superior #interceptación #análisis-temporal

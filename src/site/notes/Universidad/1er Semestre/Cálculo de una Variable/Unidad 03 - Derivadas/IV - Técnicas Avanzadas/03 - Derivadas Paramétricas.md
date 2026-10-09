@@ -294,16 +294,16 @@ flowchart TD
 > [!quote] 📚 Notas Relacionadas
 > 
 > ### Prerequisitos
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/II - Reglas de Derivación/02 - Regla de la Cadena\|Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/II - Reglas de Derivación/02 - Regla de la Cadena]] - Base fundamental del método
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/III - Derivadas Especiales/01 - Derivación Implícita\|01 - Derivación Implícita]] - Conceptos relacionados
-> - [[Funciones Trigonométricas\|Funciones Trigonométricas]] - Para curvas trigonométricas
-> - [[Derivadas Básicas\|Derivadas Básicas]] - Necesarias para $dx/dt$ y $dy/dt$
+> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/II - Reglas de Derivación/02 - Regla de la Cadena]] - Base fundamental del método
+> - [[01 - Derivación Implícita]] - Conceptos relacionados
+> - [[Funciones Trigonométricas]] - Para curvas trigonométricas
+> - [[Derivadas Básicas]] - Necesarias para $dx/dt$ y $dy/dt$
 > 
 > ### Temas Relacionados
-> - [[Ecuaciones Paramétricas\|Ecuaciones Paramétricas]] - Definición de las curvas
-> - [[Coordenadas Polares\|Coordenadas Polares]] - Otro sistema de coordenadas
-> - [[Longitud de Arco\|Longitud de Arco]] - Aplicación directa
-> - [[Curvatura\|Curvatura]] - Usa segunda derivada paramétrica
+> - [[Ecuaciones Paramétricas]] - Definición de las curvas
+> - [[Coordenadas Polares]] - Otro sistema de coordenadas
+> - [[Longitud de Arco]] - Aplicación directa
+> - [[Curvatura]] - Usa segunda derivada paramétrica
 > 
 > ### Aplicaciones Avanzadas
 > - **Física** - Movimiento en el plano, trayectorias

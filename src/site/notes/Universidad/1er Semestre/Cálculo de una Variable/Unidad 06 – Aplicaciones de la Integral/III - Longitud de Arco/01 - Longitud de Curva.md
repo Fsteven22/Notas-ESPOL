@@ -239,24 +239,24 @@
 ## Referencias
 
 > [!quote] Notas Relacionadas
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/IV - Integrales Impropias y Avanzadas/02 - Criterios de Convergencia y Divergencia\|02 - Criterios de Convergencia y Divergencia]]
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/01 - Integral de Riemann\|01 - Integral de Riemann]]
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/04 - Teorema Fundamental del Cálculo\|04 - Teorema Fundamental del Cálculo]]
-> - [[Parametrización de Curvas\|Parametrización de Curvas]]
+> - [[02 - Criterios de Convergencia y Divergencia]]
+> - [[01 - Integral de Riemann]]
+> - [[04 - Teorema Fundamental del Cálculo]]
+> - [[Parametrización de Curvas]]
 
 ## Notas Recomendadas
 
 > [!info] Prerrequisitos
-> - [[Derivadas de Funciones Paramétricas\|Derivadas de Funciones Paramétricas]]
-> - [[Técnicas de Integración\|Técnicas de Integración]]
-> - [[Coordenadas Polares\|Coordenadas Polares]]
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/IV - Integrales Impropias y Avanzadas/02 - Criterios de Convergencia y Divergencia\|02 - Criterios de Convergencia y Divergencia]]
+> - [[Derivadas de Funciones Paramétricas]]
+> - [[Técnicas de Integración]]
+> - [[Coordenadas Polares]]
+> - [[02 - Criterios de Convergencia y Divergencia]]
 >
 > [!tip] Continuación del Tema
-> - [[Área de Superficies de Revolución\|Área de Superficies de Revolución]]
-> - [[Integrales de Línea\|Integrales de Línea]]
-> - [[Curvatura y Torsión\|Curvatura y Torsión]]
-> - [[Geometría Diferencial\|Geometría Diferencial]]
+> - [[Área de Superficies de Revolución]]
+> - [[Integrales de Línea]]
+> - [[Curvatura y Torsión]]
+> - [[Geometría Diferencial]]
 
 ---
 
@@ -888,30 +888,30 @@
 
 ### 🔗 Notas Relacionadas
 
-- [[Integrales Definidas\|Integrales Definidas]] - Base matemática fundamental
-- [[Métodos de Integración\|Métodos de Integración]] - Técnicas necesarias para resolver las integrales
-- [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 06 – Aplicaciones de la Integral/I - Áreas/02 - Área entre Curvas\|02 - Área entre Curvas]] - Concepto dual de medida geométrica
-- [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 06 – Aplicaciones de la Integral/II - Volúmenes/01 - Volúmenes de Sólidos de Revolución\|01 - Volúmenes de Sólidos de Revolución]] - Otra aplicación geométrica de integrales
-- [[Coordenadas Polares\|Coordenadas Polares]] - Para curvas con simetría radial
-- [[Curvas Paramétricas\|Curvas Paramétricas]] - Representación alternativa de curvas
+- [[Integrales Definidas]] - Base matemática fundamental
+- [[Métodos de Integración]] - Técnicas necesarias para resolver las integrales
+- [[02 - Área entre Curvas]] - Concepto dual de medida geométrica
+- [[01 - Volúmenes de Sólidos de Revolución]] - Otra aplicación geométrica de integrales
+- [[Coordenadas Polares]] - Para curvas con simetría radial
+- [[Curvas Paramétricas]] - Representación alternativa de curvas
 
 ### 📖 Para Profundizar
 
-- [[Superficies de Revolución\|Superficies de Revolución]] - Área de superficies generadas por revolución
-- [[Curvatura y Torsión\|Curvatura y Torsión]] - Propiedades geométricas locales de curvas
-- [[Universidad/2do Semestre/Cálculo Vectorial/Cálculo Vectorial\|Cálculo Vectorial]] - Extensión a curvas en el espacio 3D
-- [[Geometría Diferencial\|Geometría Diferencial]] - Estudio sistemático de curvas y superficies
-- [[Integrales de Línea\|Integrales de Línea]] - Integración a lo largo de curvas
-- [[Cálculo de Variaciones\|Cálculo de Variaciones]] - Optimización de functionales que involucran longitud
+- [[Superficies de Revolución]] - Área de superficies generadas por revolución
+- [[Curvatura y Torsión]] - Propiedades geométricas locales de curvas
+- [[Cálculo Vectorial]] - Extensión a curvas en el espacio 3D
+- [[Geometría Diferencial]] - Estudio sistemático de curvas y superficies
+- [[Integrales de Línea]] - Integración a lo largo de curvas
+- [[Cálculo de Variaciones]] - Optimización de functionales que involucran longitud
 
 ### 🎯 Aplicaciones Especializadas
 
-- [[Mecánica Analítica\|Mecánica Analítica]] - Trayectorias de partículas y principios variacionales
-- [[Óptica Geométrica\|Óptica Geométrica]] - Principio de Fermat y caminos ópticos
-- [[Geodesia\|Geodesia]] - Medición de distancias en la Tierra
-- [[Gráficos por Computadora\|Gráficos por Computadora]] - Renderizado de curvas suaves
-- [[Robótica\|Robótica]] - Planificación de trayectorias
-- [[Análisis de Datos\|Análisis de Datos]] - Longitud de series temporales y curvas de tendencia
+- [[Mecánica Analítica]] - Trayectorias de partículas y principios variacionales
+- [[Óptica Geométrica]] - Principio de Fermat y caminos ópticos
+- [[Geodesia]] - Medición de distancias en la Tierra
+- [[Gráficos por Computadora]] - Renderizado de curvas suaves
+- [[Robótica]] - Planificación de trayectorias
+- [[Análisis de Datos]] - Longitud de series temporales y curvas de tendencia
 
 ### 🏷️ Tags
 

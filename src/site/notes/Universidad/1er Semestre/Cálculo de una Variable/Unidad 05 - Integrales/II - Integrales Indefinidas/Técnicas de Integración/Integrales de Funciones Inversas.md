@@ -272,15 +272,15 @@ flowchart TD
 > 
 > ### Prerequisitos
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/II - Integrales Indefinidas/Técnicas de Integración/Integración por Partes\|Integración por Partes]] - Técnica fundamental para estas integrales
-> - [[Identidades Trigonométricas\|Identidades Trigonométricas]] - Necesarias para simplificaciones
-> - [[Funciones Trigonométricas\|Funciones Trigonométricas]] - Base para entender las inversas
+> - [[Integración por Partes]] - Técnica fundamental para estas integrales
+> - [[Identidades Trigonométricas]] - Necesarias para simplificaciones
+> - [[Funciones Trigonométricas]] - Base para entender las inversas
 > 
 > ### Temas Relacionados
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/II - Integrales Indefinidas/Técnicas de Integración/Integrales Trigonométricas\|Integrales Trigonométricas]] - Complemento natural
-> - [[Cambio de Variable\|Cambio de Variable]] - Para casos con composiciones
-> - [[Sustitución Trigonométrica\|Sustitución Trigonométrica]] - Conexión con √(a²±x²)
+> - [[Integrales Trigonométricas]] - Complemento natural
+> - [[Cambio de Variable]] - Para casos con composiciones
+> - [[Sustitución Trigonométrica]] - Conexión con √(a²±x²)
 > 
 > ### Aplicaciones
 > 

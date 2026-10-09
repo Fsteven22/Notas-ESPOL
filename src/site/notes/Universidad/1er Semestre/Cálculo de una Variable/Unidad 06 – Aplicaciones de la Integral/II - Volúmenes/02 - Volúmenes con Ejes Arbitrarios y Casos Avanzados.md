@@ -396,24 +396,24 @@
 
 ### 🔗 Notas Relacionadas
 
-- [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 06 – Aplicaciones de la Integral/II - Volúmenes/01 - Volúmenes de Sólidos de Revolución\|01 - Volúmenes de Sólidos de Revolución]] - Conceptos fundamentales base
-- [[Área entre Curvas: Integración con Respecto a Y\|Área entre Curvas: Integración con Respecto a Y]] - Técnicas de integración vertical
-- [[Integrales Definidas\|Integrales Definidas]] - Herramientas matemáticas básicas
-- [[Métodos de Integración\|Métodos de Integración]] - Técnicas para resolver integrales complejas
+- [[01 - Volúmenes de Sólidos de Revolución]] - Conceptos fundamentales base
+- [[Área entre Curvas: Integración con Respecto a Y]] - Técnicas de integración vertical
+- [[Integrales Definidas]] - Herramientas matemáticas básicas
+- [[Métodos de Integración]] - Técnicas para resolver integrales complejas
 
 ### 📖 Para Profundizar
 
-- [[Superficies de Revolución\|Superficies de Revolución]] - Cálculo de áreas de superficie
-- [[Teorema de Pappus-Guldinus\|Teorema de Pappus-Guldinus]] - Métodos alternativos usando centroides
-- [[Coordenadas Cilíndricas\|Coordenadas Cilíndricas]] - Sistemas de coordenadas naturales para sólidos de revolución
-- [[Universidad/2do Semestre/Cálculo Vectorial/Cálculo Vectorial\|Cálculo Vectorial]] - Extensiones a campos vectoriales
+- [[Superficies de Revolución]] - Cálculo de áreas de superficie
+- [[Teorema de Pappus-Guldinus]] - Métodos alternativos usando centroides
+- [[Coordenadas Cilíndricas]] - Sistemas de coordenadas naturales para sólidos de revolución
+- [[Cálculo Vectorial]] - Extensiones a campos vectoriales
 
 ### 🎯 Aplicaciones Especializadas
 
-- [[Centros de Masa de Sólidos\|Centros de Masa de Sólidos]] - Centroides de sólidos de revolución
-- [[Momentos de Inercia\|Momentos de Inercia]] - Para objetos en rotación
-- [[Optimización en Ingeniería\|Optimización en Ingeniería]] - Diseño óptimo de componentes
-- [[Modelado Matemático\|Modelado Matemático]] - Aplicaciones en ciencias e ingeniería
+- [[Centros de Masa de Sólidos]] - Centroides de sólidos de revolución
+- [[Momentos de Inercia]] - Para objetos en rotación
+- [[Optimización en Ingeniería]] - Diseño óptimo de componentes
+- [[Modelado Matemático]] - Aplicaciones en ciencias e ingeniería
 
 ### 🏷️ Tags
 

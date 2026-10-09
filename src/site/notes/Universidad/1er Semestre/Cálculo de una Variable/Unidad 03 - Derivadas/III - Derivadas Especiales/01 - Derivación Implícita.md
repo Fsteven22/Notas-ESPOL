@@ -409,15 +409,15 @@ flowchart TD
 > [!quote] 📚 Relaciones Importantes
 > 
 > ### Prerequisitos:
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/II - Reglas de Derivación/02 - Regla de la Cadena\|Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/II - Reglas de Derivación/02 - Regla de la Cadena]] - Base fundamental de la técnica
-> - [[Derivadas de Funciones Trigonométricas\|Derivadas de Funciones Trigonométricas]] - Para casos trigonométricos
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/III - Derivadas Especiales/03 - Derivadas Trigonométricas, Exponenciales y Logarítmicas\|03 - Derivadas Trigonométricas, Exponenciales y Logarítmicas]] - Para casos exponenciales
-> - [[Reglas de Derivación\|Reglas de Derivación]] - Todas las reglas básicas
+> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/II - Reglas de Derivación/02 - Regla de la Cadena]] - Base fundamental de la técnica
+> - [[Derivadas de Funciones Trigonométricas]] - Para casos trigonométricos
+> - [[03 - Derivadas Trigonométricas, Exponenciales y Logarítmicas]] - Para casos exponenciales
+> - [[Reglas de Derivación]] - Todas las reglas básicas
 > 
 > ### Aplicaciones:
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/I - Fundamentos Teóricos/02 - Interpretación Geométrica de la Derivada\|02 - Interpretación Geométrica de la Derivada]] - Rectas tangentes a curvas
+> - [[02 - Interpretación Geométrica de la Derivada]] - Rectas tangentes a curvas
 > - **Razones de Cambio Relacionadas** - Problemas de aplicación
-> - [[Optimización\|Optimización]] - Extremos en curvas implícitas
+> - [[Optimización]] - Extremos en curvas implícitas
 > 
 > ### Extensiones:
 > - **Ecuaciones Diferenciales** - Casos más avanzados

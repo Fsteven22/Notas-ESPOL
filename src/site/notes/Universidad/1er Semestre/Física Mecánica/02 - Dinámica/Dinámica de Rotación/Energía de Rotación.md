@@ -243,23 +243,23 @@
 
 > [!quote] 🔗 Links a Otras Notas
 > 
-> - > [[Física Mecanica/Notas antiguas/Dinámica Rotacional/Momento de Inercia\|Física Mecanica/Notas antiguas/Dinámica Rotacional/Momento de Inercia]] - Fundamento de la energía rotacional
+> - > [[Física Mecanica/Notas antiguas/Dinámica Rotacional/Momento de Inercia]] - Fundamento de la energía rotacional
 >     
-> - > [[Dinámica Rotacional\|Dinámica Rotacional]] - Torque y aceleración angular
+> - > [[Dinámica Rotacional]] - Torque y aceleración angular
 >     
-> - > [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Rodadura\|Rodadura]] - Aplicación principal de energía rotacional
+> - > [[Rodadura]] - Aplicación principal de energía rotacional
 >     
-> - > [[Conservación de Energía\|Conservación de Energía]] - Principio fundamental
+> - > [[Conservación de Energía]] - Principio fundamental
 >     
-> - > [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Trabajo y Energía\|Trabajo y Energía]] - Conceptos base de energía
+> - > [[Trabajo y Energía]] - Conceptos base de energía
 >     
-> - > [[Conservación del Momento Angular\|Conservación del Momento Angular]] - Otra cantidad conservada
+> - > [[Conservación del Momento Angular]] - Otra cantidad conservada
 >     
-> - > [[Energía Cinética\|Energía Cinética]] - Concepto análogo lineal
+> - > [[Energía Cinética]] - Concepto análogo lineal
 >     
-> - > [[Potencia\|Potencia]] - Rapidez de transferencia energética
+> - > [[Potencia]] - Rapidez de transferencia energética
 >     
-> - > [[Volantes de Inercia\|Volantes de Inercia]] - Aplicación tecnológica
+> - > [[Volantes de Inercia]] - Aplicación tecnológica
 >     
 >
 > [!quote] 📖 Material de Referencia

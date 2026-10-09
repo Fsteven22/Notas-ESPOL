@@ -300,11 +300,11 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Momentum Lineal y Su Conservación\|Momentum Lineal y Su Conservación]] - Fundamentos teóricos
-> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Choques Uni-Bidimensionales\|Choques Uni-Bidimensionales]] - Análisis detallado de colisiones
-> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Impulso Lineal\|Impulso Lineal]] - Relación entre impulso y cambio de momentum
-> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Centro de masa (CM)\|Centro de masa (CM)]] - Análisis desde el sistema CM
-> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Aplicaciones de Impulso y Colisiones (Lineal)/Problemas de Colisiones\|Problemas de Colisiones]] - Ejercicios adicionales
+> - [[Momentum Lineal y Su Conservación]] - Fundamentos teóricos
+> - [[Choques Uni-Bidimensionales]] - Análisis detallado de colisiones
+> - [[Impulso Lineal]] - Relación entre impulso y cambio de momentum
+> - [[Centro de masa (CM)]] - Análisis desde el sistema CM
+> - [[Problemas de Colisiones]] - Ejercicios adicionales
 
 ## 🔧 Formulario de Consulta Rápida
 

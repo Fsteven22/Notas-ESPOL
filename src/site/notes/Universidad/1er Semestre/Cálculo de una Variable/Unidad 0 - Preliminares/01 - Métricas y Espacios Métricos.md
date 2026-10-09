@@ -522,7 +522,7 @@
 
 > [!quote] Enlace a Espacios Métricos
 > 
-> **[[Espacios Métricos\|Espacios Métricos]]**
+> **[[Espacios Métricos]]**
 > 
 > ```
 > Una métrica DEFINE un espacio métrico:
@@ -561,7 +561,7 @@
 
 > [!quote] Enlace a Puntos de Acumulación
 > 
-> **[[Puntos de Acumulación\|Puntos de Acumulación]]**
+> **[[Puntos de Acumulación]]**
 > 
 > ```
 > Las métricas permiten definir puntos de acumulación:
@@ -1023,7 +1023,7 @@
 > 
 > **Conceptos fundamentales:**
 > 
-> **[[Espacios Métricos\|Espacios Métricos]]**
+> **[[Espacios Métricos]]**
 > 
 > ```
 > Conexión directa: Una métrica DEFINE un espacio métrico
@@ -1040,7 +1040,7 @@
 > • Estudiar compacidad
 > ```
 > 
-> **[[Puntos de Acumulación\|Puntos de Acumulación]]**
+> **[[Puntos de Acumulación]]**
 > 
 > ```
 > Conexión: La métrica determina qué puntos se "acumulan"
@@ -1056,7 +1056,7 @@
 > En ℝ con métrica discreta: (0,1) no tiene acumulación
 > ```
 > 
-> **[[Topología\|Topología]]**
+> **[[Topología]]**
 > 
 > ```
 > • Toda métrica induce una topología
@@ -1065,7 +1065,7 @@
 > • Espacios metrizables: topología de espacio métrico
 > ```
 > 
-> **[[Normas\|Normas]]**
+> **[[Normas]]**
 > 
 > ```
 > • En espacios vectoriales, normas inducen métricas
@@ -1074,7 +1074,7 @@
 > • No toda métrica proviene de una norma
 > ```
 > 
-> **[[Convergencia de Sucesiones\|Convergencia de Sucesiones]]**
+> **[[Convergencia de Sucesiones]]**
 > 
 > ```
 > • xₙ → x si d(xₙ, x) → 0
@@ -1083,7 +1083,7 @@
 > • Completitud
 > ```
 > 
-> **[[Continuidad\|Continuidad]]**
+> **[[Continuidad]]**
 > 
 > ```
 > • f: X → Y continua si preserva límites
@@ -1094,7 +1094,7 @@
 > 
 > **Conceptos avanzados:**
 > 
-> **[[Compacidad\|Compacidad]]**
+> **[[Compacidad]]**
 > 
 > ```
 > • Espacios métricos compactos
@@ -1103,7 +1103,7 @@
 > • Total acotación
 > ```
 > 
-> **[[Espacios de Banach\|Espacios de Banach]]**
+> **[[Espacios de Banach]]**
 > 
 > ```
 > • Espacios normados completos
@@ -1112,7 +1112,7 @@
 > • Análisis funcional
 > ```
 > 
-> **[[Geometría Diferencial\|Geometría Diferencial]]**
+> **[[Geometría Diferencial]]**
 > 
 > ```
 > • Métricas riemannianas
@@ -1689,21 +1689,21 @@
 > 
 > **Prerequisitos:**
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 0 - Preliminares/01 - Métricas y Espacios Métricos\|01 - Métricas y Espacios Métricos]] - Definición de función de distancia
-> - [[Conjuntos\|Conjuntos]] - Teoría básica de conjuntos
-> - [[Funciones\|Funciones]] - Concepto de función
+> - [[01 - Métricas y Espacios Métricos]] - Definición de función de distancia
+> - [[Conjuntos]] - Teoría básica de conjuntos
+> - [[Funciones]] - Concepto de función
 > 
 > **Temas relacionados:**
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 0 - Preliminares/02 - Puntos de Acumulación\|02 - Puntos de Acumulación]] - Usa bolas para definir proximidad
-> - [[Topología\|Topología]] - Las bolas generan la topología
-> - [[Convergencia\|Convergencia]] - Definida usando bolas
+> - [[02 - Puntos de Acumulación]] - Usa bolas para definir proximidad
+> - [[Topología]] - Las bolas generan la topología
+> - [[Convergencia]] - Definida usando bolas
 > 
 > **Aplicaciones:**
 > 
-> - [[Continuidad\|Continuidad]] - Definición con bolas (ε-δ)
-> - [[Algoritmos de Búsqueda\|Algoritmos de Búsqueda]] - Búsqueda por proximidad
-> - [[Clustering\|Clustering]] - Agrupamiento por distancia
+> - [[Continuidad]] - Definición con bolas (ε-δ)
+> - [[Algoritmos de Búsqueda]] - Búsqueda por proximidad
+> - [[Clustering]] - Agrupamiento por distancia
 
 ## 🧪 Ejercicios Simples
 

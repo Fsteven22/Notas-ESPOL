@@ -381,7 +381,7 @@
 > [!summary]+ Tabla de Referencias Rápidas 📋
 > 
 > ### Las 20 Integrales Notables Fundamentales
-![bc93763d-46e7-4187-9f53-1bd5847dcd28 1.jpg](/img/user/Universidad/Figuras/bc93763d-46e7-4187-9f53-1bd5847dcd28%201.jpg)
+![[bc93763d-46e7-4187-9f53-1bd5847dcd28 1.jpg]]
 >
 > _Esta tabla contiene las fórmulas directas más importantes para la integración inmediata. Cada fórmula representa una antiderivada que debe memorizarse para resolver integrales de manera eficiente._
 >
@@ -425,22 +425,22 @@
 > [!quote] Notas Relacionadas
 > 
 > - Carpeta Técnicas de Integración
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/04 - Teorema Fundamental del Cálculo\|04 - Teorema Fundamental del Cálculo]]
+> - [[04 - Teorema Fundamental del Cálculo]]
 > - Carpeta Reglas de Derivación
-> - [[Funciones Trigonométricas\|Funciones Trigonométricas]]
+> - [[Funciones Trigonométricas]]
 
 ## Notas Recomendadas
 
 > [!info] Prerrequisitos
 > 
-> - [[Reglas de Derivación\|Reglas de Derivación]]
-> - [[Funciones Elementales\|Funciones Elementales]]
-> - [[Límites de Funciones\|Límites de Funciones]]
+> - [[Reglas de Derivación]]
+> - [[Funciones Elementales]]
+> - [[Límites de Funciones]]
 >
 > [!tip] Continuación del Tema
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/II - Integrales Indefinidas/Técnicas de Integración/Cambio de Variable en Integrales\|Cambio de Variable en Integrales]]
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/II - Integrales Indefinidas/Técnicas de Integración/Integración por Partes\|Integración por Partes]]
+> - [[Cambio de Variable en Integrales]]
+> - [[Integración por Partes]]
 > - Carpeta Integrales Definidas
 > - 06 - Aplicaciones - Integrales 
 

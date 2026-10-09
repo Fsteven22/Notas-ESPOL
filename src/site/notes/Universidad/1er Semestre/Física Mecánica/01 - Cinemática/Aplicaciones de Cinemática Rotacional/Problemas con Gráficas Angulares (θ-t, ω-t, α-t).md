@@ -242,19 +242,19 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Rotacional\|Cinemática Rotacional]] - Fundamentos teóricos
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Momento de Inercia\|Momento de Inercia]] - Propiedades rotacionales
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Torque y Equilibrio Rotacional\|Torque y Equilibrio Rotacional]] - Causas del movimiento angular
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Práctica de Giroscopio\|Práctica de Giroscopio]] - Aplicación experimental
+> - [[Cinemática Rotacional]] - Fundamentos teóricos
+> - [[Momento de Inercia]] - Propiedades rotacionales
+> - [[Torque y Equilibrio Rotacional]] - Causas del movimiento angular
+> - [[Práctica de Giroscopio]] - Aplicación experimental
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Manejo de magnitudes vectoriales
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Sistema de unidades
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Aplicaciones de Cinemática Traslacional/Problemas de Gráficos (x-t, v-t, a-t)\|Problemas de Gráficos (x-t, v-t, a-t)]] - Fundamentos de análisis gráfico
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Conocimientos Previos a las Prácticas\|Conocimientos Previos a las Prácticas]] - Conceptos básicos
+> - [[Vectores]] - Manejo de magnitudes vectoriales
+> - [[Unidades y Magnitudes Físicas]] - Sistema de unidades
+> - [[Problemas de Gráficos (x-t, v-t, a-t)]] - Fundamentos de análisis gráfico
+> - [[Conocimientos Previos a las Prácticas]] - Conceptos básicos
 
 ---
 

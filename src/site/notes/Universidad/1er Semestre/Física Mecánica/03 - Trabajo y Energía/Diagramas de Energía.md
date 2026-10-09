@@ -236,9 +236,9 @@ mindmap
 
 > [!quote] 📝 Vínculos Conceptuales
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Trabajo y Energía\|Trabajo y Energía]] - Fundamento teórico
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Principios de Conservación de la Energía\|Principios de Conservación de la Energía]] - Condición de aplicabilidad
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]] - Aplicación práctica
+> - [[Trabajo y Energía]] - Fundamento teórico
+> - [[Principios de Conservación de la Energía]] - Condición de aplicabilidad
+> - [[Leyes de Newton]] - Aplicación práctica
 
 ---
 

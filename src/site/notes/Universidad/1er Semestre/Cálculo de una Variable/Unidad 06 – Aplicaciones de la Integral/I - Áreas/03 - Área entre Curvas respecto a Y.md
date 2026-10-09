@@ -331,23 +331,23 @@
 
 ### 📚 Temas Relacionados
 
-- [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 06 – Aplicaciones de la Integral/I - Áreas/02 - Área entre Curvas\|02 - Área entre Curvas]] - Concepto base y método con dx
-- [[Métodos de Integración\|Métodos de Integración]] - Técnicas para evaluar las integrales resultantes
-- [[Funciones Inversas\|Funciones Inversas]] - Para transformar entre y = f(x) y x = g(y)
-- [[Aplicaciones de Integrales Definidas\|Aplicaciones de Integrales Definidas]] - Contexto más amplio de aplicaciones
+- [[02 - Área entre Curvas]] - Concepto base y método con dx
+- [[Métodos de Integración]] - Técnicas para evaluar las integrales resultantes
+- [[Funciones Inversas]] - Para transformar entre y = f(x) y x = g(y)
+- [[Aplicaciones de Integrales Definidas]] - Contexto más amplio de aplicaciones
 
 ### 🎯 Casos Especiales
 
-- [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 06 – Aplicaciones de la Integral/I - Áreas/04 - Área en Coordenadas Polares y Paramétricas\|04 - Área en Coordenadas Polares y Paramétricas]] - Extensiones a otros sistemas
-- [[Volúmenes de Revolución\|Volúmenes de Revolución]] - Aplicación del método de discos/arandelas con dy
-- [[Centros de Masa y Centroides\|Centros de Masa y Centroides]] - Usando integración respecto a y
-- [[Longitud de Arco\|Longitud de Arco]] - Extensión del concepto a longitudes
+- [[04 - Área en Coordenadas Polares y Paramétricas]] - Extensiones a otros sistemas
+- [[Volúmenes de Revolución]] - Aplicación del método de discos/arandelas con dy
+- [[Centros de Masa y Centroides]] - Usando integración respecto a y
+- [[Longitud de Arco]] - Extensión del concepto a longitudes
 
 ### 🔧 Herramientas Computacionales
 
-- [[Graficación de Funciones\|Graficación de Funciones]] - Para visualizar regiones y verificar resultados
-- [[Cálculo Simbólico\|Cálculo Simbólico]] - Para evaluar integrales complejas
-- [[Métodos Numéricos\|Métodos Numéricos]] - Para casos donde no hay solución analítica
+- [[Graficación de Funciones]] - Para visualizar regiones y verificar resultados
+- [[Cálculo Simbólico]] - Para evaluar integrales complejas
+- [[Métodos Numéricos]] - Para casos donde no hay solución analítica
 
 ### 🏷️ Tags
 

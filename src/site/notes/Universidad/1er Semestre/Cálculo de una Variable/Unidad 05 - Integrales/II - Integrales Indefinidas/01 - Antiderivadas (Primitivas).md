@@ -107,7 +107,7 @@ graph LR
 
 ## 🧮 Fórmulas Básicas de Antiderivadas
 
-![bc93763d-46e7-4187-9f53-1bd5847dcd28 1.jpg](/img/user/Universidad/Figuras/bc93763d-46e7-4187-9f53-1bd5847dcd28%201.jpg)
+![[bc93763d-46e7-4187-9f53-1bd5847dcd28 1.jpg]]
 ## 📏 Propiedades de las Antiderivadas
 
 > [!tip] 📋 Propiedades Lineales
@@ -333,10 +333,10 @@ graph TD
 
 > [!quote- 📖 Notas relacionadas
 > 
-> - [[Reglas de Derivación\|Reglas de Derivación]] - Fundamento para verificar antiderivadas
-> - [[Límites y Continuidad\|Límites y Continuidad]] - Base teórica para la existencia de antiderivadas
-> - [[Funciones y sus Propiedades\|Funciones y sus Propiedades]] - Conocimiento previo esencial
-> - [[Cálculo Diferencial\|Cálculo Diferencial]] - Contexto matemático general
+> - [[Reglas de Derivación]] - Fundamento para verificar antiderivadas
+> - [[Límites y Continuidad]] - Base teórica para la existencia de antiderivadas
+> - [[Funciones y sus Propiedades]] - Conocimiento previo esencial
+> - [[Cálculo Diferencial]] - Contexto matemático general
 
 ---
 
@@ -344,14 +344,14 @@ graph TD
 
 > [!info] 📚 Para profundizar y complementar
 > 
-> - [[Integración por Sustitución\|Integración por Sustitución]] - Siguiente método de integración
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/II - Integrales Indefinidas/Técnicas de Integración/Integración por Partes\|Integración por Partes]] - Técnica avanzada de integración
-> - [[Aplicaciones de la Integral\|Aplicaciones de la Integral]] - Usos prácticos de antiderivadas
-> - [[Ecuaciones Diferenciales Básicas\|Ecuaciones Diferenciales Básicas]] - Aplicación directa de antiderivadas
-> - [[Cinemática y Antiderivadas\|Cinemática y Antiderivadas]] - Aplicaciones en física
-> - [[Funciones Definidas por Integrales\|Funciones Definidas por Integrales]] - Extensión del concepto
-> - [[Tabla Completa de Integrales\|Tabla Completa de Integrales]] - Referencia exhaustiva
-> - [[Métodos de Integración Avanzados\|Métodos de Integración Avanzados]] - Técnicas más complejas
+> - [[Integración por Sustitución]] - Siguiente método de integración
+> - [[Integración por Partes]] - Técnica avanzada de integración
+> - [[Aplicaciones de la Integral]] - Usos prácticos de antiderivadas
+> - [[Ecuaciones Diferenciales Básicas]] - Aplicación directa de antiderivadas
+> - [[Cinemática y Antiderivadas]] - Aplicaciones en física
+> - [[Funciones Definidas por Integrales]] - Extensión del concepto
+> - [[Tabla Completa de Integrales]] - Referencia exhaustiva
+> - [[Métodos de Integración Avanzados]] - Técnicas más complejas
 
 ---
 

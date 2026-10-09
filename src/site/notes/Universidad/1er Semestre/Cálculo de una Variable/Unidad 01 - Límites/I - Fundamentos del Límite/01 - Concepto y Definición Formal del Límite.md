@@ -189,18 +189,18 @@ graph TD
 
 > [!quote] 🔗 Notas Relacionadas
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/II - Propiedades y Técnicas Básicas/02 - Límites Laterales\|02 - Límites Laterales]] - Extensión del concepto
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/II - Propiedades y Técnicas Básicas/03 - Límites en Gráficas\|03 - Límites en Gráficas]] - Interpretación visual detallada
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 02 – Aplicaciones de Límites/01 - Continuidad y Límites\|01 - Continuidad y Límites]] - Relación entre límites y continuidad
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/I - Fundamentos del Límite/01 - Concepto y Definición Formal del Límite\|01 - Concepto y Definición Formal del Límite]] - Formalización rigurosa
+> - [[02 - Límites Laterales]] - Extensión del concepto
+> - [[03 - Límites en Gráficas]] - Interpretación visual detallada
+> - [[01 - Continuidad y Límites]] - Relación entre límites y continuidad
+> - [[01 - Concepto y Definición Formal del Límite]] - Formalización rigurosa
 
 ## Notas Recomendadas 💡
 
 > [!note] 📖 Para Profundizar
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/II - Propiedades y Técnicas Básicas/01 - Propiedades y Teoremas de los Límites\|01 - Propiedades y Teoremas de los Límites]] - Casos simples
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/II - Propiedades y Técnicas Básicas/01 - Propiedades y Teoremas de los Límites\|01 - Propiedades y Teoremas de los Límites]] - Propiedades y leyes
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/V – Formas Indeterminadas/01 - Formas Indeterminadas\|01 - Formas Indeterminadas]] - Casos más complejos
+> - [[01 - Propiedades y Teoremas de los Límites]] - Casos simples
+> - [[01 - Propiedades y Teoremas de los Límites]] - Propiedades y leyes
+> - [[01 - Formas Indeterminadas]] - Casos más complejos
 > - Carpeta Aplicaciones de Límites - Usos en ciencias e ingeniería
 
 ---
@@ -261,7 +261,6 @@ graph TD
 >    C --> E["🔍 Para toda x en esta banda"]
 >    D --> F["🎉 Definición satisfecha"]
 >    E --> F
->    
 >    style F fill:#c8e6c9
 >    style B fill:#e8f5e8
 >    style C fill:#fff3e0
@@ -480,21 +479,21 @@ graph TD
 
 > [!quote] 🔗 Notas Relacionadas
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/I - Fundamentos del Límite/01 - Concepto y Definición Formal del Límite\|01 - Concepto y Definición Formal del Límite]] - Base conceptual informal
-> - [[Límites por la Izquierda y Derecha\|Límites por la Izquierda y Derecha]] - Extensión lateral
-> - [[Continuidad de Funciones\|Continuidad de Funciones]] - Aplicación directa
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/II - Propiedades y Técnicas Básicas/01 - Propiedades y Teoremas de los Límites\|01 - Propiedades y Teoremas de los Límites]] - Propiedades demostradas rigurosamente
+> - [[01 - Concepto y Definición Formal del Límite]] - Base conceptual informal
+> - [[Límites por la Izquierda y Derecha]] - Extensión lateral
+> - [[Continuidad de Funciones]] - Aplicación directa
+> - [[01 - Propiedades y Teoremas de los Límites]] - Propiedades demostradas rigurosamente
 
 ## Notas Recomendadas 💡
 
 > [!note] 📖 Para Profundizar
 > 
-> - [[Análisis Real\|Análisis Real]] - Contexto matemático completo
-> - [[Topología Básica\|Topología Básica]] - Conceptos de vecindades
-> - [[Historia del Cálculo\|Historia del Cálculo]] - Desarrollo histórico
-> - [[Demostraciones Matemáticas\|Demostraciones Matemáticas]] - Técnicas de prueba
-> - [[Fundamentos de Análisis\|Fundamentos de Análisis]] - Teoría avanzada de límites
-> - [[Espacios Métricos\|Espacios Métricos]] - Generalización abstracta
+> - [[Análisis Real]] - Contexto matemático completo
+> - [[Topología Básica]] - Conceptos de vecindades
+> - [[Historia del Cálculo]] - Desarrollo histórico
+> - [[Demostraciones Matemáticas]] - Técnicas de prueba
+> - [[Fundamentos de Análisis]] - Teoría avanzada de límites
+> - [[Espacios Métricos]] - Generalización abstracta
 
 ---
 
@@ -919,27 +918,27 @@ graph TD
 > 
 > **Prerrequisitos:**
 > 
-> - [[Definición de Límite\|Definición de Límite]] - Base épsilon-delta
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/II - Propiedades y Técnicas Básicas/01 - Propiedades y Teoremas de los Límites\|01 - Propiedades y Teoremas de los Límites]] - Casos básicos
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/II - Propiedades y Técnicas Básicas/01 - Propiedades y Teoremas de los Límites\|01 - Propiedades y Teoremas de los Límites]] - Álgebra de límites
+> - [[Definición de Límite]] - Base épsilon-delta
+> - [[01 - Propiedades y Teoremas de los Límites]] - Casos básicos
+> - [[01 - Propiedades y Teoremas de los Límites]] - Álgebra de límites
 > 
 > **Temas relacionados:**
 > 
-> - [[Continuidad de Funciones\|Continuidad de Funciones]] - Conexión con definiciones formales
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/II - Propiedades y Técnicas Básicas/02 - Límites Laterales\|02 - Límites Laterales]] - Extensión unilateral
-> - [[Comportamiento Asintótico\|Comportamiento Asintótico]] - Análisis de funciones
+> - [[Continuidad de Funciones]] - Conexión con definiciones formales
+> - [[02 - Límites Laterales]] - Extensión unilateral
+> - [[Comportamiento Asintótico]] - Análisis de funciones
 > 
 > **Aplicaciones:**
 > 
-> - [[Derivadas\|Derivadas]] - Límites en la definición
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/IV - Integrales Impropias y Avanzadas/01 - Integrales Impropias\|01 - Integrales Impropias]] - Límites de integración infinitos
-> - [[Series Infinitas\|Series Infinitas]] - Criterios de convergencia
+> - [[Derivadas]] - Límites en la definición
+> - [[01 - Integrales Impropias]] - Límites de integración infinitos
+> - [[Series Infinitas]] - Criterios de convergencia
 > 
 > **Análisis avanzado:**
 > 
-> - [[Topología de la Recta Real\|Topología de la Recta Real]] - Fundamentos teóricos
-> - [[Funciones de Variable Real\|Funciones de Variable Real]] - Comportamiento global
-> - [[Análisis Asintótico\|Análisis Asintótico]] - Aplicaciones en ingeniería
+> - [[Topología de la Recta Real]] - Fundamentos teóricos
+> - [[Funciones de Variable Real]] - Comportamiento global
+> - [[Análisis Asintótico]] - Aplicaciones en ingeniería
 
 ## 💡 Notas Históricas y Conceptuales
 

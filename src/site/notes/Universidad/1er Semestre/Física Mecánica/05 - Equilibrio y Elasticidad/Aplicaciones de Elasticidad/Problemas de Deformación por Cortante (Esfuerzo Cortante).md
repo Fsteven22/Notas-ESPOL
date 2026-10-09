@@ -376,19 +376,19 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Elasticidad\|Elasticidad]] - Fundamentos de deformación
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Torque y Equilibrio Rotacional\|Torque y Equilibrio Rotacional]] - Base para torsión
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Segunda ley de Newton para Rotación\|Segunda ley de Newton para Rotación]] - Conceptos de momento
-> - [[Aplicaciones de Equilibrio\|Aplicaciones de Equilibrio]] - Análisis de fuerzas
+> - [[Elasticidad]] - Fundamentos de deformación
+> - [[Torque y Equilibrio Rotacional]] - Base para torsión
+> - [[Segunda ley de Newton para Rotación]] - Conceptos de momento
+> - [[Aplicaciones de Equilibrio]] - Análisis de fuerzas
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Aplicaciones de Elasticidad/Problemas de Deformación por Tensión y Compresión (Ley de Hooke)\|Problemas de Deformación por Tensión y Compresión (Ley de Hooke)]] - Conceptos base
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para análisis de esfuerzos en 3D
-> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Equilibrio\|Equilibrio]] - Balance de fuerzas y momentos
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Fuerzas y Diagramas de Cuerpo Libre\|Fuerzas y Diagramas de Cuerpo Libre]] - Identificación de cargas
+> - [[Problemas de Deformación por Tensión y Compresión (Ley de Hooke)]] - Conceptos base
+> - [[Vectores]] - Para análisis de esfuerzos en 3D
+> - [[Equilibrio]] - Balance de fuerzas y momentos
+> - [[Fuerzas y Diagramas de Cuerpo Libre]] - Identificación de cargas
 
 ---
 

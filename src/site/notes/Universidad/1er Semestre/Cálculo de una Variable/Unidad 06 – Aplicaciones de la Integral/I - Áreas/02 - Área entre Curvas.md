@@ -307,32 +307,32 @@
 
 ### 🔗 Notas Relacionadas
 
-- [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 06 – Aplicaciones de la Integral/I - Áreas/01 - Área bajo la Curva\|01 - Área bajo la Curva]] - Concepto fundamental base
-- [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/04 - Teorema Fundamental del Cálculo\|04 - Teorema Fundamental del Cálculo]] - Herramienta principal de evaluación
-- [[Métodos de Integración\|Métodos de Integración]] - Técnicas para resolver las integrales
-- [[Aplicaciones de Integrales Definidas\|Aplicaciones de Integrales Definidas]] - Contexto más amplio
-- [[Funciones y sus Gráficas\|Funciones y sus Gráficas]] - Análisis de intersecciones y comportamiento
+- [[01 - Área bajo la Curva]] - Concepto fundamental base
+- [[04 - Teorema Fundamental del Cálculo]] - Herramienta principal de evaluación
+- [[Métodos de Integración]] - Técnicas para resolver las integrales
+- [[Aplicaciones de Integrales Definidas]] - Contexto más amplio
+- [[Funciones y sus Gráficas]] - Análisis de intersecciones y comportamiento
 
 ### 📖 Para Profundizar
 
-- [[Coordenadas Polares\|Coordenadas Polares]] - Extensión a otros sistemas de coordenadas
-- [[Curvas Paramétricas\|Curvas Paramétricas]] - Representaciones alternativas de curvas
-- [[Teorema de Green\|Teorema de Green]] - Método alternativo para cálculo de áreas
-- [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/V - Otras Técnicas/01 - Integración Numérica\|01 - Integración Numérica]] - Métodos computacionales
+- [[Coordenadas Polares]] - Extensión a otros sistemas de coordenadas
+- [[Curvas Paramétricas]] - Representaciones alternativas de curvas
+- [[Teorema de Green]] - Método alternativo para cálculo de áreas
+- [[01 - Integración Numérica]] - Métodos computacionales
 
 ### 🎯 Notas Recomendadas
 
-- [[Optimización y Puntos Críticos\|Optimización y Puntos Críticos]] - Para encontrar máximos y mínimos relevantes
-- [[Ecuaciones de Curvas Especiales\|Ecuaciones de Curvas Especiales]] - Círculos, elipses, parábolas, hipérbolas
-- [[Aplicaciones Geométricas del Cálculo\|Aplicaciones Geométricas del Cálculo]] - Volúmenes, longitudes de arco
-- [[Modelado Matemático con Integrales\|Modelado Matemático con Integrales]] - Aplicaciones en ciencias e ingeniería
+- [[Optimización y Puntos Críticos]] - Para encontrar máximos y mínimos relevantes
+- [[Ecuaciones de Curvas Especiales]] - Círculos, elipses, parábolas, hipérbolas
+- [[Aplicaciones Geométricas del Cálculo]] - Volúmenes, longitudes de arco
+- [[Modelado Matemático con Integrales]] - Aplicaciones en ciencias e ingeniería
 
 ### 🧮 Aplicaciones Especializadas
 
-- [[Centros de Masa y Centroides\|Centros de Masa y Centroides]] - Usando áreas entre curvas
-- [[Momentos de Inercia\|Momentos de Inercia]] - Aplicaciones en física e ingeniería
-- [[Análisis de Costos Marginales\|Análisis de Costos Marginales]] - Aplicaciones en economía
-- [[Biodisponibilidad y Farmacocinética\|Biodisponibilidad y Farmacocinética]] - Aplicaciones en medicina
+- [[Centros de Masa y Centroides]] - Usando áreas entre curvas
+- [[Momentos de Inercia]] - Aplicaciones en física e ingeniería
+- [[Análisis de Costos Marginales]] - Aplicaciones en economía
+- [[Biodisponibilidad y Farmacocinética]] - Aplicaciones en medicina
 
 ### 🏷️ Tags
 

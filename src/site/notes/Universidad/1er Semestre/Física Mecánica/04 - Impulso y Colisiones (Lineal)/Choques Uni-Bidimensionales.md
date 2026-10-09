@@ -410,34 +410,34 @@ graph TB
 > 
 > ### Conceptos Fundamentales
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Impulso Lineal\|Impulso Lineal]] - Cambio de momentum durante choques
-> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Momentum Lineal y Su Conservación\|Momentum Lineal y Su Conservación]] - Principio fundamental aplicado
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]] - Base teórica de las interacciones
+> - [[Impulso Lineal]] - Cambio de momentum durante choques
+> - [[Momentum Lineal y Su Conservación]] - Principio fundamental aplicado
+> - [[Leyes de Newton]] - Base teórica de las interacciones
 > 
 > ### Aplicaciones Directas
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Trabajo y Energía\|Trabajo y Energía]] - Análisis energético de choques
-> - [[Centro de Masa\|Centro de Masa]] - Para sistemas de múltiples partículas
-> - [[Dinámica de Sistemas\|Dinámica de Sistemas]] - Extensión a muchas partículas
+> - [[Trabajo y Energía]] - Análisis energético de choques
+> - [[Centro de Masa]] - Para sistemas de múltiples partículas
+> - [[Dinámica de Sistemas]] - Extensión a muchas partículas
 > 
 > ### Conceptos Relacionados
 > 
-> - [[Momento Angular\|Momento Angular]] - Choques con rotación
-> - [[Oscilaciones\|Oscilaciones]] - Choques en sistemas vibratorios
-> - [[Ondas\|Ondas]] - Choques elásticos y transmisión de energía
+> - [[Momento Angular]] - Choques con rotación
+> - [[Oscilaciones]] - Choques en sistemas vibratorios
+> - [[Ondas]] - Choques elásticos y transmisión de energía
 > 
 > ### Aplicaciones Avanzadas
 > 
-> - [[Mecánica de Fluidos\|Mecánica de Fluidos]] - Choques en medios continuos
-> - [[Relatividad Especial\|Relatividad Especial]] - Choques a altas velocidades
-> - [[Física de Partículas\|Física de Partículas]] - Colisiones subatómicas
-> - [[Astrofísica\|Astrofísica]] - Colisiones planetarias y estelares
+> - [[Mecánica de Fluidos]] - Choques en medios continuos
+> - [[Relatividad Especial]] - Choques a altas velocidades
+> - [[Física de Partículas]] - Colisiones subatómicas
+> - [[Astrofísica]] - Colisiones planetarias y estelares
 > 
 > ### Temas Complementarios
 > 
-> - [[Análisis Forense\|Análisis Forense]] - Reconstrucción de accidentes
-> - [[Biomecánica\|Biomecánica]] - Choques en sistemas biológicos
-> - [[Ingeniería de Seguridad\|Ingeniería de Seguridad]] - Diseño de sistemas de protección
+> - [[Análisis Forense]] - Reconstrucción de accidentes
+> - [[Biomecánica]] - Choques en sistemas biológicos
+> - [[Ingeniería de Seguridad]] - Diseño de sistemas de protección
 
 ---
 

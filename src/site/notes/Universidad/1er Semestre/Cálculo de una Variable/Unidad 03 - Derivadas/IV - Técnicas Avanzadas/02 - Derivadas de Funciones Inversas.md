@@ -296,16 +296,16 @@ flowchart TD
 > [!quote] 📚 Notas Relacionadas
 > 
 > ### Prerequisitos
-> - [[Funciones Inversas\|Funciones Inversas]] - Definición y propiedades básicas
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/II - Reglas de Derivación/02 - Regla de la Cadena\|Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/II - Reglas de Derivación/02 - Regla de la Cadena]] - Para composiciones con inversas
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/III - Derivadas Especiales/01 - Derivación Implícita\|01 - Derivación Implícita]] - Base del método teórico
-> - [[Identidades Trigonométricas\|Identidades Trigonométricas]] - Para simplificar derivadas
+> - [[Funciones Inversas]] - Definición y propiedades básicas
+> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/II - Reglas de Derivación/02 - Regla de la Cadena]] - Para composiciones con inversas
+> - [[01 - Derivación Implícita]] - Base del método teórico
+> - [[Identidades Trigonométricas]] - Para simplificar derivadas
 > 
 > ### Temas Relacionados
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/II - Integrales Indefinidas/Técnicas de Integración/Integrales de Funciones Inversas\|Integrales de Funciones Inversas]] 🔄 - Proceso inverso
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/III - Derivadas Especiales/02 - Derivación Logarítmica\|02 - Derivación Logarítmica]] 🔄 - Usa derivada de ln(x)
-> - [[Límites Indeterminados\|Límites Indeterminados]] - Para verificar comportamiento límite
-> - [[Funciones Trigonométricas\|Funciones Trigonométricas]] - Para entender las inversas
+> - [[Integrales de Funciones Inversas]] 🔄 - Proceso inverso
+> - [[02 - Derivación Logarítmica]] 🔄 - Usa derivada de ln(x)
+> - [[Límites Indeterminados]] - Para verificar comportamiento límite
+> - [[Funciones Trigonométricas]] - Para entender las inversas
 > 
 > ### Aplicaciones
 > - **Cálculo de límites** - Usando derivadas de inversas

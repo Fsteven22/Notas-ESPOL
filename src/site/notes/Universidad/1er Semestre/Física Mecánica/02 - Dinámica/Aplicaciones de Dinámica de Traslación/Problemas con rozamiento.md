@@ -261,18 +261,18 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Fuerzas y Diagramas de Cuerpo Libre\|Fuerzas y Diagramas de Cuerpo Libre]] - Fundamentos de fuerzas
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]] - Base teórica de la dinámica
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Aplicaciones de Dinámica de Traslación/Problemas de Planos Inclinados\|Problemas de Planos Inclinados]] - Aplicaciones específicas
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Trabajo y Energía\|Trabajo y Energía]] - Trabajo contra fricción
+> - [[Fuerzas y Diagramas de Cuerpo Libre]] - Fundamentos de fuerzas
+> - [[Leyes de Newton]] - Base teórica de la dinámica
+> - [[Problemas de Planos Inclinados]] - Aplicaciones específicas
+> - [[Trabajo y Energía]] - Trabajo contra fricción
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Descomposición de fuerzas
-> - [[Dinámica de Traslación\|Dinámica de Traslación]] - Leyes de Newton
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Sistema de unidades
+> - [[Vectores]] - Descomposición de fuerzas
+> - [[Dinámica de Traslación]] - Leyes de Newton
+> - [[Unidades y Magnitudes Físicas]] - Sistema de unidades
 
 ---
 

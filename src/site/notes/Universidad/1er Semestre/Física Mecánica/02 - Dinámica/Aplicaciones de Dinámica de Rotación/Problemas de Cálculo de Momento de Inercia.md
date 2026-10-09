@@ -495,20 +495,20 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Dinámica de Rotación\|Dinámica de Rotación]] - Aplicación en ecuaciones de movimiento
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Torque y Equilibrio Rotacional\|Torque y Equilibrio Rotacional]] - Relación τ = Iα
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Energía de Rotación\|Energía de Rotación]] - E_rot = ½Iω²
-> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Centro de masa (CM)\|Centro de masa (CM)]] - Localización del CM
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Momentum Angular\|Momentum Angular]] - L = Iω
+> - [[Dinámica de Rotación]] - Aplicación en ecuaciones de movimiento
+> - [[Torque y Equilibrio Rotacional]] - Relación τ = Iα
+> - [[Energía de Rotación]] - E_rot = ½Iω²
+> - [[Centro de masa (CM)]] - Localización del CM
+> - [[Momentum Angular]] - L = Iω
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Operaciones vectoriales y coordenadas
-> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Centro de Gravedad (CG)\|Centro de Gravedad (CG)]] - Conceptos de centro de masa
-> - [[Integrales\|Integrales]] - Cálculo diferencial e integral
-> - [[Geometría\|Geometría]] - Propiedades de figuras geométricas
+> - [[Vectores]] - Operaciones vectoriales y coordenadas
+> - [[Centro de Gravedad (CG)]] - Conceptos de centro de masa
+> - [[Integrales]] - Cálculo diferencial e integral
+> - [[Geometría]] - Propiedades de figuras geométricas
 
 ---
 

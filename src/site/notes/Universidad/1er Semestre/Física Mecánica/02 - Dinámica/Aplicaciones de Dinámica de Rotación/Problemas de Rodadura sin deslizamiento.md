@@ -365,18 +365,18 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Rotacional\|Cinemática Rotacional]] - Fundamentos del movimiento circular
-> - [[Dinámica de Rotación\|Dinámica de Rotación]] - Segunda ley para rotación
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Momento de Inercia\|Momento de Inercia]] - Distribución de masa
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Energía de Rotación\|Energía de Rotación]] - Aspectos energéticos
+> - [[Cinemática Rotacional]] - Fundamentos del movimiento circular
+> - [[Dinámica de Rotación]] - Segunda ley para rotación
+> - [[Momento de Inercia]] - Distribución de masa
+> - [[Energía de Rotación]] - Aspectos energéticos
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Análisis vectorial
-> - [[Dinámica de Traslación\|Dinámica de Traslación]] - Leyes de Newton
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Torque y Equilibrio Rotacional\|Torque y Equilibrio Rotacional]] - Conceptos de momento
+> - [[Vectores]] - Análisis vectorial
+> - [[Dinámica de Traslación]] - Leyes de Newton
+> - [[Torque y Equilibrio Rotacional]] - Conceptos de momento
 
 ---
 

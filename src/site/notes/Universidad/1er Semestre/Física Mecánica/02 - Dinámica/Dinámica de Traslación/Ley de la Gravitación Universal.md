@@ -291,8 +291,8 @@ flowchart TB
 > 
 > ### 📚 Conceptos Fundamentales
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]] - Marco dinámico general
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Principios de Conservación de la Energía\|Principios de Conservación de la Energía]] - Naturaleza de la gravedad
+> - [[Leyes de Newton]] - Marco dinámico general
+> - [[Principios de Conservación de la Energía]] - Naturaleza de la gravedad
 > - `[[Principio de Superposición]]` - Múltiples masas
 > 
 >

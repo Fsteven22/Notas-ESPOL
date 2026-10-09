@@ -291,7 +291,7 @@ flowchart TD
 > **5. Simetría:**
 > - $f(-x) = \frac{(-x)^2}{(-x)^2 - 4} = \frac{x^2}{x^2 - 4} = f(x)$
 > - **Función par:** simétrica respecto al eje $y$ ✅
-> **6. Análisis con derivadas:** $f'(x) = \frac{2x(x^2 - 4) - x^2(2x)}{(x^2 - 4)^2} = \frac{-8x}{(x^2 - 4)^2}$
+> **6. Análisis con derivadas:** $$f'(x) = \frac{2x(x^2 - 4) - x^2(2x)}{(x^2 - 4)^2} = \frac{-8x}{(x^2 - 4)^2}$$
 > - $f'(x) = 0$ cuando $x = 0$ (mínimo local)
 > - $f'(x) > 0$ cuando $x < 0$ (creciente)
 > - $f'(x) < 0$ cuando $x > 0$ (decreciente)
@@ -339,12 +339,12 @@ graph TD
 
 > [!quote] Enlaces a otras notas
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/IV – Al infinito y sucesiones/Límites Infinitos y al Infinito/01 - Límites al Infinito y Sucesiones\|01 - Límites al Infinito y Sucesiones]] - Base teórica para asíntotas horizontales
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/II - Propiedades y Técnicas Básicas/02 - Límites Laterales\|02 - Límites Laterales]] - Fundamental para asíntotas verticales
-> - [[Funciones Racionales\|Funciones Racionales]] - Tipo más común con asíntotas
-> - [[Derivadas y Gráficas\|Derivadas y Gráficas]] - Análisis completo de funciones
-> - [[Continuidad\|Continuidad]] - Relación con discontinuidades
-> - [[Optimización\|Optimización]] - Aplicación de extremos y comportamiento
+> - [[01 - Límites al Infinito y Sucesiones]] - Base teórica para asíntotas horizontales
+> - [[02 - Límites Laterales]] - Fundamental para asíntotas verticales
+> - [[Funciones Racionales]] - Tipo más común con asíntotas
+> - [[Derivadas y Gráficas]] - Análisis completo de funciones
+> - [[Continuidad]] - Relación con discontinuidades
+> - [[Optimización]] - Aplicación de extremos y comportamiento
 
 ## Notas Recomendadas
 
@@ -352,20 +352,20 @@ graph TD
 > 
 > **Prerrequisitos necesarios:**
 > 
-> - [[Límites Básicos\|Límites Básicos]] - Cálculo de límites en general
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/IV – Al infinito y sucesiones/Límites Infinitos y al Infinito/01 - Límites al Infinito y Sucesiones\|01 - Límites al Infinito y Sucesiones]] - Para asíntotas horizontales y oblicuas
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/II - Propiedades y Técnicas Básicas/02 - Límites Laterales\|02 - Límites Laterales]] - Para asíntotas verticales
-> - [[Funciones y Dominio\|Funciones y Dominio]] - Análisis de restricciones
-> - [[Algebra de Polinomios\|Algebra de Polinomios]] - Para funciones racionales
+> - [[Límites Básicos]] - Cálculo de límites en general
+> - [[01 - Límites al Infinito y Sucesiones]] - Para asíntotas horizontales y oblicuas
+> - [[02 - Límites Laterales]] - Para asíntotas verticales
+> - [[Funciones y Dominio]] - Análisis de restricciones
+> - [[Algebra de Polinomios]] - Para funciones racionales
 > 
 > **Para profundizar:**
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 04 - Aplicaciones de la Derivada/I - Análisis de Funciones/01 - Análisis Completo de Funciones\|01 - Análisis Completo de Funciones]] - Integración con derivadas
-> - [[Funciones Trascendentes\|Funciones Trascendentes]] - Asíntotas en exponenciales y logaritmos
-> - [[Cálculo Diferencial Avanzado\|Cálculo Diferencial Avanzado]] - Técnicas de graficación
-> - [[Geometría Analítica\|Geometría Analítica]] - Ecuaciones de rectas asintóticas
-> - [[Aplicaciones del Cálculo\|Aplicaciones del Cálculo]] - Modelado con funciones asintóticas
-> - [[Software Matemático\|Software Matemático]] - Verificación gráfica con tecnología
+> - [[01 - Análisis Completo de Funciones]] - Integración con derivadas
+> - [[Funciones Trascendentes]] - Asíntotas en exponenciales y logaritmos
+> - [[Cálculo Diferencial Avanzado]] - Técnicas de graficación
+> - [[Geometría Analítica]] - Ecuaciones de rectas asintóticas
+> - [[Aplicaciones del Cálculo]] - Modelado con funciones asintóticas
+> - [[Software Matemático]] - Verificación gráfica con tecnología
 
 ---
 

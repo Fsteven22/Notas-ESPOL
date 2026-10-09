@@ -152,22 +152,22 @@
 
 > [!note] 🌐 Relaciones Conceptuales
 > 
-> ### [[Dinámica Rotacional\|Dinámica Rotacional]]
+> ### [[Dinámica Rotacional]]
 > 
 > - **Segunda Ley de Newton rotacional**: $\sum \tau = I\alpha$
 > - El momento de inercia es la "masa rotacional" en esta ecuación
 > 
-> ### [[Energía Cinética Rotacional\|Energía Cinética Rotacional]]
+> ### [[Energía Cinética Rotacional]]
 > 
 > - **Fórmula**: $K_{rot} = \frac{1}{2}I\omega^2$
 > - Análoga a $K = \frac{1}{2}mv^2$ pero para rotación
 > 
-> ### [[Centro de Masa\|Centro de Masa]]
+> ### [[Centro de Masa]]
 > 
 > - **Teorema de ejes paralelos** conecta momento de inercia con centro de masa
 > - Permite calcular $I$ para cualquier eje conociendo $I_{CM}$
 > 
-> ### [[Momento Angular\|Momento Angular]]
+> ### [[Momento Angular]]
 > 
 > - **Relación**: $L = I\omega$
 > - **Conservación**: Explica fenómenos como el patinador girando
@@ -209,20 +209,20 @@
 > 
 > ### 🔗 Notas Relacionadas
 > 
-> - [[Dinámica Rotacional\|Dinámica Rotacional]]
-> - [[Momento Angular\|Momento Angular]]
-> - [[Energía Cinética Rotacional\|Energía Cinética Rotacional]]
-> - [[Centro de Masa\|Centro de Masa]]
-> - [[Torque y Momento de Torsión\|Torque y Momento de Torsión]]
-> - [[Conservación del Momento Angular\|Conservación del Momento Angular]]
-> - [[Teorema de Ejes Paralelos\|Teorema de Ejes Paralelos]]
+> - [[Dinámica Rotacional]]
+> - [[Momento Angular]]
+> - [[Energía Cinética Rotacional]]
+> - [[Centro de Masa]]
+> - [[Torque y Momento de Torsión]]
+> - [[Conservación del Momento Angular]]
+> - [[Teorema de Ejes Paralelos]]
 > 
 > ### 📖 Temas Avanzados
 > 
-> - [[Tensor de Inercia\|Tensor de Inercia]]
-> - [[Movimientos de Rodadura\|Movimientos de Rodadura]]
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Giroscopios y Precesión\|Giroscopios y Precesión]]
-> - [[Momento de Inercia de Cuerpos Compuestos\|Momento de Inercia de Cuerpos Compuestos]]
+> - [[Tensor de Inercia]]
+> - [[Movimientos de Rodadura]]
+> - [[Giroscopios y Precesión]]
+> - [[Momento de Inercia de Cuerpos Compuestos]]
 ### Tags
 
 #fisica #mecanica #rotacion #momento-inercia #dinamica-rotacional #energia-cinetica

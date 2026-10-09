@@ -273,24 +273,24 @@
 ## Referencias
 
 > [!quote] Notas Relacionadas
-> - [[Integrales Dobles\|Integrales Dobles]]
-> - [[Transformaciones de Coordenadas\|Transformaciones de Coordenadas]]
-> - [[Jacobiano de Transformaciones\|Jacobiano de Transformaciones]]
-> - [[Coordenadas Cilíndricas y Esféricas\|Coordenadas Cilíndricas y Esféricas]]
+> - [[Integrales Dobles]]
+> - [[Transformaciones de Coordenadas]]
+> - [[Jacobiano de Transformaciones]]
+> - [[Coordenadas Cilíndricas y Esféricas]]
 
 ## Notas Recomendadas
 
 > [!info] Prerrequisitos
-> - [[Integrales Dobles\|Integrales Dobles]]
-> - [[Funciones Trigonométricas\|Funciones Trigonométricas]]
-> - [[Límites y Continuidad\|Límites y Continuidad]]
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/IV - Integrales Impropias y Avanzadas/02 - Criterios de Convergencia y Divergencia\|02 - Criterios de Convergencia y Divergencia]]
+> - [[Integrales Dobles]]
+> - [[Funciones Trigonométricas]]
+> - [[Límites y Continuidad]]
+> - [[02 - Criterios de Convergencia y Divergencia]]
 >
 > [!tip] Continuación del Tema
-> - [[Coordenadas Cilíndricas y Esféricas\|Coordenadas Cilíndricas y Esféricas]]
-> - [[Integrales de Línea\|Integrales de Línea]]
-> - [[Teoremas de Green y Stokes\|Teoremas de Green y Stokes]]
-> - [[Análisis Vectorial\|Análisis Vectorial]]
+> - [[Coordenadas Cilíndricas y Esféricas]]
+> - [[Integrales de Línea]]
+> - [[Teoremas de Green y Stokes]]
+> - [[Análisis Vectorial]]
 
 ---
 

@@ -376,18 +376,18 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Momentum Lineal y Su Conservación\|Momentum Lineal y Su Conservación]] - Fundamentos teóricos
-> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Centro de masa (CM)\|Centro de masa (CM)]] - Análisis de sistemas
-> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Impulso Lineal\|Impulso Lineal]] - Relación fuerza-tiempo
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Trabajo y Energía\|Trabajo y Energía]] - Base energética
+> - [[Momentum Lineal y Su Conservación]] - Fundamentos teóricos
+> - [[Centro de masa (CM)]] - Análisis de sistemas
+> - [[Impulso Lineal]] - Relación fuerza-tiempo
+> - [[Trabajo y Energía]] - Base energética
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para colisiones bidimensionales
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]] - Fundamentos dinámicos
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Principios de Conservación de la Energía\|Principios de Conservación de la Energía]] - Conceptos energéticos
+> - [[Vectores]] - Para colisiones bidimensionales
+> - [[Leyes de Newton]] - Fundamentos dinámicos
+> - [[Principios de Conservación de la Energía]] - Conceptos energéticos
 
 ---
 

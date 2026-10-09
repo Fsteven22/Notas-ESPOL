@@ -266,19 +266,19 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Torque y Equilibrio Rotacional\|Torque y Equilibrio Rotacional]] - Fundamentos de torque
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Momento de Inercia\|Momento de Inercia]] - Propiedades rotacionales
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Segunda ley de Newton para Rotación\|Segunda ley de Newton para Rotación]] - Dinámica rotacional
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Trabajo y Energía\|Trabajo y Energía]] - Conservación de energía en transmisiones
+> - [[Torque y Equilibrio Rotacional]] - Fundamentos de torque
+> - [[Momento de Inercia]] - Propiedades rotacionales
+> - [[Segunda ley de Newton para Rotación]] - Dinámica rotacional
+> - [[Trabajo y Energía]] - Conservación de energía en transmisiones
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Rotacional\|Cinemática Rotacional]] - Movimiento circular
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Aplicaciones de Cinemática Rotacional/Problemas con Gráficas Angulares (θ-t, ω-t, α-t)\|Problemas con Gráficas Angulares (θ-t, ω-t, α-t)]] - Análisis gráfico
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Análisis vectorial
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Sistema de unidades
+> - [[Cinemática Rotacional]] - Movimiento circular
+> - [[Problemas con Gráficas Angulares (θ-t, ω-t, α-t)]] - Análisis gráfico
+> - [[Vectores]] - Análisis vectorial
+> - [[Unidades y Magnitudes Físicas]] - Sistema de unidades
 
 ---
 

@@ -429,20 +429,20 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Aplicaciones de Impulso y Colisiones (Lineal)/Problemas de Colisiones\|Problemas de Colisiones]] - Fundamentos de colisiones básicas
-> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Momentum Lineal y Su Conservación\|Momentum Lineal y Su Conservación]] - Principios de conservación
-> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Centro de masa (CM)\|Centro de masa (CM)]] - Análisis de sistemas de masas diferentes
-> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Impulso Lineal\|Impulso Lineal]] - Transferencia de momentum
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Trabajo y Energía\|Trabajo y Energía]] - Análisis energético de transferencias
+> - [[Problemas de Colisiones]] - Fundamentos de colisiones básicas
+> - [[Momentum Lineal y Su Conservación]] - Principios de conservación
+> - [[Centro de masa (CM)]] - Análisis de sistemas de masas diferentes
+> - [[Impulso Lineal]] - Transferencia de momentum
+> - [[Trabajo y Energía]] - Análisis energético de transferencias
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para análisis bidimensional
-> - [[Límites\|Límites]] - Para análisis matemático de casos extremos
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]] - Fundamentos dinámicos
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Principios de Conservación de la Energía\|Principios de Conservación de la Energía]] - Base energética
+> - [[Vectores]] - Para análisis bidimensional
+> - [[Límites]] - Para análisis matemático de casos extremos
+> - [[Leyes de Newton]] - Fundamentos dinámicos
+> - [[Principios de Conservación de la Energía]] - Base energética
 
 ---
 

@@ -355,22 +355,22 @@ graph TD
 > 
 > 
 > ### 🔗 Notas Relacionadas
-> - [[Propiedades de la Integral Definida\|Propiedades de la Integral Definida]] - Base algebraica para las desigualdades
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/III - Integrales Definidas/03 - Teoremas Especiales para Integrales Definidas\|03 - Teoremas Especiales para Integrales Definidas]] - Herramienta para acotaciones
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/01 - Integral de Riemann\|01 - Integral de Riemann]] - Definición formal subyacente
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/04 - Teorema Fundamental del Cálculo\|04 - Teorema Fundamental del Cálculo]] - Evaluación exacta cuando es posible
+> - [[Propiedades de la Integral Definida]] - Base algebraica para las desigualdades
+> - [[03 - Teoremas Especiales para Integrales Definidas]] - Herramienta para acotaciones
+> - [[01 - Integral de Riemann]] - Definición formal subyacente
+> - [[04 - Teorema Fundamental del Cálculo]] - Evaluación exacta cuando es posible
 > 
 > ### 📖 Para Profundizar
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/IV - Integrales Impropias y Avanzadas/01 - Integrales Impropias\|01 - Integrales Impropias]] - Aplicación principal de estos teoremas
-> - [[Criterios de Convergencia\|Criterios de Convergencia]] - Extensión de los conceptos de comparación
-> - [[Series Infinitas\|Series Infinitas]] - Análisis de convergencia análogo
-> - [[Análisis Asintótico\|Análisis Asintótico]] - Comportamiento de funciones en límites
+> - [[01 - Integrales Impropias]] - Aplicación principal de estos teoremas
+> - [[Criterios de Convergencia]] - Extensión de los conceptos de comparación
+> - [[Series Infinitas]] - Análisis de convergencia análogo
+> - [[Análisis Asintótico]] - Comportamiento de funciones en límites
 > 
 > ### 🎯 Notas Recomendadas
-> - [[Funciones de Referencia Estándar\|Funciones de Referencia Estándar]] - Catálogo de funciones para comparación
-> - [[Estimación de Integrales\|Estimación de Integrales]] - Aplicaciones prácticas de acotación
-> - [[Métodos de Aproximación\|Métodos de Aproximación]] - Técnicas numéricas complementarias
-> - [[Desigualdades Clásicas\|Desigualdades Clásicas]] - Herramientas auxiliares (Cauchy-Schwarz, Hölder, etc.)
+> - [[Funciones de Referencia Estándar]] - Catálogo de funciones para comparación
+> - [[Estimación de Integrales]] - Aplicaciones prácticas de acotación
+> - [[Métodos de Aproximación]] - Técnicas numéricas complementarias
+> - [[Desigualdades Clásicas]] - Herramientas auxiliares (Cauchy-Schwarz, Hölder, etc.)
 > 
 
 ---

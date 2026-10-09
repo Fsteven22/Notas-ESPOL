@@ -127,20 +127,20 @@
 
 > [!note] 🌐 Relaciones Conceptuales
 > 
-> ### [[Conservación del Momentum\|Conservación del Momentum]]
+> ### [[Conservación del Momentum]]
 > 
 > - $\vec{P}_{total} = M_{total}\vec{v}_{CM} = \text{constante}$ (sin fuerzas externas)
 > - La velocidad del CM es constante cuando se conserva el momentum
 > 
-> ### [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]]
+> ### [[Leyes de Newton]]
 > 
 > - Segunda Ley aplicada al CM: $\sum \vec{F}_{ext} = M_{total}\vec{a}_{CM}$
 > - Simplificación de sistemas complejos a partícula puntual
 > 
-> ### [[Dinámica de Sistemas\|Dinámica de Sistemas]]
+> ### [[Dinámica de Sistemas]]
 > 
-> - Base para análisis de [[Colisiones\|Colisiones]]
-> - Fundamento de [[Explosiones\|Explosiones]] y fragmentaciones
+> - Base para análisis de [[Colisiones]]
+> - Fundamento de [[Explosiones]] y fragmentaciones
 
 ---
 
@@ -161,18 +161,18 @@
 > 
 > ### 🔗 Notas Relacionadas
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Momentum Lineal y Su Conservación\|Momentum Lineal y Su Conservación]]
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Principios de Conservación de la Energía\|Principios de Conservación de la Energía]]
-> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Choques Uni-Bidimensionales\|Choques Uni-Bidimensionales]]
-> - [[Rotación de Cuerpos Rígidos\|Rotación de Cuerpos Rígidos]]
-> - [[Física Mecanica/Notas antiguas/Dinámica Rotacional/Momento de Inercia\|Física Mecanica/Notas antiguas/Dinámica Rotacional/Momento de Inercia]]
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]]
+> - [[Momentum Lineal y Su Conservación]]
+> - [[Principios de Conservación de la Energía]]
+> - [[Choques Uni-Bidimensionales]]
+> - [[Rotación de Cuerpos Rígidos]]
+> - [[Física Mecanica/Notas antiguas/Dinámica Rotacional/Momento de Inercia]]
+> - [[Leyes de Newton]]
 
 ### 📖 Temas Avanzados
 > [!summary]  Para más adelante:
-> - [[Centro de Masa vs Centro de Gravedad\|Centro de Masa vs Centro de Gravedad]]
-> - [[Sistemas de Referencia del Centro de Masa\|Sistemas de Referencia del Centro de Masa]]
-> - [[Teorema del Eje Paralelo\|Teorema del Eje Paralelo]]> 
+> - [[Centro de Masa vs Centro de Gravedad]]
+> - [[Sistemas de Referencia del Centro de Masa]]
+> - [[Teorema del Eje Paralelo]]> 
 
 tags
 

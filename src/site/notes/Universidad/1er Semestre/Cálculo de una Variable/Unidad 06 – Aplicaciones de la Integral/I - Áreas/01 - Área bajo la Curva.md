@@ -407,25 +407,25 @@ flowchart TD
 
 > [!quote] 🔗 Notas Relacionadas
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/01 - Integral de Riemann\|01 - Integral de Riemann]] - Definición formal subyacente
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/04 - Teorema Fundamental del Cálculo\|04 - Teorema Fundamental del Cálculo]] - Herramienta principal de evaluación
-> - [[Propiedades de la Integral Definida\|Propiedades de la Integral Definida]] - Herramientas para simplificar cálculos
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/III - Integrales Definidas/01 - Métodos de Integración Definida\|01 - Métodos de Integración Definida]] - Técnicas para evaluación
+> - [[01 - Integral de Riemann]] - Definición formal subyacente
+> - [[04 - Teorema Fundamental del Cálculo]] - Herramienta principal de evaluación
+> - [[Propiedades de la Integral Definida]] - Herramientas para simplificar cálculos
+> - [[01 - Métodos de Integración Definida]] - Técnicas para evaluación
 >
 > [!NOTE] 📖 Para Profundizar
 > 
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/IV - Integrales Impropias y Avanzadas/01 - Integrales Impropias\|01 - Integrales Impropias]] - Áreas con límites infinitos
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/V - Otras Técnicas/01 - Integración Numérica\|01 - Integración Numérica]] - Métodos aproximados para casos complejos
-> - [[Cálculo de Variaciones\|Cálculo de Variaciones]] - Optimización de áreas
-> - [[Geometría Diferencial\|Geometría Diferencial]] - Generalización a superficies
+> - [[01 - Integrales Impropias]] - Áreas con límites infinitos
+> - [[01 - Integración Numérica]] - Métodos aproximados para casos complejos
+> - [[Cálculo de Variaciones]] - Optimización de áreas
+> - [[Geometría Diferencial]] - Generalización a superficies
 > 
 > ### 🎯 Aplicaciones Especializadas
 > 
-> - [[Trabajo y Energía con Integrales\|Trabajo y Energía con Integrales]] - Interpretación física
-> - [[Probabilidad y Estadística\|Probabilidad y Estadística]] - Funciones de densidad
-> - [[Volúmenes de Revolución\|Volúmenes de Revolución]] - Extensión tridimensional
-> - [[Longitud de Arco\|Longitud de Arco]] - Otra aplicación geométrica
+> - [[Trabajo y Energía con Integrales]] - Interpretación física
+> - [[Probabilidad y Estadística]] - Funciones de densidad
+> - [[Volúmenes de Revolución]] - Extensión tridimensional
+> - [[Longitud de Arco]] - Otra aplicación geométrica
 
 ### 🏷️ Tags
 

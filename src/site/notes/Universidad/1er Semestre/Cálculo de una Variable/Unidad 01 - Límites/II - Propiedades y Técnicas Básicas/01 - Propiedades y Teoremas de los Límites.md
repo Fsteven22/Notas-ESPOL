@@ -361,26 +361,26 @@ flowchart TD
 > 
 > **Prerrequisitos:**
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/II - Propiedades y Técnicas Básicas/01 - Propiedades y Teoremas de los Límites\|01 - Propiedades y Teoremas de los Límites]] - Casos básicos
-> - [[Definición de Límite\|Definición de Límite]] - Fundamento teórico
-> - [[Continuidad de Funciones\|Continuidad de Funciones]] - Base para aplicación
+> - [[01 - Propiedades y Teoremas de los Límites]] - Casos básicos
+> - [[Definición de Límite]] - Fundamento teórico
+> - [[Continuidad de Funciones]] - Base para aplicación
 > 
 > **Temas relacionados:**
 > 
-> - [[Límites Indeterminados\|Límites Indeterminados]] - Casos donde las propiedades fallan
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/V – Formas Indeterminadas/01 - Formas Indeterminadas\|01 - Formas Indeterminadas]] - Técnica para formas indeterminadas
-> - [[Teorema del Emparedado\|Teorema del Emparedado]] - Técnica alternativa
+> - [[Límites Indeterminados]] - Casos donde las propiedades fallan
+> - [[01 - Formas Indeterminadas]] - Técnica para formas indeterminadas
+> - [[Teorema del Emparedado]] - Técnica alternativa
 > 
 > **Aplicaciones:**
 > 
-> - [[Derivadas\|Derivadas]] - Límites en la definición de derivada
-> - [[Continuidad\|Continuidad]] - Criterio de continuidad
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/IV – Al infinito y sucesiones/Límites Infinitos y al Infinito/01 - Límites al Infinito y Sucesiones\|01 - Límites al Infinito y Sucesiones]] - Comportamiento asintótico
+> - [[Derivadas]] - Límites en la definición de derivada
+> - [[Continuidad]] - Criterio de continuidad
+> - [[01 - Límites al Infinito y Sucesiones]] - Comportamiento asintótico
 > 
 > **Extensiones:**
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/IV – Al infinito y sucesiones/Límites Infinitos y al Infinito/01 - Límites al Infinito y Sucesiones\|01 - Límites al Infinito y Sucesiones]] - Límites discretos
-> - [[Límites Multivariables\|Límites Multivariables]] - Extensión a varias variables
+> - [[01 - Límites al Infinito y Sucesiones]] - Límites discretos
+> - [[Límites Multivariables]] - Extensión a varias variables
 
 ---
 
@@ -670,11 +670,11 @@ flowchart TD
 
 > [!quote] 🔗 Enlaces a Otras Notas
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/II - Propiedades y Técnicas Básicas/01 - Propiedades y Teoremas de los Límites\|01 - Propiedades y Teoremas de los Límites]] - Aplicación práctica de los teoremas
-> - [[Continuidad de Funciones\|Continuidad de Funciones]] - Requisito para composición
-> - [[Límites Indeterminados\|Límites Indeterminados]] - Casos donde los teoremas no aplican directamente
-> - [[Álgebra de Funciones\|Álgebra de Funciones]] - Operaciones básicas entre funciones
-> - [[Funciones Compuestas\|Funciones Compuestas]] - Teoría de composición de funciones
+> - [[01 - Propiedades y Teoremas de los Límites]] - Aplicación práctica de los teoremas
+> - [[Continuidad de Funciones]] - Requisito para composición
+> - [[Límites Indeterminados]] - Casos donde los teoremas no aplican directamente
+> - [[Álgebra de Funciones]] - Operaciones básicas entre funciones
+> - [[Funciones Compuestas]] - Teoría de composición de funciones
 
 ## 📖 Notas Recomendadas para Estudio Complementario
 
@@ -682,12 +682,12 @@ flowchart TD
 > 
 > **Fundamentos:**
 > 
-> 1. **[[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/I - Fundamentos del Límite/01 - Concepto y Definición Formal del Límite\|01 - Concepto y Definición Formal del Límite]]** - Base conceptual
-> 2. **[[Propiedades de los Números Reales\|Propiedades de los Números Reales]]** - Operaciones algebraicas
+> 1. **[[01 - Concepto y Definición Formal del Límite]]** - Base conceptual
+> 2. **[[Propiedades de los Números Reales]]** - Operaciones algebraicas
 > 
-> **Aplicaciones:** 3. **[[Técnicas de Factorización\|Técnicas de Factorización]]** - Para casos indeterminados 4. **[[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/V – Formas Indeterminadas/01 - Formas Indeterminadas\|01 - Formas Indeterminadas]]** - Alternativa para formas indeterminadas
+> **Aplicaciones:** 3. **[[Técnicas de Factorización]]** - Para casos indeterminados 4. **[[01 - Formas Indeterminadas]]** - Alternativa para formas indeterminadas
 > 
-> **Extensiones:** 5. **[[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/IV – Al infinito y sucesiones/Límites Infinitos y al Infinito/01 - Límites al Infinito y Sucesiones\|01 - Límites al Infinito y Sucesiones]]** - Comportamiento asintótico 6. **[[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/I - Fundamentos Teóricos/01 - Derivada y Definición Formal\|01 - Derivada y Definición Formal]]** - Aplicación práctica de límites
+> **Extensiones:** 5. **[[01 - Límites al Infinito y Sucesiones]]** - Comportamiento asintótico 6. **[[01 - Derivada y Definición Formal]]** - Aplicación práctica de límites
 
 ## 🎯 Ejercicios Progresivos
 
@@ -891,11 +891,11 @@ flowchart TD
 
 > [!quote] 🔗 Enlaces a Otras Notas
 > 
-> - [[Continuidad de Funciones\|Continuidad de Funciones]] - Fundamento teórico para sustitución directa
-> - [[Límites Indeterminados\|Límites Indeterminados]] - Casos donde NO aplicar sustitución
-> - [[Dominio y Rango\|Dominio y Rango]] - Verificación previa a la evaluación
-> - [[Funciones Elementales\|Funciones Elementales]] - Catálogo de funciones continuas
-> - [[Gráficas de Funciones\|Gráficas de Funciones]] - Interpretación visual de continuidad
+> - [[Continuidad de Funciones]] - Fundamento teórico para sustitución directa
+> - [[Límites Indeterminados]] - Casos donde NO aplicar sustitución
+> - [[Dominio y Rango]] - Verificación previa a la evaluación
+> - [[Funciones Elementales]] - Catálogo de funciones continuas
+> - [[Gráficas de Funciones]] - Interpretación visual de continuidad
 
 ## 📖 Notas Recomendadas para Estudio Complementario
 
@@ -903,12 +903,12 @@ flowchart TD
 > 
 > **Prerrequisitos:**
 > 
-> 1. **[[Definición de Función\|Definición de Función]]** - Conceptos básicos
-> 2. **[[Definición Informal de Límite\|Definición Informal de Límite]]** - Intuición geométrica
+> 1. **[[Definición de Función]]** - Conceptos básicos
+> 2. **[[Definición Informal de Límite]]** - Intuición geométrica
 > 
-> **Temas Paralelos:** 3. **[[Álgebra de Límites\|Álgebra de Límites]]** - Operaciones con límites 4. **[[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/II - Propiedades y Técnicas Básicas/03 - Límites en Gráficas\|03 - Límites en Gráficas]]** - Visualización de límites
+> **Temas Paralelos:** 3. **[[Álgebra de Límites]]** - Operaciones con límites 4. **[[03 - Límites en Gráficas]]** - Visualización de límites
 > 
-> **Siguientes Pasos:** 5. **[[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/II - Propiedades y Técnicas Básicas/02 - Límites Laterales\|02 - Límites Laterales]]** - Extensión del concepto 6. **[[Formas Indeterminadas\|Formas Indeterminadas]]** - Casos complejos
+> **Siguientes Pasos:** 5. **[[02 - Límites Laterales]]** - Extensión del concepto 6. **[[Formas Indeterminadas]]** - Casos complejos
 
 ## 🎯 Ejercicios de Práctica Progresiva
 

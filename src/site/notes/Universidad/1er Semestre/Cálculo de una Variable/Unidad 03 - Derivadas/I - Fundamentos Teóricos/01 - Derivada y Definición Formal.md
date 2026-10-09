@@ -183,11 +183,11 @@
 
 > [!quote] 📚 **Referencias a otras notas**
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/I - Fundamentos del Límite/01 - Concepto y Definición Formal del Límite\|01 - Concepto y Definición Formal del Límite]] - Base fundamental para la definición
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/V – Formas Indeterminadas/01 - Formas Indeterminadas\|01 - Formas Indeterminadas]] - Aplicación de derivadas a límites
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 04 - Aplicaciones de la Derivada/II - Optimización/01 - Problemas de Optimización\|01 - Problemas de Optimización]] - Aplicación principal de derivadas
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/II - Integrales Indefinidas/01 - Antiderivadas (Primitivas)\|01 - Antiderivadas (Primitivas)]] - Proceso inverso de la derivación
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 04 - Aplicaciones de la Derivada/I - Análisis de Funciones/01 - Análisis Completo de Funciones\|01 - Análisis Completo de Funciones]] - Uso de derivadas para estudiar comportamiento
+> - [[01 - Concepto y Definición Formal del Límite]] - Base fundamental para la definición
+> - [[01 - Formas Indeterminadas]] - Aplicación de derivadas a límites
+> - [[01 - Problemas de Optimización]] - Aplicación principal de derivadas
+> - [[01 - Antiderivadas (Primitivas)]] - Proceso inverso de la derivación
+> - [[01 - Análisis Completo de Funciones]] - Uso de derivadas para estudiar comportamiento
 
 ## 📖 Notas Recomendadas para Complementar
 
@@ -195,17 +195,17 @@
 > 
 > **Prerrequisitos esenciales:**
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/I - Fundamentos Teóricos/01 - Derivada y Definición Formal\|01 - Derivada y Definición Formal]] - Definición formal de derivada
-> - [[Funciones\|Funciones]] - Conceptos básicos de funciones
-> - [[Álgebra\|Álgebra]] - Manipulación algebraica
-> - [[Trigonometría\|Trigonometría]] - Para derivadas trigonométricas
+> - [[01 - Derivada y Definición Formal]] - Definición formal de derivada
+> - [[Funciones]] - Conceptos básicos de funciones
+> - [[Álgebra]] - Manipulación algebraica
+> - [[Trigonometría]] - Para derivadas trigonométricas
 > 
 > **Temas complementarios:**
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/III - Derivadas Especiales/01 - Derivación Implícita\|01 - Derivación Implícita]] - Técnica avanzada
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/IV - Técnicas Avanzadas/01 - Derivadas de Orden Superior\|01 - Derivadas de Orden Superior]] - Extensión del concepto
-> - [[Aproximaciones Lineales\|Aproximaciones Lineales]] - Aplicación geométrica
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 04 - Aplicaciones de la Derivada/III - Razones de Cambio/02 - Razones de Cambio Relacionadas\|02 - Razones de Cambio Relacionadas]] - Aplicaciones físicas
+> - [[01 - Derivación Implícita]] - Técnica avanzada
+> - [[01 - Derivadas de Orden Superior]] - Extensión del concepto
+> - [[Aproximaciones Lineales]] - Aplicación geométrica
+> - [[02 - Razones de Cambio Relacionadas]] - Aplicaciones físicas
 
 ## 🔧 Técnicas de Verificación
 
@@ -534,10 +534,10 @@ flowchart TD
 ### 🔗 Relación con Otros Conceptos
 
 > [!info] 🌐 **Conexiones Importantes**
-> - **[[Universidad/1er Semestre/Cálculo de una Variable/Unidad 02 – Aplicaciones de Límites/01 - Continuidad y Límites\|01 - Continuidad y Límites]]**: Fundamento matemático de la definición
-> - **[[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/I - Fundamentos Teóricos/03 - Derivabilidad y Continuidad\|03 - Derivabilidad y Continuidad]]**: Condición necesaria para derivabilidad
-> - **[[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/I - Fundamentos Teóricos/01 - Derivada y Definición Formal\|01 - Derivada y Definición Formal]]**: Métodos más eficientes desarrollados a partir de esta definición
-> - **[[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/I - Fundamentos Teóricos/02 - Interpretación Geométrica de la Derivada\|02 - Interpretación Geométrica de la Derivada]]**: Aplicación visual del concepto
+> - **[[01 - Continuidad y Límites]]**: Fundamento matemático de la definición
+> - **[[03 - Derivabilidad y Continuidad]]**: Condición necesaria para derivabilidad
+> - **[[01 - Derivada y Definición Formal]]**: Métodos más eficientes desarrollados a partir de esta definición
+> - **[[02 - Interpretación Geométrica de la Derivada]]**: Aplicación visual del concepto
 
 ### ⚡ Preparación para Conceptos Avanzados
 
@@ -579,23 +579,23 @@ mindmap
 ## 📚 Referencias y Conexiones
 
 >[!quote] 🔗 Notas Relacionadas
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 02 – Aplicaciones de Límites/01 - Continuidad y Límites\|01 - Continuidad y Límites]] - Fundamento matemático esencial
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/I - Fundamentos Teóricos/03 - Derivabilidad y Continuidad\|03 - Derivabilidad y Continuidad]] - Condiciones de existencia
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/I - Fundamentos Teóricos/02 - Interpretación Geométrica de la Derivada\|02 - Interpretación Geométrica de la Derivada]] - Aplicación visual
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/II - Reglas de Derivación/01 - Reglas Fundamentales de Derivación\|01 - Reglas Fundamentales de Derivación]] - Métodos eficientes
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/II - Reglas de Derivación/02 - Regla de la Cadena\|Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/II - Reglas de Derivación/02 - Regla de la Cadena]] - Extensión para funciones compuestas
+> - [[01 - Continuidad y Límites]] - Fundamento matemático esencial
+> - [[03 - Derivabilidad y Continuidad]] - Condiciones de existencia
+> - [[02 - Interpretación Geométrica de la Derivada]] - Aplicación visual
+> - [[01 - Reglas Fundamentales de Derivación]] - Métodos eficientes
+> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/II - Reglas de Derivación/02 - Regla de la Cadena]] - Extensión para funciones compuestas
 > 
 >
 >[!success] 📖 Para Profundizar
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/I - Fundamentos Teóricos/02 - Interpretación Geométrica de la Derivada\|02 - Interpretación Geométrica de la Derivada]] - Análisis detallado de no derivabilidad
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/I - Fundamentos Teóricos/03 - Derivabilidad y Continuidad\|03 - Derivabilidad y Continuidad]] - Relaciones teóricas
+> - [[02 - Interpretación Geométrica de la Derivada]] - Análisis detallado de no derivabilidad
+> - [[03 - Derivabilidad y Continuidad]] - Relaciones teóricas
 >
 >
 > [!NOTE] 🎯 Aplicaciones Inmediatas
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 04 - Aplicaciones de la Derivada/III - Razones de Cambio/02 - Razones de Cambio Relacionadas\|02 - Razones de Cambio Relacionadas]] - Problemas dinámicos
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 04 - Aplicaciones de la Derivada/III - Razones de Cambio/03 - Aproximaciones Lineales y Diferenciales\|03 - Aproximaciones Lineales y Diferenciales]] - Uso de la tangente
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 04 - Aplicaciones de la Derivada/I - Análisis de Funciones/01 - Análisis Completo de Funciones\|01 - Análisis Completo de Funciones]] - Comportamiento local
+> - [[02 - Razones de Cambio Relacionadas]] - Problemas dinámicos
+> - [[03 - Aproximaciones Lineales y Diferenciales]] - Uso de la tangente
+> - [[01 - Análisis Completo de Funciones]] - Comportamiento local
 
 ### 🏷️ Tags
 #matematicas/calculo/derivadas #fundamentos/limites #definicion/formal #interpretacion/geometrica #interpretacion/fisica #metodos/calculo #existencia/derivada

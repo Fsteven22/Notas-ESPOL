@@ -159,10 +159,10 @@
 
 > [!quote] 📚 **Referencias a otras notas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Traslacional\|Cinemática Traslacional]] - Base conceptual para analogías
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Momento de Inercia\|Momento de Inercia]] - Extensión hacia dinámica rotacional
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Torque y Equilibrio Rotacional\|Torque y Equilibrio Rotacional]] - Causas del movimiento angular
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Segunda ley de Newton para Rotación\|Segunda ley de Newton para Rotación]] - Dinámica del movimiento circular
+> - [[Cinemática Traslacional]] - Base conceptual para analogías
+> - [[Momento de Inercia]] - Extensión hacia dinámica rotacional
+> - [[Torque y Equilibrio Rotacional]] - Causas del movimiento angular
+> - [[Segunda ley de Newton para Rotación]] - Dinámica del movimiento circular
 
 ## 📖 Notas Recomendadas para Complementar
 
@@ -170,15 +170,15 @@
 > 
 > **Prerrequisitos esenciales:**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para comprender direcciones angulares
-> - [[Funciones Trigonométricas\|Funciones Trigonométricas]] - Para resolver componentes
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/I - Fundamentos Teóricos/01 - Derivada y Definición Formal\|01 - Derivada y Definición Formal]] - Para definiciones de ω y α
+> - [[Vectores]] - Para comprender direcciones angulares
+> - [[Funciones Trigonométricas]] - Para resolver componentes
+> - [[01 - Derivada y Definición Formal]] - Para definiciones de ω y α
 > 
 > **Temas complementarios:**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Momentum Angular\|Momentum Angular]] - Conservación en sistemas rotacionales
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Energía de Rotación\|Energía de Rotación]] - Aspectos energéticos del movimiento
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Rodadura\|Rodadura]] - Combinación de traslación y rotación
+> - [[Momentum Angular]] - Conservación en sistemas rotacionales
+> - [[Energía de Rotación]] - Aspectos energéticos del movimiento
+> - [[Rodadura]] - Combinación de traslación y rotación
 
 ---
 

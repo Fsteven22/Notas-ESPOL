@@ -295,11 +295,11 @@
 
 > [!quote] 📚 **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Aplicaciones de Cinemática Traslacional/Problemas de Encuentro\|Problemas de Encuentro]] - Para encuentros con velocidad relativa
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Operaciones vectoriales fundamentales
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Traslacional\|Cinemática Traslacional]] - Conceptos base de movimiento
-> - [[Transformaciones de Galileo\|Transformaciones de Galileo]] - Relatividad clásica
-> - [[Análisis Gráfico del Movimiento\|Análisis Gráfico del Movimiento]] - Representación visual
+> - [[Problemas de Encuentro]] - Para encuentros con velocidad relativa
+> - [[Vectores]] - Operaciones vectoriales fundamentales
+> - [[Cinemática Traslacional]] - Conceptos base de movimiento
+> - [[Transformaciones de Galileo]] - Relatividad clásica
+> - [[Análisis Gráfico del Movimiento]] - Representación visual
 
 ---
 
@@ -307,10 +307,10 @@
 
 > [!info] 🎓 **Conocimientos Previos Necesarios**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Suma vectorial y componentes
-> - [[Trigonometría\|Trigonometría]] - Descomposición y ángulos
-> - [[Sistemas de Coordenadas\|Sistemas de Coordenadas]] - Referencias cartesianas
-> - [[Navegación por Coordenadas\|Navegación por Coordenadas]] - Rumbo y orientación
+> - [[Vectores]] - Suma vectorial y componentes
+> - [[Trigonometría]] - Descomposición y ángulos
+> - [[Sistemas de Coordenadas]] - Referencias cartesianas
+> - [[Navegación por Coordenadas]] - Rumbo y orientación
 
 ---
 

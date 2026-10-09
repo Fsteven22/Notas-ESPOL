@@ -228,23 +228,23 @@
 ## Referencias
 
 > [!quote] Notas Relacionadas
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/IV – Al infinito y sucesiones/Límites Infinitos y al Infinito/01 - Límites al Infinito y Sucesiones\|01 - Límites al Infinito y Sucesiones]]
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/03 - Propiedades de la Sumatoria\|03 - Propiedades de la Sumatoria]]
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/04 - Teorema Fundamental del Cálculo\|04 - Teorema Fundamental del Cálculo]]
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/01 - Integral de Riemann\|01 - Integral de Riemann]]
+> - [[01 - Límites al Infinito y Sucesiones]]
+> - [[03 - Propiedades de la Sumatoria]]
+> - [[04 - Teorema Fundamental del Cálculo]]
+> - [[01 - Integral de Riemann]]
 
 ## Notas Recomendadas
 
 > [!info] Prerrequisitos
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/IV – Al infinito y sucesiones/Límites Infinitos y al Infinito/01 - Límites al Infinito y Sucesiones\|01 - Límites al Infinito y Sucesiones]]
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/03 - Propiedades de la Sumatoria\|03 - Propiedades de la Sumatoria]]
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/I - Fundamentos del Límite/01 - Concepto y Definición Formal del Límite\|01 - Concepto y Definición Formal del Límite]]
+> - [[01 - Límites al Infinito y Sucesiones]]
+> - [[03 - Propiedades de la Sumatoria]]
+> - [[01 - Concepto y Definición Formal del Límite]]
 >
 > [!tip] Continuación del Tema
-> - [[Series de Potencias\|Series de Potencias]]
-> - [[Series de Taylor y Maclaurin\|Series de Taylor y Maclaurin]]
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/V - Otras Técnicas/01 - Integración Numérica\|01 - Integración Numérica]]
-> - [[Métodos de Aproximación\|Métodos de Aproximación]]
+> - [[Series de Potencias]]
+> - [[Series de Taylor y Maclaurin]]
+> - [[01 - Integración Numérica]]
+> - [[Métodos de Aproximación]]
 
 ---
 
@@ -483,24 +483,24 @@
 ## Referencias
 
 > [!quote] Notas Relacionadas
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/IV - Integrales Impropias y Avanzadas/01 - Integrales Impropias\|01 - Integrales Impropias]]
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/01 - Integral de Riemann\|01 - Integral de Riemann]]
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/04 - Teorema Fundamental del Cálculo\|04 - Teorema Fundamental del Cálculo]]
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/IV - Integrales Impropias y Avanzadas/02 - Criterios de Convergencia y Divergencia\|02 - Criterios de Convergencia y Divergencia]] (para series)
+> - [[01 - Integrales Impropias]]
+> - [[01 - Integral de Riemann]]
+> - [[04 - Teorema Fundamental del Cálculo]]
+> - [[02 - Criterios de Convergencia y Divergencia]] (para series)
 
 ## Notas Recomendadas
 
 > [!info] Prerrequisitos
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/01 - Integral de Riemann\|01 - Integral de Riemann]]
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/04 - Teorema Fundamental del Cálculo\|04 - Teorema Fundamental del Cálculo]]
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/IV – Al infinito y sucesiones/Límites Infinitos y al Infinito/01 - Límites al Infinito y Sucesiones\|01 - Límites al Infinito y Sucesiones]]
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/IV – Al infinito y sucesiones/Límites Infinitos y al Infinito/01 - Límites al Infinito y Sucesiones\|01 - Límites al Infinito y Sucesiones]]
+> - [[01 - Integral de Riemann]]
+> - [[04 - Teorema Fundamental del Cálculo]]
+> - [[01 - Límites al Infinito y Sucesiones]]
+> - [[01 - Límites al Infinito y Sucesiones]]
 >
 > [!tip] Continuación del Tema
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/V - Otras Técnicas/01 - Integración Numérica\|01 - Integración Numérica]]
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/III - Integrales Definidas/01 - Métodos de Integración Definida\|01 - Métodos de Integración Definida]]
-> - [[Series de Fourier\|Series de Fourier]]
-> - [[Transformadas de Laplace\|Transformadas de Laplace]]
+> - [[01 - Integración Numérica]]
+> - [[01 - Métodos de Integración Definida]]
+> - [[Series de Fourier]]
+> - [[Transformadas de Laplace]]
 
 ---
 

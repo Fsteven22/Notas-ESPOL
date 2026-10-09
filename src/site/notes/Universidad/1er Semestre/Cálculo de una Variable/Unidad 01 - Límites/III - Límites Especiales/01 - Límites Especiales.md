@@ -311,11 +311,11 @@ flowchart TD
 
 > [!quote] 🔗 Enlaces a Otras Notas
 > 
-> - [[Formas Indeterminadas 0/0\|Formas Indeterminadas 0/0]] - Contexto general de indeterminaciones
-> - [[Identidades Trigonométricas\|Identidades Trigonométricas]] - Herramientas de transformación
-> - [[Teorema del Sandwich\|Teorema del Sandwich]] - Método de demostración geométrica
-> - [[Derivadas Trigonométricas\|Derivadas Trigonométricas]] - Aplicación principal de estos límites
-> - [[Series de Taylor\|Series de Taylor]] - Desarrollo alternativo para casos complejos
+> - [[Formas Indeterminadas 0/0]] - Contexto general de indeterminaciones
+> - [[Identidades Trigonométricas]] - Herramientas de transformación
+> - [[Teorema del Sandwich]] - Método de demostración geométrica
+> - [[Derivadas Trigonométricas]] - Aplicación principal de estos límites
+> - [[Series de Taylor]] - Desarrollo alternativo para casos complejos
 
 ## 📖 Notas Recomendadas para Estudio Complementario
 
@@ -323,13 +323,13 @@ flowchart TD
 > 
 > **Prerrequisitos:**
 > 
-> 1. **[[Funciones Trigonométricas\|Funciones Trigonométricas]]** - Conocimiento básico
-> 2. **[[Radianes vs Grados\|Radianes vs Grados]]** - Importancia del sistema de medida
-> 3. **[[Identidades Fundamentales\|Identidades Fundamentales]]** - Transformaciones trigonométricas
+> 1. **[[Funciones Trigonométricas]]** - Conocimiento básico
+> 2. **[[Radianes vs Grados]]** - Importancia del sistema de medida
+> 3. **[[Identidades Fundamentales]]** - Transformaciones trigonométricas
 > 
-> **Temas Paralelos:** 4. **[[Continuidad Trigonométrica\|Continuidad Trigonométrica]]** - Comportamiento de funciones 5. **[[Gráficas Trigonométricas\|Gráficas Trigonométricas]]** - Interpretación visual
+> **Temas Paralelos:** 4. **[[Continuidad Trigonométrica]]** - Comportamiento de funciones 5. **[[Gráficas Trigonométricas]]** - Interpretación visual
 > 
-> **Aplicaciones:** 6. **[[Derivadas de Funciones Trigonométricas\|Derivadas de Funciones Trigonométricas]]** - Uso principal 7. **[[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/II - Integrales Indefinidas/Técnicas de Integración/Integrales Trigonométricas\|Integrales Trigonométricas]]** - Extensión natural 8. **[[Ecuaciones Diferenciales\|Ecuaciones Diferenciales]]** - Aplicaciones avanzadas
+> **Aplicaciones:** 6. **[[Derivadas de Funciones Trigonométricas]]** - Uso principal 7. **[[Integrales Trigonométricas]]** - Extensión natural 8. **[[Ecuaciones Diferenciales]]** - Aplicaciones avanzadas
 
 ## 🎯 Ejercicios de Entrenamiento Progresivo
 
@@ -604,27 +604,27 @@ flowchart TD
 
 > [!quote] 📚 **Referencias**
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/IV – Al infinito y sucesiones/Límites Infinitos y al Infinito/01 - Límites al Infinito y Sucesiones\|01 - Límites al Infinito y Sucesiones]] - Para comportamiento asintótico de exponenciales
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/IV – Al infinito y sucesiones/Límites Infinitos y al Infinito/01 - Límites al Infinito y Sucesiones\|01 - Límites al Infinito y Sucesiones]] - Casos donde exponenciales tienden a infinito
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/V – Formas Indeterminadas/01 - Formas Indeterminadas\|01 - Formas Indeterminadas]] - Herramienta para formas indeterminadas
-> - [[Serie de Taylor\|Serie de Taylor]] - Para aproximaciones de funciones
-> - [[Función Exponencial\|Función Exponencial]] - Propiedades de $e^x$ y $a^x$
+> - [[01 - Límites al Infinito y Sucesiones]] - Para comportamiento asintótico de exponenciales
+> - [[01 - Límites al Infinito y Sucesiones]] - Casos donde exponenciales tienden a infinito
+> - [[01 - Formas Indeterminadas]] - Herramienta para formas indeterminadas
+> - [[Serie de Taylor]] - Para aproximaciones de funciones
+> - [[Función Exponencial]] - Propiedades de $e^x$ y $a^x$
 >
 > [!info] 📖 **Notas Recomendadas para Complementar**
 > 
 > ### Prerrequisitos:
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/I - Fundamentos del Límite/01 - Concepto y Definición Formal del Límite\|01 - Concepto y Definición Formal del Límite]] - Conceptos fundamentales
-> - [[Propiedades de Logaritmos\|Propiedades de Logaritmos]] - Esencial para método logarítmico
-> - [[Límites Fundamentales\|Límites Fundamentales]] - Base para límites trigonométricos
-> - [[Formas Indeterminadas\|Formas Indeterminadas]] - Clasificación general
+> - [[01 - Concepto y Definición Formal del Límite]] - Conceptos fundamentales
+> - [[Propiedades de Logaritmos]] - Esencial para método logarítmico
+> - [[Límites Fundamentales]] - Base para límites trigonométricos
+> - [[Formas Indeterminadas]] - Clasificación general
 > 
 > ### Temas Relacionados:
 > 
-> - [[Crecimiento Exponencial\|Crecimiento Exponencial]] - Aplicaciones en modelado
-> - [[Interés Compuesto Continuo\|Interés Compuesto Continuo]] - Aplicación práctica del número $e$
-> - [[Ecuaciones Diferenciales\|Ecuaciones Diferenciales]] - Donde aparecen naturalmente
-> - [[Análisis Asintótico\|Análisis Asintótico]] - Comportamiento a largo plazo
+> - [[Crecimiento Exponencial]] - Aplicaciones en modelado
+> - [[Interés Compuesto Continuo]] - Aplicación práctica del número $e$
+> - [[Ecuaciones Diferenciales]] - Donde aparecen naturalmente
+> - [[Análisis Asintótico]] - Comportamiento a largo plazo
 >
 > [!tip] 🧠 **Técnica de Estudio: "LOG-E" (Logaritmo-Exponencial)**
 > 
@@ -695,7 +695,6 @@ flowchart TD
 >    A[ln x] --> B[x^α, α > 0]
 >    B --> C[e^x]
 >    C --> D[x!]
->    
 >    style A fill:#e1f5fe
 >    style B fill:#f3e5f5
 >    style C fill:#fff3e0
@@ -771,11 +770,11 @@ graph TD
 
 > [!quote] Enlaces a otras notas
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/V – Formas Indeterminadas/01 - Formas Indeterminadas\|01 - Formas Indeterminadas]] - Herramienta principal para resolver estas indeterminaciones
-> - [[Funciones Logarítmicas\|Funciones Logarítmicas]] - Propiedades fundamentales del logaritmo
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/IV – Al infinito y sucesiones/Límites Infinitos y al Infinito/01 - Límites al Infinito y Sucesiones\|01 - Límites al Infinito y Sucesiones]] - Comportamiento asintótico general
-> - [[Formas Indeterminadas\|Formas Indeterminadas]] - Clasificación completa de indeterminaciones
-> - [[Crecimiento Asintótico\|Crecimiento Asintótico]] - Comparación detallada de funciones
+> - [[01 - Formas Indeterminadas]] - Herramienta principal para resolver estas indeterminaciones
+> - [[Funciones Logarítmicas]] - Propiedades fundamentales del logaritmo
+> - [[01 - Límites al Infinito y Sucesiones]] - Comportamiento asintótico general
+> - [[Formas Indeterminadas]] - Clasificación completa de indeterminaciones
+> - [[Crecimiento Asintótico]] - Comparación detallada de funciones
 
 ## Notas Recomendadas 📚
 
@@ -783,16 +782,16 @@ graph TD
 > 
 > **Prerrequisitos necesarios:**
 > 
-> - [[Límites Básicos\|Límites Básicos]] - Fundamentos de límites
-> - [[Propiedades del Logaritmo\|Propiedades del Logaritmo]] - ln(ab) = ln(a) + ln(b), etc.
-> - [[Derivadas Básicas\|Derivadas Básicas]] - Para aplicar L'Hôpital
+> - [[Límites Básicos]] - Fundamentos de límites
+> - [[Propiedades del Logaritmo]] - ln(ab) = ln(a) + ln(b), etc.
+> - [[Derivadas Básicas]] - Para aplicar L'Hôpital
 > 
 > **Para profundizar:**
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/III - Límites Especiales/01 - Límites Especiales\|01 - Límites Especiales]] - Contrapartida de estos límites
-> - [[Series de Taylor\|Series de Taylor]] - Desarrollo alternativo para algunos límites
-> - [[Análisis Asintótico\|Análisis Asintótico]] - Estudio avanzado de comportamientos límite
-> - [[Aplicaciones en Optimización\|Aplicaciones en Optimización]] - Uso práctico de estos conceptos
+> - [[01 - Límites Especiales]] - Contrapartida de estos límites
+> - [[Series de Taylor]] - Desarrollo alternativo para algunos límites
+> - [[Análisis Asintótico]] - Estudio avanzado de comportamientos límite
+> - [[Aplicaciones en Optimización]] - Uso práctico de estos conceptos
 
 ---
 

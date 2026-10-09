@@ -431,20 +431,20 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Aplicaciones de Impulso y Colisiones (Lineal)/Problemas de Colisiones\|Problemas de Colisiones]] - Fundamentos de colisiones puras
-> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Impulso Lineal\|Impulso Lineal]] - Teoría del impulso-momentum
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Trabajo y Energía\|Trabajo y Energía]] - Análisis energético
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Fuerzas y Diagramas de Cuerpo Libre\|Fuerzas y Diagramas de Cuerpo Libre]] - Identificación de fuerzas
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]] - Principios dinámicos fundamentales
+> - [[Problemas de Colisiones]] - Fundamentos de colisiones puras
+> - [[Impulso Lineal]] - Teoría del impulso-momentum
+> - [[Trabajo y Energía]] - Análisis energético
+> - [[Fuerzas y Diagramas de Cuerpo Libre]] - Identificación de fuerzas
+> - [[Leyes de Newton]] - Principios dinámicos fundamentales
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Momentum Lineal y Su Conservación\|Momentum Lineal y Su Conservación]] - Conceptos de conservación
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Principios de Conservación de la Energía\|Principios de Conservación de la Energía]] - Análisis energético
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Traslacional\|Cinemática Traslacional]] - Movimiento antes y después
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para problemas bidimensionales
+> - [[Momentum Lineal y Su Conservación]] - Conceptos de conservación
+> - [[Principios de Conservación de la Energía]] - Análisis energético
+> - [[Cinemática Traslacional]] - Movimiento antes y después
+> - [[Vectores]] - Para problemas bidimensionales
 
 ---
 

@@ -211,15 +211,15 @@ flowchart TD
 > 
 > **Fundamentos previos:**
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/II - Propiedades y Técnicas Básicas/01 - Propiedades y Teoremas de los Límites\|01 - Propiedades y Teoremas de los Límites]] - Base para calcular derivadas
-> - [[Función Lineal\|Función Lineal]] - Pendiente constante vs variable
-> - [[Geometría Analítica\|Geometría Analítica]] - Pendientes de rectas
+> - [[01 - Propiedades y Teoremas de los Límites]] - Base para calcular derivadas
+> - [[Función Lineal]] - Pendiente constante vs variable
+> - [[Geometría Analítica]] - Pendientes de rectas
 > 
 > **Aplicaciones futuras:**
 > 
-> - [[Derivadas\|Derivadas]] - Formalización matemática
-> - [[Aplicaciones de la Derivada\|Aplicaciones de la Derivada]] - Optimización y análisis
-> - [[Integrales\|Integrales]] - Proceso inverso (acumulación)
+> - [[Derivadas]] - Formalización matemática
+> - [[Aplicaciones de la Derivada]] - Optimización y análisis
+> - [[Integrales]] - Proceso inverso (acumulación)
 
 ## 📖 Notas Recomendadas para Estudio Complementario
 
@@ -227,12 +227,12 @@ flowchart TD
 > 
 > **Prerrequisitos:**
 > 
-> 1. **[[Funciones y sus Gráficas\|Funciones y sus Gráficas]]** - Visualización
-> 2. **[[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/II - Propiedades y Técnicas Básicas/01 - Propiedades y Teoremas de los Límites\|01 - Propiedades y Teoremas de los Límites]]** - Técnicas de cálculo
+> 1. **[[Funciones y sus Gráficas]]** - Visualización
+> 2. **[[01 - Propiedades y Teoremas de los Límites]]** - Técnicas de cálculo
 > 
-> **Temas Paralelos:** 3. **[[Rectas Secantes y Tangentes\|Rectas Secantes y Tangentes]]** - Interpretación geométrica 4. **[[Aplicaciones de Funciones\|Aplicaciones de Funciones]]** - Modelado matemático
+> **Temas Paralelos:** 3. **[[Rectas Secantes y Tangentes]]** - Interpretación geométrica 4. **[[Aplicaciones de Funciones]]** - Modelado matemático
 > 
-> **Siguientes Pasos:** 5. **[[Definición de Derivada\|Definición de Derivada]]** - Formalización 6. **[[Reglas de Derivación\|Reglas de Derivación]]** - Herramientas de cálculo
+> **Siguientes Pasos:** 5. **[[Definición de Derivada]]** - Formalización 6. **[[Reglas de Derivación]]** - Herramientas de cálculo
 
 ## 🎯 Ejercicios de Práctica Progresiva
 

@@ -450,15 +450,15 @@ graph TD
 
 ## Referencias 🔗
 
-> [!quote] [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 04 - Aplicaciones de la Derivada/II - Optimización/01 - Problemas de Optimización\|01 - Problemas de Optimización]] Métodos generales sin restricciones y modelado
+> [!quote] [[01 - Problemas de Optimización]] Métodos generales sin restricciones y modelado
 >
-> [!quote] [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 04 - Aplicaciones de la Derivada/I - Análisis de Funciones/01 - Análisis Completo de Funciones\|01 - Análisis Completo de Funciones]] Herramientas para verificar naturaleza de extremos
+> [!quote] [[01 - Análisis Completo de Funciones]] Herramientas para verificar naturaleza de extremos
 >
-> [!quote] [[Gradiente y Derivadas Direccionales\|Gradiente y Derivadas Direccionales]] Fundamentos vectoriales del método de Lagrange
+> [!quote] [[Gradiente y Derivadas Direccionales]] Fundamentos vectoriales del método de Lagrange
 >
-> [!quote] [[Aplicaciones de Derivadas\|Aplicaciones de Derivadas]] Contexto más amplio de optimización aplicada
+> [!quote] [[Aplicaciones de Derivadas]] Contexto más amplio de optimización aplicada
 >
-> [!quote] [[Cálculo de Varias Variables\|Cálculo de Varias Variables]] Extensión completa del método de Lagrange
+> [!quote] [[Cálculo de Varias Variables]] Extensión completa del método de Lagrange
 
 
 ---

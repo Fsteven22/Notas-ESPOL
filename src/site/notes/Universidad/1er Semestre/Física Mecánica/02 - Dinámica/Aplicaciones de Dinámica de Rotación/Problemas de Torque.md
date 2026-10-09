@@ -552,20 +552,20 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Dinámica de Rotación\|Dinámica de Rotación]] - Aplicación del torque en movimiento
-> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Equilibrio\|Equilibrio]] - Condiciones de equilibrio estático
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Segunda ley de Newton para Rotación\|Segunda ley de Newton para Rotación]] - τ = Iα
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Momento de Inercia\|Momento de Inercia]] - Resistencia a la rotación
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Producto vectorial y dirección
+> - [[Dinámica de Rotación]] - Aplicación del torque en movimiento
+> - [[Equilibrio]] - Condiciones de equilibrio estático
+> - [[Segunda ley de Newton para Rotación]] - τ = Iα
+> - [[Momento de Inercia]] - Resistencia a la rotación
+> - [[Vectores]] - Producto vectorial y dirección
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Fuerzas y Diagramas de Cuerpo Libre\|Fuerzas y Diagramas de Cuerpo Libre]] - Análisis de fuerzas
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]] - Fundamentos dinámicos
-> - [[Trigonometría\|Trigonometría]] - Cálculo de componentes
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Operaciones vectoriales
+> - [[Fuerzas y Diagramas de Cuerpo Libre]] - Análisis de fuerzas
+> - [[Leyes de Newton]] - Fundamentos dinámicos
+> - [[Trigonometría]] - Cálculo de componentes
+> - [[Vectores]] - Operaciones vectoriales
 
 ---
 

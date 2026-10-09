@@ -324,18 +324,18 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]] - Fundamentos teóricos
-> - [[Ecuaciones Diferenciales Básicas\|Ecuaciones Diferenciales Básicas]] - Herramientas matemáticas
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Trabajo y Energía\|Trabajo y Energía]] - Métodos energéticos
-> - [[Oscilaciones\|Oscilaciones]] - Fuerzas restauradoras
+> - [[Leyes de Newton]] - Fundamentos teóricos
+> - [[Ecuaciones Diferenciales Básicas]] - Herramientas matemáticas
+> - [[Trabajo y Energía]] - Métodos energéticos
+> - [[Oscilaciones]] - Fuerzas restauradoras
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Cálculo Diferencial e Integral\|Cálculo Diferencial e Integral]] - Herramientas matemáticas
-> - [[Dinámica de Traslación\|Dinámica de Traslación]] - Conceptos básicos
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Análisis vectorial
+> - [[Cálculo Diferencial e Integral]] - Herramientas matemáticas
+> - [[Dinámica de Traslación]] - Conceptos básicos
+> - [[Vectores]] - Análisis vectorial
 
 ---
 

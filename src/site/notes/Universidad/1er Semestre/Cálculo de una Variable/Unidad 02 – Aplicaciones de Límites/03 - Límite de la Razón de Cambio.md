@@ -300,12 +300,12 @@ graph TD
 
 > [!quote] Enlaces a otras notas
 > 
-> - [[Límites de Funciones\|Límites de Funciones]] - Base conceptual para la definición de derivada
-> - [[Reglas de Derivación\|Reglas de Derivación]] - Técnicas para calcular derivadas
-> - [[Aplicaciones de la Derivada\|Aplicaciones de la Derivada]] - Usos en optimización y análisis
-> - [[Continuidad\|Continuidad]] - Relación entre continuidad y derivabilidad
-> - [[Diferencial\|Diferencial]] - Concepto relacionado con aproximaciones lineales
-> - [[Cinemática\|Cinemática]] - Aplicaciones físicas de razones de cambio
+> - [[Límites de Funciones]] - Base conceptual para la definición de derivada
+> - [[Reglas de Derivación]] - Técnicas para calcular derivadas
+> - [[Aplicaciones de la Derivada]] - Usos en optimización y análisis
+> - [[Continuidad]] - Relación entre continuidad y derivabilidad
+> - [[Diferencial]] - Concepto relacionado con aproximaciones lineales
+> - [[Cinemática]] - Aplicaciones físicas de razones de cambio
 
 ## Notas Recomendadas
 
@@ -313,19 +313,19 @@ graph TD
 > 
 > **Prerrequisitos necesarios:**
 > 
-> - [[Límites Básicos\|Límites Básicos]] - Para entender la definición como límite
-> - [[Funciones y Gráficas\|Funciones y Gráficas]] - Interpretación geométrica
-> - [[Álgebra de Límites\|Álgebra de Límites]] - Manipulación de expresiones límite
-> - [[Geometría Analítica\|Geometría Analítica]] - Ecuaciones de rectas
+> - [[Límites Básicos]] - Para entender la definición como límite
+> - [[Funciones y Gráficas]] - Interpretación geométrica
+> - [[Álgebra de Límites]] - Manipulación de expresiones límite
+> - [[Geometría Analítica]] - Ecuaciones de rectas
 > 
 > **Para profundizar:**
 > 
-> - [[Teoremas de Derivabilidad\|Teoremas de Derivabilidad]] - Rolle, Valor Medio, etc.
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/IV - Técnicas Avanzadas/01 - Derivadas de Orden Superior\|01 - Derivadas de Orden Superior]] - Segunda derivada y concavidad
-> - [[Análisis de Funciones\|Análisis de Funciones]] - Crecimiento, extremos, inflexión
-> - [[Ecuaciones Diferenciales\|Ecuaciones Diferenciales]] - Modelado con razones de cambio
-> - [[Cálculo Numérico\|Cálculo Numérico]] - Aproximación de derivadas
-> - [[Física Matemática\|Física Matemática]] - Aplicaciones avanzadas en ciencias
+> - [[Teoremas de Derivabilidad]] - Rolle, Valor Medio, etc.
+> - [[01 - Derivadas de Orden Superior]] - Segunda derivada y concavidad
+> - [[Análisis de Funciones]] - Crecimiento, extremos, inflexión
+> - [[Ecuaciones Diferenciales]] - Modelado con razones de cambio
+> - [[Cálculo Numérico]] - Aproximación de derivadas
+> - [[Física Matemática]] - Aplicaciones avanzadas en ciencias
 
 ---
 

@@ -248,18 +248,18 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Rotacional\|Cinemática Rotacional]] - Fundamentos teóricos
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Aplicaciones de Cinemática Rotacional/Problemas de Engranajes, Poleas y Transmisión de Movimiento\|Problemas de Engranajes, Poleas y Transmisión de Movimiento]] - Aplicaciones
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Aplicaciones de Cinemática Rotacional/Problemas con Gráficas Angulares (θ-t, ω-t, α-t)\|Problemas con Gráficas Angulares (θ-t, ω-t, α-t)]] - Análisis gráfico
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Rodadura\|Rodadura]] - Fuerzas en rotación
+> - [[Cinemática Rotacional]] - Fundamentos teóricos
+> - [[Problemas de Engranajes, Poleas y Transmisión de Movimiento]] - Aplicaciones
+> - [[Problemas con Gráficas Angulares (θ-t, ω-t, α-t)]] - Análisis gráfico
+> - [[Rodadura]] - Fuerzas en rotación
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Suma vectorial y componentes
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Traslacional\|Cinemática Traslacional]] - Conceptos básicos de aceleración
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Sistema de unidades
+> - [[Vectores]] - Suma vectorial y componentes
+> - [[Cinemática Traslacional]] - Conceptos básicos de aceleración
+> - [[Unidades y Magnitudes Físicas]] - Sistema de unidades
 
 ---
 

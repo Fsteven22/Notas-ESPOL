@@ -305,18 +305,18 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Fuerzas y Diagramas de Cuerpo Libre\|Fuerzas y Diagramas de Cuerpo Libre]] - Base del análisis de fuerzas
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Aplicaciones de Dinámica de Traslación/Problemas con rozamiento\|Problemas con rozamiento]] - Fricción en superficies inclinadas
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]] - Fundamentos dinámicos
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Trabajo y Energía\|Trabajo y Energía]] - Métodos alternativos de solución
+> - [[Fuerzas y Diagramas de Cuerpo Libre]] - Base del análisis de fuerzas
+> - [[Problemas con rozamiento]] - Fricción en superficies inclinadas
+> - [[Leyes de Newton]] - Fundamentos dinámicos
+> - [[Trabajo y Energía]] - Métodos alternativos de solución
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Descomposición de fuerzas
-> - [[Trigonometría Básica\|Trigonometría Básica]] - Funciones trigonométricas
-> - [[Dinámica de Traslación\|Dinámica de Traslación]] - Aplicación de las leyes de Newton
+> - [[Vectores]] - Descomposición de fuerzas
+> - [[Trigonometría Básica]] - Funciones trigonométricas
+> - [[Dinámica de Traslación]] - Aplicación de las leyes de Newton
 
 ---
 

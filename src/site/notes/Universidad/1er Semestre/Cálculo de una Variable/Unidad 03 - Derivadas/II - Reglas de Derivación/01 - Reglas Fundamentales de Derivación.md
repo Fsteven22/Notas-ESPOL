@@ -601,11 +601,11 @@ mindmap
 
 > [!quote] 📖 **Notas relacionadas**
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/I - Fundamentos Teóricos/01 - Derivada y Definición Formal\|01 - Derivada y Definición Formal]] - Fundamento teórico de las reglas
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/I - Fundamentos Teóricos/02 - Interpretación Geométrica de la Derivada\|02 - Interpretación Geométrica de la Derivada]] - Significado visual de las derivadas  
-> - [[Límites y Continuidad\|Límites y Continuidad]] - Base matemática previa
-> - [[Funciones y sus Propiedades\|Funciones y sus Propiedades]] - Conocimiento de funciones elementales
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/II - Integrales Indefinidas/01 - Antiderivadas (Primitivas)\|01 - Antiderivadas (Primitivas)]] - Proceso inverso de la derivación
+> - [[01 - Derivada y Definición Formal]] - Fundamento teórico de las reglas
+> - [[02 - Interpretación Geométrica de la Derivada]] - Significado visual de las derivadas  
+> - [[Límites y Continuidad]] - Base matemática previa
+> - [[Funciones y sus Propiedades]] - Conocimiento de funciones elementales
+> - [[01 - Antiderivadas (Primitivas)]] - Proceso inverso de la derivación
 
 ---
 
@@ -613,16 +613,16 @@ mindmap
 
 > [!info] 📚 **Para profundizar y complementar**
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/II - Reglas de Derivación/02 - Regla de la Cadena\|Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/II - Reglas de Derivación/02 - Regla de la Cadena]] - Derivación de funciones compuestas
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/III - Derivadas Especiales/01 - Derivación Implícita\|01 - Derivación Implícita]] - Técnica para funciones implícitas
-> - [[Aplicaciones de la Derivada\|Aplicaciones de la Derivada]] - Optimización y análisis de funciones
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/IV - Técnicas Avanzadas/01 - Derivadas de Orden Superior\|01 - Derivadas de Orden Superior]] - Segunda derivada y análisis de concavidad
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 04 - Aplicaciones de la Derivada/III - Razones de Cambio/03 - Aproximaciones Lineales y Diferenciales\|03 - Aproximaciones Lineales y Diferenciales]] - Uso práctico de derivadas
-> - [[Teoremas del Valor Medio\|Teoremas del Valor Medio]] - Teoremas fundamentales del cálculo
-> - [[Análisis de Funciones\|Análisis de Funciones]] - Uso conjunto de derivadas para estudiar funciones
-> - [[Optimización en Cálculo\|Optimización en Cálculo]] - Aplicaciones en problemas de máximos y mínimos
-> - [[Modelado Matemático con Derivadas\|Modelado Matemático con Derivadas]] - Aplicaciones en ciencias e ingeniería
-> - [[L'Hôpital y Formas Indeterminadas\|L'Hôpital y Formas Indeterminadas]] - Uso avanzado de derivadas en límites
+> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/II - Reglas de Derivación/02 - Regla de la Cadena]] - Derivación de funciones compuestas
+> - [[01 - Derivación Implícita]] - Técnica para funciones implícitas
+> - [[Aplicaciones de la Derivada]] - Optimización y análisis de funciones
+> - [[01 - Derivadas de Orden Superior]] - Segunda derivada y análisis de concavidad
+> - [[03 - Aproximaciones Lineales y Diferenciales]] - Uso práctico de derivadas
+> - [[Teoremas del Valor Medio]] - Teoremas fundamentales del cálculo
+> - [[Análisis de Funciones]] - Uso conjunto de derivadas para estudiar funciones
+> - [[Optimización en Cálculo]] - Aplicaciones en problemas de máximos y mínimos
+> - [[Modelado Matemático con Derivadas]] - Aplicaciones en ciencias e ingeniería
+> - [[L'Hôpital y Formas Indeterminadas]] - Uso avanzado de derivadas en límites
 
 ---
 

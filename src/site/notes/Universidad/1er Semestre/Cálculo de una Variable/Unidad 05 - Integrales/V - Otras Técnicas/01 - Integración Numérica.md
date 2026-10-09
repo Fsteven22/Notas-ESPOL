@@ -397,28 +397,28 @@ flowchart TD
 > 
 > 
 > ### 🔗 Notas Relacionadas
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/01 - Integral de Riemann\|01 - Integral de Riemann]] - Base teórica de todos los métodos numéricos
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/04 - Teorema Fundamental del Cálculo\|04 - Teorema Fundamental del Cálculo]] - Comparación con métodos exactos
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/III - Integrales Definidas/01 - Métodos de Integración Definida\|01 - Métodos de Integración Definida]] - Cuando usar métodos analíticos vs numéricos
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/IV - Integrales Impropias y Avanzadas/03 - Teoremas de Comparación y Desigualdades\|03 - Teoremas de Comparación y Desigualdades]] - Estimación de errores y validación
+> - [[01 - Integral de Riemann]] - Base teórica de todos los métodos numéricos
+> - [[04 - Teorema Fundamental del Cálculo]] - Comparación con métodos exactos
+> - [[01 - Métodos de Integración Definida]] - Cuando usar métodos analíticos vs numéricos
+> - [[03 - Teoremas de Comparación y Desigualdades]] - Estimación de errores y validación
 > 
 > ### 📖 Para Profundizar
-> - [[Análisis de Errores Numéricos\|Análisis de Errores Numéricos]] - Teoría completa de errores de truncamiento
-> - [[Polinomios de Interpolación\|Polinomios de Interpolación]] - Base teórica de Simpson y métodos avanzados
-> - [[Cuadratura de Gauss\|Cuadratura de Gauss]] - Métodos óptimos de integración numérica
-> - [[Métodos Adaptativos\|Métodos Adaptativos]] - Algoritmos inteligentes de integración
+> - [[Análisis de Errores Numéricos]] - Teoría completa de errores de truncamiento
+> - [[Polinomios de Interpolación]] - Base teórica de Simpson y métodos avanzados
+> - [[Cuadratura de Gauss]] - Métodos óptimos de integración numérica
+> - [[Métodos Adaptativos]] - Algoritmos inteligentes de integración
 > 
 > ### 🎯 Notas Recomendadas
-> - [[Programación de Métodos Numéricos\|Programación de Métodos Numéricos]] - Implementación práctica en código
-> - [[Aplicaciones en Ingeniería\|Aplicaciones en Ingeniería]] - Casos reales de uso de integración numérica
-> - [[Validación de Resultados Numéricos\|Validación de Resultados Numéricos]] - Técnicas para verificar aproximaciones
-> - [[Transformaciones de Integrales\|Transformaciones de Integrales]] - Manejo de casos difíciles
+> - [[Programación de Métodos Numéricos]] - Implementación práctica en código
+> - [[Aplicaciones en Ingeniería]] - Casos reales de uso de integración numérica
+> - [[Validación de Resultados Numéricos]] - Técnicas para verificar aproximaciones
+> - [[Transformaciones de Integrales]] - Manejo de casos difíciles
 > 
 > ### 🧮 Aplicaciones Especializadas
-> - [[Análisis de Señales Digitales\|Análisis de Señales Digitales]] - Integración de funciones muestreadas
-> - [[Simulación Numérica\|Simulación Numérica]] - Integración en ecuaciones diferenciales
-> - [[Procesamiento de Datos Experimentales\|Procesamiento de Datos Experimentales]] - Análisis de mediciones discretas
-> - [[Optimización Numérica\|Optimización Numérica]] - Integración en algoritmos de optimización
+> - [[Análisis de Señales Digitales]] - Integración de funciones muestreadas
+> - [[Simulación Numérica]] - Integración en ecuaciones diferenciales
+> - [[Procesamiento de Datos Experimentales]] - Análisis de mediciones discretas
+> - [[Optimización Numérica]] - Integración en algoritmos de optimización
 > 
 
 ---

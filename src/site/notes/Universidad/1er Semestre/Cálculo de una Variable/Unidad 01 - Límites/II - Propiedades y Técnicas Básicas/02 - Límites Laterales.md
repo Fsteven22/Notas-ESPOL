@@ -231,20 +231,20 @@ graph LR
 
 > [!quote] 🔗 Notas Relacionadas
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/I - Fundamentos del Límite/01 - Concepto y Definición Formal del Límite\|01 - Concepto y Definición Formal del Límite]] - Fundamentos básicos
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/II - Propiedades y Técnicas Básicas/03 - Límites en Gráficas\|03 - Límites en Gráficas]] - Interpretación visual
-> - [[Funciones y Continuidad\|Funciones y Continuidad]] - Relación con continuidad
-> - [[Funciones Definidas por Partes\|Funciones Definidas por Partes]] - Casos especiales
+> - [[01 - Concepto y Definición Formal del Límite]] - Fundamentos básicos
+> - [[03 - Límites en Gráficas]] - Interpretación visual
+> - [[Funciones y Continuidad]] - Relación con continuidad
+> - [[Funciones Definidas por Partes]] - Casos especiales
 
 ## Notas Recomendadas 💡
 
 > [!note] 📖 Para Profundizar
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/I - Fundamentos del Límite/01 - Concepto y Definición Formal del Límite\|01 - Concepto y Definición Formal del Límite]] - Formalización rigurosa
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/II - Propiedades y Técnicas Básicas/01 - Propiedades y Teoremas de los Límites\|01 - Propiedades y Teoremas de los Límites]] - Técnicas de cálculo
-> - [[Asíntotas Verticales\|Asíntotas Verticales]] - Límites infinitos laterales
-> - [[Derivadas Laterales\|Derivadas Laterales]] - Aplicación en derivabilidad
-> - [[Teorema del Sandwich\|Teorema del Sandwich]] - Técnicas avanzadas de límites
+> - [[01 - Concepto y Definición Formal del Límite]] - Formalización rigurosa
+> - [[01 - Propiedades y Teoremas de los Límites]] - Técnicas de cálculo
+> - [[Asíntotas Verticales]] - Límites infinitos laterales
+> - [[Derivadas Laterales]] - Aplicación en derivabilidad
+> - [[Teorema del Sandwich]] - Técnicas avanzadas de límites
 
 ---
 

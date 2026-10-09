@@ -325,15 +325,15 @@ graph LR
 
 ## Referencias 🔗
 
-> [!quote] [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 04 - Aplicaciones de la Derivada/I - Análisis de Funciones/01 - Análisis Completo de Funciones\|01 - Análisis Completo de Funciones]] Herramientas fundamentales para el análisis de candidatos
+> [!quote] [[01 - Análisis Completo de Funciones]] Herramientas fundamentales para el análisis de candidatos
 >
-> [!quote] [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 04 - Aplicaciones de la Derivada/I - Análisis de Funciones/03 - Concavidad y Puntos de Inflexión\|03 - Concavidad y Puntos de Inflexión]] Criterios de segunda derivada para verificar extremos
+> [!quote] [[03 - Concavidad y Puntos de Inflexión]] Criterios de segunda derivada para verificar extremos
 >
-> [!quote] [[Multiplicadores de Lagrange\|Multiplicadores de Lagrange]] Técnica para optimización con restricciones de igualdad
+> [!quote] [[Multiplicadores de Lagrange]] Técnica para optimización con restricciones de igualdad
 >
-> [!quote] [[Aplicaciones de Derivadas\|Aplicaciones de Derivadas]] Contexto más amplio de usos prácticos del cálculo
+> [!quote] [[Aplicaciones de Derivadas]] Contexto más amplio de usos prácticos del cálculo
 >
-> [!quote] [[Modelado Matemático\|Modelado Matemático]] Principios generales para convertir problemas reales en matemáticos
+> [!quote] [[Modelado Matemático]] Principios generales para convertir problemas reales en matemáticos
 
 ---
 

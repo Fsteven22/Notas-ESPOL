@@ -413,15 +413,15 @@ graph TD
 
 ## Referencias 🔗
 
-> [!quote] [[Límites y Continuidad\|Límites y Continuidad]] Fundamentos para entender asíntotas y comportamiento
+> [!quote] [[Límites y Continuidad]] Fundamentos para entender asíntotas y comportamiento
 >
-> [!quote] [[Primera Derivada y Monotonía\|Primera Derivada y Monotonía]] Análisis de crecimiento y puntos críticos
+> [!quote] [[Primera Derivada y Monotonía]] Análisis de crecimiento y puntos críticos
 >
-> [!quote] [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 04 - Aplicaciones de la Derivada/I - Análisis de Funciones/03 - Concavidad y Puntos de Inflexión\|03 - Concavidad y Puntos de Inflexión]] Segunda derivada y curvatura de funciones
+> [!quote] [[03 - Concavidad y Puntos de Inflexión]] Segunda derivada y curvatura de funciones
 >
-> [!quote] [[Optimización de Funciones\|Optimización de Funciones]] Aplicaciones prácticas del análisis completo
+> [!quote] [[Optimización de Funciones]] Aplicaciones prácticas del análisis completo
 >
-> [!quote] [[Funciones Racionales\|Funciones Racionales]] Casos específicos y técnicas especializadas
+> [!quote] [[Funciones Racionales]] Casos específicos y técnicas especializadas
 
 
 ---

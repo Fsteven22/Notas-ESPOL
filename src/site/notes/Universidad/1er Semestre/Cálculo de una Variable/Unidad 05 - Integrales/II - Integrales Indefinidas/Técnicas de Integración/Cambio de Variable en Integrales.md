@@ -283,10 +283,10 @@ graph TD
 
 > [!quote] 📚 Notas Relacionadas
 > 
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/II - Integrales Indefinidas/01 - Antiderivadas (Primitivas)\|01 - Antiderivadas (Primitivas)]] - Conceptos fundamentales
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/04 - Teorema Fundamental del Cálculo\|04 - Teorema Fundamental del Cálculo]] - Base teórica
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/II - Integrales Indefinidas/Técnicas de Integración/Integrales por Fracciones Parciales\|Integrales por Fracciones Parciales]] - Técnica complementaria
-> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/II - Integrales Indefinidas/Técnicas de Integración/Integración por Partes\|Integración por Partes]] - Siguiente técnica
+> - [[01 - Antiderivadas (Primitivas)]] - Conceptos fundamentales
+> - [[04 - Teorema Fundamental del Cálculo]] - Base teórica
+> - [[Integrales por Fracciones Parciales]] - Técnica complementaria
+> - [[Integración por Partes]] - Siguiente técnica
 
 ## 📖 Notas Recomendadas
 

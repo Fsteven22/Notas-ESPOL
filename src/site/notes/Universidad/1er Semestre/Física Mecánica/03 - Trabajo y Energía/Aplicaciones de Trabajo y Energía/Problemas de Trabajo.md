@@ -304,19 +304,19 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Trabajo y Energía\|Trabajo y Energía]] - Conceptos fundamentales
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Principio de energía\|Principio de energía]] - Base teórica
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Potencia y Gradiente de Potencial\|Potencia y Gradiente de Potencial]] - Extensiones del concepto
-> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Aplicaciones de Trabajo y Energía/Problemas de Conservación de Energía Mecánica\|Problemas de Conservación de Energía Mecánica]] - Aplicaciones complementarias
+> - [[Trabajo y Energía]] - Conceptos fundamentales
+> - [[Principio de energía]] - Base teórica
+> - [[Potencia y Gradiente de Potencial]] - Extensiones del concepto
+> - [[Problemas de Conservación de Energía Mecánica]] - Aplicaciones complementarias
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para producto escalar y componentes
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]] - Análisis de fuerzas
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Traslacional\|Cinemática Traslacional]] - Conceptos de desplazamiento
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Sistema internacional
+> - [[Vectores]] - Para producto escalar y componentes
+> - [[Leyes de Newton]] - Análisis de fuerzas
+> - [[Cinemática Traslacional]] - Conceptos de desplazamiento
+> - [[Unidades y Magnitudes Físicas]] - Sistema internacional
 
 ---
 

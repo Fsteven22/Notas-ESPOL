@@ -293,19 +293,19 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Rotacional\|Cinemática Rotacional]] - Fundamentos teóricos
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Aplicaciones de Cinemática Rotacional/Problemas con Gráficas Angulares (θ-t, ω-t, α-t)\|Problemas con Gráficas Angulares (θ-t, ω-t, α-t)]] - Análisis gráfico
-> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Momento de Inercia\|Momento de Inercia]] - Propiedades inerciales
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Práctica de Giroscopio\|Práctica de Giroscopio]] - Aplicación experimental
+> - [[Cinemática Rotacional]] - Fundamentos teóricos
+> - [[Problemas con Gráficas Angulares (θ-t, ω-t, α-t)]] - Análisis gráfico
+> - [[Momento de Inercia]] - Propiedades inerciales
+> - [[Práctica de Giroscopio]] - Aplicación experimental
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Sistema de unidades
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Conceptos vectoriales básicos
-> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Traslacional\|Cinemática Traslacional]] - Analogías con movimiento lineal
-> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Conocimientos Previos a las Prácticas\|Conocimientos Previos a las Prácticas]] - Conceptos fundamentales
+> - [[Unidades y Magnitudes Físicas]] - Sistema de unidades
+> - [[Vectores]] - Conceptos vectoriales básicos
+> - [[Cinemática Traslacional]] - Analogías con movimiento lineal
+> - [[Conocimientos Previos a las Prácticas]] - Conceptos fundamentales
 
 ---
 
