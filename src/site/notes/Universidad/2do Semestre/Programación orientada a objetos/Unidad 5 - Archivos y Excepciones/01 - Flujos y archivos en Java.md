@@ -21,7 +21,6 @@
 > graph LR
 >     A[📁 Origen<br/>Archivo] -->|Flujo de entrada| B[☕ Programa<br/>Java]
 >     B -->|Flujo de salida| C[📄 Destino<br/>Archivo]
->     
 >     style A fill:#e1f5ff
 >     style B fill:#fff4e1
 >     style C fill:#e1ffe1
@@ -77,36 +76,29 @@ graph TB
 >         +read() int
 >         +close()
 >     }
->     
 >     class OutputStream {
 >         <<abstract>>
 >         +write(int)
 >         +flush()
 >         +close()
 >     }
->     
 >     class Reader {
 >         <<abstract>>
 >         +read() int
 >         +close()
 >     }
->     
 >     class Writer {
 >         <<abstract>>
 >         +write(int)
 >         +flush()
 >         +close()
 >     }
->     
 >     InputStream <|-- FileInputStream
 >     InputStream <|-- BufferedInputStream
->     
 >     OutputStream <|-- FileOutputStream
 >     OutputStream <|-- BufferedOutputStream
->     
 >     Reader <|-- FileReader
 >     Reader <|-- BufferedReader
->     
 >     Writer <|-- FileWriter
 >     Writer <|-- BufferedWriter
 > ```
@@ -180,7 +172,6 @@ graph TB
 > graph LR
 >     A[FileReader<br/>Lectura básica] --> B[BufferedReader<br/>+ Buffer]
 >     B --> C[Tu Programa<br/>readLine]
->     
 >     style A fill:#ffe1e1
 >     style B fill:#fff4e1
 >     style C fill:#e1ffe1
@@ -258,7 +249,6 @@ graph TB
 >     B --> C{¿Cerrado?}
 >     C -->|❌ No| D[Fuga de recursos<br/>Archivos bloqueados]
 >     C -->|✅ Sí| E[Recursos liberados<br/>Todo OK]
->     
 >     style D fill:#ffe1e1
 >     style E fill:#e1ffe1
 > ```
@@ -282,16 +272,12 @@ graph TB
 > graph TD
 >     A{¿Tipo de<br/>archivo?} --> B[Texto]
 >     A --> C[Binario]
->     
 >     B --> D{¿Operación?}
 >     C --> E{¿Operación?}
->     
 >     D -->|Lectura| F[BufferedReader +<br/>FileReader]
 >     D -->|Escritura| G[BufferedWriter +<br/>FileWriter]
->     
 >     E -->|Lectura| H[BufferedInputStream +<br/>FileInputStream]
 >     E -->|Escritura| I[BufferedOutputStream +<br/>FileOutputStream]
->     
 >     style F fill:#e1ffe1
 >     style G fill:#e1ffe1
 >     style H fill:#e1f5ff

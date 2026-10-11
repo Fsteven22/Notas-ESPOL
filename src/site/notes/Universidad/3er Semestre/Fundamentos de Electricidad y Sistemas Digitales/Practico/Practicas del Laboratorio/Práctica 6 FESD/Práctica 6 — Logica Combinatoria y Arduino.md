@@ -208,7 +208,7 @@
 
 ## 📄 Informe
 
-> Usa [FORMATO INFORME DE PRÁCTICA.pdf](/img/user/Universidad/3er%20Semestre/Fundamentos%20de%20Electricidad%20y%20Sistemas%20Digitales/Practico/Fundamentos%20del%20Laboratorio/FORMATO%20INFORME%20DE%20PR%C3%81CTICA.pdf) y [Formato Pre-prácticas.pdf](/img/user/Universidad/3er%20Semestre/Fundamentos%20de%20Electricidad%20y%20Sistemas%20Digitales/Practico/Fundamentos%20del%20Laboratorio/Formato%20Pre-pr%C3%A1cticas.pdf) para entregar. Simulaciones en Proteus.
+> Usa [[FORMATO INFORME DE PRÁCTICA.pdf]] y [[Formato Pre-prácticas.pdf]] para entregar. Simulaciones en Proteus.
 
 ## Metas de Aprendizaje
 
@@ -228,9 +228,9 @@
 > - [ ] Comparo ventajas y desventajas de controlar con compuertas lógicas vs Arduino en una aplicación real.
 >
 > [!quote] 🔗 Conexiones
-> - Teoría: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 4 - Sistemas Digitales/01 - Introducción a la Electrónica Digital\|01 - Introducción a la Electrónica Digital]], [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 4 - Sistemas Digitales/02 - Minimización de Funciones Lógicas\|02 - Minimización de Funciones Lógicas]] y [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/07 - Lógica fija y tablas de verdad\|07 - Lógica fija y tablas de verdad]]
-> - Previa: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Practico/Practicas del Laboratorio/Práctica 5 FESD/Práctica 5 — Filtros Activos\|Práctica 5 — Filtros Activos]]
-> - Equipos: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Practico/Fundamentos del Laboratorio/Equipos del Laboratorio - FESD\|Equipos del Laboratorio - FESD]]
+> - Teoría: [[01 - Introducción a la Electrónica Digital]], [[02 - Minimización de Funciones Lógicas]] y [[07 - Lógica fija y tablas de verdad]]
+> - Previa: [[Práctica 5 — Filtros Activos]]
+> - Equipos: [[Equipos del Laboratorio - FESD]]
 
 ---
 
@@ -238,5 +238,5 @@
 
 ## 📎 Guía oficial (Garden)
 
-<iframe src="/img/user/Universidad/3er%20Semestre/Fundamentos%20de%20Electricidad%20y%20Sistemas%20Digitales/Practico/Practicas%20del%20Laboratorio/Pr%C3%A1ctica%206%20FESD/Practica__6_FESD.pdf" width="100%" height="900px" title="Practica__6_FESD.pdf" style="border:1px solid #ccc;"></iframe>
+![[Practica__6_FESD.pdf]]
 **Tags:** #practica #laboratorio #EYAG1037 #FESD #ESPOL #unidad4 #logica #Arduino #compuertas

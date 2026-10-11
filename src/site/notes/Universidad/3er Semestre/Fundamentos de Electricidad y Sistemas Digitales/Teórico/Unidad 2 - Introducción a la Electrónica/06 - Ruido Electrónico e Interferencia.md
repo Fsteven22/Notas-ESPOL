@@ -40,7 +40,7 @@
 >
 > [!note] 🎯 Ruido de disparo (Shot noise)
 > 
-> Aparece en uniones semiconductoras (diodos, transistores) por la naturaleza discreta de los portadores de carga al cruzar una barrera de potencial (como la unión P-N vista en [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/02 - El Diodo - Unión P-N\|02 - El Diodo - Unión P-N]]). Es proporcional a la raíz de la corriente CD que atraviesa el dispositivo.
+> Aparece en uniones semiconductoras (diodos, transistores) por la naturaleza discreta de los portadores de carga al cruzar una barrera de potencial (como la unión P-N vista en [[02 - El Diodo - Unión P-N]]). Es proporcional a la raíz de la corriente CD que atraviesa el dispositivo.
 >
 > [!note] 🔀 Ruido flicker (ruido 1/f)
 > 
@@ -87,20 +87,20 @@
 > |Técnica|Componente|Qué logra|
 > |---|---|---|
 > |**Desacople (decoupling)**|Capacitor cerámico cerca de cada IC|Absorbe picos de corriente de conmutación antes de que se propaguen|
-> |**Filtro de línea**|LPF pasivo (ver [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/04 - Circuitos de Filtrado y Fuentes Lineales\|04 - Circuitos de Filtrado y Fuentes Lineales]])|Atenúa ruido de alta frecuencia conducido por la alimentación|
+> |**Filtro de línea**|LPF pasivo (ver [[04 - Circuitos de Filtrado y Fuentes Lineales]])|Atenúa ruido de alta frecuencia conducido por la alimentación|
 > |**Diodo Zener / TVS**|Diodo en polarización inversa|Recorta (clamping) picos de voltaje transitorios que superan un umbral|
 > |**Optoacoplador**|LED + fototransistor|Aísla galvánicamente dos circuitos, evitando lazos de tierra comunes|
 > |**Ferrite bead / bobina de choque**|Núcleo de ferrita en serie|Atenúa ruido de alta frecuencia sin afectar la CD|
 > |**Blindaje (shielding)**|Malla o carcasa conductora conectada a tierra|Bloquea acoplamiento capacitivo e inductivo externo|
 > |**Cable trenzado (twisted pair)**|Par de conductores entrelazados|Cancela el acoplamiento inductivo entre ambos conductores|
 > 
-> > 📌 Muchas de estas técnicas ya las conoces de unidades anteriores: el diodo Zener regulador de [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/05 - Reguladores en Fuentes Lineales\|05 - Reguladores en Fuentes Lineales]] y el filtro capacitivo de la fuente lineal cumplen, de hecho, una función de reducción de ruido además de su función original.
+> > 📌 Muchas de estas técnicas ya las conoces de unidades anteriores: el diodo Zener regulador de [[05 - Reguladores en Fuentes Lineales]] y el filtro capacitivo de la fuente lineal cumplen, de hecho, una función de reducción de ruido además de su función original.
 >
 > [!note] 🔁 Adelanto: rechazo de modo común
 > 
 > Una de las técnicas más potentes contra el ruido —sobre todo el que se acopla igual a dos líneas de señal— es amplificar solo la **diferencia** entre dos entradas y rechazar lo que sea común a ambas (modo común). Esto se logra con un **amplificador diferencial** basado en amplificadores operacionales, tema que se profundiza en la Unidad 3 (Aplicaciones de los OPAMs — Minimización de ruido).
 
-![ChatGPT Image 22 jul 2026, 13_11_08.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2022%20jul%202026,%2013_11_08.png)
+![[ChatGPT Image 22 jul 2026, 13_11_08.png]]
 
 ---
 
@@ -177,9 +177,9 @@ mindmap
 >
 > [!quote] 🔗 Conexiones
 > 
-> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/04 - Circuitos de Filtrado y Fuentes Lineales\|04 - Circuitos de Filtrado y Fuentes Lineales]] — el filtro capacitivo y los conceptos de LPF/HPF ya vistos son la base de varias técnicas de mitigación de ruido.
-> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/05 - Reguladores en Fuentes Lineales\|05 - Reguladores en Fuentes Lineales]] — el diodo Zener regulador reaparece aquí como elemento de recorte de transitorios (TVS).
-> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/02 - El Diodo - Unión P-N\|02 - El Diodo - Unión P-N]] — el ruido de disparo (shot noise) se origina en la misma unión P-N estudiada ahí.
+> - [[04 - Circuitos de Filtrado y Fuentes Lineales]] — el filtro capacitivo y los conceptos de LPF/HPF ya vistos son la base de varias técnicas de mitigación de ruido.
+> - [[05 - Reguladores en Fuentes Lineales]] — el diodo Zener regulador reaparece aquí como elemento de recorte de transitorios (TVS).
+> - [[02 - El Diodo - Unión P-N]] — el ruido de disparo (shot noise) se origina en la misma unión P-N estudiada ahí.
 > - Siguiente tema (Unidad 3): Aplicaciones de los OPAMs para minimización de ruido — amplificador diferencial y rechazo de modo común.
 
 ---

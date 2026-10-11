@@ -25,11 +25,9 @@
 >     B -->|Colecciones| C[❌ ArrayList int<br/>no funciona]
 >     B -->|Métodos genéricos| D[❌ No se puede<br/>usar int]
 >     B -->|Parámetros null| E[❌ Primitivos no<br/>aceptan null]
->     
 >     C --> F[✅ ArrayList Integer<br/>SÍ funciona]
 >     D --> G[✅ Usar Integer<br/>como objeto]
 >     E --> H[✅ Integer puede<br/>ser null]
->     
 >     style C fill:#ffe1e1
 >     style D fill:#ffe1e1
 >     style E fill:#ffe1e1
@@ -86,10 +84,8 @@
 > flowchart LR
 >     A[int x = 5] -->|Autoboxing| B[Integer obj = x]
 >     B -->|Unboxing| C[int y = obj]
->     
 >     D[Primitivo] -.envuelve.-> E[Objeto]
 >     E -.desenvuelve.-> F[Primitivo]
->     
 >     style A fill:#e1f5ff
 >     style B fill:#fff4e1
 >     style C fill:#e1f5ff
@@ -204,11 +200,8 @@
 >     A[Integer.valueOf 100] --> B{¿Valor en<br/>caché?}
 >     B -->|Sí -128 a 127| C[Retornar objeto<br/>del caché]
 >     B -->|No > 127 o < -128| D[Crear nuevo<br/>objeto]
->     
 >     E[Integer a = 100<br/>Integer b = 100] --> F[a == b<br/>✅ true]
->     
 >     G[Integer c = 200<br/>Integer d = 200] --> H[c == d<br/>❌ false]
->     
 >     style C fill:#e1ffe1
 >     style D fill:#fff4e1
 >     style F fill:#e1ffe1
@@ -292,16 +285,12 @@
 > graph TB
 >     A[String 123] -->|parseInt| B[int 123]
 >     A -->|valueOf| C[Integer 123]
->     
 >     B -->|autoboxing| C
 >     C -->|unboxing| B
->     
 >     B -->|toString| D[String 123]
 >     C -->|toString| D
->     
 >     C -->|intValue| B
 >     C -->|doubleValue| E[double 123.0]
->     
 >     style A fill:#e1f5ff
 >     style B fill:#fff4e1
 >     style C fill:#ffe1e1
@@ -464,15 +453,12 @@
 >         A[Integer a = 100] --> C[Objeto: 100<br/>en caché]
 >         B[Integer b = 100] --> C
 >     end
->     
 >     subgraph "Valores fuera de caché"
 >         D[Integer c = 200] --> F[Objeto 1: 200]
 >         E[Integer d = 200] --> G[Objeto 2: 200]
 >     end
->     
 >     H[a == b] --> I[✅ true<br/>misma referencia]
 >     J[c == d] --> K[❌ false<br/>diferentes referencias]
->     
 >     style I fill:#e1ffe1
 >     style K fill:#ffe1e1
 > ```
@@ -660,12 +646,10 @@
 >     A --> C[Colecciones<br/>ArrayList, HashMap]
 >     A --> D[Puede ser null]
 >     A --> E[Métodos de utilidad<br/>parseInt, etc]
->     
 >     B --> F[✅ Usar primitivo<br/>mejor rendimiento]
 >     C --> G[✅ Usar Wrapper<br/>única opción]
 >     D --> G
 >     E --> G
->     
 >     style F fill:#e1ffe1
 >     style G fill:#fff4e1
 > ```
@@ -825,7 +809,6 @@ mindmap
 ````
 
 > [!quote] 🎓 Puntos Clave para Recordar
-> 
 > ✅ **Wrappers = objetos** que envuelven tipos primitivos  
 > ✅ **Autoboxing/Unboxing** - conversión automática desde Java 5  
 > ✅ **Necesarios en colecciones** - `ArrayList<Integer>`, no `ArrayList<int>`  

@@ -736,13 +736,11 @@ graph TB
 > ```mermaid
 > classDiagram
 >     Persona <|-- Empleado
->     
 >     class Persona {
 >         -nombre: String
 >         -edad: int
 >         +getNombre(): String
 >     }
->     
 >     class Empleado {
 >         -salario: double
 >         -puesto: String
@@ -771,23 +769,19 @@ graph TB
 >     Persona <|-- Empleado
 >     Empleado <|-- Gerente
 >     Gerente <|-- GerenteGeneral
->     
 >     class Persona {
 >         #nombre: String
 >         #edad: int
 >     }
->     
 >     class Empleado {
 >         #salarioBase: double
 >         +trabajar(): void
 >     }
->     
 >     class Gerente {
 >         -departamento: String
 >         -bono: double
 >         +gestionarEquipo(): void
 >     }
->     
 >     class GerenteGeneral {
 >         -empresas: List~String~
 >         +dirigirEmpresa(): void
@@ -836,32 +830,27 @@ graph TB
 >     Empleado <|-- Vendedor
 >     Empleado <|-- Programador
 >     Empleado <|-- Diseñador
->     
 >     class Empleado {
 >         #nombre: String
 >         #salarioBase: double
 >         +calcularSalario(): double
 >         +trabajar(): void
 >     }
->     
 >     class Gerente {
 >         -departamento: String
 >         -bono: double
 >         +gestionarEquipo(): void
 >     }
->     
 >     class Vendedor {
 >         -zona: String
 >         -comision: double
 >         +realizarVenta(): void
 >     }
->     
 >     class Programador {
 >         -lenguajes: List~String~
 >         -proyecto: String
 >         +programar(): void
 >     }
->     
 >     class Diseñador {
 >         -especialidad: String
 >         -herramientas: List~String~

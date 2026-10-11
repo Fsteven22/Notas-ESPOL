@@ -18,8 +18,6 @@
 >     A --> D[Diferencia −]
 >     A --> E[Complemento Xᶜ]
 >     A --> F[Producto Cartesiano ×]
->
-> 
 > ```
 >
 > | Operación | Símbolo | Descripción breve |
@@ -122,7 +120,7 @@
 >
 > > [!tip]- 💡 Observación
 > >
-> > El [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/03 - Leyes de Conjuntos\|complemento de un conjunto]] **depende del universo** $U$ con el que se trabaje. Si $U$ cambia, $A^c$ también cambia.
+> > El [[03 - Leyes de Conjuntos|complemento de un conjunto]] **depende del universo** $U$ con el que se trabaje. Si $U$ cambia, $A^c$ también cambia.
 
 ---
 

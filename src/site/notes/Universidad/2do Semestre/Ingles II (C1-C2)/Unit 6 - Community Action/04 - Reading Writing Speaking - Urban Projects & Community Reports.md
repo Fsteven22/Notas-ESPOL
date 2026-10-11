@@ -18,10 +18,8 @@
 > graph TD
 >     A["Reading, Writing & Speaking<br/>Unit 6"] --> B["Painting Safer Streets"]
 >     A --> C["Your Urban Art Project"]
-> 
 >     B --> D["Intersection Repair (Portland)<br/>Verde Vertical (CDMX)"]
 >     C --> E["Morrinho Art Project<br/>Research · Decide · Present"]
-> 
 >     style B fill:#e8eaf6
 >     style C fill:#e0f7fa
 > ```
@@ -238,9 +236,9 @@ graph TD
 >
 > [!quote] 🔗 Conexiones
 > 
-> - [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 6 - Community Action/01 - Vocabulary & Use - Discussing Good Works & Describing Good Deeds\|01 - Vocabulary & Use - Discussing Good Works & Describing Good Deeds]]
-> - [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 6 - Community Action/02 - Grammar & Examples - Present Past Passive & Passive with Modals\|02 - Grammar & Examples - Present Past Passive & Passive with Modals]]
-> - [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 6 - Community Action/03 - Functional Language & Pronunciation - Offering Refusing Help & Consonant Sounds\|03 - Functional Language & Pronunciation - Offering Refusing Help & Consonant Sounds]]
+> - [[01 - Vocabulary & Use - Discussing Good Works & Describing Good Deeds]]
+> - [[02 - Grammar & Examples - Present Past Passive & Passive with Modals]]
+> - [[03 - Functional Language & Pronunciation - Offering Refusing Help & Consonant Sounds]]
 
 ---
 

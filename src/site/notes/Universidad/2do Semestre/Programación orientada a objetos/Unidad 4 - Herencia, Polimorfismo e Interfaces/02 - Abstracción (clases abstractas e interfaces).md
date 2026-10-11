@@ -56,15 +56,12 @@ graph TB
 > graph LR
 >     A[Abstracción] --> B[Clases Abstractas]
 >     A --> C[Interfaces]
->     
 >     B --> D[Herencia simple]
 >     B --> E[Puede tener estado]
 >     B --> F[Métodos concretos + abstractos]
->     
 >     C --> G[Herencia múltiple]
 >     C --> H[Solo constantes]
 >     C --> I[Solo métodos abstractos*]
->     
 >     style B fill:#fff4e1
 >     style C fill:#e1ffe1
 > ```
@@ -483,12 +480,10 @@ graph TB
 >     A --> C[Mantener estado]
 >     A --> D[Control de acceso]
 >     A --> E[Constructores]
->     
 >     B --> F[✅ Clase Abstracta]
 >     C --> F
 >     D --> F
 >     E --> F
->     
 >     style F fill:#fff4e1
 > ```
 > 
@@ -508,12 +503,10 @@ graph TB
 >     A --> C[Capacidades compartidas]
 >     A --> D[Clases no relacionadas]
 >     A --> E[Contrato puro]
->     
 >     B --> F[✅ Interfaz]
 >     C --> F
 >     D --> F
 >     E --> F
->     
 >     style F fill:#e1ffe1
 > ```
 > 
@@ -759,7 +752,6 @@ graph TB
 >     A[¿Necesitas abstraer?] --> B{¿Relación ES-UN<br/>verdadera?}
 >     B -->|Sí| C[✅ Usar herencia]
 >     B -->|No| D[✅ Usar composición]
->     
 >     style C fill:#e1ffe1
 >     style D fill:#e1ffe1
 > ```

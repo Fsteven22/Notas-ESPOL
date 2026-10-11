@@ -102,7 +102,7 @@
 > 
 > > 📌 **Regla práctica:** diodo ideal en directa = interruptor cerrado; en inversa = interruptor abierto.
 
-![ChatGPT Image 20 jun 2026, 21_45_03.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2020%20jun%202026,%2021_45_03.png)
+![[ChatGPT Image 20 jun 2026, 21_45_03.png]]
 
 ---
 
@@ -193,14 +193,14 @@ mindmap
 >
 > [!quote] 🔗 Conexiones
 > 
-> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/01 - Semiconductores y Bandas de Energía\|01 - Semiconductores y Bandas de Energía]] — fundamento de la unión P-N.
-> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/03 - Transistor BJT\|03 - Transistor BJT]] — dos uniones P-N combinadas forman el transistor.
+> - [[01 - Semiconductores y Bandas de Energía]] — fundamento de la unión P-N.
+> - [[03 - Transistor BJT]] — dos uniones P-N combinadas forman el transistor.
 >
 >
 > [!quote] 🔗 Conexiones
-> - Previo: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/01 - Semiconductores y Bandas de Energía\|01 - Semiconductores y Bandas de Energía]] — base fisica
-> - Siguiente: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/03 - Transistor BJT\|03 - Transistor BJT]] — dos uniones P-N
-> - Adelante: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/06 - Ruido Electrónico e Interferencia\|06 - Ruido Electrónico e Interferencia]] y [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/04 - Circuitos de Filtrado y Fuentes Lineales\|04 - Circuitos de Filtrado y Fuentes Lineales]]
+> - Previo: [[01 - Semiconductores y Bandas de Energía]] — base fisica
+> - Siguiente: [[03 - Transistor BJT]] — dos uniones P-N
+> - Adelante: [[06 - Ruido Electrónico e Interferencia]] y [[04 - Circuitos de Filtrado y Fuentes Lineales]]
 
 ---
 

@@ -184,7 +184,7 @@
 > |**Rampa / doble rampa**|Cuenta el tiempo que tarda una rampa en alcanzar la señal|Baja|Baja (pero muy precisa)|
 > |**Sigma-Delta**|Sobremuestreo + filtrado digital|Baja-media|Alta precisión, buena para audio/instrumentación|
 
-![ChatGPT Image 22 jul 2026, 13_41_51.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2022%20jul%202026,%2013_41_51.png)
+![[ChatGPT Image 22 jul 2026, 13_41_51.png]]
 
 ---
 
@@ -291,9 +291,9 @@ mindmap
 >
 > [!quote] 🔗 Conexiones
 > 
-> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/02 - Aplicaciones de los OPAMs - Minimización de Ruido\|02 - Aplicaciones de los OPAMs - Minimización de Ruido]] → [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/03 - Configuraciones Lineales Básicas del OPAM\|03 - Configuraciones Lineales Básicas del OPAM]] → [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/04 - Integrador, Derivador y Circuitos No Lineales\|04 - Integrador, Derivador y Circuitos No Lineales]] → [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/05 - Ejercicios Resueltos y de Oposición\|05 - Ejercicios Resueltos y de Oposición]] — bloque completo de OPAMs del PDF EjREsAmpOp.
-> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/01 - CI no programables\|01 - CI no programables]] — fundamento de los CI usados aquí.
-> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/07 - Lógica fija y tablas de verdad\|07 - Lógica fija y tablas de verdad]] — siguiente tema de la unidad: lógica digital fija (el biestable comparte la idea de "enclavamiento" con los flip-flops que se ven más adelante en Unidad 4).
+> - [[02 - Aplicaciones de los OPAMs - Minimización de Ruido]] → [[03 - Configuraciones Lineales Básicas del OPAM]] → [[04 - Integrador, Derivador y Circuitos No Lineales]] → [[05 - Ejercicios Resueltos y de Oposición]] — bloque completo de OPAMs del PDF EjREsAmpOp.
+> - [[01 - CI no programables]] — fundamento de los CI usados aquí.
+> - [[07 - Lógica fija y tablas de verdad]] — siguiente tema de la unidad: lógica digital fija (el biestable comparte la idea de "enclavamiento" con los flip-flops que se ven más adelante en Unidad 4).
 
 ---
 

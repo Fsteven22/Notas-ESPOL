@@ -19,10 +19,8 @@
 > graph TD
 >     A["Functional Language<br/>& Pronunciation — Unit 6"] --> B["Offering/Refusing/Accepting Help"]
 >     A --> C["Pronunciation"]
-> 
 >     B --> D["Let me... / I can manage<br/>I insist / Imposing on somebody"]
 >     C --> E["/b/ vs /v/<br/>Conexión con /j/"]
-> 
 >     style B fill:#e8eaf6
 >     style C fill:#e0f7fa
 > ```
@@ -244,9 +242,9 @@ graph TD
 >
 > [!quote] 🔗 Conexiones
 > 
-> - [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 6 - Community Action/01 - Vocabulary & Use - Discussing Good Works & Describing Good Deeds\|01 - Vocabulary & Use - Discussing Good Works & Describing Good Deeds]]
-> - [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 6 - Community Action/02 - Grammar & Examples - Present Past Passive & Passive with Modals\|02 - Grammar & Examples - Present Past Passive & Passive with Modals]]
-> - [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 6 - Community Action/04 - Reading Writing Speaking - Urban Projects & Community Reports\|04 - Reading Writing Speaking - Urban Projects & Community Reports]]
+> - [[01 - Vocabulary & Use - Discussing Good Works & Describing Good Deeds]]
+> - [[02 - Grammar & Examples - Present Past Passive & Passive with Modals]]
+> - [[04 - Reading Writing Speaking - Urban Projects & Community Reports]]
 
 ---
 

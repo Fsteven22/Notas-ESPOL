@@ -75,7 +75,6 @@
 >     A --> D[Unit 3<br>Human Relations]
 >     A --> E[Unit 4<br>Personalities]
 >     A --> F[Unit 5<br>The Environment]
->
 >     style B fill:#e1f5ff
 >     style C fill:#e1ffe1
 >     style D fill:#fff4e1

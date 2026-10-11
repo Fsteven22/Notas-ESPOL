@@ -56,11 +56,9 @@ graph LR
 >     A[Clase: Estudiante] --> B[Objeto: Juan]
 >     A --> C[Objeto: María]
 >     A --> D[Objeto: Pedro]
->     
 >     B --> B1[nombre: Juan<br/>edad: 20<br/>carrera: Ingeniería]
 >     C --> C1[nombre: María<br/>edad: 19<br/>carrera: Medicina]
 >     D --> D1[nombre: Pedro<br/>edad: 21<br/>carrera: Derecho]
->     
 >     style A fill:#fff4e1
 >     style B fill:#e1ffe1
 >     style C fill:#e1ffe1
@@ -247,7 +245,6 @@ graph LR
 >     C --> F[Objeto<br/>Inicializado]
 >     D --> F
 >     E --> F
->     
 >     style A fill:#e1f5ff
 >     style B fill:#fff4e1
 >     style F fill:#e1ffe1
@@ -334,7 +331,6 @@ graph LR
 > classDiagram
 >     Vehiculo <|-- Auto
 >     Vehiculo <|-- Moto
->     
 >     class Vehiculo {
 >         -String marca
 >         -String modelo
@@ -342,12 +338,10 @@ graph LR
 >         +encender()
 >         +apagar()
 >     }
->     
 >     class Auto {
 >         -int numPuertas
 >         +abrirMaletero()
 >     }
->     
 >     class Moto {
 >         -String tipoManubrio
 >         +hacerCaballito()

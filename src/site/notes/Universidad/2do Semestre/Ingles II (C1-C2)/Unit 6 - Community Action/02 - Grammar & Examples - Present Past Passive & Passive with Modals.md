@@ -18,10 +18,8 @@
 > graph TD
 >     A["Grammar & Examples<br/>Unit 6"] --> B["Present/Past Passive"]
 >     A --> C["Passive with Modals"]
-> 
 >     B --> D["is/are + participio<br/>was/were + participio"]
 >     C --> E["modal + be + participio<br/>can/might/must/will"]
-> 
 >     style B fill:#e8eaf6
 >     style C fill:#e0f7fa
 > ```
@@ -225,9 +223,9 @@ graph TD
 >
 > [!quote] 🔗 Conexiones
 > 
-> - [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 6 - Community Action/01 - Vocabulary & Use - Discussing Good Works & Describing Good Deeds\|01 - Vocabulary & Use - Discussing Good Works & Describing Good Deeds]]
-> - [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 6 - Community Action/03 - Functional Language & Pronunciation - Offering Refusing Help & Consonant Sounds\|03 - Functional Language & Pronunciation - Offering Refusing Help & Consonant Sounds]]
-> - [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 6 - Community Action/04 - Reading Writing Speaking - Urban Projects & Community Reports\|04 - Reading Writing Speaking - Urban Projects & Community Reports]]
+> - [[01 - Vocabulary & Use - Discussing Good Works & Describing Good Deeds]]
+> - [[03 - Functional Language & Pronunciation - Offering Refusing Help & Consonant Sounds]]
+> - [[04 - Reading Writing Speaking - Urban Projects & Community Reports]]
 
 ---
 

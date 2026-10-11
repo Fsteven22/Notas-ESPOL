@@ -145,7 +145,7 @@
 
 ## 📄 Informe
 
-> Usa [FORMATO INFORME DE PRÁCTICA.pdf](/img/user/Universidad/3er%20Semestre/Fundamentos%20de%20Electricidad%20y%20Sistemas%20Digitales/Practico/Fundamentos%20del%20Laboratorio/FORMATO%20INFORME%20DE%20PR%C3%81CTICA.pdf) y [Formato Pre-prácticas.pdf](/img/user/Universidad/3er%20Semestre/Fundamentos%20de%20Electricidad%20y%20Sistemas%20Digitales/Practico/Fundamentos%20del%20Laboratorio/Formato%20Pre-pr%C3%A1cticas.pdf) para entregar.
+> Usa [[FORMATO INFORME DE PRÁCTICA.pdf]] y [[Formato Pre-prácticas.pdf]] para entregar.
 
 ## Metas de Aprendizaje
 
@@ -165,9 +165,9 @@
 > - [ ] Identifico en qué condiciones el LM7805 puede dañarse (caída de tensión excesiva sin carga adecuada).
 >
 > [!quote] 🔗 Conexiones
-> - Teoría: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/02 - El Diodo - Unión P-N\|02 - El Diodo - Unión P-N]], [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/04 - Circuitos de Filtrado y Fuentes Lineales\|04 - Circuitos de Filtrado y Fuentes Lineales]] y [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/05 - Reguladores en Fuentes Lineales\|05 - Reguladores en Fuentes Lineales]]
-> - Previa: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Practico/Practicas del Laboratorio/Práctica 3 FESD/Práctica 3 — Diodos y Transistores\|Práctica 3 — Diodos y Transistores]]
-> - Siguiente: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Practico/Practicas del Laboratorio/Práctica 5 FESD/Práctica 5 — Filtros Activos\|Práctica 5 — Filtros Activos]]
+> - Teoría: [[02 - El Diodo - Unión P-N]], [[04 - Circuitos de Filtrado y Fuentes Lineales]] y [[05 - Reguladores en Fuentes Lineales]]
+> - Previa: [[Práctica 3 — Diodos y Transistores]]
+> - Siguiente: [[Práctica 5 — Filtros Activos]]
 
 ---
 
@@ -175,5 +175,5 @@
 
 ## 📎 Guía oficial (Garden)
 
-[[Práctica # 4Funcionamiento de Fuentes Lineales.pdf\|Práctica # 4Funcionamiento de Fuentes Lineales.pdf]]
+![[Práctica # 4Funcionamiento de Fuentes Lineales.pdf]]
 **Tags:** #practica #laboratorio #EYAG1037 #FESD #ESPOL #unidad2 #fuentesLineales #LM7805 #rectificador

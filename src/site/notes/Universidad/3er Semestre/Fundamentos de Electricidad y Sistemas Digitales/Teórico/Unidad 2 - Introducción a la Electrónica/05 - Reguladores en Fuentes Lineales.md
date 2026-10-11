@@ -82,7 +82,7 @@
 > |**Flexibilidad**|Baja (un valor por IC)|Alta (un solo IC sirve para varios voltajes)|
 > |**Uso típico**|Voltajes estándar conocidos (5V, 12V, etc.)|Prototipos, fuentes de banco, voltajes no estándar|
 
-![ChatGPT Image 22 jul 2026, 12_37_04.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2022%20jul%202026,%2012_37_04.png)
+![[ChatGPT Image 22 jul 2026, 12_37_04.png]]
 
 ---
 
@@ -152,14 +152,14 @@ mindmap
 >
 > [!quote] 🔗 Conexiones
 > 
-> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/04 - Circuitos de Filtrado y Fuentes Lineales\|04 - Circuitos de Filtrado y Fuentes Lineales]] — etapas previas de la fuente lineal (transformador, rectificador, filtro capacitivo) que entregan el voltaje que este regulador estabiliza.
-> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/02 - El Diodo - Unión P-N\|02 - El Diodo - Unión P-N]] — el diodo Zener, mencionado como alternativa sencilla de regulación, es una aplicación de la unión PN en polarización inversa.
+> - [[04 - Circuitos de Filtrado y Fuentes Lineales]] — etapas previas de la fuente lineal (transformador, rectificador, filtro capacitivo) que entregan el voltaje que este regulador estabiliza.
+> - [[02 - El Diodo - Unión P-N]] — el diodo Zener, mencionado como alternativa sencilla de regulación, es una aplicación de la unión PN en polarización inversa.
 >
 >
 > [!quote] 🔗 Conexiones
-> - Previo: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/04 - Circuitos de Filtrado y Fuentes Lineales\|04 - Circuitos de Filtrado y Fuentes Lineales]] — rizado que regula
-> - Siguiente: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/06 - Ruido Electrónico e Interferencia\|06 - Ruido Electrónico e Interferencia]] — lo que filtra
-> - Adelante: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/01 - CI no programables\|01 - CI no programables]] — el 7805 como CI
+> - Previo: [[04 - Circuitos de Filtrado y Fuentes Lineales]] — rizado que regula
+> - Siguiente: [[06 - Ruido Electrónico e Interferencia]] — lo que filtra
+> - Adelante: [[01 - CI no programables]] — el 7805 como CI
 
 ---
 

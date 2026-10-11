@@ -252,9 +252,9 @@ graph TD
 >
 > [!quote] 🔗 Conexiones
 > 
-> - [[01 - Vocabulary & Use - Describing Stories & Making Breaking Plans\|01 - Vocabulary & Use - Describing Stories & Making Breaking Plans]]
-> - [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 5 - True Stories/02 - Grammar & Examples - Past Perfect & Was Were Going To\|02 - Grammar & Examples - Past Perfect & Was Were Going To]]
-> - [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 5 - True Stories/03 - Functional Language & Pronunciation - Reacting to Problems & Final Consonants\|03 - Functional Language & Pronunciation - Reacting to Problems & Final Consonants]]
+> - [[01 - Vocabulary & Use - Describing Stories & Making Breaking Plans]]
+> - [[02 - Grammar & Examples - Past Perfect & Was Were Going To]]
+> - [[03 - Functional Language & Pronunciation - Reacting to Problems & Final Consonants]]
 
 ---
 

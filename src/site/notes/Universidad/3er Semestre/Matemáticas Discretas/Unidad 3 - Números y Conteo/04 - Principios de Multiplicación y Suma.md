@@ -47,7 +47,7 @@
 > 
 > **¿Cuántas cadenas de longitud 4 se pueden formar con las letras ABCDE sin repeticiones?**
 > 
-> Construimos la [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/04 - Sucesiones y Cadenas\|cadena]] en 4 pasos sucesivos:
+> Construimos la [[04 - Sucesiones y Cadenas|cadena]] en 4 pasos sucesivos:
 > 
 > |Posición|Opciones disponibles|Razón|
 > |---|---|---|
@@ -218,8 +218,8 @@ graph LR
 
 
 > [!quote] 🔗 Conexiones
-> - Previo: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/03 - Criterios de Divisibilidad y Sistemas de Numeración\|03 - Criterios de Divisibilidad y Sistemas de Numeración]]
-> - Siguiente: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/05 - Permutaciones y Combinaciones\|05 - Permutaciones y Combinaciones]] — conteo avanzado
-> - Relacionado: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/04 - Cardinalidad y Leyes de Cardinalidad\|04 - Cardinalidad y Leyes de Cardinalidad]] — inclusión-exclusión
+> - Previo: [[03 - Criterios de Divisibilidad y Sistemas de Numeración]]
+> - Siguiente: [[05 - Permutaciones y Combinaciones]] — conteo avanzado
+> - Relacionado: [[04 - Cardinalidad y Leyes de Cardinalidad]] — inclusión-exclusión
 
 **Tags:** #matematicas-discretas #conteo #combinatoria #principio-multiplicacion #principio-suma #MATG1051

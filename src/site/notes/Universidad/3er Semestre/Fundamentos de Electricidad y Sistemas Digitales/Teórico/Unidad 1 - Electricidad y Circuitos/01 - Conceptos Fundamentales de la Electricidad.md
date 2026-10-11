@@ -68,7 +68,7 @@
 > 
 > Donde $n$ es el número de electrones y $e = 1.6 \times 10^{-19}$ C.
 
-![Pasted image 20260519222355.png](/img/user/Universidad/Figuras/Pasted%20image%2020260519222355.png)
+![[Pasted image 20260519222355.png]]
 
 ---
 
@@ -162,7 +162,7 @@
 > 
 > Cuando se tienen dos placas paralelas cargadas, el campo eléctrico entre ellas es constante (uniforme): el vector $E$ no cambia de dirección ni de magnitud entre las placas.
 
-![Pasted image 20260519222513.png](/img/user/Universidad/Figuras/Pasted%20image%2020260519222513.png)
+![[Pasted image 20260519222513.png]]
 
 ---
 
@@ -315,8 +315,8 @@ mindmap
 > [5] R. L. Boylestad, _Introductory Circuit Analysis_, 13th ed. Hoboken, NJ, USA: Pearson, 2016, pp. 1–55.
 >
 > [!quote] 🔗 Conexiones
-> - Siguiente: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 1 - Electricidad y Circuitos/02 - Principios de Generacion de Energia Electrica\|02 - Principios de Generacion de Energia Electrica]] — de la carga al generador
-> - Relacionado: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 1 - Electricidad y Circuitos/03 - Elementos Basicos de un Circuito Electrico\|03 - Elementos Basicos de un Circuito Electrico]] y [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 1 - Electricidad y Circuitos/05 - Leyes de Ohm y Kirchhoff\|05 - Leyes de Ohm y Kirchhoff]] — aplicas Coulomb y campo en circuitos
+> - Siguiente: [[02 - Principios de Generacion de Energia Electrica]] — de la carga al generador
+> - Relacionado: [[03 - Elementos Basicos de un Circuito Electrico]] y [[05 - Leyes de Ohm y Kirchhoff]] — aplicas Coulomb y campo en circuitos
 
 ---
 

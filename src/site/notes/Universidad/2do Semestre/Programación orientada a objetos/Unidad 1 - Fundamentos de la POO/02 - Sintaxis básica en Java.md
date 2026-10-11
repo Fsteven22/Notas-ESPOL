@@ -95,9 +95,7 @@ graph LR
 >     D --> E[Atributos]
 >     D --> F[main]
 >     D --> G[Otros métodos]
->     
 >     F --> H[Inicio de<br/>ejecución]
->     
 >     style A fill:#e1f5ff
 >     style D fill:#fff4e1
 >     style F fill:#e1ffe1
@@ -251,7 +249,6 @@ graph LR
 >     A[Variable Primitiva] --> B[Valor directo<br/>en memoria]
 >     C[Variable de Referencia] --> D[Dirección<br/>de memoria]
 >     D --> E[Objeto real<br/>en heap]
->     
 >     style B fill:#e1ffe1
 >     style E fill:#fff4e1
 > ```

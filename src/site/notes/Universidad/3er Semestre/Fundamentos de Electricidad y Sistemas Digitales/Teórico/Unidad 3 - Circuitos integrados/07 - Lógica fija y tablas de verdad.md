@@ -114,7 +114,7 @@
 > |1|1|0|1|1|1|
 > |1|1|1|1|0|1|
 > 
-> > 📌 $S$ es 1 en 5 de las 8 combinaciones posibles — este tipo de tabla es el punto de partida para simplificar la función con Karnaugh o álgebra de Boole (ver [[Universidad/3er Semestre/Diseño de Software/Unidad 4 - Refactorización/00 - Índice Unidad 4\|00 - Índice Unidad 4]]).
+> > 📌 $S$ es 1 en 5 de las 8 combinaciones posibles — este tipo de tabla es el punto de partida para simplificar la función con Karnaugh o álgebra de Boole (ver [[00 - Índice Unidad 4]]).
 >
 > [!example]- ✏️ Ejercicio 2 — Circuito construido solo con NAND
 > 
@@ -126,7 +126,7 @@
 > |**2**|Aplicar una tercera NAND a las entradas invertidas: $S = NAND(\overline{A}, \overline{B})$|
 > |**3**|Verificación: $NAND(\overline{A},\overline{B}) = \overline{\overline{A}\cdot\overline{B}} = A + B$ (por la ley de De Morgan) ✅|
 
-![ChatGPT Image 18 ago 2026, 21_08_17.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2021_08_17.png)
+![[ChatGPT Image 18 ago 2026, 21_08_17.png]]
 
 ---
 
@@ -186,9 +186,9 @@ mindmap
 >
 > [!quote] 🔗 Conexiones
 > 
-> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/06 - Aplicaciones de Integrados 555 - ADC - PWM\|06 - Aplicaciones de Integrados 555 - ADC - PWM]] — tema previo de la unidad.
-> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/05 - Ejercicios Resueltos y de Oposición\|05 - Ejercicios Resueltos y de Oposición]] y [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/04 - Integrador, Derivador y Circuitos No Lineales\|04 - Integrador, Derivador y Circuitos No Lineales]] — bloque de OPAMs que antecede al 555.
-> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/01 - CI no programables\|01 - CI no programables]] — fundamento de los CI de lógica fija.
+> - [[06 - Aplicaciones de Integrados 555 - ADC - PWM]] — tema previo de la unidad.
+> - [[05 - Ejercicios Resueltos y de Oposición]] y [[04 - Integrador, Derivador y Circuitos No Lineales]] — bloque de OPAMs que antecede al 555.
+> - [[01 - CI no programables]] — fundamento de los CI de lógica fija.
 > - Unidad 4 — Fundamentos de sistemas digitales: introduce codificación, álgebra de Bool y minimización de funciones lógicas a partir de estas mismas tablas de verdad.
 
 ---

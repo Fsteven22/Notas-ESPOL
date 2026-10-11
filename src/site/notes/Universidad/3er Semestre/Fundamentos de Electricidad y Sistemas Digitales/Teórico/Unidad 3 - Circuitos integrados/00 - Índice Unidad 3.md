@@ -32,9 +32,9 @@ graph LR
 ```
 
 > [!quote] 🔗 Conexiones
-> - Previo: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/06 - Ruido Electrónico e Interferencia\|06 - Ruido Electrónico e Interferencia]] (Unidad 2)
-> - Siguiente: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 4 - Sistemas Digitales/01 - Introducción a la Electrónica Digital\|01 - Introducción a la Electrónica Digital]] (Unidad 4)
-> - MOC general: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Fundamentos de Electricidad y Sistemas Digitales\|Fundamentos de Electricidad y Sistemas Digitales]]
+> - Previo: [[06 - Ruido Electrónico e Interferencia]] (Unidad 2)
+> - Siguiente: [[01 - Introducción a la Electrónica Digital]] (Unidad 4)
+> - MOC general: [[Fundamentos de Electricidad y Sistemas Digitales]]
 
 ---
 **Tags:** #FESD #unidad3 #indice

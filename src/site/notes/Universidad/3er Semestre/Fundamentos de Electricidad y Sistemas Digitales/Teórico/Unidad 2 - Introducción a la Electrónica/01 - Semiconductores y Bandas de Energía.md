@@ -97,7 +97,7 @@
 > |**Semiconductor Ge**|$0.67\text{ eV}$|Más fácil de excitar que el Si|
 > |**Conductor**|$\approx 0$|Bandas solapadas, electrones libres siempre|
 
-![ChatGPT Image 14 jul 2026, 21_37_00.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2014%20jul%202026,%2021_37_00.png)
+![[ChatGPT Image 14 jul 2026, 21_37_00.png]]
 
 ---
 
@@ -148,7 +148,7 @@
 > 
 > > 💡 **Analogía del hueco:** es como un asiento vacío en un bus. El asiento no se mueve, pero cuando alguien lo ocupa deja otro vacío — la "ausencia" se desplaza.
 
-![ChatGPT Image 20 jun 2026, 21_36_55.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2020%20jun%202026,%2021_36_55.png)
+![[ChatGPT Image 20 jun 2026, 21_36_55.png]]
 
 ---
 
@@ -216,13 +216,13 @@ mindmap
 > 
 > Esta nota es la base conceptual para:
 > 
-> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/02 - El Diodo - Unión P-N\|02 - El Diodo - Unión P-N]] — la unión de un material tipo P con uno tipo N.
-> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/03 - Transistor BJT\|03 - Transistor BJT]] — dispositivo de tres terminales formado por dos uniones P-N.
+> - [[02 - El Diodo - Unión P-N]] — la unión de un material tipo P con uno tipo N.
+> - [[03 - Transistor BJT]] — dispositivo de tres terminales formado por dos uniones P-N.
 >
 >
 > [!quote] 🔗 Conexiones
-> - Siguiente: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/02 - El Diodo - Unión P-N\|02 - El Diodo - Unión P-N]] — union P-N
-> - Luego: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/03 - Transistor BJT\|03 - Transistor BJT]] y [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/04 - Circuitos de Filtrado y Fuentes Lineales\|04 - Circuitos de Filtrado y Fuentes Lineales]]
+> - Siguiente: [[02 - El Diodo - Unión P-N]] — union P-N
+> - Luego: [[03 - Transistor BJT]] y [[04 - Circuitos de Filtrado y Fuentes Lineales]]
 
 ---
 

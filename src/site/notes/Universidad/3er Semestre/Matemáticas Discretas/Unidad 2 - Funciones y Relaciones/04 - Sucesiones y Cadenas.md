@@ -18,7 +18,6 @@
 >     B --> D[Finita si A es finito]
 >     B --> E[Infinita si A es infinito]
 >     D --> F[Cadena sobre X]
-> 
 > ```
 
 ---
@@ -176,7 +175,7 @@
 
 ## 🔄 Recurrencias
 
-> [!note] 🔄 Definición — [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/01 - Relaciones de Recurrencia\|Relación de Recurrencia]]
+> [!note] 🔄 Definición — [[01 - Relaciones de Recurrencia|Relación de Recurrencia]]
 > 
 > Una **relación de recurrencia** para una sucesión $\{s_n\}$ es una ecuación que expresa $s_n$ en términos de uno o más términos anteriores de la misma sucesión.
 > 

@@ -25,13 +25,11 @@
 >     A --> C[Tipo HOMOGÉNEO: int]
 >     A --> D[Índices: 0 a 4]
 >     A --> E[Memoria CONTIGUA]
->     
 >     F[scores] --> G["[0] → 85"]
 >     F --> H["[1] → 92"]
 >     F --> I["[2] → 78"]
 >     F --> J["[3] → 90"]
 >     F --> K["[4] → 88"]
->     
 >     style A fill:#e1f5ff
 >     style B fill:#fff4e1
 >     style C fill:#fff4e1
@@ -174,12 +172,10 @@
 >     A[Crear arreglo] --> B{¿Conoces<br/>los valores?}
 >     B -->|Sí| C[Inicialización directa<br/>{v1, v2, v3}]
 >     B -->|No| D[new tipo tamaño]
->     
 >     D --> E{¿Llenar<br/>después?}
 >     E -->|Valor por valor| F[arr 0 = x<br/>arr 1 = y]
 >     E -->|Con patrón| G[Usar bucle for]
 >     E -->|Mismo valor| H[Arrays.fill]
->     
 >     style C fill:#e1ffe1
 >     style F fill:#e1f5ff
 >     style G fill:#e1f5ff
@@ -231,10 +227,8 @@
 >     A --> D["[2] Naranja"]
 >     A --> E["[3] Uva"]
 >     A --> F["[4] Pera"]
->     
 >     G[Índices válidos: 0 a 4] --> H["❌ frutas[5] → ERROR"]
 >     G --> I["❌ frutas[-1] → ERROR"]
->     
 >     style A fill:#e1f5ff
 >     style H fill:#ffe1e1
 >     style I fill:#ffe1e1
@@ -339,10 +333,8 @@
 >     A -->|No| C{¿Vas a modificar<br/>elementos?}
 >     C -->|Sí| B
 >     C -->|No| D[Usar for-each]
->     
 >     B --> E[for i = 0; i < arr.length]
 >     D --> F[for tipo elem : arr]
->     
 >     style D fill:#e1ffe1
 >     style B fill:#e1f5ff
 > ```
@@ -464,7 +456,6 @@
 > graph LR
 >     A[original] --> C[Memoria: 1,2,3,4,5]
 >     B[copia] --> C
->     
 >     style C fill:#ffe1e1
 > ```
 > 
@@ -621,11 +612,9 @@
 >     A["matriz[3][3]"] --> B["Fila 0"]
 >     A --> C["Fila 1"]
 >     A --> D["Fila 2"]
->     
 >     B --> E["[0][0]  [0][1]  [0][2]"]
 >     C --> F["[1][0]  [1][1]  [1][2]"]
 >     D --> G["[2][0]  [2][1]  [2][2]"]
->     
 >     style A fill:#e1f5ff
 > ```
 > 

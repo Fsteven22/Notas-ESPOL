@@ -19,7 +19,6 @@
 >     A --> E[Transitiva]
 >     B & C & E --> F[Relación de Equivalencia]
 >     B & D & E --> G[Relación de Orden Parcial]
-> 
 > ```
 
 ---

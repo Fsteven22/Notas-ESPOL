@@ -83,7 +83,6 @@
 >     C["q → p (Recíproco)"] <-->|"≡"| D["¬p → ¬q (Inverso)"]
 >     A -.-|"≢"| C
 >     A -.-|"≢"| D
->     
 > ```
 > 
 > > ✅ El original y su contrarrecíproco son **lógicamente equivalentes**.  
@@ -234,7 +233,7 @@
 > |Distributiva $\vee$ sobre $\wedge$|$p \vee (q \wedge r) \equiv (p \vee q) \wedge (p \vee r)$|
 > |Distributiva $\wedge$ sobre $\vee$|$p \wedge (q \vee r) \equiv (p \wedge q) \vee (p \wedge r)$|
 > 
-> ### [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/II - Álgebra Proposicional/01 - Algebra de Proposiciones\|Leyes de De Morgan]]
+> ### [[01 - Algebra de Proposiciones|Leyes de De Morgan]]
 > 
 > |Ley|Expresión|
 > |---|---|
@@ -324,7 +323,7 @@
 > |Nombre|Expresión|
 > |---|---|
 > |Tercio excluido|$p \vee \neg p$|
-> |[[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/III - Razonamiento Inductivo/01 - Reglas de Inferencia\|Modus Ponens]]|$(p \wedge (p \rightarrow q)) \rightarrow q$|
+> |[[01 - Reglas de Inferencia\|Modus Ponens]]|$(p \wedge (p \rightarrow q)) \rightarrow q$|
 > |Modus Tollens|$(\neg q \wedge (p \rightarrow q)) \rightarrow \neg p$|
 > |Silogismo hipotético|$((p \rightarrow q) \wedge (q \rightarrow r)) \rightarrow (p \rightarrow r)$|
 > |Adición|$p \rightarrow (p \vee q)$|

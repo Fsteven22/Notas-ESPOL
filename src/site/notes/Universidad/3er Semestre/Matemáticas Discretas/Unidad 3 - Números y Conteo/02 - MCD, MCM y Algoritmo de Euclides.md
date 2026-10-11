@@ -63,7 +63,7 @@
 > 
 > $$\text{mcd}(360,156) = 12$$
 > 
-> No necesitas factorizar nada ni buscar primos. Solo "divide, toma el residuo, baja una fila, repite". Es exactamente el mismo procedimiento que verás abajo en "⚙️ Algoritmo de Euclides", solo que aquí está sin el [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 6 - Lenguajes y Autómatas/02 - Autómatas de Estado Finito - Diseño y Aceptación de Cadenas\|lenguaje formal]] de $n = dq+r$.
+> No necesitas factorizar nada ni buscar primos. Solo "divide, toma el residuo, baja una fila, repite". Es exactamente el mismo procedimiento que verás abajo en "⚙️ Algoritmo de Euclides", solo que aquí está sin el [[02 - Autómatas de Estado Finito - Diseño y Aceptación de Cadenas|lenguaje formal]] de $n = dq+r$.
 > 
 > **Analogía para recordarlo:** imagina una regla de 360cm y otra de 156cm, y quieres la regla más chica posible que mida un número exacto de veces a ambas. La regla chica "cabe" un par de veces en la grande y sobra un pedazo (eso es la división). Repites el mismo juego con ese pedazo sobrante y la regla anterior. Cuando ya no sobra nada, la última medida que usaste es tu respuesta.
 
@@ -200,7 +200,7 @@
 > 
 > ### Principio del Buen Orden
 > 
-> **Teorema.** Todo [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/04 - Cardinalidad y Leyes de Cardinalidad\|Cardinalidad]] no vacío de enteros no negativos tiene un elemento mínimo.
+> **Teorema.** Todo [[04 - Cardinalidad y Leyes de Cardinalidad|Cardinalidad]] no vacío de enteros no negativos tiene un elemento mínimo.
 > 
 > Este axioma es equivalente a los principios de inducción y es la base teórica del Algoritmo de la División.
 > 
@@ -372,8 +372,8 @@ graph TD
 
 
 > [!quote] 🔗 Conexiones
-> - Previo: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/01 - Divisibilidad y Números Primos\|01 - Divisibilidad y Números Primos]] — divisibilidad
-> - Siguiente: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/03 - Criterios de Divisibilidad y Sistemas de Numeración\|03 - Criterios de Divisibilidad y Sistemas de Numeración]]
-> - Relacionado: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/04 - Principios de Multiplicación y Suma\|04 - Principios de Multiplicación y Suma]] — conteo
+> - Previo: [[01 - Divisibilidad y Números Primos]] — divisibilidad
+> - Siguiente: [[03 - Criterios de Divisibilidad y Sistemas de Numeración]]
+> - Relacionado: [[04 - Principios de Multiplicación y Suma]] — conteo
 
 **Tags:** #MCD #MCM #euclides #algoritmo #division #modulo #factorizacion #teoria-de-numeros #MATG1051 #unidad3 #ESPOL

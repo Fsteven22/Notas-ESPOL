@@ -157,7 +157,7 @@
 
 ## 📄 Informe
 
-> Usa [FORMATO INFORME DE PRÁCTICA.pdf](/img/user/Universidad/3er%20Semestre/Fundamentos%20de%20Electricidad%20y%20Sistemas%20Digitales/Practico/Fundamentos%20del%20Laboratorio/FORMATO%20INFORME%20DE%20PR%C3%81CTICA.pdf) y [Formato Pre-prácticas.pdf](/img/user/Universidad/3er%20Semestre/Fundamentos%20de%20Electricidad%20y%20Sistemas%20Digitales/Practico/Fundamentos%20del%20Laboratorio/Formato%20Pre-pr%C3%A1cticas.pdf) para entregar. Simulaciones en Proteus.
+> Usa [[FORMATO INFORME DE PRÁCTICA.pdf]] y [[Formato Pre-prácticas.pdf]] para entregar. Simulaciones en Proteus.
 
 ## Metas de Aprendizaje
 
@@ -177,9 +177,9 @@
 > - [ ] Relaciono el comportamiento del sensor de luz con la región de operación del BJT (corte vs saturación).
 >
 > [!quote] 🔗 Conexiones
-> - Teoría: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/01 - Semiconductores y Bandas de Energía\|01 - Semiconductores y Bandas de Energía]], [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/02 - El Diodo - Unión P-N\|02 - El Diodo - Unión P-N]] y [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/03 - Transistor BJT\|03 - Transistor BJT]]
-> - Previa: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Practico/Practicas del Laboratorio/Práctica 2 FESD/Práctica 2 — Ley de Ohm y Kirchhoff\|Práctica 2 — Ley de Ohm y Kirchhoff]]
-> - Siguiente: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Practico/Practicas del Laboratorio/Práctica 4 FESD/Práctica 4 — Fuentes Lineales\|Práctica 4 — Fuentes Lineales]]
+> - Teoría: [[01 - Semiconductores y Bandas de Energía]], [[02 - El Diodo - Unión P-N]] y [[03 - Transistor BJT]]
+> - Previa: [[Práctica 2 — Ley de Ohm y Kirchhoff]]
+> - Siguiente: [[Práctica 4 — Fuentes Lineales]]
 
 ---
 
@@ -187,5 +187,5 @@
 
 ## 📎 Guía oficial (Garden)
 
-[[Práctica #3 Funcionamiento de Diodos y Transistores.pdf\|Práctica #3 Funcionamiento de Diodos y Transistores.pdf]]
+![[Práctica #3 Funcionamiento de Diodos y Transistores.pdf]]
 **Tags:** #practica #laboratorio #EYAG1037 #FESD #ESPOL #unidad2 #diodo #BJT #transistor

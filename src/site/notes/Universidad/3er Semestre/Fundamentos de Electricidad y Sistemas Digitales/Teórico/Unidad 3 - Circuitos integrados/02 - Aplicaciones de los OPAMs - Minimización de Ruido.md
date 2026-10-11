@@ -44,7 +44,7 @@
 
 > [!note] ➖ El corazón del rechazo de ruido
 > 
-> Retomando lo anticipado en [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/06 - Ruido Electrónico e Interferencia\|06 - Ruido Electrónico e Interferencia]]: si el ruido se acopla **por igual** a dos líneas de señal (modo común), un amplificador diferencial lo cancela porque solo amplifica la diferencia entre sus dos entradas.
+> Retomando lo anticipado en [[06 - Ruido Electrónico e Interferencia]]: si el ruido se acopla **por igual** a dos líneas de señal (modo común), un amplificador diferencial lo cancela porque solo amplifica la diferencia entre sus dos entradas.
 > 
 > $$v_o = \frac{R_2}{R_1}\cdot(v_2 - v_1)$$
 > 
@@ -78,7 +78,7 @@
 
 > [!note] 🌊 Del filtro pasivo al filtro activo
 > 
-> En [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/04 - Circuitos de Filtrado y Fuentes Lineales\|04 - Circuitos de Filtrado y Fuentes Lineales]] viste los filtros LPF/HPF pasivos (solo R, L, C). Combinando esas mismas redes RC con un OPAM en configuración inversora o no inversora se obtiene un **filtro activo**, con dos ventajas clave para reducir ruido:
+> En [[04 - Circuitos de Filtrado y Fuentes Lineales]] viste los filtros LPF/HPF pasivos (solo R, L, C). Combinando esas mismas redes RC con un OPAM en configuración inversora o no inversora se obtiene un **filtro activo**, con dos ventajas clave para reducir ruido:
 > 
 > |Ventaja del filtro activo|Efecto sobre el ruido|
 > |---|---|
@@ -110,7 +110,7 @@
 > 
 > > 📌 Es la configuración recomendada siempre que una señal analógica ruidosa deba convertirse en una señal digital limpia — puente directo hacia el siguiente tema de esta unidad (555, ADC, PWM).
 
-![ChatGPT Image 22 jul 2026, 13_36_02.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2022%20jul%202026,%2013_36_02.png)
+![[ChatGPT Image 22 jul 2026, 13_36_02.png]]
 
 ---
 
@@ -255,12 +255,12 @@ mindmap
 >
 > [!quote] 🔗 Conexiones
 > 
-> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/06 - Ruido Electrónico e Interferencia\|06 - Ruido Electrónico e Interferencia]] — el concepto de rechazo de modo común anticipado ahí se desarrolla aquí con el amplificador diferencial.
-> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/04 - Circuitos de Filtrado y Fuentes Lineales\|04 - Circuitos de Filtrado y Fuentes Lineales]] — los filtros pasivos LPF/HPF se retoman aquí en su versión activa con OPAM.
-> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/01 - CI no programables\|01 - CI no programables]] — el OPAM como ejemplo central de CI no programable.
-> - Siguiente nota: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/03 - Configuraciones Lineales Básicas del OPAM\|03 - Configuraciones Lineales Básicas del OPAM]] — inversores, sumadores y convertidores (base del PDF EjREsAmpOp).
-> - Luego: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/04 - Integrador, Derivador y Circuitos No Lineales\|04 - Integrador, Derivador y Circuitos No Lineales]] y [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/05 - Ejercicios Resueltos y de Oposición\|05 - Ejercicios Resueltos y de Oposición]] — completan el PDF.
-> - Después: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/06 - Aplicaciones de Integrados 555 - ADC - PWM\|06 - Aplicaciones de Integrados 555 - ADC - PWM]] — acondicionamiento con 555/ADC/PWM.
+> - [[06 - Ruido Electrónico e Interferencia]] — el concepto de rechazo de modo común anticipado ahí se desarrolla aquí con el amplificador diferencial.
+> - [[04 - Circuitos de Filtrado y Fuentes Lineales]] — los filtros pasivos LPF/HPF se retoman aquí en su versión activa con OPAM.
+> - [[01 - CI no programables]] — el OPAM como ejemplo central de CI no programable.
+> - Siguiente nota: [[03 - Configuraciones Lineales Básicas del OPAM]] — inversores, sumadores y convertidores (base del PDF EjREsAmpOp).
+> - Luego: [[04 - Integrador, Derivador y Circuitos No Lineales]] y [[05 - Ejercicios Resueltos y de Oposición]] — completan el PDF.
+> - Después: [[06 - Aplicaciones de Integrados 555 - ADC - PWM]] — acondicionamiento con 555/ADC/PWM.
 
 ---
 

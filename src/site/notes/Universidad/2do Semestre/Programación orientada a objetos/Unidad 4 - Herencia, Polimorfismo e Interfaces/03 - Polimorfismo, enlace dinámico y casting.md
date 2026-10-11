@@ -56,14 +56,11 @@ graph TB
 > graph TD
 >     A[Polimorfismo] --> B[En Tiempo de Compilación<br/>Estático]
 >     A --> C[En Tiempo de Ejecución<br/>Dinámico]
->     
 >     B --> D[Sobrecarga de métodos<br/>Overloading]
 >     B --> E[Sobrecarga de operadores]
->     
 >     C --> F[Sobrescritura de métodos<br/>Overriding]
 >     C --> G[Interfaces]
 >     C --> H[Clases abstractas]
->     
 >     style C fill:#e1f5ff
 >     style F fill:#e1ffe1
 > ```
@@ -348,13 +345,10 @@ graph TB
 >     participant C as Código
 >     participant JVM as JVM
 >     participant O as Objeto Real
->     
 >     C->>JVM: animal.hacerSonido()
 >     Note over C: Referencia tipo Animal
->     
 >     JVM->>O: ¿Cuál es tu tipo REAL?
 >     O-->>JVM: Soy un Perro
->     
 >     JVM->>O: Ejecutar hacerSonido() de Perro
 >     O-->>C: "Guau guau!"
 > ```
@@ -518,13 +512,10 @@ graph TB
 >     A[Animal<br/>Superclase] 
 >     B[Perro<br/>Subclase]
 >     C[Gato<br/>Subclase]
->     
 >     B -.->|Upcasting<br/>✅ Seguro| A
 >     C -.->|Upcasting<br/>✅ Seguro| A
->     
 >     A ==>|Downcasting<br/>⚠️ Puede fallar| B
 >     A ==>|Downcasting<br/>⚠️ Puede fallar| C
->     
 >     style A fill:#e1f5ff
 >     style B fill:#e1ffe1
 >     style C fill:#fff4e1

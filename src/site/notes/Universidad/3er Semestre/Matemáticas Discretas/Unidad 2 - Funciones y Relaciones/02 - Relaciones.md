@@ -13,7 +13,6 @@
 > graph LR
 >     A["Relación R ⊆ X × Y"] --> B["Función f : X → Y"]
 >     B --> C["Restricción: unicidad"]
-> 
 > ```
 
 ---
@@ -163,7 +162,6 @@
 >     3 --> y3
 >     3 --> y6
 >     4 --> y4
-> 
 > ```
 > 
 > El 8 no tiene ninguna flecha saliente porque ningún elemento de Y es múltiplo de 8. El 5 y el 7 no reciben flechas porque ningún elemento de X los divide.

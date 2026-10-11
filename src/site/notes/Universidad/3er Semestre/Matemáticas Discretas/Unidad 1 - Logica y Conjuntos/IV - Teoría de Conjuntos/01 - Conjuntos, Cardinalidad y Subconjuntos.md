@@ -17,7 +17,6 @@
 >     A --> C[Cardinalidad]
 >     A --> D[Subconjuntos]
 >     A --> E[Conjunto potencia y conjuntos especiales]
->
 > ```
 >
 > | Concepto | Descripción breve |
@@ -114,7 +113,7 @@
 >
 > > [!tip]- 💡 Observación
 > >
-> > La igualdad de conjuntos es una **[[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/03 - Propiedades y Equivalencia\|relación de equivalencia]]** — es reflexiva, simétrica y transitiva.
+> > La igualdad de conjuntos es una **[[03 - Propiedades y Equivalencia|relación de equivalencia]]** — es reflexiva, simétrica y transitiva.
 
 ---
 

@@ -73,46 +73,38 @@ graph TB
 >         +length()
 >         +getName()
 >     }
->     
 >     class Reader {
 >         <<Abstracta - Lectura>>
 >         +read()
 >         +close()
 >     }
->     
 >     class Writer {
 >         <<Abstracta - Escritura>>
 >         +write()
 >         +flush()
 >         +close()
 >     }
->     
 >     class FileReader {
 >         <<Lectura básica>>
 >         +read() char
 >     }
->     
 >     class FileWriter {
 >         <<Escritura básica>>
 >         +write(String)
 >     }
->     
 >     class BufferedReader {
 >         <<Lectura eficiente>>
 >         +readLine() String
 >     }
->     
 >     class BufferedWriter {
 >         <<Escritura eficiente>>
 >         +write(String)
 >         +newLine()
 >     }
->     
 >     Reader <|-- FileReader
 >     Reader <|-- BufferedReader
 >     Writer <|-- FileWriter
 >     Writer <|-- BufferedWriter
->     
 >     FileReader --> File : usa
 >     FileWriter --> File : usa
 > ```
@@ -139,7 +131,6 @@ graph TB
 >     participant BR as BufferedReader
 >     participant FR as FileReader
 >     participant F as Archivo (Disco)
->     
 >     P->>BR: readLine()
 >     BR->>BR: ¿Hay datos en buffer?
 >     alt Buffer vacío
@@ -159,7 +150,6 @@ graph TB
 >     participant BW as BufferedWriter
 >     participant FW as FileWriter
 >     participant F as Archivo (Disco)
->     
 >     P->>BW: write("datos")
 >     BW->>BW: Agregar a buffer
 >     alt Buffer lleno o flush/close
@@ -196,7 +186,6 @@ graph TB
 >     D --> E{¿Más datos?}
 >     E -->|Sí| C
 >     E -->|No| F[5. Cerrar<br/>archivo]
->     
 >     style A fill:#fff4e1
 >     style C fill:#e1f5ff
 >     style F fill:#e1ffe1
@@ -300,15 +289,12 @@ graph TB
 >     A{Tamaño del<br/>archivo?} --> B[< 1 MB]
 >     A --> C[1-100 MB]
 >     A --> D[> 100 MB]
->     
 >     B --> E[Cargar todo<br/>en memoria]
 >     C --> F[Decidir según<br/>necesidad]
 >     D --> G[Streaming<br/>obligatorio]
->     
 >     F --> H{¿Acceso<br/>aleatorio?}
 >     H -->|Sí| E
 >     H -->|No| G
->     
 >     style E fill:#e1ffe1
 >     style G fill:#e1f5ff
 >     style F fill:#fff4e1
@@ -332,7 +318,6 @@ graph TB
 >     D -->|Sí| C
 >     D -->|No| E[4. Flush<br/>buffer]
 >     E --> F[5. Cerrar<br/>archivo]
->     
 >     style A fill:#fff4e1
 >     style C fill:#e1f5ff
 >     style F fill:#e1ffe1
@@ -451,16 +436,12 @@ graph TB
 > graph TB
 >     A{Modo de<br/>escritura?} --> B[Sobrescribir]
 >     A --> C[Append]
->     
 >     B --> D[FileWriter archivo]
 >     C --> E[FileWriter archivo, true]
->     
 >     D --> F[❌ Contenido anterior<br/>se pierde]
 >     E --> G[✅ Contenido anterior<br/>se conserva]
->     
 >     F --> H[Regenerar archivo<br/>completo]
 >     G --> I[Agregar al final<br/>logs, históricos]
->     
 >     style B fill:#ffe1e1
 >     style C fill:#e1ffe1
 > ```
@@ -641,7 +622,6 @@ graph TB
 >     E --> C
 >     F --> C
 >     C --> G[Fin]
->     
 >     style A fill:#e1f5ff
 >     style E fill:#fff4e1
 >     style F fill:#e1ffe1
@@ -663,7 +643,6 @@ graph TB
 >     IOException <|-- FileNotFoundException
 >     IOException <|-- EOFException
 >     Exception <|-- SecurityException
->     
 >     class IOException {
 >         Error general de E/S
 >     }
@@ -783,7 +762,6 @@ graph TB
 >     E --> F[Ejecutar catch]
 >     D --> G[Continuar programa]
 >     F --> G
->     
 >     style A fill:#e1f5ff
 >     style D fill:#e1ffe1
 >     style E fill:#e1ffe1
@@ -865,13 +843,10 @@ graph TB
 > graph TD
 >     A{Tipo de<br/>operación?} --> B[Solo metadatos]
 >     A --> C[Lectura/escritura]
->     
 >     B --> D[Usar File]
 >     C --> E{Buffer?}
->     
 >     E -->|Archivo pequeño| F[FileReader/<br/>FileWriter]
 >     E -->|Uso general| G[✅ BufferedReader/<br/>BufferedWriter]
->     
 >     style G fill:#e1ffe1
 >     style D fill:#e1f5ff
 > ```

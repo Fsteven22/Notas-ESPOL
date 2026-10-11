@@ -36,7 +36,7 @@
 >
 > |Paso|Acción|Herramienta|
 > |---|---|---|
-> |**1**|Verifica realimentación negativa $\Rightarrow$ zona lineal|Si no hay, es comparador (ver [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/04 - Integrador, Derivador y Circuitos No Lineales#⚖️ Comparadores — OPAM en lazo abierto\|04]])|
+> |**1**|Verifica realimentación negativa $\Rightarrow$ zona lineal|Si no hay, es comparador (ver [[04 - Integrador, Derivador y Circuitos No Lineales#⚖️ Comparadores — OPAM en lazo abierto|04]])|
 > |**2**|Aplica $V_+\approx V_-$ (cortocircuito virtual) y $I\approx 0$|Fija el potencial del nodo inversor|
 > |**3**|Escribe KCL en el/los nodos con incógnita (nodo inversor, nodo $X$, nodo $C$)|$\sum i_{salientes}=0$|
 > |**4**|Sustituye corrientes por $(V_a-V_b)/R$ y despeja $V_o$, $V_C$, $R_{in}$ o $I_L$|Álgebra nodal|
@@ -145,7 +145,7 @@
 >
 > $$\boxed{v_o = \frac{R_2}{R_1}(v_2 - v_1)}$$
 >
-> Es el diferencial de dos OPAMs visto en clase (equivalente al de [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/02 - Aplicaciones de los OPAMs - Minimización de Ruido\|02 - Aplicaciones de los OPAMs - Minimización de Ruido]]).
+> Es el diferencial de dos OPAMs visto en clase (equivalente al de [[02 - Aplicaciones de los OPAMs - Minimización de Ruido]]).
 
 ## 📐 Ejercicio 6 — Dos Etapas No Inversoras (PDF pp. 41-43)
 
@@ -247,7 +247,7 @@
 >
 > [!note] 🎯 Nivel Avanzado
 >
-> - [ ] Resuelvo cualquier red del PDF (incluidas las 3 etapas de la Tarea #2 en [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/02 - Aplicaciones de los OPAMs - Minimización de Ruido\|02 - Aplicaciones de los OPAMs - Minimización de Ruido]]) nodo por nodo sin memorizar fórmulas.
+> - [ ] Resuelvo cualquier red del PDF (incluidas las 3 etapas de la Tarea #2 en [[02 - Aplicaciones de los OPAMs - Minimización de Ruido]]) nodo por nodo sin memorizar fórmulas.
 > - [ ] Resuelvo problemas de oposición bajo tiempo, identificando la topología (inversor/sumador/instrumentación/corriente) en segundos.
 
 ---
@@ -279,15 +279,15 @@ mindmap
 > [!quote] 📖 Fuentes consultadas
 >
 > [1] Fco. Javier Hernández Canals, _Amplificador Operacional — Ejercicios Resueltos_, pp. 27-44 y 60-68 (EjREsAmpOp.pdf) — todos los cálculos y figuras.
-> [2] Ing. Adriana Aguirre Alonso, _Tarea Autónoma #2 — Amplificadores Operacionales_, EYAG1037, 2026 (referencia cruzada con [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/02 - Aplicaciones de los OPAMs - Minimización de Ruido\|02 - Aplicaciones de los OPAMs - Minimización de Ruido]]).
+> [2] Ing. Adriana Aguirre Alonso, _Tarea Autónoma #2 — Amplificadores Operacionales_, EYAG1037, 2026 (referencia cruzada con [[02 - Aplicaciones de los OPAMs - Minimización de Ruido]]).
 > [3] A. Sedra y K. Smith, _Microelectronic Circuits_, 7th ed., cap. 2 — método nodal para OPAM ideal.
 >
 > [!quote] 🔗 Conexiones
 >
-> - Base teórica: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/03 - Configuraciones Lineales Básicas del OPAM\|03 - Configuraciones Lineales Básicas del OPAM]] y [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/04 - Integrador, Derivador y Circuitos No Lineales\|04 - Integrador, Derivador y Circuitos No Lineales]] — fórmulas usadas aquí.
-> - Tarea #2 y ruido: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/02 - Aplicaciones de los OPAMs - Minimización de Ruido#📋 Ejercicios de la Tarea Autónoma \|02 - Tarea #2]] — red en T y cascadas.
-> - Siguiente: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/06 - Aplicaciones de Integrados 555 - ADC - PWM\|06 - Aplicaciones de Integrados 555 - ADC - PWM]] — cambia de OPAM a 555/ADC.
-> - Previo: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/01 - CI no programables\|01 - CI no programables]] — por qué el OPAM es un CI no programable.
+> - Base teórica: [[03 - Configuraciones Lineales Básicas del OPAM]] y [[04 - Integrador, Derivador y Circuitos No Lineales]] — fórmulas usadas aquí.
+> - Tarea #2 y ruido: [[02 - Aplicaciones de los OPAMs - Minimización de Ruido#📋 Ejercicios de la Tarea Autónoma #2 (Análisis Cuantitativo de Redes de OPAMs)|02 - Tarea #2]] — red en T y cascadas.
+> - Siguiente: [[06 - Aplicaciones de Integrados 555 - ADC - PWM]] — cambia de OPAM a 555/ADC.
+> - Previo: [[01 - CI no programables]] — por qué el OPAM es un CI no programable.
 
 ---
 

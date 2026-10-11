@@ -153,7 +153,6 @@ graph TB
 >     C[protected] --> D[Acceso desde<br/>paquete + herencia]
 >     E[default] --> F[Acceso solo<br/>desde paquete]
 >     G[private] --> H[Acceso solo<br/>dentro de la clase]
->     
 >     style A fill:#90EE90
 >     style C fill:#FFD700
 >     style E fill:#FFA500
@@ -183,7 +182,6 @@ graph TB
 >     participant C as Código
 >     participant M as Memoria
 >     participant O as Objeto
->     
 >     C->>M: new Estudiante("Juan", 20)
 >     M->>O: 1. Asignar memoria
 >     O->>O: 2. Ejecutar constructor
@@ -436,7 +434,6 @@ graph TB
 >     B --> C[this.atributo<br/>Referencia a campo]
 >     B --> D[this args<br/>Llamada a constructor]
 >     B --> E[método this<br/>Pasar objeto actual]
->     
 >     style A fill:#fff4e1
 >     style C fill:#e1ffe1
 >     style D fill:#e1f5ff

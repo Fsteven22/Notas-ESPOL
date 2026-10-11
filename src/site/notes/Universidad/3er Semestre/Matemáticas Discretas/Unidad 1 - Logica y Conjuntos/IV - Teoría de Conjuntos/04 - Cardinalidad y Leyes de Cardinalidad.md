@@ -17,7 +17,6 @@
 >     A --> C[Cardinalidad de operaciones]
 >     A --> D[Principio de Inclusión-Exclusión]
 >     A --> E[Problemas con Diagramas de Venn]
->
 > ```
 
 ---
@@ -98,7 +97,7 @@
 
 ---
 
-## 🗺️ Las 4 Regiones del [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/02 - Operaciones y Diagramas de Venn\|Diagrama de Venn]] (2 conjuntos)
+## 🗺️ Las 4 Regiones del [[02 - Operaciones y Diagramas de Venn|Diagrama de Venn]] (2 conjuntos)
 
 > [!note] 🗺️ Regiones del diagrama de Venn con 2 conjuntos
 >
@@ -137,7 +136,7 @@
 >
 > **Diagrama de Venn real** (con los valores del Ejercicio 1: 22 solo M, 14 solo F, 8 ambos, 6 ninguno):
 >
-> ![venn-2-conjuntos.png](/img/user/Universidad/Figuras/venn-2-conjuntos.png)
+> ![[venn-2-conjuntos.png]]
 
 ---
 
@@ -184,7 +183,7 @@
 >
 > **Diagrama de Venn real** (con los valores del Ejercicio 2 de deportes: 23, 18, 13, 10, 7, 5, 5, 19 ninguno):
 >
-> ![venn-3-conjuntos.png](/img/user/Universidad/Figuras/venn-3-conjuntos.png)
+> ![[venn-3-conjuntos.png]]
 
 
 ---
@@ -351,7 +350,7 @@
 
 > [!example] 📝 Ejercicio Resuelto 4 — Ley de la diferencia
 >
-> **Problema:** Sea $|A| = 15$, $|B| = 10$, $|A \cap B| = 4$. Calcula $|A - B|$, $|B - A|$ y $|A \triangle B|$ (diferencia [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/02 - Relaciones\|simétrica]]).
+> **Problema:** Sea $|A| = 15$, $|B| = 10$, $|A \cap B| = 4$. Calcula $|A - B|$, $|B - A|$ y $|A \triangle B|$ (diferencia [[02 - Relaciones|simétrica]]).
 >
 > **Solución:**
 >
@@ -475,8 +474,8 @@ graph TD
 
 
 > [!quote] 🔗 Conexiones
-> - Previo: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/03 - Leyes de Conjuntos\|03 - Leyes de Conjuntos]] — leyes
-> - Relacionado: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/04 - Principios de Multiplicación y Suma\|04 - Principios de Multiplicación y Suma]] — principios de conteo
-> - Relacionado: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/05 - Permutaciones y Combinaciones\|05 - Permutaciones y Combinaciones]] — conteo avanzado
+> - Previo: [[03 - Leyes de Conjuntos]] — leyes
+> - Relacionado: [[04 - Principios de Multiplicación y Suma]] — principios de conteo
+> - Relacionado: [[05 - Permutaciones y Combinaciones]] — conteo avanzado
 
 **Tags:** #matematicas-discretas #conjuntos #cardinalidad #inclusion-exclusion #venn #MATG1051

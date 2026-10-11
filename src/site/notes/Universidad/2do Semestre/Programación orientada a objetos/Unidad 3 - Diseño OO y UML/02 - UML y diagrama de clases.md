@@ -168,7 +168,6 @@ graph LR
 >     Animal <|-- Perro
 >     Animal <|-- Gato
 >     Animal <|-- Ave
->     
 >     class Animal {
 >         #nombre: String
 >         #edad: int
@@ -176,19 +175,16 @@ graph LR
 >         +dormir(): void
 >         +hacerSonido(): void
 >     }
->     
 >     class Perro {
 >         -raza: String
 >         +ladrar(): void
 >         +hacerSonido(): void
 >     }
->     
 >     class Gato {
 >         -color: String
 >         +maullar(): void
 >         +hacerSonido(): void
 >     }
->     
 >     class Ave {
 >         -especie: String
 >         +volar(): void
@@ -212,17 +208,14 @@ graph LR
 >         +volar(): void
 >         +aterrizar(): void
 >     }
->     
 >     class Nadador {
 >         <<interface>>
 >         +nadar(): void
 >         +bucear(): void
 >     }
->     
 >     Volador <|.. Pato
 >     Nadador <|.. Pato
 >     Volador <|.. Avion
->     
 >     class Pato {
 >         -nombre: String
 >         +despegar(): void
@@ -231,7 +224,6 @@ graph LR
 >         +nadar(): void
 >         +bucear(): void
 >     }
->     
 >     class Avion {
 >         -modelo: String
 >         +despegar(): void
@@ -254,24 +246,20 @@ graph LR
 > classDiagram
 >     Persona "1" -- "1" Direccion : tiene
 >     Estudiante "1" -- "*" Curso : se inscribe en
->     
 >     class Persona {
 >         -nombre: String
 >         -direccion: Direccion
 >         +getDireccion(): Direccion
 >     }
->     
 >     class Direccion {
 >         -calle: String
 >         -ciudad: String
 >         -codigoPostal: String
 >     }
->     
 >     class Estudiante {
 >         -carnet: String
 >         -cursos: List~Curso~
 >     }
->     
 >     class Curso {
 >         -codigo: String
 >         -nombre: String
@@ -297,23 +285,19 @@ graph LR
 > classDiagram
 >     Departamento "1" o-- "*" Empleado : tiene
 >     Universidad "1" o-- "*" Estudiante : contiene
->     
 >     class Departamento {
 >         -nombre: String
 >         -empleados: List~Empleado~
 >         +agregarEmpleado(e: Empleado): void
 >     }
->     
 >     class Empleado {
 >         -nombre: String
 >         -salario: double
 >     }
->     
 >     class Universidad {
 >         -nombre: String
 >         -estudiantes: List~Estudiante~
 >     }
->     
 >     class Estudiante {
 >         -nombre: String
 >         -carnet: String
@@ -335,28 +319,23 @@ graph LR
 >     Coche "1" *-- "1" Motor : tiene
 >     Coche "1" *-- "4" Rueda : tiene
 >     Casa "1" *-- "*" Habitacion : contiene
->     
 >     class Coche {
 >         -marca: String
 >         -motor: Motor
 >         -ruedas: Rueda[4]
 >     }
->     
 >     class Motor {
 >         -cilindrada: int
 >         -potencia: int
 >     }
->     
 >     class Rueda {
 >         -tamaño: int
 >         -presion: double
 >     }
->     
 >     class Casa {
 >         -direccion: String
 >         -habitaciones: List~Habitacion~
 >     }
->     
 >     class Habitacion {
 >         -nombre: String
 >         -area: double
@@ -377,20 +356,16 @@ graph LR
 > classDiagram
 >     Impresora ..> Documento : usa
 >     CalculadoraImpuestos ..> Factura : procesa
->     
 >     class Impresora {
 >         +imprimir(doc: Documento): void
 >     }
->     
 >     class Documento {
 >         -contenido: String
 >         +getContenido(): String
 >     }
->     
 >     class CalculadoraImpuestos {
 >         +calcular(f: Factura): double
 >     }
->     
 >     class Factura {
 >         -monto: double
 >         +getMonto(): double
@@ -417,24 +392,20 @@ graph LR
 >         +calcularPerimetro()* double
 >         +mostrarInfo(): void
 >     }
->     
 >     FiguraGeometrica <|-- Circulo
 >     FiguraGeometrica <|-- Rectangulo
 >     FiguraGeometrica <|-- Triangulo
->     
 >     class Circulo {
 >         -radio: double
 >         +calcularArea(): double
 >         +calcularPerimetro(): double
 >     }
->     
 >     class Rectangulo {
 >         -base: double
 >         -altura: double
 >         +calcularArea(): double
 >         +calcularPerimetro(): double
 >     }
->     
 >     class Triangulo {
 >         -lado1: double
 >         -lado2: double
@@ -461,7 +432,6 @@ graph LR
 >         +incrementar()$: void
 >         +getContador()$: int
 >     }
->     
 >     class Configuracion {
 >         -URL_BASE: String$
 >         -TIMEOUT: int$
@@ -489,7 +459,6 @@ graph LR
 >         SABADO
 >         DOMINGO
 >     }
->     
 >     class TipoCuenta {
 >         <<enumeration>>
 >         AHORRO
@@ -498,9 +467,7 @@ graph LR
 >         --
 >         +getTasa(): double
 >     }
->     
 >     CuentaBancaria --> TipoCuenta : usa
->     
 >     class CuentaBancaria {
 >         -tipo: TipoCuenta
 >         -saldo: double
@@ -530,18 +497,15 @@ graph LR
 >         +calcularInteres()* double
 >         #validarMonto(monto: double): boolean
 >     }
->     
 >     CuentaBancaria <|-- CuentaAhorro
 >     CuentaBancaria <|-- CuentaCorriente
 >     CuentaBancaria <|-- CuentaNomina
->     
 >     class CuentaAhorro {
 >         -tasaInteres: double
 >         --
 >         +CuentaAhorro(titular: String, tasa: double)
 >         +calcularInteres(): double
 >     }
->     
 >     class CuentaCorriente {
 >         -sobregiro: double
 >         --
@@ -549,16 +513,13 @@ graph LR
 >         +calcularInteres(): double
 >         +retirar(monto: double): boolean
 >     }
->     
 >     class CuentaNomina {
 >         -empresa: String
 >         --
 >         +CuentaNomina(titular: String, empresa: String)
 >         +calcularInteres(): double
 >     }
->     
 >     Cliente "1" o-- "*" CuentaBancaria : posee
->     
 >     class Cliente {
 >         -nombre: String
 >         -identificacion: String
@@ -567,9 +528,7 @@ graph LR
 >         +agregarCuenta(cuenta: CuentaBancaria): void
 >         +getSaldoTotal(): double
 >     }
->     
 >     Banco "1" *-- "*" Cliente : gestiona
->     
 >     class Banco {
 >         -nombre: String
 >         -clientes: List~Cliente~
@@ -595,10 +554,8 @@ graph LR
 >         +getNombre(): String
 >         +mostrarInfo()* void
 >     }
->     
 >     Persona <|-- Estudiante
 >     Persona <|-- Profesor
->     
 >     class Estudiante {
 >         -carnet: String
 >         -creditos: int
@@ -608,7 +565,6 @@ graph LR
 >         +calcularPromedio(): double
 >         +mostrarInfo(): void
 >     }
->     
 >     class Profesor {
 >         -especialidad: String
 >         -cursos: List~Curso~
@@ -616,7 +572,6 @@ graph LR
 >         +asignarCurso(curso: Curso): void
 >         +mostrarInfo(): void
 >     }
->     
 >     class Curso {
 >         -codigo: String
 >         -nombre: String
@@ -627,13 +582,10 @@ graph LR
 >         +agregarEstudiante(e: Estudiante): void
 >         +getProfesor(): Profesor
 >     }
->     
 >     Estudiante "*" -- "*" Curso : se inscribe
 >     Profesor "1" -- "*" Curso : imparte
->     
 >     Departamento "1" o-- "*" Profesor : tiene
 >     Departamento "1" o-- "*" Curso : ofrece
->     
 >     class Departamento {
 >         -nombre: String
 >         -profesores: List~Profesor~
@@ -660,7 +612,6 @@ graph LR
 >         +actualizarStock(cantidad: int): void
 >         +getPrecio(): double
 >     }
->     
 >     class CarritoCompra {
 >         -items: List~ItemCarrito~
 >         --
@@ -669,7 +620,6 @@ graph LR
 >         +calcularTotal(): double
 >         +vaciar(): void
 >     }
->     
 >     class ItemCarrito {
 >         -producto: Producto
 >         -cantidad: int
@@ -677,10 +627,8 @@ graph LR
 >         +ItemCarrito(p: Producto, cant: int)
 >         +getSubtotal(): double
 >     }
->     
 >     CarritoCompra "1" *-- "*" ItemCarrito : contiene
 >     ItemCarrito "*" --> "1" Producto : referencia
->     
 >     class Cliente {
 >         -nombre: String
 >         -email: String
@@ -689,10 +637,8 @@ graph LR
 >         --
 >         +realizarPedido(): Pedido
 >     }
->     
 >     Cliente "1" *-- "1" CarritoCompra : tiene
 >     Cliente "1" o-- "*" Pedido : realiza
->     
 >     class Pedido {
 >         -numero: String
 >         -fecha: Date
@@ -703,7 +649,6 @@ graph LR
 >         +confirmar(): void
 >         +cancelar(): void
 >     }
->     
 >     class EstadoPedido {
 >         <<enumeration>>
 >         PENDIENTE
@@ -712,7 +657,6 @@ graph LR
 >         ENTREGADO
 >         CANCELADO
 >     }
->     
 >     Pedido --> EstadoPedido : usa
 > ```
 

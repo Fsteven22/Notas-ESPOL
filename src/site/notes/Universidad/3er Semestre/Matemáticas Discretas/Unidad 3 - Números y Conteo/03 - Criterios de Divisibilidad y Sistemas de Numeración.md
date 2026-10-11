@@ -284,8 +284,8 @@ graph TD
 
 
 > [!quote] 🔗 Conexiones
-> - Previo: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/02 - MCD, MCM y Algoritmo de Euclides\|02 - MCD, MCM y Algoritmo de Euclides]]
-> - Relacionado: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/04 - Principios de Multiplicación y Suma\|04 - Principios de Multiplicación y Suma]]
-> - Aplicación: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/03 - Pseudocódigo y Algoritmos\|03 - Pseudocódigo y Algoritmos]] — representación binaria
+> - Previo: [[02 - MCD, MCM y Algoritmo de Euclides]]
+> - Relacionado: [[04 - Principios de Multiplicación y Suma]]
+> - Aplicación: [[03 - Pseudocódigo y Algoritmos]] — representación binaria
 
 **Tags:** #divisibilidad #criterios #binario #hexadecimal #decimal #bases #numeracion #conversion #teoria-de-numeros #MATG1051 #unidad3 #ESPOL

@@ -104,7 +104,7 @@
 > |**06 — Aplicaciones de 555 / ADC / PWM**|Temporizador 555, convertidores ADC, generación de PWM|Acondicionamiento de señales|
 > |**07 — Lógica fija**|Compuertas lógicas (familias 74xx/40xx)|Circuitos combinacionales y tablas de verdad|
 
-![ChatGPT Image 22 jul 2026, 13_19_52.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2022%20jul%202026,%2013_19_52.png)
+![[ChatGPT Image 22 jul 2026, 13_19_52.png]]
 
 ---
 
@@ -179,8 +179,8 @@ mindmap
 >
 > [!quote] 🔗 Conexiones
 > 
-> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/05 - Reguladores en Fuentes Lineales\|05 - Reguladores en Fuentes Lineales]] — el 78xx/79xx y el LM317 son, en sí mismos, ejemplos de CI no programables ya estudiados.
-> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/02 - El Diodo - Unión P-N\|02 - El Diodo - Unión P-N]] y [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/03 - Transistor BJT\|03 - Transistor BJT]] — los componentes discretos que un CI integra internamente en un solo chip.
+> - [[05 - Reguladores en Fuentes Lineales]] — el 78xx/79xx y el LM317 son, en sí mismos, ejemplos de CI no programables ya estudiados.
+> - [[02 - El Diodo - Unión P-N]] y [[03 - Transistor BJT]] — los componentes discretos que un CI integra internamente en un solo chip.
 > - Siguiente nota (Unidad 3, punto 2): Aplicaciones de los OPAMs para minimización de ruido.
 
 ---

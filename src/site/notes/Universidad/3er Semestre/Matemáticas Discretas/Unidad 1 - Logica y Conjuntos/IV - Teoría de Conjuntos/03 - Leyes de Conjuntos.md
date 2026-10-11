@@ -18,8 +18,6 @@
 >     A --> D[Leyes conmutativas y asociativas]
 >     A --> E[Leyes distributivas]
 >     A --> F[Leyes de De Morgan]
->
-> 
 > ```
 
 ---
@@ -151,7 +149,7 @@
 
 > [!note] 🔁 Principio de Inclusión-Exclusión
 >
-> El **principio de inclusión-exclusión** permite calcular el cardinal de la [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/02 - Operaciones y Diagramas de Venn\|unión de conjuntos]] evitando contar elementos repetidos.
+> El **principio de inclusión-exclusión** permite calcular el cardinal de la [[02 - Operaciones y Diagramas de Venn|unión de conjuntos]] evitando contar elementos repetidos.
 >
 > **Para 2 conjuntos:**
 >

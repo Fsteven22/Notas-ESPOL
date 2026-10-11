@@ -17,10 +17,8 @@
 > graph TD
 >     A["Grammar & Examples<br/>Unit 5"] --> B["Past Perfect"]
 >     A --> C["Planes que cambiaron"]
-> 
 >     B --> D["had + participio<br/>orden de eventos pasados"]
 >     C --> E["was/were going to<br/>was/were supposed to"]
-> 
 >     style B fill:#e8eaf6
 >     style C fill:#e0f7fa
 > ```
@@ -219,9 +217,9 @@ graph TD
 >
 > [!quote] 🔗 Conexiones
 > 
-> - [[01 - Vocabulary & Use - Describing Stories & Making Breaking Plans\|01 - Vocabulary & Use - Describing Stories & Making Breaking Plans]]
-> - [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 5 - True Stories/03 - Functional Language & Pronunciation - Reacting to Problems & Final Consonants\|03 - Functional Language & Pronunciation - Reacting to Problems & Final Consonants]]
-> - [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 5 - True Stories/04 - Reading Writing Speaking - The Perfect Apology & A Chance Meeting\|04 - Reading Writing Speaking - The Perfect Apology & A Chance Meeting]]
+> - [[01 - Vocabulary & Use - Describing Stories & Making Breaking Plans]]
+> - [[03 - Functional Language & Pronunciation - Reacting to Problems & Final Consonants]]
+> - [[04 - Reading Writing Speaking - The Perfect Apology & A Chance Meeting]]
 
 ---
 

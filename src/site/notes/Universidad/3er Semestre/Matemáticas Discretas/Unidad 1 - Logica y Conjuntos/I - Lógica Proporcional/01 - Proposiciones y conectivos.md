@@ -332,7 +332,7 @@ graph TD
 >     Equivalente a decir que $P \leftrightarrow Q$ es una **tautología**.
 
 > [!success] 📋 Principales Equivalencias Lógicas
-> ![Pasted image 20260517162520.png](/img/user/Universidad/Figuras/Pasted%20image%2020260517162520.png)
+> ![[Pasted image 20260517162520.png]]
 > **Leyes de identidad:**
 > 
 > |Ley|Expresión|
@@ -383,7 +383,7 @@ graph TD
 > |Distributiva $\vee$ sobre $\wedge$|$p \vee (q \wedge r) \equiv (p \vee q) \wedge (p \vee r)$|
 > |Distributiva $\wedge$ sobre $\vee$|$p \wedge (q \vee r) \equiv (p \wedge q) \vee (p \wedge r)$|
 > 
-> **[[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/II - Álgebra Proposicional/01 - Algebra de Proposiciones\|Leyes de De Morgan]]:**
+> **[[01 - Algebra de Proposiciones|Leyes de De Morgan]]:**
 > 
 > |Ley|Expresión|
 > |---|---|
@@ -440,7 +440,7 @@ graph TD
 > |**NAND**|$\neg(p \wedge q)$|AND con círculo|Falso solo si ambas entradas son 1|
 > |**NOR**|$\neg(p \vee q)$|OR con círculo|Verdadero solo si ambas entradas son 0|
 > 
-![ChatGPT Image 20 may 2026, 13_02_00.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2020%20may%202026,%2013_02_00.png)
+![[ChatGPT Image 20 may 2026, 13_02_00.png]]
 
 > [!example] 🧮 Tablas de Verdad de Compuertas
 > 
@@ -499,7 +499,7 @@ graph TD
 > q ───────────┘          ├──[ AND ]──→ Salida
 > r ──────────────────────┘
 > ```
-> ![ChatGPT Image 20 may 2026, 13_05_26.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2020%20may%202026,%2013_05_26.png)
+> ![[ChatGPT Image 20 may 2026, 13_05_26.png]]
 > 
 > |$p$|$q$|$r$|$\neg p$|$\neg p \vee q$|$(\neg p \vee q) \wedge r$|
 > |:-:|:-:|:-:|:-:|:-:|:-:|

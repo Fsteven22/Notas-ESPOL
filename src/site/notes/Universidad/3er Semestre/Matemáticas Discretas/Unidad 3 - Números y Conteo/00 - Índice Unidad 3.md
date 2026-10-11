@@ -30,9 +30,9 @@ graph LR
 ```
 
 > [!quote] 🔗 Conexiones
-> - Previo: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/04 - Sucesiones y Cadenas\|04 - Sucesiones y Cadenas]] (Unidad 2)
-> - Siguiente: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/01 - Relaciones de Recurrencia\|01 - Relaciones de Recurrencia]] (Unidad 4)
-> - MOC general: [[Universidad/3er Semestre/Matemáticas Discretas/Matemáticas Discretas\|Matemáticas Discretas]]
+> - Previo: [[04 - Sucesiones y Cadenas]] (Unidad 2)
+> - Siguiente: [[01 - Relaciones de Recurrencia]] (Unidad 4)
+> - MOC general: [[Matemáticas Discretas]]
 
 ---
 **Tags:** #MATG1051 #unidad3 #indice #discretas

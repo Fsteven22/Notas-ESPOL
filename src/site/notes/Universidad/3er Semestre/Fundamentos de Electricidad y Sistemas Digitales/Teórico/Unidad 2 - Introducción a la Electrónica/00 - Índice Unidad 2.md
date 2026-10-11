@@ -29,9 +29,9 @@ graph LR
 ```
 
 > [!quote] 🔗 Conexiones
-> - Previo: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 1 - Electricidad y Circuitos/06 - Teoremas de Analisis de Circuitos\|06 - Teoremas de Analisis de Circuitos]] (Unidad 1)
-> - Siguiente: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/01 - CI no programables\|01 - CI no programables]] (Unidad 3)
-> - MOC general: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Fundamentos de Electricidad y Sistemas Digitales\|Fundamentos de Electricidad y Sistemas Digitales]]
+> - Previo: [[06 - Teoremas de Analisis de Circuitos]] (Unidad 1)
+> - Siguiente: [[01 - CI no programables]] (Unidad 3)
+> - MOC general: [[Fundamentos de Electricidad y Sistemas Digitales]]
 
 ---
 **Tags:** #FESD #unidad2 #indice

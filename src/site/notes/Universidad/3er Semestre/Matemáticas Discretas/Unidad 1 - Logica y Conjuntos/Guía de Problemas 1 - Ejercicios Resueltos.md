@@ -18,7 +18,7 @@
 
 ---
 
-![GUÍA 1 DE PROBLEMAS MD (1).pdf](/img/user/Universidad/3er%20Semestre/Matem%C3%A1ticas%20Discretas/Unidad%200%20-%20Guias%20y%20Ejercicios/GU%C3%8DA%201%20DE%20PROBLEMAS%20MD%20(1).pdf)
+<iframe src="/img/user/Universidad/3er%20Semestre/Matem%C3%A1ticas%20Discretas/Unidad%200%20-%20Guias%20y%20Ejercicios/GU%C3%8DA%201%20DE%20PROBLEMAS%20MD%20(1).pdf" width="100%" height="900px" title="GUÍA 1 DE PROBLEMAS MD (1).pdf" style="border:1px solid #ccc;"></iframe>
 
 ## 🔌 1.1 — Proposiciones, Tablas de Verdad y Circuitos
 
@@ -402,7 +402,7 @@
 > |---|---|---|
 > |1|$e$|Premisa 4|
 > |2|$e \to \neg p$|Premisa 3|
-> |3|$\neg p$|[[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/III - Razonamiento Inductivo/01 - Reglas de Inferencia\|Modus Ponens]] (1, 2)|
+> |3|$\neg p$|[[01 - Reglas de Inferencia\|Modus Ponens]] (1, 2)|
 > |4|$\neg b \lor p$|Premisa 5|
 > |5|$\neg b$|Resolución (3, 4): de $\neg p$ y $\neg b \lor p$ → $\neg b$|
 > |6|$v \to b$|Premisa 2|
@@ -517,7 +517,7 @@
 
 ## 🔢 1.3 — Demostraciones e Inducción Matemática
 
-> [!example]- 📝 Ejercicio 13 — [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/II - Álgebra Proposicional/02 - Cuantificadores\|Cuantificadores]] en $\mathbb{R} \times \mathbb{R}$
+> [!example]- 📝 Ejercicio 13 — [[02 - Cuantificadores|Cuantificadores]] en $\mathbb{R} \times \mathbb{R}$
 > 
 > **Dominio:** $\mathbb{R} \times \mathbb{R}$
 > 
@@ -760,11 +760,11 @@
 > 
 > Como $\dfrac{(k+1)(k-2)}{2} = \dfrac{(k+1)((k+1)-3)}{2}$, que es exactamente la fórmula para $n = k+1$. $\blacksquare$
 > 
-> ![Pasted image 20260613145551.png](/img/user/Universidad/Figuras/Pasted%20image%2020260613145551.png)
+> ![[Pasted image 20260613145551.png]]
 > 
-> ![Pasted image 20260613145600.png](/img/user/Universidad/Figuras/Pasted%20image%2020260613145600.png)
+> ![[Pasted image 20260613145600.png]]
 > 
-> ![Pasted image 20260613145618.png](/img/user/Universidad/Figuras/Pasted%20image%2020260613145618.png)
+> ![[Pasted image 20260613145618.png]]
 > 
 >
 > >[!note] 📌 Nota — Lo que muestran las imágenes
@@ -936,12 +936,12 @@ graph TD
 > - R. Johnsonbaugh, _Discrete Mathematics_, 8th ed., Pearson, 2017.
 
 > [!quote] 🔗 Conexiones
-> - Lógica proposicional: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/I - Lógica Proporcional/01 - Proposiciones, conectivos lógicos, tablas de verdad , propiedades y circuitos combinatorio\|Proposiciones y circuitos]] — base de los Ej. 1–6.
-> - Condicionales: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/I - Lógica Proporcional/02 - Proposiciones Condicionales y Equivalencia Lógica\|02 - Proposiciones Condicionales y Equivalencia Lógica]] — base de los Ej. 7–12.
-> - Inferencia: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/III - Razonamiento Inductivo/01 - Reglas de Inferencia\|01 - Reglas de Inferencia]] y [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/III - Razonamiento Inductivo/02 - Reglas de Inferencia para Afirmaciones Cuantificadas\|02 - Reglas de Inferencia para Afirmaciones Cuantificadas]] — reglas usadas en Ej. 8–12.
-> - Cuantificadores: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/II - Álgebra Proposicional/02 - Cuantificadores\|02 - Cuantificadores]] — base de los Ej. 13–14.
-> - Demostraciones e inducción: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/II - Álgebra Proposicional/03 - Demostraciones\|03 - Demostraciones]] y [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/III - Razonamiento Inductivo/03 - Inducción Matemática\|03 - Inducción Matemática]] — métodos de los Ej. 15–22.
-> - Conjuntos: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/01 - Conjuntos, Cardinalidad y Subconjuntos\|01 - Conjuntos, Cardinalidad y Subconjuntos]], [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/02 - Operaciones y Diagramas de Venn\|02 - Operaciones y Diagramas de Venn]] y [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/03 - Leyes de Conjuntos\|03 - Leyes de Conjuntos]] — base de los Ej. 23–28.
-> - Siguiente: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/Guía de Problemas 2 - Ejercicios Resueltos\|Guía de Problemas 2 - Ejercicios Resueltos]] — funciones, relaciones y sucesiones.
+> - Lógica proposicional: [[01 - Proposiciones y conectivos|Proposiciones y circuitos]] — base de los Ej. 1–6.
+> - Condicionales: [[02 - Proposiciones Condicionales y Equivalencia Lógica]] — base de los Ej. 7–12.
+> - Inferencia: [[01 - Reglas de Inferencia]] y [[02 - Reglas de Inferencia para Afirmaciones Cuantificadas]] — reglas usadas en Ej. 8–12.
+> - Cuantificadores: [[02 - Cuantificadores]] — base de los Ej. 13–14.
+> - Demostraciones e inducción: [[03 - Demostraciones]] y [[03 - Inducción Matemática]] — métodos de los Ej. 15–22.
+> - Conjuntos: [[01 - Conjuntos, Cardinalidad y Subconjuntos]], [[02 - Operaciones y Diagramas de Venn]] y [[03 - Leyes de Conjuntos]] — base de los Ej. 23–28.
+> - Siguiente: [[Guía de Problemas 2 - Ejercicios Resueltos]] — funciones, relaciones y sucesiones.
 
 **Tags:** #matematicas-discretas #guia-problemas #logica #conjuntos #induccion #demostraciones #MATG1051

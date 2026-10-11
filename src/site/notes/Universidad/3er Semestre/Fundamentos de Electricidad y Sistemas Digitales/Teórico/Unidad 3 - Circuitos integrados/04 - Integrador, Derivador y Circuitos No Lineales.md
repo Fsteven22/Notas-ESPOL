@@ -64,7 +64,7 @@
 >
 > [!warning] ⚠️ Saturación en el integrador real
 >
-> Un $v_i$ con componente DC por pequeña que sea se integra hasta saturar el OPAM ($\pm V_{sat}$). En la práctica se añade una $R$ grande en paralelo con $C$ para dar camino DC y evitar deriva — es el **integrador práctico / LPF activo** que ya viste en [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/02 - Aplicaciones de los OPAMs - Minimización de Ruido#🌊 Filtros Activos — Extendiendo los Filtros Pasivos\|02 - Filtros activos]].
+> Un $v_i$ con componente DC por pequeña que sea se integra hasta saturar el OPAM ($\pm V_{sat}$). En la práctica se añade una $R$ grande en paralelo con $C$ para dar camino DC y evitar deriva — es el **integrador práctico / LPF activo** que ya viste en [[02 - Aplicaciones de los OPAMs - Minimización de Ruido#🌊 Filtros Activos — Extendiendo los Filtros Pasivos|02 - Filtros activos]].
 
 ---
 
@@ -156,7 +156,7 @@
 >
 > [!quote] 🔗 Ya cubierto en parte
 >
-> El comparador con histéresis y su ventaja frente al ruido se desarrolló a fondo en [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/02 - Aplicaciones de los OPAMs - Minimización de Ruido#🔲 Comparador con Histéresis — Inmunidad en Señales Digitales\|02 - Comparador con histéresis]]. Aquí lo ves en su forma genérica del PDF.
+> El comparador con histéresis y su ventaja frente al ruido se desarrolló a fondo en [[02 - Aplicaciones de los OPAMs - Minimización de Ruido#🔲 Comparador con Histéresis — Inmunidad en Señales Digitales|02 - Comparador con histéresis]]. Aquí lo ves en su forma genérica del PDF.
 
 ---
 
@@ -182,7 +182,7 @@
 >
 > [!warning] ⚠️ No es fuente lineal
 >
-> Estos rectificadores son para **señal pequeña** (instrumentación). Para rectificar potencia de red ver [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/04 - Circuitos de Filtrado y Fuentes Lineales\|04 - Circuitos de Filtrado y Fuentes Lineales]] y [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/05 - Reguladores en Fuentes Lineales\|05 - Reguladores en Fuentes Lineales]].
+> Estos rectificadores son para **señal pequeña** (instrumentación). Para rectificar potencia de red ver [[04 - Circuitos de Filtrado y Fuentes Lineales]] y [[05 - Reguladores en Fuentes Lineales]].
 
 ---
 
@@ -279,10 +279,10 @@ mindmap
 >
 > [!quote] 🔗 Conexiones
 >
-> - Previo: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/03 - Configuraciones Lineales Básicas del OPAM\|03 - Configuraciones Lineales Básicas del OPAM]] — inversor/no inversor/sumadores (base sin $C$).
-> - Previo ruido: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/02 - Aplicaciones de los OPAMs - Minimización de Ruido#🌊 Filtros Activos — Extendiendo los Filtros Pasivos\|02 - Filtros activos]] — integrador visto como LPF activo.
-> - Siguiente: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/05 - Ejercicios Resueltos y de Oposición\|05 - Ejercicios Resueltos y de Oposición]] — problemas numéricos que usan integrador/derivador.
-> - Luego: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/06 - Aplicaciones de Integrados 555 - ADC - PWM\|06 - Aplicaciones de Integrados 555 - ADC - PWM]] y [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/07 - Lógica fija y tablas de verdad\|07 - Lógica fija y tablas de verdad]].
+> - Previo: [[03 - Configuraciones Lineales Básicas del OPAM]] — inversor/no inversor/sumadores (base sin $C$).
+> - Previo ruido: [[02 - Aplicaciones de los OPAMs - Minimización de Ruido#🌊 Filtros Activos — Extendiendo los Filtros Pasivos|02 - Filtros activos]] — integrador visto como LPF activo.
+> - Siguiente: [[05 - Ejercicios Resueltos y de Oposición]] — problemas numéricos que usan integrador/derivador.
+> - Luego: [[06 - Aplicaciones de Integrados 555 - ADC - PWM]] y [[07 - Lógica fija y tablas de verdad]].
 
 ---
 

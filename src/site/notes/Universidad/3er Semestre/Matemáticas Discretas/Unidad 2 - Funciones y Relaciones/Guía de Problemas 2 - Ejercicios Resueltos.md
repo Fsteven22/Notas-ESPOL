@@ -18,7 +18,7 @@
 
 ---
 
-![Guía de problemas 2 MD.pdf](/img/user/Universidad/3er%20Semestre/Matem%C3%A1ticas%20Discretas/Unidad%200%20-%20Guias%20y%20Ejercicios/Gu%C3%ADa%20de%20problemas%202%20MD.pdf)
+<iframe src="/img/user/Universidad/3er%20Semestre/Matem%C3%A1ticas%20Discretas/Unidad%200%20-%20Guias%20y%20Ejercicios/Gu%C3%ADa%20de%20problemas%202%20MD.pdf" width="100%" height="900px" title="Guía de problemas 2 MD.pdf" style="border:1px solid #ccc;"></iframe>
 
 ## 🔢 2.1 — Funciones Inyectiva, Sobreyectiva, Composición e Inversa
 
@@ -327,7 +327,7 @@
 > 
 > **Enunciado:** $X = \{4,5,7,8\}$, $xRy \iff (3y \bmod x) > 1$.
 > 
-> **(a) Cálculo de todos los pares:** Evaluamos $3y \bmod x$ para cada [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/05 - Permutaciones y Combinaciones\|combinación]]:
+> **(a) Cálculo de todos los pares:** Evaluamos $3y \bmod x$ para cada [[05 - Permutaciones y Combinaciones|combinación]]:
 > 
 > | $(x,y)$ | $3y$ | $3y \bmod x$ | $> 1$? |
 > |---|---|---|---|
@@ -483,7 +483,7 @@
 > 
 > $R$ es **orden parcial** sobre $X$. $\blacksquare$
 
-> [!example]- 📝 Ejercicio 16 — [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/01 - Divisibilidad y Números Primos\|Divisibilidad]] es orden parcial sobre $\mathbb{N}$
+> [!example]- 📝 Ejercicio 16 — [[01 - Divisibilidad y Números Primos|Divisibilidad]] es orden parcial sobre $\mathbb{N}$
 > 
 > **Enunciado:** $X = \mathbb{N}$, $aRb \iff a \mid b$. Demuestre que $R$ es orden parcial.
 > 
@@ -495,7 +495,7 @@
 > 
 > $R$ es **orden parcial** sobre $\mathbb{N}$. $\blacksquare$
 
-> [!example]- 📝 Ejercicio 17 — $ARB \iff A \cup Y = B \cup Y$ es [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/03 - Propiedades y Equivalencia\|relación de equivalencia]]
+> [!example]- 📝 Ejercicio 17 — $ARB \iff A \cup Y = B \cup Y$ es [[03 - Propiedades y Equivalencia|relación de equivalencia]]
 > 
 > **Enunciado:** $X = \{1,2,3,4,5\}$, $Y = \{3,4\}$, relación $R$ sobre $\mathcal{P}(X)$: $ARB \iff A \cup Y = B \cup Y$.
 > 
@@ -633,7 +633,7 @@
 
 ## ∑ 2.4 — Sucesiones, Notación Sigma y Producto
 
-> [!example]- 📝 Ejercicio 22 — [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/04 - Sucesiones y Cadenas\|Sucesión]] $s_n = 2^n + 4 \cdot 3^n$
+> [!example]- 📝 Ejercicio 22 — [[04 - Sucesiones y Cadenas|Sucesión]] $s_n = 2^n + 4 \cdot 3^n$
 > 
 > **Enunciado:** $s_n = 2^n + 4 \cdot 3^n$, $n \geq 0$.
 > 
@@ -860,12 +860,12 @@ graph TD
 > - R. Johnsonbaugh, _Discrete Mathematics_, 8th ed., Pearson, 2017.
 
 > [!quote] 🔗 Conexiones
-> - Funciones: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/01 - Funciones\|01 - Funciones]] — base de los Ej. 1–8.
-> - Relaciones: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/02 - Relaciones\|02 - Relaciones]] — base de los Ej. 9–14.
-> - Equivalencia y orden: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/03 - Propiedades y Equivalencia\|03 - Propiedades y Equivalencia]] — base de los Ej. 15–21.
-> - Sucesiones: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/04 - Sucesiones y Cadenas\|04 - Sucesiones y Cadenas]] — base de los Ej. 22–28.
-> - Conteo: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/05 - Permutaciones y Combinaciones\|05 - Permutaciones y Combinaciones]] — técnica afín al conteo de pares en Ej. 11.
-> - Divisibilidad: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/01 - Divisibilidad y Números Primos\|01 - Divisibilidad y Números Primos]] — base del criterio del Ej. 28.
-> - Anterior: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/Guía de Problemas 1 - Ejercicios Resueltos\|Guía de Problemas 1 - Ejercicios Resueltos]] — lógica, conjuntos e inducción.
+> - Funciones: [[01 - Funciones]] — base de los Ej. 1–8.
+> - Relaciones: [[02 - Relaciones]] — base de los Ej. 9–14.
+> - Equivalencia y orden: [[03 - Propiedades y Equivalencia]] — base de los Ej. 15–21.
+> - Sucesiones: [[04 - Sucesiones y Cadenas]] — base de los Ej. 22–28.
+> - Conteo: [[05 - Permutaciones y Combinaciones]] — técnica afín al conteo de pares en Ej. 11.
+> - Divisibilidad: [[01 - Divisibilidad y Números Primos]] — base del criterio del Ej. 28.
+> - Anterior: [[Guía de Problemas 1 - Ejercicios Resueltos]] — lógica, conjuntos e inducción.
 
 **Tags:** #matematicas-discretas #guia-problemas #funciones #relaciones #sucesiones #induccion #demostraciones #MATG1051

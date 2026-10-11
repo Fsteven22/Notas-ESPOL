@@ -27,9 +27,9 @@ graph LR
 ```
 
 > [!quote] 🔗 Conexiones
-> - Previo: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/04 - Cardinalidad y Leyes de Cardinalidad\|04 - Cardinalidad y Leyes de Cardinalidad]] (Unidad 1)
-> - Siguiente: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/01 - Divisibilidad y Números Primos\|01 - Divisibilidad y Números Primos]] (Unidad 3)
-> - MOC general: [[Universidad/3er Semestre/Matemáticas Discretas/Matemáticas Discretas\|Matemáticas Discretas]]
+> - Previo: [[04 - Cardinalidad y Leyes de Cardinalidad]] (Unidad 1)
+> - Siguiente: [[01 - Divisibilidad y Números Primos]] (Unidad 3)
+> - MOC general: [[Matemáticas Discretas]]
 
 ---
 **Tags:** #MATG1051 #unidad2 #indice #discretas

@@ -30,7 +30,6 @@
 >     A[🪑 Objeto Java<br/>en memoria] -->|Serialización| B[📦 Bytes<br/>secuencia]
 >     B -->|Almacenar/Enviar| C[💾 Archivo<br/>o Red]
 >     C -->|Deserialización| D[🪑 Objeto Java<br/>reconstruido]
->     
 >     style A fill:#e1f5ff
 >     style B fill:#fff4e1
 >     style C fill:#ffe1e1
@@ -144,7 +143,6 @@
 >     participant OOS as ObjectOutputStream
 >     participant FOS as FileOutputStream
 >     participant F as Archivo
->     
 >     P->>OOS: writeObject(objeto)
 >     OOS->>OOS: Convertir a bytes
 >     OOS->>FOS: Escribir bytes
@@ -236,7 +234,6 @@
 >     participant FIS as FileInputStream
 >     participant OIS as ObjectInputStream
 >     participant P as Programa
->     
 >     P->>OIS: readObject()
 >     OIS->>FIS: Leer bytes
 >     FIS->>F: Cargar desde disco
@@ -488,15 +485,12 @@
 >     A{¿Qué usar?} --> B{¿Solo Java?}
 >     B -->|Sí| C[Serialización Java]
 >     B -->|No| D{¿Formato?}
->     
 >     D --> E[Datos estructurados<br/>simples]
 >     D --> F[Documentos<br/>complejos]
 >     D --> G[Gran volumen<br/>consultas]
->     
 >     E --> H[JSON]
 >     F --> I[XML]
 >     G --> J[Base de Datos]
->     
 >     style C fill:#e1f5ff
 >     style H fill:#e1ffe1
 >     style I fill:#fff4e1

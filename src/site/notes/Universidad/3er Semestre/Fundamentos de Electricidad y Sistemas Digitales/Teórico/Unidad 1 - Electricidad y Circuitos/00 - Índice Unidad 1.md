@@ -31,8 +31,8 @@ graph LR
 ```
 
 > [!quote] 🔗 Conexiones
-> - Siguiente unidad: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/01 - Semiconductores y Bandas de Energía\|01 - Semiconductores y Bandas de Energía]] (Unidad 2)
-> - MOC general: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Fundamentos de Electricidad y Sistemas Digitales\|Fundamentos de Electricidad y Sistemas Digitales]]
+> - Siguiente unidad: [[01 - Semiconductores y Bandas de Energía]] (Unidad 2)
+> - MOC general: [[Fundamentos de Electricidad y Sistemas Digitales]]
 
 ---
 **Tags:** #FESD #unidad1 #indice

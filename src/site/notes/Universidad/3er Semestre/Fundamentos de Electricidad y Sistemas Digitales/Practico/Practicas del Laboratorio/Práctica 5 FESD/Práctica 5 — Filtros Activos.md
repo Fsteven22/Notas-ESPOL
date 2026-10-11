@@ -154,7 +154,7 @@
 
 ## 📄 Informe
 
-> Usa [FORMATO INFORME DE PRÁCTICA.pdf](/img/user/Universidad/3er%20Semestre/Fundamentos%20de%20Electricidad%20y%20Sistemas%20Digitales/Practico/Fundamentos%20del%20Laboratorio/FORMATO%20INFORME%20DE%20PR%C3%81CTICA.pdf) y [Formato Pre-prácticas.pdf](/img/user/Universidad/3er%20Semestre/Fundamentos%20de%20Electricidad%20y%20Sistemas%20Digitales/Practico/Fundamentos%20del%20Laboratorio/Formato%20Pre-pr%C3%A1cticas.pdf) para entregar. Simulaciones en Proteus.
+> Usa [[FORMATO INFORME DE PRÁCTICA.pdf]] y [[Formato Pre-prácticas.pdf]] para entregar. Simulaciones en Proteus.
 
 ## Metas de Aprendizaje
 
@@ -174,9 +174,9 @@
 > - [ ] Explico por qué el voltaje DC persiste en todo el barrido de frecuencia del filtro.
 >
 > [!quote] 🔗 Conexiones
-> - Teoría: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/02 - Aplicaciones de los OPAMs - Minimización de Ruido\|02 - Aplicaciones de los OPAMs - Minimización de Ruido]], [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/03 - Configuraciones Lineales Básicas del OPAM\|03 - Configuraciones Lineales Básicas del OPAM]] y [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/04 - Integrador, Derivador y Circuitos No Lineales\|04 - Integrador, Derivador y Circuitos No Lineales]]
-> - Previa: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Practico/Practicas del Laboratorio/Práctica 4 FESD/Práctica 4 — Fuentes Lineales\|Práctica 4 — Fuentes Lineales]]
-> - Siguiente: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Practico/Practicas del Laboratorio/Práctica 6 FESD/Práctica 6 — Logica Combinatoria y Arduino\|Práctica 6 — Logica Combinatoria y Arduino]]
+> - Teoría: [[02 - Aplicaciones de los OPAMs - Minimización de Ruido]], [[03 - Configuraciones Lineales Básicas del OPAM]] y [[04 - Integrador, Derivador y Circuitos No Lineales]]
+> - Previa: [[Práctica 4 — Fuentes Lineales]]
+> - Siguiente: [[Práctica 6 — Logica Combinatoria y Arduino]]
 
 ---
 
@@ -184,5 +184,5 @@
 
 ## 📎 Guía oficial (Garden)
 
-[[PRÁCTICA # 5FUNCIONAMIENTO DE FILTROS ACTIVOS.pdf\|PRÁCTICA # 5FUNCIONAMIENTO DE FILTROS ACTIVOS.pdf]]
+![[PRÁCTICA # 5FUNCIONAMIENTO DE FILTROS ACTIVOS.pdf]]
 **Tags:** #practica #laboratorio #EYAG1037 #FESD #ESPOL #unidad3 #OPAMP #filtro #LM358

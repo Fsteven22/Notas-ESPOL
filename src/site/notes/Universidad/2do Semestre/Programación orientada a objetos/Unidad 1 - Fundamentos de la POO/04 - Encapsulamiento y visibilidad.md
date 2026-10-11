@@ -97,21 +97,17 @@ graph TB
 >     A{¿Qué estás<br/>declarando?} --> B[Atributo]
 >     A --> C[Método]
 >     A --> D[Clase]
->     
 >     B --> E{¿Debe ser<br/>modificable<br/>externamente?}
 >     E -->|No| F[🔴 private]
 >     E -->|Sí, con control| G[🟢 private + getter/setter]
 >     E -->|Sí, libremente| H[🟢 public - Raramente]
->     
 >     C --> I{¿Parte de la<br/>interfaz pública?}
 >     I -->|Sí| J[🟢 public]
 >     I -->|No| K[🔴 private]
 >     I -->|Solo herencia| L[🟡 protected]
->     
 >     D --> M{¿Usada<br/>externamente?}
 >     M -->|Sí| N[🟢 public]
 >     M -->|Solo en paquete| O[🟠 default]
->     
 >     style F fill:#ffe1e1
 >     style G fill:#e1ffe1
 >     style J fill:#e1ffe1
@@ -840,7 +836,6 @@ mindmap
 ````
 
 > [!success]  🎯 Tabla de Referencia Rápida
-> 
 > |Concepto|Cuándo usar|Ejemplo|
 > |---|---|---|
 > |`private`|Atributos y métodos internos|`private String nombre;`|
@@ -849,40 +844,33 @@ mindmap
 > |Getter|Leer atributo privado|`public String getNombre()`|
 > |Setter|Modificar con validación|`public void setEdad(int edad)`|
 > |Método de negocio|Operaciones específicas|`depositar()`, `retirar()`|
-> 
 ---
 
 ## 💪 Ejercicios Prácticos
 
 > [!example] 🎯 Práctica 1: Clase Fecha
-> 
 > ```java
 > public class Fecha {
 >     // Atributos privados
 >     private int dia;
 >     private int mes;
 >     private int anio;
->     
 >     // Constructor con validación
 >     public Fecha(int dia, int mes, int anio) {
 >         setDia(dia);
 >         setMes(mes);
 >         setAnio(anio);
 >     }
->     
 >     // Getters
 >     public int getDia() {
 >         return dia;
 >     }
->     
 >     public int getMes() {
 >         return mes;
 >     }
->     
 >     public int getAnio() {
 >         return anio;
 >     }
->     
 >     // Setters con validación
 >     public void setDia(int dia) {
 >         if (dia < 1 || dia > 31) {
@@ -890,26 +878,22 @@ mindmap
 >         }
 >         this.dia = dia;
 >     }
->     
 >     public void setMes(int mes) {
 >         if (mes < 1 || mes > 12) {
 >             throw new IllegalArgumentException("Mes debe estar entre 1 y 12");
 >         }
 >         this.mes = mes;
 >     }
->     
 >     public void setAnio(int anio) {
 >         if (anio < 1900 || anio > 2100) {
 >             throw new IllegalArgumentException("Año debe estar entre 1900 y 2100");
 >         }
 >         this.anio = anio;
 >     }
->     
 >     // Método computado
 >     public String getFechaFormateada() {
 >         return String.format("%02d/%02d/%04d", dia, mes, anio);
 >     }
->     
 >     public void mostrarInfo() {
 >         System.out.println("📅 Fecha: " + getFechaFormateada());
 >     }

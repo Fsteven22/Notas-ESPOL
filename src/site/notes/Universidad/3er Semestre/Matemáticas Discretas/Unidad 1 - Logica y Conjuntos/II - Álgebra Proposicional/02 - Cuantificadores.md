@@ -148,6 +148,56 @@
 
 ---
 
+## ∃! Cuantificador de Existencia Única
+
+> [!note] 📖 Definición 5 — Cuantificador de Existencia Única
+>
+> Sea $P$ una función proposicional con dominio de discurso $D$. La proposición:
+>
+> > "**Existe un único** $x$ en $D$, $P(x)$"
+>
+> es una proposición **cuantificada de existencia única**, y se escribe:
+>
+> $$\exists! x \in D : P(x)$$
+>
+> El símbolo $\exists!$ se llama **cuantificador de existencia única** y significa: "existe exactamente uno" o "existe un único".
+>
+> Equivalentemente: hay al menos uno **y** no hay dos distintos que la cumplan:
+>
+> $$\exists! x \in D : P(x) \equiv \exists x \in D : \left(P(x) \wedge \forall y \in D : (P(y) \to y = x)\right)$$
+
+> [!tip] ⚙️ Valor de Verdad
+>
+> | Condición | Valor de la proposición |
+> |---|---|
+> | $P(x)$ es verdadera para **exactamente un** $x \in D$ | $\exists! x \in D : P(x)$ es **verdadera** |
+> | $P(x)$ es falsa para **todo** $x \in D$ | $\exists! x \in D : P(x)$ es **falsa** |
+> | $P(x)$ es verdadera para **dos o más** $x \in D$ | $\exists! x \in D : P(x)$ es **falsa** |
+
+> [!example] ✅ Ejemplo 12 — Existencia Única Verdadera
+>
+> La proposición:
+>
+> $$\exists! x \in \mathbb{R} : 2x + 4 = 10$$
+>
+> es **verdadera**.
+>
+> **Demostración:** Despejando, $2x = 6$, de donde $x = 2$ es solución. Si $x \neq 2$, entonces $2x + 4 \neq 10$. Luego hay exactamente un $x \in \mathbb{R}$ que la satisface. ✅
+
+> [!example] ❌ Ejemplo 13 — Existencia Única Falsa (dos testigos)
+>
+> La proposición:
+>
+> $$\exists! x \in \mathbb{R} : x^2 = 4$$
+>
+> es **falsa**.
+>
+> **Demostración:** Tanto $x = 2$ como $x = -2$ satisfacen $x^2 = 4$. Como hay **dos** valores distintos que cumplen $P(x)$, no hay unicidad. ❌
+>
+> > Aunque $\exists x \in \mathbb{R} : x^2 = 4$ sí es verdadera, el $\exists!$ exige **exactamente uno**.
+
+---
+
 ## 🔄 Negación de Cuantificadores
 
 > [!important] ⭐ Teorema 2 — Negación de Proposiciones Cuantificadas
@@ -303,9 +353,11 @@
 graph TD
     A[Funciones Proposicionales] --> B[Cuantificador Universal ∀]
     A --> C[Cuantificador Existencial ∃]
+    A --> U[Existencia Única ∃!]
     
     B --> D["∀x∈D: P(x) Verdadera si P(x) V para todo x Falsa si hay un contraejemplo"]
     C --> E["∃x∈D: P(x) Verdadera si P(x) V para algún x Falsa si P(x) F para todo x"]
+    U --> V["∃!x∈D: P(x) Verdadera si P(x) V para exactamente un x"]
     
     D --> F["Negación: ∃x∈D: ¬P(x)"]
     E --> G["Negación: ∀x∈D: ¬P(x)"]
@@ -318,4 +370,4 @@ graph TD
 
 ---
 
-**Tags:** #matematicas-discretas #cuantificadores #cuantificador-universal #cuantificador-existencial #cuantificadores-anidados #funciones-proposicionales #MATG1051
+**Tags:** #matematicas-discretas #cuantificadores #cuantificador-universal #cuantificador-existencial #cuantificador-existencia-unica #cuantificadores-anidados #funciones-proposicionales #MATG1051

@@ -111,7 +111,7 @@
 
 > [!note] 🔌 Rectificador de media onda
 > 
-> El circuito más simple: un solo diodo en serie con la carga (ver [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/02 - El Diodo - Unión P-N\|02 - El Diodo - Unión P-N]]). Solo deja pasar el semiciclo positivo (o negativo, según orientación) de la señal de entrada.
+> El circuito más simple: un solo diodo en serie con la carga (ver [[02 - El Diodo - Unión P-N]]). Solo deja pasar el semiciclo positivo (o negativo, según orientación) de la señal de entrada.
 > 
 > ```mermaid
 > graph LR
@@ -202,9 +202,9 @@
 > 
 > Después del filtro, el voltaje ya es CD pero todavía **varía** — cambia si la carga consume más o menos corriente, o si el voltaje de línea fluctúa. El **regulador** es la etapa final: se encarga de tomar ese voltaje variable y entregar un voltaje de salida **fijo y seguro** para los demás componentes del circuito, sin importar esas variaciones.
 > 
-> > 📌 El detalle de cómo lo logra (Zener, transistor en serie, IC 78xx/79xx, LM317/LM337) se desarrolla en [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/05 - Reguladores en Fuentes Lineales\|05 - Reguladores en Fuentes Lineales]].
+> > 📌 El detalle de cómo lo logra (Zener, transistor en serie, IC 78xx/79xx, LM317/LM337) se desarrolla en [[05 - Reguladores en Fuentes Lineales]].
 
-![ChatGPT Image 14 jul 2026, 21_31_07.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2014%20jul%202026,%2021_31_07.png)
+![[ChatGPT Image 14 jul 2026, 21_31_07.png]]
 
 ---
 
@@ -223,7 +223,7 @@
 >     style E fill:#e1f5ff
 > ```
 > 
-> > 📌 La etapa de **regulación** (Zener, serie o IC) es un tema aparte — ver [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/05 - Reguladores en Fuentes Lineales\|05 - Reguladores en Fuentes Lineales]].
+> > 📌 La etapa de **regulación** (Zener, serie o IC) es un tema aparte — ver [[05 - Reguladores en Fuentes Lineales]].
 
 ---
 
@@ -315,9 +315,9 @@ mindmap
 >
 > [!quote] 🔗 Conexiones
 > 
-> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/02 - El Diodo - Unión P-N\|02 - El Diodo - Unión P-N]] — el rectificador es una aplicación directa del diodo en polarización directa/inversa.
-> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/01 - Semiconductores y Bandas de Energía\|01 - Semiconductores y Bandas de Energía]] — fundamento físico de los diodos usados en la rectificación.
-> - [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 2 - Introducción a la Electrónica/05 - Reguladores en Fuentes Lineales\|05 - Reguladores en Fuentes Lineales]] — tema siguiente de la unidad: reguladores en serie fijos (78xx/79xx) y ajustables (LM317/LM337/LM137).
+> - [[02 - El Diodo - Unión P-N]] — el rectificador es una aplicación directa del diodo en polarización directa/inversa.
+> - [[01 - Semiconductores y Bandas de Energía]] — fundamento físico de los diodos usados en la rectificación.
+> - [[05 - Reguladores en Fuentes Lineales]] — tema siguiente de la unidad: reguladores en serie fijos (78xx/79xx) y ajustables (LM317/LM337/LM137).
 
 ---
 

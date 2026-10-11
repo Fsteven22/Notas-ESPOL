@@ -14,7 +14,7 @@
 
 ### I - Lógica Proporcional
 
-- [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/I - Lógica Proporcional/01 - Proposiciones, conectivos lógicos, tablas de verdad , propiedades y circuitos combinatorio\|01 - Proposiciones, conectivos lógicos, tablas de verdad , propiedades y circuitos combinatorio]]
+- [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/I - Lógica Proporcional/01 - Proposiciones y conectivos\|01 - Proposiciones y conectivos]]
 - [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/I - Lógica Proporcional/02 - Proposiciones Condicionales y Equivalencia Lógica\|02 - Proposiciones Condicionales y Equivalencia Lógica]]
 
 ### II - Álgebra Proposicional
@@ -54,8 +54,8 @@ graph LR
 ```
 
 > [!quote] 🔗 Conexiones
-> - Siguiente unidad: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/01 - Funciones\|01 - Funciones]] (Unidad 2)
-> - MOC general: [[Universidad/3er Semestre/Matemáticas Discretas/Matemáticas Discretas\|Matemáticas Discretas]]
+> - Siguiente unidad: [[01 - Funciones]] (Unidad 2)
+> - MOC general: [[Matemáticas Discretas]]
 
 ---
 **Tags:** #MATG1051 #unidad1 #indice #discretas
