@@ -24,7 +24,6 @@
 >     D --> D1["Variables proxy discriminatorias"]
 >     D --> D2["Métricas de éxito mal definidas"]
 >     E --> E1["Quién define qué es un 'buen' resultado"]
-> 
 >     style A fill:#e1f5ff
 >     style B fill:#ffe1e1
 >     style C fill:#fff4e1
@@ -134,7 +133,6 @@
 >     G --> R["Rendición de cuentas"]
 >     G --> H["Factor humano"]
 >     G --> L["Marco legal"]
-> 
 >     T --> T1["Explicabilidad de decisiones"]
 >     T --> T2["Acceso al código y datos"]
 >     A --> A1["Revisión independiente"]
@@ -145,7 +143,6 @@
 >     H --> H2["Revisión de casos límite"]
 >     L --> L1["GDPR — Europa"]
 >     L --> L2["Leyes de IA emergentes"]
-> 
 >     style G fill:#e1f5ff
 >     style T fill:#e1ffe1
 >     style A fill:#fff4e1

@@ -17,10 +17,8 @@
 > graph TD
 >     A[Grammar & Examples<br/>Unit 1] --> B[Tense Review]
 >     A --> C[Dynamic vs<br/>Stative Verbs]
-> 
 >     B --> D[6 tiempos verbales<br/>estructura · uso · time expressions]
 >     C --> E[Verbos de acción vs estado<br/>reglas y excepciones]
-> 
 >     style B fill:#e1f5ff
 >     style C fill:#e1ffe1
 > ```
@@ -173,10 +171,8 @@
 > graph LR
 >     A[Verbs] --> B[Dynamic]
 >     A --> C[Stative]
-> 
 >     B --> D[Actions in progress<br/>✅ Can use -ing]
 >     C --> E[States / conditions<br/>❌ Avoid -ing]
-> 
 >     style B fill:#e1ffe1
 >     style C fill:#ffe1e1
 > ```

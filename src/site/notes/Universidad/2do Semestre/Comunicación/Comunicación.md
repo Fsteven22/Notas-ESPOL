@@ -15,7 +15,8 @@
 ## Unidad I — Comunicación efectiva *(4h)* → [[Universidad/2do Semestre/Comunicación/Unidad 1 - Comunicación efectiva/00 - Índice Unidad 1\|📂 Índice]]
 
 - [[Universidad/2do Semestre/Comunicación/Unidad 1 - Comunicación efectiva/01 - Escucha activa, empatía y barreras\|01 - Escucha activa, empatía y barreras]]
-- [[Universidad/2do Semestre/Comunicación/Unidad 1 - Comunicación efectiva/02 - Comunicación grupal y estratégica\|02 - Comunicación grupal y estratégica]]
+- [[Universidad/2do Semestre/Comunicación/Unidad 1 - Comunicación efectiva/02 - Comunicación grupal y toma de decisiones\|02 - Comunicación grupal y toma de decisiones]]
+- [[Universidad/2do Semestre/Comunicación/Unidad 1 - Comunicación efectiva/03 - Comunicación estratégica, IIR y pitch personal\|03 - Comunicación estratégica, IIR y pitch personal]]
 
 ---
 

@@ -22,7 +22,6 @@
 >     B --> B4[Comercio Electrónico]
 >     B --> B5[Comunicación]
 >     B --> B6[Política]
-> 
 >     style B fill:#e1f5ff
 >     style B1 fill:#ffe1e1
 >     style B2 fill:#e1ffe1
@@ -114,13 +113,11 @@
 >     A --> D["Sueño y descanso"]
 >     A --> E["Estado emocional"]
 >     A --> F["Productividad"]
-> 
 >     B --> B1["Frecuencia cardíaca<br>Oxigenación<br>Glucosa"]
 >     C --> C1["Pasos<br>Calorías<br>GPS"]
 >     D --> D1["Ciclos de sueño<br>Calidad del descanso"]
 >     E --> E1["Estrés<br>Variabilidad cardíaca"]
 >     F --> F1["Tiempo en pantalla<br>Foco y distracciones"]
-> 
 >     style A fill:#e1f5ff
 >     style B fill:#e1ffe1
 >     style C fill:#fff4e1

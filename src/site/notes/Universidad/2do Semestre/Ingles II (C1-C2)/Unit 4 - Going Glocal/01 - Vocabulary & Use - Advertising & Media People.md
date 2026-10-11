@@ -231,9 +231,9 @@ graph TD
 >
 > [!quote] 🔗 Conexiones
 > 
-> - [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 4 - Going Glocal/02 - Grammar & Examples - Modals of Speculation & Relative Clauses\|02 - Grammar & Examples - Modals of Speculation & Relative Clauses]]
-> - [[03 - Functional Language & Pronunciation - Exchanging Opinions & Vowel Sounds\|03 - Functional Language & Pronunciation - Exchanging Opinions & Vowel Sounds]]
-> - [[04 - Reading Writing Speaking - Building a Brand & Designing Ads\|04 - Reading Writing Speaking - Building a Brand & Designing Ads]]
+> - [[02 - Grammar & Examples - Modals of Speculation & Relative Clauses]]
+> - [[03 - Functional Language & Pronunciation - Exchanging Opinions & Vowel Sounds]]
+> - [[04 - Reading Writing Speaking - Building a Brand & Designing Ads]]
 
 ---
 

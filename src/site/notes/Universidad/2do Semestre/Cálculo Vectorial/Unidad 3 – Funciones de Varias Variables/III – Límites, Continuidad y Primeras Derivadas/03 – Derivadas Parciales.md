@@ -1147,12 +1147,12 @@
 > 
 > **Este tema es prerequisito para:**
 > 
-> - [[09 - Diferenciabilidad\|09 - Diferenciabilidad]] - Derivadas parciales continuas → diferenciabilidad
-> - [[10 - Regla de la Cadena\|10 - Regla de la Cadena]] - Composición de funciones diferenciables
-> - [[11 - Gradiente\|11 - Gradiente]] - Vector formado por derivadas parciales
-> - [[12 - Derivadas Direccionales\|12 - Derivadas Direccionales]] - Generalización de derivadas parciales
-> - [[15 - Optimización\|15 - Optimización]] - Condiciones de primer y segundo orden
-> - [[16 - Multiplicadores de Lagrange\|16 - Multiplicadores de Lagrange]] - Optimización con restricciones
+> - [[09 - Diferenciabilidad]] - Derivadas parciales continuas → diferenciabilidad
+> - [[10 - Regla de la Cadena]] - Composición de funciones diferenciables
+> - [[11 - Gradiente]] - Vector formado por derivadas parciales
+> - [[12 - Derivadas Direccionales]] - Generalización de derivadas parciales
+> - [[15 - Optimización]] - Condiciones de primer y segundo orden
+> - [[16 - Multiplicadores de Lagrange]] - Optimización con restricciones
 > 
 > **Conceptos relacionados:**
 > 
@@ -1161,7 +1161,7 @@
 > - **Diferenciabilidad** - Concepto más fuerte que derivadas parciales
 > - **Ecuaciones Diferenciales Parciales** - Usan extensivamente derivadas parciales
 > 
-> **Siguiente tema recomendado:** [[09 - Diferenciabilidad y Plano Tangente\|09 - Diferenciabilidad y Plano Tangente]]
+> **Siguiente tema recomendado:** [[09 - Diferenciabilidad y Plano Tangente]]
 
 ---
 

@@ -95,9 +95,14 @@ graph TB
 
 ## ⚠️ Problemas Comunes y Soluciones
 
-> [!danger] ❌ Error: Citas APA Inventadas por la IA
+> [!danger] ❌ Error: Citas APA Inventadas por la IA (viola **verificación de fuentes**)
 >
 > **Síntomas:** referencias con DOI falso o páginas que no existen.
+>
+> **Ejemplo completo:**
+>
+> - ❌ **EL ERROR ESTÁ AQUÍ:** bibliografía entregada con "Pérez, J. (2022). *Escucha y cerebro*. Revista NeuroCom, 4(2), 12-20. https://doi.org/10.xxxx/falso" — el DOI no resuelve y la revista no existe.
+> - ✅ Así sí: pedir a la IA solo estructura y armar cada referencia desde el PDF real abierto, cruzando 1 búsqueda académica.
 >
 > **Solución:**
 >
@@ -178,11 +183,11 @@ mindmap
 
 > [!info] 📚 Seguir estudiando
 >
-> - Mapa de contenido: [[Universidad/2do Semestre/Comunicación/Comunicación\|Comunicación]]
-> - Índice Unidad 3: [[Universidad/2do Semestre/Comunicación/Unidad 3 - Redacción/00 - Índice Unidad 3\|00 - Índice Unidad 3]]
-> - Anterior: [[Universidad/2do Semestre/Comunicación/Unidad 3 - Redacción/02 - Informes técnicos y ejecutivos, síntesis y paráfrasis\|02 - Informes técnicos y ejecutivos, síntesis y paráfrasis]]
-> - Syllabus: [[Universidad/2do Semestre/Comunicación/Bienvenida y Syllabus Comunicación\|Bienvenida y Syllabus Comunicación]]
-> - Base MOOC: [[Universidad/Preuniversitario/MOOC de Comunicación/Comunicación Efectiva\|MOOC de Comunicación]]
+> - Mapa de contenido: [[Comunicación]]
+> - Índice Unidad 3: [[00 - Índice Unidad 3]]
+> - Anterior: [[02 - Informes técnicos y ejecutivos, síntesis y paráfrasis]]
+> - Syllabus: [[Bienvenida y Syllabus Comunicación]]
+> - Base MOOC: [[Preuniversitario/MOOC de Comunicación/Comunicación Efectiva|MOOC de Comunicación]]
 
 ## 📚 Referencias
 

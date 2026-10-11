@@ -2272,30 +2272,30 @@ graph TB
 > 
 > **📖 Prerequisites (Prerrequisitos):**
 > 
-> - [[03 - Matriz Jacobiana\|03 - Matriz Jacobiana]] - Fundamento de la regla de la cadena
-> - [[02 - Vectores en ℝ³\|02 - Vectores en ℝ³]] - Notación vectorial y operaciones
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Herramientas Matemáticas/Derivadas Parciales\|Derivadas Parciales]] - Base de la derivación multivariable
-> - [[Álgebra de Matrices\|Álgebra de Matrices]] - Multiplicación matricial
+> - [[03 - Matriz Jacobiana]] - Fundamento de la regla de la cadena
+> - [[02 - Vectores en ℝ³]] - Notación vectorial y operaciones
+> - [[Derivadas Parciales]] - Base de la derivación multivariable
+> - [[Álgebra de Matrices]] - Multiplicación matricial
 > 
 > **➡️ Extensiones directas:**
 > 
-> - [[05 - Diferencial Total\|05 - Diferencial Total]] - Aproximación lineal de funciones compuestas
-> - [[Teorema de la Función Implícita\|Teorema de la Función Implícita]] - Derivadas de ecuaciones implícitas
-> - [[Teorema de la Función Inversa\|Teorema de la Función Inversa]] - Relación con derivadas de inversas
+> - [[05 - Diferencial Total]] - Aproximación lineal de funciones compuestas
+> - [[Teorema de la Función Implícita]] - Derivadas de ecuaciones implícitas
+> - [[Teorema de la Función Inversa]] - Relación con derivadas de inversas
 > 
 > **🔧 Aplicaciones:**
 > 
-> - [[Backpropagation en Redes Neuronales\|Backpropagation en Redes Neuronales]] - Algoritmo de entrenamiento
-> - [[Optimización con Gradiente Descendente\|Optimización con Gradiente Descendente]] - Minimización de funciones
-> - [[Dinámica de Sistemas\|Dinámica de Sistemas]] - Ecuaciones diferenciales acopladas
-> - [[Cambio de Variables en Integrales\|Cambio de Variables en Integrales]] - Teorema del cambio de variable
+> - [[Backpropagation en Redes Neuronales]] - Algoritmo de entrenamiento
+> - [[Optimización con Gradiente Descendente]] - Minimización de funciones
+> - [[Dinámica de Sistemas]] - Ecuaciones diferenciales acopladas
+> - [[Cambio de Variables en Integrales]] - Teorema del cambio de variable
 > 
 > **🌐 Temas relacionados:**
 > 
-> - [[Formas Diferenciales\|Formas Diferenciales]] - Generalización geométrica
-> - [[Cálculo Tensorial\|Cálculo Tensorial]] - Derivadas en variedades
-> - [[Automatic Differentiation\|Automatic Differentiation]] - Implementación computacional
-> - [[Análisis Funcional\|Análisis Funcional]] - Derivadas de Fréchet
+> - [[Formas Diferenciales]] - Generalización geométrica
+> - [[Cálculo Tensorial]] - Derivadas en variedades
+> - [[Automatic Differentiation]] - Implementación computacional
+> - [[Análisis Funcional]] - Derivadas de Fréchet
 > 
 > ## 📖 Tabla Resumen
 > 

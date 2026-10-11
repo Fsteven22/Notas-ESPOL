@@ -17,7 +17,6 @@
 >     B --> C[Sistemas operativos<br/>1965-1971]
 >     C --> D[Programación<br/>estructurada<br/>1971-1989]
 >     D --> E[POO y WWW<br/>1990-presente]
->
 >     style A fill:#ffe1e1
 >     style B fill:#fff4e1
 >     style C fill:#e1ffe1
@@ -53,7 +52,6 @@
 > graph LR
 >     A[Instrucciones en<br/>ensamblador] --> B[Programa<br/>ensamblador]
 >     B --> C[Instrucciones en<br/>lenguaje máquina]
->
 >     style A fill:#e1f5ff
 >     style B fill:#e1ffe1
 >     style C fill:#fff4e1
@@ -80,9 +78,7 @@
 >     A[High-level language<br/>FORTRAN · COBOL · LISP]
 >     B[Assembly language]
 >     C[Machine language]
->
 >     A --> B --> C
->
 >     style A fill:#fff4e1
 >     style B fill:#e1f5ff
 >     style C fill:#e1ffe1
@@ -113,9 +109,7 @@
 >     C[High-level languages]
 >     D[Assembly languages]
 >     E[Machine language]
->
 >     A --> B --> C --> D --> E
->
 >     style A fill:#fff4e1
 >     style B fill:#e1f5ff
 >     style C fill:#e1ffe1

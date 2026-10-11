@@ -591,23 +591,23 @@ graph TB
 > 
 > Un campo vectorial $\mathbf{F}$ es **conservativo** si existe una función escalar $f$ tal que:
 > 
-> $\mathbf{F} = \nabla f$
+> $$\mathbf{F} = \nabla f$$
 > 
 > La función $f$ se llama **función potencial** de $\mathbf{F}$.
 > 
 > **Gradiente:**
 > 
-> $\nabla f = \left\langle \frac{\partial f}{\partial x}, \frac{\partial f}{\partial y}, \frac{\partial f}{\partial z} \right\rangle$
+> $$\nabla f = \left\langle \frac{\partial f}{\partial x}, \frac{\partial f}{\partial y}, \frac{\partial f}{\partial z} \right\rangle$$
 > 
 > Por tanto, si $\mathbf{F} = \langle P, Q, R \rangle$ es conservativo:
 > 
-> $P = \frac{\partial f}{\partial x}, \quad Q = \frac{\partial f}{\partial y}, \quad R = \frac{\partial f}{\partial z}$
+> $$P = \frac{\partial f}{\partial x}, \quad Q = \frac{\partial f}{\partial y}, \quad R = \frac{\partial f}{\partial z}$$
 > 
 > **Propiedad fundamental (Independencia de trayectoria):**
 > 
 > Si $\mathbf{F}$ es conservativo con potencial $f$:
 > 
-> $\int_C \mathbf{F} \cdot d\mathbf{r} = f(B) - f(A)$
+> $$\int_C \mathbf{F} \cdot d\mathbf{r} = f(B) - f(A)$$
 > 
 > donde $A$ y $B$ son los puntos inicial y final de $C$.
 > 
@@ -628,7 +628,7 @@ graph TB
 > 
 > **Consecuencia para curvas cerradas:**
 > 
-> $\oint_C \mathbf{F} \cdot d\mathbf{r} = 0$
+> $$\oint_C \mathbf{F} \cdot d\mathbf{r} = 0$$
 > 
 > para cualquier curva cerrada $C$.
 > 
@@ -658,9 +658,9 @@ graph TB
 > 
 > Si $\mathbf{F} = \langle P, Q, R \rangle$ es conservativo en una región simplemente conexa, entonces:
 > 
-> **En 2D:** $\frac{\partial P}{\partial y} = \frac{\partial Q}{\partial x}$
+> **En 2D:** $$\frac{\partial P}{\partial y} = \frac{\partial Q}{\partial x}$$
 > 
-> **En 3D:** $\frac{\partial P}{\partial y} = \frac{\partial Q}{\partial x}, \quad \frac{\partial P}{\partial z} = \frac{\partial R}{\partial x}, \quad \frac{\partial Q}{\partial z} = \frac{\partial R}{\partial y}$
+> **En 3D:** $$\frac{\partial P}{\partial y} = \frac{\partial Q}{\partial x}, \quad \frac{\partial P}{\partial z} = \frac{\partial R}{\partial x}, \quad \frac{\partial Q}{\partial z} = \frac{\partial R}{\partial y}$$
 > 
 > Equivalentemente: $\nabla \times \mathbf{F} = \mathbf{0}$ (rotacional nulo)
 > 
@@ -730,9 +730,9 @@ graph TB
 > 
 > Dado $\mathbf{F} = \langle P, Q \rangle$ conservativo:
 > 
-> 1. Integrar $P$ respecto a $x$: $f(x,y) = \int P(x,y) , dx + g(y)$ donde $g(y)$ es una función de $y$ solamente
+> 1. Integrar $P$ respecto a $x$: $$f(x,y) = \int P(x,y) , dx + g(y)$$ donde $g(y)$ es una función de $y$ solamente
 >     
-> 2. Derivar respecto a $y$ e igualar a $Q$: $\frac{\partial f}{\partial y} = Q$
+> 2. Derivar respecto a $y$ e igualar a $Q$: $$\frac{\partial f}{\partial y} = Q$$
 >     
 > 3. Resolver para encontrar $g(y)$
 >     
@@ -824,7 +824,7 @@ graph TB
 > 
 > Si $\mathbf{F} = \nabla f$ es un campo conservativo y $C$ es una curva suave desde el punto $A$ hasta el punto $B$:
 > 
-> $\int_C \mathbf{F} \cdot d\mathbf{r} = f(B) - f(A)$
+> $$\int_C \mathbf{F} \cdot d\mathbf{r} = f(B) - f(A)$$
 > 
 > **Analogía con cálculo de una variable:**
 > 
@@ -887,11 +887,11 @@ graph TB
 > 
 > Sea $C$ una curva cerrada simple, suave a trozos, orientada positivamente (sentido antihorario) que encierra una región $D$ en el plano. Si $\mathbf{F} = \langle P, Q \rangle$ tiene derivadas parciales continuas en $D$:
 > 
-> $\oint_C P , dx + Q , dy = \iint_D \left(\frac{\partial Q}{\partial x} - \frac{\partial P}{\partial y}\right) dA$
+> $$\oint_C P , dx + Q , dy = \iint_D \left(\frac{\partial Q}{\partial x} - \frac{\partial P}{\partial y}\right) dA$$
 > 
 > O en notación vectorial:
 > 
-> $\oint_C \mathbf{F} \cdot d\mathbf{r} = \iint_D \left(\frac{\partial Q}{\partial x} - \frac{\partial P}{\partial y}\right) dA$
+> $$\oint_C \mathbf{F} \cdot d\mathbf{r} = \iint_D \left(\frac{\partial Q}{\partial x} - \frac{\partial P}{\partial y}\right) dA$$
 > 
 > **Componentes:**
 > 
@@ -925,7 +925,7 @@ graph TB
 > 
 > **Forma de circulación:**
 > 
-> $\oint_C \mathbf{F} \cdot d\mathbf{r} = \iint_D (\nabla \times \mathbf{F}) \cdot \mathbf{k} , dA$
+> $$\oint_C \mathbf{F} \cdot d\mathbf{r} = \iint_D (\nabla \times \mathbf{F}) \cdot \mathbf{k} , dA$$
 > 
 > donde $\nabla \times \mathbf{F} = \left(\frac{\partial Q}{\partial x} - \frac{\partial P}{\partial y}\right)\mathbf{k}$ en 2D.
 
@@ -959,7 +959,7 @@ graph TB
 > 
 > **Fórmula del área:**
 > 
-> $A = \frac{1}{2}\oint_C x , dy - y , dx = \oint_C x , dy = -\oint_C y , dx$
+> $$A = \frac{1}{2}\oint_C x , dy - y , dx = \oint_C x , dy = -\oint_C y , dx$$
 > 
 > **Demostración:**
 > 

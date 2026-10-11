@@ -169,8 +169,8 @@ graph TD
 >
 > [!quote] 🔗 Conexiones
 > 
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 3 - Representación de la información/I - Sistemas de Numeración/07 - Números Negativos\|07 - Números Negativos]] — ambas notas forman parte del bloque de representación de la información de la Unidad 3.
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 3 - Representación de la información/II - Compresión de Datos/02 - Keyword Encoding y ASCII\|02 - Keyword Encoding y ASCII]] — primer algoritmo concreto de compresión sin pérdida que se explora en esta carpeta.
+> - [[07 - Números Negativos]] — ambas notas forman parte del bloque de representación de la información de la Unidad 3.
+> - [[02 - Keyword Encoding y ASCII]] — primer algoritmo concreto de compresión sin pérdida que se explora en esta carpeta.
 
 ---
 

@@ -18,10 +18,8 @@
 > graph TD
 >     A["Functional Language<br/>& Pronunciation — Unit 4"] --> B["Exchanging Opinions"]
 >     A --> C["Pronunciation"]
-> 
 >     B --> D["Giving opinions<br/>Discussing/disagreeing<br/>Being emphatic"]
 >     C --> E["/ɒ/ vs /ʌ/<br/>Stress for topic organization"]
-> 
 >     style B fill:#e8eaf6
 >     style C fill:#e0f7fa
 > ```
@@ -240,9 +238,9 @@ graph TD
 >
 > [!quote] 🔗 Conexiones
 > 
-> - [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 4 - Going Glocal/01 - Vocabulary & Use - Advertising & Media People\|01 - Vocabulary & Use - Advertising & Media People]]
-> - [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 4 - Going Glocal/02 - Grammar & Examples - Modals of Speculation & Relative Clauses\|02 - Grammar & Examples - Modals of Speculation & Relative Clauses]]
-> - [[04 - Reading Writing Speaking - Building a Brand & Designing Ads\|04 - Reading Writing Speaking - Building a Brand & Designing Ads]]
+> - [[01 - Vocabulary & Use - Advertising & Media People]]
+> - [[02 - Grammar & Examples - Modals of Speculation & Relative Clauses]]
+> - [[04 - Reading Writing Speaking - Building a Brand & Designing Ads]]
 
 ---
 

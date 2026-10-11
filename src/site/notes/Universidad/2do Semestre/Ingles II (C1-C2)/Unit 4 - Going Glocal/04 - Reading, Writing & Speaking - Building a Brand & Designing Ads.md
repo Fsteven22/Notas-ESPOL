@@ -17,10 +17,8 @@
 > graph TD
 >     A["Reading, Writing & Speaking<br/>Unit 4"] --> B["Building a Brand"]
 >     A --> C["Design an Ad"]
-> 
 >     B --> D["Caso Havaianas<br/>Reasons & consequences"]
 >     C --> E["Endorsement · Association of ideas<br/>Visual appeal · Technology · Guilt"]
-> 
 >     style B fill:#e8eaf6
 >     style C fill:#e0f7fa
 > ```
@@ -240,9 +238,9 @@ graph TD
 >
 > [!quote] 🔗 Conexiones
 > 
-> - [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 4 - Going Glocal/01 - Vocabulary & Use - Advertising & Media People\|01 - Vocabulary & Use - Advertising & Media People]]
-> - [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 4 - Going Glocal/02 - Grammar & Examples - Modals of Speculation & Relative Clauses\|02 - Grammar & Examples - Modals of Speculation & Relative Clauses]]
-> - [[03 - Functional Language & Pronunciation - Exchanging Opinions & Vowel Sounds\|03 - Functional Language & Pronunciation - Exchanging Opinions & Vowel Sounds]]
+> - [[01 - Vocabulary & Use - Advertising & Media People]]
+> - [[02 - Grammar & Examples - Modals of Speculation & Relative Clauses]]
+> - [[03 - Functional Language & Pronunciation - Exchanging Opinions & Vowel Sounds]]
 
 ---
 

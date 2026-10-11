@@ -63,25 +63,19 @@
 >     A --> D[Transformación Recíproca]
 >     A --> E[Transformación Trigonométrica]
 >     A --> F[Transformación Múltiple]
->     
 >     B --> B1["ln(y) vs x → Exponencial"]
 >     B --> B2["ln(y) vs ln(x) → Potencial"]
 >     B --> B3["y vs ln(x) → Logarítmica"]
->     
 >     C --> C1["y vs x² → Cuadrática"]
 >     C --> C2["√y vs x → Raíz cuadrada"]
 >     C --> C3["y² vs x → Cuadrática inversa"]
->     
 >     D --> D1["1/y vs x → Hiperbólica"]
 >     D --> D2["y vs 1/x → Recíproca"]
 >     D --> D3["1/y vs 1/x → Racional"]
->     
 >     E --> E1["sin(y) vs x → Periódica"]
 >     E --> E2["arcsin(y) vs x → Sinusoidal"]
->     
 >     F --> F1["ln(y-c) vs x → Offset exponencial"]
 >     F --> F2["1/(y-c) vs x → Offset hiperbólica"]
->     
 >     style A fill:#e1f5fe
 >     style B fill:#f3e5f5
 >     style C fill:#fff3e0
@@ -274,31 +268,26 @@
 > graph TD
 >     A[Transformación Logarítmica] --> B[Semi-logarítmica]
 >     A --> C[Doble-logarítmica]
->     
 >     B --> B1[Decaimiento Radiactivo]
 >     B --> B2[Descarga de Capacitor]
 >     B --> B3[Ley de Enfriamiento]
 >     B --> B4[Crecimiento Poblacional]
 >     B --> B5[Absorción de Luz]
->     
 >     C --> C1[Leyes de Potencia]
 >     C --> C2[Escalamiento]
 >     C --> C3[Distribuciones]
 >     C --> C4[Fractales]
 >     C --> C5[Alometría]
->     
 >     B1 --> B1a["N(t) = N₀e^(-λt)"]
 >     B2 --> B2a["V(t) = V₀e^(-t/RC)"]
 >     B3 --> B3a["T(t) = T∞ + ΔT₀e^(-kt)"]
 >     B4 --> B4a["P(t) = P₀e^(rt)"]
 >     B5 --> B5a["I = I₀e^(-μx)"]
->     
 >     C1 --> C1a["F = kr^(-n)"]
 >     C2 --> C2a["y = ax^b"]
 >     C3 --> C3a["P(x) = cx^(-α)"]
 >     C4 --> C4a["N(r) ∝ r^D"]
 >     C5 --> C5a["M ∝ L^β"]
->     
 >     style A fill:#e1f5fe
 >     style B fill:#f3e5f5
 >     style C fill:#fff3e0
@@ -738,22 +727,17 @@
 >     B --> C[Aplicación de Transformación]
 >     C --> D[Regresión Lineal]
 >     D --> E[Evaluación de Calidad]
->     
 >     E --> F{¿Linealización Exitosa?}
 >     F -->|Sí| G[Interpretación de Parámetros]
 >     F -->|No| H[Prueba Nueva Transformación]
->     
 >     G --> I[Transformación Inversa]
 >     I --> J[Validación con Datos Originales]
 >     J --> K[Reporte de Resultados]
->     
 >     H --> B
->     
 >     E --> E1[Coeficiente r]
 >     E --> E2[Análisis de Residuos]  
 >     E --> E3[Significado Físico]
 >     E --> E4[Comparación Teórica]
->     
 >     style A fill:#e1f5fe
 >     style K fill:#e8f5e8
 >     style H fill:#ffebee
@@ -1290,11 +1274,11 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Gráficas Lineales\|Gráficas Lineales]] - Fundamento necesario previo
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis Gráfico/Gráficas no lineales\|Gráficas no lineales]] - Identificación de patrones
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Herramientas Matemáticas/Estadística Básica\|Estadística Básica]] - Base matemática
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis de Datos y Errores/Incertidumbres Experimentales\|Incertidumbres Experimentales]] - Propagación de errores
-> - [[Análisis Dimensional\|Análisis Dimensional]] - Verificación física de parámetros
+> - [[Gráficas Lineales]] - Fundamento necesario previo
+> - [[Gráficas no lineales]] - Identificación de patrones
+> - [[Estadística Básica]] - Base matemática
+> - [[Incertidumbres Experimentales]] - Propagación de errores
+> - [[Análisis Dimensional]] - Verificación física de parámetros
 
 ## 🎯 Ejercicios y Problemas
 

@@ -1272,20 +1272,20 @@
 > 
 > ### Prerequisitos:
 > 
-> - **[[08 - Derivadas Parciales\|08 - Derivadas Parciales]]** - Base para todo
-> - **[[09 - Derivada Direccional\|09 - Derivada Direccional]]** - Caso especial
-> - **[[10 - Diferenciabilidad\|10 - Diferenciabilidad]]** - Concepto fundamental
-> - **[[11 - Funciones de Clase C¹\|11 - Funciones de Clase C¹]]** - Hipótesis central
-> - **[[12 - Matriz Jacobiana\|12 - Matriz Jacobiana]]** - Herramienta principal
+> - **[[08 - Derivadas Parciales]]** - Base para todo
+> - **[[09 - Derivada Direccional]]** - Caso especial
+> - **[[10 - Diferenciabilidad]]** - Concepto fundamental
+> - **[[11 - Funciones de Clase C¹]]** - Hipótesis central
+> - **[[12 - Matriz Jacobiana]]** - Herramienta principal
 > - **Álgebra Lineal: Determinantes** - Criterio de invertibilidad
 > - **Álgebra Lineal: Sistemas lineales** - Resolución local
 > 
 > ### Este tema es prerequisito para:
 > 
-> - **[[14 - Multiplicadores de Lagrange\|14 - Multiplicadores de Lagrange]]** - Usa función implícita
-> - **[[15 - Optimización con Restricciones\|15 - Optimización con Restricciones]]** - Aplicación directa
-> - **[[16 - Integrales Múltiples\|16 - Integrales Múltiples]]** - Cambio de variables válido
-> - **[[17 - Teoremas Integrales\|17 - Teoremas Integrales]]** - Condiciones de regularidad
+> - **[[14 - Multiplicadores de Lagrange]]** - Usa función implícita
+> - **[[15 - Optimización con Restricciones]]** - Aplicación directa
+> - **[[16 - Integrales Múltiples]]** - Cambio de variables válido
+> - **[[17 - Teoremas Integrales]]** - Condiciones de regularidad
 > - **Geometría Diferencial** - Superficies y variedades
 > - **Ecuaciones Diferenciales** - Existencia y unicidad
 > - **Análisis Complejo** - Funciones holomorfas
@@ -1317,7 +1317,7 @@
 > 
 > ### Siguiente tema recomendado:
 > 
-> **[[14 - Multiplicadores de Lagrange\|14 - Multiplicadores de Lagrange]]** - Aplicación importante de estos teoremas
+> **[[14 - Multiplicadores de Lagrange]]** - Aplicación importante de estos teoremas
 
 ---
 

@@ -15,13 +15,12 @@
 >     A[Sistema Binario] --> B[Base 2]
 >     A --> C[Símbolos: 0, 1]
 >     A --> D[Notación posicional<br/>con potencias de 2]
->
 >     style A fill:#e1f5ff
 >     style B fill:#e1ffe1
 >     style C fill:#fff4e1
 > ```
 
-![ChatGPT Image 21 jun 2026, 13_15_18.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2021%20jun%202026,%2013_15_18.png)
+![[ChatGPT Image 21 jun 2026, 13_15_18.png]]
 
 ---
 
@@ -106,7 +105,6 @@
 >     A["¿Cuántos bits<br/>para N?"] -->|log₂ N| B["Número de bits<br/>n"]
 >     B -->|2ⁿ - 1| C["Máximo<br/>representable"]
 >     C -->|+1| D["Siguiente potencia<br/>de 2"]
->
 >     style A fill:#e1f5ff
 >     style B fill:#e1ffe1
 >     style C fill:#fff4e1
@@ -151,7 +149,7 @@
 >
 > > 📌 **Idea clave:** el binario, octal y hexadecimal no son "otros tipos" de números — son el **mismo concepto posicional** del decimal, solo que con bases distintas (2, 8, 16). La fórmula general es:
 > > $$\text{valor}_{base\,10} = \sum_{i=0}^{n-1} d_i \times \text{base}^i$$
-> > donde cada dígito $d_i$ multiplica una potencia de la base. Dominar esta equivalencia es la llave para todas las conversiones entre sistemas que se ven en [[Universidad/2do Semestre/Computación y Sociedad/Unidad 3 - Representación de la información/I - Sistemas de Numeración/04 - Conversion Decimal-Binario\|04 - Conversion Decimal-Binario]].
+> > donde cada dígito $d_i$ multiplica una potencia de la base. Dominar esta equivalencia es la llave para todas las conversiones entre sistemas que se ven en [[04 - Conversion Decimal-Binario]].
 
 ---
 

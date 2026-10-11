@@ -16,7 +16,6 @@
 >     A --> C[Dígitos 0-9, A-F]
 >     A --> D["16 = 2⁴"]
 >     D --> E[1 dígito hex<br/>= 4 bits = 1 nibble]
->
 >     style A fill:#e1f5ff
 >     style D fill:#fff4e1
 >     style E fill:#e1ffe1
@@ -59,7 +58,7 @@
 
 > [!note] ➗ Divisiones sucesivas entre 16
 >
-> Mismo procedimiento que las conversiones anteriores ([[Universidad/2do Semestre/Computación y Sociedad/Unidad 3 - Representación de la información/I - Sistemas de Numeración/04 - Conversion Decimal-Binario\|04 - Conversion Decimal-Binario]], [[Universidad/2do Semestre/Computación y Sociedad/Unidad 3 - Representación de la información/I - Sistemas de Numeración/05 - Sistema Octal\|05 - Sistema Octal]]), ahora dividiendo entre **16**.
+> Mismo procedimiento que las conversiones anteriores ([[04 - Conversion Decimal-Binario]], [[05 - Sistema Octal]]), ahora dividiendo entre **16**.
 >
 > [!example] ✏️ Ejemplo — Convertir 1957₁₀ a hexadecimal
 >
@@ -123,7 +122,7 @@
 >
 > $$\boxed{A7.5D_{16} = 10100111.01011101_2}$$
 
-![ChatGPT Image 21 jun 2026, 13_45_30.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2021%20jun%202026,%2013_45_30.png)
+![[ChatGPT Image 21 jun 2026, 13_45_30.png]]
 
 ---
 

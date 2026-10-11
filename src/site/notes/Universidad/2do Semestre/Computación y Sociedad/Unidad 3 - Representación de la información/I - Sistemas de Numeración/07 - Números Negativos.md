@@ -234,8 +234,8 @@ graph TD
 >
 > [!quote] 🔗 Conexiones
 > 
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 3 - Representación de la información/I - Sistemas de Numeración/06 - Sistema Hexadecimal\|06 - Sistema Hexadecimal]] — base para entender la representación compacta de estos valores en binario.
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 3 - Representación de la información/I - Sistemas de Numeración/08 - IEEE 754\|08 - IEEE 754]] — el bit de signo aquí es la base conceptual para el signo en punto flotante.
+> - [[06 - Sistema Hexadecimal]] — base para entender la representación compacta de estos valores en binario.
+> - [[08 - IEEE 754]] — el bit de signo aquí es la base conceptual para el signo en punto flotante.
 
 ---
 

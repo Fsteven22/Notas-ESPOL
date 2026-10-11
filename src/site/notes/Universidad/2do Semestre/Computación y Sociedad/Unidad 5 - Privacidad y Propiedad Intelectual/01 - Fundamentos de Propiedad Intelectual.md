@@ -192,8 +192,8 @@ flowchart TD
 
 > [!quote] 🔗 Notas relacionadas
 > 
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 5 - Privacidad y Propiedad Intelectual/02 - Tipos de Propiedad Intelectual - Patentes, Trademarks y Trade Secrets\|02 - Tipos de Propiedad Intelectual - Patentes, Trademarks y Trade Secrets]]
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 5 - Privacidad y Propiedad Intelectual/03 - Infracciones y Protección Digital\|03 - Infracciones y Protección Digital]]
+> - [[02 - Tipos de Propiedad Intelectual - Patentes, Trademarks y Trade Secrets]]
+> - [[03 - Infracciones y Protección Digital]]
 
 ---
 

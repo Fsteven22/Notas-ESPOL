@@ -679,9 +679,9 @@
 > **Encontrar curvas de nivel:**
 > 
 > Plantear $f(x,y) = k$ con $0 \leq k \leq 4$:
-> $\sqrt{16 - x^2 - y^2} = k$
-> $16 - x^2 - y^2 = k^2$
-> $x^2 + y^2 = 16 - k^2$
+> $$\sqrt{16 - x^2 - y^2} = k$$
+> $$16 - x^2 - y^2 = k^2$$
+> $$x^2 + y^2 = 16 - k^2$$
 > 
 > **Para diferentes valores de $k$:**
 > - $k = 0$: $x^2 + y^2 = 16$ → Círculo de radio 4 (borde del dominio)
@@ -707,26 +707,26 @@
 > **Encontrar curvas de nivel:**
 > 
 > Plantear $f(x,y) = k$:
-> $xy = k$
+> $$xy = k$$
 > 
 > **Análisis por casos:**
 > 
 > **Caso 1: $k > 0$**
-> $y = \frac{k}{x}$
+> $$y = \frac{k}{x}$$
 > 
 > Hipérbola en los **cuadrantes I y III**
 > - Para $x > 0$: rama en cuadrante I
 > - Para $x < 0$: rama en cuadrante III
 > 
 > **Caso 2: $k < 0$** (sea $k = -c$ con $c > 0$)
-> $y = -\frac{c}{x}$
+> $$y = -\frac{c}{x}$$
 > 
 > Hipérbola en los **cuadrantes II y IV**
 > - Para $x > 0$: rama en cuadrante IV
 > - Para $x < 0$: rama en cuadrante II
 > 
 > **Caso 3: $k = 0$**
-> $xy = 0$
+> $$xy = 0$$
 > 
 > Los **ejes coordenados** (sin el origen):
 > - Eje $x$ ($y = 0$) y eje $y$ ($x = 0$)
@@ -769,7 +769,7 @@
 > **Encontrar curvas de nivel:**
 > 
 > Plantear $f(x,y) = k$:
-> $(x^2 - 1)(y^2 - 1) = k$
+> $$(x^2 - 1)(y^2 - 1) = k$$
 > 
 > **Análisis de puntos especiales:**
 > 
@@ -779,7 +779,7 @@
 > - Las rectas $x = \pm 1$ y $y = \pm 1$ están todas en el nivel $k = 0$
 > 
 > **Para $k = 0$:**
-> $(x^2 - 1)(y^2 - 1) = 0$
+> $$(x^2 - 1)(y^2 - 1) = 0$$
 > 
 > Esto se cumple cuando:
 > - $x^2 = 1$ → $x = \pm 1$ (dos rectas verticales)
@@ -790,7 +790,7 @@
 > **Para otros valores de $k$:**
 > 
 > Despejando:
-> $y^2 = 1 + \frac{k}{x^2 - 1}$
+> $$y^2 = 1 + \frac{k}{x^2 - 1}$$
 > 
 > Esta ecuación define curvas complejas que cambian de forma según el signo de $k$ y la región del plano.
 > 
@@ -815,18 +815,18 @@
 > **Función:** $f(x,y) = x^2 + y^2 - 2x - 4y$
 > 
 > **Completando cuadrados:**
-> $f(x,y) = (x^2 - 2x) + (y^2 - 4y)$
-> $= (x^2 - 2x + 1 - 1) + (y^2 - 4y + 4 - 4)$
-> $= (x - 1)^2 + (y - 2)^2 - 5$
+> $$f(x,y) = (x^2 - 2x) + (y^2 - 4y)$$
+> $$= (x^2 - 2x + 1 - 1) + (y^2 - 4y + 4 - 4)$$
+> $$= (x - 1)^2 + (y - 2)^2 - 5$$
 > 
 > **Forma estándar:**
-> $f(x,y) = (x - 1)^2 + (y - 2)^2 - 5$
+> $$f(x,y) = (x - 1)^2 + (y - 2)^2 - 5$$
 > 
 > **Encontrar curvas de nivel:**
 > 
 > Plantear $f(x,y) = k$:
-> $(x - 1)^2 + (y - 2)^2 - 5 = k$
-> $(x - 1)^2 + (y - 2)^2 = k + 5$
+> $$(x - 1)^2 + (y - 2)^2 - 5 = k$$
+> $$(x - 1)^2 + (y - 2)^2 = k + 5$$
 > 
 > **Para diferentes valores de $k$:**
 > - $k = -5$: $(x-1)^2 + (y-2)^2 = 0$ → Punto $(1, 2)$ (mínimo)
@@ -852,11 +852,11 @@
 > **Encontrar curvas de nivel:**
 > 
 > Plantear $f(x,y) = k$ con $0 < k \leq 1$:
-> $e^{-\frac{x^2 + y^2}{2}} = k$
+> $$e^{-\frac{x^2 + y^2}{2}} = k$$
 > 
 > Aplicar logaritmo natural:
-> $-\frac{x^2 + y^2}{2} = \ln(k)$
-> $x^2 + y^2 = -2\ln(k)$
+> $$-\frac{x^2 + y^2}{2} = \ln(k)$$
+> $$x^2 + y^2 = -2\ln(k)$$
 > 
 > Como $0 < k \leq 1$, tenemos $\ln(k) \leq 0$, entonces $-2\ln(k) \geq 0$ ✓
 > 
@@ -867,7 +867,7 @@
 > - $k = e^{-\frac{9}{2}} \approx 0.011$: Círculo de radio 3
 > 
 > **Radio en función de $k$:**
-> $r = \sqrt{-2\ln(k)}$
+> $$r = \sqrt{-2\ln(k)}$$
 > 
 > **Observaciones:**
 > - Círculos concéntricos en el origen
@@ -888,7 +888,7 @@
 > **Teorema importante:**
 > El vector gradiente $\nabla f$ en un punto es **perpendicular** a la curva de nivel que pasa por ese punto.
 > 
-> $\nabla f(x_0, y_0) \perp \text{curva de nivel en } (x_0, y_0)$
+> $$\nabla f(x_0, y_0) \perp \text{curva de nivel en } (x_0, y_0)$$
 > 
 > **Consecuencias:**
 > 
@@ -1215,7 +1215,7 @@
 > **3a)** $f(x,y) = e^{x+y}$
 > Curvas de nivel $e^{x+y} = k$:
 > 
-> Aplicar logaritmo natural: $x + y = \ln(k)$
+> Aplicar logaritmo natural: $$x + y = \ln(k)$$
 > 
 > Para $k > 0$:
 > 
@@ -1231,7 +1231,7 @@
 > 
 > Curvas de nivel $\ln(x^2 + y^2) = k$:
 > 
-> $x^2 + y^2 = e^k$
+> $$x^2 + y^2 = e^k$$
 > 
 > - $k = 0$: $x^2 + y^2 = 1$ → Círculo de radio 1
 > - $k = 1$: $x^2 + y^2 = e$ → Círculo de radio $\sqrt{e} \approx 1.65$
@@ -1281,7 +1281,7 @@
 > 
 > **4c)** $f(x,y) = x^2 + 2y^2 - 4x + 8y$
 > 
-> Completando cuadrados: $f(x,y) = (x^2 - 4x + 4) + 2(y^2 + 4y + 4) - 4 - 8$ $= (x-2)^2 + 2(y+2)^2 - 12$
+> Completando cuadrados: $$f(x,y) = (x^2 - 4x + 4) + 2(y^2 + 4y + 4) - 4 - 8$$ $$= (x-2)^2 + 2(y+2)^2 - 12$$
 > 
 > Curvas de nivel: $(x-2)^2 + 2(y+2)^2 = k + 12$
 > 
@@ -1299,11 +1299,11 @@
 > 
 > **Curvas de nivel:** $ax + by = k$
 > 
-> **Vector tangente a la curva:** Para encontrar un vector tangente, despejamos $y$: $y = \frac{k - ax}{b}$
+> **Vector tangente a la curva:** Para encontrar un vector tangente, despejamos $y$: $$y = \frac{k - ax}{b}$$
 > 
 > Vector tangente: $(1, -\frac{a}{b})$ o equivalentemente $(b, -a)$
 > 
-> **Producto punto con $(a,b)$:** $(b, -a) \cdot (a, b) = ab + (-a)b = ab - ab = 0$
+> **Producto punto con $(a,b)$:** $$(b, -a) \cdot (a, b) = ab + (-a)b = ab - ab = 0$$
 > 
 > Como el producto punto es cero, los vectores son perpendiculares. ✓
 > 
@@ -1317,7 +1317,7 @@
 > 
 > Si $g$ es invertible: $r = g^{-1}(k) = R$ (constante)
 > 
-> Por tanto: $\sqrt{x^2 + y^2} = R$ $x^2 + y^2 = R^2$
+> Por tanto: $$\sqrt{x^2 + y^2} = R$$ $$x^2 + y^2 = R^2$$
 > 
 > Esto es un círculo de radio $R$ centrado en el origen. ✓
 > 
@@ -1327,9 +1327,9 @@
 > 
 > **6c)** Encontrar función con curvas de nivel $y = x^2 + k$
 > 
-> Despejando $k$: $k = y - x^2$
+> Despejando $k$: $$k = y - x^2$$
 > 
-> Por tanto, la función es: $f(x,y) = y - x^2$
+> Por tanto, la función es: $$f(x,y) = y - x^2$$
 > 
 > **Verificación:** Curvas de nivel: $y - x^2 = k$ → $y = x^2 + k$ ✓
 > 
@@ -1337,9 +1337,9 @@
 > 
 > **7a)** Temperatura: $T(x,y) = 100 - x^2 - 2y^2$
 > 
-> Isotermas $100 - x^2 - 2y^2 = T$: $x^2 + 2y^2 = 100 - T$
+> Isotermas $100 - x^2 - 2y^2 = T$: $$x^2 + 2y^2 = 100 - T$$
 > 
-> Forma estándar: $\frac{x^2}{100-T} + \frac{y^2}{\frac{100-T}{2}} = 1$
+> Forma estándar: $$\frac{x^2}{100-T} + \frac{y^2}{\frac{100-T}{2}} = 1$$
 > 
 > Para diferentes temperaturas:
 > 
@@ -1359,7 +1359,7 @@
 > 
 > **7c)** Utilidad: $U(x,y) = x^{0.5}y^{0.5} = \sqrt{xy}$
 > 
-> Curvas de indiferencia $\sqrt{xy} = U$: $xy = U^2$
+> Curvas de indiferencia $\sqrt{xy} = U$: $$xy = U^2$$
 > 
 > Para diferentes utilidades:
 > 
@@ -1384,7 +1384,7 @@
 > 
 > ### Definición
 > 
-> **Superficie de nivel** de $f(x,y,z)$ para el valor $k$: $S_k = {(x,y,z) \in \mathbb{R}^3 : f(x,y,z) = k}$
+> **Superficie de nivel** de $f(x,y,z)$ para el valor $k$: $$S_k = {(x,y,z) \in \mathbb{R}^3 : f(x,y,z) = k}$$
 > 
 > ### Ejemplos
 > 
@@ -1597,7 +1597,7 @@
 > 
 > ### Problema 3: Aplicación
 > 
-> La temperatura en una placa metálica está dada por: $T(x,y) = \frac{100}{1 + x^2 + y^2}$
+> La temperatura en una placa metálica está dada por: $$T(x,y) = \frac{100}{1 + x^2 + y^2}$$
 > 
 > a) Encuentra las isotermas para $T = 100, 50, 25$ b) ¿Dónde está la temperatura máxima? c) ¿Qué sucede con la temperatura cuando nos alejamos del origen? d) Dibuja las isotermas
 > 
@@ -1716,7 +1716,7 @@
 > 
 > ### Próximo Tema
 > 
-> **[[05 - Límites en Varias Variables\|05 - Límites en Varias Variables]]**
+> **[[05 - Límites en Varias Variables]]**
 > 
 > - Límites de funciones de dos variables
 > - Continuidad

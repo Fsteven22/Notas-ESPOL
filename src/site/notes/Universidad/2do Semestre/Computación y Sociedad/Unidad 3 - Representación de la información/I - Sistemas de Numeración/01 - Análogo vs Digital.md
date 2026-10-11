@@ -17,7 +17,6 @@
 >     B --> D[Digital<br/>Discreta]
 >     C --> C1[Voltaje fluctúa<br/>suavemente]
 >     D --> D1[Solo 2 estados:<br/>HIGH / LOW]
->
 >     style B fill:#e1f5ff
 >     style C fill:#ffe1e1
 >     style D fill:#e1ffe1
@@ -64,7 +63,7 @@
 > | **Ruido** | Se mezcla con la señal útil | Tolerable hasta cierto umbral |
 > | **Procesamiento** | Requiere circuitos lineales complejos | Compatible con lógica binaria simple |
 
-![ChatGPT Image 21 jun 2026, 13_02_55.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2021%20jun%202026,%2013_02_55.png)
+![[ChatGPT Image 21 jun 2026, 13_02_55.png]]
 
 ---
 
@@ -82,7 +81,6 @@
 >     D --> E["+0.8 V"]
 >     E --> F["Logic LOW<br/>(Binary 0)"]
 >     F --> G["0 V"]
->
 >     style B fill:#e1ffe1
 >     style D fill:#fff4e1
 >     style F fill:#ffe1e1

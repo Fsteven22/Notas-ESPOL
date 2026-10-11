@@ -181,8 +181,8 @@ graph TD
 >
 > [!quote] 🔗 Conexiones
 > 
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 3 - Representación de la información/II - Compresión de Datos/01 - Introducción a la Compresión\|01 - Introducción a la Compresión]] — Keyword Encoding es un ejemplo concreto de compresión sin pérdida introducida ahí.
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 3 - Representación de la información/II - Compresión de Datos/03 - Run Length Encoding\|03 - Run Length Encoding]] — otro algoritmo de compresión sin pérdida, con un enfoque distinto (repetición consecutiva en vez de palabras frecuentes).
+> - [[01 - Introducción a la Compresión]] — Keyword Encoding es un ejemplo concreto de compresión sin pérdida introducida ahí.
+> - [[03 - Run Length Encoding]] — otro algoritmo de compresión sin pérdida, con un enfoque distinto (repetición consecutiva en vez de palabras frecuentes).
 
 ---
 

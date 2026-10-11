@@ -2050,22 +2050,22 @@
 > 
 > **Este tema es continuación de:**
 > 
-> - [[08 - Derivadas Parciales\|08 - Derivadas Parciales]]
+> - [[08 - Derivadas Parciales]]
 >     
-> - [[07 - Límites y Continuidad\|07 - Límites y Continuidad]]
+> - [[07 - Límites y Continuidad]]
 >     
 > 
 > **Este tema es prerequisito para:**
 > 
-> - [[11 - Gradiente y Derivadas Direccionales\|11 - Gradiente y Derivadas Direccionales]]
+> - [[11 - Gradiente y Derivadas Direccionales]]
 >     
-> - [[12 - Regla de la Cadena Multivariable\|12 - Regla de la Cadena Multivariable]]
+> - [[12 - Regla de la Cadena Multivariable]]
 >     
-> - [[13 - Plano Tangente y Aproximación\|13 - Plano Tangente y Aproximación]]
+> - [[13 - Plano Tangente y Aproximación]]
 >     
-> - [[14 - Extremos y Optimización\|14 - Extremos y Optimización]]
+> - [[14 - Extremos y Optimización]]
 >     
-> - [[15 - Multiplicadores de Lagrange\|15 - Multiplicadores de Lagrange]]
+> - [[15 - Multiplicadores de Lagrange]]
 >     
 > 
 > **Conceptos relacionados:**
@@ -2079,7 +2079,7 @@
 > - **Matriz Hessiana**: Derivadas de segundo orden, útil en optimización.
 >     
 > 
-> **Siguiente tema recomendado:** [[11 - Gradiente y Derivadas Direccionales\|11 - Gradiente y Derivadas Direccionales]]
+> **Siguiente tema recomendado:** [[11 - Gradiente y Derivadas Direccionales]]
 > 
 
 ---

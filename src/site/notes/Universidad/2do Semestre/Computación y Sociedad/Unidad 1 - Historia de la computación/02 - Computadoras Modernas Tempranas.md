@@ -17,7 +17,6 @@
 >     B --> C[Teoría de<br/>computación]
 >     C --> D[Primeras computadoras<br/>electrónicas]
 >     D --> E[Arquitectura<br/>Von Neumann]
->
 >     style A fill:#fff4e1
 >     style B fill:#e1f5ff
 >     style C fill:#e1ffe1
@@ -58,7 +57,6 @@
 >     B --> C[Tabla de reglas<br/>estado + símbolo → acción]
 >     C --> D[Nuevo estado<br/>+ símbolo escrito]
 >     D --> B
->
 >     style A fill:#e1f5ff
 >     style B fill:#e1ffe1
 >     style C fill:#fff4e1
@@ -126,7 +124,6 @@
 >     ├── ALU (Unidad Aritmético-Lógica)
 >     └── Registros"] <--> MEM[Memoria Principal<br/>Datos + Instrucciones]
 >     CPU <--> IO[Sistema de<br/>Entrada / Salida]
->
 >     style CPU fill:#e1f5ff
 >     style MEM fill:#e1ffe1
 >     style IO fill:#fff4e1

@@ -24,7 +24,6 @@
 >     C2 --> D3[Conversores texto-voz]
 >     C2 --> D4[Conversores voz-texto]
 >     C2 --> D5[Pantallas adaptadas]
-> 
 >     style B fill:#e1f5ff
 >     style C fill:#e1ffe1
 >     style C2 fill:#fff4e1
@@ -108,23 +107,18 @@
 >     W --> P2["2: Operable<br/>(4 pautas, 9 criterios AA)"]
 >     W --> P3["3: Comprensible<br/>(3 pautas, 5 criterios AA)"]
 >     W --> P4["4: Robusto<br/>(1 pauta, 2 criterios AA)"]
-> 
 >     P1 --> P1a["1.1 Alternativas de texto"]
 >     P1 --> P1b["1.2 Multimedia tempodependiente"]
 >     P1 --> P1c["1.3 Adaptable"]
 >     P1 --> P1d["1.4 Distinguible"]
-> 
 >     P2 --> P2a["2.1 Accesible por teclado"]
 >     P2 --> P2b["2.2 Tiempo suficiente"]
 >     P2 --> P2c["2.3 Sin convulsiones"]
 >     P2 --> P2d["2.4 Navegable"]
-> 
 >     P3 --> P3a["3.1 Legible"]
 >     P3 --> P3b["3.2 Predecible"]
 >     P3 --> P3c["3.3 Asistencia de entrada"]
-> 
 >     P4 --> P4a["4.1 Compatible"]
-> 
 >     style W fill:#e1f5ff
 >     style P1 fill:#e1ffe1
 >     style P2 fill:#fff4e1

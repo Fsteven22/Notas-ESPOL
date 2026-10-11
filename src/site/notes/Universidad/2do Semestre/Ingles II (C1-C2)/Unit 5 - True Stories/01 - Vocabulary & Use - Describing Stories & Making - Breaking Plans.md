@@ -17,10 +17,8 @@
 > graph TD
 >     A["Vocabulary & Use<br/>Unit 5"] --> B["Describing Stories"]
 >     A --> C["Making & Breaking Plans"]
-> 
 >     B --> D["coming-of-age · tearjerker<br/>whodunit · tall tale"]
 >     C --> E["give up · let someone down<br/>hang out · split up"]
-> 
 >     style B fill:#e8eaf6
 >     style C fill:#e0f7fa
 > ```
@@ -245,9 +243,9 @@ graph TD
 >
 > [!quote] 🔗 Conexiones
 > 
-> - [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 5 - True Stories/02 - Grammar & Examples - Past Perfect & Was Were Going To\|02 - Grammar & Examples - Past Perfect & Was Were Going To]]
-> - [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 5 - True Stories/03 - Functional Language & Pronunciation - Reacting to Problems & Final Consonants\|03 - Functional Language & Pronunciation - Reacting to Problems & Final Consonants]]
-> - [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 5 - True Stories/04 - Reading Writing Speaking - The Perfect Apology & A Chance Meeting\|04 - Reading Writing Speaking - The Perfect Apology & A Chance Meeting]]
+> - [[02 - Grammar & Examples - Past Perfect & Was Were Going To]]
+> - [[03 - Functional Language & Pronunciation - Reacting to Problems & Final Consonants]]
+> - [[04 - Reading Writing Speaking - The Perfect Apology & A Chance Meeting]]
 
 ---
 

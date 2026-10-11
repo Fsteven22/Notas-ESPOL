@@ -76,7 +76,6 @@
 >     participant N as Navegador (Cliente)
 >     participant D as DNS
 >     participant S as Servidor Web
-> 
 >     U->>N: Escribe una URL
 >     N->>D: ¿Qué IP corresponde a este dominio?
 >     D-->>N: Devuelve la dirección IP
@@ -184,8 +183,8 @@ graph TD
 >
 > [!quote] 🔗 Conexiones
 > 
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 4 - Historia de Internet/02 - Evolución de la Web\|02 - Evolución de la Web]] — continúa esta historia: qué pasó con la Web una vez creada en 1991.
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 4 - Historia de Internet/03 - Evolución del HTML\|03 - Evolución del HTML]] — el lenguaje que hizo posible la Web que describe esta nota.
+> - [[02 - Evolución de la Web]] — continúa esta historia: qué pasó con la Web una vez creada en 1991.
+> - [[03 - Evolución del HTML]] — el lenguaje que hizo posible la Web que describe esta nota.
 
 ---
 

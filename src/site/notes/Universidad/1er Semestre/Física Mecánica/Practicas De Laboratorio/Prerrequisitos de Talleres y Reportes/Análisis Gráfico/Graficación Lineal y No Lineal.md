@@ -1730,23 +1730,23 @@
 ## 📚 Referencias
 
 >[!quote] **Notas Relacionadas** 
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis Gráfico/Graficas Lineales\|Graficas Lineales]] - Fundamentos de graficación lineal 
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis Gráfico/Gráficas no lineales\|Gráficas no lineales]] - Técnicas para relaciones complejas 
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis Gráfico/Linealización de ecuaciones\|Linealización de ecuaciones]] - Métodos matemáticos 
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis de Datos y Errores/Incertidumbres Experimentales\|Incertidumbres Experimentales]] - Barras de error en gráficos 
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Presentación de Resultados/Cifras Significativas\|Cifras Significativas]] - PrecisiÃ³n en parÃ¡metros calculados 
+> - [[Graficas Lineales]] - Fundamentos de graficación lineal 
+> - [[Gráficas no lineales]] - Técnicas para relaciones complejas 
+> - [[Linealización de ecuaciones]] - Métodos matemáticos 
+> - [[Incertidumbres Experimentales]] - Barras de error en gráficos 
+> - [[Cifras Significativas]] - PrecisiÃ³n en parÃ¡metros calculados 
 > - 
 ## 🎯 Notas Recomendadas 
 > [!note] **Prerrequisitos** 
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Mediciones e Instrumentos/Mediciones Fundamentales\|Mediciones Fundamentales]] - Conceptos básicos de medición
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Análisis de Datos y Errores/Incertidumbres\|Incertidumbres]] - Para barras de error 
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Herramientas Matemáticas/Estadística Básica\|Estadística Básica]] - Para lÃ­neas de mejor ajuste 
+> - [[Mediciones Fundamentales]] - Conceptos básicos de medición
+> - [[Incertidumbres]] - Para barras de error 
+> - [[Estadística Básica]] - Para lÃ­neas de mejor ajuste 
 > - **Matemáticas**: Logaritmos, proporcionalidad 
 > - **Geometría**: Escalas, proporciones 
 >
 >
 >[!note] **Temas Avanzados**  
-> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Herramientas Matemáticas/Estadística Básica\|Estadística Básica]] - Análisis de regresión 
+> - [[Estadística Básica]] - Análisis de regresión 
 > - **Ajuste de curvas**: Métodos de m­ínimos cuadrados 
 
 

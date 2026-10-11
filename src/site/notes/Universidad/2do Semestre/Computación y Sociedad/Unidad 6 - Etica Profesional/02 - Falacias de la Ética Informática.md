@@ -48,7 +48,7 @@
 >
 > [!warning] ⚠️ Por qué es una falacia
 > 
-> La facilidad técnica de copiar algo **no genera un derecho** a hacerlo. Que la información digital sea fácil de duplicar no cambia el hecho de que sigue teniendo un titular de derechos (ver [[Universidad/2do Semestre/Computación y Sociedad/Unidad 5 - Privacidad y Propiedad Intelectual/01 - Fundamentos de Propiedad Intelectual\|01 - Fundamentos de Propiedad Intelectual]]) que decide, en última instancia, si esa copia y distribución están permitidas.
+> La facilidad técnica de copiar algo **no genera un derecho** a hacerlo. Que la información digital sea fácil de duplicar no cambia el hecho de que sigue teniendo un titular de derechos (ver [[01 - Fundamentos de Propiedad Intelectual]]) que decide, en última instancia, si esa copia y distribución están permitidas.
 
 ---
 
@@ -176,7 +176,7 @@ flowchart TD
 > 
 > 7. Diseña un escenario donde una misma persona cometa simultáneamente la Hacker's Fallacy y la falacia del ciudadano que respeta la ley.
 > 8. ¿Por qué crees que la falacia a prueba de impactos es particularmente peligrosa en el contexto de redes sociales y mensajería, comparado con el contexto en que probablemente fue formulada originalmente (correo electrónico)?
-> 9. De las seis falacias, ¿cuál consideras que un código de ética profesional (ver [[Universidad/2do Semestre/Computación y Sociedad/Unidad 6 - Etica Profesional/03 - Códigos de Ética y Casos Reales\|03 - Códigos de Ética y Casos Reales]]) atacaría más directamente, y por qué?
+> 9. De las seis falacias, ¿cuál consideras que un código de ética profesional (ver [[03 - Códigos de Ética y Casos Reales]]) atacaría más directamente, y por qué?
 >
 > [!success]- ✅ Respuestas — Nivel 3
 > 
@@ -218,9 +218,9 @@ flowchart TD
 
 > [!quote] 🔗 Notas relacionadas
 > 
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 6 - Etica Profesional/01 - Fundamentos de Ética y Moral\|01 - Fundamentos de Ética y Moral]]
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 6 - Etica Profesional/03 - Códigos de Ética y Casos Reales\|03 - Códigos de Ética y Casos Reales]]
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 5 - Privacidad y Propiedad Intelectual/01 - Fundamentos de Propiedad Intelectual\|01 - Fundamentos de Propiedad Intelectual]]
+> - [[01 - Fundamentos de Ética y Moral]]
+> - [[03 - Códigos de Ética y Casos Reales]]
+> - [[01 - Fundamentos de Propiedad Intelectual]]
 
 ---
 

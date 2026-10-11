@@ -27,13 +27,10 @@
 >     A[Sentence] --> B{¿Cuántas cláusulas<br/>independientes?}
 >     B -->|Una| C{¿Hay alguna cláusula<br/>dependiente?}
 >     B -->|Dos o más| D{¿Hay alguna cláusula<br/>dependiente?}
->
 >     C -->|No| E[✅ SIMPLE]
 >     C -->|Sí| F[✅ COMPLEX]
->
 >     D -->|No| G[✅ COMPOUND]
 >     D -->|Sí| H[✅ COMPOUND-COMPLEX]
->
 >     style E fill:#e1ffe1
 >     style F fill:#e1f5ff
 >     style G fill:#fff4e1
@@ -170,7 +167,6 @@
 >     A --> C[Complex<br/>1 ind. + 1 dep.]
 >     B --> D[Compound-Complex<br/>2+ ind. + 1+ dep.]
 >     C --> D
->
 >     style A fill:#e1ffe1
 >     style B fill:#fff4e1
 >     style C fill:#e1f5ff

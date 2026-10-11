@@ -17,7 +17,6 @@
 >     B --> C[ARPANET<br/>red militar]
 >     C --> D[Internet<br/>TCP/IP]
 >     D --> E[World Wide Web<br/>WWW]
->
 >     style A fill:#ffe1e1
 >     style B fill:#fff4e1
 >     style C fill:#e1ffe1
@@ -93,7 +92,6 @@
 >     S --- E3[Estación de trabajo 3]
 >     S --- E4[Estación de trabajo 4]
 >     S --- E5[Estación de trabajo 5]
->
 >     style S fill:#e1f5ff
 >     style E1 fill:#e1ffe1
 >     style E2 fill:#e1ffe1
@@ -126,7 +124,6 @@
 >     C --- R3[Router]
 >     R3 --- D[Red LAN — Hogar]
 >     R3 --- E[Red LAN — Gobierno]
->
 >     style R1 fill:#fff4e1
 >     style R2 fill:#fff4e1
 >     style R3 fill:#fff4e1

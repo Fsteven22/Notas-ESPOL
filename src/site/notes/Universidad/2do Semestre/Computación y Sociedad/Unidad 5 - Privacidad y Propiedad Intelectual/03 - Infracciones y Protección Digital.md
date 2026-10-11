@@ -44,7 +44,7 @@ flowchart LR
 
 > [!warning] ⚠️ Ingeniería inversa y propiedad intelectual — la tensión
 > 
-> La ingeniería inversa es, en muchos países, una práctica **legal** cuando se aplica sobre un producto legítimamente adquirido — pero es precisamente el mecanismo que hace que un **trade secret** (ver [[Universidad/2do Semestre/Computación y Sociedad/Unidad 5 - Privacidad y Propiedad Intelectual/02 - Tipos de Propiedad Intelectual - Patentes, Trademarks y Trade Secrets\|02 - Tipos de Propiedad Intelectual - Patentes, Trademarks y Trade Secrets]]) sea más vulnerable que una patente: si alguien llega al mismo resultado mediante ingeniería inversa, normalmente **no hay violación legal**, a diferencia de infringir una patente registrada.
+> La ingeniería inversa es, en muchos países, una práctica **legal** cuando se aplica sobre un producto legítimamente adquirido — pero es precisamente el mecanismo que hace que un **trade secret** (ver [[02 - Tipos de Propiedad Intelectual - Patentes, Trademarks y Trade Secrets]]) sea más vulnerable que una patente: si alguien llega al mismo resultado mediante ingeniería inversa, normalmente **no hay violación legal**, a diferencia de infringir una patente registrada.
 
 ---
 
@@ -82,7 +82,7 @@ flowchart LR
 > Ambos abusan de nombres de dominio, pero de forma distinta:
 > 
 > - **Cybersquatting**: se registran dominios **relacionados con una marca o nombre reconocido** (puede incluir variaciones evidentes, no necesariamente errores de tipeo), buscando beneficio económico, confusión o explotar la reputación ajena.
-> - **Typosquatting** (ver también [[Universidad/2do Semestre/Computación y Sociedad/Unidad 4 - Historia de Internet/05 - Ingeniería Social y Fraudes en Línea\|05 - Ingeniería Social y Fraudes en Línea]]): se registran dominios con **errores de escritura comunes** de una URL legítima (ej. `gooogle.com`, `facebcook.com`, `amaz0n.com`), esperando que el usuario escriba mal la dirección original y llegue ahí por accidente.
+> - **Typosquatting** (ver también [[05 - Ingeniería Social y Fraudes en Línea]]): se registran dominios con **errores de escritura comunes** de una URL legítima (ej. `gooogle.com`, `facebcook.com`, `amaz0n.com`), esperando que el usuario escriba mal la dirección original y llegue ahí por accidente.
 > 
 > En síntesis: el **cybersquatting** apuesta por el **parecido con la marca**; el **typosquatting** apuesta por el **error de tipeo del usuario**.
 
@@ -222,9 +222,9 @@ flowchart TD
 
 > [!quote] 🔗 Notas relacionadas
 > 
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 5 - Privacidad y Propiedad Intelectual/01 - Fundamentos de Propiedad Intelectual\|01 - Fundamentos de Propiedad Intelectual]]
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 5 - Privacidad y Propiedad Intelectual/02 - Tipos de Propiedad Intelectual - Patentes, Trademarks y Trade Secrets\|02 - Tipos de Propiedad Intelectual - Patentes, Trademarks y Trade Secrets]]
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 4 - Historia de Internet/05 - Ingeniería Social y Fraudes en Línea\|05 - Ingeniería Social y Fraudes en Línea]]
+> - [[01 - Fundamentos de Propiedad Intelectual]]
+> - [[02 - Tipos de Propiedad Intelectual - Patentes, Trademarks y Trade Secrets]]
+> - [[05 - Ingeniería Social y Fraudes en Línea]]
 
 ---
 

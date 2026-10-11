@@ -24,7 +24,6 @@
 >     A --> D[Reconocer punto opuesto]
 >     A --> E[Responder a un compañero]
 >     A --> F[Concluir]
-> 
 >     style B fill:#e1f5ff
 >     style C fill:#e1ffe1
 >     style D fill:#fff4e1
@@ -224,7 +223,7 @@
 
 > [!quote] 📖 Fuentes consultadas
 > 
-> [1] K. Yambay de Armijos, _E2 Academic Post_, Academic Writing Center (AWC), ESPOL, Guayaquil, Ecuador, 2024. Disponible en: [Academic Post KYdA.pdf](/img/user/Universidad/2do%20Semestre/Ingles%20II%20(C1-C2)/Unit%201%20-%20And%20We're%20Off!/Recursos%20Adicionales/Academic%20Post%20KYdA.pdf)
+> [1] K. Yambay de Armijos, _E2 Academic Post_, Academic Writing Center (AWC), ESPOL, Guayaquil, Ecuador, 2024. Disponible en: [[Academic Post KYdA.pdf]]
 
 ---
 

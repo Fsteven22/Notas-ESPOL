@@ -29,7 +29,6 @@
 >     C --> C3[Desinformación]
 >     C --> C4[Inaccesibilidad a servicios]
 >     C --> C5[Aumenta la desigualdad]
-> 
 >     style B fill:#e1f5ff
 >     style C fill:#ffe1e1
 > ```

@@ -1240,20 +1240,20 @@
 > 
 > ### Prerequisitos:
 > 
-> - **[[08 - Derivadas Parciales\|08 - Derivadas Parciales]]** - Componentes de la Jacobiana
-> - **[[09 - Derivada Direccional\|09 - Derivada Direccional]]** - Caso especial: $D_{\vec{u}}f = J_f \cdot \vec{u}$
-> - **[[10 - Diferenciabilidad\|10 - Diferenciabilidad]]** - Condición necesaria
-> - **[[11 - Gradiente\|11 - Gradiente]]** - Fila de la Jacobiana para funciones escalares
+> - **[[08 - Derivadas Parciales]]** - Componentes de la Jacobiana
+> - **[[09 - Derivada Direccional]]** - Caso especial: $D_{\vec{u}}f = J_f \cdot \vec{u}$
+> - **[[10 - Diferenciabilidad]]** - Condición necesaria
+> - **[[11 - Gradiente]]** - Fila de la Jacobiana para funciones escalares
 > - **Álgebra Lineal: Matrices** - Operaciones matriciales
 > - **Álgebra Lineal: Determinantes** - Jacobiano
 > 
 > ### Este tema es prerequisito para:
 > 
-> - **[[13 - Teorema de la Función Implícita\|13 - Teorema de la Función Implícita]]** - Usa rango de la Jacobiana
-> - **[[14 - Teorema de la Función Inversa\|14 - Teorema de la Función Inversa]]** - Requiere Jacobiano no nulo
-> - **[[15 - Multiplicadores de Lagrange\|15 - Multiplicadores de Lagrange]]** - Condiciones usando Jacobianas
-> - **[[16 - Integrales Múltiples\|16 - Integrales Múltiples]]** - Cambio de variables
-> - **[[17 - Teoremas Integrales\|17 - Teoremas Integrales]]** - Green, Stokes, Gauss
+> - **[[13 - Teorema de la Función Implícita]]** - Usa rango de la Jacobiana
+> - **[[14 - Teorema de la Función Inversa]]** - Requiere Jacobiano no nulo
+> - **[[15 - Multiplicadores de Lagrange]]** - Condiciones usando Jacobianas
+> - **[[16 - Integrales Múltiples]]** - Cambio de variables
+> - **[[17 - Teoremas Integrales]]** - Green, Stokes, Gauss
 > - **Optimización Numérica** - Métodos de Newton
 > - **Ecuaciones Diferenciales** - Sistemas no lineales
 > 
@@ -1285,7 +1285,7 @@
 > 
 > ### Siguiente tema recomendado:
 > 
-> **[[13 - Teorema de la Función Implícita\|13 - Teorema de la Función Implícita]]** - Aplicación profunda de la Jacobiana
+> **[[13 - Teorema de la Función Implícita]]** - Aplicación profunda de la Jacobiana
 
 ---
 

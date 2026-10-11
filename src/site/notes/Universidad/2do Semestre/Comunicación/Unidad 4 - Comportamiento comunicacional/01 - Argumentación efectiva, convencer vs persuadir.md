@@ -63,7 +63,6 @@ graph TB
 >     A2 --> S
 >     A3 --> S
 >     S --> C[Conclusión derivada<br/>+ acción]
->
 >     style T fill:#e1f5ff
 >     style C fill:#e1ffe1
 > ```
@@ -86,7 +85,7 @@ graph TB
 
 > [!example] 🧪 Pasa tu Tesis por los 5 Filtros
 >
-> Destilado de [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 6 - Textos argumentativos/02 - Formulación y validación de la tesis\|MOOC U6 — Tesis válida]] (ahí están los ejercicios 04.1 con soluciones):
+> Destilado de [[Preuniversitario/MOOC de Comunicación/Unidad 6 - Textos argumentativos/02 - Formulación y validación de la tesis|MOOC U6 — Tesis válida]] (ahí están los ejercicios 04.1 con soluciones):
 >
 > | # | Filtro | ❌ Falla | ✅ Pasa |
 > |---|---|---|---|
@@ -113,9 +112,14 @@ graph TB
 
 ## ⚠️ Problemas Comunes y Soluciones
 
-> [!danger] ❌ Error: Falacia del Ataque Personal
+> [!danger] ❌ Error: Falacia del Ataque Personal (viola **atacar ideas, no personas**)
 >
 > **Síntomas:** "El otro grupo opina eso porque son vagos" — atacas persona, no idea; el jurado penaliza.
+>
+> **Ejemplo completo:**
+>
+> - ❌ **EL ERROR ESTÁ AQUÍ:** "Su propuesta no sirve porque ellos siempre entregan tarde y no saben del tema." (cero datos sobre la propuesta).
+> - ✅ Así sí: "Su propuesta usa datos de 2015; la cifra actual del INEC dice X, por eso propongo Y."
 >
 > **Solución:**
 >
@@ -193,12 +197,12 @@ mindmap
 
 > [!info] 📚 Seguir estudiando
 >
-> - Mapa de contenido: [[Universidad/2do Semestre/Comunicación/Comunicación\|Comunicación]]
-> - Índice Unidad 4: [[Universidad/2do Semestre/Comunicación/Unidad 4 - Comportamiento comunicacional/00 - Índice Unidad 4\|00 - Índice Unidad 4]]
-> - Siguiente: [[Universidad/2do Semestre/Comunicación/Unidad 4 - Comportamiento comunicacional/02 - Storytelling para comunicar ciencia\|02 - Storytelling para comunicar ciencia]]
-> - Syllabus: [[Universidad/2do Semestre/Comunicación/Bienvenida y Syllabus Comunicación\|Bienvenida y Syllabus Comunicación]]
-> - Base MOOC: [[Universidad/Preuniversitario/MOOC de Comunicación/Comunicación Efectiva\|MOOC de Comunicación]]
-> - Bases específicas: [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 6 - Textos argumentativos/01 - El texto argumentativo (concepto, ámbitos y estructura)\|MOOC U6 — Argumentativo]], [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 6 - Textos argumentativos/02 - Formulación y validación de la tesis\|Tesis válida]], [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 6 - Textos argumentativos/03 - Análisis y desmontaje de textos argumentativos\|Desmontaje]]
+> - Mapa de contenido: [[Comunicación]]
+> - Índice Unidad 4: [[00 - Índice Unidad 4]]
+> - Siguiente: [[02 - Storytelling para comunicar ciencia]]
+> - Syllabus: [[Bienvenida y Syllabus Comunicación]]
+> - Base MOOC: [[Preuniversitario/MOOC de Comunicación/Comunicación Efectiva|MOOC de Comunicación]]
+> - Bases específicas: [[Preuniversitario/MOOC de Comunicación/Unidad 6 - Textos argumentativos/01 - El texto argumentativo (concepto, ámbitos y estructura)|MOOC U6 — Argumentativo]], [[Preuniversitario/MOOC de Comunicación/Unidad 6 - Textos argumentativos/02 - Formulación y validación de la tesis|Tesis válida]], [[Preuniversitario/MOOC de Comunicación/Unidad 6 - Textos argumentativos/03 - Análisis y desmontaje de textos argumentativos|Desmontaje]]
 
 ## 📚 Referencias
 

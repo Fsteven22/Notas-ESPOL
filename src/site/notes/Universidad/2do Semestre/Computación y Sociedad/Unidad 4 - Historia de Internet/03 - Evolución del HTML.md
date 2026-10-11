@@ -29,7 +29,7 @@
 
 > [!note] 📋 HTML 1.0 (1991) — El origen
 > 
-> Creado por Tim Berners-Lee junto con la propia Web ([[Universidad/2do Semestre/Computación y Sociedad/Unidad 4 - Historia de Internet/01 - Historia de Internet y Cómo Funciona\|01 - Historia de Internet y Cómo Funciona]]). Solo permitía estructurar **texto y enlaces** (hipertexto básico): títulos, párrafos, y la posibilidad de conectar un documento con otro mediante hipervínculos.
+> Creado por Tim Berners-Lee junto con la propia Web ([[01 - Historia de Internet y Cómo Funciona]]). Solo permitía estructurar **texto y enlaces** (hipertexto básico): títulos, párrafos, y la posibilidad de conectar un documento con otro mediante hipervínculos.
 > 
 > - El contenido era **estático**: no cambiaba a menos que alguien editara el archivo manualmente y lo volviera a subir al servidor.
 >
@@ -140,7 +140,7 @@
 > [!success] ✅ Nivel Avanzado
 > 
 > - [ ] Puedo explicar por qué HTML sigue siendo un lenguaje de estructura aunque soporte aplicaciones dinámicas.
-> - [ ] Puedo relacionar la evolución de HTML con la evolución de la Web ([[Universidad/2do Semestre/Computación y Sociedad/Unidad 4 - Historia de Internet/02 - Evolución de la Web\|02 - Evolución de la Web]]).
+> - [ ] Puedo relacionar la evolución de HTML con la evolución de la Web ([[02 - Evolución de la Web]]).
 
 ---
 
@@ -152,8 +152,8 @@
 >
 > [!quote] 🔗 Conexiones
 > 
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 4 - Historia de Internet/01 - Historia de Internet y Cómo Funciona\|01 - Historia de Internet y Cómo Funciona]] — contexto de cuándo y por qué se creó HTML junto con la Web.
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 4 - Historia de Internet/02 - Evolución de la Web\|02 - Evolución de la Web]] — cómo los cambios en HTML habilitaron el salto de Web 1.0 a las generaciones posteriores.
+> - [[01 - Historia de Internet y Cómo Funciona]] — contexto de cuándo y por qué se creó HTML junto con la Web.
+> - [[02 - Evolución de la Web]] — cómo los cambios en HTML habilitaron el salto de Web 1.0 a las generaciones posteriores.
 
 ---
 

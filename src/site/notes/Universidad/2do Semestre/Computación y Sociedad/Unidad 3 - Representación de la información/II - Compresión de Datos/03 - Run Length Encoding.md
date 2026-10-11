@@ -194,8 +194,8 @@ graph TD
 >
 > [!quote] 🔗 Conexiones
 > 
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 3 - Representación de la información/II - Compresión de Datos/02 - Keyword Encoding y ASCII\|02 - Keyword Encoding y ASCII]] — otro algoritmo de compresión sin pérdida, con enfoque en palabras frecuentes en vez de corridas consecutivas.
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 3 - Representación de la información/II - Compresión de Datos/04 - Códigos Prefijos y Huffman Encoding\|04 - Códigos Prefijos y Huffman Encoding]] — algoritmo más sofisticado que, a diferencia de RLE, asigna códigos según la frecuencia de cada símbolo individual.
+> - [[02 - Keyword Encoding y ASCII]] — otro algoritmo de compresión sin pérdida, con enfoque en palabras frecuentes en vez de corridas consecutivas.
+> - [[04 - Códigos Prefijos y Huffman Encoding]] — algoritmo más sofisticado que, a diferencia de RLE, asigna códigos según la frecuencia de cada símbolo individual.
 
 ---
 

@@ -50,7 +50,7 @@
 >
 > [!tip] 🖥️ Ver también
 > 
-> El detalle completo del derecho de autor (derechos patrimoniales vs. morales) está en [[Universidad/2do Semestre/Computación y Sociedad/Unidad 5 - Privacidad y Propiedad Intelectual/01 - Fundamentos de Propiedad Intelectual\|01 - Fundamentos de Propiedad Intelectual]] — aquí solo se retoma como parte de la comparación general.
+> El detalle completo del derecho de autor (derechos patrimoniales vs. morales) está en [[01 - Fundamentos de Propiedad Intelectual]] — aquí solo se retoma como parte de la comparación general.
 
 ---
 
@@ -201,8 +201,8 @@ flowchart TD
 
 > [!quote] 🔗 Notas relacionadas
 > 
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 5 - Privacidad y Propiedad Intelectual/01 - Fundamentos de Propiedad Intelectual\|01 - Fundamentos de Propiedad Intelectual]]
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 5 - Privacidad y Propiedad Intelectual/03 - Infracciones y Protección Digital\|03 - Infracciones y Protección Digital]]
+> - [[01 - Fundamentos de Propiedad Intelectual]]
+> - [[03 - Infracciones y Protección Digital]]
 
 ---
 

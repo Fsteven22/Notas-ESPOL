@@ -4400,29 +4400,29 @@ graph TD
 > [!quote] 🌐 Relaciones con Otras Notas
 > 
 > **Depende directamente de:**
-> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 1 – Sistemas Lineales y Matrices/II – Métodos de resolución/02 - Formas Escalonadas y Matriz Escalonada\|02 - Formas Escalonadas y Matriz Escalonada]]
-> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 1 – Sistemas Lineales y Matrices/III – Rango y teoremas fundamentales/01 - Rango de una Matriz\|01 - Rango de una Matriz]]
-> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 1 – Sistemas Lineales y Matrices/III – Rango y teoremas fundamentales/02 - Teorema de Rouché-Frobenius\|02 - Teorema de Rouché-Frobenius]]
-> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 1 – Sistemas Lineales y Matrices/IV – Estructura de soluciones/01 - Dimensión y descripción del conjunto solución\|01 - Dimensión y descripción del conjunto solución]]
+> - [[02 - Formas Escalonadas y Matriz Escalonada]]
+> - [[01 - Rango de una Matriz]]
+> - [[02 - Teorema de Rouché-Frobenius]]
+> - [[01 - Dimensión y descripción del conjunto solución]]
 > 
 > **Utiliza conceptos de:**
-> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 1 – Sistemas Lineales y Matrices/II – Métodos de resolución/01 - Algoritmo de Gauss\|01 - Algoritmo de Gauss]]
-> - [[02 - Sistemas de ecuaciones lineales\|02 - Sistemas de ecuaciones lineales]]
-> - [[Espacios Vectoriales\|Espacios Vectoriales]]
-> - [[Subespacios y generadores\|Subespacios y generadores]]
+> - [[01 - Algoritmo de Gauss]]
+> - [[02 - Sistemas de ecuaciones lineales]]
+> - [[Espacios Vectoriales]]
+> - [[Subespacios y generadores]]
 > 
 > **Se conecta con:**
-> - [[Espacio Nulo y Espacio Columna\|Espacio Nulo y Espacio Columna]]
-> - [[Teorema Rango-Nulidad\|Teorema Rango-Nulidad]]
-> - [[Independencia Lineal\|Independencia Lineal]]
-> - [[Bases y Dimensión\|Bases y Dimensión]]
-> - [[Transformaciones Lineales\|Transformaciones Lineales]]
+> - [[Espacio Nulo y Espacio Columna]]
+> - [[Teorema Rango-Nulidad]]
+> - [[Independencia Lineal]]
+> - [[Bases y Dimensión]]
+> - [[Transformaciones Lineales]]
 > 
 > **Aplicaciones en:**
-> - [[Sistemas de ecuaciones diferenciales\|Sistemas de ecuaciones diferenciales]]
-> - [[Optimización lineal\|Optimización lineal]]
-> - [[Métodos numéricos\|Métodos numéricos]]
-> - [[Álgebra lineal computacional\|Álgebra lineal computacional]]
+> - [[Sistemas de ecuaciones diferenciales]]
+> - [[Optimización lineal]]
+> - [[Métodos numéricos]]
+> - [[Álgebra lineal computacional]]
 
 ---
 
@@ -5790,29 +5790,23 @@ graph TD
 >     B --> C[Aplicar Gauss para obtener FE]
 >     C --> D[Calcular r = rango A]
 >     C --> E[Calcular r' = rango A B]
->     
 >     D --> F{¿r = r'?}
 >     E --> F
->     
 >     F -->|NO| G[INCOMPATIBLE]
 >     G --> G1[Sin solución]
 >     G1 --> G2[S = ∅]
->     
 >     F -->|SÍ| H[COMPATIBLE]
 >     H --> I{¿r = n?}
->     
 >     I -->|SÍ| J[Compatible DETERMINADO]
 >     J --> J1[Solución ÚNICA]
 >     J1 --> J2[Resolver por Gauss-Jordan, Cramer, o sustitución]
 >     J2 --> J3[S = punto]
->     
 >     I -->|NO| K[Compatible INDETERMINADO]
 >     K --> K1[INFINITAS soluciones]
 >     K1 --> K2[k = n - r parámetros]
 >     K2 --> K3[Obtener FER]
 >     K3 --> K4[Solución paramétrica: X = X₀ + t₁v₁ + ... + tₖvₖ]
 >     K4 --> K5[S = subespacio afín de dim k]
->     
 > style A fill:#e3f2fd
 > style G fill:#ffebee
 > style J fill:#e8f5e9

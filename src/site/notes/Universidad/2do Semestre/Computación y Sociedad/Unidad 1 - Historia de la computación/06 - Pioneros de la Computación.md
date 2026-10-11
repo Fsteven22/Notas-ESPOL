@@ -16,7 +16,6 @@
 >     A[Pioneros de la Computación] --> B[Matemáticos<br/>y teóricos]
 >     A --> C[Ingenieros<br/>y constructores]
 >     A --> D[Programadores<br/>y visionarios]
->
 >     style A fill:#f5e1ff
 >     style B fill:#e1f5ff
 >     style C fill:#e1ffe1
@@ -162,7 +161,6 @@
 >     Unidad de Control
 >     ALU · Registros"] <--> MEM[Memoria Principal<br/>Datos + Instrucciones]
 >     CPU <--> IO[Sistema E/S]
->
 >     style CPU fill:#e1f5ff
 >     style MEM fill:#e1ffe1
 >     style IO fill:#fff4e1

@@ -111,9 +111,14 @@ graph TB
 
 ## ⚠️ Problemas Comunes y Soluciones
 
-> [!danger] ❌ Error: Pegar Párrafos sin Sintetizar
+> [!danger] ❌ Error: Pegar Párrafos sin Sintetizar (viola **síntesis previa**)
 >
 > **Síntomas:** informe de 6 páginas que dice lo mismo 3 veces, sin tabla comparativa.
+>
+> **Ejemplo completo:**
+>
+> - ❌ **EL ERROR ESTÁ AQUÍ:** tres párrafos que repiten "la escucha mejora equipos" con distintas palabras, cero tabla, cero cita cruzada.
+> - ✅ Así sí: 1 tabla (fuente | tesis | evidencia | límite) y luego 1 párrafo que integra: "Las 3 fuentes coinciden en X, difieren en Y; por tanto Z (Sánchez 2014; Morin 2005; UNESCO 2021)."
 >
 > **Solución:**
 >
@@ -189,13 +194,13 @@ mindmap
 
 > [!info] 📚 Seguir estudiando
 >
-> - Mapa de contenido: [[Universidad/2do Semestre/Comunicación/Comunicación\|Comunicación]]
-> - Índice Unidad 3: [[Universidad/2do Semestre/Comunicación/Unidad 3 - Redacción/00 - Índice Unidad 3\|00 - Índice Unidad 3]]
-> - Anterior: [[Universidad/2do Semestre/Comunicación/Unidad 3 - Redacción/01 - Texto expositivo, claridad y APA\|01 - Texto expositivo, claridad y APA]]
-> - Siguiente: [[Universidad/2do Semestre/Comunicación/Unidad 3 - Redacción/03 - IA ética y prompts para redacción\|03 - IA ética y prompts para redacción]]
-> - Syllabus: [[Universidad/2do Semestre/Comunicación/Bienvenida y Syllabus Comunicación\|Bienvenida y Syllabus Comunicación]]
-> - Base MOOC: [[Universidad/Preuniversitario/MOOC de Comunicación/Comunicación Efectiva\|MOOC de Comunicación]]
-> - Bases específicas: [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 4 - Resumen y síntesis/01 - El resumen académico\|MOOC U4 — Resumen]], [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 4 - Resumen y síntesis/03 - La síntesis de múltiples fuentes\|Síntesis]], [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 4 - Resumen y síntesis/02 - Técnicas de parafraseo y citación\|Parafraseo]]
+> - Mapa de contenido: [[Comunicación]]
+> - Índice Unidad 3: [[00 - Índice Unidad 3]]
+> - Anterior: [[01 - Texto expositivo, claridad y APA]]
+> - Siguiente: [[03 - IA ética y prompts para redacción]]
+> - Syllabus: [[Bienvenida y Syllabus Comunicación]]
+> - Base MOOC: [[Preuniversitario/MOOC de Comunicación/Comunicación Efectiva|MOOC de Comunicación]]
+> - Bases específicas: [[Preuniversitario/MOOC de Comunicación/Unidad 4 - Resumen y síntesis/01 - El resumen académico|MOOC U4 — Resumen]], [[Preuniversitario/MOOC de Comunicación/Unidad 4 - Resumen y síntesis/03 - La síntesis de múltiples fuentes|Síntesis]], [[Preuniversitario/MOOC de Comunicación/Unidad 4 - Resumen y síntesis/02 - Técnicas de parafraseo y citación|Parafraseo]]
 
 ## 📚 Referencias
 

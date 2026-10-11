@@ -19,7 +19,6 @@
 >     B --> B1["Extracción de minerales<br>Emisiones de CO2<br>Agua utilizada"]
 >     C --> C1["Consumo eléctrico<br>Calor generado<br>Actualizaciones forzadas"]
 >     D --> D1["E-waste<br>Metales tóxicos<br>Exportación de residuos"]
-> 
 >     style A fill:#e1f5ff
 >     style B fill:#ffe1e1
 >     style C fill:#fff4e1
@@ -81,7 +80,6 @@
 >     C --> D
 >     D --> E["Exposición tóxica<br>en trabajadores"]
 >     D --> F["Contaminación de<br>suelo y agua"]
-> 
 >     style A fill:#e1f5ff
 >     style D fill:#ffe1e1
 >     style E fill:#ffe1e1
@@ -119,7 +117,6 @@
 >     C --> E["Reciclaje<br>de materiales"]
 >     E --> A
 >     C -->|"modelo lineal"| F["🗑️ Vertedero"]
-> 
 >     style A fill:#e1ffe1
 >     style B fill:#e1ffe1
 >     style C fill:#e1f5ff
@@ -173,7 +170,6 @@
 >     EC --> EC1["Proteger ecosistemas<br>Reducir emisiones<br>Gestionar residuos"]
 >     SO --> SO1["Equidad<br>Salud<br>Educación"]
 >     EC2 --> EC3["Crecimiento<br>Empleo<br>Innovación"]
-> 
 >     style DS fill:#e1f5ff
 >     style EC fill:#e1ffe1
 >     style SO fill:#fff4e1

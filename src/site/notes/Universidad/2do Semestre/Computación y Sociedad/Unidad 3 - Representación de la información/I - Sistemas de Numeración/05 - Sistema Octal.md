@@ -16,13 +16,12 @@
 >     A --> C[Dígitos 0-7]
 >     A --> D["8 = 2³"]
 >     D --> E[1 dígito octal<br/>= 3 bits]
->
 >     style A fill:#e1f5ff
 >     style D fill:#fff4e1
 >     style E fill:#e1ffe1
 > ```
 
-![ChatGPT Image 14 jul 2026, 21_17_54.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2014%20jul%202026,%2021_17_54.png)
+![[ChatGPT Image 14 jul 2026, 21_17_54.png]]
 
 ---
 
@@ -50,7 +49,7 @@
 
 > [!info] 🔗 La misma estructura que en álgebra booleana
 >
-> Si ya has trabajado con **tablas de verdad** en lógica proposicional (ver [[Universidad/3er Semestre/Matemáticas Discretas/Matemáticas Discretas\|Matemáticas Discretas]]), te resultará familiar esta tabla de equivalencia. No es una coincidencia:
+> Si ya has trabajado con **tablas de verdad** en lógica proposicional (ver [[Matemáticas Discretas]]), te resultará familiar esta tabla de equivalencia. No es una coincidencia:
 >
 > - Una **tabla de verdad con 3 proposiciones** (p, q, r) tiene exactamente **2³ = 8 filas** de todas las combinaciones posibles de verdadero/falso
 > - La **tabla de equivalencia octal** tiene exactamente **8 dígitos (0–7)**, porque cada uno se construye con **3 bits** (2³ = 8 combinaciones)
@@ -74,7 +73,7 @@
 
 > [!note] ➗ Mismo método, divisor distinto
 >
-> Mismo procedimiento que decimal → binario (ver [[Universidad/2do Semestre/Computación y Sociedad/Unidad 3 - Representación de la información/I - Sistemas de Numeración/04 - Conversion Decimal-Binario\|04 - Conversion Decimal-Binario]]), pero dividiendo entre **8** en lugar de 2.
+> Mismo procedimiento que decimal → binario (ver [[04 - Conversion Decimal-Binario]]), pero dividiendo entre **8** en lugar de 2.
 >
 > [!example] ✏️ Ejemplo — Convertir 768₁₀ a octal
 >
@@ -203,7 +202,7 @@
 >
 > > 📌 **Regla clave:** en la parte entera agrupas desde la derecha (hacia la izquierda); en la fraccionaria agrupas desde el punto (hacia la derecha). Rellena con ceros donde sea necesario para completar grupos de 3.
 
-![ChatGPT Image 21 jun 2026, 13_40_30.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2021%20jun%202026,%2013_40_30.png)
+![[ChatGPT Image 21 jun 2026, 13_40_30.png]]
 
 
 ---

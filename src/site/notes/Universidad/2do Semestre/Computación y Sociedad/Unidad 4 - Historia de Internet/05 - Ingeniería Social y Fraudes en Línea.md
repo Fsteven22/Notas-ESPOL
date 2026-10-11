@@ -215,9 +215,9 @@ flowchart TD
 
 > [!quote] 🔗 Notas relacionadas
 > 
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 4 - Historia de Internet/04 - Crímenes Informáticos y Malware\|04 - Crímenes Informáticos y Malware]]
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 4 - Historia de Internet/06 - Sabotaje y Ataques de Red\|06 - Sabotaje y Ataques de Red]]
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 4 - Historia de Internet/07 - Privacidad y Protección de Datos\|07 - Privacidad y Protección de Datos]]
+> - [[04 - Crímenes Informáticos y Malware]]
+> - [[06 - Sabotaje y Ataques de Red]]
+> - [[07 - Privacidad y Protección de Datos]]
 
 ---
 

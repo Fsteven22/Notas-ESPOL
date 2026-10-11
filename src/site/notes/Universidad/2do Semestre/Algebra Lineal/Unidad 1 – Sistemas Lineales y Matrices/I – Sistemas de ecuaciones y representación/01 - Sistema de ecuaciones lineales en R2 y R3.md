@@ -608,10 +608,10 @@ graph TD
 > 
 > **Esta nota establece las bases para:**
 > 
-> - **[[Matriz Ampliada y Gauss\|Matriz Ampliada y Gauss]]** - Método sistemático de solución
-> - **[[Rango de una Matriz\|Rango de una Matriz]]** - Criterio algebraico de clasificación
-> - **[[Espacios Vectoriales\|Espacios Vectoriales]]** - Interpretación en términos de dependencia lineal
-> - **[[Determinantes\|Determinantes]]** - Criterio para sistemas cuadrados
+> - **[[Matriz Ampliada y Gauss]]** - Método sistemático de solución
+> - **[[Rango de una Matriz]]** - Criterio algebraico de clasificación
+> - **[[Espacios Vectoriales]]** - Interpretación en términos de dependencia lineal
+> - **[[Determinantes]]** - Criterio para sistemas cuadrados
 > 
 > **Aplicaciones directas:**
 > 
@@ -1825,33 +1825,33 @@ graph TD
 > 
 > **Prerrequisitos:**
 > 
-> - [[Vectores en ℝⁿ\|Vectores en ℝⁿ]] - Representación de soluciones
-> - [[Operaciones con Matrices\|Operaciones con Matrices]] - Notación matricial
-> - [[Determinantes\|Determinantes]] - Criterio de invertibilidad
-> - [[Geometría Analítica\|Geometría Analítica]] - Interpretación geométrica
+> - [[Vectores en ℝⁿ]] - Representación de soluciones
+> - [[Operaciones con Matrices]] - Notación matricial
+> - [[Determinantes]] - Criterio de invertibilidad
+> - [[Geometría Analítica]] - Interpretación geométrica
 > 
 > **Aplicaciones directas:**
 > 
-> - [[Espacios Vectoriales\|Espacios Vectoriales]] - Imagen y núcleo
-> - [[Transformaciones Lineales\|Transformaciones Lineales]] - Sistemas como transformaciones
-> - [[Diagonalización\|Diagonalización]] - Sistemas de ecuaciones diferenciales
-> - [[Mínimos Cuadrados\|Mínimos Cuadrados]] - Sistemas sobredeterminados
+> - [[Espacios Vectoriales]] - Imagen y núcleo
+> - [[Transformaciones Lineales]] - Sistemas como transformaciones
+> - [[Diagonalización]] - Sistemas de ecuaciones diferenciales
+> - [[Mínimos Cuadrados]] - Sistemas sobredeterminados
 > 
 > **Temas avanzados:**
 > 
-> - [[Valores y Vectores Propios\|Valores y Vectores Propios]] - Sistemas de ecuaciones especiales
-> - [[Descomposición LU\|Descomposición LU]] - Factorización para resolver sistemas
-> - [[Métodos Iterativos\|Métodos Iterativos]] - Jacobi, Gauss-Seidel
-> - [[Sistemas No Lineales\|Sistemas No Lineales]] - Generalización
+> - [[Valores y Vectores Propios]] - Sistemas de ecuaciones especiales
+> - [[Descomposición LU]] - Factorización para resolver sistemas
+> - [[Métodos Iterativos]] - Jacobi, Gauss-Seidel
+> - [[Sistemas No Lineales]] - Generalización
 > 
 > **Aplicaciones interdisciplinarias:**
 > 
-> - [[Análisis de Circuitos\|Análisis de Circuitos]] - Leyes de Kirchhoff
-> - [[Optimización Lineal\|Optimización Lineal]] - Programación lineal
-> - [[Mecánica\|Mecánica]] - Equilibrio de fuerzas
-> - [[Economía Matemática\|Economía Matemática]] - Modelos de equilibrio
-> - [[Procesamiento de Señales\|Procesamiento de Señales]] - Sistemas LTI
-> - [[Aprendizaje Automático\|Aprendizaje Automático]] - Regresión lineal
+> - [[Análisis de Circuitos]] - Leyes de Kirchhoff
+> - [[Optimización Lineal]] - Programación lineal
+> - [[Mecánica]] - Equilibrio de fuerzas
+> - [[Economía Matemática]] - Modelos de equilibrio
+> - [[Procesamiento de Señales]] - Sistemas LTI
+> - [[Aprendizaje Automático]] - Regresión lineal
 
 ## 💡 Consejos de Estudio
 

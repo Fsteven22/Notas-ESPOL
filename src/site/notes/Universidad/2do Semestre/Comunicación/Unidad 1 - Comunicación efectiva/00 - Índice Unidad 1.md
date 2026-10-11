@@ -11,7 +11,8 @@
 ## 📑 Notas de la Unidad
 
 - [[Universidad/2do Semestre/Comunicación/Unidad 1 - Comunicación efectiva/01 - Escucha activa, empatía y barreras\|01 - Escucha activa, empatía y barreras]]
-- [[Universidad/2do Semestre/Comunicación/Unidad 1 - Comunicación efectiva/02 - Comunicación grupal y estratégica\|02 - Comunicación grupal y estratégica]]
+- [[Universidad/2do Semestre/Comunicación/Unidad 1 - Comunicación efectiva/02 - Comunicación grupal y toma de decisiones\|02 - Comunicación grupal y toma de decisiones]]
+- [[Universidad/2do Semestre/Comunicación/Unidad 1 - Comunicación efectiva/03 - Comunicación estratégica, IIR y pitch personal\|03 - Comunicación estratégica, IIR y pitch personal]]
 
 > [!quote] 🔗 Conexiones
 > - Mapa de contenido: [[Universidad/2do Semestre/Comunicación/Comunicación\|Comunicación]]

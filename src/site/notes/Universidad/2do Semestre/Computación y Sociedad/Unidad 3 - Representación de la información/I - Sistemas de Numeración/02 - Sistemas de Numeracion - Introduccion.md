@@ -16,7 +16,6 @@
 >     A --> C[Reglas de combinación]
 >     B --> D["Ej: 0,1,2...9 / I,V,X... / A-F"]
 >     C --> E["Ej: notación posicional"]
->
 >     style A fill:#e1f5ff
 >     style B fill:#e1ffe1
 >     style C fill:#fff4e1
@@ -36,7 +35,7 @@
 >
 > > 📌 Curiosamente, el sistema que llamamos "arábigo" en Occidente (0-9) ya tiene una grafía distinta a los símbolos del sistema arábigo tradicional — ambos comparten el mismo principio posicional en base 10, pero no los mismos símbolos.
 
-![ChatGPT Image 21 jun 2026, 13_08_49.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2021%20jun%202026,%2013_08_49.png)
+![[ChatGPT Image 21 jun 2026, 13_08_49.png]]
 
 ---
 
@@ -52,7 +51,6 @@
 >     A --> C[Octal<br/>Base 8]
 >     A --> D[Decimal<br/>Base 10]
 >     A --> E[Hexadecimal<br/>Base 16]
->
 >     style B fill:#e1ffe1
 >     style C fill:#fff4e1
 >     style D fill:#e1f5ff
@@ -89,7 +87,7 @@
 
 > [!note] ⚙️ El idioma nativo de la máquina
 >
-> Internamente, una computadora **solo entiende dos estados eléctricos** (alto/bajo voltaje — ver [[Universidad/2do Semestre/Computación y Sociedad/Unidad 3 - Representación de la información/I - Sistemas de Numeración/01 - Análogo vs Digital\|01 - Análogo vs Digital]]), por lo que el sistema **binario** es su idioma nativo de procesamiento.
+> Internamente, una computadora **solo entiende dos estados eléctricos** (alto/bajo voltaje — ver [[01 - Análogo vs Digital]]), por lo que el sistema **binario** es su idioma nativo de procesamiento.
 >
 > Sin embargo, el binario es muy largo y poco legible para un humano (ej. `1101011001010100`), así que existen otros sistemas con propósitos complementarios:
 >

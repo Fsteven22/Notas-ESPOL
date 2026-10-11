@@ -1781,13 +1781,13 @@
 > 
 > Este tema es prerequisito para:
 > 
-> - [[10 - Diferenciabilidad\|10 - Diferenciabilidad]] - C¹ es condición suficiente para diferenciabilidad
-> - [[12 - Regla de la Cadena Multivariable\|12 - Regla de la Cadena Multivariable]] - Requiere C¹ para funcionar
-> - [[13 - Teorema de la Función Implícita\|13 - Teorema de la Función Implícita]] - Hipótesis esencial
-> - [[14 - Teorema de la Función Inversa\|14 - Teorema de la Función Inversa]] - Requiere C¹
-> - [[15 - Multiplicadores de Lagrange\|15 - Multiplicadores de Lagrange]] - Necesita gradientes continuos
-> - [[16 - Fórmula de Taylor Multivariable\|16 - Fórmula de Taylor Multivariable]] - Extensión a C²
-> - [[17 - Teorema de Schwarz\|17 - Teorema de Schwarz]] - Igualdad de derivadas mixtas
+> - [[10 - Diferenciabilidad]] - C¹ es condición suficiente para diferenciabilidad
+> - [[12 - Regla de la Cadena Multivariable]] - Requiere C¹ para funcionar
+> - [[13 - Teorema de la Función Implícita]] - Hipótesis esencial
+> - [[14 - Teorema de la Función Inversa]] - Requiere C¹
+> - [[15 - Multiplicadores de Lagrange]] - Necesita gradientes continuos
+> - [[16 - Fórmula de Taylor Multivariable]] - Extensión a C²
+> - [[17 - Teorema de Schwarz]] - Igualdad de derivadas mixtas
 > 
 > Conceptos relacionados:
 > 
@@ -1799,7 +1799,7 @@
 > - **Optimización** - Condiciones de primer orden requieren gradientes continuos
 > 
 > Siguiente tema recomendado: 
-> [[12 - Regla de la Cadena Multivariable\|12 - Regla de la Cadena Multivariable]]
+> [[12 - Regla de la Cadena Multivariable]]
 > 
 
 ---

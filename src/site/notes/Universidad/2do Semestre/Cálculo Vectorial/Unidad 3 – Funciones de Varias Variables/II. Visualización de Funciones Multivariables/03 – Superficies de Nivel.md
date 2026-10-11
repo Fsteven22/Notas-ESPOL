@@ -1731,8 +1731,8 @@
 > 
 > ### Ya estudiados:
 > 
-> - [[02 - Dominio y Rango\|02 - Dominio y Rango]] - Las superficies existen solo en el dominio
-> - [[04 - Curvas de Nivel\|04 - Curvas de Nivel]] - Las superficies de nivel son la extensión 3D
+> - [[02 - Dominio y Rango]] - Las superficies existen solo en el dominio
+> - [[04 - Curvas de Nivel]] - Las superficies de nivel son la extensión 3D
 > 
 > ### Por estudiar:
 > 
@@ -1750,7 +1750,7 @@
 > - **Topología** - Clasificación de superficies
 > - **Teoría de Morse** - Análisis de funciones vía conjuntos de nivel
 > 
-> **Próximo tema recomendado:** [[06 - Límites en Varias Variables\|06 - Límites en Varias Variables]]
+> **Próximo tema recomendado:** [[06 - Límites en Varias Variables]]
 
 ---
 
@@ -2150,7 +2150,7 @@
 > 
 > ### Próximo paso
 > 
-> **[[06 - Límites en Varias Variables\|06 - Límites en Varias Variables]]**
+> **[[06 - Límites en Varias Variables]]**
 > 
 > Aprenderás sobre:
 > 

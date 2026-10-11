@@ -1453,10 +1453,10 @@
 > 
 > **Este tema es prerequisito para:**
 > 
-> - [[07 - Continuidad\|07 - Continuidad]] - Los límites definen la continuidad
-> - [[08 - Derivadas Parciales\|08 - Derivadas Parciales]] - Las derivadas son límites especiales
-> - [[09 - Diferenciabilidad\|09 - Diferenciabilidad]] - Requiere existencia de ciertos límites
-> - [[10 - Regla de la Cadena\|10 - Regla de la Cadena]] - Se basa en continuidad y límites
+> - [[07 - Continuidad]] - Los límites definen la continuidad
+> - [[08 - Derivadas Parciales]] - Las derivadas son límites especiales
+> - [[09 - Diferenciabilidad]] - Requiere existencia de ciertos límites
+> - [[10 - Regla de la Cadena]] - Se basa en continuidad y límites
 > 
 > **Conceptos relacionados:**
 > 
@@ -1465,7 +1465,7 @@
 > - **Diferenciabilidad** - Generaliza el concepto de límite
 > - **Integrales múltiples** - Límites de sumas de Riemann
 > 
-> **Siguiente tema recomendado:** [[07 - Continuidad de Funciones de Varias Variables\|07 - Continuidad de Funciones de Varias Variables]]
+> **Siguiente tema recomendado:** [[07 - Continuidad de Funciones de Varias Variables]]
 
 ---
 

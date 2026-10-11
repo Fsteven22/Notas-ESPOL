@@ -1739,8 +1739,8 @@
 > 
 > **Siguiente paso natural:**
 > 
-> - [[Multiplicadores de Lagrange\|Multiplicadores de Lagrange]] → Optimización con restricciones
-> - [[Campos Vectoriales\|Campos Vectoriales]] → Generalización a funciones vectoriales
+> - [[Multiplicadores de Lagrange]] → Optimización con restricciones
+> - [[Campos Vectoriales]] → Generalización a funciones vectoriales
 
 ---
 

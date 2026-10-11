@@ -1312,20 +1312,20 @@
 > 
 > ### Prerequisitos:
 > 
-> - **[[08 - Derivadas Parciales\|08 - Derivadas Parciales]]** - Base para todo
-> - **[[09 - Derivada Direccional\|09 - Derivada Direccional]]** - Caso especial
-> - **[[10 - Diferenciabilidad\|10 - Diferenciabilidad]]** - Concepto fundamental
-> - **[[11 - Funciones de Clase C¹\|11 - Funciones de Clase C¹]]** - Hipótesis central
-> - **[[12 - Matriz Jacobiana\|12 - Matriz Jacobiana]]** - Herramienta principal
+> - **[[08 - Derivadas Parciales]]** - Base para todo
+> - **[[09 - Derivada Direccional]]** - Caso especial
+> - **[[10 - Diferenciabilidad]]** - Concepto fundamental
+> - **[[11 - Funciones de Clase C¹]]** - Hipótesis central
+> - **[[12 - Matriz Jacobiana]]** - Herramienta principal
 > - **Álgebra Lineal: Determinantes** - Criterio de invertibilidad
 > - **Álgebra Lineal: Sistemas lineales** - Resolución local
 > 
 > ### Este tema es prerequisito para:
 > 
-> - **[[14 - Multiplicadores de Lagrange\|14 - Multiplicadores de Lagrange]]** - Usa función implícita
-> - **[[15 - Optimización con Restricciones\|15 - Optimización con Restricciones]]** - Aplicación directa
-> - **[[16 - Integrales Múltiples\|16 - Integrales Múltiples]]** - Cambio de variables válido
-> - **[[17 - Teoremas Integrales\|17 - Teoremas Integrales]]** - Condiciones de regularidad
+> - **[[14 - Multiplicadores de Lagrange]]** - Usa función implícita
+> - **[[15 - Optimización con Restricciones]]** - Aplicación directa
+> - **[[16 - Integrales Múltiples]]** - Cambio de variables válido
+> - **[[17 - Teoremas Integrales]]** - Condiciones de regularidad
 > - **Geometría Diferencial** - Superficies y variedades
 > - **Ecuaciones Diferenciales** - Existencia y unicidad
 > - **Análisis Complejo** - Funciones holomorfas
@@ -1357,7 +1357,7 @@
 > 
 > ### Siguiente tema recomendado:
 > 
-> **[[14 - Multiplicadores de Lagrange\|14 - Multiplicadores de Lagrange]]** - Aplicación importante de estos teoremas
+> **[[14 - Multiplicadores de Lagrange]]** - Aplicación importante de estos teoremas
 
 ---
 
@@ -2733,12 +2733,12 @@
 > [!quote] 🌐 Relaciones Importantes 
 > **Este tema es prerequisito para:**
 > 
-> - [[10 - Diferenciabilidad y Plano Tangente\|10 - Diferenciabilidad y Plano Tangente]] - El gradiente define el plano tangente
-> - [[11 - Regla de la Cadena\|11 - Regla de la Cadena]] - Composición con derivadas direccionales
-> - [[12 - Optimización sin Restricciones\|12 - Optimización sin Restricciones]] - Condiciones de primer orden
-> - [[13 - Multiplicadores de Lagrange\|13 - Multiplicadores de Lagrange]] - Optimización con restricciones
-> - [[14 - Teorema de Taylor\|14 - Teorema de Taylor]] - Aproximaciones de orden superior
-> - [[15 - Campos Vectoriales\|15 - Campos Vectoriales]] - Gradiente como campo vectorial
+> - [[10 - Diferenciabilidad y Plano Tangente]] - El gradiente define el plano tangente
+> - [[11 - Regla de la Cadena]] - Composición con derivadas direccionales
+> - [[12 - Optimización sin Restricciones]] - Condiciones de primer orden
+> - [[13 - Multiplicadores de Lagrange]] - Optimización con restricciones
+> - [[14 - Teorema de Taylor]] - Aproximaciones de orden superior
+> - [[15 - Campos Vectoriales]] - Gradiente como campo vectorial
 > 
 > **Conceptos relacionados:**
 > 
@@ -2748,7 +2748,7 @@
 > - **Vector Normal** - El gradiente es normal a superficies de nivel
 > - **Descenso de Gradiente** - Algoritmo de optimización
 > 
-> **Siguiente tema recomendado:** [[10 - Diferenciabilidad y Aproximación Lineal\|10 - Diferenciabilidad y Aproximación Lineal]]
+> **Siguiente tema recomendado:** [[10 - Diferenciabilidad y Aproximación Lineal]]
 
 ---
 

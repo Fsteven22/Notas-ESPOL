@@ -1607,37 +1607,37 @@
 > [!quote] 🔗 Enlaces con Otros Temas
 > 
 > **Prerequisitos:**
-> - [[Coordenadas Polares 2D\|Coordenadas Polares 2D]] - Base para cilíndricas
-> - [[Vectores en ℝ³\|Vectores en ℝ³]] - Vectores unitarios y bases
-> - [[Trigonometría\|Trigonometría]] - Funciones circulares
-> - [[Cálculo Integral\|Cálculo Integral]] - Integrales múltiples
-> - [[Cambio de Variable\|Cambio de Variable]] - Jacobiano
+> - [[Coordenadas Polares 2D]] - Base para cilíndricas
+> - [[Vectores en ℝ³]] - Vectores unitarios y bases
+> - [[Trigonometría]] - Funciones circulares
+> - [[Cálculo Integral]] - Integrales múltiples
+> - [[Cambio de Variable]] - Jacobiano
 > 
 > **Temas relacionados:**
-> - [[Superficies de Revolución\|Superficies de Revolución]] - Naturales en cilíndricas/esféricas
-> - [[Distancias en ℝ³\|Distancias en ℝ³]] - Métricas en diferentes sistemas
-> - [[Producto Vectorial\|Producto Vectorial]] - Rotacional en curvilíneas
-> - [[Integrales Múltiples\|Integrales Múltiples]] - Aplicaciones de coordenadas
+> - [[Superficies de Revolución]] - Naturales en cilíndricas/esféricas
+> - [[Distancias en ℝ³]] - Métricas en diferentes sistemas
+> - [[Producto Vectorial]] - Rotacional en curvilíneas
+> - [[Integrales Múltiples]] - Aplicaciones de coordenadas
 > 
 > **Aplicaciones directas:**
-> - [[Ecuaciones Diferenciales Parciales\|Ecuaciones Diferenciales Parciales]] - Separación de variables
-> - [[Mecánica Clásica\|Mecánica Clásica]] - Lagrangiano en coordenadas generalizadas
-> - [[Electromagnetismo\|Electromagnetismo]] - Simetrías de campos
-> - [[Mecánica Cuántica\|Mecánica Cuántica]] - Átomo de hidrógeno
-> - [[Análisis Vectorial\|Análisis Vectorial]] - Operadores diferenciales
+> - [[Ecuaciones Diferenciales Parciales]] - Separación de variables
+> - [[Mecánica Clásica]] - Lagrangiano en coordenadas generalizadas
+> - [[Electromagnetismo]] - Simetrías de campos
+> - [[Mecánica Cuántica]] - Átomo de hidrógeno
+> - [[Análisis Vectorial]] - Operadores diferenciales
 > 
 > **Temas avanzados:**
-> - [[Geometría Diferencial\|Geometría Diferencial]] - Variedades y métricas
-> - [[Relatividad General\|Relatividad General]] - Coordenadas curvilíneas en espacio-tiempo
-> - [[Teoría de Campos\|Teoría de Campos]] - Lagrangianos en diferentes coordenadas
-> - [[Elementos Finitos\|Elementos Finitos]] - Mallados en coordenadas naturales
+> - [[Geometría Diferencial]] - Variedades y métricas
+> - [[Relatividad General]] - Coordenadas curvilíneas en espacio-tiempo
+> - [[Teoría de Campos]] - Lagrangianos en diferentes coordenadas
+> - [[Elementos Finitos]] - Mallados en coordenadas naturales
 > 
 > **Aplicaciones interdisciplinarias:**
-> - [[Física\|Física]] - Problemas con simetría
-> - [[Ingeniería\|Ingeniería]] - Diseño de componentes axisimétricos
-> - [[Astronomía\|Astronomía]] - Coordenadas celestes
-> - [[Geofísica\|Geofísica]] - Coordenadas geográficas
-> - [[Gráficos por Computadora\|Gráficos por Computadora]] - Mapeo de texturas
+> - [[Física]] - Problemas con simetría
+> - [[Ingeniería]] - Diseño de componentes axisimétricos
+> - [[Astronomía]] - Coordenadas celestes
+> - [[Geofísica]] - Coordenadas geográficas
+> - [[Gráficos por Computadora]] - Mapeo de texturas
 
 ## 💡 Consejos de Estudio
 

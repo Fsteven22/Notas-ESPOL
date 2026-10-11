@@ -219,9 +219,9 @@ flowchart TD
 
 > [!quote] 🔗 Notas relacionadas
 > 
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 4 - Historia de Internet/04 - Crímenes Informáticos y Malware\|04 - Crímenes Informáticos y Malware]]
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 4 - Historia de Internet/05 - Ingeniería Social y Fraudes en Línea\|05 - Ingeniería Social y Fraudes en Línea]]
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 4 - Historia de Internet/06 - Sabotaje y Ataques de Red\|06 - Sabotaje y Ataques de Red]]
+> - [[04 - Crímenes Informáticos y Malware]]
+> - [[05 - Ingeniería Social y Fraudes en Línea]]
+> - [[06 - Sabotaje y Ataques de Red]]
 
 ---
 

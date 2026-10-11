@@ -55,7 +55,7 @@
 >
 > [!warning] ⚠️ Por qué esta distinción importa en computación
 > 
-> Un código de ética profesional (como el de ACM o IEEE, ver [[Universidad/2do Semestre/Computación y Sociedad/Unidad 6 - Etica Profesional/03 - Códigos de Ética y Casos Reales\|03 - Códigos de Ética y Casos Reales]]) no es simplemente "la moral de la sociedad" trasladada al trabajo — es un conjunto de **principios que un profesional aplica activamente**, caso por caso, a situaciones que la ley o la costumbre colectiva no siempre cubren con claridad. Por eso la ética profesional exige juicio individual, no solo obediencia a una norma fija.
+> Un código de ética profesional (como el de ACM o IEEE, ver [[03 - Códigos de Ética y Casos Reales]]) no es simplemente "la moral de la sociedad" trasladada al trabajo — es un conjunto de **principios que un profesional aplica activamente**, caso por caso, a situaciones que la ley o la costumbre colectiva no siempre cubren con claridad. Por eso la ética profesional exige juicio individual, no solo obediencia a una norma fija.
 
 ---
 
@@ -169,7 +169,7 @@ flowchart TD
 > 
 > - [ ] Puedo diseñar un dilema ético propio en un contexto tecnológico, identificando ambos imperativos.
 > - [ ] Puedo argumentar por qué los dilemas éticos cotidianos e imperceptibles son tan relevantes como los extremos.
-> - [ ] Puedo conectar la distinción ética/moral con la necesidad de códigos de ética profesional (ver [[Universidad/2do Semestre/Computación y Sociedad/Unidad 6 - Etica Profesional/03 - Códigos de Ética y Casos Reales\|03 - Códigos de Ética y Casos Reales]]).
+> - [ ] Puedo conectar la distinción ética/moral con la necesidad de códigos de ética profesional (ver [[03 - Códigos de Ética y Casos Reales]]).
 
 ---
 
@@ -184,8 +184,8 @@ flowchart TD
 
 > [!quote] 🔗 Notas relacionadas
 > 
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 6 - Etica Profesional/02 - Falacias de la Ética Informática\|02 - Falacias de la Ética Informática]]
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 6 - Etica Profesional/03 - Códigos de Ética y Casos Reales\|03 - Códigos de Ética y Casos Reales]]
+> - [[02 - Falacias de la Ética Informática]]
+> - [[03 - Códigos de Ética y Casos Reales]]
 
 ---
 

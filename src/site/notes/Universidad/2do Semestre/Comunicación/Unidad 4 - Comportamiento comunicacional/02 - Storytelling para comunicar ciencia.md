@@ -75,9 +75,14 @@ graph TB
 
 ## ⚠️ Problemas Comunes y Soluciones
 
-> [!danger] ❌ Error: Drama sin Dato (o Dato sin Drama)
+> [!danger] ❌ Error: Drama sin Dato, o Dato sin Drama (viola **emoción + evidencia**)
 >
 > **Síntomas:** lloran con tu historia pero el jurado pregunta "¿y la evidencia?"; o recitas tablas y todos miran el celular.
+>
+> **Ejemplo completo:**
+>
+> - ❌ **EL ERROR ESTÁ AQUÍ:** 7 minutos de anécdota del equipo sin una sola cifra, o 20 diapositivas de tablas leídas en voz plana.
+> - ✅ Así sí: 1 historia de apertura + 1 dato que duele por bloque + cierre con acción ("con acta, 30% menos retrabajo en 2 talleres").
 >
 > **Solución:**
 >
@@ -153,12 +158,12 @@ mindmap
 
 > [!info] 📚 Seguir estudiando
 >
-> - Mapa de contenido: [[Universidad/2do Semestre/Comunicación/Comunicación\|Comunicación]]
-> - Índice Unidad 4: [[Universidad/2do Semestre/Comunicación/Unidad 4 - Comportamiento comunicacional/00 - Índice Unidad 4\|00 - Índice Unidad 4]]
-> - Anterior: [[Universidad/2do Semestre/Comunicación/Unidad 4 - Comportamiento comunicacional/01 - Argumentación efectiva, convencer vs persuadir\|01 - Argumentación efectiva, convencer vs persuadir]]
-> - Siguiente: [[Universidad/2do Semestre/Comunicación/Unidad 4 - Comportamiento comunicacional/03 - Voz, cuerpo, formatos y práctica TED\|03 - Voz, cuerpo, formatos y práctica TED]]
-> - Syllabus: [[Universidad/2do Semestre/Comunicación/Bienvenida y Syllabus Comunicación\|Bienvenida y Syllabus Comunicación]]
-> - Base MOOC: [[Universidad/Preuniversitario/MOOC de Comunicación/Comunicación Efectiva\|MOOC de Comunicación]]
+> - Mapa de contenido: [[Comunicación]]
+> - Índice Unidad 4: [[00 - Índice Unidad 4]]
+> - Anterior: [[01 - Argumentación efectiva, convencer vs persuadir]]
+> - Siguiente: [[03 - Voz, cuerpo, formatos y práctica TED]]
+> - Syllabus: [[Bienvenida y Syllabus Comunicación]]
+> - Base MOOC: [[Preuniversitario/MOOC de Comunicación/Comunicación Efectiva|MOOC de Comunicación]]
 
 ## 📚 Referencias
 

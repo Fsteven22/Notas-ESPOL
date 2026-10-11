@@ -153,8 +153,8 @@
 >
 > [!quote] 🔗 Conexiones
 > 
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 4 - Historia de Internet/01 - Historia de Internet y Cómo Funciona\|01 - Historia de Internet y Cómo Funciona]] — el punto de partida: cómo se creó la Web en 1991 sobre la infraestructura de Internet.
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 4 - Historia de Internet/03 - Evolución del HTML\|03 - Evolución del HTML]] — el lenguaje de marcado que evolucionó junto con cada generación de la Web, especialmente el salto hacia contenido dinámico en Web 2.0+.
+> - [[01 - Historia de Internet y Cómo Funciona]] — el punto de partida: cómo se creó la Web en 1991 sobre la infraestructura de Internet.
+> - [[03 - Evolución del HTML]] — el lenguaje de marcado que evolucionó junto con cada generación de la Web, especialmente el salto hacia contenido dinámico en Web 2.0+.
 
 ---
 

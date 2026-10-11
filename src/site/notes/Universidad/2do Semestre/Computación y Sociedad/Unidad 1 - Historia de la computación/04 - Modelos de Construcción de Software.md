@@ -18,7 +18,6 @@
 >     B --> D[Espiral]
 >     B --> E[Incremental]
 >     B --> F[Ágil / SCRUM]
->
 >     style C fill:#e1f5ff
 >     style D fill:#e1ffe1
 >     style E fill:#fff4e1
@@ -40,7 +39,6 @@
 >     C --> D[Codificación y Depuración]
 >     D --> E[Test y Pruebas]
 >     E --> F[Operación y Mantenimiento]
->
 >     style A fill:#e1f5ff
 >     style B fill:#e1ffe1
 >     style C fill:#fff4e1
@@ -83,7 +81,6 @@
 >     B --> C[Desarrollo y<br/>Verificación del Producto]
 >     C --> D[Planificación de<br/>la siguiente fase]
 >     D --> A
->
 >     style A fill:#e1f5ff
 >     style B fill:#ffe1e1
 >     style C fill:#e1ffe1
@@ -121,7 +118,6 @@
 >     A[Incremento 1<br/>Funcionalidad básica] --> B[Entrega 1]
 >     B --> C[Incremento 2<br/>+ Funcionalidades] --> D[Entrega 2]
 >     D --> E[Incremento n<br/>Producto completo] --> F[Entrega final]
->
 >     style A fill:#e1f5ff
 >     style C fill:#e1ffe1
 >     style E fill:#fff4e1
@@ -167,7 +163,6 @@
 >     F --> B
 >     C --> G[Revisión y<br/>Retrospectiva]
 >     G --> B
->
 >     style A fill:#fff4e1
 >     style C fill:#e1ffe1
 >     style D fill:#f5e1ff

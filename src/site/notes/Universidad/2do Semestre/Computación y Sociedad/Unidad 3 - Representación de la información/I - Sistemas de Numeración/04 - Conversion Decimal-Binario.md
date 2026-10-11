@@ -18,7 +18,6 @@
 >     B --> B2[Fracciones:<br/>multiplicaciones sucesivas ×2]
 >     C --> C1[Enteros:<br/>suma de potencias de 2]
 >     C --> C2[Fracciones:<br/>potencias negativas de 2]
->
 >     style A fill:#e1f5ff
 >     style B fill:#e1ffe1
 >     style C fill:#fff4e1
@@ -76,7 +75,7 @@
 >
 > $$\boxed{1101011001010100_2 = 54\,868_{10}}$$
 
-![ChatGPT Image 21 jun 2026, 13_33_05.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2021%20jun%202026,%2013_33_05.png)
+![[ChatGPT Image 21 jun 2026, 13_33_05.png]]
 
 ---
 

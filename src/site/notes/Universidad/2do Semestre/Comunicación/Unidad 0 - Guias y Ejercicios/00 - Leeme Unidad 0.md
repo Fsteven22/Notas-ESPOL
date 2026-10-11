@@ -29,4 +29,21 @@
 
 ---
 
+## 📜 Fundamentación teórica (cátedra)
+
+<iframe src="/img/user/Universidad/2do%20Semestre/Comunicaci%C3%B3n/Unidad%200%20-%20Guias%20y%20Ejercicios/Fundamentaci%C3%B3n%20Te%C3%B3rica%20Pensamiento%20Complejo%20(1).pdf" width="100%" height="900px" title="Fundamentación Teórica Pensamiento Complejo (1).pdf" style="border:1px solid #ccc;"></iframe>
+
+<iframe src="/img/user/Universidad/2do%20Semestre/Comunicaci%C3%B3n/Unidad%200%20-%20Guias%20y%20Ejercicios/Fundamentaci%C3%B3n%20te%C3%B3rica%20Comunicaci%C3%B3n%20Estrat%C3%A9gica.pdf" width="100%" height="900px" title="Fundamentación teórica Comunicación Estratégica.pdf" style="border:1px solid #ccc;"></iframe>
+
+---
+
+## 🎬 Capturas de clase (PDF por sesión)
+
+<iframe src="/img/user/Universidad/2do%20Semestre/Comunicaci%C3%B3n/Unidad%200%20-%20Guias%20y%20Ejercicios/Clase%20S3%20-%20Comunicaci%C3%B3n%20estrat%C3%A9gica%20(capturas).pdf" width="100%" height="900px" title="Clase S3 - Comunicación estratégica (capturas).pdf" style="border:1px solid #ccc;"></iframe>
+
+> [!warning] 🎬 Video solo local (no se publica)
+> `Dinámicas grupales y trabajo en equipo.wmv` (58 MB): el Garden no embebe `.wmv` ni archivos así de pesados. Queda como recurso local; si lo necesitas en el sitio, conviértelo a MP4 ligero o súbelo a YouTube y enlázalo.
+
+---
+
 **Tags:** #IDIG2012 #unidad0 #recursos

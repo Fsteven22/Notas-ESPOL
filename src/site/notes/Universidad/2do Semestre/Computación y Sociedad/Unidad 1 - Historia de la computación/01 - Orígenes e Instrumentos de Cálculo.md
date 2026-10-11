@@ -17,7 +17,6 @@
 >     B --> C[Máquinas mecánicas]
 >     C --> D[Máquinas programables]
 >     D --> E[Computación moderna]
->
 >     style A fill:#fff4e1
 >     style B fill:#e1f5ff
 >     style C fill:#e1ffe1

@@ -1603,7 +1603,7 @@
 >
 > **📖 Fundamentos previos necesarios:**
 >
-> **[[Universidad/Preuniversitario/MOOC - Ingles (A1 - A2)/Unit 4 - Vocabulary and Verbs/01 - Regular and Irregular Verbs\|01 - Regular and Irregular Verbs]]**
+> **[[01 - Regular and Irregular Verbs]]**
 >
 > ```
 > Conexión CRÍTICA: Debes dominar los verbos irregulares primero
@@ -1621,7 +1621,7 @@
 > • Verbos que cambian completamente (go-went-gone)
 > ```
 >
-> **[[Verb Tenses Overview\|Verb Tenses Overview]]** (tema previo recomendado)
+> **[[Verb Tenses Overview]]** (tema previo recomendado)
 >
 > ```
 > Conexión: Debes entender el sistema de tiempos verbales
@@ -1639,7 +1639,7 @@
 >
 > **📜 Continuación inmediata:**
 >
-> **[[Past Perfect vs Past Perfect Continuous\|Past Perfect vs Past Perfect Continuous]]** (siguiente tema sugerido)
+> **[[Past Perfect vs Past Perfect Continuous]]** (siguiente tema sugerido)
 >
 > ```
 > Conexión directa: El mismo concepto, pero en el pasado
@@ -1656,7 +1656,7 @@
 > La lógica es la misma: Simple = resultado, Continuous = duración
 > ```
 >
-> **[[Future Perfect and Future Perfect Continuous\|Future Perfect and Future Perfect Continuous]]**
+> **[[Future Perfect and Future Perfect Continuous]]**
 >
 > ```
 > Conexión: Completando el sistema de Perfect Tenses
@@ -1672,7 +1672,7 @@
 >
 > **📊 Aplicaciones en temas relacionados:**
 >
-> **[[Time Expressions in English\|Time Expressions in English]]**
+> **[[Time Expressions in English]]**
 >
 > ```
 > Conexión importante: Palabras que determinan qué tiempo usar
@@ -1687,7 +1687,7 @@
 > Estas palabras DETERMINAN si usas Present Perfect o Past Simple
 > ```
 >
-> **[[Past Simple vs Present Perfect\|Past Simple vs Present Perfect]]**
+> **[[Past Simple vs Present Perfect]]**
 >
 > ```
 > Confusión MUY común para hispanohablantes:
@@ -1699,7 +1699,7 @@
 > Un tema completo dedicado a esta distinción crítica
 > ```
 >
-> **[[Stative vs Dynamic Verbs\|Stative vs Dynamic Verbs]]**
+> **[[Stative vs Dynamic Verbs]]**
 >
 > ```
 > Conexión esencial para Present Perfect Continuous
@@ -1714,7 +1714,7 @@
 > ✗ I have been knowing him for years.
 > ```
 >
-> **[[Reported Speech\|Reported Speech]]** (tema futuro)
+> **[[Reported Speech]]** (tema futuro)
 >
 > ```
 > Present Perfect cambia en reported speech:

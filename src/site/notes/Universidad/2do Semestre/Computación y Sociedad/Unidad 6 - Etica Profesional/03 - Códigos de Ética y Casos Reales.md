@@ -43,7 +43,7 @@
 >
 > [!tip] 🖥️ Conexión con las falacias vistas antes
 > 
-> Varios de estos mandamientos contrarrestan directamente las falacias de [[Universidad/2do Semestre/Computación y Sociedad/Unidad 6 - Etica Profesional/02 - Falacias de la Ética Informática\|02 - Falacias de la Ética Informática]]: el mandamiento 6 ("no copiarás software propietario") ataca directamente la **Candy-from-a-Baby Fallacy** y la **falacia de la información gratuita**; el mandamiento 3 ("no seguirás en archivos ajenos") ataca la **Hacker's Fallacy**, sin excepción por "buena intención".
+> Varios de estos mandamientos contrarrestan directamente las falacias de [[02 - Falacias de la Ética Informática]]: el mandamiento 6 ("no copiarás software propietario") ataca directamente la **Candy-from-a-Baby Fallacy** y la **falacia de la información gratuita**; el mandamiento 3 ("no seguirás en archivos ajenos") ataca la **Hacker's Fallacy**, sin excepción por "buena intención".
 
 ---
 
@@ -73,7 +73,7 @@
 >
 > [!warning] ⚠️ No son leyes, son estándares profesionales
 > 
-> Ninguno de estos tres códigos tiene fuerza de ley por sí solo — son estándares adoptados por **asociaciones profesionales**. Su cumplimiento depende en gran medida del compromiso individual del profesional y, en algunos casos, de las políticas internas de las empresas u organizaciones que los adoptan como referencia. Esto conecta directamente con la **falacia del ciudadano que respeta la ley** (ver [[Universidad/2do Semestre/Computación y Sociedad/Unidad 6 - Etica Profesional/02 - Falacias de la Ética Informática\|02 - Falacias de la Ética Informática]]): cumplir la ley no es lo mismo que actuar conforme a estos códigos éticos.
+> Ninguno de estos tres códigos tiene fuerza de ley por sí solo — son estándares adoptados por **asociaciones profesionales**. Su cumplimiento depende en gran medida del compromiso individual del profesional y, en algunos casos, de las políticas internas de las empresas u organizaciones que los adoptan como referencia. Esto conecta directamente con la **falacia del ciudadano que respeta la ley** (ver [[02 - Falacias de la Ética Informática]]): cumplir la ley no es lo mismo que actuar conforme a estos códigos éticos.
 
 ---
 
@@ -187,8 +187,8 @@ flowchart TD
 
 > [!quote] 🔗 Notas relacionadas
 > 
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 6 - Etica Profesional/01 - Fundamentos de Ética y Moral\|01 - Fundamentos de Ética y Moral]]
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 6 - Etica Profesional/02 - Falacias de la Ética Informática\|02 - Falacias de la Ética Informática]]
+> - [[01 - Fundamentos de Ética y Moral]]
+> - [[02 - Falacias de la Ética Informática]]
 
 ---
 

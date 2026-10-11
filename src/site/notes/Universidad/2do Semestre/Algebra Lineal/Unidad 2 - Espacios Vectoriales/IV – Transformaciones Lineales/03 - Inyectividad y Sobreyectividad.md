@@ -902,31 +902,31 @@
 
 > [!quote] Enlaces Conceptuales **Fundamentos previos:**
 > 
-> - [[01 - Transformaciones lineales\|01 - Transformaciones lineales]] - Definición básica
-> - [[19 - Núcleo e Imagen\|19 - Núcleo e Imagen]] - Subespacios fundamentales
-> - [[03 - Teorema de la dimensión\|03 - Teorema de la dimensión]] - Relación rank-nullity
-> - [[06 - Independencia lineal\|06 - Independencia lineal]] - Bases y generadores
+> - [[01 - Transformaciones lineales]] - Definición básica
+> - [[19 - Núcleo e Imagen]] - Subespacios fundamentales
+> - [[03 - Teorema de la dimensión]] - Relación rank-nullity
+> - [[06 - Independencia lineal]] - Bases y generadores
 > 
 > **Temas directamente relacionados:**
 > 
-> - [[04 - Isomorfismos\|04 - Isomorfismos]] - Biyecciones lineales
-> - [[05 - Espacio columna\|05 - Espacio columna]] - Caracterización de imagen
-> - [[17 - Espacio nulo\|17 - Espacio nulo]] - Caracterización de núcleo
-> - [[21 - Rango de matrices\|21 - Rango de matrices]] - Aplicación matricial
+> - [[04 - Isomorfismos]] - Biyecciones lineales
+> - [[05 - Espacio columna]] - Caracterización de imagen
+> - [[17 - Espacio nulo]] - Caracterización de núcleo
+> - [[21 - Rango de matrices]] - Aplicación matricial
 > 
 > **Aplicaciones posteriores:**
 > 
-> - [[22 - Sistemas de ecuaciones lineales\|22 - Sistemas de ecuaciones lineales]] - Existencia y unicidad
-> - [[23 - Matriz inversa\|23 - Matriz inversa]] - Biyectividad y matrices
-> - [[24 - Valores propios\|24 - Valores propios]] - Análisis de Ker(T - λI)
-> - [[30 - Proyecciones\|30 - Proyecciones]] - Casos no inyectivos
-> - [[35 - SVD\|35 - SVD]] - Descomposición fundamental
+> - [[22 - Sistemas de ecuaciones lineales]] - Existencia y unicidad
+> - [[23 - Matriz inversa]] - Biyectividad y matrices
+> - [[24 - Valores propios]] - Análisis de Ker(T - λI)
+> - [[30 - Proyecciones]] - Casos no inyectivos
+> - [[35 - SVD]] - Descomposición fundamental
 > 
 > **Conceptos avanzados:**
 > 
-> - [[40 - Teorema espectral\|40 - Teorema espectral]] - Operadores biyectivos
-> - [[45 - Teoría de categorías\|45 - Teoría de categorías]] - Monomorfismos/epimorfismos
-> - [[50 - Análisis funcional\|50 - Análisis funcional]] - Operadores en espacios infinitos
+> - [[40 - Teorema espectral]] - Operadores biyectivos
+> - [[45 - Teoría de categorías]] - Monomorfismos/epimorfismos
+> - [[50 - Análisis funcional]] - Operadores en espacios infinitos
 
 ## 📚 Bibliografía Esencial
 

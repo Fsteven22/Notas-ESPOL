@@ -243,9 +243,9 @@ graph TD
 >
 > [!quote] 🔗 Conexiones
 > 
-> - [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 4 - Going Glocal/01 - Vocabulary & Use - Advertising & Media People\|01 - Vocabulary & Use - Advertising & Media People]]
-> - [[03 - Functional Language & Pronunciation - Exchanging Opinions & Vowel Sounds\|03 - Functional Language & Pronunciation - Exchanging Opinions & Vowel Sounds]]
-> - [[04 - Reading Writing Speaking - Building a Brand & Designing Ads\|04 - Reading Writing Speaking - Building a Brand & Designing Ads]]
+> - [[01 - Vocabulary & Use - Advertising & Media People]]
+> - [[03 - Functional Language & Pronunciation - Exchanging Opinions & Vowel Sounds]]
+> - [[04 - Reading Writing Speaking - Building a Brand & Designing Ads]]
 
 ---
 

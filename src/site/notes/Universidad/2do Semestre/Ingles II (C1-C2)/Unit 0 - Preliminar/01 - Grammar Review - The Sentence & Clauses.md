@@ -22,10 +22,8 @@
 >     A[The Sentence & Clauses] --> B[What is a sentence?]
 >     A --> C[Characteristics]
 >     A --> D[Clauses]
->
 >     D --> E[Independent Clause<br/>✅ stands alone]
 >     D --> F[Dependent Clause<br/>❌ needs support]
->
 >     style B fill:#e1f5ff
 >     style C fill:#e1ffe1
 >     style D fill:#fff4e1
@@ -99,10 +97,8 @@
 > graph LR
 >     A[CLAUSE] --> B[Independent Clause]
 >     A --> C[Dependent Clause]
->
 >     B --> B1["✅ Makes complete sense alone<br/>─────────────────<br/>She loves music."]
 >     C --> C1["❌ Does NOT make sense alone<br/>─────────────────<br/>Because she loves music..."]
->
 >     style B fill:#e1ffe1
 >     style C fill:#ffe1e1
 >     style B1 fill:#f0fff0

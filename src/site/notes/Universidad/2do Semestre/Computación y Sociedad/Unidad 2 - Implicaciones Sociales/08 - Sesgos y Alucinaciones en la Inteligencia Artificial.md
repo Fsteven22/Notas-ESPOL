@@ -46,10 +46,8 @@
 >     B[👨‍💻 Decisiones de Diseño del Algoritmo] --> E
 >     C[👥 Sesgos Humanos Incorporados] --> E
 >     D[🌍 Datos No Representativos] --> E
-> 
 >     E --> F[Discriminación Intencional]
 >     E --> G[Discriminación No Intencional]
-> 
 >     style A fill:#ffe1e1
 >     style B fill:#fff4e1
 >     style C fill:#ffe1e1
@@ -153,7 +151,6 @@
 >     B -- Sí --> C[Respuesta correcta ✅]
 >     B -- No --> D[Inventa una respuesta plausible ❌]
 >     D --> E[ALUCINACIÓN]
-> 
 >     style C fill:#e1ffe1
 >     style D fill:#ffe1e1
 >     style E fill:#ffcccc
@@ -246,7 +243,6 @@
 >     B -- No --> D[¿Genera información factualmente incorrecta?]
 >     D -- Sí --> E[🟡 ALUCINACIÓN: Inventa con confianza]
 >     D -- No --> F[Otro tipo de error]
-> 
 >     style C fill:#ffe1e1
 >     style E fill:#fff4e1
 >     style F fill:#e1f5ff

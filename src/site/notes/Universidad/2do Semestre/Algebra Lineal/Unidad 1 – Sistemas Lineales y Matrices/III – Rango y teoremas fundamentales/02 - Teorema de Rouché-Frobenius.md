@@ -2645,41 +2645,41 @@
 > 
 > **Depende directamente de:**
 > 
-> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 1 – Sistemas Lineales y Matrices/III – Rango y teoremas fundamentales/01 - Rango de una Matriz\|01 - Rango de una Matriz]] - Concepto fundamental del teorema
-> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 1 – Sistemas Lineales y Matrices/II – Métodos de resolución/02 - Formas Escalonadas y Matriz Escalonada\|02 - Formas Escalonadas y Matriz Escalonada]] - Método para calcular rangos
-> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 1 – Sistemas Lineales y Matrices/II – Métodos de resolución/01 - Algoritmo de Gauss\|01 - Algoritmo de Gauss]] - Herramienta de cálculo
-> - [[02 - Sistemas de ecuaciones lineales\|02 - Sistemas de ecuaciones lineales]] - Objeto de estudio
-> - [[Matrices\|Matrices]] - Estructura algebraica base
+> - [[01 - Rango de una Matriz]] - Concepto fundamental del teorema
+> - [[02 - Formas Escalonadas y Matriz Escalonada]] - Método para calcular rangos
+> - [[01 - Algoritmo de Gauss]] - Herramienta de cálculo
+> - [[02 - Sistemas de ecuaciones lineales]] - Objeto de estudio
+> - [[Matrices]] - Estructura algebraica base
 > 
 > **Es prerequisito para:**
 > 
-> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 1 – Sistemas Lineales y Matrices/IV – Estructura de soluciones/01 - Dimensión y descripción del conjunto solución\|01 - Dimensión y descripción del conjunto solución]] - Aplicación directa
-> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 1 – Sistemas Lineales y Matrices/IV – Estructura de soluciones/01 - Dimensión y descripción del conjunto solución\|01 - Dimensión y descripción del conjunto solución]] - Análisis de infinitas soluciones
-> - [[09 - Resolución de sistemas lineales\|09 - Resolución de sistemas lineales]] - Estrategias de solución
-> - [[10 - Sistemas homogéneos\|10 - Sistemas homogéneos]] - Caso especial
+> - [[01 - Dimensión y descripción del conjunto solución]] - Aplicación directa
+> - [[01 - Dimensión y descripción del conjunto solución]] - Análisis de infinitas soluciones
+> - [[09 - Resolución de sistemas lineales]] - Estrategias de solución
+> - [[10 - Sistemas homogéneos]] - Caso especial
 > 
 > **Conceptos relacionados:**
 > 
-> - [[Espacios Vectoriales\|Espacios Vectoriales]] - Espacio solución como subespacio
-> - [[Dependencia e Independencia Lineal\|Dependencia e Independencia Lineal]] - Relación con el rango
-> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 – Espacios Vectoriales y Transformaciones Lineales/II – Subespacios y Generación/01 - Subespacios Vectoriales\|01 - Subespacios Vectoriales]] - Conjunto solución de sistemas compatibles
-> - [[Dimensión de un espacio vectorial\|Dimensión de un espacio vectorial]] - Grados de libertad
+> - [[Espacios Vectoriales]] - Espacio solución como subespacio
+> - [[Dependencia e Independencia Lineal]] - Relación con el rango
+> - [[01 - Subespacios Vectoriales]] - Conjunto solución de sistemas compatibles
+> - [[Dimensión de un espacio vectorial]] - Grados de libertad
 > 
 > **Aplicaciones prácticas:**
 > 
-> - [[Circuitos Eléctricos - Leyes de Kirchhoff\|Circuitos Eléctricos - Leyes de Kirchhoff]] - Análisis de redes
-> - [[Sistemas de Balance de Materia\|Sistemas de Balance de Materia]] - Ingeniería Química
-> - [[Modelo de Leontief\|Modelo de Leontief]] - Economía Input-Output
-> - [[Análisis Estructural\|Análisis Estructural]] - Estática y armaduras
-> - [[Balanceo de Ecuaciones Químicas\|Balanceo de Ecuaciones Químicas]] - Estequiometría
+> - [[Circuitos Eléctricos - Leyes de Kirchhoff]] - Análisis de redes
+> - [[Sistemas de Balance de Materia]] - Ingeniería Química
+> - [[Modelo de Leontief]] - Economía Input-Output
+> - [[Análisis Estructural]] - Estática y armaduras
+> - [[Balanceo de Ecuaciones Químicas]] - Estequiometría
 > 
 > **Extensiones y generalizaciones:**
 > 
-> - [[Sistemas con parámetros\|Sistemas con parámetros]] - Discusión de sistemas
-> - [[Mínimos Cuadrados\|Mínimos Cuadrados]] - Sistemas incompatibles aproximados
-> - [[Pseudoinversa de Moore-Penrose\|Pseudoinversa de Moore-Penrose]] - Soluciones generalizadas
-> - [[Programación Lineal\|Programación Lineal]] - Factibilidad de restricciones
-> - [[Teoremas de Existencia y Unicidad\|Teoremas de Existencia y Unicidad]] - Ecuaciones diferenciales
+> - [[Sistemas con parámetros]] - Discusión de sistemas
+> - [[Mínimos Cuadrados]] - Sistemas incompatibles aproximados
+> - [[Pseudoinversa de Moore-Penrose]] - Soluciones generalizadas
+> - [[Programación Lineal]] - Factibilidad de restricciones
+> - [[Teoremas de Existencia y Unicidad]] - Ecuaciones diferenciales
 >
 > [!info] 📚 Temas Avanzados Relacionados
 > 

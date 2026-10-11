@@ -1594,11 +1594,11 @@
 > 
 > **Este tema es prerequisito para:**
 > 
-> - [[08 - Derivadas Parciales\|08 - Derivadas Parciales]] - Las derivadas requieren continuidad
-> - [[09 - Diferenciabilidad\|09 - Diferenciabilidad]] - Diferenciable → continua (pero no viceversa)
-> - [[10 - Regla de la Cadena\|10 - Regla de la Cadena]] - Se basa en composición de funciones continuas
-> - [[15 - Optimización\|15 - Optimización]] - TVE garantiza existencia de extremos
-> - [[20 - Integrales Dobles\|20 - Integrales Dobles]] - Funciones continuas son integrables
+> - [[08 - Derivadas Parciales]] - Las derivadas requieren continuidad
+> - [[09 - Diferenciabilidad]] - Diferenciable → continua (pero no viceversa)
+> - [[10 - Regla de la Cadena]] - Se basa en composición de funciones continuas
+> - [[15 - Optimización]] - TVE garantiza existencia de extremos
+> - [[20 - Integrales Dobles]] - Funciones continuas son integrables
 > 
 > **Conceptos relacionados:**
 > 
@@ -1607,7 +1607,7 @@
 > - **Diferenciabilidad** - Condición más fuerte que continuidad
 > - **Integrabilidad** - Funciones continuas (o casi) son integrables
 > 
-> **Siguiente tema recomendado:** [[08 - Derivadas Parciales de Funciones de Varias Variables\|08 - Derivadas Parciales de Funciones de Varias Variables]]
+> **Siguiente tema recomendado:** [[08 - Derivadas Parciales de Funciones de Varias Variables]]
 
 ---
 

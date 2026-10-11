@@ -1160,12 +1160,12 @@
 > 
 > **Este tema es fundamental para:**
 > 
-> - **[[08 - Derivadas Parciales\|08 - Derivadas Parciales]]** - El diferencial total usa derivadas parciales
-> - **[[09 - Diferenciabilidad\|09 - Diferenciabilidad]]** - Concepto central de diferenciabilidad
-> - **[[10 - Regla de la Cadena\|10 - Regla de la Cadena]]** - Se expresa elegantemente con diferenciales
-> - **[[11 - Gradiente\|11 - Gradiente]]** - $df = \nabla f \cdot d\vec{r}$
-> - **[[15 - Optimización\|15 - Optimización]]** - Condición $df = 0$ para extremos
-> - **[[20 - Integrales de Línea\|20 - Integrales de Línea]]** - Diferenciales exactos e inexactos
+> - **[[08 - Derivadas Parciales]]** - El diferencial total usa derivadas parciales
+> - **[[09 - Diferenciabilidad]]** - Concepto central de diferenciabilidad
+> - **[[10 - Regla de la Cadena]]** - Se expresa elegantemente con diferenciales
+> - **[[11 - Gradiente]]** - $df = \nabla f \cdot d\vec{r}$
+> - **[[15 - Optimización]]** - Condición $df = 0$ para extremos
+> - **[[20 - Integrales de Línea]]** - Diferenciales exactos e inexactos
 > 
 > **Conceptos relacionados:**
 > 
@@ -1176,9 +1176,9 @@
 > 
 > **Temas previos necesarios:**
 > 
-> - [[01 - Funciones de Varias Variables\|01 - Funciones de Varias Variables]]
-> - [[02 - Continuidad\|02 - Continuidad]]
-> - [[07 - Límites en Varias Variables\|07 - Límites en Varias Variables]]
+> - [[01 - Funciones de Varias Variables]]
+> - [[02 - Continuidad]]
+> - [[07 - Límites en Varias Variables]]
 
 ---
 

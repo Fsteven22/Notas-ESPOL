@@ -71,7 +71,6 @@ graph TB
 >     O --> M[Mirada 3 puntos]
 >     O --> P[Postura base]
 >     O --> E[Espacio / proxémica]
->
 >     style M fill:#e1f5ff
 > ```
 >
@@ -129,9 +128,14 @@ graph TB
 
 ## ⚠️ Problemas Comunes y Soluciones
 
-> [!danger] ❌ Error: Leer Diapositivas de Espaldas
+> [!danger] ❌ Error: Leer Diapositivas de Espaldas (viola **hablarle al público, no a la pantalla**)
 >
 > **Síntomas:** jurado lee tu espalda, voz cae, tiempo se va a 12 min.
+>
+> **Ejemplo completo:**
+>
+> - ❌ **EL ERROR ESTÁ AQUÍ:** lees cada bullet de espaldas 12 minutos; el jurado lee más rápido que tú y deja de escucharte al minuto 2.
+> - ✅ Así sí: diapositiva con 1 imagen + 5 palabras, tú dices el dato mirando al jurado, marcas [PAUSA] [MIRA] cada 60 segundos.
 >
 > **Solución:**
 >
@@ -216,11 +220,11 @@ mindmap
 
 > [!info] 📚 Seguir estudiando
 >
-> - Mapa de contenido: [[Universidad/2do Semestre/Comunicación/Comunicación\|Comunicación]]
-> - Índice Unidad 4: [[Universidad/2do Semestre/Comunicación/Unidad 4 - Comportamiento comunicacional/00 - Índice Unidad 4\|00 - Índice Unidad 4]]
-> - Anterior: [[Universidad/2do Semestre/Comunicación/Unidad 4 - Comportamiento comunicacional/02 - Storytelling para comunicar ciencia\|02 - Storytelling para comunicar ciencia]]
-> - Syllabus: [[Universidad/2do Semestre/Comunicación/Bienvenida y Syllabus Comunicación\|Bienvenida y Syllabus Comunicación]]
-> - Base MOOC: [[Universidad/Preuniversitario/MOOC de Comunicación/Comunicación Efectiva\|MOOC de Comunicación]]
+> - Mapa de contenido: [[Comunicación]]
+> - Índice Unidad 4: [[00 - Índice Unidad 4]]
+> - Anterior: [[02 - Storytelling para comunicar ciencia]]
+> - Syllabus: [[Bienvenida y Syllabus Comunicación]]
+> - Base MOOC: [[Preuniversitario/MOOC de Comunicación/Comunicación Efectiva|MOOC de Comunicación]]
 
 ## 📚 Referencias
 

@@ -2637,30 +2637,30 @@ graph TD
 > 
 > **Depende directamente de:**
 > 
-> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 1 – Sistemas Lineales y Matrices/II – Métodos de resolución/01 - Algoritmo de Gauss\|01 - Algoritmo de Gauss]] - Proceso para obtener FE
-> - [[02 - Sistemas de ecuaciones lineales\|02 - Sistemas de ecuaciones lineales]] - Contexto de aplicación
-> - [[Matrices\|Matrices]] - Objeto base de estudio
+> - [[01 - Algoritmo de Gauss]] - Proceso para obtener FE
+> - [[02 - Sistemas de ecuaciones lineales]] - Contexto de aplicación
+> - [[Matrices]] - Objeto base de estudio
 > 
 > **Se usa en:**
 > 
-> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 1 – Sistemas Lineales y Matrices/III – Rango y teoremas fundamentales/01 - Rango de una Matriz\|01 - Rango de una Matriz]] - FE facilita cálculo del rango
-> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 1 – Sistemas Lineales y Matrices/III – Rango y teoremas fundamentales/02 - Teorema de Rouché-Frobenius\|02 - Teorema de Rouché-Frobenius]] - FE visualiza el teorema
-> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 1 – Sistemas Lineales y Matrices/IV – Estructura de soluciones/01 - Dimensión y descripción del conjunto solución\|01 - Dimensión y descripción del conjunto solución]] - FE determina tipo
-> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 1 – Sistemas Lineales y Matrices/IV – Estructura de soluciones/01 - Dimensión y descripción del conjunto solución\|01 - Dimensión y descripción del conjunto solución]] - FER da soluciones
+> - [[01 - Rango de una Matriz]] - FE facilita cálculo del rango
+> - [[02 - Teorema de Rouché-Frobenius]] - FE visualiza el teorema
+> - [[01 - Dimensión y descripción del conjunto solución]] - FE determina tipo
+> - [[01 - Dimensión y descripción del conjunto solución]] - FER da soluciones
 > 
 > **Conceptos relacionados:**
 > 
-> - [[Espacios Vectoriales\|Espacios Vectoriales]] - FER identifica bases
-> - [[Dependencia e Independencia Lineal\|Dependencia e Independencia Lineal]] - FER revela dependencias
-> - [[Transformaciones Lineales\|Transformaciones Lineales]] - FER caracteriza transformación
-> - [[Matriz Inversa\|Matriz Inversa]] - Método [A|I] → [I|A⁻¹]
+> - [[Espacios Vectoriales]] - FER identifica bases
+> - [[Dependencia e Independencia Lineal]] - FER revela dependencias
+> - [[Transformaciones Lineales]] - FER caracteriza transformación
+> - [[Matriz Inversa]] - Método [A|I] → [I|A⁻¹]
 > 
 > **Aplicaciones avanzadas:**
 > 
-> - [[Espacios Fundamentales\|Espacios Fundamentales]] - Nul(A), Col(A), Row(A)
-> - [[Descomposición LU\|Descomposición LU]] - Relacionada con factorización
-> - [[Mínimos Cuadrados\|Mínimos Cuadrados]] - Resolución de sistemas inconsistentes
-> - [[Pseudoinversa de Moore-Penrose\|Pseudoinversa de Moore-Penrose]] - Generalización
+> - [[Espacios Fundamentales]] - Nul(A), Col(A), Row(A)
+> - [[Descomposición LU]] - Relacionada con factorización
+> - [[Mínimos Cuadrados]] - Resolución de sistemas inconsistentes
+> - [[Pseudoinversa de Moore-Penrose]] - Generalización
 
 ## 🎓 Consejos Finales para Exámenes
 

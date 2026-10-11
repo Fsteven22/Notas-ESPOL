@@ -1444,36 +1444,36 @@ graph TD
 > 
 > **Prerequisites (Prerrequisitos):**
 > 
-> - [[Sistemas de Ecuaciones Lineales\|Sistemas de Ecuaciones Lineales]] - Base conceptual
-> - [[Algoritmo de Gauss\|Algoritmo de Gauss]] - Método de cálculo principal
-> - [[Matrices\|Matrices]] - Operaciones y propiedades
+> - [[Sistemas de Ecuaciones Lineales]] - Base conceptual
+> - [[Algoritmo de Gauss]] - Método de cálculo principal
+> - [[Matrices]] - Operaciones y propiedades
 > 
 > **Temas directamente relacionados:**
 > 
-> - [[Teorema de Rouché-Frobenius\|Teorema de Rouché-Frobenius]] - Clasificación de sistemas
-> - [[Espacios Vectoriales\|Espacios Vectoriales]] - Dimensión y bases
-> - [[Dependencia e Independencia Lineal\|Dependencia e Independencia Lineal]] - Concepto fundamental
+> - [[Teorema de Rouché-Frobenius]] - Clasificación de sistemas
+> - [[Espacios Vectoriales]] - Dimensión y bases
+> - [[Dependencia e Independencia Lineal]] - Concepto fundamental
 > 
 > **Aplicaciones del rango:**
 > 
-> - [[Determinantes\|Determinantes]] - Relación con invertibilidad
-> - [[Matriz Inversa\|Matriz Inversa]] - Condición de existencia
-> - [[Transformaciones Lineales\|Transformaciones Lineales]] - Núcleo e imagen
-> - [[Valores y Vectores Propios\|Valores y Vectores Propios]] - Análisis espectral
+> - [[Determinantes]] - Relación con invertibilidad
+> - [[Matriz Inversa]] - Condición de existencia
+> - [[Transformaciones Lineales]] - Núcleo e imagen
+> - [[Valores y Vectores Propios]] - Análisis espectral
 > 
 > **Temas avanzados:**
 > 
-> - [[Descomposición SVD\|Descomposición SVD]] - Valores singulares
-> - [[Espacios Fundamentales\|Espacios Fundamentales]] - Cuatro subespacios
-> - [[Teorema Rango-Nulidad\|Teorema Rango-Nulidad]] - Dimensiones complementarias
-> - [[Pseudoinversa de Moore-Penrose\|Pseudoinversa de Moore-Penrose]] - Generalización de inversa
+> - [[Descomposición SVD]] - Valores singulares
+> - [[Espacios Fundamentales]] - Cuatro subespacios
+> - [[Teorema Rango-Nulidad]] - Dimensiones complementarias
+> - [[Pseudoinversa de Moore-Penrose]] - Generalización de inversa
 > 
 > **Aplicaciones computacionales:**
 > 
-> - [[PCA (Análisis de Componentes Principales)\|PCA (Análisis de Componentes Principales)]] - Reducción de dimensionalidad
-> - [[Regresión Lineal\|Regresión Lineal]] - Problemas de mínimos cuadrados
-> - [[Compresión de Datos\|Compresión de Datos]] - Aproximación de bajo rango
-> - [[Universidad/1er Semestre/Fundamentos de Programación/Fundamentos de FP/Machine Learning\|Machine Learning]] - Feature selection
+> - [[PCA (Análisis de Componentes Principales)]] - Reducción de dimensionalidad
+> - [[Regresión Lineal]] - Problemas de mínimos cuadrados
+> - [[Compresión de Datos]] - Aproximación de bajo rango
+> - [[Machine Learning]] - Feature selection
 
 ---
 

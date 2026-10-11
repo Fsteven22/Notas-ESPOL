@@ -232,9 +232,9 @@ graph TD
 >
 > [!quote] 🔗 Conexiones
 > 
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 3 - Representación de la información/II - Compresión de Datos/02 - Keyword Encoding y ASCII\|02 - Keyword Encoding y ASCII]] — ambos son algoritmos de compresión sin pérdida basados en sustituir símbolos por códigos más cortos.
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 3 - Representación de la información/II - Compresión de Datos/03 - Run Length Encoding\|03 - Run Length Encoding]] — otro algoritmo sin pérdida, útil comparar cuándo conviene cada uno según el tipo de dato.
-> - [[Universidad/2do Semestre/Computación y Sociedad/Unidad 3 - Representación de la información/II - Compresión de Datos/01 - Introducción a la Compresión\|01 - Introducción a la Compresión]] — nota introductoria que enmarca Huffman dentro de la clasificación con/sin pérdida.
+> - [[02 - Keyword Encoding y ASCII]] — ambos son algoritmos de compresión sin pérdida basados en sustituir símbolos por códigos más cortos.
+> - [[03 - Run Length Encoding]] — otro algoritmo sin pérdida, útil comparar cuándo conviene cada uno según el tipo de dato.
+> - [[01 - Introducción a la Compresión]] — nota introductoria que enmarca Huffman dentro de la clasificación con/sin pérdida.
 
 ---
 

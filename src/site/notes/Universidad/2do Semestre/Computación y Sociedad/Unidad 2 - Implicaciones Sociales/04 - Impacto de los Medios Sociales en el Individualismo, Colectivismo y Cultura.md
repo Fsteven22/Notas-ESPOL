@@ -21,7 +21,6 @@
 >     C --> C1[Movimientos sociales]
 >     C --> C2[Flash mobs]
 >     C --> C3[Comunidades en línea]
-> 
 >     style B fill:#ffe1e1
 >     style C fill:#e1ffe1
 > ```
@@ -60,7 +59,6 @@
 >     H --> D4["4: Evasión de Incertidumbre"]
 >     H --> D5["5: Orientación a Largo Plazo"]
 >     H --> D6["6: Indulgencia vs Restricción"]
-> 
 >     style H fill:#e1f5ff
 >     style D1 fill:#e1ffe1
 >     style D2 fill:#fff4e1
