@@ -7,6 +7,7 @@
 
 > [!quote] "En un sistema aislado, el momentum total permanece constante; esta conservación es la clave para resolver las colisiones más complejas." 🎯
 >
+
 > [!info] Los problemas de variación de momentum en sistemas aislados constituyen el corazón del análisis de colisiones y explosiones. A través de la aplicación del principio de conservación del momentum lineal, podemos predecir y analizar el comportamiento de sistemas donde no actúan fuerzas externas netas.
 
 ## 🎯 Conceptos Fundamentales
@@ -29,6 +30,7 @@
 > |Con fricción despreciable|μ ≈ 0|Se conserva|Se conserva (elástico)|
 > |Con fuerzas internas únicamente|Solo F_int actúan|Constante|Variable según tipo|
 >
+
 > [!tip] **Tipos de Colisiones** 💥
 > 
 > ### Clasificación por Conservación de Energía:
@@ -52,6 +54,7 @@
 > - Los objetos quedan unidos: \vec{v}_f1 = \vec{v}_f2
 > - Coeficiente de restitución: e = 0
 >
+
 > [!warning] **Explosiones y Desintegraciones** 💥
 > 
 > ### Características:
@@ -67,6 +70,7 @@
 > - **Momentum final**: \vec{p}_f = m₁\vec{v}₁ + m₂\vec{v}₂ + ... + mₙ\vec{v}ₙ
 > - **Conservación**: \vec{p}_i = \vec{p}_f
 >
+
 > [!success] 🔗 Relaciones Matemáticas Fundamentales
 > 
 > ```mermaid
@@ -84,6 +88,7 @@
 >     style D fill:#e8f5e8
 > ```
 >
+
 > [!note] **Coeficiente de Restitución** 🔄
 > 
 > ### Definición:
@@ -157,6 +162,7 @@
 > 
 > **ΔK = Kf - Kᵢ = -267,857 J** (energía perdida)
 >
+
 > [!example] **Problema 2: Colisión Elástica Unidimensional** ⚡
 > 
 > ### Enunciado:
@@ -179,6 +185,7 @@
 > 
 > **Resolución**: De (2): v₂f = v₁f + 8 Sustituyendo en (1): 4 = 0.5v₁f + v₁f + 8 -4 = 1.5v₁f **v₁f = -2.67 m/s** (rebota) **v₂f = 5.33 m/s** (se mueve hacia adelante)
 >
+
 > [!example] **Problema 3: Explosión Unidimensional** 💥
 > 
 > ### Enunciado:
@@ -199,6 +206,7 @@
 > 
 > **Verificación**: El fragmento más pequeño se mueve más rápido, lo cual es físicamente consistente.
 >
+
 > [!example] **Problema 4: Colisión Bidimensional** 🎱
 > 
 > ### Enunciado:
@@ -238,6 +246,7 @@
 > - Las colisiones elásticas son simétricas respecto al CM
 > - Simplifica el análisis de colisiones bidimensionales
 >
+
 > [!tip] **Análisis Energético** ⚡
 > 
 > ### Factor Q (Energía liberada/absorbida):

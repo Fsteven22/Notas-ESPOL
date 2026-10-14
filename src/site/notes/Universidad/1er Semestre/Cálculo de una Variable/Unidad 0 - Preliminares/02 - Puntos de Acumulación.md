@@ -475,12 +475,12 @@
 > 
 > - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 0 - Preliminares/01 - Métricas y Espacios Métricos\|01 - Métricas y Espacios Métricos]] - Definición de distancia
 > - [[Espacios Métricos\|Espacios Métricos]] - Bolas abiertas y cerradas
-> - [[Sucesiones\|Sucesiones]] - Convergencia de sucesiones
+> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/15 - Sucesiones\|15 - Sucesiones]] - Convergencia de sucesiones
 > 
 > **Conceptos relacionados:**
 > 
 > - [[Topología\|Topología]] - Conjuntos abiertos y cerrados
-> - [[Continuidad\|Continuidad]] - Relación con imágenes de conjuntos
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 3 – Funciones de Varias Variables/III – Límites, Continuidad y Primeras Derivadas/02 – Continuidad\|02 – Continuidad]] - Relación con imágenes de conjuntos
 > - [[Compacidad\|Compacidad]] - Relación con subsucesiones convergentes
 > 
 > **Aplicaciones:**
@@ -886,12 +886,12 @@ graph TD
 > - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 0 - Preliminares/01 - Métricas y Espacios Métricos\|01 - Métricas y Espacios Métricos]] - Definición de función de distancia
 > - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 0 - Preliminares/01 - Métricas y Espacios Métricos\|01 - Métricas y Espacios Métricos]] - Bolas abiertas y cerradas
 > - [[Conjuntos\|Conjuntos]] - Teoría básica de conjuntos
-> - [[Sucesiones\|Sucesiones]] - Convergencia de sucesiones
+> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/15 - Sucesiones\|15 - Sucesiones]] - Convergencia de sucesiones
 > 
 > **Conceptos relacionados:**
 > 
 > - [[Topología\|Topología]] - Conjuntos abiertos y cerrados
-> - [[Continuidad\|Continuidad]] - Relación con imágenes de conjuntos
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 3 – Funciones de Varias Variables/III – Límites, Continuidad y Primeras Derivadas/02 – Continuidad\|02 – Continuidad]] - Relación con imágenes de conjuntos
 > - [[Compacidad\|Compacidad]] - Relación con subsucesiones convergentes
 > - [[Límites\|Límites]] - Definición usando puntos de acumulación
 > 

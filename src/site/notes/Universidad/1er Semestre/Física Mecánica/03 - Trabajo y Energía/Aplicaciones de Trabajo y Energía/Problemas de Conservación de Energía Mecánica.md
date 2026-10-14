@@ -7,6 +7,7 @@
 
 > [!quote] "La energía no se crea ni se destruye, solo se transforma; en cada problema de conservación encontramos la poesía del movimiento convertida en matemáticas." ⚡
 >
+
 > [!info] La conservación de la energía mecánica es uno de los principios más poderosos de la física, permitiendo resolver problemas complejos de movimiento sin necesidad de analizar fuerzas. Cuando solo actúan fuerzas conservativas, la energía mecánica total del sistema permanece constante, transformándose entre energía cinética y potencial.
 
 ## ⚖️ Fundamentos de la Conservación
@@ -30,6 +31,7 @@
 > |Conservativas|✅ Sí|Gravitatoria, elástica, eléctrica|
 > |No conservativas|❌ No|Fricción, resistencia del aire|
 >
+
 > [!tip] **Condiciones para Aplicar Conservación** 🎯
 > 
 > ### Requisitos Esenciales:
@@ -46,6 +48,7 @@
 > - **Sistemas con resortes**: Incluir E_p elástica
 > - **Movimiento circular**: Considerar fuerza centrípeta
 >
+
 > [!warning] **Tipos de Energía Potencial** 🏔️
 > 
 > ### Energía Potencial Gravitatoria:
@@ -60,6 +63,7 @@
 > - **Deformación**: x medida desde posición natural
 > - **Siempre positiva**: independiente del sentido
 >
+
 > [!success] 🔗 Estrategia de Resolución
 > 
 > ```mermaid
@@ -79,6 +83,7 @@
 >     style G fill:#f1f8e9
 > ```
 >
+
 > [!note] **Ecuaciones Fundamentales** 📐
 > 
 > ### Conservación General:
@@ -157,6 +162,7 @@
 > - 20g = 50 + gh
 > - **h = (20g - 50)/g = 14.9 m**
 >
+
 > [!example] **Problema 2: Péndulo Simple** 🕰️
 > 
 > ### Enunciado:
@@ -184,6 +190,7 @@
 > - cosθ_máx = 1 - 11.8/19.6 = 0.398
 > - **θ_máx = 66.5°**
 >
+
 > [!example] **Problema 3: Sistema Resorte-Masa** 🔗
 > 
 > ### Enunciado:
@@ -200,6 +207,7 @@
 > 
 > **Distancia sobre la rampa**: d = h/sin30° = 1.84/0.5 = 3.68 m
 >
+
 > [!example] **Problema 4: Montaña Rusa** 🎢
 > 
 > ### Enunciado:
@@ -230,6 +238,7 @@
 > **G**ravitatoria - mgh para altura **R**esorte - ½kx² para deformación  
 > **A**ltura - siempre respecto a referencia **V**elocidad - ½mv² para movimiento **E**nergía - se conserva sin fricción
 >
+
 > [!tip] **Regla de los Estados** 🔄
 > 
 > - **Estado 1**: Donde conoces más datos

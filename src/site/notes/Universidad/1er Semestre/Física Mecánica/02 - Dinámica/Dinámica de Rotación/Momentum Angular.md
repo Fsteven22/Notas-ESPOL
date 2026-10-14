@@ -13,6 +13,7 @@
 
 > [!info] 💡 Concepto Fundamental El **momento angular** es la cantidad de movimiento rotacional de un sistema. Al igual que el momentum lineal describe la tendencia de un objeto a mantener su movimiento rectilíneo, el momento angular describe la tendencia a mantener su movimiento rotacional.
 >
+
 > [!note] 🎯 Principio de Conservación **Si el torque externo neto sobre un sistema es cero, el momento angular total del sistema se mantiene constante.**
 > 
 > Esta ley explica fenómenos desde patinadores de hielo hasta el movimiento de planetas.
@@ -49,6 +50,7 @@
 > 
 > $$L_{inicial} = L_{final}$$ $$I_{inicial}\omega_{inicial} = I_{final}\omega_{final}$$
 >
+
 > [!warning] ⚠️ Condición Crítica La conservación del momento angular **solo** se cumple cuando el torque externo neto es **cero**. Los torques internos siempre se cancelan por la Tercera Ley de Newton.
 
 ---
@@ -89,6 +91,7 @@
 > 
 > **📊 Resultado:** Como $I_2 < I_1$, entonces $\omega_2 > \omega_1$ (gira más rápido)
 >
+
 > [!example] 🏊 Ejemplo 2: Clavadista en Tirabuzón
 > 
 > **📋 Situación:** Un clavadista realiza múltiples giros cambiando su posición corporal.
@@ -101,6 +104,7 @@
 > 
 > **📊 Ventaja:** Control preciso de la velocidad de rotación sin torques externos
 >
+
 > [!example] 🌍 Ejemplo 3: Sistema Tierra-Luna
 > 
 > **📋 Situación:** La Tierra rota sobre su eje y orbita alrededor del Sol.
@@ -147,6 +151,7 @@
 > |**Velocidad**|Velocidad $v$|Velocidad angular $\omega$|
 > |**Impulso**|$J = F\Delta t = \Delta p$|$J_{angular} = \tau\Delta t = \Delta L$|
 >
+
 > [!tip] 🎯 Paralelismo Conceptual Todo concepto en dinámica lineal tiene su análogo rotacional. Esta analogía facilita enormemente el aprendizaje y aplicación de ambos tipos de movimiento.
 
 ---
@@ -170,6 +175,7 @@
 > - Rotor principal y rotor de cola
 > - Compensación del momento angular para estabilidad
 >
+
 > [!note] 🏃 Aplicaciones Deportivas
 > 
 > ### ⛸️ **Patinaje Artístico**
@@ -203,6 +209,7 @@
 > 
 > **📊 Resultado:** $\tau = -\frac{I\omega}{t}$ (negativo indica oposición al movimiento)
 >
+
 > [!example] 🎯 Ejercicio 2: Cambio de Momento de Inercia
 > 
 > **📋 Problema:** Un sistema rotatorio cambia su momento de inercia de $I_1$ a $I_2$. Si inicialmente rota con $\omega_1$, encontrar la velocidad angular final $\omega_2$ y el cambio de energía.
@@ -246,6 +253,7 @@
 >      Giroscopios
 > ```
 >
+
 > [!tip] 🎯 Estrategias de Resolución
 > 
 > 1. **Identifica** si hay torques externos netos
@@ -260,11 +268,11 @@
 
 > [!quote] 🔗 Links a Otras Notas
 > 
-> - > [[Dinámica Rotacional]] - Torque y momento de inercia
+> - > [[Cinemática Rotacional]] - Torque y momento de inercia
 >     
 > - > [[Física Mecanica/Notas antiguas/Dinámica Rotacional/Momento de Inercia]] - Cálculo para diferentes formas
 >     
-> - > [[Segunda Ley de Newton Rotacional]] - Fundamento teórico
+> - > [[Segunda ley de Newton para Rotación]] - Fundamento teórico
 >     
 > - > [[Conservación del Momentum Lineal]] - Analogía lineal
 >     
@@ -279,6 +287,7 @@
 > - > [[Mecánica Celeste]] - Aplicaciones astronómicas
 >     
 >
+
 > [!quote] 📖 Material de Referencia
 > 
 > - > Tutorial: S27 Conservación momento angular.pdf
@@ -377,6 +386,7 @@ graph LR
 > 
 > **Solución:** $$\tau\Delta t = \Delta L = 0 - I\omega_i$$ $$\Delta t = \frac{-I\omega_i}{\tau} = \frac{-(0.5)(100)}{-10} = 5 \text{ s}$$
 >
+
 > [!tip] 🚀 Ejercicio 2: Aceleración de Disco **Datos:** $\tau = 20 \text{ N⋅m}$, $I = 2 \text{ kg⋅m}^2$, $\Delta t = 3 \text{ s}$, $\omega_i = 0$
 > 
 > **Solución:** $$\tau\Delta t = I\omega_f - 0$$ $$\omega_f = \frac{\tau\Delta t}{I} = \frac{(20)(3)}{2} = 30 \text{ rad/s}$$
@@ -417,7 +427,7 @@ graph LR
 > [!quote] 🔗 Enlaces a Otras Notas
 > 
 > - [[Conservación del Momentum Angular]]
-> - [[Dinámica Rotacional]]
+> - [[Cinemática Rotacional]]
 > - [[Momento de Inercia]]
 > - [[Torque y Equilibrio Rotacional]]
 > - [[Impulso y Momentum Lineal]]

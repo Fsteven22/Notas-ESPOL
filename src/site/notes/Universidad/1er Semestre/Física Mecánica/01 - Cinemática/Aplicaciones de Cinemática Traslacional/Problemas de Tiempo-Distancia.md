@@ -41,6 +41,7 @@
 > - 🚴‍♂️ Ciclista en terreno variado (llano, subida, bajada)
 > - ✈️ Vuelo con diferentes velocidades por altitud
 >
+
 > [!warning] 🧩 **Movimiento con Datos Incompletos** **Situación:** Faltan algunos datos en ciertos tramos, se deben calcular
 > 
 > **Casos típicos:**
@@ -52,6 +53,7 @@
 > 
 > **Estrategia:** Usar $d = vt$ en cada tramo para completar datos
 >
+
 > [!note] ⏱️ **Problemas de Velocidad Media** **Situación:** Calcular la velocidad promedio real del viaje completo
 > 
 > **⚠️ Advertencia crítica:** $$\bar{v} = \frac{d_{total}}{t_{total}} \neq \frac{v_1 + v_2 + ... + v_n}{n}$$
@@ -116,6 +118,7 @@
 > |**Tiempo total**|$t_{total} = \sum t_i$|Suma de todos los tiempos|
 > |**Velocidad media**|$\bar{v} = \frac{d_{total}}{t_{total}}$|**NO** es promedio aritmético|
 >
+
 > [!note] 🔢 **Velocidad Media Armónica (Caso Especial)** **Cuándo usarla:** Cuando se recorren **distancias iguales** a velocidades diferentes
 > 
 > **Fórmula general:** $$\bar{v}_{armónica} = \frac{n}{\frac{1}{v_1} + \frac{1}{v_2} + ... + \frac{1}{v_n}}$$
@@ -166,6 +169,7 @@
 > 
 > **Verificación:** Promedio aritmético = $\frac{60+80+40}{3} = 60$ km/h (coincide por casualidad)
 >
+
 > [!example] 🔄 **Ejemplo 2: Ida y Vuelta con Velocidades Diferentes** **Problema:** Un auto va de la ciudad A a la B (180 km) a 90 km/h. Al regresar por la misma ruta lo hace a 60 km/h. Calcular la velocidad media del viaje completo.
 > 
 > **Solución:**
@@ -279,6 +283,7 @@
 > 
 > **Ejemplo:** Autobús urbano con paradas frecuentes
 >
+
 > [!note] ⛽ **Problemas de Consumo Combinado** **Extensión:** Combinar tiempo-distancia con consumo de combustible
 > 
 > **Variables adicionales:**
@@ -289,6 +294,7 @@
 > 
 > **Aplicación:** Planificación de viajes largos
 >
+
 > [!tip] 🚴‍♂️ **Deportes y Rendimiento** **Aplicación:** Análisis de rendimiento atlético por segmentos
 > 
 > **Métricas útiles:**

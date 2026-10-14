@@ -7,6 +7,7 @@
 
 > [!quote] "En el universo de la rotación, cada gráfica angular cuenta una historia de giros, vueltas y revoluciones que moldean el cosmos." 🌀
 >
+
 > [!info] Las gráficas angulares son herramientas esenciales para analizar el movimiento rotacional de los objetos. A través de las representaciones gráficas de posición angular vs tiempo (θ-t), velocidad angular vs tiempo (ω-t) y aceleración angular vs tiempo (α-t), podemos interpretar y resolver problemas de rotación de manera visual e intuitiva.
 
 ## 🌀 Tipos de Gráficas Angulares
@@ -29,6 +30,7 @@
 > |Parábola|Rotación uniformemente acelerada|ω = variable|α = constante|
 > |Curva compleja|Rotación compleja|ω = variable|α = variable|
 >
+
 > [!tip] **Gráfica Velocidad Angular-Tiempo (ω-t)** 🌪️
 > 
 > ### Características Principales:
@@ -45,6 +47,7 @@
 > - **Pendiente positiva**: Aceleración angular positiva
 > - **Pendiente negativa**: Desaceleración angular o aceleración angular negativa
 >
+
 > [!warning] **Gráfica Aceleración Angular-Tiempo (α-t)** ⚡
 > 
 > ### Características Principales:
@@ -60,6 +63,7 @@
 > - **α = constante < 0**: Desaceleración angular uniforme
 > - **α variable**: Rotación con aceleración angular variable
 >
+
 > [!success] 🔗 Relaciones Entre Gráficas Angulares
 > 
 > ```mermaid
@@ -73,6 +77,7 @@
 >     style C fill:#f0e8ff
 > ```
 >
+
 > [!note] **Relaciones Matemáticas** 📐
 > 
 > ### Derivadas:
@@ -140,6 +145,7 @@
 > 
 > **Velocidad angular promedio**: ω̄ = 0/9 = 0 rad/s **Desplazamiento angular total**: 0 rad (regresa a la posición inicial)
 >
+
 > [!example] **Problema 2: De la Gráfica ω-t a la θ-t** 🔄
 > 
 > ### Enunciado:
@@ -163,6 +169,7 @@
 > 
 > La gráfica θ-t será una parábola.
 >
+
 > [!example] **Problema 3: Análisis Rotacional Completo** 🌀
 > 
 > ### Enunciado:

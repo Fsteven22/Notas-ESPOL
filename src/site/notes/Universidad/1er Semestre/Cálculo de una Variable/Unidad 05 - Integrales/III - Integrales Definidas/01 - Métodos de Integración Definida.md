@@ -357,7 +357,7 @@ mindmap
 > 
 > ### 🔗 Notas Relacionadas
 > - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/04 - Teorema Fundamental del Cálculo\|04 - Teorema Fundamental del Cálculo]] - Base teórica para evaluación
-> - [[Propiedades de la Integral Definida\|Propiedades de la Integral Definida]] - Herramientas para simplificar
+> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/02 - Propiedades de la Integral\|02 - Propiedades de la Integral]] - Herramientas para simplificar
 > - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/01 - Integral de Riemann\|01 - Integral de Riemann]] - Definición formal subyacente
 > - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 06 – Aplicaciones de la Integral/I - Áreas/01 - Área bajo la Curva\|01 - Área bajo la Curva]] - Aplicación geométrica principal
 > - [[Volúmenes de Revolución\|Volúmenes de Revolución]] - Aplicación de estas técnicas
@@ -365,7 +365,7 @@ mindmap
 > ### 📖 Técnicas Relacionadas
 > - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/IV - Integrales Impropias y Avanzadas/01 - Integrales Impropias\|01 - Integrales Impropias]] - Extensión a límites infinitos
 > - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/V - Otras Técnicas/01 - Integración Numérica\|01 - Integración Numérica]] - Métodos aproximados
-> - [[Funciones Especiales\|Funciones Especiales]] - Integrales no elementales
+> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/06 - Funciones Especiales\|06 - Funciones Especiales]] - Integrales no elementales
 > - [[Cálculo de Variaciones\|Cálculo de Variaciones]] - Técnicas avanzadas
 > 
 > ### 🎯 Aplicaciones Prácticas

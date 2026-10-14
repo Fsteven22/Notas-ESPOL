@@ -33,6 +33,7 @@
 > 
 > **Unidades:** metros (m), kilómetros (km), centímetros (cm)
 >
+
 > [!tip] ⚡ **Velocidad (v)** **Definición:** Razón de cambio de la posición con respecto al tiempo.
 > 
 > **Velocidad promedio:** $$\bar{v} = \frac{\Delta x}{\Delta t} = \frac{x_f - x_i}{t_f - t_i}$$
@@ -45,6 +46,7 @@
 > - **Rapidez:** Magnitud de la velocidad (escalar)
 > - Unidades: m/s, km/h, cm/s
 >
+
 > [!tip] 🚀 **Aceleración (a)** **Definición:** Razón de cambio de la velocidad con respecto al tiempo.
 > 
 > **Aceleración promedio:** $$\bar{a} = \frac{\Delta v}{\Delta t} = \frac{v_f - v_i}{t_f - t_i}$$
@@ -102,6 +104,7 @@
 >    style F fill:#f1f8e9
 > ```
 >
+
 > [!tip] 🎯 **Movimiento Rectilíneo Uniforme (MRU)** **Características:**
 > 
 > - Velocidad constante (a = 0)
@@ -110,6 +113,7 @@
 > 
 > **Ejemplos:** Tren en vía recta, luz en el vacío
 >
+
 > [!tip] 🎯 **Movimiento Rectilíneo Uniformemente Acelerado (MRUA)** **Características:**
 > 
 > - Aceleración constante (a ≠ 0)
@@ -151,6 +155,7 @@
 > - Tiempo total de vuelo: $t_{total} = \frac{2v_0}{g}$
 > - Tiempo para alcanzar altura h: $t = \frac{v_0 \pm \sqrt{v_0^2 - 2gh}}{g}$
 >
+
 > [!example] 🚗 **Frenado de Vehículos** **Problema típico:** Un auto viaja a 72 km/h y frena con desaceleración constante hasta detenerse en 50 m.
 > 
 > **Solución paso a paso:**
@@ -202,7 +207,7 @@
 > **Prerrequisitos esenciales:**
 > 
 > - [[Álgebra]] - Manipulación de ecuaciones
-> - [[Funciones]] - Conceptos de función del tiempo
+> - [[01 - Funciones]] - Conceptos de función del tiempo
 > - [[Gráficas]] - Interpretación de gráficas x-t, v-t, a-t
 > - [[Vectores]] - Para movimiento bidimensional
 > 
@@ -277,6 +282,7 @@
 > 
 > **Unidades:** metros (m), kilómetros (km), centímetros (cm)
 >
+
 > [!tip] ⚡ **Velocidad (v)** **Definición:** Razón de cambio de la posición con respecto al tiempo.
 > 
 > **Velocidad promedio:** $$\bar{v} = \frac{\Delta x}{\Delta t} = \frac{x_f - x_i}{t_f - t_i}$$
@@ -289,6 +295,7 @@
 > - **Rapidez:** Magnitud de la velocidad (escalar)
 > - Unidades: m/s, km/h, cm/s
 >
+
 > [!tip] 🚀 **Aceleración (a)** **Definición:** Razón de cambio de la velocidad con respecto al tiempo.
 > 
 > **Aceleración promedio:** $$\bar{a} = \frac{\Delta v}{\Delta t} = \frac{v_f - v_i}{t_f - t_i}$$
@@ -346,6 +353,7 @@
 >    style F fill:#f1f8e9
 > ```
 >
+
 > [!tip] 🎯 **Movimiento Rectilíneo Uniforme (MRU)** **Características:**
 > 
 > - Velocidad constante (a = 0)
@@ -354,6 +362,7 @@
 > 
 > **Ejemplos:** Tren en vía recta, luz en el vacío
 >
+
 > [!tip] 🎯 **Movimiento Rectilíneo Uniformemente Acelerado (MRUA)** **Características:**
 > 
 > - Aceleración constante (a ≠ 0)
@@ -395,6 +404,7 @@
 > - Tiempo total de vuelo: $t_{total} = \frac{2v_0}{g}$
 > - Tiempo para alcanzar altura h: $t = \frac{v_0 \pm \sqrt{v_0^2 - 2gh}}{g}$
 >
+
 > [!example] 🚗 **Frenado de Vehículos** **Problema típico:** Un auto viaja a 72 km/h y frena con desaceleración constante hasta detenerse en 50 m.
 > 
 > **Solución paso a paso:**
@@ -446,7 +456,7 @@
 > **Prerrequisitos esenciales:**
 > 
 > - [[Álgebra]] - Manipulación de ecuaciones
-> - [[Funciones]] - Conceptos de función del tiempo
+> - [[01 - Funciones]] - Conceptos de función del tiempo
 > - [[Gráficas]] - Interpretación de gráficas x-t, v-t, a-t
 > - [[Vectores]] - Para movimiento bidimensional
 > 

@@ -148,6 +148,7 @@
 > > 
 > > **Cálculo**: $$\tau = (0.5\text{ m})(50\text{ N})\sin(90°) = (0.5)(50)(1) = 25\text{ N⋅m}$$
 >
+
 > [!warning] 🧮 Problema 2: Torque Máximo y Mínimo en Puerta **Enunciado**: Una fuerza de 10 N se aplica a una puerta a 0.8 m de las bisagras. Determinar el torque máximo y mínimo posible.
 > 
 > > [!success] ✅ Solución **Datos**: $F = 10\text{ N}$, $r = 0.8\text{ m}$
@@ -179,7 +180,7 @@
 
 > [!note] 🌐 Relaciones Conceptuales
 > 
-> ### [[Dinámica Rotacional]]
+> ### [[Cinemática Rotacional]]
 > 
 > - **Segunda Ley**: $\sum \tau = I\alpha$ (ecuación fundamental)
 > - El torque es la **causa** de la aceleración angular
@@ -199,7 +200,7 @@
 > - **Condición**: $\sum \tau = 0$ (torques se cancelan)
 > - **Aplicación**: Balanzas, palancas, estructuras
 > 
-> ### [[Momento Angular]]
+> ### [[Momentum Angular]]
 > 
 > - **Relación temporal**: $\tau = \frac{dL}{dt}$ (torque cambia momento angular)
 > - **Conservación**: Sin torque externo → $L$ constante
@@ -249,7 +250,7 @@
 > ### 🔗 Notas Relacionadas
 > 
 > - [[Momento de Inercia]]
-> - [[Momento Angular]]
+> - [[Momentum Angular]]
 > - [[Equilibrio Rotacional]]
 > - [[Trabajo y Energía Rotacional]]
 > - [[Palancas y Máquinas Simples]]
@@ -448,11 +449,11 @@ graph TD
 > [!quote] 🔗 Enlaces a Otras Notas
 > 
 > - [[Momento de Torsión]]
-> - [[Dinámica Rotacional]]
+> - [[Cinemática Rotacional]]
 > - [[Estática]]
 > - [[Fuerzas y Equilibrio]]
 > - [[Diagramas de Cuerpo Libre]]
-> - [[Centro de Masa]]
+> - [[Centro de masa (CM)]]
 
 ---
 

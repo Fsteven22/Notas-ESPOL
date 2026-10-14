@@ -7,6 +7,7 @@
 
 > [!quote] "El torque es la llave maestra que abre las puertas del movimiento rotacional; donde la fuerza encuentra su brazo de palanca, nace la rotación." 🔑
 >
+
 > [!info] El torque o momento de fuerza es la magnitud física que describe la tendencia de una fuerza a provocar una rotación alrededor de un eje. Su comprensión es fundamental para analizar el equilibrio rotacional y la dinámica de cuerpos rígidos en movimiento angular.
 
 ## 🔧 Fundamentos del Torque
@@ -36,6 +37,7 @@
 > |Sentido|Horario (-) / Antihorario (+)|---|
 > |Naturaleza|Magnitud vectorial|Vector|
 >
+
 > [!tip] **Regla de la Mano Derecha** 👋
 > 
 > ### Para determinar la dirección del torque:
@@ -49,6 +51,7 @@
 > - **Positivo (+)**: Rotación antihoraria (saliendo del plano)
 > - **Negativo (-)**: Rotación horaria (entrando al plano)
 >
+
 > [!warning] **Brazo de Palanca o Brazo de Momento** ⚡
 > 
 > ### Definición:
@@ -102,6 +105,7 @@
 >     style D fill:#ffb74d
 > ```
 >
+
 > [!example] **Uso de τ = F · r · sin θ** 🔄
 > 
 > ### Estrategia de Resolución:
@@ -128,6 +132,7 @@
 > τ = F · d_efectivo
 > ```
 >
+
 > [!example] **Ejemplo Resuelto: Fuerza a 30° sobre palanca de 50 cm** 🔧
 > 
 > ### Enunciado:
@@ -183,6 +188,7 @@
 >     - τ_neto < 0: Rotación horaria
 >     - τ_neto = 0: Equilibrio rotacional
 >
+
 > [!example] **Ejemplo: Barra con Dos Fuerzas en Extremos Distintos** ⚖️
 > 
 > ### Enunciado:
@@ -235,6 +241,7 @@
 > - Dirección: **Rotación horaria**
 > - El extremo izquierdo baja, el derecho sube
 >
+
 > [!example] **Problema Avanzado: Sistema de Tres Fuerzas** 🔺
 > 
 > ### Enunciado:
@@ -307,6 +314,7 @@
 > 3. **Plantear la ecuación Σ τ = 0**
 > 4. **Resolver para la incógnita**
 >
+
 > [!example] **Ejemplo: Viga Horizontal Sostenida por Cable** 🏗️
 > 
 > ### Enunciado:
@@ -401,6 +409,7 @@
 > 
 > **Corrección del análisis**: Necesitamos considerar un punto de apoyo adicional o replantear el problema como una viga en voladizo.
 >
+
 > [!example] **Ejemplo Corregido: Viga en Equilibrio con Dos Apoyos** ⚖️
 > 
 > ### Enunciado Modificado:
@@ -465,6 +474,7 @@
 > - **D**: Aplica regla de la mano derecha
 > - **S**: Suma algebraica de torques
 >
+
 > [!tip] **Regla Nemotécnica para el Signo** ↻↺
 > 
 > - **"Antihorario Arriba"** → Positivo (+)

@@ -87,6 +87,7 @@ flowchart TD
 > - $\int x e^x , dx = xe^x - \int e^x , dx = xe^x - e^x + C$
 > - $= e^x(x-1) + C$
 >
+
 > [!example] 🔢 Ejemplo 2: Logaritmo **Resolver**: $\int x \ln(x) , dx$
 > 
 > **Solución**:
@@ -97,6 +98,7 @@ flowchart TD
 > - $= \frac{x^2}{2} \ln(x) - \int \frac{x}{2} , dx$
 > - $= \frac{x^2}{2} \ln(x) - \frac{x^2}{4} + C$
 >
+
 > [!example] 🔢 Ejemplo 3: Función Inversa Trigonométrica **Resolver**: $\int x \arctan(x) , dx$
 > 
 > **Solución**:
@@ -155,6 +157,7 @@ flowchart TD
 
 > [!info] 📐 Fórmula para Integrales Definidas $$\int_a^b u , dv = \left[uv\right]_a^b - \int_a^b v , du$$
 >
+
 > [!example] 🔢 Ejemplo de Integral Definida **Resolver**: $\int_1^e x \ln(x) , dx$
 > 
 > **Solución**:
@@ -178,6 +181,7 @@ flowchart TD
 > - No reconocer cuándo aplicar por partes múltiples veces
 > - En integrales definidas, olvidar evaluar $[uv]_a^b$
 >
+
 > [!tip] 💡 Consejos Prácticos
 > 
 > - Si LIATE no funciona, intercambia $u$ y $dv$
@@ -287,6 +291,7 @@ flowchart TD
 > 
 > **Resultado**: $x^2 e^x - 2x e^x + 2e^x + C = e^x(x^2 - 2x + 2) + C$
 >
+
 > [!example] 🔢 Ejemplo 2: Polinomio × Trigonométrica **Resolver**: $\int x^3 \sin(x) , dx$
 > 
 > **Paso 1: Construir la tabla**
@@ -310,6 +315,7 @@ flowchart TD
 > 
 > **Resultado**: $-x^3\cos(x) + 3x^2\sin(x) + 6x\cos(x) - 6\sin(x) + C$
 >
+
 > [!example] 🔢 Ejemplo 3: Polinomio × Logaritmo **Resolver**: $\int x^2 \ln(x) , dx$
 > 
 > **Paso 1: Construir la tabla**
@@ -406,6 +412,7 @@ flowchart LR
 > - **Funciones difíciles de integrar**: Que se complican al integrar repetidamente
 > - **Casos con una sola aplicación**: El método tradicional es más directo
 >
+
 > [!tip] 💡 Consejos para el Éxito
 > 
 > - Siempre verifica que una función se derive hasta cero

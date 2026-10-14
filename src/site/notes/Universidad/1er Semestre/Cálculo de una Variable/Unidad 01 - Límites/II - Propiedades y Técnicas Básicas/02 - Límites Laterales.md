@@ -15,6 +15,7 @@
 > 
 > **En otras palabras:** $x < a$ y $x \to a$
 >
+
 > [!info] 👉 Límite por la Derecha (Límite Lateral Derecho) **Notación:** $\lim_{x \to a^+} f(x) = L_2$
 > 
 > Significa que cuando $x$ se acerca a $a$ **solo con valores mayores que $a$** (desde la derecha), $f(x)$ se acerca a $L_2$.
@@ -171,6 +172,7 @@ graph LR
 > 3. **🧮 Calcula** cada límite lateral por separado
 > 4. **⚖️ Compara** los resultados
 >
+
 > [!example] 🔍 Ejemplo Detallado $f(x) = \begin{cases} x^2 & \text{si } x < 0 \ 2 & \text{si } x = 0 \ x + 1 & \text{si } x > 0 \end{cases}$
 > 
 > **Análisis en $x = 0$:**

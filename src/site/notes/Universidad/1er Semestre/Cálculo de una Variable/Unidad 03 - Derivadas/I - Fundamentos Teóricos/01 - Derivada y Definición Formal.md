@@ -148,6 +148,7 @@
 > 
 > f'(x) = 2x · sin(x) + x² · cos(x)
 >
+
 > [!example] 💡 **Problema 2: Regla de la Cadena** Derivar: h(x) = sin(x³ + 2x)
 > 
 > **Solución:** h'(x) = cos(x³ + 2x) · (3x² + 2)
@@ -196,7 +197,7 @@
 > **Prerrequisitos esenciales:**
 > 
 > - [[01 - Derivada y Definición Formal]] - Definición formal de derivada
-> - [[Funciones]] - Conceptos básicos de funciones
+> - [[01 - Funciones]] - Conceptos básicos de funciones
 > - [[Álgebra]] - Manipulación algebraica
 > - [[Trigonometría]] - Para derivadas trigonométricas
 > 

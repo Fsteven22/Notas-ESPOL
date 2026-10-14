@@ -7,6 +7,7 @@
 
 > [!quote] "Los engranajes son los alfabetos mecánicos que escriben las sinfonías del movimiento, donde cada diente cuenta una historia de fuerza y velocidad." ⚙️
 >
+
 > [!info] Los sistemas de transmisión de movimiento son elementos fundamentales en la mecánica que permiten transferir potencia, modificar velocidades y direcciones de rotación. A través del análisis de engranajes, poleas y sistemas de transmisión, podemos resolver problemas complejos de máquinas y mecanismos con precisión matemática.
 
 ## ⚙️ Tipos de Sistemas de Transmisión
@@ -29,6 +30,7 @@
 > |Cónicos|Forma cónica|Ejes perpendiculares|Diferenciales|
 > |Tornillo sin fin|Helicoidal con rueda|Ejes cruzados|Reductores de alta relación|
 >
+
 > [!tip] **Poleas** 🔄
 > 
 > ### Características Principales:
@@ -45,6 +47,7 @@
 > - **Polipasto**: Combinación de poleas para mayor ventaja mecánica
 > - **Sistema de correa**: Transmisión entre poleas distantes
 >
+
 > [!warning] **Sistemas de Transmisión por Cadena** 🔗
 > 
 > ### Características Principales:
@@ -61,6 +64,7 @@
 > - **Cadena**: Elemento flexible de transmisión
 > - **Tensores**: Mantienen la tensión adecuada
 >
+
 > [!success] 🔗 Relaciones de Transmisión
 > 
 > ```mermaid
@@ -76,6 +80,7 @@
 >     style E fill:#f5f5f5
 > ```
 >
+
 > [!note] **Relaciones Matemáticas Fundamentales** 📐
 > 
 > ### Para Engranajes:
@@ -154,6 +159,7 @@
 > 
 > - P = T₂ω₂ = 150 × 41.89 = 6283 W ≈ 6.3 kW
 >
+
 > [!example] **Problema 2: Sistema de Poleas Compuesto** 🔄
 > 
 > ### Enunciado:
@@ -177,6 +183,7 @@
 > - i_total = i₁ × i₂ = 2.5 × 3 = 7.5
 > - ω_final = 800/7.5 = 106.67 rpm
 >
+
 > [!example] **Problema 3: Tren de Engranajes Planetario** 🌍
 > 
 > ### Enunciado:

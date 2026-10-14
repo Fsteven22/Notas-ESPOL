@@ -108,6 +108,7 @@
 > • d es la métrica sobre X
 > ```
 >
+
 > [!example] Verificación de Axiomas
 > 
 > **Ejemplo: Métrica euclidiana en ℝ**
@@ -172,6 +173,7 @@
 > • Proviene de un producto interno: d(x,y) = ||x - y||₂
 > ```
 >
+
 > [!example] Ejemplos Numéricos
 > 
 > **En ℝ:**
@@ -239,6 +241,7 @@
 > • Distancia del taxi: 3 + 2 = 5
 > ```
 >
+
 > [!example] Ejemplos de Métrica del Taxi
 > 
 > **En ℝ²:**
@@ -306,6 +309,7 @@
 >                     = 4
 > ```
 >
+
 > [!example] Comparación de las Tres Métricas
 > 
 > **Mismo ejemplo con las tres métricas:**
@@ -378,6 +382,7 @@
 >              la suma es ≥ 1 ✓
 > ```
 >
+
 > [!example] Ejemplos de Métrica Discreta
 > 
 > **En cualquier conjunto:**
@@ -484,6 +489,7 @@
 > • Las bolas cerradas son conjuntos cerrados
 > ```
 >
+
 > [!example] Ejemplos de Bolas
 > 
 > **En ℝ con métrica euclidiana:**
@@ -561,7 +567,7 @@
 
 > [!quote] Enlace a Puntos de Acumulación
 > 
-> **[[Puntos de Acumulación]]**
+> **[[02 - Puntos de Acumulación]]**
 > 
 > ```
 > Las métricas permiten definir puntos de acumulación:
@@ -730,6 +736,7 @@
 >    Todos los axiomas se verifican ✓
 > ```
 >
+
 > [!example] Ejercicio 2: Calcular Distancias
 > 
 > **Instrucciones:** Calcula las distancias indicadas.
@@ -762,6 +769,7 @@
 >              4 ≤ 5 ≤ 7 ✓
 > ```
 >
+
 > [!example] Ejercicio 3: Bolas en Diferentes Métricas
 > 
 > **Instrucciones:** Describe las bolas unitarias en ℝ² con centro en el origen.
@@ -795,6 +803,7 @@
 >      B₂ (círculo) contiene B₁ (diamante) en su interior
 > ```
 >
+
 > [!example] Ejercicio 4: Métrica Discreta
 > 
 > **Instrucciones:** En X = {a, b, c, d} con métrica discreta d.
@@ -878,6 +887,7 @@
 > ✗ Diferentes tasas de convergencia
 > ```
 >
+
 > [!tip] Completitud
 > 
 > **Sucesión de Cauchy:**
@@ -916,6 +926,7 @@
 > Ejemplo: ℝ es la completación de ℚ
 > ```
 >
+
 > [!tip] Isometrías
 > 
 > **Definición:**
@@ -1040,7 +1051,7 @@
 > • Estudiar compacidad
 > ```
 > 
-> **[[Puntos de Acumulación]]**
+> **[[02 - Puntos de Acumulación]]**
 > 
 > ```
 > Conexión: La métrica determina qué puntos se "acumulan"
@@ -1083,7 +1094,7 @@
 > • Completitud
 > ```
 > 
-> **[[Continuidad]]**
+> **[[02 – Continuidad]]**
 > 
 > ```
 > • f: X → Y continua si preserva límites
@@ -1691,7 +1702,7 @@
 > 
 > - [[01 - Métricas y Espacios Métricos]] - Definición de función de distancia
 > - [[Conjuntos]] - Teoría básica de conjuntos
-> - [[Funciones]] - Concepto de función
+> - [[01 - Funciones]] - Concepto de función
 > 
 > **Temas relacionados:**
 > 
@@ -1701,7 +1712,7 @@
 > 
 > **Aplicaciones:**
 > 
-> - [[Continuidad]] - Definición con bolas (ε-δ)
+> - [[02 – Continuidad]] - Definición con bolas (ε-δ)
 > - [[Algoritmos de Búsqueda]] - Búsqueda por proximidad
 > - [[Clustering]] - Agrupamiento por distancia
 

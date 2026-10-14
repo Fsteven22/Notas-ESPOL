@@ -61,6 +61,7 @@ flowchart TD
 > 
 > **Resultado**: $\frac{d}{dx}[\ln(x)] = \frac{1}{x}$ ✅
 >
+
 > [!example] 🔢 Ejemplo 2: Derivada de $\log_a(x)$
 > **Encontrar**: $\frac{d}{dx}[\log_a(x)]$ donde $a > 0, a \neq 1$
 > 
@@ -88,6 +89,7 @@ flowchart TD
 > 
 > **Resultado**: $\frac{d}{dx}[\arcsin(x)] = \frac{1}{\sqrt{1-x^2}}$ ✅
 >
+
 > [!example] 🔢 Ejemplo 4: Derivada de $\arctan(x)$
 > **Encontrar**: $\frac{d}{dx}[\arctan(x)]$
 > 
@@ -182,6 +184,7 @@ flowchart TD
 > 
 > **Dominio**: $1-4x^2 > 0 \Rightarrow x \in (-\frac{1}{2}, \frac{1}{2})$
 >
+
 > [!example] 🔢 Ejemplo 8: Función Inversa Compuesta
 > **Encontrar**: $\frac{d}{dx}[\ln(\sin(x))]$
 > 
@@ -226,6 +229,7 @@ flowchart TD
 > - **Verificar continuidad**: En los extremos del dominio
 > - **Usar calculadora**: Para valores numéricos específicos
 >
+
 > [!tip] 💡 Estrategias de Éxito
 > 
 > ### Reconocimiento de Patrones
@@ -299,7 +303,7 @@ flowchart TD
 > - [[Funciones Inversas]] - Definición y propiedades básicas
 > - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/II - Reglas de Derivación/02 - Regla de la Cadena]] - Para composiciones con inversas
 > - [[01 - Derivación Implícita]] - Base del método teórico
-> - [[Identidades Trigonométricas]] - Para simplificar derivadas
+> - [[05 - Identidades trigonométricas]] - Para simplificar derivadas
 > 
 > ### Temas Relacionados
 > - [[Integrales de Funciones Inversas]] 🔄 - Proceso inverso

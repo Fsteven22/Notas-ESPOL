@@ -51,6 +51,7 @@ flowchart TD
 > 
 > **Ventaja**: Un solo término elegante vs. n términos complicados
 >
+
 > [!example] 🔢 Ejemplo 1: Producto de Múltiples Funciones
 > **Encontrar**: $\frac{d}{dx}\left[x^2(x+1)^3\sqrt{x-2}\right]$ para $x > 2$
 > 
@@ -110,6 +111,7 @@ flowchart TD
 > - $\frac{1}{y}\frac{dy}{dx} = \ln x + 1$
 > - **Resultado**: $\frac{dy}{dx} = x^x(\ln x + 1)$
 >
+
 > [!example] 🔢 Ejemplo 4: Base y Exponente Variables
 > **Encontrar**: $\frac{d}{dx}[(x^2+1)^{\sin x}]$
 > 
@@ -205,6 +207,7 @@ flowchart TD
 > - **Con logaritmos**: $\ln y = \sin x \cdot \ln x$, derivar con regla del producto
 > - **Posibilidad**: De imposible a rutinario
 >
+
 > [!example] 🔢 Ejemplo 5: Múltiples Raíces
 > **Encontrar**: $\frac{d}{dx}\left[\frac{\sqrt[3]{x^2+1}\sqrt{x-1}}{\sqrt[4]{x+3}}\right]$ para $x > 1$
 > 
@@ -228,6 +231,7 @@ flowchart TD
 > - **Bases negativas**: Análisis especial requerido
 > - **Cambios de signo**: Análisis por intervalos
 >
+
 > [!tip] 💡 Estrategias de Éxito
 > 
 > ### Reconocimiento de Patrones
@@ -283,7 +287,7 @@ flowchart TD
 > 
 > ### Temas Relacionados
 > - [[Integrales de Funciones Inversas]] 🔄 - Conexión con casos complejos
-> - [[Funciones Exponenciales]] - Casos $a^{f(x)}$ y $f(x)^a$
+> - [[13 - Funciones exponenciales]] - Casos $a^{f(x)}$ y $f(x)^a$
 > - [[Límites Indeterminados]] - Aplicación para formas $1^\infty$, $0^0$
 > - [[Optimización]] - Derivadas complejas en máximos/mínimos
 

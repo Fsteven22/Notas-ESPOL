@@ -15,6 +15,7 @@
 > 
 > donde $f(x)$ es la **función superior** y $g(x)$ es la **función inferior**.
 >
+
 > [!warning] ⚠️ **Condición Importante** La fórmula anterior solo es válida cuando $f(x) \geq g(x)$ en todo el intervalo $[a,b]$. Si las funciones se cruzan, hay que dividir la región en subintervalos.
 
 ## 🔍 Metodología General
@@ -315,7 +316,7 @@
 
 ### 📖 Para Profundizar
 
-- [[Coordenadas Polares]] - Extensión a otros sistemas de coordenadas
+- [[02 - Coordenadas polares]] - Extensión a otros sistemas de coordenadas
 - [[Curvas Paramétricas]] - Representaciones alternativas de curvas
 - [[Teorema de Green]] - Método alternativo para cálculo de áreas
 - [[01 - Integración Numérica]] - Métodos computacionales
@@ -330,7 +331,7 @@
 ### 🧮 Aplicaciones Especializadas
 
 - [[Centros de Masa y Centroides]] - Usando áreas entre curvas
-- [[Momentos de Inercia]] - Aplicaciones en física e ingeniería
+- [[Momento de Inercia]] - Aplicaciones en física e ingeniería
 - [[Análisis de Costos Marginales]] - Aplicaciones en economía
 - [[Biodisponibilidad y Farmacocinética]] - Aplicaciones en medicina
 

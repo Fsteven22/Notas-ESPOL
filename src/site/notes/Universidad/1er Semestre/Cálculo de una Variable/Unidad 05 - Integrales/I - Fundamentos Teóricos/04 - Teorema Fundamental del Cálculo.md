@@ -262,7 +262,7 @@ flowchart TD
 > 
 > ### 🔗 Notas Relacionadas
 > - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/01 - Integral de Riemann\|01 - Integral de Riemann]] - Definición formal de la integral definida
-> - [[Propiedades de la Integral Definida\|Propiedades de la Integral Definida]] - Herramientas para manipular integrales
+> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/02 - Propiedades de la Integral\|02 - Propiedades de la Integral]] - Herramientas para manipular integrales
 > - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/III - Integrales Definidas/01 - Métodos de Integración Definida\|01 - Métodos de Integración Definida]] - Técnicas para encontrar antiderivadas
 > - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 06 – Aplicaciones de la Integral/I - Áreas/01 - Área bajo la Curva\|01 - Área bajo la Curva]] - Aplicación geométrica principal
 > - [[Ecuaciones Diferenciales\|Ecuaciones Diferenciales]] - Aplicación del teorema para resolver EDOs

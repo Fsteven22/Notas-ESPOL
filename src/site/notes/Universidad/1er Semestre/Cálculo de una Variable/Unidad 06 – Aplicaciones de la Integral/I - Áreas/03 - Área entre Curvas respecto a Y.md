@@ -19,6 +19,7 @@
 > - $g(y)$ es la **función de la izquierda**
 > - $[c,d]$ son los límites en y (inferior y superior)
 >
+
 > [!warning] ⚠️ **Orientación Importante** En este método, los rectángulos son **horizontales** y tienen:
 > 
 > - **Ancho**: $f(y) - g(y)$ (derecha menos izquierda)

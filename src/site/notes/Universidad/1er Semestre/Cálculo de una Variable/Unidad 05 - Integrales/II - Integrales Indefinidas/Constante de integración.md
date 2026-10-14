@@ -382,7 +382,7 @@ mindmap
 > 
 > ### 🔗 Notas Relacionadas
 > - [[Teorema Fundamental del Cálculo para Integrales Indefinidas\|Teorema Fundamental del Cálculo para Integrales Indefinidas]] - Base teórica
-> - [[Antiderivadas Primitivas\|Antiderivadas Primitivas]] - Tabla de fórmulas con constantes
+> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/II - Integrales Indefinidas/01 - Antiderivadas (Primitivas)\|01 - Antiderivadas (Primitivas)]] - Tabla de fórmulas con constantes
 > - [[Técnicas de Integración\|Técnicas de Integración]] - Manejo de constantes en métodos avanzados
 > - [[Ecuaciones Diferenciales Básicas\|Ecuaciones Diferenciales Básicas]] - Aplicación principal
 > - [[Problemas de Valor Inicial\|Problemas de Valor Inicial]] - Determinación práctica de constantes

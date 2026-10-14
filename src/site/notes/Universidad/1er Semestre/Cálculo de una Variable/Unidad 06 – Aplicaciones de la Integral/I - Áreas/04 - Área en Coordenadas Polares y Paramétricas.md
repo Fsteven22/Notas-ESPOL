@@ -17,6 +17,7 @@
 > 
 > Esta fórmula surge del hecho de que el área de un sector circular con radio $r$ y ángulo $d\theta$ es $\frac{1}{2}r^2 d\theta$.
 >
+
 > [!warning] ⚠️ **Condición Importante** La fórmula es válida cuando ambas funciones son no negativas y $f(\theta) \geq g(\theta)$ en todo el intervalo. Si las curvas se cruzan, hay que dividir la región en subintervalos.
 
 ### 📐 Metodología Paso a Paso
@@ -108,6 +109,7 @@
 > 
 > Para el área entre dos curvas paramétricas: $$A = \left|\int_a^b [y_1(t) - y_2(t)] \cdot x'(t) , dt\right|$$
 >
+
 > [!warning] ⚠️ **Orientación Importante** El signo del resultado depende de la orientación de la curva. Usar valor absoluto para obtener el área geométrica.
 
 ### 📋 Metodología para Curvas Paramétricas
@@ -267,10 +269,10 @@
 ### 🔗 Temas Relacionados
 
 - [[02 - Área entre Curvas]] - Concepto base en coordenadas rectangulares
-- [[Coordenadas Polares]] - Sistema de coordenadas fundamental
+- [[02 - Coordenadas polares]] - Sistema de coordenadas fundamental
 - [[Curvas Paramétricas]] - Representación paramétrica de curvas
 - [[Teorema de Green]] - Método alternativo usando teoremas vectoriales
-- [[Transformaciones de Coordenadas]] - Cambios entre sistemas
+- [[02 - Transformaciones entre Coordenadas]] - Cambios entre sistemas
 
 ### 📖 Para Profundizar
 

@@ -311,6 +311,7 @@ flowchart TD
 > 
 > **G**raficar la función y la región **R**econocer si el área es positiva, negativa o mixta **A**plicar el Teorema Fundamental del Cálculo **F**ormular la integral definida $\int_a^b f(x)dx$ **O**btener el resultado y verificar
 >
+
 > [!success] 📋 Desarrollo Detallado del Método GRAFO
 > ### 
 > 
@@ -409,7 +410,7 @@ flowchart TD
 > 
 > - [[01 - Integral de Riemann]] - Definición formal subyacente
 > - [[04 - Teorema Fundamental del Cálculo]] - Herramienta principal de evaluación
-> - [[Propiedades de la Integral Definida]] - Herramientas para simplificar cálculos
+> - [[02 - Propiedades de la Integral]] - Herramientas para simplificar cálculos
 > - [[01 - Métodos de Integración Definida]] - Técnicas para evaluación
 >
 > [!NOTE] 📖 Para Profundizar

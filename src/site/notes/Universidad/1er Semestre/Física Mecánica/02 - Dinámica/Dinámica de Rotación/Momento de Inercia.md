@@ -138,6 +138,7 @@
 > > 
 > > **Aplicación**: $I = \sum m_i r_i^2$ $$I = (1.0)(0.5)^2 + (2.0)(0.5)^2 = 0.25 + 0.50 = 0.75\text{ kg⋅m}^2$$
 >
+
 > [!warning] 🧮 Problema 2: Cilindro Rodando **Enunciado**: Cilindro sólido de masa $M$ y radio $R$ rueda sobre una superficie. Calcular momento de inercia respecto al punto de contacto.
 > 
 > > [!success] ✅ Solución **Momento de inercia del centro**: $I_{CM} = \frac{1}{2}MR^2$
@@ -152,7 +153,7 @@
 
 > [!note] 🌐 Relaciones Conceptuales
 > 
-> ### [[Dinámica Rotacional]]
+> ### [[Cinemática Rotacional]]
 > 
 > - **Segunda Ley de Newton rotacional**: $\sum \tau = I\alpha$
 > - El momento de inercia es la "masa rotacional" en esta ecuación
@@ -162,12 +163,12 @@
 > - **Fórmula**: $K_{rot} = \frac{1}{2}I\omega^2$
 > - Análoga a $K = \frac{1}{2}mv^2$ pero para rotación
 > 
-> ### [[Centro de Masa]]
+> ### [[Centro de masa (CM)]]
 > 
 > - **Teorema de ejes paralelos** conecta momento de inercia con centro de masa
 > - Permite calcular $I$ para cualquier eje conociendo $I_{CM}$
 > 
-> ### [[Momento Angular]]
+> ### [[Momentum Angular]]
 > 
 > - **Relación**: $L = I\omega$
 > - **Conservación**: Explica fenómenos como el patinador girando
@@ -209,10 +210,10 @@
 > 
 > ### 🔗 Notas Relacionadas
 > 
-> - [[Dinámica Rotacional]]
-> - [[Momento Angular]]
+> - [[Cinemática Rotacional]]
+> - [[Momentum Angular]]
 > - [[Energía Cinética Rotacional]]
-> - [[Centro de Masa]]
+> - [[Centro de masa (CM)]]
 > - [[Torque y Momento de Torsión]]
 > - [[Conservación del Momento Angular]]
 > - [[Teorema de Ejes Paralelos]]

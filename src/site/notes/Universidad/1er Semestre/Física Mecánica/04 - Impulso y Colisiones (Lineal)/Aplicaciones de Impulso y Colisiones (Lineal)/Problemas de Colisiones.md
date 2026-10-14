@@ -7,6 +7,7 @@
 
 > [!quote] "En las colisiones, la naturaleza conserva lo esencial mientras transforma lo superficial; cada choque es una danza de conservación y cambio." 💥
 >
+
 > [!info] Las colisiones son eventos fundamentales en la física donde dos o más cuerpos interactúan durante un tiempo muy corto, intercambiando momentum y energía. El análisis de colisiones nos permite comprender desde el comportamiento de partículas subatómicas hasta accidentes vehiculares, aplicando principios de conservación que rigen el universo.
 
 ## 🎯 Tipos de Colisiones
@@ -45,6 +46,7 @@
 > |m₁ >> m₂, v₂ᵢ = 0|v₁f ≈ v₁ᵢ, v₂f ≈ 2v₁ᵢ|Pelota contra pared|
 > |m₁ << m₂, v₂ᵢ = 0|v₁f ≈ -v₁ᵢ, v₂f ≈ 0|Rebote contra objeto masivo|
 >
+
 > [!warning] **Colisiones Inelásticas (1D)** 🚗
 > 
 > ### Características Principales:
@@ -74,6 +76,7 @@
 > - El coeficiente e caracteriza la "elasticidad" del material
 > - Valores típicos: acero-acero (e ≈ 0.9), plástico-plástico (e ≈ 0.3)
 >
+
 > [!danger] **Choque Completamente Inelástico** 🔗
 > 
 > ### Características Principales:
@@ -108,6 +111,7 @@
 > - Meteorito impactando planeta
 > - Accidentes vehiculares con enganche
 >
+
 > [!info] 🔄 Relaciones Entre Tipos de Colisiones
 > 
 > ```mermaid
@@ -194,6 +198,7 @@
 > - Momentum: 0.2(-2) + 0.3(8) = 2 ✓
 > - Energía: ½(0.2)(4) + ½(0.3)(64) = 10 J ✓
 >
+
 > [!example] **Problema 2: Colisión Inelástica** 🚗💥
 > 
 > ### Enunciado:
@@ -232,6 +237,7 @@
 > ΔKE = 333000 J (94% de energía perdida)
 > ```
 >
+
 > [!example] **Problema 3: Choque Completamente Inelástico** 🔫🎯
 > 
 > ### Enunciado:

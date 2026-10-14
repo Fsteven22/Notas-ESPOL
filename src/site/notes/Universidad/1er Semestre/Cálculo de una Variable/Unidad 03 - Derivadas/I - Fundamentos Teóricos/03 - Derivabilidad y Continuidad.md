@@ -395,7 +395,7 @@ flowchart TD
 > 
 > ### 📖 Para Profundizar
 > - [[Teoremas de Valor Medio\|Teoremas de Valor Medio]] - Aplicación de la derivabilidad
-> - [[Funciones de Clase C^n\|Funciones de Clase C^n]] - Grados de suavidad
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 3 – Funciones de Varias Variables/III – Límites, Continuidad y Primeras Derivadas/05 – Funciones de Clase C¹\|05 – Funciones de Clase C¹]] - Grados de suavidad
 > - [[Análisis Real\|Análisis Real]] - Tratamiento riguroso
 > - [[Topología\|Topología]] - Conceptos de continuidad generalizados
 > 

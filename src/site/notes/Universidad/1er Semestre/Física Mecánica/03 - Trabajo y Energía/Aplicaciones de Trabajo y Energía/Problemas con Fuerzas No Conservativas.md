@@ -7,6 +7,7 @@
 
 > [!quote] "Las fuerzas no conservativas son las ladronas de energía del universo mecánico; donde aparecen, la energía se transforma pero nunca se pierde completamente." 🔥
 >
+
 > [!info] Las fuerzas no conservativas son aquellas cuyo trabajo depende de la trayectoria seguida, no solo de los puntos inicial y final. Estas fuerzas, como la fricción y la resistencia del aire, introducen disipación de energía mecánica, transformándola en otras formas como calor, sonido o deformación permanente.
 
 ## ⚡ Fundamentos de Fuerzas No Conservativas
@@ -34,6 +35,7 @@
 > |Reversibilidad|Reversible|Irreversible|
 > |Ejemplos|Gravitatoria, elástica|Fricción, resistencia aire|
 >
+
 > [!tip] **Teorema Trabajo-Energía Generalizado** ⚖️
 > 
 > ### Ecuación Fundamental:
@@ -52,6 +54,7 @@
 > - Si W_no_cons > 0: Se añade energía al sistema (motor)
 > - La energía "perdida" se transforma en calor, sonido, etc.
 >
+
 > [!warning] **Tipos de Fuerzas No Conservativas** 🔥
 > 
 > ### 1. Fricción (μ):
@@ -72,6 +75,7 @@
 > - **Frenos**: Disipan energía del sistema
 > - **Trabajo**: Depende de la función F(t) o F(x)
 >
+
 > [!success] 🔗 Estrategias de Resolución
 > 
 > ```mermaid
@@ -159,6 +163,7 @@
 > 
 > **No es posible** (resultado negativo). El objeto no puede llegar con 8 m/s debido a la fricción.
 >
+
 > [!example] **Problema 2: Resistencia del Aire Proporcional a v** 🪂
 > 
 > ### Enunciado:
@@ -185,6 +190,7 @@
 > 
 > Como v depende de y, esto requiere resolver la ecuación diferencial. **Resultado aproximado usando métodos numéricos: v ≈ 35.8 m/s**
 >
+
 > [!example] **Problema 3: Fricción en Movimiento Circular** 🎠
 > 
 > ### Enunciado:
@@ -215,6 +221,7 @@
 > 
 > **Verificación energética**: E_inicial = ½mv_0² = ½(1)(6)² = 18 J W_fricción = -f × s = -2.94 × 6.12 = -18 J ✓
 >
+
 > [!example] **Problema 4: Sistemas con Motor** 🚗
 > 
 > ### Enunciado:
@@ -241,6 +248,7 @@
 > 
 > Energía consumida = 5 MJ = 5,000,000 J **η = W_útil/E_consumida = 422,040/5,000,000 = 8.4%**
 >
+
 > [!example] **Problema 5: Péndulo con Resistencia del Aire** 🕰️
 > 
 > ### Enunciado:
@@ -282,6 +290,7 @@
 > **D**epende - El trabajo depende de la trayectoria **I**rrversible - No se puede recuperar la energía perdida  
 > **S**iempre - Siempre disipan energía (fricción, resistencia) **I**mposible - Imposible definir energía potencial **P**érdida - Transforman energía mecánica en calor **A**ñaden - Los motores añaden energía al sistema
 >
+
 > [!tip] **Ecuaciones Clave** 🔑
 > 
 > ### Conservación Modificada:

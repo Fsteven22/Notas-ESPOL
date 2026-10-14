@@ -11,6 +11,7 @@
 > 
 > 🚫 **No podemos aplicar** el teorema del cociente de límites porque obtendríamos $\frac{0}{0}$, que **no está definido**.
 >
+
 > [!warning] ⚠️ Por qué es "Indeterminada" La forma $\frac{0}{0}$ es indeterminada porque **puede tomar cualquier valor** dependiendo de cómo las funciones se aproximen a cero.
 > 
 > **Ejemplos:**
@@ -107,6 +108,7 @@ graph TD
 > 
 > - Usar identidades como $\sin^2 x + \cos^2 x = 1$
 >
+
 > [!example] 🎯 Ejemplo Avanzado $$\lim_{x \to 2} \frac{x^3 - 8}{x^2 - 4}$$
 > 
 > **Solución:**
@@ -264,6 +266,7 @@ flowchart TD
 > 
 > - Verificar cada factorización antes de cancelar
 >
+
 > [!example] 🔍 Ejemplo con Múltiples Técnicas $$\lim_{x \to 1} \frac{\sqrt{x+3} - 2}{x^2 - 1}$$
 > 
 > **Solución combinada:**
@@ -340,7 +343,7 @@ flowchart TD
 > 
 > **Temas Paralelos:** 4. **[[Gráficas y Discontinuidades]]** - Interpretación visual 5. **[[Simplificación Algebraica]]** - Técnicas de reducción
 > 
-> **Siguientes Pasos:** 6. **[[Otras Formas Indeterminadas]]** - ∞/∞, 0·∞, etc. 7. **[[01 - Formas Indeterminadas]]** - Método sistemático 8. **[[Límites Trigonométricos Especiales]]** - Casos avanzados
+> **Siguientes Pasos:** 6. **[[01 - Formas Indeterminadas]]** - ∞/∞, 0·∞, etc. 7. **[[01 - Formas Indeterminadas]]** - Método sistemático 8. **[[Límites Trigonométricos Especiales]]** - Casos avanzados
 
 ## 🎯 Ejercicios de Práctica Estructurada
 
@@ -382,6 +385,7 @@ flowchart TD
 > 
 > **4. Diferencia de cubos:** $$\frac{x^3 - a^3}{x - a} = x^2 + ax + a^2$$
 >
+
 > [!warning] 🚨 Errores Comunes a Evitar
 > 
 > **1. No verificar la forma indeterminada:**
@@ -720,6 +724,7 @@ flowchart TD
 > 
 > $$\text{Si } \lim_{x \to a} \frac{f(x)}{g(x)} \text{ es indeterminada, entonces } \lim_{x \to a} \frac{f(x)}{g(x)} = \lim_{x \to a} \frac{f'(x)}{g'(x)}$$
 >
+
 > [!warning] ⚠️ Importancia Histórica Aunque se llama "Regla de L'Hôpital" por Guillaume de l'Hôpital (1661-1704), **fue desarrollada por Johann Bernoulli**. L'Hôpital la publicó en el primer libro de cálculo de la historia.
 
 ```mermaid
@@ -812,6 +817,7 @@ graph TD
 > 
 > **Regla:** Continuar aplicando hasta obtener un resultado determinado o concluir que el límite no existe.
 >
+
 > [!example] 🎨 Ejemplo con Aplicación Múltiple $$\lim_{x \to 0} \frac{1 - \cos x - \frac{x^2}{2}}{x^4}$$
 > 
 > **Primera aplicación:**
@@ -1015,7 +1021,7 @@ flowchart TD
 > 
 > 1. **[[Derivadas Básicas]]** - Técnicas de derivación
 > 2. **[[Reglas de Derivación]]** - Regla de la cadena, producto, cociente
-> 3. **[[Formas Indeterminadas]]** - Conceptos previos
+> 3. **[[01 - Formas Indeterminadas]]** - Conceptos previos
 > 
 > **Temas paralelos:** 4. **[[Límites Fundamentales]]** - Cuándo NO usar L'Hôpital 5. **[[03 - Derivabilidad y Continuidad]]** - Condiciones de aplicación
 > 

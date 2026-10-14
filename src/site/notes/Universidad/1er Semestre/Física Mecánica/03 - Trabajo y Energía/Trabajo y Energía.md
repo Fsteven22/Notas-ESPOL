@@ -11,6 +11,7 @@
 > 
 > El trabajo se realiza cuando una **fuerza actúa sobre un objeto** y este experimenta un **desplazamiento**.
 >
+
 > [!warning] Condiciones Importantes
 > 
 > - ❌ **No hay trabajo sin desplazamiento**
@@ -32,6 +33,7 @@
 > |Masa|$m$|kg|Cantidad de materia|
 > |Gravedad|$g$|9.81 m/s²|Aceleración gravitacional|
 >
+
 > [!info] Conversión de Unidades 💡 **Conversión**: $1 \text{ J} = 1 \text{ N} \cdot \text{m}$
 
 ---
@@ -44,12 +46,14 @@
 > 
 > **🔢 Definición Vectorial (Producto Punto)** $$W = \vec{F} \cdot \vec{d}$$
 >
+
 > [!note] Trabajo Total/Neto
 > 
 > **🔄 Suma de Trabajos Individuales** $$W_{neto} = \sum W_i = W_{F_1} + W_{F_2} + W_{F_3} + ...$$
 > 
 > **⚡ Trabajo de la Fuerza Neta** $$W_{neto} = \vec{F}_{neto} \cdot \vec{d} = (\sum \vec{F}) \cdot \vec{d}$$
 >
+
 > [!note] Trabajo de un Resorte $$W_e = \frac{1}{2}k(x_i^2 - x_f^2)$$
 
 ---
@@ -66,6 +70,7 @@
 >     B -->|θ > 90°| E[❌ W < 0<br/>Fuerza opone movimiento<br/>⚡ Energía DEL objeto]
 > ```
 >
+
 > [!info] Interpretación Física
 > 
 > ```mermaid
@@ -156,6 +161,7 @@
 > 
 > **✅ Resultado**: W > 0 porque la fuerza ayuda al movimiento
 >
+
 > [!example] Ejercicio 2: Bloque Empujado 📦
 > 
 > **🎯 Problema**: Bloque 10 kg empujado 2 m con F = 10 N a 30°, μ = 0.3
@@ -217,12 +223,14 @@
 > - ❌ Confundir desplazamiento con distancia recorrida
 > - ❌ Olvidar el signo del trabajo
 >
+
 > [!tip] Trucos Útiles
 > 
 > - ✅ Dibuja siempre un diagrama de fuerzas
 > - ✅ Define un sistema de coordenadas claro
 > - ✅ Verifica que los signos tengan sentido físico
 >
+
 > [!example] Casos Especiales
 > 
 > ```mermaid

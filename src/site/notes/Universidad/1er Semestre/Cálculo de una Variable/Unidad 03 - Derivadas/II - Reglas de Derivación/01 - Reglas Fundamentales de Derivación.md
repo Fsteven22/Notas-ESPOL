@@ -10,6 +10,7 @@
 > [!info] 💡 Concepto Fundamental
 > Las **reglas fundamentales de derivación** son un conjunto de fórmulas y técnicas que nos permiten calcular derivadas de manera sistemática y eficiente, sin necesidad de recurrir constantemente a la definición por límites. Estas reglas forman la base del cálculo diferencial y son herramientas esenciales para cualquier aplicación matemática, física o ingenieril.
 >
+
 > [!tip] 🎯 ¿Por qué son importantes?
 > 
 > - Permiten **calcular derivadas rápidamente** sin usar límites
@@ -43,6 +44,7 @@
 > • $D_x[f(x)]$ (operador derivada)
 > • $(f \circ g)'(x)$ (derivada de composición)
 >
+
 > [!warning] ⚠️ **Elementos clave para recordar**
 > 
 > - La derivada es un **operador lineal**
@@ -155,6 +157,7 @@
 > • $f(x) = \sqrt{x}$ ➜ $f'(x) = \frac{1}{2\sqrt{x}}$ ➜ 🔹 Raíz cuadrada
 > • $f(x) = \frac{1}{x}$ ➜ $f'(x) = -\frac{1}{x^2}$ ➜ ⚠️ $x \neq 0$
 >
+
 > [!tip] 📊 **Tabla de Derivadas - Funciones Exponenciales y Logarítmicas**
 > 
 > **Función** ➜ **Derivada** ➜ **Observaciones**
@@ -164,6 +167,7 @@
 > • $f(x) = \ln x$ ➜ $f'(x) = \frac{1}{x}$ ➜ ⚠️ $x > 0$
 > • $f(x) = \log_a x$ ➜ $f'(x) = \frac{1}{x \ln a}$ ➜ 🔹 Base $a > 0, a \neq 1$
 >
+
 > [!tip] 📊 **Tabla de Derivadas - Funciones Trigonométricas**
 > 
 > **Función** ➜ **Derivada** ➜ **Observaciones**
@@ -175,6 +179,7 @@
 > • $f(x) = \sec x$ ➜ $f'(x) = \sec x \tan x$ ➜ 🔹 Producto
 > • $f(x) = \csc x$ ➜ $f'(x) = -\csc x \cot x$ ➜ ⚠️ Signo negativo
 >
+
 > [!tip] 📊 **Tabla de Derivadas - Funciones Trigonométricas Inversas**
 > 
 > **Función** ➜ **Derivada** ➜ **Condiciones**
@@ -186,6 +191,7 @@
 > • $f(x) = \text{arcsec } x$ ➜ $f'(x) = \frac{1}{|x|\sqrt{x^2-1}}$ ➜ $|x| > 1$
 > • $f(x) = \text{arccsc } x$ ➜ $f'(x) = -\frac{1}{|x|\sqrt{x^2-1}}$ ➜ $|x| > 1$
 >
+
 > [!tip] 📊 **Tabla de Derivadas - Funciones Hiperbólicas**
 > 
 > **Función** ➜ **Derivada** ➜ **Observaciones**
@@ -207,6 +213,7 @@
 > • $f'(x) = 3(4x^3) - 2(3x^2) + 5(2x) - 7(1) + 0$
 > • $f'(x) = 12x^3 - 6x^2 + 10x - 7$
 >
+
 > [!example] 🎯 **Ejemplo 2**: Regla del producto
 > **Encontrar la derivada de $g(x) = x^3 \sin x$**
 > 
@@ -218,6 +225,7 @@
 > • $h'(x) = 3x^2 \cdot \sin x + x^3 \cdot \cos x$
 > • $h'(x) = 3x^2\sin x + x^3\cos x$
 >
+
 > [!example] 🎯 **Ejemplo 3**: Regla del cociente
 > **Encontrar la derivada de $h(x) = \frac{2x + 1}{x^2 + 3}$**
 > 
@@ -230,6 +238,7 @@
 > • $h'(x) = \frac{2x^2 + 6 - 4x^2 - 2x}{(x^2 + 3)^2}$
 > • $h'(x) = \frac{-2x^2 - 2x + 6}{(x^2 + 3)^2}$
 >
+
 > [!example] 🎯 **Ejemplo 4**: Combinación de reglas
 > **Encontrar la derivada de $k(x) = \frac{x^2 e^x}{\ln x}$**
 > 
@@ -404,6 +413,7 @@ graph TD
 > • ❌ Incorrecto: $\frac{d}{dx}[\log x] = \frac{1}{x}$
 > • ✅ Correcto: $\frac{d}{dx}[\ln x] = \frac{1}{x}$, $\frac{d}{dx}[\log x] = \frac{1}{x \ln 10}$
 >
+
 > [!tip] 💡 **Estrategias para Evitar Errores**
 > 
 > **Lista de Verificación**:

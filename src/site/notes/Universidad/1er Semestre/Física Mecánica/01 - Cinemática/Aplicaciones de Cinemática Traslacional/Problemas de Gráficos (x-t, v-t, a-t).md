@@ -7,6 +7,7 @@
 
 >[!quote] "Un gráfico vale más que mil ecuaciones; en la física, visualizar el movimiento es comprenderlo en su esencia más profunda." 📈
 >
+
 > [!info] Los gráficos cinemáticos son herramientas fundamentales para analizar el movimiento de los objetos. A través de las representaciones gráficas de posición vs tiempo (x-t), velocidad vs tiempo (v-t) y aceleración vs tiempo (a-t), podemos interpretar y resolver problemas de movimiento de manera visual e intuitiva.
 
 ## 📊 Tipos de Gráficos Cinemáticos
@@ -29,6 +30,7 @@
 > |Curva compleja|Movimiento complejo|v = variable|a = variable|
 > 
 >
+
 > [!tip] **Gráfico Velocidad-Tiempo (v-t)** 🚀
 > 
 > ### Características Principales:
@@ -46,6 +48,7 @@
 > - **Pendiente negativa**: Desaceleración o aceleración negativa
 >
 >
+
 > [!warning] **Gráfico Aceleración-Tiempo (a-t)** ⚡
 > 
 > ### Características Principales:
@@ -75,6 +78,7 @@
 > ```
 > 
 >
+
 > [!note] **Relaciones Matemáticas** 📐
 > 
 > ### Derivadas:
@@ -144,6 +148,7 @@
 > **Velocidad promedio**: v̄ = 0/6 = 0 m/s **Desplazamiento total**: 0 m (regresa al origen)
 > 
 >
+
 > [!example] **Problema 2: Del Gráfico v-t al x-t** 🔄
 > 
 > ### Enunciado:
@@ -167,6 +172,7 @@
 > 
 > El gráfico x-t será una parábola.
 >
+
 > [!example] **Problema 3: Análisis Completo** 📊
 > 
 > ### Enunciado:
@@ -228,7 +234,7 @@
 > - [[Cinemática Traslacional]] - Fundamentos teóricos
 > - [[Ecuaciones de Movimiento]] - Base matemática
 > - [[Análisis Vectorial]] - Para movimiento en 2D y 3D
-> - [[Práctica de Velocidad Instantánea]] - Aplicación experimental
+> - [[Practica de Velocidad Instantánea]] - Aplicación experimental
 
 ## 📚 Notas Recomendadas
 

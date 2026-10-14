@@ -15,6 +15,7 @@
 > 
 > $$\int_{-a}^a f(x) dx = 2\int_0^a f(x) dx$$
 >
+
 > [!info] 🎨 **Interpretación Geométrica** La gráfica de una función par es **simétrica respecto al eje y**. Por tanto, el área bajo la curva desde $-a$ hasta $0$ es igual al área desde $0$ hasta $a$.
 
 ### 📐 Funciones Impares
@@ -24,6 +25,7 @@
 > 
 > $$\int_{-a}^a f(x) dx = 0$$
 >
+
 > [!info] 🎨 **Interpretación Geométrica** La gráfica de una función impar tiene **simetría puntual respecto al origen**. Las áreas positiva y negativa se cancelan exactamente.
 
 ```mermaid
@@ -118,6 +120,7 @@ graph TD
 
 > [!info] 🔄 **Definición de Función Periódica** Una función $f$ es **periódica** con período $T > 0$ si: $$f(x + T) = f(x) \text{ para todo } x \text{ en el dominio}$$
 >
+
 > [!tip] 🏆 **Teorema Fundamental de Periodicidad** Si $f$ es continua y periódica con período $T$, entonces para cualquier número real $a$:
 > 
 > $$\int_a^{a+T} f(x) dx = \int_0^T f(x) dx$$
@@ -361,7 +364,7 @@ flowchart TD
 > 
 > - [[04 - Teorema Fundamental del Cálculo]] - Base teórica para todas las integrales definidas
 > - [[03 - Teoremas Especiales para Integrales Definidas]] - Propiedades complementarias de integrales
-> - [[Propiedades de la Integral Definida]] - Linealidad y aditividad
+> - [[02 - Propiedades de la Integral]] - Linealidad y aditividad
 > - [[Funciones Trigonométricas]] - Ejemplos principales de funciones periódicas
 > - [[01 - Integral de Riemann]] - Definición formal subyacente
 > 
@@ -369,7 +372,7 @@ flowchart TD
 > 
 > - [[Series de Fourier]] - Aplicación directa de propiedades de simetría
 > - [[Análisis de Señales]] - Aplicaciones en ingeniería
-> - [[Funciones Especiales]] - Más ejemplos de funciones con simetrías
+> - [[06 - Funciones Especiales]] - Más ejemplos de funciones con simetrías
 > - [[Transformadas Integrales]] - Uso avanzado de propiedades de simetría
 > 
 > ### 🎯 Notas Recomendadas
@@ -403,6 +406,7 @@ flowchart TD
 > 
 > Equivalentemente: $$f(c) = \frac{1}{b-a}\int_a^b f(x) dx$$
 >
+
 > [!warning] 📋 **Condiciones Necesarias**
 > 
 > - $f$ debe ser **continua** en $[a,b]$
@@ -655,7 +659,7 @@ graph LR
 > 
 > - [[04 - Teorema Fundamental del Cálculo]] - Base teórica para la demostración
 > - [[Teorema del Valor Medio para Derivadas]] - Teorema análogo para derivadas
-> - [[Propiedades de la Integral Definida]] - Propiedades utilizadas en la demostración
+> - [[02 - Propiedades de la Integral]] - Propiedades utilizadas en la demostración
 > - [[01 - Integral de Riemann]] - Definición formal de la integral
 > - [[Funciones Continuas]] - Condición necesaria para el teorema
 > 

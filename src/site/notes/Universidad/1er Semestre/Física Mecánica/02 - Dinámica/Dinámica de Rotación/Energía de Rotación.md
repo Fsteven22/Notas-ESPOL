@@ -13,6 +13,7 @@
 
 > [!info] 💡 Concepto Fundamental Así como un objeto en movimiento lineal posee **energía cinética de traslación**, un objeto que gira alrededor de un eje posee **energía cinética de rotación**. Esta energía es proporcional al momento de inercia y al cuadrado de la velocidad angular.
 >
+
 > [!note] 🎯 Analogía con Energía Lineal
 > 
 > |**Movimiento Lineal**|**Movimiento Rotacional**|
@@ -57,6 +58,7 @@
 > 
 > $$W_{neto,rot} = \Delta K_{rot} = \frac{1}{2}I\omega_f^2 - \frac{1}{2}I\omega_i^2$$
 >
+
 > [!warning] ⚠️ Puntos Clave
 > 
 > - La energía rotacional depende del **cuadrado** de la velocidad angular
@@ -95,6 +97,7 @@
 > |**Cilindro sólido**|$I = \frac{1}{2}MR^2$|67%|33%|
 > |**Aro/Anillo**|$I = MR^2$|50%|50%|
 >
+
 > [!info] 📊 Visualización de Distribución Energética
 > 
 > ```mermaid
@@ -103,6 +106,7 @@
 >    "Rotacional (33%)" : 33
 > ```
 >
+
 > [!tip] 🎯 Implicación Práctica **Los objetos con menor momento de inercia llegan más rápido** al final de una rampa porque dedican más energía a la traslación que a la rotación.
 
 ---
@@ -122,6 +126,7 @@
 > 
 > **📊 Resultado:** $v_{CM} = \sqrt{\frac{4gh}{3}}$
 >
+
 > [!example] ⚙️ Ejemplo 2: Volante de Inercia (Flywheel)
 > 
 > **📋 Situación:** Un volante de inercia almacena energía rotacional para suavizar la entrega de potencia en motores.
@@ -134,6 +139,7 @@
 > 
 > **📊 Ejemplo numérico:** Si $I = 50 \text{ kg·m}^2$ y $\omega = 3000 \text{ rpm} = 314 \text{ rad/s}$: $$K_{rot} = \frac{1}{2}(50)(314)^2 = 2.47 \times 10^6 \text{ J} = 2.47 \text{ MJ}$$
 >
+
 > [!example] 💽 Ejemplo 3: Disco Duro
 > 
 > **📋 Situación:** El motor acelera el disco desde reposo hasta velocidad operativa.
@@ -187,6 +193,7 @@
 > 
 > $$W_{neto} = \Delta K_{rot}$$ El trabajo neto realizado sobre un objeto rotatorio cambia su energía cinética rotacional.
 >
+
 > [!example] 🔧 Aplicación: Motor Eléctrico
 > 
 > **📋 Situación:** Un motor aplica torque constante $\tau$ para acelerar un disco desde reposo hasta $\omega_f$ en tiempo $t$.
@@ -229,6 +236,7 @@
 >      Eficiencia Energética
 > ```
 >
+
 > [!tip] 🎯 Estrategias de Resolución
 > 
 > 1. **Identifica** los tipos de energía presentes (traslacional, rotacional, potencial)
@@ -245,7 +253,7 @@
 > 
 > - > [[Física Mecanica/Notas antiguas/Dinámica Rotacional/Momento de Inercia]] - Fundamento de la energía rotacional
 >     
-> - > [[Dinámica Rotacional]] - Torque y aceleración angular
+> - > [[Cinemática Rotacional]] - Torque y aceleración angular
 >     
 > - > [[Rodadura]] - Aplicación principal de energía rotacional
 >     
@@ -262,6 +270,7 @@
 > - > [[Volantes de Inercia]] - Aplicación tecnológica
 >     
 >
+
 > [!quote] 📖 Material de Referencia
 > 
 > - > Tutorial: Energía en la rotación.pdf

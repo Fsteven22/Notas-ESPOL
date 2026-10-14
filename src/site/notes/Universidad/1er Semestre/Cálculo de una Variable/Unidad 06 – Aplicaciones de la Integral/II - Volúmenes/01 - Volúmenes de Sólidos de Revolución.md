@@ -30,6 +30,7 @@
 > |📐 Área|Área del disco circular|$\pi [f(x)]^2$|
 > |📊 Grosor|Diferencial del eje|$dx$|
 >
+
 > [!example]+ **Ejemplo Práctico** **Problema**: Encontrar el volumen del sólido generado al rotar $f(x) = \sqrt{x}$ alrededor del eje $x$ en $[0, 4]$.
 > 
 > **Solución**: $$V = \pi \int_0^4 (\sqrt{x})^2 , dx = \pi \int_0^4 x , dx = \pi \left[\frac{x^2}{2}\right]_0^4 = 8\pi$$
@@ -50,6 +51,7 @@ graph TD
 
 > [!warning]+ **Diferencia Clave con Discos** Las **arandelas** se forman cuando hay una cavidad interior en el sólido de revolución. Esto ocurre cuando rotamos una región entre dos funciones.
 >
+
 > [!info]+ **Configuración de Arandelas**
 > 
 > ### Cuando usar este método
@@ -69,6 +71,7 @@ graph TD
 > |🔵 Radio interior|$r = g(x)$|Función inferior|
 > |🍩 Área arandela|$\pi(R^2 - r^2)$|Diferencia de áreas|
 >
+
 > [!example]+ **Ejemplo de Arandelas** **Problema**: Volumen del sólido generado rotando la región entre $f(x) = x + 2$ y $g(x) = x^2$ alrededor del eje $x$ en $[-1, 2]$.
 > 
 > **Solución**: $$V = \pi \int_{-1}^2 \left[(x+2)^2 - (x^2)^2\right] dx$$ $$= \pi \int_{-1}^2 \left[x^2 + 4x + 4 - x^4\right] dx$$
@@ -95,6 +98,7 @@ flowchart LR
 > - Es complicado expresar $x$ en función de $y$
 > - La región tiene forma "vertical" natural
 >
+
 > [!info]+ **Fundamento del Método**
 > 
 > ### Visualización
@@ -115,6 +119,7 @@ flowchart LR
 > |📐 Área lateral|$2\pi x \cdot f(x)$|Superficie del cilindro|
 > |📏 Grosor|$dx$|Diferencial|
 >
+
 > [!example]+ **Ejemplo de Capas Cilíndricas** **Problema**: Volumen del sólido generado rotando $f(x) = x^2$ alrededor del eje $y$ en $[0, 2]$.
 > 
 > **Solución**: $$V = 2\pi \int_0^2 x \cdot x^2 , dx = 2\pi \int_0^2 x^3 , dx$$ $$= 2\pi \left[\frac{x^4}{4}\right]_0^2 = 2\pi \cdot 4 = 8\pi$$
@@ -163,6 +168,7 @@ graph TD
 > 3. 🔍 **Identifica** la forma geométrica resultante
 > 4. 📐 **Aplica** la fórmula correspondiente
 >
+
 > [!warning]+ **Errores Comunes a Evitar**
 > 
 > - ❌ Olvidar el $\pi$ en métodos de disco y arandelas
@@ -191,8 +197,8 @@ graph TD
 > 
 > **Temas Complementarios**
 > 
-> - [[Coordenadas Polares]] - Para casos más complejos
-> - [[Superficies de Revolución]] - Extensión natural
+> - [[02 - Coordenadas polares]] - Para casos más complejos
+> - [[03 - Superficies de revolución]] - Extensión natural
 > - [[Momentos y Centros de Masa]] - Otras aplicaciones
 > - [[Longitud de Arco]] - Medidas en curvas
 

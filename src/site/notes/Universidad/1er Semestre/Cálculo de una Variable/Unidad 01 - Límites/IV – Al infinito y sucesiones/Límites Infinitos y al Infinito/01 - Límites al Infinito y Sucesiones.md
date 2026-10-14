@@ -19,6 +19,7 @@
 > 
 > Decimos que $\lim_{x \to a} f(x) = -\infty$ si para todo número $M > 0$, existe $\delta > 0$ tal que: $$f(x) < -M \text{ siempre que } 0 < |x - a| < \delta$$
 >
+
 > [!warning] ⚠️ **Importante: Los Límites Infinitos NO EXISTEN** Cuando escribimos $\lim_{x \to a} f(x) = \infty$, estamos describiendo un **comportamiento específico** de la función, pero técnicamente **el límite no existe** porque infinito no es un número real.
 > 
 > **Notación correcta:**
@@ -90,6 +91,7 @@ flowchart TD
 > 3. **Evalúa** el signo del numerador en esos puntos
 > 4. **Analiza** el comportamiento lateral del denominador
 >
+
 > [!warning] 🔍 **Método del Análisis de Signos**
 > 
 > ### Para $f(x) = \frac{P(x)}{Q(x)}$ cerca de $x = a$ donde $Q(a) = 0$:
@@ -128,6 +130,7 @@ flowchart TD
 > 
 > 4. **Conclusión:** $x = 2$ es asíntota vertical tipo IV
 >
+
 > [!info] 📝 **Ejemplo 2: Con Factorización**
 > 
 > Encontrar $\lim_{x \to 3} \frac{x^2-9}{(x-3)^2}$
@@ -157,6 +160,7 @@ flowchart TD
 > |$\frac{c}{\infty}$|$0$|$c$ finito|
 > |$\frac{c}{0}$|$\pm\infty$|Depende del signo de $c$ y aproximación a $0$|
 >
+
 > [!warning] 🚨 **Formas Indeterminadas Relacionadas**
 > 
 > ### Casos que requieren técnicas especiales:
@@ -200,10 +204,11 @@ flowchart TD
 > 
 > - [[01 - Límites al Infinito y Sucesiones]] - Comportamiento cuando x tiende a infinito
 > - [[Asíntotas]] - Estudio completo de comportamiento asintótico
-> - [[Continuidad]] - Relación con discontinuidades infinitas
+> - [[02 – Continuidad]] - Relación con discontinuidades infinitas
 > - [[02 - Límites Laterales]] - Herramienta fundamental para el análisis
-> - [[Funciones Racionales]] - Casos más comunes de límites infinitos
+> - [[12 - Funciones racionales]] - Casos más comunes de límites infinitos
 >
+
 > [!info] 📖 **Notas Recomendadas para Complementar**
 > 
 > ### Prerrequisitos:
@@ -220,6 +225,7 @@ flowchart TD
 > - [[Gráficas de Funciones]] - Interpretación visual
 > - [[Comportamiento Asintótico]] - Análisis avanzado
 >
+
 > [!tip] 🧠 **Técnica de Estudio: "FASE" (Factoriza-Analiza-Signos-Evalúa)**
 > 
 > ### Mnemotecnia para Límites Infinitos:
@@ -260,6 +266,7 @@ flowchart TD
 > - $\lim_{x \to -\infty} f(x) = L$ (límite cuando x tiende a $-\infty$)
 > - $\lim_{x \to \infty} f(x) = \infty$ (límite infinito)
 >
+
 > [!warning] ⚠️ **Cuidado con la Notación**
 > 
 > - $x \to \infty$ significa que x crece sin límite
@@ -377,14 +384,15 @@ flowchart TD
 > - [[01 - Concepto y Definición Formal del Límite]] - Fundamentos teóricos
 > - [[02 - Límites Laterales]] - Para casos puntuales
 > - [[Asíntotas]] - Comportamiento gráfico completo
-> - [[Continuidad]] - Relación con límites
+> - [[02 – Continuidad]] - Relación con límites
 > - [[01 - Derivada y Definición Formal]] - Aplicación en tasas de cambio
 >
+
 > [!info] 📖 **Notas Recomendadas para Complementar**
 > 
 > ### Prerrequisitos:
 > 
-> - [[Funciones Polinómicas]] - Base algebraica necesaria
+> - [[11 - Funciones polinomiales]] - Base algebraica necesaria
 > - [[Álgebra de Límites]] - Propiedades operacionales
 > - [[Función Racional]] - Características específicas
 > 
@@ -394,6 +402,7 @@ flowchart TD
 > - [[01 - Formas Indeterminadas]] - Herramienta avanzada
 > - [[Series Infinitas]] - Comportamiento asintótico avanzado
 >
+
 > [!tip] 🧠 **Técnica de Estudio: Mnemotecnia "GMD"**
 > 
 > ### Para recordar el comportamiento de funciones racionales:
@@ -452,6 +461,7 @@ flowchart TD
 > 
 > **Mnemotecnia:** "**C**onverge **C**erca, **D**iverge **D**istante, **O**scila **O**nda"
 >
+
 > [!tip] 🧮 Propiedades de Límites
 > 
 > ### Álgebra de límites
@@ -493,6 +503,7 @@ flowchart TD
 > 
 > **Visualización:** La sucesión $b_n$ está "atrapada" entre dos sucesiones que convergen al mismo límite 🎯
 >
+
 > [!info] 🎲 Ejemplos del Teorema del Sandwich
 > 
 > ### Ejemplo 1: $\lim_{n \to \infty} \frac{\sin n}{n}$
@@ -529,6 +540,7 @@ flowchart TD
 > |**Estrictamente creciente**|$a_n < a_{n+1}$|Mismas condiciones ⬆️|$a_n = n$ (no acotada)|
 > |**Estrictamente decreciente**|$a_n > a_{n+1}$|Mismas condiciones ⬇️|$a_n = -n$ (no acotada)|
 >
+
 > [!warning] 🔍 Criterios de Monotonía
 > 
 > ### Métodos para determinar monotonía
@@ -548,6 +560,7 @@ flowchart TD
 > - Si $f(x) = a_x$ y $f'(x) \geq 0$ → creciente
 > - Si $f(x) = a_x$ y $f'(x) \leq 0$ → decreciente
 >
+
 > [!info] 🎯 Ejemplos Clásicos
 > 
 > ### Ejemplo 1: Sucesión $a_n = \frac{2n + 1}{n + 3}$
@@ -605,7 +618,7 @@ flowchart TD
 > 
 > - [[Límites de Funciones]] - Relación entre límites funcionales y sucesiones
 > - [[Series Numéricas]] - Aplicación de sucesiones en series
-> - [[Continuidad]] - Caracterización secuencial de continuidad
+> - [[02 – Continuidad]] - Caracterización secuencial de continuidad
 > - [[Topología de los Reales]] - Conceptos de supremo e ínfimo
 > - [[Criterios de Convergencia]] - Herramientas avanzadas para series
 

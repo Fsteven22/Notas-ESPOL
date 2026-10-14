@@ -7,6 +7,7 @@
 
 >[!quote] *"Las asíntotas en integrales definidas revelan los secretos del comportamiento límite de las funciones. Cuando una función se acerca a sus fronteras—ya sea el infinito o una discontinuidad vertical—la integral definida nos muestra si el área bajo la curva permanece finita o se escapa hacia el infinito, convirtiendo integrales ordinarias en extraordinarias integrales impropias."*
 >
+
 > [!info]+ Definiciones Fundamentales 📏
 > ### Asíntotas y su Impacto en Integrales
 > Una **asíntota** es una línea recta que una función se aproxima pero nunca toca. En integrales definidas, las asíntotas crean **situaciones especiales** que transforman integrales propias en **integrales impropias**.
@@ -19,6 +20,7 @@
 > ### Transformación a Integral Impropia
 > $$\int_a^b f(x)dx \rightarrow \text{Integral Impropia cuando hay asíntotas en }[a,b]$$
 >
+
 > [!note] Clasificación de Asíntotas en Integrales 📊
 > ```mermaid
 > graph TB
@@ -41,6 +43,7 @@
 >     style M fill:#e0f2f1
 > ```
 >
+
 > [!tip] Asíntotas Verticales en Integrales 🔬
 > ### Caso 1: Asíntota en un Extremo
 > **Si $f(x)$ tiene asíntota vertical en $x = b$:**
@@ -65,6 +68,7 @@
 > ### Caso 3: Múltiples Asíntotas
 > **Si hay asíntotas en varios puntos, cada segmento debe analizarse por separado**
 >
+
 > [!example] Asíntotas Horizontales y Oblicuas 🧮
 > ### Asíntotas Horizontales: $y = L$
 > **Cuando $\lim_{x \to \infty} f(x) = L \neq 0$:**
@@ -145,6 +149,7 @@
 > Aunque ∫₁^∞ sin(x)/x² dx converge, la integral total diverge
 > ```
 >
+
 > [!success] Estrategias de Análisis 🎯
 > ### Metodología de Identificación
 > ```mermaid
@@ -176,6 +181,7 @@
 > 8. **Evaluar límites** cuidadosamente
 > 9. **Verificar resultado** con análisis gráfico si es posible
 >
+
 > [!warning] Errores Comunes y Precauciones ⚠️
 > ### Errores Frecuentes
 > - **🔍 No identificar asíntotas en el interior**: Verificar todo el intervalo [a,b]
@@ -196,6 +202,7 @@
 > - **🔢 Funciones logarítmicas**: Crecimiento lento puede engañar
 > - **💫 Funciones exponenciales**: Crecimiento rápido vs decaimiento
 >
+
 > [!summary]+ Tabla de Referencia Rápida 📋
 > ### Tipos de Asíntotas y Consecuencias
 > | Tipo de Asíntota | Ubicación | Transformación | Análisis Requerido |
@@ -228,6 +235,7 @@
 > **A** - Aproximación gráfica ayuda visualizar
 > **S** - Siempre verificar resultado final
 >
+
 > [!success] Puntos Clave para Recordar 🎯
 > 1. **🔍 Identificación completa**: Buscar todas las asíntotas en [a,b]
 > 2. **⚡ Transformación automática**: Asíntotas → integrales impropias
@@ -255,6 +263,7 @@
 > - [[01 - Límites al Infinito y Sucesiones]]
 > - [[01 - Continuidad y Límites]]
 >
+
 > [!tip] Continuación del Tema
 > - [[Criterios de Convergencia y Divergencia - Integrales Impropias]]
 > - [[01 - Integración Numérica]]

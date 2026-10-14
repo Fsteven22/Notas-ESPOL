@@ -7,6 +7,7 @@
 
 > [!info] 💡 **Concepto Central** Esta nota extiende los métodos básicos de volúmenes de revolución (disco, arandelas, capas cilíndricas) a casos más complejos: revolución alrededor de ejes arbitrarios, integración respecto a y, y situaciones problemáticas que requieren estrategias avanzadas.
 >
+
 > [!warning] 🔗 **Prerrequisito** Esta nota asume familiaridad con los conceptos básicos de [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 06 – Aplicaciones de la Integral/II - Volúmenes/01 - Volúmenes de Sólidos de Revolución\|01 - Volúmenes de Sólidos de Revolución]] - métodos de disco, arandelas y capas cilíndricas alrededor de ejes x e y.
 
 ## 🎯 Revolución Alrededor de Ejes Arbitrarios
@@ -135,6 +136,7 @@
 > 
 > **Revolución alrededor del eje y**: Para $x = f(y)$ en $[c,d]$: $$V = 2\pi \int_c^d y \cdot f(y) , dy$$
 >
+
 > [!tip] 🍩 **Método de Arandelas con dy**
 > 
 > **Entre curvas $x = f(y)$ y $x = g(y)$**: $$V = \pi \int_c^d \left[f(y)^2 - g(y)^2\right] dy$$
@@ -403,7 +405,7 @@
 
 ### 📖 Para Profundizar
 
-- [[Superficies de Revolución]] - Cálculo de áreas de superficie
+- [[03 - Superficies de revolución]] - Cálculo de áreas de superficie
 - [[Teorema de Pappus-Guldinus]] - Métodos alternativos usando centroides
 - [[Coordenadas Cilíndricas]] - Sistemas de coordenadas naturales para sólidos de revolución
 - [[Cálculo Vectorial]] - Extensiones a campos vectoriales
@@ -411,7 +413,7 @@
 ### 🎯 Aplicaciones Especializadas
 
 - [[Centros de Masa de Sólidos]] - Centroides de sólidos de revolución
-- [[Momentos de Inercia]] - Para objetos en rotación
+- [[Momento de Inercia]] - Para objetos en rotación
 - [[Optimización en Ingeniería]] - Diseño óptimo de componentes
 - [[Modelado Matemático]] - Aplicaciones en ciencias e ingeniería
 

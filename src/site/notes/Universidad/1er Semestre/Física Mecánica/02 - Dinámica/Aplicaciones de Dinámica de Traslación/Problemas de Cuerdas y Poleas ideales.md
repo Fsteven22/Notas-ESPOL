@@ -7,6 +7,7 @@
 
 > [!quote] "En los sistemas de partículas conectadas, cada objeto cuenta su propia historia de fuerzas, pero todas convergen en una sinfonía de movimiento coordinado donde la tensión es el director de orquesta." 🎼
 >
+
 > [!info] Los sistemas de partículas conectadas por cuerdas y poleas ideales constituyen algunos de los problemas más elegantes y fundamentales de la mecánica clásica. Estos sistemas nos permiten analizar cómo múltiples objetos interactúan a través de fuerzas de tensión, manteniendo restricciones cinemáticas que los obligan a moverse de manera coordinada. Desde simples máquinas de Atwood hasta complejos sistemas de poleas múltiples, estos problemas integran conceptos de cinemática, dinámica y estática.
 
 ## 🎯 Componentes de los Sistemas
@@ -35,6 +36,7 @@
 > - **Polea móvil**: a_carga = a_polea/2
 > - **Múltiples poleas**: Relaciones geométricas específicas
 >
+
 > [!tip] **Poleas Ideales** ⚙️
 > 
 > ### Características Principales:
@@ -63,6 +65,7 @@
 > - Combina poleas fijas y móviles
 > - Ventaja mecánica = 2ⁿ (n = número de poleas móviles)
 >
+
 > [!warning] **Sistemas de Múltiples Partículas** 🔗
 > 
 > ### Características del Sistema:
@@ -79,6 +82,7 @@
 > 3. **Tensión constante**: En cada segmento de cuerda
 > 4. **Equilibrio de cada masa**: ΣF = ma para cada objeto
 >
+
 > [!success] 🔗 Análisis de Sistemas de Partículas
 > 
 > ```mermaid
@@ -101,6 +105,7 @@
 >     style D fill:#fff3e0
 > ```
 >
+
 > [!note] **Relaciones Cinemáticas Fundamentales** 📐
 > 
 > ### Para Sistema Simple (Máquina de Atwood):
@@ -207,6 +212,7 @@
 > 
 > _Verificación_: T = m₂(g - a) = 5(9.8 - 2.45) = 36.75 N ✓
 >
+
 > [!example] **Problema 2: Sistema con Polea Móvil** 🏗️
 > 
 > ### Enunciado:
@@ -238,6 +244,7 @@
 > 
 > Donde T = F_aplicada = 60 N 2(60) - 100 = 10.2 × a_carga 20 = 10.2 × a_carga a_carga = **1.96 m/s²**
 >
+
 > [!example] **Problema 3: Sistema Mixto (Plano Inclinado + Polea)** 🏔️
 > 
 > ### Enunciado:
@@ -291,6 +298,7 @@
 > [!tip] **Mnemotecnia: "SPLICE"** 🧵 **S**istema identificado **P**oleas analizadas  
 > **L**ongitud de cuerda conservada **I**ndividuos con DCL **C**oordenadas consistentes **E**cuaciones resueltas
 >
+
 > [!tip] **Regla de Tensiones: "La Cadena de la Verdad"** ⛓️
 > 
 > - **Una cuerda = Una tensión** en toda su longitud
