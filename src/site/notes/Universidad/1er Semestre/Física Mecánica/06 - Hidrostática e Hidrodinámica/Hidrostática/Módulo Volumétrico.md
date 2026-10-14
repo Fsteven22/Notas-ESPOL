@@ -7,6 +7,7 @@
 
 >[!quote] _"Los fluidos, como todo en la naturaleza, responden a las fuerzas aplicadas. El módulo de compresibilidad nos revela cuán resistente es un material a cambiar su volumen bajo presión, una propiedad fundamental que gobierna desde el comportamiento del agua en las profundidades oceánicas hasta el diseño de sistemas hidráulicos industriales."_
 >
+
 > [!info]+ Definición Fundamental 📏 El **módulo de compresibilidad** (K) o **módulo volumétrico** es una propiedad elástica que mide la **resistencia de un material a cambios de volumen** cuando se le aplica una presión uniforme. Se define como la relación entre el esfuerzo volumétrico aplicado y la deformación volumétrica resultante.
 > 
 > **Fórmula:** K = -ΔP / (ΔV/V₀)
@@ -18,6 +19,7 @@
 > - ΔV = Cambio de volumen
 > - V₀ = Volumen original
 >
+
 > [!note] Fundamento Teórico ⚖️
 > 
 > ### Base Física
@@ -44,6 +46,7 @@
 >     style F fill:#f3e5f5
 > ```
 >
+
 > [!tip] Tipos de Módulo de Compresibilidad 🔬
 > 
 > ### Módulo Isotérmico (K_T)
@@ -67,6 +70,7 @@
 > - **K_S > K_T** (el módulo adiabático siempre es mayor)
 > - **K_S/K_T = γ** (relación de calores específicos)
 >
+
 > [!example] Valores Típicos y Aplicaciones 🏗️
 > 
 > ### Módulos de Compresibilidad Comunes
@@ -132,6 +136,7 @@
 > v = √(K/ρ) = √(2.2×10⁹ Pa / 1000 kg/m³) = √(2.2×10⁶) ≈ 1483 m/s
 > ```
 >
+
 > [!warning] Limitaciones y Consideraciones ⚠️
 > 
 > ### Limitaciones del Concepto
@@ -148,6 +153,7 @@
 > - **🧪 Composición**: Impurezas y aleaciones modifican significativamente K
 > - **⚗️ Estado físico**: Sólido, líquido o gas tienen comportamientos muy diferentes
 >
+
 > [!summary]+ Fórmulas y Relaciones Clave 📊
 > 
 > ### Fórmulas Fundamentales
@@ -169,6 +175,7 @@
 >
 > [!brain]+ Técnica de Memorización: COMPRESS 🧠 **C** - Compresibilidad inversa del módulo **O** - Opuesto al cambio volumétrico **M** - Mayor módulo, menor compresión **P** - Presión causa la deformación **R** - Resistencia al cambio de volumen **E** - Elasticidad volumétrica fundamental **S** - Sonido viaja más rápido en materiales rígidos **S** - Signo negativo por convención física
 >
+
 > [!success] Puntos Clave para Recordar 🎯
 > 
 > 1. **📐 Definición inversa**: K = 1/β (compresibilidad)
@@ -197,10 +204,11 @@
 > - [[Elasticidad]]
 > - [[Trabajo y Energía]]
 >
+
 > [!tip] Continuación del Tema
 > 
 > - [[Viscosidad y Número de Reynolds]]
-> - [[El Principio de Arquímedes y Flotación 1]]
+> - [[El Principio de Arquímedes y Flotación]]
 > - [[Flujo Laminar y Ecuación de Poiseuille]]
 
 ---

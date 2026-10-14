@@ -7,6 +7,7 @@
 
 > [!quote] "La incertidumbre no es ignorancia, sino conocimiento preciso de lo que no podemos conocer con exactitud." 🔍
 >
+
 > [!info] Las incertidumbres experimentales describen el rango de valores dentro del cual esperamos que se encuentre el valor verdadero de una magnitud. Cuando combinamos mediciones para calcular resultados indirectos, las incertidumbres se propagan siguiendo reglas matemáticas específicas que nos permiten estimar la confiabilidad del resultado final.
 
 ## 🔧 Conceptos Fundamentales
@@ -29,6 +30,7 @@
 > - **Nivel de confianza**: Generalmente 68% (1σ) o 95% (2σ)
 > - **Distribución**: Asumimos distribución normal para la mayoría de casos
 >
+
 > [!tip] **Fuentes de Incertidumbre** 🌊
 > 
 > ### Instrumentales:
@@ -63,6 +65,7 @@
 > - **Deformación**: En mediciones de sólidos
 > - **Fricción**: En experimentos de mecánica
 >
+
 > [!warning] **Propagación de Incertidumbres** ⚡
 > 
 > ### Reglas Fundamentales:
@@ -102,6 +105,7 @@
 > |z = √x|u_z = u_x/(2√x)|Reduce incertidumbre relativa|
 > |z = ln(x)|u_z = u_x/x|Incertidumbre relativa se conserva|
 >
+
 > [!success] 🔗 Proceso de Análisis de Incertidumbres
 > 
 > ```mermaid
@@ -121,6 +125,7 @@
 >     style G fill:#e0f2f1
 > ```
 >
+
 > [!note] **Método de Derivadas Parciales** 📝
 > 
 > ### Fundamento Matemático:
@@ -217,6 +222,7 @@
 > 
 > **v = (8.00 ± 0.13) m/s** con incertidumbre relativa de 1.6%
 >
+
 > [!example] **Ejemplo 2: Área de un Círculo** 🔵
 > 
 > ### Situación:
@@ -249,6 +255,7 @@
 > 
 > **A = (86.3 ± 1.6) cm²** con incertidumbre relativa de 1.9%
 >
+
 > [!example] **Ejemplo 3: Densidad (Función Compuesta)** ⚖️
 > 
 > ### Situación:
@@ -292,6 +299,7 @@
 > 
 > **S**uma cuadrática para suma/resta **U**sa relativas para producto/división **M**ultiplica por |n| para potencias **A**plica derivadas para funciones complejas **R**edondea apropiadamente el resultado
 >
+
 > [!tip] **Reglas Rápidas de Propagación** 📏
 > 
 > ### Jerarquía de Operaciones:
@@ -424,6 +432,7 @@
 > - **Cálculo diferencial**: Derivadas parciales básicas
 > - **Álgebra**: Operaciones con radicales
 >
+
 > [!note] **Temas Siguientes**
 > 
 > - [[Derivadas Parciales]] - Matemáticas para propagación

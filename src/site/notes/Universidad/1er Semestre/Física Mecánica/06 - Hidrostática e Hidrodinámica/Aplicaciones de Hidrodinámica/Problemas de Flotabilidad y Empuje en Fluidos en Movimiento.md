@@ -7,6 +7,7 @@
 
 > [!quote] "Cuando los fluidos se mueven, la flotabilidad no solo eleva, sino que también arrastra, creando una danza compleja de fuerzas donde Arquímedes se encuentra con la dinámica de fluidos." ⛵
 >
+
 > [!info] La flotabilidad en fluidos en movimiento combina el principio de Arquímedes con efectos dinámicos como resistencia al avance, fuerzas de corriente y velocidades relativas. Es fundamental para entender el comportamiento de barcos, submarinos, sedimentación de partículas y transporte en ríos.
 
 ## 🔧 Conceptos Fundamentales
@@ -33,6 +34,7 @@
 > |Coeficiente de arrastre|C_d|Forma del objeto|adimensional|
 > |Área frontal|A|Perpendicular al flujo|m²|
 >
+
 > [!tip] **Velocidades Relativas** 🌊
 > 
 > ### Casos Fundamentales:
@@ -57,6 +59,7 @@
 > |Contra corriente|v_obj + v_fluido|Mayor|
 > |Perpendicular|√(v_obj² + v_fluido²)|Intermedia|
 >
+
 > [!warning] **Coeficientes de Resistencia** ⚡
 > 
 > ### Formas Comunes:
@@ -75,6 +78,7 @@
 > - **1 < Re < 10⁴**: Transición compleja
 > - **Re > 10⁴**: C_d aproximadamente constante
 >
+
 > [!success] 🔗 Equilibrio Dinámico en Flujo
 > 
 > ```mermaid
@@ -98,6 +102,7 @@
 >     style I fill:#fce4ec
 > ```
 >
+
 > [!note] **Ecuaciones de Equilibrio** 📐
 > 
 > ### Equilibrio Vertical (Flotación):
@@ -187,6 +192,7 @@
 > 
 > **Observación**: Esta es una potencia considerable, equivalente a ~930 HP, típica de embarcaciones rápidas.
 >
+
 > [!example] **Problema 2: Sedimentación de Partícula en Corriente** 🌊
 > 
 > ### Enunciado:
@@ -231,6 +237,7 @@
 > 
 > **Trayectoria**: La partícula cae con velocidad constante mientras es arrastrada horizontalmente.
 >
+
 > [!example] **Problema 3: Submarino en Inmersión** 🚤
 > 
 > ### Enunciado:
@@ -288,6 +295,7 @@
 > 
 > **F**uerza de empuje = ρ_fluido × V × g (siempre hacia arriba) **L**a resistencia se opone al movimiento **relativo** **O**bjeto flota si ρ_objeto < ρ_fluido **T**erminal velocity cuando fuerzas se equilibran **A**rrastre ∝ velocidad² (régimen turbulento)
 >
+
 > [!tip] **Regla de las Velocidades Relativas** 🌊
 > 
 > - **Con la corriente**: Menor resistencia, mayor eficiencia
@@ -364,6 +372,7 @@
 > - Coeficientes de resistencia al flujo
 > - Equilibrio de fuerzas en sistemas dinámicos
 >
+
 > [!note] **Temas Avanzados**
 > 
 > - **Hidrodinámica naval**: Diseño de embarcaciones

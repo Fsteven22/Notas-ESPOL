@@ -7,6 +7,7 @@
 
 > [!quote] "Los datos son el nuevo petróleo, pero solo cuando sabemos refinarlos y extraer su valor real." 🛢️
 >
+
 > [!info] La manipulación de datos es una habilidad fundamental en el análisis de información moderna. En la era del Big Data, la capacidad de filtrar, agregar, transformar y visualizar datos determina la calidad de nuestras decisiones. Pandas, la biblioteca más poderosa de Python para análisis de datos, nos proporciona herramientas intuitivas y eficientes para convertir datos crudos en insights accionables. Este módulo te enseñará las técnicas esenciales de manipulación de datos usando el dataset de vuelos como caso de estudio práctico.
 
 ## Conceptos Fundamentales
@@ -42,6 +43,7 @@
 > |month|object|Mes abreviado (Jan, Feb, etc.)|
 > |passengers|int64|Miles de pasajeros transportados|
 >
+
 > [!tip] **Operadores Lógicos para Filtrado** 🔍
 > 
 > Los operadores lógicos son la base del filtrado inteligente en Pandas. Permiten crear condiciones complejas para extraer subconjuntos específicos de datos.
@@ -73,6 +75,7 @@
 > df[~(df['columna'] == valor)]
 > ```
 >
+
 > [!warning] **Sustitución Condicional: .where() vs .mask()** 🔄
 > 
 > Estos métodos permiten reemplazar valores basados en condiciones lógicas sin eliminar filas del DataFrame.
@@ -104,6 +107,7 @@
 > - Sin `other`, los valores reemplazados se vuelven NaN
 > - Útil para categorización y limpieza de datos
 >
+
 > [!info] **Estadísticas Descriptivas Esenciales** 📈
 > 
 > Las estadísticas descriptivas proporcionan un resumen cuantitativo completo de nuestros datos, revelando patrones, tendencias y anomalías.
@@ -171,6 +175,7 @@
 > # 6. Aplicar: Usar para análisis estacional
 > ```
 >
+
 > [!tip] **Método AGRUPA para GroupBy Efectivo** 🎲
 > 
 > **A**nalizar objetivo de agrupación **G**rupar por categoría relevante **R**evisar grupos formados **U**sar función de agregación apropiada **P**rocesar resultados (ordenar/formatear) **A**nalizar e interpretar patrones
@@ -239,6 +244,7 @@
 > 
 > **Insight:** Los julios recientes muestran el impacto del crecimiento del tráfico aéreo en el período de post-guerra.
 >
+
 > [!example] **Ejemplo 2: GroupBy para Análisis Temporal y Estacional** 📅
 > 
 > **Objetivo:** Analizar la evolución anual y los patrones estacionales del tráfico aéreo.
@@ -291,6 +297,7 @@
 > - Estacionalidad clara con picos en verano
 > - Patrones consistentes a lo largo del período
 >
+
 > [!example] **Ejemplo 3: Visualización Integrada con Análisis** 📊
 > 
 > **Objetivo:** Crear visualizaciones que complementen el análisis de datos para identificar tendencias y patrones.
@@ -451,6 +458,7 @@
 > 
 > **Frase Nemotécnica:** _"Para Analizar Necesito Datos Agregados Sistemáticamente"_
 >
+
 > [!tip] **Acrónimos para Operadores Lógicos: "YON"** 🎯
 > 
 > **Y** → & (AND) - **Y**a que ambas condiciones deben cumplirse **O** → | (OR) - **O**tra opción es que una condición se cumpla  
@@ -643,6 +651,7 @@
 > - Concepto de variabilidad y dispersión
 > - Lectura básica de gráficos estadísticos
 >
+
 > [!note] **Temas Avanzados**
 > 
 > **Próximos Pasos en Manipulación de Datos:**

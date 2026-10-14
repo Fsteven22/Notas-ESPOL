@@ -7,6 +7,7 @@
 
 > [!quote] "La viscosidad es la resistencia silenciosa que gobierna el mundo real; sin ella, Bernoulli sería rey, pero con ella, Poiseuille revela la verdad del flujo." 🌊
 >
+
 > [!info] El flujo con viscosidad introduce efectos de fricción que Bernoulli no considera. La ecuación de Poiseuille describe el flujo laminar viscoso en tuberías, fundamental para entender desde la circulación sanguínea hasta el transporte de petróleo en oleoductos.
 
 ## 🔧 Conceptos Fundamentales
@@ -38,6 +39,7 @@
 > - **Flujo turbulento**: Perfil más plano
 > - **Velocidad máxima**: En el centro del tubo
 >
+
 > [!tip] **Ecuación de Poiseuille** 🧪
 > 
 > ### Para Tubo Circular:
@@ -61,6 +63,7 @@
 > - **μ**: Viscosidad dinámica [Pa·s]
 > - **L**: Longitud del tubo [m]
 >
+
 > [!warning] **Número de Reynolds** ⚡
 > 
 > ### Definición:
@@ -81,6 +84,7 @@
 > |Transición|Inestable, variable|Variable|
 > |Turbulento|Caótico, mezclado|∝ v²|
 >
+
 > [!success] 🔗 Resistencia Hidráulica
 > 
 > ```mermaid
@@ -100,6 +104,7 @@
 >     style G fill:#fce4ec
 > ```
 >
+
 > [!note] **Analogía con Circuitos Eléctricos** ⚡
 > 
 > ### Resistencia Hidráulica:
@@ -194,6 +199,7 @@
 > 
 > La aplicación de Poiseuille es válida.
 >
+
 > [!example] **Problema 2: Sistema de Tuberías en Serie** 🔗
 > 
 > ### Enunciado:
@@ -229,6 +235,7 @@
 > 
 > **Observación**: La tubería más estrecha (menor D) tiene mayor resistencia y mayor caída de presión.
 >
+
 > [!example] **Problema 3: Flujo Sanguíneo (Aplicación Biomédica)** ❤️
 > 
 > ### Enunciado:
@@ -279,6 +286,7 @@
 > 
 > **R**⁴ en el numerador → **R**adio a la cuarta potencia es clave **A**umento de radio → **D**ismunuye resistencia enormemente **D**iámetro doble → resistencia 1/16 (porque R⁴) **I**nverso de viscosidad → más viscoso, menos caudal **O**hm hidráulico → ΔP = R × Q
 >
+
 > [!tip] **Regla del Radio** 📏
 > 
 > **"El radio gobierna"**: Si R se duplica, Q aumenta 16 veces
@@ -344,7 +352,7 @@
 > - [[Viscosidad y Número de Reynolds]] - Caracterización del flujo
 > - [[Flujo Laminar y Ecuación de Poiseuille]] - Teoría fundamental
 > - [[Problemas de Ecuación de Continuidad]] - Conservación de masa
-> - **Próximo tema**: [[Problemas de Flotabilidad en Fluidos en Movimiento]]
+> - **Próximo tema**: [[Problemas de Flotabilidad y Empuje en Fluidos en Movimiento]]
 
 ## 📚 Notas Recomendadas
 
@@ -360,6 +368,7 @@
 > - Perfiles de velocidad en flujo laminar
 > - Analogías con circuitos eléctricos
 >
+
 > [!note] **Temas Avanzados**
 > 
 > - **Flujo no newtoniano**: Fluidos complejos

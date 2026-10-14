@@ -80,13 +80,12 @@
 > 
 > **Comprehension Questions:**
 > 
-> ```
-> 1. What was Sarah's main goal three years ago?
+> > 1. What was Sarah's main goal three years ago?
 > 2. What challenges did she face?
 > 3. What was her turning point?
 > 4. What advice would she give to her younger self?
 > 5. How does she view obstacles now?
-> ```
+> 
 > 
 > > [!success]- ✅ Answer Key
 > > 
@@ -100,14 +99,14 @@
 > 
 > Find these phrases in the text and understand their meaning:
 > 
-> ```
-> ✅ refused to give up = decided firmly not to quit
+> > ✅ refused to give up = decided firmly not to quit
 > ✅ pushing myself = making strong effort
 > ✅ set up a plan = created/established a plan
 > ✅ turning point = moment when everything changed
 > ✅ pay off = produce good results
-> ```
+> 
 >
+
 > [!tip] 📚 Reading Text 2: "The Risk That Changed My Life"
 > 
 > **Pre-reading task:**
@@ -137,23 +136,21 @@
 > 
 > **Discussion Questions:**
 > 
-> ```
-> 1. Why did Marcus decide to quit his job?
+> > 1. Why did Marcus decide to quit his job?
 > 2. What made the decision difficult?
 > 3. What challenges did he face in the first year?
 > 4. What important lesson did he learn?
 > 5. Do you agree with his final advice? Why or why not?
-> ```
+> 
 > 
 > **Grammar Focus - Find examples:**
 > 
-> ```
-> Find in the text:
+> > Find in the text:
 > ✅ 2 examples of Second Conditional
 > ✅ 2 examples of "I wish" sentences
 > ✅ 3 phrasal verbs
 > ✅ Vocabulary about risks and opportunities
-> ```
+> 
 > 
 > > [!success]- ✅ Grammar Examples Found
 > > 
@@ -178,6 +175,7 @@
 > > 
 > > - take that risk, pursue, disadvantages, guarantee,Options, rewards, chance
 >
+
 > [!example] 📰 Reading Text 3: "Small Steps, Big Results"
 > 
 > ### Small Steps, Big Results
@@ -202,8 +200,7 @@
 > 
 > **Reading Comprehension:**
 > 
-> ```
-> 6. What's the main idea of this text?
+> > 6. What's the main idea of this text?
 >    a) Big goals are impossible
 >    b) Small consistent efforts lead to big results
 >    c) You should never push yourself hard
@@ -216,7 +213,7 @@
 > 9. What question should you ask yourself when working on big goals?
 > 
 > 10. Do you agree with this approach? Why or why not?
-> ```
+> 
 > 
 > > [!success]- ✅ Answer Key
 > > 
@@ -245,8 +242,7 @@
 > 
 > **Essay Structure:**
 > 
-> ```
-> PARAGRAPH 1 - Introduction (40-50 words)
+> > PARAGRAPH 1 - Introduction (40-50 words)
 > • What was the situation/goal?
 > • Why was it challenging?
 > • How did you feel at the beginning?
@@ -262,12 +258,11 @@
 > • What did you learn?
 > • How did this experience change you?
 > • What advice would you give someone in a similar situation?
-> ```
+> 
 > 
 > **Useful phrases for your essay:**
 > 
-> ```
-> BEGINNING:
+> > BEGINNING:
 > ✅ Last year, I was working on...
 > ✅ I decided to push myself to...
 > ✅ I set up a goal to...
@@ -286,18 +281,18 @@
 > ✅ If I were to give advice, I would say...
 > ✅ I'm proud that I didn't give up...
 > ✅ The effort was worth it because...
-> ```
+> 
 > 
 > **Checklist before submitting:**
 > 
-> ```
-> ✅ Did I use at least 3 phrasal verbs?
+> > ✅ Did I use at least 3 phrasal verbs?
 > ✅ Did I include at least 1 second conditional?
 > ✅ Did I use Unit 11 vocabulary (goal, challenge, achieve, etc.)?
 > ✅ Is my essay well-organized with clear paragraphs?
 > ✅ Did I check for grammar and spelling errors?
-> ```
+> 
 >
+
 > [!success] ✅ Sample Essay (Model Answer)
 > 
 > ### Learning to Speak in Public
@@ -316,6 +311,7 @@
 > 
 > ✅ Clear structure (intro, challenge, result) ✅ Phrasal verbs: set up, give up, kept going, worked on, found out ✅ Second conditional: "if I gave up, I would never improve" ✅ Unit 11 vocabulary: goal, challenging, overcome, obstacles, confidence, achieve ✅ Personal and authentic ✅ Good conclusion with advice
 >
+
 > [!tip] 📝 Writing Task 2: Goal-Setting Paragraph
 > 
 > **Topic:** Describe a goal you're currently working on
@@ -328,18 +324,16 @@
 > 
 > **Paragraph Structure:**
 > 
-> ```
-> 1. State your goal clearly (1-2 sentences)
+> > 1. State your goal clearly (1-2 sentences)
 > 2. Explain why this goal is important (2-3 sentences)
 > 3. Describe what you're doing to achieve it (3-4 sentences)
 > 4. Mention challenges and how you're dealing with them (2-3 sentences)
 > 5. End with your commitment/determination (1-2 sentences)
-> ```
+> 
 > 
 > **Sentence starters:**
 > 
-> ```
-> ✅ I'm currently pushing myself to...
+> > ✅ I'm currently pushing myself to...
 > ✅ My main goal is to...
 > ✅ This is important to me because...
 > ✅ I'm working on this by...
@@ -348,12 +342,11 @@
 > ✅ When I feel like giving up, I...
 > ✅ I'm determined to...
 > ✅ I won't give up because...
-> ```
+> 
 > 
 > **Example paragraph:**
 > 
-> ```
-> I'm currently pushing myself to become fluent in English by 
+> > I'm currently pushing myself to become fluent in English by 
 > the end of this year. This goal is important to me because 
 > I want to study abroad and need to pass the TOEFL exam. 
 > I'm working on this by studying for at least one hour every 
@@ -364,12 +357,11 @@
 > giving up, I remind myself of my dream to study in the US. 
 > I'm determined to achieve this goal, and I won't let 
 > temporary difficulties stop me.
-> ```
+> 
 > 
 > **Your turn! Write your own paragraph here:**
 > 
-> ```
-> [Space for student writing]
+> > [Space for student writing]
 > 
 > 
 > 
@@ -377,8 +369,9 @@
 > 
 > 
 > 
-> ```
+> 
 >
+
 > [!example] 📝 Writing Task 3: Advice Letter
 > 
 > **Situation:** Your friend sent you this message:
@@ -389,18 +382,16 @@
 > 
 > **Your letter should include:**
 > 
-> ```
-> ✅ Acknowledge their feelings
+> > ✅ Acknowledge their feelings
 > ✅ Give specific advice (use "if I were you" and "you should")
 > ✅ Share a relevant example or story
 > ✅ Encourage them not to give up
 > ✅ End positively
-> ```
+> 
 > 
 > **Useful language:**
 > 
-> ```
-> ACKNOWLEDGING FEELINGS:
+> > ACKNOWLEDGING FEELINGS:
 > ✅ I understand how you feel...
 > ✅ I know this is difficult...
 > ✅ It's normal to feel this way...
@@ -417,12 +408,11 @@
 > ✅ I believe in you
 > ✅ You can do this
 > ✅ Keep pushing yourself
-> ```
+> 
 > 
 > **Sample letter:**
 > 
-> ```
-> Hey!
+> > Hey!
 > 
 > I understand how you feel—starting a business is scary! But 
 > please don't give up on your dream just because it's hard. 
@@ -448,7 +438,7 @@
 > believe in you!
 > 
 > Your friend
-> ```
+> 
 
 ---
 
@@ -460,8 +450,7 @@
 > 
 > **Structure:**
 > 
-> ```
-> INTRODUCTION (30 seconds)
+> > INTRODUCTION (30 seconds)
 > • Greet your audience
 > • State your main goal
 > • Say why you chose this topic
@@ -477,12 +466,11 @@
 > • Summarize your commitment
 > • End with an inspiring thought
 > • Thank your audience
-> ```
+> 
 > 
 > **Preparation outline:**
 > 
-> ```
-> 1. My goal is: _________________________________
+> > 1. My goal is: _________________________________
 > 
 > 2. This is important because: _________________________________
 > 
@@ -493,12 +481,11 @@
 > 5. I stay motivated by: _________________________________
 > 
 > 6. I will never give up because: _________________________________
-> ```
+> 
 > 
 > **Useful phrases for your presentation:**
 > 
-> ```
-> OPENING:
+> > OPENING:
 > ✅ Hello everyone, today I'd like to talk about...
 > ✅ I'm going to share my experience with...
 > ✅ I want to tell you about a goal I'm pushing myself to achieve
@@ -514,27 +501,26 @@
 > ✅ In conclusion, I'm determined to...
 > ✅ I believe that if you don't give up, you can...
 > ✅ Thank you for listening
-> ```
+> 
 > 
 > **Self-assessment after presenting:**
 > 
-> ```
-> ✅ Did I speak for 2-3 minutes?
+> > ✅ Did I speak for 2-3 minutes?
 > ✅ Did I use phrasal verbs naturally?
 > ✅ Did I use vocabulary from Unit 11?
 > ✅ Was my pronunciation clear?
 > ✅ Did I make eye contact?
 > ✅ Did I speak confidently?
-> ```
+> 
 >
+
 > [!success] 🎤 Speaking Activity 2: Paired Discussion
 > 
 > **Task:** Discuss these questions with a partner (15-20 minutes total)
 > 
 > **Discussion Questions:**
 > 
-> ```
-> PART 1 - Goals & Motivation (5 minutes)
+> > PART 1 - Goals & Motivation (5 minutes)
 > 
 > 1. What's a goal you're currently working on?
 > 2. What motivates you to keep pushing yourself?
@@ -561,12 +547,11 @@
 > 13. What have you learned about yourself while pushing yourself?
 > 14. How has pushing yourself changed you as a person?
 > 15. What advice would you give to your younger self?
-> ```
+> 
 > 
 > **Discussion tips:**
 > 
-> ```
-> DO:
+> > DO:
 > ✅ Ask follow-up questions
 > ✅ Share personal examples
 > ✅ Use Unit 11 vocabulary
@@ -578,24 +563,23 @@
 > ❌ Interrupt your partner
 > ❌ Speak only in your native language
 > ❌ Stay silent
-> ```
+> 
 > 
 > **Useful follow-up questions:**
 > 
-> ```
-> ✅ Can you tell me more about that?
+> > ✅ Can you tell me more about that?
 > ✅ How did that make you feel?
 > ✅ What did you learn from that experience?
 > ✅ What would you do differently now?
 > ✅ That's interesting! Why do you think that?
-> ```
+> 
 >
+
 > [!tip] 🎤 Speaking Activity 3: Role-Play Scenarios
 > 
 > **Scenario 1: The Motivational Coach**
 > 
-> ```
-> STUDENT A: You're a life coach
+> > STUDENT A: You're a life coach
 > STUDENT B: You're feeling discouraged about your goals
 > 
 > SITUATION:
@@ -616,12 +600,11 @@
 > • Explain challenges
 > • Ask for advice
 > • Respond to suggestions
-> ```
+> 
 > 
 > **Scenario 2: The Big Decision**
 > 
-> ```
-> STUDENT A: Considering taking a big risk (career change, 
+> > STUDENT A: Considering taking a big risk (career change, 
 >            moving abroad, starting business)
 > STUDENT B: A supportive friend helping them think it through
 > 
@@ -643,12 +626,11 @@
 > • Help weigh risks vs rewards
 > • Use conditionals to explore options
 > • Support their friend's decision
-> ```
+> 
 > 
 > **Scenario 3: The Success Interview**
 > 
-> ```
-> STUDENT A: A journalist
+> > STUDENT A: A journalist
 > STUDENT B: Someone who achieved a difficult goal
 > 
 > SITUATION:
@@ -668,8 +650,9 @@
 > • Use past tense and present perfect
 > • Share lessons learned
 > • Give practical advice
-> ```
+> 
 >
+
 > [!example] 🎤 Speaking Activity 4: Debate
 > 
 > **Motion:** "Taking big risks is necessary for success"
@@ -681,8 +664,7 @@
 > 
 > **Structure:**
 > 
-> ```
-> ROUND 1 - Opening Statements (2 min each team)
+> > ROUND 1 - Opening Statements (2 min each team)
 > • Present your main argument
 > • Give 2-3 supporting points
 > 
@@ -694,12 +676,11 @@
 > ROUND 3 - Closing Statements (1 min each team)
 > • Summarize your position
 > • Make final persuasive points
-> ```
+> 
 > 
 > **Arguments FOR taking big risks:**
 > 
-> ```
-> ✅ Great achievements require bold actions
+> > ✅ Great achievements require bold actions
 > ✅ Playing it safe limits opportunities
 > ✅ You learn more from taking risks
 > ✅ The biggest regrets come from not trying
@@ -707,12 +688,11 @@
 > 
 > "If everyone played it safe, we wouldn't have innovation"
 > "If you never take risks, you'll never know your potential"
-> ```
+> 
 > 
 > **Arguments AGAINST taking big risks:**
 > 
-> ```
-> ✅ Small, consistent steps lead to sustainable success
+> > ✅ Small, consistent steps lead to sustainable success
 > ✅ Big risks can lead to big failures
 > ✅ Not everyone needs to take huge risks to succeed
 > ✅ Calculated, smaller risks are smarter
@@ -720,12 +700,11 @@
 > 
 > "If you take too many big risks, you might lose everything"
 > "Success comes from discipline, not just risk-taking"
-> ```
+> 
 > 
 > **Useful debate language:**
 > 
-> ```
-> AGREEING:
+> > AGREEING:
 > ✅ I completely agree that...
 > ✅ That's a valid point...
 > ✅ You're right about...
@@ -740,7 +719,7 @@
 > ✅ Research shows that...
 > ✅ For example...
 > ✅ Consider the fact that...
-> ```
+> 
 
 ---
 
@@ -752,8 +731,7 @@
 > 
 > **Your script should include:**
 > 
-> ```
-> 1. HOOK (5-10 seconds)
+> > 1. HOOK (5-10 seconds)
 >    Start with a powerful question or statement
 >    
 > 2. PROBLEM (15-20 seconds)
@@ -764,12 +742,11 @@
 >    
 > 4. CALL TO ACTION (10-15 seconds)
 >    End with inspiring words
-> ```
+> 
 > 
 > **Sample Script:**
 > 
-> ```
-> [HOOK]
+> > [HOOK]
 > "Are you thinking about giving up on your dreams?"
 > 
 > [PROBLEM]
@@ -789,17 +766,16 @@
 > [CALL TO ACTION]
 > "So don't give up now. Keep pushing. Keep going. Your future 
 > self will thank you. You've got this!"
-> ```
+> 
 > 
 > **Now write YOUR script:**
-> > ```
-> [Write your script here]
+> > > [Write your script here]
 > 
 > 
 > 
 > 
 > 
-> ```
+> 
 > 
 > **Extra challenge:** Record yourself reading the script and share with classmates!
 
@@ -809,8 +785,7 @@
 > 
 > **Workshop outline (present this to a partner or small group):**
 > 
-> ```
-> PART 1: IDENTIFY YOUR GOAL (5 minutes)
+> > PART 1: IDENTIFY YOUR GOAL (5 minutes)
 > 
 > Ask your participant:
 > • What do you want to achieve in the next 3-6 months?
@@ -858,12 +833,11 @@
 > Have them say out loud:
 > "I'm committed to [goal]. I won't give up because [reason]. 
 > Even when it's hard, I will keep going because [motivation]."
-> ```
+> 
 > 
 > **Your role as workshop leader:**
 > 
-> ```
-> DO:
+> > DO:
 > ✅ Ask good questions
 > ✅ Listen actively
 > ✅ Encourage and motivate
@@ -876,7 +850,7 @@
 > ✅ "What would you do if...?"
 > ✅ "I believe you can do this"
 > ✅ "Let's work on making this specific"
-> ```
+> 
 
 > [!tip] 🌟 Real-World Task 3: Success Story Podcast
 > 
@@ -886,8 +860,7 @@
 > 
 > **Episode structure (10-15 minutes):**
 > 
-> ```
-> INTRODUCTION (1-2 minutes)
+> > INTRODUCTION (1-2 minutes)
 > Host introduces guest and topic
 > "Welcome to 'Push Yourself' podcast. Today we're talking with 
 > [name] about [their achievement]..."
@@ -922,12 +895,11 @@
 > 
 > CLOSING (1 minute)
 > Host summarizes and thanks guest
-> ```
+> 
 > 
 > **Host's question bank:**
 > 
-> ```
-> OPENING QUESTIONS:
+> > OPENING QUESTIONS:
 > ✅ What inspired you to...?
 > ✅ When did you first realize...?
 > ✅ How did you feel when...?
@@ -946,12 +918,11 @@
 > ✅ If someone is facing a similar challenge, what would you say?
 > ✅ What's the most important lesson you learned?
 > ✅ If you could give one piece of advice...?
-> ```
+> 
 > 
 > **Guest's preparation:**
 > 
-> ```
-> Prepare to talk about:
+> > Prepare to talk about:
 > 1. A real goal you achieved (or are working on)
 > 2. Specific challenges you faced
 > 3. Moments of doubt or difficulty
@@ -960,7 +931,7 @@
 > 6. Advice for others
 > 
 > Use authentic language from Unit 11!
-> ```
+> 
 
 ---
 
@@ -985,27 +956,24 @@
 > 
 > **Areas to improve:**
 > 
-> ```
-> 1. _________________________________
+> > 1. _________________________________
 > 2. _________________________________
 > 3. _________________________________
-> ```
+> 
 > 
 > **Action plan:**
 > 
-> ```
-> This week I will:
+> > This week I will:
 > ✅ _________________________________
 > ✅ _________________________________
 > ✅ _________________________________
-> ```
+> 
 
 > [!success] 💭 Reflection Questions
 > 
 > **Answer these questions to reflect on your learning:**
 > 
-> ```
-> 4. What was the most useful thing you learned in Unit 11?
+> > 4. What was the most useful thing you learned in Unit 11?
 > 
 > 
 > 5. Which activity was most challenging? Why?
@@ -1031,7 +999,7 @@
 > 11. How has learning this unit helped you think about 
 >    pushing yourself?
 > 
-> ```
+> 
 
 ---
 
@@ -1041,8 +1009,7 @@
 > 
 > **Books to explore:**
 > 
-> ```
-> ✅ "Atomic Habits" by James Clear
+> > ✅ "Atomic Habits" by James Clear
 >    → About building good habits through small steps
 > 
 > ✅ "Mindset" by Carol Dweck
@@ -1053,12 +1020,11 @@
 > 
 > ✅ "The Obstacle Is the Way" by Ryan Holiday
 >    → About turning challenges into opportunities
-> ```
+> 
 > 
 > **Online resources:**
 > 
-> ```
-> ✅ TED Talks on motivation and success
+> > ✅ TED Talks on motivation and success
 >    Search: "Angela Duckworth Grit", "Carol Dweck Growth Mindset"
 > 
 > ✅ Motivational podcasts
@@ -1066,23 +1032,21 @@
 > 
 > ✅ Articles on goal-setting
 >    Harvard Business Review, Psychology Today
-> ```
+> 
 > 
 > **Practice activities:**
 > 
-> ```
-> ✅ Keep a "progress journal" in English
+> > ✅ Keep a "progress journal" in English
 > ✅ Watch motivational videos and summarize them
 > ✅ Interview someone about their success story
 > ✅ Write weekly reflections on your goals
-> ```
+> 
 
 > [!example] 🎬 Video & Media Recommendations
 > 
 > **TED Talks to watch:**
 > 
-> ```
-> 1. "The Power of Believing You Can Improve" - Carol Dweck
+> > 1. "The Power of Believing You Can Improve" - Carol Dweck
 >    Focus: Growth mindset, learning from failure
 > 
 > 2. "Grit: The Power of Passion and Perseverance" - Angela Duckworth
@@ -1090,24 +1054,22 @@
 > 
 > 3. "Why We Do What We Do" - Tony Robbins
 >    Focus: Motivation and achieving goals
-> ```
+> 
 > 
 > **YouTube channels:**
 > 
-> ```
-> ✅ Matt D'Avella - Minimalism and self-improvement
+> > ✅ Matt D'Avella - Minimalism and self-improvement
 > ✅ Thomas Frank - Productivity and goal-achievement
 > ✅ Ali Abdaal - Study tips and life optimization
-> ```
+> 
 > 
 > **After watching, practice by:**
 > 
-> ```
-> ✅ Summarizing the main points
+> > ✅ Summarizing the main points
 > ✅ Discussing with a partner
 > ✅ Writing your reaction
 > ✅ Applying ideas to your own goals
-> ```
+> 
 
 ---
 
@@ -1151,8 +1113,7 @@ mindmap
 > 
 > **Create a personal portfolio showcasing everything you've learned:**
 > 
-> ```
-> COMPONENT 1: Written Reflection (300 words)
+> > COMPONENT 1: Written Reflection (300 words)
 > Write about how Unit 11 has influenced your thinking about 
 > goals and pushing yourself
 > 
@@ -1175,18 +1136,17 @@ mindmap
 > • 5 second conditional sentences about your life
 > • 3 wishes or regrets you've expressed
 > • Vocabulary list with personal example sentences
-> ```
+> 
 > 
 > **Portfolio checklist:**
 > 
-> ```
-> ✅ All components completed
+> > ✅ All components completed
 > ✅ Grammar and spelling checked
 > ✅ Clear organization
 > ✅ Personal and authentic
 > ✅ Shows understanding of Unit 11 themes
 > ✅ Demonstrates language skills progress
-> ```
+> 
 
 ---
 
@@ -1220,13 +1180,12 @@ mindmap
 > 
 > **Your journey doesn't end here:**
 > 
-> ```
-> ✅ Review these materials regularly
+> > ✅ Review these materials regularly
 > ✅ Practice the language in real situations
 > ✅ Set new English learning goals
 > ✅ Keep a journal of your progress
 > ✅ Celebrate small wins along the way
-> ```
+> 
 > 
 > **Final thought:**
 > 
@@ -1235,5 +1194,12 @@ mindmap
 > Keep going! You've got this! 💪
 
 ---
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa: [[Inglés I (B1-B2)]]
+> - Anterior: [[03 - Functional Language & Pronunciation]]
 
 **Tags:** #english #unit11 #reading #writing #speaking #application #skills-practice #real-world-english #portfolio #success #goals #motivation

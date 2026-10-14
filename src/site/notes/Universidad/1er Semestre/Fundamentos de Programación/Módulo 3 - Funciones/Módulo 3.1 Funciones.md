@@ -22,6 +22,7 @@
 > nombre_funcion()
 > ```
 >
+
 > [!note] 🔧 Elementos Clave
 > - **`def`**: Palabra clave para definir la función
 > - **`nombre_funcion`**: Identificador único de la función

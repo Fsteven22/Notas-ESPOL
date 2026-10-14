@@ -7,6 +7,7 @@
 
 > [!quote] "Las poleas transforman la dirección y magnitud de las fuerzas, creando sistemas mecánicos donde la geometría define el equilibrio." 🔄
 >
+
 > [!info] Los problemas con poleas y sistemas de cuerdas representan aplicaciones fundamentales del equilibrio estático, donde las fuerzas se redistribuyen a través de cuerdas inextensibles y poleas que pueden ser fijas, móviles, o tener masa propia. Estos sistemas requieren análisis cuidadoso de las tensiones, considerando las restricciones geométricas y las condiciones de equilibrio.
 
 ## 🔄 Tipos de Poleas y Sistemas
@@ -34,6 +35,7 @@
 > - **En la polea**: R₁ + R₂ + \vec{T}₁ + \vec{T}₂ = 0
 > - **En la cuerda**: |T₁| = |T₂| = T
 >
+
 > [!tip] **Polea Móvil (Ideal)** 🔄
 > 
 > ### Características:
@@ -54,6 +56,7 @@
 > 
 > ΣF↑ = 2T - W = 0 → **T = W/2**
 >
+
 > [!warning] **Polea con Masa** ⚖️
 > 
 > ### Consideraciones Adicionales:
@@ -75,6 +78,7 @@
 > - Si cuerda continua: T₁ = T₂ = T
 > - Resultado: 2T = W + Wₚ → **T = (W + Wₚ)/2**
 >
+
 > [!success] 🔗 Configuraciones de Sistemas
 > 
 > ```mermaid
@@ -95,6 +99,7 @@
 >     style D fill:#e8f5e8
 > ```
 >
+
 > [!note] **Restricciones Geométricas** 📐
 > 
 > ### Cuerdas Inextensibles:
@@ -155,6 +160,7 @@
 > 14. Resuelve para encontrar tensiones y reacciones
 > 15. Verifica coherencia física de resultados
 >
+
 > [!tip] **Técnicas Especializadas** 🔧
 > 
 > ### **Método del Cuerpo Libre**:
@@ -205,6 +211,7 @@
 > 
 > **Tensión en equilibrio**: T = 15(9.8) = **147 N**
 >
+
 > [!example] **Problema 2: Sistema con Polea Móvil** 🏋️
 > 
 > ### Enunciado:
@@ -227,6 +234,7 @@
 > 
 > **Verificación**: La polea móvil multiplica la fuerza por 2, permitiendo levantar 196 N con solo 98 N.
 >
+
 > [!example] **Problema 3: Sistema con Polea de Masa** ⚖️
 > 
 > ### Enunciado:
@@ -254,6 +262,7 @@
 > 
 > **Para equilibrio estático**: Se necesitaría m₁ = m₂, entonces: **T₁ = T₂ = mg** (donde m sería la masa común)
 >
+
 > [!example] **Problema 4: Sistema Combinado (Atwood Modificado)** 🔗
 > 
 > ### Enunciado:
@@ -286,6 +295,7 @@
 > 
 > **Tensión en equilibrio**: T = 58.8 N
 >
+
 > [!example] **Problema 5: Polipasto (Sistema de Poleas Múltiples)** 🏗️
 > 
 > ### Enunciado:
@@ -355,6 +365,7 @@
 > - **Poleas móviles**: Cada una multiplica VM por 2
 > - **VM_total = ∏VM_individual**
 >
+
 > [!tip] **Relaciones Geométricas** 📐
 > 
 > ### Para Cuerdas Inextensibles:

@@ -7,6 +7,7 @@
 
 >[!quote] _"Cuando un objeto se sumerge en un fluido, experimenta una ilusión de ligereza. Esta aparente pérdida de peso no es magia, sino la manifestación directa del principio de Arquímedes, donde las fuerzas de flotación revelan la danza invisible entre la gravedad y la densidad."_
 >
+
 > [!info]+ Definiciones Fundamentales ⚖️
 > 
 > ### Peso Real (W_real)
@@ -21,6 +22,7 @@
 > 
 > **W_aparente = W_real - F_flotación** **W_aparente = m × g - ρ_fluido × V_sumergido × g**
 >
+
 > [!note] Fundamento Físico - Principio de Arquímedes 🌊
 > 
 > ### Base Teórica
@@ -52,6 +54,7 @@
 >     style K fill:#fce4ec
 > ```
 >
+
 > [!tip] Casos y Situaciones 🔬
 > 
 > ### Clasificación por Densidad Relativa
@@ -76,6 +79,7 @@
 >     style E fill:#e8f5e8
 > ```
 >
+
 > [!example] Ejemplos Prácticos y Cálculos 🧮
 > 
 > ### Ejemplo 1: Piedra en el Agua
@@ -155,6 +159,7 @@
 >       Implantes biomédicos
 > ```
 >
+
 > [!warning] Factores que Afectan la Medición ⚠️
 > 
 > ### Variables del Fluido
@@ -177,6 +182,7 @@
 > - **📏 Precisión instrumental**: Limitaciones de medición
 > - **🌊 Turbulencia**: Fluctuaciones en la fuerza de flotación
 >
+
 > [!summary]+ Fórmulas y Relaciones Clave 📊
 > 
 > ### Ecuaciones Fundamentales
@@ -204,6 +210,7 @@
 >
 > [!brain]+ Técnica de Memorización: FLOTAR 🧠 **F** - Flotación reduce el peso aparente **L** - Líquido ejerce fuerza hacia arriba **O** - Objeto desplaza su propio volumen **T** - Todo sumergido siente menos peso **A** - Arquímedes explica la diferencia **R** - Real menos flotación igual aparente
 >
+
 > [!success] Puntos Clave para Recordar 🎯
 > 
 > 1. **⚖️ Peso real constante**: No cambia con el medio circundante
@@ -219,7 +226,7 @@
 
 > [!quote] Notas Relacionadas
 > 
-> - [[El Principio de Arquímedes y Flotación 1]]
+> - [[El Principio de Arquímedes y Flotación]]
 > - [[Obsidian/Universidad/Física Mecanica/Notas nuevas/06 - Hidrostática e hidrodinámica/Presión y Densidad]]
 > - [[Fuerzas y Diagramas de Cuerpo Libre]]
 > - [[Leyes de Newton]]
@@ -232,9 +239,10 @@
 > - [[Fuerzas y Diagramas de Cuerpo Libre]]
 > - [[Leyes de Newton]]
 >
+
 > [!tip] Continuación del Tema
 > 
-> - [[El Principio de Arquímedes y Flotación 1]]
+> - [[El Principio de Arquímedes y Flotación]]
 > - [[Centro de Gravedad (CG)]]
 > - [[Equilibrio]]
 

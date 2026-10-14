@@ -76,8 +76,7 @@
 > 
 > **Ejemplos prácticos:**
 > 
-> ```
-> Made OF (material visible):
+> > Made OF (material visible):
 > ✅ This jacket is made of leather.
 > ✅ The bottle is made of glass.
 > ✅ My bag is made of cotton.
@@ -88,7 +87,7 @@
 > ✅ Paper is made from wood pulp.
 > ✅ This plastic is made from recycled bottles.
 > ✅ Cheese is made from milk.
-> ```
+> 
 > 
 > **Frases extendidas para descripciones completas:**
 > 
@@ -99,6 +98,7 @@
 > |It's + % + material, so it's + characteristic|It's 100% wool, so it's very warm|
 > |Made of + material + with + detail|Made of leather with metal details|
 >
+
 > [!success] 🎨 Describing Characteristics
 > 
 > **Frases para características físicas:**
@@ -113,8 +113,7 @@
 > 
 > **Patrones de intensificación:**
 > 
-> ```
-> Very + adjective:
+> > Very + adjective:
 > ✅ It's very strong
 > ✅ It's very light
 > ✅ It's very durable
@@ -132,7 +131,7 @@
 > Quite + adjective (British = very / American = somewhat):
 > ✅ It's quite heavy (UK = very heavy)
 > ✅ It's quite expensive
-> ```
+> 
 > 
 > **Combinaciones naturales (collocations):**
 > 
@@ -162,8 +161,7 @@
 > 
 > **Ejemplos de descripciones completas:**
 > 
-> ```
-> ✅ This jacket is made of waterproof polyester. 
+> > ✅ This jacket is made of waterproof polyester. 
 >    It's very light and durable, so it's perfect for hiking.
 > 
 > ✅ The bag is made of genuine leather. 
@@ -174,8 +172,9 @@
 > 
 > ✅ The bottle is made of stainless steel. 
 >    It's very durable and keeps drinks cold for 24 hours.
-> ```
+> 
 >
+
 > [!tip] 🌍 Describing Origin & Production
 > 
 > **Frases para el origen:**
@@ -189,8 +188,7 @@
 > 
 > **Frases para el proceso:**
 > 
-> ```
-> Production method:
+> > Production method:
 > ✅ It's handmade
 > ✅ It's hand-crafted
 > ✅ It's mass-produced
@@ -203,7 +201,7 @@
 > ✅ It's quality-checked before shipping
 > ✅ Each item is inspected individually
 > ✅ It meets international standards
-> ```
+> 
 > 
 > **Combinando origen y calidad:**
 > 
@@ -215,8 +213,7 @@
 > 
 > **Ejemplos contextualizados:**
 > 
-> ```
-> ✅ This watch is made in Switzerland. 
+> > ✅ This watch is made in Switzerland. 
 >    Swiss watches are known for their precision and quality.
 > 
 > ✅ Our coffee is grown in Colombia and roasted locally. 
@@ -227,7 +224,7 @@
 > 
 > ✅ The chocolate is made in Belgium using traditional recipes. 
 >    It's been produced the same way for over 100 years.
-> ```
+> 
 
 ---
 
@@ -260,8 +257,7 @@
 > 
 > **Frases para cada etapa:**
 > 
-> ```
-> Growing/Harvesting:
+> > Growing/Harvesting:
 > ✅ The coffee is grown at high altitudes
 > ✅ The grapes are harvested in autumn
 > ✅ The cotton is picked by hand
@@ -284,8 +280,9 @@
 > ✅ It's shipped within 24 hours
 > ✅ Products are delivered worldwide
 > ✅ It's transported by sea
-> ```
+> 
 >
+
 > [!success] 🌱 Sustainability & Quality Language
 > 
 > **Frases sobre sostenibilidad:**
@@ -299,8 +296,7 @@
 > 
 > **Patrones comunes:**
 > 
-> ```
-> ✅ It's made from recycled materials
+> > ✅ It's made from recycled materials
 > ✅ It's produced using renewable energy
 > ✅ It's ethically sourced and fair trade certified
 > ✅ We use only sustainable materials
@@ -308,12 +304,11 @@
 > ✅ Our production is carbon-neutral
 > ✅ We support local communities
 > ✅ It's organic and pesticide-free
-> ```
+> 
 > 
 > **Frases sobre calidad:**
 > 
-> ```
-> High quality:
+> > High quality:
 > ✅ It's high-quality
 > ✅ It's premium quality
 > ✅ It's top-quality
@@ -330,7 +325,7 @@
 > ✅ It's carefully made
 > ✅ It shows great attention to detail
 > ✅ It's precision-engineered
-> ```
+> 
 
 ---
 
@@ -349,20 +344,18 @@
 > 
 > **Patrones de tiempo de entrega:**
 > 
-> ```
-> ✅ We deliver within 24 hours
+> > ✅ We deliver within 24 hours
 > ✅ Delivery takes 3-5 business days
 > ✅ It arrives in 1-2 weeks
 > ✅ Same-day delivery available
 > ✅ Express shipping: 2-3 days
 > ✅ Standard shipping: 5-7 days
 > ✅ International delivery: 7-14 days
-> ```
+> 
 > 
 > **Frases sobre costo y políticas:**
 > 
-> ```
-> Free shipping:
+> > Free shipping:
 > ✅ Free shipping on all orders
 > ✅ Free delivery over $50
 > ✅ Shipping is always free
@@ -378,12 +371,11 @@
 > ✅ Easy returns policy
 > ✅ No-questions-asked returns
 > ✅ Full refund if not satisfied
-> ```
+> 
 > 
 > **Diálogos típicos:**
 > 
-> ```
-> Customer: How long does delivery take?
+> > Customer: How long does delivery take?
 > Shop: We deliver within 3-5 business days. 
 >       Express shipping is also available.
 > 
@@ -394,8 +386,9 @@
 > Customer: Is shipping free?
 > Shop: Yes, shipping is free on orders over $50. 
 >       Otherwise, it's $5.
-> ```
+> 
 >
+
 > [!tip] 🌍 Import/Export Language
 > 
 > **Frases sobre comercio internacional:**
@@ -409,8 +402,7 @@
 > 
 > **Vocabulario de negocios:**
 > 
-> ```
-> Trade terminology:
+> > Trade terminology:
 > ✅ We're a leading exporter of...
 > ✅ We import high-quality...
 > ✅ Our main export market is...
@@ -423,12 +415,11 @@
 > ✅ We ship to over 100 countries
 > ✅ Our products are sold worldwide
 > ✅ We have distributors in 50+ countries
-> ```
+> 
 > 
 > **Ejemplos en contexto empresarial:**
 > 
-> ```
-> ✅ We're one of the largest exporters of bananas in Latin America. 
+> > ✅ We're one of the largest exporters of bananas in Latin America. 
 >    We ship to Europe, North America, and Asia.
 > 
 > ✅ Our company imports premium coffee beans from Colombia 
@@ -439,7 +430,7 @@
 > 
 > ✅ We export organic cocoa to chocolate makers in Belgium, 
 >    Switzerland, and France.
-> ```
+> 
 
 ---
 
@@ -475,16 +466,16 @@
 > 
 > **Práctica con tapping (golpear la mesa):**
 > 
-> ```
-> Tap on stressed syllable:
+> > Tap on stressed syllable:
 > 
 > ma-TE-ri-al        (tap on TE)
 > man-u-FAC-ture     (tap on FAC)
 > pol-y-ES-ter       (tap on ES)
 > dis-TRIB-ute       (tap on TRIB)
 > de-LIV-er-y        (tap on LIV)
-> ```
+> 
 >
+
 > [!success] 🔗 Linking & Connected Speech
 > 
 > **Linking en frases comunes:**
@@ -499,8 +490,7 @@
 > 
 > **Patrón: Consonant to Vowel Linking**
 > 
-> ```
-> When a word ends in a consonant and the next starts with a vowel,
+> > When a word ends in a consonant and the next starts with a vowel,
 > LINK them together:
 > 
 > ✅ made_of → /meɪdəv/
@@ -508,7 +498,7 @@
 > ✅ made_in → /meɪdɪn/
 > ✅ shipped_to → /ʃɪptə/
 > ✅ pick_apples → /pɪkæplz/
-> ```
+> 
 > 
 > **Weak forms (palabras débiles):**
 > 
@@ -522,8 +512,7 @@
 > 
 > **Ejemplos de frases naturales:**
 > 
-> ```
-> Written:    It is made of cotton
+> > Written:    It is made of cotton
 > Natural:    /ɪtɪz meɪdəv kɒtn/
 > 
 > Written:    They are shipped to Europe
@@ -531,44 +520,41 @@
 > 
 > Written:    It is very durable and strong
 > Natural:    /ɪtsˈveri djʊərəblənd strɒŋ/
-> ```
+> 
 >
+
 > [!tip] 🎯 Intonation Patterns
 > 
 > **Describing products (falling intonation):**
 > 
-> ```
-> It's made of cotton. ↘
+> > It's made of cotton. ↘
 > It's very durable. ↘
 > It's shipped worldwide. ↘
 > It's produced in Italy. ↘
-> ```
+> 
 > 
 > **Yes/No questions (rising intonation):**
 > 
-> ```
-> Is it made of leather? ↗
+> > Is it made of leather? ↗
 > Is it waterproof? ↗
 > Do you ship internationally? ↗
 > Is shipping free? ↗
-> ```
+> 
 > 
 > **Wh- questions (falling intonation):**
 > 
-> ```
-> Where is it made? ↘
+> > Where is it made? ↘
 > What is it made of? ↘
 > How long does delivery take? ↘
 > When will it arrive? ↘
-> ```
+> 
 > 
 > **Lists (rise until last item):**
 > 
-> ```
-> It's soft, ↗ warm, ↗ and durable. ↘
+> > It's soft, ↗ warm, ↗ and durable. ↘
 > We ship to Europe, ↗ Asia, ↗ and America. ↘
 > It's made of cotton, ↗ polyester, ↗ and wool. ↘
-> ```
+> 
 > 
 > **Visualización:**
 > 
@@ -592,8 +578,7 @@
 > 
 > **Drill 1: Describe un objeto cerca de ti**
 > 
-> ```
-> Choose an object and complete:
+> > Choose an object and complete:
 > 
 > 1. This [object] is made of _________.
 > 2. It's very _________ and _________.
@@ -605,7 +590,7 @@
 > 2. It's very light and durable.
 > 3. It's made in China.
 > 4. I use it for communication and work.
-> ```
+> 
 > 
 > > [!success]- ✅ Suggested Objects to Practice
 > > 
@@ -619,8 +604,7 @@
 > > 
 > > **Practice sentences:**
 > > 
-> > ```
-> > Phone: This phone is made of aluminum and glass. 
+> > > > Phone: This phone is made of aluminum and glass. 
 > >        It's very sleek and powerful. 
 > >        It's manufactured in China.
 > > 
@@ -631,26 +615,24 @@
 > > Bottle: This bottle is made of stainless steel. 
 > >         It's very light and keeps drinks cold. 
 > >         It's produced locally.
-> > ```
+> > 
 > 
 > ---
 > 
 > **Drill 2: Role-play - Customer & Salesperson**
 > 
-> ```
-> Customer asks about:
+> > Customer asks about:
 > - Material
 > - Origin
 > - Shipping
 > - Price
 > 
 > Salesperson responds naturally.
-> ```
+> 
 > 
 > > [!success]- ✅ Sample Dialogue
 > > 
-> > ```
-> > C: What is this jacket made of?
+> > > > C: What is this jacket made of?
 > > S: It's made of waterproof polyester with a fleece lining.
 > > 
 > > C: Where is it made?
@@ -667,24 +649,22 @@
 > > S: It's extremely durable and lightweight, 
 > >    perfect for outdoor activities. 
 > >    Plus, it's made from recycled materials.
-> > ```
+> > 
 > 
 > ---
 > 
 > **Drill 3: Product Comparison**
 > 
-> ```
-> Compare two similar products using:
+> > Compare two similar products using:
 > - made of
 > - characteristics
 > - price/value
 > - recommendation
-> ```
+> 
 > 
 > > [!success]- ✅ Comparison Model
 > > 
-> > ```
-> > Product A vs Product B:
+> > > > Product A vs Product B:
 > > 
 > > This bag (A) is made of genuine leather. 
 > > It's very durable but quite expensive. 
@@ -700,7 +680,7 @@
 > > 
 > > If you want good value for money, 
 > > Product B is a great choice.
-> > ```
+> > 
 
 ---
 
@@ -759,5 +739,13 @@ mindmap
 > **Next: Apply everything in authentic contexts!**
 
 ---
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa: [[Inglés I (B1-B2)]]
+> - Anterior: [[02 - Grammar & Examples - Passive Voice (Present + Past)]]
+> - Siguiente: [[04 - Reading, Writing, Speaking - Why We Buy]]
 
 **Tags:** #english #functional-language #pronunciation #speaking #unit10 #natural-english #intonation #linking

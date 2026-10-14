@@ -54,6 +54,7 @@ graph TB
 > |**Integrado**|Funciona perfectamente con NumPy, Matplotlib|🔗|
 > |**Potente**|Operaciones complejas en pocas líneas|💪|
 >
+
 > [!tip] **⚙️ Instalación y Configuración**
 > 
 > ```python
@@ -136,6 +137,7 @@ graph LR
 > print(f"Precio máximo: ${precios.max():.2f}")
 > ```
 >
+
 > [!tip] **📋 DataFrame: La Tabla de Datos Definitiva** El **DataFrame** es la estructura estrella de Pandas. Es una tabla bidimensional donde cada columna es una Series.
 > 
 > ### 🔍 Analogías para Entender DataFrame:
@@ -177,6 +179,7 @@ graph LR
 > print(df_estudiantes.describe())
 > ```
 >
+
 > [!example] **🎯 Múltiples Formas de Crear DataFrames**
 > 
 > ```python
@@ -278,6 +281,7 @@ graph TB
 > df_tipado = pd.read_csv('empleados.csv', dtype=tipos_datos)
 > ```
 >
+
 > [!tip] **📊 Lectura de Archivos Excel** Excel sigue siendo omnipresente en el mundo empresarial.
 > 
 > ```python
@@ -304,6 +308,7 @@ graph TB
 >                  nrows=100)          # 100 filas
 > ```
 >
+
 > [!example] **🌐 JSON y Otros Formatos**
 > 
 > ```python
@@ -324,6 +329,7 @@ graph TB
 > df_sql = pd.read_sql_query('SELECT * FROM ventas WHERE año = 2024', conn)
 > ```
 >
+
 > [!warning] **💾 Escritura de Archivos**
 > 
 > ### 📄 Guardar en CSV:
@@ -397,6 +403,7 @@ graph TB
 > df_empresa.info()
 > ```
 >
+
 > [!tip] **📈 Análisis Estadístico Rápido**
 > 
 > ```python
@@ -419,6 +426,7 @@ graph TB
 >        print(f"  {valor}: {conteo} ({pct:.1f}%)")
 > ```
 >
+
 > [!success] **⚠️ Diagnóstico de Calidad de Datos**
 > 
 > ```python
@@ -500,6 +508,7 @@ graph TB
 > df_filtrado = df_empresa[columnas_disponibles]
 > ```
 >
+
 > [!tip] **🎯 Selección de Filas: loc vs iloc**
 > 
 > ### 🔑 Diferencia Clave:
@@ -565,6 +574,7 @@ graph TB
 > print(f"Empleados junior (< 5 años): {len(juniors)}")
 > ```
 >
+
 > [!tip] **🔗 Filtros Combinados: Y, O, No**
 > 
 > ### 🧮 Operadores Lógicos:
@@ -604,6 +614,7 @@ graph TB
 > print(f"Perfil específico: {len(perfil_especifico)}")
 > ```
 >
+
 > [!success] **🎯 Métodos Avanzados de Filtrado**
 > 
 > ```python
@@ -673,6 +684,7 @@ graph TB
 > # 4. Productos más vendidos por región
 > ```
 >
+
 > [!example] **🎯 Ejercicio 2: Análisis Estudiantil**
 > 
 > ```python
@@ -706,6 +718,7 @@ graph TB
 > - [[Funciones Built-in]] - Funciones que complementan Pandas
 > - [[Manejo de Errores con try, except, finally]] - Para lectura robusta de archivos
 >
+
 > [!info] **🎯 Notas Recomendadas**
 > 
 > ### 📋 Prerrequisitos:

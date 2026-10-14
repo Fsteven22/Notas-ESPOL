@@ -7,6 +7,7 @@
 
 > [!quote] "Los datos sucios son como diamantes en bruto: requieren paciencia, técnica y precisión para revelar su verdadero valor." 💎
 >
+
 > [!info] La limpieza de datos es una etapa fundamental en cualquier proyecto de análisis. Los datos del mundo real raramente vienen perfectos: tienen valores faltantes, duplicados, tipos incorrectos y inconsistencias. Este módulo te enseñará las técnicas esenciales para transformar datos "sucios" en información confiable y lista para el análisis.
 
 ## 📋 Objetivos del Módulo
@@ -35,6 +36,7 @@
 > - **Outliers** y valores imposibles
 > - **Codificaciones mixtas** (0/1 vs Si/No)
 >
+
 > [!example] **Dataset de Ejemplo: Titanic** 🚢
 > 
 > Trabajaremos con el famoso dataset del Titanic, que presenta múltiples desafíos reales:
@@ -91,6 +93,7 @@
 > print(analizar_nulos(titanic))
 > ```
 >
+
 > [!info] **Métodos de Detección** 🔎
 > 
 > ### Funciones Principales:
@@ -153,6 +156,7 @@
 > print(f"Columnas restantes: {list(titanic_limpio.columns)}")
 > ```
 >
+
 > [!tip] **Opción 2: Imputación con `.fillna()`** 🔧
 > 
 > ### Estrategias por Tipo de Variable:
@@ -197,6 +201,7 @@
 > titanic_limpio['columna'].interpolate(method='linear', inplace=True)
 > ```
 >
+
 > [!example] **Ejemplo Completo: Estrategia Híbrida** 🎯
 > 
 > ```python
@@ -253,6 +258,7 @@
 > print(filas_duplicadas)
 > ```
 >
+
 > [!tip] **Eliminación Inteligente de Duplicados** 🧹
 > 
 > ```python
@@ -321,6 +327,7 @@
 >         titanic_limpio[columna] = titanic_limpio[columna].map(mapeo)
 > ```
 >
+
 > [!example] **Funciones Personalizadas con `.apply()`** ⚙️
 > 
 > ### Categorización Automática:
@@ -387,6 +394,7 @@
 > print(f"Desde puertos principales: {len(desde_puertos_principales)}")
 > ```
 >
+
 > [!example] **Búsquedas en Texto con `.str`** 🔤
 > 
 > ```python
@@ -407,6 +415,7 @@
 > print(f"Con iniciales: {len(con_iniciales)}")
 > ```
 >
+
 > [!warning] **Query Avanzado** 🔍
 > 
 > ```python
@@ -605,6 +614,7 @@
 > assert df_limpio.duplicated().sum() == 0, "¡Aún hay duplicados!"
 > ```
 >
+
 > [!tip] **Mejores Prácticas** ⭐
 > 
 > ### 1. **Trabajar con Copias**

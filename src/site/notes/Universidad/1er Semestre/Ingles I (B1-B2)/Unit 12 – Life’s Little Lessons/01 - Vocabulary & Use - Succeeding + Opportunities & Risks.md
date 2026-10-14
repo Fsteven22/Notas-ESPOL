@@ -60,8 +60,7 @@
 > 
 > **Detailed examples:**
 > 
-> ```
-> SPILL (derramar):
+> > SPILL (derramar):
 > ✅ I spilled milk all over the kitchen floor
 > ✅ She spilled her drink on the carpet
 > ✅ Don't spill the paint!
@@ -117,8 +116,9 @@
 > Key difference:
 > damaged = broken but maybe repairable
 > destroyed = completely ruined, can't be fixed
-> ```
+> 
 >
+
 > [!success] 😬 Responsibility & Feelings (What You Do After)
 > 
 > **Expressing responsibility and reactions:**
@@ -134,8 +134,7 @@
 > 
 > **Detailed usage:**
 > 
-> ```
-> BLAME:
+> > BLAME:
 > ✅ He blamed me for the accident
 > ✅ Don't blame yourself, it wasn't your fault
 > ✅ She always blames others for her mistakes
@@ -192,14 +191,14 @@
 > • leave + object + on/open
 > • forget to turn off = leave on
 > • forget to close = leave open
-> ```
+> 
 >
+
 > [!tip] 🔄 Complete Accident Scenarios
 > 
 > **Scenario 1: Kitchen Accident**
 > 
-> ```
-> What happened:
+> > What happened:
 > "I was making coffee when I accidentally knocked off the sugar jar 
 > from the counter. It fell and the lid fell out. Sugar spilled 
 > everywhere! I slipped on some sugar on the floor and almost fell. 
@@ -213,12 +212,11 @@
 > ✅ slipped
 > ✅ damaged vs destroyed
 > ✅ pick up
-> ```
+> 
 > 
 > **Scenario 2: Taking Responsibility**
 > 
-> ```
-> Situation: You broke your roommate's laptop
+> > Situation: You broke your roommate's laptop
 > 
 > What you say:
 > "I feel really bad about what happened. I accidentally knocked off 
@@ -234,12 +232,11 @@
 > ✅ mad at
 > ✅ blame
 > ✅ picked up
-> ```
+> 
 > 
 > **Scenario 3: Leaving Things On/Open**
 > 
-> ```
-> Problem:
+> > Problem:
 > "I left the window open last night and it rained. Water came in 
 > and damaged the floor. I also left the AC on all day while I was 
 > at work. My roommate is mad at me because the electricity bill 
@@ -251,7 +248,7 @@
 > ✅ left on
 > ✅ mad at
 > ✅ feel bad about
-> ```
+> 
 
 ---
 
@@ -278,8 +275,7 @@
 > 
 > **Detailed usage:**
 > 
-> ```
-> FREEZING (congelado/helado):
+> > FREEZING (congelado/helado):
 > ✅ It's freezing in this room! Turn on the heater!
 > ✅ I'm freezing! Can I borrow your jacket?
 > ✅ The water is freezing, I can't swim
@@ -310,7 +306,7 @@
 > ⚠️ Comparison:
 > hot = hace calor (normal)
 > boiling = ¡está hirviendo! (extremo)
-> ```
+> 
 > 
 > **Size extremes:**
 > 
@@ -320,8 +316,7 @@
 > |big 📦|**huge**|gigante|She made a huge mistake|
 > |small 🔍|**tiny**|diminuto/minúsculo|This apartment is tiny!|
 > 
-> ```
-> ENORMOUS (enorme):
+> > ENORMOUS (enorme):
 > ✅ They live in an enormous mansion
 > ✅ That's an enormous problem
 > ✅ We ordered an enormous pizza
@@ -356,8 +351,9 @@
 > Comparison:
 > small = pequeño (normal)
 > tiny = diminuto (extremo)
-> ```
+> 
 >
+
 > [!example] 😱😄 Emotional Extremes
 > 
 > **Extreme emotion adjectives:**
@@ -373,8 +369,7 @@
 > 
 > **Detailed usage:**
 > 
-> ```
-> EXHAUSTED (agotado):
+> > EXHAUSTED (agotado):
 > ✅ I'm absolutely exhausted after that workout
 > ✅ She was exhausted from working 12 hours
 > ✅ I'm too exhausted to go out tonight
@@ -451,8 +446,9 @@
 > • More formal than "terrific"
 > • Often for impressive sights/performances
 > • magnificent view/building/performance
-> ```
+> 
 >
+
 > [!success] ⚖️ Regular vs Extreme - Comparison Chart
 > 
 > **Understanding the scale:**
@@ -470,8 +466,7 @@
 > 
 > **Grammar rule with extreme adjectives:**
 > 
-> ```
-> ❌ WRONG: very enormous, very exhausted, very tiny
+> > ❌ WRONG: very enormous, very exhausted, very tiny
 > ✅ CORRECT: absolutely enormous, completely exhausted, incredibly tiny
 > 
 > With extreme adjectives, use:
@@ -493,7 +488,7 @@
 > ✅ It's very cold
 > ✅ I'm very tired
 > ✅ It's very small
-> ```
+> 
 
 ---
 
@@ -560,8 +555,7 @@
 > 
 > **With SPILL:**
 > 
-> ```
-> Common combinations:
+> > Common combinations:
 > ✅ spill coffee/water/milk/wine/juice
 > ✅ spill a drink
 > ✅ spill something on something
@@ -572,12 +566,11 @@
 > • Be careful not to spill your drink!
 > • She spilled red wine all over the white carpet
 > • I spilled water on my keyboard
-> ```
+> 
 > 
 > **With SLIP:**
 > 
-> ```
-> Common combinations:
+> > Common combinations:
 > ✅ slip on ice/floor/stairs/banana peel
 > ✅ slip and fall
 > ✅ slip and hurt yourself
@@ -588,12 +581,11 @@
 > • Be careful not to slip on the ice
 > • She slipped on the stairs
 > • He slipped and fell in the bathroom
-> ```
+> 
 > 
 > **With KNOCK OFF:**
 > 
-> ```
-> Common combinations:
+> > Common combinations:
 > ✅ knock off + object + from + place
 > ✅ knock something off the table/shelf/desk
 > ✅ accidentally knock off
@@ -603,12 +595,11 @@
 > • I accidentally knocked off all the books from the shelf
 > • Don't knock off the vase!
 > • He knocked off my phone with his elbow
-> ```
+> 
 > 
 > **With DAMAGE / DESTROY:**
 > 
-> ```
-> DAMAGE (partial):
+> > DAMAGE (partial):
 > ✅ damage + car/phone/laptop/property/reputation
 > ✅ badly/seriously/severely damaged
 > ✅ slightly damaged
@@ -622,14 +613,14 @@
 > 
 > • The fire completely destroyed the warehouse
 > • The earthquake destroyed the entire city
-> ```
+> 
 >
+
 > [!example] 🎯 Common Collocations - Extremes
 > 
 > **Temperature extremes:**
 > 
-> ```
-> FREEZING:
+> > FREEZING:
 > ✅ freezing cold
 > ✅ freezing weather/temperature
 > ✅ freezing water
@@ -647,12 +638,11 @@
 > • It's boiling hot in this room!
 > • We're having boiling temperatures this week
 > • I'm absolutely boiling!
-> ```
+> 
 > 
 > **Size extremes:**
 > 
-> ```
-> ENORMOUS/HUGE:
+> > ENORMOUS/HUGE:
 > ✅ enormous/huge house/building/car
 > ✅ enormous/huge problem/mistake/difference
 > ✅ enormous/huge opportunity/challenge
@@ -669,12 +659,11 @@
 > • This is a tiny apartment for two people
 > • The portions at that restaurant are tiny
 > • I need a tiny bit of help
-> ```
+> 
 > 
 > **Emotional extremes:**
 > 
-> ```
-> EXHAUSTED:
+> > EXHAUSTED:
 > ✅ absolutely/completely/totally exhausted
 > ✅ exhausted from/after + activity
 > ✅ too exhausted to + verb
@@ -697,7 +686,7 @@
 > 
 > • I'm absolutely thrilled with the results!
 > • We're thrilled to announce the winner
-> ```
+> 
 
 ---
 
@@ -707,8 +696,7 @@
 > 
 > **Describing what happened:**
 > 
-> ```
-> Basic descriptions:
+> > Basic descriptions:
 > ✅ I slipped and fell on the ice
 > ✅ I spilled coffee all over my notes
 > ✅ I knocked off the glass from the table
@@ -726,12 +714,11 @@
 > 
 > ✅ I spilled an entire cup of coffee on my keyboard. It was 
 >    completely destroyed. I was so careless!
-> ```
+> 
 > 
 > **Taking responsibility:**
 > 
-> ```
-> Apologizing:
+> > Apologizing:
 > ✅ I'm so sorry, it was an accident
 > ✅ I feel really bad about what happened
 > ✅ I didn't mean to damage it
@@ -749,14 +736,14 @@
 > ✅ Let me pick up the broken pieces
 > ✅ I'll replace it
 > ✅ I'll be more careful next time
-> ```
+> 
 >
+
 > [!tip] 🗣️ Model Sentences - Extreme Reactions
 > 
 > **Expressing strong feelings:**
 > 
-> ```
-> Temperature:
+> > Temperature:
 > ✅ It's absolutely freezing in here! Can we turn on the heater?
 > ✅ I'm boiling! This room is way too hot!
 > ✅ The weather is freezing today, wear a warm coat
@@ -779,12 +766,11 @@
 > ✅ That's an enormous house! It must have 10 bedrooms!
 > ✅ We have a huge problem that needs solving
 > ✅ This is a tiny portion for the price
-> ```
+> 
 > 
 > **Complete reaction stories:**
 > 
-> ```
-> Story 1:
+> > Story 1:
 > "Yesterday was terrible! I was absolutely exhausted from work, 
 > and when I got home, I realized I'd left the window open. It 
 > had rained and there was water everywhere! The floor was 
@@ -823,7 +809,7 @@
 > • destroyed 
 > • mad at 
 > • feel terrible
-> ```
+> 
 
 ---
 
@@ -833,8 +819,7 @@
 > 
 > **Choose the correct verb:**
 > 
-> ```
-> spill • slip • knock off • fall out • damage • destroy • pick up • leave on
+> > spill • slip • knock off • fall out • damage • destroy • pick up • leave on
 > 
 > 1. I __________ my coffee all over my laptop.
 > 2. Be careful not to __________ on the wet floor!
@@ -844,7 +829,7 @@
 > 6. Can you __________ that paper from the floor?
 > 7. I __________ the lights __________ all night by mistake.
 > 8. The screen is __________, but the phone still works.
-> ```
+> 
 > 
 > > [!success]- ✅ Answers
 > > 
@@ -857,12 +842,12 @@
 > > 7. **left** ... **on**
 > > 8. **damaged**
 >
+
 > [!example] ✏️ Exercise 2: Extreme Adjectives
 > 
 > **Replace the underlined word with an extreme adjective:**
 > 
-> ```
-> freezing • boiling • enormous • tiny • exhausted • terrified • thrilled • miserable
+> > freezing • boiling • enormous • tiny • exhausted • terrified • thrilled • miserable
 > 
 > 1. I'm very tired after the marathon. → I'm __________
 > 2. It's very hot in this room! → It's __________!
@@ -872,7 +857,7 @@
 > 6. It's very cold outside! → It's __________!
 > 7. That's a very big problem. → That's an __________ problem
 > 8. I felt very sad after the news. → I felt __________
-> ```
+> 
 > 
 > > [!success]- ✅ Answers
 > > 
@@ -885,12 +870,12 @@
 > > 7. **enormous**
 > > 8. **miserable**
 >
+
 > [!tip] ✏️ Exercise 3: Complete the Dialogue
 > 
 > **Fill in the gaps with appropriate vocabulary:**
 > 
-> ```
-> A: Oh no! What happened here?
+> > A: Oh no! What happened here?
 > 
 > B: I'm so sorry! I (1)__________ my coffee all over your desk. 
 >    Then I tried to clean it and I (2)__________ your pen holder. 
@@ -911,7 +896,7 @@
 > B: Oh! No, I'm not (8)__________ at you. I'm mad at myself for 
 >    being so clumsy. Let me (9)__________ all of this and 
 >    clean it properly.
-> ```
+> 
 > 
 > > [!success]- ✅ Sample Answers
 > > 
@@ -996,5 +981,12 @@ mindmap
 > ```
 
 ---
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa: [[Inglés I (B1-B2)]]
+> - Siguiente: [[02 - Grammar & Examples - Phrasal Verbs + Unreal Conditionals]]
 
 **Tags:** #english #vocabulary #unit12 #accidents #extreme-adjectives #collocations #life-lessons #mistakes

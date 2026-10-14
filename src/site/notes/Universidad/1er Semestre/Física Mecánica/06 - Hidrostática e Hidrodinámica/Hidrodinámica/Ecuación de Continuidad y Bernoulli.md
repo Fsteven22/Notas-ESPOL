@@ -30,6 +30,7 @@
 > - $v$: Velocidad del fluido (m/s)
 > - Subíndices 1, 2: Diferentes puntos del conducto
 >
+
 > [!note]+ Interpretación Física
 > 
 > ### 📊 Relación Área-Velocidad
@@ -77,6 +78,7 @@ graph LR
 > |$\frac{1}{2}\rho v^2$|**Presión dinámica**|Energía cinética|Pa|
 > |$\rho g h$|**Presión hidrostática**|Energía potencial|Pa|
 >
+
 > [!warning]+ Condiciones de Validez
 > 
 > - ⚠️ **Fluido incompresible**: $\rho$ = constante
@@ -126,6 +128,7 @@ graph LR
 >     style F fill:#96ceb4,stroke:#198754,color:#fff
 > ```
 >
+
 > [!tip]+ Formas Alternativas de Bernoulli
 > 
 > ### 📏 Diferentes Expresiones
@@ -148,6 +151,7 @@ graph LR
 > 
 > **Solución usando Continuidad:** $$A_1 v_1 = A_2 v_2$$ $$\pi r_1^2 v_1 = \pi r_2^2 v_2$$ $$v_2 = v_1 \left(\frac{r_1}{r_2}\right)^2 = 1 \times \left(\frac{1}{0.25}\right)^2 = 16 \text{ m/s}$$
 >
+
 > [!example]+ Problema 2: Tanque con Orificio
 > 
 > ### 🪣 Teorema de Torricelli
@@ -256,7 +260,7 @@ graph LR
 
 > [!quote]+ Enlaces a Otras Notas
 > 
-> - [[El Principio de Arquímedes y Flotación 1]]
+> - [[El Principio de Arquímedes y Flotación]]
 > - [[El Principio de Pascal]]
 > - [[Viscosidad y Número de Reynolds]]
 > - [[Flujo Laminar y Ecuación de Poiseuille]]
@@ -272,6 +276,7 @@ graph LR
 > - [[Ecuación de Continuidad]]
 > - [[El medidor de Venturi]]
 >
+
 > [!success]+ Para Profundizar
 > 
 > - [[Flujo Turbulento vs Laminar]]

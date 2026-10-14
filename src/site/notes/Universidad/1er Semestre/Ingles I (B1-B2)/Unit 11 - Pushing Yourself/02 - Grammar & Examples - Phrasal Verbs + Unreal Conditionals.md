@@ -47,13 +47,12 @@
 > 
 > **Estructura básica:**
 > 
-> ```
-> VERB + PARTICLE = NEW MEANING
+> > VERB + PARTICLE = NEW MEANING
 > 
 > give + up = give up (rendirse)
 > look + for = look for (buscar)
 > set + up = set up (establecer)
-> ```
+> 
 > 
 > **¿Por qué son importantes?**
 > 
@@ -85,8 +84,7 @@
 > 
 > **Ejemplos de cambio de significado:**
 > 
-> ```
-> LOOK (mirar) →
+> > LOOK (mirar) →
 > ✅ look for = buscar
 > ✅ look after = cuidar
 > ✅ look up = buscar información
@@ -103,7 +101,7 @@
 > ✅ get over = superar
 > ✅ get on = llevarse bien
 > ✅ get through = completar/superar
-> ```
+> 
 
 ---
 
@@ -119,8 +117,7 @@
 > |**-ing**|I'm not giving up on my dreams|No me rindo con mis sueños|
 > |**Past**|She gave up smoking|Ella dejó de fumar|
 > 
-> ```
-> Common patterns:
+> > Common patterns:
 > ✅ give up (completely) → rendirse totalmente
 > ✅ give up on someone/something → rendirse con alguien/algo
 > ✅ give up doing something → dejar de hacer algo
@@ -130,7 +127,7 @@
 > - I'll never give up on my goals
 > - He gave up trying to learn guitar
 > - She refuses to give up
-> ```
+> 
 > 
 > ---
 > 
@@ -142,8 +139,7 @@
 > |**-ing**|I'm keeping going despite difficulties|Sigo adelante a pesar de las dificultades|
 > |**Past**|She kept going until she succeeded|Ella siguió hasta que lo logró|
 > 
-> ```
-> Common patterns:
+> > Common patterns:
 > ✅ keep going = continuar, no parar
 > ✅ keep going with something = continuar con algo
 > 
@@ -152,7 +148,7 @@
 > - I just keep going every day
 > - When things get hard, I keep going
 > - They kept going despite the obstacles
-> ```
+> 
 > 
 > ---
 > 
@@ -164,8 +160,7 @@
 > |**-ing**|I'm setting up a new routine|Estoy estableciendo una nueva rutina|
 > |**Past**|She set up a successful company|Ella estableció una empresa exitosa|
 > 
-> ```
-> Common patterns:
+> > Common patterns:
 > ✅ set up a business/company → establecer un negocio
 > ✅ set up a meeting → organizar una reunión
 > ✅ set up a routine → establecer una rutina
@@ -175,7 +170,7 @@
 > - They're setting up a new office
 > - He set up a study routine
 > - We need to set up a plan
-> ```
+> 
 > 
 > ---
 > 
@@ -187,8 +182,7 @@
 > |**-ing**|I'm working on improving myself|Estoy trabajando en mejorarme|
 > |**Past**|She worked on her presentation all week|Ella trabajó en su presentación toda la semana|
 > 
-> ```
-> Common patterns:
+> > Common patterns:
 > ✅ work on something → trabajar en algo
 > ✅ work on doing something → esforzarse en hacer algo
 > ✅ work on yourself → trabajar en ti mismo
@@ -198,7 +192,7 @@
 > - She's working on her confidence
 > - He needs to work on his discipline
 > - We're working on the project together
-> ```
+> 
 > 
 > ---
 > 
@@ -210,8 +204,7 @@
 > |**-ing**|I'm finding out about opportunities|Estoy averiguando sobre oportunidades|
 > |**Past**|She found out the truth|Ella descubrió la verdad|
 > 
-> ```
-> Common patterns:
+> > Common patterns:
 > ✅ find out (that...) → descubrir que...
 > ✅ find out about something → averiguar sobre algo
 > ✅ find out how to... → descubrir cómo...
@@ -221,59 +214,54 @@
 > - She found out about a great opportunity
 > - Let me find out more information
 > - They found out how to succeed
-> ```
+> 
 >
+
 > [!tip] 🔥 Más Phrasal Verbs para Pushing Yourself
 > 
 > **6. GET OVER - Superar (algo difícil)**
 > 
-> ```
-> ✅ I need to get over my fear of failure
+> > ✅ I need to get over my fear of failure
 > ✅ She got over the disappointment quickly
 > ✅ It took time to get over the setback
 > ✅ You'll get over this challenge
-> ```
+> 
 > 
 > **7. CARRY ON - Continuar (más formal que keep going)**
 > 
-> ```
-> ✅ Carry on with your work
+> > ✅ Carry on with your work
 > ✅ She carried on despite the difficulties
 > ✅ We'll carry on until we succeed
 > ✅ Don't stop, carry on!
-> ```
+> 
 > 
 > **8. TAKE ON - Aceptar/Asumir (un desafío)**
 > 
-> ```
-> ✅ I'm ready to take on new challenges
+> > ✅ I'm ready to take on new challenges
 > ✅ She took on more responsibility
 > ✅ Don't take on too much at once
 > ✅ He's taking on a difficult project
-> ```
+> 
 > 
 > **9. FIGURE OUT - Resolver/Entender**
 > 
-> ```
-> ✅ I need to figure out my next step
+> > ✅ I need to figure out my next step
 > ✅ She figured out the solution
 > ✅ I'm trying to figure out what to do
 > ✅ He finally figured out how to succeed
-> ```
+> 
 > 
 > **10. GO THROUGH - Pasar por/Experimentar**
 > 
-> ```
-> ✅ Everyone goes through challenges
+> > ✅ Everyone goes through challenges
 > ✅ I went through a difficult time
 > ✅ She's going through a lot right now
 > ✅ We all go through failures
-> ```
+> 
 > 
 > **11. LOOK FORWARD TO - Esperar con ansias**
 > 
-> ```
-> ✅ I'm looking forward to achieving my goals
+> > ✅ I'm looking forward to achieving my goals
 > ✅ She looks forward to new opportunities
 > ✅ I look forward to the challenge
 > ✅ We're looking forward to success
@@ -281,7 +269,7 @@
 > ⚠️ Note: "to" is a preposition here, so use -ing:
 > - I'm looking forward to seeing you (✅)
 > - I'm looking forward to see you (❌)
-> ```
+> 
 > 
 > **Quick Reference Table:**
 > 
@@ -311,12 +299,11 @@
 > 
 > **Fórmula:**
 > 
-> ```
-> IF + PAST SIMPLE, WOULD + BASE VERB
+> > IF + PAST SIMPLE, WOULD + BASE VERB
 > 
 > If I had more time, I would study harder.
 > (Pero NO tengo más tiempo - es hipotético)
-> ```
+> 
 > 
 > **Estructura visual:**
 > 
@@ -352,8 +339,7 @@
 > 
 > **⚠️ IMPORTANTE: IF I WERE (no "was")**
 > 
-> ```
-> Con el verbo "be" en second conditional, usamos "were" para TODAS las personas:
+> > Con el verbo "be" en second conditional, usamos "were" para TODAS las personas:
 > 
 > ✅ If I were you...
 > ✅ If he were here...
@@ -364,14 +350,14 @@
 > 
 > En conversación informal, algunos nativos usan "was", 
 > pero "were" es siempre correcto y más formal.
-> ```
+> 
 >
+
 > [!example] 💡 Ejemplos con Unit 11 Vocabulary
 > 
 > **Talking about goals:**
 > 
-> ```
-> ✅ If I had more discipline, I would achieve my goals faster
+> > ✅ If I had more discipline, I would achieve my goals faster
 >    (Pero no tengo suficiente disciplina ahora)
 > 
 > ✅ If I were more motivated, I would work on my skills every day
@@ -379,12 +365,11 @@
 > 
 > ✅ If I set clear goals, I would make more progress
 >    (Pero no he establecido metas claras)
-> ```
+> 
 > 
 > **Talking about risks and opportunities:**
 > 
-> ```
-> ✅ If I took more risks, I would have more opportunities
+> > ✅ If I took more risks, I would have more opportunities
 >    (Pero tengo miedo de arriesgarme)
 > 
 > ✅ If the reward were bigger, I would consider it
@@ -392,27 +377,25 @@
 > 
 > ✅ If I had less to lose, I would try starting a business
 >    (Pero tengo mucho que perder)
-> ```
+> 
 > 
 > **Giving advice with "If I were you":**
 > 
-> ```
-> ✅ If I were you, I would take that opportunity
+> > ✅ If I were you, I would take that opportunity
 > ✅ If I were you, I wouldn't give up so easily
 > ✅ If I were you, I would work on improving my English
 > ✅ If I were you, I would set up a clear plan
 > ✅ If I were you, I would keep going despite the difficulties
-> ```
+> 
 > 
 > **Imagining different circumstances:**
 > 
-> ```
-> ✅ If I had more time, I would learn a new skill
+> > ✅ If I had more time, I would learn a new skill
 > ✅ If I lived in a big city, I would have more job options
 > ✅ If I spoke English fluently, I would apply for that job
 > ✅ If I were braver, I would face more challenges
 > ✅ If I didn't have so many responsibilities, I would take more risks
-> ```
+> 
 > 
 > **Patterns para memorizar:**
 > 
@@ -423,12 +406,12 @@
 > |If I + past verb, I would + verb|If I tried harder, I would succeed|
 > |If I were you, I would + verb|If I were you, I would take the risk|
 >
+
 > [!success] 🔄 Negative & Questions
 > 
 > **Forma negativa:**
 > 
-> ```
-> IF clause negative:
+> > IF clause negative:
 > ✅ If I didn't have to work, I would travel more
 > ✅ If she weren't so busy, she would help us
 > ✅ If they didn't give up, they would succeed
@@ -441,12 +424,11 @@
 > Both negative:
 > ✅ If I didn't have fears, I wouldn't hold back
 > ✅ If we weren't so tired, we wouldn't give up
-> ```
+> 
 > 
 > **Preguntas:**
 > 
-> ```
-> What would you do if...?
+> > What would you do if...?
 > ✅ What would you do if you had a million dollars?
 > ✅ What would you do if you lost your job?
 > ✅ What would you say if I told you I was leaving?
@@ -460,17 +442,16 @@
 > ✅ Where would you live if you could choose?
 > ✅ When would you start if you had the chance?
 > ✅ How would you feel if you achieved your goal?
-> ```
+> 
 > 
 > **Short answers:**
 > 
-> ```
-> Q: Would you take the risk if you had the chance?
+> > Q: Would you take the risk if you had the chance?
 > A: Yes, I would. / No, I wouldn't.
 > 
 > Q: If you were rich, would you quit your job?
 > A: Yes, I would. / No, I wouldn't. I love my job.
-> ```
+> 
 
 ---
 
@@ -480,8 +461,7 @@
 > 
 > **I WISH + Past Simple** (para situaciones presentes que queremos cambiar)
 > 
-> ```
-> Formula: I wish + past simple
+> > Formula: I wish + past simple
 > Meaning: Lamento que algo NO sea así ahora
 > 
 > ✅ I wish I were more confident
@@ -492,18 +472,17 @@
 > 
 > ✅ I wish I spoke English fluently
 >    (Pero NO hablo inglés con fluidez - lo lamento)
-> ```
+> 
 > 
 > **⚠️ IMPORTANTE: I wish I WERE (no "was")**
 > 
-> ```
-> Con el verbo "be":
+> > Con el verbo "be":
 > ✅ I wish I were taller
 > ✅ I wish I were braver
 > ✅ I wish she were here
 > 
 > ❌ I wish I was taller (informal, evitar)
-> ```
+> 
 > 
 > **Comparación: Second Conditional vs I wish**
 > 
@@ -514,8 +493,7 @@
 > 
 > **Ejemplos con Unit 11:**
 > 
-> ```
-> About abilities/characteristics:
+> > About abilities/characteristics:
 > ✅ I wish I were more disciplined
 > ✅ I wish I were braver about taking risks
 > ✅ I wish I had more motivation
@@ -531,14 +509,14 @@
 > ✅ I wish he didn't give up so easily
 > ✅ I wish she were more supportive
 > ✅ I wish they would help me
-> ```
+> 
 >
+
 > [!tip] 🎯 IF ONLY (más enfático que "I wish")
 > 
 > **IF ONLY = I wish (pero más dramático/enfático)**
 > 
-> ```
-> Same structure as "I wish":
+> > Same structure as "I wish":
 > 
 > ✅ If only I were more confident!
 > ✅ If only I had more time!
@@ -552,7 +530,7 @@
 > Examples:
 > I wish I had money (neutral)
 > If only I had money! (more desperate/emotional)
-> ```
+> 
 > 
 > **Cuándo usar "if only":**
 > 
@@ -563,12 +541,12 @@
 > |**Deseo fuerte**|If only I were braver!|
 > |**Situación dramática**|If only things were different!|
 >
+
 > [!example] 🗣️ I wish + WOULD (para comportamientos que queremos cambiar)
 > 
 > **I wish + would** (para acciones/comportamientos de OTROS o situaciones)
 > 
-> ```
-> Formula: I wish + subject + would + base verb
+> > Formula: I wish + subject + would + base verb
 > Use: Cuando queremos que algo/alguien cambie su comportamiento
 > 
 > ⚠️ NO se usa con "I":
@@ -580,12 +558,11 @@
 > ✅ I wish she would stop complaining
 > ✅ I wish it would stop raining
 > ✅ I wish they would support me more
-> ```
+> 
 > 
 > **Ejemplos con Unit 11:**
 > 
-> ```
-> About other people:
+> > About other people:
 > ✅ I wish he would work harder on his goals
 > ✅ I wish she would stop giving up so easily
 > ✅ I wish they would take more risks
@@ -595,7 +572,7 @@
 > ✅ I wish things would get easier
 > ✅ I wish the situation would improve
 > ✅ I wish this challenge would end soon
-> ```
+> 
 > 
 > **Summary Table:**
 > 
@@ -614,15 +591,14 @@
 > 
 > **Exercise 1: Complete with the correct phrasal verb**
 > 
-> ```
-> give up • keep going • work on • set up • find out
+> > give up • keep going • work on • set up • find out
 > 
 > 1. Don't _________ now! You're almost there!
 > 2. I need to _________ my confidence.
 > 3. She wants to _________ her own business.
 > 4. I'm trying to _________ what my options are.
 > 5. When things get hard, I just _________.
-> ```
+> 
 > 
 > > [!success]- ✅ Answers - Exercise 1
 > > 
@@ -636,13 +612,12 @@
 > 
 > **Exercise 2: Second Conditional - Complete the sentences**
 > 
-> ```
-> 6. If I _________ (have) more time, I _________ (study) harder.
+> > 6. If I _________ (have) more time, I _________ (study) harder.
 > 7. If she _________ (be) braver, she _________ (take) more risks.
 > 8. If they _________ (not/give up), they _________ (succeed).
 > 9. If I _________ (be) you, I _________ (keep) going.
 > 10. What _________ you _________ (do) if you _________ (win) the lottery?
-> ```
+> 
 > 
 > > [!success]- ✅ Answers - Exercise 2
 > > 
@@ -656,13 +631,12 @@
 > 
 > **Exercise 3: I wish - Transform the sentences**
 > 
-> ```
-> 11. I'm not confident. → I wish _________________________
+> > 11. I'm not confident. → I wish _________________________
 > 12. I don't have more time. → I wish _________________________
 > 13. I can't speak English fluently. → I wish _________________________
 > 14. I'm not braver. → I wish _________________________
 > 15. He doesn't help me. → I wish _________________________
-> ```
+> 
 > 
 > > [!success]- ✅ Answers - Exercise 3
 > > 
@@ -676,13 +650,12 @@
 > 
 > **Exercise 4: Choose the correct option**
 > 
-> ```
-> 16. If I (was/were) you, I would take that job.
+> > 16. If I (was/were) you, I would take that job.
 > 17. I wish I (have/had) more opportunities.
 > 18. Don't (give up/give up on) your dreams!
 > 19. If she (tried/would try) harder, she would succeed.
 > 20. I'm (working on/working at) improving my skills.
-> ```
+> 
 > 
 > > [!success]- ✅ Answers - Exercise 4
 > > 
@@ -696,13 +669,12 @@
 > 
 > **Exercise 5: Complete with phrasal verbs + conditionals**
 > 
-> ```
-> 21. If you _________ (not/give up), you _________ (achieve) your goals.
+> > 21. If you _________ (not/give up), you _________ (achieve) your goals.
 > 22. I _________ (work on) my English if I _________ (have) more time.
 > 23. I wish I _________ (not/be) afraid to _________ (take on) new challenges.
 > 24. If I _________ (be) you, I _________ (keep going) despite the difficulties.
 > 25. She would _________ (find out) more about the opportunity if she _________ (do) research.
-> ```
+> 
 > 
 > > [!success]- ✅ Answers - Exercise 5
 > > 
@@ -716,15 +688,14 @@
 > 
 > **Exercise 6: Real-life application**
 > 
-> ```
-> Complete these sentences about yourself:
+> > Complete these sentences about yourself:
 > 
 > 26. If I had more time, I would _________________________
 > 27. I wish I were more _________________________
 > 28. If I were braver, I would _________________________
 > 29. I'm working on _________________________
 > 30. I would never give up on _________________________
-> ```
+> 
 > 
 > > [!success]- ✅ Sample Personal Answers
 > > 
@@ -788,31 +759,28 @@ mindmap
 > [!quote] 📝 Essential Patterns to Remember
 > 
 > **Phrasal Verbs:**
-> ```
-> ✅ Don't give up on [noun/gerund]
+> > ✅ Don't give up on [noun/gerund]
 > ✅ Keep going [despite/when/until...]
 > ✅ Work on [noun/gerund]
 > ✅ Set up [a business/plan/routine]
 > ✅ Find out [about/how to/what...]
-> ```
+> 
 > 
 > **Second Conditional:**
-> ```
-> ✅ If I had [noun], I would [verb]
+> > ✅ If I had [noun], I would [verb]
 > ✅ If I were [adjective], I would [verb]
 > ✅ If I [past verb], I would [verb]
 > ✅ If I were you, I would [verb]
 > ✅ I would [verb] if I [past verb]
-> ```
+> 
 > 
 > **Wishes:**
-> ```
-> ✅ I wish I were [adjective]
+> > ✅ I wish I were [adjective]
 > ✅ I wish I had [noun]
 > ✅ I wish I could [verb]
 > ✅ I wish [someone] would [verb]
 > ✅ If only I [past verb]!
-> ```
+> 
 
 ---
 
@@ -840,5 +808,13 @@ mindmap
 > ```
 
 ---
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa: [[Inglés I (B1-B2)]]
+> - Anterior: [[01 - Vocabulary & Use - Succeeding + Opportunities & Risks]]
+> - Siguiente: [[03 - Functional Language & Pronunciation]]
 
 **Tags:** #english #grammar #phrasal-verbs #second-conditional #wishes #if-only #unit11 #conditionals #unreal-conditionals

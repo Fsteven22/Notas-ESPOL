@@ -37,6 +37,7 @@
 > - **Centro de gravedad**: Centro de masa del objeto
 > - **Estabilidad**: Depende de la posición relativa entre ambos centros
 >
+
 > [!warning]+ Condiciones de Aplicación
 > 
 > - ⚠️ **Fluido en reposo**: Sin corrientes significativas
@@ -152,6 +153,7 @@ flowchart TD
 > 
 > **Resultado**: 89.5% sumergido, 10.5% visible
 >
+
 > [!example]+ Problema Resuelto: Densimetría
 > 
 > ### ⚗️ Medición de Densidades
@@ -211,8 +213,9 @@ flowchart TD
 > - [[Conceptos de Densidad]]
 > - [[Fuerzas y Equilibrio]]
 > - [[Presión en Fluidos]]
-> - [[Centro de Masa]]
+> - [[Centro de masa (CM)]]
 >
+
 > [!success]+ Para Profundizar
 > 
 > - [[Estabilidad Naval]]

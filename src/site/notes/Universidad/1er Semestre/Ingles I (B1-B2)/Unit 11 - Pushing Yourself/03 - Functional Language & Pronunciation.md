@@ -60,8 +60,7 @@
 > 
 > **Ejemplos en contexto:**
 > 
-> ```
-> About personal development:
+> > About personal development:
 > ✅ I'm working on being more confident in meetings
 > ✅ I'm pushing myself to speak up more often
 > ✅ I'm trying to improve my communication skills
@@ -78,8 +77,9 @@
 > ✅ I'm pushing myself to take on more responsibility
 > ✅ My goal is to start my own company
 > ✅ I'm aiming to change careers next year
-> ```
+> 
 >
+
 > [!tip] 🔥 Talking About Your Progress
 > 
 > **Positive progress:**
@@ -106,8 +106,7 @@
 > 
 > **Ejemplos completos:**
 > 
-> ```
-> Positive:
+> > Positive:
 > ✅ I'm making real progress with my business plan
 > ✅ I'm getting better at public speaking every week
 > ✅ I'm on track to achieve my goal by the end of the year
@@ -118,8 +117,9 @@
 > ✅ I'm struggling with time management, but I'm working on it
 > ✅ It's harder than I thought, but I won't give up
 > ✅ I'm finding it difficult to balance work and study
-> ```
+> 
 >
+
 > [!example] 💭 Expressing Determination & Persistence
 > 
 > **Strong commitment expressions:**
@@ -136,8 +136,7 @@
 > 
 > **Talking about persistence:**
 > 
-> ```
-> ✅ I keep pushing myself even when it's hard
+> > ✅ I keep pushing myself even when it's hard
 > ✅ I'm not going to let setbacks stop me
 > ✅ Every time I fail, I try again
 > ✅ I believe in working hard and staying focused
@@ -145,7 +144,7 @@
 > ✅ I'm willing to do whatever it takes
 > ✅ I'm prepared to put in the effort
 > ✅ I won't let obstacles get in my way
-> ```
+> 
 > 
 > **Responding to doubts (yours or others'):**
 > 
@@ -159,13 +158,12 @@
 > 
 > **Natural combinations:**
 > 
-> ```
-> ✅ I'm determined to succeed, no matter how long it takes
+> > ✅ I'm determined to succeed, no matter how long it takes
 > ✅ I'm committed to this goal, and I won't give up
 > ✅ I'm going to keep trying until I get it right
 > ✅ I refuse to quit when I've come this far
 > ✅ I'm in it for the long haul, so I'm being patient
-> ```
+> 
 
 ---
 
@@ -187,8 +185,7 @@
 > 
 > **More elaborate encouragement:**
 > 
-> ```
-> ✅ You're making real progress, keep it up!
+> > ✅ You're making real progress, keep it up!
 > ✅ I can see how hard you're working
 > ✅ You're so close, don't stop now!
 > ✅ I believe in you, you've got this
@@ -198,7 +195,7 @@
 > ✅ You've come so far already
 > ✅ I'm proud of how much effort you're putting in
 > ✅ Don't let this setback discourage you
-> ```
+> 
 > 
 > **Responding to someone who wants to quit:**
 > 
@@ -210,6 +207,7 @@
 > |"I'm tired"|**Take a break, but don't quit. You've got this**|
 > |"I keep failing"|**Failure is part of learning. Keep trying!**|
 >
+
 > [!success] 🎯 Giving Advice with Conditionals
 > 
 > **Using "If I were you" (Second Conditional):**
@@ -223,8 +221,7 @@
 > 
 > **Ejemplos completos:**
 > 
-> ```
-> About goals:
+> > About goals:
 > ✅ If I were you, I would set smaller, achievable goals
 > ✅ If I were you, I'd write down your goals
 > ✅ If I were you, I wouldn't try to do everything at once
@@ -241,7 +238,7 @@
 > ✅ If I were you, I'd apply for that job
 > ✅ If I were you, I wouldn't let fear stop you
 > ✅ If I were in your position, I would go for it
-> ```
+> 
 > 
 > **Softening advice (more polite):**
 > 
@@ -252,15 +249,15 @@
 > |Do this...|**Have you considered...?**|
 > |Don't do that...|**I wouldn't recommend...**|
 > 
-> ```
-> ✅ Maybe you could try a different approach
+> > ✅ Maybe you could try a different approach
 > ✅ It might help if you broke it into smaller steps
 > ✅ Have you considered getting a mentor?
 > ✅ I wouldn't recommend giving up just yet
 > ✅ You might want to think about taking a course
 > ✅ It could be useful to set a deadline
-> ```
+> 
 >
+
 > [!tip] 🌟 Motivational Phrases (Like a Coach!)
 > 
 > **Power phrases for motivation:**
@@ -275,8 +272,7 @@
 > 
 > **Complete motivational responses:**
 > 
-> ```
-> When someone is starting:
+> > When someone is starting:
 > ✅ "This is exciting! The hardest part is starting, and you're doing it!"
 > ✅ "Every journey begins with a single step. You're on your way!"
 > ✅ "Don't wait for the perfect moment—create it. Start now!"
@@ -295,7 +291,7 @@
 > ✅ "Look how far you've already come. That's proof you can do this!"
 > ✅ "Your past successes show you're capable. This is no different!"
 > ✅ "Doubt is normal, but don't let it stop you. Feel it and move forward anyway"
-> ```
+> 
 
 ---
 
@@ -318,8 +314,7 @@
 > 
 > **❌ Error común:**
 > 
-> ```
-> ❌ GIVE up (stress en el verbo)
+> > ❌ GIVE up (stress en el verbo)
 > ✅ give UP (stress en la partícula)
 > 
 > ❌ WORK on
@@ -327,12 +322,11 @@
 > 
 > ❌ KEEP going
 > ✅ keep GOing
-> ```
+> 
 > 
 > **Practice drill:**
 > 
-> ```
-> Repeat with correct stress:
+> > Repeat with correct stress:
 > 
 > 1. Don't give UP!
 > 2. Keep GOing!
@@ -342,12 +336,11 @@
 > 6. Get Over it!
 > 7. Take it ON!
 > 8. Figure it OUT!
-> ```
+> 
 > 
 > **En oraciones completas:**
 > 
-> ```
-> ✅ I'm not going to give UP on my dreams
+> > ✅ I'm not going to give UP on my dreams
 >                         ↑ UP
 > 
 > ✅ You need to keep GOing even when it's hard
@@ -358,8 +351,9 @@
 > 
 > ✅ She wants to set UP her own business
 >                   ↑ UP
-> ```
+> 
 >
+
 > [!example] 🔗 Linking & Connected Speech
 > 
 > **Linking consonant to vowel:**
@@ -374,8 +368,7 @@
 > 
 > **Connected speech in full sentences:**
 > 
-> ```
-> Written: Don't give up on your dreams
+> > Written: Don't give up on your dreams
 > Sounds: Don't_give_up_on_your dreams
 > IPA: /dəʊnt ɡɪˈvʌ pɒn jɔː driːmz/
 > 
@@ -390,7 +383,7 @@
 > Written: I want to set up a business
 > Sounds: I_want_to set_up_a business
 > IPA: /aɪ wɒn tə seˈtʌp ə ˈbɪznəs/
-> ```
+> 
 > 
 > **Reduction in casual speech:**
 > 
@@ -403,12 +396,12 @@
 > 
 > **⚠️ Use in speaking, not formal writing!**
 >
+
 > [!tip] 🎯 Intonation for Encouragement
 > 
 > **Rising intonation = Encouraging / Enthusiastic:**
 > 
-> ```
-> ✅ Keep going! ↗️
+> > ✅ Keep going! ↗️
 >    (High pitch on "going" = enthusiasm)
 > 
 > ✅ You can do it! ↗️
@@ -419,12 +412,11 @@
 > 
 > ✅ Almost there! ↗️
 >    (Excitement)
-> ```
+> 
 > 
 > **Falling intonation = Serious advice / Reassurance:**
 > 
-> ```
-> ✅ Don't give up. ↘️
+> > ✅ Don't give up. ↘️
 >    (Calm, serious)
 > 
 > ✅ You're doing great. ↘️
@@ -435,12 +427,11 @@
 > 
 > ✅ Keep at it. ↘️
 >    (Firm advice)
-> ```
+> 
 > 
 > **Stress on key words for emphasis:**
 > 
-> ```
-> ✅ You CAN do this!
+> > ✅ You CAN do this!
 >    (Emphasis on ability)
 > 
 > ✅ DON'T give up!
@@ -451,7 +442,7 @@
 > 
 > ✅ You're SO close!
 >    (Emphasis on proximity to goal)
-> ```
+> 
 > 
 > **Tone chart:**
 > 
@@ -471,8 +462,7 @@
 > 
 > **Practice these patterns:**
 > 
-> ```
-> 1. I'm working on...
+> > 1. I'm working on...
 >    → I'm working on improving my English
 >    → I'm working on getting healthier
 >    → I'm working on being more confident
@@ -491,26 +481,25 @@
 >    → I'm pushing myself to take more risks
 >    → I'm pushing myself to speak in public
 >    → I'm pushing myself to learn something new every day
-> ```
+> 
 > 
 > **Your turn! Complete these sentences about yourself:**
 > 
-> ```
-> 1. Right now, I'm working on _________________________
+> > 1. Right now, I'm working on _________________________
 > 2. I'm trying to _________________________ every day
 > 3. My biggest goal this year is to _________________________
 > 4. I'm pushing myself to _________________________
 > 5. The most challenging thing I'm working on is _________________________
-> ```
+> 
 >
+
 > [!tip] 🎤 Drill 2: Encouraging a Friend
 > 
 > **Scenario: Your friend wants to give up on learning guitar**
 > 
 > **Practice these responses:**
 > 
-> ```
-> 6. Basic encouragement:
+> > 6. Basic encouragement:
 >    ✅ "Don't give up! You're making progress!"
 >    ✅ "Keep going! It takes time to learn an instrument"
 >    ✅ "You can do this! I believe in you"
@@ -530,7 +519,7 @@
 >        You've already learned the basics. 
 >        If I were you, I would just practice 10 minutes a day.
 >        Keep at it, and I promise you'll get better!"
-> ```
+> 
 > 
 > **Now practice with these scenarios:**
 > 
@@ -541,6 +530,7 @@
 > |Classmate failing a difficult subject|___________________________|
 > |Colleague thinking of abandoning a project|___________________________|
 >
+
 > [!example] 🎤 Drill 3: Responding to Challenges
 > 
 > **Practice responding naturally to these statements:**
@@ -555,13 +545,12 @@
 > 
 > **Sample answers:**
 > 
-> ```
-> ✅ "Please don't give up, you've come so far!"
+> > ✅ "Please don't give up, you've come so far!"
 > ✅ "I know it's hard, but you're stronger than you think"
 > ✅ "Failure is just feedback. Keep trying and learning!"
 > ✅ "If I were you, I would take a short break and then try again"
 > ✅ "Take a rest, but don't give up now. You're almost there!"
-> ```
+> 
 > 
 > **Challenge yourself:**
 > 
@@ -618,51 +607,46 @@ mindmap
 > 
 > **About YOUR goals:**
 > 
-> ```
-> ✅ I'm working on improving...
+> > ✅ I'm working on improving...
 > ✅ I'm trying to be more...
 > ✅ My goal is to...
 > ✅ I'm pushing myself to...
 > ✅ I'm determined to...
-> ```
+> 
 > 
 > **About YOUR progress:**
 > 
-> ```
-> ✅ I'm making progress
+> > ✅ I'm making progress
 > ✅ I'm getting better at...
 > ✅ It's challenging, but...
 > ✅ I'm struggling with... but I won't give up
-> ```
+> 
 > 
 > **Encouraging OTHERS:**
 > 
-> ```
-> ✅ Don't give up!
+> > ✅ Don't give up!
 > ✅ Keep going!
 > ✅ You can do it!
 > ✅ You're doing great!
 > ✅ I believe in you!
-> ```
+> 
 > 
 > **Giving ADVICE:**
 > 
-> ```
-> ✅ If I were you, I would...
+> > ✅ If I were you, I would...
 > ✅ Maybe you could...
 > ✅ Have you considered...
 > ✅ It might help if...
-> ```
+> 
 > 
 > **PRONUNCIATION reminders:**
 > 
-> ```
-> ✅ give UP (not GIVE up)
+> > ✅ give UP (not GIVE up)
 > ✅ keep GOing (not KEEP going)
 > ✅ work ON (not WORK on)
 > ✅ Link sounds: give_up, work_on
 > ✅ Rising intonation ↗️ for encouragement
-> ```
+> 
 
 ---
 
@@ -696,5 +680,13 @@ mindmap
 > - 🗣️ Have real conversations about success and motivation
 
 ---
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa: [[Inglés I (B1-B2)]]
+> - Anterior: [[02 - Grammar & Examples - Phrasal Verbs + Unreal Conditionals]]
+> - Siguiente: [[04 - Reading, Writing, Speaking - Pushing Yourself]]
 
 **Tags:** #english #functional-language #pronunciation #speaking #encouragement #advice #unit11 #pushing-yourself #motivation #intonation #phrasal-verbs-pronunciation

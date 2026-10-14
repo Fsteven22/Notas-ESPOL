@@ -24,31 +24,28 @@
 > 
 > **Positive:** Subject + used to + base verb
 > 
-> ```
-> I used to play football. (Yo solía jugar fútbol)
+> > I used to play football. (Yo solía jugar fútbol)
 > She used to live in Paris. (Ella solía vivir en París)
 > They used to be friends. (Ellos solían ser amigos)
-> ```
+> 
 > 
 > **Negative:** Subject + didn't use to + base verb
 > 
-> ```
-> I didn't use to like vegetables. (No me gustaban las verduras antes)
+> > I didn't use to like vegetables. (No me gustaban las verduras antes)
 > He didn't use to exercise. (Él no solía ejercitarse)
 > We didn't use to have a car. (No teníamos carro antes)
 > 
 > Note: "didn't used to" is grammatically incorrect but common in speech
-> ```
+> 
 > 
 > **Questions:** Did + subject + use to + base verb?
 > 
-> ```
-> Did you use to smoke? (¿Solías fumar?)
+> > Did you use to smoke? (¿Solías fumar?)
 > Did she use to work here? (¿Ella solía trabajar aquí?)
 > Where did they use to live? (¿Dónde solían vivir?)
 > 
 > Note: NOT "Did you used to...?"
-> ```
+> 
 
 ### 🎯 When to Use "Used to"
 
@@ -56,8 +53,7 @@
 > 
 > **Use 1: Past habits that no longer happen**
 > 
-> ```
-> I used to go to the gym every day.
+> > I used to go to the gym every day.
 > → Past habit: went regularly before
 > → Now: don't go anymore / go less
 > 
@@ -68,12 +64,11 @@
 > We used to play video games all night.
 > → Past: played regularly
 > → Now: don't do this anymore
-> ```
+> 
 > 
 > **Use 2: Past states or situations**
 > 
-> ```
-> I used to live in London.
+> > I used to live in London.
 > → Past: lived there
 > → Now: don't live there anymore
 > 
@@ -84,12 +79,11 @@
 > There used to be a park here.
 > → Past: park existed
 > → Now: park doesn't exist
-> ```
+> 
 > 
 > **Use 3: Past facts that are no longer true**
 > 
-> ```
-> This building used to be a school.
+> > This building used to be a school.
 > → Past: was a school
 > → Now: something else
 > 
@@ -100,7 +94,7 @@
 > They used to be rich.
 > → Past: were rich
 > → Now: not rich anymore
-> ```
+> 
 
 ### 💡 Examples in Context
 
@@ -108,30 +102,27 @@
 > 
 > **Talking about childhood:**
 > 
-> ```
-> • "I used to watch cartoons every Saturday morning."
+> > • "I used to watch cartoons every Saturday morning."
 > • "We used to play outside all day."
 > • "My dad used to read me stories before bed."
 > • "I didn't use to like school."
-> ```
+> 
 > 
 > **Describing changes:**
 > 
-> ```
-> • "I used to be afraid of dogs, but now I love them."
+> > • "I used to be afraid of dogs, but now I love them."
 > • "She used to work in marketing, but now she's a teacher."
 > • "This town used to be very quiet."
 > • "We didn't use to have smartphones."
-> ```
+> 
 > 
 > **Past routines:**
 > 
-> ```
-> • "I used to take the bus to work."
+> > • "I used to take the bus to work."
 > • "He used to call his mom every Sunday."
 > • "They used to meet for coffee every week."
 > • "Did you use to play any sports?"
-> ```
+> 
 
 ### ⚠️ Common Mistakes
 
@@ -139,37 +130,34 @@
 > 
 > **Mistake 1: Using it for present habits**
 > 
-> ```
-> ✗ I used to go to the gym now.
+> > ✗ I used to go to the gym now.
 > ✓ I usually go to the gym. / I go to the gym regularly.
 > 
 > "Used to" = PAST only
 > "Usually" = PRESENT habits
-> ```
+> 
 > 
 > **Mistake 2: Wrong form in questions/negatives**
 > 
-> ```
-> ✗ Did you used to smoke?
+> > ✗ Did you used to smoke?
 > ✓ Did you use to smoke?
 > 
 > ✗ I didn't used to like it.
 > ✓ I didn't use to like it.
 > 
 > After "did/didn't" → use "use to" (no 'd')
-> ```
+> 
 > 
 > **Mistake 3: Confusing with "be used to"**
 > 
-> ```
-> Used to (past habits):
+> > Used to (past habits):
 > ✓ I used to live in Tokyo. (Antes vivía en Tokio)
 > 
 > Be used to (accustomed to):
 > ✓ I'm used to living in Tokyo. (Estoy acostumbrado a vivir en Tokio)
 > 
 > These are DIFFERENT structures!
-> ```
+> 
 
 ### 🔄 Used to vs Would
 
@@ -177,8 +165,7 @@
 > 
 > **Both can describe past habits, but:**
 > 
-> ```
-> USED TO:
+> > USED TO:
 > • Past habits AND past states
 > • More common in everyday speech
 > • Can be used with any verb
@@ -199,7 +186,7 @@
 > ✗ I would be shy. (can't use with states)
 > 
 > Safe choice: Use "used to" for everything!
-> ```
+> 
 
 ---
 
@@ -222,8 +209,7 @@
 > 
 > **Positive (equal):** as + adjective/adverb + as
 > 
-> ```
-> John is as tall as Michael.
+> > John is as tall as Michael.
 > (John tiene la misma altura que Michael)
 > 
 > She runs as fast as her brother.
@@ -231,12 +217,11 @@
 > 
 > This book is as interesting as that one.
 > (Este libro es tan interesante como ese)
-> ```
+> 
 > 
 > **Negative (not equal):** not as + adjective/adverb + as
 > 
-> ```
-> I'm not as tall as you.
+> > I'm not as tall as you.
 > (No soy tan alto como tú)
 > 
 > She doesn't run as fast as him.
@@ -244,12 +229,11 @@
 > 
 > This book isn't as interesting as that one.
 > (Este libro no es tan interesante como ese)
-> ```
+> 
 > 
 > **Questions:** verb + subject + as + adjective/adverb + as...?
 > 
-> ```
-> Is she as smart as her sister?
+> > Is she as smart as her sister?
 > (¿Es ella tan inteligente como su hermana?)
 > 
 > Do you work as hard as before?
@@ -257,7 +241,7 @@
 > 
 > Was the movie as good as the book?
 > (¿Fue la película tan buena como el libro?)
-> ```
+> 
 
 ### 🎯 When to Use AS...AS
 
@@ -265,8 +249,7 @@
 > 
 > **Use 1: Showing equality**
 > 
-> ```
-> Your car is as expensive as mine.
+> > Your car is as expensive as mine.
 > (Tu carro es tan caro como el mío)
 > → Same price/value
 > 
@@ -277,12 +260,11 @@
 > This coffee is as hot as that one.
 > (Este café está tan caliente como ese)
 > → Same temperature
-> ```
+> 
 > 
 > **Use 2: Showing inequality (negative)**
 > 
-> ```
-> My car is not as expensive as yours.
+> > My car is not as expensive as yours.
 > (Mi carro no es tan caro como el tuyo)
 > → Your car is more expensive
 > 
@@ -293,7 +275,7 @@
 > Today isn't as cold as yesterday.
 > (Hoy no está tan frío como ayer)
 > → Yesterday was colder
-> ```
+> 
 
 ### 📊 AS...AS vs COMPARATIVE Forms
 
@@ -301,32 +283,29 @@
 > 
 > **AS...AS (equal or comparing levels):**
 > 
-> ```
-> She is as intelligent as her brother.
+> > She is as intelligent as her brother.
 > (Equality: same level)
 > 
 > I'm not as fast as you.
 > (Not equal: you're faster)
-> ```
+> 
 > 
 > **COMPARATIVE (direct comparison, one is more):**
 > 
-> ```
-> She is more intelligent than him.
+> > She is more intelligent than him.
 > (Direct: she has MORE intelligence)
 > 
 > You are faster than me.
 > (Direct: you have MORE speed)
-> ```
+> 
 > 
 > **Converting between them:**
 > 
-> ```
-> These mean the SAME:
+> > These mean the SAME:
 > • He's not as tall as me. = I'm taller than him.
 > • This isn't as expensive as that. = That's more expensive than this.
 > • She's not as old as John. = John is older than her.
-> ```
+> 
 
 ### 💡 Common Expressions with AS...AS
 
@@ -334,8 +313,7 @@
 > 
 > **Very common comparisons:**
 > 
-> ```
-> • as easy as pie = muy fácil
+> > • as easy as pie = muy fácil
 >   "The exam was as easy as pie!"
 > 
 > • as old as the hills = muy viejo
@@ -358,7 +336,7 @@
 > 
 > • as strong as an ox = muy fuerte
 >   "My grandfather is as strong as an ox."
-> ```
+> 
 
 ### 🔢 Using Quantities with AS...AS
 
@@ -366,8 +344,7 @@
 > 
 > **With much/many:**
 > 
-> ```
-> I don't have as much money as you.
+> > I don't have as much money as you.
 > (No tengo tanto dinero como tú)
 > 
 > She doesn't read as many books as her sister.
@@ -375,21 +352,19 @@
 > 
 > We need as much time as possible.
 > (Necesitamos tanto tiempo como sea posible)
-> ```
+> 
 > 
 > **With numbers:**
 > 
-> ```
-> I've been here as long as you. (time)
+> > I've been here as long as you. (time)
 > She's as old as me. (age)
 > This weighs as much as 10 kilos. (weight)
 > It costs as much as $500. (price)
-> ```
+> 
 > 
 > **With twice/three times/half:**
 > 
-> ```
-> This is twice as expensive as that.
+> > This is twice as expensive as that.
 > (Esto es el doble de caro que eso)
 > 
 > He's three times as fast as me.
@@ -397,7 +372,7 @@
 > 
 > I'm half as old as my brother.
 > (Tengo la mitad de la edad de mi hermano)
-> ```
+> 
 
 ### ⚠️ Common Mistakes
 
@@ -405,48 +380,44 @@
 > 
 > **Mistake 1: Using "than" instead of second "as"**
 > 
-> ```
-> ✗ She's as tall than me.
+> > ✗ She's as tall than me.
 > ✓ She's as tall as me.
 > 
 > ✗ Not as expensive than yours.
 > ✓ Not as expensive as yours.
 > 
 > Remember: as...AS (not "as...than")
-> ```
+> 
 > 
 > **Mistake 2: Wrong word order**
 > 
-> ```
-> ✗ She is tall as as me.
+> > ✗ She is tall as as me.
 > ✓ She is as tall as me.
 > 
 > ✗ He not is as fast as you.
 > ✓ He is not as fast as you.
-> ```
+> 
 > 
 > **Mistake 3: Confusing with comparatives**
 > 
-> ```
-> ✗ She's as more intelligent as him.
+> > ✗ She's as more intelligent as him.
 > ✓ She's as intelligent as him.
 > OR
 > ✓ She's more intelligent than him.
 > 
 > Don't mix "as...as" with "more...than"
-> ```
+> 
 > 
 > **Mistake 4: Using adjective comparative form**
 > 
-> ```
-> ✗ He's as taller as me.
+> > ✗ He's as taller as me.
 > ✓ He's as tall as me.
 > 
 > ✗ This is as more expensive as that.
 > ✓ This is as expensive as that.
 > 
 > Use base adjective, not comparative (-er/more)
-> ```
+> 
 
 ---
 
@@ -455,8 +426,7 @@
 > [!success] Practice: 
 > ### Exercise 1: Used to - Complete the sentences
 > 
-> ```
-> 1. I __________ (play) football when I was younger.
+> > 1. I __________ (play) football when I was younger.
 > 2. __________ you __________ (live) in London?
 > 3. She __________ (not/like) coffee, but now she loves it.
 > 4. We __________ (go) to the beach every summer.
@@ -466,12 +436,11 @@
 > 8. There __________ (be) a cinema here.
 > 9. My parents __________ (travel) a lot before they had kids.
 > 10. What __________ you __________ (do) in your free time?
-> ```
+> 
 > 
 > **Answers:**
 > 
-> ```
-> 1. used to play
+> > 1. used to play
 > 2. Did / use to live
 > 3. didn't use to like
 > 4. used to go
@@ -481,12 +450,11 @@
 > 8. used to be
 > 9. used to travel
 > 10. did / use to do
-> ```
+> 
 > 
 > ### Exercise 2: As...as - Complete with the correct form
 > 
-> ```
-> 1. John is __________ tall __________ Michael. (equal height)
+> > 1. John is __________ tall __________ Michael. (equal height)
 > 2. This book isn't __________ interesting __________ that one. (less interesting)
 > 3. Is your car __________ fast __________ mine? (question - equal speed)
 > 4. I don't work __________ hard __________ you. (less hard)
@@ -496,12 +464,11 @@
 > 8. My phone isn't __________ new __________ yours. (less new)
 > 9. Are you __________ tired __________ me? (question - equal tired)
 > 10. This exercise is __________ easy __________ pie! (idiom)
-> ```
+> 
 > 
 > **Answers:**
 > 
-> ```
-> 1. as / as
+> > 1. as / as
 > 2. as / as
 > 3. as / as
 > 4. as / as
@@ -511,32 +478,29 @@
 > 8. as / as
 > 9. as / as
 > 10. as / as
-> ```
+> 
 > 
 > ### Exercise 3: Mixed - Used to and As...as
 > 
-> ```
-> 1. I __________ (be) as shy as my sister, but now I'm more confident.
+> > 1. I __________ (be) as shy as my sister, but now I'm more confident.
 > 2. He __________ (not/run) as fast as he does now.
 > 3. __________ you __________ (be) as busy as you are today?
 > 4. We __________ (have) as much money as we do now.
 > 5. This city __________ (not/be) as crowded as it is today.
-> ```
+> 
 > 
 > **Answers:**
 > 
-> ```
-> 6. used to be
+> > 6. used to be
 > 7. didn't use to run
 > 8. Did / use to be
 > 9. didn't use to have
 > 10. didn't use to be
-> ```
+> 
 > 
 > ### Exercise 4: Rewrite the sentences
 > 
-> ```
-> Rewrite using "used to" or "as...as":
+> > Rewrite using "used to" or "as...as":
 > 
 > 11. In the past, I smoked. (Now I don't)
 >    → _________________________________
@@ -552,17 +516,16 @@
 > 
 > 15. When I was young, I played piano. (Now I don't)
 >    → _________________________________
-> ```
+> 
 > 
 > **Answers:**
 > 
-> ```
-> 16. I used to smoke.
+> > 16. I used to smoke.
 > 17. John is as tall as Mike. / Mike is as tall as John.
 > 18. She used to live in Paris.
 > 19. My car is not as expensive as yours. / Your car is more expensive than mine.
 > 20. I used to play piano when I was young.
-> ```
+> 
 > 
 
 ---
@@ -573,28 +536,33 @@
 > 
 > ### USED TO - Summary
 > 
-> ```
-> ✓ Past habits/states that are NO LONGER true
+> > ✓ Past habits/states that are NO LONGER true
 > ✓ Positive: used to + verb
 > ✓ Negative: didn't use to + verb
 > ✓ Question: Did + subject + use to + verb?
 > ✗ Cannot use for present habits (use "usually" instead)
 > ✗ Different from "be used to" (accustomed)
-> ```
+> 
 > 
 > ### AS...AS - Summary
 > 
-> ```
-> ✓ Compare two things that are equal/similar
+> > ✓ Compare two things that are equal/similar
 > ✓ Positive: as + adjective/adverb + as
 > ✓ Negative: not as + adjective/adverb + as
 > ✓ Can use with much/many, numbers, twice/half
 > ✗ Don't use "than" (it's "as...as" not "as...than")
 > ✗ Don't use comparative forms (-er/more) with as...as
-> ```
+> 
 > 
 
 ---
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa: [[Universidad/1er Semestre/Ingles I (B1-B2)/Inglés I (B1-B2)\|Inglés I (B1-B2)]]
+> - Siguiente: [[Universidad/1er Semestre/Ingles I (B1-B2)/Unit 7- Entertain us/Vocabulary – Music, TV & Movies\|Vocabulary – Music, TV & Movies]]
 
 **Tags:** #grammar #used-to #comparisons #as-as #past-habits #equality #comparatives #english-grammar
 

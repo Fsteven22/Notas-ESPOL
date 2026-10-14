@@ -9,6 +9,7 @@
 
 > [!info] 📖 Definición de Elasticidad La **elasticidad** es la propiedad fundamental que tienen los cuerpos para **deformarse** bajo la acción de una fuerza externa y, posteriormente, **recuperar su forma original** cuando la fuerza se elimina. Este comportamiento diferencia a los materiales reales de los cuerpos rígidos ideales estudiados en mecánica clásica.
 >
+
 > [!note] 📝 Transición Conceptual Mientras que la **dinámica** y el **equilibrio** tratan a los objetos como cuerpos rígidos perfectos, la **elasticidad** reconoce que todos los materiales reales poseen cierta capacidad de deformación. La rigidez se convierte así en una propiedad intrínseca y cuantificable de cada material específico.
 
 **Importancia en la física y ingeniería:**
@@ -54,6 +55,7 @@
 > 
 > **Interpretación:** Representa la intensidad de la fuerza distribuida sobre el área de contacto. Una misma fuerza produce mayor tensión en áreas menores.
 >
+
 > [!note] 📝 Deformación Unitaria **Deformación relativa:** $$\epsilon = \frac{\Delta L}{L_0}$$
 > 
 > **Interpretación:** Mide qué fracción de su longitud original se ha deformado el objeto. Es independiente del tamaño absoluto del cuerpo.
@@ -66,6 +68,7 @@
 > 
 > **Validez:** Solo aplicable dentro del rango elástico del material
 >
+
 > [!example] 🔍 Ley de Hooke para Resortes **Caso particular para resortes:** $$F = k \cdot x$$
 > 
 > Donde:
@@ -147,6 +150,7 @@ graph LR
 > - Deformación completamente reversible
 > - Zona de trabajo segura para aplicaciones
 >
+
 > [!warning] ⚠️ Límite Elástico **Punto crítico de transición:**
 > 
 > - Máxima tensión para deformación completamente reversible
@@ -154,6 +158,7 @@ graph LR
 > - Criterio de diseño: trabajar por debajo de este límite
 > - Varía significativamente entre materiales
 >
+
 > [!danger] 🚨 Región Plástica **Deformación permanente:**
 > 
 > - La Ley de Hooke ya no es válida
@@ -161,6 +166,7 @@ graph LR
 > - Comportamiento no lineal y complejo
 > - Puede preceder a la fractura del material
 >
+
 > [!danger] 🚨 Punto de Fractura **Falla catastrófica del material:**
 > 
 > - Tensión máxima que puede soportar el material
@@ -234,6 +240,7 @@ graph LR
 
 > [!info] 📖 Energía en Sistemas Elásticos **Concepto fundamental:** El trabajo realizado para deformar un objeto elástico se **almacena** como energía potencial elástica, que puede liberarse cuando el objeto recupera su forma original.
 >
+
 > [!tip] 💡 Energía Potencial Elástica **Para un resorte ideal:** $$U_{elástica} = \frac{1}{2}kx^2$$
 > 
 > **Para deformación general:** $$U = \frac{1}{2} \sigma \epsilon V$$
@@ -316,6 +323,7 @@ mindmap
 > - **Comparación con casos límite** conocidos
 > - **Consideración de factores de seguridad** en aplicaciones
 >
+
 > [!warning] ⚠️ Errores Comunes a Evitar **❌ Conceptuales:**
 > 
 > - Confundir tensión (σ) con fuerza (F)
@@ -341,6 +349,7 @@ mindmap
 > - [[Fuerzas y DCL]] - Fuerzas de restitución elástica
 > - [[Segunda Ley de Newton]] - Análisis dinámico de sistemas elásticos
 >
+
 > [!quote] 🔗 Aplicaciones Avanzadas
 > 
 > - [[Mecánica de Materiales]] - Análisis de esfuerzos complejos

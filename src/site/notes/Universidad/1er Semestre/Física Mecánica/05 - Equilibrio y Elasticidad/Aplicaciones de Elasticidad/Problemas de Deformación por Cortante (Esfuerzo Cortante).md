@@ -7,6 +7,7 @@
 
 > [!quote] "El cortante es el arte sutil de la deformación: mientras la tensión estira y la compresión aprieta, el cortante desliza las capas del material como páginas de un libro que se hojea." ✂️
 >
+
 > [!info] El esfuerzo cortante representa uno de los estados de carga más importantes en ingeniería, caracterizado por fuerzas que actúan paralelas a las superficies del material. A diferencia de los esfuerzos normales (tensión/compresión), el cortante produce deformaciones angulares y deslizamientos entre capas del material.
 
 ## 🔄 Fundamentos Teóricos
@@ -30,6 +31,7 @@
 > |Distribución|Variable según geometría|Pa|
 > |Complementariedad|τxy = τyx|Pa|
 >
+
 > [!tip] **Ley de Hooke para Cortante** 🔧
 > 
 > ### Relación Esfuerzo-Deformación:
@@ -53,6 +55,7 @@
 > - **Δx**: Desplazamiento horizontal
 > - **h**: Altura del elemento
 >
+
 > [!warning] **Tipos de Esfuerzo Cortante** ⚔️
 > 
 > ### Clasificación por Origen:
@@ -81,6 +84,7 @@
 > - **Cortante combinado**: Con esfuerzos normales
 > - **Cortante máximo**: τmax = (σ1 - σ3)/2
 >
+
 > [!success] 🔗 Distribución de Esfuerzos Cortantes
 > 
 > ```mermaid
@@ -96,6 +100,7 @@
 >     style G fill:#fff3e0
 > ```
 >
+
 > [!note] **Propiedades de Materiales en Cortante** 📊
 > 
 > ### Módulos de Rigidez Típicos (G):
@@ -188,6 +193,7 @@
 > - γ = τ/G = 159.1 MPa / 80,000 MPa = 1.99 × 10⁻³ rad
 > - θ = γ = 0.114° (ángulo muy pequeño)
 >
+
 > [!example] **Problema 2: Torsión en Eje Circular** 🌀
 > 
 > ### Enunciado:
@@ -219,6 +225,7 @@
 > - d_min⁴ = 32J_min/π = 9,549,297 mm⁴
 > - d_min = 55.4 mm
 >
+
 > [!example] **Problema 3: Cortante en Viga (Flexión)** 📏
 > 
 > ### Enunciado:
@@ -256,6 +263,7 @@
 > 
 > **G**amma es deformación angular (**G** × γ = τ) **A**rea en denominador (τ = V/**A**) **T**au es cortante (**T**orque genera τ) **O**rtogonal a la normal (esfuerzo **O**blicuo)
 >
+
 > [!info] **Reglas Nemotécnicas Adicionales** 🎯
 > 
 > ### "PARA-TOR": **PARA**lelo al área, **TOR**que causa cortante

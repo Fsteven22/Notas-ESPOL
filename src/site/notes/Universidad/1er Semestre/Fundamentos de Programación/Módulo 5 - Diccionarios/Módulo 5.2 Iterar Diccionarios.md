@@ -9,6 +9,7 @@
 
 > [!info] 🌟 **¿Qué es la Iteración de Diccionarios?** La iteración es el proceso de recorrer sistemáticamente todos los elementos de un diccionario. A diferencia de las listas que tienen un índice numérico, los diccionarios requieren técnicas específicas para acceder a claves, valores o ambos durante la iteración.
 >
+
 > [!tip] 🔑 **Conceptos Clave**
 > 
 > - **Objetos Vista**: `.keys()`, `.values()`, `.items()` devuelven vistas dinámicas
@@ -20,6 +21,7 @@
 
 > [!info] 🔍 **¿Qué son los Objetos Vista?** Los métodos `.keys()`, `.values()` e `.items()` devuelven objetos vista que se actualizan automáticamente si el diccionario cambia. No son listas, sino ventanas dinámicas al diccionario original.
 >
+
 > [!example] **Demostración de Vista Dinámica**
 > 
 > ```python
@@ -59,6 +61,7 @@
 >    print(f"Valor: {cantidad}")
 > ```
 >
+
 > [!warning] ⚠️ **Cuándo Usar Cada Forma**
 > 
 > - **Implícita**: Cuando solo necesitas las claves o es obvio que iteras claves
@@ -83,6 +86,7 @@
 > print(f"Promedio general: {promedio:.2f}")
 > ```
 >
+
 > [!example] 🔢 **Operaciones Estadísticas**
 > 
 > ```python
@@ -118,6 +122,7 @@
 >        print(f"  ✅ Stock suficiente de {fruta}")
 > ```
 >
+
 > [!example] 📊 **Análisis de Datos Complejo**
 > 
 > ```python
@@ -167,6 +172,7 @@
 >    print(f"  {producto}: ${precio}")
 > ```
 >
+
 > [!info] 🔄 **Modificación Durante Iteración (CUIDADO)**
 > 
 > ```python
@@ -219,6 +225,7 @@
 >    print(f"  '{palabra}': {freq} veces")
 > ```
 >
+
 > [!example] 🔄 **Invertir Diccionario**
 > 
 > ```python
@@ -247,6 +254,7 @@
 >    print(f"  {ciudad} es capital de {pais}")
 > ```
 >
+
 > [!example] ➕ **Combinar Inventarios**
 > 
 > ```python
@@ -301,6 +309,7 @@
 > print(precios_con_iva)
 > ```
 >
+
 > [!tip] 🔗 **Enumerate con Diccionarios**
 > 
 > ```python
@@ -364,6 +373,7 @@ graph TD
 > - 📅 2 días: Dominar .items()
 > - 📅 1 día: Técnicas avanzadas y comprensiones
 >
+
 > [!info] 🔄 **Comparación de Eficiencia**
 > 
 > |Necesidad|❌ Ineficiente|✅ Eficiente|

@@ -7,6 +7,7 @@
 
 > [!quote] "Los materiales nos susurran sus secretos a través de sus deformaciones; la Ley de Hooke es nuestro intérprete para entender su lenguaje silencioso." 🔧
 >
+
 > [!info] La Ley de Hooke es uno de los principios fundamentales de la mecánica de materiales y la elasticidad. Describe la relación lineal entre la fuerza aplicada a un material elástico y su deformación resultante, siendo esencial para el análisis estructural y el diseño de elementos mecánicos.
 
 ## 🏗️ Fundamentos Teóricos
@@ -31,6 +32,7 @@
 > |Tensión (σ)|Fuerza por unidad de área|Pa (N/m²)|
 > |Deformación unitaria (ε)|Cambio relativo de longitud|Adimensional|
 >
+
 > [!tip] **Ley de Hooke para Materiales** 🧪
 > 
 > ### Formulación en Términos de Esfuerzo y Deformación:
@@ -54,6 +56,7 @@
 > - **Límite elástico**: Máximo esfuerzo sin deformación permanente
 > - **Zona plástica**: Deformación permanente tras límite elástico
 >
+
 > [!warning] **Tipos de Deformación** ⚡
 > 
 > ### Clasificación por Naturaleza:
@@ -77,6 +80,7 @@
 > - **Flexión**: Combinación de tracción y compresión
 > - **Torsión**: Fuerzas de giro (requiere módulo de rigidez G)
 >
+
 > [!success] 🔗 Diagrama Esfuerzo-Deformación
 > 
 > ```mermaid
@@ -94,6 +98,7 @@
 >     style D fill:#d1ecf1
 > ```
 >
+
 > [!note] **Propiedades Mecánicas Importantes** 📊
 > 
 > ### Módulos Elásticos Típicos:
@@ -179,6 +184,7 @@
 > 
 > - ΔL = ε × L₀ = 7.96 × 10⁻⁴ × 2000 mm = 1.59 mm
 >
+
 > [!example] **Problema 2: Sistema de Barras en Serie** 🔗
 > 
 > ### Enunciado:
@@ -203,6 +209,7 @@
 > 
 > **Deformación total**: ΔL_total = ΔL₁ + ΔL₂ = 1.0 + 0.95 = 1.95 mm
 >
+
 > [!example] **Problema 3: Compresión con Factor de Seguridad** 🛡️
 > 
 > ### Enunciado:
@@ -239,6 +246,7 @@
 > - **A**largamiento = ε × L₀
 > - **L**ímite elástico no superar
 >
+
 > [!info] **Reglas Nemotécnicas Adicionales** 🎯
 > 
 > ### "TED-AC": **T**ensión **E**s **D**irecta, **A**largamiento es **C**onsecuencia

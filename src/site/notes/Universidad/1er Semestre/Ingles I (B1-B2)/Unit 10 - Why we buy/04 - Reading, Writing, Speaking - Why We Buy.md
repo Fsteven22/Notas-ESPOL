@@ -78,12 +78,12 @@
 > 
 > ---
 >
+
 > [!note] 🔍 Reading Comprehension Questions
 > 
 > **Level 1: Basic Understanding**
 > 
-> ```
-> 1. What do recent studies show about price and quality?
+> > 1. What do recent studies show about price and quality?
 >    _________________________________________________
 > 
 > 2. How much does the handmade Italian leather jacket cost?
@@ -94,7 +94,7 @@
 > 
 > 4. What do modern consumers care about?
 >    _________________________________________________
-> ```
+> 
 > 
 > > [!success]- ✅ Answers - Level 1
 > > 
@@ -111,8 +111,7 @@
 > 
 > **Level 2: Inference & Analysis**
 > 
-> ```
-> 1. Why might the expensive leather jacket be "better value 
+> > 1. Why might the expensive leather jacket be "better value 
 >    for money in the long run"?
 >    _________________________________________________
 > 
@@ -124,7 +123,7 @@
 > 
 > 4. How does marketing influence our buying decisions?
 >    _________________________________________________
-> ```
+> 
 > 
 > > [!success]- ✅ Answers - Level 2
 > > 
@@ -141,8 +140,7 @@
 > 
 > **Level 3: Critical Thinking**
 > 
-> ```
-> 1. Do you agree that "quality often matters more than cost"? 
+> > 1. Do you agree that "quality often matters more than cost"? 
 >    Why or why not?
 >    _________________________________________________
 > 
@@ -154,7 +152,7 @@
 > 3. What factors are most important to YOU when buying products?
 >    Rank them: quality, price, brand, sustainability, design
 >    _________________________________________________
-> ```
+> 
 > 
 > > [!success]- ✅ Sample Answers - Level 3
 > > 
@@ -168,6 +166,7 @@
 > >     - 1. Quality, 2. Price, 3. Design, 4. Sustainability, 5. Brand
 > >     - (Accept any order with justification)
 >
+
 > [!tip] 📚 Vocabulary from Reading
 > 
 > **Key terms to extract:**
@@ -185,14 +184,13 @@
 > 
 > **Useful expressions:**
 > 
-> ```
-> ✅ in the long run = over a long period of time
+> > ✅ in the long run = over a long period of time
 > ✅ play a role = have an influence/effect
 > ✅ care deeply about = consider very important
 > ✅ appeal to = attract, be attractive to
 > ✅ we can't ignore = we must consider
 > ✅ a combination of = a mix of several factors
-> ```
+> 
 
 ---
 
@@ -202,8 +200,7 @@
 > 
 > **Assignment:**
 > 
-> ```
-> Write a product description for an item you own and like.
+> > Write a product description for an item you own and like.
 > Include:
 > • What it is
 > • What it's made of
@@ -212,7 +209,7 @@
 > • Why you like it / Why people should buy it
 > 
 > Length: 80-100 words
-> ```
+> 
 > 
 > **Writing Framework:**
 > 
@@ -241,8 +238,7 @@
 > > 
 > > **Example 1: Backpack**
 > > 
-> > ```
-> > I'd like to describe my favorite backpack. It's made of 
+> > > > I'd like to describe my favorite backpack. It's made of 
 > > waterproof polyester and reinforced with nylon. It's 
 > > manufactured in Vietnam using sustainable materials. 
 > > This backpack is very durable, lightweight, and has 
@@ -253,12 +249,11 @@
 > > it offers great value for money and lasts for years.
 > > 
 > > (87 words)
-> > ```
+> > 
 > > 
 > > **Example 2: Coffee Mug**
 > > 
-> > ```
-> > This is my ceramic travel mug. It's made of high-quality 
+> > > > This is my ceramic travel mug. It's made of high-quality 
 > > ceramic with a silicone lid and sleeve. It's handmade by 
 > > local artisans in my city. The mug is beautiful, durable, 
 > > and keeps drinks hot for hours. What I love most is that 
@@ -269,14 +264,13 @@
 > > It's definitely worth the investment.
 > > 
 > > (82 words)
-> > ```
+> > 
 > 
 > ---
 > 
 > **Writing Checklist:**
 > 
-> ```
-> ☐ Named the product clearly
+> > ☐ Named the product clearly
 > ☐ Described materials (made of...)
 > ☐ Mentioned origin/production (made in...)
 > ☐ Used 2-3 descriptive adjectives
@@ -284,14 +278,14 @@
 > ☐ Explained why it's good/worth buying
 > ☐ 80-100 words
 > ☐ Checked spelling and grammar
-> ```
+> 
 >
+
 > [!note] 📝 Writing Task 2: Product Review
 > 
 > **Assignment:**
 > 
-> ```
-> Write a product review (like on Amazon or similar sites).
+> > Write a product review (like on Amazon or similar sites).
 > Include:
 > • Star rating (⭐⭐⭐⭐⭐)
 > • Product name
@@ -300,7 +294,7 @@
 > • Would you recommend it?
 > 
 > Length: 100-120 words
-> ```
+> 
 > 
 > **Review Structure:**
 > 
@@ -329,8 +323,7 @@
 > > 
 > > **Example 1: Positive Review**
 > > 
-> > ```
-> > ⭐⭐⭐⭐⭐ Amazing Quality and Comfort!
+> > > > ⭐⭐⭐⭐⭐ Amazing Quality and Comfort!
 > > 
 > > I bought these running shoes three months ago and I'm 
 > > extremely impressed. They're made of breathable mesh 
@@ -345,12 +338,11 @@
 > > a great choice!
 > > 
 > > (104 words)
-> > ```
+> > 
 > > 
 > > **Example 2: Mixed Review**
 > > 
-> > ```
-> > ⭐⭐⭐⭐ Good Value, But Not Perfect
+> > > > ⭐⭐⭐⭐ Good Value, But Not Perfect
 > > 
 > > This laptop is made of aluminum and plastic, and it's 
 > > manufactured in China. I've been using it for work for 
@@ -365,14 +357,13 @@
 > > might want something more powerful.
 > > 
 > > (107 words)
-> > ```
+> > 
 > 
 > ---
 > 
 > **Review Writing Checklist:**
 > 
-> ```
-> ☐ Included star rating
+> > ☐ Included star rating
 > ☐ Clear product identification
 > ☐ Mentioned materials/production
 > ☐ Listed positive features
@@ -380,7 +371,7 @@
 > ☐ Clear recommendation
 > ☐ 100-120 words
 > ☐ Balanced and fair tone
-> ```
+> 
 
 ---
 
@@ -390,8 +381,7 @@
 > 
 > **Discussion Questions:**
 > 
-> ```
-> 1. Do you usually buy products based on price or quality?
+> > 1. Do you usually buy products based on price or quality?
 > 
 > 2. How important are brand names to you? Why?
 > 
@@ -401,7 +391,7 @@
 >    because of advertising? What was it?
 > 
 > 5. Do you prefer shopping online or in physical stores? Why?
-> ```
+> 
 > 
 > **Useful speaking phrases:**
 > 
@@ -417,8 +407,7 @@
 > > 
 > > **Question 1: Price vs Quality**
 > > 
-> > ```
-> > Sample A (Quality-focused):
+> > > > Sample A (Quality-focused):
 > > "I usually prioritize quality over price. I'd rather spend 
 > > more on something that lasts than buy cheap products 
 > > that break quickly. For example, I bought expensive 
@@ -430,12 +419,11 @@
 > > I look for good deals and lower prices because fashion 
 > > changes quickly. But for electronics or shoes, I invest 
 > > in quality because they're used daily and need to last."
-> > ```
+> > 
 > > 
 > > **Question 2: Brand Importance**
 > > 
-> > ```
-> > Sample A (Brand matters):
+> > > > Sample A (Brand matters):
 > > "Brand names are quite important to me, especially for 
 > > technology. I trust brands like Apple or Samsung because 
 > > their products are reliable and they offer good customer 
@@ -446,26 +434,25 @@
 > > the actual product features and reviews. Many generic 
 > > brands offer the same quality as expensive brands but 
 > > at half the price. You're often just paying for the name."
-> > ```
+> > 
 > > 
 > > **Question 4: Impulse Buying**
 > > 
-> > ```
-> > "Yes, definitely! Last month I bought a smartwatch 
+> > > > "Yes, definitely! Last month I bought a smartwatch 
 > > because I saw it in a really clever advertisement. 
 > > The commercial showed how it could improve your 
 > > fitness and productivity. I was convinced I needed it, 
 > > but honestly, I barely use half the features now. 
 > > It was a classic case of good marketing winning over 
 > > actual need!"
-> > ```
+> > 
 >
+
 > [!tip] 🎯 Speaking Task: Product Recommendation
 > 
 > **Task:**
 > 
-> ```
-> Recommend a product to a classmate/partner.
+> > Recommend a product to a classmate/partner.
 > Prepare a 1-2 minute presentation including:
 > 
 > • What the product is
@@ -474,7 +461,7 @@
 > • Why you recommend it
 > • Who it's perfect for
 > • Price range (optional)
-> ```
+> 
 > 
 > **Presentation Structure:**
 > 
@@ -491,19 +478,17 @@
 > 
 > **Opening hooks:**
 > 
-> ```
-> ✅ "If you're looking for..., I have the perfect recommendation."
+> > ✅ "If you're looking for..., I have the perfect recommendation."
 > ✅ "I want to tell you about a product that changed my life."
 > ✅ "Have you ever needed... ? Let me recommend something."
 > ✅ "Today I'd like to recommend a product I absolutely love."
-> ```
+> 
 > 
 > > [!success]- ✅ Sample Recommendation Speech
 > > 
 > > **Example: Wireless Earbuds**
 > > 
-> > ```
-> > "If you're looking for high-quality wireless earbuds that 
+> > > > "If you're looking for high-quality wireless earbuds that 
 > > won't break the bank, I have the perfect recommendation.
 > > 
 > > I want to tell you about the SoundPro X3 wireless earbuds. 
@@ -525,12 +510,11 @@
 > > value compared to premium brands that cost $200+.
 > > 
 > > Trust me, you won't regret this purchase!"
-> > ```
+> > 
 > > 
 > > **Presentation Checklist:**
 > > 
-> > ```
-> > ☐ Clear opening hook
+> > > > ☐ Clear opening hook
 > > ☐ Product name and description
 > > ☐ Materials mentioned
 > > ☐ 2-3 key features
@@ -539,21 +523,21 @@
 > > ☐ Strong closing recommendation
 > > ☐ 1-2 minutes long
 > > ☐ Eye contact and clear pronunciation
-> > ```
+> > 
 >
+
 > [!note] 🤝 Pair/Group Discussion Activities
 > 
 > **Activity 1: Debate - Quality vs Price**
 > 
-> ```
-> Divide into two teams:
+> > Divide into two teams:
 > 
 > Team A: "Quality is more important than price"
 > Team B: "Price is more important than quality"
 > 
 > Prepare arguments and examples.
 > Debate for 10-15 minutes.
-> ```
+> 
 > 
 > **Useful debate language:**
 > 
@@ -568,8 +552,7 @@
 > 
 > **Activity 2: Product Comparison**
 > 
-> ```
-> In pairs, compare two similar products:
+> > In pairs, compare two similar products:
 > - Two phones
 > - Two brands of shoes
 > - Two laptops
@@ -581,25 +564,23 @@
 > • Quality and features
 > • Price
 > • Which one you'd choose and why
-> ```
+> 
 > 
 > **Comparison language:**
 > 
-> ```
-> ✅ Product A is more expensive than Product B
+> > ✅ Product A is more expensive than Product B
 > ✅ Product B is lighter, but Product A is more durable
 > ✅ While Product A is handmade, Product B is mass-produced
 > ✅ Product A costs twice as much as Product B
 > ✅ Both products are made of leather, but...
 > ✅ Unlike Product A, Product B is...
-> ```
+> 
 > 
 > ---
 > 
 > **Activity 3: Role-Play - Shopping Scenario**
 > 
-> ```
-> Student A: Salesperson in a store
+> > Student A: Salesperson in a store
 > Student B: Customer looking for a product
 > 
 > Customer should ask about:
@@ -616,7 +597,7 @@
 > - Make a recommendation
 > 
 > Switch roles after 5 minutes.
-> ```
+> 
 
 ---
 
@@ -626,40 +607,36 @@
 > 
 > **Reading Skills:**
 > 
-> ```
-> ☐ I can understand articles about products and consumer behavior
+> > ☐ I can understand articles about products and consumer behavior
 > ☐ I can identify main ideas and supporting details
 > ☐ I can understand vocabulary related to materials and production
 > ☐ I can make inferences from context
-> ```
+> 
 > 
 > **Writing Skills:**
 > 
-> ```
-> ☐ I can write clear product descriptions
+> > ☐ I can write clear product descriptions
 > ☐ I can write balanced product reviews
 > ☐ I can use passive voice appropriately in writing
 > ☐ I can organize my writing with clear paragraphs
-> ```
+> 
 > 
 > **Speaking Skills:**
 > 
-> ```
-> ☐ I can describe products clearly and naturally
+> > ☐ I can describe products clearly and naturally
 > ☐ I can give reasons for my shopping preferences
 > ☐ I can make recommendations with supporting details
 > ☐ I can participate in discussions about consumer topics
 > ☐ I can compare products effectively
-> ```
+> 
 > 
 > **Overall Unit 10 Mastery:**
 > 
-> ```
-> ☐ I know vocabulary for materials and production
+> > ☐ I know vocabulary for materials and production
 > ☐ I can use passive voice (present and past)
 > ☐ I can use functional language naturally
 > ☐ I can read, write, and speak about products confidently
-> ```
+> 
 
 ---
 
@@ -671,8 +648,7 @@
 > 
 > **Option A: Product Blog Post**
 > 
-> ```
-> Write a 200-word blog post reviewing a product you love.
+> > Write a 200-word blog post reviewing a product you love.
 > Include:
 > • Catchy title
 > • Introduction (why this product?)
@@ -681,12 +657,11 @@
 > • Pros and cons
 > • Final recommendation
 > • Star rating
-> ```
+> 
 > 
 > **Option B: Sales Presentation**
 > 
-> ```
-> Prepare a 3-minute presentation selling a product.
+> > Prepare a 3-minute presentation selling a product.
 > Include:
 > • Visual aid (picture or the actual product)
 > • Product description using passive voice
@@ -696,12 +671,11 @@
 > • Call to action
 > 
 > Present to the class or record yourself.
-> ```
+> 
 > 
 > **Option C: Consumer Awareness Article**
 > 
-> ```
-> Write a 250-word article: "How to Be a Smart Consumer"
+> > Write a 250-word article: "How to Be a Smart Consumer"
 > Include:
 > • Introduction (why it matters)
 > • 3-4 tips (quality vs price, research, sustainability, etc.)
@@ -709,7 +683,7 @@
 > • Conclusion
 > 
 > Use passive voice and Unit 10 vocabulary.
-> ```
+> 
 > 
 > **Project Evaluation Rubric:**
 > 
@@ -794,16 +768,22 @@ mindmap
 > 
 > **Continue practicing:**
 > 
-> ```
-> 📱 Read product reviews on Amazon (in English)
+> > 📱 Read product reviews on Amazon (in English)
 > ✍️ Write reviews for products you buy
 > 🗣️ Describe products to English-speaking friends
 > 📺 Watch shopping/review videos on YouTube
 > 📰 Read articles about consumer trends
-> ```
+> 
 > 
 > **Keep building on this foundation!** 🚀
 
 ---
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa: [[Inglés I (B1-B2)]]
+> - Anterior: [[03 - Functional Language & Pronunciation]]
 
 **Tags:** #english #reading #writing #speaking #unit10 #whywebuy #consumer-behavior #product-reviews #integrated-skills #capstone

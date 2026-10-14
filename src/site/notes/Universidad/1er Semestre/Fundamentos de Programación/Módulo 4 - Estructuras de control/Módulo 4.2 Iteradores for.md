@@ -19,6 +19,7 @@
 >     # Este código se ejecuta para cada elemento
 > ```
 >
+
 > [!note] 🔧 Elementos Clave
 > - **`for`**: Palabra clave que inicia el bucle
 > - **`variable_temporal`**: Variable que toma el valor de cada elemento

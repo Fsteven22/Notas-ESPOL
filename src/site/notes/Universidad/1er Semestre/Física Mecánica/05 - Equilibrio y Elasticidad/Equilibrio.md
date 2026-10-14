@@ -203,7 +203,7 @@ graph TD
 > 
 > - [[Centro de Gravedad y Centro de Masa\|Centro de Gravedad y Centro de Masa]]
 > - [[Equilibrio Rotacional\|Equilibrio Rotacional]]
-> - [[Dinámica Rotacional\|Dinámica Rotacional]]
+> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Rotacional\|Cinemática Rotacional]]
 > - [[Energía Potencial\|Energía Potencial]]
 > - [[Estática\|Estática]]
 > - [[Fuerzas y Torques\|Fuerzas y Torques]]

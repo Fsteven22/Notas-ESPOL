@@ -190,6 +190,7 @@ graph TB
 > - v₁f = 0 m/s (la primera bola para)
 > - v₂f = 3 m/s (la segunda adquiere toda la velocidad)
 >
+
 > [!note] 📝 Interpretación Física **Caso especial de masas iguales:** En choques elásticos entre objetos de **masas iguales**, donde uno está inicialmente en reposo:
 > 
 > - El objeto en movimiento **se detiene completamente**
@@ -296,6 +297,7 @@ flowchart TD
 > 
 > **5. Magnitud y dirección de la velocidad final:** $$|\vec{v}_{2f}| = \sqrt{v_{2x,f}^2 + v_{2y,f}^2} = \sqrt{(2.586)^2 + (-1.414)^2} = 2.95 \text{ m/s}$$ $$\theta = \arctan\left(\frac{v_{2y,f}}{v_{2x,f}}\right) = \arctan\left(\frac{-1.414}{2.586}\right) = -28.7°$$
 >
+
 > [!note] 📝 Interpretación del Resultado
 > 
 > - **Magnitud**: La segunda bola se mueve a 2.95 m/s
@@ -387,6 +389,7 @@ graph TB
 > 4. 🧮 **Software**: Usar herramientas computacionales para casos complejos
 > 5. 📏 **Aproximaciones**: Identificar cuándo usar modelos simplificados
 >
+
 > [!success] ✅ Verificaciones Importantes
 > 
 > - **Unidades**: Todas las magnitudes deben ser consistentes
@@ -394,6 +397,7 @@ graph TB
 > - **Límites**: Comprobar casos extremos (masas muy diferentes)
 > - **Conservación**: Verificar que se cumplan todas las leyes aplicables
 >
+
 > [!warning] ❌ Errores Frecuentes
 > 
 > - Confundir tipos de choques y sus propiedades
@@ -417,12 +421,12 @@ graph TB
 > ### Aplicaciones Directas
 > 
 > - [[Trabajo y Energía]] - Análisis energético de choques
-> - [[Centro de Masa]] - Para sistemas de múltiples partículas
+> - [[Centro de masa (CM)]] - Para sistemas de múltiples partículas
 > - [[Dinámica de Sistemas]] - Extensión a muchas partículas
 > 
 > ### Conceptos Relacionados
 > 
-> - [[Momento Angular]] - Choques con rotación
+> - [[Momentum Angular]] - Choques con rotación
 > - [[Oscilaciones]] - Choques en sistemas vibratorios
 > - [[Ondas]] - Choques elásticos y transmisión de energía
 > 

@@ -125,6 +125,7 @@ graph TD
 > 
 > **Aplicación práctica:** Distribución de peso en mesas, sillas, estructuras
 >
+
 > [!tip] 🚶 Ejemplo: Equilibrio Humano **Situación:** Persona inclinándose
 > 
 > **Análisis:**
@@ -203,10 +204,10 @@ graph TD
 > [!quote] 🔗 Enlaces a Otras Notas
 > 
 > - [[Equilibrio: Estático, Estable e Inestable]]
-> - [[Centro de Masa]]
+> - [[Centro de masa (CM)]]
 > - [[Momento de Torsión]]
 > - [[Estática]]
-> - [[Dinámica Rotacional]]
+> - [[Cinemática Rotacional]]
 > - [[Diseño Estructural]]
 
 ---

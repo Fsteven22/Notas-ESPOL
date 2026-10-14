@@ -7,6 +7,7 @@
 
 > [!quote] "La fricción es la fuerza que mantiene al mundo en movimiento controlado; sin ella, todo resbalaría hacia el caos." 🔒
 >
+
 > [!info] Los problemas con fricción en equilibrio constituyen una de las aplicaciones más importantes y prácticas de la estática. La fricción proporciona las fuerzas necesarias para mantener objetos en reposo sobre superficies inclinadas, permite el equilibrio de escaleras contra paredes, y determina las condiciones límite antes del deslizamiento. Estos problemas requieren un análisis cuidadoso de las fuerzas de fricción estática y las condiciones de impendencia de movimiento.
 
 ## 🔒 Fundamentos de la Fricción
@@ -35,6 +36,7 @@
 > - **f_s = μ_s N**: Punto crítico (impendencia de deslizamiento)
 > - **f_s > μ_s N**: Imposible (ocurre deslizamiento)
 >
+
 > [!tip] **Fricción Cinética** 🏃
 > 
 > ### Características:
@@ -57,6 +59,7 @@
 >     style E fill:#ffebee
 > ```
 >
+
 > [!warning] **Coeficientes de Fricción** 📊
 > 
 > ### Coeficiente de Fricción Estática (μ_s):
@@ -81,6 +84,7 @@
 > |Hielo sobre hielo|0.1|0.02-0.03|
 > |Teflón sobre teflón|0.04|0.04|
 >
+
 > [!success] 🔗 Tipos de Problemas con Fricción
 > 
 > ```mermaid
@@ -103,6 +107,7 @@
 >     style D fill:#e8f5e8
 > ```
 >
+
 > [!note] **Análisis de Impendencia** ⚠️
 > 
 > ### Condición de Impendencia:
@@ -164,6 +169,7 @@
 > 14. Verifica coherencia física de resultados
 > 15. Interpreta el significado físico de la solución
 >
+
 > [!tip] **Técnicas Especializadas** 🔧
 > 
 > ### **Diagrama de Cuerpo Libre Mejorado**:
@@ -213,6 +219,7 @@
 > 
 > Aplicando segunda ley de Newton: ΣF = ma: F - f_k = ma 250 - 147 = 50a **a = 2.06 m/s²**
 >
+
 > [!example] **Problema 2: Bloque en Plano Inclinado** ⛰️
 > 
 > ### Enunciado:
@@ -241,6 +248,7 @@
 > 
 > **Interpretación**: Se necesitaría μ_s = tan(30°) = 0.577 para equilibrio
 >
+
 > [!example] **Problema 3: Escalera Contra la Pared** 🪜
 > 
 > ### Enunciado:
@@ -270,6 +278,7 @@
 > 
 > Como f < f_max (382 < 588), **la escalera permanece en equilibrio** ✓
 >
+
 > [!example] **Problema 4: Dos Bloques Apilados** 📚
 > 
 > ### Enunciado:
@@ -315,6 +324,7 @@
 > 
 > **Conclusión**: Ambos bloques se mueven juntos hasta F = 73.5 N
 >
+
 > [!example] **Problema 5: Cuña con Fricción** 🔺
 > 
 > ### Enunciado:
@@ -379,6 +389,7 @@
 > - Ángulo de reposo de materiales granulares
 > - Diseño de rampas y accesos
 >
+
 > [!tip] **Fricción en Superficies Curvas** 🌙
 > 
 > ### Análisis General:
@@ -393,6 +404,7 @@
 > - Fricción en cada superficie de contacto
 > - Equilibrio tridimensional
 >
+
 > [!tip] **Sistemas con Fricción Variable** 📊
 > 
 > ### Fricción Dependiente de Condiciones:

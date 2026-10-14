@@ -7,6 +7,7 @@
 
 > [!quote] "Una gráfica vale más que mil datos en una tabla: revela patrones que los números ocultan." 📈
 >
+
 > [!info] Las gráficas lineales son herramientas fundamentales para visualizar, analizar e interpretar relaciones entre variables físicas. Permiten identificar tendencias, extraer parámetros característicos y validar modelos teóricos mediante el análisis de datos experimentales. En física mecánica, la mayoría de las leyes fundamentales pueden expresarse o linealizarse para su análisis gráfico.
 
 ## 🔧 Conceptos Fundamentales
@@ -51,6 +52,7 @@
 > - **Significado**: Valor de y cuando x = 0
 > - **Interpretación física**: Condición inicial, offset, sesgo
 >
+
 > [!tip] **Variables en Física** 🎯
 > 
 > ### Relaciones Lineales Directas:
@@ -126,6 +128,7 @@
 > - **No forzar por el origen**: A menos que la teoría lo requiera
 > - **Color diferente**: Distinguir de los puntos experimentales
 >
+
 > [!success] 🔗 Proceso de Construcción de Gráficas
 > 
 > ```mermaid
@@ -149,6 +152,7 @@
 >     style I fill:#e1f5fe
 > ```
 >
+
 > [!warning] **Selección de Escalas** 📏
 > 
 > ### Criterios para Ejes:
@@ -191,6 +195,7 @@
 > - **Puntos**: No más de ~50 puntos por gráfica
 > - **Texto**: Tamaño legible (>8pt para impresión)
 >
+
 > [!example] **Ejemplo: Construcción Paso a Paso** 📈
 > 
 > ### Experimento: Ley de Hooke
@@ -303,6 +308,7 @@
 > u_m ≈ √[(u_y₂² + u_y₁²)/(x₂ - x₁)² + m²(u_x₂² + u_x₁²)/(x₂ - x₁)²]
 > ```
 >
+
 > [!tip] **Significado Físico del Intercepto** 🎯
 > 
 > ### Interpretación General:
@@ -358,6 +364,7 @@
 > - Umbral de activación
 > - Condición límite
 >
+
 > [!example] **Ejemplo: Análisis de Pendiente e Intercepto** ⚖️
 > 
 > ### Experimento: Aceleración de un Carro
@@ -459,6 +466,7 @@
 > - Es el estimador no sesgado de mínima varianza
 > - Asume errores solo en y, con varianza constante
 >
+
 > [!warning] **Supuestos del Método de Mínimos Cuadrados** ⚠️
 > 
 > ### Condiciones para Validez:
@@ -504,6 +512,7 @@
 > - **Puntos agrupados**: Falta de independencia
 > - **Outliers evidentes**: Valores atípicos
 >
+
 > [!note] **Cálculo de Incertidumbres** 📊
 > 
 > ### Incertidumbres de los Parámetros:
@@ -543,6 +552,7 @@
 > \hat{y} ± t₀.₀₂₅,n₋₂ · s_y√[1 + 1/n + (x - x̄)²/Σ(xᵢ - x̄)²]
 > ```
 >
+
 > [!example] **Ejemplo: Cálculo Completo de Ajuste** 📐
 > 
 > ### Datos: Ley de Hooke
@@ -658,6 +668,7 @@
 > |r| < 0.3:  Correlación muy débil o nula
 > 
 >
+
 > [!tip] **Coeficiente de Determinación (R²)** 📊
 > 
 > ### Definición:
@@ -703,6 +714,7 @@
 > |**0.60 < R² ≤ 0.80**|Ajuste moderado|Considerar otros modelos|
 > |**R² ≤ 0.60**|Ajuste pobre|Revisar modelo o datos|
 >
+
 > [!warning] **Limitaciones del Coeficiente de Correlación** ⚠️
 > 
 > ### Lo que NO mide:
@@ -748,6 +760,7 @@
 > Puede llevar a conclusiones erróneas sobre individuos
 > ```
 >
+
 > [!example] **Ejemplo: Cálculo del Coeficiente de Correlación** 📊
 > 
 > ### Datos del Experimento de Péndulo:
@@ -843,6 +856,7 @@
 > - Sin outliers extremos
 > ```
 >
+
 > [!note] **Linealización de Relaciones** 🔄
 > 
 > ### Técnicas Comunes:
@@ -938,6 +952,7 @@
 > - Intercepto = ln(V₀)
 > - Permite determinar constante de tiempo τ = RC
 >
+
 > [!example] **Ejemplo Integral: Análisis Completo** 🔬
 > 
 > ### Experimento: Viscosidad por Ley de Stokes
@@ -1046,6 +1061,7 @@
 >     - ❌ No mostrar incertidumbres experimentales
 >     - ✅ Incluir barras de error cuando sean significativas
 >
+
 > [!warning] **Errores en Interpretación** ⚠️
 > 
 > 6. **Confundir correlación con causalidad**:
@@ -1156,6 +1172,7 @@
 > - **Álgebra**: Ecuaciones lineales, sistemas
 > - **Geometría**: Conceptos de pendiente y ángulos
 >
+
 > [!note] **Temas Siguientes**
 > 
 > - [[Regresión No Lineal]] - Modelos más complejos

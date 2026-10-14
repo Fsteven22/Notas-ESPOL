@@ -25,6 +25,7 @@
 > - Vector: **v**, $\vec{v}$, o v̅
 > - Magnitud: |**v**|, ||**v**||, o v
 >
+
 > [!info] 📏 **Escalares vs Vectores**
 > 
 > |Escalares|Vectores|
@@ -55,6 +56,7 @@
 > - **Polar:** (r, θ) en 2D
 > - **Esférico:** (r, θ, φ) en 3D
 >
+
 > [!tip] 🧮 **Representación por Componentes** En 2D: $$\vec{v} = v_x\hat{i} + v_y\hat{j}$$ En 3D: $$\vec{v} = v_x\hat{i} + v_y\hat{j} + v_z\hat{k}$$
 > 
 > **Vectores unitarios:**
@@ -90,10 +92,12 @@
 > - Conmutativa: $\vec{A} + \vec{B} = \vec{B} + \vec{A}$
 > - Asociativa: $(\vec{A} + \vec{B}) + \vec{C} = \vec{A} + (\vec{B} + \vec{C})$
 >
+
 > [!warning] ➖ **Resta de Vectores** La resta es equivalente a sumar el vector opuesto: $$\vec{A} - \vec{B} = \vec{A} + (-\vec{B})$$
 > 
 > **Método analítico:** $$\vec{A} - \vec{B} = (A_x - B_x)\hat{i} + (A_y - B_y)\hat{j} + (A_z - B_z)\hat{k}$$
 >
+
 > [!warning] ✖️ **Multiplicación por Escalar** Multiplicar un vector por un escalar cambia solo su magnitud: $$k\vec{A} = kA_x\hat{i} + kA_y\hat{j} + kA_z\hat{k}$$
 > 
 > **Efectos:**
@@ -120,6 +124,7 @@
 > - Si $\vec{A} \cdot \vec{B} = 0$, entonces $\vec{A} \perp \vec{B}$
 > - $\vec{A} \cdot \vec{A} = |\vec{A}|^2$
 >
+
 > [!info] ✖️ **Producto Cruz (Vectorial)** El producto cruz de dos vectores es otro vector perpendicular a ambos: $$\vec{A} \times \vec{B} = |\vec{A}||\vec{B}|\sin\theta,\hat{n}$$
 > 
 > **Método por componentes (determinante):** $$\vec{A} \times \vec{B} = \begin{vmatrix} \hat{i} & \hat{j} & \hat{k} \ A_x & A_y & A_z \ B_x & B_y & B_z \end{vmatrix}$$
@@ -168,6 +173,7 @@
 >    style H fill:#f3e5f5
 > ```
 >
+
 > [!example] ⚖️ **Dinámica Vectorial** **Segunda Ley de Newton:** $$\sum \vec{F} = m\vec{a}$$
 > 
 > **En componentes:**
@@ -186,6 +192,7 @@
 > 
 > **Magnitud:** $$|\vec{A} + \vec{B}| = \sqrt{1^2 + 9^2} = \sqrt{82} = 9.06$$
 >
+
 > [!example] 💡 **Problema 2: Producto Punto** Si $\vec{A} = 2\hat{i} + 3\hat{j}$ y $\vec{B} = 4\hat{i} - \hat{j}$, encontrar el ángulo entre ellos.
 > 
 > **Solución:** **Producto punto:** $$\vec{A} \cdot \vec{B} = (2)(4) + (3)(-1) = 8 - 3 = 5$$
@@ -194,6 +201,7 @@
 > 
 > **Ángulo:** $$\cos\theta = \frac{5}{\sqrt{13}\sqrt{17}} = \frac{5}{\sqrt{221}}$$ $$\theta = \arccos\left(\frac{5}{\sqrt{221}}\right) = 69.1°$$
 >
+
 > [!example] 💡 **Problema 3: Producto Cruz** Para $\vec{A} = 2\hat{i} + 3\hat{j} + \hat{k}$ y $\vec{B} = \hat{i} - 2\hat{j} + 3\hat{k}$, encontrar $\vec{A} \times \vec{B}$.
 > 
 > **Solución:** $$\vec{A} \times \vec{B} = \begin{vmatrix} \hat{i} & \hat{j} & \hat{k} \ 2 & 3 & 1 \ 1 & -2 & 3 \end{vmatrix}$$
@@ -243,14 +251,14 @@
 > - [[Funciones Trigonométricas]] - Para ángulos y componentes
 > - [[Álgebra]] - Para operaciones algebraicas
 > - [[Geometría]] - Para interpretación geométrica
-> - [[Funciones]] - Para vectores como funciones del tiempo
+> - [[01 - Funciones]] - Para vectores como funciones del tiempo
 > 
 > **Temas complementarios:**
 > 
 > - [[Campos Vectoriales]] - Vectores que varían en el espacio
 > - [[Derivadas Vectoriales]] - Tasas de cambio de vectores
 > - [[Integrales Vectoriales]] - Integración de campos vectoriales
-> - [[Transformaciones de Coordenadas]] - Cambios entre sistemas
+> - [[02 - Transformaciones entre Coordenadas]] - Cambios entre sistemas
 
 ## 🔧 Herramientas de Verificación
 

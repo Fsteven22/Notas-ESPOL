@@ -272,6 +272,7 @@ graph TD
 > - **G**rupo: aprender en comunidad
 > - **O**rganizar: documentar tu progreso
 >
+
 > [!warning]+ **Errores Comunes de Principiantes**
 > 
 > - ❌ Querer resolver problemas complejos desde el inicio
@@ -328,6 +329,7 @@ graph TD
 > - [[Programación Orientada a Objetos]] - Modelado del mundo real
 > - [[Bases de Datos]] - Gestión de información
 >
+
 > [!success]+ **Proyecto Práctico: Tu Primer Programa**
 > 
 > ### 🎯 Organizador de Tareas Diarias
