@@ -18,6 +18,8 @@
 > | **Independent Clause** | Grupo de palabras con sujeto y verbo que tiene sentido solo. Puede ser una oración completa. |
 > | **Dependent Clause** | Grupo de palabras con sujeto y verbo que NO tiene sentido solo. Empieza con una conjunción subordinante. |
 >
+> > [!example] 🟢 Ejemplo
+> >
 > > 💡 **Conjunciones subordinantes comunes:** because, although, when, while, if, since, after, before, as, even though, unless
 > >
 > > 💡 **FANBOYS** (conjunciones coordinantes): **F**or · **A**nd · **N**or · **B**ut · **O**r · **Y**et · **S**o
@@ -45,28 +47,16 @@
 >
 > A **simple sentence** contains **one independent clause** only. It can have one or more subjects and verbs, but they all belong to a single complete thought.
 >
-> ```
-> ✅ The dog barked.
->    (1 sujeto, 1 verbo — una sola cláusula)
->
-> ✅ Maria and Pedro study together.
->    (2 sujetos, 1 verbo — sigue siendo simple)
->
-> ✅ She woke up, got dressed, and left quickly.
->    (1 sujeto, 3 verbos — sigue siendo simple)
-> ```
+> - ✅ *The dog barked.* (1 sujeto, 1 verbo — una sola cláusula)
+> - ✅ *Maria and Pedro study together.* (2 sujetos, 1 verbo — sigue siendo simple)
+> - ✅ *She woke up, got dressed, and left quickly.* (1 sujeto, 3 verbos — sigue siendo simple)
 >
 > > [!tip]- ⚠️ Error común
 > >
 > > Tener múltiples verbos o múltiples sujetos NO hace una oración compuesta. Lo que importa es si hay **dos cláusulas independientes completas** o solo una.
 > >
-> > ```
-> > ✅ SIMPLE:   She runs and swims every day.
-> >              (Un sujeto — She — con dos verbos)
-> >
-> > ✅ COMPOUND: She runs every day, and she swims on weekends.
-> >              (Dos sujetos independientes con sus propios verbos)
-> > ```
+> > - ✅ SIMPLE: *She runs and swims every day.* (Un sujeto — She — con dos verbos)
+> > - ✅ COMPOUND: *She runs every day, and she swims on weekends.* (Dos sujetos independientes con sus propios verbos)
 
 ---
 
@@ -76,26 +66,16 @@
 >
 > A **compound sentence** contains **two or more independent clauses** joined by a **coordinating conjunction (FANBOYS)** or a **semicolon**.
 >
-> ```
-> ✅ I wanted to go, but it was raining.
->    [Independent Clause] , but [Independent Clause]
->
-> ✅ She studied hard, so she passed the exam.
->    [Independent Clause] , so [Independent Clause]
->
-> ✅ He likes coffee; she prefers tea.
->    [Independent Clause] ; [Independent Clause]
->    (El punto y coma puede reemplazar la conjunción)
-> ```
+> - ✅ *I wanted to go, but it was raining.* ([Independent Clause] , but [Independent Clause])
+> - ✅ *She studied hard, so she passed the exam.* ([Independent Clause] , so [Independent Clause])
+> - ✅ *He likes coffee; she prefers tea.* ([Independent Clause] ; [Independent Clause] — el punto y coma puede reemplazar la conjunción)
 >
 > > [!tip]- 💡 Regla de puntuación
 > >
 > > Siempre va una **coma antes de la conjunción FANBOYS** cuando une dos cláusulas independientes:
 > >
-> > ```
-> > ✅ I was tired, but I finished the project.
-> > ❌ I was tired but I finished the project.
-> > ```
+> > - ✅ *I was tired, but I finished the project.*
+> > - ❌ *I was tired but I finished the project.*
 
 ---
 
@@ -105,26 +85,14 @@
 >
 > A **complex sentence** contains **one independent clause** and **at least one dependent clause**, joined by a **subordinating conjunction** (because, although, when, if, since, while…).
 >
-> ```
-> ✅ Although it was raining, we went outside.
->    [Dependent Clause] , [Independent Clause]
->
-> ✅ She passed the exam because she studied hard.
->    [Independent Clause] because [Dependent Clause]
->
-> ✅ When I finish my homework, I will watch a movie.
->    [Dependent Clause] , [Independent Clause]
-> ```
+> - ✅ *Although it was raining, we went outside.* ([Dependent Clause] , [Independent Clause])
+> - ✅ *She passed the exam because she studied hard.* ([Independent Clause] because [Dependent Clause])
+> - ✅ *When I finish my homework, I will watch a movie.* ([Dependent Clause] , [Independent Clause])
 >
 > > [!tip]- 💡 Regla de la coma en Complex Sentences
 > >
-> > ```
-> > Dependent clause PRIMERO → usa coma:
-> > ✅ Although she was tired, she kept working.
-> >
-> > Dependent clause SEGUNDO → no uses coma:
-> > ✅ She kept working although she was tired.
-> > ```
+> > - Dependent clause PRIMERO → usa coma: ✅ *Although she was tired, she kept working.*
+> > - Dependent clause SEGUNDO → no uses coma: ✅ *She kept working although she was tired.*
 
 ---
 
@@ -134,15 +102,8 @@
 >
 > A **compound-complex sentence** contains **two or more independent clauses** AND **at least one dependent clause**.
 >
-> ```
-> ✅ Although she was tired, she finished the project,
->    and her boss was impressed.
->    [Dep. Clause] + [Ind. Clause] + and + [Ind. Clause]
->
-> ✅ I wanted to travel, but I had no money
->    because I lost my job.
->    [Ind. Clause] + but + [Ind. Clause] + because + [Dep. Clause]
-> ```
+> - ✅ *Although she was tired, she finished the project, and her boss was impressed.* ([Dep. Clause] + [Ind. Clause] + and + [Ind. Clause])
+> - ✅ *I wanted to travel, but I had no money because I lost my job.* ([Ind. Clause] + but + [Ind. Clause] + because + [Dep. Clause])
 >
 > > [!tip]- 💡 Cómo identificarla rápido
 > >
@@ -219,21 +180,22 @@
 >
 > **10.** Vegetables are good for your health and easy to digest. &emsp; `________________`
 >
-> [!success] ✅ Respuestas — Ejercicio 1
->
-> | # | Oración | Tipo | Por qué |
-> |---|---|---|---|
-> | 1 | *I love listening to music.* | **Simple** | 1 sujeto + 1 verbo — una sola cláusula independiente |
-> | 2 | *We ran home and took a hot shower.* | **Simple** | 1 sujeto (*We*) con dos verbos coordinados — sigue siendo una sola cláusula |
-> | 3 | *Although the problem was not difficult…* | **Complex** | Cláusula dependiente (*Although…*) + cláusula independiente |
-> | 4 | *We didn't see the new movie.* | **Simple** | 1 sujeto, 1 verbo, una sola cláusula independiente |
-> | 5 | *As I arrived, they all had finished dinner.* | **Complex** | Cláusula dependiente (*As I arrived*) + cláusula independiente |
-> | 6 | *She had an enjoyable graduation party.* | **Simple** | 1 sujeto (*She*) + 1 verbo (*had*) — una sola cláusula |
-> | 7 | *After the movie, they all went for ice cream.* | **Simple** | *After the movie* es frase preposicional, no cláusula dependiente |
-> | 8 | *Yesterday I went out with Tom, who is a friend…* | **Complex** | Cláusula independiente + cláusula relativa dependiente (*who…*) |
-> | 9 | *Let's go to the theater after lunch.* | **Simple** | *After lunch* es frase preposicional — una sola cláusula independiente |
-> | 10 | *Vegetables are good for your health and easy to digest.* | **Simple** | 1 sujeto + 1 verbo con dos predicados coordinados — no hay segunda cláusula |
->
+> > [!success]- ✅ Respuestas — Ejercicio 1
+> >
+> > | # | Oración | Tipo | Por qué |
+> > |---|---|---|---|
+> > | 1 | *I love listening to music.* | **Simple** | 1 sujeto + 1 verbo — una sola cláusula independiente |
+> > | 2 | *We ran home and took a hot shower.* | **Simple** | 1 sujeto (*We*) con dos verbos coordinados — sigue siendo una sola cláusula |
+> > | 3 | *Although the problem was not difficult…* | **Complex** | Cláusula dependiente (*Although…*) + cláusula independiente |
+> > | 4 | *We didn't see the new movie.* | **Simple** | 1 sujeto, 1 verbo, una sola cláusula independiente |
+> > | 5 | *As I arrived, they all had finished dinner.* | **Complex** | Cláusula dependiente (*As I arrived*) + cláusula independiente |
+> > | 6 | *She had an enjoyable graduation party.* | **Simple** | 1 sujeto (*She*) + 1 verbo (*had*) — una sola cláusula |
+> > | 7 | *After the movie, they all went for ice cream.* | **Simple** | *After the movie* es frase preposicional, no cláusula dependiente |
+> > | 8 | *Yesterday I went out with Tom, who is a friend…* | **Complex** | Cláusula independiente + cláusula relativa dependiente (*who…*) |
+> > | 9 | *Let's go to the theater after lunch.* | **Simple** | *After lunch* es frase preposicional — una sola cláusula independiente |
+> > | 10 | *Vegetables are good for your health and easy to digest.* | **Simple** | 1 sujeto + 1 verbo con dos predicados coordinados — no hay segunda cláusula |
+> >
+
 > [!example] ✏️ Ejercicio 2 — Construye las oraciones
 >
 > Combina las ideas usando el tipo de oración indicado:
@@ -243,14 +205,14 @@
 > 3. *I love coffee.* → **Simple** (añade un complemento)
 > 4. *It was raining. We went outside. We had umbrellas.* → **Compound-Complex**
 >
-> [!success] ✅ Respuestas — Ejercicio 2
->
-> | # | Respuesta posible | Tipo confirmado |
-> |---|---|---|
-> | 1 | *She was tired, yet she kept working.* | **Compound** — dos cláusulas independientes unidas por FANBOYS |
-> | 2 | *He failed the exam because he didn't study.* | **Complex** — cláusula independiente + dependiente con *because* |
-> | 3 | *I love coffee in the morning.* | **Simple** — un sujeto, un verbo, una sola cláusula |
-> | 4 | *Although it was raining, we went outside, and we had umbrellas.* | **Compound-Complex** — dependiente + dos independientes |
+> > [!success]- ✅ Respuestas — Ejercicio 2
+> >
+> > | # | Respuesta posible | Tipo confirmado |
+> > |---|---|---|
+> > | 1 | *She was tired, yet she kept working.* | **Compound** — dos cláusulas independientes unidas por FANBOYS |
+> > | 2 | *He failed the exam because he didn't study.* | **Complex** — cláusula independiente + dependiente con *because* |
+> > | 3 | *I love coffee in the morning.* | **Simple** — un sujeto, un verbo, una sola cláusula |
+> > | 4 | *Although it was raining, we went outside, and we had umbrellas.* | **Compound-Complex** — dependiente + dos independientes |
 
 ---
 
@@ -267,6 +229,16 @@
 > | **Semicolon ( ; )** | Puede reemplazar a una conjunción FANBOYS para unir dos cláusulas independientes. El resultado es una **Compound Sentence**. |
 > | **Simple vs. Compound** | La diferencia no está en la longitud sino en el número de cláusulas independientes. Una oración larga con un solo sujeto sigue siendo **Simple**. |
 > | **Compound-Complex** | El tipo más complejo. Para identificarlo busca: ¿hay FANBOYS? ¿Y también una conjunción subordinante? Si ambas respuestas son sí, probablemente es Compound-Complex. |
+
+---
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa: [[Welcome & Syllabus English II]]
+> - Anterior: [[02 - Grammar Review - Gerund, FANBOYS & NOR]]
+> - Repaso base: [[01 - Grammar Review - The Sentence & Clauses]]
 
 ---
 

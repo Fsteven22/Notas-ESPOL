@@ -50,6 +50,8 @@
 > |_Do you know anyone here?_|¿Conoces a alguien aquí?|En eventos o reuniones sociales.|
 > |_Nice to meet you._|Mucho gusto / Encantado de conocerte.|Respuesta estándar al ser presentado.|
 > 
+> > [!example] 🟢 Ejemplo
+> >
 > > ⚠️ **Accuracy Check del libro:** ❌ _Nice to know you._ → ✅ _Nice to meet you._
 > > 
 > > _Know_ describe una relación continua que ya existe. _Meet_ describe el acto puntual de conocerse por primera vez. Solo en el primer encuentro puedes decir _nice to meet you_.
@@ -69,6 +71,8 @@
 > 
 > **Ejemplo de diálogo completo** _(inglés → español)_:
 > 
+> > [!example] 🟢 Ejemplo
+> >
 > > _— Hey María, do you two know each other?_ _— I don't think we've met before. Hi, I'm María._ _— Nice to meet you, María. I'm Andrés — we work together at ESPOL._
 > > 
 > > _— Oye María, ¿se conocen ustedes dos?_ _— No creo que nos hayamos conocido. Hola, soy María._ _— Mucho gusto, María. Soy Andrés — trabajamos juntos en ESPOL._
@@ -87,7 +91,7 @@
 > |Se conocen bien (desde hace tiempo)|_Yeah, we go way back. How's it going?_|Sí, nos conocemos de hace mucho. ¿Cómo te va?|
 > |No se conocen|_No, I haven't / don't. Hi, I'm …_|No, no nos conocemos. Hola, soy…|
 > 
-> > 💡 _We go way back_ es una expresión idiomática. _Way back_ significa "muy atrás en el tiempo". Se usa para indicar que la amistad o relación viene de mucho antes. Ejemplo: _"We go way back — we studied together at ESPOL in 2019!"_
+> 💡 _We go way back_ es una expresión idiomática. _Way back_ significa "muy atrás en el tiempo". Se usa para indicar que la amistad o relación viene de mucho antes. Ejemplo: _"We go way back — we studied together at ESPOL in 2019!"_
 
 ---
 
@@ -119,6 +123,7 @@
 > |_happy_|/iː/|"háp-ee" — ee larga al final|
 > |_my_|/aɪ/|"mai" — diptongo ai|
 >
+
 > [!tip] 💡 Tip de pronunciación para hispanohablantes
 > 
 > El error más frecuente es pronunciar la Y inicial en inglés como el sonido fuerte /ʝ/ del español rioplatense (como la "ll" argentina) en lugar del sonido suave /j/. En inglés estándar americano y británico, la Y inicial **siempre es suave**, casi como si deslizaras la voz antes de la vocal.
@@ -137,6 +142,8 @@
 > 
 > Usa las frases del bloque de Functional Language para completar el diálogo de manera natural:
 > 
+> > [!example] 🟢 Ejemplo
+> >
 > > **Carlos:** Hey Ana, __________________ my colleague David. He just joined the team.
 > > 
 > > **Ana:** Oh wait — __________________ ! We actually went to university together.
@@ -147,8 +154,8 @@
 > > 
 > > **Ana:** __________________ , David! How long have you been working here?
 >
-> [!success] ✅ Respuestas — Ejercicio 1
-> 
+> > [!success]- ✅ Respuestas — Ejercicio 1
+> > 
 > > **Carlos:** Hey Ana, _let me introduce you to_ my colleague David. He just joined the team.
 > > 
 > > **Ana:** Oh wait — _actually, we've already met_ / _I think we've met before_! We actually went to university together.
@@ -171,15 +178,15 @@
 > |---|---|---|---|
 > |(inicio)|(medio)|(final bisílaba)|(final monosílaba)|
 >
-> [!success] ✅ Respuestas — Ejercicio 2
-> 
-> |Sonido /j/|Sonido /ɪ/|Sonido /iː/|Sonido /aɪ/|
-> |---|---|---|---|
-> |year|system|city|fly|
-> |yellow|crystal|ready|by|
-> |yet|gym|busy|sky|
-> |you|||why|
-> ||||try|
+> > [!success]- ✅ Respuestas — Ejercicio 2
+> > 
+> > |Sonido /j/|Sonido /ɪ/|Sonido /iː/|Sonido /aɪ/|
+> > |---|---|---|---|
+> > |year|system|city|fly|
+> > |yellow|crystal|ready|by|
+> > |yet|gym|busy|sky|
+> > |you|||why|
+> > ||||try|
 
 ---
 
@@ -192,12 +199,12 @@
 > 18. Entras a una nueva empresa el primer día. Ves a alguien que parece también ser nuevo. ¿Cómo empiezas la conversación?
 > 19. En una reunión, no estás seguro si dos de tus colegas ya se conocen. ¿Qué preguntas antes de presentarlos?
 >
-> [!success] ✅ Respuestas — Ejercicio 3
-> 
-> 16. _Let me introduce you to [name]. / Have you met [name]?_
-> 17. _Oh, actually we go way back — we've been working together for two years!_ / _Yes, we know each other! Nice to see you again._
-> 18. _Is this your first day? / You're new here, right? I'm [name]._
-> 19. _Do you two know each other?_
+> > [!success]- ✅ Respuestas — Ejercicio 3
+> > 
+> > 16. _Let me introduce you to [name]. / Have you met [name]?_
+> > 17. _Oh, actually we go way back — we've been working together for two years!_ / _Yes, we know each other! Nice to see you again._
+> > 18. _Is this your first day? / You're new here, right? I'm [name]._
+> > 19. _Do you two know each other?_
 
 ---
 
@@ -226,5 +233,13 @@
 > [1] _Keynote Upper-Intermediate_, National Geographic Learning / Cengage, Student's Book, Unit 1: And We're Off!, pp. 1–15.
 
 ---
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa: [[Universidad/2do Semestre/Ingles II (C1-C2)/Welcome & Syllabus English II\|Welcome & Syllabus English II]]
+> - Anterior: [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 1 - And We're Off!/02 - Grammar & Examples - Tense Review & Dynamic vs Stative Verbs\|02 - Grammar & Examples - Tense Review & Dynamic vs Stative Verbs]]
+> - Siguiente: [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 1 - And We're Off!/04 - Reading, Writing, Speaking - Flipping Your Job Interview & Time to Speak\|04 - Reading, Writing, Speaking - Flipping Your Job Interview & Time to Speak]]
 
 **Tags:** #functional #pronunciation #introductions #letterY #phonetics #English #IDIG1007 #ESPOL #unit1

@@ -72,8 +72,10 @@
 > |**reach your potential**|alcanzar tu potencial|_Education helps you reach your full potential._|La educación te ayuda a alcanzar tu pleno potencial.|
 > |**overcome an obstacle**|superar un obstáculo|_She overcame many obstacles to finish her degree._|Superó muchos obstáculos para terminar su carrera.|
 > 
-> **Ejemplo de párrafo completo** _(inglés → español)_:
+> > [!example] 🟢 Ejemplo de párrafo completo (inglés → español)
 > 
+> > [!example] 🟢 Ejemplo
+> >
 > > _I had to really push myself to face my fear of public speaking. It wasn't easy, but I set a goal for myself and followed through on it. Now I take pride in what I accomplished, and I encourage others to step out of their comfort zone too._
 > > 
 > > _Tuve que esforzarme mucho para enfrentar mi miedo a hablar en público. No fue fácil, pero me fijé una meta y la cumplí. Ahora me enorgullezco de lo que logré, y animo a los demás a salir de su zona de confort también._
@@ -109,6 +111,7 @@
 > |**reliable**|**reliability**|La consistencia de cumplir lo que se promete.|
 > |**determined**|**determination**|La persistencia activa frente a dificultades.|
 >
+
 > [!warning] ⚠️ Errores comunes con estas palabras
 > 
 > |❌ Incorrecto|✅ Correcto|Explicación|
@@ -117,8 +120,7 @@
 > |_He is very success._|_He is very successful._|_Success_ es sustantivo; necesitas el adjetivo _successful_.|
 > |_I need someone reliability._|_I need someone reliable._|Antes de una persona, usa el adjetivo.|
 
-**Ejemplo de párrafo completo** _(inglés → español)_:
-
+> [!example] 🟢 Ejemplo de párrafo completo (inglés → español)
 > _The ideal candidate should be ambitious and creative, with a strong sense of responsibility. We value reliability above all — we need someone who follows through on their commitments. Previous experience is a plus, but determination and enthusiasm can make up for a lack of formal qualifications._
 > 
 > _El candidato ideal debe ser ambicioso y creativo, con un fuerte sentido de la responsabilidad. Valoramos la confiabilidad por encima de todo — necesitamos a alguien que cumpla con sus compromisos. La experiencia previa es una ventaja, pero la determinación y el entusiasmo pueden compensar la falta de credenciales formales._
@@ -137,13 +139,13 @@
 > 4. She didn't let her early failures stop her. She knew she had to __________________ to reach the next level. _(push herself / work with her hands / run a marathon)_
 > 5. Better training helped the whole team __________________ and perform at a higher level. _(reach their potential / set a goal / get a lot of likes)_
 >
-> [!success] ✅ Respuestas — Ejercicio 1
-> 
-> 6. face her fear
-> 7. take pride in
-> 8. follow through on it
-> 9. push herself
-> 10. reach their potential
+> > [!success]- ✅ Respuestas — Ejercicio 1
+> > 
+> > 6. face her fear
+> > 7. take pride in
+> > 8. follow through on it
+> > 9. push herself
+> > 10. reach their potential
 
 ---
 
@@ -157,13 +159,13 @@
 > 9. Being __________________ is essential in design roles. _(creative / creativity)_
 > 10. The manager appreciated her __________________ to succeed despite the obstacles. _(determined / determination)_
 >
-> [!success] ✅ Respuestas — Ejercicio 2
-> 
-> 11. ambition _(sustantivo — después de "great")_
-> 12. reliable _(adjetivo — describe a una persona)_
-> 13. enthusiasm _(sustantivo — sujeto de la oración)_
-> 14. creative _(adjetivo — después de "being")_
-> 15. determination _(sustantivo — objeto de "appreciated")_
+> > [!success]- ✅ Respuestas — Ejercicio 2
+> > 
+> > 11. ambition _(sustantivo — después de "great")_
+> > 12. reliable _(adjetivo — describe a una persona)_
+> > 13. enthusiasm _(sustantivo — sujeto de la oración)_
+> > 14. creative _(adjetivo — después de "being")_
+> > 15. determination _(sustantivo — objeto de "appreciated")_
 
 ---
 
@@ -177,13 +179,13 @@
 > 14. Me enorgullece haber roto el récord del equipo.
 > 15. Necesitas salir de tu zona de confort para crecer profesionalmente.
 >
-> [!success] ✅ Respuestas — Ejercicio 3
-> 
-> 16. _I set a goal for myself to become fluent in English before graduating._
-> 17. _She faced her fear of heights and completed the climbing course._
-> 18. _The ideal candidate should have experience and be creative._
-> 19. _I take pride in having broken the team's record._
-> 20. _You need to step out of your comfort zone to grow professionally._
+> > [!success]- ✅ Respuestas — Ejercicio 3
+> > 
+> > 16. _I set a goal for myself to become fluent in English before graduating._
+> > 17. _She faced her fear of heights and completed the climbing course._
+> > 18. _The ideal candidate should have experience and be creative._
+> > 19. _I take pride in having broken the team's record._
+> > 20. _You need to step out of your comfort zone to grow professionally._
 
 ---
 
@@ -222,5 +224,12 @@
 > [1] _Keynote Upper-Intermediate_, National Geographic Learning / Cengage, Student's Book, Unit 1: And We're Off!, pp. 1–15.
 
 ---
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa: [[Universidad/2do Semestre/Ingles II (C1-C2)/Welcome & Syllabus English II\|Welcome & Syllabus English II]]
+> - Siguiente: [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 1 - And We're Off!/02 - Grammar & Examples - Tense Review & Dynamic vs Stative Verbs\|02 - Grammar & Examples - Tense Review & Dynamic vs Stative Verbs]]
 
 **Tags:** #vocabulary #accomplishments #qualities #adjectives #nouns #English #IDIG1007 #ESPOL #unit1

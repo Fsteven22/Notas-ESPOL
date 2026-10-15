@@ -114,4 +114,11 @@ graph TD
 
 ---
 
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa: [[Universidad/2do Semestre/Ingles II (C1-C2)/Welcome & Syllabus English II\|Welcome & Syllabus English II]]
+> - Anterior: [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 0 - Preliminar/03 - Grammar Review - Sentence Types by Structure\|03 - Grammar Review - Sentence Types by Structure]]
+
 **Tags:** #english #speaking #hardware #software #script #FIEC

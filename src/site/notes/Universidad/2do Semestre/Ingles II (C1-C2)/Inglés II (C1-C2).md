@@ -33,4 +33,31 @@
 
 ---
 
+- [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 2 - The Future of Food/01 - Vocabulary & Use - Describing Trends & Preparing Food\|01 - Vocabulary & Use - Describing Trends & Preparing Food]]
+
+- [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 2 - The Future of Food/02 - Grammar & Examples - Real Conditionals & Time Clauses\|02 - Grammar & Examples - Real Conditionals & Time Clauses]]
+
+- [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 2 - The Future of Food/03 - Functional Language & Pronunciation - Offers & Vowel Sounds\|03 - Functional Language & Pronunciation - Offers & Vowel Sounds]]
+
+- [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 2 - The Future of Food/04 - Reading Writing Speaking - Survey Results & Passive Voice\|04 - Reading Writing Speaking - Survey Results & Passive Voice]]
+
+- [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 3 - What's It Worth/01 - Vocabulary & Use Time Money & Prices\|01 - Vocabulary & Use Time Money & Prices]]
+
+- [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 3 - What's It Worth/02 - Grammar & Examples - Too Enough & Modifying Comparisons\|02 - Grammar & Examples - Too Enough & Modifying Comparisons]]
+
+- [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 3 - What's It Worth/03 - Functional Language & Pronunciation - Apologies & S-Sounds\|03 - Functional Language & Pronunciation - Apologies & S-Sounds]]
+
+- [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 3 - What's It Worth/04 - Reading Writing Speaking - Buyer Beware & Product Reviews\|04 - Reading Writing Speaking - Buyer Beware & Product Reviews]]
+
+- [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 1 - And We're Off!/Recursos Adicionales/01 - Recursos Unit 1\|01 - Recursos Unit 1]]
+
+- [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 5 - True Stories/Recursos Adicionales/Command the Complaint - Email of Complaint\|Command the Complaint - Email of Complaint]]
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa: [[Universidad/2do Semestre/Ingles II (C1-C2)/Welcome & Syllabus English II\|Welcome & Syllabus English II]]
+> - Siguiente: [[Universidad/2do Semestre/Ingles II (C1-C2)/Welcome & Syllabus English II\|Welcome & Syllabus English II]]
+
 **Tags:** #english #english2 #ESPOL #IDIG1007

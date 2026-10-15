@@ -39,6 +39,7 @@
 > |**humiliation**|humillación|
 > |**to soak**|empapar / mojar por completo|
 >
+
 > [!tip]- 💡 La inversión de roles como recurso cómico
 > 
 > Este capítulo consolida el recurso narrativo central de la obra: **invertir las expectativas del género gótico clásico**. En vez de que el fantasma sea la fuente de terror, se convierte en la víctima cómica de las bromas de unos niños — un giro que Wilde usa para satirizar tanto las historias de fantasmas tradicionales como el carácter "imperturbable" de los americanos modernos.
@@ -71,11 +72,19 @@
 > 
 > [1] Wilde, Oscar. _The Canterville Ghost_. 1887. (Obra de dominio público).
 >
+
 > [!quote] 🔗 Conexiones
 > 
-> - [[Capítulo I - The Canterville Ghost\|Capítulo I - The Canterville Ghost]]
+> - [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 3 - What's It Worth/Recursos Adicionales/The Canterville Ghost/Capitulo I - The Canterville Ghost\|Capitulo I - The Canterville Ghost]]
 > - [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 3 - What's It Worth/Recursos Adicionales/The Canterville Ghost/Capítulo II - The Canterville Ghost\|Capítulo II - The Canterville Ghost]]
 
 ---
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa: [[Universidad/2do Semestre/Ingles II (C1-C2)/Welcome & Syllabus English II\|Welcome & Syllabus English II]]
+> - Anterior: [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 3 - What's It Worth/Recursos Adicionales/The Canterville Ghost/Capítulo II - The Canterville Ghost\|Capítulo II - The Canterville Ghost]]
 
 **Tags:** #reading #canterville-ghost #extensive-reading #English #IDIG1007 #ESPOL #unit3

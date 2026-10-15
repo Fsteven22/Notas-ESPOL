@@ -39,23 +39,14 @@
 >
 > A **sentence** is a group of words that expresses a **complete thought**. It always has at least a **subject** and a **verb**, and it makes sense on its own.
 >
-> > 💡 **Analogía práctica:** Una oración es como una historia mínima — siempre hay alguien (sujeto) que hace algo (verbo), y juntos forman una idea completa.
+> 💡 **Analogía práctica:** Una oración es como una historia mínima — siempre hay alguien (sujeto) que hace algo (verbo), y juntos forman una idea completa.
 >
 > **Ejemplos:**
 >
-> ```
-> ✅ She runs every morning.
->    (Subject = She | Verb = runs | Complete thought ✔)
->
-> ✅ The students studied hard.
->    (Subject = The students | Verb = studied | Complete thought ✔)
->
-> ❌ Because she was tired.
->    (Incomplete — leaves us asking: "What happened?")
->
-> ❌ Running in the park.
->    (No subject — who is running?)
-> ```
+> - ✅ *She runs every morning.* (Subject = She | Verb = runs | Complete thought ✔)
+> - ✅ *The students studied hard.* (Subject = The students | Verb = studied | Complete thought ✔)
+> - ❌ *Because she was tired.* (Incomplete — leaves us asking: "What happened?")
+> - ❌ *Running in the park.* (No subject — who is running?)
 
 ---
 
@@ -75,15 +66,15 @@
 >
 > **Estructura visual:**
 >
+> ```mermaid
+> graph LR
+>     C["Mayúscula"] --> S["Sujeto"]
+>     S --> V["Verbo"]
+>     V --> X["Complemento"]
+>     X --> P[". ? !"]
 > ```
-> ┌─────────────────────────────────────────────────────┐
-> │  [Capital Letter]  SUBJECT  +  VERB  + ...  [. ? !] │
-> └─────────────────────────────────────────────────────┘
 >
->   She       runs      every morning.
->   ↑         ↑         ↑
->   Capital   Subject   Verb + Complement   Period
-> ```
+> *She runs every morning.* — Mayúscula + Sujeto + Verbo + Complemento + Punto.
 
 ---
 
@@ -111,11 +102,9 @@
 >
 > Can stand alone as a complete sentence. It expresses a complete thought.
 >
-> ```
-> ✅ The teacher explained the lesson.
-> ✅ I love learning languages.
-> ✅ He works every day.
-> ```
+> - ✅ *The teacher explained the lesson.*
+> - ✅ *I love learning languages.*
+> - ✅ *He works every day.*
 >
 > ---
 >
@@ -123,19 +112,15 @@
 >
 > Cannot stand alone — it depends on an independent clause to complete its meaning. It starts with a **subordinating conjunction** (because, although, when, if, since, while, after, before, unless…).
 >
-> ```
-> ❌ Because she was tired...       (¿Qué pasó?)
-> ❌ Although it was raining...     (¿Y entonces?)
-> ❌ When I finish my homework...   (¿Qué harás?)
-> ```
+> - ❌ *Because she was tired...* (¿Qué pasó?)
+> - ❌ *Although it was raining...* (¿Y entonces?)
+> - ❌ *When I finish my homework...* (¿Qué harás?)
 >
 > Cuando se combina con una cláusula independiente, la oración queda completa:
 >
-> ```
-> ✅ Because she was tired, she went to bed early.
-> ✅ Although it was raining, we went outside.
-> ✅ When I finish my homework, I will watch a movie.
-> ```
+> - ✅ *Because she was tired, she went to bed early.*
+> - ✅ *Although it was raining, we went outside.*
+> - ✅ *When I finish my homework, I will watch a movie.*
 >
 > ---
 >
@@ -167,17 +152,18 @@
 > 5. Although he tried very hard.
 > 6. My professor explained the assignment clearly.
 >
-> [!success] ✅ Respuestas — Ejercicio 1
->
-> | # | Respuesta | Por qué |
-> |---|---|---|
-> | 1 | ✅ Completa | Sujeto (*The students*) + verbo (*finished*) + idea completa |
-> | 2 | ❌ Incompleta | Cláusula dependiente — *because* introduce una razón pero no hay cláusula principal |
-> | 3 | ❌ Incompleta | No hay sujeto — ¿quién está corriendo? |
-> | 4 | ✅ Completa | Sujeto (*She*) + verbo (*decided*) + idea completa |
-> | 5 | ❌ Incompleta | Cláusula dependiente — *although* introduce un contraste pero no hay cláusula principal |
-> | 6 | ✅ Completa | Sujeto (*My professor*) + verbo (*explained*) + idea completa |
->
+> > [!success]- ✅ Respuestas — Ejercicio 1
+> >
+> > | # | Respuesta | Por qué |
+> > |---|---|---|
+> > | 1 | ✅ Completa | Sujeto (*The students*) + verbo (*finished*) + idea completa |
+> > | 2 | ❌ Incompleta | Cláusula dependiente — *because* introduce una razón pero no hay cláusula principal |
+> > | 3 | ❌ Incompleta | No hay sujeto — ¿quién está corriendo? |
+> > | 4 | ✅ Completa | Sujeto (*She*) + verbo (*decided*) + idea completa |
+> > | 5 | ❌ Incompleta | Cláusula dependiente — *although* introduce un contraste pero no hay cláusula principal |
+> > | 6 | ✅ Completa | Sujeto (*My professor*) + verbo (*explained*) + idea completa |
+> >
+
 > [!example] ✏️ Ejercicio 2 — Independent o Dependent?
 >
 > Clasifica cada cláusula como independiente (I) o dependiente (D):
@@ -191,18 +177,18 @@
 > 7. The coffee is too hot.
 > 8. Unless you study harder.
 >
-> [!success] ✅ Respuestas — Ejercicio 2
->
-> | # | Cláusula | Tipo | Por qué |
-> |---|---|---|---|
-> | 1 | *She loves reading novels.* | **I** | Sujeto + verbo + idea completa |
-> | 2 | *When the class ends.* | **D** | *When* es subordinante — no tiene sentido sola |
-> | 3 | *I will call you later.* | **I** | Sujeto + verbo + idea completa |
-> | 4 | *Although the exam was difficult.* | **D** | *Although* es subordinante — ¿y entonces qué? |
-> | 5 | *They arrived on time.* | **I** | Sujeto + verbo + idea completa |
-> | 6 | *Because he forgot his homework.* | **D** | *Because* es subordinante — ¿qué pasó como resultado? |
-> | 7 | *The coffee is too hot.* | **I** | Sujeto + verbo + idea completa |
-> | 8 | *Unless you study harder.* | **D** | *Unless* es subordinante — no tiene sentido sola |
+> > [!success]- ✅ Respuestas — Ejercicio 2
+> >
+> > | # | Cláusula | Tipo | Por qué |
+> > |---|---|---|---|
+> > | 1 | *She loves reading novels.* | **I** | Sujeto + verbo + idea completa |
+> > | 2 | *When the class ends.* | **D** | *When* es subordinante — no tiene sentido sola |
+> > | 3 | *I will call you later.* | **I** | Sujeto + verbo + idea completa |
+> > | 4 | *Although the exam was difficult.* | **D** | *Although* es subordinante — ¿y entonces qué? |
+> > | 5 | *They arrived on time.* | **I** | Sujeto + verbo + idea completa |
+> > | 6 | *Because he forgot his homework.* | **D** | *Because* es subordinante — ¿qué pasó como resultado? |
+> > | 7 | *The coffee is too hot.* | **I** | Sujeto + verbo + idea completa |
+> > | 8 | *Unless you study harder.* | **D** | *Unless* es subordinante — no tiene sentido sola |
 
 ---
 
@@ -220,6 +206,16 @@
 > | **Dependent clause** | Cláusula que necesita otra para tener sentido. Siempre va acompañada de una conjunción subordinante. |
 > | **Subordinating conjunction** | Palabra que introduce una cláusula dependiente: *because, although, when, if, since, while, after, before, unless*. |
 > | **Fragment** | En inglés, una oración incompleta. Es un error gramatical común — escribir una cláusula dependiente sola como si fuera una oración. |
+
+---
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa: [[Universidad/2do Semestre/Ingles II (C1-C2)/Welcome & Syllabus English II\|Welcome & Syllabus English II]]
+> - Siguiente: [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 0 - Preliminar/02 - Grammar Review - Gerund, FANBOYS & NOR\|02 - Grammar Review - Gerund, FANBOYS & NOR]]
+> - Complemento: [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 0 - Preliminar/03 - Grammar Review - Sentence Types by Structure\|03 - Grammar Review - Sentence Types by Structure]]
 
 ---
 

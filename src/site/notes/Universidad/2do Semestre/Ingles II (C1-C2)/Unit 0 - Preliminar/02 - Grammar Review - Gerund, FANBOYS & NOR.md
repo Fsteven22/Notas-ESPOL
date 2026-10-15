@@ -53,28 +53,21 @@
 >
 > ### Verbos comunes seguidos de gerundio
 >
-> ```
-> ✅ enjoy    → She enjoys swimming.
-> ✅ avoid    → He avoids eating sugar.
-> ✅ finish   → They finished working.
-> ✅ keep     → Keep trying!
-> ✅ suggest  → I suggest leaving early.
-> ✅ mind     → Do you mind waiting?
-> ✅ miss     → I miss traveling.
-> ✅ practice → She practices speaking English every day.
-> ```
+> - ✅ *enjoy* → She enjoys swimming.
+> - ✅ *avoid* → He avoids eating sugar.
+> - ✅ *finish* → They finished working.
+> - ✅ *keep* → Keep trying!
+> - ✅ *suggest* → I suggest leaving early.
+> - ✅ *mind* → Do you mind waiting?
+> - ✅ *miss* → I miss traveling.
+> - ✅ *practice* → She practices speaking English every day.
 >
 > ---
 >
 > ### ⚠️ Gerund vs. Present Participle — no los confundas
 >
-> ```
-> Gerund (NOUN):         Swimming is fun.
->                        ↑ actúa como sujeto — es un sustantivo
->
-> Present Participle:    She is swimming right now.
->                        ↑ parte del verbo — forma el tiempo continuo
-> ```
+> - **Gerundio (sustantivo):** *Swimming is fun.* — actúa como sujeto.
+> - **Participio presente:** *She is swimming right now.* — parte del verbo (continuo).
 >
 > > [!tip]- 💡 ¿Cómo diferenciarlos?
 > >
@@ -107,28 +100,18 @@
 >
 > Cuando usas FANBOYS para unir dos cláusulas independientes, siempre va una **coma antes de la conjunción**:
 >
-> ```
-> [Independent Clause] , [FANBOYS] [Independent Clause]
->
-> ✅ I wanted to go, but it was raining.
-> ✅ She studied hard, so she passed the exam.
-> ✅ He likes coffee, and she prefers tea.
->
-> ❌ I wanted to go but it was raining.
->    (Falta la coma antes de but)
-> ```
+> **Fórmula:** [Independent Clause] , [FANBOYS] [Independent Clause]
+> - ✅ *I wanted to go, but it was raining.*
+> - ✅ *She studied hard, so she passed the exam.*
+> - ✅ *He likes coffee, and she prefers tea.*
+> - ❌ *I wanted to go but it was raining.* (Falta la coma antes de *but*)
 >
 > > [!tip]- 💡 ¿Cuándo NO usar coma con FANBOYS?
 > >
 > > Si FANBOYS une dos verbos o dos sustantivos pero **no** dos cláusulas independientes completas, no se usa coma:
 > >
-> > ```
-> > ✅ She runs and swims every day.
-> >    (Un solo sujeto, dos verbos — no hay segunda cláusula independiente)
-> >
-> > ✅ I ordered coffee and cake.
-> >    (Une dos sustantivos, no dos cláusulas)
-> > ```
+> > - ✅ *She runs and swims every day.* (Un solo sujeto, dos verbos — no hay segunda cláusula independiente)
+> > - ✅ *I ordered coffee and cake.* (Une dos sustantivos, no dos cláusulas)
 
 ---
 
@@ -144,18 +127,10 @@
 >
 > Se usa para negar dos elementos al mismo tiempo. No requiere inversión de sujeto y auxiliar.
 >
-> ```
-> Formula: Neither + [elemento 1] + nor + [elemento 2]
->
-> ✅ She speaks neither Spanish nor French.
->    (No habla ni español ni francés.)
->
-> ✅ Neither the teacher nor the students were late.
->    (Ni el maestro ni los estudiantes llegaron tarde.)
->
-> ✅ I have neither the time nor the energy to argue.
->    (No tengo ni el tiempo ni la energía para discutir.)
-> ```
+> **Fórmula:** Neither + [elemento 1] + nor + [elemento 2]
+> - ✅ *She speaks neither Spanish nor French.* (No habla ni español ni francés.)
+> - ✅ *Neither the teacher nor the students were late.* (Ni el maestro ni los estudiantes llegaron tarde.)
+> - ✅ *I have neither the time nor the energy to argue.* (No tengo ni el tiempo ni la energía para discutir.)
 >
 > ---
 >
@@ -163,18 +138,11 @@
 >
 > Cuando **nor** une dos cláusulas independientes, el **sujeto y el auxiliar se invierten** en la segunda cláusula (estructura similar a una pregunta).
 >
-> ```
-> Formula: [Negative Ind. Clause] , nor + [auxiliary] + [subject] + [verb]...
->
-> ✅ He doesn't smoke, nor does he drink.
->    ↑ Inversión: "nor DOES he" — no "nor he does"
->
-> ✅ She didn't call, nor did she send a message.
->
-> ✅ I am not angry, nor am I disappointed.
->
-> ✅ They won't give up, nor will they accept defeat.
-> ```
+> **Fórmula:** [Negative Ind. Clause] , nor + [auxiliary] + [subject] + [verb]...
+> - ✅ *He doesn't smoke, nor does he drink.* (Inversión: "nor DOES he" — no "nor he does")
+> - ✅ *She didn't call, nor did she send a message.*
+> - ✅ *I am not angry, nor am I disappointed.*
+> - ✅ *They won't give up, nor will they accept defeat.*
 >
 > ---
 >
@@ -185,11 +153,8 @@
 > | **OR** | Positiva o neutra | *You can call me **or** text me.* |
 > | **NOR** | Siempre después de una cláusula negativa | *She didn't call, **nor** did she text me.* |
 >
-> ```
-> ✅ CORRECTO:  I don't like coffee, nor do I like tea.
-> ❌ INCORRECTO: I don't like coffee, or do I like tea.
->               (OR no puede seguir una cláusula negativa para añadir otra negación)
-> ```
+> - ✅ CORRECTO: *I don't like coffee, nor do I like tea.*
+> - ❌ INCORRECTO: *I don't like coffee, or do I like tea.* (OR no puede seguir una cláusula negativa para añadir otra negación)
 
 ---
 
@@ -208,19 +173,20 @@
 > 7. She suggested ***leaving*** early.
 > 8. The kids are ***playing*** in the park.
 >
-> [!success] ✅ Respuestas — Ejercicio 1
->
-> | # | Respuesta | Por qué |
-> |---|---|---|
-> | 1 | **G** | *Reading* es el sujeto de la oración — actúa como sustantivo |
-> | 2 | **PP** | *is reading* forma el Present Continuous — parte del verbo |
-> | 3 | **G** | Objeto del verbo *avoids* — actúa como sustantivo |
-> | 4 | **PP** | *were working* forma el Past Continuous — parte del verbo |
-> | 5 | **G** | *Swimming* es el sujeto de la oración — actúa como sustantivo |
-> | 6 | **PP** | *am studying* forma el Present Continuous — parte del verbo |
-> | 7 | **G** | Objeto del verbo *suggested* — actúa como sustantivo |
-> | 8 | **PP** | *are playing* forma el Present Continuous — parte del verbo |
->
+> > [!success]- ✅ Respuestas — Ejercicio 1
+> >
+> > | # | Respuesta | Por qué |
+> > |---|---|---|
+> > | 1 | **G** | *Reading* es el sujeto de la oración — actúa como sustantivo |
+> > | 2 | **PP** | *is reading* forma el Present Continuous — parte del verbo |
+> > | 3 | **G** | Objeto del verbo *avoids* — actúa como sustantivo |
+> > | 4 | **PP** | *were working* forma el Past Continuous — parte del verbo |
+> > | 5 | **G** | *Swimming* es el sujeto de la oración — actúa como sustantivo |
+> > | 6 | **PP** | *am studying* forma el Present Continuous — parte del verbo |
+> > | 7 | **G** | Objeto del verbo *suggested* — actúa como sustantivo |
+> > | 8 | **PP** | *are playing* forma el Present Continuous — parte del verbo |
+> >
+
 > [!example] ✏️ Ejercicio 2 — Completa con la conjunción FANBOYS correcta
 >
 > Elige la conjunción más apropiada para cada oración (*for, and, nor, but, or, yet, so*):
@@ -233,18 +199,19 @@
 > 6. She was nervous, ________ she had practiced many times.
 > 7. He left early, ________ he had an appointment.
 >
-> [!success] ✅ Respuestas — Ejercicio 2
->
-> | # | Conjunción | Por qué |
-> |---|---|---|
-> | 1 | **so** | Expresa resultado — el hambre llevó a hacer un sándwich |
-> | 2 | **yet** | Contraste inesperado — estudió mucho pero igual falló |
-> | 3 | **or** | Presenta dos alternativas |
-> | 4 | **nor** | Añade segunda idea negativa — requiere inversión (*nor does he*) |
-> | 5 | **but** | Contraste directo entre querer y no poder |
-> | 6 | **yet** | Contraste — estaba nerviosa a pesar de haber practicado |
-> | 7 | **for** | Explica la razón de salir temprano |
->
+> > [!success]- ✅ Respuestas — Ejercicio 2
+> >
+> > | # | Conjunción | Por qué |
+> > |---|---|---|
+> > | 1 | **so** | Expresa resultado — el hambre llevó a hacer un sándwich |
+> > | 2 | **yet** | Contraste inesperado — estudió mucho pero igual falló |
+> > | 3 | **or** | Presenta dos alternativas |
+> > | 4 | **nor** | Añade segunda idea negativa — requiere inversión (*nor does he*) |
+> > | 5 | **but** | Contraste directo entre querer y no poder |
+> > | 6 | **yet** | Contraste — estaba nerviosa a pesar de haber practicado |
+> > | 7 | **for** | Explica la razón de salir temprano |
+> >
+
 > [!example] ✏️ Ejercicio 3 — Neither … nor o NOR con inversión?
 >
 > Completa cada oración usando el patrón correcto de NOR:
@@ -254,14 +221,14 @@
 > 10. ________ the manager ________ the employees were informed.
 > 11. I am not tired, ________ ________ I hungry.
 >
-> [!success] ✅ Respuestas — Ejercicio 3
->
-> | # | Respuesta | Patrón usado |
-> |---|---|---|
-> | 1 | *She speaks **neither** Italian **nor** Portuguese.* | Neither…nor (correlativo) |
-> | 2 | *He didn't apologize, **nor did** he explain his behavior.* | NOR + inversión |
-> | 3 | ***Neither** the manager **nor** the employees were informed.* | Neither…nor (correlativo) |
-> | 4 | *I am not tired, **nor am** I hungry.* | NOR + inversión |
+> > [!success]- ✅ Respuestas — Ejercicio 3
+> >
+> > | # | Respuesta | Patrón usado |
+> > |---|---|---|
+> > | 1 | *She speaks **neither** Italian **nor** Portuguese.* | Neither…nor (correlativo) |
+> > | 2 | *He didn't apologize, **nor did** he explain his behavior.* | NOR + inversión |
+> > | 3 | ***Neither** the manager **nor** the employees were informed.* | Neither…nor (correlativo) |
+> > | 4 | *I am not tired, **nor am** I hungry.* | NOR + inversión |
 
 ---
 
@@ -279,6 +246,16 @@
 > | **NOR** | Conjunción negativa. Solo se usa cuando la primera cláusula ya es negativa. Nunca reemplaza a *or* en contextos positivos. |
 > | **Yet (FANBOYS)** | No confundir con *yet* como adverbio de tiempo (*I haven't finished yet*). Como conjunción FANBOYS, significa "sin embargo" y expresa contraste. |
 > | **For (FANBOYS)** | No confundir con la preposición *for*. Como conjunción FANBOYS, equivale a *because* pero es más formal y literario. |
+
+---
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa: [[Welcome & Syllabus English II]]
+> - Anterior: [[01 - Grammar Review - The Sentence & Clauses]]
+> - Siguiente: [[03 - Grammar Review - Sentence Types by Structure]]
 
 ---
 

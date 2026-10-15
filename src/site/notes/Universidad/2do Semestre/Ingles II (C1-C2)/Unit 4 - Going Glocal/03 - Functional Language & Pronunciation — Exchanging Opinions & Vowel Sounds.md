@@ -43,6 +43,7 @@
 > |**I really think (you'd enjoy it)**|Refuerza una recomendación u opinión con convicción|
 > |**It's not so much that..., it's just that...**|Matiza tu opinión: aclara qué NO quieres decir antes de aclarar qué sí quieres decir|
 >
+
 > [!example]- 🟢 Ejemplo del libro
 > 
 > _"It's not so much that I'm not interested, it's just that I don't really understand the game. I just feel lost when I watch it."_
@@ -62,6 +63,7 @@
 > |**But the thing is, ...**|Introduce tu contraargumento principal|
 > |**That's true, but...**|Valida parcialmente lo dicho, luego matiza o contradice|
 >
+
 > [!example]- 🟢 Ejemplo del libro (conversación completa, resumida)
 > 
 > En el diálogo del libro, A defiende el fútbol como algo estratégico y culturalmente valioso; B objeta que 90 minutos son demasiado tiempo para un resultado tan bajo. A responde reconociendo el punto ("that's a good point") pero defendiendo que hay mucha estrategia detrás incluso cuando el marcador es bajo. El patrón se repite: **reconocer → matizar → sostener tu postura**, en vez de simplemente contradecir.
@@ -78,6 +80,7 @@
 > - **I couldn't disagree more.**
 > - **You have it all wrong.**
 >
+
 > [!warning] ⚠️ Cuándo (no) usar estas frases
 > 
 > Estas expresiones son **fuertes** — funcionan bien en un debate informal entre amigos sobre gustos (películas, deportes, música), pero pueden sonar agresivas en un contexto profesional o formal. Combínalas con un tono conversacional relajado, no con hostilidad real.
@@ -95,10 +98,12 @@
 > 
 > Ejemplos guía del libro: la vocal de **all** (_"That's not fair at all"_) representa un sonido, y la vocal de **soccer** (_"Soccer is a cultural experience"_) representa el otro.
 >
+
 > [!warning] ⚠️ Esta clasificación requiere el audio del libro
 > 
 > El ejercicio de práctica (audio 1.40) pide clasificar palabras como _audience, not, model, awesome, sponsor, caught_ en columna A (/ɒ/) o columna B (/ʌ/). **No incluyo aquí las respuestas** porque la clasificación exacta depende de cómo se pronuncian en el audio original (hay variación entre inglés británico y americano en varias de estas palabras, p. ej. _caught_). Te recomiendo escuchar el audio 1.40 y completar la tabla tú mismo — si quieres, cuando tengas las respuestas del libro te ayudo a organizarlas aquí.
 >
+
 > [!tip]- 🖥️ Truco para practicar
 > 
 > Practica en pares mínimos exagerando la posición de la boca: para /ɒ/ redondea los labios como si fueras a decir una "o" corta; para /ʌ/ relaja la boca hacia una posición más neutra y central, casi como una "a" corta relajada. Repetir _not / nut_, _cot / cut_ en voz alta ayuda a sentir la diferencia físicamente.
@@ -168,13 +173,13 @@ graph TD
 > 
 > **3.** ¿Qué frase es más fuerte: "That's true, but..." o "You have it all wrong"?
 >
-> [!success]- ✅ Respuestas — Nivel 1
-> 
-> **1.** _I couldn't disagree more_ = enfatizar desacuerdo; _As I see it_ = dar opinión; _That's a good point, but..._ = discutir/matizar.
-> 
-> **2.** it's just that
-> 
-> **3.** "You have it all wrong" es más fuerte/enfática.
+> > [!success]- ✅ Respuestas — Nivel 1
+> > 
+> > **1.** _I couldn't disagree more_ = enfatizar desacuerdo; _As I see it_ = dar opinión; _That's a good point, but..._ = discutir/matizar.
+> > 
+> > **2.** it's just that
+> > 
+> > **3.** "You have it all wrong" es más fuerte/enfática.
 
 ---
 
@@ -186,13 +191,13 @@ graph TD
 > 
 > **3.** Usa la estructura "It's not so much that..., it's just that..." para explicar por qué no te gusta un tema de la escuela.
 >
-> [!success]- ✅ Respuestas — Nivel 2 (ejemplo de respuesta)
-> 
-> **1.** _"That's a good point, but there's actually a lot of strategy happening even when the score is low."_
-> 
-> **2.** _"I couldn't disagree more."_ / _"That's not true at all."_
-> 
-> **3.** _"It's not so much that I dislike math, it's just that I never had a teacher who explained it well."_
+> > [!success]- ✅ Respuestas — Nivel 2 (ejemplo de respuesta)
+> > 
+> > **1.** _"That's a good point, but there's actually a lot of strategy happening even when the score is low."_
+> > 
+> > **2.** _"I couldn't disagree more."_ / _"That's not true at all."_
+> > 
+> > **3.** _"It's not so much that I dislike math, it's just that I never had a teacher who explained it well."_
 
 ---
 
@@ -204,6 +209,7 @@ graph TD
 > 
 > **3.** Piensa en un contexto donde usar frases enfáticas como "I couldn't disagree more" sería inapropiado, y explica por qué.
 >
+
 > [!success]- ✅ Guía de respuesta — Nivel 3
 > 
 > Respuestas abiertas. Se espera coherencia en el uso progresivo de las frases (de neutral a enfático) y justificación razonada sobre el registro (formal/informal) en la pregunta 3.
@@ -218,12 +224,14 @@ graph TD
 > - [ ] Distingo los sonidos /ɒ/ y /ʌ/ al escuchar pares mínimos.
 > - [ ] Entiendo que el stress puede señalar un cambio de tema en un discurso.
 >
+
 > [!success] ✅ Nivel Intermedio
 > 
 > - [ ] Uso "It's not so much that..., it's just that..." para matizar mis propias opiniones.
 > - [ ] Reconozco antes de contraargumentar ("That's a good point, but...") en vez de contradecir directamente.
 > - [ ] Distingo cuándo una frase enfática es apropiada según el contexto (formal vs. informal).
 >
+
 > [!success] ✅ Nivel Avanzado
 > 
 > - [ ] Sostengo una conversación completa de desacuerdo usando las tres categorías de forma fluida y natural.
@@ -236,12 +244,21 @@ graph TD
 > 
 > [1] _Keynote Upper-Intermediate_, National Geographic Learning / Cengage, Student's Book, Unit 4: Going Glocal, pp. 38–40.
 >
+
 > [!quote] 🔗 Conexiones
 > 
 > - [[01 - Vocabulary & Use - Advertising & Media People]]
 > - [[02 - Grammar & Examples - Modals of Speculation & Relative Clauses]]
-> - [[04 - Reading Writing Speaking - Building a Brand & Designing Ads]]
+> - [[04 - Reading, Writing & Speaking - Building a Brand & Designing Ads]]
 
 ---
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa: [[Welcome & Syllabus English II]]
+> - Anterior: [[02 - Grammar & Examples - Modals of Speculation & Relative Clauses]]
+> - Siguiente: [[04 - Reading, Writing & Speaking - Building a Brand & Designing Ads]]
 
 **Tags:** #functional-language #pronunciation #opinions #English #IDIG1007 #ESPOL #unit4

@@ -21,7 +21,7 @@
 >     A --> D[Pronunciation: /s/ inicial]
 >     B --> E[Frases para disculparse<br/>por daños o pérdidas]
 >     C --> F[Estrategias para<br/>aceptar y aliviar]
->     D --> G[/s/ vs. /es/<br/>al inicio de palabra]
+>     D --> G["/s/ vs. /es/<br/>al inicio de palabra"]
 >     style B fill:#fce4ec
 >     style C fill:#e8f5e9
 >     style D fill:#e3f2fd
@@ -59,6 +59,8 @@
 > 
 > **Ejemplos en contexto** _(inglés → español)_:
 > 
+> > [!example] 🟢 Ejemplo
+> >
 > > _I'm really sorry — I accidentally deleted your files. I'll try to recover them._ _Lo siento mucho de verdad — borré tus archivos sin querer. Voy a intentar recuperarlos._
 > > 
 > > _I just did the dumbest thing. I left your charger on the bus._ _Acabo de hacer la cosa más tonta. Dejé tu cargador en el bus._
@@ -120,6 +122,8 @@
 
 > [!example] 💬 Diálogo de referencia
 > 
+> > [!example] 🟢 Ejemplo
+> >
 > > **Alex:** Hey, I'm so sorry — I just did the dumbest thing. I borrowed your umbrella this morning and I left it on the bus. _Hey, lo siento mucho — acabo de hacer la cosa más tonta. Tomé prestado tu paraguas esta mañana y lo dejé en el bus._
 > > 
 > > **Sam:** Oh no! That was my favorite one. _¡Oh no! Era mi favorito._
@@ -180,6 +184,8 @@
 > |speak|"es-peak"|"speak"|
 > |spend|"es-pend"|"spend"|
 > 
+> > [!example] 🟢 Ejemplo
+> >
 > > _She's under a lot of stress at school this week._ _Ella está bajo mucho estrés en la escuela esta semana._
 > > 
 > > _(Practica diciendo esta oración 5 veces seguidas sin el "es-" extra en "stress" o "school")_
@@ -198,11 +204,11 @@
 > 
 > **Situación 3:** Olvidaste el cumpleaños de un familiar cercano. a) _I'm really sorry — I completely forgot. I should have been more careful._ b) _Oops, my bad._ c) _Let's just move on._
 >
-> [!success] ✅ Respuestas — Ejercicio 1
-> 
-> 1. b) _Oops, my bad!_ — error menor, tono informal
-> 2. c) _I feel awful about it. I'll pay to have it fixed, I promise._ — daño a propiedad ajena, ofrece solución
-> 3. a) _I'm really sorry — I completely forgot. I should have been more careful._ — error personal significativo
+> > [!success]- ✅ Respuestas — Ejercicio 1
+> > 
+> > 1. b) _Oops, my bad!_ — error menor, tono informal
+> > 2. c) _I feel awful about it. I'll pay to have it fixed, I promise._ — daño a propiedad ajena, ofrece solución
+> > 3. a) _I'm really sorry — I completely forgot. I should have been more careful._ — error personal significativo
 
 ---
 
@@ -216,13 +222,13 @@
 > 7. "I just did the __________________ thing — I sent your private message to the wrong group."
 > 8. "I had no idea it would cause so much __________________ ."
 >
-> [!success] ✅ Respuestas — Ejercicio 2
-> 
-> 9. can't tell you
-> 10. fault
-> 11. anything
-> 12. dumbest
-> 13. trouble
+> > [!success]- ✅ Respuestas — Ejercicio 2
+> > 
+> > 9. can't tell you
+> > 10. fault
+> > 11. anything
+> > 12. dumbest
+> > 13. trouble
 
 ---
 
@@ -236,9 +242,9 @@
 > 
 > **Situación C:** Un colega llegó tarde a una reunión importante pero se disculpa sinceramente. a) _Honestly, it's fine. Let's get started._ b) _Don't beat yourself up — it was no big deal at all._ c) _These things happen, but don't let it happen again._
 >
-> [!success] ✅ Respuestas — Ejercicio 3
-> 
-> A) b — reconoce el error, acepta la solución, no dramatiza B) a — empático, alivia la culpa, tono amigable C) a o c — ambas son válidas; _a_ es más suave, _c_ cierra con un límite claro
+> > [!success]- ✅ Respuestas — Ejercicio 3
+> > 
+> > A) b — reconoce el error, acepta la solución, no dramatiza B) a — empático, alivia la culpa, tono amigable C) a o c — ambas son válidas; _a_ es más suave, _c_ cierra con un límite claro
 
 ---
 
@@ -254,15 +260,15 @@
 > 14. _store_ pronunciado como "stor"
 > 15. _still_ pronunciado como "es-till"
 >
-> [!success] ✅ Respuestas — Ejercicio 4
-> 
-> 16. ❌ — debe ser "stress" sin "es-"
-> 17. ✅ — correcto
-> 18. ❌ — debe ser "skuul" sin "es-"
-> 19. ✅ — correcto
-> 20. ❌ — debe ser "stándard" sin "es-"
-> 21. ✅ — correcto
-> 22. ❌ — debe ser "still" sin "es-"
+> > [!success]- ✅ Respuestas — Ejercicio 4
+> > 
+> > 16. ❌ — debe ser "stress" sin "es-"
+> > 17. ✅ — correcto
+> > 18. ❌ — debe ser "skuul" sin "es-"
+> > 19. ✅ — correcto
+> > 20. ❌ — debe ser "stándard" sin "es-"
+> > 21. ✅ — correcto
+> > 22. ❌ — debe ser "still" sin "es-"
 
 ---
 
@@ -299,5 +305,13 @@
 > [1] _Keynote Upper-Intermediate_, National Geographic Learning / Cengage, Student's Book, Unit 3: Worth It?, pp. 30–43.
 
 ---
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa: [[Welcome & Syllabus English II]]
+> - Anterior: [[02 - Grammar & Examples - Too Enough & Modifying Comparisons]]
+> - Siguiente: [[04 - Reading Writing Speaking - Buyer Beware & Product Reviews]]
 
 **Tags:** #functional-language #apologies #pronunciation #s-sound #English #IDIG1007 #ESPOL #unit3

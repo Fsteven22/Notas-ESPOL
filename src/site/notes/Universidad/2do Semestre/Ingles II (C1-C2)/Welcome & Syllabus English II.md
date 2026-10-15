@@ -45,6 +45,8 @@
 > | **4** | Write academic paragraphs using an intermediate level of English |
 >
 > **General skill developed:**
+> > [!example] 🟢 Ejemplo
+> >
 > > Habilidad para comunicarse efectivamente en inglés con diversas audiencias.
 
 ---

@@ -37,6 +37,7 @@
 > |**defeat**|derrota|
 > |**to withdraw**|retirarse / encerrarse|
 >
+
 > [!tip]- 💡 El punto de quiebre del personaje
 > 
 > Este capítulo marca la transición del tono **cómico** hacia un tono más **melancólico**: por primera vez, el lector empieza a sentir cierta simpatía por Sir Simon, cuya humillación ya no resulta solo graciosa, sino también un poco triste. Este cambio de tono prepara al lector para el giro dramático que vendrá con Virginia en el Capítulo V.
@@ -69,11 +70,19 @@
 > 
 > [1] Wilde, Oscar. _The Canterville Ghost_. 1887. (Obra de dominio público).
 >
+
 > [!quote] 🔗 Conexiones
 > 
 > - [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 3 - What's It Worth/Recursos Adicionales/The Canterville Ghost/Capítulo III - The Canterville Ghost\|Capítulo III - The Canterville Ghost]]
 > - [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 4 - Going Glocal/Recursos Adicionales/The Canterville Ghost/Capítulo V - The Canterville Ghost\|Capítulo V - The Canterville Ghost]]
 
 ---
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa: [[Universidad/2do Semestre/Ingles II (C1-C2)/Welcome & Syllabus English II\|Welcome & Syllabus English II]]
+> - Siguiente: [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 4 - Going Glocal/Recursos Adicionales/The Canterville Ghost/Capítulo V - The Canterville Ghost\|Capítulo V - The Canterville Ghost]]
 
 **Tags:** #reading #canterville-ghost #extensive-reading #English #IDIG1007 #ESPOL #unit4

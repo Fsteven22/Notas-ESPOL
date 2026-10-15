@@ -67,6 +67,8 @@
 > 
 > **Ejemplo de historia de compra problemática** _(inglés → español)_:
 > 
+> > [!example] 🟢 Ejemplo
+> >
 > > _I ordered a dress online that looked beautiful in the photos. When it arrived, the color was completely different, the fabric felt cheap, and the size was nowhere near what I ordered. The seller's description was totally misleading. When I contacted customer service, they told me the return policy didn't cover color differences. It was a complete waste of money._
 > > 
 > > _Pedí un vestido en línea que se veía hermoso en las fotos. Cuando llegó, el color era completamente diferente, la tela se sentía barata y la talla no era ni remotamente lo que pedí. La descripción del vendedor era totalmente engañosa. Cuando contacté al servicio al cliente, me dijeron que la política de devoluciones no cubría diferencias de color. Fue una pérdida total de dinero._
@@ -261,13 +263,13 @@
 > 4. Intentas devolver algo pero el vendedor no acepta devoluciones. → _(return policy / customer service)_
 > 5. El producto llegó exactamente como lo describían. → _(as described / misleading)_
 >
-> [!success] ✅ Respuestas — Ejercicio 1
-> 
-> 6. misleading description
-> 7. damaged goods
-> 8. counterfeit product
-> 9. return policy
-> 10. as described
+> > [!success]- ✅ Respuestas — Ejercicio 1
+> > 
+> > 6. misleading description
+> > 7. damaged goods
+> > 8. counterfeit product
+> > 9. return policy
+> > 10. as described
 
 ---
 
@@ -281,13 +283,13 @@
 > 9. Compraste la versión más cara de un producto y la calidad fue superior a todas las demás.
 > 10. Compraste algo barato que resultó ser de muy buena calidad inesperadamente.
 >
-> [!success] ✅ Respuestas — Ejercicio 2
-> 
-> 11. ✅ Aplica — pagaste poco y obtuviste poca calidad
-> 12. ❌ No aplica — pagaste mucho pero la calidad no justificó el precio (_overpriced_)
-> 13. ❌ No aplica — obtuviste más de lo que pagaste (_a bargain_)
-> 14. ✅ Aplica — el precio alto reflejó la calidad
-> 15. ❌ No aplica — la expresión asume que precio = calidad, y aquí no fue así
+> > [!success]- ✅ Respuestas — Ejercicio 2
+> > 
+> > 11. ✅ Aplica — pagaste poco y obtuviste poca calidad
+> > 12. ❌ No aplica — pagaste mucho pero la calidad no justificó el precio (_overpriced_)
+> > 13. ❌ No aplica — obtuviste más de lo que pagaste (_a bargain_)
+> > 14. ✅ Aplica — el precio alto reflejó la calidad
+> > 15. ❌ No aplica — la expresión asume que precio = calidad, y aquí no fue así
 
 ---
 
@@ -295,6 +297,8 @@
 > 
 > Lee el siguiente fragmento de reseña e identifica qué parte de la estructura es cada párrafo (contexto / positivos / negativos / recomendación):
 > 
+> > [!example] 🟢 Ejemplo
+> >
 > > _(A)_ I purchased these headphones to use during long study sessions, hoping for good sound and comfort.
 > > 
 > > _(B)_ The sound quality is genuinely impressive for the price, and they are very comfortable even after hours of use.
@@ -303,12 +307,12 @@
 > > 
 > > _(D)_ If you need headphones for occasional use, these might be fine. But if you rely on them daily, I'd recommend spending a bit more.
 >
-> [!success] ✅ Respuestas — Ejercicio 3
-> 
-> - (A) → Contexto de la compra
-> - (B) → Aspectos positivos
-> - (C) → Aspectos negativos
-> - (D) → Recomendación
+> > [!success]- ✅ Respuestas — Ejercicio 3
+> > 
+> > - (A) → Contexto de la compra
+> > - (B) → Aspectos positivos
+> > - (C) → Aspectos negativos
+> > - (D) → Recomendación
 
 ---
 
@@ -322,13 +326,13 @@
 > 14. _THE QUALITY IS BAD THE COLOR IS WRONG THE DELIVERY WAS LATE._
 > 15. _The size runs small — order at least ONE SIZE UP._
 >
-> [!success] ✅ Respuestas — Ejercicio 4
-> 
-> 16. ✅ — una sola palabra en CAPS para énfasis positivo
-> 17. ❌ — frase entera en CAPS, tono agresivo, pierde credibilidad
-> 18. ✅ — advertencia clara con DO NOT, útil para el lector
-> 19. ❌ — todo en CAPS, sin puntuación, suena a spam agresivo
-> 20. ✅ — dos palabras en CAPS para énfasis en información útil
+> > [!success]- ✅ Respuestas — Ejercicio 4
+> > 
+> > 16. ✅ — una sola palabra en CAPS para énfasis positivo
+> > 17. ❌ — frase entera en CAPS, tono agresivo, pierde credibilidad
+> > 18. ✅ — advertencia clara con DO NOT, útil para el lector
+> > 19. ❌ — todo en CAPS, sin puntuación, suena a spam agresivo
+> > 20. ✅ — dos palabras en CAPS para énfasis en información útil
 
 ---
 
@@ -366,5 +370,12 @@
 > [1] _Keynote Upper-Intermediate_, National Geographic Learning / Cengage, Student's Book, Unit 3: Worth It?, pp. 30–43.
 
 ---
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa: [[Welcome & Syllabus English II]]
+> - Anterior: [[03 - Functional Language & Pronunciation - Apologies & S-Sounds]]
 
 **Tags:** #reading #writing #product-review #buyer-beware #register #all-caps #English #IDIG1007 #ESPOL #unit3

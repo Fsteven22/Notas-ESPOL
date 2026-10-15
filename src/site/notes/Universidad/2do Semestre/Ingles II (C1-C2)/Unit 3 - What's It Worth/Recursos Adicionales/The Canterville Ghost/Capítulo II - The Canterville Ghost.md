@@ -39,6 +39,7 @@
 > |**to rattle**|traquetear / hacer ruido metálico|
 > |**unfazed**|impasible / no perturbado|
 >
+
 > [!tip]- 💡 El choque cultural como motor del humor
 > 
 > Este capítulo profundiza la ironía central de la obra: el fantasma representa la **tradición gótica europea** (terror, historia, superstición), mientras que Mr. Otis representa el **pragmatismo americano moderno** (soluciones prácticas para todo, incluso lo sobrenatural). El choque entre ambos mundos, más que dar miedo, genera comedia.
@@ -71,11 +72,20 @@
 > 
 > [1] Wilde, Oscar. _The Canterville Ghost_. 1887. (Obra de dominio público).
 >
+
 > [!quote] 🔗 Conexiones
 > 
-> - [[Capítulo I - The Canterville Ghost\|Capítulo I - The Canterville Ghost]]
+> - [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 3 - What's It Worth/Recursos Adicionales/The Canterville Ghost/Capitulo I - The Canterville Ghost\|Capitulo I - The Canterville Ghost]]
 > - [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 3 - What's It Worth/Recursos Adicionales/The Canterville Ghost/Capítulo III - The Canterville Ghost\|Capítulo III - The Canterville Ghost]]
 
 ---
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa: [[Universidad/2do Semestre/Ingles II (C1-C2)/Welcome & Syllabus English II\|Welcome & Syllabus English II]]
+> - Anterior: [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 3 - What's It Worth/Recursos Adicionales/The Canterville Ghost/Capitulo I - The Canterville Ghost\|Capitulo I - The Canterville Ghost]]
+> - Siguiente: [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 3 - What's It Worth/Recursos Adicionales/The Canterville Ghost/Capítulo III - The Canterville Ghost\|Capítulo III - The Canterville Ghost]]
 
 **Tags:** #reading #canterville-ghost #extensive-reading #English #IDIG1007 #ESPOL #unit3

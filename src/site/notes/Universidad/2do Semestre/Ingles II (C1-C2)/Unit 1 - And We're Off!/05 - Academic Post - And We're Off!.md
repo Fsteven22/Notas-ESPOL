@@ -160,6 +160,8 @@
 > 
 > Este es el ejercicio de práctica oficial del PDF:
 > 
+> > [!example] 🟢 Ejemplo
+> >
 > > **Professor:** What helps students succeed at university?
 > > 
 > > **Lizzy:** Having supportive teachers is the most important factor.
@@ -174,6 +176,7 @@
 > - Siga la estructura de las 5 partes en el mismo orden.
 > - Use frases del banco de Useful Phrases.
 >
+
 > [!tip]- 💡 Modelo de respuesta — Academic Post completo
 > 
 > El siguiente es un modelo de respuesta para que puedas comparar con el tuyo:
@@ -182,6 +185,7 @@
 > 
 > _(Aproximadamente 115 palabras)_
 >
+
 > [!success] ✅ Guía de autoevaluación
 > 
 > Antes de entregar tu Academic Post, verifica esta lista:
@@ -223,8 +227,15 @@
 
 > [!quote] 📖 Fuentes consultadas
 > 
-> [1] K. Yambay de Armijos, _E2 Academic Post_, Academic Writing Center (AWC), ESPOL, Guayaquil, Ecuador, 2024. Disponible en: [[Academic Post KYdA.pdf]]
+> [1] K. Yambay de Armijos, _E2 Academic Post_, Academic Writing Center (AWC), ESPOL, Guayaquil, Ecuador, 2024. Disponible en: [Academic Post KYdA.pdf](/img/user/Universidad/2do%20Semestre/Ingles%20II%20(C1-C2)/Unit%201%20-%20And%20We're%20Off!/Recursos%20Adicionales/Academic%20Post%20KYdA.pdf)
 
 ---
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa: [[Universidad/2do Semestre/Ingles II (C1-C2)/Welcome & Syllabus English II\|Welcome & Syllabus English II]]
+> - Anterior: [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 1 - And We're Off!/04 - Reading, Writing, Speaking - Flipping Your Job Interview & Time to Speak\|04 - Reading, Writing, Speaking - Flipping Your Job Interview & Time to Speak]]
 
 **Tags:** #academicpost #writing #opinion #structure #formal #AWC #English #IDIG1007 #ESPOL #unit1

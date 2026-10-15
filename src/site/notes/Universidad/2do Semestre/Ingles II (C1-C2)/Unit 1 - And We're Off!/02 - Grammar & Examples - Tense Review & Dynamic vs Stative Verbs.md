@@ -61,7 +61,7 @@
 > |_Water boils at 100°C._|El agua hierve a 100°C.|
 > |_He reads the newspaper every morning._|Él lee el periódico todas las mañanas.|
 > 
-> > ⚠️ Recuerda: en tercera persona singular (he/she/it), el verbo lleva **-s** o **-es**: _work → works_, _teach → teaches_.
+> ⚠️ Recuerda: en tercera persona singular (he/she/it), el verbo lleva **-s** o **-es**: _work → works_, _teach → teaches_.
 
 ---
 
@@ -87,7 +87,7 @@
 > 
 > Se usa para acciones terminadas en un momento específico del pasado, narración de eventos pasados, y secuencias de hechos históricos.
 > 
-> $$\text{S + V-ed \text{ (or irregular form)} + complement}$$
+> $$\text{S + V-ed (or irregular form) + complement}$$
 > 
 > |Ejemplo en inglés|Traducción|
 > |---|---|
@@ -111,7 +111,7 @@
 > |_They were working all morning._|Estuvieron trabajando toda la mañana.|
 > |_She was running when it started to rain._|Ella estaba corriendo cuando empezó a llover.|
 > 
-> > 💡 Patrón clave: **Past Continuous + when + Simple Past** → acción larga en progreso interrumpida por un evento puntual.
+> 💡 Patrón clave: **Past Continuous + when + Simple Past** → acción larga en progreso interrumpida por un evento puntual.
 
 ---
 
@@ -129,6 +129,8 @@
 > |_She has never been to Europe._|Ella nunca ha estado en Europa.|
 > |_He has worked here since 2019._|Él ha trabajado aquí desde 2019.|
 > 
+> > [!example] 🟢 Ejemplo
+> >
 > > ⚠️ Diferencia clave con el Simple Past:
 > > 
 > > - _I lost my keys._ → hecho pasado terminado, sin conexión con el presente.
@@ -152,6 +154,8 @@
 > 
 > **Ejemplo de párrafo completo** _(inglés → español)_:
 > 
+> > [!example] 🟢 Ejemplo
+> >
 > > _She graduated from ESPOL in 2020 and has worked at the same company since then. Lately, she has been thinking about starting her own business. When her manager called yesterday, she was preparing a business plan._
 > > 
 > > _Se graduó de ESPOL en 2020 y ha trabajado en la misma empresa desde entonces. Últimamente, ha estado pensando en iniciar su propio negocio. Cuando su gerente llamó ayer, ella estaba preparando un plan de negocios._
@@ -208,10 +212,12 @@
 > |**be**|_She is responsible._ _(característica permanente)_|_She is being difficult today._ _(comportamiento temporal)_|
 > |**taste**|_This soup tastes great._ _(propiedad del objeto)_|_The chef is tasting the sauce._ _(acción de probar)_|
 > 
-> > 💡 La clave está en preguntarse: ¿es un **estado permanente** o una **acción/experiencia en curso**? Si es lo segundo, el continuo puede ser válido.
+> 💡 La clave está en preguntarse: ¿es un **estado permanente** o una **acción/experiencia en curso**? Si es lo segundo, el continuo puede ser válido.
 > 
 > **Ejemplo de párrafo completo** _(inglés → español)_:
 > 
+> > [!example] 🟢 Ejemplo
+> >
 > > _I think this is a great opportunity — I've been thinking about it all week. I have a meeting tomorrow with the team, and I'm having coffee with the manager before that. She seems interested in the project._
 > > 
 > > _Creo que es una gran oportunidad — he estado pensándolo toda la semana. Tengo una reunión mañana con el equipo, y antes de eso estaré tomando café con la gerente. Ella parece interesada en el proyecto._
@@ -230,13 +236,13 @@
 > 4. He __________________ (reads / is reading) the newspaper every morning — it's his routine.
 > 5. We __________________ (have been waiting / waited) for two hours and they still haven't arrived.
 >
-> [!success] ✅ Respuestas — Ejercicio 1
-> 
-> 6. **has worked** _(Present Perfect — "since" indica duración desde el pasado hasta el presente)_
-> 7. **was studying** _(Past Continuous — acción en progreso interrumpida por "you called")_
-> 8. **have already finished** _(Present Perfect — "already" indica resultado reciente con relevancia presente)_
-> 9. **reads** _(Simple Present — hábito diario con "every morning")_
-> 10. **have been waiting** _(Present Perfect Continuous — duración enfatizada que continúa hasta el presente)_
+> > [!success]- ✅ Respuestas — Ejercicio 1
+> > 
+> > 6. **has worked** _(Present Perfect — "since" indica duración desde el pasado hasta el presente)_
+> > 7. **was studying** _(Past Continuous — acción en progreso interrumpida por "you called")_
+> > 8. **have already finished** _(Present Perfect — "already" indica resultado reciente con relevancia presente)_
+> > 9. **reads** _(Simple Present — hábito diario con "every morning")_
+> > 10. **have been waiting** _(Present Perfect Continuous — duración enfatizada que continúa hasta el presente)_
 
 ---
 
@@ -250,13 +256,13 @@
 > 9. He **is believing** everything she says.
 > 10. We **are thinking** of moving to a new city.
 >
-> [!success] ✅ Respuestas — Ejercicio 2
-> 
-> 11. ❌ Estativo (S) → _I **know** the answer to that question._ (_know_ = comprensión; no va en continuo)
-> 12. ✅ Dinámico (D) → Correcto. (_run_ = acción física en progreso)
-> 13. ✅ Dinámico (D) → Correcto. (_have_ aquí = actividad, no posesión)
-> 14. ❌ Estativo (S) → _He **believes** everything she says._ (_believe_ = estado mental)
-> 15. ✅ Dinámico (D) → Correcto. (_think_ aquí = proceso mental activo, no opinión)
+> > [!success]- ✅ Respuestas — Ejercicio 2
+> > 
+> > 11. ❌ Estativo (S) → _I **know** the answer to that question._ (_know_ = comprensión; no va en continuo)
+> > 12. ✅ Dinámico (D) → Correcto. (_run_ = acción física en progreso)
+> > 13. ✅ Dinámico (D) → Correcto. (_have_ aquí = actividad, no posesión)
+> > 14. ❌ Estativo (S) → _He **believes** everything she says._ (_believe_ = estado mental)
+> > 15. ✅ Dinámico (D) → Correcto. (_think_ aquí = proceso mental activo, no opinión)
 
 ---
 
@@ -270,13 +276,13 @@
 > 14. _He has been working here in 2018._
 > 15. _They are knowing each other since university._
 >
-> [!success] ✅ Respuestas — Ejercicio 3
-> 
-> 16. ❌ → _I **saw** that movie last Friday._ _(Simple Past — "last Friday" es un tiempo específico del pasado, no va con Present Perfect)_
-> 17. ❌ → _She **has** a car and a motorcycle._ _(have = posesión; verbo estativo, no va en continuo)_
-> 18. ❌ → _We were waiting for the bus when it **started** to rain._ _(la interrupción va en Simple Past, no en Present)_
-> 19. ❌ → _He **has worked** here **since** 2018._ _(Present Perfect + since para duración desde el pasado)_
-> 20. ❌ → _They **have known** each other since university._ _(know = estativo; Present Perfect, no continuo)_
+> > [!success]- ✅ Respuestas — Ejercicio 3
+> > 
+> > 16. ❌ → _I **saw** that movie last Friday._ _(Simple Past — "last Friday" es un tiempo específico del pasado, no va con Present Perfect)_
+> > 17. ❌ → _She **has** a car and a motorcycle._ _(have = posesión; verbo estativo, no va en continuo)_
+> > 18. ❌ → _We were waiting for the bus when it **started** to rain._ _(la interrupción va en Simple Past, no en Present)_
+> > 19. ❌ → _He **has worked** here **since** 2018._ _(Present Perfect + since para duración desde el pasado)_
+> > 20. ❌ → _They **have known** each other since university._ _(know = estativo; Present Perfect, no continuo)_
 
 ---
 
@@ -304,5 +310,13 @@
 > [1] _Keynote Upper-Intermediate_, National Geographic Learning / Cengage, Student's Book, Unit 1: And We're Off!, pp. 1–15.
 
 ---
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa: [[Universidad/2do Semestre/Ingles II (C1-C2)/Welcome & Syllabus English II\|Welcome & Syllabus English II]]
+> - Anterior: [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 1 - And We're Off!/01 - Vocabulary & Use - Describing Accomplishments & Key Qualities\|01 - Vocabulary & Use - Describing Accomplishments & Key Qualities]]
+> - Siguiente: [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 1 - And We're Off!/03 - Functional Language & Pronunciation - Introductions & Saying the Letter Y\|03 - Functional Language & Pronunciation - Introductions & Saying the Letter Y]]
 
 **Tags:** #grammar #tenses #verbs #stative #dynamic #presentperfect #English #IDIG1007 #ESPOL #unit1

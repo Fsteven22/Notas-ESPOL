@@ -126,10 +126,12 @@
 > |_The conclusion is abrupt._|_The conclusion feels a bit abrupt._|Más respetuoso|
 > |_The examples are unclear._|_The examples are a little unclear._|Mantiene la crítica sin agredir|
 > 
-> > 💡 **A bit** es ligeramente más informal que **a little**. Ambos funcionan en comentarios formales e informales, pero **a little** suena más cuidadoso y académico.
+> 💡 **A bit** es ligeramente más informal que **a little**. Ambos funcionan en comentarios formales e informales, pero **a little** suena más cuidadoso y académico.
 > 
 > **Ejemplo de comentario completo** _(inglés → español)_:
 > 
+> > [!example] 🟢 Ejemplo
+> >
 > > _I completely agree with the idea that job interviews should be a two-way conversation. You make a valid argument when you say that candidates need to evaluate companies too. That said, I find the advice a little idealistic for entry-level positions, where asking too many questions could feel a bit risky. Still, this was really eye-opening — thank you for sharing this perspective._
 > > 
 > > _Estoy completamente de acuerdo con la idea de que las entrevistas deben ser una conversación de dos vías. Presentas un argumento sólido cuando dices que los candidatos también deben evaluar a las empresas. Dicho esto, encuentro el consejo un poco idealista para puestos de nivel inicial, donde hacer demasiadas preguntas podría sentirse un poco arriesgado. Aun así, esto fue realmente revelador — gracias por compartir esta perspectiva._
@@ -142,6 +144,7 @@
 > 
 > En la sección **1.5 Time to Speak** se practica una entrevista de trabajo en grupos. Las frases útiles están divididas en tres etapas que siguen el flujo natural del roleplay.
 >
+
 > [!info]- 📋 Escenario del roleplay
 > 
 > El libro usa el puesto de **Tour Guide (full-time)** como escenario base. La empresa busca un/a guía local para trabajar con visitantes internacionales, organizando tours a pie y en bus.
@@ -197,6 +200,8 @@
 > 
 > **Ejemplo de intercambio completo** _(inglés → español)_:
 > 
+> > [!example] 🟢 Ejemplo
+> >
 > > _— Why do you want to be a tour guide?_ _— I'm particularly interested in this role because I love meeting people from different cultures. In the past, I have volunteered as a campus guide at ESPOL for two years._ _— Do you have any language skills?_ _— Yes, I speak Spanish and English fluently, and I'm currently learning Mandarin._
 > > 
 > > _— ¿Por qué quieres ser guía turístico?_ _— Estoy especialmente interesado en este rol porque me encanta conocer personas de diferentes culturas. En el pasado, fui voluntario como guía de campus en ESPOL durante dos años._ _— ¿Tienes habilidades en idiomas?_ _— Sí, hablo español e inglés con fluidez, y actualmente estoy aprendiendo mandarín._
@@ -214,6 +219,7 @@
 > - Una frase de **apreciación** hacia el autor.
 > - Al menos un uso de **a bit** o **a little** para suavizar una crítica.
 >
+
 > [!success] ✅ Modelo de respuesta — Ejercicio 1
 > 
 > _I completely agree with the idea that interviews should be a two-way conversation. You make a valid argument about the importance of asking questions. That said, I find some of the advice a little idealistic for recent graduates who may not feel confident challenging an employer. Overall, though, this was really eye-opening. Thank you for sharing this fresh perspective on job searching._
@@ -231,12 +237,15 @@
 > 
 > En parejas o grupos de tres, practica el siguiente escenario. Usa las frases de las tres etapas:
 > 
+> > [!example] 🟢 Ejemplo
+> >
 > > **Puesto:** Junior Software Engineer en una empresa de tecnología en Guayaquil.
 > > 
 > > - **Persona A (entrevistador):** Prepara 3 preguntas usando las frases de la etapa _Present_.
 > > - **Persona B (candidato):** Prepara tu perfil (experiencia, fortalezas, motivación) y haz al menos 2 preguntas sobre la empresa.
 > > - **Persona C (observador, opcional):** Al final, usa las frases de la etapa _Agree_ para evaluar al candidato y al empleador.
 >
+
 > [!success] ✅ Guía de evaluación — Ejercicio 2
 > 
 > |Etapa|Lo que debes verificar|
@@ -245,7 +254,7 @@
 > |**Present**|¿El entrevistador hizo al menos 2 preguntas del banco? ¿El candidato hizo 2 preguntas sobre la empresa?|
 > |**Agree**|¿Se usó _I think … is the best candidate_ o _… would be a good employer because …_?|
 > 
-> > 💡 El libro sugiere que tanto el candidato como el entrevistador evalúen la experiencia al final, no solo el entrevistador.
+> 💡 El libro sugiere que tanto el candidato como el entrevistador evalúen la experiencia al final, no solo el entrevistador.
 
 ---
 
@@ -259,13 +268,13 @@
 > 19. ¿Por qué estás interesado en este puesto en particular?
 > 20. Todos estuvimos de acuerdo en que la candidata más fuerte fue María — estudió turismo y habla tres idiomas.
 >
-> [!success] ✅ Respuestas — Ejercicio 3
-> 
-> 21. _I completely agree with the idea that candidates should also evaluate companies._
-> 22. _I see your point, but I think there's another side to this argument._
-> 23. _In the past, I have worked as a volunteer tour guide for two summers._
-> 24. _Why are you interested in this particular role?_
-> 25. _We all agreed that the strongest candidate was María — she studied tourism and speaks three languages._
+> > [!success]- ✅ Respuestas — Ejercicio 3
+> > 
+> > 21. _I completely agree with the idea that candidates should also evaluate companies._
+> > 22. _I see your point, but I think there's another side to this argument._
+> > 23. _In the past, I have worked as a volunteer tour guide for two summers._
+> > 24. _Why are you interested in this particular role?_
+> > 25. _We all agreed that the strongest candidate was María — she studied tourism and speaks three languages._
 
 ---
 
@@ -294,5 +303,13 @@
 > [1] _Keynote Upper-Intermediate_, National Geographic Learning / Cengage, Student's Book, Unit 1: And We're Off!, pp. 1–15.
 
 ---
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa: [[Universidad/2do Semestre/Ingles II (C1-C2)/Welcome & Syllabus English II\|Welcome & Syllabus English II]]
+> - Anterior: [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 1 - And We're Off!/03 - Functional Language & Pronunciation - Introductions & Saying the Letter Y\|03 - Functional Language & Pronunciation - Introductions & Saying the Letter Y]]
+> - Siguiente: [[Universidad/2do Semestre/Ingles II (C1-C2)/Unit 1 - And We're Off!/05 - Academic Post - And We're Off!\|05 - Academic Post - And We're Off!]]
 
 **Tags:** #reading #writing #speaking #jobinterview #blogcomments #roleplay #English #IDIG1007 #ESPOL #unit1

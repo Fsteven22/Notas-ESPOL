@@ -92,6 +92,8 @@
 >
 > **Ejemplo de diálogo completo** *(inglés → español)*:
 >
+> > [!example] 🟢 Ejemplo
+> >
 > > **Host:** Can I get you a refill?
 > > **Anfitrión:** ¿Le sirvo más?
 > >
@@ -230,11 +232,11 @@
 >    b) *Coming right up!*
 >    c) *Wait a moment, please.*
 >
-> [!success] ✅ Respuestas — Ejercicio 1
->
-> 1. a) *I'll pass, but thank you.* *(educado y apropiado para contexto formal)*
-> 2. b) *Sure, why not!* *(natural e informal)*
-> 3. b) *Coming right up!* *(frase estándar de servicio)*
+> > [!success]- ✅ Respuestas — Ejercicio 1
+> >
+> > 1. a) *I'll pass, but thank you.* *(educado y apropiado para contexto formal)*
+> > 2. b) *Sure, why not!* *(natural e informal)*
+> > 3. b) *Coming right up!* *(frase estándar de servicio)*
 
 ---
 
@@ -255,13 +257,13 @@
 > **A:** Would you like more juice?
 > **B:** No, __________________ .
 >
-> [!success] ✅ Respuestas — Ejercicio 2
->
-> - *Can I get you a refill?*
-> - *I'd love some*
-> - *Coming right up*
-> - *Here you go*
-> - *I'm good, thanks*
+> > [!success]- ✅ Respuestas — Ejercicio 2
+> >
+> > - *Can I get you a refill?*
+> > - *I'd love some*
+> > - *Coming right up*
+> > - *Here you go*
+> > - *I'm good, thanks*
 
 ---
 
@@ -275,11 +277,11 @@
 > |---|---|---|
 > | | | |
 >
-> [!success] ✅ Respuestas — Ejercicio 3
->
-> | /aɪ/ (ai) | /iː/ (i larga) | /eɪ/ (ei) |
-> |---|---|---|
-> | time, fry, night, like | green, steam, meat | plate, steak, day |
+> > [!success]- ✅ Respuestas — Ejercicio 3
+> >
+> > | /aɪ/ (ai) | /iː/ (i larga) | /eɪ/ (ei) |
+> > |---|---|---|
+> > | time, fry, night, like | green, steam, meat | plate, steak, day |
 
 ---
 
@@ -293,13 +295,13 @@
 > 14. *It's time to eat.* → **time** / **eat** → ¿mismo sonido?
 > 15. *A great plate of food.* → **great** / **plate** → ¿mismo sonido?
 >
-> [!success] ✅ Respuestas — Ejercicio 4
->
-> 11. ✅ Mismo — ambas tienen /aɪ/
-> 12. ✅ Mismo — ambas tienen /iː/
-> 13. ✅ Mismo — ambas tienen /eɪ/
-> 14. ❌ Diferente — *time* = /aɪ/, *eat* = /iː/
-> 15. ✅ Mismo — ambas tienen /eɪ/
+> > [!success]- ✅ Respuestas — Ejercicio 4
+> >
+> > 11. ✅ Mismo — ambas tienen /aɪ/
+> > 12. ✅ Mismo — ambas tienen /iː/
+> > 13. ✅ Mismo — ambas tienen /eɪ/
+> > 14. ❌ Diferente — *time* = /aɪ/, *eat* = /iː/
+> > 15. ✅ Mismo — ambas tienen /eɪ/
 
 ---
 
@@ -334,5 +336,13 @@
 > [1] *Keynote Upper-Intermediate*, National Geographic Learning / Cengage, Student's Book, Unit 2: Food for Thought, pp. 16–29.
 
 ---
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa: [[Welcome & Syllabus English II]]
+> - Anterior: [[02 - Grammar & Examples - Real Conditionals & Time Clauses]]
+> - Siguiente: [[04 - Reading Writing Speaking - Survey Results & Passive Voice]]
 
 **Tags:** #functional-language #pronunciation #offers #vowels #socialenglish #English #IDIG1007 #ESPOL #unit2

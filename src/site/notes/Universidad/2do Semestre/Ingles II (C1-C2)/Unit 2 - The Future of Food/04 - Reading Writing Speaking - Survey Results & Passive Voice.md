@@ -60,6 +60,8 @@
 >
 > **Ejemplos en contexto** *(inglés → español)*:
 >
+> > [!example] 🟢 Ejemplo
+> >
 > > *Nearly half of those surveyed said they check food labels before buying.*
 > > *Casi la mitad de los encuestados dijo que revisa las etiquetas de los alimentos antes de comprar.*
 > >
@@ -86,6 +88,8 @@
 >
 > **Ejemplo de párrafo completo de resultados:**
 >
+> > [!example] 🟢 Ejemplo
+> >
 > > *The survey revealed that 72% of respondents read food labels regularly. Interestingly, nearly half of them said they did not fully understand the information provided. In contrast, only 15% said they found labels confusing. This suggests that while awareness is high, comprehension remains a challenge.*
 > >
 > > *La encuesta reveló que el 72% de los encuestados lee las etiquetas regularmente. Curiosamente, casi la mitad dijo que no comprende completamente la información. En contraste, solo el 15% consideró las etiquetas confusas. Esto sugiere que, si bien la conciencia es alta, la comprensión sigue siendo un desafío.*
@@ -109,6 +113,8 @@
 
 > [!note] 🔹 Estructura general
 >
+> > [!example] 🟢 Ejemplo
+> >
 > > **Sujeto + verbo *to be* (conjugado) + participio pasado**
 >
 > | Tiempo verbal | Fórmula activa | Fórmula pasiva |
@@ -135,11 +141,15 @@
 >
 > En lugar de decir *"We asked 500 people..."*, en un texto formal se prefiere:
 >
+> > [!example] 🟢 Ejemplo
+> >
 > > *Five hundred people **were surveyed** about their eating habits.*
 > > *Quinientas personas fueron encuestadas sobre sus hábitos alimenticios.*
 >
 > Más ejemplos de voz pasiva en contexto de encuestas *(inglés → español)*:
 >
+> > [!example] 🟢 Ejemplo
+> >
 > > *The data **was collected** over a period of three months.*
 > > *Los datos fueron recopilados durante un período de tres meses.*
 > >
@@ -215,6 +225,8 @@
 >
 > **Ejemplos en contexto** *(lo que ves escrito → lo que realmente escuchas)*:
 >
+> > [!example] 🟢 Ejemplo
+> >
 > > *I want to eat something.* → *"I wanna eat something."*
 > > *Quiero comer algo.*
 > >
@@ -242,13 +254,13 @@
 > 4. __________________ , younger participants were more likely to check calories. *(Interestingly / However but)*
 > 5. __________________ respondents said the labels were confusing. *(A significant proportion of / Many of all the)*
 >
-> [!success] ✅ Respuestas — Ejercicio 1
->
-> 1. The survey revealed that
-> 2. Nearly half of
-> 3. suggest
-> 4. Interestingly
-> 5. A significant proportion of
+> > [!success]- ✅ Respuestas — Ejercicio 1
+> >
+> > 1. The survey revealed that
+> > 2. Nearly half of
+> > 3. suggest
+> > 4. Interestingly
+> > 5. A significant proportion of
 
 ---
 
@@ -262,13 +274,13 @@
 > 9. Scientists will analyze the data next year.
 > 10. The government introduced new food labeling laws.
 >
-> [!success] ✅ Respuestas — Ejercicio 2
->
-> 6. *The study **was conducted** by researchers in 2023.*
-> 7. *All products **are labeled** with nutritional information by the company.*
-> 8. *The survey results **have been published** online.*
-> 9. *The data **will be analyzed** by scientists next year.*
-> 10. *New food labeling laws **were introduced** by the government.*
+> > [!success]- ✅ Respuestas — Ejercicio 2
+> >
+> > 6. *The study **was conducted** by researchers in 2023.*
+> > 7. *All products **are labeled** with nutritional information by the company.*
+> > 8. *The survey results **have been published** online.*
+> > 9. *The data **will be analyzed** by scientists next year.*
+> > 10. *New food labeling laws **were introduced** by the government.*
 
 ---
 
@@ -282,13 +294,13 @@
 > 14. *New labels will introduced next year.*
 > 15. *Participants were ask to complete a questionnaire.*
 >
-> [!success] ✅ Respuestas — Ejercicio 3
->
-> 11. ~~was~~ → **were** — *The results **were** found.*
-> 12. ~~survey~~ → **surveyed** — *Five hundred people were **surveyed**.*
-> 13. ~~collecting~~ → **collected** — *The data has been **collected**.*
-> 14. Falta *be* → **will be introduced** — *New labels **will be introduced**.*
-> 15. ~~ask~~ → **asked** — *Participants were **asked**.*
+> > [!success]- ✅ Respuestas — Ejercicio 3
+> >
+> > 11. ~~was~~ → **were** — *The results **were** found.*
+> > 12. ~~survey~~ → **surveyed** — *Five hundred people were **surveyed**.*
+> > 13. ~~collecting~~ → **collected** — *The data has been **collected**.*
+> > 14. Falta *be* → **will be introduced** — *New labels **will be introduced**.*
+> > 15. ~~ask~~ → **asked** — *Participants were **asked**.*
 
 ---
 
@@ -302,13 +314,13 @@
 > 19. *This bottle of oil is almost empty.*
 > 20. *It's not important.*
 >
-> [!success] ✅ Respuestas — Ejercicio 4
->
-> 16. *"I **wanna** try the new restaurant."*
-> 17. *"There's a **lo**-**d**a butter in this recipe."* (/t/ suena como /d/)
-> 18. *"She's **gonna** barbecue the meat."*
-> 19. *"This **bo-d-le** of oil is almost empty."* (/t/ → /d/ entre vocales)
-> 20. *"It's not **impor**-**n**t."* (/t/ final casi desaparece)
+> > [!success]- ✅ Respuestas — Ejercicio 4
+> >
+> > 16. *"I **wanna** try the new restaurant."*
+> > 17. *"There's a **lo**-**d**a butter in this recipe."* (/t/ suena como /d/)
+> > 18. *"She's **gonna** barbecue the meat."*
+> > 19. *"This **bo-d-le** of oil is almost empty."* (/t/ → /d/ entre vocales)
+> > 20. *"It's not **impor**-**n**t."* (/t/ final casi desaparece)
 
 ---
 
@@ -351,5 +363,12 @@
 > [1] *Keynote Upper-Intermediate*, National Geographic Learning / Cengage, Student's Book, Unit 2: Food for Thought, pp. 16–29.
 
 ---
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa: [[Welcome & Syllabus English II]]
+> - Anterior: [[03 - Functional Language & Pronunciation - Offers & Vowel Sounds]]
 
 **Tags:** #writing #passive-voice #survey #pronunciation #listening #English #IDIG1007 #ESPOL #unit2

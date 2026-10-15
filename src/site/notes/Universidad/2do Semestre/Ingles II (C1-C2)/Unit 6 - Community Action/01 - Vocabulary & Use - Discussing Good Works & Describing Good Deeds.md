@@ -56,12 +56,14 @@
 > |**get involved (with)**|involucrarse (con)|Unirse o comprometerse con una causa u organización.|
 > |**bring (people) together**|reunir (a personas)|Ayudar a que las personas socialicen o se conecten entre sí.|
 >
+
 > [!example]- 🟢 Ejemplo en contexto (testimonios del libro)
 > 
 > - Hiro se involucró con un centro que reúne a personas mayores en su vecindario, donde es voluntario y las visita en sus casas para que lo conozcan y confíen en él.
 > - Sandra ayuda en un refugio para animales callejeros, cuidando de mascotas abandonadas mientras la gente dona dinero para sostener el lugar.
 > - Kemal, antes desempleado y sin hogar, encontró un café que le enseñó una habilidad práctica; ahora también participa en sesiones de entrenamiento para nuevos empleados, buscando transmitir lo que aprendió a otros.
 >
+
 > [!tip]- 💡 Insider English — Glosario del libro
 > 
 > - **shelter** (n): un lugar que protege a personas o animales.
@@ -90,14 +92,17 @@
 > |—|kindness|kind|kindness is its own reward|
 > |reward|reward|rewarding|—|
 >
+
 > [!tip]- 💡 Nota sobre esta tabla
 > 
 > Esta tabla reconstruye las familias de palabras centrales del ejercicio 6.2A a partir del texto de "Paying It Forward". Te recomiendo verificarla contra tu libro al completar el ejercicio, ya que algunas casillas del original piden que tú mismo las completes durante la clase.
 >
+
 > [!example]- 🟢 Ejemplo en contexto (reseña del libro "Paying It Forward")
 > 
 > El texto describe un experimento de un profesor universitario que ofrece ayuda a extraños — como prestar su paraguas o dar monedas para un parquímetro — pidiéndoles que hagan una buena acción por otra persona a cambio. El experimento revela que, para que la cadena de favores continúe, el gesto debe ser recibido con gratitud; si la persona ayudada no se muestra agradecida, quien ayudó puede sentirse mal, incluso si su intención era genuina.
 >
+
 > [!note] 📋 Posible mapeo de encabezados del texto
 > 
 > El ejercicio 6.2A pide asignar tres encabezados a los tres párrafos de la reseña: *"There are limits"*, *"A chain of favors"*, *"Two sides to the story"*. Según el contenido de cada párrafo:
@@ -162,13 +167,13 @@ graph TD
 > 
 > **3.** ¿Cuál es el sustantivo relacionado con el adjetivo "grateful"?
 >
-> [!success]- ✅ Respuestas — Nivel 1
-> 
-> **1.** volunteer
-> 
-> **2.** appreciate
-> 
-> **3.** gratitude
+> > [!success]- ✅ Respuestas — Nivel 1
+> > 
+> > **1.** volunteer
+> > 
+> > **2.** appreciate
+> > 
+> > **3.** gratitude
 
 ---
 
@@ -180,13 +185,13 @@ graph TD
 > 
 > **3.** Completa la familia de palabras: verbo = think, sustantivo = __________, adjetivo = thoughtful.
 >
-> [!success]- ✅ Respuestas — Nivel 2 (ejemplo de respuesta)
-> 
-> **1.** *"I got involved with a local charity two years ago."*
-> 
-> **2.** *Help out* es asistir puntualmente con una tarea ("I helped out at the shelter this weekend"); *take care of* implica una responsabilidad continua sobre el bienestar de alguien/algo ("I take care of the shelter's cats every day").
-> 
-> **3.** thought
+> > [!success]- ✅ Respuestas — Nivel 2 (ejemplo de respuesta)
+> > 
+> > **1.** *"I got involved with a local charity two years ago."*
+> > 
+> > **2.** *Help out* es asistir puntualmente con una tarea ("I helped out at the shelter this weekend"); *take care of* implica una responsabilidad continua sobre el bienestar de alguien/algo ("I take care of the shelter's cats every day").
+> > 
+> > **3.** thought
 
 ---
 
@@ -198,6 +203,7 @@ graph TD
 > 
 > **3.** Reflexiona: ¿por qué crees que un acto de bondad puede sentirse "no apreciado" a veces, aunque la intención haya sido genuina?
 >
+
 > [!success]- ✅ Guía de respuesta — Nivel 3
 > 
 > Respuestas abiertas. Se espera uso variado y natural del vocabulario, no solo repetición mecánica de una sola palabra.
@@ -211,11 +217,13 @@ graph TD
 > - [ ] Reconozco las familias de palabras de "describing good deeds" (help, gratitude, appreciation, thought, kindness, reward).
 > - [ ] Entiendo el concepto de "pay it forward".
 >
+
 > [!success] ✅ Nivel Intermedio
 > - [ ] Distingo "help out" de "take care of" y de "volunteer".
 > - [ ] Uso correctamente las formas verbo/sustantivo/adjetivo de una misma familia de palabras (appreciate/appreciation/appreciative).
 > - [ ] Explico con mis propias palabras qué significa "kindness is its own reward".
 >
+
 > [!success] ✅ Nivel Avanzado
 > - [ ] Describo con fluidez mi propia experiencia de voluntariado combinando ambos bloques de vocabulario.
 > - [ ] Analizo críticamente los límites de "pagar hacia adelante" un acto de bondad.
@@ -227,6 +235,7 @@ graph TD
 > 
 > [1] _Keynote Upper-Intermediate_, National Geographic Learning / Cengage, Student's Book, Unit 6: Community Action, pp. 54–57.
 >
+
 > [!quote] 🔗 Conexiones
 > 
 > - [[02 - Grammar & Examples - Present Past Passive & Passive with Modals]]
@@ -234,5 +243,12 @@ graph TD
 > - [[04 - Reading Writing Speaking - Urban Projects & Community Reports]]
 
 ---
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa: [[Welcome & Syllabus English II]]
+> - Siguiente: [[02 - Grammar & Examples - Present Past Passive & Passive with Modals]]
 
 **Tags:** #vocabulary #volunteering #kindness #community #English #IDIG1007 #ESPOL #unit6

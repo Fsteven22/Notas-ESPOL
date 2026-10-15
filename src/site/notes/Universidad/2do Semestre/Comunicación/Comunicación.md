@@ -62,4 +62,12 @@
 
 ---
 
+- [[Universidad/2do Semestre/Comunicación/Unidad 1 - Comunicación efectiva/00 - Índice Unidad 1\|📂 Unidad 1 - Comunicación efectiva]]
+
+- [[Universidad/2do Semestre/Comunicación/Unidad 2 - Pensamiento complejo y crítico/00 - Índice Unidad 2\|📂 Unidad 2 - Pensamiento complejo y crítico]]
+
+- [[Universidad/2do Semestre/Comunicación/Unidad 3 - Redacción/00 - Índice Unidad 3\|📂 Unidad 3 - Redacción]]
+
+- [[Universidad/2do Semestre/Comunicación/Unidad 4 - Comportamiento comunicacional/00 - Índice Unidad 4\|📂 Unidad 4 - Comportamiento comunicacional]]
+
 **Tags:** #comunicacion #ESPOL #IDIG2012

@@ -80,6 +80,7 @@ graph TB
 > | **Lenguaje corporal** | Miro el celular | Contacto visual | Asiento, reflejo |
 > | **Resultado** | Asumo | Comprendo | Conecto |
 >
+
 > [!note] 📋 Diferencia Clave: Oír vs. Escuchar
 >
 > Esta distinción es la base de los 3 niveles anteriores:
@@ -238,6 +239,7 @@ graph TB
 > | 📱 **Distractores** | Revisar celular en exposición | Modo avión, contacto visual |
 > | 🗣️ **Lenguaje corporal cerrado** | Brazos cruzados, sin contacto visual | Postura abierta, asentir |
 >
+
 > [!warning] ⚠️ Clasificación Ampliada (material de clase)
 >
 > Más allá de las 3 barreras del syllabus, el material de clase distingue estas categorías adicionales:
@@ -293,6 +295,7 @@ graph TB
 >
 > **Implicación práctica:** la escucha activa no es solo técnica — activa el sistema de neuronas espejo, mejorando la empatía natural con práctica deliberada.
 >
+
 > [!success] 🏆 Empatía Operativa: la Herramienta Estándar
 >
 > **Empatía no es estar de acuerdo, es entender el marco del otro.**
@@ -336,6 +339,7 @@ graph TB
 >
 > **Resultado:** el interlocutor se siente escuchado, validado en sus expresiones e individualidad.
 >
+
 > [!note] 🎭 Guía Práctica: Antes / Durante / Después
 >
 > | Fase | Qué Hacer | Qué Evitar |
@@ -347,6 +351,7 @@ graph TB
 > | **Después** | No juzgue verbales ni no verbales | Etiquete al interlocutor |
 > | **Después** | Reafirme lo comprendido, valide | Desestime lo expresado |
 >
+
 > [!tip] 🎭 Checklist Rápido: Qué Hacer / Qué Evitar
 >
 > | Qué Hacer | Qué Evitar |
@@ -367,12 +372,14 @@ graph TB
 >
 > El material de clase incluye un extracto de la serie *Everybody Loves Raymond* que ilustra la diferencia entre oír y escuchar activamente. El extracto muestra cómo la falta de escucha activa genera malentendidos familiares que se resuelven cuando los personajes aplican los componentes de la escucha activa.
 >
+
 > [!example] 📺 Caso 2: The Big Bang Theory
 >
 > El material de clase incluye un extracto de la serie *The Big Bang Theory* para observar y determinar qué acciones permiten la regulación de las emociones en una conversación. El extracto muestra cómo los personajes aplican (o fallan en) la identificación y gestión emocional durante una conversación técnica acalorada.
 >
 > **Actividad sugerida:** observa el video, identifica qué acciones permiten la regulación emocional y qué barreras aparecen (filtros mentales, distracciones, ruido semántico).
 >
+
 > [!example] 📺 Caso 3: Los Simpson
 >
 > El material de clase incluye un extracto de *Los Simpson* para identificar emociones en imágenes y gestos: ¿qué transmiten los personajes y cómo inciden sus expresiones en quien escucha? Conecta directo con neuronas espejo y comunicación multimodal.
@@ -388,6 +395,7 @@ graph TB
 > 3. Pide el criterio de éxito: "¿Cómo sabremos que quedó bien?"
 > 4. Deja constancia escrita en el chat del curso / Aula Virtual
 >
+
 > [!example] 💿 Patrón: Feedback sin Juicio (Corregir sin Romper Relación)
 >
 > 1. Dato observable: "En la diapo 3 hay 3 faltas de tilde"
@@ -418,6 +426,7 @@ graph TB
 > - Espera 2 segundos tras que termine para responder
 > - Reformula antes de opinar
 >
+
 > [!danger] ❌ Señales de que NO Practicas la Escucha (viola **atención plena, Parte 1**)
 >
 > **Ejemplo completo:**
@@ -576,6 +585,21 @@ mindmap
 
 ---
 
+## ✅ Metas de Aprendizaje
+
+> [!note] 🎯 Nivel Básico
+>
+> - [ ] Aplico CARE completo en una conversación real.
+> - [ ] Distingo las 3 barreras del syllabus con ejemplo propio.
+> - [ ] Explico oír vs escuchar y los 6 elementos del proceso.
+>
+
+> [!note] 🎯 Nivel Intermedio
+>
+> - [ ] Mapeo las 6 técnicas CCL a CARE sin mirar.
+> - [ ] Escribo un mensaje asertivo en 4 etapas ante un caso nuevo.
+> - [ ] Detecto 2+ señales de barrera en una conversación y verifico.
+
 ## 🚀 Próximos Pasos
 
 > [!quote] 🌟 Continuando
@@ -600,12 +624,12 @@ mindmap
 
 > [!info] 📚 Seguir estudiando
 >
-> - Mapa de contenido: [[Comunicación]]
-> - Índice Unidad 1: [[00 - Índice Unidad 1]]
-> - Siguiente: [[02 - Comunicación grupal y toma de decisiones]]
-> - Syllabus: [[Bienvenida y Syllabus Comunicación]]
-> - Base MOOC: [[Preuniversitario/MOOC de Comunicación/Comunicación Efectiva|MOOC de Comunicación]]
-> - Base específica: [[Preuniversitario/MOOC de Comunicación/Unidad 1 - El proceso de la comunicación/01 - El proceso y las funciones de la comunicación|MOOC U1 — Proceso y funciones]]
+> - Mapa de contenido: [[Universidad/2do Semestre/Comunicación/Comunicación\|Comunicación]]
+> - Índice Unidad 1: [[Universidad/2do Semestre/Comunicación/Unidad 1 - Comunicación efectiva/00 - Índice Unidad 1\|00 - Índice Unidad 1]]
+> - Siguiente: [[Universidad/2do Semestre/Comunicación/Unidad 1 - Comunicación efectiva/02 - Comunicación grupal y toma de decisiones\|02 - Comunicación grupal y toma de decisiones]]
+> - Syllabus: [[Universidad/2do Semestre/Comunicación/Bienvenida y Syllabus Comunicación\|Bienvenida y Syllabus Comunicación]]
+> - Base MOOC: [[Universidad/Preuniversitario/MOOC de Comunicación/Comunicación Efectiva\|MOOC de Comunicación]]
+> - Base específica: [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 1 - El proceso de la comunicación/01 - El proceso y las funciones de la comunicación\|MOOC U1 — Proceso y funciones]]
 
 ---
 

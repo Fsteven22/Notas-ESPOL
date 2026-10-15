@@ -92,4 +92,10 @@
 
 ---
 
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa: [[Universidad/2do Semestre/Ingles II (C1-C2)/Welcome & Syllabus English II\|Welcome & Syllabus English II]]
+
 **Tags:** #recursos #grammar #listening #reading #writing #academicpost #English #IDIG1007 #ESPOL #unit1
