@@ -175,6 +175,7 @@
 > (You = implied subject)
 > ```
 >
+
 > [!example] Subject Examples in Different Positions
 > 
 > **Subject at the beginning (most common):**
@@ -231,6 +232,7 @@
 >   (The keys = subject, NOT "my pocket")
 > ```
 >
+
 > [!tip] How to Identify the Subject
 > 
 > **Method 1: Ask "Who?" or "What?"**
@@ -288,6 +290,7 @@
 > (your coffee = subject, NOT "here")
 > ```
 >
+
 > [!warning] Common Mistakes with Subjects
 > 
 > **Mistake 1: Confusing the subject with objects in prepositional phrases**
@@ -405,6 +408,7 @@
 > (reads books and writes stories in his free time = compound predicate)
 > ```
 >
+
 > [!example] Predicate Examples in Sentences
 > 
 > **Simple predicates (verb phrases):**
@@ -465,6 +469,7 @@
 >   (flew away but returned later = compound predicate)
 > ```
 >
+
 > [!tip] How to Identify the Predicate
 > 
 > **Method 1: Find the verb first**
@@ -559,6 +564,7 @@
 > • Direct objects are NEVER in prepositional phrases
 > ```
 >
+
 > [!example] Direct Object Examples
 > 
 > ```
@@ -614,6 +620,7 @@
 > She told us the story. = She told the story to us.
 > ```
 >
+
 > [!example] Indirect Object Examples
 > 
 > ```
@@ -676,6 +683,7 @@
 > become, grow, remain, stay
 > ```
 >
+
 > [!example] Subject Complement Examples
 > 
 > **Predicate nominatives:**
@@ -745,6 +753,7 @@
 > (interesting = describes "the book")
 > ```
 >
+
 > [!example] Object Complement Examples
 > 
 > ```
@@ -830,6 +839,7 @@
 > • Less common pattern
 > ```
 >
+
 > [!example] Identifying Sentence Patterns
 > 
 > **Practice identifying patterns:**
@@ -1000,6 +1010,7 @@
 > ✓ She is smart. She works hard.
 > ```
 >
+
 > [!warning] Subject-Verb Agreement Errors
 > 
 > ```
@@ -1101,6 +1112,7 @@
    Predicate: needs repairs
 > ```
 >
+
 > [!example] Exercise 2: Identify Sentence Components
 > 
 > **Identify: Subject (S), Verb (V), Direct Object (DO), Indirect Object (IO), Subject Complement (SC)**
@@ -1142,6 +1154,7 @@
 >    Pattern: S + V + DO + OC
 > ```
 >
+
 > [!example] Exercise 3: Correct the Errors
 > 
 > **Fix the sentence fragments and run-on sentences:**
@@ -1193,6 +1206,7 @@
 >    ✓ My favorite subject is math. It's very interesting.
 > ```
 >
+
 > [!example] Exercise 4: Identify Sentence Patterns
 > 
 > **Identify which of the 5 basic patterns each sentence follows:**
@@ -1311,6 +1325,7 @@
 > • Tell me where you live. (functions as direct object)
 > ```
 >
+
 > [!example] Complex Sentence Analysis Examples
 > 
 > **Example 1:**
@@ -1463,6 +1478,7 @@
 > or is an emphatic statement
 > ```
 >
+
 > [!example] Sentence Type Examples and Conversion
 > 
 > **Converting between sentence types:**
@@ -1834,6 +1850,7 @@
 >    Pattern: Noun clause + linking verb + noun clause
 > ```
 >
+
 > [!example] Exercise 6: Sentence Building
 > 
 > **Build sentences using the specified patterns:**
@@ -2376,6 +2393,7 @@
 > 20. Stop that immediately!
 > ```
 >
+
 > [!note] Answer Key
 > 
 > **Part A Answers:**
@@ -2469,7 +2487,7 @@
 > 
 > **📖 Fundamentos previos necesarios:**
 > 
-> **[[Universidad/Preuniversitario/MOOC - Ingles (A1 - A2)/Unit 4 - Vocabulary and Verbs/01 - Regular and Irregular Verbs\|01 - Regular and Irregular Verbs]]**
+> **[[01 - Regular and Irregular Verbs]]**
 > 
 > ```
 > Conexión: Para identificar el PREDICATE (que siempre contiene un verbo),
@@ -2490,7 +2508,7 @@
 > Sin conocer las formas verbales, no puedes analizar oraciones correctamente.
 > ```
 > 
-> **[[Universidad/Preuniversitario/MOOC - Ingles (A1 - A2)/Unit 2 - Sentence Structure/01 - Parts of Speech (POS)\|01 - Parts of Speech (POS)]] ⭐ FUNDAMENTAL**
+> **[[01 - Parts of Speech (POS)]] ⭐ FUNDAMENTAL**
 > 
 > ```
 > Conexión CRÍTICA: Esta es la base directa e indispensable.
@@ -2532,7 +2550,7 @@
 > 
 > **🔜 Continuación inmediata:**
 > 
-> **[[Universidad/Preuniversitario/MOOC - Ingles (A1 - A2)/Unit 3 - Writing and Punctuation/01 - Capitalization Rules\|01 - Capitalization Rules]]**
+> **[[01 - Capitalization Rules]]**
 > 
 > ```
 > Conexión: Las reglas de capitalización se aplican a sentence parts:
@@ -2554,7 +2572,7 @@
 > 
 > **📊 Aplicaciones en temas futuros:**
 > 
-> **[[09 - Complex Sentences and Clause Types\|09 - Complex Sentences and Clause Types]]** (tema futuro sugerido)
+> **[[09 - Complex Sentences and Clause Types]]** (tema futuro sugerido)
 > 
 > ```
 > • Deep dive into dependent and independent clauses
@@ -2567,7 +2585,7 @@
 > para crear escritura más sofisticada.
 > ```
 > 
-> **[[10 - Sentence Variety and Style\|10 - Sentence Variety and Style]]** (tema futuro sugerido)
+> **[[10 - Sentence Variety and Style]]** (tema futuro sugerido)
 > 
 > ```
 > • Varying sentence length
@@ -2580,7 +2598,7 @@
 > para mejorar tu estilo de escritura.
 > ```
 > 
-> **[[11 - Common Sentence Errors and How to Fix Them\|11 - Common Sentence Errors and How to Fix Them]]** (tema futuro)
+> **[[11 - Common Sentence Errors and How to Fix Them]]** (tema futuro)
 > 
 > ```
 > • Sentence fragments in depth
@@ -2593,7 +2611,7 @@
 > para identificar y corregir errores comunes.
 > ```
 > 
-> **[[12 - Punctuation in Sentences\|12 - Punctuation in Sentences]]** (tema futuro sugerido)
+> **[[12 - Punctuation in Sentences]]** (tema futuro sugerido)
 > 
 > ```
 > • Comma usage in complex sentences
@@ -2605,7 +2623,7 @@
 > la estructura de las oraciones.
 > ```
 > 
-> **[[13 - Paragraph Structure\|13 - Paragraph Structure]]** (tema futuro sugerido)
+> **[[13 - Paragraph Structure]]** (tema futuro sugerido)
 > 
 > ```
 > • Topic sentences

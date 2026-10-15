@@ -452,6 +452,7 @@
 > • Present Perfect: It has always cost $50.
 > ```
 >
+
 > [!success] Type 2: Past Simple = Past Participle (Different from Base)
 > 
 > **Pattern: Two different forms**
@@ -548,6 +549,7 @@
 > • She has taught math for 10 years. (present perfect)
 > ```
 >
+
 > [!success] Type 3: All Three Forms Different
 > 
 > **Pattern: Three distinct forms**
@@ -642,6 +644,7 @@
 > • She has written many poems. (present perfect)
 > ```
 >
+
 > [!success] Type 4: Base Form = Past Participle (Different Past Simple)
 > 
 > **Pattern: First and third forms are the same**
@@ -897,6 +900,7 @@
 > 10. I (irregular)
 > ```
 >
+
 > [!example] Exercise 2: Write the Past Simple Form
 > 
 > **Complete with the correct past simple form:**
@@ -929,6 +933,7 @@
 > 10. thought (irregular: think → thought → thought)
 > ```
 >
+
 > [!example] Exercise 3: Write the Past Participle Form
 > 
 > **Complete with the correct past participle (for present perfect):**
@@ -961,6 +966,7 @@
 > 10. seen (irregular: see → saw → seen)
 > ```
 >
+
 > [!example] Exercise 4: Correct the Mistakes
 > 
 > **Find and correct the verb errors:**
@@ -993,6 +999,7 @@
 > 10. They have come home. (plural subject needs "have")
 > ```
 >
+
 > [!example] Exercise 5: Fill in All Three Forms
 > 
 > **Complete the table:**
@@ -1021,6 +1028,7 @@
 > |choose|chose|chosen|elegir|
 > |put|put|put|poner|
 >
+
 > [!example] Exercise 6: Pronunciation Practice (-ed endings)
 > 
 > **Identify the -ed sound: /t/, /d/, or /ɪd/**
@@ -1256,6 +1264,7 @@
 > • dived (regular) - British English
 > ```
 >
+
 > [!warning] Commonly Confused Irregular Verb Pairs
 > 
 > **1. LIE vs LAY**
@@ -1427,6 +1436,7 @@
 > • By the time you arrive, we will have eaten.
 > ```
 >
+
 > [!info] Irregular Verbs in Passive Voice
 > 
 > **Formation: be + past participle**
@@ -1469,7 +1479,7 @@
 > 
 > **📖 Fundamentos previos necesarios:**
 > 
-> **[[Universidad/Preuniversitario/MOOC - Ingles (A1 - A2)/Unit 0 - Foundations/02 - English Alphabet and Pronunciation\|02 - English Alphabet and Pronunciation]]** 
+> **[[02 - English Alphabet and Pronunciation]]** 
 > 
 > ```
 > Conexión: Antes de estudiar verbos, debes entender:
@@ -1485,7 +1495,7 @@
 > 
 > **📜 Continuación inmediata:**
 > 
-> **[[Universidad/Preuniversitario/MOOC - Ingles (A1 - A2)/Unit 2 - Sentence Structure/01 - Parts of Speech (POS)\|01 - Parts of Speech (POS)]]**
+> **[[01 - Parts of Speech (POS)]]**
 > 
 > ```
 > Conexión: Los verbos son UNA de las 8 partes de la oración.
@@ -1510,7 +1520,7 @@
 > - letter = noun (object)
 > ```
 > 
-> **[[Universidad/Preuniversitario/MOOC - Ingles (A1 - A2)/Unit 2 - Sentence Structure/02 - Parts of a Sentence\|02 - Parts of a Sentence]]**
+> **[[02 - Parts of a Sentence]]**
 > 
 > ```
 > Conexión: Los verbos forman el núcleo del PREDICADO.
@@ -1530,7 +1540,7 @@
 > 
 > **📊 Aplicaciones en temas futuros:**
 > 
-> **[[05 - Verb Tenses\|05 - Verb Tenses]]** (tema futuro sugerido)
+> **[[05 - Verb Tenses]]** (tema futuro sugerido)
 > 
 > ```
 > Conexión directa: Aquí aprendiste las tres formas principales.
@@ -1546,7 +1556,7 @@
 > para poder usar los tiempos verbales correctamente.
 > ```
 > 
-> **[[06 - Modal Verbs\|06 - Modal Verbs]]** (tema futuro sugerido)
+> **[[06 - Modal Verbs]]** (tema futuro sugerido)
 > 
 > ```
 > • can, could, may, might, must, shall, should, will, would
@@ -1554,7 +1564,7 @@
 > • Se usan con el INFINITIVO (base form) de verbos regulares e irregulares
 > ```
 > 
-> **[[07 - Passive Voice in Depth\|07 - Passive Voice in Depth]]** (tema futuro sugerido)
+> **[[07 - Passive Voice in Depth]]** (tema futuro sugerido)
 > 
 > ```
 > • Formación: be + past participle
@@ -1562,7 +1572,7 @@
 > • Cuándo y por qué usar voz pasiva
 > ```
 > 
-> **[[08 - Phrasal Verbs\|08 - Phrasal Verbs]]** (tema futuro sugerido)
+> **[[08 - Phrasal Verbs]]** (tema futuro sugerido)
 > 
 > ```
 > • Verbos irregulares + preposiciones/adverbios
@@ -1953,6 +1963,7 @@
 > • Celebrate your progress!
 > ```
 >
+
 > [!tip] Daily Practice Routine (15 minutes)
 > 
 > **Morning (5 minutes):**

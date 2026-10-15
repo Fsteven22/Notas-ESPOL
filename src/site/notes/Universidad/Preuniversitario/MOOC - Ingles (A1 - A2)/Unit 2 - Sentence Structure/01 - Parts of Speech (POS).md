@@ -89,6 +89,7 @@
 > Future perfect: I will have walked
 > ```
 >
+
 > [!example] Verb Examples in Sentences
 > 
 > **Action verbs:**
@@ -146,6 +147,7 @@
 >   (might be = helping verbs, waiting = main verb)
 > ```
 >
+
 > [!tip] How to Identify Verbs
 > 
 > **Test 1: The "action or state" test**
@@ -246,6 +248,7 @@
 > team, family, class, audience, government
 > ```
 >
+
 > [!example] Noun Examples in Sentences
 > 
 > **Common nouns:**
@@ -320,6 +323,7 @@
 > • John (subject) gave Mary (indirect object) a gift (direct object).
 > ```
 >
+
 > [!tip] How to Identify Nouns
 > 
 > **Test 1: Can you put "a/an" or "the" before it?**
@@ -443,6 +447,7 @@
 > • John is the tallest student in class. (superlative)
 > ```
 >
+
 > [!example] Adjective Examples in Sentences
 > 
 > **Descriptive adjectives:**
@@ -531,6 +536,7 @@
 >   (highest = superlative)
 > ```
 >
+
 > [!tip] How to Identify Adjectives
 > 
 > **Test 1: Does it answer questions about a noun?**
@@ -676,6 +682,7 @@
 > another, other, such, what, which, whose
 > ```
 >
+
 > [!example] Determiner and Quantifier Examples in Sentences
 > 
 > **Articles:**
@@ -781,6 +788,7 @@
 >   (second = ordinal number)
 > ```
 >
+
 > [!tip] How to Identify Determiners and Quantifiers
 > 
 > **Test 1: Position before nouns**
@@ -833,6 +841,7 @@
 > Both: some, any, all → some books/water ✓
 > ```
 >
+
 > [!warning] Common Mistakes with Determiners and Quantifiers
 > 
 > **Mistake 1: Using articles incorrectly**
@@ -950,6 +959,7 @@
 > • Maybe we can help.
 > ```
 >
+
 > [!example] Adverb Examples in Sentences
 > 
 > **Modifying verbs (most common):**
@@ -1016,6 +1026,7 @@
 > Order: Manner → Place → Time
 > ```
 >
+
 > [!tip] How to Identify Adverbs
 > 
 > **Test 1: Does it answer these questions?**
@@ -1072,6 +1083,7 @@
 > ```
 >
 >
+
 > [!warning] Common Mistakes with Adverbs
 > 
 > **Mistake 1: Confusing adjectives and adverbs**
@@ -1200,6 +1212,7 @@
 > • Nobody knows the answer.
 > ```
 >
+
 > [!example] Pronoun Examples in Sentences
 > 
 > **Personal pronouns (subject):**
@@ -1293,6 +1306,7 @@
 >   (nobody = no person)
 > ```
 >
+
 > [!tip] How to Identify Pronouns
 > 
 > **Test 1: Can it replace a noun?**
@@ -1343,6 +1357,7 @@
 > Give it to me. (it, me = object pronouns)
 > ```
 >
+
 > [!warning] Common Mistakes with Pronouns
 > 
 > **Mistake 1: Confusing subject and object pronouns**
@@ -1450,6 +1465,7 @@
 > • She's afraid of dogs.
 > ```
 >
+
 > [!example] Preposition Examples in Sentences
 > 
 > **Prepositions of place:**
@@ -1540,6 +1556,7 @@
 >   (after the meeting = tells when)
 > ```
 >
+
 > [!tip] How to Identify Prepositions
 > 
 > **Test 1: Does it show a relationship?**
@@ -1588,6 +1605,7 @@
 > good at, interested in, afraid of, proud of
 > ```
 >
+
 > [!warning] Common Mistakes with Prepositions
 > 
 > **Mistake 1: Wrong preposition of time**
@@ -1695,6 +1713,7 @@
 > • It's raining; therefore, bring an umbrella.
 > ```
 >
+
 > [!example] Conjunction Examples in Sentences
 > 
 > **Coordinating conjunctions:**
@@ -1783,6 +1802,7 @@
 >   (if = condition, and = adds information)
 > ```
 >
+
 > [!tip] How to Identify Conjunctions
 > 
 > **Test 1: Does it connect elements?**
@@ -1833,6 +1853,7 @@
 > (Note: requires semicolon or period before it)
 > ```
 >
+
 > [!warning] Common Mistakes with Conjunctions
 > 
 > **Mistake 1: Comma splices**
@@ -1959,6 +1980,7 @@
 > • Hmm... Let me think.
 > ```
 >
+
 > [!example] Interjection Examples in Sentences
 > 
 > **Expressing strong emotion:**
@@ -2013,6 +2035,7 @@
 > • Wow! The view is incredible. (interjection + sentence)
 > ```
 >
+
 > [!tip] How to Identify Interjections
 > 
 > **Test 1: Does it express emotion?**
@@ -2167,6 +2190,7 @@
 >      (down = thing, in sports context)
 > ```
 >
+
 > [!example] More Context-Dependent Examples
 > 
 > **"can"**
@@ -2261,6 +2285,7 @@
 > 10. Adverb (describes how he works)
 > ```
 >
+
 > [!example] Exercise 2: Multiple Parts of Speech
 > 
 > **Identify the part of speech for the word "light" in each sentence:**
@@ -2279,6 +2304,7 @@
 > 4. Adverb (describes how to travel)
 > ```
 >
+
 > [!example] Exercise 3: Fill in the Blanks
 > 
 > **Choose the correct part of speech to complete each sentence:**
@@ -2504,6 +2530,7 @@
 > These lists are relatively stable over time.
 > ```
 >
+
 > [!note] Grammatical vs. Lexical Categories
 > 
 > **Lexical categories** (main content):
@@ -2688,7 +2715,7 @@
 > 
 > **📖 Fundamentos previos necesarios:**
 > 
-> **[[Universidad/Preuniversitario/MOOC - Ingles (A1 - A2)/Unit 4 - Vocabulary and Verbs/01 - Regular and Irregular Verbs\|01 - Regular and Irregular Verbs]]**
+> **[[01 - Regular and Irregular Verbs]]**
 > 
 > ```
 > Conexión: Para entender completamente la categoría VERB en las partes de la oración,
@@ -2711,7 +2738,7 @@
 > 
 > **🔜 Continuación inmediata:**
 > 
-> **[[Universidad/Preuniversitario/MOOC - Ingles (A1 - A2)/Unit 2 - Sentence Structure/02 - Parts of a Sentence\|02 - Parts of a Sentence]]**
+> **[[02 - Parts of a Sentence]]**
 > 
 > ```
 > Conexión: Una vez que conoces las partes de la oración (POS),
@@ -2746,7 +2773,7 @@
 > - Pattern: S + V
 > ```
 > 
-> **[[Universidad/Preuniversitario/MOOC - Ingles (A1 - A2)/Unit 3 - Writing and Punctuation/01 - Capitalization Rules\|01 - Capitalization Rules]]**
+> **[[01 - Capitalization Rules]]**
 > 
 > ```
 > Conexión: Las reglas de capitalización se aplican especialmente a:
@@ -2767,7 +2794,7 @@
 > 
 > **📊 Aplicaciones en temas futuros:**
 > 
-> **[[05 - Verb Tenses\|05 - Verb Tenses]]** (tema futuro sugerido)
+> **[[05 - Verb Tenses]]** (tema futuro sugerido)
 > 
 > ```
 > • Expansión del concepto de VERB
@@ -2775,7 +2802,7 @@
 > • Cómo las diferentes formas verbales cambian el significado
 > ```
 > 
-> **[[06 - Adjectives and Adverbs in Depth\|06 - Adjectives and Adverbs in Depth]]** (tema futuro sugerido)
+> **[[06 - Adjectives and Adverbs in Depth]]** (tema futuro sugerido)
 > 
 > ```
 > • Comparatives and superlatives
@@ -2784,7 +2811,7 @@
 > • Common confusions (good/well, bad/badly)
 > ```
 > 
-> **[[07 - Pronouns in Detail\|07 - Pronouns in Detail]]** (tema futuro sugerido)
+> **[[07 - Pronouns in Detail]]** (tema futuro sugerido)
 > 
 > ```
 > • Pronoun-antecedent agreement
@@ -2792,7 +2819,7 @@
 > • Reflexive vs intensive pronouns
 > ```
 > 
-> **[[08 - Prepositions and Prepositional Phrases\|08 - Prepositions and Prepositional Phrases]]** (tema futuro sugerido)
+> **[[08 - Prepositions and Prepositional Phrases]]** (tema futuro sugerido)
 > 
 > ```
 > • Common preposition combinations
