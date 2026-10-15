@@ -957,6 +957,7 @@
 > 
 > b) $f(x,y) = \begin{cases} \frac{\sin(x^2 + y^2)}{x^2 + y^2} & \text{si } (x,y) \neq (0,0) \ k & \text{si } (x,y) = (0,0) \end{cases}$
 >
+
 > [!example] 💪 Práctica Nivel Intermedio
 > 
 > **4. Verificar continuidad en el origen:**
@@ -985,6 +986,7 @@
 > 
 > c) $f(x,y) = e^{-(x^2+y^2)}$ en $\mathbb{R}^2$ (¿se aplica el TVE?)
 >
+
 > [!example] 💪 Práctica Nivel Avanzado
 > 
 > **7. Problemas conceptuales:**
@@ -1089,6 +1091,7 @@
 > 
 > Para continuidad: $k = 1$ ✓
 >
+
 > [!success] 🔑 Respuestas Ejercicios Intermedios
 > 
 > **4a)** $f(x,y) = \begin{cases} \frac{xy^2}{x^2 + y^4} & \text{si } (x,y) \neq (0,0) \ 0 & \text{si } (x,y) = (0,0) \end{cases}$
@@ -1594,9 +1597,9 @@
 > 
 > **Este tema es prerequisito para:**
 > 
-> - [[08 - Derivadas Parciales]] - Las derivadas requieren continuidad
-> - [[09 - Diferenciabilidad]] - Diferenciable → continua (pero no viceversa)
-> - [[10 - Regla de la Cadena]] - Se basa en composición de funciones continuas
+> - [[Derivadas Parciales]] - Las derivadas requieren continuidad
+> - [[04 – Diferenciabilidad]] - Diferenciable → continua (pero no viceversa)
+> - [[02 - Regla de la Cadena]] - Se basa en composición de funciones continuas
 > - [[15 - Optimización]] - TVE garantiza existencia de extremos
 > - [[20 - Integrales Dobles]] - Funciones continuas son integrables
 > 

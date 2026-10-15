@@ -1745,7 +1745,7 @@
 > 
 > - [[Cálculo Multivariable\|Cálculo Multivariable]] - Límites y continuidad
 > - [[Funciones de Varias Variables\|Funciones de Varias Variables]] - Dominios abiertos
-> - [[Integrales Múltiples\|Integrales Múltiples]] - Regiones de integración
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 6 - Integrales Triples y Teoremas/I - Integrales Múltiples/01 – Integrales múltiples\|01 – Integrales múltiples]] - Regiones de integración
 > - [[Análisis Vectorial\|Análisis Vectorial]] - Campos vectoriales
 > 
 > **Aplicaciones directas:**

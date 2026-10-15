@@ -21,8 +21,7 @@
 > 
 > **Spanish:** Trabaja duro, diviértete duro / Al que trabaja duro, se divierte duro
 > 
-> ```
-> Context: Balance between effort and enjoyment
+> > Context: Balance between effort and enjoyment
 > 
 > Examples:
 > • "My philosophy is simple: work hard, play hard."
@@ -38,7 +37,7 @@
 > • Describing work-life balance
 > • Talking about dedication to both career and leisure
 > • Explaining your lifestyle approach
-> ```
+> 
 
 ### 💪 No Pain, No Gain
 
@@ -48,8 +47,7 @@
 > 
 > **Spanish:** Sin dolor no hay ganancia / No hay recompensa sin esfuerzo
 > 
-> ```
-> Context: Effort is necessary for success
+> > Context: Effort is necessary for success
 > 
 > Examples:
 > • "Learning English is difficult, but no pain, no gain."
@@ -66,7 +64,7 @@
 > • Explaining why you're working hard
 > • Motivating yourself or others
 > • Fitness/gym contexts (very common)
-> ```
+> 
 
 ### 🎉 You Only Live Once (YOLO)
 
@@ -76,8 +74,7 @@
 > 
 > **Spanish:** Solo se vive una vez
 > 
-> ```
-> Abbreviation: YOLO (popular, especially in social media)
+> > Abbreviation: YOLO (popular, especially in social media)
 > 
 > Examples:
 > • "I'm going to quit my job and travel. You only live once!"
@@ -96,7 +93,7 @@
 > • Trying new experiences
 > 
 > ⚠️ Note: Sometimes used ironically or for bad decisions!
-> ```
+> 
 
 ### 🌶️ Variety is the Spice of Life
 
@@ -106,8 +103,7 @@
 > 
 > **Spanish:** La variedad es el condimento de la vida / La variedad es lo que le da sabor a la vida
 > 
-> ```
-> Context: Diversity and change are positive
+> > Context: Diversity and change are positive
 > 
 > Examples:
 > • "I like trying different hobbies. Variety is the spice of life."
@@ -124,7 +120,7 @@
 > • Encouraging someone to be more adventurous
 > • Talking about diverse experiences
 > • Discussing food, travel, hobbies
-> ```
+> 
 
 ### 🎬 Actions Speak Louder Than Words
 
@@ -134,8 +130,7 @@
 > 
 > **Spanish:** Los hechos hablan más que las palabras / Del dicho al hecho hay mucho trecho
 > 
-> ```
-> Context: Emphasizing the importance of doing, not just talking
+> > Context: Emphasizing the importance of doing, not just talking
 > 
 > Examples:
 > • "He says he'll help, but actions speak louder than words."
@@ -152,7 +147,7 @@
 > • Emphasizing the need for action
 > • Expressing skepticism about someone's words
 > • Encouraging follow-through
-> ```
+> 
 
 ---
 
@@ -168,8 +163,7 @@
 > 
 > **Pronunciation:** /əˈtʃiːvmənt/
 > 
-> ```
-> Related forms:
+> > Related forms:
 > • achieve (verb) = lograr
 > • achievable (adjective) = alcanzable
 > • achiever (noun) = persona exitosa
@@ -190,7 +184,7 @@
 > • personal achievement = logro personal
 > • sense of achievement = sentido de logro
 > • proud of one's achievements = orgulloso de sus logros
-> ```
+> 
 
 ### 🚪 Opportunity (noun)
 
@@ -202,8 +196,7 @@
 > 
 > **Pronunciation:** /ˌɒpəˈtjuːnəti/
 > 
-> ```
-> Examples:
+> > Examples:
 > • "This job is a great opportunity for me."
 >   (Este trabajo es una gran oportunidad para mí)
 > 
@@ -223,7 +216,7 @@
 > Common phrases:
 > • "Opportunity knocks" = La oportunidad llama
 > • "Window of opportunity" = Ventana de oportunidad
-> ```
+> 
 
 ### ⚡ Challenge (noun/verb)
 
@@ -235,8 +228,7 @@
 > 
 > **Pronunciation:** /ˈtʃæləndʒ/
 > 
-> ```
-> As a NOUN:
+> > As a NOUN:
 > • "Learning English is a big challenge."
 >   (Aprender inglés es un gran desafío)
 > 
@@ -259,7 +251,7 @@
 > • meet a challenge = cumplir un desafío
 > • overcome a challenge = superar un desafío
 > • challenging (adj) = desafiante, difícil
-> ```
+> 
 
 ### 🔄 Process (noun/verb)
 
@@ -271,8 +263,7 @@
 > 
 > **Pronunciation:** /ˈprəʊses/ (noun), /prəˈses/ (verb)
 > 
-> ```
-> As a NOUN:
+> > As a NOUN:
 > • "Learning is a process - be patient."
 >   (Aprender es un proceso - ten paciencia)
 > 
@@ -295,7 +286,7 @@
 > • long process = proceso largo
 > • natural process = proceso natural
 > • decision-making process = proceso de toma de decisiones
-> ```
+> 
 
 ### 🔀 Change (noun/verb)
 
@@ -307,8 +298,7 @@
 > 
 > **Pronunciation:** /tʃeɪndʒ/
 > 
-> ```
-> As a NOUN:
+> > As a NOUN:
 > • "Change is difficult but necessary."
 >   (El cambio es difícil pero necesario)
 > 
@@ -338,7 +328,7 @@
 > Common phrases:
 > • "A change of pace" = Un cambio de ritmo
 > • "Change of heart" = Cambio de opinión
-> ```
+> 
 
 ### 🧹 Chore (noun)
 
@@ -350,8 +340,7 @@
 > 
 > **Pronunciation:** /tʃɔːr/
 > 
-> ```
-> Examples:
+> > Examples:
 > • "I have to do my chores before going out."
 >   (Tengo que hacer mis quehaceres antes de salir)
 > 
@@ -372,7 +361,7 @@
 > • mowing the lawn = cortar el césped
 > 
 > Note: "Chore" often implies the task is boring or tedious
-> ```
+> 
 
 ### 💼 Job (noun)
 
@@ -384,8 +373,7 @@
 > 
 > **Pronunciation:** /dʒɒb/
 > 
-> ```
-> As EMPLOYMENT:
+> > As EMPLOYMENT:
 > • "I got a new job at a tech company."
 >   (Conseguí un nuevo trabajo en una empresa de tecnología)
 > 
@@ -412,7 +400,7 @@
 > • quit one's job = renunciar al trabajo
 > • job interview = entrevista de trabajo
 > • job opportunity = oportunidad de trabajo
-> ```
+> 
 
 ### 📊 Project (noun/verb)
 
@@ -424,8 +412,7 @@
 > 
 > **Pronunciation:** /ˈprɒdʒekt/ (noun), /prəˈdʒekt/ (verb)
 > 
-> ```
-> As a NOUN:
+> > As a NOUN:
 > • "I'm working on a big project at work."
 >   (Estoy trabajando en un gran proyecto en el trabajo)
 > 
@@ -448,7 +435,7 @@
 > • school/work project = proyecto escolar/laboral
 > • research project = proyecto de investigación
 > • ambitious project = proyecto ambicioso
-> ```
+> 
 
 ### 🎯 Success (noun)
 
@@ -460,8 +447,7 @@
 > 
 > **Pronunciation:** /səkˈses/
 > 
-> ```
-> Related forms:
+> > Related forms:
 > • succeed (verb) = tener éxito, lograr
 > • successful (adjective) = exitoso
 > • successfully (adverb) = exitosamente
@@ -488,7 +474,7 @@
 > • success story = historia de éxito
 > 
 > Opposite: failure (fracaso)
-> ```
+> 
 
 ---
 
@@ -498,32 +484,29 @@
 > 
 > **Example 1: Talking about fitness goals**
 > 
-> ```
-> "I'm working on a fitness project. It's a real challenge because I have 
+> > "I'm working on a fitness project. It's a real challenge because I have 
 > to balance it with my job and daily chores. But you know what they say: 
 > no pain, no gain! I believe this process will lead to success if I work 
 > hard. After all, actions speak louder than words - I need to actually do 
 > it, not just talk about it!"
-> ```
+> 
 > 
 > **Example 2: Describing career progress**
 > 
-> ```
-> "This job opportunity is amazing - it's my biggest achievement so far. 
+> > "This job opportunity is amazing - it's my biggest achievement so far. 
 > The change from my old position was scary, but you only live once, right? 
 > I'm working hard, but I also make time to play hard on weekends. Variety 
 > is the spice of life, so I try different things to grow professionally."
-> ```
+> 
 > 
 > **Example 3: Motivational speech**
 > 
-> ```
-> "Every challenge is an opportunity for growth. Success doesn't come from 
+> > "Every challenge is an opportunity for growth. Success doesn't come from 
 > avoiding the process - it comes from embracing it. Work hard, play hard, 
 > and remember: no pain, no gain. Don't just talk about your goals - 
 > actions speak louder than words. Make every project count because you 
 > only live once!"
-> ```
+> 
 
 ---
 
@@ -531,8 +514,7 @@
 
 > [!example] Fill in the Blanks
 > 
-> ```
-> 1. "I got promoted! This is my biggest __________ so far."
+> > 1. "I got promoted! This is my biggest __________ so far."
 > 2. "Learning a language is a long __________, be patient."
 > 3. "This is a great __________ to improve your skills."
 > 4. "I'm tired of doing household __________ every day."
@@ -542,12 +524,11 @@
 > 8. "The biggest __________ was learning to manage my time."
 > 9. "__________ is the spice of life - try new things!"
 > 10. "Hard work leads to __________."
-> ```
+> 
 > 
 > 📖 Answers
 > 
-> ```
-> 1. achievement
+> > 1. achievement
 > 2. process
 > 3. opportunity
 > 4. chores
@@ -557,11 +538,18 @@
 > 8. challenge
 > 9. Variety
 > 10. success
-> ```
+> 
 > 
 > 
 
 ---
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa: [[Universidad/1er Semestre/Ingles I (B1-B2)/Inglés I (B1-B2)\|Inglés I (B1-B2)]]
+> - Anterior: [[Universidad/1er Semestre/Ingles I (B1-B2)/Unit 8 - Getting there/Grammar – Present Perfect vs Present Perfect Continuous\|Grammar – Present Perfect vs Present Perfect Continuous]]
 
 **Tags:** #vocabulary #idioms #expressions #life-experiences #progress #achievement #motivation #success #challenges #opportunities #work-life-balance
 

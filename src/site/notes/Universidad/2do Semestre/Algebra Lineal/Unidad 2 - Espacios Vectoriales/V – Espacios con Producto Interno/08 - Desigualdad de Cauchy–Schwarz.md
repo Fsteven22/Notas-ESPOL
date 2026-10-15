@@ -739,6 +739,7 @@ graph TB
 > (Vectores ortogonales)
 > ```
 >
+
 > [!example] 💪 Ejercicio 2: Calcular Ángulo
 > 
 > **Problema:** Encontrar el ángulo entre:
@@ -798,6 +799,7 @@ graph TB
 > Respuesta: λ = 8/3
 > ```
 >
+
 > [!example] 💪 Ejercicio 4: Desigualdad Triangular
 > 
 > **Problema:** Verificar que ‖**u** + **v**‖ ≤ ‖**u**‖ + ‖**v**‖ para:

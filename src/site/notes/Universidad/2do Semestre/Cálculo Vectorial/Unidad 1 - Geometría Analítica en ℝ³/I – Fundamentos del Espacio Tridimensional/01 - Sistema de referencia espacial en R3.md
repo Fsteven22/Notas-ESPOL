@@ -272,10 +272,10 @@ graph TD
 > 
 > **Base para:**
 > 
-> - [[01.2 Vectores en ℝ³\|01.2 Vectores en ℝ³]] - Operaciones con magnitudes dirigidas
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/I – Fundamentos del Espacio Tridimensional/02 - Vectores en R3\|02 - Vectores en R3]] - Operaciones con magnitudes dirigidas
 > - [[01.3 Distancia en el Espacio\|01.3 Distancia en el Espacio]] - Métrica euclidiana
-> - [[01.4 Rectas en ℝ³\|01.4 Rectas en ℝ³]] - Objetos lineales unidimensionales
-> - [[01.5 Planos en ℝ³\|01.5 Planos en ℝ³]] - Objetos lineales bidimensionales
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/III – Rectas y Planos/01 - Rectas en R3\|01 - Rectas en R3]] - Objetos lineales unidimensionales
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/III – Rectas y Planos/02 - Planos en R3\|02 - Planos en R3]] - Objetos lineales bidimensionales
 > 
 > **Conceptos relacionados:**
 > 
@@ -285,7 +285,7 @@ graph TD
 > 
 > **Aplicaciones avanzadas:**
 > 
-> - [[Transformaciones Lineales\|Transformaciones Lineales]] - Cambios de base
+> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/IV – Transformaciones Lineales/01 – Transformaciones lineales\|01 – Transformaciones lineales]] - Cambios de base
 > - [[Producto Vectorial\|Producto Vectorial]] - Operaciones en ℝ³
 > - [[Ecuaciones Paramétricas\|Ecuaciones Paramétricas]] - Curvas en el espacio
 

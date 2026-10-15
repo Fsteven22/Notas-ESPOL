@@ -313,6 +313,7 @@ graph LR
 > 
 > **Respuesta:** $f_{prom} = 4$ alcanzado en $c = 1.5$
 >
+
 > [!example] 📝 Ejemplo 2: Función Cuadrática
 > 
 > **Problema:**
@@ -350,6 +351,7 @@ graph LR
 > 
 > **Respuesta:** $f_{prom} = 1$, alcanzado en $c = -1$ y $c = 1$
 >
+
 > [!example] 📝 Ejemplo 3: Función Trigonométrica
 > 
 > **Problema:**
@@ -388,6 +390,7 @@ graph LR
 > 
 > **Respuesta:** $f_{prom} = \frac{2}{\pi}$
 >
+
 > [!example] 📝 Ejemplo 4: Función Exponencial
 > 
 > **Problema:**
@@ -462,6 +465,7 @@ graph LR
 > 
 > **Respuesta:** $f_{prom} = 1.5$
 >
+
 > [!example] 📝 Ejemplo 6: Región Triangular
 > 
 > **Problema:**
@@ -502,6 +506,7 @@ graph LR
 > 
 > **Respuesta:** $f_{prom} = \frac{2}{3}$
 >
+
 > [!example] 📝 Ejemplo 7: Región Circular
 > 
 > **Problema:**
@@ -567,6 +572,7 @@ graph LR
 > 
 > Aunque la temperatura varía de 100°C (en $x=0$) a 50°C (en $x=10$), la temperatura promedio es aproximadamente 83.33°C.
 >
+
 > [!success] ⚡ Aplicación 2: Valor RMS (Root Mean Square)
 > 
 > **Concepto:**
@@ -599,6 +605,7 @@ graph LR
 > 
 > El valor RMS es la corriente continua equivalente que produciría la misma potencia disipada.
 >
+
 > [!success] 🌾 Aplicación 3: Densidad Poblacional
 > 
 > **Problema:**
@@ -627,6 +634,7 @@ graph LR
 > 
 > Aunque la densidad varía desde 5000 en el centro hasta ~1839 en el borde, la densidad promedio es aproximadamente 6321 personas/km².
 >
+
 > [!success] 🏔️ Aplicación 4: Altura Promedio del Terreno
 > 
 > **Problema:**

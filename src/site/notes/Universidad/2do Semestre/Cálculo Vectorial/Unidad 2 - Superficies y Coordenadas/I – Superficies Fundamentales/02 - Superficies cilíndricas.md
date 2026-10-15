@@ -1024,14 +1024,14 @@ graph TD
 > [!quote] 🔗 Enlaces con Otros Temas **Prerequisitos:**
 > 
 > - [[Cónicas en el plano\|Cónicas en el plano]] - Directrices de los cilindros
-> - [[Vectores en ℝ³\|Vectores en ℝ³]] - Generatrices como rectas
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/I – Fundamentos del Espacio Tridimensional/02 - Vectores en R3\|02 - Vectores en R3]] - Generatrices como rectas
 > - [[Ecuaciones de rectas\|Ecuaciones de rectas]] - Generatrices
 > - [[Ecuaciones de planos\|Ecuaciones de planos]] - Intersecciones
 > 
 > **Relacionado directamente:**
 > 
-> - [[Superficies cuadráticas\|Superficies cuadráticas]] - Los cilindros son casos especiales
-> - [[Superficies de revolución\|Superficies de revolución]] - Comparación con superficies rotadas
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 2 - Superficies y Coordenadas/I – Superficies Fundamentales/01 - Superficies cuadráticas\|01 - Superficies cuadráticas]] - Los cilindros son casos especiales
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 2 - Superficies y Coordenadas/I – Superficies Fundamentales/03 - Superficies de revolución\|03 - Superficies de revolución]] - Comparación con superficies rotadas
 > - [[Coordenadas cilíndricas\|Coordenadas cilíndricas]] - Sistema natural para cilindros circulares
 > 
 > **Aplicaciones avanzadas:**
@@ -1043,8 +1043,8 @@ graph TD
 > 
 > **Temas posteriores:**
 > 
-> - [[Coordenadas cilíndricas y esféricas\|Coordenadas cilíndricas y esféricas]] - Sistemas de coordenadas
-> - [[Nociones topológicas\|Nociones topológicas]] - Conjuntos abiertos y cerrados en cilindros
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 2 - Superficies y Coordenadas/II - Sistemas de Coordenadas/01 - Coordenadas cilíndricas y esféricas\|01 - Coordenadas cilíndricas y esféricas]] - Sistemas de coordenadas
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 2 - Superficies y Coordenadas/III – Aspectos Topológicos/01 - Nociones topológicas en Rⁿ\|01 - Nociones topológicas en Rⁿ]] - Conjuntos abiertos y cerrados en cilindros
 > - [[Campos Vectoriales\|Campos Vectoriales]] - Flujo a través de cilindros
 
 ## 💡 Consejos de Estudio

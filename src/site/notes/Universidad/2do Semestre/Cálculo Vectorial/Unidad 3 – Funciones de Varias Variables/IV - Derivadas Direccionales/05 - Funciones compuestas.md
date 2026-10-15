@@ -1623,6 +1623,7 @@ graph TB
 > SÍ → Método 4: Diferencial Total
 > ```
 >
+
 > [!warning] ## 🚨 Errores Comunes y Cómo Evitarlos
 > 
 > 
@@ -1919,6 +1920,7 @@ graph TB
 > > Siempre escribir explícitamente el signo de cada término
 > 
 >
+
 > [!example] 💪 Práctica Completa con Soluciones Detalladas
 > ### **Nivel 1 - Básico:** 🟢
 > 
@@ -2272,15 +2274,15 @@ graph TB
 > 
 > **📖 Prerequisites (Prerrequisitos):**
 > 
-> - [[03 - Matriz Jacobiana]] - Fundamento de la regla de la cadena
-> - [[02 - Vectores en ℝ³]] - Notación vectorial y operaciones
+> - [[06 – Matriz Jacobiana]] - Fundamento de la regla de la cadena
+> - [[02 - Vectores en R3]] - Notación vectorial y operaciones
 > - [[Derivadas Parciales]] - Base de la derivación multivariable
 > - [[Álgebra de Matrices]] - Multiplicación matricial
 > 
 > **➡️ Extensiones directas:**
 > 
 > - [[05 - Diferencial Total]] - Aproximación lineal de funciones compuestas
-> - [[Teorema de la Función Implícita]] - Derivadas de ecuaciones implícitas
+> - [[04 - Teorema de la Función Implícita]] - Derivadas de ecuaciones implícitas
 > - [[Teorema de la Función Inversa]] - Relación con derivadas de inversas
 > 
 > **🔧 Aplicaciones:**
@@ -2288,7 +2290,7 @@ graph TB
 > - [[Backpropagation en Redes Neuronales]] - Algoritmo de entrenamiento
 > - [[Optimización con Gradiente Descendente]] - Minimización de funciones
 > - [[Dinámica de Sistemas]] - Ecuaciones diferenciales acopladas
-> - [[Cambio de Variables en Integrales]] - Teorema del cambio de variable
+> - [[Cambio de Variable en Integrales]] - Teorema del cambio de variable
 > 
 > **🌐 Temas relacionados:**
 > 

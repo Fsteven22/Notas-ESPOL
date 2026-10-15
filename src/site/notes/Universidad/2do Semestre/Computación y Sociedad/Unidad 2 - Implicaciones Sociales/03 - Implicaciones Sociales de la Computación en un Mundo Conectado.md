@@ -44,6 +44,7 @@
 > - Entre adolescentes, estas cifras suben al **50%** y **72%** respectivamente
 > - El **75%** de padres afirma que discute con sus hijos por el uso de móviles
 >
+
 > [!note] 🧍 Efectos físicos — Ergonomía y uso del móvil
 > 
 > El uso prolongado e inadecuado de dispositivos móviles tiene consecuencias físicas documentadas:
@@ -57,6 +58,7 @@
 > 
 > > ⚠️ La OMS reconoce la postura derivada del uso de móviles como un problema de salud pública emergente, especialmente en adolescentes con esqueletos en desarrollo.
 >
+
 > [!note] 🎓 En la educación
 > 
 > La tecnología ha transformado el acceso al conocimiento:
@@ -68,6 +70,7 @@
 > 
 > Sin embargo, sin acceso o sin alfabetismo digital, estas herramientas **aumentan la brecha** en lugar de reducirla.
 >
+
 > [!note] 💳 En transacciones y comercio
 > 
 > - Banca en línea
@@ -75,6 +78,7 @@
 > - Comercio electrónico y marketing digital
 > - Plataformas como Uber/Cabify, Yelp, TripAdvisor, Netflix, LinkedIn, Pinterest, Tinder, Waze
 >
+
 > [!note] 🗳️ En la política
 > 
 > - El **67%** de los estadounidenses obtiene sus noticias a través de redes sociales
@@ -133,6 +137,7 @@
 > |**Apps de nutrición**|Ingesta calórica, macronutrientes, hábitos alimenticios|
 > |**GPS y mapas**|Rutinas de movimiento, lugares frecuentados, tiempos de traslado|
 >
+
 > [!warning] 🔒 Implicaciones de privacidad
 > 
 > La acumulación de datos personales del cuerpo y comportamiento plantea preguntas importantes:

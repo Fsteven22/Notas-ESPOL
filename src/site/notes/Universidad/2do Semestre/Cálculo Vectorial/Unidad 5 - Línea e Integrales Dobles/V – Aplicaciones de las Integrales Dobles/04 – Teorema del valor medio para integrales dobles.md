@@ -238,6 +238,7 @@ graph LR
 > - Valor promedio: $f_{prom} = 1.5$
 > - Un punto válido: $(1, 0.5)$
 >
+
 > [!example] 📝 Ejemplo 2: Región Circular
 > 
 > **Problema:**
@@ -268,6 +269,7 @@ graph LR
 > 
 > ✅ El teorema se verifica trivialmente para funciones constantes.
 >
+
 > [!example] 📝 Ejemplo 3: Región Triangular
 > 
 > **Problema:**

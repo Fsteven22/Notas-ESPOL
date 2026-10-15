@@ -775,15 +775,15 @@ graph TD
 > 
 > **Prerequisites (Prerrequisitos):**
 > 
-> - [[01.1 Sistema de Referencia Espacial\|01.1 Sistema de Referencia Espacial]] - Base del espacio ℝ³
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/I – Fundamentos del Espacio Tridimensional/01 - Sistema de referencia espacial en R3\|01 - Sistema de referencia espacial en R3]] - Base del espacio ℝ³
 > - [[Números Reales\|Números Reales]] - Componentes de vectores
 > - [[Álgebra Básica\|Álgebra Básica]] - Operaciones fundamentales
 > 
 > **Temas siguientes:**
 > 
 > - [[01.3 Distancia en el Espacio\|01.3 Distancia en el Espacio]] - Usa magnitud de vectores
-> - [[01.4 Rectas en ℝ³\|01.4 Rectas en ℝ³]] - Ecuaciones vectoriales de rectas
-> - [[01.5 Planos en ℝ³\|01.5 Planos en ℝ³]] - Vectores normales a planos
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/III – Rectas y Planos/01 - Rectas en R3\|01 - Rectas en R3]] - Ecuaciones vectoriales de rectas
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/III – Rectas y Planos/02 - Planos en R3\|02 - Planos en R3]] - Vectores normales a planos
 > 
 > **Operaciones avanzadas:**
 > 
@@ -795,12 +795,12 @@ graph TD
 > 
 > - [[Cinemática Vectorial\|Cinemática Vectorial]] - Movimiento en el espacio
 > - [[Fuerzas y Equilibrio\|Fuerzas y Equilibrio]] - Estática vectorial
-> - [[Transformaciones Lineales\|Transformaciones Lineales]] - Matrices y vectores
+> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/IV – Transformaciones Lineales/01 – Transformaciones lineales\|01 – Transformaciones lineales]] - Matrices y vectores
 > 
 > **Temas relacionados:**
 > 
-> - [[Espacios Vectoriales\|Espacios Vectoriales]] - Generalización abstracta
-> - [[Bases y Dimensión\|Bases y Dimensión]] - Vectores linealmente independientes
+> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/II – Subespacios y Generación/01 - Subespacios Vectoriales\|01 - Subespacios Vectoriales]] - Generalización abstracta
+> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/III – Dependencia, Base y Coordenadas/02 – Base y dimensión\|02 – Base y dimensión]] - Vectores linealmente independientes
 > - [[Universidad/2do Semestre/Algebra Lineal/Álgebra Lineal\|Álgebra Lineal]] - Teoría completa
 
 ## 💡 Consejos de Estudio y Errores Comunes

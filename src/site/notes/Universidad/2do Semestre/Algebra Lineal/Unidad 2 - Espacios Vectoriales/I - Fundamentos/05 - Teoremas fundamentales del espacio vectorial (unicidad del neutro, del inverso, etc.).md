@@ -786,6 +786,7 @@
 > 
 > ∎
 > ```
+
 > [!example] Ejemplos **En ℝ²:**
 > 
 > ```
@@ -1314,16 +1315,16 @@
 > 
 > **Temas relacionados:**
 > 
-> - [[Espacio Vectorial\|Espacio Vectorial]] - Definición axiomática
+> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/I - Fundamentos/02 - Espacio Vectorial\|02 - Espacio Vectorial]] - Definición axiomática
 > - [[Subespacios\|Subespacios]] - Heredan propiedades
-> - [[Transformaciones Lineales\|Transformaciones Lineales]] - Preservan estructura
+> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/IV – Transformaciones Lineales/01 – Transformaciones lineales\|01 – Transformaciones lineales]] - Preservan estructura
 > - [[Independencia Lineal\|Independencia Lineal]] - Usa estos teoremas
 > 
 > **Aplicaciones posteriores:**
 > 
-> - [[Bases y Dimensión\|Bases y Dimensión]] - Representación única
+> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/III – Dependencia, Base y Coordenadas/02 – Base y dimensión\|02 – Base y dimensión]] - Representación única
 > - [[Sistemas de Ecuaciones\|Sistemas de Ecuaciones]] - Resolución formal
-> - [[Determinantes\|Determinantes]] - Propiedades algebraicas
+> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/04 - Determinantes\|04 - Determinantes]] - Propiedades algebraicas
 > - [[Espacios Normados\|Espacios Normados]] - Estructura adicional
 > - [[Análisis Funcional\|Análisis Funcional]] - Extensión infinita
 

@@ -1113,15 +1113,15 @@ graph TD
 
 > [!quote] 🌟 Enlaces Conceptuales **Prerequisites (Prerrequisitos):**
 > 
-> - [[01.1 Sistema de Referencia Espacial\|01.1 Sistema de Referencia Espacial]] - Puntos en ℝ³
-> - [[01.2 Vectores en ℝ³\|01.2 Vectores en ℝ³]] - Vector director
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/I – Fundamentos del Espacio Tridimensional/01 - Sistema de referencia espacial en R3\|01 - Sistema de referencia espacial en R3]] - Puntos en ℝ³
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/I – Fundamentos del Espacio Tridimensional/02 - Vectores en R3\|02 - Vectores en R3]] - Vector director
 > - [[01.3 Distancia en el Espacio\|01.3 Distancia en el Espacio]] - Cálculos de distancia
 > 
 > **Temas siguientes:**
 > 
-> - [[01.5 Planos en ℝ³\|01.5 Planos en ℝ³]] - Intersección recta-plano
-> - [[01.6 Relación Recta-Plano\|01.6 Relación Recta-Plano]] - Posiciones relativas
-> - [[01.7 Distancias en ℝ³\|01.7 Distancias en ℝ³]] - Distancia punto-recta, recta-recta
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/III – Rectas y Planos/02 - Planos en R3\|02 - Planos en R3]] - Intersección recta-plano
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/III – Rectas y Planos/02 - Relación recta–plano\|02 - Relación recta–plano]] - Posiciones relativas
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/IV – Distancias en el Espacio/01 - Distancias en ℝ³\|01 - Distancias en ℝ³]] - Distancia punto-recta, recta-recta
 > 
 > **Conceptos relacionados:**
 > 

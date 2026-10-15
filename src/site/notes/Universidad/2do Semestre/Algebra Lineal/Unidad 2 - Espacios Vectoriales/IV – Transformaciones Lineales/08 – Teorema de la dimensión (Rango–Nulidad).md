@@ -835,7 +835,7 @@
 > 
 > - [[01 - Vectores en espacios vectoriales\|01 - Vectores en espacios vectoriales]] - Espacios vectoriales
 > - [[06 - Independencia lineal\|06 - Independencia lineal]] - Bases y dimensión
-> - [[08 - Subespacios vectoriales\|08 - Subespacios vectoriales]] - Teoría de subespacios
+> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/II – Subespacios y Generación/01 - Subespacios Vectoriales\|01 - Subespacios Vectoriales]] - Teoría de subespacios
 > - [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/IV – Transformaciones Lineales/01 – Transformaciones lineales\|01 – Transformaciones lineales]] - Definición de T
 > - [[19 - Núcleo e Imagen\|19 - Núcleo e Imagen]] - Subespacios fundamentales
 > 
@@ -844,7 +844,7 @@
 > - [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/II – Subespacios y Generación/05 – Espacio columna\|05 – Espacio columna]] - Imagen como espacio columna
 > - [[17 - Espacio nulo\|17 - Espacio nulo]] - Núcleo como espacio nulo
 > - [[21 - Rango de matrices\|21 - Rango de matrices]] - Aplicación a matrices
-> - [[22 - Sistemas de ecuaciones lineales\|22 - Sistemas de ecuaciones lineales]] - Solubilidad
+> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/05 - Sistemas de ecuaciones lineales\|05 - Sistemas de ecuaciones lineales]] - Solubilidad
 > 
 > **Aplicaciones posteriores:**
 > 
@@ -852,7 +852,7 @@
 > - [[25 - Diagonalización\|25 - Diagonalización]] - Análisis espectral
 > - [[30 - Proyecciones\|30 - Proyecciones]] - Descomposición
 > - [[35 - SVD\|35 - SVD]] - Descomposición fundamental
-> - [[40 - Teorema espectral\|40 - Teorema espectral]] - Operadores autoadjuntos
+> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/VI - Valores y Vectores propios/08 – Teorema espectral\|08 – Teorema espectral]] - Operadores autoadjuntos
 
 ## 📚 Bibliografía Esencial
 

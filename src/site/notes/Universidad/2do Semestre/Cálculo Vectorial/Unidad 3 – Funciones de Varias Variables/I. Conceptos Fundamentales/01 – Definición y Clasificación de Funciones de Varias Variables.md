@@ -66,6 +66,7 @@
 > 
 > **Interpretación geométrica:** Esta función representa la **distancia al cuadrado** desde el punto $(x,y)$ al origen $(0,0)$.
 >
+
 > [!example] 📝 Ejemplo 2: Temperatura en una Placa
 > 
 > **Función:** $T(x,y) = 100 - x^2 - 2y^2$
@@ -84,6 +85,7 @@
 > 
 > **Observación:** La temperatura disminuye más rápido en la dirección $y$ que en $x$ (coeficiente 2 vs 1).
 >
+
 > [!example] 📝 Ejemplo 3: Función de Tres Variables
 > 
 > **Función:** $f(x,y,z) = x^2 + y^2 + z^2$
@@ -102,6 +104,7 @@
 > 
 > **Aplicación física:** Si $f$ representa el potencial gravitatorio, entonces puntos equidistantes del origen tienen el mismo potencial (superficies equipotenciales esféricas).
 >
+
 > [!example] 📝 Ejemplo 4: Índice de Masa Corporal (IMC)
 > 
 > **Función:** $\text{IMC}(m, h) = \frac{m}{h^2}$
@@ -122,6 +125,7 @@
 > - 18.5 ≤ IMC < 25: Normal
 > - IMC ≥ 25: Sobrepeso
 >
+
 > [!example] 📝 Ejemplo 5: Volumen de un Cilindro
 > 
 > **Función:** $V(r, h) = \pi r^2 h$
@@ -211,6 +215,7 @@
 > 
 > **Interpretación física:** Este campo vectorial representa una **rotación antihoraria** alrededor del origen. Imagina un fluido girando.
 >
+
 > [!example] 📝 Ejemplo 2: Curva Parametrizada ($\mathbb{R} \to \mathbb{R}^2$)
 > 
 > **Función:** $\vec{r}(t) = \langle \cos(t), \sin(t) \rangle$
@@ -231,6 +236,7 @@
 > 
 > **Verificación:** $$x^2 + y^2 = \cos^2(t) + \sin^2(t) = 1$$
 >
+
 > [!example] 📝 Ejemplo 3: Hélice en el Espacio ($\mathbb{R} \to \mathbb{R}^3$)
 > 
 > **Función:** $\vec{r}(t) = \langle \cos(t), \sin(t), t \rangle$
@@ -254,6 +260,7 @@
 > 
 > **Aplicación:** Modelo del resorte, escalera de caracol, ADN.
 >
+
 > [!example] 📝 Ejemplo 4: Campo Gravitatorio ($\mathbb{R}^3 \to \mathbb{R}^3$)
 > 
 > **Función:** $$\vec{F}(x,y,z) = -\frac{GM}{(x^2+y^2+z^2)^{3/2}}\langle x, y, z \rangle$$
@@ -276,6 +283,7 @@
 > 
 > **Interpretación física:** Describe el campo gravitatorio creado por un objeto masivo en el origen.
 >
+
 > [!example] 📝 Ejemplo 5: Campo de Velocidades ($\mathbb{R}^2 \to \mathbb{R}^2$)
 > 
 > **Función:** $\vec{v}(x,y) = \langle 2y, -x \rangle$
@@ -290,6 +298,7 @@
 > 
 > **Aplicación:** Modelar corrientes de agua, viento, campos eléctricos.
 >
+
 > [!example] 📝 Ejemplo 6: Transformación Lineal ($\mathbb{R}^2 \to \mathbb{R}^2$)
 > 
 > **Función:** $\vec{T}(x,y) = \langle 2x + y, x - 3y \rangle$
@@ -412,10 +421,10 @@
 > 
 > **Este tema es base para:**
 > 
-> - [[02 - Dominio y Rango\|02 - Dominio y Rango]] - Determinar dónde están definidas
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 3 – Funciones de Varias Variables/I. Conceptos Fundamentales/02 – Dominio y Rango\|02 – Dominio y Rango]] - Determinar dónde están definidas
 > - [[03 - Gráfico de Funciones\|03 - Gráfico de Funciones]] - Visualizar funciones escalares
-> - [[04 - Curvas de Nivel\|04 - Curvas de Nivel]] - Representar funciones de 2 variables
-> - [[08 - Derivadas Parciales\|08 - Derivadas Parciales]] - Calcular tasas de cambio
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 3 – Funciones de Varias Variables/II. Visualización de Funciones Multivariables/02 – Curvas de Nivel\|02 – Curvas de Nivel]] - Representar funciones de 2 variables
+> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Herramientas Matemáticas/Derivadas Parciales\|Derivadas Parciales]] - Calcular tasas de cambio
 > - [[11 - Gradiente\|11 - Gradiente]] - Vector de derivadas parciales
 > 
 > **Prerequisitos:**

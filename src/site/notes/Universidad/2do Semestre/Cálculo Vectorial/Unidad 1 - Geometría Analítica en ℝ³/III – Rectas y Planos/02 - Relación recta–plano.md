@@ -1103,9 +1103,9 @@ graph TD
 > 
 > **Prerrequisitos (Prerequisites):**
 > 
-> - [[04. Rectas en R3\|04. Rectas en R3]] - Ecuaciones y propiedades de rectas
-> - [[05. Planos en R3\|05. Planos en R3]] - Ecuaciones y propiedades de planos
-> - [[02. Vectores en R3\|02. Vectores en R3]] - Operaciones vectoriales
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/III – Rectas y Planos/01 - Rectas en R3\|01 - Rectas en R3]] - Ecuaciones y propiedades de rectas
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/III – Rectas y Planos/02 - Planos en R3\|02 - Planos en R3]] - Ecuaciones y propiedades de planos
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/I – Fundamentos del Espacio Tridimensional/02 - Vectores en R3\|02 - Vectores en R3]] - Operaciones vectoriales
 > - [[02.1 Producto Punto\|02.1 Producto Punto]] - Para ángulos y perpendicularidad
 > - [[02.2 Producto Cruz\|02.2 Producto Cruz]] - Para vectores normales
 > 
@@ -1118,16 +1118,16 @@ graph TD
 > 
 > **Aplicaciones directas:**
 > 
-> - [[07. Distancias en R3\|07. Distancias en R3]] - Distancias relacionadas
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/IV – Distancias en el Espacio/01 - Distancias en ℝ³\|01 - Distancias en ℝ³]] - Distancias relacionadas
 > - [[07.1 Distancia Punto-Plano\|07.1 Distancia Punto-Plano]] - Usando perpendiculares
 > - [[07.2 Distancia Punto-Recta\|07.2 Distancia Punto-Recta]] - Geometría relacionada
 > - [[Proyecciones en R3\|Proyecciones en R3]] - Proyección ortogonal
 > 
 > **Temas avanzados:**
 > 
-> - [[Sistemas de Ecuaciones Lineales\|Sistemas de Ecuaciones Lineales]] - Intersecciones múltiples
+> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/05 - Sistemas de ecuaciones lineales\|05 - Sistemas de ecuaciones lineales]] - Intersecciones múltiples
 > - [[Geometría Proyectiva\|Geometría Proyectiva]] - Puntos al infinito
-> - [[Transformaciones Lineales\|Transformaciones Lineales]] - Matrices de rotación
+> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/IV – Transformaciones Lineales/01 – Transformaciones lineales\|01 – Transformaciones lineales]] - Matrices de rotación
 > - [[Espacios Afines\|Espacios Afines]] - Formalización abstracta
 > 
 > **Aplicaciones interdisciplinarias:**

@@ -1207,9 +1207,9 @@ graph TB
 > **Temas relacionados:**
 > 
 > - [[04 - Derivada Direccional y Gradiente\|04 - Derivada Direccional y Gradiente]] - Extensión del plano tangente
-> - [[05 - Regla de la Cadena\|05 - Regla de la Cadena]] - Composición de funciones
+> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 03 - Derivadas/II - Reglas de Derivación/02 - Regla de la Cadena\|02 - Regla de la Cadena]] - Composición de funciones
 > - [[06 - Extremos y Optimización\|06 - Extremos y Optimización]] - Usa la Hessiana
-> - [[07 - Multiplicadores de Lagrange\|07 - Multiplicadores de Lagrange]] - Optimización con restricciones
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 4 - Optimización/III – Optimización con Restricciones/01 - Multiplicaciones de Lagrange\|01 - Multiplicaciones de Lagrange]] - Optimización con restricciones
 > 
 > **Aplicaciones avanzadas:**
 > 

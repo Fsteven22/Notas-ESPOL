@@ -127,6 +127,7 @@
 > 
 > $$f(x_0 + h_1, y_0 + h_2) = f(x_0, y_0) + f_x(x_0, y_0)h_1 + f_y(x_0, y_0)h_2 + o(|h|)$$
 >
+
 > [!example] 🔵 Definición: Diferenciabilidad en $\mathbb{R}^n$
 > 
 > **Generalización:** Una función $f: \mathbb{R}^n \to \mathbb{R}$ es diferenciable en $\mathbf{x}_0 = (x_1^0, x_2^0, \ldots, x_n^0)$ si:
@@ -1735,6 +1736,7 @@
 > 
 > c) $z = e^{xy}$ en $(0, 1)$
 >
+
 > [!example] 💪 Práctica Nivel Intermedio
 > 
 > **4. Verificar diferenciabilidad:**
@@ -1777,6 +1779,7 @@
 > 
 > c) $f(x,y,z) = xyz + x^2 + y^2 + z^2$
 >
+
 > [!example] 💪 Práctica Nivel Avanzado
 > 
 > **8. Problemas teóricos:**
@@ -1857,6 +1860,7 @@
 > 
 > $$\boxed{\mathbf{n} = (2, 4, -1)}$$
 >
+
 > [!success] 🔑 Respuestas Ejercicios Intermedios
 > 
 > **4a)** $f(x,y) = \frac{xy^2}{x^2+y^2}$ en $(0,0)$
@@ -1914,6 +1918,7 @@
 > 
 > $$\boxed{df = (3x^2y^2 + y)dx + (2x^3y + x)dy}$$
 >
+
 > [!success] 🔑 Respuestas Ejercicios Avanzados
 > 
 > **8a)** Demostración de continuidad
@@ -2050,14 +2055,14 @@
 > 
 > **Este tema es continuación de:**
 > 
-> - [[08 - Derivadas Parciales]]
+> - [[Derivadas Parciales]]
 >     
 > - [[07 - Límites y Continuidad]]
 >     
 > 
 > **Este tema es prerequisito para:**
 > 
-> - [[11 - Gradiente y Derivadas Direccionales]]
+> - [[01 – Gradiente y Derivadas Direccionales]]
 >     
 > - [[12 - Regla de la Cadena Multivariable]]
 >     
@@ -2065,7 +2070,7 @@
 >     
 > - [[14 - Extremos y Optimización]]
 >     
-> - [[15 - Multiplicadores de Lagrange]]
+> - [[01 - Multiplicaciones de Lagrange]]
 >     
 > 
 > **Conceptos relacionados:**
@@ -2079,7 +2084,7 @@
 > - **Matriz Hessiana**: Derivadas de segundo orden, útil en optimización.
 >     
 > 
-> **Siguiente tema recomendado:** [[11 - Gradiente y Derivadas Direccionales]]
+> **Siguiente tema recomendado:** [[01 – Gradiente y Derivadas Direccionales]]
 > 
 
 ---

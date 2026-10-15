@@ -1102,12 +1102,12 @@
 > [!quote] 🌟 Enlaces Conceptuales **Prerequisites:**
 > 
 > - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/I – Fundamentos del Espacio Tridimensional/02 - Vectores en R3\|02 - Vectores en R3]] - Base fundamental
-> - [[01 - Producto Punto y Ángulos\|01 - Producto Punto y Ángulos]] - Operación complementaria
-> - [[Determinantes\|Determinantes]] - Método de cálculo
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/II – Producto Punto, Producto Cruz y Aplicaciones Geométricas/01 – Producto punto y ángulos\|01 – Producto punto y ángulos]] - Operación complementaria
+> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/04 - Determinantes\|04 - Determinantes]] - Método de cálculo
 > 
 > **Temas siguientes:**
 > 
-> - [[03 - Aplicaciones Geométricas Básicas\|03 - Aplicaciones Geométricas Básicas]] - Uso combinado
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/II – Producto Punto, Producto Cruz y Aplicaciones Geométricas/03 – Aplicaciones geométricas básicas\|03 – Aplicaciones geométricas básicas]] - Uso combinado
 > - [[Rectas y Planos en R3\|Rectas y Planos en R3]] - Ecuaciones vectoriales
 > - [[Superficies en R3\|Superficies en R3]] - Vectores normales
 > 
@@ -1119,7 +1119,7 @@
 > 
 > **Temas relacionados:**
 > 
-> - [[Momento Angular\|Momento Angular]] - Mecánica rotacional
+> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Momentum Angular\|Momentum Angular]] - Mecánica rotacional
 > - [[Campos Vectoriales\|Campos Vectoriales]] - Rotacional
 > - [[Geometría Diferencial\|Geometría Diferencial]] - Formas diferenciales
 

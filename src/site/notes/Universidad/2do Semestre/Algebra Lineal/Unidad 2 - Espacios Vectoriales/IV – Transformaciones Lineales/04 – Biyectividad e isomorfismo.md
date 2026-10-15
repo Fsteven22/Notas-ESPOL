@@ -234,6 +234,7 @@
 > 
 > **Q.E.D.**
 >
+
 > [!success] Teorema Fundamental de Clasificación **TEOREMA 2: Clasificación dimensional** ⭐⭐⭐
 > 
 > Sean $V$ y $W$ espacios vectoriales de dimensión finita sobre el mismo campo $\mathbb{F}$.
@@ -308,6 +309,7 @@
 > 
 > $$\boxed{\dim_{\mathbb{F}}(V) = n \implies V \cong \mathbb{F}^n}$$
 >
+
 > [!success] Teorema de Preservación de Propiedades **TEOREMA 3: Los isomorfismos preservan estructura**
 > 
 > Sea $T: V \to W$ isomorfismo. Entonces $T$ preserva:
@@ -353,6 +355,7 @@
 > 
 > **(8):** $T(\vec{0}) = T(0 \cdot \vec{v}) = 0 \cdot T(\vec{v}) = \vec{0}$ ✓
 >
+
 > [!success] Teoremas de Isomorfismo de Noether **PRIMER TEOREMA DE ISOMORFISMO:** ⭐⭐⭐
 > 
 > Sea $T: V \to W$ transformación lineal. Entonces:
@@ -762,14 +765,14 @@
 
 > [!quote] Enlaces Conceptuales **Fundamentos previos:**
 > 
-> - [[01 - Transformaciones lineales\|01 - Transformaciones lineales]] - Definición básica
+> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/IV – Transformaciones Lineales/01 – Transformaciones lineales\|01 – Transformaciones lineales]] - Definición básica
 > - [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/IV – Transformaciones Lineales/03 - Inyectividad y Sobreyectividad\|03 - Inyectividad y sobreyectividad]] - Biyectividad
 > - [[03 - Teorema de la dimensión\|03 - Teorema de la dimensión]] - Clasificación dimensional
 > - [[06 - Independencia lineal\|06 - Independencia lineal]] - Preservación de bases
 > 
 > **Temas directamente relacionados:**
 > 
-> - [[05 - Matriz inversa\|05 - Matriz inversa]] - Representación matricial
+> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/06 - Matriz Inversa\|06 - Matriz Inversa]] - Representación matricial
 > - [[06 - Cambio de base\|06 - Cambio de base]] - Isomorfismos coordenados
 > - [[07 - Espacios cociente\|07 - Espacios cociente]] - Primer teorema de isomorfismo
 > - [[19 - Núcleo e Imagen\|19 - Núcleo e Imagen]] - Caracterización
@@ -780,7 +783,7 @@
 > - [[25 - Diagonalización\|25 - Diagonalización]] - Isomorfismo diagonal
 > - [[30 - Formas canónicas\|30 - Formas canónicas]] - Clasificación
 > - [[35 - Espacios con producto interno\|35 - Espacios con producto interno]] - Isomorfismos isométricos
-> - [[40 - Teorema espectral\|40 - Teorema espectral]] - Isomorfismos unitarios
+> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/VI - Valores y Vectores propios/08 – Teorema espectral\|08 – Teorema espectral]] - Isomorfismos unitarios
 > 
 > **Conceptos avanzados:**
 > 

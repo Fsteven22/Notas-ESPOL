@@ -1084,23 +1084,23 @@
 > 
 > - [[Ecuación de la recta en ℝ³\|Ecuación de la recta en ℝ³]] - Para entender generatrices
 > - [[Ecuación del plano\|Ecuación del plano]] - Para secciones planas
-> - [[Vectores en ℝ³\|Vectores en ℝ³]] - Vectores normales y tangentes
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/I – Fundamentos del Espacio Tridimensional/02 - Vectores en R3\|02 - Vectores en R3]] - Vectores normales y tangentes
 > - [[Producto vectorial\|Producto vectorial]] - Para cálculos de área
 > - [[Cónicas\|Cónicas]] - Base bidimensional
 > 
 > **Temas relacionados:**
 > 
-> - [[Coordenadas cilíndricas y esféricas\|Coordenadas cilíndricas y esféricas]] - Simplifica ecuaciones
-> - [[Superficies de revolución\|Superficies de revolución]] - Caso especial de cuádricas
-> - [[Superficies cilíndricas\|Superficies cilíndricas]] - Cuádricas sin variable z
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 2 - Superficies y Coordenadas/II - Sistemas de Coordenadas/01 - Coordenadas cilíndricas y esféricas\|01 - Coordenadas cilíndricas y esféricas]] - Simplifica ecuaciones
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 2 - Superficies y Coordenadas/I – Superficies Fundamentales/03 - Superficies de revolución\|03 - Superficies de revolución]] - Caso especial de cuádricas
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 2 - Superficies y Coordenadas/I – Superficies Fundamentales/02 - Superficies cilíndricas\|02 - Superficies cilíndricas]] - Cuádricas sin variable z
 > - [[Universidad/2do Semestre/Cálculo Vectorial/Cálculo Vectorial\|Cálculo vectorial]] - Gradientes y normales
-> - [[Curvas de nivel\|Curvas de nivel]] - Secciones planas
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 3 – Funciones de Varias Variables/II. Visualización de Funciones Multivariables/02 – Curvas de Nivel\|02 – Curvas de Nivel]] - Secciones planas
 > 
 > **Aplicaciones directas:**
 > 
 > - [[Funciones de varias variables\|Funciones de varias variables]] - Superficies de nivel
 > - [[Optimización\|Optimización]] - Extremos sobre superficies
-> - [[Integrales múltiples\|Integrales múltiples]] - Volúmenes y regiones
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 6 - Integrales Triples y Teoremas/I - Integrales Múltiples/01 – Integrales múltiples\|01 – Integrales múltiples]] - Volúmenes y regiones
 > - [[Ecuaciones diferenciales\|Ecuaciones diferenciales]] - Soluciones geométricas
 > 
 > **Temas avanzados:**

@@ -63,6 +63,7 @@
 > - Es la **pendiente** de la curva que resulta de intersectar la superficie $z = f(x,y)$ con el plano $y = y_0$
 > - Representa la "inclinación" de la superficie en la dirección $x$
 >
+
 > [!example] 🟡 Definición: Derivada Parcial con respecto a $y$
 > 
 > **Definición:** La **derivada parcial** de $f(x,y)$ con respecto a $y$ en el punto $(x_0, y_0)$ es:
@@ -915,6 +916,7 @@
 > 
 > c) $f(x,y) = \sin(x)\cos(y)$
 >
+
 > [!example] 💪 Práctica Nivel Intermedio
 > 
 > **4. Verificar el Teorema de Schwarz:**
@@ -953,6 +955,7 @@
 > 
 > b) Para $xyz = 1$, encontrar $\frac{\partial z}{\partial x}$ y $\frac{\partial z}{\partial y}$
 >
+
 > [!example] 💪 Práctica Nivel Avanzado
 > 
 > **8. Verificar ecuaciones diferenciales parciales:**
@@ -1027,6 +1030,7 @@
 > 
 > $$f_{xx} = 2y$$ $$f_{yy} = 2x$$ $$f_{xy} = 2x + 2y = f_{yx}$$ ✓
 >
+
 > [!success] 🔑 Respuestas Ejercicios Intermedios
 > 
 > **4a)** $f(x,y) = x^3y^2 - 2xy^3$
@@ -1061,6 +1065,7 @@
 > 
 > Análogamente: $$\boxed{\frac{\partial z}{\partial y} = -\frac{y}{z}}$$
 >
+
 > [!success] 🔑 Respuestas Ejercicios Avanzados
 > 
 > **8a)** $u(x,t) = e^{-t}\sin(x)$
@@ -1147,12 +1152,12 @@
 > 
 > **Este tema es prerequisito para:**
 > 
-> - [[09 - Diferenciabilidad]] - Derivadas parciales continuas → diferenciabilidad
-> - [[10 - Regla de la Cadena]] - Composición de funciones diferenciables
+> - [[04 – Diferenciabilidad]] - Derivadas parciales continuas → diferenciabilidad
+> - [[02 - Regla de la Cadena]] - Composición de funciones diferenciables
 > - [[11 - Gradiente]] - Vector formado por derivadas parciales
 > - [[12 - Derivadas Direccionales]] - Generalización de derivadas parciales
 > - [[15 - Optimización]] - Condiciones de primer y segundo orden
-> - [[16 - Multiplicadores de Lagrange]] - Optimización con restricciones
+> - [[01 - Multiplicaciones de Lagrange]] - Optimización con restricciones
 > 
 > **Conceptos relacionados:**
 > 

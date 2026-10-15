@@ -53,6 +53,7 @@
 >
 > > 💡 **Ventaja clave:** si la señal digital se degrada un poco en el camino, el receptor solo necesita decidir "¿esto está más cerca de alto o de bajo?" — una decisión binaria mucho más robusta al ruido que intentar reconstruir una curva continua exacta.
 >
+
 > [!tip] ⚙️ Por qué la electrónica prefiere lo digital
 >
 > Las señales electrónicas son **mucho más fáciles de mantener** si solo transfieren datos binarios. Esto se debe a tres factores combinados:
@@ -94,6 +95,7 @@
 >
 > > 📌 La "zona indefinida" entre 0.8V y 2V existe porque el sistema no puede garantizar una lectura confiable de 0 o 1 en ese rango — los circuitos digitales están diseñados para operar firmemente fuera de esa franja, evitando ambigüedad en la lectura.
 >
+
 > [!example] ✏️ Leyendo una secuencia de pulsos
 >
 > Una señal digital en el tiempo, con voltaje saltando entre 0V y 5V, se traduce directamente en una cadena de bits:

@@ -140,6 +140,7 @@
 > - El plano tangente existe en todo punto
 > - La regla de la cadena funciona
 >
+
 > [!example] 📝 Contraejemplo 1: Derivadas Existen pero NO es Diferenciable
 > 
 > **Función:**
@@ -194,6 +195,7 @@
 > 
 > **Moraleja:** Existencia de derivadas parciales NO implica diferenciabilidad.
 >
+
 > [!example] 📝 Contraejemplo 2: Función NO C¹
 > 
 > **Función:**
@@ -311,6 +313,7 @@
 > - De hecho, múltiples valores de $\theta$ dan el mismo punto $(0,0)$
 > - No hay inversa única en el origen
 >
+
 > [!example] 📝 Ejemplo 2: Función Compleja
 > 
 > **Función:** $\vec{F}(x,y) = \begin{bmatrix} x^2 - y^2 \ 2xy \end{bmatrix}$ (corresponde a $f(z) = z^2$ en el plano complejo)
@@ -340,6 +343,7 @@
 > 
 > **Interpretación:** Localmente cerca de $(1,0)$, la inversa es aproximadamente $(x,y) \mapsto (x/2, y/2)$ más términos de orden superior.
 >
+
 > [!example] 📝 Ejemplo 3: Transformación NO Invertible
 > 
 > **Función:**
@@ -577,6 +581,7 @@
 > - ¡Podemos despejar $x$ como función de $y$!
 > - $x = \sqrt{1-y^2}$ cerca de $y=0$
 >
+
 > [!example] 📝 Ejemplo 2: Superficie en 3D
 > 
 > **Ecuación:** $$F(x,y,z) = x^2 + y^2 + z^2 - z = 0$$
@@ -630,6 +635,7 @@
 > 
 > El plano tangente en $(0,0,1)$ es horizontal: $z = 1$.
 >
+
 > [!example] 📝 Ejemplo 3: Sistema de Ecuaciones
 > 
 > **Sistema:**
@@ -953,6 +959,7 @@
 > 
 > c) $\sin(xy) + \cos(x+y) = 1$ en el punto $(0, 0)$
 >
+
 > [!example] 💪 Práctica Nivel Intermedio
 > 
 > **4. Teorema de la función inversa:**
@@ -989,6 +996,7 @@
 > 
 > c) Calcular la Jacobiana de la función implícita
 >
+
 > [!example] 💪 Práctica Nivel Avanzado
 > 
 > **7. Demostración:**
@@ -1085,6 +1093,7 @@
 > 
 > $$\boxed{\frac{dy}{dx} = -\frac{3}{4}}$$
 >
+
 > [!success] 🔑 Respuestas Ejercicios Intermedios
 > 
 > **4a)** $\vec{F}(x,y) = \begin{bmatrix} x + y \ xy \end{bmatrix}$
@@ -1133,6 +1142,7 @@
 > 
 > Solución correcta: buscar puntos que satisfagan ambas ecuaciones.
 >
+
 > [!success] 🔑 Respuestas Ejercicios Avanzados
 > 
 > **9a)** $\vec{F}(x,y) = \begin{bmatrix} x^2 - y^2 \ 2xy \end{bmatrix}$
@@ -1272,19 +1282,19 @@
 > 
 > ### Prerequisitos:
 > 
-> - **[[08 - Derivadas Parciales]]** - Base para todo
+> - **[[Derivadas Parciales]]** - Base para todo
 > - **[[09 - Derivada Direccional]]** - Caso especial
-> - **[[10 - Diferenciabilidad]]** - Concepto fundamental
-> - **[[11 - Funciones de Clase C¹]]** - Hipótesis central
-> - **[[12 - Matriz Jacobiana]]** - Herramienta principal
+> - **[[04 – Diferenciabilidad]]** - Concepto fundamental
+> - **[[05 – Funciones de Clase C¹]]** - Hipótesis central
+> - **[[06 – Matriz Jacobiana]]** - Herramienta principal
 > - **Álgebra Lineal: Determinantes** - Criterio de invertibilidad
 > - **Álgebra Lineal: Sistemas lineales** - Resolución local
 > 
 > ### Este tema es prerequisito para:
 > 
-> - **[[14 - Multiplicadores de Lagrange]]** - Usa función implícita
-> - **[[15 - Optimización con Restricciones]]** - Aplicación directa
-> - **[[16 - Integrales Múltiples]]** - Cambio de variables válido
+> - **[[01 - Multiplicaciones de Lagrange]]** - Usa función implícita
+> - **[[02 - Optimización con Restricciones]]** - Aplicación directa
+> - **[[01 – Integrales múltiples]]** - Cambio de variables válido
 > - **[[17 - Teoremas Integrales]]** - Condiciones de regularidad
 > - **Geometría Diferencial** - Superficies y variedades
 > - **Ecuaciones Diferenciales** - Existencia y unicidad
@@ -1317,7 +1327,7 @@
 > 
 > ### Siguiente tema recomendado:
 > 
-> **[[14 - Multiplicadores de Lagrange]]** - Aplicación importante de estos teoremas
+> **[[01 - Multiplicaciones de Lagrange]]** - Aplicación importante de estos teoremas
 
 ---
 

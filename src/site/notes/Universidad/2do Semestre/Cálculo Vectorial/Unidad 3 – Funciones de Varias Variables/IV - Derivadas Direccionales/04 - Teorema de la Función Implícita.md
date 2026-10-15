@@ -750,7 +750,7 @@ graph TD
 > - [[Gradiente\|Gradiente]] - Vector de derivadas parciales
 > 
 > **Aplicaciones:**
-> - [[Multiplicadores de Lagrange\|Multiplicadores de Lagrange]] - Optimización con restricciones
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 4 - Optimización/III – Optimización con Restricciones/01 - Multiplicaciones de Lagrange\|01 - Multiplicaciones de Lagrange]] - Optimización con restricciones
 > - [[Ecuaciones Diferenciales Implícitas\|Ecuaciones Diferenciales Implícitas]] - Existencia de soluciones
 > - [[Geometría Diferencial\|Geometría Diferencial]] - Superficies y curvas de nivel
 > - [[Análisis de Sensibilidad\|Análisis de Sensibilidad]] - Economía y optimización

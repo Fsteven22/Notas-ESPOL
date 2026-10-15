@@ -170,6 +170,7 @@
 > Cada ⬤ está más a la derecha que el anterior
 > ```
 >
+
 > [!example] 🎯 Ejemplo 2: Forma Escalonada con Fila Nula
 > 
 > **Matriz:**
@@ -213,6 +214,7 @@
 > - Sistema compatible indeterminado con 2 parámetros
 > ```
 >
+
 > [!example] 🎯 Ejemplo 3: Forma Escalonada "Irregular"
 > 
 > **Matriz:**
@@ -314,6 +316,7 @@
 > sin necesidad de sustitución hacia atrás.
 > ```
 >
+
 > [!example] 🎯 Ejemplo 2: FER con Patrón Complejo
 > 
 > **Matriz:**
@@ -364,6 +367,7 @@
 > x₅ = t (parámetro libre)
 > ```
 >
+
 > [!example] 🎯 Ejemplo 3: Comparación FE vs FER
 > 
 > **Matriz original:**
@@ -2638,7 +2642,7 @@ graph TD
 > **Depende directamente de:**
 > 
 > - [[01 - Algoritmo de Gauss]] - Proceso para obtener FE
-> - [[02 - Sistemas de ecuaciones lineales]] - Contexto de aplicación
+> - [[05 - Sistemas de ecuaciones lineales]] - Contexto de aplicación
 > - [[Matrices]] - Objeto base de estudio
 > 
 > **Se usa en:**
@@ -2650,10 +2654,10 @@ graph TD
 > 
 > **Conceptos relacionados:**
 > 
-> - [[Espacios Vectoriales]] - FER identifica bases
-> - [[Dependencia e Independencia Lineal]] - FER revela dependencias
-> - [[Transformaciones Lineales]] - FER caracteriza transformación
-> - [[Matriz Inversa]] - Método [A|I] → [I|A⁻¹]
+> - [[01 - Subespacios Vectoriales]] - FER identifica bases
+> - [[01 – Dependencia e independencia lineal]] - FER revela dependencias
+> - [[01 – Transformaciones lineales]] - FER caracteriza transformación
+> - [[06 - Matriz Inversa]] - Método [A|I] → [I|A⁻¹]
 > 
 > **Aplicaciones avanzadas:**
 > 

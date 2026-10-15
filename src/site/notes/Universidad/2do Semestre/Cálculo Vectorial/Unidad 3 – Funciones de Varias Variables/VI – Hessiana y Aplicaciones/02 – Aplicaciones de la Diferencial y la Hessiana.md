@@ -70,6 +70,7 @@
 > - $df = \nabla f \cdot d\mathbf{r}$ donde $d\mathbf{r} = (dx, dy, dz)$
 > - $df = \sum_{i=1}^n \frac{\partial f}{\partial x_i}dx_i$
 >
+
 > [!note] 🎯 Interpretación Geométrica de la Diferencial
 > 
 > ### En dos variables
@@ -347,6 +348,7 @@
 > - Generaliza la segunda derivada $f''(x)$ de una variable
 > - Es fundamental para clasificar **puntos críticos**
 >
+
 > [!note] 📊 Interpretación Geométrica
 > 
 > ### Analogía con una variable
@@ -1445,6 +1447,7 @@
 > 
 > b) $f(x,y) = e^{xy}$ cerca de $(0, 0)$ para estimar $f(0.1, 0.1)$
 >
+
 > [!example] 💪 Práctica Nivel Intermedio
 > 
 > **4. Clasificar puntos críticos:**
@@ -1471,6 +1474,7 @@
 > 
 > b) Minimizar $f(x,y) = x^2 + 2y^2 + 2xy + 2x - 3y$
 >
+
 > [!example] 💪 Práctica Nivel Avanzado
 > 
 > **7. Tres variables:**
@@ -1531,6 +1535,7 @@
 > 
 > ¡Excelente aproximación!
 >
+
 > [!success] 🔑 Respuestas Ejercicios Intermedios
 > 
 > **4a)** $f(x,y) = x^2 + xy + y^2 - 3x - 6y$
@@ -1574,6 +1579,7 @@
 > 
 > $$\boxed{\text{Mínimo en } \left(-\frac{7}{2}, \frac{5}{2}\right)}$$
 >
+
 > [!success] 🔑 Respuestas Ejercicios Avanzados
 > 
 > **7a)** $f(x,y,z) = x^2 + y^2 + z^2 + 2xy - 4z$
@@ -1739,7 +1745,7 @@
 > 
 > **Siguiente paso natural:**
 > 
-> - [[Multiplicadores de Lagrange]] → Optimización con restricciones
+> - [[01 - Multiplicaciones de Lagrange]] → Optimización con restricciones
 > - [[Campos Vectoriales]] → Generalización a funciones vectoriales
 
 ---

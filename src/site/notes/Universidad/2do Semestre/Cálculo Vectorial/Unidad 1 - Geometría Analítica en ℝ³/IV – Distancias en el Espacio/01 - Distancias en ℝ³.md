@@ -718,7 +718,7 @@ graph TD
 > 
 > **Prerequisitos:**
 > 
-> - [[Vectores en ℝ³\|Vectores en ℝ³]] - Operaciones vectoriales fundamentales
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/I – Fundamentos del Espacio Tridimensional/02 - Vectores en R3\|02 - Vectores en R3]] - Operaciones vectoriales fundamentales
 > - [[Producto Vectorial\|Producto Vectorial]] - Necesario para distancia punto-recta
 > - [[Producto Escalar\|Producto Escalar]] - Proyecciones y ángulos
 > - [[Ecuaciones de Rectas\|Ecuaciones de Rectas]] - Formas paramétricas y simétricas
@@ -728,7 +728,7 @@ graph TD
 > 
 > - [[Ángulos en ℝ³\|Ángulos en ℝ³]] - Complementa el estudio geométrico
 > - [[Proyecciones\|Proyecciones]] - Relacionado con distancias perpendiculares
-> - [[Superficies Cuádricas\|Superficies Cuádricas]] - Distancias a objetos curvos
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 2 - Superficies y Coordenadas/I – Superficies Fundamentales/01 - Superficies cuadráticas\|01 - Superficies cuadráticas]] - Distancias a objetos curvos
 > - [[Optimización en ℝ³\|Optimización en ℝ³]] - Minimización de distancias
 > 
 > **Temas avanzados:**

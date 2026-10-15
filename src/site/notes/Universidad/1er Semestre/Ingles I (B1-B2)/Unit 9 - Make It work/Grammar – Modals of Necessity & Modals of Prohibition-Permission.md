@@ -33,8 +33,7 @@
 > 
 > **Positive:** Subject + must + base verb
 > 
-> ```
-> I must finish this report today.
+> > I must finish this report today.
 > (Debo terminar este informe hoy)
 > 
 > You must arrive on time.
@@ -45,20 +44,18 @@
 > 
 > We must follow the rules.
 > (Debemos seguir las reglas)
-> ```
+> 
 > 
 > **Negative:** must not (mustn't) = prohibition (see Part 2)
 > 
-> ```
-> Note: "Must not" means prohibition, NOT lack of necessity
+> > Note: "Must not" means prohibition, NOT lack of necessity
 > You must not smoke here. = It's forbidden
 > (No debes fumar aquí = Está prohibido)
-> ```
+> 
 > 
 > **Questions:** Must + subject + base verb? (rare in modern English)
 > 
-> ```
-> Must I come to the meeting?
+> > Must I come to the meeting?
 > (¿Debo venir a la reunión?)
 > 
 > Must we finish today?
@@ -66,7 +63,7 @@
 > 
 > Note: Questions with "must" sound very formal or old-fashioned
 > More common: "Do I have to...?" or "Do I need to...?"
-> ```
+> 
 
 #### When to Use MUST
 
@@ -74,8 +71,7 @@
 > 
 > **Use 1: Strong personal obligation or conviction**
 > 
-> ```
-> I must call my mother today.
+> > I must call my mother today.
 > (Strong personal feeling of obligation)
 > 
 > I must lose weight. It's important for my health.
@@ -83,12 +79,11 @@
 > 
 > We must help them. They need us.
 > (Strong moral obligation)
-> ```
+> 
 > 
 > **Use 2: Rules, regulations, formal requirements**
 > 
-> ```
-> Students must wear uniforms.
+> > Students must wear uniforms.
 > (School rule)
 > 
 > You must have a passport to travel internationally.
@@ -99,12 +94,11 @@
 > 
 > Passengers must fasten their seatbelts.
 > (Safety regulation)
-> ```
+> 
 > 
 > **Use 3: Strong recommendations or urgent advice**
 > 
-> ```
-> You must see that movie! It's amazing!
+> > You must see that movie! It's amazing!
 > (Strong recommendation)
 > 
 > You must try this restaurant!
@@ -112,12 +106,11 @@
 > 
 > You must visit Paris if you go to France.
 > (Strong advice)
-> ```
+> 
 > 
 > **Use 4: Logical conclusions (deduction)**
 > 
-> ```
-> She's not answering. She must be sleeping.
+> > She's not answering. She must be sleeping.
 > (Logical conclusion: probably sleeping)
 > 
 > You must be tired after that long trip.
@@ -127,14 +120,13 @@
 > (Deduction based on evidence)
 > 
 > Note: This is a different meaning - deduction, not obligation
-> ```
+> 
 
 #### Characteristics of MUST
 
 > [!note] Important Features
 > 
-> ```
-> MUST is:
+> > MUST is:
 > ✓ Very strong and formal
 > ✓ Used for written rules and regulations
 > ✓ Personal conviction or feeling
@@ -146,7 +138,7 @@
 > ✗ Common in casual conversation (use "have to")
 > ✗ Used to express past obligation (use "had to")
 > ✗ Used in questions often (use "do I have to?")
-> ```
+> 
 
 ---
 
@@ -158,8 +150,7 @@
 > 
 > **Present Simple:**
 > 
-> ```
-> Positive:
+> > Positive:
 > I/You/We/They have to + base verb
 > He/She/It has to + base verb
 > 
@@ -171,12 +162,11 @@
 > 
 > • We have to leave early.
 >   (Tenemos que salir temprano)
-> ```
+> 
 > 
 > **Negative:** don't have to / doesn't have to = no obligation
 > 
-> ```
-> I don't have to work tomorrow.
+> > I don't have to work tomorrow.
 > (No tengo que trabajar mañana - it's not necessary)
 > 
 > She doesn't have to come.
@@ -186,12 +176,11 @@
 > (No tienes que pagar ahora - it's optional)
 > 
 > Important: "don't have to" = NOT necessary (different from must not!)
-> ```
+> 
 > 
 > **Questions:** Do/Does + subject + have to + base verb?
 > 
-> ```
-> Do I have to come to the meeting?
+> > Do I have to come to the meeting?
 > (¿Tengo que venir a la reunión?)
 > 
 > Does she have to work on weekends?
@@ -202,12 +191,11 @@
 > 
 > Why do I have to do this?
 > (¿Por qué tengo que hacer esto?)
-> ```
+> 
 > 
 > **Past:** had to + base verb
 > 
-> ```
-> I had to wake up early yesterday.
+> > I had to wake up early yesterday.
 > (Tuve que levantarme temprano ayer)
 > 
 > She had to cancel her plans.
@@ -215,12 +203,11 @@
 > 
 > We had to wait for two hours.
 > (Tuvimos que esperar dos horas)
-> ```
+> 
 > 
 > **Future:** will have to + base verb
 > 
-> ```
-> I'll have to work late tomorrow.
+> > I'll have to work late tomorrow.
 > (Tendré que trabajar hasta tarde mañana)
 > 
 > You'll have to study harder.
@@ -228,7 +215,7 @@
 > 
 > We'll have to find another solution.
 > (Tendremos que encontrar otra solución)
-> ```
+> 
 
 #### When to Use HAVE TO
 
@@ -236,17 +223,15 @@
 > 
 > **Use 1: External obligation (rules, laws, circumstances)**
 > 
-> ```
-> I have to go to work. (It's my job - external obligation)
+> > I have to go to work. (It's my job - external obligation)
 > She has to wear a uniform. (School rule)
 > We have to pay taxes. (Legal obligation)
 > You have to be 18 to vote. (Legal requirement)
-> ```
+> 
 > 
 > **Use 2: Necessity due to circumstances**
 > 
-> ```
-> I have to catch a plane at 6 AM.
+> > I have to catch a plane at 6 AM.
 > (Circumstance: flight time)
 > 
 > She has to take care of her sick mother.
@@ -254,23 +239,21 @@
 > 
 > We have to move because our lease is ending.
 > (Circumstance: lease expiration)
-> ```
+> 
 > 
 > **Use 3: General obligations in everyday life**
 > 
-> ```
-> I have to do my homework.
+> > I have to do my homework.
 > Do you have to work tomorrow?
 > She has to pick up her kids from school.
 > We have to buy groceries.
-> ```
+> 
 
 #### Characteristics of HAVE TO
 
 > [!note] Important Features
 > 
-> ```
-> HAVE TO is:
+> > HAVE TO is:
 > ✓ Most common in everyday conversation
 > ✓ Used for external obligations
 > ✓ Has all tenses (past, present, future)
@@ -281,7 +264,7 @@
 > ✓ Contracted: I've got to = I have to (informal)
 > ✓ Used in questions easily: Do I have to...?
 > ✓ Negated: don't/doesn't have to = not necessary
-> ```
+> 
 
 ---
 
@@ -293,8 +276,7 @@
 > 
 > **Present Simple:**
 > 
-> ```
-> Positive:
+> > Positive:
 > I/You/We/They need to + base verb
 > He/She/It needs to + base verb
 > 
@@ -306,12 +288,11 @@
 > 
 > • We need to talk.
 >   (Necesitamos hablar)
-> ```
+> 
 > 
 > **Negative:** don't need to / doesn't need to = not necessary
 > 
-> ```
-> You don't need to worry.
+> > You don't need to worry.
 > (No necesitas preocuparte)
 > 
 > He doesn't need to come.
@@ -321,12 +302,11 @@
 > (No necesitamos apurarnos)
 > 
 > Same as "don't have to" = not necessary
-> ```
+> 
 > 
 > **Questions:** Do/Does + subject + need to + base verb?
 > 
-> ```
-> Do I need to bring anything?
+> > Do I need to bring anything?
 > (¿Necesito traer algo?)
 > 
 > Does she need to call first?
@@ -334,27 +314,25 @@
 > 
 > What do we need to do?
 > (¿Qué necesitamos hacer?)
-> ```
+> 
 > 
 > **Past:** needed to + base verb
 > 
-> ```
-> I needed to leave early yesterday.
+> > I needed to leave early yesterday.
 > (Necesité salir temprano ayer)
 > 
 > She needed to buy a new phone.
 > (Ella necesitó comprar un teléfono nuevo)
-> ```
+> 
 > 
 > **Future:** will need to + base verb
 > 
-> ```
-> You'll need to bring your passport.
+> > You'll need to bring your passport.
 > (Necesitarás traer tu pasaporte)
 > 
 > We'll need to work together.
 > (Necesitaremos trabajar juntos)
-> ```
+> 
 
 #### When to Use NEED TO
 
@@ -362,8 +340,7 @@
 > 
 > **Use 1: Expressing necessity or requirement**
 > 
-> ```
-> I need to eat something. I'm hungry.
+> > I need to eat something. I'm hungry.
 > (Necessity due to hunger)
 > 
 > You need to be more careful.
@@ -371,12 +348,11 @@
 > 
 > She needs to rest.
 > (Necessity for health)
-> ```
+> 
 > 
 > **Use 2: Practical requirements**
 > 
-> ```
-> We need to buy milk.
+> > We need to buy milk.
 > (Practical need)
 > 
 > I need to charge my phone.
@@ -384,12 +360,11 @@
 > 
 > Do we need to make a reservation?
 > (Practical question)
-> ```
+> 
 > 
 > **Use 3: Things that should be done**
 > 
-> ```
-> You need to see this movie!
+> > You need to see this movie!
 > (Recommendation - softer than "must")
 > 
 > I need to tell you something.
@@ -397,14 +372,13 @@
 > 
 > We need to discuss this.
 > (Important topic to address)
-> ```
+> 
 
 #### Characteristics of NEED TO
 
 > [!note] Important Features
 > 
-> ```
-> NEED TO is:
+> > NEED TO is:
 > ✓ Less strong than "must" and "have to"
 > ✓ Focuses on necessity rather than obligation
 > ✓ Very common in everyday speech
@@ -416,7 +390,7 @@
 > • "Need to" emphasizes necessity
 > • "Have to" emphasizes obligation
 > • Both are common and acceptable
-> ```
+> 
 
 ---
 
@@ -426,8 +400,7 @@
 > 
 > **Strength of obligation (strongest to weakest):**
 > 
-> ```
-> 1. MUST (strongest, most formal)
+> > 1. MUST (strongest, most formal)
 >    • You must wear a seatbelt. (Law/strong rule)
 >    • I must finish this today. (Strong personal conviction)
 > 
@@ -438,12 +411,11 @@
 > 3. NEED TO (necessary, but less obligatory)
 >    • I need to study more. (Personal necessity)
 >    • We need to leave soon. (Practical requirement)
-> ```
+> 
 > 
 > **Source of obligation:**
 > 
-> ```
-> MUST:
+> > MUST:
 > • Internal (personal feeling)
 > • Official rules/regulations
 > • "I must help them." (I feel I should)
@@ -457,22 +429,20 @@
 > • Practical necessity
 > • Logical requirement
 > • "I need to eat." (Physical necessity)
-> ```
+> 
 > 
 > **Formality:**
 > 
-> ```
-> Formal → Informal
+> > Formal → Informal
 > MUST → HAVE TO → NEED TO
 > 
 > Written rules: "Students must attend all classes."
 > Spoken: "I have to go to class." / "I need to go to class."
-> ```
+> 
 > 
 > **Tenses:**
 > 
-> ```
-> MUST:
+> > MUST:
 > ✓ Present: I must go
 > ✗ Past: (use "had to")
 > ✗ Future: (use "will have to")
@@ -486,14 +456,13 @@
 > ✓ Present: I need to go
 > ✓ Past: I needed to go
 > ✓ Future: I'll need to go
-> ```
+> 
 
 #### When They're Interchangeable
 
 > [!tip] Similar Meanings
 > 
-> ```
-> In many everyday situations, all three can be used:
+> > In many everyday situations, all three can be used:
 > 
 > • I must study tonight.
 > • I have to study tonight.
@@ -505,7 +474,7 @@
 > • Formality (must = most formal)
 > • Type of obligation (must = personal, have to = external)
 > • Personal preference
-> ```
+> 
 
 ---
 
@@ -519,8 +488,7 @@
 > 
 > **Structure:** must not + base verb
 > 
-> ```
-> You must not smoke in this building.
+> > You must not smoke in this building.
 > (No debes fumar en este edificio - está prohibido)
 > 
 > Students must not cheat on exams.
@@ -531,14 +499,13 @@
 > 
 > Drivers must not use phones while driving.
 > (Los conductores no deben usar teléfonos mientras conducen - ilegal)
-> ```
+> 
 > 
 > **CAN'T / CANNOT:** Not allowed, prohibited
 > 
 > **Structure:** can't / cannot + base verb
 > 
-> ```
-> You can't park here.
+> > You can't park here.
 > (No puedes estacionar aquí - no está permitido)
 > 
 > We can't use phones in the library.
@@ -549,14 +516,13 @@
 > 
 > You cannot enter without a ticket.
 > (No puedes entrar sin boleto)
-> ```
+> 
 
 #### Must Not vs Can't
 
 > [!note] The Difference
 > 
-> ```
-> MUST NOT:
+> > MUST NOT:
 > • Stronger, more formal
 > • Used for serious rules/laws
 > • Emphasizes the prohibition itself
@@ -571,14 +537,13 @@
 > Often interchangeable in meaning:
 > • You mustn't smoke here. = You can't smoke here.
 > • Students mustn't cheat. = Students can't cheat.
-> ```
+> 
 
 #### Other Ways to Express Prohibition
 
 > [!tip] Alternative Expressions
 > 
-> ```
-> BE NOT ALLOWED TO:
+> > BE NOT ALLOWED TO:
 > • You are not allowed to park here.
 > • We aren't allowed to use phones.
 > 
@@ -593,7 +558,7 @@
 > IT'S AGAINST THE RULES/LAW TO:
 > • It's against the rules to run in the hallways.
 > • It's against the law to drink and drive.
-> ```
+> 
 
 ---
 
@@ -605,8 +570,7 @@
 > 
 > **Structure:** can + base verb
 > 
-> ```
-> You can use my phone.
+> > You can use my phone.
 > (Puedes usar mi teléfono)
 > 
 > Students can leave early today.
@@ -617,14 +581,13 @@
 > 
 > Can we go now?
 > (¿Podemos irnos ahora?)
-> ```
+> 
 > 
 > **MAY:** More formal permission
 > 
 > **Structure:** may + base verb
 > 
-> ```
-> You may enter now.
+> > You may enter now.
 > (Puedes entrar ahora - formal)
 > 
 > Students may use the library until 9 PM.
@@ -635,14 +598,13 @@
 > 
 > May I speak to the manager?
 > (¿Puedo hablar con el gerente? - formal)
-> ```
+> 
 > 
 > **BE ALLOWED TO:** Permission, all tenses
 > 
 > **Structure:** be allowed to + base verb
 > 
-> ```
-> We are allowed to leave early on Fridays.
+> > We are allowed to leave early on Fridays.
 > (Se nos permite salir temprano los viernes)
 > 
 > Are we allowed to eat in class?
@@ -653,14 +615,13 @@
 > 
 > I wasn't allowed to go out last night.
 > (No se me permitió salir anoche)
-> ```
+> 
 
 #### Asking for Permission
 
 > [!example] Common Questions
 > 
-> ```
-> Informal (with friends, family):
+> > Informal (with friends, family):
 > • Can I use your phone?
 > • Can I borrow this?
 > • Can we leave now?
@@ -680,14 +641,13 @@
 > • May I open the window? (formal)
 > • Could I possibly open the window? (very polite)
 > • Would you mind if I opened the window? (very polite)
-> ```
+> 
 
 #### Giving Permission
 
 > [!tip] How to Respond
 > 
-> ```
-> Granting permission:
+> > Granting permission:
 > • Yes, you can.
 > • Sure, go ahead.
 > • Of course.
@@ -708,7 +668,7 @@
 > 
 > A: May I leave early?
 > B: Yes, you may. / I'm afraid not.
-> ```
+> 
 
 ---
 
@@ -716,8 +676,7 @@
 
 > [!note] Quick Reference
 > 
-> ```
-> PROHIBITION (Not allowed):
+> > PROHIBITION (Not allowed):
 > ═══════════════════════════════════════════════════════
 > Strong/Formal:  must not, cannot, be prohibited from
 > Common:         can't, may not, be not allowed to
@@ -739,7 +698,7 @@
 > • You can go. (informal)
 > • You may go. (formal)
 > • You're allowed to go. (clear permission)
-> ```
+> 
 
 ---
 
@@ -749,20 +708,18 @@
 > 
 > **Mistake 1: Using "must" in past or future**
 > 
-> ```
-> ✗ I must go yesterday.
+> > ✗ I must go yesterday.
 > ✓ I had to go yesterday.
 > 
 > ✗ I must go tomorrow.
 > ✓ I have to go tomorrow. / I'll have to go tomorrow.
 > 
 > "Must" only works in present!
-> ```
+> 
 > 
 > **Mistake 2: Confusing "must not" with "don't have to"**
 > 
-> ```
-> ✗ You must not come if you don't want to.
+> > ✗ You must not come if you don't want to.
 > ✓ You don't have to come if you don't want to.
 > 
 > Must not = prohibited (forbidden)
@@ -770,24 +727,22 @@
 > 
 > • You must not smoke. = It's forbidden
 > • You don't have to smoke. = It's optional (weird sentence!)
-> ```
+> 
 > 
 > **Mistake 3: Using "to" after "must"**
 > 
-> ```
-> ✗ I must to go.
+> > ✗ I must to go.
 > ✓ I must go.
 > 
 > ✗ She must to study.
 > ✓ She must study.
 > 
 > "Must" is followed by bare infinitive (no "to")
-> ```
+> 
 > 
 > **Mistake 4: Wrong form with "have to"**
 > 
-> ```
-> ✗ He have to work.
+> > ✗ He have to work.
 > ✓ He has to work.
 > 
 > ✗ She don't have to come.
@@ -797,17 +752,16 @@
 > ✓ Does he have to go?
 > 
 > Remember: has to (3rd person), doesn't have to, does he have to
-> ```
+> 
 > 
 > **Mistake 5: Using "can" for obligation**
 > 
-> ```
-> ✗ You can come to the meeting. (if you mean obligation)
+> > ✗ You can come to the meeting. (if you mean obligation)
 > ✓ You must come to the meeting. / You have to come to the meeting.
 > 
 > "Can" = ability or permission, not obligation
 > Use "must" or "have to" for obligation
-> ```
+> 
 
 ---
 
@@ -817,8 +771,7 @@
 > 
 > ### Exercise 1: Choose must, have to, or need to
 > 
-> ```
-> 1. I __________ finish this report by Friday. (deadline)
+> > 1. I __________ finish this report by Friday. (deadline)
 > 2. You __________ see a doctor. You look terrible! (strong advice)
 > 3. Students __________ wear uniforms at this school. (rule)
 > 4. I __________ go to the dentist tomorrow. (appointment made)
@@ -840,12 +793,11 @@
 > 8. must/need to (personal feeling)
 > 9. need to/have to (question - use these)
 > 10. must (formal regulation)
-> ```
+> 
 > 
 > ### Exercise 2: Must not or Don't have to
 > 
-> ```
-> 1. You __________ smoke in the hospital. (prohibited)
+> > 1. You __________ smoke in the hospital. (prohibited)
 > 2. You __________ come if you're busy. (not necessary)
 > 3. Students __________ use phones during the exam. (forbidden)
 > 4. You __________ pay now. You can pay later. (not required)
@@ -863,12 +815,11 @@
 > 6. don't have to (not necessary)
 > 7. must not/can't (not allowed)
 > 8. don't have to (not needed)
-> ```
+> 
 > 
 > ### Exercise 3: Permission - Can or May
 > 
-> ```
-> Complete with can, may, or could (all are possible, but different formality):
+> > Complete with can, may, or could (all are possible, but different formality):
 > 
 > 1. __________ I use your bathroom? (polite)
 > 2. Students __________ leave when they finish. (permission)
@@ -888,12 +839,11 @@
 > 6. may (formal prohibition)
 > 7. Can/Could/May (Could/May more polite)
 > 8. can (giving permission)
-> ```
+> 
 > 
 > ### Exercise 4: Correct the Mistakes
 > 
-> ```
-> 1. I must to go now.
+> > 1. I must to go now.
 > 2. She musts study harder.
 > 3. You don't must come.
 > 4. He have to work tomorrow.
@@ -915,12 +865,11 @@
 > 8. I had to go yesterday.
 > 9. We must not be late.
 > 10. You don't have to come early.
-> ```
+> 
 > 
 > ### Exercise 5: Rewrite with the word in parentheses
 > 
-> ```
-> 1. It's necessary to study. (need)
+> > 1. It's necessary to study. (need)
 >    → You __________ study.
 > 
 > 2. Smoking is forbidden. (must)
@@ -941,7 +890,7 @@
 > 8. don't have to
 > 9. Can
 > 10. must
-> ```
+> 
 > 
 
 ---
@@ -952,8 +901,7 @@
 
 > [!example] Work Contexts
 > 
-> ```
-> Necessity:
+> > Necessity:
 > • "I have to finish this report by 5 PM."
 > • "We need to meet the deadline."
 > • "You must attend the meeting."
@@ -967,14 +915,13 @@
 > • "Can I leave early today?"
 > • "May I take a day off next week?"
 > • "Are we allowed to work remotely?"
-> ```
+> 
 
 ### At School
 
 > [!example] School Contexts
 > 
-> ```
-> Necessity:
+> > Necessity:
 > • "Students must wear uniforms."
 > • "You have to submit homework by Friday."
 > • "We need to study for the exam."
@@ -988,14 +935,13 @@
 > • "Can I go to the bathroom?"
 > • "May I ask a question?"
 > • "Are we allowed to work in groups?"
-> ```
+> 
 
 ### In Public Places
 
 > [!example] Public Rules
 > 
-> ```
-> Necessity:
+> > Necessity:
 > • "You must wear a seatbelt."
 > • "Passengers have to show their tickets."
 > • "You need to be 18 to enter."
@@ -1009,7 +955,7 @@
 > • "Can we eat here?"
 > • "Are visitors allowed to take pictures?"
 > • "May we enter now?"
-> ```
+> 
 
 ---
 
@@ -1017,8 +963,7 @@
 
 > [!quote] Reference
 > 
-> ```
-> NECESSITY (Something is required):
+> > NECESSITY (Something is required):
 > ════════════════════════════════════════════════
 > MUST        → Strong obligation, formal rules
 > HAVE TO     → External obligation, all tenses
@@ -1040,9 +985,16 @@
 > CAN              → General permission, informal
 > MAY              → Formal permission
 > BE ALLOWED TO    → Clear permission, all tenses
-> ```
+> 
 > 
 
 ---
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa: [[Universidad/1er Semestre/Ingles I (B1-B2)/Inglés I (B1-B2)\|Inglés I (B1-B2)]]
+> - Siguiente: [[Universidad/1er Semestre/Ingles I (B1-B2)/Unit 9 - Make It work/Vocabulary – College Subjects & Employment\|Vocabulary – College Subjects & Employment]]
 
 **Tags:** #grammar #modals #necessity #obligation #prohibition #permission #must #have-to #need-to #can #may #rules #requirements

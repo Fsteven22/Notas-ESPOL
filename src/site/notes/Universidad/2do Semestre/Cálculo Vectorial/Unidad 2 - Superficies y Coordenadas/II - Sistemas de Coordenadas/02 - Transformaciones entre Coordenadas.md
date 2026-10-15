@@ -940,14 +940,14 @@ graph TB
 > 
 > **Prerrequisitos:**
 > 
-> - [[01.1 Sistema de Referencia Espacial\|01.1 Sistema de Referencia Espacial]] - Base de coordenadas cartesianas
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/I – Fundamentos del Espacio Tridimensional/01 - Sistema de referencia espacial en R3\|01 - Sistema de referencia espacial en R3]] - Base de coordenadas cartesianas
 > - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/I – Fundamentos del Espacio Tridimensional/02 - Vectores en R3\|02 - Vectores en R3]] - Magnitudes y operaciones
 > - [[Trigonometría\|Trigonometría]] - Funciones seno, coseno, arctan
 > 
 > **Temas relacionados:**
 > 
 > - [[01.3 Distancia en el Espacio\|01.3 Distancia en el Espacio]] - Fórmulas en diferentes sistemas
-> - [[Integrales Múltiples\|Integrales Múltiples]] - dV en diferentes coordenadas
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 6 - Integrales Triples y Teoremas/I - Integrales Múltiples/01 – Integrales múltiples\|01 – Integrales múltiples]] - dV en diferentes coordenadas
 > - [[Campos Vectoriales\|Campos Vectoriales]] - Representación en distintos sistemas
 > 
 > **Aplicaciones:**

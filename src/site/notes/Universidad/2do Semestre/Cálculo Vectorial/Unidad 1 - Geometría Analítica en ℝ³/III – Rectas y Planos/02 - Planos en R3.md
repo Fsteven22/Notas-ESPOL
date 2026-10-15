@@ -1032,25 +1032,25 @@ graph TD
 > 
 > **Prerrequisitos (Prerequisites):**
 > 
-> - [[01. Sistema de Referencia Espacial\|01. Sistema de Referencia Espacial]] - Coordenadas en ℝ³
-> - [[02. Vectores en R3\|02. Vectores en R3]] - Operaciones vectoriales fundamentales
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/I – Fundamentos del Espacio Tridimensional/01 - Sistema de referencia espacial en R3\|01 - Sistema de referencia espacial en R3]] - Coordenadas en ℝ³
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/I – Fundamentos del Espacio Tridimensional/02 - Vectores en R3\|02 - Vectores en R3]] - Operaciones vectoriales fundamentales
 > - [[02.1 Producto Cruz\|02.1 Producto Cruz]] - Cálculo de vectores normales
 > - [[02.2 Producto Punto\|02.2 Producto Punto]] - Perpendicularidad y ángulos
 > - [[03. Distancia en el Espacio\|03. Distancia en el Espacio]] - Fundamentos métricos
-> - [[04. Rectas en R3\|04. Rectas en R3]] - Relación recta-plano
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/III – Rectas y Planos/01 - Rectas en R3\|01 - Rectas en R3]] - Relación recta-plano
 > 
 > **Aplicaciones directas:**
 > 
-> - [[06. Relación Recta-Plano\|06. Relación Recta-Plano]] - Intersecciones y paralelismo
-> - [[07. Distancias en R3\|07. Distancias en R3]] - Distancia punto-plano, plano-plano
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/III – Rectas y Planos/02 - Relación recta–plano\|02 - Relación recta–plano]] - Intersecciones y paralelismo
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/IV – Distancias en el Espacio/01 - Distancias en ℝ³\|01 - Distancias en ℝ³]] - Distancia punto-plano, plano-plano
 > - [[07.1 Distancia Punto-Plano\|07.1 Distancia Punto-Plano]] - Fórmula y aplicaciones
 > - [[07.4 Distancia entre Planos Paralelos\|07.4 Distancia entre Planos Paralelos]] - Caso especial
 > 
 > **Temas relacionados:**
 > 
-> - [[Transformaciones Lineales\|Transformaciones Lineales]] - Planos como núcleo/imagen
-> - [[Sistemas de Ecuaciones Lineales\|Sistemas de Ecuaciones Lineales]] - Intersección de planos
-> - [[Espacios Vectoriales\|Espacios Vectoriales]] - Planos como subespacios
+> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/IV – Transformaciones Lineales/01 – Transformaciones lineales\|01 – Transformaciones lineales]] - Planos como núcleo/imagen
+> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/05 - Sistemas de ecuaciones lineales\|05 - Sistemas de ecuaciones lineales]] - Intersección de planos
+> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/II – Subespacios y Generación/01 - Subespacios Vectoriales\|01 - Subespacios Vectoriales]] - Planos como subespacios
 > - [[Álgebra de Matrices\|Álgebra de Matrices]] - Representación matricial
 > 
 > **Aplicaciones avanzadas:**

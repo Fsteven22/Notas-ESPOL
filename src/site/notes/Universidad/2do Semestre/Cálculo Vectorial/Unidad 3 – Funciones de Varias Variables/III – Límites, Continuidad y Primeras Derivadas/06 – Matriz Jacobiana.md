@@ -913,6 +913,7 @@
 > 
 > c) $\vec{F}(x,y) = \begin{bmatrix} x\cos\theta - y\sin\theta \ x\sin\theta + y\cos\theta \end{bmatrix}$ (rotación por ángulo $\theta$)
 >
+
 > [!example] 💪 Práctica Nivel Intermedio
 > 
 > **4. Regla de la cadena:**
@@ -951,6 +952,7 @@
 > 
 > c) Comparar con el valor exacto
 >
+
 > [!example] 💪 Práctica Nivel Avanzado
 > 
 > **7. Teorema de la función inversa:**
@@ -1045,6 +1047,7 @@
 > 
 > Las rotaciones preservan áreas.
 >
+
 > [!success] 🔑 Respuestas Ejercicios Intermedios
 > 
 > **5b)** Coordenadas elípticas:
@@ -1078,6 +1081,7 @@
 > 
 > Error pequeño, la aproximación es buena cerca del origen.
 >
+
 > [!success] 🔑 Respuestas Ejercicios Avanzados
 > 
 > **7.** $\vec{F}(x,y) = \begin{bmatrix} x^2 - y^2 \ 2xy \end{bmatrix}$
@@ -1240,19 +1244,19 @@
 > 
 > ### Prerequisitos:
 > 
-> - **[[08 - Derivadas Parciales]]** - Componentes de la Jacobiana
+> - **[[Derivadas Parciales]]** - Componentes de la Jacobiana
 > - **[[09 - Derivada Direccional]]** - Caso especial: $D_{\vec{u}}f = J_f \cdot \vec{u}$
-> - **[[10 - Diferenciabilidad]]** - Condición necesaria
+> - **[[04 – Diferenciabilidad]]** - Condición necesaria
 > - **[[11 - Gradiente]]** - Fila de la Jacobiana para funciones escalares
 > - **Álgebra Lineal: Matrices** - Operaciones matriciales
 > - **Álgebra Lineal: Determinantes** - Jacobiano
 > 
 > ### Este tema es prerequisito para:
 > 
-> - **[[13 - Teorema de la Función Implícita]]** - Usa rango de la Jacobiana
+> - **[[04 - Teorema de la Función Implícita]]** - Usa rango de la Jacobiana
 > - **[[14 - Teorema de la Función Inversa]]** - Requiere Jacobiano no nulo
-> - **[[15 - Multiplicadores de Lagrange]]** - Condiciones usando Jacobianas
-> - **[[16 - Integrales Múltiples]]** - Cambio de variables
+> - **[[01 - Multiplicaciones de Lagrange]]** - Condiciones usando Jacobianas
+> - **[[01 – Integrales múltiples]]** - Cambio de variables
 > - **[[17 - Teoremas Integrales]]** - Green, Stokes, Gauss
 > - **Optimización Numérica** - Métodos de Newton
 > - **Ecuaciones Diferenciales** - Sistemas no lineales
@@ -1285,7 +1289,7 @@
 > 
 > ### Siguiente tema recomendado:
 > 
-> **[[13 - Teorema de la Función Implícita]]** - Aplicación profunda de la Jacobiana
+> **[[04 - Teorema de la Función Implícita]]** - Aplicación profunda de la Jacobiana
 
 ---
 

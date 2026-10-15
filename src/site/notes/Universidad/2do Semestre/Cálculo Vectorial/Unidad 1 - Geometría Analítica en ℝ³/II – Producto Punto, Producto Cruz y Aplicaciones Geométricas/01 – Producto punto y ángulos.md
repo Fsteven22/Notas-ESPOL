@@ -695,8 +695,8 @@ graph TD
 > 
 > **Temas siguientes:**
 > 
-> - [[02 - Producto Cruz y Áreas\|02 - Producto Cruz y Áreas]] - Otra operación vectorial
-> - [[03 - Aplicaciones Geométricas\|03 - Aplicaciones Geométricas]] - Uso combinado
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/II – Producto Punto, Producto Cruz y Aplicaciones Geométricas/02 – Producto cruz y áreas\|02 – Producto cruz y áreas]] - Otra operación vectorial
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/II – Producto Punto, Producto Cruz y Aplicaciones Geométricas/03 – Aplicaciones geométricas básicas\|03 – Aplicaciones geométricas básicas]] - Uso combinado
 > - [[Rectas y Planos\|Rectas y Planos]] - Ecuaciones usando producto punto
 > 
 > **Aplicaciones avanzadas:**
@@ -707,7 +707,7 @@ graph TD
 > 
 > **Temas relacionados:**
 > 
-> - [[Proyecciones Ortogonales\|Proyecciones Ortogonales]] - Aplicaciones detalladas
+> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/V – Espacios con Producto Interno/04 – Proyección ortogonal\|04 – Proyección ortogonal]] - Aplicaciones detalladas
 > - [[Bases Ortonormales\|Bases Ortonormales]] - Sistemas perpendiculares
 > - [[Descomposición QR\|Descomposición QR]] - Ortogonalización de Gram-Schmidt
 

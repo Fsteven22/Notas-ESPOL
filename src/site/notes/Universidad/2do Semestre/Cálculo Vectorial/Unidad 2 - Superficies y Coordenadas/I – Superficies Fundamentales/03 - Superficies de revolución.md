@@ -1270,11 +1270,11 @@
 > - [[Coordenadas Cilíndricas\|Coordenadas Cilíndricas]] - Sistema natural para superficies de revolución
 > - [[Coordenadas Esféricas\|Coordenadas Esféricas]] - Para esfera y elipsoides
 > - [[Curvas Paramétricas\|Curvas Paramétricas]] - Generatrices
-> - [[Vectores en ℝ³\|Vectores en ℝ³]] - Normal y tangentes a superficies
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/I – Fundamentos del Espacio Tridimensional/02 - Vectores en R3\|02 - Vectores en R3]] - Normal y tangentes a superficies
 > - [[Cálculo Integral\|Cálculo Integral]] - Áreas y volúmenes
 > 
 > **Temas relacionados:**
-> - [[Superficies Cuádricas\|Superficies Cuádricas]] - Clasificación algebraica
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 2 - Superficies y Coordenadas/I – Superficies Fundamentales/01 - Superficies cuadráticas\|01 - Superficies cuadráticas]] - Clasificación algebraica
 > - [[Sólidos de Revolución\|Sólidos de Revolución]] - Volúmenes
 > - [[Curvaturas\|Curvaturas]] - Análisis geométrico diferencial
 > - [[Ecuaciones Paramétricas en 3D\|Ecuaciones Paramétricas en 3D]] - Representación

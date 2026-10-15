@@ -176,6 +176,7 @@
 > 
 > **Superficie 3D:** Un plano que sube uniformemente en dirección noreste
 >
+
 > [!example] 🎯 Ejemplo 2: Paraboloide Circular
 > 
 > **Función:** $f(x,y) = x^2 + y^2$
@@ -225,6 +226,7 @@
 > 
 > **Superficie 3D:** Un paraboloide (como un tazón) que se abre hacia arriba
 >
+
 > [!example] 🏔️ Ejemplo 3: Cono
 > 
 > **Función:** $f(x,y) = \sqrt{x^2 + y^2}$
@@ -252,6 +254,7 @@
 > 
 > **Superficie 3D:** Un cono circular recto con vértice en el origen
 >
+
 > [!example] 🎪 Ejemplo 4: Paraboloide Hiperbólico (Silla de Montar)
 > 
 > **Función:** $f(x,y) = y^2 - x^2$
@@ -310,6 +313,7 @@
 > 
 > **Superficie 3D:** Paraboloide hiperbólico, parece una silla de montar o una papa frita Pringles
 >
+
 > [!example] 🌊 Ejemplo 5: Función Sinusoidal
 > 
 > **Función:** $f(x,y) = \sin(x) + \cos(y)$
@@ -339,6 +343,7 @@
 > 
 > **Observación:** Las curvas forman un patrón de ondas cruzadas
 >
+
 > [!example] 🎨 Ejemplo 6: Función Exponencial
 > 
 > **Función:** $f(x,y) = e^{-(x^2 + y^2)}$
@@ -370,6 +375,7 @@
 > 
 > **Superficie 3D:** "Campana gaussiana" o montaña con cima en el origen
 >
+
 > [!example] 🏞️ Ejemplo 7: Función Racional
 > 
 > **Función:** $f(x,y) = \frac{y}{x}$ para $x \neq 0$
@@ -408,6 +414,7 @@
 > 
 > **Superficie 3D:** Superficie tipo "silla" con una singularidad en el eje $x$
 >
+
 > [!example] 🔷 Ejemplo 8: Elipsoide
 > 
 > **Función:** $f(x,y) = \frac{x^2}{9} + \frac{y^2}{4}$
@@ -700,6 +707,7 @@
 > 
 > **Interpretación física:** Altura de una cúpula semiesférica
 >
+
 > [!example] 🌀 Ejemplo 10: Hipérbolas Rectangulares
 > 
 > **Función:** $f(x,y) = xy$
@@ -762,6 +770,7 @@
 > 
 > **Superficie 3D:** Superficie hiperbólica con forma de "silla de caballo"
 >
+
 > [!example] 🏔️ Ejemplo 11: Función con Múltiples Extremos
 > 
 > **Función:** $f(x,y) = (x^2 - 1)(y^2 - 1)$
@@ -810,6 +819,7 @@
 > - Patrones simétricos
 > - Curvas complejas excepto en $k = 0$
 >
+
 > [!example] 🎪 Ejemplo 12: Combinación Lineal-Cuadrática
 > 
 > **Función:** $f(x,y) = x^2 + y^2 - 2x - 4y$
@@ -843,6 +853,7 @@
 > 
 > **Técnica clave:** Completar cuadrados revela la estructura geométrica
 >
+
 > [!example] 🌊 Ejemplo 13: Función Gaussiana Bidimensional
 > 
 > **Función:** $f(x,y) = e^{-\frac{x^2 + y^2}{2}}$
@@ -1210,6 +1221,7 @@
 > 
 > **Función:** $f(x,y) = x^2 + \frac{y^2}{4}$ (o similar)
 >
+
 > [!success] 🔑 Respuestas de Ejercicios Intermedios
 > 
 > **3a)** $f(x,y) = e^{x+y}$
@@ -1293,6 +1305,7 @@
 > 
 > **Conclusión:** Mínimo absoluto en $(2, -2)$
 >
+
 > [!success] 🔑 Respuestas de Ejercicios Avanzados
 > 
 > **6a)** Demostración: Las curvas de nivel de $f(x,y) = ax + by$ son perpendiculares a $(a,b)$

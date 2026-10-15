@@ -1071,8 +1071,8 @@ graph TD
 > **Temas relacionados:**
 > 
 > - [[01.3 Distancia en el Espacio\|01.3 Distancia en el Espacio]] - Métrica en ℝ³
-> - [[01.4 Rectas en ℝ³\|01.4 Rectas en ℝ³]] - Ecuaciones y propiedades
-> - [[01.5 Planos en ℝ³\|01.5 Planos en ℝ³]] - Ecuaciones de planos
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/III – Rectas y Planos/01 - Rectas en R3\|01 - Rectas en R3]] - Ecuaciones y propiedades
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/III – Rectas y Planos/02 - Planos en R3\|02 - Planos en R3]] - Ecuaciones de planos
 > - [[Ecuaciones Paramétricas\|Ecuaciones Paramétricas]] - Representación de curvas
 > 
 > **Aplicaciones avanzadas:**
@@ -1086,8 +1086,8 @@ graph TD
 > 
 > - [[Superficies en ℝ³\|Superficies en ℝ³]] - Estudio de superficies
 > - [[Curvas en el Espacio\|Curvas en el Espacio]] - Geometría diferencial
-> - [[Transformaciones Lineales\|Transformaciones Lineales]] - Cambios de base
-> - [[Coordenadas Cilíndricas y Esféricas\|Coordenadas Cilíndricas y Esféricas]] - Sistemas alternativos
+> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/IV – Transformaciones Lineales/01 – Transformaciones lineales\|01 – Transformaciones lineales]] - Cambios de base
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 2 - Superficies y Coordenadas/II - Sistemas de Coordenadas/01 - Coordenadas cilíndricas y esféricas\|01 - Coordenadas cilíndricas y esféricas]] - Sistemas alternativos
 
 ---
 

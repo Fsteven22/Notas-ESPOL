@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universidad/2do-semestre/calculo-vectorial/unidad-2-superficies-y-coordenadas/ii-sistemas-de-coordenadas/03-representacion-grafica/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/universidad/2do-semestre/calculo-vectorial/unidad-2-superficies-y-coordenadas/ii-sistemas-de-coordenadas/03-representacion-grafica/","tags":["calculo-vectorial","coordenadas","graficas"],"dg-note-properties":{"tags":["calculo-vectorial","coordenadas","graficas"]}}
 ---
 
 
@@ -1392,14 +1392,14 @@ graph TB
 > 
 > **Prerrequisitos:**
 > 
-> - [[01.1 Sistema de Referencia Espacial\|01.1 Sistema de Referencia Espacial]] - Coordenadas cartesianas base
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/I – Fundamentos del Espacio Tridimensional/01 - Sistema de referencia espacial en R3\|01 - Sistema de referencia espacial en R3]] - Coordenadas cartesianas base
 > - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/I – Fundamentos del Espacio Tridimensional/02 - Vectores en R3\|02 - Vectores en R3]] - Vectores y operaciones
 > - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 2 - Superficies y Coordenadas/II - Sistemas de Coordenadas/02 - Transformaciones entre Coordenadas\|02 - Transformaciones entre coordenadas]] - Fórmulas de conversión
 > 
 > **Temas relacionados:**
 > 
 > - [[Universidad/2do Semestre/Cálculo Vectorial/Cálculo Vectorial\|Cálculo Vectorial]] - Gradiente, divergencia, rotacional
-> - [[Integrales Triples\|Integrales Triples]] - Cambios de variable
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 6 - Integrales Triples y Teoremas/II – Integrales Triples/01 – Integral triple\|01 – Integral triple]] - Cambios de variable
 > - [[Ecuaciones Diferenciales\|Ecuaciones Diferenciales]] - Laplaciano en diferentes coordenadas
 > 
 > **Aplicaciones:**

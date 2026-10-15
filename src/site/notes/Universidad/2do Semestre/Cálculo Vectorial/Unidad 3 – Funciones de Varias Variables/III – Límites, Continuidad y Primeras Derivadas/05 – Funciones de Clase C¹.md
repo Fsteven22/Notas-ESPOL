@@ -1006,6 +1006,7 @@
 > 
 > d) $f(x,y) = \frac{x-y}{x+y}$
 >
+
 > [!example] 💪 Práctica Nivel Intermedio
 > 
 > **4. Funciones por casos:**
@@ -1040,6 +1041,7 @@
 > 
 > Verificar que $f(x,y) = x^3 - 3xy^2$ es C¹ y encontrar todos los puntos críticos (donde $\nabla f = \vec{0}$).
 >
+
 > [!example] 💪 Práctica Nivel Avanzado
 > 
 > **7. Teoría:**
@@ -1136,6 +1138,7 @@
 > 
 > $$f \in C^1(\mathbb{R}^2 \setminus {(0,0)})$$
 >
+
 > [!success] 🔑 Respuestas Ejercicios Intermedios
 > 
 > **4a)** $f(x,y) = \begin{cases} xy & x \geq 0 \ 0 & x < 0 \end{cases}$
@@ -1184,6 +1187,7 @@
 > 
 > **Único punto crítico:** $(0,0)$
 >
+
 > [!success] 🔑 Respuestas Ejercicios Avanzados
 > 
 > **7c)** Si $\nabla f = \vec{0}$ en todo punto:
@@ -1781,11 +1785,11 @@
 > 
 > Este tema es prerequisito para:
 > 
-> - [[10 - Diferenciabilidad]] - C¹ es condición suficiente para diferenciabilidad
+> - [[04 – Diferenciabilidad]] - C¹ es condición suficiente para diferenciabilidad
 > - [[12 - Regla de la Cadena Multivariable]] - Requiere C¹ para funcionar
-> - [[13 - Teorema de la Función Implícita]] - Hipótesis esencial
+> - [[04 - Teorema de la Función Implícita]] - Hipótesis esencial
 > - [[14 - Teorema de la Función Inversa]] - Requiere C¹
-> - [[15 - Multiplicadores de Lagrange]] - Necesita gradientes continuos
+> - [[01 - Multiplicaciones de Lagrange]] - Necesita gradientes continuos
 > - [[16 - Fórmula de Taylor Multivariable]] - Extensión a C²
 > - [[17 - Teorema de Schwarz]] - Igualdad de derivadas mixtas
 > 

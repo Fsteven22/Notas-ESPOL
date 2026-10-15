@@ -300,6 +300,7 @@
 > - Corte con plano $x = 0$: Círculos $y^2 + z^2 = k$
 > - Todos los cortes son círculos
 >
+
 > [!example] 🏔️ Ejemplo 2: Planos Paralelos
 > 
 > **Función:** $f(x,y,z) = z$
@@ -352,6 +353,7 @@
 > - Superficies equipotenciales en campo gravitacional uniforme
 > - Cada plano tiene altura constante
 >
+
 > [!example] 🌀 Ejemplo 3: Cilindros Concéntricos
 > 
 > **Función:** $f(x,y,z) = x^2 + y^2$
@@ -407,6 +409,7 @@
 > - Campo eléctrico de un cable infinito
 > - Flujo alrededor de un cable
 >
+
 > [!example] 🌋 Ejemplo 4: Paraboloide como Superficie de Nivel
 > 
 > **Función:** $f(x,y,z) = z - x^2 - y^2$
@@ -456,6 +459,7 @@
 > - Superficies de igual "altura relativa" al paraboloide
 > - En optimización: conjuntos de nivel de funciones objetivo
 >
+
 > [!example] 🎭 Ejemplo 5: Cono Doble
 > 
 > **Función:** $f(x,y,z) = z^2 - x^2 - y^2$
@@ -518,6 +522,7 @@
 > - Campos electromagnéticos
 > - Superficies de fase constante en ondas
 >
+
 > [!example] 🎪 Ejemplo 6: Paraboloide Hiperbólico
 > 
 > **Función:** $f(x,y,z) = x^2 - y^2 - z$
@@ -552,6 +557,7 @@
 > - Curvaturas opuestas en direcciones perpendiculares
 > - Arquitectura: techos hiperbólicos (Pringles)
 >
+
 > [!example] 🌍 Ejemplo 7: Elipsoides
 > 
 > **Función:** $f(x,y,z) = \frac{x^2}{4} + \frac{y^2}{9} + z^2$
@@ -1052,6 +1058,7 @@
 > - Modelo de densidad de probabilidad en física estadística
 > - Función de onda en mecánica cuántica
 >
+
 > [!example] 🌀 Ejemplo 9: Función Lineal Combinada
 > 
 > **Función:** $f(x,y,z) = 2x + 3y - z$
@@ -1088,6 +1095,7 @@
 > - Distancia entre planos consecutivos es constante
 > - Modelo de campo uniforme en física
 >
+
 > [!example] 🎭 Ejemplo 10: Función de Distancia a un Punto
 > 
 > **Función:** $f(x,y,z) = \sqrt{(x-1)^2 + (y+2)^2 + (z-3)^2}$
@@ -1119,6 +1127,7 @@
 > - Ondas esféricas emanando de una fuente puntual
 > - Señales de radio/radar desde una antena
 >
+
 > [!example] 🏔️ Ejemplo 11: Función Producto
 > 
 > **Función:** $f(x,y,z) = xyz$
@@ -1159,6 +1168,7 @@
 > - Singularidad en los planos coordenados
 > - Simetría respecto a intercambio de variables
 >
+
 > [!example] 🌊 Ejemplo 12: Combinación de Paraboloides
 > 
 > **Función:** $f(x,y,z) = x^2 + y^2 - z^2$
@@ -1404,6 +1414,7 @@
 > 
 > d) $(1, 2, 2\sqrt{5})$: $1 + 4 + 20 = 25$ ✅ **Sí está**
 >
+
 > [!success] 🔑 Respuestas de Ejercicios Intermedios
 > 
 > **3a)** $f(x,y,z) = \frac{x^2}{4} + \frac{y^2}{9} + z^2$
@@ -1482,6 +1493,7 @@
 > - 1 término negativo ($-y^2$)
 > - Constante positiva
 >
+
 > [!success] 🔑 Respuestas de Ejercicios Avanzados
 > 
 > **6a)** $f(x,y,z) = x^2 + y^2 + z^2 - 2x - 4y + 6z = 0$
@@ -1731,8 +1743,8 @@
 > 
 > ### Ya estudiados:
 > 
-> - [[02 - Dominio y Rango]] - Las superficies existen solo en el dominio
-> - [[04 - Curvas de Nivel]] - Las superficies de nivel son la extensión 3D
+> - [[02 – Dominio y Rango]] - Las superficies existen solo en el dominio
+> - [[02 – Curvas de Nivel]] - Las superficies de nivel son la extensión 3D
 > 
 > ### Por estudiar:
 > 

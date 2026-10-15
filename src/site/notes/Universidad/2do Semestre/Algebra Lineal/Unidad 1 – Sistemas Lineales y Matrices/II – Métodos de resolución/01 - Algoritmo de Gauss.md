@@ -1229,21 +1229,21 @@ graph TD
 > 
 > **Prerequisites (Prerrequisitos):**
 > 
-> - [[Sistemas de Ecuaciones Lineales\|Sistemas de Ecuaciones Lineales]] - Conceptos básicos y clasificación
+> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/05 - Sistemas de ecuaciones lineales\|05 - Sistemas de ecuaciones lineales]] - Conceptos básicos y clasificación
 > - [[Matrices\|Matrices]] - Operaciones matriciales fundamentales
 > - [[Operaciones Elementales\|Operaciones Elementales]] - Base teórica
 > 
 > **Temas relacionados:**
 > 
-> - [[Rango de una Matriz\|Rango de una Matriz]] - Cálculo mediante forma escalonada
+> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/07 - Rango de una Matriz\|07 - Rango de una Matriz]] - Cálculo mediante forma escalonada
 > - [[Método de Gauss-Jordan\|Método de Gauss-Jordan]] - Extensión a forma escalonada reducida
 > - [[Factorización LU\|Factorización LU]] - Descomposición relacionada con Gauss
 > 
 > **Aplicaciones directas:**
 > 
-> - [[Espacios Vectoriales\|Espacios Vectoriales]] - Dependencia e independencia lineal
-> - [[Determinantes\|Determinantes]] - Cálculo mediante forma triangular
-> - [[Matriz Inversa\|Matriz Inversa]] - Algoritmo de inversión
+> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/II – Subespacios y Generación/01 - Subespacios Vectoriales\|01 - Subespacios Vectoriales]] - Dependencia e independencia lineal
+> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/04 - Determinantes\|04 - Determinantes]] - Cálculo mediante forma triangular
+> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/06 - Matriz Inversa\|06 - Matriz Inversa]] - Algoritmo de inversión
 > 
 > **Temas avanzados:**
 > 

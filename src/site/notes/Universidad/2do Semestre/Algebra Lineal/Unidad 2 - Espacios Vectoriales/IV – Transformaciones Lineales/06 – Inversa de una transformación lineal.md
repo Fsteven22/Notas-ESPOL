@@ -277,6 +277,7 @@
 >
 > **Q.E.D.**
 >
+
 > [!success] Teorema de Composición de Inversas
 > **TEOREMA 2: Inversa de una composición** ⭐
 >
@@ -320,6 +321,7 @@
 >
 > $$\boxed{(T_n \circ \cdots \circ T_2 \circ T_1)^{-1} = T_1^{-1} \circ T_2^{-1} \circ \cdots \circ T_n^{-1}}$$
 >
+
 > [!success] Teorema de Representación Matricial
 > **TEOREMA 3: Matriz de la inversa** ⭐⭐
 >
@@ -361,6 +363,7 @@
 >
 > $$\boxed{T \text{ invertible} \iff \det([T]) \neq 0}$$
 >
+
 > [!success] Teorema del Grupo Lineal General
 > **TEOREMA 4: GL(V) como grupo** ⭐
 >
@@ -575,6 +578,7 @@
 >
 > Por tanto $T$ no es inyectiva ⇒ no invertible ✓
 >
+
 > [!example] Inversas de Composiciones
 > **EJEMPLO 4: Composición de rotaciones**
 >
@@ -655,6 +659,7 @@
 >
 > $$= \begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix} = I$$ ✓
 >
+
 > [!example] Aplicaciones Prácticas
 > **EJEMPLO 6: Cambio de coordenadas**
 >
@@ -1195,24 +1200,24 @@
 
 > [!quote] Enlaces Conceptuales
 > **Fundamentos previos:**
-> - [[01 - Transformaciones lineales\|01 - Transformaciones lineales]] - Definición básica
+> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/IV – Transformaciones Lineales/01 – Transformaciones lineales\|01 – Transformaciones lineales]] - Definición básica
 > - [[02 - Núcleo e Imagen\|02 - Núcleo e Imagen]] - Caracterización de inyectividad
 > - [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/IV – Transformaciones Lineales/03 - Inyectividad y Sobreyectividad\|03 - Inyectividad y sobreyectividad]] - Biyectividad
-> - [[04 - Biyectividad e isomorfismo\|04 - Biyectividad e isomorfismo]] - Equivalencia con isomorfismo
+> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/IV – Transformaciones Lineales/04 – Biyectividad e isomorfismo\|04 – Biyectividad e isomorfismo]] - Equivalencia con isomorfismo
 >
 > **Temas directamente relacionados:**
-> - [[06 - Matriz de una transformación\|06 - Matriz de una transformación]] - Representación matricial
+> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/IV – Transformaciones Lineales/07 - Matriz de una Transformación Lineal\|07 - Matriz de una Transformación Lineal]] - Representación matricial
 > - [[07 - Composición de transformaciones\|07 - Composición de transformaciones]] - $(S \circ T)^{-1} = T^{-1} \circ S^{-1}$
-> - [[08 - Matriz inversa\|08 - Matriz inversa]] - Inversión de matrices
+> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/06 - Matriz Inversa\|06 - Matriz Inversa]] - Inversión de matrices
 > - [[09 - Cambio de base\|09 - Cambio de base]] - Matrices de cambio son invertibles
-> - [[10 - Determinantes\|10 - Determinantes]] - Criterio $\det \neq 0$
+> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/04 - Determinantes\|04 - Determinantes]] - Criterio $\det \neq 0$
 >
 > **Aplicaciones posteriores:**
 > - [[15 - Valores propios\|15 - Valores propios]] - Matriz $A - \lambda I$ invertible ⟺ $\lambda$ no es valor propio
 > - [[16 - Diagonalización\|16 - Diagonalización]] - $P^{-1}AP = D$
 > - [[20 - Forma de Jordan\|20 - Forma de Jordan]] - Similitud vía invertibles
 > - [[25 - Descomposición SVD\|25 - Descomposición SVD]] - Pseudoinversa
-> - [[30 - Teorema espectral\|30 - Teorema espectral]] - Transformaciones unitarias
+> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/VI - Valores y Vectores propios/08 – Teorema espectral\|08 – Teorema espectral]] - Transformaciones unitarias
 >
 > **Temas avanzados:**
 > - [[35 - Operadores adjuntos\|35 - Operadores adjuntos]] - Relación con inversas

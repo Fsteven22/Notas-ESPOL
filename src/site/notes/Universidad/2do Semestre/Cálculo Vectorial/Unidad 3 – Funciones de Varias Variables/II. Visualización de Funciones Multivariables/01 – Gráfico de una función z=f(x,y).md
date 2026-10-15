@@ -152,6 +152,7 @@
 > - Superficie de un líquido girando
 > - Reflector parabólico
 >
+
 > [!example] 📝 Ejemplo 2: Paraboloide hacia abajo
 > 
 > **Función:** $z = 4 - x^2 - y^2$
@@ -180,6 +181,7 @@
 > - $z = 0$: círculo $x^2 + y^2 = 4$
 > - $z = -5$: círculo $x^2 + y^2 = 9$
 >
+
 > [!example] 📝 Ejemplo 3: Paraboloide Elíptico
 > 
 > **Función:** $z = x^2 + 4y^2$
@@ -213,6 +215,7 @@
 > 
 > **Interpretación:** Superficie plana a 5 unidades del suelo.
 >
+
 > [!example] 📝 Ejemplo 5: Plano Inclinado
 > 
 > **Función:** $z = 2x + 3y + 1$
@@ -256,6 +259,7 @@
 > 
 > **Visualización:** La parábola $z = x^2$ se "barre" a lo largo del eje $y$.
 >
+
 > [!example] 📝 Ejemplo 7: Cilindro Circular
 > 
 > **Función:** $x^2 + y^2 = 4$ (técnicamente no es función de la forma $z=f(x,y)$)
@@ -385,6 +389,7 @@
 > 
 > **Forma:** Superficie ondulatoria como una "chapa ondulada".
 >
+
 > [!example] 📝 Ejemplo 12: Superficie Ondulada en Dos Direcciones
 > 
 > **Función:** $z = \sin(x) + \cos(y)$
@@ -402,6 +407,7 @@
 > - Ondas en agua
 > - Membranas vibrantes
 >
+
 > [!example] 📝 Ejemplo 13: Onda Radial
 > 
 > **Función:** $z = \sin(\sqrt{x^2 + y^2})$
@@ -443,6 +449,7 @@
 > - Densidad de probabilidad
 > - Función de difusión
 >
+
 > [!example] 📝 Ejemplo 15: Crecimiento Exponencial
 > 
 > **Función:** $z = e^{x+y}$
@@ -792,6 +799,7 @@
 > 
 > c) $x = 1$: $z = 1 - y^2$ → **Parábola** hacia abajo, vértice en $(1,0,1)$
 >
+
 > [!success] 🔑 Respuestas Ejercicios Intermedios
 > 
 > **4a) Análisis completo de $z = 16 - x^2 - y^2$:**
@@ -1079,8 +1087,8 @@
 > 
 > **Este tema es prerequisito para:**
 > 
-> - [[04 - Curvas de Nivel]] - Proyección de las trazas horizontales
-> - [[08 - Derivadas Parciales]] - Pendiente de la superficie en direcciones
+> - [[02 – Curvas de Nivel]] - Proyección de las trazas horizontales
+> - [[Derivadas Parciales]] - Pendiente de la superficie en direcciones
 > - [[11 - Gradiente]] - Vector perpendicular a curvas de nivel
 > - **Planos Tangentes** - Aproximación lineal a la superficie
 > - **Optimización** - Encontrar puntos más altos/bajos
@@ -1088,7 +1096,7 @@
 > **Temas relacionados:**
 > 
 > - [[01 - Definición de Funciones]] - Qué estamos graficando
-> - [[02 - Dominio y Rango]] - Dónde existe la superficie
+> - [[02 – Dominio y Rango]] - Dónde existe la superficie
 > - **Geometría Analítica 3D** - Ecuaciones de superficies
 > - **Cálculo Vectorial** - Campos vectoriales sobre superficies
 > 
@@ -1100,7 +1108,7 @@
 > - 📊 **Estadística** - Distribuciones de probabilidad 2D
 > - 🎮 **Gráficos por computadora** - Modelado 3D
 > 
-> **Siguiente tema recomendado:** [[04 - Curvas de Nivel]]
+> **Siguiente tema recomendado:** [[02 – Curvas de Nivel]]
 
 ---
 

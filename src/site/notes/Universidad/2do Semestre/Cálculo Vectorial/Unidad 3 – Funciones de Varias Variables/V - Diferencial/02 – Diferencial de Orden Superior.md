@@ -2235,7 +2235,7 @@
 > **Este tema es fundamental para:**
 > 
 > - [[03 - Optimización\|03 - Optimización]] - Clasificación de extremos usando la Hessiana
-> - [[04 - Multiplicadores de Lagrange\|04 - Multiplicadores de Lagrange]] - Optimización con restricciones
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 4 - Optimización/III – Optimización con Restricciones/01 - Multiplicaciones de Lagrange\|01 - Multiplicaciones de Lagrange]] - Optimización con restricciones
 > - [[05 - Gradiente y Direccionales\|05 - Gradiente y Direccionales]] - La Hessiana es la derivada del gradiente
 > - [[06 - Aproximación de Taylor\|06 - Aproximación de Taylor]] - Expansiones de orden superior
 > - [[07 - Formas Cuadráticas\|07 - Formas Cuadráticas]] - Análisis de convexidad

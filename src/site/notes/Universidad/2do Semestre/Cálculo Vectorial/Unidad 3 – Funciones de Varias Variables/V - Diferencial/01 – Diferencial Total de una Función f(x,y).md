@@ -1033,6 +1033,7 @@
 > 
 > Valor real: $(2.01)^2 + (2.98)^2 = 4.0401 + 8.8804 = 12.9205$ ✓
 >
+
 > [!success] 🔑 Respuestas Ejercicios Intermedios
 > 
 > **4a)** Área del triángulo: $A = \frac{1}{2}bh$
@@ -1160,9 +1161,9 @@
 > 
 > **Este tema es fundamental para:**
 > 
-> - **[[08 - Derivadas Parciales]]** - El diferencial total usa derivadas parciales
-> - **[[09 - Diferenciabilidad]]** - Concepto central de diferenciabilidad
-> - **[[10 - Regla de la Cadena]]** - Se expresa elegantemente con diferenciales
+> - **[[Derivadas Parciales]]** - El diferencial total usa derivadas parciales
+> - **[[04 – Diferenciabilidad]]** - Concepto central de diferenciabilidad
+> - **[[02 - Regla de la Cadena]]** - Se expresa elegantemente con diferenciales
 > - **[[11 - Gradiente]]** - $df = \nabla f \cdot d\vec{r}$
 > - **[[15 - Optimización]]** - Condición $df = 0$ para extremos
 > - **[[20 - Integrales de Línea]]** - Diferenciales exactos e inexactos
@@ -1176,8 +1177,8 @@
 > 
 > **Temas previos necesarios:**
 > 
-> - [[01 - Funciones de Varias Variables]]
-> - [[02 - Continuidad]]
+> - [[01 – Límite de Funciones de Varias Variables]]
+> - [[02 – Continuidad]]
 > - [[07 - Límites en Varias Variables]]
 
 ---

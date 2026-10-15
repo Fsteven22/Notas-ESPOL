@@ -1064,7 +1064,7 @@
 > 
 > ### Siguiente tema:
 > 
-> **[[15 - Derivadas Implícitas\|15 - Derivadas Implícitas]]** - Extensión natural usando la regla de la cadena
+> **[[Universidad/2do Semestre/Cálculo Vectorial/Unidad 3 – Funciones de Varias Variables/IV - Derivadas Direccionales/03 – Derivadas Implícitas\|03 – Derivadas Implícitas]]** - Extensión natural usando la regla de la cadena
 
 ---
 

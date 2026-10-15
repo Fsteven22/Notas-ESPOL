@@ -927,9 +927,9 @@
 > [!quote] Enlaces Conceptuales **Fundamentos previos:**
 > 
 > - [[01 - Vectores en espacios vectoriales\|01 - Vectores en espacios vectoriales]] - Estructura de espacios
-> - [[05 - Combinaciones lineales\|05 - Combinaciones lineales]] - Generación de subespacios
+> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/II – Subespacios y Generación/02 – Combinación lineal\|02 – Combinación lineal]] - Generación de subespacios
 > - [[06 - Independencia lineal\|06 - Independencia lineal]] - Bases
-> - [[08 - Subespacios vectoriales\|08 - Subespacios vectoriales]] - Teoría de subespacios
+> - [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/II – Subespacios y Generación/01 - Subespacios Vectoriales\|01 - Subespacios Vectoriales]] - Teoría de subespacios
 > - [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/IV – Transformaciones Lineales/01 – Transformaciones lineales\|01 – Transformaciones lineales]] - Definición de T
 > 
 > **Temas directamente relacionados:**
@@ -937,7 +937,7 @@
 > - [[Universidad/2do Semestre/Algebra Lineal/Unidad 2 - Espacios Vectoriales/II – Subespacios y Generación/05 – Espacio columna\|05 – Espacio columna]] - Im(T) = Col(A)
 > - [[17 - Espacio nulo\|17 - Espacio nulo]] - Ker(T) = Nul(A)
 > - [[20 - Rango y nulidad\|20 - Rango y nulidad]] - Teorema fundamental
-> - [[21 - Sistemas de ecuaciones lineales\|21 - Sistemas de ecuaciones lineales]] - Solubilidad
+> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/05 - Sistemas de ecuaciones lineales\|05 - Sistemas de ecuaciones lineales]] - Solubilidad
 > 
 > **Aplicaciones posteriores:**
 > 
