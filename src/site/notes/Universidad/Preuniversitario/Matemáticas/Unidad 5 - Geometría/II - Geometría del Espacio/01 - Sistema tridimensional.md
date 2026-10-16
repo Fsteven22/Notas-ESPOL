@@ -20,7 +20,7 @@
 >     style D fill:#e1f5ff
 > ```
 
-![U5-3d.png](/img/user/Universidad/Figuras/U5-3d.png)
+![[U5-3d.png]]
 
 > [!tip] 💡 Visual — distancia en 3D
 >
@@ -165,10 +165,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/01 - Figuras geométricas en el plano\|01 - Figuras geométricas en el plano]] — distancia 2D como base.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/II - Geometría del Espacio/02 - Poliedros\|02 - Poliedros]] — siguiente: sólidos con vértices 3D.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/03 - Operaciones binarias\|03 - Operaciones binarias]] — $\mathbb{R}^3$ como espacio vectorial.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/III - Geometría Analítica/01 - Puntos y rectas\|01 - Puntos y rectas]] — rectas y planos analíticos.
+> - [[01 - Figuras geométricas en el plano]] — distancia 2D como base.
+> - [[02 - Poliedros]] — siguiente: sólidos con vértices 3D.
+> - [[03 - Operaciones binarias]] — $\mathbb{R}^3$ como espacio vectorial.
+> - [[01 - Puntos y rectas]] — rectas y planos analíticos.
 
 ---
 

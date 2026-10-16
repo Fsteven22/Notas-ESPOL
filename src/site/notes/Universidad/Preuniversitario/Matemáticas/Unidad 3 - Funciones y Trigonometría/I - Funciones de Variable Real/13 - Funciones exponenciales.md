@@ -16,12 +16,11 @@
 >     A["a x<br/>crece"] --> B["Inversa<br/>reflejo y=x"]
 >     B --> C["log x<br/>lento"]
 >     C --> D["Producto<br/>suma"]
->
 >     style B fill:#e1ffe1
 >     style D fill:#e1f5ff
 > ```
 
-![U3-1314-explog.png](/img/user/Universidad/Figuras/U3-1314-explog.png)
+![[U3-1314-explog.png]]
 
 > [!tip] 💡 Visual — Reflejos en $y=x$
 >
@@ -164,10 +163,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/10 - Función inversa de una función biyectiva\|10 - Función inversa de una función biyectiva]] — $\ln$ como inversa.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/10 - Ecuaciones\|10 - Ecuaciones]] — exponenciales como ecuaciones.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/06 - Funciones Especiales\|06 - Funciones Especiales]] — $\sigma$ usa $e^{-x}$.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/11 - Inecuaciones\|11 - Inecuaciones]] — dominios con desigualdades.
+> - [[10 - Función inversa de una función biyectiva]] — $\ln$ como inversa.
+> - [[10 - Ecuaciones]] — exponenciales como ecuaciones.
+> - [[06 - Funciones Especiales]] — $\sigma$ usa $e^{-x}$.
+> - [[11 - Inecuaciones]] — dominios con desigualdades.
 
 ---
 

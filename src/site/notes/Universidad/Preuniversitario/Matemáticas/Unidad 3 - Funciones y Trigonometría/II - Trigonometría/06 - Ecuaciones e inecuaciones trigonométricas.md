@@ -16,7 +16,6 @@
 >     A["Referencia<br/>cuadrantes"] --> B["Base<br/>[0,2pi)"]
 >     B --> C["General<br/>+2kpi"]
 >     C --> D["Verifica<br/>extrañas"]
->
 >     style B fill:#e1ffe1
 >     style D fill:#e1f5ff
 > ```
@@ -159,10 +158,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/II - Trigonometría/02 - Funciones trigonométricas elementales\|02 - Funciones trigonométricas elementales]] — base: valores.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/II - Trigonometría/05 - Identidades trigonométricas\|05 - Identidades trigonométricas]] — factoriza con doble.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/13 - Funciones exponenciales\|13 - Funciones exponenciales]] — inecuaciones análogas.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/II - Trigonometría/04 - Funciones trigonométricas inversas\|04 - Funciones trigonométricas inversas]] — ángulo principal.
+> - [[02 - Funciones trigonométricas elementales]] — base: valores.
+> - [[05 - Identidades trigonométricas]] — factoriza con doble.
+> - [[13 - Funciones exponenciales]] — inecuaciones análogas.
+> - [[04 - Funciones trigonométricas inversas]] — ángulo principal.
 
 ---
 

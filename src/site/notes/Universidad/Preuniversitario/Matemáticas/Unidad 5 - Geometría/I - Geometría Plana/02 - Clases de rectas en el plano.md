@@ -18,12 +18,11 @@
 >     B -->|Sí| D{"b1 = b2?"}
 >     D -->|Sí| E["Coincidentes"]
 >     D -->|No| F["Paralelas"]
->
 >     style C fill:#e1ffe1
 >     style F fill:#e1f5ff
 > ```
 
-![U5-rectas.png](/img/user/Universidad/Figuras/U5-rectas.png)
+![[U5-rectas.png]]
 
 > [!tip] 💡 Visual — tres relaciones
 >
@@ -172,10 +171,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/01 - Figuras geométricas en el plano\|01 - Figuras geométricas en el plano]] — rectas como figuras base.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/05 - Función lineal\|05 - Función lineal]] — $y=mx+b$ como función.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/III - Geometría Analítica/01 - Puntos y rectas\|01 - Puntos y rectas]] — recta en forma vectorial y paramétrica.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/05 - Sistemas de ecuaciones lineales\|05 - Sistemas de ecuaciones lineales]] — intersección como sistema $2\times2$.
+> - [[01 - Figuras geométricas en el plano]] — rectas como figuras base.
+> - [[05 - Función lineal]] — $y=mx+b$ como función.
+> - [[01 - Puntos y rectas]] — recta en forma vectorial y paramétrica.
+> - [[05 - Sistemas de ecuaciones lineales]] — intersección como sistema $2\times2$.
 
 ---
 

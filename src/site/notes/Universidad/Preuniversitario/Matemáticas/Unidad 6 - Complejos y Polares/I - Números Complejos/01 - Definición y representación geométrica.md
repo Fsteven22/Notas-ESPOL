@@ -20,7 +20,7 @@
 >     style D fill:#e1f5ff
 > ```
 
-![U6-argand.png](/img/user/Universidad/Figuras/U6-argand.png)
+![[U6-argand.png]]
 
 > [!tip] 💡 Visual — $z=3+2i$
 >
@@ -163,10 +163,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 6 - Complejos y Polares/I - Números Complejos/02 - Operaciones\|02 - Operaciones]] — producto, cociente y potencias a fondo.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/10 - Ecuaciones\|10 - Ecuaciones]] — cuadráticas con discriminante negativo.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 6 - Complejos y Polares/II - Coordenadas Polares/02 - Coordenadas polares\|02 - Coordenadas polares]] — $r,\theta$ como coordenadas.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/II - Trigonometría/05 - Identidades trigonométricas\|05 - Identidades trigonométricas]] — forma polar y De Moivre.
+> - [[02 - Operaciones]] — producto, cociente y potencias a fondo.
+> - [[10 - Ecuaciones]] — cuadráticas con discriminante negativo.
+> - [[02 - Coordenadas polares]] — $r,\theta$ como coordenadas.
+> - [[05 - Identidades trigonométricas]] — forma polar y De Moivre.
 
 ---
 

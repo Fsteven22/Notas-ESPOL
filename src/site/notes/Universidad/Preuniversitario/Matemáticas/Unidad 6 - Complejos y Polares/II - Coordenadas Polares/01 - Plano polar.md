@@ -20,7 +20,7 @@
 >     style D fill:#e1f5ff
 > ```
 
-![U6-polar.png](/img/user/Universidad/Figuras/U6-polar.png)
+![[U6-polar.png]]
 
 > [!tip] 💡 Visual — Cuatro puntos
 >
@@ -163,10 +163,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 6 - Complejos y Polares/II - Coordenadas Polares/02 - Coordenadas polares\|02 - Coordenadas polares]] — conversiones a fondo.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 6 - Complejos y Polares/II - Coordenadas Polares/03 - Graficación en coordenadas polares\|03 - Graficación en coordenadas polares]] — trazado de curvas.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 6 - Complejos y Polares/I - Números Complejos/01 - Definición y representación geométrica\|01 - Definición y representación geométrica]] — Argand vs polar.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/II - Trigonometría/01 - Ángulos y sus medidas\|01 - Ángulos y sus medidas]] — radianes y sentido de giro.
+> - [[02 - Coordenadas polares]] — conversiones a fondo.
+> - [[03 - Graficación en coordenadas polares]] — trazado de curvas.
+> - [[01 - Definición y representación geométrica]] — Argand vs polar.
+> - [[01 - Ángulos y sus medidas]] — radianes y sentido de giro.
 
 ---
 

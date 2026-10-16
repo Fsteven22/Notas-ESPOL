@@ -16,7 +16,6 @@
 >     A["Punto x<br/>¿qué tramo?"] --> B["Evalúa<br/>regla local"]
 >     B --> C["Frontera<br/>límites lat"]
 >     C --> D["Continua<br/>si coinciden"]
->
 >     style B fill:#e1ffe1
 >     style D fill:#e1f5ff
 > ```
@@ -159,10 +158,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/01 - Definición, dominio y rango\|01 - Definición, dominio y rango]] — base: dominio y rango.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/06 - Funciones Especiales\|06 - Funciones Especiales]] — $|x|$, $\text{sgn}$, piso.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/02 - Representación gráfica\|02 - Representación gráfica]] — ○/● y saltos.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/09 - Valor Absoluto\|09 - Valor Absoluto]] — ecuaciones con $|x|$.
+> - [[01 - Definición, dominio y rango]] — base: dominio y rango.
+> - [[06 - Funciones Especiales]] — $|x|$, $\text{sgn}$, piso.
+> - [[02 - Representación gráfica]] — ○/● y saltos.
+> - [[09 - Valor Absoluto]] — ecuaciones con $|x|$.
 
 ---
 

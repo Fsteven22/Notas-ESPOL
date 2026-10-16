@@ -28,9 +28,9 @@
 > 
 > | # | Nota | Tema principal |
 > |---|---|---|
-> | 01 | [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 1 - El proceso de la comunicación/01 - El proceso y las funciones de la comunicación\|01 - El proceso y las funciones de la comunicación]] | Definición, elementos del circuito y funciones de Jakobson |
-> | 02 | [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 1 - El proceso de la comunicación/02 - Propiedades de la redacción y textos académicos\|02 - Propiedades de la redacción y textos académicos]] | Adecuación, coherencia, cohesión, formatos y normas APA/IEEE |
-> | 03 | [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 1 - El proceso de la comunicación/03 - Errores comunes, acentuación y puntuación\|03 - Errores comunes, acentuación y puntuación]] | Discordancias, verbosidad, tildes y puntuación |
+> | 01 | [[01 - El proceso y las funciones de la comunicación]] | Definición, elementos del circuito y funciones de Jakobson |
+> | 02 | [[02 - Propiedades de la redacción y textos académicos]] | Adecuación, coherencia, cohesión, formatos y normas APA/IEEE |
+> | 03 | [[03 - Errores comunes, acentuación y puntuación]] | Discordancias, verbosidad, tildes y puntuación |
 
 ---
 
@@ -49,9 +49,9 @@
 > [!note] ☑️ Marca cada lectura y ejercicio conforme los completes
 > 
 > **Lecturas:**
-> - [ ] [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 1 - El proceso de la comunicación/01 - El proceso y las funciones de la comunicación\|01 - Proceso y funciones]]
-> - [ ] [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 1 - El proceso de la comunicación/02 - Propiedades de la redacción y textos académicos\|02 - Redacción y textos académicos]]
-> - [ ] [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 1 - El proceso de la comunicación/03 - Errores comunes, acentuación y puntuación\|03 - Errores y normativa]]
+> - [ ] [[01 - El proceso y las funciones de la comunicación|01 - Proceso y funciones]]
+> - [ ] [[02 - Propiedades de la redacción y textos académicos|02 - Redacción y textos académicos]]
+> - [ ] [[03 - Errores comunes, acentuación y puntuación|03 - Errores y normativa]]
 > 
 > **Ejercicios formativos:**
 > - [ ] Ejercicio 02.1 — Identificar elementos
@@ -70,8 +70,8 @@
 ---
 
 > [!quote] 🔗 Conexiones
-> - Anterior: [[Universidad/Preuniversitario/MOOC de Comunicación/Bienvenida Comunicación Efectiva\|Bienvenida Comunicación Efectiva]]
-> - Siguiente: [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 1 - El proceso de la comunicación/01 - El proceso y las funciones de la comunicación\|01 - El proceso y las funciones de la comunicación]]
+> - Anterior: [[Bienvenida Comunicación Efectiva]]
+> - Siguiente: [[01 - El proceso y las funciones de la comunicación]]
 
 ---
 

@@ -16,7 +16,6 @@
 >     A["P/Q<br/>ceros"] --> B["Verticales<br/>Q=0"]
 >     B --> C["Horiz<br/>grados"]
 >     C --> D["Signo<br/>tabla"]
->
 >     style B fill:#e1ffe1
 >     style D fill:#e1f5ff
 > ```
@@ -158,10 +157,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/11 - Funciones polinomiales\|11 - Funciones polinomiales]] — $P$ y $Q$ como base.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/11 - Inecuaciones\|11 - Inecuaciones]] — tablas de signos.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/02 - Representación gráfica\|02 - Representación gráfica]] — huecos y oblicuas.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/10 - Función inversa de una función biyectiva\|10 - Función inversa de una función biyectiva]] — inversa racional.
+> - [[11 - Funciones polinomiales]] — $P$ y $Q$ como base.
+> - [[11 - Inecuaciones]] — tablas de signos.
+> - [[02 - Representación gráfica]] — huecos y oblicuas.
+> - [[10 - Función inversa de una función biyectiva]] — inversa racional.
 
 ---
 

@@ -16,7 +16,6 @@
 >     A["x<br/>entrada"] --> B["f<br/>biyectiva"]
 >     B --> C["y<br/>salida"]
 >     C --> D["f-1<br/>deshace"]
->
 >     style B fill:#e1ffe1
 >     style D fill:#e1f5ff
 > ```
@@ -160,10 +159,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/04 - Tipos de funciones\|04 - Tipos de funciones]] — biyectividad base.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/09 - Operaciones con funciones de variable real\|09 - Operaciones con funciones de variable real]] — $(f\circ g)^{-1}$.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/II - Trigonometría/04 - Funciones trigonométricas inversas\|04 - Funciones trigonométricas inversas]] — $\arcsin$ restringido.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/13 - Funciones exponenciales\|13 - Funciones exponenciales]] — inversa de $e^x$.
+> - [[04 - Tipos de funciones]] — biyectividad base.
+> - [[09 - Operaciones con funciones de variable real]] — $(f\circ g)^{-1}$.
+> - [[04 - Funciones trigonométricas inversas]] — $\arcsin$ restringido.
+> - [[13 - Funciones exponenciales]] — inversa de $e^x$.
 
 ---
 

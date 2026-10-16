@@ -20,13 +20,13 @@
 >     style D fill:#e1f5ff
 > ```
 
-![U6-rectapolar.png](/img/user/Universidad/Figuras/U6-rectapolar.png)
+![[U6-rectapolar.png]]
 
 > [!tip] 💡 Visual — $x+y=4$
 >
 > Normal $(2\sqrt2,\pi/4)$ con punto cercano $(2,2)$: la forma normal lo dice sin despejar. Los círculos $r=2a\cos\theta$ son la misma idea (diámetro sobre el eje).
 
-![U6-circpolar.png](/img/user/Universidad/Figuras/U6-circpolar.png)
+![[U6-circpolar.png]]
 
 > [!tip] 💡 Visual — Círculos por el polo
 >
@@ -170,10 +170,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/III - Geometría Analítica/01 - Puntos y rectas\|01 - Puntos y rectas]] — rectas cartesianas base.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/III - Geometría Analítica/02 - Circunferencia\|02 - Circunferencia]] — círculos cartesianos.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 6 - Complejos y Polares/II - Coordenadas Polares/01 - Plano polar\|01 - Plano polar]] — ubicar puntos.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 6 - Complejos y Polares/II - Coordenadas Polares/10 - Secciones cónicas en coordenadas polares\|10 - Secciones cónicas en coordenadas polares]] — cónicas $r=ed/(1+e\cos\theta)$.
+> - [[01 - Puntos y rectas]] — rectas cartesianas base.
+> - [[02 - Circunferencia]] — círculos cartesianos.
+> - [[01 - Plano polar]] — ubicar puntos.
+> - [[10 - Secciones cónicas en coordenadas polares]] — cónicas $r=ed/(1+e\cos\theta)$.
 
 ---
 

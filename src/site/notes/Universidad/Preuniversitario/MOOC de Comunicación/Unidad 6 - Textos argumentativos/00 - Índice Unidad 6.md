@@ -26,9 +26,9 @@
 >
 > | # | Nota | Contenido principal |
 > |---|---|---|
-> | 01 | [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 6 - Textos argumentativos/01 - El texto argumentativo (concepto, ámbitos y estructura)\|01 - El texto argumentativo (concepto, ámbitos y estructura)]] | Definición, tipología por ámbito, estructura tripartita, caso de estudio |
-> | 02 | [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 6 - Textos argumentativos/02 - Formulación y validación de la tesis\|02 - Formulación y validación de la tesis]] | Los 5 filtros de validez de la tesis, marcadores de opinión |
-> | 03 | [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 6 - Textos argumentativos/03 - Análisis y desmontaje de textos argumentativos\|03 - Análisis y desmontaje de textos argumentativos]] | Metodología para diseccionar argumentos y detectar falacias/sesgos |
+> | 01 | [[01 - El texto argumentativo (concepto, ámbitos y estructura)]] | Definición, tipología por ámbito, estructura tripartita, caso de estudio |
+> | 02 | [[02 - Formulación y validación de la tesis]] | Los 5 filtros de validez de la tesis, marcadores de opinión |
+> | 03 | [[03 - Análisis y desmontaje de textos argumentativos]] | Metodología para diseccionar argumentos y detectar falacias/sesgos |
 
 ---
 
@@ -46,10 +46,11 @@
 
 > [!note] 📋 Notas temáticas
 >
-> - [ ] [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 6 - Textos argumentativos/01 - El texto argumentativo (concepto, ámbitos y estructura)\|01 - El texto argumentativo (concepto, ámbitos y estructura)]]
-> - [ ] [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 6 - Textos argumentativos/02 - Formulación y validación de la tesis\|02 - Formulación y validación de la tesis]]
-> - [ ] [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 6 - Textos argumentativos/03 - Análisis y desmontaje de textos argumentativos\|03 - Análisis y desmontaje de textos argumentativos]]
+> - [ ] [[01 - El texto argumentativo (concepto, ámbitos y estructura)]]
+> - [ ] [[02 - Formulación y validación de la tesis]]
+> - [ ] [[03 - Análisis y desmontaje de textos argumentativos]]
 >
+
 > [!note] 📋 Ejercicios formativos (12 en total)
 >
 > **Nota 01 — El texto argumentativo:**
@@ -74,8 +75,8 @@
 
 > [!quote] 🔗 Conexiones
 >
-> - Anterior: [[Universidad/Preuniversitario/Comunicación Efectiva/Unidad 5 - Textos expositivos/00 - Índice Unidad 5\|00 - Índice Unidad 5]]
-> - Siguiente: [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 6 - Textos argumentativos/01 - El texto argumentativo (concepto, ámbitos y estructura)\|01 - El texto argumentativo (concepto, ámbitos y estructura)]]
+> - Anterior: [[Universidad/Preuniversitario/Comunicación Efectiva/Unidad 5 - Textos expositivos/00 - Índice Unidad 5|00 - Índice Unidad 5]]
+> - Siguiente: [[01 - El texto argumentativo (concepto, ámbitos y estructura)]]
 
 ---
 

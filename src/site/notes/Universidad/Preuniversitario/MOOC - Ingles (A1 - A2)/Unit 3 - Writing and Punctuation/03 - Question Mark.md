@@ -111,6 +111,7 @@
 > • Is it blue or green?
 > ```
 >
+
 > [!example] Direct Question Examples
 > 
 > **Simple present questions:**
@@ -216,6 +217,7 @@
 > • He hasn't finished, has he?
 > ```
 >
+
 > [!example] Tag Question Examples
 > 
 > **Positive → Negative:**
@@ -302,6 +304,7 @@
 > ✓ I wonder why he said that.
 > ```
 >
+
 > [!example] Indirect Question Examples
 > 
 > **Common mistakes (incorrect question marks):**
@@ -379,6 +382,7 @@
 > • "Why does this always happen to me?"
 > ```
 >
+
 > [!example] Rhetorical Question Examples
 > 
 > **Classic rhetorical questions:**
@@ -577,6 +581,7 @@
 > 30. Who called last night?
 > ```
 >
+
 > [!example] Exercise 2: Correct the Errors
 > 
 > **Instructions:** Find and fix the question mark error in each sentence.
@@ -609,6 +614,7 @@
 > 50. I don't know when they will arrive. (indirect - period)
 > ```
 >
+
 > [!example] Exercise 3: Tag Questions
 > 
 > **Instructions:** Complete each tag question correctly.
@@ -641,6 +647,7 @@
 > 70. You can help me, can't you?
 > ```
 >
+
 > [!example] Exercise 4: Direct vs. Indirect Questions
 > 
 > **Instructions:** Convert each direct question to an indirect question.
@@ -797,7 +804,7 @@
 > 
 > **Related punctuation marks:**
 > 
-> **[[Period (.)\|Period (.)]]**
+> **[[02 - Period]]**
 > 
 > ```
 > Conexión: Periods end statements; question marks end questions.
@@ -808,7 +815,7 @@
 > • Indirect questions use periods, not question marks
 > ```
 > 
-> **[[Exclamation Mark (!)\|Exclamation Mark (!)]]**
+> **[[04 - Exclamation Mark]]**
 > 
 > ```
 > Conexión: Both show emotion, but different types.
@@ -821,7 +828,7 @@
 > 
 > **Grammar connections:**
 > 
-> **[[Question Words (WH-words)\|Question Words (WH-words)]]**
+> **[[Question Words (WH-words)]]**
 > 
 > ```
 > • What, Where, When, Why, Who, How
@@ -829,7 +836,7 @@
 > • Learn question word order for correct structure
 > ```
 > 
-> **[[Auxiliary Verbs\|Auxiliary Verbs]]**
+> **[[Auxiliary Verbs]]**
 > 
 > ```
 > • Do/Does/Did, Am/Is/Are, Have/Has, Can/Will/Should
@@ -837,7 +844,7 @@
 > • Position: Auxiliary + Subject + Main Verb
 > ```
 > 
-> **[[Reported Speech\|Reported Speech]]**
+> **[[Reported Speech]]**
 > 
 > ```
 > • How questions change to indirect form

@@ -20,7 +20,7 @@
 >     style D fill:#e1f5ff
 > ```
 
-![U5-solidos.png](/img/user/Universidad/Figuras/U5-solidos.png)
+![[U5-solidos.png]]
 
 > [!tip] 💡 Visual — Familia de sólidos
 >
@@ -164,10 +164,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/II - Geometría del Espacio/01 - Sistema tridimensional\|01 - Sistema tridimensional]] — base: coordenadas 3D.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/II - Geometría del Espacio/04 - Poliedros y cuerpos redondos\|04 - Poliedros y cuerpos redondos]] — siguiente: mixtos y aplicaciones.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/07 - Perímetro y área de un polígono\|07 - Perímetro y área de un polígono]] — bases poligonales.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/10 - Figuras circulares\|10 - Figuras circulares]] — círculos que generan.
+> - [[01 - Sistema tridimensional]] — base: coordenadas 3D.
+> - [[04 - Poliedros y cuerpos redondos]] — siguiente: mixtos y aplicaciones.
+> - [[07 - Perímetro y área de un polígono]] — bases poligonales.
+> - [[10 - Figuras circulares]] — círculos que generan.
 
 ---
 

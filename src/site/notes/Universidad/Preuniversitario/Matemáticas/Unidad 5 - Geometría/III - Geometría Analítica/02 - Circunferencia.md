@@ -53,7 +53,7 @@
 >
 > **Potencia:** $Pot(P)=d^2-r^2$ ($>0$ exterior, $=0$ sobre, $<0$ interior).
 
-![U5-tangente.png](/img/user/Universidad/Figuras/U5-tangente.png)
+![[U5-tangente.png]]
 
 ---
 
@@ -175,10 +175,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/08 - Circunferencia y círculo\|08 - Circunferencia y círculo]] — arco, sector y tangentes sintéticas.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/III - Geometría Analítica/01 - Puntos y rectas\|01 - Puntos y rectas]] — distancias y rectas usadas aquí.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/III - Geometría Analítica/03 - Parábola\|03 - Parábola]] — siguiente cónica: vértice y foco.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/09 - Polígonos y circunferencia\|09 - Polígonos y circunferencia]] — Ptolomeo y ciclicidad.
+> - [[08 - Circunferencia y círculo]] — arco, sector y tangentes sintéticas.
+> - [[01 - Puntos y rectas]] — distancias y rectas usadas aquí.
+> - [[03 - Parábola]] — siguiente cónica: vértice y foco.
+> - [[09 - Polígonos y circunferencia]] — Ptolomeo y ciclicidad.
 
 ---
 

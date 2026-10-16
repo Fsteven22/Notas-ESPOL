@@ -166,10 +166,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/02 - Clases de rectas en el plano\|02 - Clases de rectas en el plano]] — posiciones relativas sintéticas.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/05 - Función lineal\|05 - Función lineal]] — $y=mx+b$ como función.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/III - Geometría Analítica/02 - Circunferencia\|02 - Circunferencia]] — siguiente: distancia al centro.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/05 - Sistemas de ecuaciones lineales\|05 - Sistemas de ecuaciones lineales]] — intersección como sistema.
+> - [[02 - Clases de rectas en el plano]] — posiciones relativas sintéticas.
+> - [[05 - Función lineal]] — $y=mx+b$ como función.
+> - [[02 - Circunferencia]] — siguiente: distancia al centro.
+> - [[05 - Sistemas de ecuaciones lineales]] — intersección como sistema.
 
 ---
 

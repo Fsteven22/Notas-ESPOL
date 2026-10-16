@@ -20,7 +20,7 @@
 >     style D fill:#e1f5ff
 > ```
 
-![U6-espirales.png](/img/user/Universidad/Figuras/U6-espirales.png)
+![[U6-espirales.png]]
 
 > [!tip] 💡 Visual — Tres espirales
 >
@@ -163,10 +163,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 6 - Complejos y Polares/II - Coordenadas Polares/03 - Graficación en coordenadas polares\|03 - Graficación en coordenadas polares]] — técnicas de trazado.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 6 - Complejos y Polares/II - Coordenadas Polares/02 - Coordenadas polares\|02 - Coordenadas polares]] — áreas con $\frac12\int r^2$.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/13 - Funciones exponenciales\|13 - Funciones exponenciales]] — $e^{b\theta}$ base.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 6 - Complejos y Polares/II - Coordenadas Polares/10 - Secciones cónicas en coordenadas polares\|10 - Secciones cónicas en coordenadas polares]] — siguiente: cónicas $r=ed/(1+e\cos\theta)$.
+> - [[03 - Graficación en coordenadas polares]] — técnicas de trazado.
+> - [[02 - Coordenadas polares]] — áreas con $\frac12\int r^2$.
+> - [[13 - Funciones exponenciales]] — $e^{b\theta}$ base.
+> - [[10 - Secciones cónicas en coordenadas polares]] — siguiente: cónicas $r=ed/(1+e\cos\theta)$.
 
 ---
 

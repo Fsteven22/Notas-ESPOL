@@ -20,7 +20,7 @@
 >     style D fill:#e1f5ff
 > ```
 
-![U6-conicaspolar.png](/img/user/Universidad/Figuras/U6-conicaspolar.png)
+![[U6-conicaspolar.png]]
 
 > [!tip] 💡 Visual — Misma $\ell$, distinto $e$
 >
@@ -163,10 +163,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/III - Geometría Analítica/04 - Elipse\|04 - Elipse]] — elipse cartesiana base.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 6 - Complejos y Polares/II - Coordenadas Polares/02 - Coordenadas polares\|02 - Coordenadas polares]] — conversión general.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 6 - Complejos y Polares/II - Coordenadas Polares/09 - Espirales en coordenadas polares\|09 - Espirales en coordenadas polares]] — curvas no cerradas.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 6 - Complejos y Polares/II - Coordenadas Polares/04 - Rectas en coordenadas polares\|04 - Rectas en coordenadas polares]] — la directriz como recta.
+> - [[04 - Elipse]] — elipse cartesiana base.
+> - [[02 - Coordenadas polares]] — conversión general.
+> - [[09 - Espirales en coordenadas polares]] — curvas no cerradas.
+> - [[04 - Rectas en coordenadas polares]] — la directriz como recta.
 
 ---
 

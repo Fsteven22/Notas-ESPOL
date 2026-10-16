@@ -18,7 +18,6 @@
 >     C --> D{"r = n?"}
 >     D -->|Sí| E["Invertible"]
 >     D -->|No| F["Singular"]
->
 >     style C fill:#e1ffe1
 >     style F fill:#ffe1e1
 > ```
@@ -165,10 +164,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/05 - Sistemas de ecuaciones lineales\|05 - Sistemas de ecuaciones lineales]] — Rouché-Frobenius usa $r(A)$ y $r(A|b)$.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/06 - Matriz Inversa\|06 - Matriz Inversa]] — $r=n\iff A^{-1}$ existe.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/04 - Determinantes\|04 - Determinantes]] — $\det\neq0\iff r=n$ en cuadradas.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/01 - Definición y clases de matrices\|01 - Definición y clases de matrices]] — filas y columnas como vectores.
+> - [[05 - Sistemas de ecuaciones lineales]] — Rouché-Frobenius usa $r(A)$ y $r(A|b)$.
+> - [[06 - Matriz Inversa]] — $r=n\iff A^{-1}$ existe.
+> - [[04 - Determinantes]] — $\det\neq0\iff r=n$ en cuadradas.
+> - [[01 - Definición y clases de matrices]] — filas y columnas como vectores.
 
 ---
 

@@ -16,7 +16,6 @@
 >     A["Restringe<br/>dominio"] --> B["Invierte<br/>arcsin"]
 >     B --> C["Rango<br/>principal"]
 >     C --> D["Reduce<br/>al rango"]
->
 >     style B fill:#e1ffe1
 >     style D fill:#e1f5ff
 > ```
@@ -157,10 +156,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/10 - Función inversa de una función biyectiva\|10 - Función inversa de una función biyectiva]] — inversas generales.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/II - Trigonometría/02 - Funciones trigonométricas elementales\|02 - Funciones trigonométricas elementales]] — base: valores.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/II - Trigonometría/06 - Ecuaciones e inecuaciones trigonométricas\|06 - Ecuaciones e inecuaciones trigonométricas]] — siguiente: ecuaciones.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/04 - Tipos de funciones\|04 - Tipos de funciones]] — biyectividad para invertir.
+> - [[10 - Función inversa de una función biyectiva]] — inversas generales.
+> - [[02 - Funciones trigonométricas elementales]] — base: valores.
+> - [[06 - Ecuaciones e inecuaciones trigonométricas]] — siguiente: ecuaciones.
+> - [[04 - Tipos de funciones]] — biyectividad para invertir.
 
 ---
 

@@ -20,7 +20,7 @@
 >     style D fill:#e1f5ff
 > ```
 
-![U5-hiperbola.png](/img/user/Universidad/Figuras/U5-hiperbola.png)
+![[U5-hiperbola.png]]
 
 > [!tip] 💡 Visual — $x^2/4-y^2/4=1$
 >
@@ -163,10 +163,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/III - Geometría Analítica/04 - Elipse\|04 - Elipse]] — suma constante ($c^2=a^2-b^2$).
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/III - Geometría Analítica/03 - Parábola\|03 - Parábola]] — $e=1$, caso límite.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/08 - Circunferencia y círculo\|08 - Circunferencia y círculo]] — arco y tangentes sintéticas.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/II - Sistemas de Ecuaciones e Inecuaciones Avanzados/01 - Sistemas de ecuaciones no lineales\|01 - Sistemas de ecuaciones no lineales]] — intersecciones cónicas.
+> - [[04 - Elipse]] — suma constante ($c^2=a^2-b^2$).
+> - [[03 - Parábola]] — $e=1$, caso límite.
+> - [[08 - Circunferencia y círculo]] — arco y tangentes sintéticas.
+> - [[01 - Sistemas de ecuaciones no lineales]] — intersecciones cónicas.
 
 ---
 

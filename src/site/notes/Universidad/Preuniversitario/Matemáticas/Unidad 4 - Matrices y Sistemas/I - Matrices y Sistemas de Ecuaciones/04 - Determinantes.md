@@ -17,7 +17,6 @@
 >     B --> C{"det = 0?"}
 >     C -->|Sí| D["Singular<br/>sin inversa"]
 >     C -->|No| E["Regular<br/>existe A-1"]
->
 >     style A fill:#fff4e1
 >     style C fill:#e1ffe1
 >     style E fill:#e1f5ff
@@ -184,10 +183,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/03 - Matrices relevantes\|03 - Matrices relevantes]] — triangulares y diagonales, donde el determinante es inmediato.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/06 - Matriz Inversa\|06 - Matriz Inversa]] — $\det\neq0$ como condición y $A^{-1}=\text{adj}(A)/\det(A)$.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/05 - Sistemas de ecuaciones lineales\|05 - Sistemas de ecuaciones lineales]] — Cramer y criterio de solución única.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/02 - Operaciones con matrices\|02 - Operaciones con matrices]] — $\det(AB)$ conecta producto con determinante.
+> - [[03 - Matrices relevantes]] — triangulares y diagonales, donde el determinante es inmediato.
+> - [[06 - Matriz Inversa]] — $\det\neq0$ como condición y $A^{-1}=\text{adj}(A)/\det(A)$.
+> - [[05 - Sistemas de ecuaciones lineales]] — Cramer y criterio de solución única.
+> - [[02 - Operaciones con matrices]] — $\det(AB)$ conecta producto con determinante.
 
 ---
 

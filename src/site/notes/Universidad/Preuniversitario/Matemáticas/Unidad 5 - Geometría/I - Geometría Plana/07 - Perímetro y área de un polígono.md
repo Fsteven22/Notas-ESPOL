@@ -17,12 +17,11 @@
 >     B -->|Regular| C["P=na<br/>A=P·ap/2"]
 >     B -->|Vértices| D["Shoelace"]
 >     B -->|Retícula| E["Pick"]
->
 >     style C fill:#e1ffe1
 >     style E fill:#e1f5ff
 > ```
 
-![U5-pick.png](/img/user/Universidad/Figuras/U5-pick.png)
+![[U5-pick.png]]
 
 > [!tip] 💡 Visual — shoelace en acción
 >
@@ -170,10 +169,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/04 - Poligonales y polígonos\|04 - Poligonales y polígonos]] — diagonales y triangulación.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/01 - Figuras geométricas en el plano\|01 - Figuras geométricas en el plano]] — fórmulas base por figura.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/06 - Cuadriláteros\|06 - Cuadriláteros]] — trapecios y Brahmagupta.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/04 - Determinantes\|04 - Determinantes]] — shoelace como determinante.
+> - [[04 - Poligonales y polígonos]] — diagonales y triangulación.
+> - [[01 - Figuras geométricas en el plano]] — fórmulas base por figura.
+> - [[06 - Cuadriláteros]] — trapecios y Brahmagupta.
+> - [[04 - Determinantes]] — shoelace como determinante.
 
 ---
 

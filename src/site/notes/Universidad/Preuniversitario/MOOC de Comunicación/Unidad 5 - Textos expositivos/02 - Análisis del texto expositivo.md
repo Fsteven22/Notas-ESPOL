@@ -30,6 +30,7 @@
 >     G --> H[Verificar - cada apoyo se conecta con la idea central]
 > ```
 >
+
 > [!success]- ✅ Idea central vs. idea de apoyo
 >
 > | Elemento | Función | Cómo reconocerla |
@@ -72,6 +73,7 @@
 > > 5. S — cifra que detalla la central anterior.
 > > 6. S — explicación puntual de apoyo.
 >
+
 > [!example]- Ejercicio 03.2 — Disección de párrafos
 >
 > > **Instrucciones:** Diseca el párrafo: subraya la idea central y enumera las ideas de apoyo.
@@ -94,6 +96,7 @@
 > > 5. Deductiva — la central está al inicio y el resto la desarrolla.
 > > 6. La del turismo de playa: no se conecta con la central de aridez extrema.
 >
+
 > [!example]- Ejercicio 03.3 — Oraciones temáticas
 >
 > > **Instrucciones:** Ubica la oración temática e indica si está al inicio, al final o implícita.
@@ -105,6 +108,7 @@
 > > | 3 | *"El metro abre a las 5:30. Los buses articulados pasan cada 8 minutos. El tranvía conecta con la estación norte."* | Implícita — debe inferirse: *"La ciudad ofrece varias opciones de transporte público matutino"*. |
 > > | 4 | *"El sueño consolida la memoria. Durante el sueño profundo el cerebro repite los patrones aprendidos. Dormir poco reduce el rendimiento en pruebas de memoria."* | Al inicio — estructura deductiva clásica. |
 >
+
 > [!example]- Ejercicio 03.4 — Resumen por ideas centrales
 >
 > > **Instrucciones:** Lee el minitexto de 3 párrafos y elabora el resumen extrayendo solo una idea central por párrafo, en orden.
@@ -135,30 +139,35 @@
 > 2. Indica si la idea central de ese párrafo está al inicio, al final o implícita.
 > 3. Da un ejemplo de una oración que sería una idea de apoyo débil (que no se conecta bien con la idea central).
 >
+
 > [!example]- 🟢 Respuestas — Nivel Básico
 >
 > 1. Idea central: *"El plástico tarda cientos de años en degradarse."* Ideas de apoyo: los ejemplos de la botella y las bolsas.
 > 2. Al inicio (oración temática inicial).
 > 3. Por ejemplo: *"El plástico se inventó en 1907."* — es un dato real, pero no apoya la idea de la degradación, sino el origen del material.
 >
+
 > [!question] 🟡 Ejercicios de refuerzo — Nivel Intermedio
 >
 > 1. Escribe un párrafo expositivo de 4-5 oraciones donde la idea central esté al final (estructura inductiva).
 > 2. Toma un párrafo de una fuente real (artículo, libro de texto) y subraya la idea central; luego enumera cada idea de apoyo por separado.
 > 3. Explica qué problema genera un párrafo que mezcla dos ideas centrales distintas sin separarlas.
 >
+
 > [!example]- 🟡 Respuestas — Nivel Intermedio
 >
 > 1. Respuesta abierta; verifica que las primeras oraciones sean detalles/ejemplos y la última sea la generalización que los resume.
 > 2. Respuesta abierta según la fuente elegida.
 > 3. Mezclar dos ideas centrales en un párrafo dificulta que el lector identifique el resumen del párrafo y rompe la regla de "un párrafo, un tema" — obliga a dividirlo en dos párrafos independientes.
 >
+
 > [!question] 🔴 Ejercicios de refuerzo — Nivel Avanzado
 >
 > 1. Toma un texto expositivo completo (3-4 párrafos) y elabora un resumen extrayendo solo las ideas centrales de cada párrafo, en orden.
 > 2. Compara tu resumen con el texto original: ¿se pierde información esencial? ¿por qué sí o no?
 > 3. Reescribe un párrafo mal estructurado (con la idea central diluida entre varias ideas de apoyo) para que quede clara desde la primera oración.
 >
+
 > [!example]- 🔴 Respuestas — Nivel Avanzado
 >
 > Respuestas abiertas y dependientes del texto elegido. Un buen resumen por ideas centrales debería preservar la lógica del argumento expositivo original sin necesitar los ejemplos o detalles secundarios.
@@ -173,12 +182,14 @@
 > - [ ] Distingo ideas de apoyo de la idea central
 > - [ ] Reconozco si la idea central está al inicio, al final o implícita
 >
+
 > [!note] 🎯 Nivel Intermedio
 >
 > - [ ] Redacto párrafos con estructura deductiva (idea al inicio) e inductiva (idea al final)
 > - [ ] Detecto ideas de apoyo débiles o desconectadas de la idea central
 > - [ ] Aplico la disección de párrafos a textos reales de mi carrera
 >
+
 > [!note] 🎯 Nivel Avanzado
 >
 > - [ ] Elaboro resúmenes fieles extrayendo solo ideas centrales
@@ -227,12 +238,13 @@ mindmap
 >
 > [1] MOOC *Comunicación Efectiva*, Unidad 5 — Textos expositivos, Nota 02: "Análisis del texto expositivo".
 >
+
 > [!quote] 🔗 Conexiones
 >
-> - [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 5 - Textos expositivos/00 - Índice Unidad 5\|Universidad/Preuniversitario/MOOC de Comunicación/Unidad 5 - Textos expositivos/00 - Índice Unidad 5]] — mapa general de la unidad.
-> - [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 5 - Textos expositivos/01 - El texto expositivo (concepto, tipos y estructura)\|01 - El texto expositivo (concepto, tipos y estructura)]] — la disección de párrafos aplica directamente sobre la estructura secuencial descrita en esa nota.
-> - [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 5 - Textos expositivos/03 - Conectores textuales y coherencia lógica\|03 - Conectores textuales y coherencia lógica]] — los conectores son la señal explícita de cómo una idea de apoyo se relaciona con la idea central.
-> - [!info] Conexión cruzada con la Unidad 6: esta técnica de disección es análoga a la metodología de análisis de argumentos en [[Universidad/Preuniversitario/Comunicación Efectiva/Unidad 6 - Textos argumentativos/03 - Análisis y desmontaje de textos argumentativos\|03 - Análisis y desmontaje de textos argumentativos]], pero aquí se buscan ideas centrales/de apoyo en vez de tesis/argumentos.
+> - [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 5 - Textos expositivos/00 - Índice Unidad 5]] — mapa general de la unidad.
+> - [[01 - El texto expositivo (concepto, tipos y estructura)]] — la disección de párrafos aplica directamente sobre la estructura secuencial descrita en esa nota.
+> - [[03 - Conectores textuales y coherencia lógica]] — los conectores son la señal explícita de cómo una idea de apoyo se relaciona con la idea central.
+> - [!info] Conexión cruzada con la Unidad 6: esta técnica de disección es análoga a la metodología de análisis de argumentos en [[Universidad/Preuniversitario/Comunicación Efectiva/Unidad 6 - Textos argumentativos/03 - Análisis y desmontaje de textos argumentativos|03 - Análisis y desmontaje de textos argumentativos]], pero aquí se buscan ideas centrales/de apoyo en vez de tesis/argumentos.
 
 ---
 

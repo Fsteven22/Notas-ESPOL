@@ -16,12 +16,11 @@
 >     A["Puntos<br/>(x,y)"] --> B["Rectas<br/>Ax+By=C"]
 >     B --> C["Polígonos<br/>vértices"]
 >     C --> D["Curvas<br/>círculo/cónicas"]
->
 >     style B fill:#e1ffe1
 >     style D fill:#e1f5ff
 > ```
 
-![U5-figuras.png](/img/user/Universidad/Figuras/U5-figuras.png)
+![[U5-figuras.png]]
 
 > [!tip] 💡 Visual — tres familias
 >
@@ -166,10 +165,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/02 - Clases de rectas en el plano\|02 - Clases de rectas en el plano]] — posiciones relativas de rectas.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/07 - Perímetro y área de un polígono\|07 - Perímetro y área de un polígono]] — fórmulas y shoelace.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/08 - Circunferencia y círculo\|08 - Circunferencia y círculo]] — círculo y sus elementos.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/III - Geometría Analítica/01 - Puntos y rectas\|01 - Puntos y rectas]] — geometría analítica del plano.
+> - [[02 - Clases de rectas en el plano]] — posiciones relativas de rectas.
+> - [[07 - Perímetro y área de un polígono]] — fórmulas y shoelace.
+> - [[08 - Circunferencia y círculo]] — círculo y sus elementos.
+> - [[01 - Puntos y rectas]] — geometría analítica del plano.
 
 ---
 

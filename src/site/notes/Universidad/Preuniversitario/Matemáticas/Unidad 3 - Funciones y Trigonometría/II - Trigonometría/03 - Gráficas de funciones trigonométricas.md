@@ -16,12 +16,11 @@
 >     A["A<br/>amplitud"] --> B["T=2pi/B<br/>período"]
 >     B --> C["Fase<br/>C/B"]
 >     C --> D["Eje<br/>D"]
->
 >     style B fill:#e1ffe1
 >     style D fill:#e1f5ff
 > ```
 
-![U3-onda.png](/img/user/Universidad/Figuras/U3-onda.png)
+![[U3-onda.png]]
 
 > [!tip] 💡 Visual — $y=2\sin(3x-\pi)+1$
 >
@@ -165,10 +164,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/II - Trigonometría/02 - Funciones trigonométricas elementales\|02 - Funciones trigonométricas elementales]] — base: valores y signos.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/02 - Representación gráfica\|02 - Representación gráfica]] — transformaciones generales.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/II - Trigonometría/04 - Funciones trigonométricas inversas\|04 - Funciones trigonométricas inversas]] — siguiente: $\arcsin$.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/II - Trigonometría/05 - Identidades trigonométricas\|05 - Identidades trigonométricas]] — suma a seno único.
+> - [[02 - Funciones trigonométricas elementales]] — base: valores y signos.
+> - [[02 - Representación gráfica]] — transformaciones generales.
+> - [[04 - Funciones trigonométricas inversas]] — siguiente: $\arcsin$.
+> - [[05 - Identidades trigonométricas]] — suma a seno único.
 
 ---
 

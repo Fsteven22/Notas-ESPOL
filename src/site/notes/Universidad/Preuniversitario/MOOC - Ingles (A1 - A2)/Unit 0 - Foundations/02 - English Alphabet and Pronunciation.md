@@ -167,6 +167,7 @@
 > • Beginning of a word: yes /jɛs/, yellow /ˈjɛloʊ/
 > ```
 >
+
 > [!example] Vowel Examples in Words
 > 
 > **Short vowels:**
@@ -270,6 +271,7 @@
 > /θ/ - /ð/ (tongue-teeth): think - this
 > ```
 >
+
 > [!success] Consonants by Place of Articulation
 > 
 > **Lips (Bilabial):**
@@ -619,6 +621,7 @@
 > 10. S = C   10. L = C    15. G = C    20. B = C
 > ```
 >
+
 > [!example] Exercise 2: Voiced vs Voiceless
 > 
 > **Identify if the consonant sound is voiced (VD) or voiceless (VL):**
@@ -646,6 +649,7 @@
 > 25. VL (voiceless)   10. VD (voiced)
 > ```
 >
+
 > [!example] Exercise 3: Pronunciation Practice
 > 
 > **Practice these minimal pairs (words that differ by only one sound):**
@@ -680,7 +684,7 @@
 > 
 > **📜 Continuación inmediata:**
 > 
-> **[[Universidad/Preuniversitario/MOOC - Ingles (A1 - A2)/Unit 4 - Vocabulary and Verbs/01 - Regular and Irregular Verbs\|01 - Regular and Irregular Verbs]]**
+> **[[01 - Regular and Irregular Verbs]]**
 > 
 > ```
 > Conexión: Ahora que conoces el alfabeto y los sonidos básicos,
@@ -696,7 +700,7 @@
 > - Reconocer que letras ≠ sonidos siempre
 > ```
 > 
-> **[[Universidad/Preuniversitario/MOOC - Ingles (A1 - A2)/Unit 2 - Sentence Structure/01 - Parts of Speech (POS)\|01 - Parts of Speech (POS)]]**
+> **[[01 - Parts of Speech (POS)]]**
 > 
 > ```
 > Conexión: El alfabeto y la pronunciación son fundamentales para:

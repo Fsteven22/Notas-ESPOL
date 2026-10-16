@@ -20,25 +20,25 @@
 >     style D fill:#e1f5ff
 > ```
 
-![U6-galeria.png](/img/user/Universidad/Figuras/U6-galeria.png)
+![[U6-galeria.png]]
 
 > [!tip] 💡 Visual — Galería base
 >
 > Cardioide, rosa 4 pétalos, lemniscata y caracol con bucle: cuatro ecuaciones, cuatro siluetas — lee la forma antes de tabular.
 
-![U6-caracol.png](/img/user/Universidad/Figuras/U6-caracol.png)
+![[U6-caracol.png]]
 
 > [!tip] 💡 Visual — Tres caracoles
 >
 > $\lambda<1$ bucle, $\lambda=1$ cardioide, $1<\lambda<2$ hoyuelo: la razón $a/b$ esculpe.
 
-![U6-rosas.png](/img/user/Universidad/Figuras/U6-rosas.png)
+![[U6-rosas.png]]
 
 > [!tip] 💡 Visual — 3, 4 y 8 pétalos
 >
 > $r=4\cos3\theta$, $r=3\cos2\theta$, $r=2\sin4\theta$: la paridad de $n$ cuenta ($n$ par duplica porque $r(\theta+\pi)=-r(\theta)$ recorre los otros sin repetir).
 
-![U6-lemniscata.png](/img/user/Universidad/Figuras/U6-lemniscata.png)
+![[U6-lemniscata.png]]
 
 > [!tip] 💡 Visual — Lemniscata y $r=1$
 >
@@ -183,10 +183,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 6 - Complejos y Polares/II - Coordenadas Polares/03 - Graficación en coordenadas polares\|03 - Graficación en coordenadas polares]] — técnicas y media tabla.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 6 - Complejos y Polares/II - Coordenadas Polares/02 - Coordenadas polares\|02 - Coordenadas polares]] — áreas con $\frac12\int r^2$.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 6 - Complejos y Polares/II - Coordenadas Polares/09 - Espirales en coordenadas polares\|09 - Espirales en coordenadas polares]] — siguiente: no cerradas.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 6 - Complejos y Polares/II - Coordenadas Polares/04 - Rectas en coordenadas polares\|04 - Rectas en coordenadas polares]] — rectas y círculos.
+> - [[03 - Graficación en coordenadas polares]] — técnicas y media tabla.
+> - [[02 - Coordenadas polares]] — áreas con $\frac12\int r^2$.
+> - [[09 - Espirales en coordenadas polares]] — siguiente: no cerradas.
+> - [[04 - Rectas en coordenadas polares]] — rectas y círculos.
 
 ---
 

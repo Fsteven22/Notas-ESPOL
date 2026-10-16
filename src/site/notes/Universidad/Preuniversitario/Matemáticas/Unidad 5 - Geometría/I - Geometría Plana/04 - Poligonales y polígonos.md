@@ -16,12 +16,11 @@
 >     A["n segmentos<br/>cerrados"] --> B["Polígono<br/>n vértices"]
 >     B --> C["Triangula<br/>n-2 triángulos"]
 >     C --> D["Leyes<br/>ángulos/diagonales"]
->
 >     style B fill:#e1ffe1
 >     style D fill:#e1f5ff
 > ```
 
-![U5-poligono.png](/img/user/Universidad/Figuras/U5-poligono.png)
+![[U5-poligono.png]]
 
 > [!tip] 💡 Visual — triangulación
 >
@@ -164,10 +163,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/03 - Ángulos\|03 - Ángulos]] — suma $(n-2)180°$ y exteriores $360°$.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/05 - Triángulos\|05 - Triángulos]] — caso $n=3$ con Pitágoras y Herón.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/06 - Cuadriláteros\|06 - Cuadriláteros]] — caso $n=4$ y sus tipos.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/07 - Perímetro y área de un polígono\|07 - Perímetro y área de un polígono]] — shoelace y áreas.
+> - [[03 - Ángulos]] — suma $(n-2)180°$ y exteriores $360°$.
+> - [[05 - Triángulos]] — caso $n=3$ con Pitágoras y Herón.
+> - [[06 - Cuadriláteros]] — caso $n=4$ y sus tipos.
+> - [[07 - Perímetro y área de un polígono]] — shoelace y áreas.
 
 ---
 

@@ -16,7 +16,6 @@
 >     A["Grados<br/>360"] --> B["Radianes<br/>2pi"]
 >     B --> C["Arco<br/>s=rt"]
 >     C --> D["Sector<br/>r2t/2"]
->
 >     style B fill:#e1ffe1
 >     style D fill:#e1f5ff
 > ```
@@ -160,10 +159,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/03 - Ángulos\|03 - Ángulos]] — ángulos en geometría plana.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/II - Trigonometría/02 - Funciones trigonométricas elementales\|02 - Funciones trigonométricas elementales]] — siguiente: $\sin,\cos$.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 6 - Complejos y Polares/II - Coordenadas Polares/01 - Plano polar\|01 - Plano polar]] — $\theta$ como coordenada.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/08 - Circunferencia y círculo\|08 - Circunferencia y círculo]] — arco y sector sintéticos.
+> - [[03 - Ángulos]] — ángulos en geometría plana.
+> - [[02 - Funciones trigonométricas elementales]] — siguiente: $\sin,\cos$.
+> - [[01 - Plano polar]] — $\theta$ como coordenada.
+> - [[08 - Circunferencia y círculo]] — arco y sector sintéticos.
 
 ---
 

@@ -83,13 +83,15 @@ graph TD
 > - [ ] [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/09 - Polígonos y circunferencia\|09 - Polígonos y circunferencia]]
 > - [ ] [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/10 - Figuras circulares\|10 - Figuras circulares]]
 >
+
 > [!note] 🎯 Geometría del Espacio
 >
 > - [ ] [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/II - Geometría del Espacio/01 - Sistema tridimensional\|01 - Sistema tridimensional]]
 > - [ ] [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/II - Geometría del Espacio/02 - Poliedros\|02 - Poliedros]]
-
+>
 > - [ ] [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/II - Geometría del Espacio/04 - Poliedros y cuerpos redondos\|04 - Poliedros y cuerpos redondos]]
 >
+
 > [!note] 🎯 Geometría Analítica
 >
 > - [ ] [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/III - Geometría Analítica/01 - Puntos y rectas\|01 - Puntos y rectas]]
@@ -108,12 +110,14 @@ graph TD
 > - [ ] Aplico perímetro, área y volumen de figuras planas y sólidos con su fórmula.
 > - [ ] Ubico puntos y rectas con distancia, pendiente y punto medio en cartesianas.
 >
+
 > [!note] 🎯 Nivel Intermedio
 >
 > - [ ] Clasifico triángulos, cuadriláteros y cónicas por sus elementos y ecuaciones.
 > - [ ] Convierto entre formas de la recta y de las cónicas completando cuadrados.
 > - [ ] Resuelvo tangencias, posiciones relativas y lugares geométricos.
 >
+
 > [!note] 🎯 Nivel Avanzado
 >
 > - [ ] Demuestro teoremas (Pitágoras, Ptolomeo, Euler) y comparo elipse e hipérbola por $e$.

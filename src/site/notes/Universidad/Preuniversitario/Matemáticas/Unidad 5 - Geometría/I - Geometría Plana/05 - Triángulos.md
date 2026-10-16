@@ -16,12 +16,11 @@
 >     A["3 lados<br/>rígido"] --> B["Leyes<br/>Pit/sen/cos"]
 >     B --> C["Resolver<br/>lados y ángulos"]
 >     C --> D["Notables<br/>G/I/O"]
->
 >     style B fill:#e1ffe1
 >     style D fill:#e1f5ff
 > ```
 
-![U5-triangulo.png](/img/user/Universidad/Figuras/U5-triangulo.png)
+![[U5-triangulo.png]]
 
 > [!tip] 💡 Visual — elementos básicos
 >
@@ -186,10 +185,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/04 - Poligonales y polígonos\|04 - Poligonales y polígonos]] — triangulación y suma $(n-2)180°$.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/03 - Ángulos\|03 - Ángulos]] — suma $180°$ y clasificación por ángulos.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/II - Trigonometría/02 - Funciones trigonométricas elementales\|02 - Funciones trigonométricas elementales]] — $\sin,\cos$ usados en las leyes.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/07 - Perímetro y área de un polígono\|07 - Perímetro y área de un polígono]] — Herón y áreas.
+> - [[04 - Poligonales y polígonos]] — triangulación y suma $(n-2)180°$.
+> - [[03 - Ángulos]] — suma $180°$ y clasificación por ángulos.
+> - [[02 - Funciones trigonométricas elementales]] — $\sin,\cos$ usados en las leyes.
+> - [[07 - Perímetro y área de un polígono]] — Herón y áreas.
 
 ---
 

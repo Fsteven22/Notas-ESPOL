@@ -17,7 +17,6 @@
 >     B -->|Iguales = n| C["Única<br/>x=A-1b"]
 >     B -->|Iguales menor n| D["Infinitas<br/>parámetros"]
 >     B -->|Distintos| E["Incompatible<br/>vacío"]
->
 >     style C fill:#e1ffe1
 >     style E fill:#ffe1e1
 > ```
@@ -177,10 +176,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/04 - Determinantes\|04 - Determinantes]] — Cramer y criterio $\det\neq0$ para solución única.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/06 - Matriz Inversa\|06 - Matriz Inversa]] — $x=A^{-1}b$ como método alternativo.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/07 - Rango de una Matriz\|07 - Rango de una Matriz]] — cálculo del rango usado en Rouché-Frobenius.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/01 - Definición y clases de matrices\|01 - Definición y clases de matrices]] — la matriz $A$ y la ampliada $A|b$.
+> - [[04 - Determinantes]] — Cramer y criterio $\det\neq0$ para solución única.
+> - [[06 - Matriz Inversa]] — $x=A^{-1}b$ como método alternativo.
+> - [[07 - Rango de una Matriz]] — cálculo del rango usado en Rouché-Frobenius.
+> - [[01 - Definición y clases de matrices]] — la matriz $A$ y la ampliada $A|b$.
 
 ---
 

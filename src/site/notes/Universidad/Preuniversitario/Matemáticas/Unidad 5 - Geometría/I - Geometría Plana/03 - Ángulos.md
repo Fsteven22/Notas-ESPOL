@@ -16,12 +16,11 @@
 >     A["Dos rayos<br/>vértice común"] --> B["Medida<br/>grados/rad"]
 >     B --> C["Clasifica<br/>magnitud/posición"]
 >     C --> D["Leyes<br/>triángulo/polígono"]
->
 >     style B fill:#e1ffe1
 >     style D fill:#e1f5ff
 > ```
 
-![U5-angulos.png](/img/user/Universidad/Figuras/U5-angulos.png)
+![[U5-angulos.png]]
 
 > [!tip] 💡 Visual — paralelas y transversal
 >
@@ -172,10 +171,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/01 - Figuras geométricas en el plano\|01 - Figuras geométricas en el plano]] — figuras donde viven los ángulos.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/02 - Clases de rectas en el plano\|02 - Clases de rectas en el plano]] — ángulo entre rectas y pendientes.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/05 - Triángulos\|05 - Triángulos]] — suma $180°$ y clasificación por ángulos.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/08 - Circunferencia y círculo\|08 - Circunferencia y círculo]] — central, inscrito y cuadriláteros cíclicos.
+> - [[01 - Figuras geométricas en el plano]] — figuras donde viven los ángulos.
+> - [[02 - Clases de rectas en el plano]] — ángulo entre rectas y pendientes.
+> - [[05 - Triángulos]] — suma $180°$ y clasificación por ángulos.
+> - [[08 - Circunferencia y círculo]] — central, inscrito y cuadriláteros cíclicos.
 
 ---
 

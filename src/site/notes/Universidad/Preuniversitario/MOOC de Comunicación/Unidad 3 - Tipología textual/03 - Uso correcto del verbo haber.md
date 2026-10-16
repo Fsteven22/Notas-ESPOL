@@ -55,6 +55,7 @@
 >
 > > 📌 En el registro formal escrito se prefiere **ha** sobre **han** para usted en singular, y se evita la contraccion coloquial.
 >
+
 > [!note] 🔧 Otros tiempos compuestos con haber
 >
 > |Tiempo compuesto|Estructura|Ejemplo|
@@ -69,6 +70,7 @@
 >
 > > 📌 Observa que como auxiliar **si se conjuga en todas las personas y numeros**. Esa es la gran diferencia con el uso impersonal, que queda congelado en singular.
 >
+
 > [!success] ✅ El participio NO concuerda en los tiempos compuestos
 >
 > Cuando haber es auxiliar, el participio queda **invariable en genero y numero**. No cambia aunque el objeto directo sea femenino o plural.
@@ -82,6 +84,7 @@
 >
 > > 📌 Excepcion real: el participio solo concuerda cuando el verbo principal es **ser o estar** (fue escrita, estan cansados), nunca con haber auxiliar.
 >
+
 > [!note] 🔧 Diagrama de la funcion auxiliar
 >
 > ```mermaid
@@ -102,6 +105,7 @@
 >
 > La clave gramatical: el sustantivo que sigue a hay, habia, hubo **no es sujeto, es objeto directo**. Por eso el verbo no cambia al plural. Decimos *hay muchos libros* igual que decimos *veo muchos libros*: el verbo no concuerda con el objeto.
 >
+
 > [!success] 📊 Formas impersonales mas usadas con ejemplos
 >
 > |Tiempo / Modo|Forma impersonal|Ejemplo correcto|
@@ -122,6 +126,7 @@
 >
 > > 📌 Todas estas formas estan en singular aunque hablen de muchas cosas. Esa invariabilidad es la marca del uso impersonal.
 >
+
 > [!note] 👁️ Hay es forma especial
 >
 > **Hay** es la forma impersonal de presente. Viene de *ha + y* (antiguo adverbio de lugar). Por eso no existe *hayan* como impersonal de presente: el plural de *hay* en sentido existencial **no existe**.
@@ -134,6 +139,7 @@
 >
 > > 📌 *Hayan* si existe, pero solo como auxiliar de subjuntivo plural (que ellos hayan terminado), nunca como existencial.
 >
+
 > [!warning] ⚠️ La trampa del plural
 >
 > El oido nos engana: como el sustantivo posterior esta en plural, tendemos a poner el verbo en plural. Resiste esa tentacion.
@@ -147,6 +153,7 @@
 >
 > > 📌 Truco practico: sustituye el sustantivo por *eso*. Si la oracion sigue teniendo sentido (Habia eso, Hubo eso), es impersonal y va en singular.
 >
+
 > [!note] 👁️ Diagrama de la funcion impersonal
 >
 > ```mermaid
@@ -173,6 +180,7 @@
 > |**hayan** como existencial|hay|Hayan solo es auxiliar de subjuntivo plural|
 > |**habran / habrian** existenciales|habra / habria|El futuro y condicional existenciales tambien son singulares|
 >
+
 > [!warning] ⚠️ Caso por caso con ejemplos
 >
 > |Incorrecto|Correcto|Explicacion breve|
@@ -186,6 +194,7 @@
 > |Han habido cambios|Ha habido cambios|Impersonal compuesto en singular|
 > |Hayan muchas dudas|Hay muchas dudas|En presente existencial solo vale hay|
 >
+
 > [!note] 🧠 Regla para distinguir hubieron bueno de hubieron malo
 >
 > Pregunta: despues de hubieron, viene un participio (-ado, -ido, -to, -so, -cho)?
@@ -216,6 +225,7 @@
 >
 > > 📌 Fijate en que todas las respuestas estan en singular aunque el sustantivo posterior sea plural.
 >
+
 > [!example]- ✏️ Ejercicio 04.2 — Corrige los errores (hubieron / habian / habemos)
 >
 > **Instruccion:** Cada oracion tiene un error en el uso de haber. Subraya el error y escribe la forma correcta.
@@ -242,6 +252,7 @@
 > |7|No hemos terminado|Auxiliar de perfecto, primera persona plural|
 > |8|Habia habido rumores|Impersonal pluscuamperfecto en singular|
 >
+
 > [!example]- ✏️ Ejercicio 04.3 — Completa los tiempos compuestos con el auxiliar haber
 >
 > **Instruccion:** Completa con la forma correcta del auxiliar haber + el participio del verbo entre parentesis. Recuerda: el participio no concuerda.
@@ -293,12 +304,14 @@
 > - [ ] Conjuguo el presente de haber auxiliar (he, has, ha, hemos, han) + participio.
 > - [ ] Reconozco las formas impersonales hay, habia, hubo, habra en oraciones simples.
 >
+
 > [!note] 🎯 Nivel Intermedio
 >
 > - [ ] Explico por que el sustantivo tras hay/habia/hubo es objeto directo y no sujeto.
 > - [ ] Corrijo automaticamente hubieron, habian y habemos en textos propios y ajenos.
 > - [ ] Aplico la regla de invariabilidad del participio (la han invitado, no invitada).
 >
+
 > [!note] 🎯 Nivel Avanzado
 >
 > - [ ] Justifico cuando hubieron/habian son correctos (como auxiliares + participio) y cuando son errores (como existenciales + sustantivo).
@@ -360,10 +373,11 @@ mindmap
 >
 > [4] M. Seco, _Diccionario de dudas y dificultades de la lengua espanola_, 10.ª ed., Madrid, Espana: Espasa-Calpe, 1998, entrada «haber».
 >
+
 > [!quote] 🔗 Conexiones
 >
-> - [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 3 - Tipología textual/02 - El texto académico\|02 - El texto académico]] — el uso correcto de haber sostiene la precision y objetividad que exige el texto academico; un ensayo con hubieron o habian pierde credibilidad formal.
-> - [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 3 - Tipología textual/04 - Signos de puntuación y uso de mayúsculas\|04 - Signos de puntuación y uso de mayúsculas]] — siguiente nota de la unidad: la correccion gramatical continua con la puntuacion y las mayusculas para lograr textos normativamente impecables.
+> - [[02 - El texto académico]] — el uso correcto de haber sostiene la precision y objetividad que exige el texto academico; un ensayo con hubieron o habian pierde credibilidad formal.
+> - [[04 - Signos de puntuación y uso de mayúsculas]] — siguiente nota de la unidad: la correccion gramatical continua con la puntuacion y las mayusculas para lograr textos normativamente impecables.
 > - Unidad 3, punto 1: tipologias textuales y registro formal donde aplicaras estas normas.
 
 ---

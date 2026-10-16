@@ -16,7 +16,6 @@
 >     A["Fórmula<br/>alg o trasc"] --> B["Inyectiva<br/>horiz"]
 >     B --> C["Par/impar<br/>f(-x)"]
 >     C --> D["Periódica<br/>monótona"]
->
 >     style B fill:#e1ffe1
 >     style D fill:#e1f5ff
 > ```
@@ -160,10 +159,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/10 - Funciones en Conjuntos\|10 - Funciones en Conjuntos]] — inyectiva/sobreyectiva general.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/10 - Función inversa de una función biyectiva\|10 - Función inversa de una función biyectiva]] — inversas a fondo.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/05 - Función lineal\|05 - Función lineal]] — ejemplo biyectivo.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/II - Trigonometría/02 - Funciones trigonométricas elementales\|02 - Funciones trigonométricas elementales]] — periódicas.
+> - [[10 - Funciones en Conjuntos]] — inyectiva/sobreyectiva general.
+> - [[10 - Función inversa de una función biyectiva]] — inversas a fondo.
+> - [[05 - Función lineal]] — ejemplo biyectivo.
+> - [[02 - Funciones trigonométricas elementales]] — periódicas.
 
 ---
 

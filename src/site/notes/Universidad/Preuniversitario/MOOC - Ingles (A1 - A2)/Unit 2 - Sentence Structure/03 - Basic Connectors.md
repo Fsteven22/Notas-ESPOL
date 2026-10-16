@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/universidad/preuniversitario/mooc-ingles-a1-a2/unit-2-sentence-structure/03-basic-connectors/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/universidad/preuniversitario/mooc-ingles-a1-a2/unit-2-sentence-structure/03-basic-connectors/","tags":["ingles-a1a2","unit2","connectors","mooc"],"dg-note-properties":{"tags":["ingles-a1a2","unit2","connectors","mooc"]}}
 ---
 
 
@@ -689,6 +689,7 @@
 > 10. Moreover (adding negative information)
 > ```
 >
+
 > [!example] Exercise 2: Combine Sentences
 > 
 > **Use the connector in parentheses to combine the sentences:**
@@ -721,6 +722,7 @@
 > 10. She speaks English. She also speaks Spanish. / She speaks English and Spanish.
 > ```
 >
+
 > [!example] Exercise 3: Add Correct Punctuation
 > 
 > **Add commas, semicolons, or periods where needed:**
@@ -753,6 +755,7 @@
 > 10. He's rich, yet he's not happy.
 > ```
 >
+
 > [!example] Exercise 4: Identify the Relationship
 > 
 > **What relationship does the connector show?**
@@ -881,6 +884,7 @@
 > "So" = resultado o pregunta conversacional
 > ```
 >
+
 > [!tip] Consejos y Trucos de Memoria
 > 
 > **Tip 1: FANBOYS para coordinación**
@@ -977,3 +981,17 @@
 > BUT = siempre ENTRE dos oraciones (mismo enunciado):
 > • I like tea, but I don't
 > ```
+
+---
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Índice Unit 2: [[Universidad/Preuniversitario/MOOC - Ingles (A1 - A2)/Unit 2 - Sentence Structure/00 - Índice\|00 - Índice]]
+> - Anterior: [[Universidad/Preuniversitario/MOOC - Ingles (A1 - A2)/Unit 2 - Sentence Structure/02 - Parts of a Sentence\|02 - Parts of a Sentence]]
+> - Mapa: [[Universidad/Preuniversitario/MOOC - Ingles (A1 - A2)/Inglés (A1-A2)\|Inglés (A1-A2)]]
+
+---
+
+**Tags:** #ingles-a1a2 #unit2 #connectors #mooc

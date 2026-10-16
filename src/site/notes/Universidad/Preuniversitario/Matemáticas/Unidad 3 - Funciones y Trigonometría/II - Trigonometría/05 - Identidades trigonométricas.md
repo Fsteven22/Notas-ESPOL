@@ -16,7 +16,6 @@
 >     A["Pitagórica<br/>base"] --> B["Suma<br/>A+B"]
 >     B --> C["Doble<br/>2t"]
 >     C --> D["Mitad<br/>t/2"]
->
 >     style B fill:#e1ffe1
 >     style D fill:#e1f5ff
 > ```
@@ -159,10 +158,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/II - Trigonometría/02 - Funciones trigonométricas elementales\|02 - Funciones trigonométricas elementales]] — base: valores y fundamental.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 6 - Complejos y Polares/I - Números Complejos/02 - Operaciones\|02 - Operaciones]] — De Moivre y Euler.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/II - Trigonometría/03 - Gráficas de funciones trigonométricas\|03 - Gráficas de funciones trigonométricas]] — suma a seno único.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/II - Trigonometría/06 - Ecuaciones e inecuaciones trigonométricas\|06 - Ecuaciones e inecuaciones trigonométricas]] — siguiente: ecuaciones.
+> - [[02 - Funciones trigonométricas elementales]] — base: valores y fundamental.
+> - [[02 - Operaciones]] — De Moivre y Euler.
+> - [[03 - Gráficas de funciones trigonométricas]] — suma a seno único.
+> - [[06 - Ecuaciones e inecuaciones trigonométricas]] — siguiente: ecuaciones.
 
 ---
 

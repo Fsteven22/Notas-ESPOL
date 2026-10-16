@@ -20,7 +20,7 @@
 >     style D fill:#e1f5ff
 > ```
 
-![U5-ciclico.png](/img/user/Universidad/Figuras/U5-ciclico.png)
+![[U5-ciclico.png]]
 
 > [!tip] 💡 Visual — cuadrilátero cíclico
 >
@@ -165,10 +165,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/06 - Cuadriláteros\|06 - Cuadriláteros]] — cíclicos ($180°$) y tangenciales ($a+c$).
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/08 - Circunferencia y círculo\|08 - Circunferencia y círculo]] — inscrito y potencia.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/10 - Funciones en Conjuntos\|10 - Funciones en Conjuntos]] — biyecciones en Poncelet.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/III - Geometría Analítica/02 - Circunferencia\|02 - Circunferencia]] — forma analítica del círculo.
+> - [[06 - Cuadriláteros]] — cíclicos ($180°$) y tangenciales ($a+c$).
+> - [[08 - Circunferencia y círculo]] — inscrito y potencia.
+> - [[10 - Funciones en Conjuntos]] — biyecciones en Poncelet.
+> - [[02 - Circunferencia]] — forma analítica del círculo.
 
 ---
 

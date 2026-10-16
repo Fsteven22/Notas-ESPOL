@@ -16,12 +16,11 @@
 >     A["Curvas<br/>frontera"] --> B["Lado<br/>punto prueba"]
 >     B --> C["Intersección<br/>región curva"]
 >     C --> D["Cortes<br/>curva-curva"]
->
 >     style B fill:#e1ffe1
 >     style D fill:#e1f5ff
 > ```
 
-![U4-nolineal.png](/img/user/Universidad/Figuras/U4-nolineal.png)
+![[U4-nolineal.png]]
 
 > [!tip] 💡 Visual — cuarto de disco
 >
@@ -167,10 +166,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/II - Sistemas de Ecuaciones e Inecuaciones Avanzados/02 - Sistemas de inecuaciones lineales\|02 - Sistemas de inecuaciones lineales]] — mismo método (frontera + prueba + intersección) con rectas.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/II - Sistemas de Ecuaciones e Inecuaciones Avanzados/01 - Sistemas de ecuaciones no lineales\|01 - Sistemas de ecuaciones no lineales]] — cortes como soluciones de igualdades.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/08 - Circunferencia y círculo\|08 - Circunferencia y círculo]] — fronteras circulares y sus ecuaciones.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/11 - Inecuaciones\|11 - Inecuaciones]] — inecuaciones de una variable como caso previo.
+> - [[02 - Sistemas de inecuaciones lineales]] — mismo método (frontera + prueba + intersección) con rectas.
+> - [[01 - Sistemas de ecuaciones no lineales]] — cortes como soluciones de igualdades.
+> - [[08 - Circunferencia y círculo]] — fronteras circulares y sus ecuaciones.
+> - [[11 - Inecuaciones]] — inecuaciones de una variable como caso previo.
 
 ---
 

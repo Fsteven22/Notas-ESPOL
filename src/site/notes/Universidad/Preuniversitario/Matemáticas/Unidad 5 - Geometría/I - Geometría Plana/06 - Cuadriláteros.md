@@ -17,12 +17,11 @@
 >     B -->|Uno| C["Trapecio"]
 >     B -->|Dos| D["Paralelogramo<br/>rombo/rect/cuad"]
 >     B -->|Cero| E["Trapezoide"]
->
 >     style D fill:#e1ffe1
 >     style E fill:#e1f5ff
 > ```
 
-![U5-varignon.png](/img/user/Universidad/Figuras/U5-varignon.png)
+![[U5-varignon.png]]
 
 > [!tip] 💡 Visual — Varignon
 >
@@ -171,10 +170,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/04 - Poligonales y polígonos\|04 - Poligonales y polígonos]] — $n=4$ como caso general.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/05 - Triángulos\|05 - Triángulos]] — Varignon usa segmento medio del triángulo.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/08 - Circunferencia y círculo\|08 - Circunferencia y círculo]] — cíclicos y Ptolomeo.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/07 - Perímetro y área de un polígono\|07 - Perímetro y área de un polígono]] — shoelace en cuadriláteros.
+> - [[04 - Poligonales y polígonos]] — $n=4$ como caso general.
+> - [[05 - Triángulos]] — Varignon usa segmento medio del triángulo.
+> - [[08 - Circunferencia y círculo]] — cíclicos y Ptolomeo.
+> - [[07 - Perímetro y área de un polígono]] — shoelace en cuadriláteros.
 
 ---
 

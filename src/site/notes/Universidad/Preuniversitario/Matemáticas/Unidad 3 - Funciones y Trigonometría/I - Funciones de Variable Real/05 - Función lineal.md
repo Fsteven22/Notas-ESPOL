@@ -16,7 +16,6 @@
 >     A["m<br/>pendiente"] --> B["y=mx+b<br/>recta"]
 >     B --> C["Paralela<br/>m igual"]
 >     C --> D["Perp<br/>-1/m"]
->
 >     style B fill:#e1ffe1
 >     style D fill:#e1f5ff
 > ```
@@ -158,10 +157,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/III - Geometría Analítica/01 - Puntos y rectas\|01 - Puntos y rectas]] — rectas en geometría analítica.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/05 - Sistemas de ecuaciones lineales\|05 - Sistemas de ecuaciones lineales]] — intersección como sistema.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/07 - Función cuadrática\|07 - Función cuadrática]] — siguiente: parábolas.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/10 - Ecuaciones\|10 - Ecuaciones]] — ecuación lineal $ax+b=0$.
+> - [[01 - Puntos y rectas]] — rectas en geometría analítica.
+> - [[05 - Sistemas de ecuaciones lineales]] — intersección como sistema.
+> - [[07 - Función cuadrática]] — siguiente: parábolas.
+> - [[10 - Ecuaciones]] — ecuación lineal $ax+b=0$.
 
 ---
 

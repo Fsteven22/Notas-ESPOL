@@ -16,7 +16,6 @@
 >     A["A<br/>n x n"] --> B{"det distinto 0?"}
 >     B -->|Sí| C["Existe inversa<br/>AA-1=I"]
 >     B -->|No| D["Singular<br/>sin inversa"]
->
 >     style C fill:#e1ffe1
 >     style D fill:#ffe1e1
 > ```
@@ -164,10 +163,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/04 - Determinantes\|04 - Determinantes]] — $\det\neq0$ como condición de existencia.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/05 - Sistemas de ecuaciones lineales\|05 - Sistemas de ecuaciones lineales]] — $x=A^{-1}b$ como método.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/02 - Operaciones con matrices\|02 - Operaciones con matrices]] — producto y transpuesta usados en las pruebas.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/03 - Matrices relevantes\|03 - Matrices relevantes]] — diagonales y ortogonales, casos rápidos.
+> - [[04 - Determinantes]] — $\det\neq0$ como condición de existencia.
+> - [[05 - Sistemas de ecuaciones lineales]] — $x=A^{-1}b$ como método.
+> - [[02 - Operaciones con matrices]] — producto y transpuesta usados en las pruebas.
+> - [[03 - Matrices relevantes]] — diagonales y ortogonales, casos rápidos.
 
 ---
 

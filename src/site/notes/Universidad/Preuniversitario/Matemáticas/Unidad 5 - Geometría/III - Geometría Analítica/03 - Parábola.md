@@ -20,7 +20,7 @@
 >     style D fill:#e1f5ff
 > ```
 
-![U5-parabola.png](/img/user/Universidad/Figuras/U5-parabola.png)
+![[U5-parabola.png]]
 
 > [!tip] 💡 Visual — $x^2=12y$
 >
@@ -163,10 +163,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/07 - Función cuadrática\|07 - Función cuadrática]] — $y=ax^2+bx+c$ como parábola vertical.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/III - Geometría Analítica/02 - Circunferencia\|02 - Circunferencia]] — completar cuadrados igual que aquí.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/III - Geometría Analítica/04 - Elipse\|04 - Elipse]] — siguiente cónica: dos focos.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/III - Geometría Analítica/01 - Puntos y rectas\|01 - Puntos y rectas]] — directriz como recta.
+> - [[07 - Función cuadrática]] — $y=ax^2+bx+c$ como parábola vertical.
+> - [[02 - Circunferencia]] — completar cuadrados igual que aquí.
+> - [[04 - Elipse]] — siguiente cónica: dos focos.
+> - [[01 - Puntos y rectas]] — directriz como recta.
 
 ---
 

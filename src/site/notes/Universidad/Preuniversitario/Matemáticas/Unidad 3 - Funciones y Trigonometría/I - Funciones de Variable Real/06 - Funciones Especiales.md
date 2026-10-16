@@ -16,7 +16,6 @@
 >     A["|x|<br/>distancia"] --> B["Piso<br/>escalones"]
 >     B --> C["H<br/>conmuta"]
 >     C --> D["Sigma<br/>suaviza"]
->
 >     style B fill:#e1ffe1
 >     style D fill:#e1f5ff
 > ```
@@ -160,10 +159,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/03 - Funciones definidas por tramos\|03 - Funciones definidas por tramos]] — tramos base.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/09 - Valor Absoluto\|09 - Valor Absoluto]] — ecuaciones con $|x|$.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/13 - Funciones exponenciales\|13 - Funciones exponenciales]] — base de $\sigma$.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/02 - Representación gráfica\|02 - Representación gráfica]] — ○/● y saltos.
+> - [[03 - Funciones definidas por tramos]] — tramos base.
+> - [[09 - Valor Absoluto]] — ecuaciones con $|x|$.
+> - [[13 - Funciones exponenciales]] — base de $\sigma$.
+> - [[02 - Representación gráfica]] — ○/● y saltos.
 
 ---
 

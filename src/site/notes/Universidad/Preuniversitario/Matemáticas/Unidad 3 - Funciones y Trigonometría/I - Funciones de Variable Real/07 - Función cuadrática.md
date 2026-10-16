@@ -16,7 +16,6 @@
 >     A["a,b,c<br/>coeficientes"] --> B["Vértice<br/>-b/2a"]
 >     B --> C["Raíces<br/>Delta"]
 >     C --> D["Óptimo<br/>vértice"]
->
 >     style B fill:#e1ffe1
 >     style D fill:#e1f5ff
 > ```
@@ -157,10 +156,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/III - Geometría Analítica/03 - Parábola\|03 - Parábola]] — parábola como cónica.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/10 - Ecuaciones\|10 - Ecuaciones]] — ecuación cuadrática.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/11 - Inecuaciones\|11 - Inecuaciones]] — inecuaciones con parábola.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/11 - Funciones polinomiales\|11 - Funciones polinomiales]] — grado 2 como caso.
+> - [[03 - Parábola]] — parábola como cónica.
+> - [[10 - Ecuaciones]] — ecuación cuadrática.
+> - [[11 - Inecuaciones]] — inecuaciones con parábola.
+> - [[11 - Funciones polinomiales]] — grado 2 como caso.
 
 ---
 

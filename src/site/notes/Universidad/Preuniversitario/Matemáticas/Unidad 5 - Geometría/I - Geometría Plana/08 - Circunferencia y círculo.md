@@ -16,12 +16,11 @@
 >     A["Centro<br/>O y radio r"] --> B["Ecuación<br/>(x-h)2+(y-k)2=r2"]
 >     B --> C["Arco y sector<br/>s=rθ"]
 >     C --> D["Tangentes<br/>PT2=d2-r2"]
->
 >     style B fill:#e1ffe1
 >     style D fill:#e1f5ff
 > ```
 
-![U5-tangente.png](/img/user/Universidad/Figuras/U5-tangente.png)
+![[U5-tangente.png]]
 
 > [!tip] 💡 Visual — tangente desde $P(10,0)$
 >
@@ -168,10 +167,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/01 - Figuras geométricas en el plano\|01 - Figuras geométricas en el plano]] — círculo como figura base.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/03 - Ángulos\|03 - Ángulos]] — central, inscrito y cuadriláteros cíclicos.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/III - Geometría Analítica/02 - Circunferencia\|02 - Circunferencia]] — siguiente: forma analítica completa.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/10 - Funciones en Conjuntos\|10 - Funciones en Conjuntos]] — $x^2+y^2=1$ no es función.
+> - [[01 - Figuras geométricas en el plano]] — círculo como figura base.
+> - [[03 - Ángulos]] — central, inscrito y cuadriláteros cíclicos.
+> - [[02 - Circunferencia]] — siguiente: forma analítica completa.
+> - [[10 - Funciones en Conjuntos]] — $x^2+y^2=1$ no es función.
 
 ---
 

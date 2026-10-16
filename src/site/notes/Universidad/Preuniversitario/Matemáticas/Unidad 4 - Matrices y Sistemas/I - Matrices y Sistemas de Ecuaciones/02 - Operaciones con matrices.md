@@ -16,7 +16,6 @@
 >     A["A m x n<br/>B n x p"] --> B["AB<br/>m x p"]
 >     B --> C{"Conmuta?"}
 >     C -->|Casi nunca| D["AB distinto BA"]
->
 >     style B fill:#e1ffe1
 >     style D fill:#ffe1e1
 > ```
@@ -189,10 +188,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/01 - Definición y clases de matrices\|01 - Definición y clases de matrices]] — la identidad $I$ y la cero $O$ son los neutros usados aquí.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/04 - Determinantes\|04 - Determinantes]] — $\det(AB)=\det(A)\det(B)$ conecta producto con determinante.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/06 - Matriz Inversa\|06 - Matriz Inversa]] — $AA^{-1}=I$ usa el producto definido en esta nota.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/03 - Matrices relevantes\|03 - Matrices relevantes]] — diagonales y triangulares simplifican estos cálculos.
+> - [[01 - Definición y clases de matrices]] — la identidad $I$ y la cero $O$ son los neutros usados aquí.
+> - [[04 - Determinantes]] — $\det(AB)=\det(A)\det(B)$ conecta producto con determinante.
+> - [[06 - Matriz Inversa]] — $AA^{-1}=I$ usa el producto definido en esta nota.
+> - [[03 - Matrices relevantes]] — diagonales y triangulares simplifican estos cálculos.
 
 ---
 

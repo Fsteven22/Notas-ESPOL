@@ -20,7 +20,7 @@
 >     style D fill:#e1f5ff
 > ```
 
-![U6-cardioide.png](/img/user/Universidad/Figuras/U6-cardioide.png)
+![[U6-cardioide.png]]
 
 > [!tip] 💡 Visual — Cardioide y $r=1$
 >
@@ -162,10 +162,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 6 - Complejos y Polares/II - Coordenadas Polares/01 - Plano polar\|01 - Plano polar]] — ubicar puntos y representaciones.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 6 - Complejos y Polares/II - Coordenadas Polares/03 - Graficación en coordenadas polares\|03 - Graficación en coordenadas polares]] — trazado sistemático.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 6 - Complejos y Polares/I - Números Complejos/02 - Operaciones\|02 - Operaciones]] — De Moivre y forma polar.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 6 - Complejos y Polares/II - Coordenadas Polares/04 - Rectas en coordenadas polares\|04 - Rectas en coordenadas polares]] — rectas y círculos.
+> - [[01 - Plano polar]] — ubicar puntos y representaciones.
+> - [[03 - Graficación en coordenadas polares]] — trazado sistemático.
+> - [[02 - Operaciones]] — De Moivre y forma polar.
+> - [[04 - Rectas en coordenadas polares]] — rectas y círculos.
 
 ---
 

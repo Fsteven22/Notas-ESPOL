@@ -16,7 +16,6 @@
 >     A["Ecs no lineales"] --> B["Sustitución"]
 >     A --> C["Gráfico"]
 >     A --> D["Numérico<br/>Newton"]
->
 >     style C fill:#e1ffe1
 >     style D fill:#e1f5ff
 > ```
@@ -176,10 +175,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/05 - Sistemas de ecuaciones lineales\|05 - Sistemas de ecuaciones lineales]] — Gauss y Rouché como contraste: aquí no hay método único.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/06 - Conceptos asociados a los números enteros\|06 - Conceptos asociados a los números enteros]] — ecuaciones diofantinas (soluciones enteras).
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/07 - Expresiones algebraicas\|07 - Expresiones algebraicas]] — factorización usada en $s,p$ y Ruffini.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/13 - Funciones exponenciales\|13 - Funciones exponenciales]] — $e^x$ en ecuaciones trascendentes.
+> - [[05 - Sistemas de ecuaciones lineales]] — Gauss y Rouché como contraste: aquí no hay método único.
+> - [[06 - Conceptos asociados a los números enteros]] — ecuaciones diofantinas (soluciones enteras).
+> - [[07 - Expresiones algebraicas]] — factorización usada en $s,p$ y Ruffini.
+> - [[13 - Funciones exponenciales]] — $e^x$ en ecuaciones trascendentes.
 
 ---
 

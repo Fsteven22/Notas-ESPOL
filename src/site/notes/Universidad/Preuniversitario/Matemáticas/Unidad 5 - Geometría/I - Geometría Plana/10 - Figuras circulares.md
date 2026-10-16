@@ -20,7 +20,7 @@
 >     style D fill:#e1f5ff
 > ```
 
-![U5-circulares.png](/img/user/Universidad/Figuras/U5-circulares.png)
+![[U5-circulares.png]]
 
 > [!tip] 💡 Visual — sector, corona, segmento
 >
@@ -166,10 +166,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/08 - Circunferencia y círculo\|08 - Circunferencia y círculo]] — arco, sector y tangentes.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/II - Trigonometría/01 - Ángulos y sus medidas\|01 - Ángulos y sus medidas]] — radianes para $\theta$.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/07 - Perímetro y área de un polígono\|07 - Perímetro y área de un polígono]] — áreas por descomposición.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/09 - Polígonos y circunferencia\|09 - Polígonos y circunferencia]] — Ptolomeo y áreas mixtas.
+> - [[08 - Circunferencia y círculo]] — arco, sector y tangentes.
+> - [[01 - Ángulos y sus medidas]] — radianes para $\theta$.
+> - [[07 - Perímetro y área de un polígono]] — áreas por descomposición.
+> - [[09 - Polígonos y circunferencia]] — Ptolomeo y áreas mixtas.
 
 ---
 

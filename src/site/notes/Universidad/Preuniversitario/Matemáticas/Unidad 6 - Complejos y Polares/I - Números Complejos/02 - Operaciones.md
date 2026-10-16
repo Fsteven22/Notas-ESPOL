@@ -20,7 +20,7 @@
 >     style D fill:#e1f5ff
 > ```
 
-![U6-demoivre.png](/img/user/Universidad/Figuras/U6-demoivre.png)
+![[U6-demoivre.png]]
 
 > [!tip] 💡 Visual — Potencias $(1+i)^k$
 >
@@ -164,10 +164,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 6 - Complejos y Polares/I - Números Complejos/01 - Definición y representación geométrica\|01 - Definición y representación geométrica]] — base binómica y Argand.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 6 - Complejos y Polares/II - Coordenadas Polares/02 - Coordenadas polares\|02 - Coordenadas polares]] — $r,\theta$ como sistema.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/10 - Ecuaciones\|10 - Ecuaciones]] — cuadráticas con discriminante negativo.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/II - Trigonometría/06 - Ecuaciones e inecuaciones trigonométricas\|06 - Ecuaciones e inecuaciones trigonométricas]] — ángulos de De Moivre.
+> - [[01 - Definición y representación geométrica]] — base binómica y Argand.
+> - [[02 - Coordenadas polares]] — $r,\theta$ como sistema.
+> - [[10 - Ecuaciones]] — cuadráticas con discriminante negativo.
+> - [[06 - Ecuaciones e inecuaciones trigonométricas]] — ángulos de De Moivre.
 
 ---
 

@@ -20,7 +20,6 @@
 >     A --> C[No conjugado - Verboide]
 >     B --> D[Predicado completo<br/>oracion gramatical]
 >     C --> E[Sin tiempo ni persona<br/>no forma predicado solo]
-> 
 >     style A fill:#fff4e1
 >     style B fill:#e1ffe1
 >     style C fill:#ffe1e1
@@ -46,6 +45,7 @@
 > 
 > > 📌 Si puedes cambiar la persona o el tiempo de la forma sin cambiar la palabra base, es conjugada: *canto, cantas, cantaba, cantaremos*.
 >
+
 > [!note] 🧪 Prueba rápida de conjugación
 > 
 > Para saber si una forma está conjugada, aplica estas dos pruebas:
@@ -98,6 +98,7 @@
 > > |**Perífrasis**|Voy **a estudiar**, tengo **que salir**|Auxiliar conjugado + infinitivo|
 > > |**Prohibición / instrucción**|No **fumar**|Infinitivo con valor imperativo en carteles|
 >
+
 > [!example]- ✏️ Mini ejercicio - Reconocer infinitivos
 > 
 > **Dato:** Subraya el infinitivo y di su conjugación: (a) Leer es un placer, (b) Necesito descansar, (c) Van a competir mañana.
@@ -143,6 +144,7 @@
 > 
 > > ⚠️ Solo, sin auxiliar conjugado, el participio **no forma predicado**: *Cansado de tanto estudiar* no es oración.
 >
+
 > [!example]- ✏️ Mini ejercicio - Participios regulares e irregulares
 > 
 > **Dato:** Escribe el participio de: cantar, comer, hacer, decir, ver, escribir.
@@ -217,7 +219,6 @@
 >     B --> E[Funciona como nombre]
 >     C --> F[Funciona como adjetivo]
 >     D --> G[Funciona como adverbio]
-> 
 >     style A fill:#fff4e1
 >     style B fill:#e1ffe1
 >     style C fill:#ffe1e1
@@ -241,6 +242,7 @@
 > 
 > > 📌 Todo verbo conjugado informa, al menos, de **tiempo, modo, número y persona**. Los verboides no informan de nada de eso por sí solos.
 >
+
 > [!success] 📊 Conjugados vs. No conjugados lado a lado
 > 
 > |Oración|Forma señalada|¿Conjugada?|Prueba|
@@ -290,6 +292,7 @@
 > > |**Añadir verbo principal**|Caminando por la avenida.|**Caminaba** por la avenida mientras pensaba.|
 > > |**Unir con coma**|Leyendo el informe. Tomó notas.|**Leyendo** el informe, **tomó** notas.|
 >
+
 > [!warning] ⚠️ Falsos verbos conjugados - no te dejes engañar
 > 
 > |Forma|Parece conjugada pero...|Realidad|
@@ -323,6 +326,7 @@
 > 
 > > 📌 Autoevaluación: si acertaste 7 u 8, dominas el reconocimiento. Si fallaste en 3, 5 o 7, repasa participios y gerundios irregulares.
 >
+
 > [!example]- ✏️ Ejercicio 03.2 - Corrige los fragmentos
 > 
 > **Instrucción:** Cada ítem es un fragmento con participio o gerundio sin verbo conjugado. Reescríbelo como oración completa de dos maneras cuando sea posible: (a) añadiendo un verbo conjugado, (b) uniéndolo a una oración vecina.
@@ -363,7 +367,6 @@
 >     A --> C[aprobar = infinitivo]
 >     D[Estoy cantando] --> E[estoy = conjugado]
 >     D --> F[cantando = gerundio]
-> 
 >     style A fill:#e1ffe1
 >     style D fill:#e1e1ff
 > ```
@@ -379,6 +382,7 @@
 > - [ ] Reconozco infinitivos en -ar, -er, -ir en oraciones simples (cantar, comer, vivir).
 > - [ ] Distingo cantó (conjugado) de cantado y cantando (no conjugados).
 >
+
 > [!note] 🎯 Nivel Intermedio
 > 
 > - [ ] Aplico el criterio de persona y tiempo para identificar el verbo conjugado en 8 oraciones.
@@ -386,11 +390,12 @@
 > - [ ] Explico por qué el auxiliar (haber, estar) es el elemento conjugado en las perífrasis.
 > - [ ] Detecto fragmentos formados por participios o gerundios aislados y los corrijo añadiendo un verbo conjugado.
 >
+
 > [!note] 🎯 Nivel Avanzado
 > 
 > - [ ] Analizo oraciones con dos o más verbos (quiero aprender a nadar) y clasifico cada forma.
 > - [ ] Corrijo párrafos académicos con fragmentos de participio y gerundio sin alterar el sentido.
-> - [ ] Justifico por qué una proposición subordinada necesita su propio verbo conjugado en [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 2 - La oración gramatical/02 - Oraciones compuestas\|02 - Oraciones compuestas]].
+> - [ ] Justifico por qué una proposición subordinada necesita su propio verbo conjugado en [[02 - Oraciones compuestas]].
 > - [ ] Redacto un párrafo de 8 líneas sin fragmentos, usando los tres verboides apoyados en verbos conjugados.
 
 ---
@@ -459,10 +464,11 @@ mindmap
 > 
 > [4] M. Seco, _Gramática esencial del español_, 3.ª ed. Madrid, España: Espasa Calpe, 1999.
 >
+
 > [!quote] 🔗 Conexiones
 > 
-> - [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 2 - La oración gramatical/02 - Oraciones compuestas\|02 - Oraciones compuestas]] — cada proposición coordinada o subordinada necesita su propio verbo conjugado; los verboides no bastan para articularlas.
-> - [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 2 - La oración gramatical/00 - Índice Unidad 2\|Universidad/Preuniversitario/MOOC de Comunicación/Unidad 2 - La oración gramatical/00 - Índice Unidad 2]] — índice general de la unidad: la oración gramatical, sus partes y tipos.
+> - [[02 - Oraciones compuestas]] — cada proposición coordinada o subordinada necesita su propio verbo conjugado; los verboides no bastan para articularlas.
+> - [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 2 - La oración gramatical/00 - Índice Unidad 2]] — índice general de la unidad: la oración gramatical, sus partes y tipos.
 > - Próxima nota (Unidad 2, punto 4): análisis de sujeto y predicado con verbos conjugados como núcleo.
 
 ---

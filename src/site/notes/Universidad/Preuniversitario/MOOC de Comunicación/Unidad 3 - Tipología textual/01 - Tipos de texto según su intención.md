@@ -34,6 +34,7 @@
 > |**Expositivo**|Informar y explicar hechos objetivos con claridad|Qué es y cómo funciona|Síntesis, definiciones, datos, lenguaje denotativo y neutral, organizadores lógicos|Manual, informe, entrada enciclopédica, texto escolar|
 > |**Argumentativo**|Defender una tesis y persuadir al lector|Por qué debo creerte|Tesis explícita, argumentos y contraargumentos, conectores causales y concesivos, adjetivos valorativos|Ensayo, columna de opinión, debate, publicidad|
 >
+
 > [!success] 📊 Cómo reconocer cada tipo en 30 segundos
 >
 > |Pista|Narrativo|Expositivo|Argumentativo|
@@ -44,6 +45,7 @@
 > |**Finalidad**|Entretener o testimoniar|Hacer comprender|Sacar una conclusión y mover a la acción|
 > |**Prueba rápida**|Si puedes hacer una línea de tiempo, es narrativo|Si puedes hacer un esquema o resumen, es expositivo|Si puedes subrayar una tesis, es argumentativo|
 >
+
 > [!warning] ⚠️ Los textos reales se mezclan
 >
 > En la práctica casi ningún texto es puro. Una crónica combina narración y exposición de datos. Un ensayo expone hechos y luego argumenta. Un manual puede abrir con una anécdota narrativa.
@@ -77,6 +79,7 @@
 > |**Nudo**|Aparición del problema y acciones|Pero un día, de pronto, entonces|Un día desapareció el puente del río|
 > |**Desenlace**|Solución y situación final|Finalmente, al final, desde entonces|Finalmente construyeron uno nuevo y María cruzó primera|
 >
+
 > [!note] 📘 Estructura del texto expositivo - Introducción, desarrollo y conclusión
 >
 > El texto expositivo ordena **hechos, datos y definiciones** de lo general a lo específico para lograr síntesis y claridad:
@@ -100,6 +103,7 @@
 > |**Desarrollo**|Explicar por partes|Subtítulos, enumeraciones, gráficos, ejemplos|Cómo se compone y por qué ocurre|
 > |**Conclusión**|Resumir lo explicado|En síntesis, en resumen, por tanto informativo|Qué debo recordar|
 >
+
 > [!note] 🗣️ Estructura del texto argumentativo - Tesis, argumentos y conclusión
 >
 > El texto argumentativo organiza **razones para sostener una tesis** y persuadir:
@@ -123,6 +127,7 @@
 > |**Argumentos**|Datos, causas, ejemplos, autoridad|Porque, dado que, según estudios, por ejemplo|Porque reduce tráfico y contaminación|
 > |**Conclusión**|Cierre persuasivo|Por lo tanto, en conclusión, por eso|Por lo tanto, la ciudad debe financiarlo|
 >
+
 > [!success] 📊 Comparación rápida de estructuras
 >
 > |Tipo|Esquema secuencial|Eje organizador|Lo que no puede faltar|
@@ -148,6 +153,7 @@
 > |**Ejemplos**|En 2024 la ciudad tenía 2 millones de habitantes|Esa ciudad es caótica e inhabitable|
 > |**Ejemplos**|El texto tiene 350 palabras|Ese texto es aburrido y mal escrito|
 >
+
 > [!note] 🧪 Test de 4 preguntas para distinguirlos
 >
 > Aplica estas preguntas a cada enunciado:
@@ -164,6 +170,7 @@
 > |La ley se aprobó en marzo de 2023|Sí|Sí|No|Hecho|
 > |Esa ley es injusta e inútil|No|No|Sí, injusta e inútil|Opinión|
 >
+
 > [!success] 📊 Por qué importa en cada tipo de texto
 >
 > |Tipo de texto|Rol del hecho|Rol de la opinión|Error frecuente|
@@ -186,6 +193,7 @@
 > |**Cierre**|Al final, desde entonces, nunca más|En síntesis, en resumen, en conclusión informativa|Por lo tanto, en conclusión, por eso defiendo que|
 > |**Ejemplo de uso**|Después de cruzar el río, acamparon|Por ejemplo, el cobre conduce electricidad|Por ejemplo, en Suecia esta medida funcionó|
 >
+
 > [!success] 📊 El lenguaje como huella de la intención
 >
 > |Nivel|Narrativo|Expositivo|Argumentativo|
@@ -196,6 +204,7 @@
 > |**Verbos tipo**|Corrió, gritó, descubrió|Es, comprende, se clasifica, mide|Creo, demuestra, exige, debería|
 > |**Objetividad**|Subjetividad del narrador permitida|Máxima objetividad y neutralidad|Subjetividad argumentada con pruebas|
 >
+
 > [!warning] ⚠️ Falsas pistas que confunden
 >
 > - Un texto con fechas no siempre es narrativo: si las fechas explican un proceso y no cuentan una historia, es expositivo.
@@ -217,6 +226,7 @@
 > |**Narrar sin nudo**|Contar solo el marco sin conflicto|Sin ruptura del equilibrio no hay narración completa|
 > |**Dar hechos sin fuente en argumentación**|Decir estudios dicen sin precisar cuál|Todo hecho usado como evidencia debe poder verificarse|
 >
+
 > [!note] ✅ Checklist de autoevaluación rápida
 >
 > - [ ] Puedo nombrar la intención dominante en una frase: cuenta, explica o defiende.
@@ -252,6 +262,7 @@
 > |5|**Expositivo**|Describe y clasifica con datos objetivos|
 > |6|**Argumentativo**|Postura discutible con debería y razón con ya que|
 >
+
 > [!example]- ✏️ Ejercicio 02.2 - Ordena la estructura narrativa
 >
 > **Instrucción:** Los siguientes párrafos están desordenados. Ordénalos en presentación, nudo y desenlace.
@@ -270,6 +281,7 @@
 >
 > **Reto extra:** Subraya los conectores temporales y cambia el desenlace por uno distinto en dos líneas.
 >
+
 > [!example]- ✏️ Ejercicio 02.3 - Hecho frente a opinión, 8 enunciados
 >
 > **Instrucción:** Marca cada enunciado con H si es hecho comprobable u O si es opinión o juicio de valor. Aplica el test de 4 preguntas.
@@ -296,6 +308,7 @@
 > |7|**H**|Páginas y año comprobables|
 > |8|**O**|Adjetivos aburrida y sobrevalorada|
 >
+
 > [!example]- ✏️ Ejercicio 02.4 - Escribe tesis más dos argumentos
 >
 > **Instrucción:** Elige uno de estos temas y escribe una tesis clara más dos argumentos con evidencia o razón. Cierra con una conclusión de una línea.
@@ -326,10 +339,10 @@
 
 > [!note] 🌉 Lo que te llevas a la próxima nota
 >
-> - El texto académico que verás en [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 3 - Tipología textual/02 - El texto académico\|02 - El texto académico]] combina exposición y argumentación con normas formales.
+> - El texto académico que verás en [[02 - El texto académico]] combina exposición y argumentación con normas formales.
 > - Todo trabajo académico exige separar hechos con cita de opiniones propias con tesis.
 > - Si dominas la tríada de hoy, el informe, el ensayo y la monografía serán solo combinaciones de lo ya aprendido.
-> - Vuelve a [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 3 - Tipología textual/00 - Índice Unidad 3\|Universidad/Preuniversitario/MOOC de Comunicación/Unidad 3 - Tipología textual/00 - Índice Unidad 3]] cuando necesites ubicar dónde encaja cada formato académico.
+> - Vuelve a [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 3 - Tipología textual/00 - Índice Unidad 3]] cuando necesites ubicar dónde encaja cada formato académico.
 > - Recuerda: contar emociona, explicar aclara y argumentar convence; la universidad te pedirá sobre todo las dos últimas.
 
 ---
@@ -350,12 +363,14 @@
 > - [ ] Clasifico un texto breve como narrativo, expositivo o argumentativo según su intención dominante.
 > - [ ] Reconozco el esquema de cada tipo: presentación nudo desenlace, introducción desarrollo conclusión, tesis argumentos conclusión.
 >
+
 > [!note] 🎯 Nivel Intermedio
 >
 > - [ ] Ordeno párrafos desordenados en la estructura interna correcta de cada tipo.
 > - [ ] Distingo un hecho comprobable de una opinión usando el test de 4 preguntas.
 > - [ ] Explico por qué un texto real mezcla tipos y justifico cuál es la intención dominante.
 >
+
 > [!note] 🎯 Nivel Avanzado
 >
 > - [ ] Redacto una tesis discutible con dos argumentos apoyados en hechos y una conclusión coherente.
@@ -399,11 +414,12 @@ mindmap
 >
 > [4] Real Academia Española y Asociación de Academias de la Lengua Española, _Nueva gramática de la lengua española_, Madrid, España: Espasa, 2009.
 >
+
 > [!quote] 🔗 Conexiones
 >
-> - [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 3 - Tipología textual/00 - Índice Unidad 3\|Universidad/Preuniversitario/MOOC de Comunicación/Unidad 3 - Tipología textual/00 - Índice Unidad 3]] — mapa general de la unidad de tipología textual y orden de lectura.
-> - [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 3 - Tipología textual/02 - El texto académico\|02 - El texto académico]] — siguiente nota: cómo el texto expositivo y argumentativo se aplican en el ámbito académico.
-> - [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 3 - Tipología textual/00 - Índice Unidad 3\|Universidad/Preuniversitario/MOOC de Comunicación/Unidad 3 - Tipología textual/00 - Índice Unidad 3]] — vuelve al índice para repasar la tríada antes de pasar al texto académico.
+> - [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 3 - Tipología textual/00 - Índice Unidad 3]] — mapa general de la unidad de tipología textual y orden de lectura.
+> - [[02 - El texto académico]] — siguiente nota: cómo el texto expositivo y argumentativo se aplican en el ámbito académico.
+> - [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 3 - Tipología textual/00 - Índice Unidad 3]] — vuelve al índice para repasar la tríada antes de pasar al texto académico.
 
 ---
 

@@ -139,6 +139,7 @@
 > ✓ Fire!
 > ```
 >
+
 > [!example] Emotion Expression Examples
 > 
 > **Everyday expressions:**
@@ -218,6 +219,7 @@
 > ✓ Stop right there!
 > ```
 >
+
 > [!example] Command Examples in Context
 > 
 > **Safety warnings:**
@@ -319,6 +321,7 @@
 > ✓ Oh no!
 > ```
 >
+
 > [!example] Interjection Usage Examples
 > 
 > **In sentences:**
@@ -397,6 +400,7 @@
 > ✓ How fast time goes!
 > ```
 >
+
 > [!example] Exclamatory Sentence Examples
 > 
 > **With "What":**
@@ -619,6 +623,7 @@
 > 30. The store opens at 9 AM. (statement)
 > ```
 >
+
 > [!example] Exercise 2: Appropriate or Inappropriate?
 > 
 > **Instructions:** Decide if the exclamation mark is appropriate (✓) or inappropriate (✗).
@@ -666,6 +671,7 @@
 >     → According to the data, sales increased by 10%.
 > ```
 >
+
 > [!example] Exercise 3: Create Exclamatory Sentences
 > 
 > **Instructions:** Transform these statements into exclamatory sentences using "What" or "How".
@@ -722,6 +728,7 @@
 >    or: How amazing the view is!
 > ```
 >
+
 > [!example] Exercise 4: Fix the Exclamation Errors
 > 
 > **Instructions:** Correct the exclamation mark errors in these sentences.
@@ -926,7 +933,7 @@
 > 
 > **Related punctuation marks:**
 > 
-> **[[Period (.)\|Period (.)]]**
+> **[[Universidad/Preuniversitario/MOOC - Ingles (A1 - A2)/Unit 3 - Writing and Punctuation/02 - Period\|02 - Period]]**
 > 
 > ```
 > Conexión: Period = neutral; Exclamation = emotional
@@ -938,7 +945,7 @@
 > Choose based on emotional level needed
 > ```
 > 
-> **[[Question Mark (?)\|Question Mark (?)]]**
+> **[[Universidad/Preuniversitario/MOOC - Ingles (A1 - A2)/Unit 3 - Writing and Punctuation/03 - Question Mark\|03 - Question Mark]]**
 > 
 > ```
 > Conexión: Both show specific sentence types

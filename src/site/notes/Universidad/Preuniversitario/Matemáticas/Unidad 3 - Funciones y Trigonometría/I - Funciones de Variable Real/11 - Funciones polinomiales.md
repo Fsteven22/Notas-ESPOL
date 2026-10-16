@@ -16,7 +16,6 @@
 >     A["Grado n<br/>líder an"] --> B["Ruffini<br/>factoriza"]
 >     B --> C["Raíces<br/>mult"]
 >     C --> D["Extremos<br/>líder"]
->
 >     style B fill:#e1ffe1
 >     style D fill:#e1f5ff
 > ```
@@ -158,10 +157,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/07 - Función cuadrática\|07 - Función cuadrática]] — grado 2 como caso.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/13 - Técnicas de conteo\|13 - Técnicas de conteo]] — expande $(x+1)^n$.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/12 - Funciones racionales\|12 - Funciones racionales]] — $P/Q$ con ceros de $P$.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/12 - Inducción matemática\|12 - Inducción matemática]] — prueba $f^n$ lineal.
+> - [[07 - Función cuadrática]] — grado 2 como caso.
+> - [[13 - Técnicas de conteo]] — expande $(x+1)^n$.
+> - [[12 - Funciones racionales]] — $P/Q$ con ceros de $P$.
+> - [[12 - Inducción matemática]] — prueba $f^n$ lineal.
 
 ---
 

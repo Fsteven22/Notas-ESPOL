@@ -17,7 +17,6 @@
 >     B -->|Invierte| C["Inversa<br/>AA-1=I"]
 >     B -->|Transforma| D["Rot/Ref/Proy"]
 >     B -->|Modela| E["Markov/Perm"]
->
 >     style C fill:#e1ffe1
 >     style E fill:#e1f5ff
 > ```
@@ -28,7 +27,7 @@
 
 > [!note] 📋 Definición — Inversa de una matriz cuadrada
 >
-> $B$ es **inversa** de $A$ (cuadrada) si $AB=BA=I$. Si existe, es única y se denota $A^{-1}$. Existe si y solo si $\det(A)\neq0$ (ver [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/04 - Determinantes\|04 - Determinantes]]).
+> $B$ es **inversa** de $A$ (cuadrada) si $AB=BA=I$. Si existe, es única y se denota $A^{-1}$. Existe si y solo si $\det(A)\neq0$ (ver [[04 - Determinantes]]).
 >
 > $$A=\begin{pmatrix}2&1\\1&1\end{pmatrix}\quad\therefore\quad A^{-1}=\begin{pmatrix}1&-1\\-1&2\end{pmatrix}$$
 >
@@ -83,7 +82,7 @@
 
 > [!warning] ⚠️ Errores frecuentes
 >
-> - **Calcular $A^{-1}$ como $1/A$ elemento a elemento:** la inversa invierte la **operación completa**, no cada número — se halla con Gauss-Jordan o la fórmula de [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/06 - Matriz Inversa\|06 - Matriz Inversa]].
+> - **Calcular $A^{-1}$ como $1/A$ elemento a elemento:** la inversa invierte la **operación completa**, no cada número — se halla con Gauss-Jordan o la fórmula de [[06 - Matriz Inversa]].
 > - **Creer que rotación y reflexión son lo mismo:** rotar preserva orientación ($\det=1$); reflejar la invierte ($\det=-1$).
 > - **Pedir inversa de una no cuadrada:** sin determinante no hay inversa (aunque existan pseudoinversas, fuera de este curso).
 > - **Olvidar verificar $BA=I$ además de $AB=I$:** en dimensión finita basta una, pero al proponer candidata conviene comprobar ambas direcciones.
@@ -181,10 +180,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/02 - Operaciones con matrices\|02 - Operaciones con matrices]] — el producto y la transpuesta usados para verificar $AA^{-1}=I$.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/06 - Matriz Inversa\|06 - Matriz Inversa]] — método general de Gauss-Jordan para hallar $A^{-1}$.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/04 - Determinantes\|04 - Determinantes]] — $\det\neq0$ como condición de existencia de la inversa.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/05 - Sistemas de ecuaciones lineales\|05 - Sistemas de ecuaciones lineales]] — $x=A^{-1}b$ resuelve sistemas cuadrados.
+> - [[02 - Operaciones con matrices]] — el producto y la transpuesta usados para verificar $AA^{-1}=I$.
+> - [[06 - Matriz Inversa]] — método general de Gauss-Jordan para hallar $A^{-1}$.
+> - [[04 - Determinantes]] — $\det\neq0$ como condición de existencia de la inversa.
+> - [[05 - Sistemas de ecuaciones lineales]] — $x=A^{-1}b$ resuelve sistemas cuadrados.
 
 ---
 

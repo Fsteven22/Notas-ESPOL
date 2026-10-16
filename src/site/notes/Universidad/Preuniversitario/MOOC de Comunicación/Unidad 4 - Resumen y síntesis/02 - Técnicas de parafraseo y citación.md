@@ -33,6 +33,7 @@
 > - **Reestructuración gramatical:** cambiar el orden de la oración, la voz (activa/pasiva) o la subordinación — no basta con cambiar palabras sueltas y dejar la misma estructura de la oración original.
 > - **Omisión de comillas:** al no ser una transcripción literal, el parafraseo **no lleva comillas**; si se usaran comillas, se estaría afirmando (incorrectamente) que esas son las palabras exactas del autor.
 >
+
 > [!warning] ⚠️ Parafraseo superficial (no válido)
 >
 > | ❌ Parafraseo superficial | ✅ Parafraseo legítimo |
@@ -43,6 +44,7 @@
 
 > [!note] 📋 Integridad académica
 >
+
 > [!warning] ⚠️ Citación obligatoria — prevención del plagio conceptual
 >
 > Parafrasear una idea **no exime de citar la fuente**. Aunque las palabras sean propias, la idea sigue perteneciendo al autor original — no citarla constituye **plagio conceptual**, incluso si no hay una sola palabra copiada literalmente.
@@ -50,9 +52,9 @@
 > - Se debe citar siguiendo las normas correspondientes (**APA, IEEE**, u otra que exija el contexto académico).
 > - La cita debe acompañar al parafraseo inmediatamente (autor, año, y página si aplica), no solo aparecer al final del documento.
 
-![Pasted image 20260903221658.png](/img/user/Universidad/Figuras/Pasted%20image%2020260903221658.png)
+![[Pasted image 20260903221658.png]]
 
-![Pasted image 20260903221809.png](/img/user/Universidad/Figuras/Pasted%20image%2020260903221809.png)
+![[Pasted image 20260903221809.png]]
 
 ---
 
@@ -63,6 +65,7 @@
 > - **Sin comillas y siempre con cita:** al no ser transcripción literal no lleva comillas, pero la idea sigue siendo del autor original, por lo que debe citarse en la norma exigida (APA, IEEE).
 > - **Del parafraseo a la síntesis:** dominar esta técnica es el paso previo para integrar varias fuentes, pues cada fuente sintetizada debe entrar parafraseada y citada.
 >
+
 > [!example]- Ejercicio 03.1 — Parafrasear sin cambiar el significado
 >
 > **Instrucciones:** clasifica cada reformulación como parafraseo legítimo (L), superficial (S) o distorsión del sentido (D). Justifica en una línea.
@@ -81,6 +84,7 @@
 > 4. L: reestructura con nominalización (*carencia de transporte*) y sinónimo (*deserción → abandono*) sin alterar la relación causal.
 > 5. D: añade valoración (*muy bonitos*) y exhortación (*hay que cuidarlos*) que no estaban en el original.
 >
+
 > [!example]- Ejercicio 03.2 — Formatos de citación APA e IEEE
 >
 > **Instrucciones:** indica si cada cita de idea parafraseada es correcta. Corrige las incorrectas.
@@ -101,6 +105,7 @@
 > 5. Incorrecta: si el texto está parafraseado no debe llevar comillas; retirarlas: *La memoria se consolida durante el sueño (García, 2020).*
 > 6. Correcta: cuando dos fuentes sostienen la misma idea se citan juntas; si cada una aporta algo distinto, citar cada aporte por separado.
 >
+
 > [!example]- Ejercicio 03.3 — Parafraseo colaborativo frente a plagio
 >
 > **Instrucciones:** indica si cada caso es práctica colaborativa legítima o plagio (textual o conceptual). Justifica.
@@ -127,28 +132,33 @@
 > 2. Explica por qué un parafraseo nunca debe llevar comillas.
 > 3. Da un ejemplo de plagio conceptual (sin citar) aunque el texto esté parafraseado.
 >
+
 > [!example]- 🟢 Respuestas — Nivel Básico
 >
 > 1. No es válido: solo tradujo "aprendizaje profundo" a su equivalente en inglés y cambió "requieren" por "necesitan"; la estructura de la oración es idéntica.
 > 2. Porque las comillas indican transcripción literal de las palabras exactas del autor; en un parafraseo las palabras ya no son las del autor, aunque la idea sí lo sea.
 > 3. Presentar como propia (sin cita) la idea de que "el aprendizaje automático reduce el error humano en diagnósticos médicos" tomada de un artículo específico, aunque se reformule completamente con palabras distintas.
 >
+
 > [!question] 🟡 Ejercicios de refuerzo — Nivel Intermedio
 >
 > 1. Parafrasea legítimamente (reestructurando la sintaxis) una oración técnica de tu área de estudio.
 > 2. Añade la cita correspondiente en formato APA o IEEE (puedes usar una fuente ficticia con formato correcto) para el parafraseo del punto 1.
 > 3. Explica la diferencia entre citar una idea parafraseada y citar una cita textual (con comillas).
 >
+
 > [!example]- 🟡 Respuestas — Nivel Intermedio
 >
 > Respuestas abiertas; verifica que el punto 1 cambie tanto vocabulario como estructura gramatical, y que el punto 2 siga el formato de la norma elegida (por ejemplo, APA: Apellido, año).
 >
+
 > [!question] 🔴 Ejercicios de refuerzo — Nivel Avanzado
 >
-> 1. Toma un párrafo de una fuente académica real de tu carrera y elabora tanto un resumen (ver [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 4 - Resumen y síntesis/01 - El resumen académico\|01 - El resumen académico]]) como un parafraseo del mismo contenido, señalando explícitamente las diferencias entre ambos productos.
+> 1. Toma un párrafo de una fuente académica real de tu carrera y elabora tanto un resumen (ver [[01 - El resumen académico]]) como un parafraseo del mismo contenido, señalando explícitamente las diferencias entre ambos productos.
 > 2. Identifica en un texto propio anterior (ensayo, informe) algún caso de parafraseo superficial y corrígelo.
 > 3. Argumenta por qué el plagio conceptual puede ser tan grave académicamente como el plagio textual literal, a pesar de no copiar palabra por palabra.
 >
+
 > [!example]- 🔴 Respuestas — Nivel Avanzado
 >
 > Respuestas abiertas. Para el punto 3: el plagio conceptual se apropia de la contribución intelectual (la idea, el hallazgo, el argumento) sin reconocer su origen, que es precisamente lo que la citación académica busca proteger — la forma de las palabras es secundaria frente a la autoría de la idea.
@@ -163,12 +173,14 @@
 > - [ ] Explico por qué el parafraseo no lleva comillas
 > - [ ] Reconozco un caso de plagio conceptual
 >
+
 > [!note] 🎯 Nivel Intermedio
 >
 > - [ ] Parafraseo textos técnicos cambiando vocabulario y estructura gramatical
 > - [ ] Cito correctamente una idea parafraseada según una norma (APA/IEEE)
 > - [ ] Diferencio resumen y parafraseo al producir cada uno
 >
+
 > [!note] 🎯 Nivel Avanzado
 >
 > - [ ] Detecto y corrijo parafraseos superficiales en textos propios
@@ -209,11 +221,12 @@ mindmap
 >
 > [1] MOOC *Comunicación Efectiva*, Unidad 4 — Resumen y síntesis, Nota 02: "Técnicas de parafraseo y citación".
 >
+
 > [!quote] 🔗 Conexiones
 >
-> - [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 4 - Resumen y síntesis/00 - Índice Unidad 4\|Universidad/Preuniversitario/MOOC de Comunicación/Unidad 4 - Resumen y síntesis/00 - Índice Unidad 4]] — mapa general de la unidad.
-> - [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 4 - Resumen y síntesis/01 - El resumen académico\|01 - El resumen académico]] — contraste directo entre reducción (resumen) y reformulación (parafraseo).
-> - [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 4 - Resumen y síntesis/03 - La síntesis de múltiples fuentes\|03 - La síntesis de múltiples fuentes]] — la síntesis integra parafraseo de varias fuentes con su respectiva citación.
+> - [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 4 - Resumen y síntesis/00 - Índice Unidad 4]] — mapa general de la unidad.
+> - [[01 - El resumen académico]] — contraste directo entre reducción (resumen) y reformulación (parafraseo).
+> - [[03 - La síntesis de múltiples fuentes]] — la síntesis integra parafraseo de varias fuentes con su respectiva citación.
 
 ---
 

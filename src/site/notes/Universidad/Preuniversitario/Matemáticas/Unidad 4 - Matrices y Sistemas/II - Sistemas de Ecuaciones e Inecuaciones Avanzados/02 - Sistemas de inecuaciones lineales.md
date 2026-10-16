@@ -16,12 +16,11 @@
 >     A["Inecuaciones<br/>ax+by<=c"] --> B["Semiplanos<br/>frontera + lado"]
 >     B --> C["Intersección<br/>región factible"]
 >     C --> D["Vértices<br/>óptimo"]
->
 >     style B fill:#e1ffe1
 >     style D fill:#e1f5ff
 > ```
 
-![U4-factible.png](/img/user/Universidad/Figuras/U4-factible.png)
+![[U4-factible.png]]
 
 > [!tip] 💡 Visual — región factible
 >
@@ -200,10 +199,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/11 - Inecuaciones\|11 - Inecuaciones]] — inecuaciones de una variable como caso previo.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/05 - Sistemas de ecuaciones lineales\|05 - Sistemas de ecuaciones lineales]] — fronteras como ecuaciones; vértices como soluciones $2\times2$.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/III - Geometría Analítica/01 - Puntos y rectas\|01 - Puntos y rectas]] — trazado de fronteras en el plano.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/II - Sistemas de Ecuaciones e Inecuaciones Avanzados/03 - Sistemas de inecuaciones no lineales\|03 - Sistemas de inecuaciones no lineales]] — siguiente: regiones curvas.
+> - [[11 - Inecuaciones]] — inecuaciones de una variable como caso previo.
+> - [[05 - Sistemas de ecuaciones lineales]] — fronteras como ecuaciones; vértices como soluciones $2\times2$.
+> - [[01 - Puntos y rectas]] — trazado de fronteras en el plano.
+> - [[03 - Sistemas de inecuaciones no lineales]] — siguiente: regiones curvas.
 
 ---
 

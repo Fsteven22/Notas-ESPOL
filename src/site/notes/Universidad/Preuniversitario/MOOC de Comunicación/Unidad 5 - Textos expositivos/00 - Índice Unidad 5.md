@@ -26,9 +26,9 @@
 >
 > | # | Nota | Contenido principal |
 > |---|---|---|
-> | 01 | [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 5 - Textos expositivos/01 - El texto expositivo (concepto, tipos y estructura)\|01 - El texto expositivo (concepto, tipos y estructura)]] | Definición, tipología por audiencia, rasgos estilísticos, estructura secuencial |
-> | 02 | [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 5 - Textos expositivos/02 - Análisis del texto expositivo\|02 - Análisis del texto expositivo]] | Técnicas para disecar párrafos en ideas centrales e ideas de apoyo |
-> | 03 | [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 5 - Textos expositivos/03 - Conectores textuales y coherencia lógica\|03 - Conectores textuales y coherencia lógica]] | Catálogo de conectores por relación lógica y pautas de coherencia |
+> | 01 | [[01 - El texto expositivo (concepto, tipos y estructura)]] | Definición, tipología por audiencia, rasgos estilísticos, estructura secuencial |
+> | 02 | [[02 - Análisis del texto expositivo]] | Técnicas para disecar párrafos en ideas centrales e ideas de apoyo |
+> | 03 | [[03 - Conectores textuales y coherencia lógica]] | Catálogo de conectores por relación lógica y pautas de coherencia |
 
 ---
 
@@ -46,10 +46,11 @@
 
 > [!note] ☑️ Marca cada nota conforme la completes
 >
-> - [ ] [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 5 - Textos expositivos/01 - El texto expositivo (concepto, tipos y estructura)\|01 - El texto expositivo (concepto, tipos y estructura)]]
-> - [ ] [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 5 - Textos expositivos/02 - Análisis del texto expositivo\|02 - Análisis del texto expositivo]]
-> - [ ] [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 5 - Textos expositivos/03 - Conectores textuales y coherencia lógica\|03 - Conectores textuales y coherencia lógica]]
+> - [ ] [[01 - El texto expositivo (concepto, tipos y estructura)]]
+> - [ ] [[02 - Análisis del texto expositivo]]
+> - [ ] [[03 - Conectores textuales y coherencia lógica]]
 >
+
 > [!note] ✅ Ejercicios formativos (22 en total)
 >
 > **Nota 01 — El texto expositivo:**
@@ -84,8 +85,8 @@
 
 > [!quote] 🔗 Conexiones
 >
-> - Anterior: [[Universidad/Preuniversitario/Comunicación Efectiva/Unidad 4 - Resumen y síntesis/00 - Índice Unidad 4\|00 - Índice Unidad 4]] — la disección en ideas centrales de esta unidad es la base para resumir.
-> - Siguiente: [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 5 - Textos expositivos/01 - El texto expositivo (concepto, tipos y estructura)\|01 - El texto expositivo (concepto, tipos y estructura)]] — primera nota de la unidad.
+> - Anterior: [[Universidad/Preuniversitario/Comunicación Efectiva/Unidad 4 - Resumen y síntesis/00 - Índice Unidad 4|00 - Índice Unidad 4]] — la disección en ideas centrales de esta unidad es la base para resumir.
+> - Siguiente: [[01 - El texto expositivo (concepto, tipos y estructura)]] — primera nota de la unidad.
 
 ---
 

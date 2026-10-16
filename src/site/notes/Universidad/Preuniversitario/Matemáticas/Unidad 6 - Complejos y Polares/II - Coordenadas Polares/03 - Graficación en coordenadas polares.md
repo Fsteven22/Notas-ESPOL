@@ -20,7 +20,7 @@
 >     style D fill:#e1f5ff
 > ```
 
-![U6-galeria.png](/img/user/Universidad/Figuras/U6-galeria.png)
+![[U6-galeria.png]]
 
 > [!tip] 💡 Visual — Galería
 >
@@ -162,9 +162,9 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 6 - Complejos y Polares/II - Coordenadas Polares/02 - Coordenadas polares\|02 - Coordenadas polares]] — conversión y áreas.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 6 - Complejos y Polares/II - Coordenadas Polares/06 - Caracoles en coordenadas polares\|06 - Caracoles en coordenadas polares]] — familias a fondo.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 6 - Complejos y Polares/II - Coordenadas Polares/06 - Caracoles en coordenadas polares\|06 - Caracoles en coordenadas polares]] — caracoles a fondo.
+> - [[02 - Coordenadas polares]] — conversión y áreas.
+> - [[06 - Caracoles en coordenadas polares]] — familias a fondo.
+> - [[06 - Caracoles en coordenadas polares]] — caracoles a fondo.
 
 
 ---

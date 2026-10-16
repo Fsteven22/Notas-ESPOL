@@ -41,6 +41,7 @@
 >     F --> G["Citar cada fuente en su aporte específico"]
 > ```
 >
+
 > [!success]- ✅ Pautas para cada etapa
 >
 > | Etapa | Qué hacer |
@@ -49,8 +50,9 @@
 > | **Contrastar ideas** | Determinar si dos fuentes se refuerzan mutuamente (complementarias) o se contradicen (divergentes) |
 > | **Integrar bajo ejes temáticos propios** | Organizar la síntesis por temas o preguntas, no por fuente ("qué dicen todas sobre X", no "primero la fuente A, luego la B") |
 > | **Redactar con estructura y voz propias** | El texto resultante debe leerse como una unidad coherente, no como un collage de citas |
-> | **Aparato crítico completo** | Cada idea tomada de una fuente debe llevar su cita correspondiente (ver [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 4 - Resumen y síntesis/02 - Técnicas de parafraseo y citación\|02 - Técnicas de parafraseo y citación]]), incluso al integrarla con otras |
+> | **Aparato crítico completo** | Cada idea tomada de una fuente debe llevar su cita correspondiente (ver [[02 - Técnicas de parafraseo y citación]]), incluso al integrarla con otras |
 >
+
 > [!warning] ⚠️ Error común
 >
 > Redactar la síntesis fuente por fuente (*"Según la fuente A... Por otro lado, la fuente B dice..."*) en vez de organizarla por temas es una forma débil de síntesis: técnicamente contrasta las fuentes, pero no logra la integración real que exige una síntesis madura.
@@ -75,6 +77,7 @@
 > 4. Modelo: *El teletrabajo incrementa la autonomía al eliminar traslados (Pérez, 2021), pero reduce la interacción que sostiene la creatividad colectiva (García, 2022). Por ello, el modelo híbrido de dos a tres días presenciales aparece como fórmula de equilibrio entre ambos efectos (López, 2023).*
 > 5. Porque organiza las ideas por el eje autonomía-cohesión-equilibrio en vez de dedicar una oración aislada a cada fuente.
 >
+
 > [!example]- Ejercicio 04.2 — Matriz de síntesis por temas
 >
 > **Instrucciones:** completa la matriz con las fuentes ficticias sobre lectura digital. Fuentes: (A) *Ruiz (2020): la lectura digital mejora el acceso pero aumenta la distracción.* (B) *Torres (2021): la comprensión profunda es mayor en papel que en pantalla.* Usa C = coincide, M = matiza, N = no trata.
@@ -105,6 +108,7 @@
 > 3. A: no mide comprensión; B: es mayor en papel.
 > 4. Modelo: *Dado que lo digital amplía el acceso pero dispersa la atención (Ruiz, 2020) y que la comprensión profunda rinde mejor en papel (Torres, 2021), conviene reservar la pantalla para la exploración y el papel para el estudio exigente.*
 >
+
 > [!example]- Ejercicio 04.3 — Detectar contradicciones entre fuentes
 >
 > **Instrucciones:** para cada par de afirmaciones indica si hay contradicción real, diferencia de alcance o complementariedad. Justifica y propone cómo presentarla en la síntesis.
@@ -131,28 +135,33 @@
 > 2. Indica si esto es complementario o divergente: Fuente A dice que el teletrabajo mejora la productividad; Fuente B dice que la reduce en equipos colaborativos.
 > 3. Señala el problema de esta síntesis: *"La fuente A dice que X. La fuente B dice que Y. La fuente C dice que Z."*
 >
+
 > [!example]- 🟢 Respuestas — Nivel Básico
 >
 > 1. El resumen condensa una sola fuente conservando su terminología; la síntesis integra varias fuentes en una estructura y voz propias.
 > 2. Divergente (las fuentes se contradicen según el tipo de trabajo).
 > 3. Es una yuxtaposición fuente por fuente, no una integración temática real — no organiza el contenido por ejes propios.
 >
+
 > [!question] 🟡 Ejercicios de refuerzo — Nivel Intermedio
 >
 > 1. Toma dos fuentes breves sobre un mismo tema técnico y clasifica sus puntos como complementarios o divergentes.
 > 2. Redacta un párrafo de síntesis que integre ambas fuentes bajo un eje temático propio (no fuente por fuente).
 > 3. Verifica que tu párrafo cite correctamente el aporte específico de cada fuente.
 >
+
 > [!example]- 🟡 Respuestas — Nivel Intermedio
 >
 > Respuestas abiertas según las fuentes elegidas; verifica que el párrafo del punto 2 no siga la estructura "primero A, luego B" sino que combine ambos aportes en función de una idea propia.
 >
+
 > [!question] 🔴 Ejercicios de refuerzo — Nivel Avanzado
 >
 > 1. Elabora una síntesis de 3 fuentes sobre un tema de tu carrera, con al menos un punto de divergencia explícito entre ellas.
 > 2. Revisa tu síntesis: ¿tiene una estructura y voz propias, o se nota la "costura" entre fuentes?
 > 3. Explica cómo cambiaría tu síntesis si una de las tres fuentes fuera mucho menos confiable que las otras dos (por ejemplo, un blog sin respaldo frente a artículos revisados por pares).
 >
+
 > [!example]- 🔴 Respuestas — Nivel Avanzado
 >
 > Respuestas abiertas. Para el punto 3: una fuente menos confiable debería presentarse con matices ("un blog sugiere que...", frente a "estudios revisados por pares confirman que...") en vez de tratarla con el mismo peso que fuentes académicas verificadas.
@@ -167,12 +176,14 @@
 > - [ ] Clasifico ideas de distintas fuentes como complementarias o divergentes
 > - [ ] Reconozco una síntesis débil organizada fuente por fuente
 >
+
 > [!note] 🎯 Nivel Intermedio
 >
 > - [ ] Integro ideas de 2 o más fuentes bajo un eje temático propio
 > - [ ] Cito correctamente el aporte específico de cada fuente dentro de la síntesis
 > - [ ] Presento explícitamente los puntos de divergencia entre fuentes
 >
+
 > [!note] 🎯 Nivel Avanzado
 >
 > - [ ] Redacto síntesis de 3 o más fuentes con estructura y voz propias coherentes
@@ -213,11 +224,12 @@ mindmap
 >
 > [1] MOOC *Comunicación Efectiva*, Unidad 4 — Resumen y síntesis, Nota 03: "La síntesis de múltiples fuentes".
 >
+
 > [!quote] 🔗 Conexiones
 >
-> - [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 4 - Resumen y síntesis/00 - Índice Unidad 4\|Universidad/Preuniversitario/MOOC de Comunicación/Unidad 4 - Resumen y síntesis/00 - Índice Unidad 4]] — mapa general de la unidad.
-> - [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 4 - Resumen y síntesis/01 - El resumen académico\|01 - El resumen académico]] — contraste base: una fuente y estructura del autor vs. varias fuentes y estructura propia.
-> - [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 4 - Resumen y síntesis/02 - Técnicas de parafraseo y citación\|02 - Técnicas de parafraseo y citación]] — la síntesis depende de parafrasear y citar correctamente cada fuente integrada.
+> - [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 4 - Resumen y síntesis/00 - Índice Unidad 4]] — mapa general de la unidad.
+> - [[01 - El resumen académico]] — contraste base: una fuente y estructura del autor vs. varias fuentes y estructura propia.
+> - [[02 - Técnicas de parafraseo y citación]] — la síntesis depende de parafrasear y citar correctamente cada fuente integrada.
 
 ---
 

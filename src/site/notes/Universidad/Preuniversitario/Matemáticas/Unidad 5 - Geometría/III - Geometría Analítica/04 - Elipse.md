@@ -20,7 +20,7 @@
 >     style D fill:#e1f5ff
 > ```
 
-![U5-elipse.png](/img/user/Universidad/Figuras/U5-elipse.png)
+![[U5-elipse.png]]
 
 > [!tip] 💡 Visual — $x^2/9+y^2/4=1$
 >
@@ -163,10 +163,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/III - Geometría Analítica/03 - Parábola\|03 - Parábola]] — una sola distancia constante ($e=1$).
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/III - Geometría Analítica/05 - Hipérbola\|05 - Hipérbola]] — diferencia constante ($e>1$).
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/III - Geometría Analítica/02 - Circunferencia\|02 - Circunferencia]] — caso límite $e=0$.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/15 - Sucesiones\|15 - Sucesiones]] — Kepler: órbitas elípticas.
+> - [[03 - Parábola]] — una sola distancia constante ($e=1$).
+> - [[05 - Hipérbola]] — diferencia constante ($e>1$).
+> - [[02 - Circunferencia]] — caso límite $e=0$.
+> - [[15 - Sucesiones]] — Kepler: órbitas elípticas.
 
 ---
 

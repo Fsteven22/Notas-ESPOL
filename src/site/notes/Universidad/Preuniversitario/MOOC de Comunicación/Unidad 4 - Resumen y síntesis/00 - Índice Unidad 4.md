@@ -37,10 +37,10 @@
 >
 > | # | Nota | Tema principal |
 > |---|---|---|
-> | 01 | [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 4 - Resumen y síntesis/01 - El resumen académico\|01 - El resumen académico]] | Definición, métrica de condensación, rasgos esenciales, 7 fases de elaboración |
-> | 02 | [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 4 - Resumen y síntesis/02 - Técnicas de parafraseo y citación\|02 - Técnicas de parafraseo y citación]] | Reformulación con palabras propias, directrices de estilo, integridad académica |
-> | 03 | [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 4 - Resumen y síntesis/03 - La síntesis de múltiples fuentes\|03 - La síntesis de múltiples fuentes]] | Diferencia con el resumen, integración crítica de varias fuentes |
-> | 04 | [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 4 - Resumen y síntesis/04 - Usos correctos e incorrectos del gerundio\|04 - Usos correctos e incorrectos del gerundio]] | Morfología, casos normativos e incorrecciones frecuentes |
+> | 01 | [[01 - El resumen académico]] | Definición, métrica de condensación, rasgos esenciales, 7 fases de elaboración |
+> | 02 | [[02 - Técnicas de parafraseo y citación]] | Reformulación con palabras propias, directrices de estilo, integridad académica |
+> | 03 | [[03 - La síntesis de múltiples fuentes]] | Diferencia con el resumen, integración crítica de varias fuentes |
+> | 04 | [[04 - Usos correctos e incorrectos del gerundio]] | Morfología, casos normativos e incorrecciones frecuentes |
 
 ---
 
@@ -58,11 +58,12 @@
 
 > [!note] ☑️ Notas temáticas — Marca cada nota conforme la completes
 >
-> - [ ] [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 4 - Resumen y síntesis/01 - El resumen académico\|01 - El resumen académico]]
-> - [ ] [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 4 - Resumen y síntesis/02 - Técnicas de parafraseo y citación\|02 - Técnicas de parafraseo y citación]]
-> - [ ] [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 4 - Resumen y síntesis/03 - La síntesis de múltiples fuentes\|03 - La síntesis de múltiples fuentes]]
-> - [ ] [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 4 - Resumen y síntesis/04 - Usos correctos e incorrectos del gerundio\|04 - Usos correctos e incorrectos del gerundio]]
+> - [ ] [[01 - El resumen académico]]
+> - [ ] [[02 - Técnicas de parafraseo y citación]]
+> - [ ] [[03 - La síntesis de múltiples fuentes]]
+> - [ ] [[04 - Usos correctos e incorrectos del gerundio]]
 >
+
 > [!note] ☑️ Ejercicios formativos (14 en total)
 >
 > **Nota 01 — El resumen académico:**
@@ -90,8 +91,8 @@
 ---
 
 > [!quote] 🔗 Conexiones
-> - Anterior: [[Universidad/Preuniversitario/Comunicación Efectiva/Unidad 3 - Tipología textual/00 - Índice Unidad 3\|00 - Índice Unidad 3]]
-> - Siguiente: [[Universidad/Preuniversitario/MOOC de Comunicación/Unidad 4 - Resumen y síntesis/01 - El resumen académico\|01 - El resumen académico]]
+> - Anterior: [[Universidad/Preuniversitario/Comunicación Efectiva/Unidad 3 - Tipología textual/00 - Índice Unidad 3|00 - Índice Unidad 3]]
+> - Siguiente: [[01 - El resumen académico]]
 
 ---
 

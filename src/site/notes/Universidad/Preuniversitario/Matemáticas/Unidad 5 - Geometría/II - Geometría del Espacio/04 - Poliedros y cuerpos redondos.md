@@ -163,10 +163,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/II - Geometría del Espacio/02 - Poliedros\|02 - Poliedros]] — Euler y platónicos en detalle.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/II - Geometría del Espacio/02 - Poliedros\|02 - Poliedros]] — cilindro, cono, esfera, toro.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/04 - Poligonales y polígonos\|04 - Poligonales y polígonos]] — caras como polígonos.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/II - Geometría del Espacio/01 - Sistema tridimensional\|01 - Sistema tridimensional]] — coordenadas de vértices.
+> - [[02 - Poliedros]] — Euler y platónicos en detalle.
+> - [[02 - Poliedros]] — cilindro, cono, esfera, toro.
+> - [[04 - Poligonales y polígonos]] — caras como polígonos.
+> - [[01 - Sistema tridimensional]] — coordenadas de vértices.
 
 ---
 

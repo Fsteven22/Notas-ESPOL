@@ -16,7 +16,6 @@
 >     A["f,g<br/>punto a punto"] --> B["Compón<br/>g(f(x))"]
 >     B --> C["Dominio<br/>doble filtro"]
 >     C --> D["Inversa<br/>deshace"]
->
 >     style B fill:#e1ffe1
 >     style D fill:#e1f5ff
 > ```
@@ -158,10 +157,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/01 - Definición, dominio y rango\|01 - Definición, dominio y rango]] — base: dominios.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/10 - Función inversa de una función biyectiva\|10 - Función inversa de una función biyectiva]] — inversas a fondo.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/04 - Tipos de funciones\|04 - Tipos de funciones]] — inyectiva para invertir.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/11 - Inecuaciones\|11 - Inecuaciones]] — dominios con desigualdades.
+> - [[01 - Definición, dominio y rango]] — base: dominios.
+> - [[10 - Función inversa de una función biyectiva]] — inversas a fondo.
+> - [[04 - Tipos de funciones]] — inyectiva para invertir.
+> - [[11 - Inecuaciones]] — dominios con desigualdades.
 
 ---
 

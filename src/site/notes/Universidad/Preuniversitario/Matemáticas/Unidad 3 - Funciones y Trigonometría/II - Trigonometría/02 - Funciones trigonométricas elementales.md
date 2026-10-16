@@ -16,12 +16,11 @@
 >     A["Triángulo<br/>op/hip"] --> B["Círculo<br/>unitario"]
 >     B --> C["Signo<br/>cuadrante"]
 >     C --> D["Valor<br/>referencia"]
->
 >     style B fill:#e1ffe1
 >     style D fill:#e1f5ff
 > ```
 
-![U3-trig.png](/img/user/Universidad/Figuras/U3-trig.png)
+![[U3-trig.png]]
 
 ---
 
@@ -161,10 +160,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/II - Trigonometría/01 - Ángulos y sus medidas\|01 - Ángulos y sus medidas]] — base: radianes y referencia.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/II - Trigonometría/05 - Identidades trigonométricas\|05 - Identidades trigonométricas]] — identidades a fondo.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/II - Trigonometría/03 - Gráficas de funciones trigonométricas\|03 - Gráficas de funciones trigonométricas]] — siguiente: ondas.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 6 - Complejos y Polares/II - Coordenadas Polares/02 - Coordenadas polares\|02 - Coordenadas polares]] — $x=r\cos\theta$.
+> - [[01 - Ángulos y sus medidas]] — base: radianes y referencia.
+> - [[05 - Identidades trigonométricas]] — identidades a fondo.
+> - [[03 - Gráficas de funciones trigonométricas]] — siguiente: ondas.
+> - [[02 - Coordenadas polares]] — $x=r\cos\theta$.
 
 ---
 
