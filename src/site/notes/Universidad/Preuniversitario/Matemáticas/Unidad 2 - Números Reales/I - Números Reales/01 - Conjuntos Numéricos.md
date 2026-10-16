@@ -20,7 +20,7 @@
 >     style D fill:#e1f5ff
 > ```
 
-![01-conjuntos-numericos.png](/img/user/Universidad/Figuras/01-conjuntos-numericos.png)
+![[01-conjuntos-numericos.png]]
 
 > [!tip] 💡 Visual — Jerarquía y decimales
 >
@@ -170,10 +170,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/01 - Tipos y cardinalidad\|01 - Tipos y cardinalidad]] — $\mathbb{N},\mathbb{Z},\mathbb{Q}$ como conjuntos.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/05 - Relación de orden\|05 - Relación de orden]] — siguiente: orden.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/13 - Técnicas de conteo\|13 - Técnicas de conteo]] — numerabilidad de $\mathbb{Q}$.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/15 - Sucesiones\|15 - Sucesiones]] — decimales como límites.
+> - [[01 - Tipos y cardinalidad]] — $\mathbb{N},\mathbb{Z},\mathbb{Q}$ como conjuntos.
+> - [[05 - Relación de orden]] — siguiente: orden.
+> - [[13 - Técnicas de conteo]] — numerabilidad de $\mathbb{Q}$.
+> - [[15 - Sucesiones]] — decimales como límites.
 
 ---
 

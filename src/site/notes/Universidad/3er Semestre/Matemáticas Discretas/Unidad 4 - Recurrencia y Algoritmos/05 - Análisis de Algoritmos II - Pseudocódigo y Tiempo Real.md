@@ -25,7 +25,7 @@
 
 > [!note] 🔵 Definiciones
 > 
-> Si la entrada de un algoritmo es un [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/04 - Cardinalidad y Leyes de Cardinalidad\|Cardinalidad]] de $n$ elementos, se dice que el **tamaño de la entrada** es $n$.
+> Si la entrada de un algoritmo es un [[04 - Cardinalidad y Leyes de Cardinalidad|Cardinalidad]] de $n$ elementos, se dice que el **tamaño de la entrada** es $n$.
 > 
 > - **Tiempo del mejor caso:** el tiempo _mínimo_ necesario para entradas de tamaño $n$.
 > - **Tiempo del peor caso:** el tiempo _máximo_ necesario para entradas de tamaño $n$.
@@ -33,7 +33,7 @@
 
 > [!example] 🟢 Ejemplo — búsqueda secuencial
 > 
-> Encuentra una clave en una [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/04 - Sucesiones y Cadenas\|sucesión]] ${s_n}$ de $n$ términos:
+> Encuentra una clave en una [[04 - Sucesiones y Cadenas|sucesión]] ${s_n}$ de $n$ términos:
 > 
 > ```
 > Entrada: clave, n
@@ -67,7 +67,7 @@
 > 
 > Ambas cotas de $1+2+\cdots+n$ vienen de tratar la suma como un polinomio en $n$ (exactamente el trabajo de la nota anterior), no de una fórmula nueva:
 > 
-> - La suma exacta es $\frac{n(n+1)}{2}$, que es $\Theta(n^2)$ por el atajo de polinomios ([[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/01 - Grafos I - Conceptos Básicos y Recorridos\|grado]] 2, coeficiente líder $\frac12$).
+> - La suma exacta es $\frac{n(n+1)}{2}$, que es $\Theta(n^2)$ por el atajo de polinomios ([[01 - Grafos I - Conceptos Básicos y Recorridos|grado]] 2, coeficiente líder $\frac12$).
 > - $1+2+\cdots+n\leq n^2$: cada uno de los $n$ términos es a lo sumo $n$, así que la suma completa es a lo sumo $n\cdot n=n^2$ — el mismo truco de "homogeneizar" de la nota anterior, pero aplicado término a término en vez de a una fórmula cerrada.
 > - $1+2+\cdots+n\geq n^2/4$: al menos la mitad de los términos (del $\lceil n/2\rceil$ al $n$) valen $\geq n/2$, así que la suma es al menos $\frac{n}{2}\cdot\frac{n}{2}=\frac{n^2}{4}$.
 > 
@@ -133,7 +133,7 @@
 > 
 > **Paso inductivo:** si $2^{k}\leq n<2^{k+1}$, se entra una vez con $i=n$ (ejecutando la instrucción $n$ veces), luego $i=\lfloor n/2\rfloor$ cae en el rango $2^{k-1}\leq i<2^k$, y por hipótesis inductiva el resto ejecuta $kn$ veces más. En total $t(n)=n+kn=(k+1)n$, que es exactamente la fórmula para el rango $2^k\leq n<2^{k+1}$.
 > 
-> **De la [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/02 - Relaciones\|relación]] con $k$ a Θ(n log n):** de $2^{k-1}\leq n<2^k$ se sigue $k-1\leq \log n<k$, y para $n\geq2$ ($\log n\geq1$):
+> **De la [[02 - Relaciones|relación]] con $k$ a Θ(n log n):** de $2^{k-1}\leq n<2^k$ se sigue $k-1\leq \log n<k$, y para $n\geq2$ ($\log n\geq1$):
 > 
 > $$n\log n < nk \leq 2n\log n, \quad \forall n\geq2$$
 > 
@@ -179,7 +179,7 @@
 
 > [!info] 💡 El problema que resuelve esta sección
 > 
-> En los Ejemplos II y III, la variable que se divide entre 2 arrancaba exactamente en $n$. En los talleres es común que arranque en otra expresión que depende de $n$ — como $\lfloor 7\sqrt{n}\rfloor$ o $\lfloor\log(5n)\rfloor$. La buena noticia: **el método es el mismo**, usando el lema del piso ($\lfloor x\rfloor=\Theta(x)$, ver [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/04 - Análisis de Algoritmos I - Fundamentos y Funciones Matemáticas\|04 - Análisis de Algoritmos I - Fundamentos y Funciones Matemáticas]]) para reemplazar la expresión inicial por algo más simple.
+> En los Ejemplos II y III, la variable que se divide entre 2 arrancaba exactamente en $n$. En los talleres es común que arranque en otra expresión que depende de $n$ — como $\lfloor 7\sqrt{n}\rfloor$ o $\lfloor\log(5n)\rfloor$. La buena noticia: **el método es el mismo**, usando el lema del piso ($\lfloor x\rfloor=\Theta(x)$, ver [[04 - Análisis de Algoritmos I - Fundamentos y Funciones Matemáticas]]) para reemplazar la expresión inicial por algo más simple.
 > 
 > Lo único que hay que identificar es **cuál de los tres patrones** aplica:
 > 
@@ -297,7 +297,7 @@
 >     x = x + 1                     // Θ(1)
 > ```
 > 
-> El [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/04 - Árboles I - Conceptos Básicos y Árboles de Expansión\|árbol]] de posibilidades tiene tres hojas: $\Theta(n^2)$, $\Theta(n)$, $\Theta(1)$. **Peor caso:** la hoja más cara → $\mathcal{O}(n^2)$. **Mejor caso:** la hoja más barata → $\Omega(1)$. No hay una única $\Theta$ para "el algoritmo en general" a menos que se especifique de qué caso se habla — igual que con la búsqueda secuencial al inicio de esta nota.
+> El [[04 - Árboles I - Conceptos Básicos y Árboles de Expansión|árbol]] de posibilidades tiene tres hojas: $\Theta(n^2)$, $\Theta(n)$, $\Theta(1)$. **Peor caso:** la hoja más cara → $\mathcal{O}(n^2)$. **Mejor caso:** la hoja más barata → $\Omega(1)$. No hay una única $\Theta$ para "el algoritmo en general" a menos que se especifique de qué caso se habla — igual que con la búsqueda secuencial al inicio de esta nota.
 
 ### Cortes anticipados (`return` dentro de ciclos anidados)
 
@@ -372,7 +372,7 @@
 
 > [!note] 🔴 Definición
 > 
-> Una **[[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/01 - Funciones\|función]] recursiva** es una función que se invoca a sí misma. Un **algoritmo recursivo** es aquel que contiene una función recursiva.
+> Una **[[01 - Funciones|función]] recursiva** es una función que se invoca a sí misma. Un **algoritmo recursivo** es aquel que contiene una función recursiva.
 
 > [!example] 🟢 Ejemplo — factorial y su correctitud
 > 
@@ -411,7 +411,7 @@
 > }
 > ```
 > 
-> Los primeros términos son $1,2,3,5,8,13,\dots$ — la misma recurrencia que la [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/01 - Relaciones de Recurrencia\|sucesión de Fibonacci]] $f_n=f_{n-1}+f_{n-2}$, solo desfasada: $walk(1)=f_2,\ walk(2)=f_3,\ walk(n)=f_{n+1}$ para todo $n\geq1$ (se prueba por inducción fuerte).
+> Los primeros términos son $1,2,3,5,8,13,\dots$ — la misma recurrencia que la [[01 - Relaciones de Recurrencia|sucesión de Fibonacci]] $f_n=f_{n-1}+f_{n-2}$, solo desfasada: $walk(1)=f_2,\ walk(2)=f_3,\ walk(n)=f_{n+1}$ para todo $n\geq1$ (se prueba por inducción fuerte).
 
 ---
 
@@ -419,7 +419,7 @@
 
 > [!question] 📋 Por qué esta sección
 > 
-> Los dos ejemplos de arriba (factorial y la caminata del robot) solo demuestran **correctitud**: que el algoritmo calcula lo que dice calcular. No dicen nada sobre **cuánto tarda**. Para eso hace falta plantear una relación de recurrencia distinta — una para el **tiempo** $T(n)$, no para el resultado — y resolverla "desenrollándola" (sustituyendo repetidamente hasta encontrar el patrón). Es el mismo espíritu de las secciones anteriores (contar operaciones, reconocer si el patrón es A o B), aplicado ahora a llamadas recursivas en vez de iteraciones de un `while`. Para la versión formal de resolver recurrencias ([[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/02 - Recurrencia Homogénea\|ecuación característica]], etc.), ver [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/01 - Relaciones de Recurrencia\|01 - Relaciones de Recurrencia]].
+> Los dos ejemplos de arriba (factorial y la caminata del robot) solo demuestran **correctitud**: que el algoritmo calcula lo que dice calcular. No dicen nada sobre **cuánto tarda**. Para eso hace falta plantear una relación de recurrencia distinta — una para el **tiempo** $T(n)$, no para el resultado — y resolverla "desenrollándola" (sustituyendo repetidamente hasta encontrar el patrón). Es el mismo espíritu de las secciones anteriores (contar operaciones, reconocer si el patrón es A o B), aplicado ahora a llamadas recursivas en vez de iteraciones de un `while`. Para la versión formal de resolver recurrencias ([[02 - Recurrencia Homogénea|ecuación característica]], etc.), ver [[01 - Relaciones de Recurrencia]].
 
 > [!tip] 📌 El método: desenrollar la recurrencia
 > 
@@ -445,7 +445,7 @@
 
 > [!success] ✅ (c) Doble recursión — $\text{caminatas}(n)$: $T(n)=T(n-1)+T(n-2)+c \implies$ exponencial, **no** $\Theta(n)$
 > 
-> A diferencia de (a) y (b), aquí cada llamada se **ramifica en dos**, así que desenrollar no da una sola cadena — da un árbol que se duplica en cada nivel. No hace falta la fórmula exacta (eso requiere la ecuación característica de [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/01 - Relaciones de Recurrencia\|01 - Relaciones de Recurrencia]]) para ver que es exponencial:
+> A diferencia de (a) y (b), aquí cada llamada se **ramifica en dos**, así que desenrollar no da una sola cadena — da un árbol que se duplica en cada nivel. No hace falta la fórmula exacta (eso requiere la ecuación característica de [[01 - Relaciones de Recurrencia]]) para ver que es exponencial:
 > 
 > **Cota superior fácil:** como $T$ es creciente, $T(n-2)\leq T(n-1)$, así que $T(n)\leq2T(n-1)+c$. Desenrollando esta versión (más floja pero más simple): $$T(n) \leq 2T(n-1)+c \leq 4T(n-2)+3c \leq \cdots \leq 2^nT(0)+(2^n-1)c$$ → $T(n)=\mathcal{O}(2^n)$.
 > 
@@ -453,7 +453,7 @@
 > 
 > **Conclusión:** $T(n)$ queda atrapado entre dos exponenciales, $(\sqrt2)^n$ y $2^n$ — genuinamente exponencial, no lineal ni logarítmico (el valor exacto es $\Theta(\varphi^n)$ con $\varphi\approx1{,}618$, la razón áurea, resolviendo la recurrencia formalmente). Esta es la razón concreta detrás de la tabla de "Por qué importa" más abajo: cada llamada extra que se ramifica duplica aproximadamente el trabajo, y eso se vuelve impracticable mucho antes que cualquier $\Theta(n^k)$.
 
-> [!success] ✅ (d) Divide y vencerás con [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/05 - Permutaciones y Combinaciones\|combinación]] lineal — estilo _merge sort_: $T(n)=2T(n/2)+n,\ T(1)=c \implies \Theta(n\log n)$
+> [!success] ✅ (d) Divide y vencerás con [[05 - Permutaciones y Combinaciones|combinación]] lineal — estilo _merge sort_: $T(n)=2T(n/2)+n,\ T(1)=c \implies \Theta(n\log n)$
 > 
 > ```
 > combinar(n){
@@ -529,7 +529,7 @@
 > 
 > A partir de $n\approx50$, un algoritmo $\Theta(2^n)$ ya es impracticable; los algoritmos $\Theta(n!)$ se vuelven inviables incluso antes. Esta es la razón práctica detrás de todo el trabajo de las dos notas: **la notación asintótica predice, sin ejecutar nada, si un algoritmo será usable para el tamaño de entrada que te interesa.**
 
-![ChatGPT Image 18 ago 2026, 20_44_56.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2020_44_56.png)
+![[ChatGPT Image 18 ago 2026, 20_44_56.png]]
 
 ---
 
@@ -537,9 +537,9 @@
 
 > [!note] 📋 Temas relacionados
 > 
-> - [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/04 - Análisis de Algoritmos I - Fundamentos y Funciones Matemáticas\|04 - Análisis de Algoritmos I - Fundamentos y Funciones Matemáticas]] — primera parte: cómo obtener las cotas a partir de una fórmula $f(n)$ ya dada.
-> - [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/03 - Pseudocódigo y Algoritmos\|03 - Pseudocódigo y Algoritmos]] — la sintaxis de los algoritmos analizados aquí.
-> - [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/01 - Relaciones de Recurrencia\|01 - Relaciones de Recurrencia]] — la recurrencia de Fibonacci reaparece en el ejemplo de la caminata del robot.
+> - [[04 - Análisis de Algoritmos I - Fundamentos y Funciones Matemáticas]] — primera parte: cómo obtener las cotas a partir de una fórmula $f(n)$ ya dada.
+> - [[03 - Pseudocódigo y Algoritmos]] — la sintaxis de los algoritmos analizados aquí.
+> - [[01 - Relaciones de Recurrencia]] — la recurrencia de Fibonacci reaparece en el ejemplo de la caminata del robot.
 
 ## 📚 Referencias
 

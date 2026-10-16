@@ -16,7 +16,6 @@
 >     A["Puntos<br/>(x,f(x))"] --> B["Esqueleto<br/>inter/sim/as"]
 >     B --> C["Checklist<br/>6 pasos"]
 >     C --> D["Transforma<br/>h,k"]
->
 >     style B fill:#e1ffe1
 >     style D fill:#e1f5ff
 > ```
@@ -160,10 +159,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/01 - Definición, dominio y rango\|01 - Definición, dominio y rango]] — base: dominio y vertical.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/12 - Funciones racionales\|12 - Funciones racionales]] — siguiente: asíntotas y huecos.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/04 - Tipos de funciones\|04 - Tipos de funciones]] — inyectiva y horizontal.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/07 - Función cuadrática\|07 - Función cuadrática]] — vértice y ceros.
+> - [[01 - Definición, dominio y rango]] — base: dominio y vertical.
+> - [[12 - Funciones racionales]] — siguiente: asíntotas y huecos.
+> - [[04 - Tipos de funciones]] — inyectiva y horizontal.
+> - [[07 - Función cuadrática]] — vértice y ceros.
 
 ---
 

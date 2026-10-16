@@ -11,6 +11,8 @@
 > 
 > Considera el enunciado:
 > 
+> > [!example] 🟢 Ejemplo
+> >
 > > $p$: "$n$ es un número entero."
 > 
 > Este enunciado **no es una proposición** por sí solo, ya que su valor lógico depende del valor de $n$:
@@ -19,6 +21,19 @@
 > - $p$ es **falsa** si $n = \tfrac{1}{3},\ \sqrt{2},\ \pi$
 > 
 > Para poder trabajar con este tipo de enunciados necesitamos las **funciones proposicionales** y los **cuantificadores**.
+>
+> ```mermaid
+> graph LR
+>     P["P(x)<br/>abierto"] --> U["∀ cierra<br/>para todo"]
+>     P --> E["∃ cierra<br/>existe"]
+>     E --> U1["∃! cierra<br/>uno solo"]
+>     U --> Q["Proposición<br/>V o F"]
+>     E --> Q
+>     U1 --> Q
+>     style Q fill:#e1ffe1
+> ```
+>
+> **En esta nota:** funciones proposicionales y dominios, $\forall$/$\exists$/$\exists!$ con negación (De Morgan cuantificado), orden de cuantificadores y el error clásico: negar $\forall$ como $\forall\neg$ en vez de $\exists\neg$.
 
 ---
 
@@ -55,6 +70,8 @@
 > 
 > Sea $P$ una función proposicional con dominio de discurso $D$. La proposición:
 > 
+> > [!example] 🟢 Ejemplo
+> >
 > > "**Para toda** $x$ en $D$, $P(x)$"
 > 
 > es una proposición **cuantificada universalmente**, y se escribe:
@@ -70,6 +87,8 @@
 > | $P(x)$ es verdadera **para toda** $x \in D$ | $\forall x \in D : P(x)$ es **verdadera** |
 > | $P(x)$ es falsa **para al menos un** $x \in D$ | $\forall x \in D : P(x)$ es **falsa** |
 > 
+> > [!example] 🟢 Ejemplo
+> >
 > > Un valor $x \in D$ que hace a $P(x)$ **falsa** se llama un **contraejemplo** de la proposición $\forall x \in D : P(x)$.
 
 > [!example] ✅ Ejemplo 3 — Proposición Universal Verdadera
@@ -94,6 +113,8 @@
 > 
 > Como $x = 5$ hace la proposición falsa, es un contraejemplo y la proposición universal es **falsa**. ❌
 > 
+> > [!example] 🟢 Ejemplo
+> >
 > > Aunque para muchos $x \in \mathbb{R}$ la proposición sea verdadera, **basta un contraejemplo** para que sea falsa.
 
 ---
@@ -104,6 +125,8 @@
 > 
 > Sea $P$ una función proposicional con dominio de discurso $D$. La proposición:
 > 
+> > [!example] 🟢 Ejemplo
+> >
 > > "**Existe** $x$ en $D$, $P(x)$"
 > 
 > es una proposición **cuantificada existencialmente**, y se escribe:
@@ -154,6 +177,8 @@
 >
 > Sea $P$ una función proposicional con dominio de discurso $D$. La proposición:
 >
+> > [!example] 🟢 Ejemplo
+> >
 > > "**Existe un único** $x$ en $D$, $P(x)$"
 >
 > es una proposición **cuantificada de existencia única**, y se escribe:
@@ -194,9 +219,25 @@
 >
 > **Demostración:** Tanto $x = 2$ como $x = -2$ satisfacen $x^2 = 4$. Como hay **dos** valores distintos que cumplen $P(x)$, no hay unicidad. ❌
 >
+> > [!example] 🟢 Ejemplo
+> >
 > > Aunque $\exists x \in \mathbb{R} : x^2 = 4$ sí es verdadera, el $\exists!$ exige **exactamente uno**.
 
 ---
+
+
+> [!note] 🔄 Mapa — Negar cuantificadores
+>
+> ```mermaid
+> graph LR
+>     A["¬∀x P(x)"] --> B["∃x ¬P(x)"]
+>     C["¬∃x P(x)"] --> D["∀x ¬P(x)"]
+>     E["Orden ∀∃ ≠ ∃∀"] --> F["El orden cambia el significado"]
+>     style B fill:#e1f5ff
+>     style D fill:#e1f5ff
+> ```
+>
+> **Se lee así:** negar intercambia el cuantificador y niega adentro; el orden nunca se permuta gratis.
 
 ## 🔄 Negación de Cuantificadores
 
@@ -347,6 +388,65 @@
 
 ---
 
+## 📝 Ejercicios Propuestos (Guía 1)
+
+> [!example] ✏️ Ejercicio 1 — Orden de cuantificadores en $\mathbb{R} \times \mathbb{R}$ (Guía 1, ej. 13)
+>
+> Decide el valor lógico de cada proposición con dominio $\mathbb{R} \times \mathbb{R}$:
+>
+> - (a) $\forall x\,\forall y\ (x^2 < y+1)$
+> - (b) $\forall x\,\exists y\ (x^2 < y+1)$
+> - (c) $\exists x\,\forall y\ (x^2 < y+1)$
+> - (e) $\exists y\,\forall x\ (x^2 < y+1)$
+> - (f) $\forall y\,\exists x\ (x^2 < y+1)$
+> - (ñ) $\forall x\,\forall y\ ((x < y) \to (x^2 < y^2))$
+>
+> > [!success]- ✅ Solución guiada
+> >
+> > - (a) **F** — contraejemplo $x = 2, y = 0$: $4 < 1$ es falso.
+> > - (b) **V** — dado $x$, toma $y = x^2$: $x^2 < x^2+1$.
+> > - (c) **F** — fijado $x$, con $y = -x^2-1$ queda $y+1 = -x^2 \leq x^2$.
+> > - (e) **F** — fijado $y$, $x^2$ no es acotada.
+> > - (f) **F** — con $y = -2$ pediría $x^2 < -1$, imposible en $\mathbb{R}$.
+> > - (ñ) **F** — contraejemplo $x = -3, y = 1$: $-3 < 1$ pero $9 \not< 1$.
+> >
+> > Nota el contraste (b)✓ vs (f)✗: el **orden** decide.
+
+> [!example] ✏️ Ejercicio 2 — Valor lógico de cuantificadas (Guía 1, ej. 14)
+>
+> Decide:
+>
+> - (a) $\exists x \in \mathbb{R} : 7 - 4x < 5 - 4x^2$
+> - (c) $\exists x \in \mathbb{R} : 2x^2 - 5x + 3 \leq 1 - x$
+> - (d) $\forall x > 0,\ \exists y \in \mathbb{R} : 4y^2 - 3xy + 1 < 0$
+>
+> > [!success]- ✅ Solución guiada
+> >
+> > - (a) **F** — equivale a $2(2x^2-2x+1) < 0$; el discriminante de $2x^2-2x+1$ es $\Delta = 4-8 = -4 < 0$ con líder positivo: siempre positiva, nunca $< 0$.
+> > - (c) **V** — equivale a $2(x-1)^2 \leq 0$, solo posible con $x = 1$ (verifica: $0 \leq 0$ ✓).
+> > - (d) **F** — haría falta $\Delta = 9x^2-16 > 0$, i.e. $x > 4/3$; falla para $x = 1$ (ahí la cuadrática nunca es negativa), y el $\forall$ exige todos los $x > 0$.
+
+---
+
+## ⚠️ Errores Comunes y Principios
+
+> [!danger] ❌ Error 1: Negar el cuantificador sin cambiarlo (viola **negación de cuantificadores**)
+>
+> - ❌ **EL ERROR ESTÁ AQUÍ:** $\neg\forall x\,P(x) \equiv \forall x\,\neg P(x)$.
+> - ✅ Así sí: la negación voltea el cuantificador: $\neg\forall x\,P(x) \equiv \exists x\,\neg P(x)$ (y al revés).
+
+> [!danger] ❌ Error 2: Conmutar anidados de distinto tipo (viola **dependencia del orden**)
+>
+> - ❌ **EL ERROR ESTÁ AQUÍ:** tratar $\forall x\,\exists y$ igual que $\exists y\,\forall x$.
+> - ✅ Así sí: el orden importa — "$\forall x\,\exists y$" (cada $x$ tiene su $y$) no es "$\exists y\,\forall x$" (un $y$ para todos).
+
+> [!danger] ❌ Error 3: Particularizar $\exists$ con nombre ya usado (viola **novedad del testigo**)
+>
+> - ❌ **EL ERROR ESTÁ AQUÍ:** de $\exists x\,P(x)$ concluir $P(c)$ con una $c$ que ya aparece en la prueba.
+> - ✅ Así sí: el testigo existencial debe ser un nombre **fresco**, sin supuestos previos sobre él.
+
+---
+
 ## 📊 Resumen Visual
 
 ```mermaid
@@ -367,6 +467,62 @@ graph TD
     H --> I[∀∀ ∀∃ ∃∀ ∃∃]
     
 ```
+
+---
+
+## 📋 Resumen Ejecutivo
+
+> [!summary] 📋 Lo Esencial
+>
+> - $P(x)$ es abierta; $\forall$/$\exists$/$\exists!$ la cierran en proposición V o F.
+> - Negar intercambia y niega adentro: $\neg\forall \equiv \exists\neg$, $\neg\exists \equiv \forall\neg$.
+> - El **orden importa**: $\forall x \exists y \neq \exists y \forall x$; el dominio manda el valor.
+
+---
+
+## ✅ Metas de Aprendizaje
+
+> [!note] 🎯 Nivel Básico
+>
+> - [ ] Niego $\forall$/$\exists$ volteando el cuantificador de memoria.
+> - [ ] Distingo $\forall x\,\exists y$ de $\exists y\,\forall x$ con un ejemplo.
+> - [ ] Particularizo $\forall$ y generalizo $\exists$ en ejercicios simples.
+
+> [!note] 🎯 Nivel Intermedio
+>
+> - [ ] Resuelvo anidados con testigo fresco en la particularización existencial.
+> - [ ] Traduzco frases ("todo", "alguien", "el único") a su cuantificador exacto.
+
+---
+
+## 🔁 Repaso SR (flashcards)
+
+#flashcards/discretas-u1
+
+> [!note] 🧠 Repasa con el plugin Spaced Repetition
+>
+> - ¿$\forall$ vs $\exists$ vs $\exists!$?::Para todo / existe al menos uno / existe exactamente uno.
+> - ¿Negar $\forall x P(x)$?::$\exists x \neg P(x)$ (y dual).
+> - ¿Orden $\forall\exists$ vs $\exists\forall$?::Distinto: el segundo da un $y$ único que sirve para todo $x$.
+
+---
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa de contenido: [[Universidad/3er Semestre/Matemáticas Discretas/Matemáticas Discretas\|Matemáticas Discretas]]
+> - Anterior: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/II - Álgebra Proposicional/01 - Algebra de Proposiciones\|01 - Algebra de Proposiciones]] · Siguiente: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/II - Álgebra Proposicional/03 - Demostraciones\|03 - Demostraciones]]
+> - Reglas con cuantificadores: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/III - Razonamiento Inductivo/02 - Reglas de Inferencia para Afirmaciones Cuantificadas\|02 - Reglas de Inferencia para Afirmaciones Cuantificadas]]
+
+---
+
+## 📚 Referencias
+
+> [!quote] 📖 Fuentes
+>
+> - Rosen, *Discrete Mathematics and Its Applications* — cap. 1 (predicados y cuantificadores).
+> - Material de clase MATG1051: negación de cuantificadores y anidados.
 
 ---
 

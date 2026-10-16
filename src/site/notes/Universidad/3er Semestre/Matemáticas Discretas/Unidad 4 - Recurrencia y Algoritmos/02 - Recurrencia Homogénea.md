@@ -41,11 +41,11 @@
 
 > [!note] 🔵 Homogénea vs. No Homogénea
 > 
-> Una [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/02 - Relaciones\|relación]] lineal de orden $k$ con coeficientes constantes tiene la forma:
+> Una [[02 - Relaciones|relación]] lineal de orden $k$ con coeficientes constantes tiene la forma:
 > 
 > - **Homogénea**: $$a_n = c_1 a_{n-1} + c_2 a_{n-2} + \cdots + c_k a_{n-k}$$
 >     
-> - **No homogénea** (incluye un término independiente $f(n)$ que no depende de la [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/04 - Sucesiones y Cadenas\|sucesión]]): $$a_n = c_1 a_{n-1} + c_2 a_{n-2} + \cdots + c_k a_{n-k} + f(n)$$
+> - **No homogénea** (incluye un término independiente $f(n)$ que no depende de la [[04 - Sucesiones y Cadenas|sucesión]]): $$a_n = c_1 a_{n-1} + c_2 a_{n-2} + \cdots + c_k a_{n-k} + f(n)$$
 >     
 > 
 > > [!example]- Ejemplo de cada tipo
@@ -73,7 +73,7 @@
 > 
 > > [!warning] 📌 Por qué funciona
 > > 
-> > Si $t^n$ es solución de la recurrencia, cualquier [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/05 - Permutaciones y Combinaciones\|combinación]] lineal $b\cdot r_1^n + c\cdot r_2^n$ de dos soluciones también lo es (la recurrencia es lineal). Por eso las raíces de la ecuación característica generan toda la familia de soluciones.
+> > Si $t^n$ es solución de la recurrencia, cualquier [[05 - Permutaciones y Combinaciones|combinación]] lineal $b\cdot r_1^n + c\cdot r_2^n$ de dos soluciones también lo es (la recurrencia es lineal). Por eso las raíces de la ecuación característica generan toda la familia de soluciones.
 
 ---
 
@@ -131,7 +131,7 @@
 > > 
 > > $$\boxed{a_n = 3^n + 2n\cdot 3^n}$$
 
-![ChatGPT Image 18 ago 2026, 20_21_32.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2020_21_32.png)
+![[ChatGPT Image 18 ago 2026, 20_21_32.png]]
 
 ---
 
@@ -187,8 +187,8 @@ graph TD
 
 
 > [!quote] 🔗 Conexiones
-> - Previo: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/01 - Relaciones de Recurrencia\|01 - Relaciones de Recurrencia]] — definición
-> - Relacionado: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/04 - Análisis de Algoritmos I - Fundamentos y Funciones Matemáticas\|04 - Análisis de Algoritmos I - Fundamentos y Funciones Matemáticas]] — complejidad
-> - Aplicación: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/05 - Análisis de Algoritmos II - Pseudocódigo y Tiempo Real\|05 - Análisis de Algoritmos II - Pseudocódigo y Tiempo Real]]
+> - Previo: [[01 - Relaciones de Recurrencia]] — definición
+> - Relacionado: [[04 - Análisis de Algoritmos I - Fundamentos y Funciones Matemáticas]] — complejidad
+> - Aplicación: [[05 - Análisis de Algoritmos II - Pseudocódigo y Tiempo Real]]
 
 **Tags:** #recurrencia #recurrenciahomogenea #ecuacioncaracteristica #raicesdistintas #raizdoble #MATG1051 #unidad4 #ESPOL

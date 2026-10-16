@@ -17,7 +17,7 @@
 > [!quote] 🔗 Conexiones
 > - Mapa de contenido: [[Universidad/3er Semestre/Sistema de Bases de Datos/Sistema de Bases de Datos\|Sistema de Bases de Datos]]
 > - Unidad anterior: [[Universidad/2do Semestre/Comunicación/Unidad 1 - Comunicación efectiva/00 - Índice Unidad 1\|00 - Índice Unidad 1]]
-> - Diapositivas: [[BD 02 MC_a_ML\|Unidad 0 — BD 02 MC_a_ML]]
+> - Diapositivas: [Unidad 0 — BD 02 MC_a_ML](/img/user/Universidad/3er%20Semestre/Sistema%20de%20Bases%20de%20Datos/Unidad%200%20-%20Guias%20y%20Ejercicios/Diapositivas/BD%2002%20MC_a_ML.pdf)
 
 ---
 **Tags:** #TICG1018 #unidad2 #indice #bd

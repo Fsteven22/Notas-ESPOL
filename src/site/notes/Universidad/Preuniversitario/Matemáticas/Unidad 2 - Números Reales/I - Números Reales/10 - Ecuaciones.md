@@ -16,12 +16,11 @@
 >     A["Lineal<br/>despeja"] --> B["Cuadrática<br/>Delta"]
 >     B --> C["|f|, raiz<br/>casos/eleva"]
 >     C --> D["Verifica<br/>extrañas"]
->
 >     style B fill:#e1ffe1
 >     style D fill:#e1f5ff
 > ```
 
-![10-parabola.png](/img/user/Universidad/Figuras/10-parabola.png)
+![[10-parabola.png]]
 
 > [!tip] 💡 Visual — Raíces como cortes
 >
@@ -165,10 +164,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/07 - Función cuadrática\|07 - Función cuadrática]] — vértice y raíces.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/09 - Valor Absoluto\|09 - Valor Absoluto]] — $|f|=a$ a fondo.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/05 - Sistemas de ecuaciones lineales\|05 - Sistemas de ecuaciones lineales]] — sistemas $2\times2$.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/11 - Inecuaciones\|11 - Inecuaciones]] — siguiente: desigualdades.
+> - [[07 - Función cuadrática]] — vértice y raíces.
+> - [[09 - Valor Absoluto]] — $|f|=a$ a fondo.
+> - [[05 - Sistemas de ecuaciones lineales]] — sistemas $2\times2$.
+> - [[11 - Inecuaciones]] — siguiente: desigualdades.
 
 ---
 

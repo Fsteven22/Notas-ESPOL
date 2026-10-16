@@ -160,10 +160,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/11 - Funciones polinomiales\|11 - Funciones polinomiales]] — polinomios como funciones.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/13 - Técnicas de conteo\|13 - Técnicas de conteo]] — $(a+b)^n$ general.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/12 - Funciones racionales\|12 - Funciones racionales]] — simplificar $P/Q$.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/10 - Ecuaciones\|10 - Ecuaciones]] — factorizar para resolver.
+> - [[11 - Funciones polinomiales]] — polinomios como funciones.
+> - [[13 - Técnicas de conteo]] — $(a+b)^n$ general.
+> - [[12 - Funciones racionales]] — simplificar $P/Q$.
+> - [[10 - Ecuaciones]] — factorizar para resolver.
 
 ---
 

@@ -99,7 +99,7 @@
 > - Si $x$ y $y$ son hijos de $z$, $x$ y $y$ son **hermanos**.
 > - Si $x$ no tiene hijos, $x$ es un **vértice terminal** (u **hoja**).
 > - Si $x$ no es un vértice terminal, $x$ es un **vértice interno** (o **rama**).
-> - El **subárbol de $T$ con raíz en $x$** es el grafo con [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/04 - Cardinalidad y Leyes de Cardinalidad\|Cardinalidad]] de vértices $V$ = $x$ junto con los descendientes de $x$, y conjunto de aristas $E$ = las aristas en una trayectoria simple de $x$ a algún vértice en $V$.
+> - El **subárbol de $T$ con raíz en $x$** es el grafo con [[04 - Cardinalidad y Leyes de Cardinalidad|Cardinalidad]] de vértices $V$ = $x$ junto con los descendientes de $x$, y conjunto de aristas $E$ = las aristas en una trayectoria simple de $x$ a algún vértice en $V$.
 
 > [!example] 📝 Ejemplo 3 — Árbol genealógico de los dioses griegos
 > 
@@ -215,7 +215,7 @@
 
 > [!tip] 🖥️ Aplicación en programación
 > 
-> En código, **BFS** se implementa con una **cola**: se procesan los vértices en el orden en que se descubrieron. **DFS** se implementa con una **pila** (o de forma más natural, con **recursión**), ya que "retroceder al padre" es exactamente lo que hace una pila de llamadas cuando una [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/01 - Funciones\|función]] recursiva termina. Ambos algoritmos son la base de recorridos de árboles en estructuras de datos (`árbol.bfs()`, `árbol.dfs()`) y de búsqueda en grafos en general (por ejemplo, para encontrar componentes conexas o detectar ciclos).
+> En código, **BFS** se implementa con una **cola**: se procesan los vértices en el orden en que se descubrieron. **DFS** se implementa con una **pila** (o de forma más natural, con **recursión**), ya que "retroceder al padre" es exactamente lo que hace una pila de llamadas cuando una [[01 - Funciones|función]] recursiva termina. Ambos algoritmos son la base de recorridos de árboles en estructuras de datos (`árbol.bfs()`, `árbol.dfs()`) y de búsqueda en grafos en general (por ejemplo, para encontrar componentes conexas o detectar ciclos).
 
 ---
 
@@ -249,7 +249,7 @@
 > > 
 > > La versión simple de Prim (revisando todas las aristas en cada paso) tiene complejidad $O(n^2)$, adecuada para grafos densos. Con una cola de prioridad (heap), se puede optimizar a $O(m \log n)$, mejor para grafos dispersos. Es uno de los algoritmos "greedy" (voraz) más citados en cursos de estructuras de datos, junto con el algoritmo de Kruskal (que en vez de crecer desde un vértice, ordena todas las aristas por peso y las va agregando si no forman ciclo).
 
-![ChatGPT Image 18 ago 2026, 18_29_57.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2018_29_57.png)
+![[ChatGPT Image 18 ago 2026, 18_29_57.png]]
 
 ---
 
@@ -309,11 +309,11 @@ graph TD
 > 
 > **8.** Dado un grafo conexo con un ciclo de longitud 4 donde todas las aristas tienen el mismo peso, ¿cuántos árboles de expansión mínima distintos existen? Generaliza tu respuesta para un ciclo de longitud $n$.
 > 
-> **9.** Diseña (en [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/03 - Pseudocódigo y Algoritmos\|pseudocódigo]] o descripción) una modificación del algoritmo de Prim que, además de encontrar el árbol de expansión mínima, calcule su peso total sin necesidad de un segundo recorrido.
+> **9.** Diseña (en [[03 - Pseudocódigo y Algoritmos|pseudocódigo]] o descripción) una modificación del algoritmo de Prim que, además de encontrar el árbol de expansión mínima, calcule su peso total sin necesidad de un segundo recorrido.
 
 > [!success] ✅ Respuestas
 > 
-> **1.** $v_2$ está en el nivel 2 (raíz = nivel 0, $v_1$ = nivel 1, $v_2$ = nivel 2). Sí, $v_2$ es descendiente de $r$ porque $r$ es ancestro de $v_1$, que a su vez es ancestro de $v_2$ — la [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/02 - Relaciones\|relación]] ancestro/descendiente es transitiva a lo largo de la trayectoria.
+> **1.** $v_2$ está en el nivel 2 (raíz = nivel 0, $v_1$ = nivel 1, $v_2$ = nivel 2). Sí, $v_2$ es descendiente de $r$ porque $r$ es ancestro de $v_1$, que a su vez es ancestro de $v_2$ — la [[02 - Relaciones|relación]] ancestro/descendiente es transitiva a lo largo de la trayectoria.
 > 
 > **2.** $9 - 1 = 8$ aristas, por el teorema de caracterización (condición c).
 > 
@@ -372,9 +372,9 @@ graph TD
 
 > [!quote] 🔗 Notas relacionadas
 > 
-> - [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/03 - Grafos III - Isomorfismo\|03 - Grafos III - Isomorfismo]] — un árbol es, en particular, un grafo simple conexo y acíclico; los conceptos de isomorfismo de grafos aplican igual a árboles.
-> - [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/02 - Grafos II - Subgrafos, Matrices y Algoritmos\|02 - Grafos II - Subgrafos, Matrices y Algoritmos]] — un árbol de expansión es un caso particular de subgrafo generador.
-> - [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/05 - Árboles II - Árboles Binarios, Recorridos y Códigos Huffman\|05 - Árboles II - Árboles Binarios, Recorridos y Códigos Huffman]] — continúa con árboles binarios, sus teoremas, recorridos, y la conexión directa con los códigos Huffman de Computación y Sociedad.
+> - [[03 - Grafos III - Isomorfismo]] — un árbol es, en particular, un grafo simple conexo y acíclico; los conceptos de isomorfismo de grafos aplican igual a árboles.
+> - [[02 - Grafos II - Subgrafos, Matrices y Algoritmos]] — un árbol de expansión es un caso particular de subgrafo generador.
+> - [[05 - Árboles II - Árboles Binarios, Recorridos y Códigos Huffman]] — continúa con árboles binarios, sus teoremas, recorridos, y la conexión directa con los códigos Huffman de Computación y Sociedad.
 
 ---
 

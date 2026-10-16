@@ -63,6 +63,7 @@
 >
 > Se usa un **Zener 1N4733A** (5.1 V) para regular y proteger las entradas lógicas, asegurando que las señales acondicionadas no sobrepasen el voltaje de operación seguro.
 >
+
 > [!note] 🟢 Compuertas lógicas
 >
 > |Compuerta|IC|Función|Salida|
@@ -71,6 +72,7 @@
 > |**AND**|74LS08|Conjunción|$A \cdot B$|
 > |**OR**|74HC32|Disyunción|$A + B$|
 >
+
 > [!note] 🟡 Comparador con LM358
 >
 > Los potenciometros RV1 (70%) y RV3 (30%) establecen umbrales de referencia con fuente de 12 V:
@@ -89,6 +91,7 @@
 > 2. Ajustar RV1 al 70% y RV3 al 30%.
 > 3. Observar activación de salidas según la señal Vacond.
 >
+
 > [!question]- ❓ Análisis
 >
 > - **Función del Zener 1N4733A:** regula y fija el voltaje a máximo 5.1 V. Protege las entradas lógicas de sobrevoltaje.
@@ -104,6 +107,7 @@
 > 2. Implementar la función lógica $F = A' + (B \cdot C)$.
 > 3. Verificar con tabla de verdad.
 >
+
 > [!note] 📊 Tabla de verdad
 >
 > |A|B|C|F|
@@ -117,6 +121,7 @@
 > |1|1|0|0|
 > |1|1|1|1|
 >
+
 > [!note] 🔵 Simplificación
 >
 > - **SOP:** $F = A'B'C' + A'B'C + A'BC' + A'BC + ABC$
@@ -133,6 +138,7 @@
 > 2. Conectar LEDs a pines digitales 7 (rojo), 5 (amarillo), 3 (verde).
 > 3. Subir código y observar comportamiento en Monitor Serial.
 >
+
 > [!note] 📐 Código Arduino
 >
 > ```cpp
@@ -172,6 +178,7 @@
 > }
 > ```
 >
+
 > [!question] ❓ Funciones clave de Arduino
 >
 > |Función|Descripción|
@@ -217,16 +224,19 @@
 > - [ ] Acondiciono una señal analógica a 0–5 V usando Zener 1N4733A para proteger las entradas lógicas.
 > - [ ] Implemento la función lógica $F = A' + (B \cdot C)$ con compuertas NOT, AND y OR.
 >
+
 > [!note] Nivel Intermedio
 > - [ ] Verifico la tabla de verdad midiendo voltajes en las salidas de cada compuerta.
 > - [ ] Uso el mapa de Karnaugh para simplificar una función booleana y la comparo con la implementación física.
 > - [ ] Programo el Arduino para leer un sensor analógico con `analogRead()` y mapear el valor a un rango útil.
 >
+
 > [!note] Nivel Avanzado
 > - [ ] Controlo 3 LEDs (rojo, amarillo, verde) con `digitalWrite()` según rangos del sensor.
 > - [ ] Uso `Serial.println()` para enviar datos al Monitor Serial y graficar el comportamiento del sensor.
 > - [ ] Comparo ventajas y desventajas de controlar con compuertas lógicas vs Arduino en una aplicación real.
 >
+
 > [!quote] 🔗 Conexiones
 > - Teoría: [[01 - Introducción a la Electrónica Digital]], [[02 - Minimización de Funciones Lógicas]] y [[07 - Lógica fija y tablas de verdad]]
 > - Previa: [[Práctica 5 — Filtros Activos]]

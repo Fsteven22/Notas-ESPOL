@@ -16,7 +16,6 @@
 >     A["Despeja<br/>invierte -"] --> B["Críticos<br/>ceros+vert"]
 >     B --> C["Tabla<br/>signos"]
 >     C --> D["Intervalo<br/>unión"]
->
 >     style B fill:#e1ffe1
 >     style D fill:#e1f5ff
 > ```
@@ -160,10 +159,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/10 - Ecuaciones\|10 - Ecuaciones]] — base: despejes.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/09 - Valor Absoluto\|09 - Valor Absoluto]] — $|f|$ a fondo.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/05 - Relación de orden\|05 - Relación de orden]] — orden y supremo.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/12 - Funciones racionales\|12 - Funciones racionales]] — tablas racionales.
+> - [[10 - Ecuaciones]] — base: despejes.
+> - [[09 - Valor Absoluto]] — $|f|$ a fondo.
+> - [[05 - Relación de orden]] — orden y supremo.
+> - [[12 - Funciones racionales]] — tablas racionales.
 
 ---
 

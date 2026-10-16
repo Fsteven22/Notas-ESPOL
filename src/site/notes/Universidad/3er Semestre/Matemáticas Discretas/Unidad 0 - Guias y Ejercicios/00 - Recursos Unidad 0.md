@@ -18,7 +18,7 @@
 
 <iframe src="/img/user/Universidad/3er%20Semestre/Matem%C3%A1ticas%20Discretas/Unidad%200%20-%20Guias%20y%20Ejercicios/Gu%C3%ADa%20de%20problemas%202%20MD.pdf" width="100%" height="900px" title="Guía de problemas 2 MD.pdf" style="border:1px solid #ccc;"></iframe>
 
-<iframe src="/img/user/Universidad/3er%20Semestre/Matem%C3%A1ticas%20Discretas/Unidad%200%20-%20Guias%20y%20Ejercicios/Gu%C3%ADa%20de%20problemas%202%20MD%201.pdf" width="100%" height="900px" title="Guía de problemas 2 MD 1.pdf" style="border:1px solid #ccc;"></iframe>
+[[Guía de problemas 2 MD 1.pdf|Guía de problemas 2 MD 1.pdf]]
 
 <iframe src="/img/user/Universidad/3er%20Semestre/Matem%C3%A1ticas%20Discretas/Unidad%200%20-%20Guias%20y%20Ejercicios/Gu%C3%ADa%20de%20problemas%203.pdf" width="100%" height="900px" title="Guía de problemas 3.pdf" style="border:1px solid #ccc;"></iframe>
 

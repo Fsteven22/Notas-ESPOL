@@ -168,10 +168,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/02 - Cuantificadores\|02 - Cuantificadores]] — base: $\forall,\exists$.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/07 - Pares ordenados y producto cartesiano\|07 - Pares ordenados y producto cartesiano]] — $V_P\subseteq\times$.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/09 - Relaciones\|09 - Relaciones]] — siguiente: relaciones.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/10 - Funciones en Conjuntos\|10 - Funciones en Conjuntos]] — inyectividad formal.
+> - [[02 - Cuantificadores]] — base: $\forall,\exists$.
+> - [[07 - Pares ordenados y producto cartesiano]] — $V_P\subseteq\times$.
+> - [[09 - Relaciones]] — siguiente: relaciones.
+> - [[10 - Funciones en Conjuntos]] — inyectividad formal.
 
 ---
 

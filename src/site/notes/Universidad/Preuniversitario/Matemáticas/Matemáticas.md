@@ -50,4 +50,18 @@
 
 ---
 
+- [[Universidad/Preuniversitario/Matemáticas/Unidad 6 - Complejos y Polares/00 - Índice Unidad 6\|00 - Índice Unidad 6]]
+
+- [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/00 - Índice Unidad 1\|📂 Unidad 1 - Lógica y Conjuntos]]
+
+- [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/00 - Índice Unidad 2\|📂 Unidad 2 - Números Reales]]
+
+- [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/00 - Índice Unidad 3\|📂 Unidad 3 - Funciones y Trigonometría]]
+
+- [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/00 - Índice Unidad 4\|📂 Unidad 4 - Matrices y Sistemas]]
+
+- [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/00 - Índice Unidad 5\|📂 Unidad 5 - Geometría]]
+
+- [[Universidad/Preuniversitario/Matemáticas/Unidad 6 - Complejos y Polares/00 - Índice Unidad 6\|📂 Unidad 6 - Complejos y Polares]]
+
 **Tags:** #matematicas #preuniversitario #ESPOL

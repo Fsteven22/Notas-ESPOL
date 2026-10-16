@@ -95,7 +95,7 @@
 
 > [!note] 📋 Algoritmo para construir un código Huffman óptimo
 > 
-> **Entrada:** una [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/04 - Sucesiones y Cadenas\|sucesión]] de $n$ frecuencias, $n \geq 2$. **Salida:** un árbol con raíz que define un código Huffman óptimo.
+> **Entrada:** una [[04 - Sucesiones y Cadenas|sucesión]] de $n$ frecuencias, $n \geq 2$. **Salida:** un árbol con raíz que define un código Huffman óptimo.
 > 
 > $$huffman(f, n)$$
 > 
@@ -183,7 +183,7 @@
 > 
 > No confundas "entreorden" con "el orden en que fueron insertados los datos". El **entreorden** de un árbol de búsqueda binaria siempre produce los datos en **orden alfabético/numérico ascendente**, sin importar en qué orden se insertaron originalmente — esa es justamente la propiedad que lo hace útil.
 
-![ChatGPT Image 18 ago 2026, 19_13_53.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2019_13_53.png)
+![[ChatGPT Image 18 ago 2026, 19_13_53.png]]
 
 ---
 
@@ -310,7 +310,7 @@ graph TD
 
 > [!quote] 🔗 Notas relacionadas
 > 
-> - [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/04 - Árboles I - Conceptos Básicos y Árboles de Expansión\|04 - Árboles I - Conceptos Básicos y Árboles de Expansión]] — fundamentos de árboles, terminología, árboles de expansión y algoritmos BFS/DFS/Prim que preceden a esta nota.
+> - [[04 - Árboles I - Conceptos Básicos y Árboles de Expansión]] — fundamentos de árboles, terminología, árboles de expansión y algoritmos BFS/DFS/Prim que preceden a esta nota.
 > - 04 - Códigos Prefijos y Huffman Encoding — la nota de Computación y Sociedad donde viste Huffman por primera vez, desde la perspectiva de compresión de datos. Vale la pena revisarlas juntas.
 > - 03 - Run Length Encoding — otra técnica de compresión de la misma unidad de Computación y Sociedad, útil para contrastar con Huffman (RLE comprime por repetición, Huffman por frecuencia).
 

@@ -158,10 +158,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/09 - Relaciones\|09 - Relaciones]] — base: $f\subseteq\times$.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/10 - Función inversa de una función biyectiva\|10 - Función inversa de una función biyectiva]] — inversas reales.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/01 - Tipos y cardinalidad\|01 - Tipos y cardinalidad]] — biyecciones y Cantor.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/04 - Tipos de funciones\|04 - Tipos de funciones]] — iny/sobre en $\mathbb{R}$.
+> - [[09 - Relaciones]] — base: $f\subseteq\times$.
+> - [[10 - Función inversa de una función biyectiva]] — inversas reales.
+> - [[01 - Tipos y cardinalidad]] — biyecciones y Cantor.
+> - [[04 - Tipos de funciones]] — iny/sobre en $\mathbb{R}$.
 
 ---
 

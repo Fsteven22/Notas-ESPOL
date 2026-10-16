@@ -173,6 +173,20 @@
 
 ---
 
+
+> [!note] 🔄 Mapa — Recurrencia completa
+>
+> ```mermaid
+> graph TD
+>     A["Ecuación<br/>sₙ en términos pasados"] --> B["Orden<br/>mayor − menor"]
+>     A --> C["Iniciales<br/>tantas como el orden"]
+>     B --> D["Sucesión definida ✅"]
+>     C --> D
+>     style D fill:#e1ffe1
+> ```
+>
+> **Se lee así:** sin iniciales la ecuación no define nada; el orden dice cuántas necesitas.
+
 ## 🔄 Recurrencias
 
 > [!note] 🔄 Definición — [[01 - Relaciones de Recurrencia|Relación de Recurrencia]]
@@ -247,6 +261,19 @@
 > > Al verificar recurrencias con potencias, **factoriza la potencia de menor exponente** en cada grupo. Esto convierte $2^{n-1}$ y $2^{n-2}$ en $2^n$ multiplicado por una constante, lo que permite simplificar limpiamente.
 
 ---
+
+
+> [!note] 🔤 Mapa — Cadena y operaciones
+>
+> ```mermaid
+> graph LR
+>     A["Cadena<br/>sucesión finita"] --> B["Concatenar"]
+>     A --> C["Longitud"]
+>     A --> D["Subcadena<br/>bloque contiguo"]
+>     style D fill:#fff4e1
+> ```
+>
+> **Se lee así:** la subcadena exige contigüidad; sin bloque contiguo no hay subcadena.
 
 ## 🔤 Cadenas
 
@@ -342,6 +369,63 @@ graph TD
 > - $cab$: ✅ $ab$ es subcadena ($\gamma = c$, $\delta = \lambda$).
 > - $aab$: ✅ $ab$ es subcadena ($\gamma = a$, $\delta = \lambda$).
 > - $ba$: ❌ $ab$ no es subcadena de $ba$.
+
+---
+
+## ⚠️ Errores Comunes y Principios Lógicos
+
+> [!danger] ❌ Error 1: Recurrencia sin condiciones iniciales (viola **definición completa**)
+>
+> - ❌ **EL ERROR ESTÁ AQUÍ:** dar solo $s_n = 5s_{n-1} - 6s_{n-2}$ sin $s_0, s_1$ — infinitas sucesiones la cumplen.
+> - ✅ Así sí: ecuación + iniciales ($s_0 = 5$, $s_1 = 14$).
+
+> [!danger] ❌ Error 2: No factorizar la menor potencia (viola **técnica de verificación**)
+>
+> - ❌ **EL ERROR ESTÁ AQUÍ:** expandir $5 \cdot 2^{n-1} - 6 \cdot 2^{n-2}$ término a término y perderse.
+> - ✅ Así sí: factoriza $2^{n-2}$ (la menor): $2^{n-2}(10-6) = 2^n$. Verificado con SymPy.
+
+> [!danger] ❌ Error 3: Confundir subcadena con subsecuencia (viola **contigüidad**)
+>
+> - ❌ **EL ERROR ESTÁ AQUÍ:** decir que $ab$ es subcadena de $ba$.
+> - ✅ Así sí: subcadena exige bloque contiguo ($cab, aab$ sí; $ba$ no).
+
+---
+
+## ✅ Metas de Aprendizaje
+
+> [!note] 🎯 Nivel Básico
+>
+> - [ ] Hallo $s_i, s_{n-1}, s_{n-2}$ sustituyendo en la fórmula.
+> - [ ] Verifico una recurrencia de orden 2 factorizando la menor potencia.
+> - [ ] Decido si $ab$ es subcadena (contigüidad) en casos dados.
+
+> [!note] 🎯 Nivel Intermedio
+>
+> - [ ] Determino el orden de una recurrencia y sus iniciales mínimas.
+> - [ ] Sumo/producto con notación $\sum$/$\prod$ sin perder el índice inicial.
+
+---
+
+## 🔁 Repaso SR (flashcards)
+
+#flashcards/discretas-u2
+
+> [!note] 🧠 Repasa con el plugin Spaced Repetition
+>
+> - ¿Recurrencia completa?::Ecuación + condiciones iniciales (sin iniciales, infinitas soluciones).
+> - ¿Orden de recurrencia?::Diferencia mayor−menor de índices ($s_n = 5s_{n-1} - 6s_{n-2}$ es orden 2).
+> - ¿Truco de verificación?::Factorizar la potencia de menor exponente en cada grupo.
+> - ¿Subcadena vs subsecuencia?::Subcadena = bloque contiguo; $ab$ en $ba$ no vale.
+
+---
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa de contenido: [[Matemáticas Discretas]]
+> - Índice Unidad 2: [[00 - Índice Unidad 2]]
+> - Anterior: [[03 - Propiedades y Equivalencia]] · Guía: [[Guía de Problemas 2 - Ejercicios Resueltos]]
 
 ---
 

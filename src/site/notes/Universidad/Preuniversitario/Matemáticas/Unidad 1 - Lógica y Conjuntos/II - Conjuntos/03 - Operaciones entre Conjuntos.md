@@ -158,10 +158,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/01 - Tipos y cardinalidad\|01 - Tipos y cardinalidad]] — base: conjuntos.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/04 - Propiedades de las Operaciones\|04 - Propiedades de las Operaciones]] — siguiente: leyes.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/I - Lógica proposicional/05 - Propiedades de los operadores lógicos\|05 - Propiedades de los operadores lógicos]] — De Morgan lógico.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/09 - Relaciones\|09 - Relaciones]] — $\subseteq$ como orden.
+> - [[01 - Tipos y cardinalidad]] — base: conjuntos.
+> - [[04 - Propiedades de las Operaciones]] — siguiente: leyes.
+> - [[05 - Propiedades de los operadores lógicos]] — De Morgan lógico.
+> - [[09 - Relaciones]] — $\subseteq$ como orden.
 
 ---
 

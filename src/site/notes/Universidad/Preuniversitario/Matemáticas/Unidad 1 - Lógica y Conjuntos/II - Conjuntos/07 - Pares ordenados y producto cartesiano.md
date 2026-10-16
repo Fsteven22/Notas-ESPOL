@@ -157,10 +157,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/01 - Tipos y cardinalidad\|01 - Tipos y cardinalidad]] — base: $|A\times B|$.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/09 - Relaciones\|09 - Relaciones]] — siguiente: relaciones.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/10 - Funciones en Conjuntos\|10 - Funciones en Conjuntos]] — funciones como productos.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/05 - Predicados de una variable\|05 - Predicados de una variable]] — $P(x,y)$ como relación.
+> - [[01 - Tipos y cardinalidad]] — base: $|A\times B|$.
+> - [[09 - Relaciones]] — siguiente: relaciones.
+> - [[10 - Funciones en Conjuntos]] — funciones como productos.
+> - [[05 - Predicados de una variable]] — $P(x,y)$ como relación.
 
 ---
 

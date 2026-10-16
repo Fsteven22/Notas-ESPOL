@@ -18,7 +18,7 @@
 > | **Horario** | Paralelo 1: Mar y Jue 11:00-13:00 |
 > | **Oficina** | Vie 10:30-11:30 (previa cita) + foro 24h + Teams horario laboral |
 > | **Plataformas** | Aula Virtual, Teams, Datacamp (cuenta con nombre completo + mail ESPOL + foto) |
-> | **Políticas** | 📎 [BD00 Políticas.pdf](/img/user/Universidad/3er%20Semestre/Sistema%20de%20Bases%20de%20Datos/Unidad%200%20-%20Guias%20y%20Ejercicios/BD00%20Pol%C3%ADticas.pdf) |
+> | **Políticas** | 📎 [BD00 Políticas.pdf](/img/user/Universidad/3er%20Semestre/Sistema%20de%20Bases%20de%20Datos/Unidad%200%20-%20Guias%20y%20Ejercicios/Diapositivas/BD00%20Pol%C3%ADticas.pdf) |
 >
 > > Las diapos usan códigos viejos (TICG1001/CCPG1043): es material reutilizado, el código oficial es TICG1018.
 
@@ -29,6 +29,7 @@
 > [!note] 📌 Qué vamos a lograr
 >
 > Aplicar diseño e implementación de bases de datos con SQL y modelos relacionales para administrar información.
+
 
 > [!success] ✅ Reglas del juego (políticas)
 >

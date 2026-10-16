@@ -33,7 +33,7 @@
 
 > [!note] 📋 Definición 1 — Grafo no dirigido
 > 
-> Un **grafo (no dirigido)** $G$ consiste en un [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/04 - Cardinalidad y Leyes de Cardinalidad\|Cardinalidad]] $V$ de **vértices** (o nodos) y un conjunto $E$ de **aristas**, tal que cada arista $e \in E$ se asocia con un **par no ordenado** de vértices.
+> Un **grafo (no dirigido)** $G$ consiste en un [[04 - Cardinalidad y Leyes de Cardinalidad|Cardinalidad]] $V$ de **vértices** (o nodos) y un conjunto $E$ de **aristas**, tal que cada arista $e \in E$ se asocia con un **par no ordenado** de vértices.
 > 
 > Si existe una arista única $e$ asociada con los vértices $u, v \in V$, se escribe:
 > 
@@ -53,7 +53,7 @@
 
 > [!tip] 🖥️ Diferencia clave para programar
 > 
-> En un grafo no dirigido, la arista ${u,v}$ es equivalente a ${v,u}$ — si $u$ es adyacente a $v$, la [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/02 - Relaciones\|relación]] es simétrica. En un digrafo, $(u,v) \neq (v,u)$: la arista tiene una dirección específica. Esto importa mucho al elegir la estructura de datos (lista/matriz de adyacencia simétrica vs. no simétrica).
+> En un grafo no dirigido, la arista ${u,v}$ es equivalente a ${v,u}$ — si $u$ es adyacente a $v$, la [[02 - Relaciones|relación]] es simétrica. En un digrafo, $(u,v) \neq (v,u)$: la arista tiene una dirección específica. Esto importa mucho al elegir la estructura de datos (lista/matriz de adyacencia simétrica vs. no simétrica).
 
 ---
 
@@ -104,7 +104,7 @@
 
 > [!note] 📋 Definición 5 — Trayectoria (ruta)
 > 
-> Sean $u$ y $v$ vértices en un grafo. Una **trayectoria o ruta** de $u$ a $v$ de longitud $n$ es una [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/04 - Sucesiones y Cadenas\|sucesión]] alternante de $n+1$ vértices y $n$ aristas que comienza en $v_0 = u$ y termina en $v_n = v$:
+> Sean $u$ y $v$ vértices en un grafo. Una **trayectoria o ruta** de $u$ a $v$ de longitud $n$ es una [[04 - Sucesiones y Cadenas|sucesión]] alternante de $n+1$ vértices y $n$ aristas que comienza en $v_0 = u$ y termina en $v_n = v$:
 > 
 > $$(v_0, e_1, v_1, e_2, v_2, \ldots, v_{n-1}, e_n, v_n)$$
 > 
@@ -306,7 +306,7 @@
 > 
 > > [!tip]- 💡 Dirac es un caso particular de Ore Si todos los vértices tienen grado $\geq n/2$ (Dirac), entonces cualquier par $u,v$ suma $\geq n$ (Ore). Por eso Dirac se puede deducir de Ore, pero no al revés — Ore es más general.
 
-![ChatGPT Image 18 ago 2026, 18_00_05.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2018_00_05.png)
+![[ChatGPT Image 18 ago 2026, 18_00_05.png]]
 
 ---
 
@@ -440,8 +440,8 @@ graph TD
 
 > [!quote] 🔗 Conexiones
 > 
-> - [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/02 - Grafos II - Subgrafos, Matrices y Algoritmos\|02 - Grafos II - Subgrafos, Matrices y Algoritmos]] — continuación: subgrafos, componentes, matrices y algoritmos de rutas
-> - [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/03 - Grafos III - Isomorfismo\|03 - Grafos III - Isomorfismo]] — cuándo dos grafos comparten exactamente la misma estructura
+> - [[02 - Grafos II - Subgrafos, Matrices y Algoritmos]] — continuación: subgrafos, componentes, matrices y algoritmos de rutas
+> - [[03 - Grafos III - Isomorfismo]] — cuándo dos grafos comparten exactamente la misma estructura
 > - Sucesiones y Cadenas — la notación de sucesiones se usa para indexar vértices y aristas
 
 ---

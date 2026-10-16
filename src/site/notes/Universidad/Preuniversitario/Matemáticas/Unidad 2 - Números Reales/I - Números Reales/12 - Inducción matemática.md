@@ -16,7 +16,6 @@
 >     A["Base<br/>P(1)"] --> B["Hipótesis<br/>P(k)"]
 >     B --> C["Paso<br/>P(k+1)"]
 >     C --> D["Todo N<br/>cae"]
->
 >     style B fill:#e1ffe1
 >     style D fill:#e1f5ff
 > ```
@@ -159,10 +158,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/I - Lógica proposicional/07 - Demostraciones\|07 - Demostraciones]] — métodos de prueba.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/15 - Sucesiones\|15 - Sucesiones]] — recurrencias como Hanói.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/13 - Técnicas de conteo\|13 - Técnicas de conteo]] — Bernoulli como caso.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/11 - Funciones polinomiales\|11 - Funciones polinomiales]] — fórmulas de sumas.
+> - [[07 - Demostraciones]] — métodos de prueba.
+> - [[15 - Sucesiones]] — recurrencias como Hanói.
+> - [[13 - Técnicas de conteo]] — Bernoulli como caso.
+> - [[11 - Funciones polinomiales]] — fórmulas de sumas.
 
 ---
 

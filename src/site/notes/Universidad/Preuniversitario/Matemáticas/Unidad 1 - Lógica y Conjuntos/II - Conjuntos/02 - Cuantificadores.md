@@ -157,10 +157,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/05 - Predicados de una variable\|05 - Predicados de una variable]] — $P(x)$ como base.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/05 - Predicados de una variable\|05 - Predicados de una variable]] — siguiente: $P(x,y)$.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/I - Lógica proposicional/01 - Proposiciones\|01 - Proposiciones]] — $V/F$ de enunciados.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/06 - Razonamientos con predicados y cuantificadores\|06 - Razonamientos con predicados y cuantificadores]] — reglas $\forall$/$\exists$.
+> - [[05 - Predicados de una variable]] — $P(x)$ como base.
+> - [[05 - Predicados de una variable]] — siguiente: $P(x,y)$.
+> - [[01 - Proposiciones]] — $V/F$ de enunciados.
+> - [[06 - Razonamientos con predicados y cuantificadores]] — reglas $\forall$/$\exists$.
 
 ---
 

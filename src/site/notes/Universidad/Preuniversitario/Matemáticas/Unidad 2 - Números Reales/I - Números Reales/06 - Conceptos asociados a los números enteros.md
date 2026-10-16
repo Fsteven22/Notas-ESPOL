@@ -20,7 +20,7 @@
 >     style D fill:#e1f5ff
 > ```
 
-![06-criba.png](/img/user/Universidad/Figuras/06-criba.png)
+![[06-criba.png]]
 
 > [!tip] 💡 Visual — Criba de Eratóstenes
 >
@@ -164,10 +164,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/03 - Operaciones binarias\|03 - Operaciones binarias]] — $\mathbb{Z}_n$ como estructura.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/01 - Tipos y cardinalidad\|01 - Tipos y cardinalidad]] — infinitud de primos.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/13 - Técnicas de conteo\|13 - Técnicas de conteo]] — conteo con MCD.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/12 - Inducción matemática\|12 - Inducción matemática]] — prueba infinitud de primos.
+> - [[03 - Operaciones binarias]] — $\mathbb{Z}_n$ como estructura.
+> - [[01 - Tipos y cardinalidad]] — infinitud de primos.
+> - [[13 - Técnicas de conteo]] — conteo con MCD.
+> - [[12 - Inducción matemática]] — prueba infinitud de primos.
 
 ---
 

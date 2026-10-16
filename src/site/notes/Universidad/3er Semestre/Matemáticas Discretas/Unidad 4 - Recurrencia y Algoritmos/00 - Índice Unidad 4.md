@@ -29,9 +29,9 @@ graph LR
 ```
 
 > [!quote] 🔗 Conexiones
-> - Previo: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/06 - Teorema del Binomio y Principio del Palomar\|06 - Teorema del Binomio y Principio del Palomar]] (Unidad 3)
-> - Siguiente: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/01 - Grafos I - Conceptos Básicos y Recorridos\|01 - Grafos I - Conceptos Básicos y Recorridos]] (Unidad 5)
-> - MOC general: [[Universidad/3er Semestre/Matemáticas Discretas/Matemáticas Discretas\|Matemáticas Discretas]]
+> - Previo: [[06 - Teorema del Binomio y Principio del Palomar]] (Unidad 3)
+> - Siguiente: [[01 - Grafos I - Conceptos Básicos y Recorridos]] (Unidad 5)
+> - MOC general: [[Matemáticas Discretas]]
 
 ---
 **Tags:** #MATG1051 #unidad4 #indice #discretas

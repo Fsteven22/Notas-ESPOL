@@ -158,10 +158,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/I - Lógica proposicional/03 - Clases de Proposiciones\|03 - Clases de Proposiciones]] — base: equivalencias.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/I - Lógica proposicional/03 - Clases de Proposiciones\|03 - Clases de Proposiciones]] — clasifica resultados.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/I - Lógica proposicional/06 - Razonamientos\|06 - Razonamientos]] — siguiente: inferencia.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/04 - Propiedades de las Operaciones\|04 - Propiedades de las Operaciones]] — dualidad en conjuntos.
+> - [[03 - Clases de Proposiciones]] — base: equivalencias.
+> - [[03 - Clases de Proposiciones]] — clasifica resultados.
+> - [[06 - Razonamientos]] — siguiente: inferencia.
+> - [[04 - Propiedades de las Operaciones]] — dualidad en conjuntos.
 
 ---
 

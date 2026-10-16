@@ -22,8 +22,8 @@ graph LR
 ```
 
 > [!quote] 🔗 Conexiones
-> - Previo: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/05 - Árboles II - Árboles Binarios, Recorridos y Códigos Huffman\|05 - Árboles II - Árboles Binarios, Recorridos y Códigos Huffman]] (Unidad 5)
-> - MOC general: [[Universidad/3er Semestre/Matemáticas Discretas/Matemáticas Discretas\|Matemáticas Discretas]]
+> - Previo: [[05 - Árboles II - Árboles Binarios, Recorridos y Códigos Huffman]] (Unidad 5)
+> - MOC general: [[Matemáticas Discretas]]
 
 ---
 **Tags:** #MATG1051 #unidad6 #indice #discretas

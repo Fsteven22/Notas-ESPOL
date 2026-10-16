@@ -18,6 +18,19 @@
 > Cualquier argumento tiene la forma:
 > 
 > $$\text{Si } p_1 \text{ y } p_2 \text{ y } \cdots \text{ y } p_n \text{ entonces } q.$$
+>
+> ```mermaid
+> graph LR
+>     H["Hipótesis<br/>p₁…pₙ"] --> R["Regla<br/>MP, MT, Silogismo..."]
+>     R --> C{"¿Conclusión<br/>forzada?"}
+>     C -->|"Sí"| V["Válido ✅"]
+>     C -->|"No"| I["Inválido ❌<br/>falacia"]
+>     style V fill:#e1ffe1
+>     style I fill:#ffe1e1
+> ```
+>
+> **En esta nota:** validez vs verdad (premisas verdaderas + forma válida = conclusión verdadera), reglas clásicas (Modus Ponens/Tollens, silogismo, dilema) y falacias típicas (afirmar el consecuente, negar el antecedente).
+>
 
 ---
 
@@ -37,9 +50,25 @@
 > 
 > No se está afirmando que la conclusión es cierta; sólo se dice que si se garantiza la hipótesis, también se debe garantizar la conclusión.
 > 
+> > [!example] 🟢 Ejemplo
+> >
 > > **Un argumento es válido por su forma, no por su contenido.**
 
 ---
+
+
+> [!note] 📋 Mapa — Reglas clásicas
+>
+> ```mermaid
+> graph LR
+>     A["p → q"] --> MP["+ p ⇒ q<br/>Modus Ponens"]
+>     A --> MT["+ ¬q ⇒ ¬p<br/>Modus Tollens"]
+>     B["p → q, q → r"] --> S["⇒ p → r<br/>Silogismo"]
+>     style MP fill:#e1ffe1
+>     style MT fill:#e1ffe1
+> ```
+>
+> **Se lee así:** Ponens afirma el antecedente; Tollens niega el consecuente; el silogismo encadena.
 
 ## 📋 Tabla de Reglas de Inferencia
 
@@ -157,6 +186,8 @@
 > 
 > Supongamos que $p \to q$ y $\neg p$ son verdaderas. Así, $p$ es falsa, pero independientemente de que $q$ sea verdadera o falsa, $p \to q$ es verdadera **por omisión**. No podemos concluir nada sobre $q$.
 > 
+> > [!example] 🟢 Ejemplo
+> >
 > > El argumento es **inválido**. Esta es la falacia de **negación del antecedente**. $\blacksquare$
 
 > [!example] 📝 Ejemplo 3 — Cadena de inferencia con De Morgan
@@ -193,7 +224,54 @@
 > 
 > Concluimos que el razonamiento es **válido**. $\blacksquare$
 > 
+> > [!example] 🟢 Ejemplo
+> >
 > > **Ejercicio propuesto:** Demuestre que $p \to r,\ p \to (r \to q) \Rightarrow p \to r \wedge q$.
+
+---
+
+## 📝 Ejercicios Propuestos (Guía 1)
+
+> [!example] ✏️ Ejercicio 1 — Juan y la procrastinación (Guía 1, ej. 10)
+>
+> Premisas: (1) $\forall x: d(x) \to r(x)$ — quien aplaza es procrastinador; (2) $\forall x: r(x) \to \neg v(x)$ — no pueden revisar; (3) $\forall x: b(x) \to v(x)$ — buena nota requiere revisar; (4) $d(j)$ — Juan aplaza. Demuestra $\neg b(j)$ (Juan no tiene buena nota).
+>
+> > [!success]- ✅ Solución guiada
+> >
+> > Instancia a Juan y encadena: $d(j)$ (P4) + IU en (1) → $r(j)$ por MP; IU en (2) → $\neg v(j)$ por MP; IU en (3) da $b(j) \to v(j)$, y con $\neg v(j)$ → $\neg b(j)$ por **Modus Tollens**. Válido. ✅
+
+> [!example] ✏️ Ejercicio 2 — Argumento con 5 premisas (Guía 1, ej. 11)
+>
+> De $\neg s \to \neg p$; $u$; $t \to \neg u$; $\neg p \to \neg(\neg q \land \neg r)$; $s \to t$ — demuestra $\neg q \to r$.
+>
+> > [!success]- ✅ Solución guiada
+> >
+> > De $u$ y $t \to \neg u$ → $\neg t$ (MT); de $\neg t$ y $s \to t$ → $\neg s$ (MT); con $\neg s \to \neg p$ → $\neg p$ (MP); con la premisa 4 → $\neg(\neg q \land \neg r)$ (MP) → $q \vee r$ (De Morgan) → $\neg q \to r$. Válido. ✅
+
+> [!example] ✏️ Ejercicio 3 — Argumento con 3 premisas (Guía 1, ej. 12)
+>
+> De $p \wedge q \to r$; $(p \to r) \to s$; $t \vee \neg q$ — demuestra $q \to (s \wedge t)$ por reducción al absurdo.
+>
+> > [!success]- ✅ Solución guiada
+> >
+> > Supón $\neg[q \to (s \wedge t)] \equiv q \wedge (\neg s \vee \neg t)$. De $q$ y $t \vee \neg q$ → $t$ (silogismo disyuntivo); con $\neg s \vee \neg t$ → $\neg s$. La contrarrecíproca de la premisa 2 da $\neg s \to \neg(p \to r)$ → $\neg(p \to r) \equiv p \wedge \neg r$ (MP + equivalencia): $p$ y $\neg r$. Con $q$: $p \wedge q$ → $r$ (MP con premisa 1): $r \wedge \neg r$ = ⊥. Contradicción → la conclusión vale. ✅
+
+> [!example] ✏️ Ejercicio 4 — El comité (Lección P4: 6 premisas, MP en cadena)
+>
+> - $p$: el comité aprueba el presupuesto.
+> - $q$: se contrata personal. $r$: se compran equipos.
+> - $s$: el laboratorio está disponible. $t$: el proyecto inicia.
+> - $u$: se entrega el informe final.
+>
+> Premisas: (1) $p \to (q \vee r)$ · (2) $(r \land s) \to t$ · (3) $t \to u$ · (4) $p$ · (5) $\neg q$ · (6) $s$. Demuestra $u$.
+>
+> > [!success]- ✅ Solución guiada
+> >
+> > - De (1) y (4): $p \to (q \vee r)$, $p \vdash q \vee r$ por **MP** (7).
+> > - De (7) y (5): $q \vee r$, $\neg q \vdash r$ por **silogismo disyuntivo** (8). (Ojo de examen: esto vale porque (7) es **disyunción**; si fuera $q \to r$, de $\neg q$ nada se seguiría — verifica siempre la forma antes de citar la regla.)
+> > - De (8) $r$ y (6) $s$: $r \land s$ por **conjunción** (9).
+> > - De (2) y (9): $(r \land s) \to t \vdash t$ por **MP** (10).
+> > - De (3) y (10): $t \to u \vdash u$ por **MP**. Válido. ✅
 
 ---
 
@@ -230,6 +308,62 @@ graph TD
     I -->|No| B
 ```
 
+
+---
+
+## 📋 Resumen Ejecutivo
+
+> [!summary] 📋 Lo Esencial
+>
+> - Argumento = hipótesis + conclusión; **válido** = hipótesis verdaderas fuerzan conclusión verdadera.
+> - Reglas: Modus Ponens, Modus Tollens, silogismo hipotético/disyuntivo, adición, simplificación, dilema.
+> - Falacias: afirmar el consecuente, negar el antecedente (parecen válidas, no lo son).
+
+---
+
+## ✅ Metas de Aprendizaje
+
+> [!note] 🎯 Nivel Básico
+>
+> - [ ] Aplico Modus Ponens, Modus Tollens y silogismo hipotético/disyuntivo sin mirar.
+> - [ ] Verifico validez con tabla o con la forma (no con el contenido).
+> - [ ] Detecto afirmación del consecuente y negación del antecedente.
+
+> [!note] 🎯 Nivel Intermedio
+>
+> - [ ] Encadeno 2–3 reglas en una demostración con premisas numeradas.
+> - [ ] Explico por qué cada falacia falla usando la tabla del condicional.
+
+---
+
+## 🔁 Repaso SR (flashcards)
+
+#flashcards/discretas-u1
+
+> [!note] 🧠 Repasa con el plugin Spaced Repetition
+>
+> - ¿Modus Ponens vs Tollens?::$p \to q, p \vdash q$ vs $p \to q, \neg q \vdash \neg p$.
+> - ¿Afirmar el consecuente?::Falacia: $p \to q, q \not\vdash p$.
+> - ¿Argumento válido?::Hipótesis verdaderas ⇒ conclusión verdadera, siempre.
+
+---
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa de contenido: [[Universidad/3er Semestre/Matemáticas Discretas/Matemáticas Discretas\|Matemáticas Discretas]]
+> - Siguiente: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/III - Razonamiento Inductivo/02 - Reglas de Inferencia para Afirmaciones Cuantificadas\|02 - Reglas de Inferencia para Afirmaciones Cuantificadas]] · Inducción: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/III - Razonamiento Inductivo/03 - Inducción Matemática\|03 - Inducción Matemática]]
+> - Base: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/II - Álgebra Proposicional/03 - Demostraciones\|03 - Demostraciones]]
+
+---
+
+## 📚 Referencias
+
+> [!quote] 📖 Fuentes
+>
+> - Rosen, *Discrete Mathematics and Its Applications* — cap. 1 (reglas de inferencia y falacias).
+> - Material de clase MATG1051: tabla de reglas y argumentos de la Guía 1.
 
 ---
 

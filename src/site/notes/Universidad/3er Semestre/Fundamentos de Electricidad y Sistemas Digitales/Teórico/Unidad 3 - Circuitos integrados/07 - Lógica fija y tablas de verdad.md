@@ -25,6 +25,7 @@
 > 
 > Cada compuerta implementa una operación booleana. Su comportamiento se describe completamente mediante una **tabla de verdad**, que enumera todas las combinaciones posibles de entrada y la salida correspondiente.
 >
+
 > [!note] 📋 Tabla de verdad — Compuertas de 2 entradas
 > 
 > |A|B|AND|OR|NAND|NOR|XOR|XNOR|
@@ -40,6 +41,7 @@
 > - **XOR** ($A \oplus B$): salida 1 si las entradas son diferentes.
 > - **XNOR**: negación de XOR — salida 1 si las entradas son iguales.
 >
+
 > [!note] 🚫 NOT (inversor)
 > 
 > Única compuerta de una sola entrada: invierte el valor lógico.
@@ -57,6 +59,7 @@
 > 
 > Las compuertas se fabrican con distintas tecnologías de transistores, lo que da lugar a **familias lógicas** con diferentes características eléctricas. Las dos más relevantes históricamente son **TTL** (transistores bipolares) y **CMOS** (transistores de efecto de campo).
 >
+
 > [!success] 📊 Comparación TTL vs. CMOS
 > 
 > |Característica|TTL (serie 74xx)|CMOS (serie 40xx / 74HCxx)|
@@ -85,6 +88,7 @@
 > 
 > > 📌 Estos encapsulados suelen venir en formato DIP de 14 pines, con pines de alimentación ($V_{CC}$, GND) compartidos entre todas las compuertas internas.
 >
+
 > [!note] 🧩 Funcionalidad completa con NAND/NOR
 > 
 > Cualquier función booleana puede implementarse usando **únicamente** compuertas NAND (o únicamente NOR), ya que a partir de ellas se pueden construir NOT, AND, OR y las demás:
@@ -116,6 +120,7 @@
 > 
 > > 📌 $S$ es 1 en 5 de las 8 combinaciones posibles — este tipo de tabla es el punto de partida para simplificar la función con Karnaugh o álgebra de Boole (ver [[00 - Índice Unidad 4]]).
 >
+
 > [!example]- ✏️ Ejercicio 2 — Circuito construido solo con NAND
 > 
 > **Dato:** Implementar $S = A + B$ (OR) usando únicamente compuertas NAND.
@@ -138,12 +143,14 @@
 > - [ ] Identifico la diferencia general entre lógica fija y lógica programable.
 > - [ ] Reconozco algunos CI comerciales de la familia 74xx y su función.
 >
+
 > [!note] 🎯 Nivel Intermedio
 > 
 > - [ ] Construyo la tabla de verdad de una función booleana compuesta con varias entradas.
 > - [ ] Comparo las familias TTL y CMOS en términos de voltaje, consumo y velocidad.
 > - [ ] Explico por qué NAND y NOR son compuertas funcionalmente completas.
 >
+
 > [!note] 🎯 Nivel Avanzado
 > 
 > - [ ] Implemento una función booleana dada usando únicamente compuertas NAND (o NOR).
@@ -184,6 +191,7 @@ mindmap
 > 
 > [3] Texas Instruments, _SN74HC00 Quad 2-Input NAND Gate Datasheet_, 2015.
 >
+
 > [!quote] 🔗 Conexiones
 > 
 > - [[06 - Aplicaciones de Integrados 555 - ADC - PWM]] — tema previo de la unidad.

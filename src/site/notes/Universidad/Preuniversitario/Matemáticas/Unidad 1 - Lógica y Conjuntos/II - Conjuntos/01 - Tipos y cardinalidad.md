@@ -160,10 +160,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/01 - Conjuntos Numéricos\|01 - Conjuntos Numéricos]] — $\mathbb{N},\mathbb{Z},\mathbb{Q}$ concretos.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/03 - Operaciones entre Conjuntos\|03 - Operaciones entre Conjuntos]] — siguiente: $\cup,\cap$.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/10 - Funciones en Conjuntos\|10 - Funciones en Conjuntos]] — biyecciones a fondo.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/07 - Pares ordenados y producto cartesiano\|07 - Pares ordenados y producto cartesiano]] — $|A\times B|$.
+> - [[01 - Conjuntos Numéricos]] — $\mathbb{N},\mathbb{Z},\mathbb{Q}$ concretos.
+> - [[03 - Operaciones entre Conjuntos]] — siguiente: $\cup,\cap$.
+> - [[10 - Funciones en Conjuntos]] — biyecciones a fondo.
+> - [[07 - Pares ordenados y producto cartesiano]] — $|A\times B|$.
 
 ---
 

@@ -158,10 +158,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/I - Lógica proposicional/01 - Proposiciones\|01 - Proposiciones]] — base: qué es P.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/I - Lógica proposicional/03 - Clases de Proposiciones\|03 - Clases de Proposiciones]] — siguiente: tautologías.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/I - Lógica proposicional/03 - Clases de Proposiciones\|03 - Clases de Proposiciones]] — FBF y valuaciones.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/I - Lógica proposicional/06 - Razonamientos\|06 - Razonamientos]] — modus ponens y reglas.
+> - [[01 - Proposiciones]] — base: qué es P.
+> - [[03 - Clases de Proposiciones]] — siguiente: tautologías.
+> - [[03 - Clases de Proposiciones]] — FBF y valuaciones.
+> - [[06 - Razonamientos]] — modus ponens y reglas.
 
 ---
 

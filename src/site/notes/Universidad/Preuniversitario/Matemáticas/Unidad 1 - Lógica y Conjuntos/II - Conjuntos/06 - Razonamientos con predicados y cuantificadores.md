@@ -157,10 +157,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/02 - Cuantificadores\|02 - Cuantificadores]] — base: $\forall,\exists$.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/I - Lógica proposicional/06 - Razonamientos\|06 - Razonamientos]] — reglas proposicionales.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/05 - Predicados de una variable\|05 - Predicados de una variable]] — $P(x)$ y $V_P$.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/I - Lógica proposicional/07 - Demostraciones\|07 - Demostraciones]] — Barbara como silogismo.
+> - [[02 - Cuantificadores]] — base: $\forall,\exists$.
+> - [[06 - Razonamientos]] — reglas proposicionales.
+> - [[05 - Predicados de una variable]] — $P(x)$ y $V_P$.
+> - [[07 - Demostraciones]] — Barbara como silogismo.
 
 ---
 

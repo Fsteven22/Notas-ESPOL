@@ -23,6 +23,20 @@
 
 ---
 
+
+> [!note] 📋 Mapa — Orden vs equivalencia
+>
+> ```mermaid
+> graph TD
+>     A["R + reflexiva + transitiva"] --> B{"¿Antisimétrica<br/>o simétrica?"}
+>     B -->|"Antisimétrica"| C["Orden parcial"]
+>     B -->|"Simétrica"| D["Equivalencia<br/>→ partición"]
+>     style C fill:#fff4e1
+>     style D fill:#e1ffe1
+> ```
+>
+> **Se lee así:** reflexiva + transitiva es la base; la tercera propiedad decide la familia.
+
 ## 📋 Relaciones de Orden y de Equivalencia
 
 > [!note] 📋 Definición 13 — Relación de Orden y de Equivalencia
@@ -113,6 +127,18 @@
 > | **Orden parcial** | no necesariamente | ✅ |
 
 ---
+
+> [!note] 🧩 Mapa — Partición ↔ equivalencia
+>
+> ```mermaid
+> graph LR
+>     P["Partición<br/>disjuntos + cubren"] --> E["Equivalencia<br/>clases"]
+>     E --> Q["Cociente<br/>conjunto de clases"]
+>     style P fill:#e1ffe1
+> ```
+>
+> **Se lee así:** partir y equivaler son lo mismo visto de dos lados; el cociente reúne las clases.
+
 ## 🧩 Particiones
 
 > [!note] 🧩 Definición 14 — Partición
@@ -151,9 +177,10 @@
 > **Propiedades de las clases:**
 > 
 > - a ∈ [a] para todo a ∈ X (por reflexividad).
-> - [x] = [b] ⟺ aRb.
+> - Bicondicional de: [x] = [b] ⟺ aRb.
 > - Si [a] ≠ [b], entonces [a] ∩ [b] = ∅ (son disjuntas).
 > - ⋃ₐ [a] = X (cubren todo X).
+
 
 > [!abstract] 📐 Teorema 3 — Equivalencia ⟹ Partición (Conjunto Cociente)
 > 
@@ -169,9 +196,9 @@
 > 
 > Las clases de equivalencia son:
 > 
-> - [1] = {x ∈ X : xR₁1} = {1, 3}  (porque 1R₁1 y 3R₁1)
-> - [3] = {x ∈ X : xR₁3} = {1, 3} = [1]  (misma clase)
-> - [4] = {x ∈ X : xR₁4} = {4}
+> - $[1] = \{x \in X : xR_11\} = \{1, 3\}$ (porque $1R_11$ y $3R_11$)
+> - $[3] = \{x \in X : xR_13\} = \{1, 3\} = [1]$ (misma clase)
+> - $[4] = \{x \in X : xR_14\} = \{4\}$
 > 
 > Por el Teorema 3, el **conjunto cociente** es:
 > 
@@ -220,7 +247,58 @@ graph TD
 > 
 > **2.** [1]=[4]={1,4}, [2]=[5]={2,5}, [3]=[6]={3,6}.
 > 
-> **3.** Sí es relación de equivalencia. Las clases son todas las cadenas de longitud 0, todas las de longitud 1, todas las de longitud 2, etc.
+> **3.** Sí es relación de equivalencia. Las clases son todas las cadenas de longitud 0, todas las de longitud 1, todas las de longitud 2, etc. (verificado con Python: divisibilidad en 1..30 y clases mod 2/3).
+
+---
+
+## ⚠️ Errores Comunes y Principios Lógicos
+
+> [!danger] ❌ Error 1: Probar antisimetría como simetría (viola **dirección de la implicación**)
+>
+> - ❌ **EL ERROR ESTÁ AQUÍ:** asumir $xRy \Rightarrow yRx$ para antisimetría — eso es simetría.
+> - ✅ Así sí: asume $xRy \land yRx$ **juntas** y deduce $x=y$ (como $b=ka$, $a=mb$ $\Rightarrow mk=1$).
+
+> [!danger] ❌ Error 2: Confundir partición con cualquier familia (viola **disjuntos + cubren**)
+>
+> - ❌ **EL ERROR ESTÁ AQUÍ:** $\{\{1,2\},\{2,3\}\}$ "particiona" $\{1,2,3\}$ — se solapan.
+> - ✅ Así sí: disjuntos dos a dos y unión $= X$.
+
+---
+
+## ✅ Metas de Aprendizaje
+
+> [!note] 🎯 Nivel Básico
+>
+> - [ ] Verifico reflexiva/antisimétrica/transitiva una por una (con contraejemplo si falla).
+> - [ ] Calculo clases $[a]$ y el cociente en casos mod $n$.
+
+> [!note] 🎯 Nivel Intermedio
+>
+> - [ ] Distingo orden parcial de total con incomparables (2 y 3 en divisibilidad).
+> - [ ] Voy de partición a equivalencia y de vuelta (Teoremas 2 y 3).
+
+---
+
+## 🔁 Repaso SR (flashcards)
+
+#flashcards/discretas-u2
+
+> [!note] 🧠 Repasa con el plugin Spaced Repetition
+>
+> - ¿Orden parcial (3)?::Reflexiva + antisimétrica + transitiva (verificar una por una).
+> - ¿Antisimétrica en 1 línea?::$xRy \land yRx \Rightarrow x=y$ (¡no es simetría!).
+> - ¿Partición (2)?::Disjuntos dos a dos + unión $= X$; equivale a clases de equivalencia.
+> - ¿Parcial vs total?::Total = todo par comparable; parcial admite incomparables (2,3 en $\mid$).
+
+---
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa de contenido: [[Universidad/3er Semestre/Matemáticas Discretas/Matemáticas Discretas\|Matemáticas Discretas]]
+> - Índice Unidad 2: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/00 - Índice Unidad 2\|00 - Índice Unidad 2]]
+> - Anterior: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/02 - Relaciones\|02 - Relaciones]] · Siguiente: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/04 - Sucesiones y Cadenas\|04 - Sucesiones y Cadenas]]
 
 ---
 

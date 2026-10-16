@@ -20,7 +20,7 @@
 >     style D fill:#e1f5ff
 > ```
 
-![U2-operaciones.png](/img/user/Universidad/Figuras/U2-operaciones.png)
+![[U2-operaciones.png]]
 
 > [!tip] 💡 Visual — Operaciones y signos
 >
@@ -164,10 +164,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/03 - Operaciones binarias\|03 - Operaciones binarias]] — estructura abstracta.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/07 - Expresiones algebraicas\|07 - Expresiones algebraicas]] — notables a fondo.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/09 - Valor Absoluto\|09 - Valor Absoluto]] — signos y distancias.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/10 - Ecuaciones\|10 - Ecuaciones]] — despejes con operaciones.
+> - [[03 - Operaciones binarias]] — estructura abstracta.
+> - [[07 - Expresiones algebraicas]] — notables a fondo.
+> - [[09 - Valor Absoluto]] — signos y distancias.
+> - [[10 - Ecuaciones]] — despejes con operaciones.
 
 ---
 

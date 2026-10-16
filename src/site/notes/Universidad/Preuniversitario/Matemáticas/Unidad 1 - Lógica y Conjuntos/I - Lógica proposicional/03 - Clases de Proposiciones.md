@@ -162,10 +162,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/I - Lógica proposicional/02 - Operadores Lógicos\|02 - Operadores Lógicos]] — base: conectivos.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/I - Lógica proposicional/05 - Propiedades de los operadores lógicos\|05 - Propiedades de los operadores lógicos]] — siguiente: leyes.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/I - Lógica proposicional/06 - Razonamientos\|06 - Razonamientos]] — $\vDash$ como validez.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/13 - Técnicas de conteo\|13 - Técnicas de conteo]] — conteo $2^{2^n}$.
+> - [[02 - Operadores Lógicos]] — base: conectivos.
+> - [[05 - Propiedades de los operadores lógicos]] — siguiente: leyes.
+> - [[06 - Razonamientos]] — $\vDash$ como validez.
+> - [[13 - Técnicas de conteo]] — conteo $2^{2^n}$.
 
 ---
 

@@ -20,7 +20,7 @@
 >     style D fill:#e1f5ff
 > ```
 
-![05-sup.png](/img/user/Universidad/Figuras/05-sup.png)
+![[05-sup.png]]
 
 > [!tip] 💡 Visual — Supremo e ínfimo
 >
@@ -163,10 +163,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/01 - Conjuntos Numéricos\|01 - Conjuntos Numéricos]] — $\mathbb{R}$ como base.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/11 - Inecuaciones\|11 - Inecuaciones]] — inecuaciones a fondo.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/13 - Técnicas de conteo\|13 - Técnicas de conteo]] — bien orden y conteo.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/09 - Relaciones\|09 - Relaciones]] — orden como relación.
+> - [[01 - Conjuntos Numéricos]] — $\mathbb{R}$ como base.
+> - [[11 - Inecuaciones]] — inecuaciones a fondo.
+> - [[13 - Técnicas de conteo]] — bien orden y conteo.
+> - [[09 - Relaciones]] — orden como relación.
 
 ---
 

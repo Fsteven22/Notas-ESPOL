@@ -16,12 +16,11 @@
 >     A["Orden<br/>P o C"] --> B["Pascal<br/>binom"]
 >     B --> C["Expande<br/>(a+b)n"]
 >     C --> D["Suma filas<br/>2n"]
->
 >     style B fill:#e1ffe1
 >     style D fill:#e1f5ff
 > ```
 
-![13-pascal.png](/img/user/Universidad/Figuras/13-pascal.png)
+![[13-pascal.png]]
 
 > [!tip] 💡 Visual — Pascal manda en ambos
 >
@@ -166,10 +165,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/07 - Expresiones algebraicas\|07 - Expresiones algebraicas]] — $(a+b)^4$ por binomio.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/12 - Inducción matemática\|12 - Inducción matemática]] — prueba sumas binomiales.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/01 - Tipos y cardinalidad\|01 - Tipos y cardinalidad]] — conteo infinito.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/15 - Sucesiones\|15 - Sucesiones]] — serie binomial.
+> - [[07 - Expresiones algebraicas]] — $(a+b)^4$ por binomio.
+> - [[12 - Inducción matemática]] — prueba sumas binomiales.
+> - [[01 - Tipos y cardinalidad]] — conteo infinito.
+> - [[15 - Sucesiones]] — serie binomial.
 
 ---
 

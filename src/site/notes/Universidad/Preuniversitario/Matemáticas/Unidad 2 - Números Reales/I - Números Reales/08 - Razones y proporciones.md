@@ -158,10 +158,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/13 - Funciones exponenciales\|13 - Funciones exponenciales]] — interés compuesto.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/05 - Función lineal\|05 - Función lineal]] — $y=kx$ como directa.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 5 - Geometría/I - Geometría Plana/07 - Perímetro y área de un polígono\|07 - Perímetro y área de un polígono]] — escala y semejanza.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/10 - Ecuaciones\|10 - Ecuaciones]] — despejar $x$ en proporciones.
+> - [[13 - Funciones exponenciales]] — interés compuesto.
+> - [[05 - Función lineal]] — $y=kx$ como directa.
+> - [[07 - Perímetro y área de un polígono]] — escala y semejanza.
+> - [[10 - Ecuaciones]] — despejar $x$ en proporciones.
 
 ---
 

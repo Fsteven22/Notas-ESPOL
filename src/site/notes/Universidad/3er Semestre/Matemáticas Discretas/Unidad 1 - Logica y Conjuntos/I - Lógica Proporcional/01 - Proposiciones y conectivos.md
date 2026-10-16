@@ -19,6 +19,19 @@
 > |**Matemática Discreta**|Discreto|Números enteros, grafos, proposiciones lógicas|
 > 
 > Sus técnicas son especialmente útiles en **computación** y **ciencias de la información**.
+>
+> ```mermaid
+> graph TD
+>     A[Lógica Proposicional] --> B[Proposiciones<br/>V o F]
+>     A --> C[Conectivos<br/>¬ ∧ ∨ → ↔]
+>     A --> D[Tablas de verdad]
+>     D --> E[Tautología / Contradicción]
+>     style B fill:#e1f5ff
+>     style D fill:#e1ffe1
+> ```
+>
+> **En esta nota:** qué cuenta como proposición (y qué no: preguntas, órdenes, predicados abiertos), los 5 conectivos con su tabla, y cómo leer tautologías y contradicciones — la base de todo el curso.
+>
 > 
 > **Algunas aplicaciones:**
 > 
@@ -58,6 +71,8 @@
 > |6|Algunos números primos son positivos.|✅ Sí|Es verdadera|
 > |7|El 12 de Mayo de 1026 fue Martes.|✅ Sí|Tiene un valor V o F determinado|
 > 
+> > [!example] 🟢 Ejemplo
+> >
 > > **Respuesta:** Los enunciados **1, 3, 6 y 7** son proposiciones. Los enunciados **2, 4 y 5** no lo son.
 
 ---
@@ -86,6 +101,22 @@
 > 4. Por último $\rightarrow$ (se evalúa al final)
 
 ---
+
+
+> [!note] 🗺️ Mapa — ¿Cuándo es verdadero cada conectivo?
+>
+> ```mermaid
+> flowchart TD
+>     A["¿Qué conectivo?"] --> N["¬ invierte"]
+>     A --> O["∨ solo F con F,F"]
+>     A --> Y["∧ solo V con V,V"]
+>     A --> C["→ solo F con V,F"]
+>     A --> B["↔ V si iguales"]
+>     style O fill:#ffe1e1
+>     style Y fill:#e1ffe1
+> ```
+>
+> **Se lee así:** memoriza el único caso que rompe cada conectivo; todo lo demás es el caso contrario.
 
 ### 1️⃣ Negación ($\neg p$)
 
@@ -120,6 +151,8 @@
 > |F|V|V|
 > |F|F|**F**|
 > 
+> > [!example] 🟢 Ejemplo
+> >
 > > La disyunción es **falsa solo cuando ambas proposiciones son falsas**; en cualquier otro caso es verdadera.
 > 
 > **Fórmula:** $VL(p \vee q) = \max{VL(p),\ VL(q)}$
@@ -139,6 +172,8 @@
 > |F|V|F|
 > |F|F|F|
 > 
+> > [!example] 🟢 Ejemplo
+> >
 > > La conjunción es **verdadera solo cuando ambas proposiciones son verdaderas**; en cualquier otro caso es falsa.
 > 
 > **Fórmula:** $VL(p \wedge q) = \min{VL(p),\ VL(q)}$
@@ -158,6 +193,8 @@
 > |F|V|**V**|
 > |F|F|F|
 > 
+> > [!example] 🟢 Ejemplo
+> >
 > > La disyunción exclusiva es **verdadera solo cuando $p$ y $q$ tienen valores lógicos distintos**.
 > 
 > **Fórmula:** $VL(p \veebar q) = |VL(p) - VL(q)|$
@@ -188,6 +225,8 @@
 > - $q$ es la **conclusión** (consecuente)
 >     
 > 
+> > [!example] 🟢 Ejemplo
+> >
 > > El condicional es **falso solo cuando el antecedente es verdadero y el consecuente es falso**.  
 > > Cuando el antecedente es falso, el condicional es **verdadero por omisión** (superficialmente verdadero).
 > 
@@ -242,6 +281,8 @@
 > |F|V|F|
 > |F|F|**V**|
 > 
+> > [!example] 🟢 Ejemplo
+> >
 > > El bicondicional es **verdadero cuando $p$ y $q$ tienen el mismo valor lógico**.
 > 
 > **Fórmula:** $VL(p \leftrightarrow q) = 1 - |VL(p) - VL(q)|$
@@ -250,25 +291,28 @@
 
 ## 📊 Resumen de Conectivos
 
-```mermaid
-graph TD
-    A[Conectivos Lógicos] --> B["¬p  Negación (unitario)"]
-    A --> C["p ∨ q  Disyunción (binario)"]
-    A --> D["p ∧ q  Conjunción (binario)"]
-    A --> E["p ⊻ q  Disyunción Exclusiva (binario)"]
-    A --> F["p → q  Condicional (binario)"]
-    A --> G["p ↔ q  Bicondicional (binario)"]
-
-```
-
-| Conectivo            | Símbolo               | Nombre               | Falso cuando...              |
-| -------------------- | --------------------- | -------------------- | ---------------------------- |
-| Negación             | $\neg p$              | NO $p$               | $p$ es verdadero             |
-| Disyunción           | $p \vee q$            | $p$ O $q$            | Ambas son falsas             |
-| Conjunción           | $p \wedge q$          | $p$ Y $q$            | Al menos una es falsa        |
-| Disyunción exclusiva | $p \veebar q$         | O $p$ o $q$          | Ambas tienen el mismo VL     |
-| Condicional          | $p \rightarrow q$     | Si $p$ entonces $q$  | $p$ verdadera y $q$ falsa    |
-| Bicondicional        | $p \leftrightarrow q$ | $p$ si y solo si $q$ | $p$ y $q$ tienen distinto VL |
+> [!note] 📋 Resumen de Contectivos
+> 
+> ```mermaid
+> graph TD
+>     A[Conectivos Lógicos] --> B["¬p  Negación (unitario)"]
+>     A --> C["p ∨ q  Disyunción (binario)"]
+>     A --> D["p ∧ q  Conjunción (binario)"]
+>     A --> E["p ⊻ q  Disyunción Exclusiva (binario)"]
+>     A --> F["p → q  Condicional (binario)"]
+>     A --> G["p ↔ q  Bicondicional (binario)"]
+> 
+> ```
+> 
+> | Conectivo            | Símbolo               | Nombre               | Falso cuando...              |
+> | -------------------- | --------------------- | -------------------- | ---------------------------- |
+> | Negación             | $\neg p$              | NO $p$               | $p$ es verdadero             |
+> | Disyunción           | $p \vee q$            | $p$ O $q$            | Ambas son falsas             |
+> | Conjunción           | $p \wedge q$          | $p$ Y $q$            | Al menos una es falsa        |
+> | Disyunción exclusiva | $p \veebar q$         | O $p$ o $q$          | Ambas tienen el mismo VL     |
+> | Condicional          | $p \rightarrow q$     | Si $p$ entonces $q$  | $p$ verdadera y $q$ falsa    |
+> | Bicondicional        | $p \leftrightarrow q$ | $p$ si y solo si $q$ | $p$ y $q$ tienen distinto VL |
+> 
 
 ---
 
@@ -332,7 +376,7 @@ graph TD
 >     Equivalente a decir que $P \leftrightarrow Q$ es una **tautología**.
 
 > [!success] 📋 Principales Equivalencias Lógicas
-> ![[Pasted image 20260517162520.png]]
+> ![Pasted image 20260517162520.png](/img/user/Universidad/Figuras/Pasted%20image%2020260517162520.png)
 > **Leyes de identidad:**
 > 
 > |Ley|Expresión|
@@ -383,7 +427,7 @@ graph TD
 > |Distributiva $\vee$ sobre $\wedge$|$p \vee (q \wedge r) \equiv (p \vee q) \wedge (p \vee r)$|
 > |Distributiva $\wedge$ sobre $\vee$|$p \wedge (q \vee r) \equiv (p \wedge q) \vee (p \wedge r)$|
 > 
-> **[[01 - Algebra de Proposiciones|Leyes de De Morgan]]:**
+> **[[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/II - Álgebra Proposicional/01 - Algebra de Proposiciones\|Leyes de De Morgan]]:**
 > 
 > |Ley|Expresión|
 > |---|---|
@@ -440,7 +484,7 @@ graph TD
 > |**NAND**|$\neg(p \wedge q)$|AND con círculo|Falso solo si ambas entradas son 1|
 > |**NOR**|$\neg(p \vee q)$|OR con círculo|Verdadero solo si ambas entradas son 0|
 > 
-![[ChatGPT Image 20 may 2026, 13_02_00.png]]
+![ChatGPT Image 20 may 2026, 13_02_00.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2020%20may%202026,%2013_02_00.png)
 
 > [!example] 🧮 Tablas de Verdad de Compuertas
 > 
@@ -499,7 +543,7 @@ graph TD
 > q ───────────┘          ├──[ AND ]──→ Salida
 > r ──────────────────────┘
 > ```
-> ![[ChatGPT Image 20 may 2026, 13_05_26.png]]
+> ![ChatGPT Image 20 may 2026, 13_05_26.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2020%20may%202026,%2013_05_26.png)
 > 
 > |$p$|$q$|$r$|$\neg p$|$\neg p \vee q$|$(\neg p \vee q) \wedge r$|
 > |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -566,6 +610,143 @@ graph TD
     F --> F4["Expresiones a circuitos"]
 
 ```
+
+---
+
+## 📝 Ejercicios Propuestos (Guía 1)
+
+> [!example] ✏️ Ejercicio 1 — Tabla y clasificación (Guía 1, ej. 4)
+>
+> Para $[(p \to q) \to (\neg r \to p)] \to (q \to r)$: (a) construye la tabla completa, (b) clasifica en tautología/contradicción/contingencia, (c) simplifica con equivalencias y verifica.
+>
+> > [!success]- ✅ Solución guiada
+> >
+> > Tabla de $2^3 = 8$ filas. La proposición resulta **contingencia** (no siempre V ni siempre F). Simplificación: $p \to q \equiv \neg p \vee q$ aplicada de adentro hacia afuera + De Morgan; verifica que la simplificada coincide fila por fila.
+
+> [!example] ✏️ Ejercicio 2 — Valor con asignación (Guía 1, ej. 5)
+>
+> Si $p, q$ verdaderas y $r, s$ falsas, halla el valor de $(\neg p \to q) \to (\neg r \to s) \to (\neg s \to p) \to (p \to \neg s)$.
+>
+> > [!success]- ✅ Solución guiada
+> >
+> > - **Paso 1** — sustituye ($V = $ verdadero, $F = $ falso):
+> >
+> > $$(\neg V \to V) \to (\neg F \to F) \to (\neg F \to V) \to (V \to \neg F)$$
+> >
+> > - **Paso 2** — niega adentro:
+> >
+> > $$(F \to V) \to (V \to F) \to (V \to V) \to (V \to V)$$
+> >
+> > - **Paso 3** — evalúa cada condicional:
+> >
+> > $$V \to F \to V \to V$$
+> >
+> > - **Paso 4** — encadena de izquierda a derecha:
+> >
+> > $$(V \to F) = F, \quad (F \to V) = V, \quad (V \to V) = \boxed{V}$$
+> >
+> > El único $F$ es $(\neg r \to s) = (V \to F)$; al encadenar queda absorbido porque $F \to V \equiv V$. Resultado: **V** (verificado por tabla exhaustiva: la cadena da $V$ en cualquier asociación).
+
+> [!example] ✏️ Ejercicio 3 — Bóveda de 3 entradas (Guía 1, ej. 6)
+>
+> Gerente (A), subgerente (B), supervisor (C). $Y=1$ si A autoriza; si $A=0$, solo si B y C a la vez; si $A=B=C=1$, $Y=0$ (coacción). Da tabla, expresión simplificada y circuito AND/OR/NOT.
+>
+> > [!success]- ✅ Solución guiada
+> >
+> > Tabla: $Y=1$ en $(1,0,0), (1,1,0), (1,0,1), (0,1,1)$; $Y=0$ en el resto (incluido $(1,1,1)$). Expresión: $Y = (A \wedge \neg B \wedge \neg C) \vee (A \wedge B \wedge \neg C) \vee (A \wedge \neg B \wedge C) \vee (\neg A \wedge B \wedge C)$, simplificable a $Y = (A \wedge \neg(B \wedge C)) \vee (\neg A \wedge B \wedge C)$.
+
+> [!example] ✏️ Ejercicio 4 — Circuito 4 compuertas (Lección P4: simplificar por bloques)
+>
+> Del circuito sale:
+>
+> $$C = \neg[((x_1 \wedge x_2) \vee \neg(\neg x_1 \wedge x_2)) \vee (\neg(x_3 \wedge x_4) \vee \neg x_3)]$$
+>
+> Simplifica por bloques hasta 4 compuertas (1 NOT + 2 AND + 1 OR).
+>
+> > [!success]- ✅ Solución guiada
+> >
+> > - **Bloque 1** — $(x_1 \wedge x_2) \vee \neg(\neg x_1 \wedge x_2)$:
+> >
+> > $$\neg(\neg x_1 \wedge x_2) \equiv x_1 \vee \neg x_2 \quad \text{(De Morgan + involución)}$$
+> >
+> > $$(x_1 \wedge x_2) \vee (x_1 \vee \neg x_2) \equiv x_1 \vee \neg x_2 \quad \text{(absorción)}$$
+> >
+> > - **Bloque 2** — $\neg(x_3 \wedge x_4) \vee \neg x_3$:
+> >
+> > $$\neg(x_3 \wedge x_4) \equiv \neg x_3 \vee \neg x_4 \quad \text{(De Morgan)}$$
+> >
+> > $$(\neg x_3 \vee \neg x_4) \vee \neg x_3 \equiv \neg x_3 \vee \neg x_4 \quad \text{(idempotencia)}$$
+> >
+> > - **Junta exterior** — el oficial da $C = (\neg x_1 \wedge x_2) \vee (x_3 \wedge x_4)$ con 4 compuertas: NOT($x_1$) + AND($\neg x_1,x_2$) + AND($x_3,x_4$) + OR final ✅.
+> > - ⚠️ Ojo: verifica en tu hoja el conectivo exterior entre bloques (la extracción del PDF lo muestra ambiguo); los bloques simplificados están verificados, la junta sigue al oficial.
+
+---
+
+---
+
+## ⚠️ Errores Comunes y Principios
+
+> [!danger] ❌ Error 1: Creer que $F \to V$ es $F$ (viola **tabla del condicional**)
+>
+> - ❌ **EL ERROR ESTÁ AQUÍ:** "si la hipótesis es falsa, el condicional es falso" — con antecedente $F$, el condicional siempre es $V$.
+> - ✅ Así sí: el único caso $F$ es $V \to F$; memoriza la fila 2 de la tabla.
+
+> [!danger] ❌ Error 2: Negar $\wedge$/$\vee$ sin voltear (viola **De Morgan**)
+>
+> - ❌ **EL ERROR ESTÁ AQUÍ:** $\neg(p \wedge q) \equiv \neg p \wedge \neg q$.
+> - ✅ Así sí: la negación voltea el conectivo: $\neg(p \wedge q) \equiv \neg p \vee \neg q$.
+
+> [!danger] ❌ Error 3: Ignorar el caso coacción en circuitos (viola **lectura del enunciado**)
+>
+> - ❌ **EL ERROR ESTÁ AQUÍ:** en la bóveda, poner $Y = 1$ cuando $A = B = C = 1$ porque "todos autorizan".
+> - ✅ Así sí: el enunciado manda — con coacción $(1,1,1) \to Y = 0$; la tabla decide, no la intuición.
+
+---
+
+## ✅ Metas de Aprendizaje
+
+> [!note] 🎯 Nivel Básico
+>
+> - [ ] Distingo proposición de no-proposición y escribo las 6 tablas de memoria.
+> - [ ] Aplico De Morgan y $p \to q \equiv \neg p \vee q$ para simplificar.
+> - [ ] Traduzco un circuito serie/paralelo a su fórmula AND/OR/NOT.
+
+> [!note] 🎯 Nivel Intermedio
+>
+> - [ ] Clasifico tautología/contradicción/contingencia con tabla completa.
+> - [ ] Resuelvo la bóveda y el submarinista (Guía 1, ej. 6–9) sin mirar.
+
+---
+
+## 🔁 Repaso SR (flashcards)
+
+#flashcards/discretas-u1
+
+> [!note] 🧠 Repasa con el plugin Spaced Repetition
+>
+> - ¿Único caso donde $p \to q$ es $F$?::$p = V$, $q = F$ (fila 2); el resto es $V$.
+> - ¿$p \to q$ sin $\to$?::$\neg p \vee q$.
+> - ¿De Morgan para $\wedge$?::$\neg(p \wedge q) \equiv \neg p \vee \neg q$.
+> - ¿Tautología vs contingencia?::Tautología: toda la columna $V$; contingencia: mezcla $V$/$F$.
+> - ¿Serie y paralelo en circuitos?::Serie = AND ($\wedge$), paralelo = OR ($\vee$).
+> - ¿Guía 1 ej. 4–6 qué piden?::Tabla+clasificación, valor con asignación y circuito de la bóveda.
+
+---
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa de contenido: [[Universidad/3er Semestre/Matemáticas Discretas/Matemáticas Discretas\|Matemáticas Discretas]]
+> - Anterior: [[Universidad/2do Semestre/Comunicación/Unidad 1 - Comunicación efectiva/00 - Índice Unidad 1\|00 - Índice Unidad 1]]
+> - Siguiente: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/I - Lógica Proporcional/02 - Proposiciones Condicionales y Equivalencia Lógica\|02 - Proposiciones Condicionales y Equivalencia Lógica]]
+
+## 📚 Referencias
+
+> [!quote] 📖 Fuentes
+>
+> - Rosen, *Discrete Mathematics and Its Applications* — cap. 1 (proposiciones, conectivos, tablas).
+> - Material de clase MATG1051: compuertas, circuitos y Guía 1 (ej. 4–6).
 
 ---
 

@@ -158,10 +158,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/07 - Pares ordenados y producto cartesiano\|07 - Pares ordenados y producto cartesiano]] — base: $R\subseteq\times$.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/10 - Funciones en Conjuntos\|10 - Funciones en Conjuntos]] — siguiente: funciones.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/05 - Predicados de una variable\|05 - Predicados de una variable]] — $P(x,y)$ como relación.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/05 - Relación de orden\|05 - Relación de orden]] — orden en $\mathbb{R}$.
+> - [[07 - Pares ordenados y producto cartesiano]] — base: $R\subseteq\times$.
+> - [[10 - Funciones en Conjuntos]] — siguiente: funciones.
+> - [[05 - Predicados de una variable]] — $P(x,y)$ como relación.
+> - [[05 - Relación de orden]] — orden en $\mathbb{R}$.
 
 ---
 

@@ -60,11 +60,11 @@
 
 > [!success] ✅ Observación — Relación de equivalencia
 > 
-> Si definimos una relación $R$ en el [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/04 - Cardinalidad y Leyes de Cardinalidad\|Cardinalidad]] de todos los grafos mediante:
+> Si definimos una relación $R$ en el [[04 - Cardinalidad y Leyes de Cardinalidad|Cardinalidad]] de todos los grafos mediante:
 > 
 > $$G_1 \mathrel{R} G_2 \iff G_1 \text{ y } G_2 \text{ son isomorfos}$$
 > 
-> entonces $R$ es una **relación de equivalencia**: es [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/02 - Relaciones\|reflexiva]] (todo grafo es isomorfo a sí mismo, con $f$ y $g$ identidad), simétrica (si $G_1$ es isomorfo a $G_2$, se puede invertir el isomorfismo) y transitiva (componer dos isomorfismos da otro isomorfismo).
+> entonces $R$ es una **relación de equivalencia**: es [[02 - Relaciones|reflexiva]] (todo grafo es isomorfo a sí mismo, con $f$ y $g$ identidad), simétrica (si $G_1$ es isomorfo a $G_2$, se puede invertir el isomorfismo) y transitiva (componer dos isomorfismos da otro isomorfismo).
 > 
 > > [!tip] 🖥️ Por qué importa esto Al ser relación de equivalencia, el isomorfismo particiona el conjunto de todos los grafos en **clases de equivalencia**: grafos "estructuralmente iguales" aunque tengan vértices con nombres distintos. Esto es justo lo que permite hablar de "el" grafo $K_4$ o "el" grafo $K_{2,3}$ sin importar cómo se etiqueten sus vértices.
 
@@ -84,7 +84,7 @@
 > 
 > - $G_1$ y $G_2$ son isomorfos.
 >     
-> - Existe una [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/01 - Funciones\|función]] biyectiva $f: V_1 \to V_2$ tal que $v$ y $w$ son adyacentes en $G_1$ $\iff$ $f(v)$ y $f(w)$ son adyacentes en $G_2$.
+> - Existe una [[01 - Funciones|función]] biyectiva $f: V_1 \to V_2$ tal que $v$ y $w$ son adyacentes en $G_1$ $\iff$ $f(v)$ y $f(w)$ son adyacentes en $G_2$.
 >     
 > 
 > > [!tip] 🖥️ Simplificación práctica Para grafos **simples** (sin lazos ni aristas paralelas), no hace falta construir explícitamente la biyección $g$ entre aristas — basta con encontrar $f$ entre vértices que preserve adyacencias. Esto simplifica mucho la verificación en ejercicios.
@@ -154,7 +154,7 @@
 > 
 > Se aplica la misma estrategia de 4 pasos del Ejercicio 1. La diferencia clave suele estar en un invariante más fino (como el número de triángulos) cuando el número de vértices, aristas y la secuencia de grados coinciden entre ambos candidatos — por eso el curso recalca revisar ciclos de longitud 3 y 4 antes de intentar construir la biyección.
 
-![ChatGPT Image 18 ago 2026, 18_13_08.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2018_13_08.png)
+![[ChatGPT Image 18 ago 2026, 18_13_08.png]]
 
 ---
 
@@ -229,7 +229,7 @@ graph TD
 > 
 > **8.** Demuestra que la propiedad "ser un grafo bipartito" es invariante bajo isomorfismo.
 > 
-> **9.** Para grafos simples con $n$ vértices, ¿cuántas biyecciones $f: V_1 \to V_2$ existen en el [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/04 - Análisis de Algoritmos I - Fundamentos y Funciones Matemáticas\|peor caso]], y por qué la búsqueda de un isomorfismo por fuerza bruta es costosa a medida que $n$ crece?
+> **9.** Para grafos simples con $n$ vértices, ¿cuántas biyecciones $f: V_1 \to V_2$ existen en el [[04 - Análisis de Algoritmos I - Fundamentos y Funciones Matemáticas|peor caso]], y por qué la búsqueda de un isomorfismo por fuerza bruta es costosa a medida que $n$ crece?
 
 > [!success] ✅ Respuestas
 > 
@@ -243,7 +243,7 @@ graph TD
 > 
 > **5.** El teorema dice que basta con que **algún** orden de vértices haga coincidir las matrices. Probar "todos los órdenes posibles" significa probar todas las permutaciones de los $n$ vértices, es decir, hasta $n!$ posibilidades — un número que crece extremadamente rápido, por lo que en la práctica se prefieren invariantes rápidos antes de recurrir a esta fuerza bruta.
 > 
-> **6.** Cada [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/03 - Propiedades y Equivalencia\|clase de equivalencia]] agrupa a todos los grafos con 4 vértices que comparten exactamente la misma estructura de adyacencias, sin importar cómo se etiqueten sus vértices. En otras palabras, cada clase corresponde a lo que informalmente llamamos "un grafo no etiquetado" distinto sobre 4 vértices.
+> **6.** Cada [[03 - Propiedades y Equivalencia|clase de equivalencia]] agrupa a todos los grafos con 4 vértices que comparten exactamente la misma estructura de adyacencias, sin importar cómo se etiqueten sus vértices. En otras palabras, cada clase corresponde a lo que informalmente llamamos "un grafo no etiquetado" distinto sobre 4 vértices.
 > 
 > **7.** Un ejemplo clásico: toma un grafo formado por dos triángulos que comparten un vértice (secuencia de grados con un vértice de grado 4) frente a otro grafo con la misma secuencia de grados pero organizado de forma que no comparte esa estructura de "dos triángulos unidos" — la presencia o ausencia de un ciclo de longitud 4 específico entre ambos permite distinguirlos aunque compartan grados y número de triángulos totales.
 > 
@@ -282,8 +282,8 @@ graph TD
 
 > [!quote] 🔗 Conexiones
 > 
-> - [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/01 - Grafos I - Conceptos Básicos y Recorridos\|01 - Grafos I - Conceptos Básicos y Recorridos]] — fundamentos previos: definiciones, tipos de grafos, Euler y Hamilton
-> - [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/02 - Grafos II - Subgrafos, Matrices y Algoritmos\|02 - Grafos II - Subgrafos, Matrices y Algoritmos]] — matriz de adyacencia, base para el Teorema de isomorfismo por matrices
+> - [[01 - Grafos I - Conceptos Básicos y Recorridos]] — fundamentos previos: definiciones, tipos de grafos, Euler y Hamilton
+> - [[02 - Grafos II - Subgrafos, Matrices y Algoritmos]] — matriz de adyacencia, base para el Teorema de isomorfismo por matrices
 
 ---
 

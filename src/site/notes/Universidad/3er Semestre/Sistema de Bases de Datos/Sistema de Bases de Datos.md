@@ -20,7 +20,14 @@
 
 ---
 
-## Unidad 2+ — SQL y Diseño Físico
+## Unidad 2 — Modelo Lógico y Conversión → [[Universidad/3er Semestre/Sistema de Bases de Datos/Unidad 2 - Modelo lógico y conversión/00 - Índice Unidad 2\|📂 Índice]]
+
+- [[Universidad/3er Semestre/Sistema de Bases de Datos/Unidad 2 - Modelo lógico y conversión/01 - Conversión MC a ML por cardinalidad\|01 - Conversión MC a ML por cardinalidad]]
+- [[Universidad/3er Semestre/Sistema de Bases de Datos/Unidad 2 - Modelo lógico y conversión/02 - Primera forma normal y diccionario de datos\|02 - Primera forma normal y diccionario de datos]]
+
+---
+
+## Unidad 3+ — SQL y Diseño Físico
 
 - *Pendiente: avanza con lo que la docente publique en AV.*
 
@@ -31,6 +38,7 @@
 - `BD00 Políticas.pdf` (docente, horario, fechas, proyecto)
 - `BD01 Introducción_datamodel.pdf` + `BD01 Introducción-1.pdf` (intro y archivos vs BD)
 - `unidad1.3-1.5.pdf` (modelo conceptual, relacional, ERM)
+- `BD 02 MC_a_ML.pdf` (conversión MC→ML, 1FN, diccionario)
 
 ---
 
@@ -42,5 +50,11 @@
 > - Plataformas: Aula Virtual, Teams, Datacamp
 
 ---
+
+- [[Universidad/3er Semestre/Sistema de Bases de Datos/Unidad 0 - Guias y Ejercicios/00 - Leeme Unidad 0\|00 - Leeme Unidad 0]]
+
+- [[Universidad/3er Semestre/Sistema de Bases de Datos/Unidad 1 - Modelos de Datos y ER/00 - Índice Unidad 1\|📂 Unidad 1 - Modelos de Datos y ER]]
+
+- [[Universidad/3er Semestre/Sistema de Bases de Datos/Unidad 2 - Modelo lógico y conversión/00 - Índice Unidad 2\|📂 Unidad 2 - Modelo lógico y conversión]]
 
 **Tags:** #bases-de-datos #ESPOL #TICG1018

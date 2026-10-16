@@ -38,7 +38,7 @@
 > 
 > b) Para cada arista $e \in E'$, si $e$ incide en $v'$ y en $w'$, entonces $v', w' \in V'$.
 > 
-> > [!warning] ⚠️ La condición (b) es la que suele fallar No basta con tomar cualquier [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/01 - Conjuntos, Cardinalidad y Subconjuntos\|subconjunto]] de aristas: si una arista está en $E'$, **ambos** vértices que toca deben estar en $V'$. No puedes "recortar" una arista dejando uno de sus extremos afuera.
+> > [!warning] ⚠️ La condición (b) es la que suele fallar No basta con tomar cualquier [[01 - Conjuntos, Cardinalidad y Subconjuntos|subconjunto]] de aristas: si una arista está en $E'$, **ambos** vértices que toca deben estar en $V'$. No puedes "recortar" una arista dejando uno de sus extremos afuera.
 
 > [!example] 🟢 Ejemplo 1 — Un subgrafo válido
 > 
@@ -63,7 +63,7 @@
 > 
 > Sea $G$ un grafo y $v$ un vértice en $G$. El subgrafo $G'$ de $G$ que consiste en **todas** las aristas y vértices de $G$ que están contenidos en trayectorias que comienzan en $v$ se llama la **componente** de $G$ que contiene a $v$.
 > 
-> > [!success] ✅ [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/02 - Relaciones\|Relación]] entre conexidad y componentes:
+> > [!success] ✅ [[02 - Relaciones|Relación]] entre conexidad y componentes:
 > > $G$ es **conexo** si y solo si $G$ posee **una sola componente**.
 
 > [!example] 🟢 Ejemplo 2 — Grafo disconexo y sus componentes
@@ -147,7 +147,7 @@
 > 
 > Los pesos mínimos disponibles en todo el grafo son: $3, 4, 4, 5, 5$.
 > 
-> En el vértice $d$ inciden aristas de peso $3, 4, 5$ — no se puede usar menos que eso en $d$. Las opciones mínimas posibles para todo el ciclo, revisando también qué incide en $a$ y $b$ (pesos $4,5,6$), llevan a que la [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/05 - Permutaciones y Combinaciones\|combinación]] mínima alcanzable es $3,4,4,5,7$.
+> En el vértice $d$ inciden aristas de peso $3, 4, 5$ — no se puede usar menos que eso en $d$. Las opciones mínimas posibles para todo el ciclo, revisando también qué incide en $a$ y $b$ (pesos $4,5,6$), llevan a que la [[05 - Permutaciones y Combinaciones|combinación]] mínima alcanzable es $3,4,4,5,7$.
 > 
 > Estos son precisamente los pesos de las aristas del ciclo $(e,c,d,b,a,e)$, con **longitud total 23**.
 > 
@@ -166,7 +166,7 @@
 > - **Entrada:** un grafo conexo ponderado con pesos positivos; vértices $a$ y $z$.
 > - **Salida:** $L(z)$, la longitud de la ruta más corta de $a$ a $z$.
 
-> [!tip] 🖥️ [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/03 - Pseudocódigo y Algoritmos\|Pseudocódigo]] de Dijkstra
+> [!tip] 🖥️ [[03 - Pseudocódigo y Algoritmos|Pseudocódigo]] de Dijkstra
 > 
 > ```
 > dijkstra(w, a, z, L) {
@@ -205,7 +205,7 @@
 > 
 > > [!tip]- 💡 Idea central del algoritmo Dijkstra es **goloso** (greedy): en cada paso, fija la distancia del vértice más cercano ya conocido, y usa esa distancia fija para intentar **mejorar** (relajar) las distancias de sus vecinos. Una vez que un vértice sale de $T$, su distancia ya no cambia — por eso el algoritmo requiere pesos positivos.
 
-![ChatGPT Image 18 ago 2026, 18_08_27.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2018_08_27.png)
+![[ChatGPT Image 18 ago 2026, 18_08_27.png]]
 
 ---
 
@@ -279,7 +279,7 @@ graph TD
 > 
 > **7.** Demuestra el corolario (número par de vértices de grado impar) a partir del Teorema de la suma de grados, sin usar el argumento intuitivo — hazlo formalmente separando la suma en vértices de grado par e impar.
 > 
-> **8.** En un TSP con $n$ vértices, ¿cuántos ciclos de Hamilton distintos existen en el [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/04 - Análisis de Algoritmos I - Fundamentos y Funciones Matemáticas\|peor caso]] (grafo completo $K_n$), sin contar reflexiones ni rotaciones como distintos? Explica por qué la fuerza bruta se vuelve impráctica rápidamente.
+> **8.** En un TSP con $n$ vértices, ¿cuántos ciclos de Hamilton distintos existen en el [[04 - Análisis de Algoritmos I - Fundamentos y Funciones Matemáticas|peor caso]] (grafo completo $K_n$), sin contar reflexiones ni rotaciones como distintos? Explica por qué la fuerza bruta se vuelve impráctica rápidamente.
 > 
 > **9.** Explica por qué Dijkstra falla si se permite un peso negativo en una arista — construye un ejemplo pequeño (3 vértices) donde el algoritmo dé un resultado incorrecto.
 
@@ -334,8 +334,8 @@ graph TD
 
 > [!quote] 🔗 Conexiones
 > 
-> - [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/01 - Grafos I - Conceptos Básicos y Recorridos\|01 - Grafos I - Conceptos Básicos y Recorridos]] — fundamentos previos: definiciones, tipos de grafos, Euler y Hamilton
-> - [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 5 - Grafos y Árboles/03 - Grafos III - Isomorfismo\|03 - Grafos III - Isomorfismo]] — usa la matriz de adyacencia definida aquí para caracterizar isomorfismo
+> - [[01 - Grafos I - Conceptos Básicos y Recorridos]] — fundamentos previos: definiciones, tipos de grafos, Euler y Hamilton
+> - [[03 - Grafos III - Isomorfismo]] — usa la matriz de adyacencia definida aquí para caracterizar isomorfismo
 > - Sucesiones y Cadenas — la notación de sumatoria $\sum$ se reutiliza en el Teorema de suma de grados
 
 ---

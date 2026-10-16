@@ -20,7 +20,7 @@
 >     style D fill:#e1f5ff
 > ```
 
-![09-abs.png](/img/user/Universidad/Figuras/09-abs.png)
+![[09-abs.png]]
 
 > [!tip] 💡 Visual — V y distancias
 >
@@ -164,10 +164,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/06 - Funciones Especiales\|06 - Funciones Especiales]] — $|x|$ como función.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/11 - Inecuaciones\|11 - Inecuaciones]] — inecuaciones con barras.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/01 - Definición, dominio y rango\|01 - Definición, dominio y rango]] — $\sqrt{x^2}=|x|$.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/05 - Relación de orden\|05 - Relación de orden]] — desigualdades base.
+> - [[06 - Funciones Especiales]] — $|x|$ como función.
+> - [[11 - Inecuaciones]] — inecuaciones con barras.
+> - [[01 - Definición, dominio y rango]] — $\sqrt{x^2}=|x|$.
+> - [[05 - Relación de orden]] — desigualdades base.
 
 ---
 

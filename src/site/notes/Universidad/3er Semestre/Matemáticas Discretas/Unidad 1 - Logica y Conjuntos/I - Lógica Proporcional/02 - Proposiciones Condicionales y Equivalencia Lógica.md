@@ -21,6 +21,21 @@
 > - $p$ = **hipótesis** (antecedente)
 > - $q$ = **conclusión** (consecuente)
 > - **Solo es falso** cuando el antecedente es verdadero y el consecuente es falso.
+>
+> ```mermaid
+> graph LR
+>     P["p → q"] --> R["Recíproca<br/>q → p"]
+>     P --> I["Inversa<br/>¬p → ¬q"]
+>     P --> C["Contrarrecíproca<br/>¬q → ¬p"]
+>     C --> E["Equivalente a p → q ✅"]
+>     R --> N["NO equivalente ❌"]
+>     I --> N
+>     style C fill:#e1ffe1
+>     style N fill:#ffe1e1
+> ```
+>
+> **En esta nota:** las formas del condicional en lenguaje natural (*solo si*, *es necesario*), sus 3 variantes con equivalencia, y equivalencias lógicas para simplificar — lo que evalúan los ejercicios 7–12 de la Guía 1.
+>
 > 
 > **Fórmula:** $VL(p \rightarrow q) = \max{1 - VL(p),\ VL(q)}$
 
@@ -42,6 +57,8 @@
 > |**una condición necesaria para** $p$ **es** $q$|Una condición necesaria para estudiar es aprobar.|
 > |**una condición suficiente para** $q$ **es** $p$|Una condición suficiente para aprobar es estudiar.|
 > 
+> > [!example] 🟢 Ejemplo
+> >
 > > ⚠️ **Clave para no confundirse:**
 > > 
 > > - "**Necesario para $p$**" → el resultado va en $q$ (consecuente)
@@ -61,6 +78,23 @@
 > |Para comer sano es suficiente adelgazar.|$p$: adelgazo; $q$: como sano|Si adelgazo, entonces como sano.|
 
 ---
+
+
+> [!note] 🔁 Mapa — Derivadas de p → q
+>
+> ```mermaid
+> graph LR
+>     P["p → q"] --> R["Recíproca<br/>q → p"]
+>     P --> I["Inversa<br/>¬p → ¬q"]
+>     P --> C["Contrapositiva<br/>¬q → ¬p"]
+>     C --> E["≡ original ✅"]
+>     R --> N["No equivalentes ❌"]
+>     I --> N
+>     style C fill:#e1ffe1
+>     style N fill:#ffe1e1
+> ```
+>
+> **Se lee así:** solo la contrapositiva conserva el valor; recíproca e inversa son independientes.
 
 ## 🔁 Proposiciones Derivadas del Condicional
 
@@ -85,6 +119,8 @@
 >     A -.-|"≢"| D
 > ```
 > 
+> > [!example] 🟢 Ejemplo
+> >
 > > ✅ El original y su contrarrecíproco son **lógicamente equivalentes**.  
 > > ✅ El recíproco y el inverso son **lógicamente equivalentes** entre sí.  
 > > ❌ El original y el recíproco **no son equivalentes** en general.
@@ -141,7 +177,7 @@
 > |Si $2 + 2 = 4$ entonces el sol es caliente.|V|V|**V**|Verdadera normalmente|
 > |Si $2 + 2 = 4$ entonces el sol es frío.|V|F|**F**|Falsa|
 > 
-> > 💡 En lógica, cuando el antecedente es falso, "no se promete nada", por eso el condicional es verdadero independientemente del consecuente.
+💡 En lógica, cuando el antecedente es falso, "no se promete nada", por eso el condicional es verdadero independientemente del consecuente.
 
 ---
 
@@ -153,6 +189,8 @@
 > 
 > **Equivalencia lógica:** Sean $P$ y $Q$ dos formas proposicionales. Se dice que $P$ y $Q$ son **lógicamente equivalentes**, denotado $P \equiv Q$ (o $P \Leftrightarrow Q$), si tienen los **mismos valores lógicos** para **todos** los posibles valores de las variables.
 > 
+> > [!example] 🟢 Ejemplo
+> >
 > > Dicho de otra forma: $P \equiv Q$ si y solo si $P \leftrightarrow Q$ es una **tautología**.
 > 
 > **Tautología:** Forma proposicional que es **siempre verdadera**.  
@@ -233,7 +271,7 @@
 > |Distributiva $\vee$ sobre $\wedge$|$p \vee (q \wedge r) \equiv (p \vee q) \wedge (p \vee r)$|
 > |Distributiva $\wedge$ sobre $\vee$|$p \wedge (q \vee r) \equiv (p \wedge q) \vee (p \wedge r)$|
 > 
-> ### [[01 - Algebra de Proposiciones|Leyes de De Morgan]]
+> ### [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/II - Álgebra Proposicional/01 - Algebra de Proposiciones\|Leyes de De Morgan]]
 > 
 > |Ley|Expresión|
 > |---|---|
@@ -323,7 +361,7 @@
 > |Nombre|Expresión|
 > |---|---|
 > |Tercio excluido|$p \vee \neg p$|
-> |[[01 - Reglas de Inferencia\|Modus Ponens]]|$(p \wedge (p \rightarrow q)) \rightarrow q$|
+> |[[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/III - Razonamiento Inductivo/01 - Reglas de Inferencia\|Modus Ponens]]|$(p \wedge (p \rightarrow q)) \rightarrow q$|
 > |Modus Tollens|$(\neg q \wedge (p \rightarrow q)) \rightarrow \neg p$|
 > |Silogismo hipotético|$((p \rightarrow q) \wedge (q \rightarrow r)) \rightarrow (p \rightarrow r)$|
 > |Adición|$p \rightarrow (p \vee q)$|
@@ -405,6 +443,102 @@ graph TD
     F --> F1["p y no p siempre F"]
 
 ```
+
+---
+
+## 📝 Ejercicios Propuestos (Guía 1)
+
+> [!example] ✏️ Ejercicio 1 — Traducción + 3 variantes (Guía 1, ej. 7)
+>
+> $p$: 10% descuento predial; $q$: cancelo en enero. Formaliza "Obtengo el descuento, dado que cancelo en enero" y da recíproca, inversa y contrarrecíproca en formal y común.
+>
+> > [!success]- ✅ Solución guiada
+> >
+> > Formal: $q \to p$. Recíproca $p \to q$ ("si obtengo el descuento, entonces cancelé en enero"). Inversa $\neg q \to \neg p$. Contrarrecíproca $\neg p \to \neg q$ (única equivalente).
+
+> [!example] ✏️ Ejercicio 2 — Validez con trofeo (Guía 1, ej. 8)
+>
+> "Si no llueve o no hay niebla, la carrera se realiza y sigue. Si se realiza, se entrega el trofeo. No se entregó. ∴ Llovió." ¿Válido?
+>
+> > [!success]- ✅ Solución guiada
+> >
+> > Sean $p$: llueve, $q$: hay niebla, $r$: se realiza, $s$: se entrega. Premisas: $(\neg p \vee \neg q) \to r$, $r \to s$, $\neg s$. Por Tollens en la 2da: $\neg r$; por Tollens en la 1ra: $\neg(\neg p \vee \neg q) \equiv p \wedge q$. Luego $p$: **llovió. Válido** (Modus Tollens ×2).
+
+> [!example] ✏️ Ejercicio 3 — Submarinistas (Guía 1, ej. 9)
+>
+> Formaliza y decide: mar calmo + sin tormenta → buena visibilidad; buena visibilidad → bajamos a 50m; expertos → tiburones no preocupan; somos expertos; no bajamos o nos preocupan. ∴ Mar agitado o hay tormenta.
+>
+> > [!success]- ✅ Solución guiada
+> >
+> > $m$: mar agitado, $t$: tormenta, $v$: buena visibilidad, $b$: bajar, $e$: expertos, $s$: preocupan. De $\neg b \vee s$ con $e$ y $e \to \neg s$: $\neg b$. Con $v \to b$: $\neg v$. Con $(\neg m \wedge \neg t) \to v$: $\neg(\neg m \wedge \neg t) \equiv m \vee t$. **Válido.**
+
+---
+
+---
+
+## ⚠️ Errores Comunes y Principios
+
+> [!danger] ❌ Error 1: Tratar recíproca o inversa como equivalentes (viola **equivalencia real**)
+>
+> - ❌ **EL ERROR ESTÁ AQUÍ:** asumir que $q \to p$ o $\neg p \to \neg q$ "dicen lo mismo" que $p \to q$.
+> - ✅ Así sí: la única equivalente es la **contrarrecíproca** $\neg q \to \neg p$; recíproca e inversa son falacias clásicas.
+
+> [!danger] ❌ Error 2: Traducir "solo si" al revés (viola **traducción del condicional**)
+>
+> - ❌ **EL ERROR ESTÁ AQUÍ:** "$p$ solo si $q$" formalizado como $q \to p$.
+> - ✅ Así sí: "$p$ solo si $q$" es $p \to q$ ($p$ no puede ser $V$ sin $q$); "es necesario" marca el consecuente.
+
+> [!danger] ❌ Error 3: Declarar tautología con una fila (viola **verificación completa**)
+>
+> - ❌ **EL ERROR ESTÁ AQUÍ:** ver una fila $V$ y concluir tautología sin la tabla entera.
+> - ✅ Así sí: tautología exige **todas** las filas $V$ ($2^n$ filas); una sola $V$ no prueba nada.
+
+---
+
+## ✅ Metas de Aprendizaje
+
+> [!note] 🎯 Nivel Básico
+>
+> - [ ] Escribo recíproca, inversa y contrarrecíproca y digo cuál equivale.
+> - [ ] Traduzco "solo si", "es necesario" y "a menos que" a $\to$.
+> - [ ] Verifico equivalencias con tabla completa.
+
+> [!note] 🎯 Nivel Intermedio
+>
+> - [ ] Simplifico cadenas de condicionales con $p \to q \equiv \neg p \vee q$ + De Morgan.
+> - [ ] Formalizo argumentos en lenguaje natural (submarinistas, ej. 7–9) y decido validez.
+
+---
+
+## 🔁 Repaso SR (flashcards)
+
+#flashcards/discretas-u1
+
+> [!note] 🧠 Repasa con el plugin Spaced Repetition
+>
+> - ¿Variante equivalente al condicional?::Solo la contrarrecíproca $\neg q \to \neg p$.
+> - ¿"$p$ solo si $q$" es…?::$p \to q$ (q es necesaria para p).
+> - ¿Recíproca de $p \to q$?::$q \to p$ — NO equivalente.
+> - ¿Tautología exige qué?::Toda la columna $V$ en las $2^n$ filas.
+> - ¿$VL(p \to q)$ con la fórmula max?::$\max(1 - VL(p), VL(q))$.
+> - ¿Guía 1 ej. 7–9 qué evalúan?::Traducción del condicional y validez de argumentos.
+
+---
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa de contenido: [[Universidad/3er Semestre/Matemáticas Discretas/Matemáticas Discretas\|Matemáticas Discretas]]
+> - Anterior: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/I - Lógica Proporcional/01 - Proposiciones y conectivos\|01 - Proposiciones y conectivos]]
+> - Siguiente: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/II - Álgebra Proposicional/01 - Algebra de Proposiciones\|01 - Algebra de Proposiciones]]
+
+## 📚 Referencias
+
+> [!quote] 📖 Fuentes
+>
+> - Rosen, *Discrete Mathematics and Its Applications* — cap. 1 (condicional, equivalencias, tautologías).
+> - Material de clase MATG1051: formas en lenguaje natural y Guía 1 (ej. 7–9).
 
 ---
 

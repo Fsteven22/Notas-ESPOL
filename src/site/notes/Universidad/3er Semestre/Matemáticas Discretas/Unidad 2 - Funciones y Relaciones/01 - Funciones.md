@@ -51,6 +51,24 @@
 
 ---
 
+
+> [!note] 🔍 Mapa — Inyectiva, sobreyectiva, biyectiva
+>
+> ```mermaid
+> flowchart TD
+>     A["f : X → Y"] --> B{"¿Elementos distintos<br/>→ imágenes distintas?"}
+>     B -->|"Sí"| C["Inyectiva"]
+>     B -->|"No"| D["No inyectiva"]
+>     A --> E{"¿Toda y tiene<br/>preimagen?"}
+>     E -->|"Sí"| F["Sobreyectiva"]
+>     C --> G{"¿Ambas?"}
+>     F --> G
+>     G -->|"Sí"| H["Biyectiva ✅"]
+>     style H fill:#e1ffe1
+> ```
+>
+> **Se lee así:** dos preguntas independientes; biyectiva exige sí en ambas.
+
 ## 🔍 Tipos de Funciones
 
 > [!note] 🔍 Definición 2 — Función Inyectiva
@@ -108,12 +126,12 @@
 > $$g \circ f(x) = x, \quad \forall x \in X \qquad \text{y} \qquad f \circ g(y) = y, \quad \forall y \in Y$$
 > 
 > Si f es invertible, entonces g es **única**. La llamaremos la **inversa** de f, denotada f⁻¹.
-
-> [!abstract] 📐 Teorema 1 — Invertible ⟺ Biyectiva
-> 
-> Sea f : X → Y una función. Entonces:
-> 
-> $$f \text{ es invertible} \iff f \text{ es biyectiva}$$
+>
+> >[!abstract] 📐 Teorema 1 — Invertible ⟺ Biyectiva
+> >
+> >Sea f : X → Y una función. Entonces:
+> >
+> >$$f \text{ es invertible} \iff f \text{ es biyectiva}$$
 
 ---
 
@@ -170,6 +188,10 @@
 > Gráfico de f = {(−2,4),(−1,1),(0,0),(1,1),(2,4),(3,9)}
 > 
 > Gráfico de g = {(−2,−2),(−1,−1),(0,0),(1,1),(2,2),(3,3)}
+>
+> ![U2-01-grafico-funcion.png](/img/user/Universidad/Figuras/U2-01-grafico-funcion.png)
+>
+> *Figura generada con Python (matplotlib): las curvas muestran las funciones reales $x^2$ y $x$; los puntos, su restricción discreta a $X$. Nota cómo $f$ repite imágenes (no inyectiva) y $g$ no.*
 
 > [!example] 📝 Ejemplo 1 — Inyectividad (discreta)
 > 
@@ -378,6 +400,63 @@ graph TD
     F --> F2[Teorema: invertible ⟺ biyectiva]
 
 ```
+
+---
+
+## ⚠️ Errores Comunes y Principios Lógicos
+
+> [!danger] ❌ Error 1: Decir "inyectiva" sin verificar el dominio (viola **totalidad**)
+>
+> - ❌ **EL ERROR ESTÁ AQUÍ:** afirmar $g(x) = x+1$ inyectiva "porque la fórmula se ve lineal" sin revisar dominio.
+> - ✅ Así sí: toma $x_1 \neq x_2$ cualesquiera y deduce $x_1 = x_2$ (Ej. 2 verificado con SymPy).
+
+> [!danger] ❌ Error 2: Inversa sin restringir dominio (viola **existencia**)
+>
+> - ❌ **EL ERROR ESTÁ AQUÍ:** $g(y) = \frac{1+3y}{y+2}$ "para todo $y$" — en $y=-2$ no existe.
+> - ✅ Así sí: declara $g : \mathbb{R}-\{-2\} \to \mathbb{R}-\{3\}$ y verifica $x \neq 3$ por contradicción ($1=6$).
+
+> [!danger] ❌ Error 3: Piso/techo como redondeo (viola **definición**)
+>
+> - ❌ **EL ERROR ESTÁ AQUÍ:** $\lfloor -2.3 \rfloor = -2$ (redondear) — es $-3$ (mayor entero $\leq x$).
+> - ✅ Así sí: piso mira hacia abajo siempre, techo hacia arriba siempre.
+
+---
+
+## ✅ Metas de Aprendizaje
+
+> [!note] 🎯 Nivel Básico
+>
+> - [ ] Decido si una relación finita es función (totalidad + unicidad).
+> - [ ] Pruebo inyectividad con $x_1 \neq x_2$ y sobreyectividad despejando $x$.
+> - [ ] Calculo piso/techo sin redondear.
+
+> [!note] 🎯 Nivel Intermedio
+>
+> - [ ] Hallo inversas con dominio restringido y verifico $g \circ f = id$.
+> - [ ] Compongo funciones y determino dominio de la compuesta.
+
+---
+
+## 🔁 Repaso SR (flashcards)
+
+#flashcards/discretas-u2
+
+> [!note] 🧠 Repasa con el plugin Spaced Repetition
+>
+> - ¿Función en 2 condiciones?::Totalidad (todo $x$ tiene imagen) + unicidad (una sola).
+> - ¿Inyectiva vs sobreyectiva vs biyectiva?::$x_1 \neq x_2 \Rightarrow$ imágenes distintas / todo $y$ tiene preimagen / ambas.
+> - ¿Piso vs techo?::$\lfloor x \rfloor$ mayor entero $\leq x$; $\lceil x \rceil$ menor entero $\geq x$.
+> - ¿Inversa de $f(x) = \frac{-2x+1}{x-3}$?::$g(y) = \frac{1+3y}{y+2}$ con dominios restringidos.
+
+---
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa de contenido: [[Universidad/3er Semestre/Matemáticas Discretas/Matemáticas Discretas\|Matemáticas Discretas]]
+> - Índice Unidad 2: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/00 - Índice Unidad 2\|00 - Índice Unidad 2]]
+> - Siguiente: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/02 - Relaciones\|02 - Relaciones]] · Guía: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/Guía de Problemas 2 - Ejercicios Resueltos\|Guía de Problemas 2 - Ejercicios Resueltos]]
 
 ---
 

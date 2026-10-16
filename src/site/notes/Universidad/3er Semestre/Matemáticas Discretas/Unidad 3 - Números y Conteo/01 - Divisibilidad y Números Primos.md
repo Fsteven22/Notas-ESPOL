@@ -30,8 +30,6 @@
 >     C --> C2["Test: probar hasta raiz n"]
 >     D --> D1["Factorizacion unica en primos"]
 >     E --> E1["Demostracion por contradiction"]
-> 
-> 
 > ```
 > 
 > |Concepto|Fórmula clave|
@@ -257,8 +255,8 @@ graph TD
 ---
 
 > [!quote] 🔗 Conexiones
-> - Siguiente: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/02 - MCD, MCM y Algoritmo de Euclides\|02 - MCD, MCM y Algoritmo de Euclides]] — divisores comunes
-> - Relacionado: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/03 - Criterios de Divisibilidad y Sistemas de Numeración\|03 - Criterios de Divisibilidad y Sistemas de Numeración]]
-> - Aplicación: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 3 - Números y Conteo/06 - Teorema del Binomio y Principio del Palomar\|06 - Teorema del Binomio y Principio del Palomar]]
+> - Siguiente: [[02 - MCD, MCM y Algoritmo de Euclides]] — divisores comunes
+> - Relacionado: [[03 - Criterios de Divisibilidad y Sistemas de Numeración]]
+> - Aplicación: [[06 - Teorema del Binomio y Principio del Palomar]]
 
 **Tags:** #divisibilidad #primos #TFA #factorizacion #teoria-de-numeros #MATG1051 #unidad3

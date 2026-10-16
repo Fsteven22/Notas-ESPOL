@@ -144,7 +144,7 @@
 > |4|15|
 > |10|1023|
 
-![ChatGPT Image 18 ago 2026, 20_16_45.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2020_16_45.png)
+![[ChatGPT Image 18 ago 2026, 20_16_45.png]]
 
 ---
 
@@ -202,8 +202,8 @@ graph TD
 
 
 > [!quote] 🔗 Conexiones
-> - Previo: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/III - Razonamiento Inductivo/03 - Inducción Matemática\|03 - Inducción Matemática]] — inducción para probar recurrencias
-> - Siguiente: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/02 - Recurrencia Homogénea\|02 - Recurrencia Homogénea]] — solución por ecuaciones características
-> - Relacionado: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/03 - Pseudocódigo y Algoritmos\|03 - Pseudocódigo y Algoritmos]] — recursión en algoritmos
+> - Previo: [[03 - Inducción Matemática]] — inducción para probar recurrencias
+> - Siguiente: [[02 - Recurrencia Homogénea]] — solución por ecuaciones características
+> - Relacionado: [[03 - Pseudocódigo y Algoritmos]] — recursión en algoritmos
 
 **Tags:** #recurrencia #relacionesderecurrencia #fibonacci #interescompuesto #torredehanoi #metodoiterativo #MATG1051 #unidad4 #ESPOL

@@ -104,7 +104,7 @@
 > |**Determinismo**|Cada resultado intermedio depende únicamente de la entrada y de los pasos anteriores|
 > |**Carácter finito**|Termina tras un número finito de instrucciones|
 > |**Corrección**|La salida producida es correcta — resuelve el problema sin errores|
-> |**Generalidad**|Se aplica a un [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/IV - Teoría de Conjuntos/04 - Cardinalidad y Leyes de Cardinalidad\|Cardinalidad]] de entradas, no a un solo caso|
+> |**Generalidad**|Se aplica a un [[04 - Cardinalidad y Leyes de Cardinalidad|Cardinalidad]] de entradas, no a un solo caso|
 
 > [!example] 🟢 Ejemplo — máximo de tres números (con rastreo)
 > 
@@ -128,7 +128,7 @@
 
 ## 🟡 Funciones en Seudocódigo
 
-> [!note] 🟡 Sintaxis de una [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/01 - Funciones\|función]]
+> [!note] 🟡 Sintaxis de una [[01 - Funciones|función]]
 > 
 > ```
 > nombre_función(parámetros separados por comas) {
@@ -182,7 +182,7 @@
 > 
 > Mientras la condición sea verdadera, se ejecuta la acción y la secuencia se repite; en cuanto la condición se vuelve falsa, el control pasa a la instrucción siguiente.
 
-> [!example] 🟢 Ejemplo — máximo de una [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/04 - Sucesiones y Cadenas\|sucesión]] con `while`
+> [!example] 🟢 Ejemplo — máximo de una [[04 - Sucesiones y Cadenas|sucesión]] con `while`
 > 
 > ```
 > Entrada: s, n
@@ -218,7 +218,7 @@
 
 ---
 
-## 🎓 Ejemplos Avanzados: [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/02 - Cuantificadores\|Cuantificadores]] Lógicos
+## 🎓 Ejemplos Avanzados: [[02 - Cuantificadores|Cuantificadores]] Lógicos
 
 > [!example] 🟢 Valor lógico de $\forall x: P(x)$
 > 
@@ -290,7 +290,7 @@
 > }
 > ```
 
-![ChatGPT Image 18 ago 2026, 20_24_30.png](/img/user/Universidad/Figuras/ChatGPT%20Image%2018%20ago%202026,%2020_24_30.png)
+![[ChatGPT Image 18 ago 2026, 20_24_30.png]]
 
 ---
 
@@ -298,8 +298,8 @@
 
 > [!note] 📋 Temas relacionados
 > 
-> - [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/04 - Análisis de Algoritmos I - Fundamentos y Funciones Matemáticas\|04 - Análisis de Algoritmos I - Fundamentos y Funciones Matemáticas]] — cómo obtener cotas asintóticas a partir de una fórmula ya dada.
-> - [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/05 - Análisis de Algoritmos II - Pseudocódigo y Tiempo Real\|05 - Análisis de Algoritmos II - Pseudocódigo y Tiempo Real]] — cómo obtener esas mismas cotas contando operaciones directamente sobre este seudocódigo, incluyendo los algoritmos recursivos.
+> - [[04 - Análisis de Algoritmos I - Fundamentos y Funciones Matemáticas]] — cómo obtener cotas asintóticas a partir de una fórmula ya dada.
+> - [[05 - Análisis de Algoritmos II - Pseudocódigo y Tiempo Real]] — cómo obtener esas mismas cotas contando operaciones directamente sobre este seudocódigo, incluyendo los algoritmos recursivos.
 
 ## 📚 Referencias
 

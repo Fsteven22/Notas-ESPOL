@@ -16,12 +16,11 @@
 >     A["Dominio<br/>D"] --> B["f<br/>regla"]
 >     B --> C["Rango<br/>Im(f)"]
 >     C --> D["Gráfica<br/>(x,f(x))"]
->
 >     style B fill:#e1ffe1
 >     style D fill:#e1f5ff
 > ```
 
-![U3-01-dominio.png](/img/user/Universidad/Figuras/U3-01-dominio.png)
+![[U3-01-dominio.png]]
 
 > [!tip] 💡 Visual — Dominio restringido
 >
@@ -165,10 +164,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/10 - Funciones en Conjuntos\|10 - Funciones en Conjuntos]] — $f:A\to B$ general.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/02 - Representación gráfica\|02 - Representación gráfica]] — siguiente: gráfica.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/04 - Tipos de funciones\|04 - Tipos de funciones]] — clasificación.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/03 - Funciones definidas por tramos\|03 - Funciones definidas por tramos]] — tramos a fondo.
+> - [[10 - Funciones en Conjuntos]] — $f:A\to B$ general.
+> - [[02 - Representación gráfica]] — siguiente: gráfica.
+> - [[04 - Tipos de funciones]] — clasificación.
+> - [[03 - Funciones definidas por tramos]] — tramos a fondo.
 
 ---
 

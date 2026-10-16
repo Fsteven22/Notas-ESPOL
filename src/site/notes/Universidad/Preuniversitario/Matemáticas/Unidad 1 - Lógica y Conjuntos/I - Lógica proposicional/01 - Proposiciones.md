@@ -162,10 +162,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/I - Lógica proposicional/02 - Operadores Lógicos\|02 - Operadores Lógicos]] — siguiente: conectivos.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/I - Lógica proposicional/03 - Clases de Proposiciones\|03 - Clases de Proposiciones]] — simples/compuestas.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/05 - Predicados de una variable\|05 - Predicados de una variable]] — $x+5=12$ como predicado.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/02 - Cuantificadores\|02 - Cuantificadores]] — $\forall,\exists$ formales.
+> - [[02 - Operadores Lógicos]] — siguiente: conectivos.
+> - [[03 - Clases de Proposiciones]] — simples/compuestas.
+> - [[05 - Predicados de una variable]] — $x+5=12$ como predicado.
+> - [[02 - Cuantificadores]] — $\forall,\exists$ formales.
 
 ---
 

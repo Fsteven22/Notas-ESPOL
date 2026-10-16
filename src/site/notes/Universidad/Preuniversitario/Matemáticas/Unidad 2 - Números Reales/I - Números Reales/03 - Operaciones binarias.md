@@ -20,7 +20,7 @@
 >     style D fill:#e1f5ff
 > ```
 
-![03-cayley.png](/img/user/Universidad/Figuras/03-cayley.png)
+![[03-cayley.png]]
 
 > [!tip] 💡 Visual — Tabla de Cayley
 >
@@ -164,10 +164,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/04 - Propiedades de las Operaciones\|04 - Propiedades de las Operaciones]] — axiomas en conjuntos.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/04 - Operaciones entre números reales\|04 - Operaciones entre números reales]] — $+,\times$ en $\mathbb{R}$.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 4 - Matrices y Sistemas/I - Matrices y Sistemas de Ecuaciones/02 - Operaciones con matrices\|02 - Operaciones con matrices]] — producto no conmutativo.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/09 - Operaciones con funciones de variable real\|09 - Operaciones con funciones de variable real]] — composición.
+> - [[04 - Propiedades de las Operaciones]] — axiomas en conjuntos.
+> - [[04 - Operaciones entre números reales]] — $+,\times$ en $\mathbb{R}$.
+> - [[02 - Operaciones con matrices]] — producto no conmutativo.
+> - [[09 - Operaciones con funciones de variable real]] — composición.
 
 ---
 

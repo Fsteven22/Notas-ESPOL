@@ -28,9 +28,9 @@ graph LR
 ```
 
 > [!quote] 🔗 Conexiones
-> - Previo: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 4 - Recurrencia y Algoritmos/05 - Análisis de Algoritmos II - Pseudocódigo y Tiempo Real\|05 - Análisis de Algoritmos II - Pseudocódigo y Tiempo Real]] (Unidad 4)
-> - Siguiente: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 6 - Lenguajes y Autómatas/01 - Máquinas de Estado Finito - Definición y Estructura\|01 - Máquinas de Estado Finito - Definición y Estructura]] (Unidad 6)
-> - MOC general: [[Universidad/3er Semestre/Matemáticas Discretas/Matemáticas Discretas\|Matemáticas Discretas]]
+> - Previo: [[05 - Análisis de Algoritmos II - Pseudocódigo y Tiempo Real]] (Unidad 4)
+> - Siguiente: [[01 - Máquinas de Estado Finito - Definición y Estructura]] (Unidad 6)
+> - MOC general: [[Matemáticas Discretas]]
 
 ---
 **Tags:** #MATG1051 #unidad5 #indice #discretas

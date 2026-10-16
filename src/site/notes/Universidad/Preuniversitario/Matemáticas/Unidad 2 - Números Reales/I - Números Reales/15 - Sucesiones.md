@@ -16,12 +16,11 @@
 >     A["Fórmula<br/>a(n)"] --> B["Arit/geom<br/>d,r"]
 >     B --> C["Recurre<br/>Fibonacci"]
 >     C --> D["Límite<br/>punto fijo"]
->
 >     style B fill:#e1ffe1
 >     style D fill:#e1f5ff
 > ```
 
-![15-sucesion.png](/img/user/Universidad/Figuras/15-sucesion.png)
+![[15-sucesion.png]]
 
 > [!tip] 💡 Visual — Convergencia monótona
 >
@@ -165,10 +164,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/12 - Inducción matemática\|12 - Inducción matemática]] — prueba acotación/monotonía.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/13 - Técnicas de conteo\|13 - Técnicas de conteo]] — acota $n^{1/n}$.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/01 - Conjuntos Numéricos\|01 - Conjuntos Numéricos]] — decimales como límites de parciales.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/13 - Funciones exponenciales\|13 - Funciones exponenciales]] — $e$ como límite.
+> - [[12 - Inducción matemática]] — prueba acotación/monotonía.
+> - [[13 - Técnicas de conteo]] — acota $n^{1/n}$.
+> - [[01 - Conjuntos Numéricos]] — decimales como límites de parciales.
+> - [[13 - Funciones exponenciales]] — $e$ como límite.
 
 ---
 

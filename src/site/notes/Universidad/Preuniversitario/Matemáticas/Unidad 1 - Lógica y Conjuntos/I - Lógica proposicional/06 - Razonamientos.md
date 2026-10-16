@@ -159,10 +159,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/I - Lógica proposicional/05 - Propiedades de los operadores lógicos\|05 - Propiedades de los operadores lógicos]] — base: leyes.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/I - Lógica proposicional/07 - Demostraciones\|07 - Demostraciones]] — siguiente: métodos de prueba.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/06 - Razonamientos con predicados y cuantificadores\|06 - Razonamientos con predicados y cuantificadores]] — reglas con $\forall,\exists$.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/I - Lógica proposicional/03 - Clases de Proposiciones\|03 - Clases de Proposiciones]] — validez como tautología.
+> - [[05 - Propiedades de los operadores lógicos]] — base: leyes.
+> - [[07 - Demostraciones]] — siguiente: métodos de prueba.
+> - [[06 - Razonamientos con predicados y cuantificadores]] — reglas con $\forall,\exists$.
+> - [[03 - Clases de Proposiciones]] — validez como tautología.
 
 ---
 

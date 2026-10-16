@@ -12,6 +12,18 @@
 > Cuando las proposiciones involucran [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/02 - Cuantificadores\|cuantificadores]] $\forall$ y $\exists$, las reglas proposicionales no son suficientes. Necesitamos reglas que permitan **pasar entre lo universal y lo particular**, y entre lo existencial y lo concreto.
 > 
 > Estas reglas combinan naturalmente con las reglas proposicionales para construir argumentos más complejos.
+>
+> ```mermaid
+> graph TD
+>     A["¿Dirección?"] --> B["∀ → caso<br/>Particularización"]
+>     A --> C["casos → ∀<br/>Generalización"]
+>     A --> D["∃ → testigo<br/>Particularización"]
+>     A --> E["testigo → ∃<br/>Generalización"]
+>     style B fill:#e1f5ff
+> ```
+>
+> **En esta nota:** las 4 reglas con su restricción (el testigo existencial debe ser **nuevo**, no usado antes), combinadas con MP/MT, y el error clásico: generalizar desde un caso particular.
+>
 
 ---
 
@@ -29,6 +41,18 @@
 
 ---
 
+
+> [!note] 🔍 Mapa — Las 4 direcciones
+>
+> ```mermaid
+> graph TD
+>     A["∀ → caso: particulariza"] --> B["casos → ∀: generaliza"]
+>     C["∃ → testigo nuevo"] --> D["testigo → ∃"]
+>     style A fill:#e1f5ff
+> ```
+>
+> **Se lee así:** universal baja a caso, casos suben a universal; existencial exige testigo fresco.
+
 ## 🔍 Reglas Detalladas
 
 ### 1 — Particularización Universal
@@ -39,6 +63,8 @@
 > 
 > $$\frac{\forall x \in D : P(x)}{\therefore\ P(d), \quad \text{si } d \in D}$$
 > 
+> > [!example] 🟢 Ejemplo
+> >
 > > Esta es la regla más usada al inicio de demostraciones: tomamos un elemento particular del dominio y le aplicamos la propiedad universal.
 
 ---
@@ -51,7 +77,7 @@
 > 
 > $$\frac{P(d), \quad \text{para toda } d \in D}{\therefore\ \forall x \in D : P(x)}$$
 > 
-> > ⚠️ El elemento $d$ debe ser **arbitrario**: no puede tener propiedades especiales que no compartan todos los elementos del dominio.
+⚠️ El elemento $d$ debe ser **arbitrario**: no puede tener propiedades especiales que no compartan todos los elementos del dominio.
 
 ---
 
@@ -138,6 +164,25 @@
 
 ---
 
+## ⚠️ Errores Comunes y Principios
+
+> [!danger] ❌ Error 1: Generalizar desde un elemento con historia (viola **arbitrariedad en GU**)
+>
+> - ❌ **EL ERROR ESTÁ AQUÍ:** probar $P(c)$ para una $c$ con supuestos previos y concluir $\forall x\,P(x)$.
+> - ✅ Así sí: la generalización universal exige una $c$ **arbitraria**, sin propiedades asumidas.
+
+> [!danger] ❌ Error 2: Particularizar $\forall$ fuera del dominio (viola **dominio de discurso**)
+>
+> - ❌ **EL ERROR ESTÁ AQUÍ:** de $\forall x \in \mathbb{N}\,P(x)$ concluir $P(-3)$.
+> - ✅ Así sí: la particularización solo instancia elementos **del dominio** declarado.
+
+> [!danger] ❌ Error 3: Reutilizar el nombre del testigo $\exists$ (viola **frescura del testigo**)
+>
+> - ❌ **EL ERROR ESTÁ AQUÍ:** de $\exists x\,P(x)$ y $\exists x\,Q(x)$ concluir $P(c) \wedge Q(c)$ con la misma $c$.
+> - ✅ Así sí: cada existencial da su propio testigo ($c_1$, $c_2$) — podrían ser distintos.
+
+---
+
 ## 📊 Resumen Visual
 
 ```mermaid
@@ -153,6 +198,62 @@ graph TD
     I --> J[✅ Conclusión]
 
 ```
+
+---
+
+## 📋 Resumen Ejecutivo
+
+> [!summary] 📋 Lo Esencial
+>
+> - 4 direcciones: $\forall$→caso (particularización), casos→$\forall$ (generalización), $\exists$→testigo, testigo→$\exists$.
+> - Testigo existencial **nuevo**: no usado antes en la prueba.
+> - Se combinan con MP/MT proposicionales; no generalizar desde un caso.
+
+---
+
+## ✅ Metas de Aprendizaje
+
+> [!note] 🎯 Nivel Básico
+>
+> - [ ] Aplico las 4 reglas (PU, GU, PE, GE) en la dirección correcta.
+> - [ ] Particularizo $\forall$ solo dentro del dominio declarado.
+> - [ ] Doy testigo fresco en cada particularización existencial.
+
+> [!note] 🎯 Nivel Intermedio
+>
+> - [ ] Generalizo a $\forall$ solo desde elemento arbitrario.
+> - [ ] Combino reglas proposicionales y cuantificadas en una demostración.
+
+---
+
+## 🔁 Repaso SR (flashcards)
+
+#flashcards/discretas-u1
+
+> [!note] 🧠 Repasa con el plugin Spaced Repetition
+>
+> - ¿4 reglas cuantificadas?::PU, GU, PE, GE (universal/existencial × particular/general).
+> - ¿Testigo nuevo por qué?::Si ya se usó, la prueba colapsa (particularización existencial).
+> - ¿Error típico?::Generalizar $\forall$ desde un solo caso.
+
+---
+
+## 🔗 Seguir estudiando
+
+> [!info] 📚 Seguir estudiando
+>
+> - Mapa de contenido: [[Universidad/3er Semestre/Matemáticas Discretas/Matemáticas Discretas\|Matemáticas Discretas]]
+> - Anterior: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/III - Razonamiento Inductivo/01 - Reglas de Inferencia\|01 - Reglas de Inferencia]] · Siguiente: [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 1 - Logica y Conjuntos/III - Razonamiento Inductivo/03 - Inducción Matemática\|03 - Inducción Matemática]]
+> - Base: [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/02 - Cuantificadores\|02 - Cuantificadores]]
+
+---
+
+## 📚 Referencias
+
+> [!quote] 📖 Fuentes
+>
+> - Rosen, *Discrete Mathematics and Its Applications* — cap. 1 (inferencia con cuantificadores).
+> - Material de clase MATG1051: las 4 reglas y restricciones del testigo.
 
 ---
 

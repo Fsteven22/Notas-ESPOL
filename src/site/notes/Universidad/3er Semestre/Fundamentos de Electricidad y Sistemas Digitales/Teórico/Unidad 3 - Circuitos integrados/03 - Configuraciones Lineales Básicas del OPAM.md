@@ -24,14 +24,15 @@
 >     style C fill:#e1f5ff
 > ```
 >
+
 > [!note] 🗂️ Qué ya viste y qué es nuevo
 >
 > |Configuración|Estado en tu vault|
 > |---|---|
-> |Seguidor de tensión ($v_o=v_i$)|Ya en [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/02 - Aplicaciones de los OPAMs - Minimización de Ruido#🔌 Seguidor de Tensión (Buffer) — Aislamiento de Impedancias\|02 - Buffer]]|
-> |Diferencial simple y de instrumentación|Ya en [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/02 - Aplicaciones de los OPAMs - Minimización de Ruido#➖ Amplificador Diferencial — Rechazo de Modo Común\|02]]|
+> |Seguidor de tensión ($v_o=v_i$)|Ya en [[02 - Aplicaciones de los OPAMs - Minimización de Ruido#🔌 Seguidor de Tensión (Buffer) — Aislamiento de Impedancias|02 - Buffer]]|
+> |Diferencial simple y de instrumentación|Ya en [[02 - Aplicaciones de los OPAMs - Minimización de Ruido#➖ Amplificador Diferencial — Rechazo de Modo Común|02]]|
 > |**Inversor, no inversor, sumadores, eliminación DC, convertidores**|**Nuevos aquí (esta nota, PDF pp. 4-13 y 18-20)**|
-> |Integrador / Derivador / No lineales|En [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/04 - Integrador, Derivador y Circuitos No Lineales\|04]]|
+> |Integrador / Derivador / No lineales|En [[04 - Integrador, Derivador y Circuitos No Lineales|04]]|
 
 ---
 
@@ -47,6 +48,7 @@
 > - Ganancia solo depende del cociente $R_2/R_1$ — eliges el valor que quieras.
 > - Impedancia de entrada $\approx R_1$ (no es alta como en el no inversor).
 >
+
 > [!success] 📊 Derivación rápida (dos alternativas del PDF p.5)
 >
 > |Paso|Acción|
@@ -55,6 +57,7 @@
 > |**2**|KCL: $i_1 = i_2$ (no entra corriente al OPAM) $\Rightarrow v_i/R_1 = -v_o/R_2$|
 > |**3**|Despejando: $v_o = -(R_2/R_1)v_i$|
 >
+
 > [!example]- ✏️ Ejemplo — Inversor de ganancia -10
 >
 > $R_1=10\text{ k}\Omega$, $R_2=100\text{ k}\Omega$, $v_i=0.2\text{ V}$ $\Rightarrow$ $v_o = -10 \times 0.2 = -2\text{ V}$.
@@ -73,10 +76,12 @@
 > - **En fase** con $v_i$ (sin inversión).
 > - Impedancia de entrada **muy alta** ($\approx$ impedancia del OPAM) — ideal para sensores.
 >
+
 > [!success] 📊 Derivación (PDF p.7)
 >
 > $$V_- = v_o \cdot \frac{R_1}{R_1+R_2} \approx V_+ = v_i \Rightarrow v_o = \left(1+\frac{R_2}{R_1}\right)v_i$$
 >
+
 > [!warning] ⚠️ Confusión común
 >
 > No intentes hacer ganancia $<1$ con un no inversor. Para atenuar usa un divisor previo o un inversor con $R_2<R_1$.
@@ -107,6 +112,7 @@
 >
 > > 📌 Truco del PDF p.11: puedes construir un sumador no inversor con un **sumador inversor + inversor** en cascada: $v_x=-R\sum v_k/R_k$, $v_o=-(R_5/R_4)v_x$.
 >
+
 > [!example]- ✏️ Ejemplo — Sumador inversor de 2 entradas
 >
 > $R=20\text{ k}\Omega$, $R_1=10\text{ k}\Omega$, $R_2=20\text{ k}\Omega$, $v_1=1\text{ V}$, $v_2=2\text{ V}$ $\Rightarrow$ $v_o=-20(1/10+2/20)=-20(0.1+0.1)=-4\text{ V}$.
@@ -125,9 +131,10 @@
 >
 > Para $\omega \gg 1/(R_p C)$: $|V_o/V_i|\approx 1+R_2/R_1$ (pasa AC). Para $\omega\to 0$: $|V_o/V_i|\to 0$ (bloquea DC).
 >
+
 > [!warning] ⚠️ No es un filtro activo completo
 >
-> Este circuito es un **paso alto de primer orden con ganancia**. Para filtros más selectivos ver [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/02 - Aplicaciones de los OPAMs - Minimización de Ruido#🌊 Filtros Activos — Extendiendo los Filtros Pasivos\|02 - Filtros activos]] y el integrador como LPF en [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/04 - Integrador, Derivador y Circuitos No Lineales\|04]].
+> Este circuito es un **paso alto de primer orden con ganancia**. Para filtros más selectivos ver [[02 - Aplicaciones de los OPAMs - Minimización de Ruido#🌊 Filtros Activos — Extendiendo los Filtros Pasivos|02 - Filtros activos]] y el integrador como LPF en [[04 - Integrador, Derivador y Circuitos No Lineales|04]].
 
 ---
 
@@ -153,6 +160,7 @@
 >
 > Un inversor donde la entrada es una corriente $i_e$ inyectada al nodo inversor.
 >
+
 > [!example]- ✏️ Ejemplo — Sensor de corriente
 >
 > Fotodiodo entrega $i_e=50\ \mu\text{A}$, $R=100\text{ k}\Omega$ $\Rightarrow$ $v_o=-5\text{ V}$ — lectura directa de corriente como tensión.
@@ -169,6 +177,7 @@
 >
 > Misma forma que la ganancia del no inversor, pero en **corriente**.
 >
+
 > [!warning] ⚠️ Carga flotante = cuidado
 >
 > Ningún terminal de $R_L$ está a masa. No confundir con convertidores donde $R_L$ sí va a masa o a la salida del OPAM.
@@ -181,10 +190,12 @@
 >
 > $R_1=10\text{ k}$, $R_2=40\text{ k}$, $v_i=0.5\text{ V}$ $\Rightarrow$ $v_o=-4\times0.5=-2\text{ V}$.
 >
+
 > [!example]- ✏️ Ejercicio 2 — No inversor con divisor
 >
 > $R_1=4.7\text{ k}$, $R_2=10\text{ k}$, $v_i=-0.4\text{ V}$ $\Rightarrow$ $v_o=(1+10/4.7)(-0.4)=3.128\times(-0.4)=-1.25\text{ V}$ (mismo cálculo PDF p.44).
 >
+
 > [!example]- ✏️ Ejercicio 3 — Convertidor I-V
 >
 > $i_e=2\text{ mA}$, $R=5\text{ k}$ $\Rightarrow$ $v_o=-10\text{ V}$.
@@ -199,12 +210,14 @@
 > - [ ] Explico por qué el no inversor tiene alta $Z_{in}$ y el inversor $Z_{in}\approx R_1$.
 > - [ ] Identifico un sumador ponderado y predigo su signo.
 >
+
 > [!note] 🎯 Nivel Intermedio
 >
 > - [ ] Calculo la salida de un sumador no inversor ponderado con 3 entradas.
 > - [ ] Explico el rol del condensador en el amplificador con eliminación de DC y su FDT.
 > - [ ] Distingo convertidor V-I vs I-V y amplificador de intensidad con carga flotante.
 >
+
 > [!note] 🎯 Nivel Avanzado
 >
 > - [ ] Diseño un sumador inversor que haga $v_o=-(2v_1+0.5v_2)$ eligiendo $R,R_1,R_2$.
@@ -249,12 +262,13 @@ mindmap
 > [2] A. Sedra y K. Smith, _Microelectronic Circuits_, 7th ed., cap. 2 — configuración inversora/no inversora.
 > [3] R. L. Boylestad y L. Nashelsky, _Electrónica: Teoría de Circuitos_, 10th ed., cap. 10.
 >
+
 > [!quote] 🔗 Conexiones
 >
-> - Previo: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/02 - Aplicaciones de los OPAMs - Minimización de Ruido\|02 - Aplicaciones de los OPAMs - Minimización de Ruido]] — seguidor, diferencial e instrumentación (ya cubiertos, no se repiten aquí).
-> - Siguiente: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/04 - Integrador, Derivador y Circuitos No Lineales\|04 - Integrador, Derivador y Circuitos No Lineales]] — integrador/derivador (extienden estas bases con $C$) y circuitos no lineales.
-> - Luego: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/05 - Ejercicios Resueltos y de Oposición\|05 - Ejercicios Resueltos y de Oposición]] — problemas numéricos con estas mismas topologías.
-> - Después: [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/06 - Aplicaciones de Integrados 555 - ADC - PWM\|06 - Aplicaciones de Integrados 555 - ADC - PWM]] y [[Universidad/3er Semestre/Fundamentos de Electricidad y Sistemas Digitales/Teórico/Unidad 3 - Circuitos integrados/07 - Lógica fija y tablas de verdad\|07 - Lógica fija y tablas de verdad]].
+> - Previo: [[02 - Aplicaciones de los OPAMs - Minimización de Ruido]] — seguidor, diferencial e instrumentación (ya cubiertos, no se repiten aquí).
+> - Siguiente: [[04 - Integrador, Derivador y Circuitos No Lineales]] — integrador/derivador (extienden estas bases con $C$) y circuitos no lineales.
+> - Luego: [[05 - Ejercicios Resueltos y de Oposición]] — problemas numéricos con estas mismas topologías.
+> - Después: [[06 - Aplicaciones de Integrados 555 - ADC - PWM]] y [[07 - Lógica fija y tablas de verdad]].
 
 ---
 

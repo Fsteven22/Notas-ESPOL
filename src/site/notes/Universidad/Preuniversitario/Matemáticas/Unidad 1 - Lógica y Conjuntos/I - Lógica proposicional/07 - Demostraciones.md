@@ -40,10 +40,10 @@
 >
 > 1. **Hipótesis clara:** qué se asume (puede ser vacío, si se prueba un hecho absoluto).
 > 2. **Tesis clara:** qué se quiere concluir.
-> 3. **Justificación en cada paso:** axioma, definición, teorema previo o regla de inferencia (ver [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/I - Lógica proposicional/06 - Razonamientos\|06 - Razonamientos]]).
+> 3. **Justificación en cada paso:** axioma, definición, teorema previo o regla de inferencia (ver [[06 - Razonamientos]]).
 > 4. **Cierre explícito:** el símbolo $\blacksquare$ o "Q.E.D." marca que la cadena llegó a la tesis.
 >
-> **Diferencia clave con un cálculo:** un cálculo transforma números; una demostración transforma **proposiciones** usando lógica ([[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/I - Lógica proposicional/03 - Clases de Proposiciones\|03 - Clases de Proposiciones]]).
+> **Diferencia clave con un cálculo:** un cálculo transforma números; una demostración transforma **proposiciones** usando lógica ([[03 - Clases de Proposiciones]]).
 
 > [!warning] ⚠️ Lo que NO es una demostración
 >
@@ -58,7 +58,7 @@
 
 > [!success] 📋 Idea y por qué funciona
 >
-> Para probar $P \to Q$: **asumes $P$** como hipótesis y, aplicando definiciones y reglas válidas, **derivas $Q$**. Funciona porque el condicional solo es falso cuando $P$ es $V$ y $Q$ es $F$ ([[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/I - Lógica proposicional/02 - Operadores Lógicos\|02 - Operadores Lógicos]]) — si logras llegar de $P$ a $Q$ con pasos válidos, ese caso queda descartado y $P\to Q$ es verdadero.
+> Para probar $P \to Q$: **asumes $P$** como hipótesis y, aplicando definiciones y reglas válidas, **derivas $Q$**. Funciona porque el condicional solo es falso cuando $P$ es $V$ y $Q$ es $F$ ([[02 - Operadores Lógicos]]) — si logras llegar de $P$ a $Q$ con pasos válidos, ese caso queda descartado y $P\to Q$ es verdadero.
 >
 > **Esquema:** $P,\; P\to Q_1,\; Q_1\to Q_2,\;\dots,\;Q_{n-1}\to Q \;\therefore\; Q$ (silogismo hipotético encadenado).
 
@@ -90,7 +90,7 @@
 
 > [!warning] 📋 Idea y por qué funciona
 >
-> Para probar $P$ (o $P\to Q$): **asumes la negación** ($\lnot P$, o $P\land\lnot Q$) y derivas una contradicción $R\land\lnot R$. Funciona porque $\lnot P \to (R\land\lnot R)$ es equivalente a $\lnot P \to \bot$, que a su vez equivale a $P$ ([[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/I - Lógica proposicional/05 - Propiedades de los operadores lógicos\|05 - Propiedades de los operadores lógicos]]: si negar algo lleva al absurdo, ese algo debe ser verdadero).
+> Para probar $P$ (o $P\to Q$): **asumes la negación** ($\lnot P$, o $P\land\lnot Q$) y derivas una contradicción $R\land\lnot R$. Funciona porque $\lnot P \to (R\land\lnot R)$ es equivalente a $\lnot P \to \bot$, que a su vez equivale a $P$ ([[05 - Propiedades de los operadores lógicos]]: si negar algo lleva al absurdo, ese algo debe ser verdadero).
 >
 > **Cuándo conviene:** cuando la tesis afirma una **no existencia** o una **imposibilidad** (irracionalidad, infinitud, "no hay mayor elemento"), donde una prueba directa no tiene un punto de partida claro.
 
@@ -127,7 +127,7 @@
 
 > [!success] 📋 Idea y por qué funciona
 >
-> Para probar $P \to Q$, en su lugar pruebas $\lnot Q \to \lnot P$ (directamente). Funciona porque $P\to Q \equiv \lnot Q \to \lnot P$ es una equivalencia lógica ([[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/I - Lógica proposicional/03 - Clases de Proposiciones\|03 - Clases de Proposiciones]]), verificable por tabla de verdad — ambas fórmulas tienen exactamente el mismo patrón V/F.
+> Para probar $P \to Q$, en su lugar pruebas $\lnot Q \to \lnot P$ (directamente). Funciona porque $P\to Q \equiv \lnot Q \to \lnot P$ es una equivalencia lógica ([[03 - Clases de Proposiciones]]), verificable por tabla de verdad — ambas fórmulas tienen exactamente el mismo patrón V/F.
 >
 > **Cuándo conviene:** cuando negar la conclusión te da más información manejable que asumir la hipótesis directamente.
 
@@ -166,7 +166,7 @@
 
 > [!note] 📋 Idea y por qué funciona
 >
-> Divides la hipótesis en subcasos $A_1 \lor A_2 \lor \dots \lor A_n$ que cubren **todas** las posibilidades (exhaustivos), y demuestras la tesis en cada uno por separado. Funciona por la regla del **dilema constructivo**: si $(A_1\to Q)\land(A_2\to Q)\land\dots\land(A_1\lor\dots\lor A_n)$, entonces $Q$ ([[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/I - Lógica proposicional/06 - Razonamientos\|06 - Razonamientos]]).
+> Divides la hipótesis en subcasos $A_1 \lor A_2 \lor \dots \lor A_n$ que cubren **todas** las posibilidades (exhaustivos), y demuestras la tesis en cada uno por separado. Funciona por la regla del **dilema constructivo**: si $(A_1\to Q)\land(A_2\to Q)\land\dots\land(A_1\lor\dots\lor A_n)$, entonces $Q$ ([[06 - Razonamientos]]).
 >
 > **Requisito crítico:** los casos deben cubrir el 100% de las posibilidades — si te falta un caso, la demostración queda incompleta.
 
@@ -232,7 +232,7 @@
 >
 > En ambos casos $k+1$ tiene un factor primo. $\blacksquare$ — nótese que aquí **sí** necesitamos inducción fuerte: $a$ no es necesariamente $k$, puede ser cualquier valor menor.
 
-![07-induccion.png](/img/user/Universidad/Figuras/07-induccion.png)
+![[07-induccion.png]]
 
 > [!tip] 💡 Visual — inducción como dominó
 >
@@ -300,7 +300,7 @@ flowchart TD
 > [!warning] ⚠️ Evita estos fallos
 >
 > - **Petición de principio:** asumir (de forma disfrazada) lo que quieres probar.
-> - **Probar la conversa en vez del enunciado:** demostrar "$n$ par $\to n^2$ par" no prueba "$n^2$ par $\to n$ par" (son proposiciones distintas, ver [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/I - Lógica proposicional/05 - Propiedades de los operadores lógicos\|05 - Propiedades de los operadores lógicos]]).
+> - **Probar la conversa en vez del enunciado:** demostrar "$n$ par $\to n^2$ par" no prueba "$n^2$ par $\to n$ par" (son proposiciones distintas, ver [[05 - Propiedades de los operadores lógicos]]).
 > - **Generalizar desde ejemplos:** $n^2+n+41$ es primo para $n=0,1,2,\dots,39$, pero falla en $n=40$ ($40^2+40+41 = 41^2$). Verificar casos nunca reemplaza una demostración.
 > - **Confundir contrapositiva con recíproca o contraria** (ver tabla más arriba).
 > - **Inducción sin base, o con HI aplicada incorrectamente.**
@@ -446,11 +446,11 @@ mindmap
 
 > [!quote] 🔗 Conexiones
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/I - Lógica proposicional/01 - Proposiciones\|01 - Proposiciones]] — base del razonamiento formal.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/I - Lógica proposicional/02 - Operadores Lógicos\|02 - Operadores Lógicos]] — condicional y bicondicional usados en cada método.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/I - Lógica proposicional/05 - Propiedades de los operadores lógicos\|05 - Propiedades de los operadores lógicos]] — equivalencias que justifican contrapositiva y contradicción.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/I - Lógica proposicional/06 - Razonamientos\|06 - Razonamientos]] — reglas de inferencia (MP, MT, SH) usadas dentro de cada demostración.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/02 - Cuantificadores\|02 - Cuantificadores]] — el $\forall$ detrás de "para todo $n$" en inducción.
+> - [[01 - Proposiciones]] — base del razonamiento formal.
+> - [[02 - Operadores Lógicos]] — condicional y bicondicional usados en cada método.
+> - [[05 - Propiedades de los operadores lógicos]] — equivalencias que justifican contrapositiva y contradicción.
+> - [[06 - Razonamientos]] — reglas de inferencia (MP, MT, SH) usadas dentro de cada demostración.
+> - [[02 - Cuantificadores]] — el $\forall$ detrás de "para todo $n$" en inducción.
 
 ---
 

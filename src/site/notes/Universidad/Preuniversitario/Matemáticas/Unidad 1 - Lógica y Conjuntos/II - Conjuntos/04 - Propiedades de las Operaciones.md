@@ -158,10 +158,10 @@
 
 > [!quote] 🔗 Notas relacionadas
 >
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/03 - Operaciones entre Conjuntos\|03 - Operaciones entre Conjuntos]] — base: operaciones.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/I - Lógica proposicional/05 - Propiedades de los operadores lógicos\|05 - Propiedades de los operadores lógicos]] — dual lógico.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 2 - Números Reales/I - Números Reales/03 - Operaciones binarias\|03 - Operaciones binarias]] — asociatividad abstracta.
-> - [[Universidad/Preuniversitario/Matemáticas/Unidad 1 - Lógica y Conjuntos/II - Conjuntos/09 - Relaciones\|09 - Relaciones]] — $\subseteq$ y orden.
+> - [[03 - Operaciones entre Conjuntos]] — base: operaciones.
+> - [[05 - Propiedades de los operadores lógicos]] — dual lógico.
+> - [[03 - Operaciones binarias]] — asociatividad abstracta.
+> - [[09 - Relaciones]] — $\subseteq$ y orden.
 
 ---
 
