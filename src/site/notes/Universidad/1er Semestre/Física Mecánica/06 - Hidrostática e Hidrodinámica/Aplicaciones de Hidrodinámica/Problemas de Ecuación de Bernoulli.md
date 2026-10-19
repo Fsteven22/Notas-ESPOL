@@ -79,22 +79,7 @@
 
 > [!success] 🔗 Metodología de Aplicación
 > 
-> ```mermaid
-> graph TD
->     A[Verificar Condiciones de Validez] --> B[Seleccionar Puntos de Referencia]
->     B --> C[Definir Plano de Referencia]
->     C --> D[Aplicar Ecuación de Bernoulli]
->     D --> E[Combinar con Continuidad]
->     E --> F[Resolver Sistema de Ecuaciones]
->     F --> G[Verificar Coherencia Física]
->     style A fill:#e1f5fe
->     style B fill:#f3e5f5
->     style C fill:#fff3e0
->     style D fill:#e8f5e8
->     style E fill:#fce4ec
->     style F fill:#f1f8e9
->     style G fill:#ffebee
-> ```
+> ![[Diagramas/Problemas_de_Ecuación_de_Bernoulli_01.svg\|Diagramas/Problemas_de_Ecuación_de_Bernoulli_01.svg]]
 >
 
 > [!note] **Fórmulas Específicas** 📐
@@ -351,18 +336,18 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Problemas de Ecuación de Continuidad]] - Conservación de masa
-> - [[Ecuación de Continuidad y Bernoulli]] - Teoría fundamental
-> - [[Presión y Densidad]] - Propiedades básicas
-> - [[Flujo Laminar y Ecuación de Poiseuille]] - Efectos de viscosidad
-> - **Próximo tema**: [[Problemas de Flujo con Viscosidad (Poiseuille)]]
+> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Aplicaciones de Hidrodinámica/Problemas de Ecuación de Continuidad\|Problemas de Ecuación de Continuidad]] - Conservación de masa
+> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrodinámica/Ecuación de Continuidad y Bernoulli\|Ecuación de Continuidad y Bernoulli]] - Teoría fundamental
+> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Fundamentos de Hidrostática e Hidrodinámica/Presión y Densidad\|Presión y Densidad]] - Propiedades básicas
+> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrodinámica/Flujo Laminar y Ecuación de Poiseuille\|Flujo Laminar y Ecuación de Poiseuille]] - Efectos de viscosidad
+> - **Próximo tema**: [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Aplicaciones de Hidrodinámica/Problemas de Flujo con Viscosidad (Poiseuille)\|Problemas de Flujo con Viscosidad (Poiseuille)]]
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Trabajo y Energía]] - Conservación de energía
-> - [[Problemas de Ecuación de Continuidad]] - Conservación de masa
+> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Trabajo y Energía\|Trabajo y Energía]] - Conservación de energía
+> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Aplicaciones de Hidrodinámica/Problemas de Ecuación de Continuidad\|Problemas de Ecuación de Continuidad]] - Conservación de masa
 > - **Matemáticas**: Álgebra, resolución de sistemas de ecuaciones
 > 
 > ### **Conocimientos Previos**:
@@ -481,26 +466,7 @@
 >
 >[!success] 🔗 Aplicaciones del Teorema de Torricelli
 > 
-> ```mermaid
-> graph TD
->     A[Teorema de Torricelli] --> B[Vaciado de Tanques]
->     A --> C[Sistemas de Riego]
->     A --> D[Medición de Flujo]
->     A --> E[Fuentes Ornamentales]
->     B --> F[Tiempo de vaciado]
->     B --> G[Velocidad variable]
->     C --> H[Aspersores]
->     C --> I[Goteo controlado]
->     D --> J[Orificios calibrados]
->     D --> K[Aforadores]
->     E --> L[Altura del chorro]
->     E --> M[Alcance horizontal]
->     style A fill:#e1f5fe
->     style B fill:#f3e5f5
->     style C fill:#fff3e0
->     style D fill:#e8f5e8
->     style E fill:#fce4ec
-> ```
+> ![[Diagramas/Problemas_de_Ecuación_de_Bernoulli_02.svg\|Diagramas/Problemas_de_Ecuación_de_Bernoulli_02.svg]]
 >
 
 > [!note] **Ecuaciones Derivadas Importantes** 📊
@@ -802,19 +768,19 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Ecuación de Continuidad y Bernoulli]] - Base teórica fundamental
-> - [[Presión y Densidad]] - Conceptos previos necesarios
-> - [[Aplicaciones de Hidrodinámica]] - Contexto general
-> - [[Fundamentos de Hidrostática e Hidrodinámica]] - Principios básicos
+> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrodinámica/Ecuación de Continuidad y Bernoulli\|Ecuación de Continuidad y Bernoulli]] - Base teórica fundamental
+> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Fundamentos de Hidrostática e Hidrodinámica/Presión y Densidad\|Presión y Densidad]] - Conceptos previos necesarios
+> - [[Aplicaciones de Hidrodinámica\|Aplicaciones de Hidrodinámica]] - Contexto general
+> - [[Fundamentos de Hidrostática e Hidrodinámica\|Fundamentos de Hidrostática e Hidrodinámica]] - Principios básicos
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Vectores]] - Para análisis de trayectorias
-> - [[Unidades y Magnitudes Físicas]] - Consistencia dimensional
-> - [[Conocimientos Previos a las Prácticas]] - Fundamentos matemáticos
-> - [[Ecuaciones de Movimiento]] - Para movimiento parabólico del chorro
+> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para análisis de trayectorias
+> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Consistencia dimensional
+> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Conocimientos Previos a las Prácticas\|Conocimientos Previos a las Prácticas]] - Fundamentos matemáticos
+> - [[Ecuaciones de Movimiento\|Ecuaciones de Movimiento]] - Para movimiento parabólico del chorro
 
 ---
 

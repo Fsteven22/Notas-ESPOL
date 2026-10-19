@@ -23,18 +23,7 @@
 > 
 > ### Condición de Equilibrio
 > 
-> ```mermaid
-> graph TB
->     A[Recipiente 1<br/>P₁ = P₀ + ρgh₁] --> C[Conexión Basal]
->     B[Recipiente 2<br/>P₂ = P₀ + ρgh₂] --> C
->     D[Recipiente 3<br/>P₃ = P₀ + ρgh₃] --> C
->     C --> E[Equilibrio: h₁ = h₂ = h₃]
->     style A fill:#e1f5fe
->     style B fill:#e1f5fe
->     style D fill:#e1f5fe
->     style C fill:#fff3e0
->     style E fill:#e8f5e8
-> ```
+> ![[Diagramas/Teorema_de_los_Vasos_Comunicantes_01.svg\|Diagramas/Teorema_de_los_Vasos_Comunicantes_01.svg]]
 >
 
 > [!tip] Características Principales 🔬
@@ -65,22 +54,7 @@
 > 
 > ### En Ingeniería y Tecnología
 > 
-> ```mermaid
-> mindmap
->   root((Aplicaciones))
->     Medición
->       Manómetros en U
->       Niveles de agua
->       Instrumentos de presión
->     Construcción
->       Cimientos nivelados
->       Sistemas de drenaje
->       Canales de riego
->     Industria
->       Sistemas hidráulicos
->       Transmisión de fuerza
->       Control de procesos
-> ```
+> ![[Diagramas/Teorema_de_los_Vasos_Comunicantes_02.svg\|Diagramas/Teorema_de_los_Vasos_Comunicantes_02.svg]]
 >
 > [!abstract] Experimento Clásico 🧪
 > 
@@ -149,25 +123,25 @@
 
 > [!quote] Notas Relacionadas
 > 
-> - [[Presión Hidrostática]]
-> - [[El Principio de Pascal]]
-> - [[Densidad de Fluidos]]
-> - [[Sistemas Hidráulicos]]
+> - [[Presión Hidrostática\|Presión Hidrostática]]
+> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrostática/El Principio de Pascal\|El Principio de Pascal]]
+> - [[Densidad de Fluidos\|Densidad de Fluidos]]
+> - [[Sistemas Hidráulicos\|Sistemas Hidráulicos]]
 
 ## Notas Recomendadas
 
 > [!info] Prerrequisitos
 > 
-> - [[Conceptos Básicos de Fluidos]]
-> - [[Presión y Fuerza]]
-> - [[Densidad y Peso Específico]]
+> - [[Conceptos Básicos de Fluidos\|Conceptos Básicos de Fluidos]]
+> - [[Presión y Fuerza\|Presión y Fuerza]]
+> - [[Densidad y Peso Específico\|Densidad y Peso Específico]]
 >
 
 > [!tip] Continuación del Tema
 > 
-> - [[Principio de Arquímedes]]
-> - [[Ecuación de Continuidad]]
-> - [[Teorema de Torricelli]]
+> - [[Principio de Arquímedes\|Principio de Arquímedes]]
+> - [[Ecuación de Continuidad\|Ecuación de Continuidad]]
+> - [[Teorema de Torricelli\|Teorema de Torricelli]]
 
 ---
 

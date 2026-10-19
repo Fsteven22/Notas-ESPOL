@@ -87,22 +87,7 @@
 
 > [!success] 🔗 Resistencia Hidráulica
 > 
-> ```mermaid
-> graph TD
->     A[Flujo Viscoso] --> B[Resistencia Lineal]
->     A --> C[Resistencia Local]
->     B --> D[Fricción en Paredes]
->     C --> E[Cambios de Dirección]
->     C --> F[Cambios de Sección]
->     D --> G[Factor de Fricción f]
->     E --> H[Coeficiente K]
->     F --> I[Pérdidas Menores]
->     style A fill:#e1f5fe
->     style B fill:#f3e5f5
->     style C fill:#fff3e0
->     style D fill:#e8f5e8
->     style G fill:#fce4ec
-> ```
+> ![[Diagramas/Problemas_de_Flujo_con_Viscosidad_(Poiseuille)_01.svg\|Diagramas/Problemas_de_Flujo_con_Viscosidad_(Poiseuille)_01.svg]]
 >
 
 > [!note] **Analogía con Circuitos Eléctricos** ⚡
@@ -348,18 +333,18 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Problemas de Ecuación de Bernoulli]] - Flujo ideal sin viscosidad
-> - [[Viscosidad y Número de Reynolds]] - Caracterización del flujo
-> - [[Flujo Laminar y Ecuación de Poiseuille]] - Teoría fundamental
-> - [[Problemas de Ecuación de Continuidad]] - Conservación de masa
-> - **Próximo tema**: [[Problemas de Flotabilidad y Empuje en Fluidos en Movimiento]]
+> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Aplicaciones de Hidrodinámica/Problemas de Ecuación de Bernoulli\|Problemas de Ecuación de Bernoulli]] - Flujo ideal sin viscosidad
+> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrodinámica/Viscosidad y Número de Reynolds\|Viscosidad y Número de Reynolds]] - Caracterización del flujo
+> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrodinámica/Flujo Laminar y Ecuación de Poiseuille\|Flujo Laminar y Ecuación de Poiseuille]] - Teoría fundamental
+> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Aplicaciones de Hidrodinámica/Problemas de Ecuación de Continuidad\|Problemas de Ecuación de Continuidad]] - Conservación de masa
+> - **Próximo tema**: [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Aplicaciones de Hidrodinámica/Problemas de Flotabilidad y Empuje en Fluidos en Movimiento\|Problemas de Flotabilidad y Empuje en Fluidos en Movimiento]]
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Problemas de Ecuación de Continuidad]] - Conservación de masa
-> - [[Presión y Densidad]] - Propiedades de fluidos
+> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Aplicaciones de Hidrodinámica/Problemas de Ecuación de Continuidad\|Problemas de Ecuación de Continuidad]] - Conservación de masa
+> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Fundamentos de Hidrostática e Hidrodinámica/Presión y Densidad\|Presión y Densidad]] - Propiedades de fluidos
 > - **Matemáticas**: Cálculo diferencial, ecuaciones diferenciales básicas
 > 
 > ### **Conocimientos Previos**:

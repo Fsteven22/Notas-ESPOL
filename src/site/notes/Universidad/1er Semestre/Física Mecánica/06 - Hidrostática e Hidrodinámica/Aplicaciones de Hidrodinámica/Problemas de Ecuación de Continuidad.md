@@ -76,20 +76,7 @@
 
 > [!success] 🔗 Metodología de Resolución
 > 
-> ```mermaid
-> graph TD
->     A[Identificar Puntos de Interés] --> B[Definir Áreas Transversales]
->     B --> C[Aplicar Ecuación de Continuidad]
->     C --> D[Verificar Unidades]
->     D --> E[Interpretar Resultados]
->     E --> F[Validar Coherencia Física]
->     style A fill:#e1f5fe
->     style B fill:#f3e5f5
->     style C fill:#fff3e0
->     style D fill:#e8f5e8
->     style E fill:#fce4ec
->     style F fill:#f1f8e9
-> ```
+> ![[Diagramas/Problemas_de_Ecuación_de_Continuidad_01.svg\|Diagramas/Problemas_de_Ecuación_de_Continuidad_01.svg]]
 >
 
 > [!note] **Fórmulas Clave** 📐
@@ -302,18 +289,18 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Ecuación de Continuidad y Bernoulli]] - Teoría completa
-> - [[Flujo Laminar y Ecuación de Poiseuille]] - Flujo con viscosidad
-> - [[Presión y Densidad]] - Propiedades de fluidos
-> - [[Hidrodinámica]] - Conceptos generales
-> - **Próximo tema**: [[Problemas de Ecuación de Bernoulli]]
+> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrodinámica/Ecuación de Continuidad y Bernoulli\|Ecuación de Continuidad y Bernoulli]] - Teoría completa
+> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrodinámica/Flujo Laminar y Ecuación de Poiseuille\|Flujo Laminar y Ecuación de Poiseuille]] - Flujo con viscosidad
+> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Fundamentos de Hidrostática e Hidrodinámica/Presión y Densidad\|Presión y Densidad]] - Propiedades de fluidos
+> - [[Hidrodinámica\|Hidrodinámica]] - Conceptos generales
+> - **Próximo tema**: [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Aplicaciones de Hidrodinámica/Problemas de Ecuación de Bernoulli\|Problemas de Ecuación de Bernoulli]]
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Vectores]] - Para análisis vectorial de velocidades
-> - [[Unidades y Magnitudes Físicas]] - Conversiones y dimensional
+> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para análisis vectorial de velocidades
+> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Conversiones y dimensional
 > - **Matemáticas**: Geometría básica, áreas de figuras planas
 > 
 > ### **Conocimientos Previos**:
@@ -325,7 +312,7 @@
 
 > [!note] **Temas Relacionados**
 > 
-> - [[Viscosidad y Número de Reynolds]] - Caracterización del flujo
+> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrodinámica/Viscosidad y Número de Reynolds\|Viscosidad y Número de Reynolds]] - Caracterización del flujo
 > - **Medición de caudal**: Venturímetros, rotámetros, ultrasonido
 > - **CFD**: Dinámica de fluidos computacional
 
@@ -433,21 +420,7 @@
 >
 >[!success] 🔗 Funcionamiento del Tubo de Venturi
 > 
-> ```mermaid
-> graph LR
->     A[Entrada D₁] -->|Convergencia| B[Garganta D₂]
->     B -->|Divergencia| C[Salida D₁]
->     D[Alta Presión P₁] --> E[Baja Presión P₂]
->     E --> F[Recuperación P₃]
->     G[Baja Velocidad v₁] --> H[Alta Velocidad v₂]
->     H --> I[Velocidad v₁]
->     J[Medición ΔP] --> K[Cálculo de Q]
->     K --> L[Caudal Conocido]
->     style A fill:#e1f5fe
->     style B fill:#ffcdd2
->     style C fill:#e1f5fe
->     style J fill:#f3e5f5
-> ```
+> ![[Diagramas/Problemas_de_Ecuación_de_Continuidad_02.svg\|Diagramas/Problemas_de_Ecuación_de_Continuidad_02.svg]]
 >
 
 > [!note] **Relaciones Fundamentales** 📊
@@ -754,20 +727,20 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Ecuación de Continuidad y Bernoulli]] - Principios fundamentales
-> - [[Problemas del Teorema de Torricelli]] - Aplicaciones relacionadas
-> - [[Flujo Laminar y Ecuación de Poiseuille]] - Comportamiento viscoso
-> - [[Presión y Densidad]] - Conceptos de base
-> - [[Aplicaciones de Hidrodinámica]] - Contexto general
+> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrodinámica/Ecuación de Continuidad y Bernoulli\|Ecuación de Continuidad y Bernoulli]] - Principios fundamentales
+> - [[Problemas del Teorema de Torricelli\|Problemas del Teorema de Torricelli]] - Aplicaciones relacionadas
+> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrodinámica/Flujo Laminar y Ecuación de Poiseuille\|Flujo Laminar y Ecuación de Poiseuille]] - Comportamiento viscoso
+> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Fundamentos de Hidrostática e Hidrodinámica/Presión y Densidad\|Presión y Densidad]] - Conceptos de base
+> - [[Aplicaciones de Hidrodinámica\|Aplicaciones de Hidrodinámica]] - Contexto general
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Fundamentos de Hidrostática e Hidrodinámica]] - Base teórica
-> - [[Unidades y Magnitudes Físicas]] - Consistencia dimensional
-> - [[Vectores]] - Para análisis de velocidades
-> - [[Conocimientos Previos a las Prácticas]] - Fundamentos matemáticos
+> - [[Fundamentos de Hidrostática e Hidrodinámica\|Fundamentos de Hidrostática e Hidrodinámica]] - Base teórica
+> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Consistencia dimensional
+> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para análisis de velocidades
+> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Conocimientos Previos a las Prácticas\|Conocimientos Previos a las Prácticas]] - Fundamentos matemáticos
 
 ---
 

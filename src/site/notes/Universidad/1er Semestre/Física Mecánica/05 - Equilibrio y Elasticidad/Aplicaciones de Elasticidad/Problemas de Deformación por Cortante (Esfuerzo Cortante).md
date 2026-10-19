@@ -87,18 +87,7 @@
 
 > [!success] 🔗 Distribución de Esfuerzos Cortantes
 > 
-> ```mermaid
-> graph TD
->     A[Cortante Directo] --> B[Distribución Uniforme]
->     A --> C[τ = V/A]
->     D[Cortante por Torsión] --> E[Distribución Lineal]
->     D --> F[τmax = Tr/J en r = R]
->     G[Cortante por Flexión] --> H[Distribución Parabólica]
->     G --> I[τmax en fibra neutra]
->     style A fill:#e1f5fe
->     style D fill:#f3e5f5
->     style G fill:#fff3e0
-> ```
+> ![[Diagramas/Problemas_de_Deformación_por_Cortante_(Esfuerzo_Cortante)_01.svg\|Diagramas/Problemas_de_Deformación_por_Cortante_(Esfuerzo_Cortante)_01.svg]]
 >
 
 > [!note] **Propiedades de Materiales en Cortante** 📊
@@ -384,19 +373,19 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Elasticidad]] - Fundamentos de deformación
-> - [[Torque y Equilibrio Rotacional]] - Base para torsión
-> - [[Segunda ley de Newton para Rotación]] - Conceptos de momento
-> - [[Aplicaciones de Equilibrio]] - Análisis de fuerzas
+> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Elasticidad\|Elasticidad]] - Fundamentos de deformación
+> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Torque y Equilibrio Rotacional\|Torque y Equilibrio Rotacional]] - Base para torsión
+> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Segunda ley de Newton para Rotación\|Segunda ley de Newton para Rotación]] - Conceptos de momento
+> - [[Aplicaciones de Equilibrio\|Aplicaciones de Equilibrio]] - Análisis de fuerzas
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Problemas de Deformación por Tensión y Compresión (Ley de Hooke)]] - Conceptos base
-> - [[Vectores]] - Para análisis de esfuerzos en 3D
-> - [[Equilibrio]] - Balance de fuerzas y momentos
-> - [[Fuerzas y Diagramas de Cuerpo Libre]] - Identificación de cargas
+> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Aplicaciones de Elasticidad/Problemas de Deformación por Tensión y Compresión (Ley de Hooke)\|Problemas de Deformación por Tensión y Compresión (Ley de Hooke)]] - Conceptos base
+> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para análisis de esfuerzos en 3D
+> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Equilibrio\|Equilibrio]] - Balance de fuerzas y momentos
+> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Fuerzas y Diagramas de Cuerpo Libre\|Fuerzas y Diagramas de Cuerpo Libre]] - Identificación de cargas
 
 ---
 

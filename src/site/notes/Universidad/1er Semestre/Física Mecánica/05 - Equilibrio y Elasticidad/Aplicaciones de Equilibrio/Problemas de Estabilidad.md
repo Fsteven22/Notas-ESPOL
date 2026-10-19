@@ -83,29 +83,7 @@
 
 > [!success] 🔗 Factores que Afectan la Estabilidad
 > 
-> ```mermaid
-> graph TD
->     A[Estabilidad del Sistema] --> B[Geometría]
->     A --> C[Distribución de Masa]
->     A --> D[Puntos de Apoyo]
->     A --> E[Fuerzas Externas]
->     B --> B1[Base de Sustentación]
->     B --> B2[Altura del CG]
->     B --> B3[Forma del Objeto]
->     C --> C1[Centro de Gravedad]
->     C --> C2[Momento de Inercia]
->     C --> C3[Distribución no Uniforme]
->     D --> D1[Número de Apoyos]
->     D --> D2[Posición de Apoyos]
->     D --> D3[Tipo de Vinculación]
->     E --> E1[Cargas Aplicadas]
->     E --> E2[Viento y Dinámicas]
->     E --> E3[Vibraciones]
->     style A fill:#e1f5fe
->     style B fill:#f3e5f5
->     style C fill:#fff3e0
->     style D fill:#e8f5e8
-> ```
+> ![[Diagramas/Problemas_de_Estabilidad_01.svg\|Diagramas/Problemas_de_Estabilidad_01.svg]]
 >
 
 > [!note] **Condiciones de Vuelco** 🔄
@@ -530,12 +508,12 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Equilibrio]] - Fundamentos básicos de equilibrio
-> - [[Centro de Gravedad (CG)]] - Localización del centro de gravedad
-> - [[Torque y Equilibrio Rotacional]] - Análisis de momentos
-> - [[Problemas con Fricción en Equilibrio]] - Deslizamiento vs vuelco
-> - [[Aplicaciones de Equilibrio]] - Casos prácticos adicionales
-> - [[Elasticidad]] - Deformaciones y estabilidad elástica
+> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Equilibrio\|Equilibrio]] - Fundamentos básicos de equilibrio
+> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Centro de Gravedad (CG)\|Centro de Gravedad (CG)]] - Localización del centro de gravedad
+> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Torque y Equilibrio Rotacional\|Torque y Equilibrio Rotacional]] - Análisis de momentos
+> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Aplicaciones de Equilibrio/Problemas con Fricción en Equilibrio\|Problemas con Fricción en Equilibrio]] - Deslizamiento vs vuelco
+> - [[Aplicaciones de Equilibrio\|Aplicaciones de Equilibrio]] - Casos prácticos adicionales
+> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Elasticidad\|Elasticidad]] - Deformaciones y estabilidad elástica
 
 ## 🔧 Formulario de Consulta Rápida
 

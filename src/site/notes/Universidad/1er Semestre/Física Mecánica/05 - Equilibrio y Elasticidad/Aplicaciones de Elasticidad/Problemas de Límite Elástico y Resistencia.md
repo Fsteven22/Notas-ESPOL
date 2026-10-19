@@ -92,20 +92,7 @@
 
 > [!success] 📊 Diagrama Esfuerzo-Deformación
 > 
-> ```mermaid
-> graph TD
->     A[σ = 0] -->|Carga| B[Región Elástica]
->     B -->|σ = σₑ| C[Límite Elástico]
->     C -->|Deformación Plástica| D[Región Plástica]
->     D -->|σ = σᵤ| E[Resistencia Última]
->     E -->|Fractura| F[Falla del Material]
->     style A fill:#e8f5e8
->     style B fill:#e1f5fe
->     style C fill:#fff3e0
->     style D fill:#fce4ec
->     style E fill:#ffebee
->     style F fill:#ffcdd2
-> ```
+> ![[Diagramas/Problemas_de_Límite_Elástico_y_Resistencia_01.svg\|Diagramas/Problemas_de_Límite_Elástico_y_Resistencia_01.svg]]
 >
 
 > [!note] **Relaciones Matemáticas** 📐
@@ -308,18 +295,18 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Elasticidad]] - Fundamentos teóricos
-> - [[Problemas de Deformación por Tensión y Compresión (Ley de Hooke)]] - Aplicaciones básicas
-> - [[Problemas de Deformación por Cortante (Esfuerzo Cortante)]] - Esfuerzos tangenciales
-> - [[Problemas Combinados de Tensión y Deformación]] - Casos complejos
+> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Elasticidad\|Elasticidad]] - Fundamentos teóricos
+> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Aplicaciones de Elasticidad/Problemas de Deformación por Tensión y Compresión (Ley de Hooke)\|Problemas de Deformación por Tensión y Compresión (Ley de Hooke)]] - Aplicaciones básicas
+> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Aplicaciones de Elasticidad/Problemas de Deformación por Cortante (Esfuerzo Cortante)\|Problemas de Deformación por Cortante (Esfuerzo Cortante)]] - Esfuerzos tangenciales
+> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Aplicaciones de Elasticidad/Problemas Combinados de Tensión y Deformación\|Problemas Combinados de Tensión y Deformación]] - Casos complejos
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Vectores]] - Para análisis de fuerzas
-> - [[Unidades y Magnitudes Físicas]] - Sistema de unidades
-> - [[Equilibrio]] - Análisis de fuerzas en estructuras
+> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para análisis de fuerzas
+> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Sistema de unidades
+> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Equilibrio\|Equilibrio]] - Análisis de fuerzas en estructuras
 
 ---
 

@@ -81,26 +81,7 @@
 
 > [!success] 🔗 Equilibrio Dinámico en Flujo
 > 
-> ```mermaid
-> graph TD
->     A[Objeto en Fluido en Movimiento] --> B[Fuerzas Estáticas]
->     A --> C[Fuerzas Dinámicas]
->     B --> D[Empuje Arquímedes]
->     B --> E[Peso Propio]
->     C --> F[Resistencia al Avance]
->     C --> G[Fuerza de Corriente]
->     D --> H[Equilibrio Vertical]
->     E --> H
->     F --> I[Equilibrio Horizontal]
->     G --> I
->     H --> J[Flotabilidad Neta]
->     I --> K[Velocidad Terminal]
->     style A fill:#e1f5fe
->     style B fill:#f3e5f5
->     style C fill:#fff3e0
->     style H fill:#e8f5e8
->     style I fill:#fce4ec
-> ```
+> ![[Diagramas/Problemas_de_Flotabilidad_y_Empuje_en_Fluidos_en_Movimiento_01.svg\|Diagramas/Problemas_de_Flotabilidad_y_Empuje_en_Fluidos_en_Movimiento_01.svg]]
 >
 
 > [!note] **Ecuaciones de Equilibrio** 📐
@@ -350,19 +331,19 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[El Principio de Arquímedes y Flotación]] - Fundamentos estáticos
-> - [[Problemas de Ecuación de Bernoulli]] - Efectos dinámicos
-> - [[Problemas de Flujo con Viscosidad (Poiseuille)]] - Resistencia viscosa
-> - [[Viscosidad y Número de Reynolds]] - Caracterización del flujo
-> - [[Velocidad Relativa para Barcos y Aviones]] - Cinemática relativa
+> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrostática/El Principio de Arquímedes y Flotación\|El Principio de Arquímedes y Flotación]] - Fundamentos estáticos
+> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Aplicaciones de Hidrodinámica/Problemas de Ecuación de Bernoulli\|Problemas de Ecuación de Bernoulli]] - Efectos dinámicos
+> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Aplicaciones de Hidrodinámica/Problemas de Flujo con Viscosidad (Poiseuille)\|Problemas de Flujo con Viscosidad (Poiseuille)]] - Resistencia viscosa
+> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrodinámica/Viscosidad y Número de Reynolds\|Viscosidad y Número de Reynolds]] - Caracterización del flujo
+> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Aplicaciones de Cinemática Traslacional/Velocidad Relativa para Barcos y Aviones\|Velocidad Relativa para Barcos y Aviones]] - Cinemática relativa
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[El Principio de Arquímedes y Flotación]] - Empuje hidrostático
-> - [[Problemas de Ecuación de Continuidad]] - Conservación de masa
-> - [[Vectores]] - Descomposición de velocidades y fuerzas
+> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrostática/El Principio de Arquímedes y Flotación\|El Principio de Arquímedes y Flotación]] - Empuje hidrostático
+> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Aplicaciones de Hidrodinámica/Problemas de Ecuación de Continuidad\|Problemas de Ecuación de Continuidad]] - Conservación de masa
+> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Descomposición de velocidades y fuerzas
 > - **Física**: Dinámica, fuerzas y equilibrio
 > 
 > ### **Conocimientos Previos**:

@@ -79,26 +79,7 @@
 
 > [!success] 🔗 Estrategia General
 > 
-> ```mermaid
-> graph TD
->     A[Problema de Velocidad Final] --> B[Tipo de Análisis]
->     B --> C[Impulso Directo]
->     B --> D[Conservación Momentum]
->     B --> E[Combinado]
->     C --> C1[J = FΔt]
->     C --> C2[J = ∫F dt]
->     C --> C3[J = Δp]
->     D --> D1[Sistema Aislado]
->     D --> D2[Colisiones]
->     D --> D3[Explosiones]
->     E --> E1[Múltiples Fuerzas]
->     E --> E2[Sistemas Complejos]
->     E --> E3[Análisis por Etapas]
->     style A fill:#e1f5fe
->     style C fill:#f3e5f5
->     style D fill:#fff3e0
->     style E fill:#e8f5e8
-> ```
+> ![[Diagramas/Problemas_de_Velocidad_Final_usando_Impulso_01.svg\|Diagramas/Problemas_de_Velocidad_Final_usando_Impulso_01.svg]]
 
 ## 🧮 Cálculo de Impulso
 
@@ -514,19 +495,19 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Impulso Lineal]] - Fundamentos teóricos del impulso
-> - [[Momentum Lineal y Su Conservación]] - Principios de conservación
-> - [[Choques Uni-Bidimensionales]] - Aplicaciones en colisiones
-> - [[Trabajo y Energía]] - Relación con energía cinética
+> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Impulso Lineal\|Impulso Lineal]] - Fundamentos teóricos del impulso
+> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Momentum Lineal y Su Conservación\|Momentum Lineal y Su Conservación]] - Principios de conservación
+> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Choques Uni-Bidimensionales\|Choques Uni-Bidimensionales]] - Aplicaciones en colisiones
+> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Trabajo y Energía\|Trabajo y Energía]] - Relación con energía cinética
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Leyes de Newton]] - Segunda ley como base del impulso
-> - [[Cinemática Traslacional]] - Conceptos de velocidad y aceleración
-> - [[Vectores]] - Manejo de magnitudes vectoriales
-> - [[Unidades y Magnitudes Físicas]] - Consistencia dimensional
+> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]] - Segunda ley como base del impulso
+> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Traslacional\|Cinemática Traslacional]] - Conceptos de velocidad y aceleración
+> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Manejo de magnitudes vectoriales
+> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Consistencia dimensional
 
 ---
 

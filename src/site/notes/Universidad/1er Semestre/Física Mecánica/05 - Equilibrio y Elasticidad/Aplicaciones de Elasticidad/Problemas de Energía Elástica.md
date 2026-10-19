@@ -90,22 +90,7 @@
 
 > [!success] 🔄 Métodos de Cálculo de Energía Elástica
 > 
-> ```mermaid
-> graph TD
->     A[Energía Elástica] --> B[Método Directo]
->     A --> C[Método del Trabajo]
->     A --> D[Método de Integración]
->     B --> E[U = ½·F·δ]
->     C --> F[W = ∫F·dx]
->     D --> G[U = ∫u·dV]
->     E --> H[Resortes y Barras]
->     F --> I[Cargas Variables]
->     G --> J[Campos de Esfuerzo]
->     style A fill:#e1f5fe
->     style B fill:#f3e5f5
->     style C fill:#fff3e0
->     style D fill:#e8f5e8
-> ```
+> ![[Diagramas/Problemas_de_Energía_Elástica_01.svg\|Diagramas/Problemas_de_Energía_Elástica_01.svg]]
 >
 
 > [!note] **Relaciones Energéticas Fundamentales** 📐
@@ -352,18 +337,18 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Elasticidad]] - Fundamentos teóricos
-> - [[Trabajo y Energía]] - Principios energéticos generales
-> - [[Problemas de Deformación por Tensión y Compresión (Ley de Hooke)]] - Casos básicos
-> - [[Principios de Conservación de la Energía]] - Aplicación en sistemas mecánicos
+> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Elasticidad\|Elasticidad]] - Fundamentos teóricos
+> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Trabajo y Energía\|Trabajo y Energía]] - Principios energéticos generales
+> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Aplicaciones de Elasticidad/Problemas de Deformación por Tensión y Compresión (Ley de Hooke)\|Problemas de Deformación por Tensión y Compresión (Ley de Hooke)]] - Casos básicos
+> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Principios de Conservación de la Energía\|Principios de Conservación de la Energía]] - Aplicación en sistemas mecánicos
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Vectores]] - Para análisis de fuerzas y desplazamientos
-> - [[Unidades y Magnitudes Físicas]] - Sistema de unidades
-> - [[Trabajo y Energía]] - Conceptos fundamentales de energía
+> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para análisis de fuerzas y desplazamientos
+> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Sistema de unidades
+> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Trabajo y Energía\|Trabajo y Energía]] - Conceptos fundamentales de energía
 
 ---
 

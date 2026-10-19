@@ -71,20 +71,7 @@
 
 > [!success] 🔗 Métodos de Resolución
 > 
-> ```mermaid
-> graph TD
->     A[Identificar Geometría] --> B[Determinar Tipo de Presión]
->     B --> C[Calcular Presión Media]
->     C --> D[Encontrar Fuerza Total]
->     D --> E[Localizar Centro de Presión]
->     E --> F[Verificar Resultados]
->     style A fill:#e1f5fe
->     style B fill:#f3e5f5
->     style C fill:#fff3e0
->     style D fill:#e8f5e8
->     style E fill:#fce4ec
->     style F fill:#f1f8e9
-> ```
+> ![[Diagramas/Problemas_de_Presión_y_Fuerza_sobre_Superficies_01.svg\|Diagramas/Problemas_de_Presión_y_Fuerza_sobre_Superficies_01.svg]]
 >
 
 > [!note] **Fórmulas Clave** 📐
@@ -277,27 +264,27 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Presión y Densidad]] - Fundamentos básicos
-> - [[El Principio de Pascal]] - Transmisión de presión
-> - [[Hidrostática]] - Teoría general
-> - [[Problemas del Principio de Arquímedes (Fuerza de Flotación)]] - Fuerzas de empuje
-> - [[Teorema de los Vasos Comunicantes]] - Equilibrio de presiones
+> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Fundamentos de Hidrostática e Hidrodinámica/Presión y Densidad\|Presión y Densidad]] - Fundamentos básicos
+> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrostática/El Principio de Pascal\|El Principio de Pascal]] - Transmisión de presión
+> - [[Hidrostática\|Hidrostática]] - Teoría general
+> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Aplicaciones de Hidrostática/Problemas del Principio de Arquímedes (Fuerza de Flotación)\|Problemas del Principio de Arquímedes (Fuerza de Flotación)]] - Fuerzas de empuje
+> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrostática/Teorema de los Vasos Comunicantes\|Teorema de los Vasos Comunicantes]] - Equilibrio de presiones
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Vectores]] - Descomposición de fuerzas
-> - [[Unidades y Magnitudes Físicas]] - Sistema de unidades
-> - [[Conocimientos Previos a las Prácticas]] - Conceptos básicos
+> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Descomposición de fuerzas
+> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Sistema de unidades
+> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Conocimientos Previos a las Prácticas\|Conocimientos Previos a las Prácticas]] - Conceptos básicos
 > - **Matemáticas**: Cálculo integral, centroides y momentos de inercia
 >
 
 > [!note] **Temas Avanzados**
 > 
-> - [[Módulo Volumétrico]] - Compresibilidad de fluidos
-> - [[Presión Manómetrica]] - Medición de presiones
-> - [[Ecuación de Continuidad y Bernoulli]] - Fluidos en movimiento
+> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrostática/Módulo Volumétrico\|Módulo Volumétrico]] - Compresibilidad de fluidos
+> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrostática/Presión Manómetrica\|Presión Manómetrica]] - Medición de presiones
+> - [[Universidad/1er Semestre/Física Mecánica/06 - Hidrostática e Hidrodinámica/Hidrodinámica/Ecuación de Continuidad y Bernoulli\|Ecuación de Continuidad y Bernoulli]] - Fluidos en movimiento
 
 ---
 

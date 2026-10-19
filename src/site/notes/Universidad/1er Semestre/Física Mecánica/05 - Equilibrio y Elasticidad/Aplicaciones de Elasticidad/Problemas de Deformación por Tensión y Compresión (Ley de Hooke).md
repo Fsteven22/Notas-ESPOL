@@ -83,20 +83,7 @@
 
 > [!success] 🔗 Diagrama Esfuerzo-Deformación
 > 
-> ```mermaid
-> graph LR
->     A[Zona Elástica] -->|Límite de Proporcionalidad| B[Zona de Fluencia]
->     B -->|Límite Elástico| C[Zona Plástica]
->     C -->|Esfuerzo Máximo| D[Zona de Fractura]
->     A --> E[Ley de Hooke σ = E·ε]
->     B --> F[Inicio de deformación permanente]
->     C --> G[Deformación irreversible]
->     D --> H[Ruptura del material]
->     style A fill:#e8f5e8
->     style B fill:#fff3cd
->     style C fill:#f8d7da
->     style D fill:#d1ecf1
-> ```
+> ![[Diagramas/Problemas_de_Deformación_por_Tensión_y_Compresión_(Ley_de_Hooke)_01.svg\|Diagramas/Problemas_de_Deformación_por_Tensión_y_Compresión_(Ley_de_Hooke)_01.svg]]
 >
 
 > [!note] **Propiedades Mecánicas Importantes** 📊
@@ -330,19 +317,19 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Elasticidad]] - Fundamentos teóricos generales
-> - [[Equilibrio]] - Análisis de fuerzas y momentos
-> - [[Fundamentos de Física Mecánica]] - Base matemática
-> - [[Aplicaciones de Equilibrio]] - Casos prácticos
+> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Elasticidad\|Elasticidad]] - Fundamentos teóricos generales
+> - [[Universidad/1er Semestre/Física Mecánica/05 - Equilibrio y Elasticidad/Equilibrio\|Equilibrio]] - Análisis de fuerzas y momentos
+> - [[Fundamentos de Física Mecánica\|Fundamentos de Física Mecánica]] - Base matemática
+> - [[Aplicaciones de Equilibrio\|Aplicaciones de Equilibrio]] - Casos prácticos
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Vectores]] - Para análisis de fuerzas en 3D
-> - [[Unidades y Magnitudes Físicas]] - Sistema de unidades
-> - [[Conocimientos Previos a las Prácticas]] - Conceptos básicos
-> - [[Fuerzas y Diagramas de Cuerpo Libre]] - Análisis de cargas
+> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para análisis de fuerzas en 3D
+> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Sistema de unidades
+> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Conocimientos Previos a las Prácticas\|Conocimientos Previos a las Prácticas]] - Conceptos básicos
+> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Fuerzas y Diagramas de Cuerpo Libre\|Fuerzas y Diagramas de Cuerpo Libre]] - Análisis de cargas
 
 ---
 
