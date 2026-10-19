@@ -66,16 +66,7 @@
 >
 >[!success] 🔗 Relaciones Entre Gráficos
 > 
-> ```mermaid
-> graph TD
->     A[Gráfico x-t] -->|Derivada| B[Gráfico v-t]
->     B -->|Derivada| C[Gráfico a-t]
->     C -->|Integral| B
->     B -->|Integral| A
->     style A fill:#e1f5fe
->     style B fill:#f3e5f5
->     style C fill:#fff3e0
-> ```
+> ![[Diagramas/Problemas_de_Gráficos_(x-t,_v-t,_a-t)_01.svg\|Diagramas/Problemas_de_Gráficos_(x-t,_v-t,_a-t)_01.svg]]
 > 
 >
 
@@ -231,18 +222,18 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Cinemática Traslacional]] - Fundamentos teóricos
-> - [[Ecuaciones de Movimiento]] - Base matemática
-> - [[Análisis Vectorial]] - Para movimiento en 2D y 3D
-> - [[Practica de Velocidad Instantánea]] - Aplicación experimental
+> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Traslacional\|Cinemática Traslacional]] - Fundamentos teóricos
+> - [[Ecuaciones de Movimiento\|Ecuaciones de Movimiento]] - Base matemática
+> - [[Análisis Vectorial\|Análisis Vectorial]] - Para movimiento en 2D y 3D
+> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Practica de Velocidad Instantánea\|Practica de Velocidad Instantánea]] - Aplicación experimental
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Vectores]] - Manejo de magnitudes vectoriales
-> - [[Unidades y Magnitudes Físicas]] - Sistema de unidades
-> - [[Conocimientos Previos a las Prácticas]] - Conceptos básicos
+> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Manejo de magnitudes vectoriales
+> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Sistema de unidades
+> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Conocimientos Previos a las Prácticas\|Conocimientos Previos a las Prácticas]] - Conceptos básicos
 
 ---
 

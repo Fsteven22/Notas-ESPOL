@@ -67,19 +67,7 @@
 
 > [!success] 🔗 Ecuaciones Cinemáticas Rotacionales
 > 
-> ```mermaid
-> graph TD
->     A[Rotación Uniforme<br/>α = 0] --> B[θ = θ₀ + ωt<br/>ω = constante]
->     C[Rotación Uniformemente<br/>Acelerada] --> D[θ = θ₀ + ω₀t + ½αt²]
->     C --> E[ω = ω₀ + αt]
->     C --> F["ω² = ω₀² + 2α(θ-θ₀)"]
->     style A fill:#e8f5e8
->     style C fill:#fff2e8
->     style B fill:#f0f8ff
->     style D fill:#f0f8ff
->     style E fill:#f0f8ff
->     style F fill:#f0f8ff
-> ```
+> ![[Diagramas/Problemas_de_Revoluciones,_Ángulos_y_Tiempo_01.svg\|Diagramas/Problemas_de_Revoluciones,_Ángulos_y_Tiempo_01.svg]]
 >
 
 > [!note] **Relaciones Temporales y Periódicas** 📐
@@ -300,19 +288,19 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Cinemática Rotacional]] - Fundamentos teóricos
-> - [[Problemas con Gráficas Angulares (θ-t, ω-t, α-t)]] - Análisis gráfico
-> - [[Momento de Inercia]] - Propiedades inerciales
-> - [[Práctica de Giroscopio]] - Aplicación experimental
+> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Rotacional\|Cinemática Rotacional]] - Fundamentos teóricos
+> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Aplicaciones de Cinemática Rotacional/Problemas con Gráficas Angulares (θ-t, ω-t, α-t)\|Problemas con Gráficas Angulares (θ-t, ω-t, α-t)]] - Análisis gráfico
+> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Momento de Inercia\|Momento de Inercia]] - Propiedades inerciales
+> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Práctica de Giroscopio\|Práctica de Giroscopio]] - Aplicación experimental
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Unidades y Magnitudes Físicas]] - Sistema de unidades
-> - [[Vectores]] - Conceptos vectoriales básicos
-> - [[Cinemática Traslacional]] - Analogías con movimiento lineal
-> - [[Conocimientos Previos a las Prácticas]] - Conceptos fundamentales
+> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Unidades y Magnitudes Físicas\|Unidades y Magnitudes Físicas]] - Sistema de unidades
+> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Conceptos vectoriales básicos
+> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Traslacional\|Cinemática Traslacional]] - Analogías con movimiento lineal
+> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Conocimientos Previos a las Prácticas\|Conocimientos Previos a las Prácticas]] - Conceptos fundamentales
 
 ---
 

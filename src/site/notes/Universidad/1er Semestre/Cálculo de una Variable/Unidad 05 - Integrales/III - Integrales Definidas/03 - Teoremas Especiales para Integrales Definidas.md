@@ -28,25 +28,7 @@
 
 > [!info] 🎨 **Interpretación Geométrica** La gráfica de una función impar tiene **simetría puntual respecto al origen**. Las áreas positiva y negativa se cancelan exactamente.
 
-```mermaid
-graph TD
-    A["Función f en intervalo [-a,a]"] --> B{"¿Tipo de simetría?"}
-    
-    B -->|"f(-x) = f(x)"| C["Función PAR"]
-    B -->|"f(-x) = -f(x)"| D["Función IMPAR"]
-    B -->|"Sin simetría"| E["Calcular integral completa"]
-    
-    C --> F["∫f(x)dx = 2∫₀ᵃf(x)dx"]
-    D --> G["∫f(x)dx = 0"]
-    
-    F --> H["Ahorro: cálculo de la mitad"]
-    G --> I["Resultado inmediato"]
-    
-    style F fill:#96ceb4
-    style G fill:#45b7d1
-    style H fill:#ffd93d
-    style I fill:#ffd93d
-```
+![[Diagramas/03_-_Teoremas_Especiales_para_Integrales_Definidas_01.svg\|Diagramas/03_-_Teoremas_Especiales_para_Integrales_Definidas_01.svg]]
 
 ## 🧮 Demostraciones
 
@@ -202,24 +184,7 @@ graph TD
 > - Verificar paridad: $f(-x) = (-x)\sin((-x)^2) = -x\sin(x^2) = -f(x)$ (impar)
 > - Por tanto: $\int_{-a}^a x\sin(x^2) dx = 0$
 
-```mermaid
-flowchart TD
-    A["Función f(x)"] --> B{"¿Periódica?"}
-    A --> C{"¿Simétrica?"}
-    
-    B -->|Sí| D["Usar teorema de periodicidad"]
-    B -->|No| E["Evaluar normalmente"]
-    
-    C -->|Par| F["∫f(x)dx = 2∫₀ᵃf(x)dx"]
-    C -->|Impar| G["∫f(x)dx = 0"]
-    C -->|Ni par ni impar| H["Separar en parte par + impar"]
-    
-    D --> I["∫ₐᵃ⁺ᵀf(x)dx = ∫₀ᵀf(x)dx"]
-    
-    style F fill:#96ceb4
-    style G fill:#45b7d1
-    style I fill:#ffd93d
-```
+![[Diagramas/03_-_Teoremas_Especiales_para_Integrales_Definidas_02.svg\|Diagramas/03_-_Teoremas_Especiales_para_Integrales_Definidas_02.svg]]
 
 ## 🛠️ Estrategias y Técnicas de Aplicación
 
@@ -362,30 +327,30 @@ flowchart TD
 > 
 > ### 🔗 Notas Relacionadas
 > 
-> - [[04 - Teorema Fundamental del Cálculo]] - Base teórica para todas las integrales definidas
-> - [[03 - Teoremas Especiales para Integrales Definidas]] - Propiedades complementarias de integrales
-> - [[02 - Propiedades de la Integral]] - Linealidad y aditividad
-> - [[Funciones Trigonométricas]] - Ejemplos principales de funciones periódicas
-> - [[01 - Integral de Riemann]] - Definición formal subyacente
+> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/04 - Teorema Fundamental del Cálculo\|04 - Teorema Fundamental del Cálculo]] - Base teórica para todas las integrales definidas
+> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/III - Integrales Definidas/03 - Teoremas Especiales para Integrales Definidas\|03 - Teoremas Especiales para Integrales Definidas]] - Propiedades complementarias de integrales
+> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/02 - Propiedades de la Integral\|02 - Propiedades de la Integral]] - Linealidad y aditividad
+> - [[Funciones Trigonométricas\|Funciones Trigonométricas]] - Ejemplos principales de funciones periódicas
+> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/01 - Integral de Riemann\|01 - Integral de Riemann]] - Definición formal subyacente
 > 
 > ### 📖 Para Profundizar
 > 
-> - [[Series de Fourier]] - Aplicación directa de propiedades de simetría
-> - [[Análisis de Señales]] - Aplicaciones en ingeniería
-> - [[06 - Funciones Especiales]] - Más ejemplos de funciones con simetrías
-> - [[Transformadas Integrales]] - Uso avanzado de propiedades de simetría
+> - [[Series de Fourier\|Series de Fourier]] - Aplicación directa de propiedades de simetría
+> - [[Análisis de Señales\|Análisis de Señales]] - Aplicaciones en ingeniería
+> - [[Universidad/Preuniversitario/Matemáticas/Unidad 3 - Funciones y Trigonometría/I - Funciones de Variable Real/06 - Funciones Especiales\|06 - Funciones Especiales]] - Más ejemplos de funciones con simetrías
+> - [[Transformadas Integrales\|Transformadas Integrales]] - Uso avanzado de propiedades de simetría
 > 
 > ### 🎯 Notas Recomendadas
 > 
-> - [[Métodos de Integración]] - Técnicas que se benefician de estas propiedades
-> - [[Aplicaciones Físicas de Integrales]] - Contexto real de funciones periódicas
-> - [[Geometría de Curvas]] - Interpretación visual de simetrías
+> - [[Métodos de Integración\|Métodos de Integración]] - Técnicas que se benefician de estas propiedades
+> - [[Aplicaciones Físicas de Integrales\|Aplicaciones Físicas de Integrales]] - Contexto real de funciones periódicas
+> - [[Geometría de Curvas\|Geometría de Curvas]] - Interpretación visual de simetrías
 > 
 > ### 🧮 Aplicaciones Especializadas
 > 
-> - [[Análisis Armónico]] - Estudio profundo de funciones periódicas
-> - [[Mecánica Ondulatoria]] - Física de sistemas periódicos
-> - [[Procesamiento de Señales Digitales]] - Aplicaciones computacionales
+> - [[Análisis Armónico\|Análisis Armónico]] - Estudio profundo de funciones periódicas
+> - [[Mecánica Ondulatoria\|Mecánica Ondulatoria]] - Física de sistemas periódicos
+> - [[Procesamiento de Señales Digitales\|Procesamiento de Señales Digitales]] - Aplicaciones computacionales
 > 
 
 ---
@@ -421,23 +386,7 @@ flowchart TD
 > - **Altura**: $f(c)$ (valor de la función en algún punto $c$)
 > - **Área**: igual al área bajo la curva $y = f(x)$ desde $a$ hasta $b$
 
-```mermaid
-graph TD
-    A["Función continua f(x)"] --> B["Área bajo la curva"]
-    B --> C["∫f(x)dx de a hasta b"]
-    
-    D["Rectángulo equivalente"] --> E["Base = b-a"]
-    D --> F["Altura = f(c)"]
-    E --> G["Área = f(c)(b-a)"]
-    F --> G
-    
-    C --> H["Áreas iguales"]
-    G --> H
-    H --> I["f(c) = valor medio de f"]
-    
-    style H fill:#45b7d1
-    style I fill:#96ceb4
-```
+![[Diagramas/03_-_Teoremas_Especiales_para_Integrales_Definidas_03.svg\|Diagramas/03_-_Teoremas_Especiales_para_Integrales_Definidas_03.svg]]
 
 > [!tip] 🎯 **Interpretación del Valor Medio** El número $\frac{1}{b-a}\int_a^b f(x) dx$ se llama el **valor medio** (o **promedio**) de $f$ en $[a,b]$.
 > 
@@ -455,20 +404,7 @@ graph TD
 > 
 > **Paso 4**: Por el **Teorema del Valor Intermedio**, existe $c \in [a,b]$ tal que: $$f(c) = \frac{1}{b-a}\int_a^b f(x) dx$$
 
-```mermaid
-flowchart TD
-    A["f continua en [a,b]"] --> B["Alcanza min m y max M"]
-    B --> C["m ≤ f(x) ≤ M para todo x"]
-    C --> D["Integrar desigualdad"]
-    D --> E["m(b-a) ≤ ∫f(x)dx ≤ M(b-a)"]
-    E --> F["Dividir por (b-a)"]
-    F --> G["m ≤ (1/(b-a))∫f(x)dx ≤ M"]
-    G --> H["Teorema del Valor Intermedio"]
-    H --> I["∃c: f(c) = valor medio"]
-    
-    style I fill:#96ceb4
-    style H fill:#45b7d1
-```
+![[Diagramas/03_-_Teoremas_Especiales_para_Integrales_Definidas_04.svg\|Diagramas/03_-_Teoremas_Especiales_para_Integrales_Definidas_04.svg]]
 
 ## 🧪 Ejemplos Detallados
 
@@ -568,19 +504,7 @@ flowchart TD
 
 ### 🌟 Relación con el Teorema del Valor Medio para Derivadas
 
-```mermaid
-graph LR
-    A["TVM para Derivadas"] --> B["f'(c) = (f(b)-f(a))/(b-a)"]
-    C["TVM para Integrales"] --> D["f(c) = (1/(b-a))∫f(x)dx"]
-    
-    B --> E["Pendiente promedio"]
-    D --> F["Altura promedio"]
-    
-    E --> G["Se alcanza en algún punto"]
-    F --> G
-    
-    style G fill:#45b7d1
-```
+![[Diagramas/03_-_Teoremas_Especiales_para_Integrales_Definidas_05.svg\|Diagramas/03_-_Teoremas_Especiales_para_Integrales_Definidas_05.svg]]
 
 > [!info] 🔄 **Conexión Profunda** Si aplicamos el Segundo Teorema Fundamental del Cálculo a una función $F(x) = \int_a^x f(t)dt$:
 > 
@@ -657,24 +581,24 @@ graph LR
 > 
 > ### 🔗 Notas Relacionadas
 > 
-> - [[04 - Teorema Fundamental del Cálculo]] - Base teórica para la demostración
-> - [[Teorema del Valor Medio para Derivadas]] - Teorema análogo para derivadas
-> - [[02 - Propiedades de la Integral]] - Propiedades utilizadas en la demostración
-> - [[01 - Integral de Riemann]] - Definición formal de la integral
-> - [[Funciones Continuas]] - Condición necesaria para el teorema
+> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/04 - Teorema Fundamental del Cálculo\|04 - Teorema Fundamental del Cálculo]] - Base teórica para la demostración
+> - [[Teorema del Valor Medio para Derivadas\|Teorema del Valor Medio para Derivadas]] - Teorema análogo para derivadas
+> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/02 - Propiedades de la Integral\|02 - Propiedades de la Integral]] - Propiedades utilizadas en la demostración
+> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/01 - Integral de Riemann\|01 - Integral de Riemann]] - Definición formal de la integral
+> - [[Funciones Continuas\|Funciones Continuas]] - Condición necesaria para el teorema
 > 
 > ### 📖 Para Profundizar
 > 
-> - [[Teorema del Valor Intermedio]] - Herramienta clave en la demostración
-> - [[Aplicaciones de Integrales en Física]] - Uso del valor medio en problemas físicos
-> - [[Valor RMS y Aplicaciones Eléctricas]] - Aplicación específica del concepto
-> - [[Promedio de Funciones]] - Interpretación estadística del valor medio
+> - [[Teorema del Valor Intermedio\|Teorema del Valor Intermedio]] - Herramienta clave en la demostración
+> - [[Aplicaciones de Integrales en Física\|Aplicaciones de Integrales en Física]] - Uso del valor medio en problemas físicos
+> - [[Valor RMS y Aplicaciones Eléctricas\|Valor RMS y Aplicaciones Eléctricas]] - Aplicación específica del concepto
+> - [[Promedio de Funciones\|Promedio de Funciones]] - Interpretación estadística del valor medio
 > 
 > ### 🎯 Notas Recomendadas
 > 
-> - [[Interpretación Geométrica de Integrales]] - Para visualizar mejor el concepto
-> - [[Métodos de Aproximación Numérica]] - Cálculo computacional de valores medios
-> - [[Funciones Periódicas y sus Propiedades]] - Casos especiales del teorema
+> - [[Interpretación Geométrica de Integrales\|Interpretación Geométrica de Integrales]] - Para visualizar mejor el concepto
+> - [[Métodos de Aproximación Numérica\|Métodos de Aproximación Numérica]] - Cálculo computacional de valores medios
+> - [[Funciones Periódicas y sus Propiedades\|Funciones Periódicas y sus Propiedades]] - Casos especiales del teorema
 > 
 
 ---

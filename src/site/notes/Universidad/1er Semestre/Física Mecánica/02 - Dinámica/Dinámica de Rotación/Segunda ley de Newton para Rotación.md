@@ -70,22 +70,7 @@
 
 > [!abstract] 📊 Mapa de Relaciones
 > 
-> ```mermaid
-> graph TD
->    A[Fuerzas Aplicadas] --> B[Cálculo de Torques]
->    B --> C[Torque Neto: Suma tau]
->    D[Geometría del Objeto] --> E[Momento de Inercia I]
->    C --> F[Segunda Ley Rotacional]
->    E --> F
->    F --> G[Suma tau = I alpha]
->    G --> H[Aceleración Angular alpha]
->    H --> I[Cinemática Rotacional]
->    I --> J[Velocidad angular omega]
->    I --> K[Desplazamiento angular theta]
->    L[Condiciones Iniciales] --> I
->    H --> M[Movimiento Tangencial]
->    M --> N[a_t = alpha × r]
-> ```
+> ![[Diagramas/Segunda_ley_de_Newton_para_Rotación_01.svg\|Diagramas/Segunda_ley_de_Newton_para_Rotación_01.svg]]
 
 ---
 
@@ -93,19 +78,7 @@
 
 > [!info] 🔄 Procedimiento Sistemático
 > 
-> ```mermaid
-> flowchart TD
->    A[1. Identificar Fuerzas] --> B[2. Diagrama de Cuerpo Libre]
->    B --> C[3. Ubicar Eje de Rotación]
->    C --> D[4. Calcular Torques Individuales]
->    D --> E[5. Sumar Torques: Suma tau]
->    F[6. Determinar Momento de Inercia I] --> G[7. Aplicar Segunda Ley]
->    E --> G
->    G --> H[Suma tau = I alpha]
->    H --> I[8. Despejar alpha]
->    I --> J[9. Aplicar Cinemática Rotacional]
->    J --> K[10. Encontrar omega o theta]
-> ```
+> ![[Diagramas/Segunda_ley_de_Newton_para_Rotación_02.svg\|Diagramas/Segunda_ley_de_Newton_para_Rotación_02.svg]]
 
 ---
 
@@ -189,27 +162,27 @@
 
 > [!note] 🌐 Relaciones Conceptuales
 > 
-> ### [[Torque y Equilibrio Rotacional]]
+> ### [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Torque y Equilibrio Rotacional\|Torque y Equilibrio Rotacional]]
 > 
 > - **Dependencia**: La ley requiere calcular el torque neto
 > - **Relación**: $\tau$ es la causa de la aceleración angular
 > 
-> ### [[Momento de Inercia]]
+> ### [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Momento de Inercia\|Momento de Inercia]]
 > 
 > - **Papel**: Constante de proporcionalidad en la ley
 > - **Significado**: Resistencia al cambio de rotación
 > 
-> ### [[Cinemática Rotacional]]
+> ### [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Rotacional\|Cinemática Rotacional]]
 > 
 > - **Aplicación**: Una vez conocida $\alpha$, se calcula $\omega$ y $\theta$
 > - **Ecuaciones**: $\omega = \omega_0 + \alpha t$, $\theta = \omega_0 t + \frac{1}{2}\alpha t^2$
 > 
-> ### [[Dinámica Lineal]]
+> ### [[Dinámica Lineal\|Dinámica Lineal]]
 > 
 > - **Analogía directa**: $\sum F = ma$ ↔ $\sum \tau = I\alpha$
 > - **Conexión**: Movimiento de traslación y rotación simultáneos
 > 
-> ### [[Energía Cinética Rotacional]]
+> ### [[Energía Cinética Rotacional\|Energía Cinética Rotacional]]
 > 
 > - **Relación**: El trabajo rotacional $W = \tau \Delta\theta$ cambia la energía cinética
 > - **Conexión**: $K_{rot} = \frac{1}{2}I\omega^2$
@@ -254,20 +227,20 @@
 > 
 > ### 🔗 Notas Relacionadas
 > 
-> - [[Momento de Torsión (Torque)]]
-> - [[Momento de Inercia]]
-> - [[Cinemática Rotacional]]
-> - [[Dinámica Lineal - Segunda Ley de Newton]]
-> - [[Energía Cinética Rotacional]]
-> - [[Centro de masa (CM)]]
-> - [[Equilibrio Rotacional]]
+> - [[Momento de Torsión (Torque)\|Momento de Torsión (Torque)]]
+> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Momento de Inercia\|Momento de Inercia]]
+> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Rotacional\|Cinemática Rotacional]]
+> - [[Dinámica Lineal - Segunda Ley de Newton\|Dinámica Lineal - Segunda Ley de Newton]]
+> - [[Energía Cinética Rotacional\|Energía Cinética Rotacional]]
+> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Centro de masa (CM)\|Centro de masa (CM)]]
+> - [[Equilibrio Rotacional\|Equilibrio Rotacional]]
 > 
 > ### 📖 Temas Avanzados
 > 
-> - [[Movimiento de Rodadura]]
-> - [[Sistemas de Múltiples Cuerpos]]
-> - [[Conservación del Momento Angular]]
-> - [[Análisis de Máquinas Rotativas]]
+> - [[Movimiento de Rodadura\|Movimiento de Rodadura]]
+> - [[Sistemas de Múltiples Cuerpos\|Sistemas de Múltiples Cuerpos]]
+> - [[Conservación del Momento Angular\|Conservación del Momento Angular]]
+> - [[Análisis de Máquinas Rotativas\|Análisis de Máquinas Rotativas]]
  
  ### Tags
 

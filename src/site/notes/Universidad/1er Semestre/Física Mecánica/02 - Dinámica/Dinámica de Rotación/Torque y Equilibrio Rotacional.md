@@ -70,23 +70,7 @@
 
 > [!abstract] 📊 Mapa de Relaciones
 > 
-> ```mermaid
-> graph TD
->    A[Fuerza Aplicada F] --> B[Torque: tau = r × F]
->    C[Brazo de Palanca r] --> B
->    D[Ángulo theta] --> B
->    B --> E[tau = rF sin theta]
->    F[Casos Especiales] --> G[theta = 90°: tau = rF]
->    F --> H[theta = 0°/180°: tau = 0]
->    B --> I[Segunda Ley Rotacional]
->    I --> J[Suma tau = I alpha]
->    J --> K[Aceleración Angular alpha]
->    L[Momento de Inercia I] --> J
->    B --> M[Trabajo Rotacional]
->    M --> N[W = tau Delta theta]
->    B --> O[Potencia Rotacional]
->    O --> P[P = tau omega]
-> ```
+> ![[Diagramas/Torque_y_Equilibrio_Rotacional_01.svg\|Diagramas/Torque_y_Equilibrio_Rotacional_01.svg]]
 
 ---
 
@@ -118,23 +102,7 @@
 
 > [!info] 🛠️ Flujo de Resolución
 > 
-> ```mermaid
-> flowchart TD
->    A[Identificar el Sistema] --> B[Ubicar Eje de Rotación]
->    B --> C[Identificar Fuerzas Aplicadas]
->    C --> D[Medir Brazos de Palanca r]
->    D --> E[Determinar Ángulos theta]
->    E --> F{¿Múltiples Fuerzas?}
->    F -->|Una Fuerza| G[Calcular: tau = rF sin theta]
->    F -->|Varias Fuerzas| H[Calcular: Suma de torques]
->    G --> I[Resultado Final]
->    H --> I
->    I --> J{¿Análisis Dinámico?}
->    J -->|Sí| K[Aplicar: Suma tau = I alpha]
->    J -->|No| L[Análisis de Equilibrio]
->    K --> M[Encontrar alpha o I]
->    L --> N[Suma tau = 0]
-> ```
+> ![[Diagramas/Torque_y_Equilibrio_Rotacional_02.svg\|Diagramas/Torque_y_Equilibrio_Rotacional_02.svg]]
 
 ---
 
@@ -180,27 +148,27 @@
 
 > [!note] 🌐 Relaciones Conceptuales
 > 
-> ### [[Cinemática Rotacional]]
+> ### [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Rotacional\|Cinemática Rotacional]]
 > 
 > - **Segunda Ley**: $\sum \tau = I\alpha$ (ecuación fundamental)
 > - El torque es la **causa** de la aceleración angular
 > 
-> ### [[Momento de Inercia]]
+> ### [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Momento de Inercia\|Momento de Inercia]]
 > 
 > - **Resistencia rotacional**: Relaciona torque con aceleración angular
 > - **Ecuación conjunta**: Mayor $I$ requiere mayor $\tau$ para misma $\alpha$
 > 
-> ### [[Trabajo y Energía Rotacional]]
+> ### [[Trabajo y Energía Rotacional\|Trabajo y Energía Rotacional]]
 > 
 > - **Trabajo rotacional**: $W = \tau \Delta\theta$
 > - **Potencia rotacional**: $P = \tau \omega$
 > 
-> ### [[Equilibrio Rotacional]]
+> ### [[Equilibrio Rotacional\|Equilibrio Rotacional]]
 > 
 > - **Condición**: $\sum \tau = 0$ (torques se cancelan)
 > - **Aplicación**: Balanzas, palancas, estructuras
 > 
-> ### [[Momentum Angular]]
+> ### [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Momentum Angular\|Momentum Angular]]
 > 
 > - **Relación temporal**: $\tau = \frac{dL}{dt}$ (torque cambia momento angular)
 > - **Conservación**: Sin torque externo → $L$ constante
@@ -249,19 +217,19 @@
 > 
 > ### 🔗 Notas Relacionadas
 > 
-> - [[Momento de Inercia]]
-> - [[Momentum Angular]]
-> - [[Equilibrio Rotacional]]
-> - [[Trabajo y Energía Rotacional]]
-> - [[Palancas y Máquinas Simples]]
-> - [[Producto Vectorial]]
+> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Momento de Inercia\|Momento de Inercia]]
+> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Momentum Angular\|Momentum Angular]]
+> - [[Equilibrio Rotacional\|Equilibrio Rotacional]]
+> - [[Trabajo y Energía Rotacional\|Trabajo y Energía Rotacional]]
+> - [[Palancas y Máquinas Simples\|Palancas y Máquinas Simples]]
+> - [[Producto Vectorial\|Producto Vectorial]]
 > 
 > ### 📖 Temas Avanzados
 > 
-> - [[Giroscopios y Precesión]]
-> - [[Torque en Sistemas de Múltiples Cuerpos]]
-> - [[Análisis de Estructuras]]
-> - [[Máquinas Rotativas]]t
+> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Giroscopios y Precesión\|Giroscopios y Precesión]]
+> - [[Torque en Sistemas de Múltiples Cuerpos\|Torque en Sistemas de Múltiples Cuerpos]]
+> - [[Análisis de Estructuras\|Análisis de Estructuras]]
+> - [[Máquinas Rotativas\|Máquinas Rotativas]]t
 ## Tags
 
 #fisica #mecanica #torque #momento-torsion #dinamica-roacional #equilibrio
@@ -319,22 +287,7 @@
 > 
 > - Agregar: $\sum \vec{F}_{ext} = 0$
 
-```mermaid
-flowchart TD
-    A[Identificar Sistema] --> B[Elegir Eje de Rotación]
-    B --> C[Diagrama de Cuerpo Libre]
-    C --> D[Calcular Torques Individuales]
-    D --> E[Aplicar Convención de Signos]
-    E --> F[∑τ = 0]
-    F --> G{¿Equilibrio Completo?}
-    G -->|Sí| H[Agregar ∑F = 0]
-    G -->|No| I[Resolver Ecuaciones]
-    H --> I
-    
-    style A fill:#ff9999
-    style F fill:#99ccff
-    style I fill:#99ff99
-```
+![[Diagramas/Torque_y_Equilibrio_Rotacional_03.svg\|Diagramas/Torque_y_Equilibrio_Rotacional_03.svg]]
 
 ### Convención de Signos 🔄
 
@@ -389,19 +342,7 @@ flowchart TD
 > 
 > **Equilibrio traslacional:** $$F_1 + 245 - 490 - 196 = 0$$ $$F_1 = 441 \text{ N}$$
 
-```mermaid
-graph TD
-    A[Viga 5m, 20kg] --> B[Objeto 50kg a 1m]
-    A --> C[Soporte Izq: F₁]
-    A --> D[Soporte Der: F₂ a 4m]
-    B --> E[Peso = 490N]
-    A --> F[Peso viga = 196N a 2.5m]
-    
-    style C fill:#99ff99
-    style D fill:#99ff99
-    style E fill:#ff9999
-    style F fill:#ff9999
-```
+![[Diagramas/Torque_y_Equilibrio_Rotacional_04.svg\|Diagramas/Torque_y_Equilibrio_Rotacional_04.svg]]
 
 ### Conexiones Conceptuales 🔗
 
@@ -448,12 +389,12 @@ graph TD
 
 > [!quote] 🔗 Enlaces a Otras Notas
 > 
-> - [[Momento de Torsión]]
-> - [[Cinemática Rotacional]]
-> - [[Estática]]
-> - [[Fuerzas y Equilibrio]]
-> - [[Diagramas de Cuerpo Libre]]
-> - [[Centro de masa (CM)]]
+> - [[Momento de Torsión\|Momento de Torsión]]
+> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Rotacional\|Cinemática Rotacional]]
+> - [[Estática\|Estática]]
+> - [[Fuerzas y Equilibrio\|Fuerzas y Equilibrio]]
+> - [[Diagramas de Cuerpo Libre\|Diagramas de Cuerpo Libre]]
+> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Centro de masa (CM)\|Centro de masa (CM)]]
 
 ---
 

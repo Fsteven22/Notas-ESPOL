@@ -98,27 +98,7 @@
 
 > [!success] 🔗 Análisis de Fuerzas en Rodadura
 > 
-> ```mermaid
-> graph TD
->     A[Objeto Rodando] --> B[Fuerzas Externas]
->     A --> C[Fuerzas de Contacto]
->     A --> D[Movimiento Resultante]
->     B --> E[Peso Mg]
->     B --> F[Fuerzas Aplicadas]
->     B --> G[Componentes Gravitacionales]
->     C --> H[Normal N]
->     C --> I[Fricción Estática f_s]
->     D --> J[Traslación CM]
->     D --> K[Rotación sobre CM]
->     I --> L[Previene Deslizamiento]
->     I --> M[Genera Torque]
->     J --> N[v_cm = ωR]
->     K --> N
->     style A fill:#e1f5fe
->     style B fill:#f3e5f5
->     style C fill:#e8f5e8
->     style D fill:#fff3e0
-> ```
+> ![[Diagramas/Problemas_de_Rodadura_sin_deslizamiento_01.svg\|Diagramas/Problemas_de_Rodadura_sin_deslizamiento_01.svg]]
 >
 
 > [!note] **Momentos de Inercia Comunes** 📐
@@ -374,18 +354,18 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Cinemática Rotacional]] - Fundamentos del movimiento circular
-> - [[Dinámica de Rotación]] - Segunda ley para rotación
-> - [[Momento de Inercia]] - Distribución de masa
-> - [[Energía de Rotación]] - Aspectos energéticos
+> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Rotacional\|Cinemática Rotacional]] - Fundamentos del movimiento circular
+> - [[Dinámica de Rotación\|Dinámica de Rotación]] - Segunda ley para rotación
+> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Momento de Inercia\|Momento de Inercia]] - Distribución de masa
+> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Energía de Rotación\|Energía de Rotación]] - Aspectos energéticos
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Vectores]] - Análisis vectorial
-> - [[Dinámica de Traslación]] - Leyes de Newton
-> - [[Torque y Equilibrio Rotacional]] - Conceptos de momento
+> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Análisis vectorial
+> - [[Dinámica de Traslación\|Dinámica de Traslación]] - Leyes de Newton
+> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Torque y Equilibrio Rotacional\|Torque y Equilibrio Rotacional]] - Conceptos de momento
 
 ---
 

@@ -73,20 +73,7 @@
 
 > [!success] 🔗 Relaciones Matemáticas Fundamentales
 > 
-> ```mermaid
-> graph TD
->     A[Sistema Aislado] -->|ΣF_ext = 0| B[Conservación de Momentum]
->     B --> C[Momentum Inicial = Momentum Final]
->     C --> D[m₁v₁ᵢ + m₂v₂ᵢ = m₁v₁f + m₂v₂f]
->     D --> E{Tipo de Colisión}
->     E -->|Elástica| F[Conserva K también]
->     E -->|Inelástica| G[No conserva K]
->     E -->|Perfectamente Inelástica| H[v₁f = v₂f]
->     style A fill:#e1f5fe
->     style B fill:#f3e5f5
->     style C fill:#fff3e0
->     style D fill:#e8f5e8
-> ```
+> ![[Diagramas/Problemas_de_Variación_de_Momentum_en_Sistemas_Aislados_01.svg\|Diagramas/Problemas_de_Variación_de_Momentum_en_Sistemas_Aislados_01.svg]]
 >
 
 > [!note] **Coeficiente de Restitución** 🔄
@@ -309,11 +296,11 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Momentum Lineal y Su Conservación]] - Fundamentos teóricos
-> - [[Choques Uni-Bidimensionales]] - Análisis detallado de colisiones
-> - [[Impulso Lineal]] - Relación entre impulso y cambio de momentum
-> - [[Centro de masa (CM)]] - Análisis desde el sistema CM
-> - [[Problemas de Colisiones]] - Ejercicios adicionales
+> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Momentum Lineal y Su Conservación\|Momentum Lineal y Su Conservación]] - Fundamentos teóricos
+> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Choques Uni-Bidimensionales\|Choques Uni-Bidimensionales]] - Análisis detallado de colisiones
+> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Impulso Lineal\|Impulso Lineal]] - Relación entre impulso y cambio de momentum
+> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Centro de masa (CM)\|Centro de masa (CM)]] - Análisis desde el sistema CM
+> - [[Universidad/1er Semestre/Física Mecánica/04 - Impulso y Colisiones (Lineal)/Aplicaciones de Impulso y Colisiones (Lineal)/Problemas de Colisiones\|Problemas de Colisiones]] - Ejercicios adicionales
 
 ## 🔧 Formulario de Consulta Rápida
 

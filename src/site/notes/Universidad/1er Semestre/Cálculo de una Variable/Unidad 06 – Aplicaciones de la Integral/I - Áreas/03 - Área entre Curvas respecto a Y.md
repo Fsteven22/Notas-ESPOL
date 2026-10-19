@@ -86,23 +86,7 @@
 > 
 > **Paso 5**: Evaluar la integral
 > 
-> ```mermaid
-> flowchart TD
->     A["Curvas dadas"] --> B{"¿Fácil expresar como x = f(y)?"}
->     B -->|Sí| C["Expresar x = f(y), x = g(y)"]
->     B -->|No| D["¿Conviene usar dx mejor?"]
->     C --> E["Encontrar límites en y: [c,d]"]
->     E --> F["Verificar: ¿f(y) ≥ g(y)?"]
->     F -->|Sí| G["A = ∫[f(y) - g(y)]dy"]
->     F -->|No| H["A = ∫[g(y) - f(y)]dy"]
->     G --> I["Evaluar integral"]
->     H --> I
->     I --> J["Área total"]
->     D --> K["Usar método dx"]
->     style J fill:#45b7d1
->     style K fill:#ffd93d
->     style I fill:#96ceb4
-> ```
+> ![[Diagramas/03_-_Área_entre_Curvas_respecto_a_Y_01.svg\|Diagramas/03_-_Área_entre_Curvas_respecto_a_Y_01.svg]]
 
 ## 🧪 Ejemplos Fundamentales
 
@@ -242,28 +226,7 @@
 
 > [!info] 💡 **Criterios de Decisión**
 > 
-> ```mermaid
-> flowchart TD
->     A["Problema de área entre curvas"] --> B{"¿Cómo están dadas las funciones?"}
->     B -->|"y = f(x)"| C{"¿Límites verticales naturales?"}
->     B -->|"x = g(y)"| D{"¿Límites horizontales naturales?"}
->     B -->|"Ambas formas"| E["Comparar complejidad"]
->     C -->|Sí| F["Usar dx"]
->     C -->|No| G["Considerar dy"]
->     D -->|Sí| H["Usar dy"]
->     D -->|No| I["Considerar dx"]
->     E --> J{"¿Cuál es más simple?"}
->     J -->|dx| F
->     J -->|dy| H
->     G --> K{"¿Múltiples ramas en x?"}
->     K -->|Sí| H
->     K -->|No| F
->     I --> L{"¿Múltiples ramas en y?"}
->     L -->|Sí| F
->     L -->|No| H
->     style F fill:#96ceb4
->     style H fill:#ffb3ba
-> ```
+> ![[Diagramas/03_-_Área_entre_Curvas_respecto_a_Y_02.svg\|Diagramas/03_-_Área_entre_Curvas_respecto_a_Y_02.svg]]
 
 ### 📊 Tabla Comparativa
 
@@ -332,23 +295,23 @@
 
 ### 📚 Temas Relacionados
 
-- [[02 - Área entre Curvas]] - Concepto base y método con dx
-- [[Métodos de Integración]] - Técnicas para evaluar las integrales resultantes
-- [[Funciones Inversas]] - Para transformar entre y = f(x) y x = g(y)
-- [[Aplicaciones de Integrales Definidas]] - Contexto más amplio de aplicaciones
+- [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 06 – Aplicaciones de la Integral/I - Áreas/02 - Área entre Curvas\|02 - Área entre Curvas]] - Concepto base y método con dx
+- [[Métodos de Integración\|Métodos de Integración]] - Técnicas para evaluar las integrales resultantes
+- [[Funciones Inversas\|Funciones Inversas]] - Para transformar entre y = f(x) y x = g(y)
+- [[Aplicaciones de Integrales Definidas\|Aplicaciones de Integrales Definidas]] - Contexto más amplio de aplicaciones
 
 ### 🎯 Casos Especiales
 
-- [[04 - Área en Coordenadas Polares y Paramétricas]] - Extensiones a otros sistemas
-- [[Volúmenes de Revolución]] - Aplicación del método de discos/arandelas con dy
-- [[Centros de Masa y Centroides]] - Usando integración respecto a y
-- [[Longitud de Arco]] - Extensión del concepto a longitudes
+- [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 06 – Aplicaciones de la Integral/I - Áreas/04 - Área en Coordenadas Polares y Paramétricas\|04 - Área en Coordenadas Polares y Paramétricas]] - Extensiones a otros sistemas
+- [[Volúmenes de Revolución\|Volúmenes de Revolución]] - Aplicación del método de discos/arandelas con dy
+- [[Centros de Masa y Centroides\|Centros de Masa y Centroides]] - Usando integración respecto a y
+- [[Longitud de Arco\|Longitud de Arco]] - Extensión del concepto a longitudes
 
 ### 🔧 Herramientas Computacionales
 
-- [[Graficación de Funciones]] - Para visualizar regiones y verificar resultados
-- [[Cálculo Simbólico]] - Para evaluar integrales complejas
-- [[Métodos Numéricos]] - Para casos donde no hay solución analítica
+- [[Graficación de Funciones\|Graficación de Funciones]] - Para visualizar regiones y verificar resultados
+- [[Cálculo Simbólico\|Cálculo Simbólico]] - Para evaluar integrales complejas
+- [[Métodos Numéricos\|Métodos Numéricos]] - Para casos donde no hay solución analítica
 
 ### 🏷️ Tags
 

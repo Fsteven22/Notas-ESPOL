@@ -23,14 +23,7 @@
 
 > [!tip] 🌪️ **Aviones con Viento** **Situación:** Aeronave volando en un medio (aire) que se mueve con respecto a tierra
 > 
-> ```mermaid
-> graph LR
->     subgraph "Vuelo con Viento"
->         A[Velocidad del Avión<br/>respecto al aire] -->|vₐₐ| B[Velocidad resultante<br/>respecto a tierra]
->         C[Velocidad del Viento<br/>respecto a tierra] -->|vw| B
->     end
->     style B fill:#87CEEB
-> ```
+> ![[Diagramas/Velocidad_Relativa_para_Barcos_y_Aviones_01.svg\|Diagramas/Velocidad_Relativa_para_Barcos_y_Aviones_01.svg]]
 > 
 > **Casos típicos:**
 > 
@@ -41,14 +34,7 @@
 
 > [!warning] 🚢 **Barcos en Corrientes** **Situación:** Embarcación navegando en agua que fluye respecto a la costa
 > 
-> ```mermaid
-> graph TB
->     subgraph "Navegación con Corriente"
->         A[Velocidad del Barco<br/>respecto al agua] -->|vba| B[Velocidad resultante<br/>respecto a tierra]
->         C[Velocidad de la Corriente<br/>respecto a tierra] -->|vc| B
->     end
->     style B fill:#98FB98
-> ```
+> ![[Diagramas/Velocidad_Relativa_para_Barcos_y_Aviones_02.svg\|Diagramas/Velocidad_Relativa_para_Barcos_y_Aviones_02.svg]]
 > 
 > **Casos típicos:**
 > 
@@ -141,13 +127,7 @@
 
 > [!tip] 🧭 **Problema del Rumbo de Compensación** **Situación:** Determinar qué rumbo debe seguir un vehículo para alcanzar un destino específico cuando hay viento/corriente lateral.
 > 
-> ```mermaid
-> graph TB
->     A[Origen] --> B[Destino Deseado]
->     A --> C[Rumbo Aparente<br/>con deriva]
->     A --> D[Rumbo Real<br/>compensado]
->     style D fill:#FFD700
-> ```
+> ![[Diagramas/Velocidad_Relativa_para_Barcos_y_Aviones_03.svg\|Diagramas/Velocidad_Relativa_para_Barcos_y_Aviones_03.svg]]
 > 
 > **Método:**
 > 
@@ -218,19 +198,7 @@
 
 > [!note] 📈 **Diagrama de Vectores de Velocidad**
 > 
-> ```mermaid
-> graph TB
->     subgraph "Composición Vectorial"
->         A[Velocidad del Vehículo<br/>respecto al Medio] --> C[Velocidad Resultante<br/>respecto a Tierra]
->         B[Velocidad del Medio<br/>respecto a Tierra] --> C
->         C --> D{Magnitud y Dirección}
->     end
->     subgraph "Casos Especiales"
->         E[Paralelo: v_total = v_veh ± v_medio]
->         F["Perpendicular: v_total = √(v_veh² + v_medio²)"]
->         G[Ángulo θ: v_total requiere componentes]
->     end
-> ```
+> ![[Diagramas/Velocidad_Relativa_para_Barcos_y_Aviones_04.svg\|Diagramas/Velocidad_Relativa_para_Barcos_y_Aviones_04.svg]]
 > 
 > **🎯 Interpretación del diagrama:**
 > 
@@ -299,11 +267,11 @@
 
 > [!quote] 📚 **Notas Relacionadas**
 > 
-> - [[Problemas de Encuentro]] - Para encuentros con velocidad relativa
-> - [[Vectores]] - Operaciones vectoriales fundamentales
-> - [[Cinemática Traslacional]] - Conceptos base de movimiento
-> - [[Transformaciones de Galileo]] - Relatividad clásica
-> - [[Análisis Gráfico del Movimiento]] - Representación visual
+> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Aplicaciones de Cinemática Traslacional/Problemas de Encuentro\|Problemas de Encuentro]] - Para encuentros con velocidad relativa
+> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Operaciones vectoriales fundamentales
+> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Traslacional\|Cinemática Traslacional]] - Conceptos base de movimiento
+> - [[Transformaciones de Galileo\|Transformaciones de Galileo]] - Relatividad clásica
+> - [[Análisis Gráfico del Movimiento\|Análisis Gráfico del Movimiento]] - Representación visual
 
 ---
 
@@ -311,10 +279,10 @@
 
 > [!info] 🎓 **Conocimientos Previos Necesarios**
 > 
-> - [[Vectores]] - Suma vectorial y componentes
-> - [[Trigonometría]] - Descomposición y ángulos
-> - [[Sistemas de Coordenadas]] - Referencias cartesianas
-> - [[Navegación por Coordenadas]] - Rumbo y orientación
+> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Suma vectorial y componentes
+> - [[Trigonometría\|Trigonometría]] - Descomposición y ángulos
+> - [[Sistemas de Coordenadas\|Sistemas de Coordenadas]] - Referencias cartesianas
+> - [[Navegación por Coordenadas\|Navegación por Coordenadas]] - Rumbo y orientación
 
 ---
 

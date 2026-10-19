@@ -21,12 +21,7 @@
 
 > [!tip] 📍 **Encuentro Frontal (Convergencia)** **Situación:** Dos móviles parten desde puntos diferentes y **se dirigen uno hacia el otro**
 > 
-> ```mermaid
-> graph LR
->     A[Móvil A] -->|vA| C[Punto de Encuentro]
->     B[Móvil B] -->|vB| C
->     style C fill:#ff9999
-> ```
+> ![[Diagramas/Problemas_de_Encuentro_01.svg\|Diagramas/Problemas_de_Encuentro_01.svg]]
 > 
 > **Ejemplos típicos:**
 > 
@@ -37,13 +32,7 @@
 
 > [!warning] 🏃‍♂️ **Persecución y Alcance** **Situación:** Un móvil **persigue** a otro que tiene ventaja inicial
 > 
-> ```mermaid
-> graph LR
->     A[Perseguidor] -->|v1 > v2| B[Objetivo]
->     B -->|v2| C[Punto de Alcance]
->     A -->|v1| C
->     style C fill:#99ff99
-> ```
+> ![[Diagramas/Problemas_de_Encuentro_02.svg\|Diagramas/Problemas_de_Encuentro_02.svg]]
 > 
 > **Ejemplos típicos:**
 > 
@@ -154,17 +143,7 @@
 
 > [!note] 📈 **Gráficos Posición vs Tiempo**
 > 
-> ```mermaid
-> graph TB
->     subgraph "Encuentro Frontal"
->         A1[t=0: xA=0, xB=d] --> B1[Las líneas se cruzan]
->         B1 --> C1[t=encuentro: xA=xB]
->     end
->     subgraph "Persecución"
->         A2[t=0: Ventaja inicial] --> B2[Móvil rápido gana terreno]
->         B2 --> C2[t=alcance: Posiciones iguales]
->     end
-> ```
+> ![[Diagramas/Problemas_de_Encuentro_03.svg\|Diagramas/Problemas_de_Encuentro_03.svg]]
 > 
 > **🎯 Interpretación visual:**
 > 
@@ -209,9 +188,9 @@
 
 > [!quote] 📚 **Notas Relacionadas**
 > 
-> - [[Cinemática Traslacional]] - Conceptos base
-> - [[Velocidad Relativa para Barcos y Aviones]] - Marcos de referencia
-> - [[Cinemática Traslacional#📈 Tipos de Movimiento Traslacional]] - Con aceleración
+> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Traslacional\|Cinemática Traslacional]] - Conceptos base
+> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Aplicaciones de Cinemática Traslacional/Velocidad Relativa para Barcos y Aviones\|Velocidad Relativa para Barcos y Aviones]] - Marcos de referencia
+> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Traslacional#📈 Tipos de Movimiento Traslacional\|Cinemática Traslacional#📈 Tipos de Movimiento Traslacional]] - Con aceleración
 
 ---
 
@@ -219,9 +198,9 @@
 
 > [!info] 🎓 **Conocimientos Previos Necesarios**
 > 
-> - [[Vectores]] - Para sistemas de coordenadas
-> - [[Sistemas de Ecuaciones]] - Álgebra necesaria
-> - [[Análisis Gráfico del Movimiento]] - Representación visual
+> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Para sistemas de coordenadas
+> - [[Sistemas de Ecuaciones\|Sistemas de Ecuaciones]] - Álgebra necesaria
+> - [[Análisis Gráfico del Movimiento\|Análisis Gráfico del Movimiento]] - Representación visual
 
 ---
 

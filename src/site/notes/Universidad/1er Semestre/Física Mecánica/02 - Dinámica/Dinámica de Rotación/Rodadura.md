@@ -63,20 +63,7 @@
 
 > [!info] 🔄 Proceso de Resolución (Método Dinámico)
 > 
-> ```mermaid
-> flowchart TD
->    A[🎯 Problema de Rodadura] --> B[📐 Diagrama de Cuerpo Libre]
->    B --> C[⚖️ Segunda Ley Newton Lineal]
->    B --> D[🔄 Segunda Ley Newton Rotacional]
->    C --> E[📝 Sistema de Ecuaciones]
->    D --> E
->    E --> F[🔗 Aplicar Condición: a = αR]
->    F --> G[🧮 Resolver Sistema]
->    G --> H[✅ Obtener a, f, etc.]
->    style A fill:#e1f5fe
->    style H fill:#c8e6c9
->    style F fill:#fff3e0
-> ```
+> ![[Diagramas/Rodadura_01.svg\|Diagramas/Rodadura_01.svg]]
 
 ## 🎲 Ejemplos Método Dinámico
 
@@ -137,20 +124,7 @@
 
 > [!info] 🔄 Proceso de Resolución (Método Energético)
 > 
-> ```mermaid
-> flowchart TD
->    A[🎯 Problema de Rodadura] --> B[⚡ Identificar Estados Inicial y Final]
->    B --> C[📊 Calcular Energías Iniciales]
->    B --> D[📊 Calcular Energías Finales]
->    C --> E[⚖️ Aplicar Conservación de Energía]
->    D --> E
->    E --> F[🔗 Usar Condición: v = ωR]
->    F --> G[🧮 Resolver para Incógnita]
->    G --> H[✅ Obtener v, h, etc.]
->    style A fill:#e1f5fe
->    style H fill:#c8e6c9
->    style F fill:#fff3e0
-> ```
+> ![[Diagramas/Rodadura_02.svg\|Diagramas/Rodadura_02.svg]]
 
 ## 🎲 Ejemplos Método Energético
 
@@ -187,12 +161,7 @@
 
 > [!info] 🔋 Análisis Energético La fracción de energía que se convierte en rotación depende del momento de inercia:
 > 
-> ```mermaid
-> pie title Energía Cinética en Rodadura
->    "Esfera: 71% traslación, 29% rotación" : 71
->    "Cilindro: 67% traslación, 33% rotación" : 67
->    "Aro: 50% traslación, 50% rotación" : 50
-> ```
+> ![[Diagramas/Rodadura_03.svg\|Diagramas/Rodadura_03.svg]]
 >
 
 > [!note] 📊 Comparación de Velocidades Finales
@@ -222,36 +191,7 @@
 
 > [!info] 🔗 Conexiones Conceptuales
 > 
-> ```mermaid
-> mindmap
->  root((🎯 Rodadura))
->    🔧 Método Dinámico
->      ⚖️ Segunda Ley Newton
->        Lineal
->        Rotacional
->      🔄 Análisis de Fuerzas
->        Fricción estática
->        Peso
->        Normales
->      📊 Resultados
->        Aceleraciones
->        Fuerzas
->    ⚡ Método Energético
->      🔋 Conservación Energía
->        Cinética traslacional
->        Cinética rotacional
->        Potencial gravitatoria
->      📈 Comparaciones
->        Diferentes formas
->        Velocidades finales
->      📊 Resultados
->        Velocidades
->        Alturas
->    🔗 Conceptos Comunes
->      Condición rodadura
->      Momento de inercia
->      Fricción estática
-> ```
+> ![[Diagramas/Rodadura_04.svg\|Diagramas/Rodadura_04.svg]]
 
 ---
 
@@ -259,23 +199,23 @@
 
 > [!quote] 🔗 Links a Otras Notas
 > 
-> - > [[Dinámica Lineal]] - Segunda Ley de Newton
+> - > [[Dinámica Lineal\|Dinámica Lineal]] - Segunda Ley de Newton
 >     
-> - > [[Cinemática Rotacional]] - Torque y momento de inercia
+> - > [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Rotacional\|Cinemática Rotacional]] - Torque y momento de inercia
 >     
-> - > [[Cinemática Rotacional]] - Relaciones angulares
+> - > [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Rotacional\|Cinemática Rotacional]] - Relaciones angulares
 >     
-> - > [[Física Mecanica/Notas antiguas/Dinámica Rotacional/Momento de Inercia]] - Valores para diferentes formas
+> - > [[Física Mecanica/Notas antiguas/Dinámica Rotacional/Momento de Inercia\|Física Mecanica/Notas antiguas/Dinámica Rotacional/Momento de Inercia]] - Valores para diferentes formas
 >     
-> - > [[Fricción Estática]] - Fuerza clave en rodadura
+> - > [[Fricción Estática\|Fricción Estática]] - Fuerza clave en rodadura
 >     
-> - > [[Conservación de Energía]] - Fundamento del método energético
+> - > [[Conservación de Energía\|Conservación de Energía]] - Fundamento del método energético
 >     
-> - > [[Diagramas de Cuerpo Libre]] - Análisis de fuerzas
+> - > [[Diagramas de Cuerpo Libre\|Diagramas de Cuerpo Libre]] - Análisis de fuerzas
 >     
-> - > [[Trabajo y Energía]] - Conceptos energéticos
+> - > [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Trabajo y Energía\|Trabajo y Energía]] - Conceptos energéticos
 >     
-> - > [[Energía Cinética]] - Traslacional y rotacional
+> - > [[Energía Cinética\|Energía Cinética]] - Traslacional y rotacional
 >     
 >
 

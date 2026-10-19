@@ -23,20 +23,7 @@
 
 > [!note] Componentes de la Notación Sigma 📊
 > ### Elementos Básicos
-> ```mermaid
-> graph TB
->     A[Sumatoria: Σ] --> B[Límite Superior<br/>b]
->     A --> C[Límite Inferior<br/>i = a]
->     A --> D[Término General<br/>fi]
->     E[Interpretación] --> F[Suma desde i = a<br/>hasta i = b]
->     F --> G[Incluye ambos extremos]
->     H[Ejemplo] --> I[Σi=1 to 5 i² = 1² + 2² + 3² + 4² + 5²<br/>= 1 + 4 + 9 + 16 + 25 = 55]
->     style A fill:#e8f5e8
->     style B fill:#fff3e0
->     style C fill:#e1f5fe
->     style D fill:#f3e5f5
->     style I fill:#ffcdd2
-> ```
+> ![[Diagramas/03_-_Propiedades_de_la_Sumatoria_01.svg\|Diagramas/03_-_Propiedades_de_la_Sumatoria_01.svg]]
 > 
 > ### Casos Especiales
 > - **Suma vacía**: Si a > b, entonces Σ = 0
@@ -114,15 +101,7 @@
 
 > [!success] Aplicaciones en Cálculo 🎯
 > ### En Límites y Definición de Integral
-> ```mermaid
-> graph LR
->     A[Sumas de Riemann] --> B["∫f(x)dx = lim n→∞ Σ f(x)Δx"]
->     C[Sucesiones] --> D[Convergencia de series infinitas]
->     E[Análisis] --> F[Aproximaciones numéricas]
->     style A fill:#e8f5e8
->     style C fill:#fff3e0
->     style E fill:#e1f5fe
-> ```
+> ![[Diagramas/03_-_Propiedades_de_la_Sumatoria_02.svg\|Diagramas/03_-_Propiedades_de_la_Sumatoria_02.svg]]
 > 
 > ### En Cálculo Integral
 > - **Sumas de Riemann**: $\int_a^b f(x)dx = \lim_{n \to \infty} \sum_{i=1}^{n} fx_i\Delta x$
@@ -193,24 +172,24 @@
 ## Referencias
 
 > [!quote] Notas Relacionadas
-> - [[01 - Límites al Infinito y Sucesiones]]
-> - [[01 - Integral de Riemann]]
-> - [[04 - Teorema Fundamental del Cálculo]]
-> - [[01 - Métodos de Integración Definida]]
+> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/IV – Al infinito y sucesiones/Límites Infinitos y al Infinito/01 - Límites al Infinito y Sucesiones\|01 - Límites al Infinito y Sucesiones]]
+> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/01 - Integral de Riemann\|01 - Integral de Riemann]]
+> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/04 - Teorema Fundamental del Cálculo\|04 - Teorema Fundamental del Cálculo]]
+> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/III - Integrales Definidas/01 - Métodos de Integración Definida\|01 - Métodos de Integración Definida]]
 
 ## Notas Recomendadas
 
 > [!info] Prerrequisitos
-> - [[Variables y Tipos de Datos]] (conceptos de índices)
-> - [[01 - Funciones]] (concepto de función)
+> - [[Variables y Tipos de Datos\|Variables y Tipos de Datos]] (conceptos de índices)
+> - [[Universidad/3er Semestre/Matemáticas Discretas/Unidad 2 - Funciones y Relaciones/01 - Funciones\|01 - Funciones]] (concepto de función)
 > - Álgebra básica
 >
 
 > [!tip] Continuación del Tema
-> - [[01 - Límites al Infinito y Sucesiones]]
-> - [[01 - Integral de Riemann]]
-> - [[Series y Convergencia]]
-> - [[01 - Integración Numérica]]
+> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 01 - Límites/IV – Al infinito y sucesiones/Límites Infinitos y al Infinito/01 - Límites al Infinito y Sucesiones\|01 - Límites al Infinito y Sucesiones]]
+> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/01 - Integral de Riemann\|01 - Integral de Riemann]]
+> - [[Series y Convergencia\|Series y Convergencia]]
+> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/V - Otras Técnicas/01 - Integración Numérica\|01 - Integración Numérica]]
 
 ---
 

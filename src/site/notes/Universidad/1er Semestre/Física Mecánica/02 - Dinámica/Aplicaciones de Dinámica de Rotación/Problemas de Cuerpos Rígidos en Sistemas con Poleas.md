@@ -87,22 +87,7 @@
 
 > [!success] 🔗 Estrategia de Resolución
 > 
-> ```mermaid
-> graph TD
->     A[Identificar Sistema] -->|1| B[Diagrama de Cuerpo Libre]
->     B -->|2| C[Ecuaciones de Movimiento]
->     C -->|3| D[Condiciones de Enlace]
->     D -->|4| E[Sistema de Ecuaciones]
->     E -->|5| F[Resolución Matemática]
->     F -->|6| G[Verificación Física]
->     style A fill:#e1f5fe
->     style B fill:#f3e5f5
->     style C fill:#fff3e0
->     style D fill:#e8f5e8
->     style E fill:#fce4ec
->     style F fill:#f1f8e9
->     style G fill:#e0f2f1
-> ```
+> ![[Diagramas/Problemas_de_Cuerpos_Rígidos_en_Sistemas_con_Poleas_01.svg\|Diagramas/Problemas_de_Cuerpos_Rígidos_en_Sistemas_con_Poleas_01.svg]]
 >
 
 > [!note] **Ecuaciones de Conservación** 📐
@@ -420,20 +405,20 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Dinámica de Rotación]] - Fundamentos teóricos
-> - [[Momento de Inercia]] - Cálculos detallados
-> - [[Torque y Equilibrio Rotacional]] - Conceptos base
-> - [[Segunda ley de Newton para Rotación]] - Ecuaciones fundamentales
-> - [[Problemas de Cuerdas y Poleas ideales]] - Casos simplificados
+> - [[Dinámica de Rotación\|Dinámica de Rotación]] - Fundamentos teóricos
+> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Momento de Inercia\|Momento de Inercia]] - Cálculos detallados
+> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Torque y Equilibrio Rotacional\|Torque y Equilibrio Rotacional]] - Conceptos base
+> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Segunda ley de Newton para Rotación\|Segunda ley de Newton para Rotación]] - Ecuaciones fundamentales
+> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Aplicaciones de Dinámica de Traslación/Problemas de Cuerdas y Poleas ideales\|Problemas de Cuerdas y Poleas ideales]] - Casos simplificados
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Leyes de Newton]] - Base de la dinámica
-> - [[Fuerzas y Diagramas de Cuerpo Libre]] - Análisis de fuerzas
-> - [[Vectores]] - Manejo matemático
-> - [[Cinemática Rotacional]] - Movimiento angular
+> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]] - Base de la dinámica
+> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Fuerzas y Diagramas de Cuerpo Libre\|Fuerzas y Diagramas de Cuerpo Libre]] - Análisis de fuerzas
+> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Manejo matemático
+> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Rotacional\|Cinemática Rotacional]] - Movimiento angular
 
 ---
 

@@ -39,17 +39,7 @@
 >
 >**Conclusión**: $\int_a^b f(x) dx \leq \int_a^b g(x) dx$ ✓
 
-```mermaid
-flowchart TD
-    A["f(x) ≤ g(x) en [a,b]"] --> B["h(x) = g(x) - f(x) ≥ 0"]
-    B --> C["∫h(x)dx ≥ 0"]
-    C --> D["∫[g(x) - f(x)]dx ≥ 0"]
-    D --> E["∫g(x)dx - ∫f(x)dx ≥ 0"]
-    E --> F["∫f(x)dx ≤ ∫g(x)dx"]
-    
-    style F fill:#45b7d1
-    style A fill:#96ceb4
-```
+![[Diagramas/03_-_Teoremas_de_Comparación_y_Desigualdades_01.svg\|Diagramas/03_-_Teoremas_de_Comparación_y_Desigualdades_01.svg]]
 
 ## 📊 Corolarios Importantes
 
@@ -152,25 +142,7 @@ flowchart TD
 >**Convergencia**: Si $\int g(x) dx$ converge → $\int f(x) dx$ converge
 >**Divergencia**: Si $\int f(x) dx$ diverge → $\int g(x) dx$ diverge
 
-```mermaid
-graph TD
-    A["f(x) y g(x) funciones"] --> B{"¿Tipo de comparación?"}
-    
-    B -->|"Directa"| C["0 ≤ f(x) ≤ g(x)"]
-    B -->|"Límite"| D["lim f(x)/g(x) = L"]
-    
-    C --> E["Si ∫g converge → ∫f converge"]
-    C --> F["Si ∫f diverge → ∫g diverge"]
-    
-    D --> G{"Valor de L?"}
-    G -->|"0 < L < ∞"| H["Misma convergencia"]
-    G -->|"L = 0"| I["∫g converge → ∫f converge"]
-    G -->|"L = ∞"| J["∫g diverge → ∫f diverge"]
-    
-    style H fill:#96ceb4
-    style E fill:#45b7d1
-    style F fill:#ff6b6b
-```
+![[Diagramas/03_-_Teoremas_de_Comparación_y_Desigualdades_02.svg\|Diagramas/03_-_Teoremas_de_Comparación_y_Desigualdades_02.svg]]
 
 ## 🌟 Funciones de Referencia Estándar
 
@@ -355,22 +327,22 @@ graph TD
 > 
 > 
 > ### 🔗 Notas Relacionadas
-> - [[02 - Propiedades de la Integral]] - Base algebraica para las desigualdades
-> - [[03 - Teoremas Especiales para Integrales Definidas]] - Herramienta para acotaciones
-> - [[01 - Integral de Riemann]] - Definición formal subyacente
-> - [[04 - Teorema Fundamental del Cálculo]] - Evaluación exacta cuando es posible
+> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/02 - Propiedades de la Integral\|02 - Propiedades de la Integral]] - Base algebraica para las desigualdades
+> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/III - Integrales Definidas/03 - Teoremas Especiales para Integrales Definidas\|03 - Teoremas Especiales para Integrales Definidas]] - Herramienta para acotaciones
+> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/01 - Integral de Riemann\|01 - Integral de Riemann]] - Definición formal subyacente
+> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/I - Fundamentos Teóricos/04 - Teorema Fundamental del Cálculo\|04 - Teorema Fundamental del Cálculo]] - Evaluación exacta cuando es posible
 > 
 > ### 📖 Para Profundizar
-> - [[01 - Integrales Impropias]] - Aplicación principal de estos teoremas
-> - [[Criterios de Convergencia]] - Extensión de los conceptos de comparación
-> - [[Series Infinitas]] - Análisis de convergencia análogo
-> - [[Análisis Asintótico]] - Comportamiento de funciones en límites
+> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/IV - Integrales Impropias y Avanzadas/01 - Integrales Impropias\|01 - Integrales Impropias]] - Aplicación principal de estos teoremas
+> - [[Criterios de Convergencia\|Criterios de Convergencia]] - Extensión de los conceptos de comparación
+> - [[Series Infinitas\|Series Infinitas]] - Análisis de convergencia análogo
+> - [[Análisis Asintótico\|Análisis Asintótico]] - Comportamiento de funciones en límites
 > 
 > ### 🎯 Notas Recomendadas
-> - [[Funciones de Referencia Estándar]] - Catálogo de funciones para comparación
-> - [[Estimación de Integrales]] - Aplicaciones prácticas de acotación
-> - [[Métodos de Aproximación]] - Técnicas numéricas complementarias
-> - [[Desigualdades Clásicas]] - Herramientas auxiliares (Cauchy-Schwarz, Hölder, etc.)
+> - [[Funciones de Referencia Estándar\|Funciones de Referencia Estándar]] - Catálogo de funciones para comparación
+> - [[Estimación de Integrales\|Estimación de Integrales]] - Aplicaciones prácticas de acotación
+> - [[Métodos de Aproximación\|Métodos de Aproximación]] - Técnicas numéricas complementarias
+> - [[Desigualdades Clásicas\|Desigualdades Clásicas]] - Herramientas auxiliares (Cauchy-Schwarz, Hölder, etc.)
 > 
 
 ---

@@ -25,12 +25,7 @@
 
 > [!tip] 🚗 **Persecución Clásica (Velocidades Constantes)** **Situación:** Ambos móviles mantienen velocidades constantes durante toda la persecución
 > 
-> ```mermaid
-> graph LR
->     A[Objetivo con<br/>ventaja inicial] -->|v₂| C[Punto de<br/>Alcance]
->     B[Perseguidor<br/>desde origen] -->|v₁ > v₂| C
->     style C fill:#ff9999
-> ```
+> ![[Diagramas/Problemas_de_Persecución_01.svg\|Diagramas/Problemas_de_Persecución_01.svg]]
 > 
 > **Ejemplos típicos:**
 > 
@@ -42,14 +37,7 @@
 
 > [!warning] 🚀 **Persecución con Aceleración** **Situación:** El perseguidor acelera desde reposo o velocidad inicial menor
 > 
-> ```mermaid
-> graph TB
->     subgraph "Fases de la Persecución"
->         A[Fase 1:<br/>Objetivo se aleja] --> B[Fase 2:<br/>Perseguidor iguala velocidad]
->         B --> C[Fase 3:<br/>Perseguidor alcanza]
->     end
->     style C fill:#90EE90
-> ```
+> ![[Diagramas/Problemas_de_Persecución_02.svg\|Diagramas/Problemas_de_Persecución_02.svg]]
 > 
 > **Ejemplos típicos:**
 > 
@@ -80,12 +68,7 @@
 
 > [!note] 🚌 **Problemas de Alcance (Caso Especial)** **Situación:** Similar a persecución, pero el móvil más rápido **sale después** que el más lento desde el **mismo punto**
 > 
-> ```mermaid
-> graph LR
->     A[t=0: Móvil lento sale] -->|v₁| B[t=τ: Móvil rápido sale]
->     B -->|v₂ > v₁| C[t=T: Alcance]
->     style C fill:#FFD700
-> ```
+> ![[Diagramas/Problemas_de_Persecución_03.svg\|Diagramas/Problemas_de_Persecución_03.svg]]
 > 
 > **Diferencia clave con persecución:**
 > 
@@ -262,22 +245,7 @@
 
 > [!note] 📈 **Gráficos Posición vs Tiempo**
 > 
-> ```mermaid
-> graph TB
->     subgraph "Persecución Clásica"
->         A[t=0: Objetivo tiene ventaja] --> B[Las pendientes indican velocidades]
->         B --> C[Intersección = Alcance]
->     end
->     subgraph "Persecución con Aceleración"
->         D[Línea recta: Movimiento uniforme] --> E[Parábola: Movimiento acelerado]
->         E --> F[Intersección: Momento de alcance]
->     end
->     subgraph "Interpretación"
->         G[Pendiente = Velocidad instantánea]
->         H[Curvatura = Aceleración]
->         I[Intersección = Misma posición]
->     end
-> ```
+> ![[Diagramas/Problemas_de_Persecución_04.svg\|Diagramas/Problemas_de_Persecución_04.svg]]
 > 
 > **🎯 Puntos clave en el gráfico:**
 > 
@@ -380,10 +348,10 @@
 
 > [!quote] 📚 **Notas Relacionadas**
 > 
-> - [[Problemas de Encuentro]] - Casos donde no hay ventaja inicial
-> - [[Cinemática Traslacional]] - Ecuaciones fundamentales
-> - [[Cinemática Traslacional#📈 Tipos de Movimiento Traslacional]] - Para casos con aceleración
-> - [[Análisis Gráfico del Movimiento]] - Representación visual
+> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Aplicaciones de Cinemática Traslacional/Problemas de Encuentro\|Problemas de Encuentro]] - Casos donde no hay ventaja inicial
+> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Traslacional\|Cinemática Traslacional]] - Ecuaciones fundamentales
+> - [[Universidad/1er Semestre/Física Mecánica/01 - Cinemática/Cinemática Traslacional#📈 Tipos de Movimiento Traslacional\|Cinemática Traslacional#📈 Tipos de Movimiento Traslacional]] - Para casos con aceleración
+> - [[Análisis Gráfico del Movimiento\|Análisis Gráfico del Movimiento]] - Representación visual
 
 ---
 #persecución #alcance #cinemática #movimiento-relativo #velocidad-superior #interceptación #análisis-temporal

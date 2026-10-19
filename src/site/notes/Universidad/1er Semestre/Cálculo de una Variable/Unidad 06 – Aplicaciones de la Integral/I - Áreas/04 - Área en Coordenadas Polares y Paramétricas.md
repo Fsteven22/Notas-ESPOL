@@ -34,21 +34,7 @@
 > 
 > **Paso 5**: Aplicar la fórmula $A = \frac{1}{2}\int_\alpha^\beta [r_{\text{ext}}^2 - r_{\text{int}}^2] d\theta$
 > 
-> ```mermaid
-> flowchart TD
->     A["Curvas polares r₁(θ), r₂(θ)"] --> B["Encontrar intersecciones"]
->     B --> C["f(θ) = g(θ)"]
->     C --> D["Puntos de intersección: θ₁, θ₂, ..."]
->     D --> E["Determinar límites de integración"]
->     E --> F["¿r₁(θ) ≥ r₂(θ) en el intervalo?"]
->     F -->|Sí| G["A = ½∫[r₁²(θ) - r₂²(θ)]dθ"]
->     F -->|No| H["A = ½∫[r₂²(θ) - r₁²(θ)]dθ"]
->     G --> I["Evaluar la integral"]
->     H --> I
->     I --> J["Área total"]
->     style J fill:#45b7d1
->     style I fill:#96ceb4
-> ```
+> ![[Diagramas/04_-_Área_en_Coordenadas_Polares_y_Paramétricas_01.svg\|Diagramas/04_-_Área_en_Coordenadas_Polares_y_Paramétricas_01.svg]]
 
 ### 🧪 Ejemplos en Coordenadas Polares
 
@@ -268,25 +254,25 @@
 
 ### 🔗 Temas Relacionados
 
-- [[02 - Área entre Curvas]] - Concepto base en coordenadas rectangulares
-- [[02 - Coordenadas polares]] - Sistema de coordenadas fundamental
-- [[Curvas Paramétricas]] - Representación paramétrica de curvas
-- [[Teorema de Green]] - Método alternativo usando teoremas vectoriales
-- [[02 - Transformaciones entre Coordenadas]] - Cambios entre sistemas
+- [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 06 – Aplicaciones de la Integral/I - Áreas/02 - Área entre Curvas\|02 - Área entre Curvas]] - Concepto base en coordenadas rectangulares
+- [[Universidad/Preuniversitario/Matemáticas/Unidad 6 - Complejos y Polares/II - Coordenadas Polares/02 - Coordenadas polares\|02 - Coordenadas polares]] - Sistema de coordenadas fundamental
+- [[Curvas Paramétricas\|Curvas Paramétricas]] - Representación paramétrica de curvas
+- [[Teorema de Green\|Teorema de Green]] - Método alternativo usando teoremas vectoriales
+- [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 2 - Superficies y Coordenadas/II - Sistemas de Coordenadas/02 - Transformaciones entre Coordenadas\|02 - Transformaciones entre Coordenadas]] - Cambios entre sistemas
 
 ### 📖 Para Profundizar
 
-- [[Integrales Dobles en Polares]] - Extensión a regiones más generales
-- [[Cálculo Vectorial]] - Aplicaciones del teorema de Green
-- [[Geometría Diferencial]] - Curvas en espacios más generales
-- [[Análisis Complejo]] - Representación de curvas usando números complejos
+- [[Integrales Dobles en Polares\|Integrales Dobles en Polares]] - Extensión a regiones más generales
+- [[Universidad/2do Semestre/Cálculo Vectorial/Cálculo Vectorial\|Cálculo Vectorial]] - Aplicaciones del teorema de Green
+- [[Geometría Diferencial\|Geometría Diferencial]] - Curvas en espacios más generales
+- [[Análisis Complejo\|Análisis Complejo]] - Representación de curvas usando números complejos
 
 ### 🎯 Aplicaciones
 
-- [[Centros de Masa en Polares]] - Usando estas técnicas para centroides
-- [[Momento de Inercia]] - Aplicaciones en física e ingeniería
-- [[Diseño de Engranajes]] - Aplicaciones industriales de curvas especiales
-- [[Astronomía y Órbitas]] - Cálculos orbitales usando coordenadas polares
+- [[Centros de Masa en Polares\|Centros de Masa en Polares]] - Usando estas técnicas para centroides
+- [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Rotación/Momento de Inercia\|Momento de Inercia]] - Aplicaciones en física e ingeniería
+- [[Diseño de Engranajes\|Diseño de Engranajes]] - Aplicaciones industriales de curvas especiales
+- [[Astronomía y Órbitas\|Astronomía y Órbitas]] - Cálculos orbitales usando coordenadas polares
 
 ### 🏷️ Tags
 

@@ -83,24 +83,7 @@
 
 > [!success] 🔗 Descomposición de Fuerzas en Planos Inclinados
 > 
-> ```mermaid
-> graph TD
->     A[Peso mg] --> B[Componente Paralela]
->     A --> C[Componente Perpendicular]
->     B --> D[mg sin θ]
->     B --> E[Causa movimiento]
->     C --> F[mg cos θ]
->     C --> G[Equilibra con Normal]
->     H[Fricción f] --> I[Paralela al plano]
->     H --> J[Opuesta al movimiento]
->     K[Normal N] --> L[Perpendicular al plano]
->     K --> M[N = mg cos θ + otras fuerzas ⊥]
->     style A fill:#e1f5fe
->     style B fill:#f3e5f5
->     style C fill:#e8f5e8
->     style H fill:#fff3e0
->     style K fill:#fce4ec
-> ```
+> ![[Diagramas/Problemas_de_Planos_Inclinados_01.svg\|Diagramas/Problemas_de_Planos_Inclinados_01.svg]]
 >
 
 > [!note] **Relaciones Trigonométricas Esenciales** 📐
@@ -313,18 +296,18 @@
 
 > [!quote] **Notas Relacionadas**
 > 
-> - [[Fuerzas y Diagramas de Cuerpo Libre]] - Base del análisis de fuerzas
-> - [[Problemas con rozamiento]] - Fricción en superficies inclinadas
-> - [[Leyes de Newton]] - Fundamentos dinámicos
-> - [[Trabajo y Energía]] - Métodos alternativos de solución
+> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Fuerzas y Diagramas de Cuerpo Libre\|Fuerzas y Diagramas de Cuerpo Libre]] - Base del análisis de fuerzas
+> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Aplicaciones de Dinámica de Traslación/Problemas con rozamiento\|Problemas con rozamiento]] - Fricción en superficies inclinadas
+> - [[Universidad/1er Semestre/Física Mecánica/02 - Dinámica/Dinámica de Traslación/Leyes de Newton\|Leyes de Newton]] - Fundamentos dinámicos
+> - [[Universidad/1er Semestre/Física Mecánica/03 - Trabajo y Energía/Trabajo y Energía\|Trabajo y Energía]] - Métodos alternativos de solución
 
 ## 📚 Notas Recomendadas
 
 > [!note] **Prerrequisitos**
 > 
-> - [[Vectores]] - Descomposición de fuerzas
-> - [[Trigonometría Básica]] - Funciones trigonométricas
-> - [[Dinámica de Traslación]] - Aplicación de las leyes de Newton
+> - [[Universidad/1er Semestre/Física Mecánica/Fundamentos de Física Mecánica/Vectores\|Vectores]] - Descomposición de fuerzas
+> - [[Trigonometría Básica\|Trigonometría Básica]] - Funciones trigonométricas
+> - [[Dinámica de Traslación\|Dinámica de Traslación]] - Aplicación de las leyes de Newton
 
 ---
 
