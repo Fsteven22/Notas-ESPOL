@@ -32,6 +32,9 @@
 - [[Universidad/2do Semestre/Comunicación/Unidad 3 - Redacción/01 - Texto expositivo, claridad y APA\|01 - Texto expositivo, claridad y APA]]
 - [[Universidad/2do Semestre/Comunicación/Unidad 3 - Redacción/02 - Informes técnicos y ejecutivos, síntesis y paráfrasis\|02 - Informes técnicos y ejecutivos, síntesis y paráfrasis]]
 - [[Universidad/2do Semestre/Comunicación/Unidad 3 - Redacción/03 - IA ética y prompts para redacción\|03 - IA ética y prompts para redacción]]
+- [[Universidad/2do Semestre/Comunicación/Unidad 3 - Redacción/04 - Precisión y claridad en la redacción\|04 - Precisión y claridad en la redacción]]
+- [[Universidad/2do Semestre/Comunicación/Unidad 3 - Redacción/05 - Concordancia y cohesión en la redacción\|05 - Concordancia y cohesión en la redacción]]
+- [[Universidad/2do Semestre/Comunicación/Unidad 3 - Redacción/06 - Normas APA, citación y referencias\|06 - Normas APA, citación y referencias]]
 
 ---
 
@@ -49,6 +52,9 @@
 - [[Unidad 0 - Guias y Ejercicios/Políticas de la asignatura PAO 2_2026_PRESENCIAL\|Políticas PAO 2-2026.pdf]]
 - [[Unidad 0 - Guias y Ejercicios/Planificación Académica actualizada_PAO 2_2026 - Estudiante\|Planificación PAO 2-2026.pdf]]
 - [[Universidad/2do Semestre/Comunicación/Unidad 0 - Guias y Ejercicios/00 - Leeme Unidad 0\|00 - Leeme Unidad 0]]
+
+> [!tip] 🆕 Talleres convertidos a nota
+> Los PDFs de los talleres de redacción (*Precisión y claridad*, *Concordancia y cohesión* y *Normas APA*) ya viven como notas temáticas en la **Unidad III** (04–06). Los PDFs originales siguen embebidos en el [[Universidad/2do Semestre/Comunicación/Unidad 0 - Guias y Ejercicios/00 - Leeme Unidad 0\|Leeme de Unidad 0]].
 
 ---
 

@@ -37,6 +37,17 @@
 
 ---
 
+## 📝 Talleres de redacción (ya convertidos a nota)
+
+> [!success] 🆕 Resumidos y con diagramas
+> Estos tres PDFs de la carpeta (*Precisión y claridad en la redacción.pdf*, *Concordancia y cohesión.pdf*, *Taller Normas APA Básico.pdf*) ya están procesados como notas temáticas con SVGs, ejercicios y flashcards. Viven en la carpeta de la **Unidad 3 - Redacción** (renumeradas 04–06), porque refuerzan la Evaluación 3 y la Evaluación 4:
+>
+> - [[Universidad/2do Semestre/Comunicación/Unidad 3 - Redacción/04 - Precisión y claridad en la redacción\|04 - Precisión y claridad en la redacción]]
+> - [[Universidad/2do Semestre/Comunicación/Unidad 3 - Redacción/05 - Concordancia y cohesión en la redacción\|05 - Concordancia y cohesión en la redacción]]
+> - [[Universidad/2do Semestre/Comunicación/Unidad 3 - Redacción/06 - Normas APA, citación y referencias\|06 - Normas APA, citación y referencias]]
+
+---
+
 ## 🎬 Capturas de clase (PDF por sesión)
 
 <iframe src="/img/user/Universidad/2do%20Semestre/Comunicaci%C3%B3n/Unidad%200%20-%20Guias%20y%20Ejercicios/Clase%20S3%20-%20Comunicaci%C3%B3n%20estrat%C3%A9gica%20(capturas).pdf" width="100%" height="900px" title="Clase S3 - Comunicación estratégica (capturas).pdf" style="border:1px solid #ccc;"></iframe>
