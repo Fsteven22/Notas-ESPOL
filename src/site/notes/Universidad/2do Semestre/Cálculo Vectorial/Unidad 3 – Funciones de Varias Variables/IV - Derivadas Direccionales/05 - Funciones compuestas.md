@@ -289,40 +289,7 @@
 
 ## 🎨 Representación Gráfica del Flujo de Derivadas
 
-```mermaid
-graph TB
-    subgraph "Espacio Original"
-        A[x ∈ ℝⁿ]
-    end
-    
-    subgraph "Espacio Intermedio"
-        B[y = g'x' ∈ ℝᵐ]
-    end
-    
-    subgraph "Espacio Final"
-        C[z = f'y' ∈ ℝᵖ]
-    end
-    
-    A -->|"g: ℝⁿ → ℝᵐ"| B
-    B -->|"f: ℝᵐ → ℝᵖ"| C
-    A -.->|"h = f ∘ g: ℝⁿ → ℝᵖ"| C
-    
-    subgraph "Derivadas"
-        D["J_g(x) [m×n]"]
-        E["J_f(y) [p×m]"]
-        F["J_h(x) = J_f · J_g [p×n]"]
-    end
-    
-    D -->|Multiplica| F
-    E -->|Multiplica| F
-    
-    style A fill:#e3f2fd
-    style B fill:#fff3e0
-    style C fill:#e8f5e9
-    style D fill:#ffebee
-    style E fill:#fce4ec
-    style F fill:#f3e5f5
-```
+![[Diagramas/05_-_Funciones_compuestas_01.svg\|Diagramas/05_-_Funciones_compuestas_01.svg]]
 
 ## 🔬 Derivadas Parciales en Composiciones
 
@@ -2274,30 +2241,30 @@ graph TB
 > 
 > **📖 Prerequisites (Prerrequisitos):**
 > 
-> - [[06 – Matriz Jacobiana]] - Fundamento de la regla de la cadena
-> - [[02 - Vectores en R3]] - Notación vectorial y operaciones
-> - [[Derivadas Parciales]] - Base de la derivación multivariable
-> - [[Álgebra de Matrices]] - Multiplicación matricial
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 3 – Funciones de Varias Variables/III – Límites, Continuidad y Primeras Derivadas/06 – Matriz Jacobiana\|06 – Matriz Jacobiana]] - Fundamento de la regla de la cadena
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/I – Fundamentos del Espacio Tridimensional/02 - Vectores en R3\|02 - Vectores en R3]] - Notación vectorial y operaciones
+> - [[Universidad/1er Semestre/Física Mecánica/Practicas De Laboratorio/Prerrequisitos de Talleres y Reportes/Herramientas Matemáticas/Derivadas Parciales\|Derivadas Parciales]] - Base de la derivación multivariable
+> - [[Álgebra de Matrices\|Álgebra de Matrices]] - Multiplicación matricial
 > 
 > **➡️ Extensiones directas:**
 > 
-> - [[05 - Diferencial Total]] - Aproximación lineal de funciones compuestas
-> - [[04 - Teorema de la Función Implícita]] - Derivadas de ecuaciones implícitas
-> - [[Teorema de la Función Inversa]] - Relación con derivadas de inversas
+> - [[05 - Diferencial Total\|05 - Diferencial Total]] - Aproximación lineal de funciones compuestas
+> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 3 – Funciones de Varias Variables/IV - Derivadas Direccionales/04 - Teorema de la Función Implícita\|04 - Teorema de la Función Implícita]] - Derivadas de ecuaciones implícitas
+> - [[Teorema de la Función Inversa\|Teorema de la Función Inversa]] - Relación con derivadas de inversas
 > 
 > **🔧 Aplicaciones:**
 > 
-> - [[Backpropagation en Redes Neuronales]] - Algoritmo de entrenamiento
-> - [[Optimización con Gradiente Descendente]] - Minimización de funciones
-> - [[Dinámica de Sistemas]] - Ecuaciones diferenciales acopladas
-> - [[Cambio de Variable en Integrales]] - Teorema del cambio de variable
+> - [[Backpropagation en Redes Neuronales\|Backpropagation en Redes Neuronales]] - Algoritmo de entrenamiento
+> - [[Optimización con Gradiente Descendente\|Optimización con Gradiente Descendente]] - Minimización de funciones
+> - [[Dinámica de Sistemas\|Dinámica de Sistemas]] - Ecuaciones diferenciales acopladas
+> - [[Universidad/1er Semestre/Cálculo de una Variable/Unidad 05 - Integrales/II - Integrales Indefinidas/Técnicas de Integración/Cambio de Variable en Integrales\|Cambio de Variable en Integrales]] - Teorema del cambio de variable
 > 
 > **🌐 Temas relacionados:**
 > 
-> - [[Formas Diferenciales]] - Generalización geométrica
-> - [[Cálculo Tensorial]] - Derivadas en variedades
-> - [[Automatic Differentiation]] - Implementación computacional
-> - [[Análisis Funcional]] - Derivadas de Fréchet
+> - [[Formas Diferenciales\|Formas Diferenciales]] - Generalización geométrica
+> - [[Cálculo Tensorial\|Cálculo Tensorial]] - Derivadas en variedades
+> - [[Automatic Differentiation\|Automatic Differentiation]] - Implementación computacional
+> - [[Análisis Funcional\|Análisis Funcional]] - Derivadas de Fréchet
 > 
 > ## 📖 Tabla Resumen
 > 

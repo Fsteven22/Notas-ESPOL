@@ -852,33 +852,7 @@
 
 ## 🎨 Diagrama Conceptual
 
-```mermaid
-graph TB
-    A[Sistemas de Coordenadas] --> B[Cartesianas]
-    A --> C[Cilíndricas]
-    A --> D[Esféricas]
-    
-    B --> B1["(x, y, z)"]
-    C --> C1["(ρ, φ, z)"]
-    D --> D1["(r, θ, φ)"]
-    
-    B1 <-->|"ρ=√(x²+y²)<br>φ=atan2(y,x)<br>z=z"| C1
-    B1 <-->|"r=√(x²+y²+z²)<br>θ=arccos(z/r)<br>φ=atan2(y,x)"| D1
-    C1 <-->|"r=√(ρ²+z²)<br>θ=arctan(ρ/z)<br>φ=φ"| D1
-    
-    E[Aplicaciones] --> E1[Cilíndricas:<br>Cables, tuberías]
-    E --> E2[Esféricas:<br>Planetas, átomos]
-    
-    F[Superficies] --> F1[Cilíndricas:<br>Cilindros, planos]
-    F --> F2[Esféricas:<br>Esferas, conos]
-    
-    style A fill:#e3f2fd
-    style B fill:#c8e6c9
-    style C fill:#ffe082
-    style D fill:#ffccbc
-    style E fill:#f3e5f5
-    style F fill:#b2dfdb
-```
+![[Diagramas/02_-_Transformaciones_entre_Coordenadas_01.svg]]
 
 ## 💡 Consejos y Errores Comunes
 
@@ -940,27 +914,27 @@ graph TB
 > 
 > **Prerrequisitos:**
 > 
-> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/I – Fundamentos del Espacio Tridimensional/01 - Sistema de referencia espacial en R3\|01 - Sistema de referencia espacial en R3]] - Base de coordenadas cartesianas
-> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 1 - Geometría Analítica en ℝ³/I – Fundamentos del Espacio Tridimensional/02 - Vectores en R3\|02 - Vectores en R3]] - Magnitudes y operaciones
-> - [[Trigonometría\|Trigonometría]] - Funciones seno, coseno, arctan
+> - [[01 - Sistema de referencia espacial en R3]] - Base de coordenadas cartesianas
+> - [[02 - Vectores en R3]] - Magnitudes y operaciones
+> - [[Trigonometría]] - Funciones seno, coseno, arctan
 > 
 > **Temas relacionados:**
 > 
-> - [[01.3 Distancia en el Espacio\|01.3 Distancia en el Espacio]] - Fórmulas en diferentes sistemas
-> - [[Universidad/2do Semestre/Cálculo Vectorial/Unidad 6 - Integrales Triples y Teoremas/I - Integrales Múltiples/01 – Integrales múltiples\|01 – Integrales múltiples]] - dV en diferentes coordenadas
-> - [[Campos Vectoriales\|Campos Vectoriales]] - Representación en distintos sistemas
+> - [[01.3 Distancia en el Espacio]] - Fórmulas en diferentes sistemas
+> - [[01 – Integrales múltiples]] - dV en diferentes coordenadas
+> - [[Campos Vectoriales]] - Representación en distintos sistemas
 > 
 > **Aplicaciones:**
 > 
-> - [[Electromagnetismo\|Electromagnetismo]] - Coordenadas cilíndricas y esféricas
-> - [[Mecánica Celeste\|Mecánica Celeste]] - Órbitas planetarias (esféricas)
-> - [[Ecuaciones Diferenciales\|Ecuaciones Diferenciales]] - Problemas con simetría
+> - [[Electromagnetismo]] - Coordenadas cilíndricas y esféricas
+> - [[Mecánica Celeste]] - Órbitas planetarias (esféricas)
+> - [[Ecuaciones Diferenciales]] - Problemas con simetría
 > 
 > **Temas avanzados:**
 > 
-> - [[Factores de Escala\|Factores de Escala]] - Métricas en coordenadas curvilíneas
-> - [[Operadores Diferenciales\|Operadores Diferenciales]] - ∇, ∇², en diferentes sistemas
-> - [[Coordenadas Generalizadas\|Coordenadas Generalizadas]] - Mecánica lagrangiana
+> - [[Factores de Escala]] - Métricas en coordenadas curvilíneas
+> - [[Operadores Diferenciales]] - ∇, ∇², en diferentes sistemas
+> - [[Coordenadas Generalizadas]] - Mecánica lagrangiana
 
 ---
 
